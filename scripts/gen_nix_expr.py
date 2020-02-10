@@ -61,7 +61,7 @@ def main():
     nix_dict = {}
     pkgs = db.Package.select()
     for pkg in pkgs:
-        name = pkg.name
+        name = pkg.name.lower()
         meta = json.loads(pkg.metadata)
         releases_dict = {}
         # iterate over versions of current package
@@ -77,6 +77,8 @@ def main():
                     )
         if releases_dict:
             nix_dict[name] = releases_dict
+    with open("pypi.json", 'w') as f:
+        json.dump(nix_dict, f, indent=2)
     dump_to_nix_expr(split_into_buckets(nix_dict))
 
 

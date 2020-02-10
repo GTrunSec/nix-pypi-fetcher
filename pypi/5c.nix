@@ -1,1514 +1,18 @@
 {
-  "ADRpy" =  {
-    "0.0.1" =  {
-      "sha256" =  "b49b174ecb8486b02267dbee65969cbd36958b84d48aa302cbc3642e03c228d2";
-      "url" =  "https://files.pythonhosted.org/packages/ca/79/b12f8fdd95183dc10acdc5aff03d4621d9139fa2bd05fe54020f632eaaea/ADRpy-0.0.1.tar.gz";
-    };
-    "0.0.10" =  {
-      "sha256" =  "3a537c7a11b339c8268217de04667412b9323cb4b9901db9b043d5449b44ec59";
-      "url" =  "https://files.pythonhosted.org/packages/1a/37/4dbd5e3b0793f336ec590760282c79668d7b73d558676e077ea359330cfc/ADRpy-0.0.10.tar.gz";
-    };
-    "0.0.11" =  {
-      "sha256" =  "a65ee6248dc32e3ecb1e562d4144cb4f6960768d73330fa4958ed1788d78ede4";
-      "url" =  "https://files.pythonhosted.org/packages/53/7d/e173f39ccc742a170b58cc61c43729a60e147930d2b0c9ce44fa298917f8/ADRpy-0.0.11.tar.gz";
-    };
-    "0.0.2" =  {
-      "sha256" =  "56d352da815434f62a3edb094a455a2688675b6e6640a0de9194b7cd1ae22b97";
-      "url" =  "https://files.pythonhosted.org/packages/a5/45/c5de39ba827251cc0601d9a0fe9cbe011201dfdf9a039fd93b4e7ad6c0fc/ADRpy-0.0.2.tar.gz";
-    };
-    "0.0.3" =  {
-      "sha256" =  "d34a0ef11510d60297db5bfc0941e48220451068a37489823f2b95227a2280ba";
-      "url" =  "https://files.pythonhosted.org/packages/8a/d0/eb1c5ff2609dfe12d8ccae4b62894fa17abca8aa3078bc3e6de3f4b8abee/ADRpy-0.0.3.tar.gz";
-    };
-    "0.0.4" =  {
-      "sha256" =  "3a395dbaa173b79f9264805ab5f8d38897a0c3a7811442b8badf9d0bebe84400";
-      "url" =  "https://files.pythonhosted.org/packages/96/bd/defdc0a042770f2903d2154cd7effaec933692b552898a8cd71fdcdcc566/ADRpy-0.0.4.tar.gz";
-    };
-    "0.0.5" =  {
-      "sha256" =  "526f15251ea2b4f941828a07a3736ed18a1cbf7bed9e37b1b12c49b5dcdc9eaa";
-      "url" =  "https://files.pythonhosted.org/packages/ca/8f/33caf82a4d937fcab7d223d66cef439c1a3c3ad395767d2837ae7abb02dd/ADRpy-0.0.5.tar.gz";
-    };
-    "0.0.6" =  {
-      "sha256" =  "4d560c5dfeefd5a65b49f6513ee4326338a5e6b213f81427c790a9755a78085d";
-      "url" =  "https://files.pythonhosted.org/packages/93/f0/daffad33bc734758e734e1f4e6073cb074e2e6de47c4a60cfed53f884da3/ADRpy-0.0.6.tar.gz";
-    };
-    "0.0.7" =  {
-      "sha256" =  "093f3624fa9610a032fb34a1d9fed2c2d7614db56d0b0e026fec8ce870b8e02c";
-      "url" =  "https://files.pythonhosted.org/packages/6e/88/35e47b109d673988adfc7d0014084dad1189264bb50d61bbdc4e051e8066/ADRpy-0.0.7.tar.gz";
-    };
-    "0.0.8" =  {
-      "sha256" =  "199f1f7ca25e4bd0ff001cb561149c19a786d7cda1da4b170c51d8591c6875e4";
-      "url" =  "https://files.pythonhosted.org/packages/77/bb/b87c20f40a2fd5709acb531f9bbab77b09fc03f474c09cb07c8fb0e3cd50/ADRpy-0.0.8.tar.gz";
-    };
-    "0.0.9" =  {
-      "sha256" =  "403c04b803201d997aff017e5f9faeb26a4e6bd4b76e8d9ad730ba264a051964";
-      "url" =  "https://files.pythonhosted.org/packages/48/e2/cf702a9433c7a5ed511cf7b2dbc1056908b4a63ddecf359c93d21c73fbaa/ADRpy-0.0.9.tar.gz";
-    };
-    "0.1.0" =  {
-      "sha256" =  "5209da0369aa57e483c6b8a43930c99891346f4edf1d64f72bb893dd112680f6";
-      "url" =  "https://files.pythonhosted.org/packages/fb/86/d0ece2d3eb96a1c4a7b7a44e808a249bd498304e1cf77b9408d04ff28dc1/ADRpy-0.1.0.tar.gz";
-    };
-    "0.1.1" =  {
-      "sha256" =  "478a4ce9cc6e37f0d4258a17a1e49c978bda6852cef95514f9a72ee9be356b96";
-      "url" =  "https://files.pythonhosted.org/packages/4d/8e/7b81446418cc0ebda742a9768ad944fa84f55b7123f0107996cc089e4518/ADRpy-0.1.1.tar.gz";
-    };
-    "0.1.10" =  {
-      "sha256" =  "76080ceea21a9bb318b7e535084ccfa9bae1524ea5630ec49d040f3e604450e9";
-      "url" =  "https://files.pythonhosted.org/packages/02/b4/bfd12af5b4d5f2957dce365397835c3ee172e41f43ea0363fc05da2bac04/ADRpy-0.1.10.tar.gz";
-    };
-    "0.1.11" =  {
-      "sha256" =  "f9555fa9bb979935685ffcbd42ee89e862047c4afb8bc62380a4036475565a76";
-      "url" =  "https://files.pythonhosted.org/packages/61/c2/976a958618f03e77b7616d06a0a97fa7337c3c3731077861ff8721912279/ADRpy-0.1.11.tar.gz";
-    };
-    "0.1.12" =  {
-      "sha256" =  "d83a850cba83698ed7542f8501a0e5e5146eb6adb78139d811794056afdb5d13";
-      "url" =  "https://files.pythonhosted.org/packages/60/29/15d95086bb34cb97ecd54b63fe9f1569e58aef5f400c986f36d87c5a3d48/ADRpy-0.1.12.tar.gz";
-    };
-    "0.1.13" =  {
-      "sha256" =  "6bb48af0a185f09ab1310da4d6bfee5d4d1dc446918cb2a9c0191421a80bf37a";
-      "url" =  "https://files.pythonhosted.org/packages/23/91/5692d611d023eaa0677ad17331352341bbaca83e510747d510129286bd3b/ADRpy-0.1.13.tar.gz";
-    };
-    "0.1.14" =  {
-      "sha256" =  "1c7b8906b63b14b8168c8f162b8d520ee314ef9555f728d00fd8dca457418e83";
-      "url" =  "https://files.pythonhosted.org/packages/c1/da/e07e29573da8ca7c8162cb82a5bc94ea4f64cf2b71277f76f6d6adcd77ee/ADRpy-0.1.14.tar.gz";
-    };
-    "0.1.15" =  {
-      "sha256" =  "9207cdf11b4bb4470aea446b7a4d49a0aa0dfa2662e4997c7ecd95cf6c4f0b7d";
-      "url" =  "https://files.pythonhosted.org/packages/16/8f/68d5fe8cb7a7f7cad373db13f8ba1cfd1e0a29663a1340015022af3d0348/ADRpy-0.1.15.tar.gz";
-    };
-    "0.1.16" =  {
-      "sha256" =  "9bc1852bd296fff76694efedb3a919f346eed04d900eb2b56a3ddc0bdd1718fb";
-      "url" =  "https://files.pythonhosted.org/packages/07/ca/eda35d40aabbf6001964c7a2705b2515660ea77c70a296a87d5438bd4094/ADRpy-0.1.16.tar.gz";
-    };
-    "0.1.2" =  {
-      "sha256" =  "e16f0622abbe4b262c5b0f97697b438190b87b43e98252ae25434c84933ca55a";
-      "url" =  "https://files.pythonhosted.org/packages/d1/90/8c647a03de697beac63e84457a743d8404a4c4e5ef2da9e8cfa6cbe0163c/ADRpy-0.1.2.tar.gz";
-    };
-    "0.1.2a0" =  {
-      "sha256" =  "e07871d8083a185d55e9b4d9688adf59a60da0944e7aa02edc1ee574b29743ed";
-      "url" =  "https://files.pythonhosted.org/packages/6c/34/27b453467fd28427f2f78c31b4d80240e18ffcbaaea19ec3b10f6cc97b57/ADRpy-0.1.2a0.tar.gz";
-    };
-    "0.1.3" =  {
-      "sha256" =  "6a7657ecb489729210f959755a28a272e50f60e4ac6dfb4645aa4cc78f6306d0";
-      "url" =  "https://files.pythonhosted.org/packages/7b/53/f18fc39ca847be12ba1701dfe9caddd3476686c1083c021b11d775b83d90/ADRpy-0.1.3.tar.gz";
-    };
-    "0.1.4" =  {
-      "sha256" =  "90ba9ea66fb64e45d800d8a6c39aa4b830c4b25ef52838c3d527bbe2c7baa19a";
-      "url" =  "https://files.pythonhosted.org/packages/59/35/996a50b93211591ff9b6d121b7970f460e96a31d00a54082d3cbf4af597a/ADRpy-0.1.4.tar.gz";
-    };
-    "0.1.6" =  {
-      "sha256" =  "cb0d1e3a56e911b8508fc7701fd57f6fba722503a5c05c1641ffdec50aa84742";
-      "url" =  "https://files.pythonhosted.org/packages/56/88/16081330b29916a710955d8cae84c7835690c0d024645468c7163628f429/ADRpy-0.1.6.tar.gz";
-    };
-    "0.1.7" =  {
-      "sha256" =  "0b66a6e00497442ead6b14243d94166f0eac82cbfb78a9eeeca5332b0e6768d2";
-      "url" =  "https://files.pythonhosted.org/packages/61/c9/86b3f5a431ccc675a6267cc6bf1dc0bcf9fb2ad8a7522871ec71c236f5bf/ADRpy-0.1.7.tar.gz";
-    };
-    "0.1.8" =  {
-      "sha256" =  "5e0e8ac0089939e52cc71edc542673419340ac3942163d482aaa2dedd13f41a6";
-      "url" =  "https://files.pythonhosted.org/packages/ca/d4/06d3867c5bf3f4b1c4e08589820d171785b0e037f936d25b9e8b1bced464/ADRpy-0.1.8.tar.gz";
-    };
-    "0.1.9" =  {
-      "sha256" =  "ce41e6877bbd73843fe3856946dac164b671c31234b6e1866fdc9bd9ac7fcc73";
-      "url" =  "https://files.pythonhosted.org/packages/9e/fe/9745286027c15ba070c2f317fe2f005784d0bd7f61916f3f3853a527f2ea/ADRpy-0.1.9.tar.gz";
-    };
-  };
-  "Airm" =  {
-    "1.0" =  {
-      "sha256" =  "55af79c1429ef897ff98f4950a7022926af579afb10b8ab4bc8adaed6203f937";
-      "url" =  "https://files.pythonhosted.org/packages/03/e4/ead58182b34f55d83d08d901d3e01e7cc645bad88adb2b88390d86722b6d/Airm-1.0.tar.gz";
-    };
-    "1.0.1" =  {
-      "sha256" =  "7c94bb4af003d8c72615d4be08048011644049fab2a3ea05c74a42411c0e2f84";
-      "url" =  "https://files.pythonhosted.org/packages/49/ab/104dfe2f8cf1fbf14603017d9875a13c6852b30f97b33dd067e3248fd7fa/Airm-1.0.1.tar.gz";
-    };
-    "1.0.2" =  {
-      "sha256" =  "42b430bfc17ba2ad0c8d0782e064eff4f4284de659b003ebad1476e84803805f";
-      "url" =  "https://files.pythonhosted.org/packages/10/67/810c8d129de1e3114f9e7618bee37aff1542bc1c8b2ed18262235936af11/Airm-1.0.2.tar.gz";
-    };
-    "1.0.3" =  {
-      "sha256" =  "78b3b4903ed4c786d4abff41e6dbf1477ffd2fcbec6b76a9eab4e5cf4022b96d";
-      "url" =  "https://files.pythonhosted.org/packages/48/6c/c14c24fa1afb9526c2f3969a1cb3b299100c348181db45f2c60afb140fe0/Airm-1.0.3.tar.gz";
-    };
-  };
-  "BISIP" =  {
-    "0.0.1" =  {
-      "sha256" =  "158717e30803bad8f637d77bca2a860f163ecba448eea2d876430bf67bbe5489";
-      "url" =  "https://files.pythonhosted.org/packages/ed/10/8b2cb0ca3d2a9afc3c624423184b3b39da39cd2a41c19cfbbd6630c0514f/BISIP-0.0.1.tar.gz";
-    };
-    "0.0.11" =  {
-      "sha256" =  "6a1892f203c927784dfce31ee75825131e103d773923871d8aee94e4c76ce179";
-      "url" =  "https://files.pythonhosted.org/packages/00/70/48ce95984106f5799cf2fc87818b664ff2e984eba585bf0c5d6b54b20e04/bisip-0.0.11.tar.gz";
-    };
-    "0.0.12" =  {
-      "sha256" =  "65b034ca8bda0463f4a428d8e0939ace3d622a276d7300986bef7951382e3c39";
-      "url" =  "https://files.pythonhosted.org/packages/ee/ce/8b22f5b0ed04986596bc582edc23c11d965ec2c4fc962d39c411ddf96805/bisip-0.0.12.tar.gz";
-    };
-    "0.0.13" =  {
-      "sha256" =  "41f5562cf0b4ddf0a4681369a31709a40c80fa99aa526438b843ae80e94af810";
-      "url" =  "https://files.pythonhosted.org/packages/b5/e3/c193eb91bec3873690131483d9fc52d1ab5f50a5463a89b1ae64cc08972e/bisip-0.0.13.tar.gz";
-    };
-    "0.0.14" =  {
-      "sha256" =  "51e88d0400ce76f1733a70cefd4e29921f249d028ead3d5a22dd582581317330";
-      "url" =  "https://files.pythonhosted.org/packages/35/21/f7829726f938c50290e3e8228e2a190ddee23f084240d0b59d3df81bf5fd/bisip-0.0.14.tar.gz";
-    };
-    "0.0.15" =  {
-      "sha256" =  "8c259e066c7a06ba4de097fe319c9f6d9800fa6ccd03da89e7d11033604694db";
-      "url" =  "https://files.pythonhosted.org/packages/07/6e/a3cbfd30a707eb8240c672ab335efda240ac3f2ddaa80d565e3f795fca7c/bisip-0.0.15.tar.gz";
-    };
-    "0.0.2" =  {
-      "sha256" =  "fcd5e1e6b2f4f73331425186f9a04a31de20b2e69ddc2c1ffd1decad2bb7987f";
-      "url" =  "https://files.pythonhosted.org/packages/79/0a/cbedada0b53a266f273782d515451e493b8938b9b030456d08f46aa16505/bisip-0.0.2.tar.gz";
-    };
-    "0.0.3" =  {
-      "sha256" =  "65c979cfb34a34b9d8829ef8b809864a314268088ba83d868f29b3f0f5ab59d2";
-      "url" =  "https://files.pythonhosted.org/packages/67/8b/e36d5dc623a2c4fe93ce5f9f48d6b717637be37930c06e750dd686f42fe7/bisip-0.0.3.tar.gz";
-    };
-    "0.0.4" =  {
-      "sha256" =  "fa6da1d4b73063d5569e5b254b25c9ed963199728331ae6f1098602d9ded67f7";
-      "url" =  "https://files.pythonhosted.org/packages/db/8d/e6ad2bc19f736b187c7d44bfc22945501e9d6ac867e6416ecbdf97ec02b7/bisip-0.0.4.tar.gz";
-    };
-    "0.0.5" =  {
-      "sha256" =  "18f2587295284d5f2b620d280485ee299fdbdf536f388ee91787973fbc10d1ae";
-      "url" =  "https://files.pythonhosted.org/packages/b9/37/5d0d1ba97e7090c79e5f405edd1c3238d95ea8c15e610c2039b442a4c611/bisip-0.0.5.tar.gz";
-    };
-    "0.0.6" =  {
-      "sha256" =  "a0c50f3a05fbc2ceac6258212e97d0c4e8c07882eb2e664c38d2abdb59b02d63";
-      "url" =  "https://files.pythonhosted.org/packages/83/f2/2ddae4754c8b4a19604f6af13ce419cd2d2d9926bfaabbcf7133292a9f7a/bisip-0.0.6.tar.gz";
-    };
-    "0.0.7" =  {
-      "sha256" =  "4418f76bec39162e714011ebb12038f59d1dfc9641ae77bc0bcb17b700524bcd";
-      "url" =  "https://files.pythonhosted.org/packages/d7/13/9250643aa9ebe58f99d6fec264a1c888229dd3ece5211605e1adeba2739b/bisip-0.0.7.tar.gz";
-    };
-    "0.0.8" =  {
-      "sha256" =  "2420cc24b8e7fa7d0e9562aa4f038a96855fc638c8713148433d63e3fb40936e";
-      "url" =  "https://files.pythonhosted.org/packages/a3/3f/f56ab3cf22fac984dcccb9e9fd10dfdc1eccb9a0b11f5880cad3681a70ad/bisip-0.0.8.tar.gz";
-    };
-  };
-  "Beer.py" =  {
-    "0.2.0" =  {
-      "sha256" =  "9b62704f73971509b26f3bc81c789e44eac2be3ccc466e8612fb1ab62a12a60c";
-      "url" =  "https://files.pythonhosted.org/packages/3d/9c/b0c25afc1fa511600f39275a406fc0ef8c644b72c32a64bcf47b815f1485/Beer.py-0.2.0.zip";
-    };
-  };
-  "CantrelleJouisseMamann" =  {
-    "0.0.1" =  {
-      "sha256" =  "a160186815ada0978156af47c2fc1a388859434f441f89bab1a4e139212cef17";
-      "url" =  "https://files.pythonhosted.org/packages/f6/23/e62a2b0e34e225901506bd9063ef02ed1449332b1ea479e2f3666b8bb3e9/CantrelleJouisseMamann-0.0.1.tar.gz";
-    };
-  };
-  "Chandere" =  {
-    "2.5.0a1" =  {
-      "sha256" =  "48d69a48be154a20afa041eba14b629172d7328b53c7d9c5524f918ea9c553d2";
-      "url" =  "https://files.pythonhosted.org/packages/c6/8a/5857ee25f086e25d1d9a259afbe90ba6b3efd63dcc12196bc0a875f2d4f6/Chandere-2.5.0a1.tar.gz";
-    };
-  };
-  "DevLGram" =  {
-    "0.13.1" =  {
-      "sha256" =  "f7eb2da979f58847ab76f4d32d183cec878adefa10333e938870a7a3e1f60a99";
-      "url" =  "https://files.pythonhosted.org/packages/3a/12/8a0d34d3b0fa734265acd5415bbd8408195530de4fce9ead6980d2a37566/DevLGram-0.13.1.tar.gz";
-    };
-  };
-  "DiscoSnake" =  {
-    "0.0.5" =  {
-      "sha256" =  "d10936f5a78dda73280df0ad95f8977f76ef0c754a9220d1dc6137d37b765ad8";
-      "url" =  "https://files.pythonhosted.org/packages/84/02/1132986f6d2c8b501b0deaac4bae5b5ef3197908ce2f365c76e30300ce11/DiscoSnake-0.0.5.tar.gz";
-    };
-  };
-  "DzenStatus" =  {
-    "0.1.0" =  {
-      "sha256" =  "99666563a3bf3ad9176fb17618dabbc16102cd9d09858ebbe499d2a5a147b647";
-      "url" =  "https://files.pythonhosted.org/packages/f6/bf/2154866066ab8f38f3ac23222bfd60177f1bfa9f902837070deabe969e50/DzenStatus-0.1.0.tar.gz";
-    };
-    "0.1.1" =  {
-      "sha256" =  "f42f611620514fe3de8154f2f7908c019558711590b8f60dc3b59590f3999538";
-      "url" =  "https://files.pythonhosted.org/packages/5a/b7/a1e09cde7cbd22bb3a8494c09f712bb919041edb04f40405a915610174a9/DzenStatus-0.1.1.tar.gz";
-    };
-    "0.1.2" =  {
-      "sha256" =  "1ac8b39fa50d3a8ca36cbc93ace49a4f53009abd07694563b6de95bef1fa59a3";
-      "url" =  "https://files.pythonhosted.org/packages/82/cc/6a09df1d895d221a54387c723d17a4d12339bb450cb6c13ca9f8d5253de6/DzenStatus-0.1.2.tar.gz";
-    };
-    "0.1.3" =  {
-      "sha256" =  "7f6033266c1102689f7384151cef91ab59c468a16ec3e2176418235cab825cc6";
-      "url" =  "https://files.pythonhosted.org/packages/14/c6/214d6317c362396725ed88de037ee4df7e181b139d6fb3476a3219bbec66/DzenStatus-0.1.3.tar.gz";
-    };
-    "0.1.4" =  {
-      "sha256" =  "44fc4c7e8e3b18bbe417866ad5576e59ad8323d4e4d634a0fc4cf4428de2e434";
-      "url" =  "https://files.pythonhosted.org/packages/d1/b2/11c217e34888f9572a02df5f015665a776ac14f06bb04a8149c263b9b385/DzenStatus-0.1.4.tar.gz";
-    };
-  };
-  "ECoXiPy" =  {
-    "0.1.0" =  {
-      "sha256" =  "86c75c9a7da31f5eb06df973f12a3c48258213d811524abcd4273ffb1372023f";
-      "url" =  "https://files.pythonhosted.org/packages/a9/4a/d1180d19daf98ed0fdd509dcbafb2ca68c69d58364079092edf06c6375c2/ECoXiPy-0.1.0.tar.gz";
-    };
-    "0.2.0" =  {
-      "sha256" =  "f873c16882b7c56e1209b8f6837a549c220ccf84b3f7cded0bb0b917e9f87d2d";
-      "url" =  "https://files.pythonhosted.org/packages/ca/b5/29566ab35403c5228831ef11ccdd2c107423b3d371c81157720452a6cfff/ECoXiPy-0.2.0.tar.gz";
-    };
-    "0.3.0" =  {
-      "sha256" =  "78eb189a65d3e3c854fdb4e5ba5b9e686b1746171b3439dac310eb506f314275";
-      "url" =  "https://files.pythonhosted.org/packages/e1/0f/15dac9ff51e658e333bc7d5c0592d265b68e2bf283bd1df0bee148484f7f/ECoXiPy-0.3.0.tar.gz";
-    };
-    "0.3.1" =  {
-      "sha256" =  "d7fa9940b0f21bfd67a04b8623475212482caa490e7582483ff96dd075a22070";
-      "url" =  "https://files.pythonhosted.org/packages/0b/55/7fde2a8fe3bcfad320f6b929762645face78e5dd34db31cf5801a97693ad/ECoXiPy-0.3.1.tar.gz";
-    };
-    "0.4.0" =  {
-      "sha256" =  "5c6a13676d14ad8e3b7c98a20edffc3121715d8edea428db038fbce51780d730";
-      "url" =  "https://files.pythonhosted.org/packages/6a/33/394f6be7a88f9e21a31f5d5d807c5900fba0c356bce980ce911cc6d8a35c/ECoXiPy-0.4.0.tar.gz";
-    };
-  };
-  "EasyAlign" =  {
-    "0.1" =  {
-      "sha256" =  "4230f2e2f3a426910abb5071c3129647766d3a4c53a79c3b3b5f7c7a20a1b2ef";
-      "url" =  "https://files.pythonhosted.org/packages/30/74/b879b624638234c5ced5bdf53a589bbe52a093c73052ca4371ea5ab4705f/EasyAlign-0.1.tar.gz";
-    };
-  };
-  "EnORM" =  {
-    "0.1.0" =  {
-      "sha256" =  "59fa9f5aa2b2ccd4c40a9afa2175ca5c87b31a53c60a12760073a1229f99ef04";
-      "url" =  "https://files.pythonhosted.org/packages/c0/a4/c920e83bf9c0e031fb1a8733578f2281ddd16fe9f33f4bb1663cfe0d9636/EnORM-0.1.0.tar.gz";
-    };
-  };
-  "Eskapade-Spark" =  {
-    "0.8.0" =  {
-      "sha256" =  "00ca3f4f844d514d5d081e0c3fa2ee79c2cf6b402a8ca3c68522d40f2cc1d729";
-      "url" =  "https://files.pythonhosted.org/packages/5e/a8/0f5c520c2ddbdfdb68aa599e598d57af328aaecfd0ff63cc8510610c024b/Eskapade-Spark-0.8.0.tar.gz";
-    };
-  };
-  "ExoSOFTmodel" =  {
-    "1.0.0" =  {
-      "sha256" =  "31295dbea9522da154e7a07e0b7fb452a97f0718373d2e296f074ac6aa64d483";
-      "url" =  "https://files.pythonhosted.org/packages/5d/69/339d2a30cb916cfd3e8f15c29c22f721e63e96aea3ee96abb53b3fa8fc0c/ExoSOFTmodel-1.0.0.tar.gz";
-    };
-    "1.0.1" =  {
-      "sha256" =  "92efef99db304e7eb44fd57caff2934df4884036265e89906f3e809a94ae568f";
-      "url" =  "https://files.pythonhosted.org/packages/7d/ce/dd0a6acdef66c3d65316c04873d1515f71f8bce7c176565768e1be8b3287/ExoSOFTmodel-1.0.1.tar.gz";
-    };
-    "1.0.10" =  {
-      "sha256" =  "a67cf9f665493434197a745be33d64bcde0c0fc1a54608d1fb818062a8e85c95";
-      "url" =  "https://files.pythonhosted.org/packages/b5/60/941559246aaf538160c99a2b0b5d7808b753c62ec6ca52d1eb7d70fd1b93/ExoSOFTmodel-1.0.10.tar.gz";
-    };
-    "1.0.11" =  {
-      "sha256" =  "940fa9c76f9bcfbbac1536668ac70fd461ea34b49b8799f6e4a4555e4abc7976";
-      "url" =  "https://files.pythonhosted.org/packages/d3/d3/970094c6d598484f31a6515fb62a2b803712ee136ae1995e5f53f7b16442/ExoSOFTmodel-1.0.11.tar.gz";
-    };
-    "1.0.12" =  {
-      "sha256" =  "9e0380b075a19f3dd0933c5298141664651100bc80ef1377810aa658ce701c9f";
-      "url" =  "https://files.pythonhosted.org/packages/50/02/ccb7958bd5a08394353556b44fb7ac31c97528d82e8f0410326160199169/ExoSOFTmodel-1.0.12.tar.gz";
-    };
-    "1.0.13" =  {
-      "sha256" =  "24a1109fc1f7de71eae5a31c7e409276b513a092b4968499af015c3cd1d0cba7";
-      "url" =  "https://files.pythonhosted.org/packages/3c/54/cc56b22f4cfa55ebaa53a4ad5d0cd2e836eb27cccab5a238cede2e7267b0/ExoSOFTmodel-1.0.13.tar.gz";
-    };
-    "1.0.14" =  {
-      "sha256" =  "79a9ccbd7502f07b8186bb3d8602a53e3ba47120084da220871dcbe1eef83ac0";
-      "url" =  "https://files.pythonhosted.org/packages/6e/70/b16b4055614bd95f75963b25203cfa45f0e4e2bc2a5ceeabea4a724717ac/ExoSOFTmodel-1.0.14.tar.gz";
-    };
-    "1.0.15" =  {
-      "sha256" =  "8389a29c1a92cadee85b50367c0dc59d1938a02dbec3440066e45134772dfeb0";
-      "url" =  "https://files.pythonhosted.org/packages/41/63/367e45742e515fc782c993dbad7ae861d84c6ecf337f0c6858159f537f47/ExoSOFTmodel-1.0.15.tar.gz";
-    };
-    "1.0.16" =  {
-      "sha256" =  "9f7ceb94d3c56bde1cf721408f7baf2354b4a0a2b781b832b0e4f4f81f0caddf";
-      "url" =  "https://files.pythonhosted.org/packages/5a/c2/c82784ba6c8a488d4e4bd39655b4dcd663ad6360a4d2c928ef04359c85d6/ExoSOFTmodel-1.0.16.tar.gz";
-    };
-    "1.0.17" =  {
-      "sha256" =  "053b4229aac5e86a6f30cd9d117cdf6146c887171fe547288fd56e855a5b0704";
-      "url" =  "https://files.pythonhosted.org/packages/c7/0a/59c3fbdee692074c246d03512e57135d53f83949fddf134201501b15af15/ExoSOFTmodel-1.0.17.tar.gz";
-    };
-    "1.0.18" =  {
-      "sha256" =  "2d80f7d58b658104b45104fea9d55231a32f11f308928ca75e2e850900082e4b";
-      "url" =  "https://files.pythonhosted.org/packages/1d/d1/0ff958f9f920edb195dcd6581fa0654900e1ac2c7d1a3eb995a94f437852/ExoSOFTmodel-1.0.18.tar.gz";
-    };
-    "1.0.19" =  {
-      "sha256" =  "ed20da74f22a1ac5f63f2f36eb86517a5f29d0b21c402390f78851be08fba0fe";
-      "url" =  "https://files.pythonhosted.org/packages/dd/ad/fc29c2246c997744f367ff070b40d26ab071b1c6f7e6f44ab1965a577997/ExoSOFTmodel-1.0.19.tar.gz";
-    };
-    "1.0.2" =  {
-      "sha256" =  "2c69101d340c55ec924c66b20260e755dca899bc48c67d456ec56138cea21944";
-      "url" =  "https://files.pythonhosted.org/packages/15/b4/69b64c5306974bc37e9d4dc343d491dce2ae2b0ba47744f9fdf09e778cb0/ExoSOFTmodel-1.0.2.tar.gz";
-    };
-    "1.0.20" =  {
-      "sha256" =  "56c4ffed8ce0ceb092e09b82bb7a6362609154d76e61b6d59e4b5da216a4de0b";
-      "url" =  "https://files.pythonhosted.org/packages/c7/4e/f7ed5b0df22166ae5c9edbcbaafea20ee8b3bd0c85ea0f7ed0200dd8456f/ExoSOFTmodel-1.0.20.tar.gz";
-    };
-    "1.0.21" =  {
-      "sha256" =  "6b1b21fe2aaa12cb50d9639ce86a98ef0d5bec7ef800bd43d82bd576472cd7ed";
-      "url" =  "https://files.pythonhosted.org/packages/3d/2e/426b391de85043d63db32ed0821db32d6ebcff46875ee6ecd9159986c459/ExoSOFTmodel-1.0.21.tar.gz";
-    };
-    "1.0.22" =  {
-      "sha256" =  "f1da247ba7be8f0686ef2e5f97036cd0d8cddfd4acfe4aafa3b903486f5ec67a";
-      "url" =  "https://files.pythonhosted.org/packages/07/e4/83c9abdb65569bba3de609efd41c01b1b58ada6650b0b7cf1f3fdcca63d0/ExoSOFTmodel-1.0.22.tar.gz";
-    };
-    "1.0.3" =  {
-      "sha256" =  "2fae3074d5c11b59eb3288c09e86a6de99c1497500021997bb304b64b9474719";
-      "url" =  "https://files.pythonhosted.org/packages/7c/42/6bd5318b9e3a06593b748b419068fbdc9c8dfc50ee90ab84fad1d0ef8dcd/ExoSOFTmodel-1.0.3.tar.gz";
-    };
-    "1.0.4" =  {
-      "sha256" =  "cb63fab2a5bd547b06229202a8cd4d410998b1f729748552601a36181606886a";
-      "url" =  "https://files.pythonhosted.org/packages/4d/7c/f7414ea1dc0aeaf26ea3ef7f1784523fa0d0a95baad6f6ff30ca1a342a0f/ExoSOFTmodel-1.0.4.tar.gz";
-    };
-    "1.0.5" =  {
-      "sha256" =  "769f8ddeb8c57382a06d128d76b62def86b86decdc900a09e8835f9ceea12d8c";
-      "url" =  "https://files.pythonhosted.org/packages/44/8c/11b434dbd601bf0d0a30b394cffdac64ece04800ef075d7bad0e9e5f716b/ExoSOFTmodel-1.0.5.tar.gz";
-    };
-    "1.0.6" =  {
-      "sha256" =  "a46f4dafc80ef92f4bc41883d77f7fc35386fa68c8903942c166b10248722fbe";
-      "url" =  "https://files.pythonhosted.org/packages/37/17/9936a67fc1a308d769bb3d5a237875a26cc848ded463baf875dee8b0f43c/ExoSOFTmodel-1.0.6.tar.gz";
-    };
-    "1.0.7" =  {
-      "sha256" =  "2df3872922bb408dbaf38c82a1738ad79b2a5a62b4ca00669cfc65aa9b98f5fc";
-      "url" =  "https://files.pythonhosted.org/packages/d0/4c/307c78b86a9bbf7ce7f695d8b54066a301c8a8d4929b7c819ad84f0327f9/ExoSOFTmodel-1.0.7.tar.gz";
-    };
-    "1.0.8" =  {
-      "sha256" =  "a0036e450d312727993db0177fc585eb7e4e124fb41619da263b50301bf591fa";
-      "url" =  "https://files.pythonhosted.org/packages/ba/a6/9c6936937773fefb5115b61c9332d0290264f5f259b570ba51dc14307244/ExoSOFTmodel-1.0.8.tar.gz";
-    };
-    "1.0.9" =  {
-      "sha256" =  "72b1b25258141dfc8703c9d949ff9f00ae4755d210b72bc8205933aa053898cd";
-      "url" =  "https://files.pythonhosted.org/packages/b3/63/c13560bb92dd77f726b434cdcb258939a12671275f00c5ac990e3bc387de/ExoSOFTmodel-1.0.9.tar.gz";
-    };
-    "1.1.0" =  {
-      "sha256" =  "53cabae117e9504a720621c8ae8eec6fdc5417008e523fe2b997f14229ea009f";
-      "url" =  "https://files.pythonhosted.org/packages/f0/a1/36f11766809a252aa9d3d8af59f803a89bbfab4795092001f6d99603a0f2/ExoSOFTmodel-1.1.0.tar.gz";
-    };
-    "1.1.1" =  {
-      "sha256" =  "e894a233da4bedf7a0667e582b5c9fb2216c2a44d284182f411205794bf0fb2d";
-      "url" =  "https://files.pythonhosted.org/packages/2c/ab/bdf774d24e4b4a1917d0425b28c84b0fa3c4f02ebcce7ea0d124930fd035/ExoSOFTmodel-1.1.1.tar.gz";
-    };
-    "1.1.10" =  {
-      "sha256" =  "59fb13241cf4cabd411fe2f2c556b7a5c0c7c845b2496825f9ceb4a8be11254c";
-      "url" =  "https://files.pythonhosted.org/packages/f3/4d/4a34b7bfbec96747ad48cde8a133d7be4fa4b49cc62cd148480aa27bb0ba/ExoSOFTmodel-1.1.10.tar.gz";
-    };
-    "1.1.11" =  {
-      "sha256" =  "22530383c143cb39967ca13d3851d795ba52ca8a031883c9802f46911e0c90df";
-      "url" =  "https://files.pythonhosted.org/packages/b6/6f/dfdc3f38bf954784f09b4f39ab2a56d994130f60b867a63c6ff5223a222d/ExoSOFTmodel-1.1.11.tar.gz";
-    };
-    "1.1.12" =  {
-      "sha256" =  "ac578fdf4c470dc78e6cef893204799b502ef9a27d38d9f1ed56be2d57a7872c";
-      "url" =  "https://files.pythonhosted.org/packages/57/6e/61bc4067c30aef3cc1c98a1f59d52bf1d1857614fe812fa1479df8423ddb/ExoSOFTmodel-1.1.12.tar.gz";
-    };
-    "1.1.13" =  {
-      "sha256" =  "c3ac57bfc96ab1491de8b9e10a0d608de9ea6f9e22fdf62b5adb3106aed35f4b";
-      "url" =  "https://files.pythonhosted.org/packages/b3/33/d3d6b25886f7e2299f25e575b25aee5665bbd7205b38cb6a64fe150d4da9/ExoSOFTmodel-1.1.13.tar.gz";
-    };
-    "1.1.14" =  {
-      "sha256" =  "06d36aafcd5fa9e3c92122c697b040e09d32ec4434d6d748386e18df9e59b1a0";
-      "url" =  "https://files.pythonhosted.org/packages/12/55/de8bcd00a663d0fd8c874364c17a04d01bd25a880f0363572846a1793356/ExoSOFTmodel-1.1.14.tar.gz";
-    };
-    "1.1.15" =  {
-      "sha256" =  "74e52b056a0c50314bf5b99db9c5b7f4f9fce6deca846e0b61fbfcd66ea8568e";
-      "url" =  "https://files.pythonhosted.org/packages/04/79/2cbdeada97f681ab8f4a792e5feac56e4789eedb9439b545fb59d88eb8e1/ExoSOFTmodel-1.1.15.tar.gz";
-    };
-    "1.1.2" =  {
-      "sha256" =  "59007dc7a15ffd60d174e2105b87d88e4774df4215d925dc87fd47a377864281";
-      "url" =  "https://files.pythonhosted.org/packages/6d/72/fa778ea8ef55cbd73e04a90dabdd0a75d4d9fb8e95b662c209db2382b492/ExoSOFTmodel-1.1.2.tar.gz";
-    };
-    "1.1.3" =  {
-      "sha256" =  "fc47846238b2cd2d72962235046841d46e5c774d0f8a45bac262a31fa82209eb";
-      "url" =  "https://files.pythonhosted.org/packages/eb/0f/9d2311d4838b368a0f3bc933fcc0579cc690436967dcddbe153617ecde9f/ExoSOFTmodel-1.1.3.tar.gz";
-    };
-    "1.1.4" =  {
-      "sha256" =  "3f1ff0c550161ba23d0308ae5e19eac15857c2f655f28e596df30fd45f2dec16";
-      "url" =  "https://files.pythonhosted.org/packages/57/f8/a9ae042d00bc650e37d850afb730159d648bbe4ab6ad5fcecc340d7c5fca/ExoSOFTmodel-1.1.4.tar.gz";
-    };
-    "1.1.5" =  {
-      "sha256" =  "e55034cbc7fae699baab5fbd908862080f15ad2b1e41d0e8c5d8a1f672061f8f";
-      "url" =  "https://files.pythonhosted.org/packages/fd/92/bac9672d974116e80be283308013ca3dfcf3bcb2ac9f5d9ff611379ea8c7/ExoSOFTmodel-1.1.5.tar.gz";
-    };
-    "1.1.6" =  {
-      "sha256" =  "ee401fbc5d39d3b422dc57a48cb217d92d84e944962cb068c437fb3d253f0755";
-      "url" =  "https://files.pythonhosted.org/packages/bb/77/3b4831f4adcfea0db3cf0b371fe7355004a5d38481144d7eb3a9acee446a/ExoSOFTmodel-1.1.6.tar.gz";
-    };
-    "1.1.7" =  {
-      "sha256" =  "990219025cc81e2f3d4c90354d2851b815bbc241fbd037a7b86a1ed74e9bfeb5";
-      "url" =  "https://files.pythonhosted.org/packages/fd/62/4ddcec2df60ca2cf40367bdd8322a88a916b0791da88cb9aa86aa2b10bd3/ExoSOFTmodel-1.1.7.tar.gz";
-    };
-    "1.1.8" =  {
-      "sha256" =  "2eb037bca9f3057c4309a5e726fa445d829946f2a8f278bb6e02546cc597ad0a";
-      "url" =  "https://files.pythonhosted.org/packages/09/4d/94e13bcd7038f4e7b4ea71c8347bf75bb7bb97957a147f4657084befa985/ExoSOFTmodel-1.1.8.tar.gz";
-    };
-    "1.1.9" =  {
-      "sha256" =  "76d8e163db399a21f44de8d470bc9a8cde736816767fcccdde9ff75f68066126";
-      "url" =  "https://files.pythonhosted.org/packages/36/72/c349d7fd4aabefa5483aa91d5fe34bb061c67c06f6bdc12ac7da3b2d9379/ExoSOFTmodel-1.1.9.tar.gz";
-    };
-  };
-  "Extremes" =  {
-    "1.1" =  {
-      "sha256" =  "5fb1b1b237cb166ea29419a148ce7ab70e604dfe8c78fbec9899439c75be996f";
-      "url" =  "https://files.pythonhosted.org/packages/ee/62/125b1cb0af1324c060ffb24efbd94fe95a73c86603ae04466bfc8121fb26/Extremes-1.1.zip";
-    };
-    "1.1.1" =  {
-      "sha256" =  "e92564d2535929a18c51b75c8904e13ab5e78a6d75fee8c70d04e09812fc8545";
-      "url" =  "https://files.pythonhosted.org/packages/0a/3d/30e8301e1b45d2663014d431dbf984df957c140a3f1a862f855b125638ae/Extremes-1.1.1.zip";
-    };
-  };
-  "FFT-tools" =  {
-    "0.3" =  {
-      "sha256" =  "d6a666ec57c1844b44200e1a54e3ae09d7d1b293be1864ba78208787e9f0b23f";
-      "url" =  "https://files.pythonhosted.org/packages/92/e6/bf0c166f9ba25ea32388362efc10d75b6553851b0e2c0e5e78c4f20e4f40/FFT-tools-0.3.tar.gz";
-    };
-    "0.4" =  {
-      "sha256" =  "ee49d11def18302583ebfb49a9f62b384096de11d733b447d5c5426c7d5a677b";
-      "url" =  "https://files.pythonhosted.org/packages/69/7e/38b18b9241bf38afb2dca0b72379f1371d97fa1d3f242e905b8087a98690/FFT-tools-0.4.tar.gz";
-    };
-    "0.5" =  {
-      "sha256" =  "810aad15c6872e01e45fd0d5eafca964c79a41700bc67973c43f07f87d48be29";
-      "url" =  "https://files.pythonhosted.org/packages/00/8b/b70cfe72a191983bca14e19b6c99fed8e3e84619b02e78cda084d356ac0e/FFT-tools-0.5.tar.gz";
-    };
-  };
-  "FileFields" =  {
-    "0.1a6.dev-r1048" =  {
-      "sha256" =  "6f0f03d31fd38f7af0e3f30fb9369eaf60a1a34368dca7fa33124624fd6784c5";
-      "url" =  "https://files.pythonhosted.org/packages/69/90/5a974af8c314b16719802232f026f0abe46bb831e19e657fa4bf79fa7808/FileFields-0.1a6.dev-r1048.zip";
-    };
-    "0.1a6.dev-r1868" =  {
-      "sha256" =  "f84d48b509ebf55bbc70c266967798e8d80aa486bf30a5c8816526ca9fba6310";
-      "url" =  "https://files.pythonhosted.org/packages/ab/57/b7d80a944e8d0a92096ba627f4ac4ba8caa123afec5fbad70624711dcdb3/FileFields-0.1a6.dev-r1868.tar.gz";
-    };
-    "0.1a6.dev-r612" =  {
-      "sha256" =  "2a2a5ff20fac67be7d8d85e7a56fabc448bb4f841e5ae1f2b1d14e453f249560";
-      "url" =  "https://files.pythonhosted.org/packages/7c/77/d268f8729ccda2c1f8d69d1db52191d8270eae3ea3864c058b87d7298177/FileFields-0.1a6.dev-r612.zip";
-    };
-    "0.1a7.dev-r2292" =  {
-      "sha256" =  "cf18d1c0a807f01aeb752126b20b30c5292ab81fcaec2d91db28a8df3dec34cd";
-      "url" =  "https://files.pythonhosted.org/packages/e5/56/647fdb0fff7b888d5426b2e816543810a4470d0757e7e9fd00a953c775ce/FileFields-0.1a7.dev-r2292.tar.gz";
-    };
-  };
-  "Flask-Cache-PyLibMC" =  {
-    "0.1" =  {
-      "sha256" =  "7b983e94c388e1b6a6bb4f279e293fed36dc13cace4337a03fe1baf164703c81";
-      "url" =  "https://files.pythonhosted.org/packages/59/ef/2e06c132c4b2201ac5f2a9a979f9ec938cffe33c87433e23342f8d6a5e8b/Flask-Cache-PyLibMC-0.1.tar.gz";
-    };
-  };
-  "Flask-Caching" =  {
-    "1.0.0" =  {
-      "sha256" =  "9894b14e9c6f487b3ca7aeacbc5887392f10f11b0e1de9c1f8133b003780c396";
-      "url" =  "https://files.pythonhosted.org/packages/3c/b0/fd457d1b34a3bb7a5d5dd80b69057ca18c41bc1472a3a2c5817b71cbd09c/Flask-Caching-1.0.0.tar.gz";
-    };
-    "1.0.1" =  {
-      "sha256" =  "5687f8e3336d18cc55de1ff2d9045ddccc65603176afeff5aeafc256c1fc58e4";
-      "url" =  "https://files.pythonhosted.org/packages/5b/04/2c959f2c66b1fbe7c691828f0c8093891a33556aeac68bed002d03bb839c/Flask-Caching-1.0.1.tar.gz";
-    };
-    "1.1.0" =  {
-      "sha256" =  "0fcb90785fc46c6c3ecca2484597e91a34dc1679970ade4547b3fd9fdde32384";
-      "url" =  "https://files.pythonhosted.org/packages/b1/a7/2472092982434f557c1fbb02da5461a51e5a775697751b4e6d9078e1060c/Flask-Caching-1.1.0.tar.gz";
-    };
-    "1.1.1" =  {
-      "sha256" =  "352db16fb6b8f4e6f1a29ff5ad016deb3763c4adebe84a1795b769b00f570c95";
-      "url" =  "https://files.pythonhosted.org/packages/b3/bd/96ac42c9b1dae6b3381370f5f02fb8a17ddc7b64abc2f4dd1ba4f1a03771/Flask-Caching-1.1.1.tar.gz";
-    };
-    "1.2.0" =  {
-      "sha256" =  "5f31d030efe8c4158a03a82928c7296651d4cabed41e1236fed043b754f96ba5";
-      "url" =  "https://files.pythonhosted.org/packages/17/2b/13c709c8889b425d9a10188df577217fd251b7cd11162e833ef839196cbc/Flask-Caching-1.2.0.tar.gz";
-    };
-    "1.3.0" =  {
-      "sha256" =  "2a39eefac8c6681dbb0030eb769bc609d88670b40d534d32c2d18a30442c7869";
-      "url" =  "https://files.pythonhosted.org/packages/be/91/04bfd1b95ebe611c1b52508231bcfb5b4ee55a541dabb5cca32feedc2bac/Flask-Caching-1.3.0.tar.gz";
-    };
-    "1.3.1" =  {
-      "sha256" =  "b016a2e81d39d93df893319abcf79cd6bd6689a548ad84ef5f5dc63797ece45e";
-      "url" =  "https://files.pythonhosted.org/packages/18/9e/b9bd608876fe469079257d8769cd27a6b0a860cb31d870956dcdf24ed6bf/Flask-Caching-1.3.1.tar.gz";
-    };
-    "1.3.2" =  {
-      "sha256" =  "212219a1264d4f81186743633245b1b0110de7fcd7142486dcf6736fb0baade4";
-      "url" =  "https://files.pythonhosted.org/packages/e7/45/fea8f4b77eed3d4e6246ffcde8c1861b34e3ad7739b4a24c4159d6e5b36e/Flask-Caching-1.3.2.tar.gz";
-    };
-    "1.3.3" =  {
-      "sha256" =  "5af1759e5ae3424abec918537f0201a1476ae9442452bcb5c8787468a9de0f5a";
-      "url" =  "https://files.pythonhosted.org/packages/08/f7/755a78c975866205e1bfd459cb7901cea0623499600e120c326f69a0b25f/Flask-Caching-1.3.3.tar.gz";
-    };
-    "1.4.0" =  {
-      "sha256" =  "e34f24631ba240e09fe6241e1bf652863e0cff06a1a94598e23be526bc2e4985";
-      "url" =  "https://files.pythonhosted.org/packages/f2/4e/0a8bd13b736c59768e69c39fe7ce48470275cf83edc4b7342509bb9f1a1a/Flask-Caching-1.4.0.tar.gz";
-    };
-    "1.5.0" =  {
-      "sha256" =  "be7e4896ec212365a8ed53cb8658a2e2f2b4f4d143101360214fcd96fa632f18";
-      "url" =  "https://files.pythonhosted.org/packages/dc/1e/32b13729176f27267304cffdc03f8054836c814157547ff6b0b7a826c92b/Flask-Caching-1.5.0.tar.gz";
-    };
-    "1.6.0" =  {
-      "sha256" =  "92368bd8c3a6aa4164c7322335134c912cd8462a4b83de4904929da38863de95";
-      "url" =  "https://files.pythonhosted.org/packages/42/b1/1a672c16ded7e0a441efb976f173e4c5fb8be489664778575b32dd8b8c2d/Flask-Caching-1.6.0.tar.gz";
-    };
-    "1.7.0" =  {
-      "sha256" =  "7b3ff88348dcc97ebd6d32478c3e40229c6b7039ed5fb7dabb23d411777bfcc1";
-      "url" =  "https://files.pythonhosted.org/packages/f9/0c/49b8080fa8e61a34073dce7664b566504447e552b9fac0966d06fcaaca3e/Flask-Caching-1.7.0.tar.gz";
-    };
-    "1.7.1" =  {
-      "sha256" =  "cc25b0800fb0ae4e3fcaaf12203263c564f41197593283669b81216089803a1b";
-      "url" =  "https://files.pythonhosted.org/packages/46/42/bacf50d4b253941e57cfd5b764ac56b3ffa3addfd19758cb4ebad328ab0f/Flask-Caching-1.7.1.tar.gz";
-    };
-    "1.7.2" =  {
-      "sha256" =  "52e236cbc836c41a5ced0c0a67b48ad180c9e2b5cb69e881089bba766db5569e";
-      "url" =  "https://files.pythonhosted.org/packages/e8/85/8ccb4ed2aca8490927b4aa00b877f72fb9b3b687c04d2922c93a632fc911/Flask-Caching-1.7.2.tar.gz";
-    };
-    "1.8.0" =  {
-      "sha256" =  "3d0bd13c448c1640334131ed4163a12aff7df2155e73860f07fc9e5e75de7126";
-      "url" =  "https://files.pythonhosted.org/packages/27/51/d6c698269cf8d0988c4a1f3db51a218235fcb2144c2002c86be9dde77e8a/Flask-Caching-1.8.0.tar.gz";
-    };
-  };
-  "Flask-HMAC" =  {
-    "0.1.1" =  {
-      "sha256" =  "576f9736a083b96d65135fa5097aec017a22e1806912a6d88bb99385e0b6cc54";
-      "url" =  "https://files.pythonhosted.org/packages/59/b2/2d1080e0b78e44b55324347a5329d6017fda01f51259b5eebddf93151137/Flask-HMAC-0.1.1.tar.gz";
-    };
-    "0.1.2" =  {
-      "sha256" =  "48448592d065ccf2ba9f243e8d88d0b790196ccecba15a2de713d75f736504bc";
-      "url" =  "https://files.pythonhosted.org/packages/75/e5/8084cac88a92a52c1b58c55578e1e7302d77f808523878bc8e5700cd6c1d/Flask-HMAC-0.1.2.tar.gz";
-    };
-    "0.1.3" =  {
-      "sha256" =  "c71cdd6c56d4a2b4de8de164ad3f1f2e2e5182498674b38acaf69367c70a5c90";
-      "url" =  "https://files.pythonhosted.org/packages/5a/d7/cc208f3484fe250cb926381487f72dc344685c35a1aa92bf34ffea83c9e4/Flask-HMAC-0.1.3.tar.gz";
-    };
-  };
-  "Flask-Misaka" =  {
-    "0.1" =  {
-      "sha256" =  "de3cd28dfdcdde0be0a62b51fb9ba61bd17cbc5d09bac7e7c47fd1ff7583def9";
-      "url" =  "https://files.pythonhosted.org/packages/01/bc/4a4cfb1c160f8c6001b6b7f2b595c94fcfb306dabddee997c934cd306d8e/Flask-Misaka-0.1.tar.gz";
-    };
-    "0.1.1" =  {
-      "sha256" =  "9daa124db0eb5b765c4cef44d2c62daa5de08cf116e41a8cf684c4b9f31915fb";
-      "url" =  "https://files.pythonhosted.org/packages/08/62/f109742c2fb4d362c976113e90e14eb2c61a21666d173c08229f84e228bc/Flask-Misaka-0.1.1.tar.gz";
-    };
-    "0.2.0" =  {
-      "sha256" =  "c5bc14ee191597bd3ba9e8de8875275a5c41ea87bd89b6b46f2d9a0b332454dd";
-      "url" =  "https://files.pythonhosted.org/packages/34/b1/6501b5e26e2bd130b4852ac1454ee259e8ef1a079708e030d9b210b14c68/Flask-Misaka-0.2.0.tar.gz";
-    };
-    "0.3.0" =  {
-      "sha256" =  "f0fee6f321749b24cfbfa34e0905e8e5401218b9b2b09d7dac5f708edc8db68a";
-      "url" =  "https://files.pythonhosted.org/packages/65/98/0e7f703881fc841d5e89327ed895291e26e455776c018f3926a9265162ba/Flask-Misaka-0.3.0.tar.gz";
-    };
-    "0.4.0" =  {
-      "sha256" =  "d967a26d086ee4230f864e62125cd3601da77c5c10e4f77c7342837b4c519c5d";
-      "url" =  "https://files.pythonhosted.org/packages/3d/1e/2729d16d22f837ee181ac3ba38664a0dc825a564ffb7d1163dc772c29b81/Flask-Misaka-0.4.0.tar.gz";
-    };
-    "0.4.1" =  {
-      "sha256" =  "1dad09a312aafc3783dd4228bcc60708e339494c1653d6bb8e1936b5c4fdeaac";
-      "url" =  "https://files.pythonhosted.org/packages/3d/19/71e8dc5c537f6a4e3b9ae2836f442a8643c2ce900eafd2484ef18ad87cb3/Flask-Misaka-0.4.1.tar.gz";
-    };
-    "1.0.0" =  {
-      "sha256" =  "f423c3beb5502742a57330a272f81d53223f6f99d45cc45b03926e3a3034f589";
-      "url" =  "https://files.pythonhosted.org/packages/3d/47/e3830ccdaffbfeebf7d95048498bacdc1e9bcaa7d679113dcd521e3ef7d7/Flask-Misaka-1.0.0.tar.gz";
-    };
-  };
-  "Flask-PyFCM" =  {
-    "0.1.1" =  {
-      "sha256" =  "5fcbdf45297485b96e474cb37976c5ec61a8c56c00a33b736cfce2c2dea194df";
-      "url" =  "https://files.pythonhosted.org/packages/7e/1b/af01dee25725be94444ce43859d43a292ce25213713ebdc93e34d4529dd8/Flask-PyFCM-0.1.1.tar.gz";
-    };
-  };
-  "Galio" =  {
-    "1.0.0" =  {
-      "sha256" =  "fdb08bf6e7bc4a81e1d034218c7f9909803b0c76622c2191df535e890623ad21";
-      "url" =  "https://files.pythonhosted.org/packages/32/65/8e1f1f49ed7f078f5142e4d8a9a23d60209a724e5aba4fdbea713e9d1d58/Galio-1.0.0.tar.gz";
-    };
-  };
-  "GitTornado" =  {
-    "0.1.0" =  {
-      "sha256" =  "cb15fcb9e2e8f83e07def258f2dbe3bbaa8dbefaaf3ce32fe210cc6669b4f3b0";
-      "url" =  "https://files.pythonhosted.org/packages/50/34/29f7251ae4795b84419387610dc569e0700bd271a08bdaabd24400d842c4/GitTornado-0.1.0.tar.gz";
-    };
-  };
-  "GoTypeBear" =  {
-    "0.10.0" =  {
-      "sha256" =  "57440b5e9eaad84d4d531c08877f3a6b5535a8052b4bda7668032023ffa92654";
-      "url" =  "https://files.pythonhosted.org/packages/c4/30/0a4e71f8022376acdb81d344a5894cf23b99c1f4e9ecd023be34208cd894/GoTypeBear-0.10.0.tar.gz";
-    };
-    "0.8.0.1469053959" =  {
-      "sha256" =  "e4e288ef9c905cb1250be590921c3e345b09d258904c88fc2101b1433ac7268a";
-      "url" =  "https://files.pythonhosted.org/packages/34/99/ea85d10d2a2cceaa3879b5df395ecd12f058d1c0d9f98c7582157c1f1985/GoTypeBear-0.8.0.1469053959.tar.gz";
-    };
-    "0.8.0.1469056261" =  {
-      "sha256" =  "cbdf7dfc5d948a975e68fe5d5db765ea4b14e7f7c116c7e7ec5dec369506aaca";
-      "url" =  "https://files.pythonhosted.org/packages/32/d2/335d2b89388925f3737a29d3cee6218c796d615af8c56e605c9d04bd97b0/GoTypeBear-0.8.0.1469056261.tar.gz";
-    };
-    "0.8.0.1470601983" =  {
-      "sha256" =  "3bd28556771c6cb18df07364970a5f2c6522c9fd7ecc29ff71e97669c31f9d6b";
-      "url" =  "https://files.pythonhosted.org/packages/07/77/2af38e5527e5458c4ad199de9ff1eaf94a1dd1d43bd12e09cab51f49e83a/GoTypeBear-0.8.0.1470601983.tar.gz";
-    };
-    "0.8.0.1470652900" =  {
-      "sha256" =  "a935bde9eccb1b3b938ce20ed40bd4860c7b7ba4e70520fa01984354d8d16d2d";
-      "url" =  "https://files.pythonhosted.org/packages/31/7f/c66f0b2ab3dc91bf3a24bb83f8adc167a0f0524bae1985e5aeab3947890d/GoTypeBear-0.8.0.1470652900.tar.gz";
-    };
-    "0.8.0.1470683252" =  {
-      "sha256" =  "a1b926d071ba76b14067edb3c9060a583ed5087135322e3f742f0dd3a123badf";
-      "url" =  "https://files.pythonhosted.org/packages/b9/d2/18c37898264c93d459a186c3cd6dadca65f9e0fcc9bd25fbfe9efe763d26/GoTypeBear-0.8.0.1470683252.tar.gz";
-    };
-    "0.8.0.1470778714" =  {
-      "sha256" =  "39fa432b732a0d879d206ea41b3a0fc4e9b5d17cfca69451134df0d72f0fcf63";
-      "url" =  "https://files.pythonhosted.org/packages/45/35/7f6e954a33b2c2bdbfe0eb631dbd1b2afa08df79f1e1a71e2879bea90a87/GoTypeBear-0.8.0.1470778714.tar.gz";
-    };
-    "0.8.0.dev20160623094115" =  {
-      "sha256" =  "6d6f877c2e795f38ff75c608411821a16116fba6917a28fa2a8d1fa3d85c7744";
-      "url" =  "https://files.pythonhosted.org/packages/78/86/541b3714828603eaaca25585751713216ed9d5df34f0180761d575112646/GoTypeBear-0.8.0.dev20160623094115.tar.gz";
-    };
-    "0.8.0.dev99999999999998" =  {
-      "sha256" =  "f3b598d638a800189194a977f0b50885cb1020dde3d3c82edd8db1ccec2e7d63";
-      "url" =  "https://files.pythonhosted.org/packages/93/5e/822b8f275fe210ed8fcb77dd774fe477ac905ff98b16052493d7a464360f/GoTypeBear-0.8.0.dev99999999999998.tar.gz";
-    };
-    "0.9.0.1471985227" =  {
-      "sha256" =  "13543c0a47399d36f6c845eee16468263219dcd5bd6242689b583fa96a6824ca";
-      "url" =  "https://files.pythonhosted.org/packages/59/69/d00d286992965822d486f7bea93890931105fb3b4588e8f0026d226748ae/GoTypeBear-0.9.0.1471985227.tar.gz";
-    };
-    "0.9.0.1472135633" =  {
-      "sha256" =  "13779042d0ae56e25a5a0a96cb409a82ddf0505d3d3d4ff6353185c398937704";
-      "url" =  "https://files.pythonhosted.org/packages/4d/e7/046a444ce56ebc3941a05dfff0e4955049ba5ffa22959ed26d804140ee30/GoTypeBear-0.9.0.1472135633.tar.gz";
-    };
-    "0.9.0.1472138301" =  {
-      "sha256" =  "7630b0b779660cb3f445704ffbc2fee2f1b366546a61c6107481173ab9cdcb4d";
-      "url" =  "https://files.pythonhosted.org/packages/9e/b1/e9fda8c151dce5af1c0e7e1a8b298227f3d3488e07185ffd8776fca2ceaf/GoTypeBear-0.9.0.1472138301.tar.gz";
-    };
-    "0.9.0.1472140809" =  {
-      "sha256" =  "ea4559fd25ee19d57567f6376ac4cfbfd5072b85c1d932e263b260fc9a6af90c";
-      "url" =  "https://files.pythonhosted.org/packages/6a/21/3f9afd84ff6a9c3d3f596f14d51110be710fd10da87c9183597661281529/GoTypeBear-0.9.0.1472140809.tar.gz";
-    };
-    "0.9.0.1472658165" =  {
-      "sha256" =  "616629c0466fae84c6436d65d1f919c0cb5bd68c9668918e82f6af8cf7e0cbe2";
-      "url" =  "https://files.pythonhosted.org/packages/26/af/566afce88496c111dc4ed78f27ad520d66d26bfb974cde055e0fd0517c22/GoTypeBear-0.9.0.1472658165.tar.gz";
-    };
-    "0.9.0.1472802302" =  {
-      "sha256" =  "7f8aadd4288a5a2c7bbdaef7dfe4cf0046ceb5a393ba241d8737fc463db89451";
-      "url" =  "https://files.pythonhosted.org/packages/35/20/8dfcb3dd667f7907dbee8dd03c4a891174b7ae9eac8a096b5207fc3b0cbd/GoTypeBear-0.9.0.1472802302.tar.gz";
-    };
-    "0.9.0.1477657212" =  {
-      "sha256" =  "15f90df60ed9d0cee1bc7b0a340d5d61e9e9fb1c5136f9127a882557df2771c8";
-      "url" =  "https://files.pythonhosted.org/packages/bd/71/4fd4e10e3ef66638d60b641a07920469318b6dde74ca0dab3d1845334030/GoTypeBear-0.9.0.1477657212.tar.gz";
-    };
-    "0.9.0.1482008498" =  {
-      "sha256" =  "135ac4376d57a97f098f1d8a599b90ee97282f40cfa456da67c53d47bb5e5b0f";
-      "url" =  "https://files.pythonhosted.org/packages/0b/37/381e3d118aab4c1443bed226a5b88fe019f6344b30865db578ac2e8fee98/GoTypeBear-0.9.0.1482008498.tar.gz";
-    };
-  };
-  "HfCh1LeviRefined" =  {
-    "1.0.0" =  {
-      "sha256" =  "8474e9a96fa15595a06fde1a22b1b593c8699204be04a27e99b0b89ac5fbe4e0";
-      "url" =  "https://files.pythonhosted.org/packages/fe/d9/f3845971b353eb129decf3a8be070cb21ca11828f177ff568cb4093c5344/HfCh1LeviRefined-1.0.0.tar.gz";
-    };
-  };
-  "IotPy" =  {
-    "1.0.0" =  {
-      "sha256" =  "e5b8576e90fce599cb1bfc30e19280b530404e4c7be17b98ceb1f95c233f0b35";
-      "url" =  "https://files.pythonhosted.org/packages/89/c9/14f0dadbce818f0363db6a8f9e74cd7ae2579fa8eaa0c9c485103d243be2/IotPy-1.0.0.tar.gz";
-    };
-    "1.0.1" =  {
-      "sha256" =  "1dab15c30d8fa91e44650c38e73cb3ebe25bd48e9655f75cf5b49eb28f2486c3";
-      "url" =  "https://files.pythonhosted.org/packages/59/a6/f633f37dfb7ee24356a3808d522dd86d3e10fa93c5be1fbbdea896970f4c/IotPy-1.0.1.tar.gz";
-    };
-    "1.0.2" =  {
-      "sha256" =  "cc6c111fb21a863f346fa39161e99414a729759af155d90b0d1c2aed169f9516";
-      "url" =  "https://files.pythonhosted.org/packages/6c/03/12b5fd39a3b809e251336f13586af6a1875c5fd51bb9e30a4d2e158b4e62/IotPy-1.0.2.tar.gz";
-    };
-    "1.0.3" =  {
-      "sha256" =  "c71efc95b4a517f6a64697d4077f12192d9f3e43ac8da96faeb2edee8851fc8e";
-      "url" =  "https://files.pythonhosted.org/packages/e8/f1/433d2f88e251c38eba831997eb4e2f6936e3a8fe865be51415337dc9b179/IotPy-1.0.3.tar.gz";
-    };
-  };
-  "IterPipe" =  {
-    "0.0.2" =  {
-      "sha256" =  "ddd85be23685228515c68bf8eef2b76e94c470e72b6bd7c422df07978c5b649f";
-      "url" =  "https://files.pythonhosted.org/packages/4f/89/fb76a32955bbcaa2998870443638315ea2aff6cf8c2c952265b40a76362b/IterPipe-0.0.2.tar.gz";
-    };
-    "0.0.3" =  {
-      "sha256" =  "d92661893381e790dc615461f2e9645e5a10e4c2a092b4a97dbfe0bc06425c11";
-      "url" =  "https://files.pythonhosted.org/packages/69/1f/47519508da0cc1457b15521059bd2918e639d2179563c51572bf9b702315/IterPipe-0.0.3.tar.gz";
-    };
-  };
-  "Lagring" =  {
-    "0.1.1" =  {
-      "sha256" =  "30854d0148bbcd497f106d145e0d77e5777eaace16c10dbb7735f1931504e0b8";
-      "url" =  "https://files.pythonhosted.org/packages/ed/46/d82d23601c6d9a2fe4515dda2aeaeb1806285d9f1d00da4f35ce2f51a312/Lagring-0.1.1.tar.gz";
-    };
-    "0.1.2" =  {
-      "sha256" =  "923ee01b30b47ad4db40b446b70f8743a03692c7e057b19bf160dd5a21089221";
-      "url" =  "https://files.pythonhosted.org/packages/fc/ca/30a07388306e0d54d63afde4aab63bedff19dd351c42c4236c8ab8d39157/Lagring-0.1.2.tar.gz";
-    };
-    "0.1.3" =  {
-      "sha256" =  "51a2a5005f1ffa6f683410debc268b153764143bd7064a671ff7d853a1c5e752";
-      "url" =  "https://files.pythonhosted.org/packages/a1/1e/331f9ffd19288e1e3e55437f714586bbddb0849e76c8391b6b4778a4f41a/Lagring-0.1.3.tar.gz";
-    };
-    "0.1.4" =  {
-      "sha256" =  "8583b84c8f94b5066e8960ef558af076ceff5aea8ca6768975b0013f540333ae";
-      "url" =  "https://files.pythonhosted.org/packages/95/5c/bc67178116e5cecdfd7a2c74142b38722c68cee8984f4f69850901c720f4/Lagring-0.1.4.tar.gz";
-    };
-    "0.1.5" =  {
-      "sha256" =  "c09d176c36a71a56276ae57e922763eb4d6d8b7d8cdba9ca300b9c17cda5c0a4";
-      "url" =  "https://files.pythonhosted.org/packages/1f/91/f64d142179688956bf23dafc95130b1b1c1ab052f21871a0640abe335115/Lagring-0.1.5.tar.gz";
-    };
-    "0.2.0" =  {
-      "sha256" =  "9b2fedaf57fab78992af1d39f26fcb9791c102e315084eef91ecf246822f217a";
-      "url" =  "https://files.pythonhosted.org/packages/70/ab/94574bc7d5ba837eba7be4360a080e9b6bd283d8b54beeb7fc4cfe3e569a/Lagring-0.2.0.tar.gz";
-    };
-    "0.2.1" =  {
-      "sha256" =  "6659118122cbf601634b6f9681f5458a5d0e0d6dc12312826abdd77fd9d9b814";
-      "url" =  "https://files.pythonhosted.org/packages/ac/a1/f12adeef9692007066ef2dfeb18f0449504f0d1a2eeb98793b9069ed379c/Lagring-0.2.1.tar.gz";
-    };
-    "0.2.2" =  {
-      "sha256" =  "de8fc6c1bb8f46dff3e330eb354d11320196f09e7fea2bf8d525984037c67fc2";
-      "url" =  "https://files.pythonhosted.org/packages/a5/45/15bd5f487a6bb13bb791746d335ddd2095aa129bb97dc4095ee4b9036726/Lagring-0.2.2.tar.gz";
-    };
-    "0.2.4" =  {
-      "sha256" =  "96790c5741c9bafa5fc9dd1b6c44f00945d38bfd0a412fdf6e81218cfe531778";
-      "url" =  "https://files.pythonhosted.org/packages/6e/ef/beeeb136949df57d5b2229d01ffae25a1642c2de743cdf2a08834aa599cd/Lagring-0.2.4.tar.gz";
-    };
-    "0.2.5" =  {
-      "sha256" =  "1fc822711ce0ce7692f846e16f0c8d2f959f48e8b51724907ec49e3591189b6e";
-      "url" =  "https://files.pythonhosted.org/packages/18/cc/4c13fd484fb573ab188cf1afa41381731ef64cdbdfc58fac671f8344b8ce/Lagring-0.2.5.tar.gz";
-    };
-    "0.2.6.2" =  {
-      "sha256" =  "742dd085bb52b34d8932e57ece77f6174893094673a3a5827135ddafe4e38a30";
-      "url" =  "https://files.pythonhosted.org/packages/0f/e7/aaaf91f1e3e3cb079d0d4fc1040bb876279bd396ca1a0b99f48642adc17f/Lagring-0.2.6.2.tar.gz";
-    };
-    "0.2.7" =  {
-      "sha256" =  "accab814950110deb1431ac1db6edcf5179619e7ae1136a20b2247eca2b778cf";
-      "url" =  "https://files.pythonhosted.org/packages/57/73/2abec22aca678b10ac098f11e736aefdde7704efa88ea3a12269bd27f5af/Lagring-0.2.7.tar.gz";
-    };
-    "0.2.7.1" =  {
-      "sha256" =  "e38ceae74c8a2d11489a783af08662a2a032ebebdda1b9bc0fef9b4e6d301b43";
-      "url" =  "https://files.pythonhosted.org/packages/d6/d4/82619decac24ea683ae1ab8322dc0607d05484d568ba02916fb2e9e0a8f5/Lagring-0.2.7.1.tar.gz";
-    };
-  };
-  "LbDiracWrappers" =  {
-    "0.1.0" =  {
-      "sha256" =  "47dc61d5cbefce78ead9a566a0bcb9a7de9083caf7407f85d904bea135b6c7a2";
-      "url" =  "https://files.pythonhosted.org/packages/93/f4/36ea61df35cfe9a5841e1e1a21b450f42f6d42e6a7c6beb257442d5f9394/LbDiracWrappers-0.1.0.tar.gz";
-    };
-  };
-  "Maria_MENG" =  {
-    "1.0.0" =  {
-      "sha256" =  "96794b24edeef120aea86921069da87dc64fc339e792aeec89155c644ea0cd50";
-      "url" =  "https://files.pythonhosted.org/packages/60/08/026e5985639cf161e3ec5a50f4afb1c53ad5e307539be54e684d1a6034bd/Maria_MENG-1.0.0.tar.gz";
-    };
-  };
-  "MongoIngestorS3" =  {
-    "0.4.0" =  {
-      "sha256" =  "5878984d96bc522cc7f48db20d0f575a9e68985a00874f30c7fbdb374fa7c1ed";
-      "url" =  "https://files.pythonhosted.org/packages/31/60/4c737a8cd68849816c33e6558255baae25da51430cfbc4e600c77eba292d/MongoIngestorS3-0.4.0.tar.gz";
-    };
-  };
-  "OAuthClientUser" =  {
-    "0.0.1" =  {
-      "sha256" =  "98903e8372e1ced6936af941d49747ac8f68d636d7791c95c2d1299f38977106";
-      "url" =  "https://files.pythonhosted.org/packages/97/12/efb185675ce81c9e68b8e7e0bb3a23dd5dc8ccf8153814c354707090b8c7/OAuthClientUser-0.0.1.tar.gz";
-    };
-    "0.0.10" =  {
-      "sha256" =  "a05ee3dbf8721328ed06d682df794018e9b4f441378c95276eb92c2cb108bd80";
-      "url" =  "https://files.pythonhosted.org/packages/e9/8f/cf71ffae8895603197ff71543af52d4e067867461f4f8bdc3f60b1f385b3/OAuthClientUser-0.0.10.tar.gz";
-    };
-    "0.0.2" =  {
-      "sha256" =  "f5ff8f7bc4972a72b3a97b21df7462fc3ff9e8d724a53cdcb2d09f15b2c0ba32";
-      "url" =  "https://files.pythonhosted.org/packages/0b/97/7eb09f3833e28376cd9c79554fc5523308cc543ac84ce4500e1a6bdfe2bb/OAuthClientUser-0.0.2.tar.gz";
-    };
-    "0.0.3" =  {
-      "sha256" =  "39c8a726972d18ae75a54e6311fe6ae771345d85ba4c5feb51e734c4e624a92c";
-      "url" =  "https://files.pythonhosted.org/packages/ff/f0/b1166d134021044ef6abe87447f4e90a2da0910ab2647f32e615ea5b4f0a/OAuthClientUser-0.0.3.tar.gz";
-    };
-    "0.0.4" =  {
-      "sha256" =  "9dcee3943afa6f09e2970e545ba132a5bd7db3ff08fe5f02b1bd61df757ecf7d";
-      "url" =  "https://files.pythonhosted.org/packages/f6/c3/6a2c81bd93c904c87800542a72d90a81f349d973bf252869846e66bfcb58/OAuthClientUser-0.0.4.tar.gz";
-    };
-    "0.0.5" =  {
-      "sha256" =  "f6a721c74c53b3dc5947ff3d31cadb859fa4fa6e89f678f074295fcca8860f6c";
-      "url" =  "https://files.pythonhosted.org/packages/b7/ae/326cca1a4756fb5b700165f947a71efb4bb3f08ec4542f79caba5b869b5e/OAuthClientUser-0.0.5.tar.gz";
-    };
-    "0.0.6" =  {
-      "sha256" =  "fd6e405ffafa9949f69a45177965a3a4aedd3b72e8dedbbaff38f52dcf475349";
-      "url" =  "https://files.pythonhosted.org/packages/b2/3d/60f9fc83a65e185a088e749b90419226e841f660ff30d809a484d80ef224/OAuthClientUser-0.0.6.tar.gz";
-    };
-    "0.0.7" =  {
-      "sha256" =  "f388a6a40fbb286ddfe96cb0db787746949d1b12fb6df468d8baa02239c90454";
-      "url" =  "https://files.pythonhosted.org/packages/cd/00/a99a1df1c21505db187ec2af719b2fa3ce3cb1a4d1e0fcb18ed4a5bbeea8/OAuthClientUser-0.0.7.tar.gz";
-    };
-    "0.0.8" =  {
-      "sha256" =  "3670257fc3acc9ea7fca3c08dd21b4512c12f50b81fa19c807235e5120d40e68";
-      "url" =  "https://files.pythonhosted.org/packages/b2/b2/eb08555362fab432aa37999cbcdf0053222092414a855e4d23c54e8adc26/OAuthClientUser-0.0.8.tar.gz";
-    };
-    "0.0.9" =  {
-      "sha256" =  "2d61512d30bea1737ca75e89638daa564901b4604d89c85f670bce6438308367";
-      "url" =  "https://files.pythonhosted.org/packages/b0/a0/11a76943c91be3c501b0965d81057a8aba0b69de2c4f7ec4c3b8cc8d3055/OAuthClientUser-0.0.9.tar.gz";
-    };
-    "0.1.0" =  {
-      "sha256" =  "43738aac85ccda24c651ed6d901cb8e425561b904079ecdbaba17d2793acef8f";
-      "url" =  "https://files.pythonhosted.org/packages/0c/3a/00e2337eb54119317990972adc969ecac07f97cbb018ede8649c69f46c3f/OAuthClientUser-0.1.0.tar.gz";
-    };
-    "0.1.1" =  {
-      "sha256" =  "3dc566362533b76fa7a0813f1f74ff177c0f1f413c03099206b80c14ea226407";
-      "url" =  "https://files.pythonhosted.org/packages/84/9e/df1b8d6a1a151355bef186d62dd00c349fdb2e8ff7a6bc3173507488ce09/OAuthClientUser-0.1.1.tar.gz";
-    };
-    "0.1.2" =  {
-      "sha256" =  "ea6873f49c216667a109a0925976b96e8931e735bcf02086b278440727564bdc";
-      "url" =  "https://files.pythonhosted.org/packages/af/0a/a9789851eebd1c31ec5976f0610cd945cc19bb9557d223bed0e7373d2fd0/OAuthClientUser-0.1.2.tar.gz";
-    };
-  };
-  "OGN-Flogger" =  {
-    "0.3.2a14" =  {
-      "sha256" =  "7e59b313a5ccd9889cf7614a30d37b431957f66fbabd17db110c8ea8f1648d70";
-      "url" =  "https://files.pythonhosted.org/packages/62/7d/9a2ddc9b811ecd5a96974aceaf5b81f9abd63e2c72f453e4abb4afb77e6b/OGN_Flogger-0.3.2a14.tar.gz";
-    };
-  };
-  "Obhavo" =  {
-    "0.4" =  {
-      "sha256" =  "f51da3dd75355fe64be7564cdce6cee186086439e9c4b4a89d2ed7ce577b93a7";
-      "url" =  "https://files.pythonhosted.org/packages/bb/b0/d8eeadda3e98f13eb1cc46cf9e1538b31286f3e8cb5b0a556649e83ce553/Obhavo-0.4.tar.gz";
-    };
-  };
-  "OnePy_trader" =  {
-    "0.62.1" =  {
-      "sha256" =  "793ec4f51905b64033892ce46242429a7caf12ac1937d900a20e6b5e377b3629";
-      "url" =  "https://files.pythonhosted.org/packages/4f/63/aed0c068bcedf0a6f147a33fab087f663e96063493f014fccb2c63cc4cc7/OnePy_trader-0.62.1.tar.gz";
-    };
-    "0.63.1" =  {
-      "sha256" =  "3059306d1a02f24122920be7cfac08c301c1c367803cc5a546bff8c8f8fc41c3";
-      "url" =  "https://files.pythonhosted.org/packages/79/7c/85ea861f14a1d9e19f23593412636c05e68c026446d1d44d2928679de5cb/OnePy_trader-0.63.1.tar.gz";
-    };
-    "0.64.1" =  {
-      "sha256" =  "e8ddc91f699d671eb5e78412a9ff3c7809c5a80a7fedb63d63b720ad0f7ac60a";
-      "url" =  "https://files.pythonhosted.org/packages/2f/45/0b4af76644c714fb4eac96eaa10f70589909b1a821751c25b3453b29ddf1/OnePy_trader-0.64.1.tar.gz";
-    };
-    "0.70.1" =  {
-      "sha256" =  "3d449cbf086886d2b796c9a9ce90078c935db3a5086c86cde37b0d397a7ffcc3";
-      "url" =  "https://files.pythonhosted.org/packages/b2/35/d334bdc13c89f98a675a1a1e14d67d511fbbe7a61e47ada5784de050710d/OnePy_trader-0.70.1.tar.gz";
-    };
-    "0.71.1" =  {
-      "sha256" =  "cbbafa7278af0eb108d8eaea8a085b0aaf0f9eab5f10375860d548313f9a9c83";
-      "url" =  "https://files.pythonhosted.org/packages/6c/b7/c9a0a2fe8ce35870fe152bcde3983cabe79a643b66328f74ac1b5bbc0194/OnePy_trader-0.71.1.tar.gz";
-    };
-    "0.81.1" =  {
-      "sha256" =  "81a94b233a4b1ed1eb19cc825e213dd909d4331eacebcf2657b2354a96c9bea6";
-      "url" =  "https://files.pythonhosted.org/packages/3c/58/9c9313bfb51f602f013586af9dbefbbdd656652990c88a8a0ce067b904b4/OnePy_trader-0.81.1.tar.gz";
-    };
-    "0.99.1" =  {
-      "sha256" =  "3ed424b2185f345befa003a288d0232a8bbb5d993005f3a147f9143577ade177";
-      "url" =  "https://files.pythonhosted.org/packages/5e/c3/bddc66af731df4ca0ce5d1e1a518402b29b90bd83273acc0b235f27941b6/OnePy_trader-0.99.1.tar.gz";
-    };
-    "1.0.1" =  {
-      "sha256" =  "41ab1fd769fa2c49e4cc7f6b1c9651d23ffe0b591709fe1abc5c6ecd7adbb3ce";
-      "url" =  "https://files.pythonhosted.org/packages/2d/6b/1a784f7630c9ca9ac9ffb572f79cf5f8eb93c08a56646d2df80ce81b2cf3/OnePy_trader-1.0.1.tar.gz";
-    };
-    "1.1.1" =  {
-      "sha256" =  "5ca9bd071d85a9144922aaf5007ca165279cb9d5200586d9ea48af6195ca6d58";
-      "url" =  "https://files.pythonhosted.org/packages/38/fc/db4dfea60d3941e3da0714244e7cd5711ee645f075185ff2dc8cea90192c/OnePy_trader-1.1.1.tar.gz";
-    };
-    "1.1.1.1" =  {
-      "sha256" =  "06ada1a2a63557d9480234091e02450fc3e6b50805a92b622d8f1b3dbba260a5";
-      "url" =  "https://files.pythonhosted.org/packages/40/2c/bccae2c6fe8f592b33fbea19eeddcd8178b5e3c004bea8a250dd1d37eb1d/OnePy_trader-1.1.1.1.tar.gz";
-    };
-    "1.2.1" =  {
-      "sha256" =  "a0c767bd3fff71dbc64210246b02c3eec7e7e6f3b6cd1ab61d4091d2d625e4f0";
-      "url" =  "https://files.pythonhosted.org/packages/aa/32/51381d3013e655435ebe941b88fe6551f3d69c9081671946fe6f34673ba0/OnePy_trader-1.2.1.tar.gz";
-    };
-    "1.2.1.1" =  {
-      "sha256" =  "92feff86cff2d236a83661521c139dd3a67ba7b0a869c542dc4d00276afd85f5";
-      "url" =  "https://files.pythonhosted.org/packages/b3/c1/530a201e290faeeee7e34ae521eaa42784935a8b24690108c59e4c811221/OnePy_trader-1.2.1.1.tar.gz";
-    };
-    "1.3.1" =  {
-      "sha256" =  "341bec2f1a07390f159197fb0b3182caaaecfb0a00678cde022f520576535404";
-      "url" =  "https://files.pythonhosted.org/packages/b5/cf/8f8d7f43324e623c507f3380bd335374aee472203449e1a2de342cdf5569/OnePy_trader-1.3.1.tar.gz";
-    };
-    "1.3.11" =  {
-      "sha256" =  "9c438a224fa51317965117d23c21a1d035129b31e3c40840b4a234be5fa8b7ff";
-      "url" =  "https://files.pythonhosted.org/packages/34/62/8ab5a6f30b4b830a74e2a5fc1595dc06060019d4fffda474813150ba92bb/OnePy_trader-1.3.11.tar.gz";
-    };
-    "1.3.12" =  {
-      "sha256" =  "dd99285b0ba7297082fc3721f2ad00ec51ade6fb0ba674a0bcee99f10cc2e397";
-      "url" =  "https://files.pythonhosted.org/packages/14/6b/447b871bc23cce0cf786633cdabbf9901083493345ba996d73e432db4b1c/OnePy_trader-1.3.12.tar.gz";
-    };
-    "1.4.1" =  {
-      "sha256" =  "29baebee119bf86ded90f5d58d7cce1c4e4b8adc83c66c7669d323de27454575";
-      "url" =  "https://files.pythonhosted.org/packages/87/f9/bbb5fa119a29d1d20a83a4a629fcc032076864a9dfe218da1686d2d7c926/OnePy_trader-1.4.1.tar.gz";
-    };
-    "1.50.1" =  {
-      "sha256" =  "947ce7e798925b504f9f7e5d83e9278c3f81f06a0ad0e6091de318930f23aceb";
-      "url" =  "https://files.pythonhosted.org/packages/a4/f4/28ee7709274e80d40b95acccd1c0da43c8eda47cca6c3a8b1567012e34cf/OnePy_trader-1.50.1.tar.gz";
-    };
-    "1.51.1" =  {
-      "sha256" =  "54edf94bdf1a6db30ad9d654c32117c8370d5ff7213adca7a0c3d2723eec4b73";
-      "url" =  "https://files.pythonhosted.org/packages/b1/0e/23ce81f2ff24bb6d400cac190a2850ad80e010eb9d35cc2196b771a5e7fd/OnePy_trader-1.51.1.tar.gz";
-    };
-    "1.52.1" =  {
-      "sha256" =  "40ec10eab9365c14242e0cf5d136edbf2b54f91e3f0c365c38e6f3b3d858a0ec";
-      "url" =  "https://files.pythonhosted.org/packages/b2/a8/00f00d84f4984ba4128a7e6cc2cf776b1e7e384b22ed30f4021ad1293a72/OnePy_trader-1.52.1.tar.gz";
-    };
-    "2.0.0" =  {
-      "sha256" =  "bb48503f8e81e8a2f5387e198d044e683b66254a9d12c8176394b2979c28fec8";
-      "url" =  "https://files.pythonhosted.org/packages/b8/1f/23c635916fb102c83488915a083491de7d48089fce6a00bd12c4a1aded1b/Onepy_trader-2.0.0.tar.gz";
-    };
-    "2.1" =  {
-      "sha256" =  "9341fcbfd527b2fb6aa5e26569155b89e488fa0a0620d1ccd9ac85dd28115c44";
-      "url" =  "https://files.pythonhosted.org/packages/3b/fc/61593c29359a1a1eca601c678c3223d29cd5ccac4ad7449193dc570461b6/Onepy_trader-2.1.tar.gz";
-    };
-    "2.2" =  {
-      "sha256" =  "2651d63716ba6abf538fbef6b3e328e692c62e8444b719ec0ee2f139277ef4f0";
-      "url" =  "https://files.pythonhosted.org/packages/03/c9/d0361765537ced5a883a0294a5586e3d1333c57623f5c241fb6c48a8f37d/Onepy_trader-2.2.tar.gz";
-    };
-  };
-  "OpenIMU-CEK" =  {
-    "1.0.0" =  {
-      "sha256" =  "b88e978c3037d24b3d2d0039d80c8985fc197f14260faaaa5edfe2b03741e715";
-      "url" =  "https://files.pythonhosted.org/packages/d4/35/a5366690a32d13b205fa5fbea81de22c517f68923f1daee0517ae7990589/OpenIMU-CEK-1.0.0.tar.gz";
-    };
-  };
-  "PROPKA" =  {
-    "3.1.0" =  {
-      "sha256" =  "ada690067c5ad9ca6be412491380929e5275fa41166aa1fb2c820fcc2dfdb619";
-      "url" =  "https://files.pythonhosted.org/packages/a3/7b/e935ce37cbf9ac8fe23ec05f8072fb3a63582b20fb01ef0c24502b5d10ba/PROPKA-3.1.0.tar.gz";
-    };
-  };
-  "Products.OFolder" =  {
-    "1.0" =  {
-      "sha256" =  "599fd1fe1eb5ae2148ae06dbc76f096d14a192e8977ec069b1d39c655fda11a4";
-      "url" =  "https://files.pythonhosted.org/packages/4f/0a/cbf82d6dcc9a3503ac79dda69e7cee3e91120edb4cc8ebb6f155dc02174f/Products.OFolder-1.0.tar.gz";
-    };
-    "1.0.1" =  {
-      "sha256" =  "4c4c7715247595f8eddef1df1c62e69d303fcfc62a0693cb8b42938cfeacabd1";
-      "url" =  "https://files.pythonhosted.org/packages/fe/7f/834454f1b92b2a25b7945f4aa389b84594d27fe8803d91ce5d26ab2f53a7/Products.OFolder-1.0.1.tar.gz";
-    };
-    "2.0" =  {
-      "sha256" =  "90a148cfe09cf2c5fdc1d70616a6c6752f2832f54e4ed5ffe375ab5910dcbe73";
-      "url" =  "https://files.pythonhosted.org/packages/13/54/154e225a9a5c18a4fa71adb96f3eaaa2cd8e62a9150b2d3c80f7d650ae72/Products.OFolder-2.0.tar.gz";
-    };
-    "2.0.1" =  {
-      "sha256" =  "1390d12580abb2a0f0538f354d68ce90af262151df4e0a1ad22d3d62bb314e74";
-      "url" =  "https://files.pythonhosted.org/packages/9e/e0/68d882078552e1e39781baf5a4394792e5aa0809317cc3e6496da99b30db/Products.OFolder-2.0.1.tar.gz";
-    };
-  };
-  "PyBtMesh" =  {
-    "0.1" =  {
-      "sha256" =  "a4362d54d8a78bf75b7c3ef7da7ad9ea28002aa5b2ff2f84a11a65947c8918b3";
-      "url" =  "https://files.pythonhosted.org/packages/61/9e/1ead6c79e55fab1028310fe6795fdfccd6199725aba632132875bb83384e/PyBtMesh-0.1.tar.gz";
-    };
-    "0.1.1" =  {
-      "sha256" =  "3ad66c2783ed52dbd60445bbf28e77a332fb25029bf7d2fbb075593b112db907";
-      "url" =  "https://files.pythonhosted.org/packages/6d/5e/35b46793cbfc6a2358bde17c088ff4be375b71074120a2cc9ad3efae8035/PyBtMesh-0.1.1.tar.gz";
-    };
-    "0.1.2" =  {
-      "sha256" =  "100d8682eb69f3271eb0d86095cb9dea41f65b0ef8c6be70d0789dffd7ed06df";
-      "url" =  "https://files.pythonhosted.org/packages/68/72/9f4dd4babc29caa2e17066a754bd850795c3bf948b82c46ef7f11d9e25d3/PyBtMesh-0.1.2.tar.gz";
-    };
-    "0.1.3" =  {
-      "sha256" =  "f45dc8a3efbeb9530d24e16be11ab38695edbad8e2470a9d7aada4a977f4721f";
-      "url" =  "https://files.pythonhosted.org/packages/91/f0/12914419aebca74754d136cce2839b5ab339a542c80ec58e9cafe21eff53/PyBtMesh-0.1.3.tar.gz";
-    };
-  };
-  "PyNimbus" =  {
-    "0.0.3" =  {
-      "sha256" =  "6b3f8c8f3ff8111505ea2f8464915acf8697e55156028d4eb8abeda08c36b3d0";
-      "url" =  "https://files.pythonhosted.org/packages/77/9b/0f628279f6fe743d29ef3d39b2e110b2f72358351902554e79a1afeedc7f/PyNimbus-0.0.3.tar.gz";
-    };
-    "0.1.0" =  {
-      "sha256" =  "265335dcf8ab3e66d76e1bf788549bcb17b4e9a5f3f28524cba9ceabefc4267b";
-      "url" =  "https://files.pythonhosted.org/packages/df/e0/75235f95d1bad7fc7ea6066402fabf8b18c97b2a17d29a338a003692d032/PyNimbus-0.1.0.tar.gz";
-    };
-  };
-  "PyTableGen" =  {
-    "0.1" =  {
-      "sha256" =  "d5630faa09b7b128813d7699c63f4dc9ea781b0a8d84fa0db272b2e3963c5eda";
-      "url" =  "https://files.pythonhosted.org/packages/cc/1a/05c1bcaeacd39ca2fa3e192404d119d03557db045b1743aeb5bfb5efdfc2/PyTableGen-0.1.tar.gz";
-    };
-    "0.1.1" =  {
-      "sha256" =  "aae4384a427fd1c70b07e0206f42294f91065aeb5aadfbc3263fe2b8181ee66d";
-      "url" =  "https://files.pythonhosted.org/packages/2c/8d/df9de26182762e749da9545f15c17a4e595bf5f38cfa92877fabd2e0f167/PyTableGen-0.1.1.tar.gz";
-    };
-    "0.2" =  {
-      "sha256" =  "a2d41c97b3bb94ad2ab633318ad41157c551123963e7c27195b7569965d39d55";
-      "url" =  "https://files.pythonhosted.org/packages/6b/7a/ebb9d46cd482dc4bd5e2f7cf12b341e28f4f9d1bafc52bd589ba393b4016/PyTableGen-0.2.tar.gz";
-    };
-    "0.3" =  {
-      "sha256" =  "f063c1d0eee9718c488fbf73526c06e5eaf92af322fc09d97f66556749437bd9";
-      "url" =  "https://files.pythonhosted.org/packages/a4/23/4d52e8f1ed864aa12b322bc8f8576edc582365c72db0dceeeef6af6880a6/PyTableGen-0.3.tar.gz";
-    };
-  };
-  "PyUSBTMC" =  {
-    "0.1dev07" =  {
-      "sha256" =  "78d39294126ab3b87816724eaa579d9bb27d58e94642bef74752aac5e3c8e0f2";
-      "url" =  "https://files.pythonhosted.org/packages/30/fd/4a60fef37f981a98362ec058493b62de81e703db6d82dd4a75bf05a8fb9a/PyUSBTMC-0.1dev07.tar.gz";
-    };
-    "0.1dev08" =  {
-      "sha256" =  "647dfafc556664ac8760fe18d3b5d13d41fe02ca71bcab4bc979d6ab53e4b517";
-      "url" =  "https://files.pythonhosted.org/packages/aa/a4/615e066b61cfd52ab7e69fdb211ba139f5e8dcfff20c9a019630c5d34015/PyUSBTMC-0.1dev08.tar.gz";
-    };
-    "0.1dev11" =  {
-      "sha256" =  "3c5b13c5eeef254da67877a5dbd610d58cc7c8f3d01eab1d5951ad0a01219d3b";
-      "url" =  "https://files.pythonhosted.org/packages/8c/25/f613f30ed3a7e1433d4355b833fae59412ceda89478d2feff6a02b3107c2/PyUSBTMC-0.1dev11.tar.gz";
-    };
-    "0.1dev12" =  {
-      "sha256" =  "8ef48451f839164caa3abb8963fdd936c50da878dc2b0d16e0debd244da458c3";
-      "url" =  "https://files.pythonhosted.org/packages/55/65/18f0e5d5cbbfd1d9dea8410c5ac88977cd01ebeeff6a45642ff26c85dff7/PyUSBTMC-0.1dev12.tar.gz";
-    };
-    "0.1dev14" =  {
-      "sha256" =  "63c6bcc8a64e306e7de63c6b2f6bb7ad64e9255afa044bb193857f2b1e094602";
-      "url" =  "https://files.pythonhosted.org/packages/f3/a8/3b49967740c5f52ae00432a0f004f80caebb96e7e5ab7c803a821b235eff/PyUSBTMC-0.1dev14.tar.gz";
-    };
-    "0.1dev15" =  {
-      "sha256" =  "6f1f7e21bf2224f1956379401987934c71d32459d6579803ccaa84d68b77aa3b";
-      "url" =  "https://files.pythonhosted.org/packages/b3/bd/562db010e745175358c723d448bed6015cedd827d89ef616d90157398066/PyUSBTMC-0.1dev15.tar.gz";
-    };
-    "0.1dev17" =  {
-      "sha256" =  "d0096b9e17c9ce79616906d6dc67da28ff702db05434710c2689e51d8debc50e";
-      "url" =  "https://files.pythonhosted.org/packages/26/45/3147a87cf37465c5299a60a4dd9bbbda8320b7edc4b950e401cdf2c4041b/PyUSBTMC-0.1dev17.tar.gz";
-    };
-    "0.1dev18" =  {
-      "sha256" =  "97eec84788adc7ab03ab6b4056d637bac223ba893a2b58d2cc38249e03784602";
-      "url" =  "https://files.pythonhosted.org/packages/4d/ca/acc29050a2957d155b1374df516662f806407bb52647ad763867a88dc0b0/PyUSBTMC-0.1dev18.tar.gz";
-    };
-    "0.1dev19" =  {
-      "sha256" =  "baabdbba12550c6af9d54e9e0e7f5d31e422e00ee44cd023396813bf0b807015";
-      "url" =  "https://files.pythonhosted.org/packages/fd/ab/ca8f8e6b3b4b3870d101393a3df79df7e425f1476d0ad3a3b7d9865dc64e/PyUSBTMC-0.1dev19.tar.gz";
-    };
-    "0.1dev20" =  {
-      "sha256" =  "999c7f33906f7f639b46f4a8425d481079a965862133c36ee230844bc8ec19f4";
-      "url" =  "https://files.pythonhosted.org/packages/6f/6a/5029db8dcc4e206b7ac39c0c7dff3d7e13e08fe5a1d8f16f6efd4b5b649a/PyUSBTMC-0.1dev20.tar.gz";
-    };
-    "0.1dev21" =  {
-      "sha256" =  "415054fe98a6894b770ea5fe51666f4e12ac2781ea476301b49e0f11009ea24c";
-      "url" =  "https://files.pythonhosted.org/packages/b1/42/b1a60ae7724194f486f49b7ce1c0a56dce3b45aae98609751be30d7fd536/PyUSBTMC-0.1dev21.tar.gz";
-    };
-    "0.1dev23" =  {
-      "sha256" =  "4da2c9c18f6fe4f07691661b3c754d699a839162ee3c091fd3cef212b94dba48";
-      "url" =  "https://files.pythonhosted.org/packages/3d/f3/c808c2b6098c8f10c89bc3e2002052a1aedeeafcfc435ef6cb62feb98f5f/PyUSBTMC-0.1dev23.tar.gz";
-    };
-  };
-  "Python-video-annotator-module-smooth-paths" =  {
-    "0.0" =  {
-      "sha256" =  "a522756f52be7ca91800df1240e5c66cc8357f5b828e607c2fad9d0388efa8dc";
-      "url" =  "https://files.pythonhosted.org/packages/a1/58/7437c59220939b9793fc7cd300a471a3173ec6628d45522f7924a7842d9a/Python%20video%20annotator%20-%20module%20-%20smooth%20paths-0.0.tar.gz";
-    };
-    "0.1" =  {
-      "sha256" =  "93359e0970d7fb89f6898ca8fa1f285b2f7b1ea7700bcdeb01a5efb9b46b1f08";
-      "url" =  "https://files.pythonhosted.org/packages/c0/3a/01490b224b8a9fd01242aa3243388e4df4ab15e50c7d88ca9fcc9b63d2b3/Python%20video%20annotator%20-%20module%20-%20smooth%20paths-0.1.tar.gz";
-    };
-    "0.2" =  {
-      "sha256" =  "f03dda874ce5577f14e2f3870d20d37e76b26d874a2090da8377aad3d9805bad";
-      "url" =  "https://files.pythonhosted.org/packages/f8/2a/af78a22b2ca03a6f77bed285f3d0a5f3324e5e49eba8fcfa182deb9a8f4f/Python%20video%20annotator%20-%20module%20-%20smooth%20paths-0.2.tar.gz";
-    };
-    "0.3" =  {
-      "sha256" =  "92280a45b8a9056375dff502ffdd4caae52a4fb786c5b038b53fcd62d89abd84";
-      "url" =  "https://files.pythonhosted.org/packages/27/87/a9fddb145e61593c4262e5bd0759cb5e6a827c8c68f4ad48c2b04bcde394/Python%20video%20annotator%20-%20module%20-%20smooth%20paths-0.3.tar.gz";
-    };
-    "0.4" =  {
-      "sha256" =  "ef7dd305cf08ec77479b8866719d427106688f578cb386bccc4ea952739d3782";
-      "url" =  "https://files.pythonhosted.org/packages/80/b7/51aeef3218b1e12360fc251c9889f98c293ae1e56b7c2a7596e703220b34/Python%20video%20annotator%20-%20module%20-%20smooth%20paths-0.4.tar.gz";
-    };
-    "0.4.17" =  {
-      "sha256" =  "45f396725cbc92dab5783b8128e35cfda8cc89379d925d28037985abc506e8a7";
-      "url" =  "https://files.pythonhosted.org/packages/87/e5/3680531091edf50d6b97d6b6f7dcd1e5ef799d15418dba24d289e054b0a6/Python%20video%20annotator%20-%20module%20-%20smooth%20paths-0.4.17.tar.gz";
-    };
-    "0.5.17" =  {
-      "sha256" =  "92e0c35fb74e2bb1aec28b55446a3aa8c107b5e6e3ca805295414c4514c96394";
-      "url" =  "https://files.pythonhosted.org/packages/bf/a6/5ad8b48c6bf3df187e6cc917a47a09bf2606cfdf5e5acbfda3c2c5b4b2fa/Python%20video%20annotator%20-%20module%20-%20smooth%20paths-0.5.17.tar.gz";
-    };
-    "0.5.19" =  {
-      "sha256" =  "e5ba88d2c3ebf0cb679086b69ba1ac56d2ea1c09f3050ddcdedbc2ba55dccb42";
-      "url" =  "https://files.pythonhosted.org/packages/50/3c/760fb057f74c4dbbf5743d0215d81af05b381b99585a90f92a8a8c1ea68c/Python%20video%20annotator%20-%20module%20-%20smooth%20paths-0.5.19.tar.gz";
-    };
-  };
-  "RetroUFO" =  {
-    "0.9.5" =  {
-      "sha256" =  "046a54cda304fbb0391260c9a693dc0b17c4623b340d79d5da524df910b35975";
-      "url" =  "https://files.pythonhosted.org/packages/76/3b/e969333097f75a4c5351a087810265eafbbaaa633fdf9a78a9d2e6219078/RetroUFO-0.9.5.tar.gz";
-    };
-    "0.9.5.post1" =  {
-      "sha256" =  "8111ace0b295644ecebdf479617ca75562ad38c752f41ede3b1b91441c6262f0";
-      "url" =  "https://files.pythonhosted.org/packages/07/b7/eb5b025b84c097441cd01c6015e43032cdc2186cf4ac8b80d97f5159953e/RetroUFO-0.9.5.post1.tar.gz";
-    };
-  };
-  "ReverseFolderContents.ReverseFolderContents" =  {
-    "1.0.3" =  {
-      "sha256" =  "1f31419527766f0720b6091fda11841b8e7f9363d433f97dd487663db49e275a";
-      "url" =  "https://files.pythonhosted.org/packages/cc/90/3499a4fb0d2f8886f35962f3aa8f28d2d862b7acf0d76646401a7e292726/ReverseFolderContents.ReverseFolderContents-1.0.3.tar.gz";
-    };
-  };
-  "RotL" =  {
-    "0.0.1" =  {
-      "sha256" =  "38da17783c95085f767903f9b143c5a410f7915f72ef35bb4bd880df2973a2af";
-      "url" =  "https://files.pythonhosted.org/packages/2b/fc/9bade733a1d1599019ad3683f9fa1408e8c7e9d6b831494545f6b38c0cf6/RotL-0.0.1.tar.gz";
-    };
-    "0.0.2" =  {
-      "sha256" =  "84e729d8a76df8947d51745befa3ab9acd367b869ebdbead0dc0afdd5f55b108";
-      "url" =  "https://files.pythonhosted.org/packages/34/c9/651bb4ca5221d9377041c15b6b0c33cb9125543bbb15f5cadce87c4d90e1/RotL-0.0.2.tar.gz";
-    };
-    "0.0.3" =  {
-      "sha256" =  "b386a7386cc3b91e8fee531dbaa5088977a8a53079b17bc009cf5867c337b6b0";
-      "url" =  "https://files.pythonhosted.org/packages/ed/ba/91e88ddc1d129d79421858ec5b60ad93fde30cec47b75d15116f146f4cd2/RotL-0.0.3.tar.gz";
-    };
-    "0.0.4" =  {
-      "sha256" =  "bada3e9a49383d1c756d37f5ea04362182ceb59da28e3b4b0340535b5d5704d6";
-      "url" =  "https://files.pythonhosted.org/packages/03/25/c2be00b60a3bea4f95caf7d8c38c7d52281e5b98ae940ecd6e1462e8e48f/RotL-0.0.4.tar.gz";
-    };
-    "0.0.5" =  {
-      "sha256" =  "b84b731d57f60408f38dabccd35e813419855625d14366b24b20673157e9ea47";
-      "url" =  "https://files.pythonhosted.org/packages/c7/83/47fae9b66cc281816347ed87da5b00b30fa99f6886052b65f51553752cbf/RotL-0.0.5.tar.gz";
-    };
-  };
-  "SCPSyncer" =  {
-    "0.1" =  {
-      "sha256" =  "c759b0598d93eae2a22c51021c576328e327c2816dae2d17d9e45fa20b02c0db";
-      "url" =  "https://files.pythonhosted.org/packages/0c/fb/f145d782fe79329a5076fc8f1270ebcdafe358f812844d68132af7122c4d/SCPSyncer-0.1.tar.gz";
-    };
-  };
-  "SendMoney" =  {
-    "0.0.1" =  {
-      "sha256" =  "335730793d7007f94ef661b30e5b024346d6aef553eb633de53209d971b98eac";
-      "url" =  "https://files.pythonhosted.org/packages/32/9b/a468ce0e705e5c7f616783871f6b34fcda802421a1e595ad700483519025/SendMoney-0.0.1.tar.gz";
-    };
-    "1.0.7" =  {
-      "sha256" =  "976d145bf5242da6cb490610b5d7936069d751660a5d55a2e83474bc525ab565";
-      "url" =  "https://files.pythonhosted.org/packages/c2/9f/9c7464a069241b3d5270bda520a592ad33b2a700de93876320d5e0ce6732/SendMoney-1.0.7.tar.gz";
-    };
-  };
-  "SimpleCodeCompresser" =  {
-    "1.0" =  {
-      "sha256" =  "bcd57e3ef8acb7d1eeb3ccce9fa8e0cd1bc42ee500c9671c907d93699f324204";
-      "url" =  "https://files.pythonhosted.org/packages/05/fb/49dfda8c30f9c1201a701a01c40530dd071a276a1b9b0784842834abf20b/SimpleCodeCompresser-1.0.tar.gz";
-    };
-    "1.1" =  {
-      "sha256" =  "fc4cf8a82023aa01c97847c52ddc3361e8270bad0165b39027c2348c37359eb3";
-      "url" =  "https://files.pythonhosted.org/packages/ea/d4/754c8f47ec6fd978bdaf0fab445298f3a5bda9298c2dbca85bd4187ec7d2/SimpleCodeCompresser-1.1.tar.gz";
-    };
-    "1.2" =  {
-      "sha256" =  "ebd6b268efde999a2c79c4bb4a72a4e0400b969eec501835fb2ceb17cff07db5";
-      "url" =  "https://files.pythonhosted.org/packages/08/78/ec5579fdba7ce81c02d9bb66fe4660dc2dbabf7fa7328051ae91d5d12fb7/SimpleCodeCompresser-1.2.tar.gz";
-    };
-    "1.2.1" =  {
-      "sha256" =  "6d8b0fbc46d602140e768970cab831e1ab0b16ad456cc89b43ad778f28555d81";
-      "url" =  "https://files.pythonhosted.org/packages/3a/53/71367b37499f1b170b7b6caee546767c57cc03658fbe370c50035f1bb014/SimpleCodeCompresser-1.2.1.tar.gz";
-    };
-  };
-  "SimpleConfigParser" =  {
-    "0.1.0" =  {
-      "sha256" =  "d9954518cfb4b980c6854b7d90b231e9822e0909008dbad7320e1e48f9b7face";
-      "url" =  "https://files.pythonhosted.org/packages/59/c9/13d37446679227e682778b101a7071d5870f2d0207e3ff4344f3cb30956b/SimpleConfigParser-0.1.0.tar.gz";
-    };
-  };
-  "Skype4Py" =  {
-    "1.0.32.1" =  {
-      "sha256" =  "6ec059ff567299f9ffccd0dd8ff29809442f14b9525768fc7b516f37dadaeec5";
-      "url" =  "https://files.pythonhosted.org/packages/d5/31/b71d4184df7b590f4372b39b8e0986c2265b64ed8f6a53b3ad3cb60d652e/Skype4Py-1.0.32.1.tar.gz";
-    };
-    "1.0.33" =  {
-      "sha256" =  "f10935cb8ac2e56e64897ab13aaabbf5b553e6df4d6226a724e7c05ee6ca14a7";
-      "url" =  "https://files.pythonhosted.org/packages/a3/5e/fd1be28b9a049c836cf0c373cb5ff749aabad738b8fe043367553b5adc86/Skype4Py-1.0.33.zip";
-    };
-    "1.0.34" =  {
-      "sha256" =  "1a626c03a997c4b272941488228330285863c34ade0e4a17f6d39b55657edd41";
-      "url" =  "https://files.pythonhosted.org/packages/55/1c/1b2bfeffadfff6037174ba42b20cc72e01b6a271abe2383ffde0f69328f3/Skype4Py-1.0.34.zip";
-    };
-    "1.0.35" =  {
-      "sha256" =  "79dbf9033a60b3d37ff1a8eb07fcc5f8dd1f5afb79cb83b216f721acca4d63c4";
-      "url" =  "https://files.pythonhosted.org/packages/88/ab/cfcc614007c5e5e0c289b65a3cec871a0cb75038609acb627b034c1e9833/Skype4Py-1.0.35.zip";
-    };
-  };
-  "TaarifaAPI" =  {
-    "dev" =  {
-      "sha256" =  "642649122659fa58e96852f68df614fc99719b093466d3c8fbc3ed548af639bb";
-      "url" =  "https://files.pythonhosted.org/packages/2d/90/0ee02dddfa2065f9db2af08deb2ca78648c58f974684f0a6b14390b2efbd/TaarifaAPI-dev.tar.gz";
-    };
-  };
-  "ThreadDownloader8527" =  {
-    "1.0.0" =  {
-      "sha256" =  "a99d4bd48af598fb888c7704f82e8c55b865e9f27655f681b3756b397dcab9b0";
-      "url" =  "https://files.pythonhosted.org/packages/0b/0a/1468243deecf071ec71f9821e8b662cf148f3719271888b0716e98611373/ThreadDownloader8527-1.0.0.tar.gz";
-    };
-    "1.0.1" =  {
-      "sha256" =  "2dd4fd54a2683e76711c9238ece2b40a27c74d69d3fd5cbe855fc531c9e7209e";
-      "url" =  "https://files.pythonhosted.org/packages/ee/9c/8757b8ab1147b00266349c57dabd18668587194c8c476568a6e7d12bcefb/ThreadDownloader8527-1.0.1.tar.gz";
-    };
-    "1.0.2" =  {
-      "sha256" =  "d9d5af0685512067baff789792226b61aa5a4bdc2de96d03619a8006d63d084a";
-      "url" =  "https://files.pythonhosted.org/packages/ef/a9/498d9306643e4cc02cf896114ed8463db95f44bea471c932cbc464bbc678/ThreadDownloader8527-1.0.2.tar.gz";
-    };
-  };
-  "TileStache" =  {
-    "1.49.10" =  {
-      "sha256" =  "84124a2e6f753ee828f0e6b723dbf41dd1fcc55c3108489ea08fd6827f927738";
-      "url" =  "https://files.pythonhosted.org/packages/9b/68/ad585e0764d6af9ae50d038c56f0ddf4bdd976ae7e492d4eb1894930994a/TileStache-1.49.10.tar.gz";
-    };
-    "1.49.11" =  {
-      "sha256" =  "6268a4696ceba97ad84de759804bd613ed63e7e40177df42d1eb25fe5677cb10";
-      "url" =  "https://files.pythonhosted.org/packages/d5/3e/fdd3b0be718797cf9ff1fbe0a166f93a4aa32c8023f4ff61713f33436f8c/TileStache-1.49.11.tar.gz";
-    };
-    "1.49.8" =  {
-      "sha256" =  "e745b5651be309deed480cf7fd9fa889708f5a4e91afb9fb090b3318110b7f65";
-      "url" =  "https://files.pythonhosted.org/packages/5b/bc/2dc89129141c15b1483dbd57f207ff8a7323665bf81a0a4df9251a1a271b/TileStache-1.49.8.tar.gz";
-    };
-    "1.49.9" =  {
-      "sha256" =  "a3f22802516d178646edbe714baa9f7c9ce3d7a9a1e2244d820879ef10fb926f";
-      "url" =  "https://files.pythonhosted.org/packages/41/6b/7f03437a83a32f0fe71f87187ee69ba52fb444934afbf2f2f7088ca24fc7/TileStache-1.49.9.tar.gz";
-    };
-    "1.50.0" =  {
-      "sha256" =  "396ac705f81baf01841487103cd24cda7dbc67368734d46a3630f8563fa05bab";
-      "url" =  "https://files.pythonhosted.org/packages/c6/2f/65cb580a9f6588902fe829222a97d6a0cc54c4f124cc2ccd0a03fd5b1f51/TileStache-1.50.0.tar.gz";
-    };
-    "1.50.1" =  {
-      "sha256" =  "321ba9702f36826be547ed804208a96509f36b2e5827639b84909ef36f1932fc";
-      "url" =  "https://files.pythonhosted.org/packages/5c/76/b699fbe90804112518fece82bb50332c8c484da2430d25e49d8bb9b5b60e/TileStache-1.50.1.tar.gz";
-    };
-    "1.51" =  {
-      "sha256" =  "6196c734fbcaff57c6cfbbe03a101e9188e0f3c31f65e06784c421ffbc1a56ae";
-      "url" =  "https://files.pythonhosted.org/packages/8d/19/b31b563029440ad7d1ac64e121919ff55a69c2bfcbb9d31c39bca2add19d/TileStache-1.51.tar.gz";
-    };
-    "1.51.1" =  {
-      "sha256" =  "3db41b945edb317b0d376585468987e35426d7a43b0578c43d7cb13bfb01102a";
-      "url" =  "https://files.pythonhosted.org/packages/6d/b5/f65e39e6e01ce9a621c4ad0e055a92099a1c33866c15d0572b9c93baa47e/TileStache-1.51.1.tar.gz";
-    };
-    "1.51.10" =  {
-      "sha256" =  "ff2a1944ba62619aafb745e06388c02df4d79e8997d0be758266b7f9c7f16aac";
-      "url" =  "https://files.pythonhosted.org/packages/66/ed/1ee83dada66d8c822ef0bbcaa95d260596d97cbacb8db0a789302fb55711/TileStache-1.51.10.tar.gz";
-    };
-    "1.51.11" =  {
-      "sha256" =  "974fc66d842f169d63de541eba5daef12c2752bb9b1ef0d5fd2910192780f4c4";
-      "url" =  "https://files.pythonhosted.org/packages/c7/5a/37daa89e0f3e84fbf511f74d5e43a58ab24e5556612f71d80dbacc258b02/TileStache-1.51.11.tar.gz";
-    };
-    "1.51.12" =  {
-      "sha256" =  "6f58a7166e022d06445fa0a2ad650f9f114462c74cfb9fba8da14be01e4cc460";
-      "url" =  "https://files.pythonhosted.org/packages/5a/e9/f039008cc62b74f729c6b9fb640865a6a140548ea2e380db1367a671bb37/TileStache-1.51.12.tar.gz";
-    };
-    "1.51.13" =  {
-      "sha256" =  "11e15dd85501345bcfeb18dce5b1c8fb74ac8d867df2520afe0eefe1edd85f27";
-      "url" =  "https://files.pythonhosted.org/packages/f5/1c/c46ffcc7263bad3450279468e5917194a7345478e9f874b6bd2965de02b1/TileStache-1.51.13.tar.gz";
-    };
-    "1.51.14" =  {
-      "sha256" =  "73af5e24131bf523a78166d50d169d9e2d25d26487986da437f1646ce85259e2";
-      "url" =  "https://files.pythonhosted.org/packages/34/f0/c88265f213465969fc03f0db2b0bb3522fd6b187ef352682b7ab6a2780aa/TileStache-1.51.14.tar.gz";
-    };
-    "1.51.3" =  {
-      "sha256" =  "c4ae6efc970bc1a22c91b458726039ecd4ae757212fb637c13c1650bff0949ad";
-      "url" =  "https://files.pythonhosted.org/packages/df/4d/bd53b5f9c9765724aeab2162c8dc10fcf9411f68db57ea954eeac96b4574/TileStache-1.51.3.tar.gz";
-    };
-    "1.51.4" =  {
-      "sha256" =  "b99abb8378a6ca3528080707fb5998ce13b7cb4cdc53a303767a1dd2b45c69cf";
-      "url" =  "https://files.pythonhosted.org/packages/8a/32/f9222b634ae657059644809cd5db9a32087cccd03a305a526ad6cf719be9/TileStache-1.51.4.tar.gz";
-    };
-    "1.51.5" =  {
-      "sha256" =  "145a19dbf5675eb4f3040ec605b97c8044f2ae4281b67b82b12e5fd27d278359";
-      "url" =  "https://files.pythonhosted.org/packages/1d/69/45bcf7d864589409fe61fc7d520d7a0a8589abbc110c44ab98b19d811598/TileStache-1.51.5.tar.gz";
-    };
-    "1.51.6" =  {
-      "sha256" =  "a5d99cc0196954ffaae4083db5a7949d29b07b79a70156dcee1884c0bdeb37f0";
-      "url" =  "https://files.pythonhosted.org/packages/bc/c6/f8c4e62183dba56ea1bcf351efd7e60bc4fcb2900383251ef8932d8bd27b/TileStache-1.51.6.tar.gz";
-    };
-    "1.51.7" =  {
-      "sha256" =  "210219231a902e48caeaa233496c59f550fea4ba1fa0c3f758187607b9a12d11";
-      "url" =  "https://files.pythonhosted.org/packages/d0/ee/82f9017ac10daaa0799ab1126812205b087d432fc974847b07cf71411a0e/TileStache-1.51.7.tar.gz";
-    };
-    "1.51.8" =  {
-      "sha256" =  "d894a3b1e034bfb384b1b90e27f0e1a767260b9fe4c32637ba7e87bf37159e67";
-      "url" =  "https://files.pythonhosted.org/packages/48/71/b39296642723bad9c49d2e483c3d937ee6fb5ede8a61eaf3b3873d7e5d92/TileStache-1.51.8.tar.gz";
-    };
-    "1.51.9" =  {
-      "sha256" =  "5a0790a110d875f119566cfb7bf10f0bfeb2cc2987b9c21b85b1f1a75ca1f2f3";
-      "url" =  "https://files.pythonhosted.org/packages/ec/f9/ac255a0e403ed176838773d689d8bd327c4bb187cd1aadd8859934e7f328/TileStache-1.51.9.tar.gz";
-    };
-  };
-  "Tokage" =  {
-    "0.1" =  {
-      "sha256" =  "ea2d7a21584be19576fe8da004433e80b0cb48a26e468e659790536bdcab9b2a";
-      "url" =  "https://files.pythonhosted.org/packages/c6/28/44256a7a656efbba97f08b9a408ca0571ca26e2ba73dd88f9e32962e5a57/tokage-0.1.tar.gz";
-    };
-    "0.1.1" =  {
-      "sha256" =  "f60e3b96887c35bc5b5a54fb4a5d4a65c783805ee4aaa0773888f3ca26d11a33";
-      "url" =  "https://files.pythonhosted.org/packages/1f/b4/57d6a759c526dea29e23da8587453e30c10c0bfff1e38c88f0dc7c380f79/Tokage-0.1.1.tar.gz";
-    };
-    "0.1.10" =  {
-      "sha256" =  "2d709e890afdf451481daf50907f479d463a90a85d30be9118ec7c3443075ecf";
-      "url" =  "https://files.pythonhosted.org/packages/f5/6a/4f7272a49d262447076165442c7981b488671ac69028d5e6de3b04bf2b21/Tokage-0.1.10.tar.gz";
-    };
-    "0.1.11" =  {
-      "sha256" =  "db0100fd3ebfec91c0f68928ab4e748bccdce5542e8c61d967215ec1605e1984";
-      "url" =  "https://files.pythonhosted.org/packages/d1/af/6e48291f7e38411955e66296146184ec7e74eaac484bca97033a9cf0e859/Tokage-0.1.11.tar.gz";
-    };
-    "0.1.12" =  {
-      "sha256" =  "e312ca2be8b5587e7ff33d4de3ffce191c03ce7ddfc0e89803136b04e43bdfed";
-      "url" =  "https://files.pythonhosted.org/packages/7b/88/e6f07193aa0f750738b7e3186c724dbc87b38995576af0031b85600062c9/Tokage-0.1.12.tar.gz";
-    };
-    "0.1.12.1" =  {
-      "sha256" =  "90bdaaa646af96493d9d99e873fd4083d67c86270976e661eff9abd06f1122f8";
-      "url" =  "https://files.pythonhosted.org/packages/a8/ab/e773f2ed9b9369c96cd171ad4a0bb989ca6b1ecd2561433acb4472f17ec2/Tokage-0.1.12.1.tar.gz";
-    };
-    "0.1.12.2" =  {
-      "sha256" =  "f8c46a61f52283571ff0d4c5fa856b1c35a3272121987e6232e3371d9ec7b56a";
-      "url" =  "https://files.pythonhosted.org/packages/fd/ee/6fb5628383edcca6be0d38d2dd25b0bbed0554b692d0c1f1508d4afadb53/Tokage-0.1.12.2.tar.gz";
-    };
-    "0.1.13" =  {
-      "sha256" =  "615c536b5cdf417f44bfa453d306069b4b5a11b132adbc4fe6c355458d1ac8fa";
-      "url" =  "https://files.pythonhosted.org/packages/09/5a/f4e9eba3ff5917638d03c789a20c17e986c4c30f5bfcaf4c87a209401fe9/Tokage-0.1.13.tar.gz";
-    };
-    "0.1.2" =  {
-      "sha256" =  "0b7de340424ec1614ad15412a42cfa3abd554ed2782ab21f43ec4c698e485635";
-      "url" =  "https://files.pythonhosted.org/packages/b3/80/0489ace3b31543c1900cb2db2fb1c0ae9ef58353df7c964b987b8ea6425a/tokage-0.1.2.tar.gz";
-    };
-    "0.1.3" =  {
-      "sha256" =  "12f2b15f74ab857a23f7b90362e50672e72149249689bae78a3c42e4ab913c73";
-      "url" =  "https://files.pythonhosted.org/packages/20/60/25673ee1631f1634c0a39f5685c38b6a2ae7d4c2939d7562d77edbd48352/tokage-0.1.3.tar.gz";
-    };
-    "0.1.3.1" =  {
-      "sha256" =  "e8a7016ad632b3879dc96ece8a25f32a6dc87321c466bfe99d2356d093401eca";
-      "url" =  "https://files.pythonhosted.org/packages/eb/36/5d1989a0975a68a85ff57d743afb84fd0f016a2acef61440ee4df494cad3/tokage-0.1.3.1.tar.gz";
-    };
-    "0.1.4" =  {
-      "sha256" =  "d87f5f6bc53f3e3dbd70b6501a4520145d274744cd1352f8e0673991c2241df8";
-      "url" =  "https://files.pythonhosted.org/packages/1a/64/e770d8da199f8f7c1483a0c5ae9ae34d52237504e720ea2bcd48d6c4a51c/tokage-0.1.4.tar.gz";
-    };
-    "0.1.5" =  {
-      "sha256" =  "4dbc2fbcaaca034a20671c7da1f0d29d37be859b9c44c3b9e57ca2a5288291e6";
-      "url" =  "https://files.pythonhosted.org/packages/07/6e/0d6ef37c37eb8bc7becba6ae3e77ea7ffa5968f2023261e75237f29a9353/Tokage-0.1.5.tar.gz";
-    };
-    "0.1.5.1" =  {
-      "sha256" =  "3c252c8f27d418455bbdf4a7dea6fd0229a3e52467585e3a14660849373c549c";
-      "url" =  "https://files.pythonhosted.org/packages/09/a1/8ff440835a443ad235ae573e3edf3b37e4200e588e868069067ad0230ca4/Tokage-0.1.5.1.tar.gz";
-    };
-    "0.1.5.2" =  {
-      "sha256" =  "5d33c9041392608bb1d26b7d204a2cedbc48dc0b90f6819d14e70463fe29a0ff";
-      "url" =  "https://files.pythonhosted.org/packages/ae/26/65edcf7642782d26663c349a53f5941132764c39e0ac2da46e9132b49a0c/Tokage-0.1.5.2.tar.gz";
-    };
-    "0.1.5.3" =  {
-      "sha256" =  "27935e944faeaaae5f11ac8ddb5ccdb87f61c20eb5597902ce4ebe17a6a81045";
-      "url" =  "https://files.pythonhosted.org/packages/f3/44/0284c9a7e774e40d4b7e3d14579ae6de1c9123ba00d065cee48486cb3b1f/Tokage-0.1.5.3.tar.gz";
-    };
-    "0.1.6" =  {
-      "sha256" =  "7e1abf7b184f9d1159151519f4ec6746fd2c7d67d0d3bed75371dfc6ce81f31a";
-      "url" =  "https://files.pythonhosted.org/packages/40/e9/7a3b66407f7950a15de3b9f911b8711710ade63fd269c8ac98bae0b3f131/Tokage-0.1.6.tar.gz";
-    };
-    "0.1.6.1" =  {
-      "sha256" =  "fcbf353d4d5df7d2038870a7729832102576d07a86787189bdaefb2f8850ff5e";
-      "url" =  "https://files.pythonhosted.org/packages/7a/e8/ec70d5ea02a8dabb2a63a35113fce40d954f88716c3a5d83bb495fbf9ba7/Tokage-0.1.6.1.tar.gz";
-    };
-    "0.1.6.2" =  {
-      "sha256" =  "65eb5f8bb42f4a56d5596350b9af8e704ec01589a8d9bd9afd0db12cc496c9be";
-      "url" =  "https://files.pythonhosted.org/packages/d9/6d/e360b73111a84a6a3b4a6876f13fbed42cb89ae3b6911b840a32638d52b3/Tokage-0.1.6.2.tar.gz";
-    };
-    "0.1.6.3" =  {
-      "sha256" =  "3ddd11d236d1a2d7aae3e676cd050f8b84d182af028d1dca9ee5df697aea7795";
-      "url" =  "https://files.pythonhosted.org/packages/59/02/d964e4c6d27c35bfa213fd4580392e86b83abc35c61d9cd9db5c3bb08f0c/Tokage-0.1.6.3.tar.gz";
-    };
-    "0.1.6.4" =  {
-      "sha256" =  "bcb89ab6df996ce1bd057722a1409c4d4abe408159ab136ac91ef4d7b79bbb65";
-      "url" =  "https://files.pythonhosted.org/packages/17/31/1c1c06c3bc17db8e31002ef31b82bab9ab0cfa2c49f735e48f3ab91163d9/Tokage-0.1.6.4.tar.gz";
-    };
-    "0.1.6.5" =  {
-      "sha256" =  "ac6356afdc2f61aa80bc7934873884a5fad2f84a68756948897d352707667f68";
-      "url" =  "https://files.pythonhosted.org/packages/dc/86/3b3e6fdfa545010aa27ba9a1fd81b28399190bb58e6378889b1ac6d37acf/Tokage-0.1.6.5.tar.gz";
-    };
-    "0.1.6.7" =  {
-      "sha256" =  "4a7295bc7d9ce3bfb400aea6de73561ca2e3e0c3b0e3f1b4edcdb0f3dd8c2eeb";
-      "url" =  "https://files.pythonhosted.org/packages/48/31/c455c77e4077000b4a8ce60ead436a7025a00e28f04fc21e14e067d25b91/Tokage-0.1.6.7.tar.gz";
-    };
-    "0.1.7" =  {
-      "sha256" =  "c8852bf1b2a23d3ab37f84748f06fd05da4451c4e8c2c403aaeedb73a674fbed";
-      "url" =  "https://files.pythonhosted.org/packages/91/e8/e8dbc14c0797162817d49c90a3a14589afea62c4e03335a92461b3d08d77/Tokage-0.1.7.tar.gz";
-    };
-    "0.1.7.1" =  {
-      "sha256" =  "7ea0b66d3f9d391c85a7fc2258104675a5db1c9e7c8f4d0c9f6e4a47defdcd41";
-      "url" =  "https://files.pythonhosted.org/packages/c7/ae/e29efb0207ddd3e16dfd54ab943d8f55b31520df5a48f58de6c2744d8cfe/Tokage-0.1.7.1.tar.gz";
-    };
-    "0.1.7.2" =  {
-      "sha256" =  "e89f5f76260786f04673ecfefae1b4e5d8fdcbd7ff3ceb7c9c050f278ef1a084";
-      "url" =  "https://files.pythonhosted.org/packages/76/89/119ddf1b962e90538fc63d165d91035904075586132da569bb6de658fca5/Tokage-0.1.7.2.tar.gz";
-    };
-    "0.1.8" =  {
-      "sha256" =  "be496c9467b4e5727ae72ae5903f6da0a2df5c688951f3bdd9b0032b73edf1db";
-      "url" =  "https://files.pythonhosted.org/packages/a7/81/ccbc0ef5c26f70dcd9687fd25caa3fed9538dcdcd12da1ccaab96e5e7477/Tokage-0.1.8.tar.gz";
-    };
-    "0.1.9" =  {
-      "sha256" =  "cea3f9f14f7d70625cf34ba994f409e1971447c4e5d5fba1a42db2d09d216291";
-      "url" =  "https://files.pythonhosted.org/packages/c6/d4/2aee71e13a445133dd39469138054a849d163328bcf4e53b7181c38ff503/Tokage-0.1.9.tar.gz";
-    };
-    "0.1.9.1" =  {
-      "sha256" =  "c5e8a3552cc038ac30fc36a63269faed47fa2c7f4030aab88e69f46f5fea4ca8";
-      "url" =  "https://files.pythonhosted.org/packages/43/d3/6495c81e1dc3ac23de290e9cbbec8ded7c1df55874f6636b56e89f380ba9/Tokage-0.1.9.1.tar.gz";
-    };
-    "0.1.9.10" =  {
-      "sha256" =  "25407f92a6a879b6d3c1453a9a87c48526b87870dcee740456a74ea21f8a4a49";
-      "url" =  "https://files.pythonhosted.org/packages/85/da/958060e156f1e83eb99b044431f719199abff82fcf73f13a0a743c219284/Tokage-0.1.9.10.tar.gz";
-    };
-    "0.1.9.11" =  {
-      "sha256" =  "f564583cfdf70a9fa339d3d942e35025905c5a3d9458ea1693589589722b0274";
-      "url" =  "https://files.pythonhosted.org/packages/d7/09/387c9699dda1cad84874a429188d261db5c701001d68bac4da096020dd8a/Tokage-0.1.9.11.tar.gz";
-    };
-    "0.1.9.3" =  {
-      "sha256" =  "62d5d8da4d8f23d498fadded6eda9b037a26eef3df7cf514c0ca5adf24a1a2da";
-      "url" =  "https://files.pythonhosted.org/packages/18/05/a0028b133092f89bc3fb50a795b8d72af7c25056591f5064e13134619304/Tokage-0.1.9.3.tar.gz";
-    };
-    "0.1.9.4" =  {
-      "sha256" =  "0e38c5f8bbbbf80ec03fe613c55c554c3abea61d349f0c308cefd7f01a920d86";
-      "url" =  "https://files.pythonhosted.org/packages/87/90/a01d0944cfff3859523207c9f2960743f197b56ab09d9597a7bb2d44973b/Tokage-0.1.9.4.tar.gz";
-    };
-    "0.1.9.5" =  {
-      "sha256" =  "a14b65445efcba5a9d61c4487c51185aa83d88705b610141d973735466449a2d";
-      "url" =  "https://files.pythonhosted.org/packages/ca/60/781871e68e0214d0822b568361cc3418ad9b93260a99db1e7770857753b9/Tokage-0.1.9.5.tar.gz";
-    };
-    "0.1.9.6" =  {
-      "sha256" =  "bafd5ce27d566196aad0f2c35c9ea43ef11f7a48e10897c936fe8ee31e35f8aa";
-      "url" =  "https://files.pythonhosted.org/packages/1b/bf/7c9242b05fd61703e54a1884e58b7f68afda4e1afa838f370b887e17c0bc/Tokage-0.1.9.6.tar.gz";
-    };
-    "0.1.9.6.1" =  {
-      "sha256" =  "9bdd6604877f56f55a9f003ed2f07f0e857b157d16f256a238b46fb57b4404bd";
-      "url" =  "https://files.pythonhosted.org/packages/c7/3e/b0b18e34e9f1ac04be12ea404d9a1ec3474ccb2ee289163aa50bc16a15cb/Tokage-0.1.9.6.1.tar.gz";
-    };
-    "0.1.9.7" =  {
-      "sha256" =  "9e289fecfdf8e5efaa38e38f6ff695b39c1be3ac0131e8318b53fbdc95d4ac13";
-      "url" =  "https://files.pythonhosted.org/packages/22/af/6b71d3996d1bb41003e9d2d8d4d550b95c4332db86f0af61f015570271e7/Tokage-0.1.9.7.tar.gz";
-    };
-    "0.1.9.8" =  {
-      "sha256" =  "c1537ac4b9e2593867c7d267eed2bd537924773e778a9e7a01eed48835be7ad7";
-      "url" =  "https://files.pythonhosted.org/packages/61/33/e667a5e519f4b00c211b5873f854a2836e636e03d1051f499ee6e7ed14bc/Tokage-0.1.9.8.tar.gz";
-    };
-    "0.1.9.8.1" =  {
-      "sha256" =  "fdc23a0f9638a08cd948b257b7552af3582d3d5171bd314ffd5b6c2aa38dfd93";
-      "url" =  "https://files.pythonhosted.org/packages/fe/b8/52dfa844a9a9a1bbacb8c3e3bd86fb7a4517253f2482603f1519ee9fbccd/Tokage-0.1.9.8.1.tar.gz";
-    };
-    "0.1.9.8.2" =  {
-      "sha256" =  "35c9c52ebc7acb710c77e8c2091521813a68e642d113a81cce5bdb0e49b5a8aa";
-      "url" =  "https://files.pythonhosted.org/packages/86/9a/2412eb0088de5fa3ff08b7aa197a1d03f901621bea482710e1076aab67bd/Tokage-0.1.9.8.2.tar.gz";
-    };
-    "0.1.9.9" =  {
-      "sha256" =  "ff175b411c1e7dd26c9e0368035130c51dc591081efa934de8fdcfaa0eb26e36";
-      "url" =  "https://files.pythonhosted.org/packages/0a/79/6e3fe6788949bbc7e13e5733edb795cf092873a6e6fc7064392514ba8194/Tokage-0.1.9.9.tar.gz";
-    };
-    "1.0.0" =  {
-      "sha256" =  "25a014281f08f5602893fd4a02055d26a934eae728fb4618479d6beccff4afa0";
-      "url" =  "https://files.pythonhosted.org/packages/3c/64/de45a2488f6ac7b3789258060a414e100d4b37ddc03570d2c057fadcef6b/Tokage-1.0.0.tar.gz";
-    };
-    "1.1.0" =  {
-      "sha256" =  "88d75c52f7785f6061f6dd64a83cfdce3d960be43e59db18385e4ca5186d22cf";
-      "url" =  "https://files.pythonhosted.org/packages/04/73/481e9cf7be4fb746bc32ad7fa9fefd4516291738e7ff12eb78d595bb742d/Tokage-1.1.0.tar.gz";
-    };
-    "1.2.0" =  {
-      "sha256" =  "b9fda9c63dc24e9ff5ea4dfd947f3710ef657ee98848430580b04e6f6f97e593";
-      "url" =  "https://files.pythonhosted.org/packages/84/fc/1fda97e78c874bd5198b800b72a4ffea7d3bea5ad222174ba8d61eb25999/Tokage-1.2.0.tar.gz";
-    };
-    "1.3.0" =  {
-      "sha256" =  "56e6f4e7ffe0e74c26bd78e512d7d728a7c3ebf1810ae222ac4ab542be7f7fd4";
-      "url" =  "https://files.pythonhosted.org/packages/6a/b7/b5d76027cd0981559e67f62068185861f53a6b95d458f938561c6dd366a6/Tokage-1.3.0.tar.gz";
-    };
-    "1.3.1" =  {
-      "sha256" =  "ddcd12591f86d1d8ebbcdf8d63cda469574870abe916a589ba696f104739e9ee";
-      "url" =  "https://files.pythonhosted.org/packages/b9/a6/c53f10334151c04bcc4ab90002a011f40f88cceb40ba6ea24147c2bbaed6/Tokage-1.3.1.tar.gz";
-    };
-    "1.3.1.1" =  {
-      "sha256" =  "b479dd9e8396bd0d682dc9b87ff8eca33d532cb254681771221e86e8046917cf";
-      "url" =  "https://files.pythonhosted.org/packages/c7/29/7ea9e36803d4b81b1cb2e9eef36eb54193da25d0c781b7727a8ec6051195/Tokage-1.3.1.1.tar.gz";
-    };
-    "1.3.2" =  {
-      "sha256" =  "228934004ba4370038d77b2d3d947cddadfcb76d1f761c06a3c9d37bbacfccde";
-      "url" =  "https://files.pythonhosted.org/packages/a2/a5/0c5aabc364f2bf36fd49e57e4b5ad04e33c95f099e3a856fee019d87c7fc/Tokage-1.3.2.tar.gz";
-    };
-    "1.4" =  {
-      "sha256" =  "42fdb1065d920f8c9305cf6d175eacd6de5b278a3c7e57cfb3dc782b81a385d8";
-      "url" =  "https://files.pythonhosted.org/packages/dc/62/f61d32dbe968f072c95763385cc47745da2ce86074eae627ab7b5aec846e/Tokage-1.4.tar.gz";
-    };
-  };
-  "VISIBLE" =  {
-    "0.1.0" =  {
-      "sha256" =  "3f3df3a99a29be4226817325541f71697399dfa7672a5fdad2db46f9ebb24c83";
-      "url" =  "https://files.pythonhosted.org/packages/75/d7/0a11adc9f409932ae77b0186686ac6bb54b781073f3d51b0f25a990397a9/VISIBLE-0.1.0.tar.gz";
-    };
-  };
   "abotest" =  {
     "0.0.1" =  {
       "sha256" =  "387c7f38aad826a950b1124095c00561307d6031e6746d3e923b4ad3c53802dd";
       "url" =  "https://files.pythonhosted.org/packages/6f/e8/b2e849f286840fe3a52b812796c344b4daa1fef76ce124f4a1f54d3d3fab/abotest-0.0.1.tar.gz";
+    };
+  };
+  "absinthe" =  {
+    "1.0.0" =  {
+      "sha256" =  "e0255a73101004bbf5a829f42f34ad57fb9bf2bf5f056ad235a3f806729d2e50";
+      "url" =  "https://files.pythonhosted.org/packages/29/70/afac25afebc820c49814604bc4601a9e44186e64b3dddf0560be7a2192d8/Absinthe-1.0.0.tar.gz";
+    };
+    "1.1.0" =  {
+      "sha256" =  "b9aa16f6b1eff63e1355ab19a32c23b10d47307a323e3d9ff75b2e3b505fa8d8";
+      "url" =  "https://files.pythonhosted.org/packages/b1/29/af20f03c71d9595bd244e0e4d0368aa920fd240151032ac0234f25032f58/Absinthe-1.1.0.tar.gz";
     };
   };
   "aca" =  {
@@ -1749,6 +253,24 @@
       "url" =  "https://files.pythonhosted.org/packages/24/87/51f54b231fddc935452d872b179b51fd303ef6708cbf61710e31a72f3835/alchemist_stack-0.1.0.dev1.tar.gz";
     };
   };
+  "ale" =  {
+    "0.0.1" =  {
+      "sha256" =  "6a7d76718fe8ae3d53b2650924be6ae46bec50ddc28141ed05d191462181b0f8";
+      "url" =  "https://files.pythonhosted.org/packages/33/57/b1c322f938d68046a8acf3d1791595aaa7ef572ab0b82b8dde436926f7f8/Ale-0.0.1.tar.gz";
+    };
+    "0.0.2" =  {
+      "sha256" =  "978c770a89b39fd6725d80cf08e090ed95924097ab04086da8e556b8e1516ada";
+      "url" =  "https://files.pythonhosted.org/packages/d0/5a/1f8b08fa028578d62e1bd05469f3e602bd879d01406ad7a681d5ddc15808/Ale-0.0.2.tar.gz";
+    };
+    "0.0.3" =  {
+      "sha256" =  "143a798d5f1d2113699f55c8df9ae8bb5421749b61fb6565e8ac243d2bb0533f";
+      "url" =  "https://files.pythonhosted.org/packages/31/44/43191438769e02ff4f9f9661d0404ca9b43bc087cf02cf5d251cae231214/Ale-0.0.3.tar.gz";
+    };
+    "0.2.0" =  {
+      "sha256" =  "28a4aeef8031365da6b4635212475fffb06e356e8fd58ff9b15dcce81ec6a71e";
+      "url" =  "https://files.pythonhosted.org/packages/c5/59/01d12a81e4d82cf92ac85f10ea7b3bcbb63a2b5cab72c4cee4ae0943ce5d/Ale-0.2.0.tar.gz";
+    };
+  };
   "aliyun-python-sdk-sddp" =  {
     "1.0.0" =  {
       "sha256" =  "21758a7b913dd760bec05a0b4f33183a2fb50337ebca0c8e793cb311615741ca";
@@ -1889,6 +411,52 @@
     "1.5.2" =  {
       "sha256" =  "f1a1f9e9ad81f960cdfada701040b0e8caa7711c8db3343d0364855b1ed63354";
       "url" =  "https://files.pythonhosted.org/packages/f7/34/a5126d81dd599da099051f193a384e6e18a99abee26e6199135693cd2655/altunityrunner-1.5.2.tar.gz";
+    };
+  };
+  "amlt-learn" =  {
+    "0.1" =  {
+      "sha256" =  "e7b065eebf6b1d45ac4385a15321f317889276146fccb3dc7bfad9fb8c805995";
+      "url" =  "https://files.pythonhosted.org/packages/73/2a/7e333325218ab3925f50d5f6b302ab64d22f413f18b50147765061252aed/AMLT-learn-0.1.tar.gz";
+    };
+    "0.1.1" =  {
+      "sha256" =  "0824ea5496fb5c99a6d284c6a2d7b940c8615da6a4cd82739fa044faad455429";
+      "url" =  "https://files.pythonhosted.org/packages/7e/4c/b2f9208fb238dc3cd0356ca162bb91c00de10cd571fe80d4e66ce8e0a503/AMLT-learn-0.1.1.tar.gz";
+    };
+    "0.2.0" =  {
+      "sha256" =  "2d699ef9fa24c3366dbc376473614019ff260358246125f6bbe65efd4500d1d1";
+      "url" =  "https://files.pythonhosted.org/packages/1b/6d/13bb46fd66ee2d566b3f006dd4b48bd8703aba0d454bac54ea6bdc74bbc4/AMLT-learn-0.2.0.tar.gz";
+    };
+    "0.2.1" =  {
+      "sha256" =  "0aafa2ce5c47f12e96e2bab65977913efaafa22b83b3c370fa876362bfdca8fe";
+      "url" =  "https://files.pythonhosted.org/packages/9a/5d/5b7bc26dbe1d32bfbea33a63703b3da748fef01f88bbeb87cd0fcb85fdbf/AMLT-learn-0.2.1.tar.gz";
+    };
+    "0.2.3" =  {
+      "sha256" =  "8a784d14833b11bed7c732f928b2b64d483e3fddc55c0ddea3f8f19ea83b4efe";
+      "url" =  "https://files.pythonhosted.org/packages/1a/dd/c80418ce638b05641c5766506a4abc22bcbb45e5e3c38bf62f21ec14966a/AMLT-learn-0.2.3.tar.gz";
+    };
+    "0.2.4" =  {
+      "sha256" =  "c969d49fcac4f47a954c7d9b6c518f24ef6a867f896bd2bd88bc61e192f98b7a";
+      "url" =  "https://files.pythonhosted.org/packages/13/e4/ac5d1d7ebf87c500441b791f86e8307b2d88efdd2fe3b208ddfc91904643/AMLT-learn-0.2.4.tar.gz";
+    };
+    "0.2.5" =  {
+      "sha256" =  "4ca380fa292a3e5807d3ca9d7f26e4a627b5ceb13a8057d810e83de8d74d124d";
+      "url" =  "https://files.pythonhosted.org/packages/6a/8e/454f84fb55a9752adfcec7c8f8ebe55716f43978b10c972ed7628b57f967/AMLT-learn-0.2.5.tar.gz";
+    };
+    "0.2.6" =  {
+      "sha256" =  "3c428695a62a941619748133c729831612ee88261a7c2308ada24af5a71dab4c";
+      "url" =  "https://files.pythonhosted.org/packages/ac/d0/2add80b8ea340c450c3fb29709b04a2c1509b4edbe9a8f4be39148fb1519/AMLT-learn-0.2.6.tar.gz";
+    };
+    "0.2.7" =  {
+      "sha256" =  "ecd80d78cd961afd6effaa8d369804f593aaf2dc1e4ff67c5a3e2fa37cde5510";
+      "url" =  "https://files.pythonhosted.org/packages/ec/1a/b63b7bd36f7afcc9233076e5b69532a41385c7eb97a4940a495d12c80800/AMLT-learn-0.2.7.tar.gz";
+    };
+    "0.2.8" =  {
+      "sha256" =  "8a5678492f64f1c630a8e14e6a04adbf6d9f8abb9a5d4c67fe384859135f97f2";
+      "url" =  "https://files.pythonhosted.org/packages/2c/f1/b154932ff82c3ff753870a726412daf67b0ffbc06295fa170c5b43b62adf/AMLT-learn-0.2.8.tar.gz";
+    };
+    "0.2.9" =  {
+      "sha256" =  "d490cd05bcf79fa8e20c31c357174d37147c3d2d088f96c9d6f7b57f84e6d8dd";
+      "url" =  "https://files.pythonhosted.org/packages/ed/cf/4c85dde67516f8b4fd8306c69c1d3d7eb70b9896e978fee4f835bbb57228/AMLT-learn-0.2.9.tar.gz";
     };
   };
   "amp-python-thin-scaledinference" =  {
@@ -2207,6 +775,32 @@
       "url" =  "https://files.pythonhosted.org/packages/95/17/28b96653559d6349f2962f5fe8af414635f33afeea98d24641578bdbbf2f/bcblib-0.1.4.tar.gz";
     };
   };
+  "beads" =  {
+    "0.1.0" =  {
+      "sha256" =  "b24af8062c233ccb670b4f2dfbcd002f88873191b276cfc8bb352070e5655c86";
+      "url" =  "https://files.pythonhosted.org/packages/20/b1/437c8a884ca4b6e3dbb25c45306aad97f5be3a21471f22f52816c5ff5eee/Beads-0.1.0.tar.gz";
+    };
+    "0.1.1" =  {
+      "sha256" =  "0431934b8eca9cf84c525ef87499c6c5a1a8cf11105a5f74da288a0322f6b29f";
+      "url" =  "https://files.pythonhosted.org/packages/a1/d9/7f52e578db08ea669ba3132ba6bd3fb1058bd3c30f585a4d8d483cfb1228/Beads-0.1.1.tar.gz";
+    };
+    "0.1.2" =  {
+      "sha256" =  "7f41f510587bc7c5d485214155b81beffb02af911cfcb13de9eb880ec0391a40";
+      "url" =  "https://files.pythonhosted.org/packages/0f/39/0530880b11a67a2b3bb9171eadcf288472438ca94326ee0795816a31a2d3/Beads-0.1.2.tar.gz";
+    };
+    "0.1.3" =  {
+      "sha256" =  "0d621e9abf413be9dd851bc201ca968839e623b83164bba74dd3de00f725fff0";
+      "url" =  "https://files.pythonhosted.org/packages/e8/77/c8c4c595078c3b0fc887c62c35f29582612e3d25500359cb6d10eb042075/Beads-0.1.3.tar.gz";
+    };
+    "0.1.3a0" =  {
+      "sha256" =  "1c405e4b44ba7ae60ec41230e1382f6a858d7abcf00cb8d2ad144dabec07340a";
+      "url" =  "https://files.pythonhosted.org/packages/b2/b6/5389b18a56295863f28de78a771a664afddbec2ab5aab7cdb6e716164483/Beads-0.1.3a0.tar.gz";
+    };
+    "0.1.4" =  {
+      "sha256" =  "36642801ee4e986dd18d629834d1cc35959ecd19ec5497788597b26136fe49dd";
+      "url" =  "https://files.pythonhosted.org/packages/c4/e8/93719a963b0d3f6d6f0ccf16754473510d55ab4d6f56a12d8471a8be96b7/Beads-0.1.4.tar.gz";
+    };
+  };
   "beancount-interpolate" =  {
     "1.0.0" =  {
       "sha256" =  "11b4fb23f7444fdf178bc0382d09aad44ba966d7ca177fca1492f9418e869514";
@@ -2279,6 +873,12 @@
       "url" =  "https://files.pythonhosted.org/packages/de/6a/b27b95ee55594f8ecad109893521cde1faf2e8522a1f5efed8b9fc88624c/berth-1.3.5.tar.gz";
     };
   };
+  "bgautostocks" =  {
+    "0.0.1" =  {
+      "sha256" =  "a88c657769f8de4b3667c3c4722b5b7bf58d3af887ea13b1d1d0c910120d42a4";
+      "url" =  "https://files.pythonhosted.org/packages/ec/15/b12d922c84e0c73575504a940ff5713e2be7e33888d0c83f72c37a59f196/BGAutoStocks-0.0.1.tar.gz";
+    };
+  };
   "bhitra_print_garne3" =  {
     "3.0.1" =  {
       "sha256" =  "4f85ce87c2cca774d6b8bcf31cc1d8e96f6bf6f9a2b991f1adab36bd4adca978";
@@ -2287,24 +887,6 @@
     "3.1.0" =  {
       "sha256" =  "37be78216326e079f61ad4b025b9214d58f02c56f9d947d4ba7d09b2319d5cde";
       "url" =  "https://files.pythonhosted.org/packages/b5/35/5c090eeff8b0202c324e763bab1c46de41359b8d161ce4aec01f4618fa33/bhitra_print_garne3-3.1.0.tar.gz";
-    };
-  };
-  "biasMetrics" =  {
-    "0.2" =  {
-      "sha256" =  "16f617ec4bf7d5208638ce9be42848ec7514e4b9c2eb23cc9e6f0ff261650f32";
-      "url" =  "https://files.pythonhosted.org/packages/49/32/dc438236841e19e77daed515a45de2067e19ae11ba6ef10b573a10bafb9f/biasMetrics-0.2.tar.gz";
-    };
-    "0.2.5" =  {
-      "sha256" =  "2c453ae7fcfc19eeba82491eaf36d8b152cea7b318534f2ed1f2adb1e405a123";
-      "url" =  "https://files.pythonhosted.org/packages/23/69/09ef52d22aa7cd891466d201374fa0842f97828dc23dd623db4f69e307dd/biasMetrics-0.2.5.tar.gz";
-    };
-    "0.4.0" =  {
-      "sha256" =  "224c85535be2721a6b848d77dc7a3eda6ad4fbbe8fd93f0205ac6e81a13bfd00";
-      "url" =  "https://files.pythonhosted.org/packages/88/9b/1a3dbfdb10c4e68cb3e6b6cec7bb02abcd5f8b6a952ede9d0e0032bc0565/biasMetrics-0.4.0.tar.gz";
-    };
-    "0.5.0" =  {
-      "sha256" =  "f3426661420ca301654ad01ded8e2456c0306c060a0eedf85aaf44fbbd62a08c";
-      "url" =  "https://files.pythonhosted.org/packages/8e/b6/2f9d9c62a62f1a05a8ff13a3185bc3d351d84c6fb66103de883427f2238f/biasMetrics-0.5.0.tar.gz";
     };
   };
   "bindepend" =  {
@@ -2433,6 +1015,76 @@
     "0.0.2" =  {
       "sha256" =  "63cf32416c922945f7efd2a18c064d3b46760278688f9315f9b334f7cf650d0c";
       "url" =  "https://files.pythonhosted.org/packages/bf/66/cd4106df822e411f69e34b41eb5dc86d0897486c2048f4f25c10453d2979/bpr-knn-0.0.2.tar.gz";
+    };
+  };
+  "buildstream" =  {
+    "1.1.7" =  {
+      "sha256" =  "d50e1ba0a6be1050dddd368db8fac2a1e0d35e015337fe44e8239e9edf189a05";
+      "url" =  "https://files.pythonhosted.org/packages/74/77/0636eccd71b2f8e504a2814c7c4cbf27121afa31c4e36550911adbe5d71c/BuildStream-1.1.7.tar.gz";
+    };
+    "1.2.0" =  {
+      "sha256" =  "b672b9be3c3fb6095e3b4ca649fb3ee1a7bc73c780e9e6a5b2692c109d61ce0c";
+      "url" =  "https://files.pythonhosted.org/packages/db/4e/6a252c30af3db4f7cd74ffc795730fa426b4c5708e6a063017216144aea6/BuildStream-1.2.0.tar.gz";
+    };
+    "1.2.1" =  {
+      "sha256" =  "7aec77474f9d13053633a18d5339800c2a048303d3527fb2a10a5b71e71ec3a2";
+      "url" =  "https://files.pythonhosted.org/packages/86/35/8995588a0de086f8df2c5c1d452e149511e2887d5b41f1d9eecf80bf806e/BuildStream-1.2.1.tar.gz";
+    };
+    "1.2.2" =  {
+      "sha256" =  "0cd6c7c0364f6ad84924e7b46f094e74844e984de0be573dd4408ecc58ec0325";
+      "url" =  "https://files.pythonhosted.org/packages/ce/8c/399a377251b1d94a48c8676710fa4000138d2cd24bac254d9d1954c2bdf6/BuildStream-1.2.2.tar.gz";
+    };
+    "1.2.3" =  {
+      "sha256" =  "03d63ea03a2fccc888756466222db5d11656036268757824cacf9d11fb3830e8";
+      "url" =  "https://files.pythonhosted.org/packages/67/b3/ce18d88770b9ea5ada09ec138b762098227931c3a2ca5a147f7e4e962c9b/BuildStream-1.2.3.tar.gz";
+    };
+    "1.2.4" =  {
+      "sha256" =  "1cacf2d26d5a63c6d1d35e99670cf94bc06fdff4c4ab31e5d0b8862e63cfbee4";
+      "url" =  "https://files.pythonhosted.org/packages/c3/e3/b71738f4dfef52dcbfa070b08816d3b9dc30d90684b296bb3a7f2df8ca23/BuildStream-1.2.4.tar.gz";
+    };
+    "1.2.5" =  {
+      "sha256" =  "c0d5b36d990bdf67763bf74e817c015023629fd0e643dbf023986a32c1d0a56e";
+      "url" =  "https://files.pythonhosted.org/packages/0b/b9/c6de781f2313311f45ecc30cc6fb6746ef1a592b5b6740ac9aebf1607b72/BuildStream-1.2.5.tar.gz";
+    };
+    "1.2.6" =  {
+      "sha256" =  "e751bee6282dccf2a44f447fcc1a0fed20a1df2918383a173a3b333919b1d37f";
+      "url" =  "https://files.pythonhosted.org/packages/7e/3e/21e9a61b82294a93b51aab84d82d0aa4b7be3fcb3e31bac5c034e739af71/BuildStream-1.2.6.tar.gz";
+    };
+    "1.2.7" =  {
+      "sha256" =  "338c0179b7fc0a97b9a3234f808971ba228d3a3f71db952cb335608de51910d7";
+      "url" =  "https://files.pythonhosted.org/packages/ff/24/dafb3ad7735bb3d81e8d043d3132f8b48cde8a2ff0440da1d0cf21372457/BuildStream-1.2.7.tar.gz";
+    };
+    "1.2.8" =  {
+      "sha256" =  "98c613eddee9afbbe0604648d13bb01a2e61dca53c969bebda33912a02d3f576";
+      "url" =  "https://files.pythonhosted.org/packages/e8/87/cfddb4fe1bc511e8150d385289b9e74d37779fbcdb4aa61a7e86f7ab163f/BuildStream-1.2.8.tar.gz";
+    };
+    "1.4.0" =  {
+      "sha256" =  "2e5520b7a539bb8e797644537108b3809c928b21f8f2157ce8378791df401e87";
+      "url" =  "https://files.pythonhosted.org/packages/90/27/8f294a8014d559f4056995603cbe60168f7f56c9d2486ed10a8c4bc11554/BuildStream-1.4.0.tar.gz";
+    };
+    "1.4.1" =  {
+      "sha256" =  "98b5a34d5d15d7beeaf7ec62a2f5c9494b643305efbd855f85042444df32f69c";
+      "url" =  "https://files.pythonhosted.org/packages/12/4b/c6e4adcdd2fab145ba40a6f53507d3f5d0f1b340d3586f9c51a695c7ee82/BuildStream-1.4.1.tar.gz";
+    };
+    "1.91.0.dev0" =  {
+      "sha256" =  "cfcf9b8c5be83bd975eb426f60470969cc4cb8a421346d1c49a1ce96694accb5";
+      "url" =  "https://files.pythonhosted.org/packages/04/d0/d0af58c6bc41c28caa627a1fbe3eda87f28af45f9ce9c7df138d04373e9a/BuildStream-1.91.0.dev0.tar.gz";
+    };
+    "1.91.1.dev0" =  {
+      "sha256" =  "7fa9993619a4cacf627aa15f2566cc0ef78a8f83b5ed8285523fba5317eac7e1";
+      "url" =  "https://files.pythonhosted.org/packages/96/4a/970619eef72f3ea47c114a5a66e49fef13ca7ea063152260eeed36dac2a1/BuildStream-1.91.1.dev0.tar.gz";
+    };
+    "1.91.2.dev0" =  {
+      "sha256" =  "01a1e0205744fdac7971c566661f8e56adc0d8798c6082e0e6208499cd84fe1a";
+      "url" =  "https://files.pythonhosted.org/packages/bc/d0/b51944c45ab7b6582d9ffc4d47a65837da3bd1b4bb83255da8346c895921/BuildStream-1.91.2.dev0.tar.gz";
+    };
+    "1.91.3.dev0" =  {
+      "sha256" =  "e90dc4ee47370b948140c1a7624f812fb03ce4b28da5581bcde2a33b16edd600";
+      "url" =  "https://files.pythonhosted.org/packages/ce/47/39050aaf2d061defda9524f5559caec1f20d354df140baea3490f0b6f7a0/BuildStream-1.91.3.dev0.tar.gz";
+    };
+    "1.93.0.dev0" =  {
+      "sha256" =  "35737b1ae4e40acbe06d9d3b50442574bec3a7883669a17a50822a3671045b8c";
+      "url" =  "https://files.pythonhosted.org/packages/e1/19/cfccebc92f7c268a52141ebde1feaa388879180df6dbacd479e405623868/BuildStream-1.93.0.dev0.tar.gz";
     };
   };
   "buzio" =  {
@@ -2679,24 +1331,6 @@
       "url" =  "https://files.pythonhosted.org/packages/03/c2/b4a0f9571a2fb6140cdbe66d987a6557ae3e62bca002fa3288da27cccbc1/calci-1.1.tar.gz";
     };
   };
-  "camaraPy" =  {
-    "0.0.2" =  {
-      "sha256" =  "61586c718c1c06e19815b2eea1e40761c13a58daf684389853ff5e4ec12876a8";
-      "url" =  "https://files.pythonhosted.org/packages/4a/52/6df54227eee23917287575c932d2e3feab85ef9ba75d6b58c3dfea980fd3/camaraPy-0.0.2.tar.gz";
-    };
-    "0.0.3" =  {
-      "sha256" =  "81e20ad04f4b71043883b8bc1d744ec83cf50f59d0d2bcc73098be72005a52e8";
-      "url" =  "https://files.pythonhosted.org/packages/6a/23/b01d5dcdf4248077cb07d55fc2b3e907ed716ee8ee6ac801da50c182a301/camaraPy-0.0.3.tar.gz";
-    };
-    "0.0.4" =  {
-      "sha256" =  "c5b4f812cf38b3c9bdb28825dedf5f15e5c8de96eea17ce6829d7a5762a91913";
-      "url" =  "https://files.pythonhosted.org/packages/7a/b9/e13a92288590d77f48e4e8009ba6b393be9b1c443b1fefb043ecd3cda0a0/camaraPy-0.0.4.tar.gz";
-    };
-    "0.0.5" =  {
-      "sha256" =  "97e6402859645887d67f9a00fb9aae05bd7175d20105255115cd559938db3401";
-      "url" =  "https://files.pythonhosted.org/packages/73/e9/107e78b2820d1326c32928b001bbe579f8964da805f257f7f053b1ad7584/camaraPy-0.0.5.tar.gz";
-    };
-  };
   "cameralogger" =  {
     "0.0.0" =  {
       "sha256" =  "8accc18df0e52d9c993ca2f6b877f306f81b3ba36cb7bfb77e729a30f5bad418";
@@ -2933,6 +1567,20 @@
       "url" =  "https://files.pythonhosted.org/packages/98/aa/852e19157f0b2799ffc3592ff0e73e3eb7310201228aee7de93d6669f9cc/catt-0.9.5.tar.gz";
     };
   };
+  "cds" =  {
+    "0.2.0" =  {
+      "sha256" =  "3709d98b53bb48c563f93ec6c849131b99fe51615863299aa50d3802858624dd";
+      "url" =  "https://files.pythonhosted.org/packages/99/9f/7404619ab47d86f60bf3a218207cf55c1d485c1e92370ed7816ec6730e69/CDS-0.2.0.tar.gz";
+    };
+    "0.3.0" =  {
+      "sha256" =  "fa9c8e53d6dad5142dd79eae8d9b28ef7efd4e3ae1767d0dd6aedcec4391b2e2";
+      "url" =  "https://files.pythonhosted.org/packages/e2/4c/82b2b283e44795e2fc5ba2fb836a85c068fb653f549b351d4abb41461f27/CDS-0.3.0.tar.gz";
+    };
+    "1.0.1" =  {
+      "sha256" =  "d45d55e757fa1bc106b4d257f688f8adef9c9a2763c94a6bcd5ffab94cede6f0";
+      "url" =  "https://files.pythonhosted.org/packages/08/1b/fbb07ca63b8da49060af5d75873284e07430caa32715d9e3bdee75815540/CDS-1.0.1.tar.gz";
+    };
+  };
   "cf-predict" =  {
     "0.1.0" =  {
       "sha256" =  "70e246ee09b4ff5576246dae23b29697d0dd05d58bf0883663cc672f1ebef83f";
@@ -2951,6 +1599,16 @@
     "0.0.1" =  {
       "sha256" =  "0be927d3af2aebb76dbf39aac39cf40eb01a3922d6147527fe75faee34d53c52";
       "url" =  "https://files.pythonhosted.org/packages/1c/92/ea38c93fbc1ded87e3b7d57247617414c6c8678e3890aa234087c318eb5b/chakd-0.0.1.tar.gz";
+    };
+  };
+  "cherrypymako" =  {
+    "0.3" =  {
+      "sha256" =  "bd19bf41fec87b1f4d06d580a95baf916b2775b12cbddc2b95790c98aa1e950f";
+      "url" =  "https://files.pythonhosted.org/packages/55/06/c6cc0955a2cfdf941b40d18ea805d8e5ce72697a7e877df6013fede7293c/CherrypyMako-0.3.tar.gz";
+    };
+    "0.3.1" =  {
+      "sha256" =  "433bb9ff2558fe36bc4a51adeb739e6d6c2a61a86ec1d81fcd47e29928e88f2e";
+      "url" =  "https://files.pythonhosted.org/packages/60/4d/a80f62ccd0b389c97792fadce6220a5810bd9ed15cde986275958fa7ff1e/CherrypyMako-0.3.1.tar.gz";
     };
   };
   "chkcsv" =  {
@@ -2987,6 +1645,20 @@
     "0.1.0" =  {
       "sha256" =  "f9e825527145fb1abd8a48c4503f5c2fcdc5d1b6a062d786a66e998ad4ae71b9";
       "url" =  "https://files.pythonhosted.org/packages/f4/50/b54eb631ad4ea481dbeb757f0328921e056fb89dcfc13d37195cef10cff7/chmod_reset-0.1.0.tar.gz";
+    };
+  };
+  "cibtogostruct" =  {
+    "0.1" =  {
+      "sha256" =  "c4c46954571f9eb19b47020837f46f0b47e628d00da54a3922aea97a3da0a59a";
+      "url" =  "https://files.pythonhosted.org/packages/05/67/2b1628d7b4e9f89c0b52261c7feeb0b5aedec41c02b3e1225c5cdb0020d7/cibToGoStruct-0.1.tar.gz";
+    };
+    "0.3" =  {
+      "sha256" =  "58d4191648d66afdc4b55b696311d202438c5c060ceea2a1c7b5df4a71ad33de";
+      "url" =  "https://files.pythonhosted.org/packages/d1/01/993fb367646eaf7fa95bc649172c5a43aa27aaeb209ee6ccf0a23d6d7b02/cibToGoStruct-0.3.tar.gz";
+    };
+    "0.5" =  {
+      "sha256" =  "ca000593719bfbd9c28da1be4cec87b2ed94dd691fa9b26cd888d889f487603d";
+      "url" =  "https://files.pythonhosted.org/packages/00/46/0eb2272114d5221b8ee6e12416f6c2454829881dda1de00e35842f77d796/cibToGoStruct-0.5.tar.gz";
     };
   };
   "clicmod" =  {
@@ -3941,12 +2613,6 @@
       "url" =  "https://files.pythonhosted.org/packages/fd/40/014a12ef71662371bb75146579c4c50adcd751034e2abf10fed52dadc42d/dbt-postgres-0.15.2.tar.gz";
     };
   };
-  "deathMath-pypi" =  {
-    "1.0" =  {
-      "sha256" =  "97531bf4ee15082ce7f5c7223db808bd870cf27b8fa2768a65d9c92137cdadcc";
-      "url" =  "https://files.pythonhosted.org/packages/b7/05/c307738a9a16d29f25f8dfa8cf5cc296666ed8eb09494b39b4676ceed81c/deathMath_pypi-1.0.tar.gz";
-    };
-  };
   "deckor" =  {
     "0.0.1" =  {
       "sha256" =  "28b026c6e238c5315cbdc216492bb68a83d1809111daa967fad99030fb1574d9";
@@ -4121,6 +2787,24 @@
       "url" =  "https://files.pythonhosted.org/packages/d1/45/3e2b229d8af10381fde27afea19a85c8b0ed7314c5f0210689bc5d930b05/demonware-0.0.1.tar.gz";
     };
   };
+  "demounit" =  {
+    "0.0.2" =  {
+      "sha256" =  "4c34864452193a8be63262671ea710185a8d0711d413f0328dc723700888a71c";
+      "url" =  "https://files.pythonhosted.org/packages/f7/86/6dc69509b14a3c5f90d07cd0b35026e46cbaa0e1432c9377db98f00b6e1c/DemoUnit-0.0.2.tar.gz";
+    };
+    "0.0.3" =  {
+      "sha256" =  "593eaa641fc8641fb3bb237faf6958d95907d8ea3965463191d2053627324a11";
+      "url" =  "https://files.pythonhosted.org/packages/1e/a8/bad105cec69808576475394311d635bdb9b9011e24e2fd087acd85ab025e/DemoUnit-0.0.3.tar.gz";
+    };
+    "0.0.4" =  {
+      "sha256" =  "1be47a80620c019848cea1b2a0195d48aef9464c36a41bbdbd98ecef07fb2617";
+      "url" =  "https://files.pythonhosted.org/packages/1d/88/a15da25dd6c30d89a399184e810f29ee069f96c84ea51a668ecc35830db9/DemoUnit-0.0.4.tar.gz";
+    };
+    "0.0.5" =  {
+      "sha256" =  "1d1533e4138950ff8b400155f4235cd75112d07146cd31f0d63e5980ea57ee59";
+      "url" =  "https://files.pythonhosted.org/packages/8b/d2/11c47700d28fb22bc1fa45bbdf1fd9818d463046cfe88ed9a799929d451b/DemoUnit-0.0.5.tar.gz";
+    };
+  };
   "detective_nester" =  {
     "1.1.0" =  {
       "sha256" =  "f3590fd6b22eac2bb6d5ecff4ea41786eae7c07cba41c61b8326500def049977";
@@ -4207,6 +2891,130 @@
     "1.4.1" =  {
       "sha256" =  "6a98d915f4c5a46d4e4de146db11a99265ca8da8a97f4817ff46c78163724a91";
       "url" =  "https://files.pythonhosted.org/packages/8d/70/042dee05d1a46bcce51cd5a96c21324c22f46524c87cb46906db01884e44/diff-pdf-visually-1.4.1.tar.gz";
+    };
+  };
+  "digphoneextractor" =  {
+    "0.1.0" =  {
+      "sha256" =  "2d63aed8c1c86793afafb46fac997f17c37e56809e5751d3012ae9dff90dcc39";
+      "url" =  "https://files.pythonhosted.org/packages/55/6e/2cae3473ccba8e8b23be8c7555e7c2f454c8f542b569349216ba35f40447/digPhoneExtractor-0.1.0.tar.gz";
+    };
+    "0.2.0" =  {
+      "sha256" =  "98c09b8b5073ce26d009aa9214770796e6fc84a8e810289b984eccd5fb5da49a";
+      "url" =  "https://files.pythonhosted.org/packages/16/03/c953528397b9286cec1191d997633fc545b3592f24d8a53c28a56893c1b0/digPhoneExtractor-0.2.0.tar.gz";
+    };
+    "0.3.3" =  {
+      "sha256" =  "c87fd97fdc5c0a21944a04c7e8e12c311f2b6fbe74d2d2d8e7456e71b331482c";
+      "url" =  "https://files.pythonhosted.org/packages/bf/bc/e65eb562d34f0f93122c9da51f33aac0c101248da8815df8ea8b55726107/digPhoneExtractor-0.3.3.tar.gz";
+    };
+    "0.3.4" =  {
+      "sha256" =  "50c99e352121b3b3e278f7eb172f8002d48408db8d51a7bcba2d9503e1b98597";
+      "url" =  "https://files.pythonhosted.org/packages/21/63/df34b0001e85dcb64786c6a1c5afb61537de75a5f0cd3366d530b596d79c/digPhoneExtractor-0.3.4.tar.gz";
+    };
+    "0.3.5" =  {
+      "sha256" =  "eb94e6fa4d8277e52ecc6544c202aadde8fea4161cef1d0b453d0c64b0372989";
+      "url" =  "https://files.pythonhosted.org/packages/e1/c8/37b722d73800e72690acf383e6f530bfb8378df91b4333b0c08092d5dcea/digPhoneExtractor-0.3.5.tar.gz";
+    };
+    "0.3.7" =  {
+      "sha256" =  "4f5b4bc7386156678c26b2061c2f2085ed5c9e6c97c802b98d57cc8c193a33eb";
+      "url" =  "https://files.pythonhosted.org/packages/65/0d/0cac797c72b7395d1720a1e241af4859d415ad74641e8d7531a4ab87a6a2/digPhoneExtractor-0.3.7.tar.gz";
+    };
+  };
+  "digsparkutil" =  {
+    "0.1" =  {
+      "sha256" =  "ccc35719659d499949bbf99e5151c551b793851c2fd6f45fef3309d2df5c7d3c";
+      "url" =  "https://files.pythonhosted.org/packages/92/04/c934709c55e9c67ab0b4432b5865b66cea89994ae1ffe6ff7baa2aef958e/digSparkUtil-0.1.tar.gz";
+    };
+    "0.2" =  {
+      "sha256" =  "087cb95db306073ec85cf9124ce7db73e0e4d03b718445cace059936b64a1e2e";
+      "url" =  "https://files.pythonhosted.org/packages/ee/83/5f9396d2a3c4ea5a0b8c32669799017fe7ef05abcf0fe9c4a8942b73a140/digSparkUtil-0.2.tar.gz";
+    };
+    "0.2.1" =  {
+      "sha256" =  "e65ef29bc61f75f578f0d40c7f9020f56f4cf153cccaf634d7eba22fc4a8bcff";
+      "url" =  "https://files.pythonhosted.org/packages/df/82/0b593ccdcad9c26bb3c908ece66f15df0139cc791f6b05fff5fec87cb452/digSparkUtil-0.2.1.tar.gz";
+    };
+    "0.2.2" =  {
+      "sha256" =  "a0af8e51ab73b053e7839c5899ebb6291ce48d3142dfaef96d1f6bc749acfd7e";
+      "url" =  "https://files.pythonhosted.org/packages/7c/fb/e183c9200713cd2269faccb8171978887dde6b7f1fa522b4c38234c73d82/digSparkUtil-0.2.2.tar.gz";
+    };
+    "0.2.3" =  {
+      "sha256" =  "8cce2c1e8f3f90414da943aa7711e4eff46494a19a8006b087220a3ef48233a9";
+      "url" =  "https://files.pythonhosted.org/packages/c9/e0/813fe2e144d2915c511f8867952638956824454bb2fb9541a0fabc8723c8/digSparkUtil-0.2.3.tar.gz";
+    };
+    "1.0.1" =  {
+      "sha256" =  "3d17df2ba66509ade1140271890a4c4af51699de9131edc9c501a70fa56c71e5";
+      "url" =  "https://files.pythonhosted.org/packages/8f/95/20477cdd258139f6abf04858c20092d5302dca0561556804d1ceb6d12da4/digSparkUtil-1.0.1.tar.gz";
+    };
+    "1.0.10" =  {
+      "sha256" =  "0ba22e90c1d96b9f09ec557e237d58e2f85febb8fb623c57af7bd2b0c63fd655";
+      "url" =  "https://files.pythonhosted.org/packages/34/13/74dd934468a512c2d24c36aa0239b9650740532c5acb5d6aa8368505e006/digSparkUtil-1.0.10.tar.gz";
+    };
+    "1.0.12" =  {
+      "sha256" =  "0fdffe6b9fe78b88a64e96cdb20e3091b64606d28e7c2aebfc68232cef62bace";
+      "url" =  "https://files.pythonhosted.org/packages/01/1c/89d65b391d512654d5139382d3d9b9ce6fbb992c8c7e98f6b4e1430bc886/digSparkUtil-1.0.12.tar.gz";
+    };
+    "1.0.13" =  {
+      "sha256" =  "b68874d3e743805620b2a242cc915cf26ab72e3fccdfcd45797e5ccd6b6ae9d1";
+      "url" =  "https://files.pythonhosted.org/packages/46/8c/e58eec449aa0a719eb3186bfe0a09fdcb4772a591adff32d5ef7bc9365eb/digSparkUtil-1.0.13.tar.gz";
+    };
+    "1.0.14" =  {
+      "sha256" =  "5fc0e00a71197186bdd9ead9f50a283d5d91b92de544d3928d4ed7534f1ff7e8";
+      "url" =  "https://files.pythonhosted.org/packages/93/88/96bb7251f236bd673be56a6ecf9669fe5de75d5192cfb2806ed027101e4f/digSparkUtil-1.0.14.tar.gz";
+    };
+    "1.0.15" =  {
+      "sha256" =  "137086d22379e9f72a5a4c3009e780dec4e72731864cbddc7deda19c97ac8e4c";
+      "url" =  "https://files.pythonhosted.org/packages/e8/7f/b188cdf31757a99e86577dc69f58abb86c7f8d83c1649cfe1ad7adf38b28/digSparkUtil-1.0.15.tar.gz";
+    };
+    "1.0.16" =  {
+      "sha256" =  "a9e61a1322916f70c9dc1890faf5826d19ac7098c5dd5f133f9686ff538b8d86";
+      "url" =  "https://files.pythonhosted.org/packages/0d/f8/0dd4a6e905394f1a1a26128970d3ebdb00428d5aad1257cd7a00cb9a0664/digSparkUtil-1.0.16.tar.gz";
+    };
+    "1.0.17" =  {
+      "sha256" =  "29b1138aa4ac07b049d4829103ce24b8627ce57c4e50e51142e750934ede5c44";
+      "url" =  "https://files.pythonhosted.org/packages/08/a2/2cf1b907a139b362b29e9419e686d7fa5e3e63c4812f468255a70dc386c3/digSparkUtil-1.0.17.tar.gz";
+    };
+    "1.0.18" =  {
+      "sha256" =  "82e9cc7b6a3dac9bebe8d513fb205c964f3a02d1d798ad254132590705c9246a";
+      "url" =  "https://files.pythonhosted.org/packages/53/49/7bf574c65080f590eb30999d17ea0461db8e4f3ec139bb042aeebc16db3d/digSparkUtil-1.0.18.tar.gz";
+    };
+    "1.0.19" =  {
+      "sha256" =  "2bef650c24567ff4e1ba228f391878fc02916903aeb6f13ce800517e8f22a8cf";
+      "url" =  "https://files.pythonhosted.org/packages/1a/42/863443a5ac5872b84fe3db6fcd9184e65bd9300605abefeea44ac3c78376/digSparkUtil-1.0.19.tar.gz";
+    };
+    "1.0.2" =  {
+      "sha256" =  "13014fd12a48a770611040cc6c4fa5a9c74ca45e5e1dcad9c3bb07a4f4c2e4bc";
+      "url" =  "https://files.pythonhosted.org/packages/a9/b1/143de2164a84ac9def4705643fccd5b136f106d8648eafbb92cbdcb95f3c/digSparkUtil-1.0.2.tar.gz";
+    };
+    "1.0.20" =  {
+      "sha256" =  "307e95fa4db9ff19a4960380a90c5fd2a6346bacd2fce36c119f63671d63234b";
+      "url" =  "https://files.pythonhosted.org/packages/7b/67/b974b8805d40e61a648cd7bb0286b396ee3dfeffbc795b39017cb1f80933/digSparkUtil-1.0.20.tar.gz";
+    };
+    "1.0.21" =  {
+      "sha256" =  "30115d5ca94ca11d84dcbbf9502a26964523bdddcc4ffc0fed99431fc95ecc84";
+      "url" =  "https://files.pythonhosted.org/packages/67/bc/1398080667ad1b37c39128972281898ba4637846b0fca72c3e173d3d7310/digSparkUtil-1.0.21.tar.gz";
+    };
+    "1.0.22" =  {
+      "sha256" =  "6a81d67353a578bf6718cae75b0d019295a34a7b5bfeea2206e9048e6d6df197";
+      "url" =  "https://files.pythonhosted.org/packages/e0/44/9b5426ddfcfb23ae134f0a5cc1fb0fc0dc1903337a2b4a5f1d4d070d10b3/digSparkUtil-1.0.22.tar.gz";
+    };
+    "1.0.23" =  {
+      "sha256" =  "85254c95cc13dc0cf83b1916ad1397860d8e0d0822a246cfd97a35864bffc2b9";
+      "url" =  "https://files.pythonhosted.org/packages/5a/af/0be99088e01b9500ba9f2ef7f2df7e4216410acd83e1279654a734b2ffdc/digSparkUtil-1.0.23.tar.gz";
+    };
+    "1.0.3" =  {
+      "sha256" =  "6f0e2876df7681dfe74db8858c21931ee2e62b4c652265b643aed258c05eb0bf";
+      "url" =  "https://files.pythonhosted.org/packages/3e/43/2aef3fba23590153f4bb1913164e568cf92a761d9764bb0f04585ac885d6/digSparkUtil-1.0.3.tar.gz";
+    };
+    "1.0.4" =  {
+      "sha256" =  "dfb0f66737b4bbfd1c5ef008c60b15746f66d8b3e5f251e050b7417aed2e0350";
+      "url" =  "https://files.pythonhosted.org/packages/32/32/f2376a9536781509d62575e8dc39ebb9dfdecf9cb2f29aead3abce53051f/digSparkUtil-1.0.4.tar.gz";
+    };
+    "1.0.6" =  {
+      "sha256" =  "8fb5f2fec614a2e1433487653440d182a7a7c1ce5562344e54feeaf84ed10d96";
+      "url" =  "https://files.pythonhosted.org/packages/e7/28/11d099f53075fd03b3ce9df47e208b8701f0548aac537002f53bfe79f217/digSparkUtil-1.0.6.tar.gz";
+    };
+    "1.0.8" =  {
+      "sha256" =  "2776c7bdc2a1ccb78300b9c6eecc929c7116a58d7efadb9bfba373d862739746";
+      "url" =  "https://files.pythonhosted.org/packages/3c/a4/4a2eb13699b8c9bbf49f36d816500704d9d81f6f9cba0ac642c8003f6ce3/digSparkUtil-1.0.8.tar.gz";
     };
   };
   "dimdrop" =  {
@@ -5481,6 +4289,32 @@
       "url" =  "https://files.pythonhosted.org/packages/95/ee/cc76e88471d81449205fdb2c3a2e3f4c6f7451896fb017adbf224c6d442f/dortmund2array-0.3.1.tar.gz";
     };
   };
+  "dory" =  {
+    "0.0.1" =  {
+      "sha256" =  "00f351b21fee2ed8874a5a59c5366ccb543a25a5d06f7e93a2de3cf88f42f2c9";
+      "url" =  "https://files.pythonhosted.org/packages/10/3a/066aa38b6e7f0bb58478b6fca7324634d7b73c755ba3c1cdc2b904c1ecb9/Dory-0.0.1.tar.gz";
+    };
+    "0.0.2" =  {
+      "sha256" =  "92676ed40b4105a75021aa89673bae0ab897c1ecf0f2964166b4e6d72599fdc5";
+      "url" =  "https://files.pythonhosted.org/packages/f5/01/f768aea1653abed5aba8e4fb8227af99dc43ec6daaef951a3bf35c5965b6/Dory-0.0.2.tar.gz";
+    };
+    "0.0.3" =  {
+      "sha256" =  "ff436eaf1feefdecd961f3f1d6ed3cf8639b93d5863a01ecdde355a597e3652f";
+      "url" =  "https://files.pythonhosted.org/packages/8f/cd/d7837ec4384909191f5c5aabd24aa996ce1d957f167c102f9810562dc9ed/Dory-0.0.3.tar.gz";
+    };
+    "0.0.4" =  {
+      "sha256" =  "e7bff73999dfae6075911453b389de99fb070b8714d5d51480f7338c2b172765";
+      "url" =  "https://files.pythonhosted.org/packages/b4/77/edb09b7623838e65b2d7f3c968a109f2e79cedad409fefc1c5898ca97ee8/Dory-0.0.4.tar.gz";
+    };
+    "0.0.5" =  {
+      "sha256" =  "e2ae0f66b9d7fd83515379d907824f8222f79a56703a0beb6b05c8a692cdba26";
+      "url" =  "https://files.pythonhosted.org/packages/d3/65/e5fa28af315db908212c33def9c70bb17a90515c0f2e7e07b794f40470f1/Dory-0.0.5.tar.gz";
+    };
+    "0.0.6" =  {
+      "sha256" =  "d7af02cf3c617e6815eb1cbeb6681b835b8d9d632eed5aafae05c78759e834bd";
+      "url" =  "https://files.pythonhosted.org/packages/7e/17/3ab2271276d9f06bf4a63ddd6af75b3d56e8b427d3ebd9348f2b46b8384e/Dory-0.0.6.tar.gz";
+    };
+  };
   "drf_depaginator" =  {
     "0.2" =  {
       "sha256" =  "2a37a281c056424f519ac089333d14c42423323d1b7fe88c7784fd92e256958b";
@@ -5727,24 +4561,6 @@
       "url" =  "https://files.pythonhosted.org/packages/b2/f7/18a64280dfa4dcfdd365058ad583878f879c96b70ea6f4bc97497d8ba5ea/easy_sklearn-0.1.5.tar.gz";
     };
   };
-  "easyPyMySQL" =  {
-    "1.0" =  {
-      "sha256" =  "c07efaf4a98ee414d4cf1a66e46ecd28448058dc996d3fcd78702ea224c6da80";
-      "url" =  "https://files.pythonhosted.org/packages/25/7e/5c2fa6f890eb284fb92b5716537c3add16726220fa8d4c926561ee02b622/easyPyMySQL-1.0.tar.gz";
-    };
-    "1.1" =  {
-      "sha256" =  "b321b97820fbd036cbc2c872fee57fe063fb4479a2226466ec39a3cde535a730";
-      "url" =  "https://files.pythonhosted.org/packages/08/a2/10fa2ec548b258fa579f34d602de7e56e158b505d83b7f0d4b71c00b921b/easyPyMySQL-1.1.tar.gz";
-    };
-    "1.3" =  {
-      "sha256" =  "672748d81429832c29168dfaaa97841ea8e553b835652dfb909f7280fe425892";
-      "url" =  "https://files.pythonhosted.org/packages/c9/50/e05967fc1315fd0fd7e0b11b1aabeda97167b59206d26b24532250d084d6/easyPyMySQL-1.3.tar.gz";
-    };
-    "1.4" =  {
-      "sha256" =  "d29dcf421ce6f0f9ad6f39300dae74404e8e729df8dbee8f7e4da634f0e34aaf";
-      "url" =  "https://files.pythonhosted.org/packages/42/20/23379b8a0e455cb187c6d4051051c2aad37bddd292cd6e3b25fba5c60f23/easyPyMySQL-1.4.tar.gz";
-    };
-  };
   "easycommandline" =  {
     "1.8.1" =  {
       "sha256" =  "b13b3684c100d4e690926dbfd13fda3d70251bd56971b31af68e6ed1077d1bc9";
@@ -5801,12 +4617,6 @@
     "0.1.9" =  {
       "sha256" =  "4a80f959439fcab79d6e9bd73183390c82c3c5e2b330e876fff6c10872379eb3";
       "url" =  "https://files.pythonhosted.org/packages/d7/aa/4fbe265f5a15d9e26f1a9d9d0a430a0a1c3c2762ebe49f5a1c6ca7041972/edgy.event-0.1.9.macosx-10.12-x86_64.tar.gz";
-    };
-  };
-  "ehcCli" =  {
-    "0.0.1" =  {
-      "sha256" =  "c15d5db8e4891b282649216c73766cac324c6fbe353b74afe9b6dd6346bad78d";
-      "url" =  "https://files.pythonhosted.org/packages/4d/c7/71212a526932544d068da242e2f9c3aaeefbad6e2b40b571ad036084fba2/ehcCli-0.0.1.tar.gz";
     };
   };
   "emannotationschemas" =  {
@@ -5979,6 +4789,20 @@
       "url" =  "https://files.pythonhosted.org/packages/48/79/cfbb6e9c3602c02316b730e0a037672b1729dea0ac436b0bd2cf6019f5c4/emannotationschemas-2.0.2.tar.gz";
     };
   };
+  "epsilonmumu" =  {
+    "0.0.1" =  {
+      "sha256" =  "d9dbc82b8781cbac1cfa8751b7a9f4c69cbe2a1919d31e5fd626d99a2e387055";
+      "url" =  "https://files.pythonhosted.org/packages/f1/6b/0700124c52e43b1502bd3721e54759a281b19e042752815fd90f0681984c/EpsilonMuMu-0.0.1.tar.gz";
+    };
+    "0.0.2" =  {
+      "sha256" =  "65ee45c3152f1d89693372ed18427b7a0056a9142ff1af2f663d557a39a1abab";
+      "url" =  "https://files.pythonhosted.org/packages/51/f6/88ccdedf034ac99320aba30b07d65964e29c612fe77049a3f956724ff8f0/EpsilonMuMu-0.0.2.tar.gz";
+    };
+    "0.0.3" =  {
+      "sha256" =  "6e70dbea144cad35fccd09fd600df225d9bab747b3da65a206ba2f0cfdf130aa";
+      "url" =  "https://files.pythonhosted.org/packages/98/5d/5e6c621a3bb27e2fa90918a3454736dc0c4d4fa8578c2ca54c749efb0e84/EpsilonMuMu-0.0.3.tar.gz";
+    };
+  };
   "erp5.extension.sectionextender" =  {
     "0.3.1" =  {
       "sha256" =  "39d5b12335dde3ced68f1c8bc8b40ea2be8f00c9ffe36e13d267b7d9ec757ab2";
@@ -6031,6 +4855,40 @@
       "url" =  "https://files.pythonhosted.org/packages/67/29/445c3a9f751d407b4d179f3885d99692d3eec5db991884a49cc4e144f5ba/euston-0.1a1.tar.gz";
     };
   };
+  "explorerhat" =  {
+    "0.1" =  {
+      "sha256" =  "605553c6de37443b37d3b9bdbae60b9d8823c0b17d89365a314ca6b522fe0864";
+      "url" =  "https://files.pythonhosted.org/packages/a1/f5/fc33b9bfb566048faf8332bc7d828897bbcc89ca5fe9ef1a7a03567718d7/ExplorerHAT-0.1.tar.gz";
+    };
+    "0.1.1" =  {
+      "sha256" =  "a8ce65975229250647cf2cef95194f7cdb2e61479ebb5a39485a21663e344a39";
+      "url" =  "https://files.pythonhosted.org/packages/6d/33/51a55d6fc369663ede06e48b9bfee91b7130d9e117ccadf020ca0fd3d92c/ExplorerHAT-0.1.1.tar.gz";
+    };
+    "0.1.2" =  {
+      "sha256" =  "06b4117bbb02b3859438b7fa614a4b0dcbcb20f4ec5ef01fd77876e9804b8651";
+      "url" =  "https://files.pythonhosted.org/packages/bd/86/8691073b09aad483603ab9f5dc46909718630c182eb049e6bc981aedac25/ExplorerHAT-0.1.2.tar.gz";
+    };
+    "0.2.0" =  {
+      "sha256" =  "e63ae0db073d9b92150b5db0433a0936e6799466c60ffd7de301e47fcce2c23e";
+      "url" =  "https://files.pythonhosted.org/packages/9a/bf/cebda4270ac8daca7672fb42ead13ddc7e1a4cc8b543a0cddd8ffda7e64c/ExplorerHAT-0.2.0.tar.gz";
+    };
+    "0.3.0" =  {
+      "sha256" =  "af089126331dbcf96eebd521c76eea0d54a2e1210d8394a10346739d9ea7afd2";
+      "url" =  "https://files.pythonhosted.org/packages/2a/21/44454f14f3b710cb7a26a23a7851996157e6c2f64f6f7a67605907c8b17d/ExplorerHAT-0.3.0.tar.gz";
+    };
+    "0.4.0" =  {
+      "sha256" =  "125c5294bab4c4c6c6a1de82e2074d33fb6d53bec58b642a542c4982123fe414";
+      "url" =  "https://files.pythonhosted.org/packages/e1/9e/778c2bd57aff5ed936e80627a6da31d1ee23437cb209ecb5e70152e7e3bd/ExplorerHAT-0.4.0.tar.gz";
+    };
+    "0.4.1" =  {
+      "sha256" =  "aef9c91c0eb6efe79a4a5f2bab249eaf30c5dc5999f091ec3ba1db5f4d9d7101";
+      "url" =  "https://files.pythonhosted.org/packages/38/dd/36f291e674001959e540ec3c8cee8e3755c30ea9e7b964e504cd83c1b3a9/ExplorerHAT-0.4.1.tar.gz";
+    };
+    "0.4.2" =  {
+      "sha256" =  "9c714bbe2cf4fe51252b195cff0b79cf0440d406961d0b46f8fb97c7b6c51088";
+      "url" =  "https://files.pythonhosted.org/packages/79/e2/db67ba7789f08860e05c2098788103935d9ac0e5dfae58de89d884edf0b5/ExplorerHAT-0.4.2.tar.gz";
+    };
+  };
   "extasy.wrappers" =  {
     "0.0.5" =  {
       "sha256" =  "e673b8c3c621a87b94f850abfbcfd79fadfbb385dd230ff3718a7bdfbdad049b";
@@ -6049,26 +4907,6 @@
     "0.0.2" =  {
       "sha256" =  "6a0157c46bcea5bcb3e42850ce3f8f8d59f6437c8888425a165763711552069e";
       "url" =  "https://files.pythonhosted.org/packages/ca/3f/74f54bced4c8a5e02398f1898de68f875c7393adc7931a340328dd8c424b/eyedropper-0.0.2.tar.gz";
-    };
-  };
-  "ezPyChart" =  {
-    "0.1" =  {
-      "sha256" =  "1c018719a3d7f3ab23ca7a47e146ba91502ce593249e436f18c5b34933494e5c";
-      "url" =  "https://files.pythonhosted.org/packages/ca/18/45910c138a61104ba9033c41762971214905659df2dfc0f0ea16055cebc1/ezPyChart-0.1.tar.gz";
-    };
-    "0.2" =  {
-      "sha256" =  "ce11dc9849cc56992f030caef0a1d3f7f17b4cdd02bb24e58af5e1ec8f84ec20";
-      "url" =  "https://files.pythonhosted.org/packages/ad/0e/af692943ce8cfc43986c86910453f4275f9ca0123f93a9286d03c4b86d9c/ezPyChart-0.2.tar.gz";
-    };
-  };
-  "fLTlib" =  {
-    "1.0" =  {
-      "sha256" =  "ab6d5004406246ee6605dc9ede121198baf544a652073bb404e0a66bbdd43fc5";
-      "url" =  "https://files.pythonhosted.org/packages/3b/f4/b11308e7c0a9a8571a63ba998188d1172cf676f015220f5fd245401f2b19/fLTlib_Linux_32bit.tar.gz";
-    };
-    "1.2" =  {
-      "sha256" =  "22ad0e06c818446af29d3f9d3e084234b9df721ea725e02be7632373ba3c5d21";
-      "url" =  "https://files.pythonhosted.org/packages/a0/0a/4cd9aae921522216a0ac5deac1370e516b01f7bf9096600e1e87dcd6f804/fLTlib_v1_2.tar.gz";
     };
   };
   "fake-me-some" =  {
@@ -6445,6 +5283,46 @@
       "url" =  "https://files.pythonhosted.org/packages/4f/ad/4f9dee53a2164be55d7b1d083b01a4531081f04cafb193f190f3150f30a1/flake8print-0.1.1.tar.gz";
     };
   };
+  "flask-augment" =  {
+    "0.1" =  {
+      "sha256" =  "60723fedb9f8550b17f24f0f8d78bf1c25303acf31467d3b3fd353a0f101ff67";
+      "url" =  "https://files.pythonhosted.org/packages/69/1d/768b720fdb2d4d630f658fb21cda79a80b8ae78f4db0257ae2a464674dfc/Flask-Augment-0.1.tar.gz";
+    };
+    "0.2" =  {
+      "sha256" =  "1424d977f9041726a7e60b1206871685e72ecbc9d5eda9870ea758e673ecc9c4";
+      "url" =  "https://files.pythonhosted.org/packages/1d/ea/beaad6b36bd5ee03070a645f1a418744039cd2209204877004fc13054d19/Flask-Augment-0.2.tar.gz";
+    };
+    "0.3" =  {
+      "sha256" =  "d0316188c39335c30ec33bbddd8f0f93b3f98eb50186ea820714e07b7de160f2";
+      "url" =  "https://files.pythonhosted.org/packages/a7/7d/7df60db6e9c5d45b2e15b4392e31a618c8065f58bc87873ce5e5982ab5ee/Flask-Augment-0.3.tar.gz";
+    };
+    "0.4" =  {
+      "sha256" =  "285493868c25b4a54e3cb050dc20d6d908e01dbd44b03b59d77277f6299ccdd0";
+      "url" =  "https://files.pythonhosted.org/packages/b5/7d/27db591a6aaeab9de60844a08a4eefe3a148c1a06c13f4f176e5d07a16aa/Flask-Augment-0.4.tar.gz";
+    };
+    "0.5" =  {
+      "sha256" =  "9860d08e3e6ec0c3cbb24862f3b0fed77f7e55dbd450e402efde7fa7fa4ce24e";
+      "url" =  "https://files.pythonhosted.org/packages/6b/56/1b6d38b079d00b51a05b350dbbab9f79bb0c3ee40907f8ae1b1f1c61abd5/Flask-Augment-0.5.tar.gz";
+    };
+  };
+  "flask-authbone" =  {
+    "0.1" =  {
+      "sha256" =  "f4442dc19adee7703f1319c7d2996f64d3642fccafe12856bfb16c593c4081bd";
+      "url" =  "https://files.pythonhosted.org/packages/dc/a1/e7e3ed487334f7dd4461c8c467507eefe3ce696dd06ed114fe1ec17a5d90/Flask-Authbone-0.1.tar.gz";
+    };
+    "0.2" =  {
+      "sha256" =  "828796c492caaad845cde92938fadf23648c7dc6956ecd7aca94a0e5e0156d28";
+      "url" =  "https://files.pythonhosted.org/packages/a5/ab/3bf69d099097c9de9eb1b054c945ee0e4a48baa5a849c95ca18e60de04ce/Flask-Authbone-0.2.tar.gz";
+    };
+    "0.2.1" =  {
+      "sha256" =  "dd1e88a6bc5296e17dbb12d2fd0c8806fb479a9598c2e2abc9ffffebf08e7116";
+      "url" =  "https://files.pythonhosted.org/packages/0c/48/5c9f1fcfccf339af8767aaf80f2fec018e96e587ad11e1d9584c3603ec00/Flask-Authbone-0.2.1.tar.gz";
+    };
+    "0.3" =  {
+      "sha256" =  "3df37b6d7a06e17abe148ba75a20beffecdeb30c2fac788b54df030d7d79d271";
+      "url" =  "https://files.pythonhosted.org/packages/ab/65/111c75a50eaf3356143083b3b0377a9c33e7044b05623db4016b55e82d91/Flask-Authbone-0.3.tar.gz";
+    };
+  };
   "flask-behind-proxy" =  {
     "0.1.0" =  {
       "sha256" =  "0e0f333132ee0c1b49de51226611c27d9e19c8abe9c0ded66b8f96650ecd14c1";
@@ -6459,6 +5337,42 @@
     "0.9.2" =  {
       "sha256" =  "3ec8937c47c81772dfc4b68c7d18f2c6d635d1cff1ae43f1d3d12884f0ca2998";
       "url" =  "https://files.pythonhosted.org/packages/6f/e1/097790c6a537f59453362459f00bee4edc5fea095086fe88ba3f65bf839e/flask-csrf-0.9.2.tar.gz";
+    };
+  };
+  "flask-foundation" =  {
+    "1.1" =  {
+      "sha256" =  "55a750f25d9e891a71f541e9c704e16f7d9483cebaddfe8e175dfea67b315d9e";
+      "url" =  "https://files.pythonhosted.org/packages/68/09/676ac40a2288ec1a0930ed7d27bbe50902a367328131fb9edc2ee329023d/Flask-Foundation-1.1.tar.gz";
+    };
+    "1.2" =  {
+      "sha256" =  "daf9273d1b1a5893d240af07c2e3125aebbe30b2944a952627c3d863d695cc67";
+      "url" =  "https://files.pythonhosted.org/packages/c0/d9/c4f7b102eed1cb516e387c42aec8728070a9857ec2760805d45609547d60/Flask-Foundation-1.2.tar.gz";
+    };
+    "1.3" =  {
+      "sha256" =  "9eb176cdbf55a3d6059819b4814cb2582abd5937e56381571c177f2dd72c2ecf";
+      "url" =  "https://files.pythonhosted.org/packages/1f/40/2e5c6cd551eafcf8743f2f29dfcb34ac97540265124c580e929fc895ff24/Flask-Foundation-1.3.tar.gz";
+    };
+    "1.4" =  {
+      "sha256" =  "b75844a0414ec24dc8a653008b3d1952c08a88bc01f54ce58b72e3974be2601e";
+      "url" =  "https://files.pythonhosted.org/packages/0b/ee/438f0203c1b23c524c712f7476f5bd844aa5c1be3abd1da339eaef39f69c/Flask-Foundation-1.4.tar.gz";
+    };
+    "1.5" =  {
+      "sha256" =  "df9137de6fc7bec7e154aecb3ea08ec9124429cf573bbff9dbc5e8045694a9f2";
+      "url" =  "https://files.pythonhosted.org/packages/c5/20/45b4daa9bd98a65e5afbd6b0bbc6fd9f976c62a38b9869a834f48bf26685/Flask-Foundation-1.5.tar.gz";
+    };
+    "2.0" =  {
+      "sha256" =  "d461da204519c01dcd40402acee58e2e3662ca62cb8599b476ea0bfff977aaeb";
+      "url" =  "https://files.pythonhosted.org/packages/04/8f/304421ede846cdbf5e055eabb8fb99d0e056303bc300ccceac7627f147cd/Flask-Foundation-2.0.tar.gz";
+    };
+    "2.1" =  {
+      "sha256" =  "83767b7a570d10d403e01779c4ada5b2ae4514b58480d63a3b8f3bcbba3941e7";
+      "url" =  "https://files.pythonhosted.org/packages/b7/13/08a60719212bf1a0dd8faf22d6718e1cee44db680c38ae2fd5e78afde9cf/Flask-Foundation-2.1.tar.gz";
+    };
+  };
+  "flask-pubsub" =  {
+    "0.1.0" =  {
+      "sha256" =  "21bfeaff245c7ddb0c0eae0786add1e85849fb76c23a9ae22a9e67a4197607ec";
+      "url" =  "https://files.pythonhosted.org/packages/55/5d/aeb4e84959c6d0dd542dfe36dd78701f23174b863787824eee798551a51f/Flask-PubSub-0.1.0.tar.gz";
     };
   };
   "flask-restx-svilgelm-test" =  {
@@ -6577,6 +5491,24 @@
       "url" =  "https://files.pythonhosted.org/packages/17/f3/e8a942af4d2eeb68974bbfe5a6ef8a3eb25baf361a44ad6583b2d34bbc38/futures_then-0.1.1.tar.gz";
     };
   };
+  "fxrays" =  {
+    "1.2" =  {
+      "sha256" =  "a5eae4b517055e02b945aa171f5b8608a90941f1d3d55f5ccdeebae3fcb734e0";
+      "url" =  "https://files.pythonhosted.org/packages/96/a2/076698ed4780f8620510f704c646e7591fe4d266babce4b02726e84e232f/FXrays-1.2.tar.gz";
+    };
+    "1.3.1" =  {
+      "sha256" =  "95329d8a05fb27b66e09f7ea604b3475d813a4b64da7807afa251f9f771e75f1";
+      "url" =  "https://files.pythonhosted.org/packages/79/b6/aa33cdcf6b3614c079c9e2ef7702a86eaa2f789f8e5f9117a572439385b5/FXrays-1.3.1.tar.gz";
+    };
+    "1.3.2" =  {
+      "sha256" =  "eedfce49f9f8ac393241e8773cfbf61964a23c522ccb429e3bd62806e52960a0";
+      "url" =  "https://files.pythonhosted.org/packages/3f/fc/0a8519caee5cb970d5fc81374d352ad534d9c1d4a0391ffc47cd982ce2e4/FXrays-1.3.2.tar.gz";
+    };
+    "1.3.3" =  {
+      "sha256" =  "34886d5cfa167390b8faa7211273f989bd45968560c04503b5179d3599abaa41";
+      "url" =  "https://files.pythonhosted.org/packages/10/76/494fba39da0ff88a1a56a5cecee56e972ff461b8823ac5fc9f64aa5461c1/FXrays-1.3.3.tar.gz";
+    };
+  };
   "gametex-django" =  {
     "0.1" =  {
       "sha256" =  "c7fc36f684ecf3efe1e2ee1d06e07ca4c3edc2598310ef67ee777c675df59b3b";
@@ -6671,6 +5603,28 @@
       "url" =  "https://files.pythonhosted.org/packages/1b/07/250df7696b34954ac8fc4cc1c2321c76302db76d5e5613989155655057ca/gen_pdf_prices-0.0.5.tar.gz";
     };
   };
+  "genelocator" =  {
+    "1.0.1" =  {
+      "sha256" =  "972d50abad68e205d914610f335610cd5c46024a18d1dd94f70f1913ea4b4727";
+      "url" =  "https://files.pythonhosted.org/packages/39/3e/fa19187a843025000b0b566593712255636d60f834da7bee46bb551c952d/GeneLocator-1.0.1.tar.gz";
+    };
+    "1.0.2" =  {
+      "sha256" =  "3ade917d19de076450ab665c623c5b4866fb3e4252cf49fd0663064cbda8c46b";
+      "url" =  "https://files.pythonhosted.org/packages/05/5b/a211c9cb10cb9d6e0d84e913b8e7a0563dc4d587dfa787f2518ff64c35c4/GeneLocator-1.0.2.tar.gz";
+    };
+    "1.1.0" =  {
+      "sha256" =  "b0bab4b5f04764771906162566b4c90b629287a7122db91660256a39f31017f5";
+      "url" =  "https://files.pythonhosted.org/packages/52/4d/d6ce3a27795defd191064a6088153a1b21f2d54ec8a084a54286d0d59ed6/GeneLocator-1.1.0.tar.gz";
+    };
+    "1.1.1" =  {
+      "sha256" =  "a0a73c31a340728fa3a3dc92502236ea1711f5b28611b5703dacdadd40ce4baf";
+      "url" =  "https://files.pythonhosted.org/packages/91/a7/a50057ef88dc7d15a9a76e60c9cd4d348faf1c082a47142a05e3bf8d9ee2/GeneLocator-1.1.1.tar.gz";
+    };
+    "1.1.2" =  {
+      "sha256" =  "7f7c2f6a65885b748294edfce42bcffac12d6324cf7f1a8d1a3ceca7209c862e";
+      "url" =  "https://files.pythonhosted.org/packages/1b/2e/861b68be7fc7aeb059e9e2669aed1ed3d97716044ad1038be8b32001e639/GeneLocator-1.1.2.tar.gz";
+    };
+  };
   "geoffrey-csslint" =  {
     "0.0.1" =  {
       "sha256" =  "3a5f43fab43a6eb7458bafc84e6a5ba480a340d77cddff9023073552b6aa4454";
@@ -6711,6 +5665,30 @@
     "0.3" =  {
       "sha256" =  "219bb5cb2b3eaefe1ddd1443b3f7c61b77efb66225614947d798d15fdf7e3bab";
       "url" =  "https://files.pythonhosted.org/packages/1f/d7/0f341c5c8770a7f1a821d0bbb4dad7cf5647511fdaee243e9298cc80774a/git-vanity-0.3.tar.gz";
+    };
+  };
+  "gmailapihelper" =  {
+    "0.0.0" =  {
+      "sha256" =  "818d7598ae29f8ef611b939fd817b50b42cc9e2fc96e36e382e8c5cd65d692f0";
+      "url" =  "https://files.pythonhosted.org/packages/fb/ff/e43e6e93cf6f52e4f403e00c6090347db5024a4391d81f6eeed031a50e3b/GmailAPIHelper-0.0.0.tar.gz";
+    };
+    "0.0.1" =  {
+      "sha256" =  "913198a23b39fcb9df5ad7ba6d59878a9f5191142d215aac52407061afb035f2";
+      "url" =  "https://files.pythonhosted.org/packages/91/ef/297dc46023f0807dcd8a727a3fb165fb6394ed76a8d8e9ee3d34f2e0e42b/GmailAPIHelper-0.0.1.tar.gz";
+    };
+  };
+  "google-safe-browsing-v2-lookup" =  {
+    "0.1.0" =  {
+      "sha256" =  "5d181e47d094fceeb2eb5f589e974b306491e91602b4afb83e98f46fed6fd43e";
+      "url" =  "https://files.pythonhosted.org/packages/8e/85/c0a148cbe6e9c7eb87bb93edd2b572197eac9921e2d1c58c546c79299949/Google%20Safe%20Browsing%20v2%20Lookup-0.1.0.tar.gz";
+    };
+    "0.2.1" =  {
+      "sha256" =  "cea6ab8c84d0aeac5457c2ae80da5afb5613c47d0252ea6a8aaabe307f6eebee";
+      "url" =  "https://files.pythonhosted.org/packages/d2/6f/058e78e5c014404c468c51e1fbf88cccd3b9b8c7a016f38ba39602a7ccd7/Google-Safe-Browsing-v2-Lookup-0.2.1.tar.gz";
+    };
+    "0.2.2" =  {
+      "sha256" =  "3a63816f52d9bdefa490a1620bf2190b0a4603ab60e8a5a44978e81c59bc1f63";
+      "url" =  "https://files.pythonhosted.org/packages/5f/03/52bb074431318edcd1e0a2dd69e1e781bb84f4b204b153be880a98e11809/Google-Safe-Browsing-v2-Lookup-0.2.2.tar.gz";
     };
   };
   "google_screener_data_extract" =  {
@@ -7097,80 +6075,6 @@
       "url" =  "https://files.pythonhosted.org/packages/21/31/70e085ef3766f3533272853a1c6eadb800f1952e70f53ab097855217c479/hifive-1.5.7.tar.gz";
     };
   };
-  "hiveqlKernel" =  {
-    "1.0.0" =  {
-      "sha256" =  "56a6cfb9b42cc067dd8cc8785cb454844eaa7d165ef961192a3fe6c61f4052f3";
-      "url" =  "https://files.pythonhosted.org/packages/41/ee/941778aa81d039a5ffc66143b3f1035d370973185197e1e203b20518e8c3/hiveqlKernel-1.0.0.tar.gz";
-    };
-    "1.0.1" =  {
-      "sha256" =  "9d170312af05a883f54bd8109fe42b0c20ff71cd01b11a1e27e6980949194fc0";
-      "url" =  "https://files.pythonhosted.org/packages/b3/25/f0c219dd96cd6a38e5ddd99a6d51afdd1766534ca77631c9970e8fa6a0a8/hiveqlKernel-1.0.1.tar.gz";
-    };
-    "1.0.10" =  {
-      "sha256" =  "5885a2ea54e4853a03280e0e4d2b6127919310e5d13a84337135ee43c343b4a9";
-      "url" =  "https://files.pythonhosted.org/packages/7b/80/f28db4bb6eb080afaca27837497717a435688388a94632312c15b2339415/hiveqlKernel-1.0.10.tar.gz";
-    };
-    "1.0.11" =  {
-      "sha256" =  "9e3e3ed782966d3bcc3ee2f3e4c29a468124a5853434486402e5e06c967d9d11";
-      "url" =  "https://files.pythonhosted.org/packages/12/8e/ae4b0e423834e8d9986ce7a6eca5159ded65b9c95e6c345678c5360debca/hiveqlKernel-1.0.11.tar.gz";
-    };
-    "1.0.12" =  {
-      "sha256" =  "04186fd4f4f51a6cfc865c43ae40b47bc9632769f6be4d7fafce3a04f910c9b8";
-      "url" =  "https://files.pythonhosted.org/packages/54/09/274d361c70f3463254bae0742e59cf10de27e1afb9d134cbd24ee31f9a91/hiveqlKernel-1.0.12.tar.gz";
-    };
-    "1.0.13" =  {
-      "sha256" =  "a411a824df3488382f648761a8376c300e831018d7dc2a2063949e6ca586e902";
-      "url" =  "https://files.pythonhosted.org/packages/fe/dc/ca932572da28b69a4a8686b886bfef32e0bb38cb6293553174433c2488c1/hiveqlKernel-1.0.13.tar.gz";
-    };
-    "1.0.14" =  {
-      "sha256" =  "62216f56449d697703ee871c9ce2717b076908ab896f7244e85088426184f560";
-      "url" =  "https://files.pythonhosted.org/packages/b0/3f/05965267ae4d62176bae562ae892661f538805e245edb602db24ef07da99/hiveqlKernel-1.0.14.tar.gz";
-    };
-    "1.0.15" =  {
-      "sha256" =  "26ecc9b28d1c12f466c68e50c5fce4bb00c540c2e1943d3387d97715b780eadb";
-      "url" =  "https://files.pythonhosted.org/packages/ff/43/8969265c8ffccbbd9f05acb0de4ea9c31de52ecbc87fe93d809abc2bef09/hiveqlKernel-1.0.15.tar.gz";
-    };
-    "1.0.16" =  {
-      "sha256" =  "9192676cc0d7cecfb6b6c286c76d9a560ba0fbff894e1183f3399f222b6900cd";
-      "url" =  "https://files.pythonhosted.org/packages/92/3c/fb93278859d3bfedf9f0d698e2ea52a0b4461020a1d530bcb1abce4884ec/hiveqlKernel-1.0.16.tar.gz";
-    };
-    "1.0.17" =  {
-      "sha256" =  "4cf7a2343e2bdfcb0fcdfeb1059d50ae0ed722c404d385197cae2046ab170cd7";
-      "url" =  "https://files.pythonhosted.org/packages/c5/b5/0dc852379e91f57f2ed5728f16ea59e433a95bc8fa32aa8c4012fa861fa7/hiveqlKernel-1.0.17.tar.gz";
-    };
-    "1.0.18" =  {
-      "sha256" =  "360a3c9e0ca87896d9c371d7c281ec319e24c98490ab6fc9af4ba58f5577be82";
-      "url" =  "https://files.pythonhosted.org/packages/19/f7/56e1c9965758e8c98ac5bc20d2a22a2b5d83062528ed723a27c89d11d241/hiveqlKernel-1.0.18.tar.gz";
-    };
-    "1.0.19" =  {
-      "sha256" =  "ca0bf3e25571c8969cf2ea4471e2ce67fbb083c32308d6464fb7b68c387a7cff";
-      "url" =  "https://files.pythonhosted.org/packages/1a/fc/a941ba89e16ea6c871ea6d5af3cac293f2437489cbb91c534c3cc26820a3/hiveqlKernel-1.0.19.tar.gz";
-    };
-    "1.0.2" =  {
-      "sha256" =  "0b2589ef04fc8eae04a8d7eed89d5ba91860f4364b671f05145ee0409fdabada";
-      "url" =  "https://files.pythonhosted.org/packages/71/73/6c2c957787c6b7eace2794ec97ac4cf0ccc52904d4872e95fda1b9fc1b75/hiveqlKernel-1.0.2.tar.gz";
-    };
-    "1.0.20" =  {
-      "sha256" =  "4d4d21d27ee7e8385c194408cd86c054bc03b3edd2b8b02177c72cc30be0abed";
-      "url" =  "https://files.pythonhosted.org/packages/d5/90/9ae1c1861f667021c6a7959cda69558f869239ae68c5f0664eb5633670c5/hiveqlKernel-1.0.20.tar.gz";
-    };
-    "1.0.3" =  {
-      "sha256" =  "9cf01421090b0a7d0a8344d15ca63a988084e9dc1ad800464c71df0e8e91836e";
-      "url" =  "https://files.pythonhosted.org/packages/04/d4/f97e3a19aac84ea81c849000bd077920d89e7662984bd55c16a133121a14/hiveqlKernel-1.0.3.tar.gz";
-    };
-    "1.0.5" =  {
-      "sha256" =  "c2554f0956e40d15fe60c4f17ad4534615168b88c2ee31e0566891f3a2bc739f";
-      "url" =  "https://files.pythonhosted.org/packages/20/d6/d90c659f4bc4dfab056184d627506f0ad9d8131be712b127b29f2d9868d5/hiveqlKernel-1.0.5.tar.gz";
-    };
-    "1.0.8" =  {
-      "sha256" =  "163fe9ab697042b5a345ee1436fc41163aec5bd75190cb0ad938273b4c45617b";
-      "url" =  "https://files.pythonhosted.org/packages/db/27/4fb744c6ee68eb995bd101e384174c8fe2299391beb6ff1532c23d5de369/hiveqlKernel-1.0.8.tar.gz";
-    };
-    "1.0.9" =  {
-      "sha256" =  "150283b44fd7c1cd30447b034481c88e1ef7739e7915818c32721d22a92fa4b9";
-      "url" =  "https://files.pythonhosted.org/packages/74/82/25b900dc9fca5a21ad444d1681364de3977ccc3aede2c40e83f2bd32257f/hiveqlKernel-1.0.9.tar.gz";
-    };
-  };
   "hla-genotyper" =  {
     "0.3.0b19" =  {
       "sha256" =  "2e40531a6b1da6abbfc0cea169c65173fb007696b44dabdd0e6e8113b0c32e99";
@@ -7393,68 +6297,6 @@
       "url" =  "https://files.pythonhosted.org/packages/1e/d2/83cad41553ea19055a6682ff90539f70ee594c4bd1b42b82327854fac9a8/i3msg-1.0.0.3.tar.gz";
     };
   };
-  "iRep" =  {
-    "1.1" =  {
-      "sha256" =  "6a5168a996e1fbb0abdb32c8cbb867e0a3342deb6a3e8b323b9a958253cb171f";
-      "url" =  "https://files.pythonhosted.org/packages/6e/f8/54c4c3a1e39e23a71a93be840df5a425425334d2daea18ce4e27f6c7e4cc/iRep-1.1.tar.gz";
-    };
-    "1.1.1" =  {
-      "sha256" =  "4256772ab686bfc29e692f7f80a7cb69ed65309d781174f0cc2026fb10540930";
-      "url" =  "https://files.pythonhosted.org/packages/8d/7c/7ed652eba7c81a01a512accfadf5dc6f266d3b1fe532da6b5e1d9973494b/iRep-1.1.1.tar.gz";
-    };
-    "1.1.10" =  {
-      "sha256" =  "aa2d9141aad14bc14a57dedc6af8c083ace270bbd63c8d66606c633d9ae52fea";
-      "url" =  "https://files.pythonhosted.org/packages/b8/6f/c8ebc8623a379bd1dc27e96775c67173952b099aa083140bb1e2e1d23c33/iRep-1.1.10.tar.gz";
-    };
-    "1.1.11" =  {
-      "sha256" =  "5760e33ed293aecf2e3f4553efdc71d93c5db83f75550ddda107bed4480c3654";
-      "url" =  "https://files.pythonhosted.org/packages/76/72/c0a7f6dfc662d6429d10592042d409b1487e8a59e7225a1860d6ce9749da/iRep-1.1.11.tar.gz";
-    };
-    "1.1.12" =  {
-      "sha256" =  "509cfc2a03ddb602d92bd414d7eb6e7f7e7dd0d8b3a252f3aa0b4c857b0fbc41";
-      "url" =  "https://files.pythonhosted.org/packages/35/7c/f1724d94eb677f2cf5515c92c4930110870092833abcb5c5dbe8297b3103/iRep-1.1.12.tar.gz";
-    };
-    "1.1.13" =  {
-      "sha256" =  "55ad4c6e04a26bb98d2ab8ffc26997d30a419817ca4d4e267e169fe8ac731874";
-      "url" =  "https://files.pythonhosted.org/packages/32/e0/cb9532ab01b24783bc11cf449b7c21eb6758c3c768943765c026a392f8a5/iRep-1.1.13.tar.gz";
-    };
-    "1.1.14" =  {
-      "sha256" =  "eb74e285180165bcbedd574269a605b22aa498e1309ba1d6b43af93fee5bb6ab";
-      "url" =  "https://files.pythonhosted.org/packages/df/8a/034355aa9321c42632c62ad4029a3e7ebb6bb1670c808de717d0312a2ed3/iRep-1.1.14.tar.gz";
-    };
-    "1.1.2" =  {
-      "sha256" =  "c74ca4477859c98ec9f3251e90c249030ae5d43f5fdd77a7fb3d5ead3f1014b5";
-      "url" =  "https://files.pythonhosted.org/packages/a1/5d/641810bf126e18b75363513f95511d75f755db580496bebabf4225772226/iRep-1.1.2.tar.gz";
-    };
-    "1.1.3" =  {
-      "sha256" =  "189af792c1413f62fe882c7802d3c2b98b45844a5c4b22e3264ed6e7de9fb4e3";
-      "url" =  "https://files.pythonhosted.org/packages/b6/9c/3b58b16b770e3b538f27f2fb75b51fa1e1d48baf310c18c7540dae76d2ca/iRep-1.1.3.tar.gz";
-    };
-    "1.1.4" =  {
-      "sha256" =  "80201691b687ed34345811e5cff628ec9c0f30bbdd04732b98d4f36d109d826d";
-      "url" =  "https://files.pythonhosted.org/packages/73/e0/bacfaa5f157259f81fa3df133f7631632d4478fba7278116606187f0b0cb/iRep-1.1.4.tar.gz";
-    };
-    "1.1.5" =  {
-      "sha256" =  "f10c8829379dd46ee08b51902b0adbd0850cdd72b88cbb0b6c58203751cae9a4";
-      "url" =  "https://files.pythonhosted.org/packages/9a/ea/8ccb341b2347d5724db6cb715edf3ed7d33ec779d58b8056781343c42d7b/iRep-1.1.5.tar.gz";
-    };
-    "1.1.6" =  {
-      "sha256" =  "efcf8f6b6060abc92a1192a1c1aebc3962a7b7051c2208a9614f2780a197e4c4";
-      "url" =  "https://files.pythonhosted.org/packages/fd/61/547378fa9397d137dba697c88989f97883ca7d03064e06e3417eaab18fbb/iRep-1.1.6.tar.gz";
-    };
-    "1.1.7" =  {
-      "sha256" =  "c82c439e6b02a30ddaefdf375952b08d097d89469d2beb2cc84f025f7062d7f2";
-      "url" =  "https://files.pythonhosted.org/packages/52/5d/a86b27f2f986ba6ba84543289065f81d41869f2ecf33e854a47ef62790cd/iRep-1.1.7.tar.gz";
-    };
-    "1.1.8" =  {
-      "sha256" =  "4c1937d8931d08eb75a7e26ed26b64d23a2393ef7c907ce0cebd7b75fe0cddc0";
-      "url" =  "https://files.pythonhosted.org/packages/b9/63/00968a2143d18fa95a999aba30d7665d98e72cd939b483c398a79caea39f/iRep-1.1.8.tar.gz";
-    };
-    "1.1.9" =  {
-      "sha256" =  "69a1f826902feecde6b54ce5d2743084c2003ca5bb54e31538cbd34dbb4c5d22";
-      "url" =  "https://files.pythonhosted.org/packages/4f/88/2fd9ed852ba4254e6d349305a31fd87609aa6d6cdccb38b965f5b9b8d169/iRep-1.1.9.tar.gz";
-    };
-  };
   "iamport" =  {
     "0.0.1" =  {
       "sha256" =  "f965a1297161dbe7e50ee386a60b24c16a9c22cc95b66989be41f2be4c7cb56a";
@@ -7499,6 +6341,12 @@
     "1.1.0" =  {
       "sha256" =  "c70dcdf6d1e13b2e70490d9a1431684aa8d7ffd883905044b65693fd3d788e9f";
       "url" =  "https://files.pythonhosted.org/packages/6d/aa/e877b709b7bcef8cd516c4594a29e8357f55c70b19010b6985a941592bc4/idlbridge-1.1.0.tar.gz";
+    };
+  };
+  "ie_mbdbl2018_d_yahoo_ks_datareader" =  {
+    "0.1" =  {
+      "sha256" =  "8c1cd87abc16caada49632057e2ce9f135cf60b975e197395460dedeec5b41c5";
+      "url" =  "https://files.pythonhosted.org/packages/b2/f6/57099d004a21ef243a50eb4aecc0ff1ad0cde9ba5a16e59b95df034729bc/ie_mbdbl2018_D_yahoo_ks_datareader-0.1.tar.gz";
     };
   };
   "ik-cli" =  {
@@ -7699,6 +6547,24 @@
     "0.2.6" =  {
       "sha256" =  "189db0e9fd48cf52f333ef8ac1a71b9e3a9eec6561f5085e3d7239ca2588ba87";
       "url" =  "https://files.pythonhosted.org/packages/b4/d1/9f5150c7bbdf02b916154ad44038878b7f4a39ad1f125274cf9e05b58bda/ipyauth-0.2.6.tar.gz";
+    };
+  };
+  "ispark" =  {
+    "1.0.0" =  {
+      "sha256" =  "dbfe654ae252ed58bbd47e925081508c79f48aa5a4c000800e54f0f00c0caa94";
+      "url" =  "https://files.pythonhosted.org/packages/25/86/17da1bc5b02850dc5aeaaa2aca7a744f6c70e5d571bdca35e9f5d445a2d5/iSpark-1.0.0.tar.gz";
+    };
+    "1.0.1" =  {
+      "sha256" =  "4fa08ec91395e60f41ad86c818a423ddd8c937a86ea6797ac8112a43723db0b8";
+      "url" =  "https://files.pythonhosted.org/packages/bf/d1/e6495e91e56f976cc7459b069ed1e19a6da8679bc31240db5f06823249b4/iSpark-1.0.1.tar.gz";
+    };
+    "1.0.3" =  {
+      "sha256" =  "3be36af1ff4165a9bd521f8062c9a84eb703f13424c5b23e74ccdcc7d33f2a19";
+      "url" =  "https://files.pythonhosted.org/packages/8f/fa/656a07d4401ea83110aafa360a3d131514bca5aebfa973fbd3443fbf4eda/iSpark-1.0.3.tar.gz";
+    };
+    "1.0.4" =  {
+      "sha256" =  "0f90ebe0eaee0896400cb898c3ae22bb88ea1af36eb89f69582546ae328089bd";
+      "url" =  "https://files.pythonhosted.org/packages/e3/f1/5e3da4eafb0fcbd83015d11463592cd7aa91fc0a060b561bccaab12ecfbc/iSpark-1.0.4.tar.gz";
     };
   };
   "itdocumentation" =  {
@@ -7929,26 +6795,32 @@
       "url" =  "https://files.pythonhosted.org/packages/60/d7/70e91bfa2cab24c73a723fc6f0706a6c9ffed42cd28b616f542cf94c96c4/juicenet-0.0.2.tar.gz";
     };
   };
+  "juicy" =  {
+    "0.0.1" =  {
+      "sha256" =  "285bb50bbeeaa74c0a60203af1a6a9af5cb9df4fced91dfaa622fe8d32453adb";
+      "url" =  "https://files.pythonhosted.org/packages/de/9d/b8a20a8c872e54bf677087f66974bc604abc00a8c454f739bb868cbb901d/Juicy-0.0.1.tar.gz";
+    };
+    "0.0.2" =  {
+      "sha256" =  "286f85ff969d12200a63b4d7940d67d8aa98e6bbf91b6ff1f0f7acdb233c86e2";
+      "url" =  "https://files.pythonhosted.org/packages/6e/a2/72d3032a5966299a8a94994021738b3bde1d2fc93441da33f57b8f169846/Juicy-0.0.2.tar.gz";
+    };
+  };
   "juliadown" =  {
     "0.0.1" =  {
       "sha256" =  "7bbb03c8ce85e4bf8673b8c6df64637df5e9188b0398b939077ac4687723fc55";
       "url" =  "https://files.pythonhosted.org/packages/25/48/4955a4ba28ddeaa9be2f1272ea2608b35277ae89bed0d26a5d3f4e6b834c/juliadown-0.0.1.tar.gz";
     };
   };
-  "kSpider" =  {
-    "1.0.1" =  {
-      "sha256" =  "87a1d4d0902d0355b632057adae2b04930da25ad17cb202f531ed53d2442f033";
-      "url" =  "https://files.pythonhosted.org/packages/9d/bb/e898fdefacad0c3d3df773a40f611572a3ba481400cb89cb02f9161df529/kSpider-1.0.1.tar.gz";
-    };
-    "1.0.2" =  {
-      "sha256" =  "cb1b9c546bc2ed26337730ab13e0e424c4974606b964e20bb7c59567d397dcdd";
-      "url" =  "https://files.pythonhosted.org/packages/c1/9c/89a846f9a8433a82cdc58374dfdd20a839179ec35c0cf2b040346307bd3a/kSpider-1.0.2.tar.gz";
-    };
-  };
   "keras-adf" =  {
     "19.1.0" =  {
       "sha256" =  "cfdd91fc7f37629a037a9bf0e0a792e8a553e22ac8b345e4f0dd6c55d8e56de6";
       "url" =  "https://files.pythonhosted.org/packages/55/78/68f8426c0ea5368a343ea71e37894fa6809f7e4f54addf10dd74473a2998/keras-adf-19.1.0.tar.gz";
+    };
+  };
+  "kevinkarabinaspytrends" =  {
+    "0.1" =  {
+      "sha256" =  "0cac2ed0b300e6b71413fb421994632d08bfbeba4b3e521fdbebf55656b86883";
+      "url" =  "https://files.pythonhosted.org/packages/44/d0/6a4c96a8194615247f8a933b574d2c29fd7943b1185b9587a0f8f83b5a28/KevinKarabinasPytrends-0.1.tar.gz";
     };
   };
   "kid" =  {
@@ -8207,6 +7079,28 @@
       "url" =  "https://files.pythonhosted.org/packages/36/09/d18972448757fb0849d68b499758f242a698d5cbf5bc9f0f621cac66da88/kolla-ansible-9.0.1.tar.gz";
     };
   };
+  "kontour" =  {
+    "1.0.0" =  {
+      "sha256" =  "7e6e9f08554fcec2b3ff9cb0d41fc64f577259dd570a08e29a325bf16056a54a";
+      "url" =  "https://files.pythonhosted.org/packages/e1/31/0cbc9f80fd3df76180cb976931abf30dbd0878d2d5e6345f512b0b35f326/Kontour-1.0.0.tar.gz";
+    };
+    "1.0.2" =  {
+      "sha256" =  "8b40ecd40c8268a1eb239505ce02b71774220885fc58deb01b505052b358c643";
+      "url" =  "https://files.pythonhosted.org/packages/da/d6/2f1fdd57a6c3e3aef4bab8694ebf01d1560c7536f892d78341de0739c399/Kontour-1.0.2.tar.gz";
+    };
+    "1.0.3" =  {
+      "sha256" =  "424a1f31151f9688bdecd0b42396e3c12426b9b67a8b3800e3f21d72708ea698";
+      "url" =  "https://files.pythonhosted.org/packages/ec/22/4c3493fbbf6ec082c96b8fe71d2d6039d7b80564fd5153cae6c21fbde8bb/Kontour-1.0.3.tar.gz";
+    };
+    "1.0.4" =  {
+      "sha256" =  "f6e0c4c1efa1a43ee866f5e7239155cd282ab05fa7b101cefb5018d93d665507";
+      "url" =  "https://files.pythonhosted.org/packages/4e/f5/c72ef1f1e53df2454c3e87cec1a3bc8a6098aaf6670658a852a7d5701b93/Kontour-1.0.4.tar.gz";
+    };
+    "1.0.5" =  {
+      "sha256" =  "d518bcb29ccf9ffcd5871b0e7a3f5b3c784fea1a146eb65ddce12a1af4a0b192";
+      "url" =  "https://files.pythonhosted.org/packages/ca/fe/108921c41bf7be7a6566adf65b0f5b9427764d1122cc082454ad0d887547/Kontour-1.0.5.tar.gz";
+    };
+  };
   "lambda-pyathena" =  {
     "1.3.0" =  {
       "sha256" =  "7918dc1551a62721cf1c123b42c77e049d4fb613cef599014dd3796226e3a523";
@@ -8267,6 +7161,40 @@
     "2019.5.30" =  {
       "sha256" =  "47fb9285e0288ba0f86e6956f88d8402823b8bbaadc7652b1f05fccf8c2eb758";
       "url" =  "https://files.pythonhosted.org/packages/ab/dc/afa4cc5a2f1d760491b151027b5203640f423b8ab9981de59c6930ba09c0/launchd-exec-2019.5.30.tar.gz";
+    };
+  };
+  "lemmagen" =  {
+    "1.0" =  {
+      "sha256" =  "92f78807cff53f3cf2aefa9e77d4fbcddd391cd848f257ebf133251f0fce8b4e";
+      "url" =  "https://files.pythonhosted.org/packages/f5/cc/4ee9514251f67d0e5cac18e73fc8ffa7a15abae716d3c5464f95d612827a/Lemmagen-1.0.tar.gz";
+    };
+    "1.0.1" =  {
+      "sha256" =  "07c914b85b7da9ee5020ce9e782eebf7917c471b76053e8dc335fd97a2dc8478";
+      "url" =  "https://files.pythonhosted.org/packages/70/10/7f88772c61ba75f0391a78347828890c32bce1af76418f8b3ee48c47fab1/Lemmagen-1.0.1.tar.gz";
+    };
+    "1.0.2" =  {
+      "sha256" =  "b768cb82f7299ab371620888099cac6c452893bff2ce45754953dbc5418ffe49";
+      "url" =  "https://files.pythonhosted.org/packages/99/d1/6a6aedd9fb5691ff910e7b4778aa1af810234e09507440f35e680cf28921/Lemmagen-1.0.2.tar.gz";
+    };
+    "1.0.3" =  {
+      "sha256" =  "7c71e822054d14a1e9714d1652dc082d7daf01fc52364c27992194a116fd0a34";
+      "url" =  "https://files.pythonhosted.org/packages/bf/5c/1b6693f50326aacfa77e42ed2ac0dd71292431c5dc54029de3bdd5c33c4d/Lemmagen-1.0.3.tar.gz";
+    };
+    "1.1.1" =  {
+      "sha256" =  "6fc23018b5ad376fd7afc1b80c995ac82b16fb4f13701e9f86e0ddb34bb1c44f";
+      "url" =  "https://files.pythonhosted.org/packages/03/eb/d54352a2837d73b79664caa53d22943e60a270715febb8dadd42efcc677d/Lemmagen-1.1.1.tar.gz";
+    };
+    "1.2.0" =  {
+      "sha256" =  "19a0271597ab37ed3b391db0f30bb07ea4509323ab15b1b86c69984f96ca40e6";
+      "url" =  "https://files.pythonhosted.org/packages/8e/03/f889eb6168b2405c6883f52ac881b4f0e67d687ca022ec212d1911eb820f/Lemmagen-1.2.0.tar.gz";
+    };
+    "1.3.0" =  {
+      "sha256" =  "b370140d43ca80d3a36cca86215fd732f1c7c649d1c922f818f1d95214e4381a";
+      "url" =  "https://files.pythonhosted.org/packages/3a/18/7d33912bfbd1adeaad2126880904da529cf0ce3e7f16c30507fa72e377fb/Lemmagen-1.3.0.tar.gz";
+    };
+    "1.3.2" =  {
+      "sha256" =  "b48a5a446d9fe656cd3380a28b819b9f7065883a31c5f6c5683b93553736e8ff";
+      "url" =  "https://files.pythonhosted.org/packages/db/ad/46c20a1466a0761e98e1ff75ae81ffe254914f5d1554323755d2b3d7141a/Lemmagen-1.3.2.tar.gz";
     };
   };
   "lenastrips" =  {
@@ -8507,6 +7435,16 @@
       "url" =  "https://files.pythonhosted.org/packages/24/17/cf89a7106f13af6eb5eb122632f0629090cfd39f2a605229958c0bec62d7/lru-ttl-0.0.7.tar.gz";
     };
   };
+  "lsd-bubble" =  {
+    "1.0" =  {
+      "sha256" =  "37c66c41514cc47eabc94e38022feef1d8eb29ca6a279d02dbcc908822a13571";
+      "url" =  "https://files.pythonhosted.org/packages/b8/69/98c0bc3228ecce9fd01b7db4bff56596ae1364640cab1d0cf3b03ebbae60/LSD-Bubble-1.0.tar.gz";
+    };
+    "2.0" =  {
+      "sha256" =  "f3b244da78fe9f23166493cc69870352749f3ae91ae9cf12289ca1c826a65330";
+      "url" =  "https://files.pythonhosted.org/packages/c8/cc/e82e98fab1948ad7866bbb2edb7a30641254483f7f32410229f395ece7b4/LSD-Bubble-2.0.tar.gz";
+    };
+  };
   "lura" =  {
     "0.1.0" =  {
       "sha256" =  "ac14a71f5ad81aee5ae5bd049857137640685d3334e0377ceb341af04e0676fc";
@@ -8645,6 +7583,12 @@
     "2019.4.13" =  {
       "sha256" =  "1e27193516b00a5aec1d6ca61b739af81d7acbab35898a63914eb98bdea2879b";
       "url" =  "https://files.pythonhosted.org/packages/71/a9/0cb59b1612d3e5f619910356732396e31f794cea8e5fb514a685faaa5b8a/mac-app-generator-2019.4.13.tar.gz";
+    };
+  };
+  "magia" =  {
+    "0.0.1" =  {
+      "sha256" =  "959b577e6ba76d11b209886d653a3d14dbe82fcbcb476239d73dbe6630e7a0bf";
+      "url" =  "https://files.pythonhosted.org/packages/5c/02/2826c06a2551f0b27f5bddbb4bfc43b87a93b84c29a1a9262721beba4e15/Magia-0.0.1.tar.gz";
     };
   };
   "maidenhair-jasco-parser" =  {
@@ -9623,6 +8567,12 @@
       "url" =  "https://files.pythonhosted.org/packages/34/8b/60bd717154bf856870394cc848067fb1c1109a7b9dd7f45b3f75fb02cf6a/minilib-0.22.tar.gz";
     };
   };
+  "miniminio" =  {
+    "0.1.0" =  {
+      "sha256" =  "a46df4ab9c8803911272b448cc6db95fc2a00709c6fd44b9e0787e61076cf5cc";
+      "url" =  "https://files.pythonhosted.org/packages/15/f3/dd8e5ee67131aebd190b0618d0c59cc4b96747c978d0d646b1c20b1d5497/miniMinio-0.1.0.linux-x86_64.tar.gz";
+    };
+  };
   "minty-ddd" =  {
     "0.0.3" =  {
       "sha256" =  "4cee3d9cfc6caaffedc93f8d5c3791f6f3d16608004de6247e8338109477b4dd";
@@ -9987,6 +8937,12 @@
       "url" =  "https://files.pythonhosted.org/packages/bb/c6/1238c9f2a4599b5dc99bcbc99c74bf6583ed391455c8d804784aa170e305/mocket-3.8.2.tar.gz";
     };
   };
+  "moderngl.ext.foobar" =  {
+    "1.0.0" =  {
+      "sha256" =  "99cf1f401aa8da723f5e4c026872fd0ca5b556043f86dc1e9c0076a8313e640a";
+      "url" =  "https://files.pythonhosted.org/packages/28/5e/661d930bbcb1977e35f1c25f5499c0c1925495ec3c5f45f77bd59fc885f1/ModernGL.ext.foobar-1.0.0.tar.gz";
+    };
+  };
   "moesifapi" =  {
     "1.0.5" =  {
       "sha256" =  "50effc3eaf34d84038eb85feb719235b11e3c39aaaf4be7e66f4ef438137b932";
@@ -10057,6 +9013,16 @@
     "0.0.3" =  {
       "sha256" =  "3ae8d6213fbb93a25ff5facf3af2f4b9ab8e68c12b7a5e68bf64d18261821478";
       "url" =  "https://files.pythonhosted.org/packages/29/3e/a0641d5ae7b9367d67daa84215ce686fb9569c9f8893affff82cdb791c0f/mongo_queue_service-0.0.3.tar.gz";
+    };
+  };
+  "mopidy-spotify-tunigo" =  {
+    "0.2.1" =  {
+      "sha256" =  "72cbca17cef299c9a5d37f0b5588c6d98ed250c83207cb405a3ec7902d50aff7";
+      "url" =  "https://files.pythonhosted.org/packages/86/d2/7d2a9373b61c33c90fd834d3c5e122717cc7d1f7afbd2beef1603d63ebbc/Mopidy-Spotify-Tunigo-0.2.1.tar.gz";
+    };
+    "1.0.0" =  {
+      "sha256" =  "ed14484efc80536eb40d909b7d1cc789fd1f9565045c8408b387b92df4789737";
+      "url" =  "https://files.pythonhosted.org/packages/7f/fd/d4259db55060293898b74e7ab51e83f1fd5baf26768909bf8d5c94f4b8f3/Mopidy-Spotify-Tunigo-1.0.0.tar.gz";
     };
   };
   "morbo" =  {
@@ -10661,16 +9627,6 @@
       "url" =  "https://files.pythonhosted.org/packages/7c/bc/565cb86c5f866dbf1df4a77c5bea890ff62544f9d00696a6edbe07ea632d/muted_http_request_randomizer-0.0.7.tar.gz";
     };
   };
-  "myZip" =  {
-    "1.0.0" =  {
-      "sha256" =  "1487f1fa82124d54a77122694c97d4eee68507c898248d9109a5cc9fbbfe6fdf";
-      "url" =  "https://files.pythonhosted.org/packages/ce/ae/448dc700b1a0365a3877abae5da949cd03ccfc43013ff9b7c6ef1b0d660c/myZip-1.0.0.zip";
-    };
-    "1.0.1" =  {
-      "sha256" =  "ad7da0dc029ccb3b8f3b47f09df86b7a3320b7d2f60250a1dc1668f43cdd9c82";
-      "url" =  "https://files.pythonhosted.org/packages/c6/1a/15ea7daff62fcce5807395fe22e8b19ee9a6c12eb99d625417088c6b12d1/myZip-1.0.1.zip";
-    };
-  };
   "mypy-boto3-lex-models" =  {
     "0.1.10" =  {
       "sha256" =  "0661f62007724686855f9238ab45af39fe5860c08b5250ee013f046606a5ae6c";
@@ -10961,6 +9917,18 @@
       "url" =  "https://files.pythonhosted.org/packages/82/e6/bd43b6648203b4c69e633b7d3411e279d509f5d2a2ed6db79de82d964573/mypy-boto3-lex-models-1.11.9.0.tar.gz";
     };
   };
+  "myselfsum" =  {
+    "1.1" =  {
+      "sha256" =  "80aa4261b7b8f04298ac163bd059200dde62be50e50697ea753d1109546a1c34";
+      "url" =  "https://files.pythonhosted.org/packages/20/10/5cc3cfc7597dec51cf7560e5f8950a83bc3733308c8037e5947935a026a9/mySelfSum-1.1.tar.gz";
+    };
+  };
+  "mysqldbmodel" =  {
+    "1.1.0" =  {
+      "sha256" =  "38b3ce24e38a11ad6190227edf3855a6c9b7db068bce481d7268ad9a2fdce66d";
+      "url" =  "https://files.pythonhosted.org/packages/e4/77/d39c1b2e9703b604443f283fb2536127948c4251a3d207de050f33b53598/mysqldbModel-1.1.0.tar.gz";
+    };
+  };
   "nato" =  {
     "1.0.0" =  {
       "sha256" =  "011e64b8c503bd845b7d27b9d1cd87544c22246dc10f22e739b470404e182df2";
@@ -10991,30 +9959,6 @@
     "1.0.1" =  {
       "sha256" =  "1d7c0028ff4778ec86bcea6f38e8c6228295f60b2d61b889f2f9c3d088714780";
       "url" =  "https://files.pythonhosted.org/packages/3e/0e/05d13f174d460e81fec32db1f10a92279eb31815c3b1a2bdd80463133347/nest19930626-1.0.1.tar.gz";
-    };
-  };
-  "nester-Aasta" =  {
-    "0.0.0" =  {
-      "sha256" =  "1ee31b48f29a5b4e6c99ddd57ab1d12657fcc904302a3b2ef9b0f7f4cefa0d37";
-      "url" =  "https://files.pythonhosted.org/packages/65/38/0804345a53e678d86bace5167d777177184a47a7a43808e9480809ac24dc/nester_Aasta-0.0.0.zip";
-    };
-  };
-  "nesterNiwesh" =  {
-    "1.0.0" =  {
-      "sha256" =  "8fecc256361aa5e7499d6cefb4083e42717ae752a68e21759abf86781951b3ad";
-      "url" =  "https://files.pythonhosted.org/packages/f7/90/570039e4b151cb0a349b8dfc23171a4a26c93369222f5cbd593c455fae5b/nesterNiwesh-1.0.0.tar.gz";
-    };
-    "1.1.0" =  {
-      "sha256" =  "02872b3ed8d66f00059be8c6d71a84f296c725ab731c4524a90ac507daa15379";
-      "url" =  "https://files.pythonhosted.org/packages/e8/f8/90ae78c85df5aa335907468ed0eabe090bad45fcb14bfcbb6270324bc134/nesterNiwesh-1.1.0.tar.gz";
-    };
-    "1.2.0" =  {
-      "sha256" =  "bfa628a1e749b13b7e4697b8462afbf255aecac6925a209728c30c7502017839";
-      "url" =  "https://files.pythonhosted.org/packages/66/6b/4b7d5d2c57032da764903e28b44d2055b6916cdf2f9b54e54d1256d7e7cb/nesterNiwesh-1.2.0.tar.gz";
-    };
-    "1.3.0" =  {
-      "sha256" =  "d46dc168406235d33bfc91207fec8989a8994538e6a70e7fec071e21f5b8a049";
-      "url" =  "https://files.pythonhosted.org/packages/c8/72/2bd1ebe5b3821ca45f1a101454bb59c03144f27dcce1aeba8210301051fa/nesterNiwesh-1.3.0.tar.gz";
     };
   };
   "nester_cw" =  {
@@ -11075,6 +10019,12 @@
     "1.0.0" =  {
       "sha256" =  "2002bb104d5ae3d6a8a35eb64555c8a9c842ae79fa46b36a26336bb8fe4d04f2";
       "url" =  "https://files.pythonhosted.org/packages/58/3f/6326d700abd4ec2987bd395b4f370d20914ae686703570c823817eced6c7/nester_lcy-1.0.0.zip";
+    };
+  };
+  "nfw" =  {
+    "0.2.0.dev1" =  {
+      "sha256" =  "3ccacf88df11e3fa7bd8ada0f8dba07ab27d9a662e20263314c515e03d9761a4";
+      "url" =  "https://files.pythonhosted.org/packages/20/53/5993a91a9f3e7b637ddaf2acb41ff9ca989f53f4517bf8ad7b6d7652a46a/NFW-0.2.0.dev1.tar.gz";
     };
   };
   "nise" =  {
@@ -11373,6 +10323,80 @@
     "0.1" =  {
       "sha256" =  "850cec08b8156cfff0e248e772c00401fcd9394d9af661526fad15134cb4b74b";
       "url" =  "https://files.pythonhosted.org/packages/78/f5/3f024b018cb0e14e8d50855ea093dcd4ae77ce1ff89d8c993bcb32a45a7e/nxpydot-0.1.zip";
+    };
+  };
+  "oapackage" =  {
+    "2.2.9" =  {
+      "sha256" =  "175660f45e8de8323f753fe62c3d4a36de67a3694d39a13c65dd570f409873b2";
+      "url" =  "https://files.pythonhosted.org/packages/33/3b/16e4165202a909e780d1eb8ac723825edc702795bc9c151ee5296d4b7a6b/OApackage-2.2.9.tar.gz";
+    };
+    "2.3.4" =  {
+      "sha256" =  "78b64b1eff407c87698606a47c9bd0f3a54e42a3405a492c9e7274fd1fffa437";
+      "url" =  "https://files.pythonhosted.org/packages/96/ca/e47aa1e832f2fcf717b581d8b33cb46d2147c0ebe80bbb6e23b801f70597/OApackage-2.3.4.tar.gz";
+    };
+    "2.3.8" =  {
+      "sha256" =  "73c0f29ea33b019ab0c73ea457acd103a968845353f8922dc8d373ce0e82a42f";
+      "url" =  "https://files.pythonhosted.org/packages/21/0f/b634c87caddb77911f0e282509b8b8609c0c2db26c05ae877306d6f428a9/OApackage-2.3.8.tar.gz";
+    };
+    "2.4.12" =  {
+      "sha256" =  "d45052f11fa397bc9d79d25f38cc2b4fb4cc08156adb29587015d674aab61e95";
+      "url" =  "https://files.pythonhosted.org/packages/08/d4/553586cd8192c0e8ee0547d45ce84a10b58b868ef3ca6d69d3b6aee4e718/OApackage-2.4.12.tar.gz";
+    };
+    "2.4.18" =  {
+      "sha256" =  "060704a1c2f79f10b7e0475988116e4fa0fe268386d4f315a746f1a93da43bfa";
+      "url" =  "https://files.pythonhosted.org/packages/50/9b/3a4effccd1519f02ab2b04cbc370de36fec8dda75c5edceb7d117b65e924/OApackage-2.4.18.tar.gz";
+    };
+    "2.4.19" =  {
+      "sha256" =  "db586ed1eceb637cc6a162e2f255a32c39f1cf67769cd48c215c31fb47915d39";
+      "url" =  "https://files.pythonhosted.org/packages/38/9a/b0911396a002bcad413d460b233688c1f6e7f97150c08fbefe85b0dfed74/OApackage-2.4.19.tar.gz";
+    };
+    "2.4.4" =  {
+      "sha256" =  "40122769a9a0196cab94a531db565d12821c8ab7c893652b81c4fa38d6eb3d3e";
+      "url" =  "https://files.pythonhosted.org/packages/5a/c7/987ae7a337a1046534ee4e90ba633cbacb8809839d868f7179e219f623b4/OApackage-2.4.4.tar.gz";
+    };
+    "2.4.6" =  {
+      "sha256" =  "5409e6ab72cdd3a7cb16d3ad523ba1ea25a2a8ed9f31ae47dd0a2a06ef306b1d";
+      "url" =  "https://files.pythonhosted.org/packages/7f/ad/70656e7fb6dac6f9e6d633928ac0942d38a1032b5950ad2375add8400d0f/OApackage-2.4.6.tar.gz";
+    };
+    "2.5.0" =  {
+      "sha256" =  "47b985118f5720436c1167304f938c0e4235c0776b000f9130ef8c1873880b65";
+      "url" =  "https://files.pythonhosted.org/packages/ed/29/3dd8d02740d5846996f5cd17c31d6890c7d3be4c6ae7154f3926c46caed7/OApackage-2.5.0.tar.gz";
+    };
+    "2.5.1" =  {
+      "sha256" =  "bc9503af8ff1475cf33f9fbce26f13ae72049bbb6db4711432753c798f63ce53";
+      "url" =  "https://files.pythonhosted.org/packages/56/02/2b5235b55390980c1cab61e03e4854efbc8653ee1b6b30fc49d95cb80d66/OApackage-2.5.1.tar.gz";
+    };
+    "2.5.2" =  {
+      "sha256" =  "63b49fa35c75d5f711c9ddc62f3b57d3b8479c9854cd5aec644762db731c503b";
+      "url" =  "https://files.pythonhosted.org/packages/ee/8d/72415887e85ab6b19d374f46b076a3c586ca1a309706b8470712d371092c/OApackage-2.5.2.tar.gz";
+    };
+    "2.5.4" =  {
+      "sha256" =  "85fba7f5fc556cc92f7ae56b8b1c8a6c0dd18408edf27859760f519598cd37ae";
+      "url" =  "https://files.pythonhosted.org/packages/cc/c0/77d7d172f9798cbe2fcc0b47d49684fb2efa58e674a179b38cc0bc8c62c5/OApackage-2.5.4.tar.gz";
+    };
+    "2.5.6" =  {
+      "sha256" =  "2b7e8eecfa5aeb27f9ffdd232f5fc12acc102fed44db03ef46ce70b84fee4f21";
+      "url" =  "https://files.pythonhosted.org/packages/92/02/440ebff8129aedc46d73380f8b6738c1949a08bfeff0a37cd9593184fe64/OApackage-2.5.6.tar.gz";
+    };
+    "2.5.8" =  {
+      "sha256" =  "742b93a8ea55a9705be98ca13e340daf77658b272ed5eee835d0a195274ec4a4";
+      "url" =  "https://files.pythonhosted.org/packages/0c/d0/23ef92e09817a01d6f3db1d88a6c942c86d033371eb1ba17e7a8c18150c2/OApackage-2.5.8.tar.gz";
+    };
+    "2.6.0" =  {
+      "sha256" =  "1a6c22c3347a0f6135ebe7d1cfbf0db9b0509f59bc06bc7dcab90ee71ad6809c";
+      "url" =  "https://files.pythonhosted.org/packages/01/02/0551df4ddf6f7f5cd1af07017b66f0cf4ceab5ef58c4ddd1a1a246759504/OApackage-2.6.0.tar.gz";
+    };
+    "2.6.2" =  {
+      "sha256" =  "51c2315731b4ca5ccc22af5b03024e0282a202860646c5da674a029e79adca84";
+      "url" =  "https://files.pythonhosted.org/packages/53/0c/4b0ebe6e70362d46451074e05be77eb33ac548dca94cf7d9b799f3346683/OApackage-2.6.2.tar.gz";
+    };
+    "2.6.3" =  {
+      "sha256" =  "ba385be072d437efd0ff3f49fe1a7f560dcc6953e3812e85fb0dc774506f8baa";
+      "url" =  "https://files.pythonhosted.org/packages/59/b2/cd500fc274f5c635e3bccfed399c70de18ded39a85f882fb07bb3c2e3ef6/OApackage-2.6.3.tar.gz";
+    };
+    "2.6.6" =  {
+      "sha256" =  "d369ef5e0c0d46046a590d59d742f941664650bddf9d7693638c9e793e1e5e39";
+      "url" =  "https://files.pythonhosted.org/packages/4e/7f/10d71d4946099f4fd423ba6b3f3aab20a0e839fa6e4a213fd5587287a8c1/OApackage-2.6.6.tar.gz";
     };
   };
   "oas" =  {
@@ -11735,6 +10759,16 @@
       "url" =  "https://files.pythonhosted.org/packages/1c/5b/7ae706c412ea441cf0db843de07092aa4fa4f52b9f3c6fd0df503e98e142/onap-dcae-dockering-fiberhome-1.4.1.tar.gz";
     };
   };
+  "ontocode" =  {
+    "1.0.0" =  {
+      "sha256" =  "79f1549278382615cac7326097d20f11704a40ea0b13abb438d0640d546aaf7e";
+      "url" =  "https://files.pythonhosted.org/packages/5a/79/a5ecdb54f38bca382373c66349e60a73fb65ebb80bbb8a1ab82da688e8a8/OnToCode-1.0.0.tar.gz";
+    };
+    "1.0.1" =  {
+      "sha256" =  "62cb9c0457dfa8ed0db0ae60869d5cdddb747deff394f56f287f716475ab0798";
+      "url" =  "https://files.pythonhosted.org/packages/30/53/532f17aa10a1d04244e20779593b2f6137d99590d8bc2ff1349e455a197c/OnToCode-1.0.1.tar.gz";
+    };
+  };
   "opal-referral" =  {
     "0.2.0" =  {
       "sha256" =  "7ff61ed176bbcd435523491aa10652643fcc1b01871822699887220fd06c8c24";
@@ -11813,6 +10847,12 @@
     "1.0.1" =  {
       "sha256" =  "28154a935683077e036491b5602d8e0151c4c013f1b4b0908417dcc9dcfce9c3";
       "url" =  "https://files.pythonhosted.org/packages/37/b1/7322d352fbd36e766b2ddfccc76abd6708fdee6612ca520a4e7b4220cdc7/opx-1.0.1.tar.gz";
+    };
+  };
+  "orthoevol" =  {
+    "0.9.0a2" =  {
+      "sha256" =  "41f926e9852454c33aea88b4b4e1f77c9328bd30ab5254432a2a9446d64353d8";
+      "url" =  "https://files.pythonhosted.org/packages/c4/84/a9ff8731b83cef442b00484598c92e313dc4bb3a975cc9b9230f74063af6/OrthoEvol-0.9.0a2.tar.gz";
     };
   };
   "osdf-python" =  {
@@ -11957,6 +10997,16 @@
     "2.0.1" =  {
       "sha256" =  "93bbe7a9417e76f75cf74324b7ac1c5a5cb6f040ec7f30c969128195558a3f7c";
       "url" =  "https://files.pythonhosted.org/packages/f3/cc/50339d3ebfab29d792094414cf526e33916b6f5ba6dfbe37a3258f38d790/p01.testbrowser-2.0.1.zip";
+    };
+  };
+  "pacal" =  {
+    "1.5" =  {
+      "sha256" =  "b734c03e5de890716d90ed9aa27aa781e7d0b6d71c09a377ac3382f2700a0b1f";
+      "url" =  "https://files.pythonhosted.org/packages/15/d6/e52b09a84125877639eeca60e11c2644bb06e63f18f70a091d8c4ed758a3/PaCal-1.5.tar.gz";
+    };
+    "1.6" =  {
+      "sha256" =  "e720a6eec6ed01357d8b2af42993f804600105ecbea7df73773f657fb1adcdf3";
+      "url" =  "https://files.pythonhosted.org/packages/4b/71/5c2d0fb94f5e3ed59e3e5fcc9e8bbe8ca8d2a62f590c037380925016d436/PaCal-1.6.tar.gz";
     };
   };
   "pain" =  {
@@ -12645,10 +11695,122 @@
       "url" =  "https://files.pythonhosted.org/packages/ba/33/859cc28b7f33eb8921e10e70d71b637d8746070292952b21b8a18df11f61/platform-migrator-1.1.0.tar.gz";
     };
   };
+  "plonetheme.wmowonen" =  {
+    "0.1" =  {
+      "sha256" =  "dedc6f1c82e26eafe81a539159f8d4871d0d4d198c4e7e7383f6e8bb45d55576";
+      "url" =  "https://files.pythonhosted.org/packages/35/4e/ca393e0788c3694c9c228137476cfbe502932cb492de7548be98870307ee/plonetheme.wmoWonen-0.1.tar.gz";
+    };
+    "0.2" =  {
+      "sha256" =  "5b0af8b24df3e5b0fdf9924aaaac5fdf4cadfb869367a13ce0dcacc014e882b0";
+      "url" =  "https://files.pythonhosted.org/packages/bd/c9/733b3277bc3411cf50d7afc9fb63d20b02dee70441e11d2141d92c5c56f7/plonetheme.wmoWonen-0.2.tar.gz";
+    };
+    "0.3" =  {
+      "sha256" =  "8cf1f4d9f05bbc8001cbe4a341e03bac053c74e2820dd01ecdf8c5b9c04d4c2b";
+      "url" =  "https://files.pythonhosted.org/packages/f7/f4/7ecc45d67f66784da36edfc89ad825bf8841379d0f0c6740857756011df0/plonetheme.wmoWonen-0.3.tar.gz";
+    };
+    "0.4" =  {
+      "sha256" =  "654a2d21dc3ffbbd3c397ac62437dda2b108c246e783535f6c4b99d68c7c0708";
+      "url" =  "https://files.pythonhosted.org/packages/d1/0e/b22d8686f9fe85a515927ade4aaa2a8bdadf9877216a6997172ca3e1bda1/plonetheme.wmoWonen-0.4.tar.gz";
+    };
+    "0.6" =  {
+      "sha256" =  "91018409f8867ef6f76e71a51af9b0b07311bb0b523dcc4f5ce9c93dce193b52";
+      "url" =  "https://files.pythonhosted.org/packages/6e/7e/4e73cd2e29d921396b526b5a451420ae83c97352f4a33e18eb784f6d9d88/plonetheme.wmoWonen-0.6.tar.gz";
+    };
+    "0.7" =  {
+      "sha256" =  "945db8204b141f86b63797ac27647cda77e29e2f3c90130595aa7c829783da43";
+      "url" =  "https://files.pythonhosted.org/packages/e2/87/1d4cb4fc92a8b23987e13f9f8c6af158e74d0c9544042e937b15a44273de/plonetheme.wmoWonen-0.7.tar.gz";
+    };
+    "0.8" =  {
+      "sha256" =  "7e72a0c02b1027bf59fca2a44c22963b5844e86d59ec709ceb6431688a2d17b7";
+      "url" =  "https://files.pythonhosted.org/packages/c7/fd/86d8ed4ebc70745858715c3eb90baabd511e6ce733fbd771b1fc287b44fb/plonetheme.wmoWonen-0.8.tar.gz";
+    };
+    "0.9" =  {
+      "sha256" =  "5da0333d568f3859f78fad958d2695da8e6d4f09dbfc8d320156da073201316d";
+      "url" =  "https://files.pythonhosted.org/packages/b6/83/ddad094656467bfe756cd64ed44ffe139a6b84ff31ae8b1a3d2d6fe17b74/plonetheme.wmoWonen-0.9.tar.gz";
+    };
+    "1.0" =  {
+      "sha256" =  "453e1bc10e0339507b944d287fefc75f0e852fb2ea77cb5984747a75d547df05";
+      "url" =  "https://files.pythonhosted.org/packages/9b/3e/fad4f88dfad42f7ef9fef96f89e0282ccb56b73d64a203c6a56c42ebc003/plonetheme.wmoWonen-1.0.tar.gz";
+    };
+    "1.1" =  {
+      "sha256" =  "7c801464d82de3f49f066f2a841e330aff0e60465b9a7956ab9ea13fbf7cb085";
+      "url" =  "https://files.pythonhosted.org/packages/09/34/abc91453d0c70e42d135bfeae108c111ea7b3eb1626c3c66d9495909b5df/plonetheme.wmoWonen-1.1.tar.gz";
+    };
+    "1.2" =  {
+      "sha256" =  "328d7818bdb9d0784053c634963a8d65dd039bcdc546bb63f1526551c49bd8db";
+      "url" =  "https://files.pythonhosted.org/packages/6e/bc/fe7df87332a17ee635ad424099f4d98b231e67472942fc86cb35baf7df61/plonetheme.wmoWonen-1.2.tar.gz";
+    };
+    "1.3" =  {
+      "sha256" =  "e5306edec02e270e919ba937827dd474fc5c4516b728abbf63291151325d40f8";
+      "url" =  "https://files.pythonhosted.org/packages/96/32/df3d01cc7d62a9231513a5b2ffa7b4fe1e1f3e46d258cc14c47b64a1bf21/plonetheme.wmoWonen-1.3.tar.gz";
+    };
+    "1.4" =  {
+      "sha256" =  "e84e224dd45b1f41e885d3542d613bee0099842dfa5f7dc5424ab7faa5d36920";
+      "url" =  "https://files.pythonhosted.org/packages/ca/ca/fa08e3c83d0bc3a3aef3fc735c11c599466c72964b5f5392b9670f0a8b02/plonetheme.wmoWonen-1.4.tar.gz";
+    };
+    "1.5" =  {
+      "sha256" =  "b933e85ff99ed56629b5def232c106ea2ec5dfc9b92d1fffeed7c402d57d3dc1";
+      "url" =  "https://files.pythonhosted.org/packages/21/93/a3da49f8eec2bcf0b7668b93f9ad85be4d91abcfaced25eaca5fcd318ba8/plonetheme.wmoWonen-1.5.tar.gz";
+    };
+    "1.6" =  {
+      "sha256" =  "98f75e46a9338d37207f643f50a344aafeb17ada66930794b88d29a461a9fa2b";
+      "url" =  "https://files.pythonhosted.org/packages/dd/2d/569ef4c216bffe768e3004ee9b76513579d8e4e45fe185f5da7f3f3b5e7d/plonetheme.wmoWonen-1.6.tar.gz";
+    };
+    "1.7" =  {
+      "sha256" =  "a7c48b515b28fdc9e4dad0b9c4e04964604784b54fcaeff136356b5f5b039aa0";
+      "url" =  "https://files.pythonhosted.org/packages/47/5e/7bea65a140b5be1d8941624b6bf264ecff8b49f9c3da09b84ba5d81f35c2/plonetheme.wmoWonen-1.7.tar.gz";
+    };
+    "1.8" =  {
+      "sha256" =  "99aa55d3e4b6cc9e05859585cccfa9ee5d6db5df7c25fe5c4532190a2adc1ebb";
+      "url" =  "https://files.pythonhosted.org/packages/a6/a4/df89bbab6683f1f43ba85eef0d3983c85d7472a021e6156f077f9b886984/plonetheme.wmoWonen-1.8.tar.gz";
+    };
+    "1.9" =  {
+      "sha256" =  "9aaf16e7b8ff4852afb5682fd0eb1bf75a7f984a500d070608574ffda0b73d5d";
+      "url" =  "https://files.pythonhosted.org/packages/30/53/b4275bb97c977a836a4afcab65560e8283f32806d93161f39674e04f801b/plonetheme.wmoWonen-1.9.tar.gz";
+    };
+    "2.0" =  {
+      "sha256" =  "8b0ec1587019d0a5fb4e0d8c21d90fc77bd0c7f62a1053682cce3d94c60aa7d6";
+      "url" =  "https://files.pythonhosted.org/packages/a1/f0/568392f55811f2e0face2f1c746e569753cc2cd7d34dbda3bb44ae7922e5/plonetheme.wmoWonen-2.0.tar.gz";
+    };
+    "2.1" =  {
+      "sha256" =  "aa8a727046e67eb7996ed2184a820ff2c3fd58f30c03d27c8fad16e779786e06";
+      "url" =  "https://files.pythonhosted.org/packages/20/9a/1a4f576e0c59a4ee0d94b83d075f1290a193008e2dc1e049c469873a7251/plonetheme.wmoWonen-2.1.tar.gz";
+    };
+    "2.2" =  {
+      "sha256" =  "e2ae2aadc6808bc51c9da4c6ec98caf127dcb3abb6c86bf8f8fea7d07e5869d7";
+      "url" =  "https://files.pythonhosted.org/packages/0e/99/a7cc534f0c8bd8b695ea948fa2c6a8b7f3d122b9aa7b46d0e82e64ca7605/plonetheme.wmoWonen-2.2.tar.gz";
+    };
+    "2.3" =  {
+      "sha256" =  "8970c9da60bd4887b13b37820a33cc94a87865bbeb64de00475784ce8b7916fa";
+      "url" =  "https://files.pythonhosted.org/packages/30/a6/f4ccd6002bde1edb7345c05a9d23c7286689bfeb3084607a63feaf70325e/plonetheme.wmoWonen-2.3.tar.gz";
+    };
+    "2.4" =  {
+      "sha256" =  "3ecc1d36b38ca94a3e5020510e4a74ac0452cd82168d8c10de722d3c81c6d0af";
+      "url" =  "https://files.pythonhosted.org/packages/48/60/836ee8e543b59176ecb40ca9ba697deb426b19eaf3524c8844750dc65a7b/plonetheme.wmoWonen-2.4.tar.gz";
+    };
+    "2.5" =  {
+      "sha256" =  "f524885353b19c93eb2500a1614d119ae949e0ffc271a2ed612d44b04eccdb1f";
+      "url" =  "https://files.pythonhosted.org/packages/11/4c/5d4e73ad980fc71e48b8473d37dd4e003fc6cc823ded251a40448d33f333/plonetheme.wmoWonen-2.5.tar.gz";
+    };
+    "2.6" =  {
+      "sha256" =  "73bd78f5af0520454d852baf33dd9b11fcf5b0d93f51306c3a2a93f147ed6bf9";
+      "url" =  "https://files.pythonhosted.org/packages/35/5e/7d61a4702bfa684f274f81a261ba4e361c1a66c5e0de6c4c1b36f635d02e/plonetheme.wmoWonen-2.6.tar.gz";
+    };
+    "2.7" =  {
+      "sha256" =  "036421b87a36fb32e75cd958e8b026ea1a4427f51f13e80969887fe4ceba52a1";
+      "url" =  "https://files.pythonhosted.org/packages/d2/ab/7954374740585c62d886b60b4faf264dc1f2dba4a341fbec293f391e8e57/plonetheme.wmoWonen-2.7.tar.gz";
+    };
+  };
   "poolbox" =  {
     "0.1" =  {
       "sha256" =  "5f6510617db0ef9a207673383d9d657336e3884ab7b2d5661fdf89b5a830511b";
       "url" =  "https://files.pythonhosted.org/packages/2a/71/76396a99e9bf9a78f17f9418d0cb963f88d56c78a0600ce7c9d62e234c67/poolbox-0.1.tar.gz";
+    };
+  };
+  "poosh" =  {
+    "0.0.1" =  {
+      "sha256" =  "4af52d2630fbab3cf2c910bce44f94c1304407fd991f460d81a2cb26f064a114";
+      "url" =  "https://files.pythonhosted.org/packages/02/c9/dd2ee3e817f923ee57c4f391d77cb919858e8d1a89b5e74f9217b183148e/Poosh-0.0.1.tar.gz";
     };
   };
   "porkpepper" =  {
@@ -12749,6 +11911,26 @@
     "0.1.0" =  {
       "sha256" =  "ddd9c9c5c627db7c9e588c7fb6dbeead34fa884f6a8d082b54f1d3355d2c4f1a";
       "url" =  "https://files.pythonhosted.org/packages/8c/97/3176022b221406e9306a72cdea6f2b0ab25fe28ce5ae6d84ee51784023cb/process_nwb-0.1.0.tar.gz";
+    };
+  };
+  "products.gopantspockets" =  {
+    "1.0.0" =  {
+      "sha256" =  "3f1e7c1ccfee647dc92c24e15f85c4bd3af454ebebedf93705d11700b7932529";
+      "url" =  "https://files.pythonhosted.org/packages/d5/29/ae51b31748bd218877538f55560032dbd1dbb04ac60309af0bd8c88ed7e3/Products.GoPantsPockets-1.0.0.tar.gz";
+    };
+  };
+  "products.timerangewidget" =  {
+    "2.0b1" =  {
+      "sha256" =  "0538586b91992e3e9567d5cb1d2d63c15b48f1e571deb0fb588bafd7b8add569";
+      "url" =  "https://files.pythonhosted.org/packages/bd/38/eac8bfada051f46af1c49424dd51f0656d975a4c788c48be086b044c4a25/Products.TimeRangeWidget-2.0b1.tar.gz";
+    };
+    "2.0b2" =  {
+      "sha256" =  "8beca8ba1183fc44aabeae01b1903340184a313a0b7c22d36e2104cdeca5cdc8";
+      "url" =  "https://files.pythonhosted.org/packages/f3/b3/4e43a142953427a6c7a4b8accde37cd0c5e0f4abfca9179725c3e0e2c875/Products.TimeRangeWidget-2.0b2.tar.gz";
+    };
+    "2.0b3" =  {
+      "sha256" =  "97f6a1e964775e93e6edb34dc5a3648544f86c4f12fcf981325e6a57b96af55f";
+      "url" =  "https://files.pythonhosted.org/packages/e1/e2/694bfc96a8f4839a2d6fb379475dfa31dca6ac15cc90fb14cee2a9044a25/Products.TimeRangeWidget-2.0b3.tar.gz";
     };
   };
   "prometheus-aws-guardduty-exporter" =  {
@@ -13495,38 +12677,70 @@
       "url" =  "https://files.pythonhosted.org/packages/bf/0a/77d5139345fe1a5dffb19796581eabaa35788265e72d813b59856e733a9f/py3afipws-0.9.tar.gz";
     };
   };
-  "pyA20Lime2" =  {
-    "0.2.0" =  {
-      "sha256" =  "9c7749d999285dbec8ee3a9b56839d03d633b4b23b52070f51c7b6a9072381f9";
-      "url" =  "https://files.pythonhosted.org/packages/60/85/5da5e242b8817c42cd79fe488ed40d4ab29112fd15c9bc72fc4327931891/pyA20Lime2-0.2.0.tar.gz";
+  "pyatome" =  {
+    "0.0.1" =  {
+      "sha256" =  "57b72612d53955eb627ead0534a998f36824380acedce36886e406c8fd36695c";
+      "url" =  "https://files.pythonhosted.org/packages/f4/6a/55eda771cbd37b3e6887c53234c6e474badee7401d9e2d0427b32f8b6137/pyAtome-0.0.1.tar.gz";
     };
-    "0.2.1" =  {
-      "sha256" =  "478d99212a8275ee78091e59a7241f54ce90257feffb46437e5050c3f02f7d2d";
-      "url" =  "https://files.pythonhosted.org/packages/52/59/a96753e14f538d6b19f5822003753d562cdbbea0c9502a43d2befb469e4e/pyA20Lime2-0.2.1.tar.gz";
+    "0.0.10" =  {
+      "sha256" =  "4a59ac21bf5dce8d384646f76c49be81ba8ae778e9ef6467a2cdf8a378a12a29";
+      "url" =  "https://files.pythonhosted.org/packages/03/95/5032c0065ef0da474659c67228ece3145556adade057a9ea55db668dd511/pyAtome-0.0.10.tar.gz";
     };
-  };
-  "pyHoops" =  {
+    "0.0.11" =  {
+      "sha256" =  "9e9945345148483ad36245b73b219e165392347cf6940a090ae8df4f67c5bed7";
+      "url" =  "https://files.pythonhosted.org/packages/52/48/5dd9ebce153ab9e30191ec124366320c86e579189bf27a3c89535bc0df9f/pyAtome-0.0.11.tar.gz";
+    };
+    "0.0.12" =  {
+      "sha256" =  "d28fef676f77015ddaf70daf16e628802cbf2b14db0161aafc3ac3db7b8500f1";
+      "url" =  "https://files.pythonhosted.org/packages/8f/0d/e7e8c4c1aefa0cff2a26a339a12d216b09d2754e5f838e950c85fe2864bf/pyAtome-0.0.12.tar.gz";
+    };
+    "0.0.13" =  {
+      "sha256" =  "1ea343f0769750426f56314e06048b0b7c866fab89ecb11adadf5fc3a82177cb";
+      "url" =  "https://files.pythonhosted.org/packages/0b/a2/a70bdd9b53f312a7cf118e11c0a04998d409b6e73ff1c8ba7b501ee37152/pyAtome-0.0.13.tar.gz";
+    };
+    "0.0.14" =  {
+      "sha256" =  "6570ceb422cccf8fc25e2e2c6d0953fa294a5c52ccf3c5e09bbf51faeeb8d8d7";
+      "url" =  "https://files.pythonhosted.org/packages/d8/63/87f9c7529c72cee3cae3ec74da605b9c39a5b4bcfbf567843459659fe9bc/pyAtome-0.0.14.tar.gz";
+    };
+    "0.0.15" =  {
+      "sha256" =  "7da8f5a3bf85cde3023e68e665ac97797ab447f944cda76043d702157a43c129";
+      "url" =  "https://files.pythonhosted.org/packages/0f/a2/16cb1618e20820142d329f7f4c5e17116d30037b857a406d4036f4abe42d/pyAtome-0.0.15.tar.gz";
+    };
     "0.0.2" =  {
-      "sha256" =  "b170b57571997c7da9a6512e52e830a3b9476220402761285b5b35878588f3c3";
-      "url" =  "https://files.pythonhosted.org/packages/61/b6/fa2987cd20601b5c1160f49087cf418efc5394d1b4d3c2884b8c5eda70c8/pyHoops-0.0.2.tar.gz";
+      "sha256" =  "e46f3bb220aaffc5cbf89de5b828632ed5e14284fcc03fe4e46588cd19d77854";
+      "url" =  "https://files.pythonhosted.org/packages/78/ee/c2b25c58e4c4e35e84cbdf5e15e09da33afd73113bfbf89d851c1818a38c/pyAtome-0.0.2.tar.gz";
+    };
+    "0.0.3" =  {
+      "sha256" =  "094363a13a95b9ccbc014e229e6cbcf45536c54809fd17d5c1812e9c843d590a";
+      "url" =  "https://files.pythonhosted.org/packages/05/fa/72869cd3594c6a0b270207b12dc74fabef739d7fc7f4355715c1cc2c485d/pyAtome-0.0.3.tar.gz";
     };
     "0.0.4" =  {
-      "sha256" =  "2a720709aa0496663ec31b78993ab8d17bd5b86da2aeed729e745313e873ffd6";
-      "url" =  "https://files.pythonhosted.org/packages/1b/f0/c3a7d50b9abdfc515336a22fc977b7db6717f931726a8aa5dd45c03df495/pyHoops-0.0.4.tar.gz";
+      "sha256" =  "4127f43e01aa7a7cee171b3350381b351864b02f65c77bac8898308a1ca7c0ba";
+      "url" =  "https://files.pythonhosted.org/packages/6d/9c/e466ff86966f1715d2818e4cca0622e7d2a05dea2fb59f66d0a595e63cc4/pyAtome-0.0.4.tar.gz";
     };
     "0.0.5" =  {
-      "sha256" =  "0685850e1bd6cc32985478c73205f09e90367e356e0dc89c592f1d5e5352462c";
-      "url" =  "https://files.pythonhosted.org/packages/e0/fa/c41066de9fa7480d65db9e694b88259e2f1bd7c4c563d47ae49ec92384c4/pyHoops-0.0.5.tar.gz";
+      "sha256" =  "21594d539f74f042d4e88299c5cd0e993690050a996fa141b3551a30140fbdff";
+      "url" =  "https://files.pythonhosted.org/packages/13/bc/cbf70e58973e6f71ddf0bd60ac5748faa1ded66a9dfc1126c7b0016ff0ba/pyAtome-0.0.5.tar.gz";
     };
-  };
-  "pyPENELOPEtools" =  {
-    "1.0.0" =  {
-      "sha256" =  "89288ffde8198ab759b9176b91f546f3af625c3757a35e27eb9bb80dec039475";
-      "url" =  "https://files.pythonhosted.org/packages/61/08/715c3fe4a9ed6975ed0604ea1462468c5fb61da548b69c8db5561e052c6f/pyPENELOPEtools-1.0.0.tar.gz";
+    "0.0.6" =  {
+      "sha256" =  "0ef27f99203555c1b7cdb8e1cb53cfeb5661a81c785e573b053aab07f4cde09b";
+      "url" =  "https://files.pythonhosted.org/packages/4a/a0/cb444db1323e788e6dca1bf48206484ae09c8438397986673090e33c6239/pyAtome-0.0.6.tar.gz";
     };
-    "1.1.1" =  {
-      "sha256" =  "40d9c232e980026047cf649e182d9d596ea470f01fd498e771bd3b432ea51fb0";
-      "url" =  "https://files.pythonhosted.org/packages/e2/7a/19c51956e729f051ba00ca31f94e08918e41e8ee61e65401330e17fac823/pyPENELOPEtools-1.1.1.tar.gz";
+    "0.0.7" =  {
+      "sha256" =  "f935b38ddc55a97e1c947852c71384f1753866d9cba0df765a6e2079c1aad30a";
+      "url" =  "https://files.pythonhosted.org/packages/78/8d/cb3f12d386b28303aa99c667573c972403b27551fd28ec814987fc81fa30/pyAtome-0.0.7.tar.gz";
+    };
+    "0.0.8" =  {
+      "sha256" =  "385f54eef880387c1123a92948c983e50cd2528386ec37d77e9ccb934f5199fe";
+      "url" =  "https://files.pythonhosted.org/packages/ed/b3/6dce0421823efce6c83894a960adce5bed57951de72adb853b76e8155296/pyAtome-0.0.8.tar.gz";
+    };
+    "0.0.9" =  {
+      "sha256" =  "c3ce8fa37dc94c9ba43f7ce9be95f2811d2c583a66b7c83082f91fd78016cb3a";
+      "url" =  "https://files.pythonhosted.org/packages/3a/30/1ca961ebc7c3312d4a0c9ab212b025d17a86274cbeb64daf225492952549/pyAtome-0.0.9.tar.gz";
+    };
+    "0.1.1" =  {
+      "sha256" =  "7282e7ec258c69d4ddf2a5754ff07680a1ac92f9bfb478d601fd9e944fccd834";
+      "url" =  "https://files.pythonhosted.org/packages/62/39/97cb54bf9757d99f22b63c23096aeb42cc9ca3e0480a6091b9215289e96f/pyAtome-0.1.1.tar.gz";
     };
   };
   "pycaption" =  {
@@ -13793,6 +13007,24 @@
     "0.1.6" =  {
       "sha256" =  "c0463a201f6a60be2b8f450b370b60fdc299047f40391674444d654bae2f69fb";
       "url" =  "https://files.pythonhosted.org/packages/f1/56/840aa08de599a384626b8dc5acc83ae65d1827e224ca0df67143dda57763/pydotconfig-0.1.6.tar.gz";
+    };
+  };
+  "pydrive" =  {
+    "1.0.0" =  {
+      "sha256" =  "a593a4227f4b37644db6d34c08a504a8fdda737f7854a7e24b739d5cb92172c0";
+      "url" =  "https://files.pythonhosted.org/packages/61/e1/b5242f7219d6db1f52025e686b9f4d625d584ab012e42e2a38fbb58c515f/PyDrive-1.0.0.tar.gz";
+    };
+    "1.0.1" =  {
+      "sha256" =  "5b644a896ee3c53f4d37907c09e514dcf0bfa1ddb2214d408531b57c5232ac81";
+      "url" =  "https://files.pythonhosted.org/packages/bf/1b/d3980ef79ea9c184c7944bc82e6f698db962907d2187c8fa376f9f4617d9/PyDrive-1.0.1.tar.gz";
+    };
+    "1.2.1" =  {
+      "sha256" =  "0606628aa88e50f427070f184b1f8007a36ce316e11648dda70bd213870205aa";
+      "url" =  "https://files.pythonhosted.org/packages/13/f5/eda572b01aa89d383dd84020437cfcf8502a96e58aee05698e24ce80e1a7/PyDrive-1.2.1.tar.gz";
+    };
+    "1.3.1" =  {
+      "sha256" =  "83890dcc2278081c6e3f6a8da1f8083e25de0bcc8eb7c91374908c5549a20787";
+      "url" =  "https://files.pythonhosted.org/packages/52/e0/0e64788e5dd58ce2d6934549676243dc69d982f198524be9b99e9c2a4fd5/PyDrive-1.3.1.tar.gz";
     };
   };
   "pyecore-py2" =  {
@@ -14071,6 +13303,20 @@
       "url" =  "https://files.pythonhosted.org/packages/71/1d/6f92b290e7f3f1f4994f8b1034608afd2fc522b2454e62248b4a65a8c066/pygameui-0.2.0.tar.gz";
     };
   };
+  "pygeopack" =  {
+    "0.0.4" =  {
+      "sha256" =  "0028cc3dfc3b5534ebb634d10689a1ca96081325b94dcdadbbbdac6df16f9b92";
+      "url" =  "https://files.pythonhosted.org/packages/c7/41/440a4ba43a0e1aa33e2a33935f432fda0217adb9cd59401597bde4bec8c9/PyGeopack-0.0.4.tar.gz";
+    };
+    "0.0.5" =  {
+      "sha256" =  "59ac98c21b045200f0aa61e3a9b3b40296f51fd814ddb8108490ffdf1efd4467";
+      "url" =  "https://files.pythonhosted.org/packages/2e/7e/95e77ae8db1b83ef0879b72ab55f7d1bb269a3f6566206393bdf09b361f9/PyGeopack-0.0.5.tar.gz";
+    };
+    "0.0.6" =  {
+      "sha256" =  "d6981f99e0441f33a3182d6e00a2fd781eb02a22b473adf0e0efd1ac59cd008f";
+      "url" =  "https://files.pythonhosted.org/packages/00/8b/0cc6c7c95427759cea1e8b0f47854567235b738fff20cf82029dbe3b6963/PyGeopack-0.0.6.tar.gz";
+    };
+  };
   "pygiftparser" =  {
     "1.0" =  {
       "sha256" =  "ed4ab4de98b9807ada9b6260620ae9eb87366e0b25d34fedf8e54013e3980930";
@@ -14143,6 +13389,12 @@
       "url" =  "https://files.pythonhosted.org/packages/2d/4d/d4c7e2712ea93c6531c7d6723c4e61d6b16dd81010673a240ec2e45852a2/pylawson-0.2.zip";
     };
   };
+  "pylocalip" =  {
+    "1.0.0" =  {
+      "sha256" =  "4f3cb158cfdc3bfdd0070e1660c860b46fa5c040f8ea18b91c5bab1ba7ce9dd5";
+      "url" =  "https://files.pythonhosted.org/packages/76/01/ffb6aa99026f13aa8a50befe962b5c62a768cfa744150d90b3b159e512b0/pyLocalIP-1.0.0.tar.gz";
+    };
+  };
   "pymobiledevice" =  {
     "0.0.2" =  {
       "sha256" =  "c6f6162eb7934b74c24d0131b3eb2fbe102c3b6f17e89d37932a0c6158dbba35";
@@ -14199,6 +13451,16 @@
     "0.1.0" =  {
       "sha256" =  "13822ef13507d97336ffe33b9b92f493b504bd744286caa88c65f850714344db";
       "url" =  "https://files.pythonhosted.org/packages/27/79/d4867240b870e6f0cf00a134325ea3a650cb18bd4d8e4b5c24cce131ced1/pymoon-0.1.0.tar.gz";
+    };
+  };
+  "pynec" =  {
+    "1.7.3.1" =  {
+      "sha256" =  "4569493691f40758d7345b5a73fe49c3076348376b90f67f57a2037c6191ba1d";
+      "url" =  "https://files.pythonhosted.org/packages/11/16/8004bac8412d1cc501ef0cc78b4935086f502711c2db711a2c839aeeeeae/PyNEC-1.7.3.1.tar.gz";
+    };
+    "1.7.3.4" =  {
+      "sha256" =  "c8112d97b3f9e3a410baaafa32398cc85050da2ebe4179fb4b490dc0b4de6b84";
+      "url" =  "https://files.pythonhosted.org/packages/38/3a/026386eae1b3d250cab0df3abcb545d39327c54c9170ac810049c1835850/PyNEC-1.7.3.4.tar.gz";
     };
   };
   "pypanabi-tools" =  {
@@ -14909,6 +14171,12 @@
       "url" =  "https://files.pythonhosted.org/packages/34/93/60b735ca2521b551f893c0c18ffb90d34887adaf6ed7d9877b2125a9e169/pypeople-0.6.2-4.tar.gz";
     };
   };
+  "pypi-hello-test" =  {
+    "0.1" =  {
+      "sha256" =  "d722b7231675b607cabdfb6f18c8738779606e69c4ac8f6ef96b34b14b3e2d9c";
+      "url" =  "https://files.pythonhosted.org/packages/0a/3a/92947207672a5015cc6037d2a849c6be9dd2550665a5343a53587c1f158f/Pypi_Hello_Test-0.1.tar.gz";
+    };
+  };
   "pypicky" =  {
     "0.1" =  {
       "sha256" =  "8bd08ead5dacf896375102627f36aca7a87512219241bd9840d86a526851a376";
@@ -14951,6 +14219,12 @@
     "3.2.0" =  {
       "sha256" =  "9c2a694a677e0cc2f82e7a8844f5737250eea0f5b6317a784222678e467f74b0";
       "url" =  "https://files.pythonhosted.org/packages/9a/aa/6ae770f922724a990c235ff1ec7b3b98c1a72308279cc2e19a1f779b6169/pypoticia-3.2.0.tar.gz";
+    };
+  };
+  "pypunch" =  {
+    "1.0.0" =  {
+      "sha256" =  "ae2cae303220fd620172fa48a01760a4da9005243bf21e6175bb45064ed3e1c7";
+      "url" =  "https://files.pythonhosted.org/packages/18/a6/76380f1cdcab38ec470f0a136f33e1964a877398c6e0d0c9f5e09a2b11c8/PyPunch-1.0.0.tar.gz";
     };
   };
   "pyramid_lawn" =  {
@@ -15001,6 +14275,28 @@
       "url" =  "https://files.pythonhosted.org/packages/84/71/d5b1c98a36297651666f176c9966f8c4aaee0c9e6660bd7ff7ff15a39c60/pyshgp-0.1.5.tar.gz";
     };
   };
+  "pysidekick" =  {
+    "0.1.0" =  {
+      "sha256" =  "711d0740556c33990b3c193daf61c74c79215789ac9d330884efd2c65bd7d940";
+      "url" =  "https://files.pythonhosted.org/packages/3b/6b/0003554d28b9d6bcd956ceb8dfacb69fdf52515e176b23273747c2b9013b/PySideKick-0.1.0.tar.gz";
+    };
+    "0.2.0" =  {
+      "sha256" =  "0397a34a5fc402615b2e965b93539c9f6fcda55cf2ea66a425a055823baff80f";
+      "url" =  "https://files.pythonhosted.org/packages/2f/99/7e667ee6b3544d1c03bb963cbae23079d620a64635d1a6538ac3d2cc6e0f/PySideKick-0.2.0.tar.gz";
+    };
+    "0.2.1" =  {
+      "sha256" =  "f5a4fe73da4e0d2fa7ba6f80cc08a730fee153b2c6d58f60120a5c2f09d64238";
+      "url" =  "https://files.pythonhosted.org/packages/a3/be/c4d4e7e52075dd9039bbe462bb888310f6db0e6d92f84129e06b9d917e51/PySideKick-0.2.1.tar.gz";
+    };
+    "0.2.2" =  {
+      "sha256" =  "9e61810c4ff902c28dddad4fb2e3994c3039dcc8a0140533240c4e6619486b62";
+      "url" =  "https://files.pythonhosted.org/packages/6d/bc/1325bd613ac0f7b3cd8a0706f1524f2ddb9ebc82124cdec38b30a1f4caa4/PySideKick-0.2.2.tar.gz";
+    };
+    "0.2.3" =  {
+      "sha256" =  "d89f29f56a9d36134e338c63474f1113387a63be6dd662f405a96b85bae9eb01";
+      "url" =  "https://files.pythonhosted.org/packages/1b/5c/874fc3be716828ed69834359a7f249c5d34be20fe9ec8fa739287798ec73/PySideKick-0.2.3.tar.gz";
+    };
+  };
   "pysilence" =  {
     "0.1.1" =  {
       "sha256" =  "ab9bf4c7e22c3582d29553dcf9bdcf0324fdaecd444964d7482e17de3ac25db5";
@@ -15035,6 +14331,32 @@
     "0.0.5" =  {
       "sha256" =  "871359efb43dd2e0cb0a3d3424a61483da255e614d07eb40c6fe8d99a363085b";
       "url" =  "https://files.pythonhosted.org/packages/a0/3a/bacd620f899c1437b4a6afba101ce4553fccbf429a848afe38e9a37c23fe/pyspark-hbase-0.0.5.tar.gz";
+    };
+  };
+  "pystaffo" =  {
+    "0.0.dev3" =  {
+      "sha256" =  "7a28215709f81699ea4de4006ed222c8d8443e36d77952f23576c3fec0d11dfb";
+      "url" =  "https://files.pythonhosted.org/packages/4b/f9/f046e62ef4f9cdec87aaff76b74097d5051d5eb39cecd2d4899c0a1efb10/PyStaffo-0.0.dev3.tar.gz";
+    };
+    "0.1.0" =  {
+      "sha256" =  "3a4d6cdc5e317b794bf39f4102514ee37d4b895af8b65c9b9771c695848020de";
+      "url" =  "https://files.pythonhosted.org/packages/7e/11/35990a7fa1a4347daa5d4908c5d413f22624b4317fbb4b15f6e234ec4f3d/PyStaffo-0.1.0.tar.gz";
+    };
+    "0.1.1" =  {
+      "sha256" =  "5e505a0adf3f87b5a035ab5c3d131738d870e022f5b62b15fe0a9d7e1c4109ee";
+      "url" =  "https://files.pythonhosted.org/packages/26/13/587c27c735afcb38ca0b92feeaf32d2d6ed3e2843474c502983d06d3c228/PyStaffo-0.1.1.tar.gz";
+    };
+    "0.1.2" =  {
+      "sha256" =  "174e2196525d121615c1040f86b5cdec77afefde85388f9ec5d84e294deb6297";
+      "url" =  "https://files.pythonhosted.org/packages/d4/9e/8889f431e4abc12ffd571cf9bf81b7a1848202a3ed478a0241a983687ed3/PyStaffo-0.1.2.tar.gz";
+    };
+    "0.1.3" =  {
+      "sha256" =  "73c81150bbf44b77c49df9453142b4bdc97dc8a5ae6fa248fd565662d8035f7a";
+      "url" =  "https://files.pythonhosted.org/packages/a1/d6/d68bf1edc64dfb61d73d596a1ee82fd5b88372b7d5acd407eb33d8e0df14/PyStaffo-0.1.3.tar.gz";
+    };
+    "0.1.4" =  {
+      "sha256" =  "fcb5cf272bd15b8163a1b492b88668aaf076b3eccb49de5f7b96c12940bab50b";
+      "url" =  "https://files.pythonhosted.org/packages/c3/6d/ee02f5a0b2437abc6db98eae9ea6cf59cd5b642b3d8016b6373fb600603a/PyStaffo-0.1.4.tar.gz";
     };
   };
   "pytest-dictsdiff" =  {
@@ -15231,6 +14553,146 @@
       "url" =  "https://files.pythonhosted.org/packages/cf/a9/5b7fe33fae5f70b797f5242ec62e745d4de06ef7009470227d9a10547ae9/pythonbase-0.0.2.tar.gz";
     };
   };
+  "pytravisci" =  {
+    "1.0.0" =  {
+      "sha256" =  "f0bf279b8408285a93de958715574189be8776235cbd31c8f46cb4d55aae5d86";
+      "url" =  "https://files.pythonhosted.org/packages/b3/a7/a13ded998acb7b2fe76fa1b43fd2b1c5bd1bb98d8261fa691918029f0c0e/PyTravisCI-1.0.0.tar.gz";
+    };
+    "1.1.0" =  {
+      "sha256" =  "ce38ecb91d3af8cd6ca22ec0f7a2a7b8880c31e484bc2d792650bde0412a9051";
+      "url" =  "https://files.pythonhosted.org/packages/9e/46/695bf5dfab6246b0dc00437a8d45c5b2f6576310e98603ec722e3a0af20a/PyTravisCI-1.1.0.tar.gz";
+    };
+    "1.1.1" =  {
+      "sha256" =  "4dd22afe002a6522190f2690221828b1fabb79958932c2180be0b4ee1ad0411a";
+      "url" =  "https://files.pythonhosted.org/packages/1a/1e/f13362f59f63f5542c64cb25480cccf013ab4b915c5522667de1759cbfd4/PyTravisCI-1.1.1.tar.gz";
+    };
+    "1.1.2" =  {
+      "sha256" =  "e202d5f110b0b6b9683919df8508a2978d1eeb3f787609695c83fc3dafd09f25";
+      "url" =  "https://files.pythonhosted.org/packages/77/5e/333e026bf9c776f3a97ac2639504c030c7243a08c968d8418e0b3222ee5e/PyTravisCI-1.1.2.tar.gz";
+    };
+    "1.2.0" =  {
+      "sha256" =  "88acac511b49e9081695d851311f6bd11af73465579327ac12ca85a58f89952f";
+      "url" =  "https://files.pythonhosted.org/packages/40/ff/6fdf17dff2beb8cb7e7df294721fd73ee73dac44706feea528e68fac574d/PyTravisCI-1.2.0.tar.gz";
+    };
+    "1.3.0" =  {
+      "sha256" =  "7b136c84b631e8fd1f627afe5fc82246950a07f8f0ae06519dddcc2554c4ee6c";
+      "url" =  "https://files.pythonhosted.org/packages/2d/85/376bba168f5d3684d08ef1ca80c0e50bf7c74537a844cf1d4ef995ac940c/PyTravisCI-1.3.0.tar.gz";
+    };
+    "1.4.0" =  {
+      "sha256" =  "46cff99c1855bed19a8fc9841e92f03648c6dd44e3db24a4e2b03dab2204a2d9";
+      "url" =  "https://files.pythonhosted.org/packages/4a/17/b4c5d31469b7f46649a83a31d790177388e37f157a1942ff3d805013e5da/PyTravisCI-1.4.0.tar.gz";
+    };
+    "1.4.1" =  {
+      "sha256" =  "90f589c1c90765d6af40d7b39426ca7b78c3112d305ebfb5753d4e43d1671d01";
+      "url" =  "https://files.pythonhosted.org/packages/9d/8a/eb42fef0798ebd921164a43f8ce4a23d647208c36774508764e2077ad772/PyTravisCI-1.4.1.tar.gz";
+    };
+    "1.4.2" =  {
+      "sha256" =  "ae1c5ca291bf078fec068450d3b6c9f9b684c6f0adcc9d1685af1a4508c540f5";
+      "url" =  "https://files.pythonhosted.org/packages/33/23/99458d9cefcfe7b5377b41b8739a41f910e4f98b5413f0b7306cc54f1ea9/PyTravisCI-1.4.2.tar.gz";
+    };
+    "1.5.0" =  {
+      "sha256" =  "e366466f07a533f6f5e442b28548e9e3d381a8fe586fb9c8cc66d4c2c78a7f03";
+      "url" =  "https://files.pythonhosted.org/packages/b2/59/1009d6ef06bca76c755e40fe4c64490d2713740114f1f75495efcec99221/PyTravisCI-1.5.0.tar.gz";
+    };
+  };
+  "pytsetlinmachine" =  {
+    "0.1.4" =  {
+      "sha256" =  "5324be75f8494f6f7fa1a892f089db896123a137246c913b6ee3b8cc26413a8c";
+      "url" =  "https://files.pythonhosted.org/packages/e1/57/7cd2da0a05dc7788fe6ce50f7cc9e7bf9b34db332089c72072f65c0cef4f/pyTsetlinMachine-0.1.4.tar.gz";
+    };
+    "0.1.5" =  {
+      "sha256" =  "df461eeb4234ab8df924fe5dc86c921925019401a348a76fbc5ec6fd3ca92135";
+      "url" =  "https://files.pythonhosted.org/packages/92/57/9a093193c6d0b52574a99053572d3769fe4cfaf6189c16ebc511adfdf793/pyTsetlinMachine-0.1.5.tar.gz";
+    };
+    "0.1.6" =  {
+      "sha256" =  "6f3bc7bf23fc582ded9b9d57d834253c054188cdbd9b0cd71dbd50f217a19945";
+      "url" =  "https://files.pythonhosted.org/packages/80/69/aa299647d6e2e485301028e0c66218fcf4a002d1247bbe00335a2a46cea6/pyTsetlinMachine-0.1.6.tar.gz";
+    };
+    "0.1.8" =  {
+      "sha256" =  "eaf304ae394249d083580d58a5c9db2e85e2725b5e627e66accad853ab7f240f";
+      "url" =  "https://files.pythonhosted.org/packages/60/d5/e66bf4e65cf27aa6e61db5148704fc6b467e90041bea4c24a511480fdd1e/pyTsetlinMachine-0.1.8.tar.gz";
+    };
+    "0.1.9" =  {
+      "sha256" =  "165ea03cec5678ad925d65edb0eb8d5657890088671a99bd2851ca4f0765bd6b";
+      "url" =  "https://files.pythonhosted.org/packages/d6/d7/4cec621707b188a51b9721605d5e642339420a25d19534c36040e560a473/pyTsetlinMachine-0.1.9.tar.gz";
+    };
+    "0.2.0" =  {
+      "sha256" =  "c6d885bcc7a45f0e293e29c6fc060b2596823741b0458e2a70e198a6942988bb";
+      "url" =  "https://files.pythonhosted.org/packages/c3/22/5fc44ba7ecb0945626e9ae201ca0096ad1797d7d33f7aa79ff165bf35adb/pyTsetlinMachine-0.2.0.tar.gz";
+    };
+    "0.2.1" =  {
+      "sha256" =  "360266d6e8395f1f30e5c1a60d856fd6bcf6665f48d03a9d5c9b0ec11bb8f7c8";
+      "url" =  "https://files.pythonhosted.org/packages/6a/b6/3034fc494e11c89d8953e0d1109f63f5352da6da19ed4f57f257770065b8/pyTsetlinMachine-0.2.1.tar.gz";
+    };
+    "0.2.2" =  {
+      "sha256" =  "c1e9d126ff068e9ea6b5d41bc78f728904764e7480652414ed1d5d92f6aa3fe8";
+      "url" =  "https://files.pythonhosted.org/packages/46/ca/a624a885ee54bf79842e588c621b183da36565904c78a9f028bfdfb679f3/pyTsetlinMachine-0.2.2.tar.gz";
+    };
+    "0.2.3" =  {
+      "sha256" =  "7f943887fc81ced6a06314514ab1a1a05c904ddc7d8dba3f9d129ba42d41b851";
+      "url" =  "https://files.pythonhosted.org/packages/dc/f5/3358fbcde673ba85ea636b0da0afbf9424ea5ab448008db974d391bc6ff2/pyTsetlinMachine-0.2.3.tar.gz";
+    };
+    "0.2.4" =  {
+      "sha256" =  "b0fc60b619bdfb9eee1c28d81455f8770bb8f275f2bef553d0568a10f25ec629";
+      "url" =  "https://files.pythonhosted.org/packages/24/56/3cab18abecd3c273c3fff0d8464b5e109b0fdd9f3c56c6b537203018b2a1/pyTsetlinMachine-0.2.4.tar.gz";
+    };
+    "0.2.5" =  {
+      "sha256" =  "c23b73a5d96ab1625a00e22292762cca05fce5d5378b964cf6a784777b79a97d";
+      "url" =  "https://files.pythonhosted.org/packages/a5/70/c40f32aac009c6a75129c00612a74dfc3df1af88c0e025c0121857b24100/pyTsetlinMachine-0.2.5.tar.gz";
+    };
+    "0.2.6" =  {
+      "sha256" =  "2a813b46bc3ad9e344ceefb5d5d79465378395f9f94e952e30c9df16f2d3a4ff";
+      "url" =  "https://files.pythonhosted.org/packages/4f/bf/b8587cbea793c9e778092b911beee3f203ca82d057b6a9e6f646f459cb24/pyTsetlinMachine-0.2.6.tar.gz";
+    };
+    "0.2.7" =  {
+      "sha256" =  "1e4cdf293a433378b78f96424ab033bc5b4032d7d0c602cdc729da3dd1e2ede8";
+      "url" =  "https://files.pythonhosted.org/packages/7c/74/dd3de4fb0bee8fadb3c3001f7540d88277f2d376eb7dd16d535024ddf5d9/pyTsetlinMachine-0.2.7.tar.gz";
+    };
+    "0.2.8" =  {
+      "sha256" =  "34ec5fd82fc5b8f748991df2d3ffb00b404d4559457e6c56d3d0677029ebe9cf";
+      "url" =  "https://files.pythonhosted.org/packages/53/30/de2f66d124e02ca6550f770d309a08daa32f0b1bd5d5382307109d8b008d/pyTsetlinMachine-0.2.8.tar.gz";
+    };
+    "0.2.9" =  {
+      "sha256" =  "c4bad7c2c5f04b79993b0b7294f1a51635a31bd0f248e8183e0eb2f1356ebab1";
+      "url" =  "https://files.pythonhosted.org/packages/bf/8c/c28bb95907fe5686b00584152def4bbdec6e9fe4fc8d8c882453813058f9/pyTsetlinMachine-0.2.9.tar.gz";
+    };
+    "0.3.0" =  {
+      "sha256" =  "c7971517912dc3b0ab4293e874428f5946b13cd725992b9b368c8db423300d14";
+      "url" =  "https://files.pythonhosted.org/packages/eb/8e/f6f6fd7c84e141592785e860529df698fa5ad3775d3cc426eae9b59862ec/pyTsetlinMachine-0.3.0.tar.gz";
+    };
+    "0.3.1" =  {
+      "sha256" =  "37ec6f625faf088be8153a446653a275fa0445fa64ff1600a8bcf076248a22da";
+      "url" =  "https://files.pythonhosted.org/packages/2f/b8/f9dad507a8d9484398dfece9d7216bb4fe2bf687beb29410e55efc25c7ab/pyTsetlinMachine-0.3.1.tar.gz";
+    };
+    "0.4.0" =  {
+      "sha256" =  "3ad8945d7c43bcad2345bc27e5526a7bca04ad2eff97c8be6163c3cc71dc2eb1";
+      "url" =  "https://files.pythonhosted.org/packages/ae/59/07a540b558e9c8141417dbf1a0821474abd098ae632a983593b7bb95f279/pyTsetlinMachine-0.4.0.tar.gz";
+    };
+    "0.4.4" =  {
+      "sha256" =  "4381449f660f4926cd6a9c67b8021a53059258cb02a909fbdbb22b2a9c417cfa";
+      "url" =  "https://files.pythonhosted.org/packages/97/4c/4297a16769bfdae9fb2452884501117d702550cdd5710ecceeff04177459/pyTsetlinMachine-0.4.4.tar.gz";
+    };
+    "0.4.5" =  {
+      "sha256" =  "11c004a1e9f9937f45a5a0abc9c23591b144d621f379126918eb2cb6226d1665";
+      "url" =  "https://files.pythonhosted.org/packages/da/80/e8b029ba3158a235ced7d415b681ee3dc118df37009e876d0cff97fcef9c/pyTsetlinMachine-0.4.5.tar.gz";
+    };
+    "0.4.6" =  {
+      "sha256" =  "13717ea060cb1bdec74f9f9737a5dca30e9b7f6a014e98c222b58808f9930f1a";
+      "url" =  "https://files.pythonhosted.org/packages/ec/e2/08bf106c6f8d02ab0fbdce2f6d681bf5c961fcbc3cea2089b9f52e7fa5f2/pyTsetlinMachine-0.4.6.tar.gz";
+    };
+    "0.4.7" =  {
+      "sha256" =  "371d3c560a341ba28cf736227646612dbb929efd588b351a76766b879c5a1962";
+      "url" =  "https://files.pythonhosted.org/packages/39/8a/f915b5dd99a1cbc777b44535e85120ddd4e56c6cdb117f093e205edfbd46/pyTsetlinMachine-0.4.7.tar.gz";
+    };
+    "0.4.8" =  {
+      "sha256" =  "5e7e2a798e821c51eff12d20976bef750571d193d9ac31365aae21e54c6bbde3";
+      "url" =  "https://files.pythonhosted.org/packages/a3/fb/42bbdaf6880dd98ac119bc24f0cd59e4e761ca5331c067f849a5a99b0d15/pyTsetlinMachine-0.4.8.tar.gz";
+    };
+    "0.4.9" =  {
+      "sha256" =  "029ccf448265aa92ee3470b7145698648ceefb69195fd4e20ac30d0230b65bc3";
+      "url" =  "https://files.pythonhosted.org/packages/b2/91/c8d8b02441e5b2dabf4ceae8209d023822dde82709e2613372e9cb8a3a0f/pyTsetlinMachine-0.4.9.tar.gz";
+    };
+  };
   "pyutm" =  {
     "0.1" =  {
       "sha256" =  "326f07a5a4289a0f20885d3f61d551d9aedc606769fac3d43a1c6b49ff6c2828";
@@ -15243,6 +14705,12 @@
     "0.2.1" =  {
       "sha256" =  "f2e788e7b94ce21e1dcc166dfc9c5c8d6cf07b65596b4ba0e31109b67caeb1e7";
       "url" =  "https://files.pythonhosted.org/packages/b2/d2/62647bcf37828d143591a905c6e2b46234a4583d997b9f303b02a3346925/pyutm-0.2.1.tar.gz";
+    };
+  };
+  "pyuvs" =  {
+    "0.0.196" =  {
+      "sha256" =  "c93c31fa55ded78c3080b82ce1334b533446bfbaacecedce0bbea051d8652c05";
+      "url" =  "https://files.pythonhosted.org/packages/23/d8/082036b53303b488f63805f2bd90493fba27b67a458193f8f0940a709c8a/PyUVS-0.0.196.tar.gz";
     };
   };
   "pywe-sign" =  {
@@ -16041,16 +15509,16 @@
       "url" =  "https://files.pythonhosted.org/packages/b2/18/9182296df231b6e269b50054c1fd5d5710d34f3c3604e398bb9ded518199/rewardify-0.2.9.tar.gz";
     };
   };
-  "rfZenHan" =  {
-    "0.4" =  {
-      "sha256" =  "508026722d414539cf4b4fc94d45a0600617178bab22ccd17c36bb7d68f3bf3d";
-      "url" =  "https://files.pythonhosted.org/packages/c9/60/d49e9965ea923906fa17759048b8e2705cde42bf7ba6f5a3c69384a7569a/rfZenHan-0.4.zip";
-    };
-  };
   "rhelkick" =  {
     "1.0.1" =  {
       "sha256" =  "4213f1a36030779f5f4a11f27d986910a34bce48bee8934a21ab5383e2d47b4b";
       "url" =  "https://files.pythonhosted.org/packages/7d/d8/6e6b2b67afacc39a4aa94b62485f9968afb8b929929c779b96f2c9898e24/rhelkick-1.0.1.zip";
+    };
+  };
+  "ribosor" =  {
+    "1.0" =  {
+      "sha256" =  "dbfea52752942f5e1b66b090e6a074d69fbe707caed63c4ea44bd6b69d56d1b3";
+      "url" =  "https://files.pythonhosted.org/packages/37/32/1293b338baa654cb0b4b6de54ab70a45d1b2475d513116739c67cf4a05de/RiBoSor-1.0.tar.gz";
     };
   };
   "robotframework-distbot" =  {
@@ -16575,6 +16043,16 @@
       "url" =  "https://files.pythonhosted.org/packages/fa/e1/4db8ed3bfc7c3126c00d83334b7d310f1db12792725f77c5d9c02163a2f3/sedate-0.3.0.tar.gz";
     };
   };
+  "send2trash3k" =  {
+    "1.1.0" =  {
+      "sha256" =  "4eb380b7161fb5616c5fae2b42054edfd7159b282a5e3f57fce78887622838b0";
+      "url" =  "https://files.pythonhosted.org/packages/8a/29/4e0608280cc7c96402e80914a8c6beef729ce6a9e01a668b5fe241b8ece0/Send2Trash3k-1.1.0.tar.gz";
+    };
+    "1.2.0" =  {
+      "sha256" =  "1a63aa8f1405d1f7896148868dff252d6d4dada9c940b896ad25297567970b82";
+      "url" =  "https://files.pythonhosted.org/packages/d6/e1/ff785b6e0e40f51c0755a0b84861a298fcc8993cdaaa8e9075a0761bdbf5/Send2Trash3k-1.2.0.tar.gz";
+    };
+  };
   "sentencepiece" =  {
     "0.0.0" =  {
       "sha256" =  "39ae6846b23460dca80b57260ba784b5de3af63d5dddf9e76abfc5ff24dc0696";
@@ -16715,6 +16193,12 @@
       "url" =  "https://files.pythonhosted.org/packages/4e/d2/6913bb9f943b87bfdc0aee26b5c654fa069fd228c8a349bcbd20fda6a6ac/sgs-utils-0.53.tar.gz";
     };
   };
+  "sharescanner" =  {
+    "0.1.0" =  {
+      "sha256" =  "74df41ee350a9452788e807ead02863f2987a51b66b691c6b679b905bcab2e36";
+      "url" =  "https://files.pythonhosted.org/packages/f7/13/185623849cdbd2421b50c6568ab94866b59a1313fcaa4b50cf57a2d520ee/Sharescanner-0.1.0.tar.gz";
+    };
+  };
   "sheep" =  {
     "0.1.0" =  {
       "sha256" =  "717c03b99c77f056a4af8649298664a852ea92731af188e2670c0211644e9fd2";
@@ -16831,6 +16315,12 @@
       "url" =  "https://files.pythonhosted.org/packages/63/57/217a922055e4376d5e0979ee4c22071292acac2cc2b713992ac1ef3181cc/shingle-2.2.0.tar.gz";
     };
   };
+  "shouter" =  {
+    "1.0" =  {
+      "sha256" =  "be0c661e6bfd122d4dcf77b790eecfdd7e6e27c5882a6c98021bc956cd3e21e2";
+      "url" =  "https://files.pythonhosted.org/packages/7b/17/aca10b0b58d7c0c4c6e51f70fac3605a0e254f77eca489c3c16f7aa765f4/Shouter-1.0.tar.gz";
+    };
+  };
   "silizium-binerdy" =  {
     "0.0.1" =  {
       "sha256" =  "5330a360be72c1fb225671490df1759edc367890a0090d928efaec8daf796e7f";
@@ -16909,6 +16399,12 @@
     "1.0.4" =  {
       "sha256" =  "4eed3704e8736eaa625a49020a3580bbe9e88526dafaf04bb8f848696da3dcbb";
       "url" =  "https://files.pythonhosted.org/packages/f3/44/b0ab5ceaf450cee470ea61790cbe8f8a6f2345900a6f4e950f472457bec8/simplifiedpytrends-1.0.4.tar.gz";
+    };
+  };
+  "sipie" =  {
+    "0.1196144357" =  {
+      "sha256" =  "b90f55552b3731a29ef68709525bad04d6f5e432e70abc7d4329188f7e932ce2";
+      "url" =  "https://files.pythonhosted.org/packages/88/88/1a079e5d1bbd9343fb66a79db9dd061749b9dbd32ce1a87c1062a8625276/Sipie-0.1196144357.tar.gz";
     };
   };
   "skl2onnx" =  {
@@ -17013,128 +16509,6 @@
     "0.8.0" =  {
       "sha256" =  "d6402292a041f2369aa57998b061b1ad8377dddaec6dbc23393934034b73b1e0";
       "url" =  "https://files.pythonhosted.org/packages/26/f7/7c6eea1bca25d18fecd44ec415f4b53d88fa0dd6fb8699923d6a10b9f5f6/smac-nni-0.8.0.tar.gz";
-    };
-  };
-  "smappPy" =  {
-    "0.1.1" =  {
-      "sha256" =  "392af8f6643b4d4489fb2e13883cc95f05e7f3275fd18f2a3deb331e47156b5a";
-      "url" =  "https://files.pythonhosted.org/packages/ef/12/68e83a046d6d4c0e352828c1d67e7880700cfe21097366ea4bacdb1a1fa6/smappPy-0.1.1.tar.gz";
-    };
-    "0.1.10" =  {
-      "sha256" =  "97a33a431f0af93f3ada94ce73cbdd85688799b23861f1a60911e1e86db0b561";
-      "url" =  "https://files.pythonhosted.org/packages/f4/09/816d83799e7f996934a331eace92e2ddce6526daeace86caf29c5fc4acf3/smappPy-0.1.10.tar.gz";
-    };
-    "0.1.11" =  {
-      "sha256" =  "1ff02596ebe288b4bbf25c49b5cefdf80b301a214d1e54d3036f50eec091b994";
-      "url" =  "https://files.pythonhosted.org/packages/c6/31/d9616933c321ba634ac06952856fe410b6fb062cfcdd961208bba780f66a/smappPy-0.1.11.tar.gz";
-    };
-    "0.1.12" =  {
-      "sha256" =  "cbffdb1fdd566371c2b53cfefcfc191ba13805ce61fa566eab9bed0d71bbcfc3";
-      "url" =  "https://files.pythonhosted.org/packages/14/64/9007ad753a67d6a864690b43b08a68965642a0d95c2b148a7fa32ce22f2c/smappPy-0.1.12.tar.gz";
-    };
-    "0.1.13" =  {
-      "sha256" =  "0f3350dc48fed094f08454fb3e77d4ad6f0e160fc3b48edea76dcee34c76bf2a";
-      "url" =  "https://files.pythonhosted.org/packages/87/dc/4e3a5ef5ff353dd7657cbee03522b48fd61fcd058fb77eb8cbd97e1d5c60/smappPy-0.1.13.tar.gz";
-    };
-    "0.1.14" =  {
-      "sha256" =  "fe90004eb4e53a90e29966b7f4cf7ae6d0f7567fe093b1d230caac5e497177f4";
-      "url" =  "https://files.pythonhosted.org/packages/05/b8/1d84c9520c8f059a06309c544b7539b62c486aa99a07e8dd61109e935806/smappPy-0.1.14.tar.gz";
-    };
-    "0.1.15" =  {
-      "sha256" =  "f6ed0378c06d95a47369b5da05cf16e5524a53429117247e7916f0ce5e4033e9";
-      "url" =  "https://files.pythonhosted.org/packages/97/e3/692d8b69cd559a302d0ce59278a614873309c637994234f1bf3819b917b2/smappPy-0.1.15.tar.gz";
-    };
-    "0.1.16" =  {
-      "sha256" =  "a3e367bcdb4aeddae4052c4a7d438bf96f40e5cf7492691466eb288dc140ed0f";
-      "url" =  "https://files.pythonhosted.org/packages/89/7a/b3cc7d0907b6c2d41fb0ba0c169b31af51ad215513d8143f2c31e0236f59/smappPy-0.1.16.tar.gz";
-    };
-    "0.1.17" =  {
-      "sha256" =  "14a6691a78e641ce68f3c3456b75d28aee5ff98086dd80429c1096290b994371";
-      "url" =  "https://files.pythonhosted.org/packages/39/98/18ff9b139bbf6835a396526ea7b03108449afab0efa5832248250e8f8c7f/smappPy-0.1.17.tar.gz";
-    };
-    "0.1.19" =  {
-      "sha256" =  "59dd71ed6286632ea24d2896316aa6600e4ee9262d19bb06a7ffc312b700d144";
-      "url" =  "https://files.pythonhosted.org/packages/c0/f0/a2cba152844acb4984f1818b5c96ff8f683537cb097cf4ca2ecf19b5b3f2/smappPy-0.1.19.tar.gz";
-    };
-    "0.1.2" =  {
-      "sha256" =  "fcd03101c41374353a7dfdd4f7c76ddaa978666055b0db7dffd836c7b4cfcbd1";
-      "url" =  "https://files.pythonhosted.org/packages/76/2f/ae32a78386ab00ca5739eb67cc07a29f058acc2d857445f161f99bc3cef6/smappPy-0.1.2.tar.gz";
-    };
-    "0.1.20" =  {
-      "sha256" =  "d40aa78c3640911c17c82b39d69cb6d217f3fa59d4ea0e9fd673f40d54412883";
-      "url" =  "https://files.pythonhosted.org/packages/c5/7c/b18eeba5b920f6b9e93efaf69024c301e90a2cd9c69291481c351bb97df0/smappPy-0.1.20.tar.gz";
-    };
-    "0.1.21" =  {
-      "sha256" =  "8f99c37c286f67670749bd7c7761cc06c4769b7e7b660067946c087434f5e99c";
-      "url" =  "https://files.pythonhosted.org/packages/5a/7b/6772811c755ea8349eabc9d7b03619984557c55bdfcbfd3a3d85c486ed71/smappPy-0.1.21.tar.gz";
-    };
-    "0.1.22" =  {
-      "sha256" =  "4a770106f15f14b675b2b54d61b5ef4d1f647ee8f7e88d0a82d3692422bc9ddc";
-      "url" =  "https://files.pythonhosted.org/packages/3e/5d/003193d7480215d8a64f557059fdbd200675f19997bd1fb6add23bc814a2/smappPy-0.1.22.tar.gz";
-    };
-    "0.1.23" =  {
-      "sha256" =  "7f1c243f8cdb18bb38bbbc1ca37353cdf58584742a3b8bef5236e2fbf31ca908";
-      "url" =  "https://files.pythonhosted.org/packages/f5/80/31c90d812fbaf99e17ac888a3a8e45c6415ec8dcdd4c704dc6bfa392f5f0/smappPy-0.1.23.tar.gz";
-    };
-    "0.1.24" =  {
-      "sha256" =  "d98eb062a5e9ec39209940f60529733397406d192cb46f32c00a83b936ca0760";
-      "url" =  "https://files.pythonhosted.org/packages/17/d5/730d59d567b1caf51178b09146291c0ce826d2028e2d3cbbc8a3645bbb78/smappPy-0.1.24.tar.gz";
-    };
-    "0.1.25" =  {
-      "sha256" =  "9f317fdf58a7ce6ef475991422a26e0f95b4daf97dde30f46ebb5e815156cd28";
-      "url" =  "https://files.pythonhosted.org/packages/a9/82/4169f360ebc8e9fdc3bdba210e61e18a09a61fffe143025b92f2f61d7353/smappPy-0.1.25.tar.gz";
-    };
-    "0.1.26" =  {
-      "sha256" =  "3bd270dfb104c10c72411f7e83b42d7f2af81748b4b277c678a8e3f8ff42781f";
-      "url" =  "https://files.pythonhosted.org/packages/be/53/55970628b877b71383324a417bb28ca6ec23cd43909a3254cd32a551f217/smappPy-0.1.26.tar.gz";
-    };
-    "0.1.27" =  {
-      "sha256" =  "8a2c72b67c87c064082f442e84358f5bb240ec66da7b2f07ceb67dae04cc1c68";
-      "url" =  "https://files.pythonhosted.org/packages/ea/4b/7b05ba35895d89cc439e8bfa673ae2c90739680889e2b2d9f9dc9e7c8497/smappPy-0.1.27.tar.gz";
-    };
-    "0.1.28" =  {
-      "sha256" =  "9bc8ef7f1457b246b0409dde897571371eec940e43f5aa1270ff65ea652b9367";
-      "url" =  "https://files.pythonhosted.org/packages/3a/1d/6dd15e776d22f76e871a0795cddaa2ef0871db4d9e058d636604f824e252/smappPy-0.1.28.tar.gz";
-    };
-    "0.1.29" =  {
-      "sha256" =  "72310844ca73380783e7b813e93ad9b088376b2a3f2f9940d2e56109f1eeb4ee";
-      "url" =  "https://files.pythonhosted.org/packages/43/2c/afb24826b88125c387905ea0a100e521df33638ef526de2fe5929bdc75c3/smappPy-0.1.29.tar.gz";
-    };
-    "0.1.3" =  {
-      "sha256" =  "abe4f7cc19e1a45d5f92716afe1176953225d109a1cef35502f3339493b4be4f";
-      "url" =  "https://files.pythonhosted.org/packages/fc/e8/aab7f62faee121f506ba7c704c48302420b0d2ebd0f22690638df132d91f/smappPy-0.1.3.tar.gz";
-    };
-    "0.1.30" =  {
-      "sha256" =  "155698c4534e5b27cb72abbbc33550e2627d5035ca94f9dae316ed5ec7c6f8ca";
-      "url" =  "https://files.pythonhosted.org/packages/a1/2b/ae5e455403c3f481135f387bfad4fa693d96e9df6b9bc7b99fe773515139/smappPy-0.1.30.tar.gz";
-    };
-    "0.1.31" =  {
-      "sha256" =  "90cdc24aa1e80313109a940040febff5c11f462c96207fc4d438c98fcdc7c1a7";
-      "url" =  "https://files.pythonhosted.org/packages/85/07/787d6d99a3410f348b68f85eb2a60c2ac5e7b09aab08045ab53667acef1f/smappPy-0.1.31.tar.gz";
-    };
-    "0.1.32" =  {
-      "sha256" =  "54829c2e662cddb2af1ffc2683181e9946f6b22e2decfff8e6453884bd9a27e3";
-      "url" =  "https://files.pythonhosted.org/packages/6c/86/09cd9b305f2025a6f49a23be66af70b8908efb2282835e3300dd4881cc7d/smappPy-0.1.32.tar.gz";
-    };
-    "0.1.4" =  {
-      "sha256" =  "c8cd04ec95aece57295783fcfbbffb78d50a42ef5943e823a535dbc21e2d7d39";
-      "url" =  "https://files.pythonhosted.org/packages/6e/8f/062146dd137faea6716713749e5eb2b8245c87cc61cb0b5b1c9fe3d996cd/smappPy-0.1.4.tar.gz";
-    };
-    "0.1.6" =  {
-      "sha256" =  "21afc74b7ff0f6b173b185fb9ac7e4ad71617b99418d48d0d6fb6d95ebfea877";
-      "url" =  "https://files.pythonhosted.org/packages/9d/45/ce8a1a9181c503db9f61cbabc474612e4a89e799636e1f37ad14d4356a77/smappPy-0.1.6.tar.gz";
-    };
-    "0.1.7" =  {
-      "sha256" =  "1ade9885b39b895706a5db3608b2d34e7579dbd8361f6a97cbb9c1540cd6a37c";
-      "url" =  "https://files.pythonhosted.org/packages/9d/1b/671b4738b9f588dd7cc48788fdf3c285cc810243c44ff2dc591a936753a5/smappPy-0.1.7.tar.gz";
-    };
-    "0.1.8" =  {
-      "sha256" =  "9456fac19705e7ae4b3acc3f8d459918a7321d600bbe1f982dca61a179a12ef1";
-      "url" =  "https://files.pythonhosted.org/packages/27/80/d3936d4965ac75ccf73575496d9de38a225405bd8975875694030c559c41/smappPy-0.1.8.tar.gz";
-    };
-    "dev" =  {
-      "sha256" =  "1b76f7ee21d10f224e5f62d6f1e9118e5b238a6b99b271a5de45c3c2f9dbfa5c";
-      "url" =  "https://files.pythonhosted.org/packages/c6/b3/a5c3e128c09ad4dea55eb9c96da9de929bc7bfe6d13da6bb8ebe94121950/smappPy-dev.tar.gz";
     };
   };
   "smoothtest" =  {
@@ -17549,6 +16923,36 @@
       "url" =  "https://files.pythonhosted.org/packages/cb/38/a2e790885fcd4723852525b15cbfed7e748ee61325c924d9e7573d609aec/steem-piston-0.4.9.tar.gz";
     };
   };
+  "stmb-featureselection-primitive" =  {
+    "2.0.0" =  {
+      "sha256" =  "71fa4936b401f706ef605d0ff859ad53a1e1163d08c80c7a2e57fe7df7d75016";
+      "url" =  "https://files.pythonhosted.org/packages/d9/86/92eaefdba788e5c86088f26f22d3ca28ea41bfd2f710882a6bd49629dea8/STMB_FeatureSelection_primitive-2.0.0.tar.gz";
+    };
+    "2.0.1" =  {
+      "sha256" =  "8acca9823217bb0b1ac20cbe5b341af4cd6343e65c040c7f9da1c0d72e3c7ef2";
+      "url" =  "https://files.pythonhosted.org/packages/b5/b9/1be60f6b43c93c74a68b90a830ff07bceb2594b5a454fcf470454d0b03e4/STMB_FeatureSelection_primitive-2.0.1.tar.gz";
+    };
+    "2.0.2" =  {
+      "sha256" =  "10f058218316428c5546e98c1ac3bd094ca18e1d5151fb7a8210465167f49eb5";
+      "url" =  "https://files.pythonhosted.org/packages/64/8e/3de67bfad884cecc1c0f848298c0e64561eec8967bddd7ab62085c8b299b/STMB_FeatureSelection_primitive-2.0.2.tar.gz";
+    };
+    "2.0.3" =  {
+      "sha256" =  "34511a9cbe65ff13a57088253e5f806724b834afe3e0e46ba4a120b08fc2d537";
+      "url" =  "https://files.pythonhosted.org/packages/41/66/4bea5a89f746b2966bc9d54953ab60d1b822f722a936dac0f67c90c429ef/STMB_FeatureSelection_primitive-2.0.3.tar.gz";
+    };
+    "2.0.4" =  {
+      "sha256" =  "2a13c47107b7ed08bf7dcb9024b30e1deec157215f64a3d10d809aae11af8865";
+      "url" =  "https://files.pythonhosted.org/packages/9b/c9/9f9ca3700321c095717a909975ec2f9b429e913b893d1a7203a35e9328ea/STMB_FeatureSelection_primitive-2.0.4.tar.gz";
+    };
+    "2.0.5" =  {
+      "sha256" =  "82ad42be6e3c9c1ae40ef01fb757cd7a775e243dc50c6f960058fd98f57f05fa";
+      "url" =  "https://files.pythonhosted.org/packages/a6/d9/62d41a7ff4a5a26cda29da1c00e284d962d2d6d8b7c1f79c52be5e55c8c1/STMB_FeatureSelection_primitive-2.0.5.tar.gz";
+    };
+    "2.0.6" =  {
+      "sha256" =  "a64d387d250aa0aa5db7a63b666f9a06be32feee95cec2f6a745ae80b640687f";
+      "url" =  "https://files.pythonhosted.org/packages/fc/0f/2515b2778f4b0fe68634e47e990e07f4fde8861570d39731eb4b4753495e/STMB_FeatureSelection_primitive-2.0.6.tar.gz";
+    };
+  };
   "storystructure" =  {
     "1.0.0" =  {
       "sha256" =  "86cd490f8c543f20814f02a8085e02f26ed83be41d342c770bab0cb11c4aa447";
@@ -17557,6 +16961,36 @@
     "1.0.2" =  {
       "sha256" =  "6fdb0cb21108aad1655eec5da93006b76fb424eccb1a00436992a614e9bbe363";
       "url" =  "https://files.pythonhosted.org/packages/3b/42/4e4c38ebc92ccc9e46fd12f43c9aa73251987c868b34c254b218acdb23f6/storystructure-1.0.2.tar.gz";
+    };
+  };
+  "sublimescheme" =  {
+    "1.0.1" =  {
+      "sha256" =  "5b7757368b2f123dea68bf10c3c3fee83ac497549879ecdfd8dfcf164f08b144";
+      "url" =  "https://files.pythonhosted.org/packages/8b/48/d78d84c6ebd36a6692065886dfb9453b340757745d113bc2b17f4e1f65b0/Sublimescheme-1.0.1.zip";
+    };
+    "1.0.2" =  {
+      "sha256" =  "c67421b27746f1db41e30d5520ddf5cd7528f368c4740ff2b2e8717ed5159795";
+      "url" =  "https://files.pythonhosted.org/packages/1e/b9/6f4d7420ee414e992d40c924569a70ea72807190854a2fe6c65dcab21fbf/Sublimescheme-1.0.2.zip";
+    };
+    "1.0.3" =  {
+      "sha256" =  "74ba7cdefda580b9940be9837c168e57658926e842417031bb8a51b5c15797bf";
+      "url" =  "https://files.pythonhosted.org/packages/28/6e/c93e7ff6dfa7d4b6c3b204ed5a750d57deb49312c28519d01747d879a449/Sublimescheme-1.0.3.zip";
+    };
+    "1.0.4" =  {
+      "sha256" =  "c8268cfe2468166efda84313d6ae2187043854d4f4f20ec5057b3548963f9c31";
+      "url" =  "https://files.pythonhosted.org/packages/f0/6a/96aa07e07112925a39cd39bfba8502f5328dc3c0c7707e1036209fdc4612/Sublimescheme-1.0.4.tar.gz";
+    };
+    "1.0.5" =  {
+      "sha256" =  "b5d0fa2e7a878b4ec37dd2fc102276520c5e7416169f70ccfdb60d5449bf24ae";
+      "url" =  "https://files.pythonhosted.org/packages/8e/08/3a5bb72648a605fa06ecbc250243b994261663422303ddfedad8028733b7/Sublimescheme-1.0.5.tar.gz";
+    };
+    "1.0.6" =  {
+      "sha256" =  "b2389434effc2104cf6b3f9a843c0cfad851d736396a090d3e868d46861299f0";
+      "url" =  "https://files.pythonhosted.org/packages/9f/d5/2c516353f5d69d6cba6c409d2b2fa3f857a6aaa33d060c6ba6f86773fd56/Sublimescheme-1.0.6.tar.gz";
+    };
+    "1.0.7" =  {
+      "sha256" =  "dcb2075348dc98b6e1393bcf13725313d825d9a2304051af4b6c259628bf71ff";
+      "url" =  "https://files.pythonhosted.org/packages/fe/f7/7a889c43ee0a9b4dae863b88c714c92bdd2173cc3d1ff25bf9f2a5969595/Sublimescheme-1.0.7.tar.gz";
     };
   };
   "supybot" =  {
@@ -18071,6 +17505,18 @@
     "1.3.1b5" =  {
       "sha256" =  "25b7b04d1eb65762e043c05f8875b0bcb9f716fe47b53a012adc8503d1bbe653";
       "url" =  "https://files.pythonhosted.org/packages/7d/19/68384e614f28adb63db5268c95eddd1dba442959daf079c950a23c7046b7/tbapi-1.3.1b5.tar.gz";
+    };
+  };
+  "telegate" =  {
+    "0.31" =  {
+      "sha256" =  "634469c39a3a7f18376db055661bef75bffac8dfaaea9426729c3a82729e544e";
+      "url" =  "https://files.pythonhosted.org/packages/ea/d9/dc75d24a95a91b1676ce1a772e8960589e91b77ce214de7087316c7e6d50/teleGate-0.31.tar.gz";
+    };
+  };
+  "temp-python-qpan" =  {
+    "0.0.0" =  {
+      "sha256" =  "be5439124d649d59c85efa62ada4b294adb9de5492473a1bf98f166eee3ac05a";
+      "url" =  "https://files.pythonhosted.org/packages/92/44/e52129686484d3cf8e11f3bb93a0bf1e92d6d899a9fd988044f380f99de5/TEMP-python-QPan-0.0.0.tar.gz";
     };
   };
   "tenacity" =  {
@@ -18623,10 +18069,16 @@
       "url" =  "https://files.pythonhosted.org/packages/40/29/6e8a75c649228da1ed89b382b0e80650432619ca334924b8b7ef5714ceb2/torrentutils-0.6.0.tar.gz";
     };
   };
-  "trac-GenshiMacro" =  {
-    "0.1" =  {
-      "sha256" =  "b5801be0388b0bbc962379fe0d7c79e547d11311fb63b1a8a8dac394f0fd3c91";
-      "url" =  "https://files.pythonhosted.org/packages/96/1d/430701de68c8edbeaf0b05540223c92ddc200d182a47f18015c950e4aac9/trac-GenshiMacro-0.1.tar.gz";
+  "tpm-service" =  {
+    "1.0.0" =  {
+      "sha256" =  "36d9cac75d01f461423943ce45e10946d6929d3fb16de6b826c9c9539f5e174e";
+      "url" =  "https://files.pythonhosted.org/packages/b0/5a/1132a6f717c012ea6bb6dbc065b0414fb2e36d4800d156aff1ec0176070d/TPM-Service-1.0.0.tar.gz";
+    };
+  };
+  "tractixsummary" =  {
+    "1.0" =  {
+      "sha256" =  "dd0cbf8ac309b684b9175d5ffd2fccc7967569ce35611166b1b71c737b7abb9e";
+      "url" =  "https://files.pythonhosted.org/packages/97/87/52ad9eb9798447184b0e180d1fde6ab9d03f4098525b466bf8bd7a4eeea2/TracTixSummary-1.0.zip";
     };
   };
   "triarray" =  {
@@ -18901,6 +18353,60 @@
       "url" =  "https://files.pythonhosted.org/packages/ba/7a/1ec50e7c830590b5a3d3abfc1955769051beae8acaf20e687f05da3d88a8/turtles-1.0.0.tar.gz";
     };
   };
+  "twajaxtools" =  {
+    "0.1a0dev-r2998" =  {
+      "sha256" =  "7e9477ef7ac5d960d21595f2dc2df147091e3a70901e88b2b08a62e69b10b373";
+      "url" =  "https://files.pythonhosted.org/packages/c5/12/461ed1bb02b6d9c3e2ab04100b0339741e0b0f8701e4048ac1a89ce90888/twAjaxTools-0.1a0dev-r2998.zip";
+    };
+    "0.1a0dev-r3025" =  {
+      "sha256" =  "a78c92005e72c0e5f6c217801cdc01dccfb842b84b68990d6ca936960fbab7ef";
+      "url" =  "https://files.pythonhosted.org/packages/c4/49/2cf6670883f2bd70aa0a80060d765ac16bfc421eb4c33d56cc391baf492b/twAjaxTools-0.1a0dev-r3025.zip";
+    };
+    "0.1a0dev-r3026" =  {
+      "sha256" =  "845ef3487c4c6178ca205af19a005c38e0f1ac7aed6f25d491814d3295e8b4d0";
+      "url" =  "https://files.pythonhosted.org/packages/92/bd/e65117c3b819ae898151a2ec96c5baed0f759e5dd43b3162b4fde20143a7/twAjaxTools-0.1a0dev-r3026.zip";
+    };
+    "0.1a0dev-r3048" =  {
+      "sha256" =  "d21b73b8c9f1838ab1536014dc47ab8cf913ef9fb16aeb1cb1de5dd606626c9e";
+      "url" =  "https://files.pythonhosted.org/packages/d8/b7/86f5f8e22c8d7669286c9b91b03e9c9614f3d727fab6388ef917b7bcb3ea/twAjaxTools-0.1a0dev-r3048.zip";
+    };
+    "0.1a0dev-r3774" =  {
+      "sha256" =  "8072da2f829d6ae255fb12f1df4aa6eb05adcd25dd1b47706f11ed6e0a74a93e";
+      "url" =  "https://files.pythonhosted.org/packages/a6/09/5f97d9f132a2b77e2b70953c6ca74c1055c415d4e46bfb8b058a80c8e0cc/twAjaxTools-0.1a0dev-r3774.zip";
+    };
+    "0.1a0dev-r3805" =  {
+      "sha256" =  "a601c5f254bb082f205d4710872d2f7863229d1802c8f2d57e0abdf917ad6666";
+      "url" =  "https://files.pythonhosted.org/packages/90/1e/6f476e5b414b22d0d501ff16726f92352fb5d739e52313a3656b7f160d7c/twAjaxTools-0.1a0dev-r3805.zip";
+    };
+    "0.1a0dev-r632" =  {
+      "sha256" =  "7a3395e3a807a7b384af0c85879355cfea1aca9b87b7a20f4ccdf4686a30257e";
+      "url" =  "https://files.pythonhosted.org/packages/ab/d9/f79407f0d990e1906dd23e70926cd7582543f06bb94179f23785fd86e043/twAjaxTools-0.1a0dev-r632.zip";
+    };
+    "0.1a0dev-r634" =  {
+      "sha256" =  "1b9ddd443cc6eb844ccd9a3449d8256148b039d5b72940219b429d7be21e2fb7";
+      "url" =  "https://files.pythonhosted.org/packages/05/9e/a7b7c936224134fe6ac48c7f719db8b57036adb5a47beb997ffc57dddfe0/twAjaxTools-0.1a0dev-r634.zip";
+    };
+    "0.1a0dev-r647" =  {
+      "sha256" =  "47b59cbcf688a77153d271f20a217aa2e2384bd3fec1cc14ed4b6f446df42dae";
+      "url" =  "https://files.pythonhosted.org/packages/a2/4e/0da5ad17cd3c0ccccd5d229469ea9aadb2b4d319c39f4a5d2d74f884017b/twAjaxTools-0.1a0dev-r647.zip";
+    };
+    "0.1a0dev-r665" =  {
+      "sha256" =  "f75c2c9b695bece1ea019a225f809aea7c98a0f01fb4e88a66dc1a7d29a27c25";
+      "url" =  "https://files.pythonhosted.org/packages/75/f0/96b8bbe0bc2eb09c46d2561a3a68bf0fda26260dc0c25d34628da32a9d08/twAjaxTools-0.1a0dev-r665.zip";
+    };
+    "0.1a1dev-r1771" =  {
+      "sha256" =  "c06cc775cf6a7077ec8b99416f4478f4d4856e3b05ed8bd0bd5e750eb39fd463";
+      "url" =  "https://files.pythonhosted.org/packages/5a/01/22905125264e3f23a8b2868313b9f549ff5e3286340300900e6c09bf3d92/twAjaxTools-0.1a1dev-r1771.tar.gz";
+    };
+    "0.1a1dev-r2199" =  {
+      "sha256" =  "dcbdfed70d07adcc82722ac62164acd78788c1556b45bc3cf39e11a150757e55";
+      "url" =  "https://files.pythonhosted.org/packages/8c/8b/ba277f92cecda690ee9c2b34dbfdc8cf9e1b5aa4b252fb1ed90f4d73a642/twAjaxTools-0.1a1dev-r2199.tar.gz";
+    };
+    "0.1a1dev-r2279" =  {
+      "sha256" =  "1064873e2e6032614bd96e683be9b07bdd5a76a9c5d929a7aa1d091e7538177f";
+      "url" =  "https://files.pythonhosted.org/packages/de/bf/1e936c0c813fb81c328ca5ff04c901a2131e4dc31b07ff50a606920342ae/twAjaxTools-0.1a1dev-r2279.tar.gz";
+    };
+  };
   "tweet-helper" =  {
     "0.0.1" =  {
       "sha256" =  "181e733332078d716cb6d12fc483bfcf14e602a7c1497103980a653f9ac849a7";
@@ -18913,6 +18419,16 @@
     "0.0.3" =  {
       "sha256" =  "246be393506ee8618d725ecddad87d1a234b4677f3eb0a22964197679e76733a";
       "url" =  "https://files.pythonhosted.org/packages/50/04/069f67cdbb240f5a88df563fa77dabfe38ad8c0ec87a1e1837947ebaf976/tweet_helper-0.0.3.tar.gz";
+    };
+  };
+  "txspore" =  {
+    "0.0.1" =  {
+      "sha256" =  "1849c949da16d846285b60b4fc3ff4e8a92ef431d769d7448d109d18a1d2a813";
+      "url" =  "https://files.pythonhosted.org/packages/45/43/5247b7dd1a34799ad2b4079ce11682b559f83c60f6e47cf3c937bc689a2e/txSpore-0.0.1.tar.gz";
+    };
+    "0.0.2" =  {
+      "sha256" =  "2a7d37fc2fa55bffe654c02c7622c700b00904f7c18bbefac4e04c008fdc7b54";
+      "url" =  "https://files.pythonhosted.org/packages/76/b1/cf13d8e1db82e5d238c9c0e851bd0fab3afd823ffbd6827025f0b6c97fd3/txSpore-0.0.2.tar.gz";
     };
   };
   "typedtensor" =  {
@@ -18945,216 +18461,6 @@
     "0.5" =  {
       "sha256" =  "c3629b4c61198e16a5f89364430775e5133612ff4c32d1c71eda6d369715479f";
       "url" =  "https://files.pythonhosted.org/packages/9b/0e/3cc045754d258444eef6b13e0f3a987bfa74678965fd2ac4fb3142168238/u1-test-utils-0.5.tar.gz";
-    };
-  };
-  "uWSGI" =  {
-    "1.4.10" =  {
-      "sha256" =  "d4c30a6496d7d7be59f0264393649b9bd5ec58f72c4c3b79b8160b25c193c512";
-      "url" =  "https://files.pythonhosted.org/packages/f7/64/9d5b5cc503dae67fa55c73f0eedfea06e44f612ee964a0b2a3a9cd0189ae/uwsgi-1.4.10.tar.gz";
-    };
-    "1.4.9" =  {
-      "sha256" =  "f4d345e3f08bf7859cf92340f79e10d7093e297e54c8448d9c1c821848e7fe2d";
-      "url" =  "https://files.pythonhosted.org/packages/9e/9a/3638f702fa8e61c85b1176db1a68a76e5eceef8fedd9c26a8b55a51a6581/uwsgi-1.4.9.tar.gz";
-    };
-    "1.9" =  {
-      "sha256" =  "33e1f47c4f8f04c1e3cdafdad0e9631c893418281bb75bbfaed49f69f7800456";
-      "url" =  "https://files.pythonhosted.org/packages/69/56/4cac2649884b6236b4fda5d17607a102ddbf345e9917c956ff68c2d2c9fd/uwsgi-1.9.tar.gz";
-    };
-    "1.9.1" =  {
-      "sha256" =  "d2ab4d8e3d76ee33bd4d25aa9bfd3203454207c4623dc18ea3df5c3b65c11166";
-      "url" =  "https://files.pythonhosted.org/packages/8a/c7/e403fc8fbed2ca30d9fc979e8f1582153c4df675b66a3c396fa3d22b113b/uwsgi-1.9.1.tar.gz";
-    };
-    "1.9.10" =  {
-      "sha256" =  "2d01dbd3e04901e400b075287a262edc808cce84ff403e9f6f73bbcbf77e05c3";
-      "url" =  "https://files.pythonhosted.org/packages/f0/a2/215c3b1be20971098f60c5419ed0418f1737c405c5969c3e01d249a74a05/uwsgi-1.9.10.tar.gz";
-    };
-    "1.9.11" =  {
-      "sha256" =  "e566163a7ffd18f341a0de8462d22410ee58b1f5f54c468e3019f47b7e5c4aa4";
-      "url" =  "https://files.pythonhosted.org/packages/b4/04/224a9282b4785306b996df2b21c2fb0959f487f7eef31c8de1ae7ccb47ac/uwsgi-1.9.11.tar.gz";
-    };
-    "1.9.12" =  {
-      "sha256" =  "dfd009d0f1624df971bf74e0270b465f89831281ca6fc1da98090489252bca7c";
-      "url" =  "https://files.pythonhosted.org/packages/cb/48/98506d0e7f41bce6fd9ee053665947951eb807d85acb3454a50eb5a26ad1/uwsgi-1.9.12.tar.gz";
-    };
-    "1.9.13" =  {
-      "sha256" =  "ac1532698493b117d1b95b0d0bab2113088fc3f0f23a765ddb59504bece3c26e";
-      "url" =  "https://files.pythonhosted.org/packages/09/07/e6e0a5f829c60b3da239218900f7128ad9ab783eba85ea4b11e159979e52/uwsgi-1.9.13.tar.gz";
-    };
-    "1.9.14" =  {
-      "sha256" =  "601bcd08c4b1073fed146dc7af24b21e0b0d353d2ebf5864df9613320fc759cd";
-      "url" =  "https://files.pythonhosted.org/packages/4f/bf/ca28a97092d18e990025cfe5075f2c1a45e14bd16e26d92e52598ff965fc/uwsgi-1.9.14.tar.gz";
-    };
-    "1.9.15" =  {
-      "sha256" =  "87a9dba42df4344dab001ed9f14ad3176977367905dbf9524d18c3808c0e17af";
-      "url" =  "https://files.pythonhosted.org/packages/b7/fe/1d9737e4962b3735fd04b41dd77f2eae83be026cf78b83afba84f5d1d516/uwsgi-1.9.15.tar.gz";
-    };
-    "1.9.16" =  {
-      "sha256" =  "5632a17c66be103d079208c95600dacb797852ee41f3b0ccb8fbe40ddd71f991";
-      "url" =  "https://files.pythonhosted.org/packages/07/81/f1c57c3edf40462fcc562942270d566c8798477807a7a2fcbca86e476692/uwsgi-1.9.16.tar.gz";
-    };
-    "1.9.17" =  {
-      "sha256" =  "917ea3c1d784d8c3cc3dde760fd835cce82cb1ae237f59550ba16b3379ff833b";
-      "url" =  "https://files.pythonhosted.org/packages/cc/e2/3ef110f2591b44782a3ed3cc8e890f84ade2fabf5478716a7e3d9037a4ff/uwsgi-1.9.17.tar.gz";
-    };
-    "1.9.17.1" =  {
-      "sha256" =  "e2558b918afe47640e3c4e75be4347e7e8dc7b19caf2120b6e1fb6bf17891c2a";
-      "url" =  "https://files.pythonhosted.org/packages/52/48/1437e7b15c802714cd8247b6c35e42d7d2c814b903e8e80fd292eb766b1b/uwsgi-1.9.17.1.tar.gz";
-    };
-    "1.9.18" =  {
-      "sha256" =  "4f3d7d6233822ba97eb888044b390ae3a6648a84d358b566fd2f7e83a68921c9";
-      "url" =  "https://files.pythonhosted.org/packages/dc/4c/e9bf3631899d58f1ce2df2795af92dda05a7662bc9c96cb92842478ae4bc/uwsgi-1.9.18.tar.gz";
-    };
-    "1.9.18.1" =  {
-      "sha256" =  "19c2847d76393c33f5b75ad2912b251bd1549e3a9d1ad615337ec276829a3f71";
-      "url" =  "https://files.pythonhosted.org/packages/4f/d0/9fe4e37f689367277e6c7ccb2b74379b4a8af9a8abd1a8cc520ee68b5e26/uwsgi-1.9.18.1.tar.gz";
-    };
-    "1.9.18.2" =  {
-      "sha256" =  "43f893bb346ac0da1a7d0d2d70c4e4f5bb28758488deec51ab6c0047f3e52427";
-      "url" =  "https://files.pythonhosted.org/packages/e8/4c/b1bc57c0ddbf1a39c30e9ab269c560b69e1f66fb379cd412bde85ed0e622/uwsgi-1.9.18.2.tar.gz";
-    };
-    "1.9.19" =  {
-      "sha256" =  "f4af5a227e8b7e81016142fe0575d979f5c1dd047766bcba9a6c8bc2f5fce4e8";
-      "url" =  "https://files.pythonhosted.org/packages/eb/d5/aed453e33db9a9d76dbd07764ebce0ac4e4b1a1690eadc97e842d9202f06/uwsgi-1.9.19.tar.gz";
-    };
-    "1.9.2" =  {
-      "sha256" =  "e65271394213eb0309ebe73d86a9c91dc5e22b8e536214f557aa770c0d4d8751";
-      "url" =  "https://files.pythonhosted.org/packages/12/16/15adcd4aba4addb796259267499c1652a0a38c03f52b5609965599c2dc77/uwsgi-1.9.2.tar.gz";
-    };
-    "1.9.20" =  {
-      "sha256" =  "1a0e47c051f0490c0083717d018964ed0dbe546283f2d7fb628aebb85af39e8e";
-      "url" =  "https://files.pythonhosted.org/packages/91/97/cd8c6baea8d34712f2cd4de2c0047b2fc0f356c024cf6980cb97d5f867e6/uwsgi-1.9.20.tar.gz";
-    };
-    "1.9.21" =  {
-      "sha256" =  "5b80916229ccd26b6ae740225c06b9ac495907fc456fb3e4d052fb9d2c8a66b3";
-      "url" =  "https://files.pythonhosted.org/packages/a2/69/66dfdf6e2e4e4eda9e416890b5c4ea98144adc00bbf96256ae9100835fd8/uwsgi-1.9.21.tar.gz";
-    };
-    "1.9.21.1" =  {
-      "sha256" =  "bf9287baa47b9f57cb3fb296231b632a8a7c547b063cabca0ea104ee33039021";
-      "url" =  "https://files.pythonhosted.org/packages/ab/4e/b7b5d9bde4bfde4a24dd8ae7f629ca927c26e34046371e493deb84efa5e1/uwsgi-1.9.21.1.tar.gz";
-    };
-    "1.9.3" =  {
-      "sha256" =  "6e4c7368d65be30375ace8b595450bec5daa4c3c494fa02b55af0346cd74ee7e";
-      "url" =  "https://files.pythonhosted.org/packages/e4/1b/890f3c79480c368a5200103ef0114425667f8e9f4987c83e290dec36c8bb/uwsgi-1.9.3.tar.gz";
-    };
-    "1.9.4" =  {
-      "sha256" =  "071f4d543a2ba81b0fd1e5665bc63265f3831d8c5d61d20cde3ae6b920b7c8c8";
-      "url" =  "https://files.pythonhosted.org/packages/17/7a/952334ecb2023457358024f00f458e7f6b88031d6c00c23445efb54b4f63/uwsgi-1.9.4.tar.gz";
-    };
-    "1.9.5" =  {
-      "sha256" =  "8fc4127499821f27edbf5041d99a297cc02a402a2d5dd7b1194ef95bd47c1585";
-      "url" =  "https://files.pythonhosted.org/packages/d3/1b/db6b58e6b3919ec626fc7d5c7f8a2ae56237f30eea87d7ccac8694dc85c7/uwsgi-1.9.5.tar.gz";
-    };
-    "1.9.6" =  {
-      "sha256" =  "841824a35bfb2ed40c12f887992ccdb9537505d61a15cdc70327d9003819e9f9";
-      "url" =  "https://files.pythonhosted.org/packages/82/3e/e9b5630d66eaf19e223964be708d9c53addf92b023e589d2ca4e560968ff/uwsgi-1.9.6.tar.gz";
-    };
-    "1.9.7" =  {
-      "sha256" =  "baf77571c55a27924b98fa916c3079c81da64f967ec5c91ea5a77b0ee0dfce35";
-      "url" =  "https://files.pythonhosted.org/packages/bc/c0/cae7aa51cd4596a53bd52242870884c5cd30105db5a6d8793d9db90badff/uwsgi-1.9.7.tar.gz";
-    };
-    "1.9.8" =  {
-      "sha256" =  "9dfa94799a0ea4b364e348e37142aa032d0bd26bae2fc7e24b51658a1720ac28";
-      "url" =  "https://files.pythonhosted.org/packages/37/f9/f722133ba2f7c18c1286676b6b30c7547f899b8615a911df29a459945a5d/uwsgi-1.9.8.tar.gz";
-    };
-    "1.9.9" =  {
-      "sha256" =  "9754c084a2442a91465cfd09ad9b2bb6195a0933d658151f27e92a3fc4285c9e";
-      "url" =  "https://files.pythonhosted.org/packages/2c/62/742bc20b21fdae5b08fa8ebc14f2e097b7fa4242d5facabe315b86c663ed/uwsgi-1.9.9.tar.gz";
-    };
-    "2.0" =  {
-      "sha256" =  "297073c85dc7a6b104f6367778cf7604bedd685a977b320b36dd46b0b11a8af0";
-      "url" =  "https://files.pythonhosted.org/packages/58/d2/c8d9e09aae49ece677f580e83007df5a362db6deea0942f93d81072e67d1/uwsgi-2.0.tar.gz";
-    };
-    "2.0.1" =  {
-      "sha256" =  "e84e498c217a793571f803d04fca4f2877dd856e9c5af1e66e645132d70c7cc2";
-      "url" =  "https://files.pythonhosted.org/packages/38/ae/0c4c7befd5872194b399caed9a957819810bcc4a666d699c88c2c2c3dbda/uwsgi-2.0.1.tar.gz";
-    };
-    "2.0.10" =  {
-      "sha256" =  "c0b381d6c22da931e85e3efe612629fe33a01ac25b0f028aa631b85d86d5028b";
-      "url" =  "https://files.pythonhosted.org/packages/47/f1/69c0e3c53c581f77c1643d614f00a8794567006884dab71c6ca970b78901/uwsgi-2.0.10.tar.gz";
-    };
-    "2.0.11" =  {
-      "sha256" =  "9541e20a4bb0929d3ac3d338b09d028eb278b84671e8c33a7fb1b3a0b82bd726";
-      "url" =  "https://files.pythonhosted.org/packages/51/1b/5d37573a42730faf9627613263f7ef5cf4de772d791edef6d4648ba56843/uwsgi-2.0.11.tar.gz";
-    };
-    "2.0.11.1" =  {
-      "sha256" =  "75a7d3138cfa9cd81a760c2f8a43f3d80961edc8e4f27043dc1412206c926287";
-      "url" =  "https://files.pythonhosted.org/packages/2d/37/a15af311e1bafc2f205b866c9a3441f2885652f4674014501d5daea2c8eb/uwsgi-2.0.11.1.tar.gz";
-    };
-    "2.0.11.2" =  {
-      "sha256" =  "0b889b0b4d2dd3f6625df28cb0b86ec44a68d074ede2d0dfad0b91e88914885c";
-      "url" =  "https://files.pythonhosted.org/packages/9b/78/918db0cfab0546afa580c1e565209c49aaf1476bbfe491314eadbe47c556/uwsgi-2.0.11.2.tar.gz";
-    };
-    "2.0.12" =  {
-      "sha256" =  "306b51db97648d6d23bb7eacd76e5a413434575f220dac1de231c8c26d33e409";
-      "url" =  "https://files.pythonhosted.org/packages/0c/1c/44849e293e367a157f1ad863cee02b4b865840543254d8fae3ecdebdbdb9/uwsgi-2.0.12.tar.gz";
-    };
-    "2.0.13" =  {
-      "sha256" =  "038ba9c21ad71ab02a5b966b95ee8627af0aa4966e066865f7063a0ab1c0305e";
-      "url" =  "https://files.pythonhosted.org/packages/a4/82/fca676ac1e6a08d40827078463bc68a16b4729f7b02ca538cdb27955b541/uwsgi-2.0.13.tar.gz";
-    };
-    "2.0.13.1" =  {
-      "sha256" =  "2eca0c2f12ab76f032154cd147f4d5957d3195a022678d59cb507f4995a48d7f";
-      "url" =  "https://files.pythonhosted.org/packages/83/22/47b6ff871a5f01b9f660121cf61ba1eccbf7886b5cbe24caacccd0d00d07/uwsgi-2.0.13.1.tar.gz";
-    };
-    "2.0.14" =  {
-      "sha256" =  "21b3d1ef926d835ff23576193a2c60d4c896d8e21567850cf0677a4764122887";
-      "url" =  "https://files.pythonhosted.org/packages/11/ef/3d64655693e12f163f659bc3a45837893d7ebbb242e608feb9adc788d2ca/uwsgi-2.0.14.tar.gz";
-    };
-    "2.0.15" =  {
-      "sha256" =  "572ef9696b97595b4f44f6198fe8c06e6f4e6351d930d22e5330b071391272ff";
-      "url" =  "https://files.pythonhosted.org/packages/bb/0a/45e5aa80dc135889594bb371c082d20fb7ee7303b174874c996888cc8511/uwsgi-2.0.15.tar.gz";
-    };
-    "2.0.16" =  {
-      "sha256" =  "a911f48f3cc51ac82fdabc4e001f18a32569128680beb5a833ebc3ff6edcc1f4";
-      "url" =  "https://files.pythonhosted.org/packages/7d/11/2b1d3c88fda1049eb5ac8930f7622c29665bea04241fe0f28ff89436bae2/uwsgi-2.0.16.tar.gz";
-    };
-    "2.0.17" =  {
-      "sha256" =  "3dc2e9b48db92b67bfec1badec0d3fdcc0771316486c5efa3217569da3528bf2";
-      "url" =  "https://files.pythonhosted.org/packages/98/b2/19b34b20662d111f7d2f926cdf10e13381761dd7dbd10666b9076cbdcd22/uwsgi-2.0.17.tar.gz";
-    };
-    "2.0.17.1" =  {
-      "sha256" =  "d2318235c74665a60021a4fc7770e9c2756f9fc07de7b8c22805efe85b5ab277";
-      "url" =  "https://files.pythonhosted.org/packages/a2/c9/a2d5737f63cd9df4317a4acc15d1ddf4952e28398601d8d7d706c16381e0/uwsgi-2.0.17.1.tar.gz";
-    };
-    "2.0.18" =  {
-      "sha256" =  "4972ac538800fb2d421027f49b4a1869b66048839507ccf0aa2fda792d99f583";
-      "url" =  "https://files.pythonhosted.org/packages/e7/1e/3dcca007f974fe4eb369bf1b8629d5e342bb3055e2001b2e5340aaefae7a/uwsgi-2.0.18.tar.gz";
-    };
-    "2.0.2" =  {
-      "sha256" =  "469f418eaa08e7aa46351e8b19b0ed55ec158046c617b388fd896bc9bb28ccb8";
-      "url" =  "https://files.pythonhosted.org/packages/c3/dd/765711d6566a85107d171fdc114bf458823f3d9bc3655b0ef8e778e63da3/uwsgi-2.0.2.tar.gz";
-    };
-    "2.0.3" =  {
-      "sha256" =  "ef55e0f10f0553a5ab296d7c323372cdff1cab5d6e7b99aedc424e4733259109";
-      "url" =  "https://files.pythonhosted.org/packages/b2/d2/af25dafda5a63726e513bc51696acb257baf3c90ce9e22c194de40777a29/uwsgi-2.0.3.tar.gz";
-    };
-    "2.0.4" =  {
-      "sha256" =  "22ed4607b90878c0bd3eb41e6117512c44f5d6891bd3534378627ffa6f6865f0";
-      "url" =  "https://files.pythonhosted.org/packages/10/92/870cdbc17c2734911e8a93e7a42a4142dc4955ea904503471852a20a949a/uwsgi-2.0.4.tar.gz";
-    };
-    "2.0.5" =  {
-      "sha256" =  "1a085e1036f04ccec7a39cb2073ae55adac431b129763ed58142b326c7ab540d";
-      "url" =  "https://files.pythonhosted.org/packages/4d/5e/bb3f1154383eb29ea1d8eed0d9e6255ac5cc492c37a1652dd9217a3a70f4/uwsgi-2.0.5.tar.gz";
-    };
-    "2.0.5.1" =  {
-      "sha256" =  "4d486a6ddc9389245790f210673f524e1eb0631fc867a3c514bb2c22b090dbb1";
-      "url" =  "https://files.pythonhosted.org/packages/cb/aa/7ec04d8424f3d7c7e3232dbea076f4f0fac455a073221272ce944645d654/uwsgi-2.0.5.1.tar.gz";
-    };
-    "2.0.6" =  {
-      "sha256" =  "a5cd4cf8c7dc694fd433d8492019f30d19e7c3bf233b5f28823795026864166e";
-      "url" =  "https://files.pythonhosted.org/packages/4c/80/07e26826fff911546470efedcdfe0aa8f3df1ddeec0011eb7cabd083959a/uwsgi-2.0.6.tar.gz";
-    };
-    "2.0.7" =  {
-      "sha256" =  "2938464d0277909854f55951cf7d114e0616efbd8dd0295da7da99e944cbc72a";
-      "url" =  "https://files.pythonhosted.org/packages/2b/f6/1143c45ce235e6b2e74d0836ac1e33660630be001fd739f0683939424426/uwsgi-2.0.7.tar.gz";
-    };
-    "2.0.8" =  {
-      "sha256" =  "ada2268480ef6a91e1aa18102344c6d5a409fe1672da9e835a0f213e2dd5bcbb";
-      "url" =  "https://files.pythonhosted.org/packages/4c/3f/7276c97817bd710aada1e3e69f45d6eed11fc625474a34f57799f762d77f/uwsgi-2.0.8.tar.gz";
-    };
-    "2.0.9" =  {
-      "sha256" =  "fe0489bca0a8b95653908be2297e35699fb9e992f728e382224587ee6b918295";
-      "url" =  "https://files.pythonhosted.org/packages/21/c1/f1ea1477667659044e87bc6785bdf1bad9b07b31b18c0004865f9b03239b/uwsgi-2.0.9.tar.gz";
     };
   };
   "unbabel-py" =  {
@@ -19465,6 +18771,12 @@
       "url" =  "https://files.pythonhosted.org/packages/79/81/67363bb1dbbc8ad9086352bc2cd8d46de477a9db7a47fe5b46ce2e07c085/vsi-0.1.1.tar.gz";
     };
   };
+  "wappium-python-client" =  {
+    "1.0" =  {
+      "sha256" =  "103a10f35454fd59e82bceadef5cdf312bf26debb4d9114270bf66067863e200";
+      "url" =  "https://files.pythonhosted.org/packages/60/67/fbda59b51c2cc162d4f75597b85bdc4fc48ad4ff4520bc572423646f2d2e/Wappium-Python-Client-1.0.zip";
+    };
+  };
   "warbrokersapi" =  {
     "0.0.2" =  {
       "sha256" =  "93af2a3da5c469048e38771ce9da70af70aaf389c79abebefb411b0c3ee5e5f1";
@@ -19511,10 +18823,26 @@
       "url" =  "https://files.pythonhosted.org/packages/2e/a8/a1bf800c0829b5c080b987dc7efa8252ac70bd7197ad485d520cb3be8f12/wbpy-2.0.1.tar.gz";
     };
   };
-  "web.py-INGI" =  {
-    "0.38dev1" =  {
-      "sha256" =  "6cdc2787db0f641f43934f4e0a4d577dd86f02824e11fe5ad29613c984ee9f01";
-      "url" =  "https://files.pythonhosted.org/packages/be/fb/96cb3f07a93442db1db823b9f69b0b4cf4c29589ee121e5252595e73e295/web.py-INGI-0.38dev1.tar.gz";
+  "weatheralerts" =  {
+    "0.4.7" =  {
+      "sha256" =  "c4cf3ec658d22df070509d85cdfcb1e1cf5f7569545a11b6670a632fb388807a";
+      "url" =  "https://files.pythonhosted.org/packages/58/6a/4abba4c1b1ba396355562e19a50ab6b39d7200a8f6a25ed7713072279a56/WeatherAlerts-0.4.7.tar.gz";
+    };
+    "0.4.8" =  {
+      "sha256" =  "98f56fb447f7c01ce411cf6f85b5fa052de5735c54b982cc1061969e8fc30e40";
+      "url" =  "https://files.pythonhosted.org/packages/2b/df/b04be4ac41b54e9d14b3c3faec345c888a8e7515871e33d5a13eb0f8bb5b/WeatherAlerts-0.4.8.tar.gz";
+    };
+    "0.4.9" =  {
+      "sha256" =  "ce9097528ab1bd29db9f2db6ca2790a6c8ce4ab3e822099f8bf5e79d0ea4afec";
+      "url" =  "https://files.pythonhosted.org/packages/c3/19/4d01b2ee7ec68efa30052cb113ffedfcebb50aeb36565786fa00cec326ed/WeatherAlerts-0.4.9.tar.gz";
+    };
+    "0.5.0" =  {
+      "sha256" =  "0611a1e5c0edc48ea1c1797c275e923b48056b32f2bb641fdf9a6a493ff225a6";
+      "url" =  "https://files.pythonhosted.org/packages/ed/c5/af30b8166514d23bddb0179a37d2057dbc3787fecc0d20adc2e26bea6087/WeatherAlerts-0.5.0.tar.gz";
+    };
+    "0.5.0rc6" =  {
+      "sha256" =  "64c4618252b33b8475f43e754096e5142bb0c646f0dd29fe035aa3649c41143a";
+      "url" =  "https://files.pythonhosted.org/packages/bd/25/482419a04aad8e0230f287e42d0495ee1b82c846e6b6308fa614e840c825/WeatherAlerts-0.5.0rc6.tar.gz";
     };
   };
   "webdriver-chauffeur" =  {
@@ -19613,6 +18941,16 @@
     "0.2.6" =  {
       "sha256" =  "e05a6a46821cec56d8388941a96f3871cf1f0897816f76a06d9b88bd56e331b7";
       "url" =  "https://files.pythonhosted.org/packages/86/91/2757ae466f34318fd29cd7cd26edc2e1ad7e95a78790d676ebf590f66e4c/websocks-0.2.6.tar.gz";
+    };
+  };
+  "whatsparser" =  {
+    "0.5.0" =  {
+      "sha256" =  "769bfa0b700473a1fcc4dacb1d2c6a6f7b763973b2e8bf63e01257939584e9f2";
+      "url" =  "https://files.pythonhosted.org/packages/2e/e2/cc7a037d0834c9296ee89531b4d69cc4d7708a4308ac67ab0740983676be/WhatsParser-0.5.0.tar.gz";
+    };
+    "0.6.0" =  {
+      "sha256" =  "b4436524423b27bb0ba89890435246f264c405bf611d4847f2978e81a38ae65e";
+      "url" =  "https://files.pythonhosted.org/packages/b5/84/6cca53ffd5038574aabc5e95f9de30373aa20c2323efe3791fc5e428248d/WhatsParser-0.6.0.tar.gz";
     };
   };
   "wiki-base" =  {
@@ -19725,6 +19063,28 @@
     "1.0.0" =  {
       "sha256" =  "f6b80ea1b8e5dab71b49db53fd508710a2d0067abfc961e506624529b6307b6d";
       "url" =  "https://files.pythonhosted.org/packages/8d/b5/750c585cd5b662ba0db960c6cdcd226a74361679005c4a2b1cd7d330934a/xiaofeng_nester-1.0.0.tar.gz";
+    };
+  };
+  "xsdreg" =  {
+    "1.0" =  {
+      "sha256" =  "83bf6ac2f21e371f76aa6b20b0fdcfab279d07a8dce84e7257de6534528924e9";
+      "url" =  "https://files.pythonhosted.org/packages/46/f7/6a7b4a390a62ca4c6a48d6e54d0b0b372f57f30ab233c9de1beaaea393e2/XSDreg-1.0.tar.gz";
+    };
+    "1.0.1" =  {
+      "sha256" =  "70d2f4dea7cba6941c1f1f45052d3bf1df6fc12946243483955fe6e4a79373e9";
+      "url" =  "https://files.pythonhosted.org/packages/1a/26/404d8f8e303be0c7203380e0561dc2db1bc89764ea270c10277bf2e9540b/XSDreg-1.0.1.tar.gz";
+    };
+  };
+  "xstatic-angular-schema-form" =  {
+    "0.8.13.0" =  {
+      "sha256" =  "7c08634901751267fe26d266fc027cf6ed2e5f422696985cec750594b3f4e300";
+      "url" =  "https://files.pythonhosted.org/packages/57/71/ceea2c0a72e2ee2d316d6ab1c06b21faa9f5cbc4b36a4127d7847b7079c5/XStatic-Angular-Schema-Form-0.8.13.0.tar.gz";
+    };
+  };
+  "xuousubmarine" =  {
+    "0.0.1" =  {
+      "sha256" =  "9fe4ddb4b003393e22d86cf87052e9077847172174a59595287020e5578d020e";
+      "url" =  "https://files.pythonhosted.org/packages/ca/23/cfb474caf55dd8e8449cc6e4a9633dffe5af75581cc4af87e94c0b09748c/xuouSubmarine-0.0.1.tar.gz";
     };
   };
   "yaf" =  {
@@ -20177,6 +19537,16 @@
     "0.1" =  {
       "sha256" =  "71e9eb9613ff7b2f12fd015c27738545a77ba49b5bc301d46727992b66da9c1f";
       "url" =  "https://files.pythonhosted.org/packages/dd/98/a3962376e0fab6527a5927489839ae699a784563042599c962ee15e225a2/zhttp-0.1.tar.gz";
+    };
+  };
+  "zpider" =  {
+    "0.0.1" =  {
+      "sha256" =  "17b88946ec28c523adf25423108a152ff6cb28d4c745ed8e3bc835cebb632de1";
+      "url" =  "https://files.pythonhosted.org/packages/7d/af/8bdf076f794c6a2b1ae2bc8db03030be2dc1a609d611b25ed22e830254ac/Zpider-0.0.1.tar.gz";
+    };
+    "0.0.2" =  {
+      "sha256" =  "170254eeae211a0d84f0b4f6cfb6b2c947850ad5973c5a4293a9000727d0a839";
+      "url" =  "https://files.pythonhosted.org/packages/9b/61/f68ec04392e841600608f3109a2a2ac5e8165145c9014c831485f3143977/Zpider-0.0.2.tar.gz";
     };
   };
   "zpspython" =  {
