@@ -352,6 +352,10 @@
       "sha256": "2a537f68c597b9f719414b8bbf56ce50ea2752fe0a4f8fdb6d98a36e4fb0bdb4",
       "url": "10/e4/4920ef4ea22dc190e8a40b4c63c7b39d3bbb0730e52a683673bfd2213642/gbdxtools-0.16.7.tar.gz"
     },
+    "0.17.0": {
+      "sha256": "cc7ea167b1de29ee310c505143589de0697296c680ae8eda49a2b79afd9ad0f1",
+      "url": "74/c4/a3c4eb698a13f0603e20f1f45f8c412ee2057a516d1033a370fcd97cde00/gbdxtools-0.17.0.tar.gz"
+    },
     "0.17.0b3": {
       "sha256": "9bb938c701f8583e160cbb677d8567fb3ff26bf15118da973f94ce96afb24312",
       "url": "8b/e2/0351dc0b527ced8cf3a471d4ddfd19a8e6c71af5b1d63f9dbe06626f8233/gbdxtools-0.17.0b3.tar.gz"
@@ -577,6 +581,10 @@
     "1.0.4": {
       "sha256": "1bc2131cdc9fc8f2583da48f33d2320937828642e2bd6f03ef3bd00eefad3542",
       "url": "32/fb/63cc26a874ac9deb7dfc245fac8e3291bb9ef22f27c4f87d4aae199bb31f/AX3%20OTP%20Auth-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "bebc23a8aabd9a911782c4113e06ae90045507845b2c4f69e1ceb1638bb665e6",
+      "url": "47/8c/b132152aa0fa81dea43280ce916b2c938751232e39910c976090b9305a8f/AX3%20OTP%20Auth-1.0.5.tar.gz"
     }
   },
   "yaplon": {
@@ -713,6 +721,10 @@
     "1.0.1": {
       "sha256": "84497ac2f2269f00fb511a0b6a37a5cb411ec9b54383c5239398d801285774ab",
       "url": "fe/85/755e7007984a272c4e4569f64a5021692b2dbfce1afa32da42734e9420eb/authentication-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "6c9e140de224f365f7152a993b0a0977605ff8765c1d74ac855aa132ef57d85a",
+      "url": "48/cc/dcd254c0e11e371d884aa5ff83a78a4c16bf12beee9c14c0b6cf7fe4f095/authentication-1.1.0.tar.gz"
     }
   },
   "pospell": {
@@ -829,6 +841,26 @@
     "0.0.0": {
       "sha256": "f28d251fe111875572c629a070bd24559039dc32814c07034eaeee1ea4b5898a",
       "url": "29/d5/6027c739926b75662457bc30430ef9372f7c4bf283d8d85b85bd16e40fcd/easy-ansi-0.0.0.tar.gz"
+    },
+    "0.1": {
+      "sha256": "6ab19c37904345b19436ff10c4ec068c0e763007153e204d1dbca7b69117ecd5",
+      "url": "55/41/960983ac43b5eeacc5b93a5732728f1fe01163b8c4769b5dfc6075993a7b/easy-ansi-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "d0f395fcf76815c76294879870068c6e3050e358a0e17cb8578d380278301d0e",
+      "url": "00/42/7cc564919643c6efb5db31ec1d5bd9477ddb3cf38ef11de23e4f257fda07/easy-ansi-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "df97097c236b59df2884251401d1037d69142322c832a0cd0587cc858e98f26d",
+      "url": "66/16/a7c4ccbc094b205184f578906ebf2f598363df27d5dac5051cd9c452288e/easy-ansi-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "e1c8bc55b0ad3d74d53f28b59ccf51baaeab76885ffab342fe6758be9b49e5e8",
+      "url": "53/73/4be4ecc8fa7817850cb1afe46483a6b997e933a0a7717f812c4ff8d352be/easy-ansi-0.2.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "d7e1b7cc34ec3f0032405925c8ea0713e6f18099ca6abfe3436c99951169361a",
+      "url": "a1/47/9c4620896ff45e41c391a206d4ce238ee9676eadb16b7a8ddcbb4e86f1b7/easy-ansi-0.3.tar.gz"
     }
   },
   "hiddenalphabet": {
@@ -1024,6 +1056,10 @@
       "sha256": "26da62a4cea354d10af00d3ccbca86319f9802f302a9130922ce9b814e9341cf",
       "url": "0b/f4/b643c61b0909f58c7c3e2c0ecbca49f24fd6493d8d2e2634057d1980dce4/sequana_fastqc-0.8.2.tar.gz"
     },
+    "0.9.10": {
+      "sha256": "06238ef5bfc250dc074cd56aebfedc8a814f3e3ade46020fd045162dd5803459",
+      "url": "47/fc/12f678aa83a68f096d97d118d7bf09feea69a14339aa004b44153870a331/sequana_fastqc-0.9.10.tar.gz"
+    },
     "0.9.2": {
       "sha256": "c876b86e8273889789160d21b12b86746d4466b969e1b790ef31210edd35c0be",
       "url": "c0/1b/bca1438c32eff8756277ec8d235c8572abe5976e57becfec63bbacb36760/sequana_fastqc-0.9.2.tar.gz"
@@ -1043,6 +1079,18 @@
     "0.9.6": {
       "sha256": "f4fdd5101feee14a6e4bd0c857ff86b605e2b402991ffa0097daa2012550888d",
       "url": "75/ed/06c40c076ae254567cfce7ba0eeb9abce3b1920e27faf83cd03952713197/sequana_fastqc-0.9.6.tar.gz"
+    },
+    "0.9.7": {
+      "sha256": "4e201647d6578618ba13bd0c67b924898dde15594e466e4bd81c6b499d3d9539",
+      "url": "6b/41/fe096b3e43f15ef62b9ac87c7d97d9cfa0111c80cc69656fbed646758055/sequana_fastqc-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "21aff3d2c90630a9568ab0a01aeb337f89cf377f1d874587528f57c98ac858af",
+      "url": "ab/f1/0a1a1ca1e3c48748ddbbf301051fbb0e577531f16dc7464188190dcb7cd0/sequana_fastqc-0.9.8.tar.gz"
+    },
+    "0.9.9": {
+      "sha256": "3e9748347fe6ce93e54ac0fd5232fc5c3ec266d2670127e1853d93aef7b483a1",
+      "url": "bc/e3/e99907f56f143caf17e65fe6911aa2a55cc33a279469a76f4ba5e74e6326/sequana_fastqc-0.9.9.tar.gz"
     }
   },
   "brail": {
@@ -1119,6 +1167,42 @@
     "1.4.112": {
       "sha256": "33606115fcb416144e5dcf31fa88c09dcf616a17954968fd40436d542f0da709",
       "url": "8c/18/c6f4d77c70dc01baa03a86de56d7a0502c23c6b2a2ec64a5d8e66b5e7064/reacnetgenerator-1.4.112.tar.gz"
+    },
+    "1.4.113": {
+      "sha256": "f407e6ea8b04357a52986dec27d366f1e51d08549b457878b221b72a0c5c764e",
+      "url": "1e/9b/dc99d128e1704cc9f00a33f84c25b38e3acd99b8d47de0cab58feca15340/reacnetgenerator-1.4.113.tar.gz"
+    },
+    "1.4.114": {
+      "sha256": "f6a2f2fdcff73d92491fd7af2a7e256886178ea08c583846aae34321d2ce008c",
+      "url": "98/03/282b45c5ce42a50d0c198ef506963865a438ec6e9fe4cc34fc199f16d025/reacnetgenerator-1.4.114.tar.gz"
+    },
+    "1.4.115": {
+      "sha256": "e12d9aee74a2dd1e4acf4f4ff48baf8fa31bd2d24332c8ad4bb3c537700e3b93",
+      "url": "66/5b/dd8aa79ef143cffacda174bb289d7b8ad16090b4b8314ab415a92706addb/reacnetgenerator-1.4.115.tar.gz"
+    },
+    "1.4.116": {
+      "sha256": "e48927f7801306aa294dc02b7c8768cff2d2de0056a79c049cec793f6e2c863d",
+      "url": "cf/7b/8b800ef126835e0e046ffa97114c314407a3f2c3cda325f2d2bfeb1af528/reacnetgenerator-1.4.116.tar.gz"
+    },
+    "1.4.117": {
+      "sha256": "f9a4499687881da46d950466b2707a8aa6599c9aacdd1f32a5955424a61f1868",
+      "url": "6f/30/313fb567bbe0c4a4fad48d22cff2a43b2e39d6b6e0bb9f5c7be158dba435/reacnetgenerator-1.4.117.tar.gz"
+    },
+    "1.4.118": {
+      "sha256": "1735898a531a5b4000dd9f836dd1a2e4a7eeee3c970cdd1c0803f114be66558e",
+      "url": "5a/d1/02da604f551a3c4b0dd309eae114fe7a375bc2cb0cbca3d060c62754b394/reacnetgenerator-1.4.118.tar.gz"
+    },
+    "1.4.119": {
+      "sha256": "976d1bb6171624ba57783edbe90a81524238d0ba627bfdb70a0d6f397480841d",
+      "url": "fa/98/52fa9829ea769d3b977442145e8bee39a832328fa4ffde31f08cfd4cde1b/reacnetgenerator-1.4.119.tar.gz"
+    },
+    "1.4.120": {
+      "sha256": "0bfc97683234f5baf11abbc71f7e1d3024f1d3a19521f5782212485a309fc19e",
+      "url": "5c/58/3764a6ffc365d93a5c5876f20fc011ecf6d0da366be7953280dab86c1b8b/reacnetgenerator-1.4.120.tar.gz"
+    },
+    "1.4.121": {
+      "sha256": "4f779b5d640ed476c76f2263e6c6b9945c4bcdfe2622bd25ed1dab3fd91632fb",
+      "url": "e6/10/1b3652316f8ec4d33e47672fbd39a2df19ec26cf1844cf05d5974ae0952c/reacnetgenerator-1.4.121.tar.gz"
     }
   },
   "suxinli-foo": {
@@ -1157,6 +1241,22 @@
     "0.0.2": {
       "sha256": "9213ae8ca7cd4b658b4314c06b012dc4c8c038ece065abad4fb89fc950ab72e1",
       "url": "90/5c/89b9398aed730a2113f0b3997350bb6dae859628c1fdc7393a5e2d30fbc4/aeromiko-0.0.2.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "7a583ba63bdeabc0aabe67c5f3ed7e6e69bda93f337482436d87df508c688251",
+      "url": "43/6f/558dd868e74f0f0048612b46eac8f35b8441a4587ccb3b98439d545d07de/aeromiko-1.0.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "c4c6b35cd0eb8963e77872dcacce1d1c8b3c4981c9b60da85186e4afb7518b1a",
+      "url": "72/3f/5c4706664d6ffa5cfb062eaad01011170586dc4103a4a219c9b67a7b4c09/aeromiko-1.1.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "0b88a0963424d068c98874936b328d5c998e623a70f57c1e23b4c4197ee6450c",
+      "url": "22/45/b1763416b88ead2ec5de2da413482d9afceca19a418193c9cc0d07157691/aeromiko-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "7ad28f955d9173819a76728710e86d60bec8093838f0e23a27187241f471a853",
+      "url": "bd/60/5ce7e4d559099377f1884b5cfb14f4f1d19205c008a21342f3c42a4617a9/aeromiko-1.1.2.tar.gz"
     }
   },
   "pyflat": {
@@ -1437,6 +1537,10 @@
     "3.2.0": {
       "sha256": "11cae061b157e41ab4bdbb82c56455dccc0bace009648af3bb4ca4360ae75dda",
       "url": "8c/5b/e0bffbf54967d6ca3a996a23798de9a2eac68b604b5ed1c841b47188851e/jenkins-job-builder-3.2.0.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "1d553aebe81b5e7c884aec148f49ecf4c3b4844e87ccec9e51a8da6d77e0d67e",
+      "url": "f8/a4/8c1e0d5872ff2778a9f322653f3c88dd1acaf3f8629d5a6c012cf85e2d73/jenkins-job-builder-3.3.0.tar.gz"
     }
   },
   "carson": {
@@ -1481,6 +1585,10 @@
     "0.10": {
       "sha256": "95fc362624513c5f0ec0ee0f355cf26807621da6fb94af94b0cf0ed313e4e957",
       "url": "ea/ef/b46401e181768b3738660f5dc1f7ea0b334ed17fff685a61503d2989e77e/javascripthon-0.10.tar.gz"
+    },
+    "0.11": {
+      "sha256": "16077e073721507dbea175465cf52b30b7bb16a178a346b5834ae41d95463ad9",
+      "url": "b2/6d/e8339cae8487b8a226d9fcc25804697bcbcdf2c0b46f879f3de36d124887/javascripthon-0.11.tar.gz"
     },
     "0.2": {
       "sha256": "a4be367664b97848a741f71c3898e9393487e7dc55092ac84b723be5598ecf5d",
@@ -1771,6 +1879,10 @@
     "3.1.6": {
       "sha256": "98c60a7c534bbcf38d2c9f45ae9e0fced79693c525dfcfe0d77a251bdd18a703",
       "url": "5e/b6/0a1c2b417408c3bbe9e63a692f1e65972b5f72aba47f97484a5687a77a9a/hiss-repl-3.1.6.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "179e491c87c9a236c56b3aa9833800d5e7fd25afff6cfe9942f158219589fcf9",
+      "url": "54/47/85b3bc76d6390d7c102129d8c22965f15573d9ff8d51c282d1291657eaf8/hiss-repl-3.2.0.tar.gz"
     }
   },
   "fstitch-annotate": {
@@ -1811,6 +1923,10 @@
     "0.3": {
       "sha256": "54746fd0129241f8b27bc6c14f4d7c27472d8f4d5d205464eb6c15933d7fb8af",
       "url": "bf/8d/8033ac8eee60208d058bb432dbb70d71c3e4a9d7791cce6111ac394dc8e2/pybl3p-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "1244687f4b3e225b152b530996f946c1fe7d0136052324fcfb48a1e9f4d63a87",
+      "url": "d9/c6/4bf8d5a27c601830277f5d8db68ffe95d3df150e392a30c4d4e0c2f3056e/pybl3p-0.4.tar.gz"
     }
   },
   "maestro-tools": {
@@ -2151,6 +2267,10 @@
     "9.1.2.0": {
       "sha256": "00502e9be6d4c334ae339d78ee1846e692b6838333f39485d231449e8d554bed",
       "url": "aa/61/aa89c4457b1cd86d9fa54848753987fe7e90aac9c788b4ae55adb7260edc/PyU4V-9.1.2.0.tar.gz"
+    },
+    "9.1.3.0": {
+      "sha256": "fd1e2dce3168d2bd4f822bcc30e1eb593846b907d4022549af9fa6da1d0a37ab",
+      "url": "db/91/48881750abf969275a32e6c1f43d76af6b7474837b71b706e03717309745/PyU4V-9.1.3.0.tar.gz"
     }
   },
   "barseq": {
@@ -2431,6 +2551,14 @@
     "1.0.1": {
       "sha256": "4c72c0b1a491c64d394bdb26e8d11fed29b7caff135bcd3f842e4eb6ceec645b",
       "url": "b9/c6/900e53873170b9e271cc33cd3ab1b2db9c135d84e040209f534a89c81d46/cloudsync_gdrive-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "32e464085f27eea380e3ec17bb64a42cd55ee9b656d55eddea44bba5c8d6d7c6",
+      "url": "a5/67/dce9845c10ea3ad6ae67f49a0e3fcfd895dbc5033d62dcc8daa5f7782ca9/cloudsync_gdrive-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "25a76a2bae1f519a008b37862d488c9107a5ed1eda95698f762f0001f3afe656",
+      "url": "51/07/0019e2765b83069e7ae60dde758415a958635dc5eab4b2520ba9d159c51f/cloudsync_gdrive-1.0.3.tar.gz"
     }
   },
   "pcdsdaq": {
@@ -2738,6 +2866,42 @@
       "sha256": "d1209ac31b712bf80ee370827431d8464dc0330d702806842d1b9129f8e8a571",
       "url": "ee/19/7495b89036bb16bdbf33eabcf578fdb6433455e45436c01e3f34f5c77340/pyTibber-0.12.0.tar.gz"
     },
+    "0.12.2": {
+      "sha256": "b4ad4a64413e2f53f7d9b2d61d7de5bfe6feda0cfd82ec8ba65f9e8a8510dbfe",
+      "url": "00/49/a893c2df8a90a63f3245a85809cccdb143a41d6cda182b4b571fd5579c49/pyTibber-0.12.2.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "ad7877456fe1b0b7f2e9a9c79c0915dacdc413e4fefc739b00c1300d42d4106c",
+      "url": "b5/8f/4a0ed8c163d944bf387f39f4ea0112812bf576d8e6d1d1bce899adeed380/pyTibber-0.13.0.tar.gz"
+    },
+    "0.13.1": {
+      "sha256": "851491a76a243b32f2ffef0769dee716e3ab760e85b50fba6b767a02978beb41",
+      "url": "50/ca/ac4798a3f6b96a961067b3c75a90abde4a63b75a7f6f71ae055b2fe681f7/pyTibber-0.13.1.tar.gz"
+    },
+    "0.13.2": {
+      "sha256": "8588598dbb95ac0a834a29db572cbb3d64c97bea9408b14a1237c42aa77b1113",
+      "url": "85/2e/caf175dc8f4b0d6b57255f95a1e02f3644c957c65281a38edfc2f11578c7/pyTibber-0.13.2.tar.gz"
+    },
+    "0.13.3": {
+      "sha256": "0effce3a84388dc886241511191ae0be04f9ae3cf54e638d94b9f8669adbb6fe",
+      "url": "79/af/6c0ff7c6f05ca7d559ef8168f632f6c62a123ff6c4d2397ea19b881d5c66/pyTibber-0.13.3.tar.gz"
+    },
+    "0.13.4": {
+      "sha256": "50a457ab42e77affc5fc01d4237d4eac9ed1d1ec18083d5927eb672d28b2a517",
+      "url": "18/7e/4b045c06cb56001c6fca0436b5aaa5eaae39a7b65bad6bf99ce3a5bfba7b/pyTibber-0.13.4.tar.gz"
+    },
+    "0.13.5": {
+      "sha256": "b74d41433091565a06da6111946ac9ea6a313fc41b4ae1ff53a5e0606cc0dd18",
+      "url": "1c/ea/ffd96a1b498b6c4d5a773bef59723c496946ee3fbe8895908f5d2ef1dc37/pyTibber-0.13.5.tar.gz"
+    },
+    "0.13.6": {
+      "sha256": "205792debe011851da00d97b0d06aa3062f7bd51297c116f875a6564446b7ead",
+      "url": "83/f8/10e013eea6ea7f95a6ef75b93529067e15942ccd27c6dcc7ddb6e2ba78c4/pyTibber-0.13.6.tar.gz"
+    },
+    "0.13.7": {
+      "sha256": "0bf5ccec5546f36676e7abb44b207b84dc719a8ce35dac926e7ff791a37e9e89",
+      "url": "42/b6/9a5856d71ebf6a9f2b47c3c3a04934b6ad7894cfdecc09e2244382dea5bd/pyTibber-0.13.7.tar.gz"
+    },
     "0.2.0": {
       "sha256": "3981296f4e146dea1b45db059de5b482b15a59eb412413fd0c025b7e549d1389",
       "url": "7e/95/9213639115616a7afe301fcedf4edbae4800435d1a0eb3a69bb83f6d26ec/pyTibber-0.2.0.tar.gz"
@@ -3020,6 +3184,46 @@
       "sha256": "3d4a530a1fd1eb33154bb0fbf0946f7ecd51a4efc753cea413d31780556cc63c",
       "url": "38/63/90f93da6d0266916e989dd370b39da34ffb9ad5edac3dc2bc088c7871da0/svg_ultralight-0.3.1.tar.gz"
     },
+    "0.3.10": {
+      "sha256": "ec8bfdc9fe6508f90eae5d229127ac613e77d4e2aa7f12e9a7527f198af17155",
+      "url": "d5/c6/e701b01b0d87350100bd3d3a2813db2dd8cf312fbd053c53159a9eb4f734/svg_ultralight-0.3.10.tar.gz"
+    },
+    "0.3.11": {
+      "sha256": "d31c2f1fde01904d55a13513c4b7cdfa47e28c520f5e5ffa2860058fe7b6804d",
+      "url": "c1/85/afbc19cf8ba814cf0d89011d91ff5ccc9e5af5160ed823ce84d8139c5efe/svg_ultralight-0.3.11.tar.gz"
+    },
+    "0.3.12": {
+      "sha256": "1a107287a0d6afbceb6288fbf2790b59030ec3b27b74ea89237b5b58e6c3fc55",
+      "url": "73/0f/a90454c0ed227af4029ee76fee78bb2124ea77e7f221ea6e3d50ac7b1c9d/svg_ultralight-0.3.12.tar.gz"
+    },
+    "0.3.13": {
+      "sha256": "23e2b53e54bb8ad393164f8a895fe41542c11f0e8338740f2598d84946809f47",
+      "url": "1d/40/30d254587efff9e1253005c2dcb7d945c2bf23be8460772f46ca2868a36c/svg_ultralight-0.3.13.tar.gz"
+    },
+    "0.3.14": {
+      "sha256": "32177a94b74e9aa01aa24201f42deeb864b7510b0ca4c0a05df64820362e0500",
+      "url": "69/8c/17bd7d1ca373edcf880dae479a75b13b8017ec4d9c6811189419fd9b4242/svg_ultralight-0.3.14.tar.gz"
+    },
+    "0.3.15": {
+      "sha256": "951a32a93b4be50c7e3dcf53bacaeb322d336fadaa2e2c36105936e2ae0a0b67",
+      "url": "f8/8b/472bed9d9819cdc863252a7100698db5e67d4091c13c3e37f67a0dee2e38/svg_ultralight-0.3.15.tar.gz"
+    },
+    "0.3.16": {
+      "sha256": "a88d8610cae598324969e16de30cf0b5bbb19b6db754ca0c5afe4fbf4de6d1a0",
+      "url": "cc/53/1403101c03db8008722458c271d8c1287b98fe166d582ff10df7cd2f0f2c/svg_ultralight-0.3.16.tar.gz"
+    },
+    "0.3.17": {
+      "sha256": "2bac4b897cc12bb443120a1eb9059135b0504d149a4a7562a433166d55ad38c5",
+      "url": "0d/e8/a233e4dbb91fed7a9f2fc9a39a83f2abd38ed4ce02acb5f5e973e0429df0/svg_ultralight-0.3.17.tar.gz"
+    },
+    "0.3.18": {
+      "sha256": "046488dcc82c90921ec44cee7d8c2c8fda7276bed758ec70d9e344bf1fc406b5",
+      "url": "f8/ff/febf1c41a2e2f9107e001e6422d458ee149880489d7b91f5412fada53863/svg_ultralight-0.3.18.tar.gz"
+    },
+    "0.3.19": {
+      "sha256": "04c5bef0efdc23f692f8bd1ff354c09bc7302e63dca9b4c71d88544ce6579fd7",
+      "url": "d6/f2/ccb4fab94c2ef41692d0800c178a5841ed25d97b020f5218496c0b22b530/svg_ultralight-0.3.19.tar.gz"
+    },
     "0.3.2": {
       "sha256": "0babaad1dc48051033eda978c66363e04aa6f30c881f4f472c90577a3ab5e8c6",
       "url": "c4/7a/c2fe24fc0965d02454761c22de1882301bd4d511217991fe447d9fd66609/svg_ultralight-0.3.2.tar.gz"
@@ -3027,6 +3231,30 @@
     "0.3.3": {
       "sha256": "121a2333daf5aaf78817b833857dbb33d74a4b3e8e0ab1f036bc08a4400c92b5",
       "url": "c0/b3/f42c7642b2d5e4449be0d64562776021f06c382e78bfaa5d8317390fea58/svg_ultralight-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "eb8151dd517c37b9b8efb7f472d36d0cd6e4cd9df248d12cfabafc593d03e15c",
+      "url": "46/55/e93b959e2674dba56b5ee8964a4b5ab519f452a50b658a792621c7bd0adf/svg_ultralight-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "1d874eb44a0059986eb807afafc1abfcb00a2bb0e8861fb9801ec03f2b9093b2",
+      "url": "d0/b3/a7778190f61a94186e29776038ff0a0b1e9e6c8f5830165c303a9ee76744/svg_ultralight-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "3e29e6f0c3c16e02c731090997f2d9c888ea28685d7b71da952b92e8d299b8a3",
+      "url": "12/d2/044fa66a3680656ced1373af6ac2154d8536ebcc382ecc4a4c5e837d0bf6/svg_ultralight-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "84947ea56fb5d0befa406d5fb61ad0abcb5ddf5f6daca8ad4a05b596624194c3",
+      "url": "56/75/dccc76e1fd8db3e304fc9b5fd8d502f04d3d3557bc25a3302f73a190b7ec/svg_ultralight-0.3.7.tar.gz"
+    },
+    "0.3.8": {
+      "sha256": "677a1594e7d347bf4218c9ce03b2579bfe2f1974fced2b1737643fc7b51a79e5",
+      "url": "a1/f6/16d6d195a44c07db9284936850e40384502352da361f5c6aa2a61da7ffe5/svg_ultralight-0.3.8.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "41b930412bde0574b98f2cee452e8450abc13ca09c9d11430a0ab0ebb8e7cf32",
+      "url": "55/23/db998c46ab57a8d644be801360289e0520ab118f51c0f49dd843b45d6915/svg_ultralight-0.3.9.tar.gz"
     }
   },
   "curtislast": {
@@ -3109,6 +3337,14 @@
     "2.1.0": {
       "sha256": "602fa94bf7e1ef48458780f0c5d6cbcd1cbefa518df230f47d9e70a6da05a1e3",
       "url": "55/54/e3cfd1f36e4c87789b7735781be915921439558b1e3133198e008f7fd1bb/ultranest-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "3275155048ed0670d71cf3792519912a0cc956ea57f4f638229a1a6fab40fc4b",
+      "url": "9a/63/3bc78139ccac152fd74c3152bb16f9aec6e14edf30790b6ebf8bdd667fa3/ultranest-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "7509f18f88d9c097b431e5349166d2d49467da26ce701626b3c143ecd60bea5d",
+      "url": "d8/af/a2b8ab79d0efa267cf65ef934f7663818db034fddbe65b691a6aea70c06b/ultranest-2.1.2.tar.gz"
     }
   },
   "mess-client-rakitin": {
@@ -3137,6 +3373,10 @@
     "0.3.1": {
       "sha256": "530c36cabf32a5c42a61f7d156e9b45109426d4d181f28fa32c543ab4fca3e15",
       "url": "84/1d/7998070700f2a9838e6f4b7279775bbe5cdd53cd843ff7b3cafdb9f1c2cf/HelioSat-0.3.1.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "361fc7f229a2daa553a8dc9e0ad4318493f4c417c4cca9f4cb524c979fdb5a15",
+      "url": "f7/3e/2675be9a0bf7acb5622c67ff938287999b47531f90f7163cc089f05ba8c8/HelioSat-0.4.0.tar.gz"
     }
   },
   "usgota": {
@@ -3271,6 +3511,30 @@
     "0.1.0": {
       "sha256": "0c7153544f5fa1ab1a785ed95ef87fb11ef8ff68e4f71974d202c952946f1f16",
       "url": "e7/79/f9301eed6f1ca1650e9d5441eea6d731bff67e7a856d2a9f3399fddde255/bentley_ottmann-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "655f5b29ecfc2745e352f4403449dc3ff31f29991b3f244350824aace53d2781",
+      "url": "18/b6/f5f4975a16aad6835c5258a04132895f491a18a21bc4367ead759fc4d86f/bentley_ottmann-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "5f6a9158dbf38545d8dee832b91a03c8eec26bd62548b57c547b933b0c5a5702",
+      "url": "59/9f/ea0bce0def0cb565e667ff3bacd2fb8f2a7fd378d0a37c5e1324f62ecaff/bentley_ottmann-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "533da4bc82f406abd9ee4d56ea07102c3dedf01580b0d958b116ba3558d53f9d",
+      "url": "89/a1/9e7274f4832c3e7ceca49c06f9a3871155c1cfb1adb3a5b220758f453f30/bentley_ottmann-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "1c6e90bfbda881ae73e15f32a2eda26fdc1bcb2aecfc93c14494bc13946ccdaa",
+      "url": "64/9c/4ed1705e942e82952fd38b7fab9b8c64b8fee6eb7ad42bac90e69c6605fb/bentley_ottmann-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "d1d9e3c0e8fd6bba68456d9f57f75014fbbb395ecf74bcb444200761cd04c4ad",
+      "url": "1e/1e/f65bb48e51d8153fed7d1f94c055cf6513612a2538403d7e9b911a66fb90/bentley_ottmann-0.5.1.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "9973a389e6a7c50399a0a37e69b6b391cf3098338df93a13c3615534e9e6ce06",
+      "url": "22/af/ed73395016497d20c95ea0005c9f2fbd46ef99767556c3f4f4b8c221eb8c/bentley_ottmann-0.6.0.tar.gz"
     }
   },
   "deephub": {
@@ -4058,6 +4322,10 @@
       "sha256": "3b6a92dc758d56cffafc7460a7c36ac0a30973cb328be37edb908138c6fcea34",
       "url": "c1/4f/71852cdfd4d394ea8bf7f4ba5a80793a9cea597c2246f5cebcafde0d2f0b/django-username-email-2.1.5.tar.gz"
     },
+    "2.1.6": {
+      "sha256": "f59d563a9a31b6d2a4db1d26e5a4d92ee45b455997bc08737a1d018aad91eae3",
+      "url": "3a/75/e55e332911692905730e08be052eef77d7d2cc30d2d4ca3da932bfd5c97d/django-username-email-2.1.6.tar.gz"
+    },
     "2.2.0": {
       "sha256": "76eb92871b876921c89ab4ddd43cc32e3be1dc3641504906331f429a48fdf5b5",
       "url": "3a/00/4f224b01e57d5545700f5c8ace959ac7b76e375e9f4e045af20ec6e882e8/django-username-email-2.2.0.tar.gz"
@@ -4425,6 +4693,10 @@
     "2.0.2": {
       "sha256": "f8fa9edd8d2c48fe60ceba5dca91df06dd261ebcf3da01cd8f7d4aa7fc1c38ff",
       "url": "02/61/23aee464fcc8bc93923f6cf99868e14544995e9daf98df7627e177d28fa8/tensorflow_lattice-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "646ce4a913f05f5ad735f45e26b51ab240df99f5d223119ad09bb30cf3c5b7bb",
+      "url": "1d/1e/db0a6ce622258b4d1bce9329d57c7c84e1cd2920fca201f5746bf4096aec/tensorflow_lattice-2.0.3.tar.gz"
     }
   },
   "mypy-boto3-ec2-instance-connect": {
@@ -4672,6 +4944,26 @@
       "sha256": "b38f1f7b22596515eac42ed659561cbde50a012c12b9067de2e613936199c103",
       "url": "7b/da/761f83390091766b650b8d3674b1009063dfff4d3ad936f0ab69b6bd3686/mypy-boto3-ec2-instance-connect-1.11.13.0.tar.gz"
     },
+    "1.11.14.0": {
+      "sha256": "6768821284c068dba708f5d0fae984619e88a70957c57cf7771269a071799c9d",
+      "url": "e3/cc/7093a82f1f943fe8496d24bffdd5c04bee01dbe7586cf99d91d028212192/mypy-boto3-ec2-instance-connect-1.11.14.0.tar.gz"
+    },
+    "1.11.15.0": {
+      "sha256": "0eb9b3ff0b2837230a0cf25066a0bcfe2556d94e0882a6f33c45265511e183d6",
+      "url": "fe/a0/c7ca210492e048f01443e70cab5418fc1c18b069a67c25c4e010dd360379/mypy-boto3-ec2-instance-connect-1.11.15.0.tar.gz"
+    },
+    "1.11.16.0": {
+      "sha256": "7e05b0afe2c957da24a47f54a014ad1b59b70e6335fc77de5fac0113f3bb9c13",
+      "url": "2d/5e/85ecf964564cf298196fa7508380f1614cae8e50e4a4812030cfe5a46e15/mypy-boto3-ec2-instance-connect-1.11.16.0.tar.gz"
+    },
+    "1.11.17.0": {
+      "sha256": "68e99a674cd2b53618635b6346ed88c76a3b1ea74c9c005fb3e79621c3e255e9",
+      "url": "97/d8/fd19fe59a2d97d6bdf1c8d760141f402ef75e1bd76ded20805d759928c7d/mypy-boto3-ec2-instance-connect-1.11.17.0.tar.gz"
+    },
+    "1.11.17.1": {
+      "sha256": "5ca819d7f4285ca3e999fae553f8df53bdd44e0e2d7be0ad2506553e05d7991a",
+      "url": "c9/b6/ac1659bb559ca391d25ff731a860335e2cf2fb0df89188075dc713f401ec/mypy-boto3-ec2-instance-connect-1.11.17.1.tar.gz"
+    },
     "1.11.2.0": {
       "sha256": "7af1677524a5ea0118b19ceedca5ec72d1c9b7963875a7282be37182784df305",
       "url": "aa/ac/740fc9bc721d6a1e293e013bc941c99e95b85746597370e73b37fa977520/mypy-boto3-ec2-instance-connect-1.11.2.0.tar.gz"
@@ -4715,6 +5007,190 @@
     "1.11.9.0": {
       "sha256": "a49d4703510fb8a1686f52173fa31a48117c10bc54bb2983b6618fd111f53724",
       "url": "21/7a/ff1bb854830202a227878e8586045dea764a7a7d50567b96d38de50ff821/mypy-boto3-ec2-instance-connect-1.11.9.0.tar.gz"
+    },
+    "1.12.0.0": {
+      "sha256": "b3072da64e895c2daf7e85001c4d317120279add65814e7fbaef0479376427c2",
+      "url": "99/7e/0ff89f4d4fe650c1cfb82fc31269462a35c0bf3273cc7268c4dbf23f63c9/mypy-boto3-ec2-instance-connect-1.12.0.0.tar.gz"
+    },
+    "1.12.1.0": {
+      "sha256": "b351ac5af0fd70a937d47883949d85aac42b9067e0c855b257bcf7e6df4080b3",
+      "url": "97/b6/51736cc3a8cad8fb1e9c03fafd79fa95c5d78450ccf69b5bce41dfd2b1af/mypy-boto3-ec2-instance-connect-1.12.1.0.tar.gz"
+    },
+    "1.12.10.0": {
+      "sha256": "915b8930ecce02936f8d6c2d7291359958a5f112166a6463a211836ae8005034",
+      "url": "60/48/d59e2510d35b761bb6b89c1d56605ddc732da2d84da546a503f0093aad6c/mypy-boto3-ec2-instance-connect-1.12.10.0.tar.gz"
+    },
+    "1.12.11.0": {
+      "sha256": "5b73c25845479a1e94267a74d73fe9b1e215871d66bb00c11525be106784a43f",
+      "url": "0c/01/563727e49943ed1d893284c389f7cce1608e0ff854f9981787108e1dcc32/mypy-boto3-ec2-instance-connect-1.12.11.0.tar.gz"
+    },
+    "1.12.12.0": {
+      "sha256": "8a4a0e7932a4373d00a2322ffb2457be4855577f91bf0ee7d99a38986cca2a6b",
+      "url": "e2/c0/4388fd63505667c1a08e54f5be9aaa119e33362fcba603cae1356f40d059/mypy-boto3-ec2-instance-connect-1.12.12.0.tar.gz"
+    },
+    "1.12.13.0": {
+      "sha256": "46f77709a81764eb29d88bb3f421ff9f95586f8bd884e02e6a39b394baeca7e1",
+      "url": "24/01/e2f61aae5d7f013354d98e4098b5a10595d0b8b64f8cf807973bda56be44/mypy-boto3-ec2-instance-connect-1.12.13.0.tar.gz"
+    },
+    "1.12.14.0": {
+      "sha256": "96a620c5a18687f29f549ac6fce7f395339e5863112c0e224b6592b516f51fb8",
+      "url": "c8/a3/d2029b14e59f879fdd7dbdbc031817fa9db43fd9b9ee72d96a6b7044c327/mypy-boto3-ec2-instance-connect-1.12.14.0.tar.gz"
+    },
+    "1.12.14.1": {
+      "sha256": "98f43a3aa3ea67efb4ca2f3fbba9cb90850fb47d202ad6739af62ded025a57c1",
+      "url": "4d/1d/765b7de98d2a529ddaddde8a9de5a0288b11100868d264cbf7c2bf94f4e2/mypy-boto3-ec2-instance-connect-1.12.14.1.tar.gz"
+    },
+    "1.12.15.0": {
+      "sha256": "3222e0e99849452d9cf459d6545f2f5cab64a2c0b16aafd07f93dcd56513bcf2",
+      "url": "61/4d/38edbee98a359bb9cd7fb2e304f29d609c157eb1bf49933615ace298003e/mypy-boto3-ec2-instance-connect-1.12.15.0.tar.gz"
+    },
+    "1.12.16.0": {
+      "sha256": "815268d249f47dd5bc54d3f1915ae39d88cc5efa76bcacacfac7d04028875c4e",
+      "url": "5b/7e/f6972ddd9ca790f2276d610241ee9aae45a99037714f33967c33a904ee86/mypy-boto3-ec2-instance-connect-1.12.16.0.tar.gz"
+    },
+    "1.12.17.0": {
+      "sha256": "d6c9aa45a5de137949377eff4a04c2cae7a633d72129ac8a3d8ff867e4a0626d",
+      "url": "5b/75/2d1cbf3315c6c4403e9606e384588cd98f95b4c4d2f1f04e7c92020f24aa/mypy-boto3-ec2-instance-connect-1.12.17.0.tar.gz"
+    },
+    "1.12.17.1": {
+      "sha256": "c47d150909540503054bbb57f5bf8d6839764b795bc1cf9d242e659960277961",
+      "url": "56/1a/9c3acd490bfa788ffd9ff48647740eca6ed2ce4237b0267e71ddf0878f25/mypy-boto3-ec2-instance-connect-1.12.17.1.tar.gz"
+    },
+    "1.12.18.0": {
+      "sha256": "5e90af5bcc9f0f6869fa4cfff295aadd0c8b5686836c87c8396579f8613ecd2e",
+      "url": "2c/cd/e9ef27048c087b3054a350e297d763e4a302105c4e4350ec85cd29be4948/mypy-boto3-ec2-instance-connect-1.12.18.0.tar.gz"
+    },
+    "1.12.19.0": {
+      "sha256": "7023e0807184051e747f68f59abed3931a3b22e93e28398c55065b49813304d7",
+      "url": "d1/ac/700d1f32ecad509fae3137e43232fc878252aed7fa7ebffdff2a7b4cb52a/mypy-boto3-ec2-instance-connect-1.12.19.0.tar.gz"
+    },
+    "1.12.2.0": {
+      "sha256": "59972fc162f3c54cbdcb931c017c85c4b817d35d12d2a10a00489d58a22f7be5",
+      "url": "9a/14/ff74d7e0936b2317051952f176c39332db2078e76a820099b4e4cbb48b14/mypy-boto3-ec2-instance-connect-1.12.2.0.tar.gz"
+    },
+    "1.12.20.0": {
+      "sha256": "3a01a765218898304007bb460f8c6db9cb449743cb8c64cc168f625c55de97b9",
+      "url": "ee/68/7bdabe9a3039373cc9ea2c414ace9cd8223de236e64c08865cafda2e6c2f/mypy-boto3-ec2-instance-connect-1.12.20.0.tar.gz"
+    },
+    "1.12.21.0": {
+      "sha256": "52fd23a40c2d14317674d2b17b79bbb231c6ef849edd879dd627589b9b8faea2",
+      "url": "eb/22/40b99c4089062602dfd34ffea45c147cf653d55d6a5900750a82f878365c/mypy-boto3-ec2-instance-connect-1.12.21.0.tar.gz"
+    },
+    "1.12.22.0": {
+      "sha256": "e7917451762dfd4e6d1ff2b5c02091f1686a65789a95e72bb6f3b917c8ccd1ad",
+      "url": "7a/d9/d1468a7ef3e5037e6a4849bbb000142aa2942a122205d9eb05d9def20c11/mypy-boto3-ec2-instance-connect-1.12.22.0.tar.gz"
+    },
+    "1.12.23.0": {
+      "sha256": "0252092c6ed8faeabc80698723102e6e03cca28ca99bc2cee8ce961f895bc2dd",
+      "url": "ca/b0/8bfffa1e0eccf4c6c5bd7b1b8e323c3c29aa05e260ba3486cd7ab6166270/mypy-boto3-ec2-instance-connect-1.12.23.0.tar.gz"
+    },
+    "1.12.24.0": {
+      "sha256": "b81af95e97e0303e99c0cc67e94fbaf9a24b33054b546f78f6783eb2fa9bcb71",
+      "url": "45/8e/00c1df20f8afbd88d60cccd2641c633ac9c8ae0171b35567cadf53e12cfa/mypy-boto3-ec2-instance-connect-1.12.24.0.tar.gz"
+    },
+    "1.12.25.0": {
+      "sha256": "c09f8dc81941afaf32fe7067903260e0b3d698a16d912ac7f068c5016b88f067",
+      "url": "c5/7b/5e3acbeb658da3e6ce9288e26a7771eaaa77b28b05a0e2d1c24d4d5b25e1/mypy-boto3-ec2-instance-connect-1.12.25.0.tar.gz"
+    },
+    "1.12.26.0": {
+      "sha256": "f5d7c54fce26d390b2da7cdf1cf749320ed5c543eff19beeead71da1e21bbdca",
+      "url": "d7/a6/283a9b06e8b4fc3912ceeb0007befd19842e6f32181037fb407dbc739ebd/mypy-boto3-ec2-instance-connect-1.12.26.0.tar.gz"
+    },
+    "1.12.27.0": {
+      "sha256": "c1bdbef0e664987f3fe72157bfa17de18af5140274602472e6a94ba5bc02c923",
+      "url": "c4/8f/b84552e461ebc3a6889d13a0a677b060072cf1ef7734b2b2f7022eaf99dc/mypy-boto3-ec2-instance-connect-1.12.27.0.tar.gz"
+    },
+    "1.12.28.0": {
+      "sha256": "e155d694611b9aff6a888f6a4f60064bf334814cdd56474147d18ae5c3259b8b",
+      "url": "4e/22/ef73bf28ebfecd653b78eeca4b35cb60c1af6aea0985301687ebe8010650/mypy-boto3-ec2-instance-connect-1.12.28.0.tar.gz"
+    },
+    "1.12.28.1": {
+      "sha256": "fd841828555df575252c9445073bd83857a51c5cb682200023ab7c5763fd4e62",
+      "url": "66/e8/c3f643f7d088822cd1e62006d620aa3f4d5895fcc00af95802797e5e314d/mypy-boto3-ec2-instance-connect-1.12.28.1.tar.gz"
+    },
+    "1.12.29.0": {
+      "sha256": "6a30661b5acfb85feb2581abc7213de8c67928e86e5cc025022af3b9ea09c6d0",
+      "url": "c6/85/28c65f0388546254fa3bca002737cfdf2c12ac01cd551ba58d1cba437fef/mypy-boto3-ec2-instance-connect-1.12.29.0.tar.gz"
+    },
+    "1.12.3.0": {
+      "sha256": "f8de97c3fe3b099f51f55cbb756d70f2b258b095e2f1c6907fd4eae1dbdfbbc5",
+      "url": "d8/67/abf38d83c8c26efcac6a87ee0a6fcc101376585c698290d786e4c26fbb41/mypy-boto3-ec2-instance-connect-1.12.3.0.tar.gz"
+    },
+    "1.12.3.1": {
+      "sha256": "3ae8fa9fc9a935213d467bcbcded4a578d4f81b280832b51fe2d42a8166d493e",
+      "url": "6c/ca/f1da04bdec05def16d2930c8468570ed8158f40a82fdd579be2ef204bd1f/mypy-boto3-ec2-instance-connect-1.12.3.1.tar.gz"
+    },
+    "1.12.30.0": {
+      "sha256": "c73edef7183e817a644690cf3f61e41ae2edeee56bcc446cac126437135d1a29",
+      "url": "bd/4e/bfe69e256f74a7f144e7f22a25fc04377bbe243f9953092162ec920d0d32/mypy-boto3-ec2-instance-connect-1.12.30.0.tar.gz"
+    },
+    "1.12.31.0": {
+      "sha256": "04baaf426901fd6cd809d9ca8f68298cb612e8d5d011266278c03201ba774731",
+      "url": "a3/9d/bd1e4b1eb6b991a196bb25679518f93360e5b946214cc19c323e578d8b50/mypy-boto3-ec2-instance-connect-1.12.31.0.tar.gz"
+    },
+    "1.12.32.0": {
+      "sha256": "fdb35936a38713b734ffb31b77157e1258230eeb0fe3f0470adae30ce25bfd06",
+      "url": "b5/44/cb75cf44bc32de25f828d6de29431c30cb182152fa61b1ba9b828cbd0d4c/mypy-boto3-ec2-instance-connect-1.12.32.0.tar.gz"
+    },
+    "1.12.33.0": {
+      "sha256": "f3f44e7fca4fe78dd067b23a90acda5d1142e35ca7a19aa4f63897b5be794422",
+      "url": "ee/ef/dcf9ecec3da5322a5d7b146179050b8b40a20a982e0e763404c72861b833/mypy-boto3-ec2-instance-connect-1.12.33.0.tar.gz"
+    },
+    "1.12.34.0": {
+      "sha256": "42cb35c62689edc03123aa9a36e1d31023733e2d6f2a57b8726c88f68ef46eb7",
+      "url": "2a/41/ccf98aa8370a6be8856a1164b5587884bfc6201ed70671270baf88f212be/mypy-boto3-ec2-instance-connect-1.12.34.0.tar.gz"
+    },
+    "1.12.35.0": {
+      "sha256": "86f7c20c7d75fa4666b793845240637fef127c9906b99b679683b123f1e6a2d9",
+      "url": "d0/52/0854577569ab9d0b6e2e4eff196d3cd6b0698a38079a35905ba7f89967b7/mypy-boto3-ec2-instance-connect-1.12.35.0.tar.gz"
+    },
+    "1.12.36.0": {
+      "sha256": "3bc0da2940ee481b0a70b9df2b0b11900b2d8831104b85ecc8a5b6d41103b22a",
+      "url": "e0/d5/0f3e23dd71955aa1967d082a23f198f7ceca5edf5afd4b613c8a7d73f05d/mypy-boto3-ec2-instance-connect-1.12.36.0.tar.gz"
+    },
+    "1.12.37.0": {
+      "sha256": "dc6f21868b5056ce5da0798a43a47700226958185427a3b6c8036566725078b7",
+      "url": "f8/a6/7ddadebc924e13002ad93c8135f2892f192dca5d1d7bb21e973729321e14/mypy-boto3-ec2-instance-connect-1.12.37.0.tar.gz"
+    },
+    "1.12.38.0": {
+      "sha256": "4ddf368b3f8b07c91e54c16e5621c379ad7f09f94e7559c6da4e41415bfbcf7f",
+      "url": "36/23/c289251efc8bba62bfde3efeb3e71b2d6213c8af9bef33bcf343a8d19b9f/mypy-boto3-ec2-instance-connect-1.12.38.0.tar.gz"
+    },
+    "1.12.39.0": {
+      "sha256": "e8feb3bf8ccad281021e1e25de462a2a2a0becac62f770bd99d331c1b9be0b3e",
+      "url": "a4/0a/e478e4e2c26f0f4bb38e23cc1d966e1d6a56f97ef91aa753888700068c10/mypy-boto3-ec2-instance-connect-1.12.39.0.tar.gz"
+    },
+    "1.12.39.1": {
+      "sha256": "ad66857066bd9f864cfdae538623544d30ee8c65e525e60a2b22a425359419de",
+      "url": "48/d3/026c58c617aeaea23b1acd616560cd7cb954ab60d628b883595b9ba7cf68/mypy-boto3-ec2-instance-connect-1.12.39.1.tar.gz"
+    },
+    "1.12.4.0": {
+      "sha256": "0018749ce575a2d2bc6bc197c53b5b27f54ec4561ebdf444b0f657d0c7f138ce",
+      "url": "45/b8/f7d2347996ad8d63b066ac4f11b3c0be700e58b1c49070e0d4aef55d6101/mypy-boto3-ec2-instance-connect-1.12.4.0.tar.gz"
+    },
+    "1.12.5.0": {
+      "sha256": "c335ca4168c7f2c5792e637b15afb4e6b2339c6f30a2d082f68b114a6e2820ab",
+      "url": "da/30/04f4e33872bf3d12bef66a54119217a1c388406a635023c6d4f798d6c168/mypy-boto3-ec2-instance-connect-1.12.5.0.tar.gz"
+    },
+    "1.12.6.0": {
+      "sha256": "8fea93fd67bbcc74e01bc836185530af1ca2a28d33b32ee3623ae49462ff9c23",
+      "url": "0c/52/a0ecdec39c2fd067b60ff1c4e9305cb8fb07b483df22537b7b68f94833f1/mypy-boto3-ec2-instance-connect-1.12.6.0.tar.gz"
+    },
+    "1.12.7.0": {
+      "sha256": "726ea8efd82ca064010759860bae38055bb8cae662696d97c8d1fcf6e514106c",
+      "url": "ee/8c/af2f5af6324b359f64fc4ccc680b79474d4e24598961b2b6f64d8a34b150/mypy-boto3-ec2-instance-connect-1.12.7.0.tar.gz"
+    },
+    "1.12.8.0": {
+      "sha256": "4f9f962e65e22ae4782a2eeb685674909470a4ffa630127ded68adcd64b6d232",
+      "url": "f2/10/8cc48977595074f662ec02f2121d8f7fc3a060391e34dbbe9be097707ca8/mypy-boto3-ec2-instance-connect-1.12.8.0.tar.gz"
+    },
+    "1.12.8.1": {
+      "sha256": "861ccc589cf0adc6c7b65c9d64e276e06f1d0c43e28f66b9b6e0e5d72ac7bd63",
+      "url": "bf/a9/cc07662d155c1a3d55042aa22f48206690e6685c2da5228d7b8aed1a1412/mypy-boto3-ec2-instance-connect-1.12.8.1.tar.gz"
+    },
+    "1.12.9.0": {
+      "sha256": "fa7ec21a051c8db52a64313521c2970af0647f686a4362aa2fa46b2d2c12a30c",
+      "url": "5c/0d/09859ce4fa35a15259bdb1e115402e87ca74b075db7ac9fd50c9e21cde79/mypy-boto3-ec2-instance-connect-1.12.9.0.tar.gz"
     }
   },
   "sight": {
@@ -5534,9 +6010,65 @@
       "sha256": "7af6667029f01c51dc36e8b5307a124898d2ffa0d0e8e093ffccdb94f34741d0",
       "url": "89/e2/d42f8deb38c120ddcef61f55f879ff1be4a251cfae9c12b38119a19f802d/stylegan2_pytorch-0.4.1.tar.gz"
     },
+    "0.4.10": {
+      "sha256": "70b81acfdcb0d52f984ed6ab328b537ee2dbd09f5acde7168e77a9a217191500",
+      "url": "03/bd/299e42014a21ea36054ce3529e45ead231ba46bd290c43adddff4bd2a60a/stylegan2_pytorch-0.4.10.tar.gz"
+    },
+    "0.4.11": {
+      "sha256": "e764a779793d183fc75ec137790fd0d5a512f10a604461512a5d427113ec4963",
+      "url": "83/e2/952097a943865cca82dd1d59e533d4271a36ebc80d87d85a0326d937632e/stylegan2_pytorch-0.4.11.tar.gz"
+    },
+    "0.4.12": {
+      "sha256": "3dc97ef592aba7df1954d79dce11746ca4a864740dd4b95f06790fefc04b2c29",
+      "url": "45/c1/24136f7c176ab0d174cb9206be063c9e0d04a0e33f24289abe91193736a4/stylegan2_pytorch-0.4.12.tar.gz"
+    },
+    "0.4.13": {
+      "sha256": "01b9fb9d9a0ee006901ab12893d0b4d196de218fc34d7ad063e2c6453552d085",
+      "url": "29/9c/ae336edae57aa2ddb20a078d53ea07632f6a17842f12db23520ce5aab9ea/stylegan2_pytorch-0.4.13.tar.gz"
+    },
+    "0.4.14": {
+      "sha256": "777e4320770d27c8a37feaf9167e474d72e7e541a75a36e017a724e78d0dbcd3",
+      "url": "e1/b8/b05c803dc5049236e9fb02b506041b7842671c31f10a288aece23431e9a2/stylegan2_pytorch-0.4.14.tar.gz"
+    },
+    "0.4.15": {
+      "sha256": "ccc885d9eedf57049f7e3f4c10733f334d8f8a2ea07dd1a208859d32d2bbce03",
+      "url": "56/04/71eea38d8fa1127c6e109c1c69ff7bde52a36bfc098960bbf521ae4a9f88/stylegan2_pytorch-0.4.15.tar.gz"
+    },
+    "0.4.16": {
+      "sha256": "a755d1303e3bb00849c0a18d8f1eea38b9e140073eec13370878d2d62f6a3723",
+      "url": "3f/9a/e76812d7081891a0acff3746558fb29104bdb3e981823279c360b2d83739/stylegan2_pytorch-0.4.16.tar.gz"
+    },
+    "0.4.17": {
+      "sha256": "1898d7bf71725230025ba21a51ca384545a9e46484062c91ef28d2bf7b434b3a",
+      "url": "5a/09/35b87b9979132a19457a85a831e3b4fb4f00051d5a66d98a81be89dcce4d/stylegan2_pytorch-0.4.17.tar.gz"
+    },
+    "0.4.18": {
+      "sha256": "044a44daf72b3cf7857eee86bb38b9a47ce6a5f27e0df013bc149d01d5b3992f",
+      "url": "8e/3f/0ee6a6147e1d21202706e4976ace60d9d33047e22694b73edb48ace8d05b/stylegan2_pytorch-0.4.18.tar.gz"
+    },
+    "0.4.19": {
+      "sha256": "3cff6853c72cc317969164ba56217035e8ccaee900765adde9d76fcf6fdc8401",
+      "url": "b3/9c/37665569eef0b06a1b684b1b13288170e85b2e017e70f3a156934c2f1078/stylegan2_pytorch-0.4.19.tar.gz"
+    },
     "0.4.2": {
       "sha256": "bb169a8e2d23437199d1bdb4f5b633163bbbc951001413356bc9a975ecf830c2",
       "url": "22/4f/bfed626c1187a9c41b931f5e80da9baa379649bd4b885e68e2d5abd03e7a/stylegan2_pytorch-0.4.2.tar.gz"
+    },
+    "0.4.20": {
+      "sha256": "f2dabbdf237c5e5b89bc6db9ac8e0a26768f97f43a5d6a4fad8307a2d353225e",
+      "url": "8a/a0/ea302e85df07182319707d1f951f63f2014394dea727766d28d67d389df8/stylegan2_pytorch-0.4.20.tar.gz"
+    },
+    "0.4.21": {
+      "sha256": "88c4f6d17850a518701dcaa000add31ebe8766b85141fb55a7ff64f57df17da5",
+      "url": "a5/33/d8fc27188f845b27ab008812c03db0c5ce5bc7402bfa13e2085c1928aeb0/stylegan2_pytorch-0.4.21.tar.gz"
+    },
+    "0.4.22": {
+      "sha256": "8496ec7a02ed6f6f7c56ec561a4129013b38410bba83fe33b0e51e72f98e9848",
+      "url": "ef/76/3e3368144a19a53b6bc965f54b3079ddd2ad5430538ea88bfa04127e1e13/stylegan2_pytorch-0.4.22.tar.gz"
+    },
+    "0.4.23": {
+      "sha256": "4967c50c8402873ca9710860413ad4c36ac4770a4629df18d6637ea4d6659c2d",
+      "url": "10/3b/46099b8e3a364300d63cde5a00535f8645eca6983395258b34b6ae0e8e2e/stylegan2_pytorch-0.4.23.tar.gz"
     },
     "0.4.3": {
       "sha256": "c20c2c4e028990a63f4e1665bb6b2f968bc4afb74daf2155d590f77100da4c71",
@@ -5545,6 +6077,26 @@
     "0.4.4": {
       "sha256": "fb8e26e930e9839e6bd506a64ec4d99012146f68492ffc07129c14ff9253b7dc",
       "url": "af/4e/d803e8d9bafe8880e9afa0b7f445380d1c6a53447dbc1ac1d58081f46d62/stylegan2_pytorch-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "e3fab71a2c506a2517660c8b0e2546be1e528c22a189bc4032c4b5cc00e0abcd",
+      "url": "65/7e/a69e7cda222e546edccdfea349bdae66dd18e98ce237b958e41159ca67a5/stylegan2_pytorch-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "69334041cf940ec3dbddd4618135eaee293d5c438319a1f162c32738c4547b76",
+      "url": "2d/c9/949ce29568a5c786ec37d571683e0e190580da7a08362d94d6c3d86f5d16/stylegan2_pytorch-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "c95c9ae32fc49fba2c35b20181977f5d0487f5a880ed6051bb27635643a5747d",
+      "url": "47/7e/c903501d07faa2ae4bf53ef6dc22d765cc9eb90662597e51e9ec7f025c1a/stylegan2_pytorch-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "24d538281bd2e3c99e3d77c253087207eb78da7a38a9b9ab9e4dd5d123865fb4",
+      "url": "63/2f/13235bfc6cf4ee61e61b2066545531a7deffe0ca355d02a814ec7b9b95e3/stylegan2_pytorch-0.4.8.tar.gz"
+    },
+    "0.4.9": {
+      "sha256": "7bf470c8f5eec50fcd9c7a322808a80cf62f3147b6228cbb5f258834bf2775a1",
+      "url": "4b/34/51a89464cc997e3ebc47d9404a310ff4b0d5b5d9b4d08b6afe8eba7c508a/stylegan2_pytorch-0.4.9.tar.gz"
     }
   },
   "thevpncompany": {
@@ -5629,6 +6181,22 @@
     "1.0.2": {
       "sha256": "1b54f65f127583be75c74b63378ca42a8adc80955de3d33e8915fec35617b1fd",
       "url": "49/b1/d2d4b30ee81ea5cb7aee5ba3591752a637fdc49d0a42fa9683874b60b9fb/pandoc-1.0.2.tar.gz"
+    },
+    "2.0a1": {
+      "sha256": "b40aeb98d83fda8a168575b5d20d4eeec7c0c294475f90c587729dcbab63f791",
+      "url": "2f/0e/3e4e26503e0f8c341ed3bb0f30e7bb8c92050ec8cf6fdf47d225e75cbfc9/pandoc-2.0a1.tar.gz"
+    },
+    "2.0a2": {
+      "sha256": "cae86b70b75a1e32f56b196efacc4e163f56c85df49dc135ddd09af472be234c",
+      "url": "f5/92/bba628c5c84d5ee87fbd9357e65756ce1b2a5f63fa3e6d66ba5319c7ec19/pandoc-2.0a2.tar.gz"
+    },
+    "2.0a3": {
+      "sha256": "e13e062333a983a8d84c3ebaea4495b470c86011a7efc51d8cd408cb04b23e09",
+      "url": "36/22/4324a67535a3bdcd51cc1f2c573d7bee52fc66dfac9fd40a91d3f54728f4/pandoc-2.0a3.tar.gz"
+    },
+    "2.0a4": {
+      "sha256": "d91eff23eb7e687e1168dd4f0aefe3764f6160e19f1d690d464b67cdd6690b3e",
+      "url": "67/62/629957bddb07a5c1e975f71f4fe482542eb03113522b5ff71ca18e522cdb/pandoc-2.0a4.tar.gz"
     }
   },
   "node-semver": {
@@ -8920,6 +9488,14 @@
       "sha256": "d23e218e3555bb8ddadab85ad7c4b34ca667e5e8a36b1439417c32c8ec6df950",
       "url": "19/ee/9f17cbb7f63ac49e6c221bd4ffd4516aa7d77fbcf40e2727a2b4263b4106/pdfplumber-0.5.16.tar.gz"
     },
+    "0.5.17": {
+      "sha256": "55f87efc8edadc48cfb81a114365d48e19b09372c1b2a6b936494009fd9601d3",
+      "url": "99/da/40edef23ca6e5bc5e7c25ac08268292aa4d5c89428331c31c4974fcbb970/pdfplumber-0.5.17.tar.gz"
+    },
+    "0.5.18": {
+      "sha256": "2bf8590ccdd499a431c77697d4c9763892d76bd893ab24e12b80def6461a800b",
+      "url": "22/cf/848211677d41fe985fcca61befcdc19402826af65cfdbb543676e40cfca5/pdfplumber-0.5.18.tar.gz"
+    },
     "0.5.2": {
       "sha256": "9526fe67ab53871407210ca4c6d606e2041997f606ba9188380c17bd483f6edc",
       "url": "0c/93/275e5a2b74766a9fa9ffff38263c0db05995c8943eaae295f3d4c9687587/pdfplumber-0.5.2.tar.gz"
@@ -9403,6 +9979,14 @@
     "2.8.1": {
       "sha256": "6e64bc9df1e4d4be247aedc63f61047cae673156198e433110bf87ae2d072a83",
       "url": "56/65/d00e25e779d30b53ce48f8327eaa23a244644e4e091b49b15dddd911699b/graphene-django-2.8.1.tar.gz"
+    },
+    "2.8.2": {
+      "sha256": "1f65861af9422e42418c6caad3ab6b75ee52b2410dc860de3060a5dcd3840359",
+      "url": "90/65/25fe477afaf68181a4ea526e64a16d5cca843b3e44ed00ee6b78ce52713a/graphene-django-2.8.2.tar.gz"
+    },
+    "2.9.0": {
+      "sha256": "85420f93926f874c48b5dd119e4a0e231000a7501d7fc2218aa67f6deaf924d9",
+      "url": "80/b6/f6e1751c0ab7d0c0c94d56e2b438b36cff190cd024f8367ce41afede1ebb/graphene-django-2.9.0.tar.gz"
     }
   },
   "lambda-image-utils-prebuilt": {
@@ -10383,6 +10967,10 @@
     "0.5": {
       "sha256": "a831a2156560d7dff18037b436ba40d870b847ea22dea19864997ed47051165b",
       "url": "8a/4f/7e697cbba080419b87b452a7ccfeca3bfc8f831f62fce64fbb0690afaccf/pygenprop-0.5.tar.gz"
+    },
+    "0.8": {
+      "sha256": "70acf36c51cb6907611bbbc07ae3e3cdb3a46e13c801f7d30f90569c7851dd05",
+      "url": "e8/c5/fc15fe6fc3a6933d72efe2b608f18371dbdf035f142689b86d51e11174e5/pygenprop-0.8.tar.gz"
     }
   },
   "rqalpha-mod-vnpy": {
@@ -10675,6 +11263,10 @@
     "3.3.1.1": {
       "sha256": "4a0b25fc100e273d2c2ffb28beeb7b770448a4aaeee206b22532b09f31e676bc",
       "url": "c6/cf/0020c2e2cdc4794c455e513081678ad66dea438268a0fc0e3b49e2e84f0e/django-static-jquery3-3.3.1.1.tar.gz"
+    },
+    "3.4.1.0": {
+      "sha256": "3332119f79ddbe503a729b18a9cf0b133a157616a33007e07cde7aacf1453257",
+      "url": "18/ff/495a7db076554cd660ff6a22ba80c2b6f7964536f2571b00df66b4d861d1/django-static-jquery3-3.4.1.0.tar.gz"
     }
   },
   "pycolo": {
@@ -10763,6 +11355,30 @@
     "2.3.2": {
       "sha256": "d69baddbd60f58056f786f00540f1c029a6c86adbbe44b16088d610b58cab9e7",
       "url": "02/49/b63ab1054e8a82ca0ecd0546b0dd6bf6e868582613774b388b853ce75fb1/guet-2.3.2.tar.gz"
+    },
+    "2.3.3": {
+      "sha256": "5f2d58e306ecb69546919576edd06204c7f9079468cd72391442e47fe17de779",
+      "url": "ea/3a/73e192392cd03e4816889d3c0ea82281ff5d4fb91f2df8f589388e4a9d3e/guet-2.3.3.tar.gz"
+    },
+    "2.3.4": {
+      "sha256": "ff2d9595a90bb38993758aa1eec277125a9b13e7c92069e869195575dd503e3f",
+      "url": "38/c9/cb11d0733b62183e8c7196328499f1014d5b474d4c31fee035ef7dac55d0/guet-2.3.4.tar.gz"
+    },
+    "2.3.5": {
+      "sha256": "bf25094c52a98b7c59213b7c3b8a921682908de7cf2dedf97a545c995d12189d",
+      "url": "a4/98/1464175d0b4b3d518e996cf33f9886a2b79f2784677a59cfe867f153ddf7/guet-2.3.5.tar.gz"
+    },
+    "2.3.6": {
+      "sha256": "e5d92baff8aa186afa1f99a08211a0f96c70442e85c99de4185025e38e54296b",
+      "url": "94/76/aa9c792fcb5b9bb99c6e4446b8469356b3da7dc1bd040b85eda0ca5c3580/guet-2.3.6.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "760ab7b8cfdb79bc74efc452caef566e54f096494066cc6fc966f321cda2aeaa",
+      "url": "3d/6b/4eea49bae7befe060115009ad3b0c2cd8854430fd9dec74f69420ab6b6e0/guet-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "648d20db59c28124d50410b7eaf0f46a6a94b9d26fe0421c6f56e5707162d4fe",
+      "url": "ac/a9/093aae5878105cda110bb318412da3891d934f02ab997e5cffacf1322e22/guet-2.4.1.tar.gz"
     }
   },
   "pyscc": {
@@ -11273,6 +11889,10 @@
     "0.6.1": {
       "sha256": "66c2044c95b0b31c8c322b7ddc1e15fd0b043977a3eeab556716195f5549ca44",
       "url": "29/e2/13c9f5b7f521b51485b288a98ae02c51622ba37c40499a1038722684bcc6/htmldate-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "291b917f29fef7eaa98c83175d7d98adde1a3c839fa2ccbb9927f5792b40217b",
+      "url": "d8/e1/ad1a5db8d9866b5f8918d47712d22b703b2b1b3078e73f70ff167dc88101/htmldate-0.6.2.tar.gz"
     }
   },
   "pyfvcom": {
@@ -12263,6 +12883,10 @@
     "0.6.1": {
       "sha256": "5919d86f9b16d8548a6afbd740c5c165ae00b9159a912e281a9d47e68f86b0f1",
       "url": "ac/59/7d0947da4f7de8402aefe5e8eb0b2afca32c5674fdf8e22f01b56960c0b2/vegindex-0.6.1.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "f2aaa405ff3f724bb62386d13ab8ef7aefa009c40910043b43b6d24e793e0863",
+      "url": "34/d4/1d6465a13435d25b1f06c0bbd628706c1556f6e6108f9b0535a8c46909a8/vegindex-0.7.0.tar.gz"
     }
   },
   "ckanext-datapreview": {
@@ -13401,6 +14025,10 @@
     "3.6.2": {
       "sha256": "99d91d4dd9bdefe99d542978cfe9ef3449cd108219e2e1b3f7306d2231dd993b",
       "url": "6d/e4/2c7d086bb74339f0cba41fbcf8b0a233714b3f90c9dcf374a8a1f9577f05/gnuhealth_services-3.6.2.tar.gz"
+    },
+    "3.6.3": {
+      "sha256": "4fbe3bf87eaa036bfb800a200641f6d07e1d27bc37bcdbb8fd50264a214010c5",
+      "url": "93/56/928d67ff6bab489fc13a34830b2326cf39ab48922cca6041f53c08a62914/gnuhealth_services-3.6.3.tar.gz"
     }
   },
   "py3o.renderers.juno": {
@@ -14371,6 +14999,10 @@
     "0.1.5": {
       "sha256": "55de7705c62006039cc9b80fb9cb27561935204ff6804e2d136f5675fa3d443c",
       "url": "92/df/0f5653005aa5c58089688870411db4bb733d073fe7166f62638a02647392/utilityhelper-0.1.5.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "591e8221ef66c2965bc429601e8e8ed7add0d37757f12ebcb57d6409f9816438",
+      "url": "0b/32/9408c3fd51b69031cb5ec018d0901f6caa0ec6a5793557b556de5ffff5d8/utilityhelper-0.1.8.tar.gz"
     }
   },
   "powerbirefreshmanual": {
@@ -14529,6 +15161,10 @@
     "0.7.4": {
       "sha256": "db11c286fa5411ec16184d4e0d05f8ea81f67ee24a615b6751dc5d4011d94ac4",
       "url": "96/ff/827914d8634f7493b14f239144f1cf7e39f5ada0bc1a31a94c363e2938da/HDDM-0.7.4.tar.gz"
+    },
+    "0.7.5": {
+      "sha256": "da13c51db24816d77ee04ebe9f7adbe5e4304da8e11a58371c660477f80b7f99",
+      "url": "c2/58/b59e90b1b92c6850d0e57fb94a4875235c29b5aafbc88c6d27f98b6d3218/HDDM-0.7.5.tar.gz"
     }
   },
   "relayserver": {
@@ -14625,6 +15261,26 @@
     "0.1.4": {
       "sha256": "954de947c972a3d7abbb44f1ff777817efdd25dc6416fc4102d35a1f4cc2e15e",
       "url": "f1/2e/8728df9a385a7a6e9327e53bb330ae6749c645c2ad3e8e53dad556bf7568/realalg-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "f4627afc67b69d469d6b17ee12b5b0fa49440dbe2f05888e9652e3317a808ca6",
+      "url": "d3/20/7d9446a1f5273fe7449cd9dda2c760f2d906cc1f8125879df90df19a6856/realalg-0.1.5.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "fd336316e4715bb4a5318af2b3cd6b80261c3c1a1003a9eba58678043c047415",
+      "url": "8b/46/47b3c1f8f344f5c9a9d19903599da3492ab5fb294002018e73c0174d6013/realalg-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "cb30c2764006cd436675ab13025bf51770c62c990db7123c173a68ac6262c828",
+      "url": "37/cb/f4bafb2043fa1fbd8e4a4c099fff4f554f13f0cbcc7f5d71abbb7d30d230/realalg-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "677043184bbe9fd2ce7cd21ce652b7e0dcef53512ca50e04a4d10356636b7887",
+      "url": "51/07/0feb19f53f54373c14407ba428ffb5b7d2e7026bd8aa1d30484037e2dfd0/realalg-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "94f89e53a902c31cee7d2f7374c7bc2349802f384699e57aaf5644ed5aea8899",
+      "url": "17/eb/d087a936c8fe05cc385096fa952e57ae921419ee779dade486d84b726e45/realalg-0.2.3.tar.gz"
     }
   },
   "nicolelovegump": {
@@ -14729,6 +15385,14 @@
     "0.1.0": {
       "sha256": "508b5efc4f0c14dea55d9907cb83b2395fea990126e19b867ab9295c3489c2d2",
       "url": "2d/50/f8e0012e619af6a09f7d5a0579003e7ee0ed815d98b5c87ce1d424351395/FITX-0.1.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "747cfedf663ee11111bac056c7ce088879d35d14eb53e28d77517c828754873d",
+      "url": "fe/7f/9fe8fad4530f687dcaccecd3138ffdabdd9ef371bffd5f42633a573d7a4e/FITX-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "49e96bfb842548d42e6eb5ee1a6b3ff78e828bb059fb53d9ad8c5a201de46569",
+      "url": "d4/82/6f4c0b2181651cd0fa7631b0c13778436f3da78f4f1b402a17e8e4f747bf/FITX-1.0.1.tar.gz"
     }
   },
   "pyscdl": {
@@ -15611,6 +16275,10 @@
     "0.1.9": {
       "sha256": "c14e6084714bfaaee8305a8241ecda98260755f7e6ae1b8244df1a841c2490f8",
       "url": "7e/e1/d55af971792973c65fb051498ebc4620140c852fbe3c0bc213f18111a983/hepdata_validator-0.1.9.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "2bc1bc23e4302fdb3cd9418e6a5c720fd0884410bcb8cff0bcdf41ad693f11ac",
+      "url": "aa/c7/b94e918505bb7fa7900d2836f4900978b3ea111a01d9aaab9585435dad11/hepdata_validator-0.2.1.tar.gz"
     }
   },
   "code-engine": {
@@ -15727,6 +16395,10 @@
     "1.0.0": {
       "sha256": "d009dbe0f05bd15718fc8fca324207847c4a37470053342a10ce33fb25780723",
       "url": "ad/00/dba43b705ecb0d286576e78fc5b5d75c27ba3d1c4b80cf9a047ec3c6ad3f/toolwrapper-1.0.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "a84649d439f649413d9c7b0b5f75ffd11b20b124e32408fd64380145f6bc34d4",
+      "url": "5e/18/e9ead8b464ea9eb945d41922b4cd7e43267f6d2b9f62cd5102912227ea8c/toolwrapper-2.0.0.tar.gz"
     }
   },
   "pysmac": {
@@ -17349,6 +18021,18 @@
     "0.7.1": {
       "sha256": "ee38e799697fd90b519f36f9e95b190e1e2e707b5111decf8ebcaf62c69f9d4b",
       "url": "e0/0b/b01f65492fa3485435df6ecdc841361cd68a72af443ab25b3bf9bf57bac0/pyplanet-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "16e8ff48f962840405871f5bc1a044d7be38d3717cc39f42db520fbf0cd45a19",
+      "url": "51/cb/74532ec61143016b7e37e0f8cb02bf25539219870f6e988e220bfd79e97b/pyplanet-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "a51701e91b57008a224078b3b99799adb3e6ea8b46d49b0eddd0faad9f94758d",
+      "url": "b2/ae/c14d5b3cb423e6a907a77c2655864717fd4acddc2e0fc7611a115811ccdf/pyplanet-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "a64977fc13600830dc261f747fba96768056aa25d36b984f69fb31a089602b23",
+      "url": "5e/7a/3178619c3a3d0373cb874c3cc9fd8fa0c40ffe48739919a2999d7a3283af/pyplanet-0.7.4.tar.gz"
     }
   },
   "cashmere": {
@@ -17603,6 +18287,14 @@
     "3.1.0": {
       "sha256": "5bf214188ee29feea465c658599784ae7f2769f6e659ad24c727fa4c076450af",
       "url": "b8/f0/c83c203c044f2c2aa857d4b221957ffab5993a054dc517d8d32ca44fc644/aliyun-python-sdk-ros-3.1.0.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "f7b3de62460a3868f8eae98e8ad74abc3268af342523d3a12f6af75577903565",
+      "url": "54/10/408ee0c5dcb909dc933c84c1301c2756e53be674ed5c0c680a4493a4f132/aliyun-python-sdk-ros-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "73495235549a09c7c1a2e1cf4514f120c0e0a4a593e4589837502b1e8663ace5",
+      "url": "cb/6e/749d485ddf19d47943af90307de35c99472aab248ec8afa11c2ecb0e5452/aliyun-python-sdk-ros-3.2.1.tar.gz"
     }
   },
   "sbgsdkcwl": {
@@ -17723,6 +18415,22 @@
     "0.0.1": {
       "sha256": "8c2a7708bf72347bc2abba02ff0526e14387755dd4d600d50c8fa9d7e81b9738",
       "url": "a6/2e/76ef84e63fa4194c4011941f5c121bcab0a3023c71bf1cf1911c5136a6bf/DiscordDB-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "de3789dab7318d5b6d268be0e3ec0420a1de354d8ccf0e1cac9a692ab150a60a",
+      "url": "e4/36/8752f42f6b746892e857806430973f85df016dd0b6ed507847cc4d29c9a6/DiscordDB-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "0b43e0a80c33bf8fc17e4362f01006388c441cf34774771caed1d38350f11597",
+      "url": "28/52/64f5c851f368645913479c0fff21b6b8a5dbfe372d84d43e94654e1d7e17/DiscordDB-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "efb377379132d55a6c777c36a8ed2ea50ce8d2b80a0cef424f36d30effe07d63",
+      "url": "70/86/46b4499e1a1c6d15b1b0dc5f92c8c3b5416cf4b0382650851597023bf399/DiscordDB-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "30b8e21076ba9da55c145170c6932b62166b3c1e9df63c3afa3c47ba556144e2",
+      "url": "e8/22/dd1c075d96041b40261463a16afbf8224268b65c375760635f080bfbd3cf/DiscordDB-0.0.5.tar.gz"
     }
   },
   "rest-accounts": {
@@ -18451,6 +19159,10 @@
     "0.1.1": {
       "sha256": "04cf6acdbbe138ae685ea860265dd347818aa6199127e729871821b762876d8e",
       "url": "71/0e/30d9f603709661c6ebe041d2a20b9f8f02bee0aaa31e977b08b5ac6d19ea/pacopy-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "04800ee5c809db36d4133750fffc63d2df43b1a14894a4aa1fe98e42b93ec3f7",
+      "url": "68/fc/4cfdb108dacd5534b5f552dc4d4bee1c0d39aa12e76e5ca67c521aa0e54a/pacopy-0.1.2.tar.gz"
     }
   },
   "openlobby": {
@@ -18782,6 +19494,18 @@
       "sha256": "bfe8ec99d0094219bc28420e39c1af8b069252d273ae551fca3893247b68c597",
       "url": "2f/f7/27b7a7394d8347e736ef00aace5fdc5f568f8cbd19ef3240e46d47baba4a/SNData-0.1.0.tar.gz"
     },
+    "0.10.0": {
+      "sha256": "d63bedef80f4753166f6434704c0a9dab7b21009e67ed1fa310ec30bb05f23c3",
+      "url": "dc/a0/f72f4ea7b876bead6f88606dc6b4f93007611fe25f5fe86a6cbaefef2db9/sndata-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "3c63728e6f5aaa6aad62e376a1bbf313b4cb7704c2489ae62fed49c1c70c225d",
+      "url": "4b/86/bbec5cb61ec62449322f42ebb1f4b8fe0f043a26c38e5b05071285225d4b/sndata-0.10.1.tar.gz"
+    },
+    "0.10.2": {
+      "sha256": "9b5220690d0086a5dfad2d2365431e66457b1c8d190f314b28d7bc344117a0cd",
+      "url": "34/2e/46b0125d1ee7cf220f2e4e1fbeff697e4fa47217c99dd0c50b83ed0ac5e7/sndata-0.10.2.tar.gz"
+    },
     "0.2.0": {
       "sha256": "bb881e133767e5615c0e76b3abd6063da8046885e224969aa8c24d0e76ef17e9",
       "url": "ad/cd/92fe8f50cd0e921476b9835869559361397b6e869ed931b062e46c019913/SNData-0.2.0.tar.gz"
@@ -18837,6 +19561,22 @@
     "0.9.3": {
       "sha256": "4b3efb9b967697ade5cf69f8adcd368d09fb94de4f3d29468e426ca8c207ee11",
       "url": "ff/d5/aea00a07c63a378980194170648820cd4594c42d3d44dd020f3778dc3317/sndata-0.9.3.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "f686e5b340faf877fe7c53f27409d08a9a92b7f487ece4dbf9db138fd406292d",
+      "url": "e2/67/a5a112943ae05fba834b88a7c744474368ec6068f29bb7c828a7171f07c8/sndata-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "4e8c60fd7357230f8f3c8605d8100d94a58fe5eaaa7c677cedd00f72d5e62336",
+      "url": "53/cc/e68900017582e399cc87afb79eec5539eda489fa65ff6b9b908cc0d79748/sndata-0.9.5.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "af2797a1f1d1d651c1cd15297a81ead890878e0434253f92bf9ac9410aebc8ce",
+      "url": "12/c3/851f34594b00aa4b5dc88557118a454ab8b98c829b72b0bd1919ffc897a3/sndata-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "6b63aa0ea8a64400a12549f7bfa2be1109bfdab658049df135641d44f6fada69",
+      "url": "60/95/efced1b66abf59d0fb2e7a47225ef0ff9232a685d4736717d89d76c96945/sndata-1.0.1.tar.gz"
     }
   },
   "olipy": {
@@ -20036,6 +20776,10 @@
       "sha256": "82411d7f64cfc292befc7a0a24241a73ad1ecd029b778dfa68fe69a4cc5dbb50",
       "url": "4a/70/ee84c3d7d6f5c95876aca47e4658ee5aeb585413ea64a9fec709db9d4dfb/pyani-0.2.0.post1.tar.gz"
     },
+    "0.2.10": {
+      "sha256": "154e421c52125d3bf309c96cfcfd0defba4b990a14cc7fdac89a8b31e5b22b59",
+      "url": "a8/e3/de2f9d9120243b316384290c55b07c69769021399d7844aa2c2ca1992e5c/pyani-0.2.10.tar.gz"
+    },
     "0.2.2": {
       "sha256": "23b486285f3f90a61d3e1c751dd228fbbece3242b6c797b60440d0e8a10b43c5",
       "url": "2b/bd/e38b225e61ee6e91d59730afbae553d68594e5b6f6b18831570119a44dcd/pyani-0.2.2.tar.gz"
@@ -20561,6 +21305,10 @@
     "2.6": {
       "sha256": "4ee7108d6ae67fc7d6c70bee4f775d38dfd921c10e4b020bd177838c649446ea",
       "url": "93/d6/7d0bfb3a5b2ca5346d22f494360884b8588e6b7adef3c5840662e353f91e/illumina-utils-2.6.tar.gz"
+    },
+    "2.7": {
+      "sha256": "f4308291e93721d20bdcf78e3bf152618b0a015e044c22bbcf68b4cae68f61f2",
+      "url": "7b/7a/24d53519621f538e1a9e4afddf61f7a818ea5334e93438283bbfec36bdbf/illumina-utils-2.7.tar.gz"
     }
   },
   "featurify": {
@@ -20639,6 +21387,10 @@
     "0.2.4": {
       "sha256": "34c8c2f8ab0318f1ddcee57e5c847d0d31fc9ad3827ab8229f5188c266e725b9",
       "url": "c4/fa/0476f201d3e6f41ffc904ddca55c551113565a12bc0bb35154cc2eddb7c8/thenextquant-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "1c972e502f80beb28e8b2d52ecfa373220a2c259c655e3d8522f889b95e50d60",
+      "url": "7f/84/575aae4a2f9e4cc0c023cab3e47761b36e80726584aff2bab415eedd0915/thenextquant-0.2.5.tar.gz"
     }
   },
   "sunuse": {
@@ -20737,6 +21489,10 @@
     "0.3.1": {
       "sha256": "dd4f356fe1a8f2f2cbd741cfe4da6b1c6e38f60b4857fac01a4048746fdbc61b",
       "url": "cd/f9/97065e36356c478fb305a8447d10737251414887945a3da43132c4954db8/Products.ZMIntrospection-0.3.1.zip"
+    },
+    "1.0": {
+      "sha256": "8eb4e3331d994d4b65ae400023e46992c8fa644189c86300c67ad3b5edb0a2e0",
+      "url": "54/dc/17aea825e2fd3792d093171196882e5ccd2a022a7e7acbbe7d055b61bfe7/Products.ZMIntrospection-1.0.zip"
     }
   },
   "pymldb": {
@@ -21627,6 +22383,14 @@
     "2.2.2": {
       "sha256": "ed0d7d706f33271f6aa5f8f5119622be1b61fe5032cfb5fc5956b49fe08b2e3a",
       "url": "fb/9e/e218ef1fe00617fe2139f33755252727ae4c5b37531d51f11008381b34b7/django-j2fa-2.2.2.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "304b0a5dfcd443a43d2365f0088e0bbf4d2c4a07ffacfef0382c3b570a50d5c1",
+      "url": "9d/1b/16216a8272417789f4c9b1ed3a228e78a7c99f6d61d16cc6bddaf4287cd0/django-j2fa-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "73563d7e73664b20b992d2b9e7a8c697e1d9b1274ae52b048e2a6d3a80be7fef",
+      "url": "73/dd/f4535bd741ef216064bd09101052975ae285ae5da283a0992055937afc47/django-j2fa-3.0.2.tar.gz"
     }
   },
   "higdon": {
@@ -22041,6 +22805,10 @@
     "2.1.0": {
       "sha256": "d18dbb83f335782d10c1c26a8151ffc49c6abb56a517cf8c860adff99d943a77",
       "url": "87/12/66e250dc655920d4975c5d36fc2594acc4be163fa3fc088002ac28f7af86/sigopt_sklearn-2.1.0.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "879b1c00da0ee0afaf64f3a927ad9054ef284ed83da719327b7d981f728f21c4",
+      "url": "b8/7d/6c8019a9e35bd21235010330bfbabe0cc184b5c72aaacbc846d068bb7416/sigopt_sklearn-2.2.0.tar.gz"
     }
   },
   "ci-watson": {
@@ -22523,6 +23291,18 @@
     "1.1.5": {
       "sha256": "d89f893c4f12d28a261112aba200b6cec2423901f19717b617af080216d04cbd",
       "url": "93/6d/6064f5f3aefcb6d878a29b359ec44f46f91acf89399f7561b7062a4f2576/shorttext-1.1.5.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "fef28121c67ec4e1b382f4126f2ac93319f2c23c5aafc2718eb8586e601b07c2",
+      "url": "5a/ea/8e77a84d172e6e4e2f56cb25fe7df1e716b691063c8b2cbcd4e74e4e0a59/shorttext-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "4d9b5ebd04b16436e7123fec710d6b2e435dd759e2cce4b08b393cf904fa293d",
+      "url": "25/61/201ed13c46df165a2c8c7955b29b7ca740297cd292b9c9e4de17a879b898/shorttext-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "b6b2a763554cde6d2d965a04feaf252e944553b6c903407a8d89d4651c00f001",
+      "url": "a4/37/fe7c14bb4d6e9a0b584d92c8d92e213906e862e17d8041b166c197d8bd3b/shorttext-1.2.2.tar.gz"
     }
   },
   "veriloglintbear": {
@@ -22585,6 +23365,620 @@
     "0.9.0.1482008498": {
       "sha256": "d524b20c0df9df4ce2145e40721f1d5612a82de12ca756e40ad060d93a2bf030",
       "url": "10/6b/3ce19d895f98e0460efcf46fd54ab261a6f3dc15f5b6b283a066c298ae4a/VerilogLintBear-0.9.0.1482008498.tar.gz"
+    }
+  },
+  "lara-django": {
+    "0.2.6": {
+      "sha256": "59eda2e8fe75a76b4bbf6fa012734c8a32c98101f0ccde6434045537634b2893",
+      "url": "63/b1/f2577c4f0121117692eae40f27b1093eabd206b041ee78bb4f298fde9f70/lara_django-0.2.6.tar.gz"
+    }
+  },
+  "django-numerators": {
+    "0.0.1": {
+      "sha256": "fb75c138169a1f157e223cd7788cdc9d09430cf3ba0ef1ca3b368f6caa67905c",
+      "url": "76/1b/ef1e76f001fe9e4ba4f85e9af896c4c8f7d4475f69f6d30a77c31d526c5e/django-numerators-0.0.1.tar.gz"
+    },
+    "0.0.1a1": {
+      "sha256": "b5c845db3c164ad33f31a843309cd47bcfee5c33ae644c57367af3095d67a792",
+      "url": "30/45/6026d032135838c532c1cff1e9e88c3584575fc214f5d4390f94402bbf0f/django-numerators-0.0.1a1.tar.gz"
+    }
+  },
+  "d2txt": {
+    "0.4.0": {
+      "sha256": "3902b59b88f51b9292cd1b3af3c9a5c1eef10dfe48594f75f07fa173c431db03",
+      "url": "35/48/7fdcfb71f9b4ceccd38ef7b2b0cc5f77cb17c3b75ac65723af2a378eb0ba/d2txt-0.4.0.tar.gz"
+    }
+  },
+  "kot2": {
+    "1.0.0": {
+      "sha256": "ed9535939cd059a280192c01c47c2ff7bd9bd6468134f712e0c84f730fee1605",
+      "url": "90/d8/bb7fde25a257aa69c72883d68bd857631e1639fa8c805eabb7479ab6d040/kot2-1.0.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "479cda89322e9d88fb02b8741a52344e68950a48c8de0692012dba4d30571c87",
+      "url": "61/67/3451edcf1063788c501ae6bd3651fea0383637c8cd5082e158b19e1f26e5/kot2-2.0.0.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "21f96b2fcc937d54adb908285e6b6358dd976d509ca7d5c43cd792d0fa9a565f",
+      "url": "c3/ed/5692d22701cc4a40dc016e5eb3e7ff9e2b345aa7e4a53ac9aa6dcd335db5/kot2-4.0.0.tar.gz"
+    }
+  },
+  "hivmmer": {
+    "0.2.0": {
+      "sha256": "5a40c970039a8c6d059fdb0d639807662b7e1b128c38d864e1597189d48af6d8",
+      "url": "ac/12/255d3c8108b026398823e4edea8619c7564c00b0e05fbfdef272f7fa939c/hivmmer-0.2.0.tar.gz"
+    }
+  },
+  "kpl-dataset-test": {
+    "0.0.1": {
+      "sha256": "f24fececb64a0fc8794396b08aac8443d65fb6dc9d4acdcf07168addc8b73725",
+      "url": "59/ba/234055850b4f505e7d74a8bc4acd01b26b0f01ddfec19e817bd5bc6d13c3/kpl-dataset-test-0.0.1.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "5fd5291aae3918d2d70a84a09ba13022e301796f47323128eb2c700450eb1fdb",
+      "url": "3c/53/eee5cb81fe471a07a2d73998b8e183e708475a2e0106ee626b4a1f00804e/kpl-dataset-test-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "2344f5d0648e1293c0dcbac5f353807f66399d608d5e47c0ff1922f5a980a950",
+      "url": "d4/75/6c1b2c8eaf402111d8224e520532cac04933610159736e4eccea5902613c/kpl-dataset-test-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "eb3356042b4c8373d043f3f15e5bffcdfb9b1d0276450299d4c464cbc15193da",
+      "url": "0e/6a/6d9cfa7aeadb7d635b395d077c16360e7e7d239b3cc1714b0d6e29d68506/kpl-dataset-test-0.0.5.tar.gz"
+    }
+  },
+  "octopus-python-client": {
+    "0.0.1": {
+      "sha256": "7250727f15b866d18887f8ad8ce067a5569cb5601a39f1348bed32550d2ccc50",
+      "url": "30/0e/3431d0b24f8278e799b5288a1dd2eae8a01e0fb2a6d4bbf1006339e55b73/octopus-python-client-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "524bbb513a3f78838f9219b0826d4b44e8de8eb958b9ac8ce82fbe8e6aa6c618",
+      "url": "87/fd/4b251a48d634c9a3bd14a2a9492dddd845c77f3ca4b9bf04f7f76dbf8292/octopus-python-client-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "f57e4d1b3bed353cc4d9b2fbaddea6e3c0fa26c8ea7857d07cd63cbd0f43c2a3",
+      "url": "0b/7d/ab97d50aff7f1ca6383359a93fc42e6493f69f10bfca89ae62cc0884861d/octopus-python-client-0.0.3.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "ef6efbabad056dc3c1fe77d4093fa508aec068a02a8748454aca45cbf7615432",
+      "url": "58/99/21786a33d44baee099911e2b4ea033577b5ca5d733d7044536ddaa7cc6ed/octopus-python-client-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "bf224d33f6283968b81b210885c8ea084b4d1a1330f254bb3f4b1024a681fae9",
+      "url": "3d/00/fa3efa6d7530c93100cc137f51add35d7c8c10943c8243b98e64be2cca78/octopus-python-client-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "619f680254e6748c7c7616e6f68b78b367b07bfd5559bbc72d88caea8dd3e4d7",
+      "url": "55/e3/237d41f127ccea2c82a12387cfedf54a3b041958a285fe49df0e6b9e8983/octopus-python-client-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "08cc04fe9d339615bd2e2a915acc235c47736834bac0fefad386061d41646ca4",
+      "url": "f7/0f/034d08ee8be6b045eaa5a8ad51df287cd5c7940d23375cbaa2193173856b/octopus-python-client-1.0.3.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "84c7204ed32c9bc085e48fed8eadbecf65056b419179444800e6ea525834336f",
+      "url": "8c/f0/99ba9bbbbbeceee89615351e1654e6780cb36a82c13db2c5cbe65583db94/octopus-python-client-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "dd06889860c14a04178d67c442bd358908721aa850f0463fe07484d6f97bffa9",
+      "url": "f1/83/5095de08c8e8459542c7214fbf5d1372968c6b6d90e139f4758dcc9057b4/octopus-python-client-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "235080ad60181f2d1225d75ef579a0cb66525f0cb8929ac9c6fc11f5e5dfa1bc",
+      "url": "36/5a/a48468a87b9892cf0b2c9701e8e131749d1b8c94c07cdf18363d420d1b55/octopus-python-client-1.1.2.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "62ed49187a35809334276f2fad416ccf422679a567006df0be9c35e8278eb381",
+      "url": "cb/17/a0bb6660459408dcc36cf70a195e5236dbd25af21abdfb5d5f5ea48c8b84/octopus-python-client-1.2.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "f3146d34b798fd81ed1eed100aedee6c89640058dfedc727140245ebfd61ef15",
+      "url": "6c/f8/f0559bdb9dccfe56c208165659eb3a1bcf90e4f5715ad681607663c42a5f/octopus-python-client-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "0c651ff165ffc1fdbb2a59f33352387dcff27291408533c2999566d0c4123efb",
+      "url": "ff/3f/8668c4f3e33160a7443bc753f3e84fb58f480469cc265a638c6c497e3bf1/octopus-python-client-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "bc60f04f2e284f4803b74b6e45f6d271caa3d1c874e4078c4ca1cc89f4af0d81",
+      "url": "98/e2/628f216669db9c08d5d7a374c4795e3870947737217da14b292980150231/octopus-python-client-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "4f6cf34c5bb40e873927d0a5f9d9168f2548649bb29e8517d40ebc3a89dbd55a",
+      "url": "ca/4e/76dd12e2e81584beebd8a33babbeb247de6246f7b4d39db6b38157daf293/octopus-python-client-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "a3e6830731ae034e46642e2cb5afdaa7b42fb0c2049cec61d00add62efef0650",
+      "url": "15/05/8d588e0e4738ff7d11bc836b26bf88b5ed90133fe1eb44017add206b8301/octopus-python-client-1.3.4.tar.gz"
+    }
+  },
+  "marax-server-sdk": {
+    "0.2.5": {
+      "sha256": "db3db857545af2b26274b2692fed84e51b2653d1180e8d1797198b0dea177eb2",
+      "url": "4a/0f/d815b5addcfff5a4a8562f992cf83f972928676923fef85c010800a61099/marax_server_sdk-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "4723c1f086667df33e10f3ac9881ca68a80bae1ba6d09d79d8c6bf2c86a0c81f",
+      "url": "a9/95/90a751a4f78820cfd2dae49c6b860647d3e23e5fcd8e491438c938384eec/marax_server_sdk-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "f03567c68c568133ba533205c5f74878165d54dc2a378fefb6635c637c0209cb",
+      "url": "c5/43/163add70b3ccbf338d23a3b9454a24ee366d51b746b2e863cb834ce1d184/marax_server_sdk-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "955d14d8d5d8c408835663849d4d289cf902cab3a6439425589a9ad5a2bb642f",
+      "url": "2c/00/af80c567eac7fe457bb30548aa58d2ddb13fe44c50a23309cfea29d68e34/marax_server_sdk-0.2.8.tar.gz"
+    },
+    "0.2.9": {
+      "sha256": "654be9e3d16198f4968eb96e47089636cb0342f0378971dcdc7f3fb7fbb43c75",
+      "url": "4c/ad/13bc1475abfafd8381192e152387f1ad5640a597860b82f915e3cb36baa2/marax_server_sdk-0.2.9.tar.gz"
+    },
+    "0.2.9.1": {
+      "sha256": "e03ef3b9f6b109df80ed9b37f552a292306982da8d82f8c271e112aa2b306529",
+      "url": "df/de/108008573552578bcd64c5b19c443920ac48a0e13a7c69a8a0c32692f98c/marax_server_sdk-0.2.9.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "6b632176c0ffbd0200e50b48bb46ac0b06e383634594bfd62be05706eea3a62c",
+      "url": "e8/c7/900fa7ab225f263903addef4eb2a597a54415e61c23eef6fee24dc5fee5b/marax_server_sdk-0.3.0.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "7f53e1e92018df92ea0497e42960cf0475ec2cfa56790a4564f2b026d24c0ade",
+      "url": "15/c8/ffe0158b1871faa96250f96136154ceb57aa4b2464713e209b7c98c45d16/marax_server_sdk-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "6db9c533f85c33d598db51381e2fb008bcfb3e03b733998f6d7a21060d1bd919",
+      "url": "df/2b/4a43396389f90ac104a8b5704b76c1ba199c409b17c56904a69cf130e51b/marax_server_sdk-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "2f0f2ea25e8fa6a97b68fffb62a82f91e5f2f1541c879ace552b3a1677f82b58",
+      "url": "c2/74/ae314c439b0666e2d356f6ccc0c4399bc75f7321904567a8128efc47955f/marax_server_sdk-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "a8971a17a51e81bba1d881e499a221e29948ab7323dfb644d01dc3644c638bfc",
+      "url": "10/c0/ac7f33be29d1fed0b1768f3c2843e261f60e196744bfa453100ff3b7caa3/marax_server_sdk-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "e7a3b3547e00bf7765f0da912f2b454df7fd8ca1e5cc291022d8a884938d46ab",
+      "url": "ba/b6/2a3f2b61934c68245eeee94b35adfe1abde7a0f6c5e6c570869bfaf3bb26/marax_server_sdk-0.3.7.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "4a804e79a85788ca8c365f457d7b222b175cdff2e3f7fa20420c6ba301275a78",
+      "url": "0d/62/e8e9e801339935a99278d0ece0797df1c3c6c01991df03a3cac85fdda3be/marax-server-sdk-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "6fa254038ec9f7a24c7bddc3f2359c747043a782c8c7d4f5fc152cb9a077596f",
+      "url": "4e/5d/7fb209932d3610109fe052321ce73fc5fd268ef64b5edd53ee47475c1bad/marax_server_sdk-3.0.2.tar.gz"
+    }
+  },
+  "kyoto-reader": {
+    "0.0.1": {
+      "sha256": "9c99c826867f1449e3bb9b944a7e4b71e268c9d47aab192e917b4276e98f3e4c",
+      "url": "41/bf/b2578d4416b14ef33bce9c751ce5f9932bac9f2b1046c31643e4dcf7e79a/kyoto-reader-0.0.1.zip"
+    },
+    "0.0.2": {
+      "sha256": "64f1543f2c5db4bf155b0acdaf19c4067f4c899ef9d2712ec72980be96e83464",
+      "url": "5a/e4/dd49c7cd52f808a42d3e782bafa71d39fcc2cb506d9aa973e99059e2da83/kyoto-reader-0.0.2.zip"
+    },
+    "0.0.3": {
+      "sha256": "5e8c9b86c62b803f363f500282a99717c83ca2d0d0b8954209b69f05d89eb01f",
+      "url": "58/c3/4d78e8fc6fa7ddb119526fe3ce7ed5a603f390e51f83a7122a775deb7fe8/kyoto-reader-0.0.3.zip"
+    },
+    "1.0.0": {
+      "sha256": "93b1e28016853865e4073ec6da722ec62a3164cc4bc5594242de840f91acffc8",
+      "url": "ea/a6/24dc753af0cc2e100bee30bebed8ef9e6d85c43db243d912f2d43b81428f/kyoto-reader-1.0.0.zip"
+    }
+  },
+  "dandanlemuria": {
+    "0.0.1": {
+      "sha256": "abd7f216b15de62ac6870ddd84786d8fec09b0a89832919a894992f9e6e94328",
+      "url": "27/d3/a9bac2d26c40b8ec6aa5b70cff978f8de5b7bb0abe8fcd8a34bf04d59a3e/dandanlemuria-0.0.1.tar.gz"
+    }
+  },
+  "jk-cachefunccalls": {
+    "0.2020.3.5": {
+      "sha256": "7bdbd4bf60509b5f5be741a2695d962e08a86e5a06fa29ff9b839364ebf7eda2",
+      "url": "37/eb/a365ed989131e234cd61bad8b8a51335ef0b052975210575a12e79996595/jk_cachefunccalls-0.2020.3.5.tar.gz"
+    },
+    "0.2020.3.5.1": {
+      "sha256": "1eacd464fad14a084489d430f7930466adb979ed456cfe0f5599699c8a3a1b5e",
+      "url": "9f/9e/4947be05868655dcf80914d272992e0f4e54f8a3a3b469fee652458b72cd/jk_cachefunccalls-0.2020.3.5.1.tar.gz"
+    }
+  },
+  "unofficial-udify": {
+    "0.1.0": {
+      "sha256": "3f928a11a263fb618c7298003debbed857fdcf954195e084402e46df144c74a7",
+      "url": "1e/79/da8db61e70d6182ba7d92c8e723b1e5b363111c44d5a5ee8fe31614f54d7/unofficial-udify-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "9b627dca670cee7e5198c880b37883f8cd698d315ee42dc433ff5ee98eaf574f",
+      "url": "ac/6b/0ffa2ea5624bf908d03a3b8a73757b2e0f68616d257c7f433163ab39dc7c/unofficial-udify-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "309c4956a46b512c111490ad569a53982f7d4ed8e4dbeeb346c17c16cc104a3e",
+      "url": "79/0f/53e52a2a0207c12a8e3dc6615eb74a553f9c8a0d17296a2b6160cb6799ff/unofficial-udify-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "3d61f8585722a6e0f05450fb1d4532b3a6e40ac0bddbc7516db5f5dfd6133200",
+      "url": "85/27/33253a10ce50329842c17ca06ec92487f5550d5474197a7e7a2c8e1a8d14/unofficial-udify-0.1.3.tar.gz"
+    }
+  },
+  "mailutils": {
+    "0.0.2": {
+      "sha256": "d8bd416d96feb069cc977fcabb6a79f8398031aeaf3967596e1430883844c9db",
+      "url": "37/9f/49d7b5f7773c846a06dd06cad18e5b3fe430bb027fe88e3c674aaa2feed5/mailutils-0.0.2.tar.gz"
+    }
+  },
+  "salt-geo": {
+    "0.1": {
+      "sha256": "01a6ba8b6944e0aa1644048ac3ac42ab02547fc203f10b9b8fa814be43bd9887",
+      "url": "2f/c9/872a147fb17acf45a33084f216eb907324ef9befeba13ce73c4d751be536/SALT-geo-0.1.tar.gz"
+    }
+  },
+  "reeds-shepp": {
+    "1.0.3": {
+      "sha256": "970d84a9aeda592caa7e7d1cc9d65c41f98c1f7c3d87e8dec3d16c450bb61a33",
+      "url": "bd/a9/e1cf5c50f3c017d2d8d35a447617a071ff8fdb70d680511fe9c46a9cfc36/reeds_shepp-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "4c2b0a39829a9aa64b3363e717fe2a33a960cecb1c2d3fa5ae3f5dc5d15d8723",
+      "url": "3d/63/fa5c6e4acb1ecf85fa5ded0412e76adfe20d192fca19634ba3d6b6de8b98/reeds_shepp-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "6c6a3884a099fd2c3f954493112438e933f6c39721169939a0b1d76ec565bcb6",
+      "url": "27/86/6a36f56dd012a0c74bc932f8528a6d86441a1b51ad0c7de9cf7128888998/reeds_shepp-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "c91efaeccb4e22eae7d51605a95c9a089635f39c7d9fa6244a2529990821a78e",
+      "url": "f2/28/14d0fca2213356f6d6a398cf0ecf5423549ca2298d7250a61252c7e668a5/reeds_shepp-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "f40db89d51c8fecc02e7546d9aa99301c6956c1712aa36f2cbbe07d694b02ff3",
+      "url": "78/34/9c33f99cf4bb80501ab7baf84f0e7a01904f4560198cb5357f8b481350ab/reeds_shepp-1.0.7.tar.gz"
+    }
+  },
+  "pyoncoprint": {
+    "0.1.0": {
+      "sha256": "17cc039730dd03f9678c5df59d8c20b29eb55860ba62ae44f8092703d0e49570",
+      "url": "9d/33/01fee509d4ded0afb09037cbe54a78140905b96f18688c82249d88d2bc36/pyoncoprint-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "f9e61c004e14f6d5f6deaf95389f363125b173a270045748bcee6fff7d42c8e3",
+      "url": "8a/3a/e90072365d4925a0417f20a6b6f974d255e18595e0509b432b75c8d423d4/pyoncoprint-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "8b446d4a4cce32cf501d7bdfb865fb695639b2cb8b5d3a6409c73e9d55e238c8",
+      "url": "3f/97/971268591da193a3828617bc1f908a91b992b74a3a2e7fa86cd3e229323a/pyoncoprint-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "9f1ddd2f8e48341c4977c426bbb9815dafe37e9b9eecbbaaedd8fc4241afe38e",
+      "url": "2c/2c/2bf9ca2dfce9064a098b44273f9f7b3bc1a241706b4a37939025eb48251e/pyoncoprint-0.2.1.tar.gz"
+    }
+  },
+  "jupyter-mdk": {
+    "0.1.1": {
+      "sha256": "6d129573d1c934a3e1c6aeaf49b96ea9d690cd29832935718a69e6e4cb47d878",
+      "url": "4f/89/384ae6454b530c04992353a414d1176d01f9b85db6ec10bd84a0e2b15368/jupyter-mdk-0.1.1.tar.gz"
+    }
+  },
+  "graphcache": {
+    "0.1.3": {
+      "sha256": "a8db5651212db4902976e1476c3a2ed843851ee888e7a78c7de10e57a6a30918",
+      "url": "3f/88/3da966a5a69e36580706a1099eed40f113fe3323d713418606bd38b45c71/graphcache-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "68eaacbf0a3813d5205e261ebd798a8cf263c3f87768131b0195d43b65fe8a23",
+      "url": "2b/11/c4ecdd69850165b353b2cff1153cbfc365450ddfa8b921892bd9d268b843/graphcache-0.1.4.tar.gz"
+    }
+  },
+  "textfile-autoencoding": {
+    "2020.3.13": {
+      "sha256": "fd21d9b66432f0ecfc22441a65ca9dec2497e0cb8054c38a1dc00bf4ac636920",
+      "url": "ac/2c/2990737a25ce7dc5793967c80beb90c5e5aa36753e3f00cc24eb1931a380/textfile-autoencoding-2020.3.13.tar.gz"
+    },
+    "2020.3.17": {
+      "sha256": "a90da2451482a970a6076044cf38decc6a865a6dfe0bfa3abaab6025d44413a9",
+      "url": "6d/f4/bb6c37885320a74cff9f892bef724ab34db59883d44615dc061dd72a61f7/textfile-autoencoding-2020.3.17.tar.gz"
+    }
+  },
+  "li-rn-networks": {
+    "0.1": {
+      "sha256": "8c3447c071f44dbe31a5d50fe805c6e35ec85619f57ed368b454d0c4ebc3f967",
+      "url": "ac/66/24a2c5622740c5293fe1c680e4e3bbb874b19bcbebed12e8aef56de572c0/li_rn_networks-0.1.tar.gz"
+    }
+  },
+  "python-fullcontact": {
+    "1.0.0": {
+      "sha256": "79223e7f041c665729de7996194c74e69ace71f346a80c04d35d7ffbdfd763e4",
+      "url": "ce/36/5150c45dfe1094e80f6026ff9cbba38f72935ce6018ddb4c6b32372541f6/python-fullcontact-1.0.0.tar.gz"
+    }
+  },
+  "polyproto": {
+    "0.2": {
+      "sha256": "26625febefe8d3b4814922ce2ee0454df0a9d42563a4a68b613bd3d5c4260ecc",
+      "url": "72/73/fa634129e474d3e2bd72e71da69543a79a41e7111323a404e70f4e3e5c4e/polyproto-0.2.tar.gz"
+    }
+  },
+  "cuborg": {
+    "0.0.1": {
+      "sha256": "803ffb1a527bbc839d563b18a5e377760e5d7770ffb9c1665309ad2d4bc108f8",
+      "url": "33/7a/3ce6a61be756b55b924943538163a6a050684d8007653552b41c8c22d3e0/cuborg-0.0.1.tar.gz"
+    }
+  },
+  "readme-md-docstrings": {
+    "0.0.1": {
+      "sha256": "fd8c37066110316edfaad11804cf99ea2794dd5fc63d71b03e5e64a797d2b64f",
+      "url": "5e/50/4319190b1f8f7a73f3af9cf64c4d28f0daf543333710ebff432eea0d0fbe/readme-md-docstrings-0.0.1.tar.gz"
+    },
+    "0.0.10": {
+      "sha256": "e417f35313bc6b086dea8d7773694f8f4bbc5054cfb773f42f4fe4323072b1f3",
+      "url": "0d/d3/d60a391543fefa1b22897c57404df614d0cd8fb76766b9377c00c845b76e/readme-md-docstrings-0.0.10.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "d064db9a8d4e9e74ce678e4904990535fd4a81b32a4da68e4ff38d278062657f",
+      "url": "fa/c7/f897ed45c8a48cd9942bbfded9cce4ed3e5a3f3f499ea18772434a0e0ee6/readme-md-docstrings-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "7955c89e40ef7f2aa078a5f0a830ce14f94c4b46bc83fea1b8ab140caebdc973",
+      "url": "df/4b/d74859e9c580ffabfe0a345979dcddf75a71541a726dea6830a642e6f9c3/readme-md-docstrings-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "11c28f0d4f5bd00c0c5fc6a89224e2c73d09660b1c91b43a2a1703e7345b3931",
+      "url": "c8/23/54c233ca80b02cbb5da271ce30d5f57a792d7e7ce14d6c2214e961821287/readme-md-docstrings-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "1ac46b63c3531378b645bad9b5e43703f29b61a273f241dabf39b8c2d928a5a9",
+      "url": "39/4a/bbcf488c17aa4f4716edc31d6cd6b576a596377331eaa7fa117c528003c1/readme-md-docstrings-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "57dd5520cc887c4981f668a996dad4e812e35f3a48df9792801aacb512e440a3",
+      "url": "8a/52/1c823eec0d1e0dfddad59b293b2075a00834a7c8a7eb5ff2419500d04fee/readme-md-docstrings-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "9da3aa32d9825a3253774adc53aff9d3c30b405c26a8d9e2b6ece6ae704ccef8",
+      "url": "89/01/f5edfb9c5268a45f8e71ad98bc02a5c52b2caf1807a7e760d56c08d20403/readme-md-docstrings-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "220ad9841532cfbed51882570055a4dd9ac0355c5285e77812f00bcf6640c927",
+      "url": "6c/c0/86d472b58e3099906f210f13a779bc143e54d97a963b85a28ac4a785d771/readme-md-docstrings-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "de847c3fdce12d66475b6e23475526acd3ded161471bf48e1a915e353b59582a",
+      "url": "c1/f4/ddcad0467287314e40e1d6d55786eafbf77e9fd1336ca76fae230b2704eb/readme-md-docstrings-0.0.9.tar.gz"
+    }
+  },
+  "jsonutils3": {
+    "0.0.1": {
+      "sha256": "8d323ce95b38149d008bba6d1de5cbc6e01255083210d55915fb64e643dc41af",
+      "url": "ff/04/a72d0905deb9cc73b85d22b0640936b7530b696083fe78f6567035084780/jsonutils3-0.0.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "fd3c3a2abce109fc53e32a199c8c9fd9974832d33e07cd99495828e87b1b6226",
+      "url": "4d/97/c9a90803104c085cf5d6526ba379bbb7fda415ddecc13669caba98aab53d/jsonutils3-1.0.0.tar.gz"
+    }
+  },
+  "django-authlink": {
+    "1.0.0": {
+      "sha256": "041dffd37a47c0d368594acb335c4663a832cecfedd1384ccae1849438f61f0d",
+      "url": "90/58/9469f0427550d6caba3eb103decf02e0903d1401f56acc8b960ca0b223ff/django-authlink-1.0.0.tar.gz"
+    }
+  },
+  "printnest": {
+    "1.0.0": {
+      "sha256": "849056f7845fcccfec3ba1ba604ed04c7ba52643d8b1f991f18aa23711b94e5d",
+      "url": "51/48/17cf2ea436ea3f4b9bd07282ee88f7e11df78766518ea1ee45b9a2962f39/printnest-1.0.0.tar.gz"
+    }
+  },
+  "tesco": {
+    "0.1.0": {
+      "sha256": "ef76bc7daa9125842e20036c22837021bf44c9a0ba4ead0d964c42ff175d4a4d",
+      "url": "0d/a4/951781a7daf95f1d1dfd015d40124cb187f331f688d6e7b07002c2acad89/tesco-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "4518adfd81fe8fb60e2dfc1727fc32cf9354d4a8c6d1719eb917d26c7dfaaef2",
+      "url": "08/f0/c58df4d711fe60aef1bd17c2b9cd394718c291399b7143ae408e544600ec/tesco-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "a86689b21430470f3b9c8c4be8a181814403f01929453a23669841c7c7a81ba0",
+      "url": "9f/80/015ac80ab81285c0a32dbf594f78cbbb41fdf5f64c4e7a17272e1da26831/tesco-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "ad15adee2b34e47a1e64ffb4634e2e3ba3bca0ab122f01c3d249259c1c7eb9b4",
+      "url": "48/87/cf47ef0c1c254009b5e79782a42ffbe3223f47343442275a9322058274e8/tesco-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "021d95155c0ed0808432dc980d5747c3272977c6fbfa438ebabcc719b6a7b7dc",
+      "url": "a4/13/ca5d34546ee53c0b8b2e5e77dbcbca40377d439e7dd32dda7663b9520110/tesco-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "d56de48438de4aad90c9095f00e6b6a64a9998e44ef1cdb67b8a19d56e88c7b3",
+      "url": "08/11/1cae7132db3d73f2d81004b0bfb50b6d6cc6839a00ef9a0535ff7264b625/tesco-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "811d0fcbd485c6eaa9d8cd6367b77e2566575bbac9b4a064eb5da26eeda2f8ab",
+      "url": "b4/bc/95bc769026e14270e53e8228449c40448dd8af75d30153b2a833c3da9960/tesco-0.7.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "b8930c6676a72d028200bd8b0946a8a8dfcda5d9349ef9283aba269afbe12ce7",
+      "url": "bf/ab/e7649e0fca2a4b4c9967c13190865a0c753752f68d2ac2931ccdc6426eb3/tesco-1.0.0.tar.gz"
+    }
+  },
+  "ipywalrus": {
+    "0.1": {
+      "sha256": "079db087d751da05c1819b5c146fc65a0b98697107a1538fb7d514184ed702ca",
+      "url": "d4/50/90b95579e5fcc3baaae80221431e6ab434d91eb6a175485d32d1bd8e76d5/ipywalrus-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "267761ccacbc742916933d7e8ce79d0f6628636c1bcbd2a2b9c92ac38d4441b5",
+      "url": "2f/14/405c2d62ebc158a32a3e21c7f1d987360e1e258d9535e6844931f35ebf84/ipywalrus-0.2.tar.gz"
+    }
+  },
+  "pycovid19": {
+    "0.1": {
+      "sha256": "2c70f806c1f66e6829a4be215dc19cc52b4dd7341bcc0a9f1937bcdb7439c1bd",
+      "url": "35/23/357b56fcc19526a704235825c9eacdea8fc211a5dd7207077408929155b4/pycovid19-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "3a475a6986d4baed58157a08ed82d0d2af4ad6dc38802eadebeaa0fc8a789dec",
+      "url": "c7/cc/a18c4a9333fc3e631db6cfca45acc2a2ff6627955cc41d3ee28753bed9ca/pycovid19-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "6953983f1b8d6b0045f52ccf1c9b3131ac71cf386fc158f766c96e80c606b721",
+      "url": "5f/82/297e8f4d9e336b2244fa41496ba696ade917a17e1be0aa82cadd3fabbabe/pycovid19-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "ca6b8061ddae19c5c7c2b101b4168eaa4fac179dca7d899cff18ce13cee6e03f",
+      "url": "d9/66/23594e84437dfc1b89edf43c559b3ad80e27e55c0e0fd146c43c993444ca/pycovid19-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "3fb7990e0dc7fb12cbb8aa0b4ea30aba34db8608bb3da4a55a0d4f22290e2bda",
+      "url": "20/bf/11392ada99ddf8c812080bd708b0755cfe501e93d2fd1f5583a69db40ed4/pycovid19-0.1.4.tar.gz"
+    }
+  },
+  "outremove-manav1811kumar": {
+    "0.0.5": {
+      "sha256": "e8bf84cb2c423dddc32b2563c428621d6632d886f9b6e657f2c1310ada8dfce1",
+      "url": "79/c7/5954526dd7d7e769da7a40d27516bed89d2b10d9adbfc1f71ccff46b5467/OutRemove-manav1811kumar-0.0.5.tar.gz"
+    }
+  },
+  "drf-logger": {
+    "0.0.1": {
+      "sha256": "5dc6ec91e3ae7a6a14ef7ffddf8310997a57bb10ae7cbc6a1df358e894bb9cb4",
+      "url": "05/fd/d6fd21b249673160433ba65d53d814412f558eb2a87f4e313631f90d49ba/drf-logger-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "71471c29dd14962451175c10014c2b3e94c7a1f2bce80f372b8ff5f69435b8ba",
+      "url": "87/72/f38361c70c962fe03b6ed095558a04889dd21d1644df2920146d644a0f9b/drf-logger-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "04be8be8bc11b759414340e31d914a54340bb492e451dedf661849377ac4374a",
+      "url": "d1/da/20ec290e308c0830b18657cb124f47c047b5d04c6958d9730c60a70f1bf7/drf-logger-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "4d292b6fa099de4a9520cc16132ffb29dd3d4bc41ad23b66b1aee519d201443f",
+      "url": "53/24/789024f651da690fcedb207177ad7913aae8b98538bafd28ae7235822c1b/drf-logger-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "ed8e59c0d13aafe056868e797b7d2e3a6ba94f08c0169b41da91f9bbb7f5739e",
+      "url": "9c/b6/31c934a0a123bbe480fd7cc890b57d8d7ffca290a1d9601fa9cb9c839069/drf-logger-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "53e35e72f71c43c211c88a4774d695065f0ab39fde65093f097dde81513b1d29",
+      "url": "6f/f9/e319824526f756251f869fe7219f3d1ed6bef9201e6a90506a66eba02eb5/drf-logger-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "0db4bc152b0d2ba66344320d4183ecc14ad80d4b42160e32e82cadf0646b11e2",
+      "url": "e5/07/80dd8527f89536e29fb7c9df2139d3be255229b33061bea7f3766df153f6/drf-logger-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "e7abf05ead850d274e8b4b5a2d563f9143a7baa82e1da5a07b32f206f0e1c26f",
+      "url": "f8/82/604df73a923d5425baf33692b5fee529200ec33bf3b3167cfa0332cc4253/drf-logger-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "c1118ef8d37773fe25402f9bd3891e56ba7c5cc09fa906042e195ac0212eb5fd",
+      "url": "31/5d/a378ed46ce43ff2ff48d1b96d473e7adc4e038a9fb69e03c494441bef218/drf-logger-0.0.9.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "01f13a143e1f214fe938926a3ff612bee42008ffc4515596b7ca4148f4df77db",
+      "url": "9b/e8/d1b0dec6203b82aab6b255b663e13b50f5fe7f558c9746535c98d2d42a27/drf-logger-0.1.0.tar.gz"
+    }
+  },
+  "wordcountnorico": {
+    "0.0.1": {
+      "sha256": "1ad2b54c90397a1597b3e1d922b8e94cb415bbc10db338412e6144c79fac29e6",
+      "url": "28/a5/b438b722a5eadeb192116f95e8bada03753aaf07362ee83fd5d76ab108e2/wordcountnorico-0.0.1.tar.gz"
+    }
+  },
+  "primer-kit": {
+    "0.1.1a0": {
+      "sha256": "9b50e1c15a9081b11823203e033c9c475ac52d598ad9e8bdce8b2959488480ff",
+      "url": "6f/88/93b47a7a774cbe1a398ce8e58568440c367dd72f985a4f51dc3997900520/primer-kit-0.1.1a0.tar.gz"
+    }
+  },
+  "rs-datasets": {
+    "0.1.10": {
+      "sha256": "3a8a13fb9306a01742defa8a5f14bb6a52502266303a0301f7ee62861dc56d0e",
+      "url": "ce/da/5e2de21bcce69261e3daba045978f6ac82000396b97aecf66ebbb26498e7/rs_datasets-0.1.10.tar.gz"
+    }
+  },
+  "wpyfm": {
+    "0.1.4": {
+      "sha256": "41d4369b15bffad2502bf404355ecf983ce32593d2a3518d254710a8d082059e",
+      "url": "54/88/cd52898f0f17be714af7e9ab7a345e87f3a263fb680b1070e9fca928fe63/wpyfm-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "dd5d89354267423e16147cc80baf4edee9056f05d437c21b63b3ee2b3b1411e8",
+      "url": "9d/20/faac5ed3855a73bf91f044003be54104f350d9cc08cca8bc71c44ad2ead0/wpyfm-0.1.5.tar.gz"
+    }
+  },
+  "distribut-mlnd": {
+    "0.1": {
+      "sha256": "9b1646880165bb4236ace38854c934290f2aa457f6e1c001fce2b04528eba419",
+      "url": "02/80/548acb2d2471d2c9c5aeaef0b937e84d5e71d8af86e77cca7f163b9136c3/distribut_mlnd-0.1.tar.gz"
+    }
+  },
+  "prog-edu-assistant-tools": {
+    "0.1": {
+      "sha256": "9d8c21112b7935e1df80cf3be6a4c558ae97fc510ebc8b8628c567eb6777677b",
+      "url": "7b/ac/a0fb55ea1601ddd2ca285f49356c933eaff6a8f55a844897f4537a1417c2/prog_edu_assistant_tools-0.1.tar.gz"
+    }
+  },
+  "wishbone-dev": {
+    "0.5.2": {
+      "sha256": "ecc731931b6995c311bf990051a6228b0719da0101ee7def8f66f2a0ac30ac70",
+      "url": "7a/3a/4f9ccf46e624d35b4c08fda6e23c8e06a6c91909dd92acafb05268d5dee0/wishbone_dev-0.5.2.tar.gz"
+    }
+  },
+  "k0dasm": {
+    "1.0.0": {
+      "sha256": "4ebeb3e695ab45c71ae3175352bda97cfb00bf91145eeecfcc81cf20e705d0b3",
+      "url": "9d/fc/38c3ce21802624d582ee59e6c64ffbe703fd06341fb4e0b3e8b27e314cda/k0dasm-1.0.0.tar.gz"
+    }
+  },
+  "rosey-stats": {
+    "0.2020.3.7": {
+      "sha256": "e7b386353e76148011e6d4d0698672eab607979bf4a0834d56667c8062003e92",
+      "url": "39/4d/3546e116845550d3c85fa022f8a5ef2208cf2cb288232cc833aa6897cd99/rosey-stats-0.2020.3.7.tar.gz"
+    }
+  },
+  "certbot-dns-active24": {
+    "1.1.1": {
+      "sha256": "ee3a6aea1c3e52ebfc3a41cc4ed67214f49574016a659e5cf3d0296120c1d7e0",
+      "url": "93/5c/ef9ec76bea7d78c1c0a4b143ffb1697e2b20df88d6137c58e93d288ab895/certbot-dns-active24-1.1.1.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "986b9fac8cdefe20e03cae38c480001b3f72b50fe062f2bf8cd0b9ee10d62f04",
+      "url": "e9/f7/c8657b8dfb245bcc11e2b4bedf0cd8bcc4a351dc4f93f267cb9b2bba9947/certbot-dns-active24-1.1.4.tar.gz"
+    }
+  },
+  "badwing": {
+    "0.1.dev31": {
+      "sha256": "ada0f1e4b94ca0a2cca07abb559af8bd68814aa6fb1a5ad32db7a3d141538175",
+      "url": "3c/0d/993cf0b907a61750c33278092f57af3e467a8c4cd5a80eb9147b72f0dbb3/badwing-0.1.dev31.tar.gz"
+    },
+    "0.1.dev32": {
+      "sha256": "fdc87d2e0b5267b61c4bdc67ff6f6e9a20cbd154dab8f6bf899235822ec95020",
+      "url": "4a/a4/c6cdd36d030eff35eeb995eaf7514860699317091fe4f411dae744143c8b/badwing-0.1.dev32.tar.gz"
+    },
+    "0.1.dev34": {
+      "sha256": "8097d2940227c281e261948a6fab16bbc35c1dfccf73590e8686e2920f7a9885",
+      "url": "f2/20/6a6b28eeaf940d2c3cd88d26aa18d77c766272fbb057747ff8b8abe61686/badwing-0.1.dev34.tar.gz"
+    },
+    "0.1.dev37": {
+      "sha256": "746dc029549ec8688576034c150d86b5f315d3d9b8dc64f65eb89993bf8994e4",
+      "url": "0a/54/518a59ff9b2624d9cb9798d6b381c4aa2a98e99dfc1c5b7d149e21adf473/badwing-0.1.dev37.tar.gz"
+    },
+    "0.1.dev38": {
+      "sha256": "c632f40744de3942261489fefd450a7e7bbe9e1fc81e74143d6300d5f5bda833",
+      "url": "d4/04/278ac22ca369f599586507a81ad8a77fe39b4beb7c76a53eb78d2f7a3600/badwing-0.1.dev38.tar.gz"
+    },
+    "0.1.dev39": {
+      "sha256": "9466b7eaaa0e4ae29178b0c13e6bdc1fee3150710ec14173f6a33ee6df005d51",
+      "url": "a4/2b/c75f554038f779338e954c3edc099bb5a24e7858c52679f59f1b88ab69ab/badwing-0.1.dev39.tar.gz"
+    },
+    "0.1.dev41": {
+      "sha256": "bf0c91256e11f00d9cd67846d54ba9e8f726bad40692d2b43301aa5db91f3a10",
+      "url": "11/2c/65d2ad3812fb46303b117cb68f347610ad5e3f516303b3721e325cacfc34/badwing-0.1.dev41.tar.gz"
     }
   }
 }

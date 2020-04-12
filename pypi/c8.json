@@ -85,6 +85,10 @@
     "0.2.4": {
       "sha256": "2ab07a288ee6364b993a9063d8bfec11c67e7acada888a036d8ba23eddd10515",
       "url": "3b/d9/9a9002bf736d149a25dd6e6aa9684c1916701381a61b1a7eef4fd5116b01/pyavro-gen-0.2.4.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "37b45ae7d05aaedb3654b8624dca9c14cf89233a9350d4a9ae974fcfa694f707",
+      "url": "c1/fc/e440efc5496683240bac37262e0282128d181d33cef1b30d2dbefbc6aa28/pyavro-gen-0.2.7.tar.gz"
     }
   },
   "kill601160": {
@@ -315,6 +319,30 @@
     "0.2.1": {
       "sha256": "76311e70d8995e18f2325f068654386ba0809f1072da48dbdad93c02493363af",
       "url": "cd/f3/eb2067f330729635e22175c0ec6f66366a77b188756d385e06a98d6ec460/yaqd-core-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "176f4a4711ffa3e7383f997f2023fbe461551cfcb0c85b10bfa9f5fb9bf0a4e2",
+      "url": "c5/e2/64f34c22b71b301abda28a99774c3cf71b4797e82ac63c4bdd98b12250ca/yaqd-core-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "2d40037fb0506294cc82f879ffe0baeb7ed1c3c96572f6587e2e920ecd261fc3",
+      "url": "99/27/79a497498e8549fdfbc9d7e13120fedfd59eeb7988683a34798ca74ac14c/yaqd-core-0.3.1.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "0b23ab849f2d649eccf55c23ac894df89104269c3debf59ec52118cbb8b681bf",
+      "url": "9b/0e/4fd1cd8ab9912bfc7d65b9e6f000b1fc89f12e1172e787a946dba16d2517/yaqd-core-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "60b967a83c6a695a44092aa148238afdd5ba492d178409583afde722878ec993",
+      "url": "58/00/34544b5ae68f54e1e6d18a50c71971bd087fde0a41d3c7d1774e5e9ce903/yaqd-core-0.4.1.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "029745ae3965727924f4f8faf2ac8f118621451f64fc13e348a2769f28ae08c4",
+      "url": "de/6a/a5c82da060e34a499f4e39ebe5def9f106e8b861c5d667e49d442467e53c/yaqd-core-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "9000b000573f495c3a4012cb7c312c2e0fbd47500493739af75c372555e9553e",
+      "url": "4c/10/fd9e7a40249eca9c09dbfd43088a17fde71d2687cfae52e481addab54f8d/yaqd-core-0.6.0.tar.gz"
     }
   },
   "north-manager": {
@@ -445,6 +473,10 @@
     "0.6.45": {
       "sha256": "3e9584b13a084e43dff3a9b7aed42ae3805316c71bf52a2fc1538dfacb403b33",
       "url": "dc/78/b6edf9b27660f3b1b0ea292cfc0f9e5994dbec04a45c56dcf61463db0bef/aliyun-log-python-sdk-test-0.6.45.tar.gz"
+    },
+    "0.6.46": {
+      "sha256": "5476320b4405670bc8c117e6254db413b0cf37cb41958881b2483f2df04b9ae8",
+      "url": "7f/97/6a5199f39eee13723420a4a2d9b95da7761fdd284ae4d0e88bb8d2501261/aliyun-log-python-sdk-test-0.6.46.tar.gz"
     }
   },
   "cypress-common": {
@@ -1073,6 +1105,18 @@
     "0.8": {
       "sha256": "0086542ed111f33348ffabebf50b41ceb06c790dac16e3720b39c3dc1245014a",
       "url": "ca/27/840f5ad9a7501450a55828b8dc7b00a9bba408a437e1ee2fef40bd880dbb/aiochsa-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "f2071f8362a85573fb09437d903f9f3877d71b32284bf6e2db1a7a080045a66a",
+      "url": "b2/5e/4c5f6bb5f37975444600989c5887572e8895a8e4c2ec918b22c22870be75/aiochsa-0.9.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "303197652c8b4f0e29b2936014c3bafb32ce6af7f67423bed41a39ff908e6310",
+      "url": "cb/c2/e950c4490f78c6b2f6a2edd6dc86b6b04dbd5d86891f46d19f418d227abd/aiochsa-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "b4fd56654fcf8848547975b3e1c6a51588fef98bc1af56d5c98b26f8a660b887",
+      "url": "b9/4a/5c5ef4c045421784beb40287227e209fade7ac3efb5108d457cce6333c52/aiochsa-0.9.2.tar.gz"
     }
   },
   "weather-appl": {
@@ -1105,6 +1149,10 @@
     "4.1.1": {
       "sha256": "8def030dc11eeafa843e73c53a416b03cc64cfe66745593df49aeaa52a9d936a",
       "url": "6d/06/2e4d479245028973d41a9fad919fb5f8b4c36a2afc820321787871605869/MagicBus-4.1.1.tar.gz"
+    },
+    "4.1.2": {
+      "sha256": "14cb645d9980e5e693a966b0012ac957a9a34cc66dc7ea5483d6cde8d2160113",
+      "url": "c4/37/5ba414c9275b8d9aa3f7527b66714902874946b662c0b682b5970499fc20/MagicBus-4.1.2.tar.gz"
     }
   },
   "tkinterclock01": {
@@ -1159,6 +1207,10 @@
     "1.0.1": {
       "sha256": "08c21e8e244490abf4bfa303c8461eaa9fb59b2c8413bf0928e80c3ed76eff85",
       "url": "82/62/72f248330e3e7bcecc7ceade56801a2a39ee6837787334091860d5d883a9/cleannlp-1.0.1.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "1df4b5ad5b7166972ac756fadf95d5d699b7934d47403f1f819ee7f882f85e21",
+      "url": "a8/3e/eb80dd4f46ee1c28387d3a7a3b4f201f710e2d30deb1ba1778e261e3abe5/cleannlp-1.0.3.tar.gz"
     }
   },
   "iexwrapper": {
@@ -2846,17 +2898,1317 @@
       "sha256": "cfa549b521b782a7e6c64172b2a102a20da0cd2790e017860236cf63a2d5bd1f",
       "url": "72/52/eb2aa0d55c290bfedcc918fabbfa5b60c657949c81230ad53b705da3a8f1/napoleontoolbox-2.3.8.1.tar.gz"
     },
+    "2.3.8.10": {
+      "sha256": "ecf48589619be18308fe53cbb1e4a0bd52ce25e0c3385bd56a83418ee9ba2225",
+      "url": "c8/73/8f1bf8cbc4604aa96b966d10c0d567b92d56b3bf293147d9809434de2ceb/napoleontoolbox-2.3.8.10.tar.gz"
+    },
+    "2.3.8.100": {
+      "sha256": "36f7c99589054b94e33cebc9edf064f187a5e908aedec179f6b91b1d4ce52d4e",
+      "url": "7f/ac/2973ae0dfb461914487e62b364d4fefe03b7c1e7634d4d01571f2c62e206/napoleontoolbox-2.3.8.100.tar.gz"
+    },
+    "2.3.8.101": {
+      "sha256": "2105a755ffb3e374358c2313913b3b494b23812ce56c244aec040d4dee239fb9",
+      "url": "31/17/e7e750aaf0de71cd2f00ba986eb477afb5479aa2030612404f9853a28ee8/napoleontoolbox-2.3.8.101.tar.gz"
+    },
+    "2.3.8.102": {
+      "sha256": "686c33974882013dea87640e7fee00f4b62bcf199214871ecb5e4ce03d0fa62f",
+      "url": "89/dd/f3c0378b5409822f037c44f9352563ff43abfc510d8701eb5d21c21b5531/napoleontoolbox-2.3.8.102.tar.gz"
+    },
+    "2.3.8.103": {
+      "sha256": "bf9806e38aec681acb43868cb279f8c16b338734e9f68e0765a253ba6f9ed9d8",
+      "url": "c6/c5/447383e0b945c4071fb241aadc4b9fb3090555150e80c7342dcd87daff58/napoleontoolbox-2.3.8.103.tar.gz"
+    },
+    "2.3.8.104": {
+      "sha256": "cf9a2871337dd01e615085760d4f5ff12545ed3ff4e00ff104ea018e13c01966",
+      "url": "73/c1/f8914e3047dca3530e972b1f4ed304d00df5e4b16e9c36f60a46dbe3c444/napoleontoolbox-2.3.8.104.tar.gz"
+    },
+    "2.3.8.105": {
+      "sha256": "335c7a014a6777bf03bbedaf49f4fcd18978b827b99b0ef8b73fba2f51ea8b96",
+      "url": "64/41/14a838b085e31f466ce73174d264a5ce231d059e43d9793656abcc02687b/napoleontoolbox-2.3.8.105.tar.gz"
+    },
+    "2.3.8.106": {
+      "sha256": "13209deb9b4958fe0d335ff6a3cb6d0573eb80bd4de92cd94679309747ef2b91",
+      "url": "34/3b/d6898315e7f4d9218d1290deaf19457ce955c255fc5466a861c115555582/napoleontoolbox-2.3.8.106.tar.gz"
+    },
+    "2.3.8.107": {
+      "sha256": "a1395207113c899d176fb495b2d201ed9b8eef16d9932e435000da429b9a94e1",
+      "url": "ad/3a/ff83dd6dd896d453445a81b56ce9b9d617e6a83429005d2b07563271da00/napoleontoolbox-2.3.8.107.tar.gz"
+    },
+    "2.3.8.108": {
+      "sha256": "2754251970115df06d088b4e649aabc33452a9d58ea16851b2de16b9c7f3218e",
+      "url": "51/35/db981144d759db292c7995cfa0941b37e0adde314e66b15119bffad720d5/napoleontoolbox-2.3.8.108.tar.gz"
+    },
+    "2.3.8.109": {
+      "sha256": "7211d88b532d08631c72a718b5713d245c79ae90cb314722036dbf82a320d7c1",
+      "url": "f7/9e/1a07fcfc73641b3360b59ebff1f83c0d3193a7921a6bc539ec11f76d474e/napoleontoolbox-2.3.8.109.tar.gz"
+    },
+    "2.3.8.11": {
+      "sha256": "cd1f367e1d12a2950f315b7213ce1d0851a398012695eb39b075e6a2cd17c85b",
+      "url": "b8/2d/25f278fa7ec09d892f1e22a65623ee4f3aa83dbde0fde1a2a069dbf33238/napoleontoolbox-2.3.8.11.tar.gz"
+    },
+    "2.3.8.110": {
+      "sha256": "b5ad44fbd5ea160f7d7a4fdf539dd5e49344ef0cecd19842485361380c047fe4",
+      "url": "41/20/232bf66307586b7061785313fd7c37c860be06038e81f949fc7dfa28b77a/napoleontoolbox-2.3.8.110.tar.gz"
+    },
+    "2.3.8.111": {
+      "sha256": "a15d505eb505568ed221d0966727aab83fcb43a841651fa8defac249acb67fdb",
+      "url": "83/5b/3418a98bf4817236971c5d9abfe23b4025a778f062c98a47a7a508d9a9fb/napoleontoolbox-2.3.8.111.tar.gz"
+    },
+    "2.3.8.112": {
+      "sha256": "50a4c95e7ea8cde973a4f654fd16d266d6adc8c024f86b08403ecba5956dbf88",
+      "url": "ba/e1/f06fe9204f0304a39679b2b78b378afb04e2c8212714ce2cb0e524d2edd8/napoleontoolbox-2.3.8.112.tar.gz"
+    },
+    "2.3.8.113": {
+      "sha256": "7f5765786c39e6257d274078323f88ac014ab9e06b1baa1ad8b1d508d128c423",
+      "url": "9d/e3/a2a71321ff17801291319e4a2319167b385e567e11facd71b52052951e1f/napoleontoolbox-2.3.8.113.tar.gz"
+    },
+    "2.3.8.114": {
+      "sha256": "d816df81340be1b741a76a7ba25d19981409a5e5c9ee5f19a0d4e1483944bfc3",
+      "url": "77/c3/b6d539c535a481efbe134100752e4f20b307706517e0deecaa1c2cd97ee3/napoleontoolbox-2.3.8.114.tar.gz"
+    },
+    "2.3.8.115": {
+      "sha256": "bfe5bd86f5ff8f3ce98ffeebae4be07739da934c72a37fd834114424478e567e",
+      "url": "ed/d0/c020f81602debe7c36e14dc944c434367ff1d9e57d08ab5c7c8377b2e7f2/napoleontoolbox-2.3.8.115.tar.gz"
+    },
+    "2.3.8.116": {
+      "sha256": "7ef98aef8283c6dd33ea3dd41cc3db12490bf6d03ae0987dcfe5a85b25582d35",
+      "url": "8a/08/650ec69903d5bf58f3327c1467afead39889f2aa538e981a93b1c4402414/napoleontoolbox-2.3.8.116.tar.gz"
+    },
+    "2.3.8.117": {
+      "sha256": "6ba0331319a5473cec9032810848514ef347ee622db72fe86c6d5a3799fbc002",
+      "url": "d3/8e/18b0d6ee1fc6edf98d7a8f965288bc8a653038e4f760a0c72fd17c2150ee/napoleontoolbox-2.3.8.117.tar.gz"
+    },
+    "2.3.8.118": {
+      "sha256": "19293e2c4225fbae0840113f8ebc83aca92568a4cf70ef941456b67e655474ee",
+      "url": "87/63/08bddaab575d367fc3a9f02b0ca6be808c5ace0481f7561cc27855f00210/napoleontoolbox-2.3.8.118.tar.gz"
+    },
+    "2.3.8.119": {
+      "sha256": "4f46d6ee30915ef3421efb7b248eae060f8f66da58eaa970680ea9ff7d07e9fc",
+      "url": "15/14/2c091205d329bf594c9a3c3824935d9ec6954d31289350be51dd11c85c8e/napoleontoolbox-2.3.8.119.tar.gz"
+    },
+    "2.3.8.12": {
+      "sha256": "316c071d77bc674c9a352d10a2502fef0fe3a198e740f17683e57ce8eb7320b5",
+      "url": "c3/33/fbcd337a722af00b8d9072394e1d088b017a7e45c3dd2c32a0718a1ac543/napoleontoolbox-2.3.8.12.tar.gz"
+    },
+    "2.3.8.120": {
+      "sha256": "8f6d293f6ce2bc85daa80ffb3cdedd5f4b0ce7482d545ace64fd217c74be98c1",
+      "url": "18/2a/7c2b3c16f4b744d284ebb41d216a33c084999925103af0df732690e838fc/napoleontoolbox-2.3.8.120.tar.gz"
+    },
+    "2.3.8.121": {
+      "sha256": "772e22abf84edd5f5fa240d57ec2034ee21df7a75b54892114aea11ac7391291",
+      "url": "8a/97/003c90c4bd00c0a127c4624ea1019a9e94a498bca4d81086cdb226f67ffc/napoleontoolbox-2.3.8.121.tar.gz"
+    },
+    "2.3.8.122": {
+      "sha256": "4a417a8d228e4dea2caedc17b6456de5bc7d7322f980e96baf5a532bc74f32c6",
+      "url": "f4/d5/7445a46190186f736d4a2b5cd97de484b61430f40d022c20fcdd21c75c50/napoleontoolbox-2.3.8.122.tar.gz"
+    },
+    "2.3.8.123": {
+      "sha256": "186019025b4c856768b9e47b5246477fe85b1fe78325986eabf6211acdbeef39",
+      "url": "59/3b/87bbcda2b205c0efdd2ce3fe6bff2886921141438eb546dd150d88399e31/napoleontoolbox-2.3.8.123.tar.gz"
+    },
+    "2.3.8.124": {
+      "sha256": "4a255613797d7747b3e05813e1115236bd53eb7170ed6d86a9eaeb127da31977",
+      "url": "60/5e/cd9c8d49dd1f94bbe7c1241a165ea5d396c2f13506ad96a3de9a304607be/napoleontoolbox-2.3.8.124.tar.gz"
+    },
+    "2.3.8.125": {
+      "sha256": "0223285ce1903c88df28dcbc999d4155a9c7bee3114bd536bdeac51d77002a99",
+      "url": "d6/e2/e52a571ad4d5ae5251128f81069b794c2839a490e875ee3f37494753796c/napoleontoolbox-2.3.8.125.tar.gz"
+    },
+    "2.3.8.126": {
+      "sha256": "0165ccac58f4dc4dfc52d2a569d0be059f6a8bf7272950824117d9c10e10b93d",
+      "url": "5b/4d/006d616aca8f1cbdb990021862a57b8c638670419f46c149fb4df914b70e/napoleontoolbox-2.3.8.126.tar.gz"
+    },
+    "2.3.8.127": {
+      "sha256": "83c1e088c38a0688b17b5588708e93de15009f323745f35794030c5e999f18af",
+      "url": "6a/03/ddcff5959fad2212de1fe51903ab5656c6bf36a5213f9b3856ad4993a604/napoleontoolbox-2.3.8.127.tar.gz"
+    },
+    "2.3.8.128": {
+      "sha256": "fe3b4ee8551d9e7a106e79c171620c2b0df2b988df8f5750bb3400a49e2fdd0f",
+      "url": "ba/67/1073dbe1a73c401ce1b3bfcb7d528e75bb9c7a455d08fe889d3fda732e95/napoleontoolbox-2.3.8.128.tar.gz"
+    },
+    "2.3.8.129": {
+      "sha256": "8e4484b0b07b80e5c8b894c911ea9e4ee7a88eed15f3b115175a73e5f980864b",
+      "url": "63/8f/3911b291d80997bda78b26e4636f2418241ab144ddcff488e81e2f17725a/napoleontoolbox-2.3.8.129.tar.gz"
+    },
+    "2.3.8.13": {
+      "sha256": "356ef931a16c25b328710a67d9136cdb1137751f6945089d0b325d351ff16084",
+      "url": "56/44/f8aec13787cf0ab3a188e9b0c21a8fb9af9bb7bc858743f328d6ee8876ad/napoleontoolbox-2.3.8.13.tar.gz"
+    },
+    "2.3.8.130": {
+      "sha256": "ea722500d354c2033c76ef96e7df84a4f6c83c74d10b60adec637f6ab5ebadaf",
+      "url": "9e/f9/e8f03358e38d0927bf9c87f7f51ce4dee60d9fa42ef8ffa51b5ebe2ec798/napoleontoolbox-2.3.8.130.tar.gz"
+    },
+    "2.3.8.131": {
+      "sha256": "e0d8a2fd77f2c87fe771a45e2ab661a1f2c513b5429ba9c50e8269e082d09a5b",
+      "url": "0a/b9/41f4f10e6b089d1c068994336ef91a61dbed78fd9ab54aeb5eb6e2dc5104/napoleontoolbox-2.3.8.131.tar.gz"
+    },
+    "2.3.8.132": {
+      "sha256": "5686d288ec1751aec18ba9f0eae2c0e4f6d3c95bd92dd5d57e26bc0c4febe33d",
+      "url": "4d/8e/0d047ecf3ac0cbc06925451cd0c0baebd3e00da514238763d27f41643cb6/napoleontoolbox-2.3.8.132.tar.gz"
+    },
+    "2.3.8.133": {
+      "sha256": "e8b11b3106f60278c5414993c5003b942e537ea64ab6a54bb1660ae119c66820",
+      "url": "06/b6/27ce32226eeb159d3aa110e235babd6aee7ace59da54e37fdf97ee4213fb/napoleontoolbox-2.3.8.133.tar.gz"
+    },
+    "2.3.8.134": {
+      "sha256": "d28499a9fa5f797aa89ee699ffde4b24897a4426f480731a64774a9f927dff5f",
+      "url": "4d/8f/91b9b2f95db772d8f3f36a8ad2bae9b27ec603cfb16a05b3ff1c70f02cfb/napoleontoolbox-2.3.8.134.tar.gz"
+    },
+    "2.3.8.135": {
+      "sha256": "b94800c19d2c260686b075fed5cf21e90a40aa8a81cd4549f5dad9077fddfcfd",
+      "url": "07/16/a42664dd4ff8d8b3eb2b215a1f919b9a3648b51046d453135ca888f920d6/napoleontoolbox-2.3.8.135.tar.gz"
+    },
+    "2.3.8.136": {
+      "sha256": "1b72ad23e3ff8e43d28240a293c7515b0af927aea577634a71f9e2ab6bc55488",
+      "url": "3b/63/97867a4f5ddd57cad8a4aa409f0d49310b2f9764896c642e95e6dec16c27/napoleontoolbox-2.3.8.136.tar.gz"
+    },
+    "2.3.8.137": {
+      "sha256": "69b3a0a9580bc32cb0fbf252ffb256fe272b72c0a98ee0b59d404191c5c6ee70",
+      "url": "3b/66/0f8f5e1b6e43daeda087bb650a764d223095c804caf40c469c3c73b582c4/napoleontoolbox-2.3.8.137.tar.gz"
+    },
+    "2.3.8.138": {
+      "sha256": "014e27c224dce954da2391b2705f785e85b28b33ac9c45e265eea0ed682f9510",
+      "url": "03/7e/b8256e0d87f24cd396a1b5d97e36e43059e413ee5bcc032f0b705bf2554b/napoleontoolbox-2.3.8.138.tar.gz"
+    },
+    "2.3.8.139": {
+      "sha256": "69589bade075dc538bb6dfde7e434e89471fc614e97f03fafa21b1ebf5d8de42",
+      "url": "ae/85/48135f53ba84105c2041dce59997174fa7655a269489110d5af8042e105e/napoleontoolbox-2.3.8.139.tar.gz"
+    },
+    "2.3.8.14": {
+      "sha256": "9118ca3c0fcd36a2b9f5da3cfc3df5189805a0eabfb9e036165766f0cc628845",
+      "url": "e7/7d/621b9453a0cbd4171dbb475295999e8f3a450a145a608ac301e118a58eaa/napoleontoolbox-2.3.8.14.tar.gz"
+    },
+    "2.3.8.140": {
+      "sha256": "f5adeb4465a45b364e16e6fb90c23313501317664fa592d469c2cee579fef281",
+      "url": "a6/35/410b616b0494b46769d462612d59d346127db308ea216715708b8eb25bfa/napoleontoolbox-2.3.8.140.tar.gz"
+    },
+    "2.3.8.141": {
+      "sha256": "63f08faaf2dab49d52b824f5106bd9e9fc2f0ea86ec221e68f92e85b558c2042",
+      "url": "14/71/4f34d3f803c306610d2ac94340924801fb78abf1bb8057302086a05bc93d/napoleontoolbox-2.3.8.141.tar.gz"
+    },
+    "2.3.8.142": {
+      "sha256": "28d9db569e380904c36d972badf59eb6704a842b6832777fb0dd32d1674075fc",
+      "url": "66/67/200abfd36617dae030f32d8220b6946683114f3e38c7a37a2a9d2c11ec15/napoleontoolbox-2.3.8.142.tar.gz"
+    },
+    "2.3.8.143": {
+      "sha256": "b62a46c2d8a6d28a3d4fedcc2b11d246fa3798b8e353bc05aec4750198fb8110",
+      "url": "ba/79/781b1251301f3056292d8350324216aa2b8e8695d010c55d8341e7e2fb4a/napoleontoolbox-2.3.8.143.tar.gz"
+    },
+    "2.3.8.144": {
+      "sha256": "385936b54734c34007fcf086a102b756b0385a94590101296db096735139bb40",
+      "url": "ee/a9/26b7095667e85a24894486727f6c436d10cc5b6a70f42d9e9485929b1ef5/napoleontoolbox-2.3.8.144.tar.gz"
+    },
+    "2.3.8.145": {
+      "sha256": "060979e9980a104e886bc8f691effcdd1f21a7511d3455c3bd29fc5d72d00987",
+      "url": "8f/e5/b717b44c0d280ff430662c1fd739ae98780ed8d7ad6363b0659b5440e3d0/napoleontoolbox-2.3.8.145.tar.gz"
+    },
+    "2.3.8.146": {
+      "sha256": "2f60eda51208a813a7693f9f5ba0184337db8de7328d9b12183443ac711c3e25",
+      "url": "be/a5/1838398f2f04b9147e56649e1a6674fd086826a491c51931b276909190f0/napoleontoolbox-2.3.8.146.tar.gz"
+    },
+    "2.3.8.147": {
+      "sha256": "63159397b5e3e540660c505d9ed83ba963272528227410777900f7b49299985a",
+      "url": "49/ce/0494c6a15424ed16615ada679899695cad5fd50792d789665e95db49f016/napoleontoolbox-2.3.8.147.tar.gz"
+    },
+    "2.3.8.148": {
+      "sha256": "7ce90b5f1d4a42b9e84d5d964635c141be47ed0b3a6948681a033bc6d60b077f",
+      "url": "86/18/77bb752dd3e6239c81b9075059e4c833129d6b31110a5c99ad937096aa1b/napoleontoolbox-2.3.8.148.tar.gz"
+    },
+    "2.3.8.149": {
+      "sha256": "c2fac026b8b4602328c4820cac2fea0f6e4e59bef1fe37526e4a9c16e09f6187",
+      "url": "7d/85/2c12c4b42fc9f56af9115507f063addf8adb13f5146500d35c1a8fb77727/napoleontoolbox-2.3.8.149.tar.gz"
+    },
+    "2.3.8.15": {
+      "sha256": "0910899b343e4e1501b9e5f1ff06b6b4efcc2d4234415cbcb0918e5ffc875910",
+      "url": "0c/54/0a0d50807f80c4cb4111f704556276989547e838dcc225610a5227f043ca/napoleontoolbox-2.3.8.15.tar.gz"
+    },
+    "2.3.8.150": {
+      "sha256": "454bf5d2052b19b8ba13f58e84730378b1660c69266327e29d10eec218c83658",
+      "url": "a6/c1/9a2e455fcc2ab7e245499a6db65c998dfff5feb0c7ba59b4bca92f507174/napoleontoolbox-2.3.8.150.tar.gz"
+    },
+    "2.3.8.151": {
+      "sha256": "31a1f4eb54c031c2f5822a183fee8fb11207e5a37cf22f1b67eb04c3b7608e31",
+      "url": "25/66/3ec3f146b88de6ccc9e3257a9245da4576e63a867f207ea6cad0ed0b55b5/napoleontoolbox-2.3.8.151.tar.gz"
+    },
+    "2.3.8.152": {
+      "sha256": "f0620c174659327c290bd64c7ca37ddbd83c4536fa1f6900fec7b9d9e260e226",
+      "url": "55/13/9084c15e802c6c1812aafc3ba66d4b016278b54582863f043e14c8e521a8/napoleontoolbox-2.3.8.152.tar.gz"
+    },
+    "2.3.8.153": {
+      "sha256": "9f91328e6faa7d191cd398ac543f3eaa4305f3cfab898d7ff3c82c2313232384",
+      "url": "83/bc/2120cb94fda6fed290b715a05486373b2793b76c59fcd1b15f6beb919bb5/napoleontoolbox-2.3.8.153.tar.gz"
+    },
+    "2.3.8.154": {
+      "sha256": "7949d0312f4bb43f55ef565ecf89b92fbcbe7c79f51c8ea857ae9061748423d8",
+      "url": "9c/5e/96d9f11e02e1ee6639ce661bcb2438ec33c40d6056095910ed05d4114375/napoleontoolbox-2.3.8.154.tar.gz"
+    },
+    "2.3.8.155": {
+      "sha256": "697dc9ececc6098254270fd95036338db479b13cb82e311d8781bbc0a863ede2",
+      "url": "44/91/8a1ae466a2c13cd9771d8badc2e5e9dd9dc37f744cbd53f67a2c119cdd23/napoleontoolbox-2.3.8.155.tar.gz"
+    },
+    "2.3.8.156": {
+      "sha256": "7edf420a3d574bd93620429deb8ac568a9ffc70fce4f1e64de4d188fad924223",
+      "url": "50/fc/5f81ff00101af01de902461c286226a08bd0729cb1677a485926ac3c97eb/napoleontoolbox-2.3.8.156.tar.gz"
+    },
+    "2.3.8.157": {
+      "sha256": "790ef48af84914c7f702b75a1fc904e830b3ac6417c0be4492d36b365402d322",
+      "url": "b8/ea/e5a352177b2a0643015d72c6eaabf272ebde251f4ec3f638ec342fa0d1fe/napoleontoolbox-2.3.8.157.tar.gz"
+    },
+    "2.3.8.158": {
+      "sha256": "db9b65bd85b2dfe7d290f1e91d2c913ccb58766514eda407bcfdfdb12db20637",
+      "url": "6e/8d/cf13d289d564eea262356202b2908ddebc77c4f831a58d6642f06ec919d6/napoleontoolbox-2.3.8.158.tar.gz"
+    },
+    "2.3.8.159": {
+      "sha256": "af90cf92ca4c57f06cf8fa73aba839a63d76ddd98d2ac6725d78269912654498",
+      "url": "9c/9a/5203220e77f03e4f14d397b2c8867b48c866abca7ad69e9bc86b2d6a70fe/napoleontoolbox-2.3.8.159.tar.gz"
+    },
+    "2.3.8.16": {
+      "sha256": "5726096c1482a280776798d463b4229996686ebbb15828f197960c171bc9b1d6",
+      "url": "c0/70/d5199afda48b68a085f6476d7597caaab66daa1329d85594986a19408643/napoleontoolbox-2.3.8.16.tar.gz"
+    },
+    "2.3.8.160": {
+      "sha256": "6919420edd007caf712c6dfcb5cefc24174dd8ad1c1a5d8fecc22f82c6198b36",
+      "url": "f2/3b/03ce208f77ffbaac05dc4256e600777d752d003decad6aada92e5edda992/napoleontoolbox-2.3.8.160.tar.gz"
+    },
+    "2.3.8.161": {
+      "sha256": "294b4f2ad07ce95594b80c18334773ed96d8ab72aecf54b5d5f1e23dc5d30a5a",
+      "url": "74/40/4e533aa381e7baa9341f4a4e2d2090c8d9b600d83704b4e97998c234e55b/napoleontoolbox-2.3.8.161.tar.gz"
+    },
+    "2.3.8.162": {
+      "sha256": "e07d2a9ae98cb5ea46f725261fabc1bcddc6aae12057809ee2d1c8c384bb2986",
+      "url": "59/f1/7f015bc317f7d1ec9e650de76b410e8490d8d27515dad4f506c15d0c1fc1/napoleontoolbox-2.3.8.162.tar.gz"
+    },
+    "2.3.8.163": {
+      "sha256": "64f7cf44499cde403f373877bc7341d2acda6013c88cde65b92fa88dcfbe463a",
+      "url": "0c/c8/3908bd0cde1686099402b33f1935f660367eb6957d223ae2da7bbef584e8/napoleontoolbox-2.3.8.163.tar.gz"
+    },
+    "2.3.8.164": {
+      "sha256": "903dfe73e91a15077a4585b86280eecd99a096174f747eebb70707895b4f6bdf",
+      "url": "7c/40/d354d390cfde82bebbd0febaf41a7bab8a3f5bcb734efc79520b7e36bbb0/napoleontoolbox-2.3.8.164.tar.gz"
+    },
+    "2.3.8.165": {
+      "sha256": "e3f7d79b1e71fbbfaaf80701c318137cb8f4e3266510eccf3bea926e1d0557a9",
+      "url": "88/78/854c7ebe2d4f2c158e17d87038fc48518877362df795a3703965b976ea6e/napoleontoolbox-2.3.8.165.tar.gz"
+    },
+    "2.3.8.166": {
+      "sha256": "85cf8d6146fb051fe5132ccad7c660245143867fba2ea7852d2b7e7bc0fef0d4",
+      "url": "44/fd/f5fbe34233cca9dec745d21fa23278cddfffb9231469296436212ac280ac/napoleontoolbox-2.3.8.166.tar.gz"
+    },
+    "2.3.8.167": {
+      "sha256": "b18659cc2c61398007966efa84303cfeaaf5cc7d53d905824c55bcb1eb1ecb99",
+      "url": "f3/89/89c341f771b5e883d16475bb4de994b1931c5e6738e296cee94b518f77b8/napoleontoolbox-2.3.8.167.tar.gz"
+    },
+    "2.3.8.168": {
+      "sha256": "8f95840f57dc01cc3ce2b9ddad9c330319b17952cebc25a19f520d0028ba8de1",
+      "url": "8b/93/3bb33a673605751435bb7818f14249f218c1f2158f1410d044bbdefc906f/napoleontoolbox-2.3.8.168.tar.gz"
+    },
+    "2.3.8.169": {
+      "sha256": "687e202e1e6b4cb8fb0c177b1aaf02ce619ec8871cbcb017fa538b460920dbdc",
+      "url": "9f/96/60297079fe267b883a4193e55199732cb23bbc7a60e2491052dd4cff6d13/napoleontoolbox-2.3.8.169.tar.gz"
+    },
+    "2.3.8.17": {
+      "sha256": "fb2d57fce644b214c59ba407c1a278af1d799741fa444b88db5be0e032a0cbd1",
+      "url": "81/a3/bc3342dfd63be30c9653cf0a8c477d25e9cd84a81bd29831af5e9a5a6c5e/napoleontoolbox-2.3.8.17.tar.gz"
+    },
+    "2.3.8.170": {
+      "sha256": "2086c0ab4f8c220071e1c9017c1c4d3406586a20d8c8768a878c0e49f257ee1e",
+      "url": "a7/0a/7225cf585ea03adbbaf8c40ee03ee8ec730c5a85d5968a128d2e6a7b736d/napoleontoolbox-2.3.8.170.tar.gz"
+    },
+    "2.3.8.171": {
+      "sha256": "0e8b8af75104dd48c23c9479ad7fc9e6cf3520c36087eec0d4d34bdf8f63119d",
+      "url": "c7/00/113c7f8fd41ec1d3089bcbdffed4686f358068d078cda6e1445e3df122c9/napoleontoolbox-2.3.8.171.tar.gz"
+    },
+    "2.3.8.172": {
+      "sha256": "85fc7bcdcc1c9f0f8c17d1ac5a7edd9e0b3cfe6e483a822bdc2eee99c73adb34",
+      "url": "33/5e/2e4341ac2450d1f1c297bae2baa81ce80b6048f33d0eec45681aba02f165/napoleontoolbox-2.3.8.172.tar.gz"
+    },
+    "2.3.8.173": {
+      "sha256": "fdd27332cf5aba9d8b973f5c9dac43dcd0bc0dcea3cbff24b26a5c77e73329f1",
+      "url": "78/47/aa33ce18ba7dbfbd73be1cc2974facdfdd9f2ffe2064b52eebe5d34a88df/napoleontoolbox-2.3.8.173.tar.gz"
+    },
+    "2.3.8.174": {
+      "sha256": "683a8380d9bedbca9c903b004d787f7d335196561e3bb709fd8eec64b3896b9d",
+      "url": "1e/24/90c9ac5fbdbb65ceea952ae7db4fa629ed82a5fb47467bc1a74f7e679749/napoleontoolbox-2.3.8.174.tar.gz"
+    },
+    "2.3.8.175": {
+      "sha256": "09ff2b610faa9ed4f3c2a9c897d30337320b2a3218a9609c969c3a9efb7c77cb",
+      "url": "63/fd/90bc885db65a7233cd962c9090efa82f3ebe33cf34775e15ee7383b3b9ef/napoleontoolbox-2.3.8.175.tar.gz"
+    },
+    "2.3.8.176": {
+      "sha256": "1553afd9d336a9021406e1499ccc9d5c4fa1c472559400477c742d817d078243",
+      "url": "40/32/faf3e787a7f1ec85f3a8ad4c4ff93d2926045bc563cf6bca4b6503c767bf/napoleontoolbox-2.3.8.176.tar.gz"
+    },
+    "2.3.8.177": {
+      "sha256": "5672f2beaeaf3c76889359756c571e2bcf9cf249bea04362dc4557bab5ad5582",
+      "url": "c2/b2/d71f928d9101f6c0702aa50b76ac5515a9770e25cb72c0462ac278ba446e/napoleontoolbox-2.3.8.177.tar.gz"
+    },
+    "2.3.8.179": {
+      "sha256": "4cbca2ee9694440b16d2d23c348d9415c5cbea646aa907161f988b2b46444b9f",
+      "url": "f9/9c/554655004ef6248e7ce442dd6d6834935bd3e1626873f735ac9059a383ee/napoleontoolbox-2.3.8.179.tar.gz"
+    },
+    "2.3.8.18": {
+      "sha256": "bc182b2b3dbbd60d4084276ecdebb9aa4db0384105b2d2009a87846900cc240a",
+      "url": "50/ca/ac7e704f5f93e28ee4832ddf7b5310c3df2a1d09a80ea3abfcb154ca2276/napoleontoolbox-2.3.8.18.tar.gz"
+    },
+    "2.3.8.180": {
+      "sha256": "6ed1e9d31b0b81bb7c120f15d3245731c7d53bbb86884a4b1b160f15cd5a456e",
+      "url": "19/ce/d7efebf8a22c73c2972d6268001c3280d55f288f352c6a9c0aa76858ca84/napoleontoolbox-2.3.8.180.tar.gz"
+    },
+    "2.3.8.181": {
+      "sha256": "a7f8d123fe74aa97d732146fd72c5b62d29e53547d5c2a5905d437cff6f0db99",
+      "url": "9b/27/9c753b2696a7a95f98d0a7051ce477dcd0aef8005cdf0f527352ae1fb6e9/napoleontoolbox-2.3.8.181.tar.gz"
+    },
+    "2.3.8.182": {
+      "sha256": "a2fe367d2ee2e4bb1fc237bbab04c00d3f8abe2eb6d4efe489d9541ac50e22f1",
+      "url": "52/a8/2eca31708fd1fae446c62ebee550db7c6f492c7223a3fe5491bbe50ce85f/napoleontoolbox-2.3.8.182.tar.gz"
+    },
+    "2.3.8.183": {
+      "sha256": "73c4f9dc6757b9aca6c719f654a34ddce4821f5f30adc8278e1cacef5c2dfa6b",
+      "url": "ba/4a/6ae285f84eca74a7ea574154c8b7b1fb64e76e8c4d239f9425ad381adb41/napoleontoolbox-2.3.8.183.tar.gz"
+    },
+    "2.3.8.184": {
+      "sha256": "7ce4f31e52fe85a618af4f85008543e1620ff2ed96c76927c9d261acae4d9dab",
+      "url": "ae/b9/a2fe0d1242fd20dbf1d92178b7460290df0d2f339846545ebc92aed9afbd/napoleontoolbox-2.3.8.184.tar.gz"
+    },
+    "2.3.8.185": {
+      "sha256": "2e311275c44c79ea14a058f15576c9c72f1ef819b0c4a0c81aa4338172dc0931",
+      "url": "15/5d/c81e0b96195b2c27dfcc01703137af20cb3fa4b65c00d4b7d3dae45eb856/napoleontoolbox-2.3.8.185.tar.gz"
+    },
+    "2.3.8.186": {
+      "sha256": "f17bc9f8b6b899c76eb3ec932c67fc435d67fdbeb23901f7a0e557524c5f2c51",
+      "url": "28/d1/b42e712569a755a23b893c67724bd3eb75fe14a3eccb1828c0bcb258aa31/napoleontoolbox-2.3.8.186.tar.gz"
+    },
+    "2.3.8.187": {
+      "sha256": "9c47dbc7ef1fcc05e8aa5d1372ac0e8aaf2591128b7b58d2c783ff36a082be38",
+      "url": "c1/70/e83fc0d07897da22f4ec8263404f9496f9045a2b14d60c6dc91e24144354/napoleontoolbox-2.3.8.187.tar.gz"
+    },
+    "2.3.8.188": {
+      "sha256": "cd9ba55ef0720fce3f4f0c2a94c1ebcbb9778b282c77733f4242c2fa426dd589",
+      "url": "50/06/370cb40be65829d8fc20ca8cf621005ae282b3ef2c8e4f1a19443801b03e/napoleontoolbox-2.3.8.188.tar.gz"
+    },
+    "2.3.8.189": {
+      "sha256": "b5617f38e88cdcce777d8788c7b0efdf2044b1615bf823f4b8ca3297576c70a6",
+      "url": "59/73/b4411dc98327b3d07db4f76cb6b448ff00d75af7ed79fae06606d20cc886/napoleontoolbox-2.3.8.189.tar.gz"
+    },
+    "2.3.8.19": {
+      "sha256": "da861b0d2e3a1f4a3e13959eb2ec11c4cb44d91f8ea31557344d6cbd3abf63ce",
+      "url": "96/68/3082e76b34b7d747dba4538ff59516e3c72aa9d3b9cf4cc56953dfa09a59/napoleontoolbox-2.3.8.19.tar.gz"
+    },
+    "2.3.8.190": {
+      "sha256": "55aa7d3771871ce3919577b050102cf831781bfb2e00b5e7fca572baa8fb592e",
+      "url": "1e/0f/2d1cc68c64a0c8b3a249cb22d181da3b559ea6ac1a01618e5d55ad061f3b/napoleontoolbox-2.3.8.190.tar.gz"
+    },
+    "2.3.8.191": {
+      "sha256": "e98c4baa625938b22e9d7da60963722c8b833127ada7a420de4e7eadd6f59cb3",
+      "url": "ac/ce/cf98898b32dabdf8364e08d551d65e785c3921daf6cba16cd406fc35bc8b/napoleontoolbox-2.3.8.191.tar.gz"
+    },
+    "2.3.8.192": {
+      "sha256": "a114b9f4d95836509c7040b2fe4483662510ccb989d377632158a71af1a74af8",
+      "url": "9c/7a/a6dc12e95b1a14a00513d70a25d45ddd47a1f0a2049a7e3bf3c566abfd1b/napoleontoolbox-2.3.8.192.tar.gz"
+    },
+    "2.3.8.193": {
+      "sha256": "013e840bcbef5b6e64e20893b2ad466cbd0ce254d2f64f60e1f83a70a3f6dba0",
+      "url": "54/22/8dcf9f8597c66de1fd5b2af38a2f6a2d7c1bae3d27ac3b77822c85c4380f/napoleontoolbox-2.3.8.193.tar.gz"
+    },
+    "2.3.8.194": {
+      "sha256": "6bb94c288079cc015734a8fd0c3579dc806eea2f6ff317db9e29b5cd6a1ec677",
+      "url": "42/8b/0693d268e46501a36c6c705dff35fd4e4d893e2581d5c8a111479ef7c673/napoleontoolbox-2.3.8.194.tar.gz"
+    },
+    "2.3.8.195": {
+      "sha256": "61bf042696fd79e7f49abce90c0ce07979a10ba2013a04bdb07d926c6d80eab9",
+      "url": "2c/cc/e25cb5f19f70e0b5b770e10ecff2680154cb6180c10a215213eaa5cbcea2/napoleontoolbox-2.3.8.195.tar.gz"
+    },
+    "2.3.8.196": {
+      "sha256": "907107470e131e2f104e096d348130c56cb18dec260361d46382c00b43805e64",
+      "url": "4b/f4/709fe3ed07fb82a2083bfdac4e2de96fb799a9b91ece2f6a1b61e76d78d4/napoleontoolbox-2.3.8.196.tar.gz"
+    },
+    "2.3.8.197": {
+      "sha256": "b33bad24bba249f8009aabf828e257f367a2813143bdcc26d52e1f110fd683f7",
+      "url": "f1/34/b2b024fb1c0c9b9c13521f382fe2e8212bb2eaa0894785348f3ec9de213e/napoleontoolbox-2.3.8.197.tar.gz"
+    },
+    "2.3.8.198": {
+      "sha256": "9609bc6f31ab00fe49f62c91c6b149defd02b683b049f365ccc3361f90961e7f",
+      "url": "e4/47/953cca5bb7e12b9fbd6987781011d76fc3818efcc33859e88081be61b29b/napoleontoolbox-2.3.8.198.tar.gz"
+    },
+    "2.3.8.199": {
+      "sha256": "97a90c92491b35814cddc909734d6054242a8e969faa4049601476073098c432",
+      "url": "45/c8/9059ceafe3670d10bc7c9843f0e70250b0e435c1672b51be54ed9e536b63/napoleontoolbox-2.3.8.199.tar.gz"
+    },
     "2.3.8.2": {
       "sha256": "c2e7ad0d0402838662cc5f81c3e123b751e39824e9f9966c2dd044e852442678",
       "url": "10/91/9926530fcff04b9dea00a8e845048560ae7927188b38635d32d69b5679b7/napoleontoolbox-2.3.8.2.tar.gz"
+    },
+    "2.3.8.20": {
+      "sha256": "9ebf94a2554f608d77bef7b890f5d9dfeda6961fb0b9b0cb0bc9830a4dc976d9",
+      "url": "70/1d/e8eecd05c58730e5889d0d0682c07359d4f21059d76a1addc6a4e96f72a1/napoleontoolbox-2.3.8.20.tar.gz"
+    },
+    "2.3.8.200": {
+      "sha256": "cd26dc00bf92017072f47aae8ee911bc46f49fe160b46c772c28110d64bc60e3",
+      "url": "5c/2a/92439e34d651f0990942013f9b460be42ac3dc16d3dbc1fc7681c2f115f5/napoleontoolbox-2.3.8.200.tar.gz"
+    },
+    "2.3.8.201": {
+      "sha256": "118f420e3c0e6d23298d0e474f8c92450b7754c9794d5500156c100dfd6d245c",
+      "url": "89/fe/37259a3dc9212403b1ea9ccbc3a86fe43da2ae43626e94684ddf2221e417/napoleontoolbox-2.3.8.201.tar.gz"
+    },
+    "2.3.8.202": {
+      "sha256": "9330590531e214b4bee4ca4d1231be3939ee3d73f03d4ca552f66e53eaad120e",
+      "url": "16/32/fe0642ad88159235cbf533fd98de9553876816b52f02d72acefb89cc56a9/napoleontoolbox-2.3.8.202.tar.gz"
+    },
+    "2.3.8.203": {
+      "sha256": "1f3b92288641b579842574a86516717fab87cdd06666941f51c3a1bfc6768c16",
+      "url": "a8/93/f7d39ced9c993b801b964339e315729c5043d4c2f3e45eb786b8db599965/napoleontoolbox-2.3.8.203.tar.gz"
+    },
+    "2.3.8.204": {
+      "sha256": "09ec27a4e2db1ebd6df14ef9bc00a7f2a096ae109ef84c507044db024572954a",
+      "url": "98/3a/e93663132a3a91ef62a21f2684ab218f84584fdc16834b7b2831bd8f371d/napoleontoolbox-2.3.8.204.tar.gz"
+    },
+    "2.3.8.205": {
+      "sha256": "260dc69c19db8eef98e50cb85842692fe1cc3982adae3f9050896635e33bd698",
+      "url": "46/5b/2e6a8bf4492690ee29c9d60898d3d6073fcc26c61ec7076dc4d24acd1052/napoleontoolbox-2.3.8.205.tar.gz"
+    },
+    "2.3.8.206": {
+      "sha256": "0f6477ec694f6c1b58dbb5056be029c05c6194a06e4bec8dff5ddc77cebec265",
+      "url": "9d/c9/f18ae799c48b4d74dbf70eb06d55c44e821bd39a55d08fce11314f8cddea/napoleontoolbox-2.3.8.206.tar.gz"
+    },
+    "2.3.8.207": {
+      "sha256": "ef365ec4becbaa7d1a064d1ebc9a34156bc3a4a5e134dc6c92fdd1020ab5abea",
+      "url": "65/57/35e56761f93d1c3b1e60b094f5a39e9fa81e434db29af60f9eedd7473564/napoleontoolbox-2.3.8.207.tar.gz"
+    },
+    "2.3.8.208": {
+      "sha256": "1dae9f37ad87b0fe328c683a8ec655903cc43fd7ebcafce2a924e42195d67812",
+      "url": "35/20/ced6f89332abdd4dbc3e4f317272752d7f8d81f5618ab5038a164f8b7c57/napoleontoolbox-2.3.8.208.tar.gz"
+    },
+    "2.3.8.209": {
+      "sha256": "f96ced3ff47cffc60f2a2e5bb7256470078dcc8dae112d2356836628a103fc01",
+      "url": "65/0d/2146c75c6a656895763225936bdbebf4f2faa32152e8cc1e6f9951416ad5/napoleontoolbox-2.3.8.209.tar.gz"
+    },
+    "2.3.8.21": {
+      "sha256": "b6ca569b15af8ff51dc6688c67e1041630934285cbe898747b109f5604b98116",
+      "url": "74/e3/c1d006a7cdb9125450b22c82175d5f92115554e716e96aaa1334c7cd2753/napoleontoolbox-2.3.8.21.tar.gz"
+    },
+    "2.3.8.210": {
+      "sha256": "be18bc64d1b34c733dd5ac7ceadeea4f522403709c431830a252f58ee2bff6dd",
+      "url": "39/d2/8f6440242dcd20aa1d9e31dac8529441038b230f06e90cc4f0a194c87461/napoleontoolbox-2.3.8.210.tar.gz"
+    },
+    "2.3.8.211": {
+      "sha256": "d2db43013df608bbb8cfcf1e9b08babdba3f61c00ea0c829e79cf6a2ff029abb",
+      "url": "51/71/3478adddcfd8e58174db962315e3fd1b7ec4bdef31f3108cf04cf9eca30a/napoleontoolbox-2.3.8.211.tar.gz"
+    },
+    "2.3.8.212": {
+      "sha256": "5d55e00dddec7aded26b79c297d63f28759f513dbbed25f173edeb3d0fc720be",
+      "url": "67/9c/584d20a8bbcaba8dfff467708b66be4b88cd9b54a7535f1b82ec7ac96097/napoleontoolbox-2.3.8.212.tar.gz"
+    },
+    "2.3.8.213": {
+      "sha256": "4a67c74c085b289b9725c07cc894c83e8ea0e161118652cbbe00beda45a53e30",
+      "url": "30/69/f02c686372b30cbe63ace5c2178b279518c0c8a0c195fb02fa1195bf8b76/napoleontoolbox-2.3.8.213.tar.gz"
+    },
+    "2.3.8.214": {
+      "sha256": "1ed9ede4ff77899f54c178c6554dc0810b9ffdcb2d356e2538596e430f29ba93",
+      "url": "78/57/9af16ac02caba58499ecd0a8e1085f4d5e70b3cd7ef8e9271e129ecf77a4/napoleontoolbox-2.3.8.214.tar.gz"
+    },
+    "2.3.8.215": {
+      "sha256": "61aeaa0774c2091066084dd40eefc9577512aec0792e47512b9778ef832e3df4",
+      "url": "10/86/710b27170501cbb77f4a380adca830cac170ff4bb511cb4ca643ec589f12/napoleontoolbox-2.3.8.215.tar.gz"
+    },
+    "2.3.8.216": {
+      "sha256": "1cac777801a4348d92abb67503c3315029752c4fa54326330c48428c79544eb8",
+      "url": "dc/58/a54304f438791f1e191f67f5aee391a7ba9060e25b34ccfd0b8463f0a3d5/napoleontoolbox-2.3.8.216.tar.gz"
+    },
+    "2.3.8.217": {
+      "sha256": "f3eacf258c348c5866db34afe437ea50eca4021a14a534fcf60a353707450400",
+      "url": "ed/e5/1f4bbb929e1d598138a2f112edeeaa0911865b390642c0e3eca3dab2de22/napoleontoolbox-2.3.8.217.tar.gz"
+    },
+    "2.3.8.218": {
+      "sha256": "02d82188012d43d493c1f91ba3044e44ef8bf7a621785ada151307696a05300c",
+      "url": "e1/19/16b72561d14a37a8004514d4cd7e3c6758d3d8d0c3768732a61817ac5fcf/napoleontoolbox-2.3.8.218.tar.gz"
+    },
+    "2.3.8.219": {
+      "sha256": "6acf5f1958000c1f7c21cbb75eaaf75a8913b407686586992afbe96adb0369b5",
+      "url": "91/24/a4de251f64a32c55637a257890c3e27975a41d95d0ce845cd4729219c9e1/napoleontoolbox-2.3.8.219.tar.gz"
+    },
+    "2.3.8.22": {
+      "sha256": "58f5af43341ac247df3beabb9e03ee5ab353845f4503ddcce942078571758fda",
+      "url": "8b/ca/9b4d434d80ca1757b5f2452f6440c2dd163bd786733956cd369d20bc0cb9/napoleontoolbox-2.3.8.22.tar.gz"
+    },
+    "2.3.8.220": {
+      "sha256": "14a756df7554247d45d5ca432445e8529130a2df34c829020ef121e54bb621be",
+      "url": "58/81/411cb82ee0a047b5ba5aaca96a8d916a1cb880579484d64c0d179d214307/napoleontoolbox-2.3.8.220.tar.gz"
+    },
+    "2.3.8.221": {
+      "sha256": "8829ea5d27cf8183839fa23571176f5550750d68795a6c8bf2468bc7b9c88f0f",
+      "url": "fa/fa/53b043e281e86395e930dfb698ce19531aee0d15598e7f5141cc0ef346d8/napoleontoolbox-2.3.8.221.tar.gz"
+    },
+    "2.3.8.222": {
+      "sha256": "236ec483af116237d179616e67df562ec1b4256a2077ce83aa4d26154c5d3353",
+      "url": "15/58/e34e2b7642bd0a928861e3eb0a2a19b2244b4ef9a7da65cd29f2b09c129e/napoleontoolbox-2.3.8.222.tar.gz"
+    },
+    "2.3.8.223": {
+      "sha256": "3604959d20197ef4c11e8d4dfe57149ed61cb7def04b121d6b41883b0a448fab",
+      "url": "2d/73/94a0af8666cf529733ba2add34cae89d1f7ca38cdbe20cc02dcf0b51c1fa/napoleontoolbox-2.3.8.223.tar.gz"
+    },
+    "2.3.8.224": {
+      "sha256": "26a96a2535f444c5e6fe65d9f312abdc7f3749ee19f387182cdc6e76142127d6",
+      "url": "d3/ae/61d1ffa90277ed63ec070a1434645c18c0bb4bde48b85469ea7350bfc0bd/napoleontoolbox-2.3.8.224.tar.gz"
+    },
+    "2.3.8.225": {
+      "sha256": "a89317e34c93cd4db442658b16de8421d96fb44f587d93de74348986573453b1",
+      "url": "72/8e/b2e29e8a71e368413d1c6db393ee7ead35fd4b4197e5c6f78656846d9cf1/napoleontoolbox-2.3.8.225.tar.gz"
+    },
+    "2.3.8.226": {
+      "sha256": "a45fa975043b82f02d91547802eb0f015c6c825880254a6498960d32d40112fc",
+      "url": "f3/bd/eada17bc11c3e9d7918528f8c1a2942d75ef05efadca0a1e32e21f7d8e3f/napoleontoolbox-2.3.8.226.tar.gz"
+    },
+    "2.3.8.227": {
+      "sha256": "2cfb2a8a4d966a11ea511865b2bef07ff942f6db2ddbbf21ad2ad30c073b2e68",
+      "url": "f0/2b/e9cbf6919d3402235b0f1f32fa1179a7dd513fd77ff42fe9ae0f9e56636e/napoleontoolbox-2.3.8.227.tar.gz"
+    },
+    "2.3.8.228": {
+      "sha256": "abe4a891904e5870e6056679bae19f8131bf06ee02ec2b1a0f7083ad80d9947d",
+      "url": "ef/1e/7f9ce9748c337121dc00b3ddc28c84603ead743d6fbc1459b4f34eaebc72/napoleontoolbox-2.3.8.228.tar.gz"
+    },
+    "2.3.8.229": {
+      "sha256": "061a68a9060aaa042a294bad9b13279a12b56a0240bc0c97919ba4e1a2b4895c",
+      "url": "d4/d1/f12c0b0ce7bd14ee46645ce81b0dca661f27127f4ea31957a1a990173ab5/napoleontoolbox-2.3.8.229.tar.gz"
+    },
+    "2.3.8.23": {
+      "sha256": "30813ca09863d0c8ac3808d3f335b7ef695380f3fdf9d3b506e5bdbf07335a2d",
+      "url": "3a/f6/9f2bd19e4f536911b3986206eb81f7f50cf706f3b72bfd6e1c711b612e92/napoleontoolbox-2.3.8.23.tar.gz"
+    },
+    "2.3.8.230": {
+      "sha256": "926c73b3fcbc2eaff764c1e8cce2f3fa8ebe2f3b59a1c01613aabc9822a7de85",
+      "url": "bb/6c/344c8d05f7ee921b00b79c3b6024ff3dbbe42fd6bfff4063f7158909e092/napoleontoolbox-2.3.8.230.tar.gz"
+    },
+    "2.3.8.231": {
+      "sha256": "13da94a6dc1d57a4093a70bcaf3dc3cbd768e7d3b550ac838e46fb1daf2d5710",
+      "url": "4e/1b/6034ac8c1b617f3f1229dd3dfda4dfd62cac426d4efed9084eee643486ad/napoleontoolbox-2.3.8.231.tar.gz"
+    },
+    "2.3.8.232": {
+      "sha256": "2880facb3c0ab5a6be9f89f45aa5f766ea8f7d8eee062c4a439728a8637cfc61",
+      "url": "a5/8b/e513896ca9a332c7ccf7d385e03578ee274b2cc517b635035920e33ba25d/napoleontoolbox-2.3.8.232.tar.gz"
+    },
+    "2.3.8.233": {
+      "sha256": "94be46a8115e37f3b8088fba318f390d08846f2425f2b74e5ad6ec702ecd332f",
+      "url": "86/16/7f32c9faac264d0e3e1d1e9788cd09c93b57945ed364f9d5cfb8e23af2fa/napoleontoolbox-2.3.8.233.tar.gz"
+    },
+    "2.3.8.234": {
+      "sha256": "ccaa4ae2a8c593d5fe3e67673cb677fe00c98e10bcf97d5a6945ca8439b7edf0",
+      "url": "4f/b5/bcd53dbf3c789c42b78b7c1cd4de6ce45639a369bb3dc5ecb13c72d831d6/napoleontoolbox-2.3.8.234.tar.gz"
+    },
+    "2.3.8.235": {
+      "sha256": "89b9af3a853e40c0ab85290e6541f9f63d0f3068d60ba4b9c7d286062c14ab91",
+      "url": "f3/1b/64b553ecc5e9e6ca9881590906c6fbaacfcd7e0e46c74edf90601d10b6eb/napoleontoolbox-2.3.8.235.tar.gz"
+    },
+    "2.3.8.236": {
+      "sha256": "c5f707849861702e45161f7d69c04ae073889e173e5c981b1292901033dd4fa3",
+      "url": "f6/9a/507b30be8b3bcb153f8913cccca02b5d2177642c95caafdfb16774715b1e/napoleontoolbox-2.3.8.236.tar.gz"
+    },
+    "2.3.8.237": {
+      "sha256": "af627b0689cc9118c2ec3ac7617641d4a69012b62d842af5643d80a79f24a114",
+      "url": "c1/91/f59667ee81209d8592305241902a6e2919569bec5429f0fcb999534825ee/napoleontoolbox-2.3.8.237.tar.gz"
+    },
+    "2.3.8.238": {
+      "sha256": "f052bef14d51db486deb7a120b9b629050fa629e48faeedf1384d34e521728c7",
+      "url": "5d/34/4ef985af282aacd58ab25a81e6e64874d87b8d308aedaa874c21f02eae71/napoleontoolbox-2.3.8.238.tar.gz"
+    },
+    "2.3.8.24": {
+      "sha256": "add60ae9337a05579dbe70ff4e1f88e53b502bd81b2a4dd7305b26a42e4b815c",
+      "url": "5f/0d/fa13aefd844d97510ea9167a755d5c7ad2c3ba2fcceaf4557da83d3d6365/napoleontoolbox-2.3.8.24.tar.gz"
+    },
+    "2.3.8.240": {
+      "sha256": "7f1c9ea53cdd554a9809d3441ef0c876433b8204a8ca70786d03d30d683bf6b8",
+      "url": "58/9f/9b7a1f6e3277c91dc730aa401f07f562b4c2051efc1e3dcfada9e63705ac/napoleontoolbox-2.3.8.240.tar.gz"
+    },
+    "2.3.8.241": {
+      "sha256": "7dc13a2d2d58d4284b5441b3bc172335562ed9caf1ee10a44ff62f61c43f1e6e",
+      "url": "d1/58/bf0cc4bfefd9600b97a2e93a9fcf1d34bd3cfcff02d3ecc6508ff5e738f0/napoleontoolbox-2.3.8.241.tar.gz"
+    },
+    "2.3.8.242": {
+      "sha256": "2d982b222665045bdb6b88a607a724162f492cb4e08827c9f3cc09a1e1685e81",
+      "url": "f6/14/28fab07e16e32ed237f904ad852e1edcae57943fcf5e59d1f363a34c04ab/napoleontoolbox-2.3.8.242.tar.gz"
+    },
+    "2.3.8.243": {
+      "sha256": "cdc26547760d9ae36d76eb8733875be7318e7f722407577071a64be653a95e8f",
+      "url": "d0/5e/7b2f7efadb45347252e13da23d6a7217937ac5584dee3b030c91dfbdd855/napoleontoolbox-2.3.8.243.tar.gz"
+    },
+    "2.3.8.244": {
+      "sha256": "63415d95bc178c2a7fe17c026fceed4b9c80e95dd05ccacbf6f21978377d2547",
+      "url": "c5/6c/2f90d59f85ec41b3bbf4b5c888492f59c33a066ea1451ce53d92880b3205/napoleontoolbox-2.3.8.244.tar.gz"
+    },
+    "2.3.8.245": {
+      "sha256": "eda940e03f5225f6120164e191054c6a7625785bcc65b5560874ff3e49068d62",
+      "url": "86/d3/ff6683632d1bcf871d85f6dd81bc7a3542472e7428af4f45d155be8c2e66/napoleontoolbox-2.3.8.245.tar.gz"
+    },
+    "2.3.8.246": {
+      "sha256": "538da6515bef81f918107243bc7eaf27c6bd6e1bfb29df9bf55a5a3a2c76be97",
+      "url": "dd/6b/ae56afd2c719859122afdd5c7f8cc344231bd19393d52c0dc2c27b758b25/napoleontoolbox-2.3.8.246.tar.gz"
+    },
+    "2.3.8.247": {
+      "sha256": "58742b0ac3cc9e815f54ea5ca2c5a239dfd54d7dd9eb802d4f31f0d40a337da2",
+      "url": "bb/71/6b2c5bd8fcd4c0c0058fd0bade621010cab473b1e131e2e0ffe8e7e273e6/napoleontoolbox-2.3.8.247.tar.gz"
+    },
+    "2.3.8.248": {
+      "sha256": "14081dcfaaa911ff9c344842f32ea4a4c0313a7206393d87aa045714680c24c5",
+      "url": "aa/87/a89cf1d7bf0b6216b35f89136c8bfc43142eeab13091141f52db94797bd0/napoleontoolbox-2.3.8.248.tar.gz"
+    },
+    "2.3.8.249": {
+      "sha256": "f85a258cc152dc0a2cd83421c2a5a439ad50ec4d4d19d60755f66ac1a574ecf0",
+      "url": "ad/e4/29bc9066ed9807cf396c425cebbf2712165a3276e14fc81662a065e70ad8/napoleontoolbox-2.3.8.249.tar.gz"
+    },
+    "2.3.8.25": {
+      "sha256": "fb373d0efe4754d6075940c3acd9d5a756ca5d09fc8f7860ebb260ca0ead7200",
+      "url": "e8/d3/ec4b22ffac21dce54c2076b0342ecff82e4a2b17f8a37167da6ed6cff8dd/napoleontoolbox-2.3.8.25.tar.gz"
+    },
+    "2.3.8.250": {
+      "sha256": "f6e02516b9326538e5410f1a62cab259e5b98581c20a3db7a80cb07486a700a3",
+      "url": "91/07/9a1be4e2b21a07302488a099e05510fc5d1daa770c978d05559c3bce2728/napoleontoolbox-2.3.8.250.tar.gz"
+    },
+    "2.3.8.251": {
+      "sha256": "bee4f7a3e24f153003ca41f113ac97fc0bee5ac92dec793d9fa63b19a7e8cd91",
+      "url": "a5/21/1c07c025638e319d423abdcd1affea35499f57439d9f6fa1b2b526b6d574/napoleontoolbox-2.3.8.251.tar.gz"
+    },
+    "2.3.8.252": {
+      "sha256": "55ed5bb7c52d5adb0aa4cf82344d8a77f15cb569895ec856e0a63b68857211b3",
+      "url": "04/38/f9d230136e2661e994e167405bac053fe143e6d2d2e1a9207be33ada72ec/napoleontoolbox-2.3.8.252.tar.gz"
+    },
+    "2.3.8.253": {
+      "sha256": "5faa5580d79eb796b7678ae202ba39c6b84b2b147a3813ef05820a11a237e837",
+      "url": "3a/a8/6effa35335df80fe3bfa6f30573b5c8d2f858248ba7bbefa729378701f06/napoleontoolbox-2.3.8.253.tar.gz"
+    },
+    "2.3.8.254": {
+      "sha256": "d59d6f2030361ea440395200dfcab7c87e2f50dcac3df99ec8112ecf0d0a7430",
+      "url": "78/69/23d7370277118bd48a2c470e1e11063557e17dd10d0b27e56350d844ef63/napoleontoolbox-2.3.8.254.tar.gz"
+    },
+    "2.3.8.255": {
+      "sha256": "f3a33f2130ca313f706ed40258907db294e24f2ef58dcf1d16c39066b730cb35",
+      "url": "a9/3c/a26eadd64a1d82120f5a6e582c0a6d261e5ac0eeb801f75934e058f8c8a6/napoleontoolbox-2.3.8.255.tar.gz"
+    },
+    "2.3.8.256": {
+      "sha256": "c106ff7287aa773feea4240481dfead0c054e846141a89aa38dcba849b104227",
+      "url": "96/23/e366947185b043d4f0bd9d01f3d1f23f4dbb242882077bed7e6ac5cc8672/napoleontoolbox-2.3.8.256.tar.gz"
+    },
+    "2.3.8.258": {
+      "sha256": "8867239c0ee175b32c9e33dc5799012f1ce95794e71f333e85e1c297f34068e0",
+      "url": "3b/73/cd05abb0435e0de0a841e276b580257b2f4e82545aa214d04dcae2c399bc/napoleontoolbox-2.3.8.258.tar.gz"
+    },
+    "2.3.8.259": {
+      "sha256": "f160348fe2d1ec5dd2471e04169a77ece26ca2558d09b39d97c57a686ee2eef2",
+      "url": "3c/c1/91dfba58f8467f7f8765ac5ce15ad0f1cffb70e16d5e5a3cae2102b0c748/napoleontoolbox-2.3.8.259.tar.gz"
+    },
+    "2.3.8.26": {
+      "sha256": "fb380e46540dd12f5857360e88a07f8b6eb2d32126cffe7fff4cf4d4e9b7775c",
+      "url": "15/6b/781c949bd244b6cc54fdae7b037051490348f67769835b20b4f4ba44e1a2/napoleontoolbox-2.3.8.26.tar.gz"
+    },
+    "2.3.8.260": {
+      "sha256": "701a2932552b4b09c2c5c486ec3da36ef3262d1de57c54a316e685bef474c4e5",
+      "url": "51/66/a8a94d417d50d468f4569f87bc8dd59c4daad11db64ba5ebe4f8865aae80/napoleontoolbox-2.3.8.260.tar.gz"
+    },
+    "2.3.8.261": {
+      "sha256": "ac007af66b4f3875bd87cb1c3d6ce2d3dfd91fb1f0c1f05a896c3695f6922a9e",
+      "url": "5a/cb/da968f0cdbdb23d96025fe73004bddeb87f3639351d04d20132dcf71d2c3/napoleontoolbox-2.3.8.261.tar.gz"
+    },
+    "2.3.8.262": {
+      "sha256": "1846b540d34744997a59b606ab15c4c396b66eae7370e9d023b5eb3e54f2fe0d",
+      "url": "c5/10/302496740eb091269044419e5b071ab5e0b41ed20358d880f1c01b614646/napoleontoolbox-2.3.8.262.tar.gz"
+    },
+    "2.3.8.263": {
+      "sha256": "faf9b6396c00db329bbe2da06c4d7bcf5a8b228b2811c28b4f8c172d2ce9b489",
+      "url": "13/e8/013b77c59bb1b3ccd1f42066b3a469a8e3b3480ef16c92b5435d5e30179c/napoleontoolbox-2.3.8.263.tar.gz"
+    },
+    "2.3.8.264": {
+      "sha256": "8b387d84b167cd19312dee28db550c3c59df996cf6f9e61c44955abbf738b771",
+      "url": "c4/11/54f64977663bd0f74b2cf482e35eee193b3ee08e3e1f57b1628f6898e547/napoleontoolbox-2.3.8.264.tar.gz"
+    },
+    "2.3.8.265": {
+      "sha256": "61a6158c9ae50d3192665b8f415a74990b3f617c4fb4c8c66e06cbf960b15ca3",
+      "url": "00/90/43682119e4987b747767b7f1cb26b215951cd1651766dfe6dcc27942c505/napoleontoolbox-2.3.8.265.tar.gz"
+    },
+    "2.3.8.266": {
+      "sha256": "ef60d0ed268fe6ffe4b38410c74bd8d8e57dd6886e5019284eda5e07a70191d4",
+      "url": "ca/ca/ce8a1e0b72858801ed0a37ff6685ebdb465937cbe10ab126d48f52adec68/napoleontoolbox-2.3.8.266.tar.gz"
+    },
+    "2.3.8.267": {
+      "sha256": "44623f24b159814db22ad73a3a57d3e699b1eed355709a489ad7106a26c2e1f6",
+      "url": "e9/e8/9efac5e1e60b0e07109977692c0f3cb7be771554381cd89676efecf00ccf/napoleontoolbox-2.3.8.267.tar.gz"
+    },
+    "2.3.8.268": {
+      "sha256": "f1db027dfd3f8e246f84ccf1706263cc36dd986bf5537b33d983bb6dba750b95",
+      "url": "8d/6e/20b01eef2a3c39c86cd756efe1395ccf5faa62b4c18bc1a5152af896ce74/napoleontoolbox-2.3.8.268.tar.gz"
+    },
+    "2.3.8.269": {
+      "sha256": "110cc8b78ced382babe42317b3cd61721e33d52252d2b81512f51d46406843f8",
+      "url": "c9/6c/a3a16f2fcb4ae410e39dfe2c3744e0fbafa5994f46ea0ed4d28ed63b1aee/napoleontoolbox-2.3.8.269.tar.gz"
+    },
+    "2.3.8.27": {
+      "sha256": "9ae6429214e43bc6230ac2518846c695f94f3885d21aa33836d3795bf4ab203e",
+      "url": "39/6a/2d20132acdb8d55bb37554774ba8010c4037506d3a7ba878baf77bdc8e50/napoleontoolbox-2.3.8.27.tar.gz"
+    },
+    "2.3.8.270": {
+      "sha256": "778f22dea8ee948e96748947f5bc729f144baddc1d1fff8578792479cc36c04e",
+      "url": "85/a4/95dbd033fc1dda06f234c61238a01385b75c1f4450d18c036343449eb43f/napoleontoolbox-2.3.8.270.tar.gz"
+    },
+    "2.3.8.272": {
+      "sha256": "cc803798aced1b8218495206d5ec878945926c9a4a8fc8fa8fd4aad3f84ddf74",
+      "url": "0d/37/ad15ea1df0258290f4ecfa8c152fc4707873fafe8959ab9a18cf4efac980/napoleontoolbox-2.3.8.272.tar.gz"
+    },
+    "2.3.8.273": {
+      "sha256": "36c1a08a9c7ac56fe653d9dff40693cb615090a0039e1ac783e57b2c5b31727f",
+      "url": "93/0d/10b489e4050f00774d6e6333cdf82a0555d831223e2860d5bc485350319c/napoleontoolbox-2.3.8.273.tar.gz"
+    },
+    "2.3.8.274": {
+      "sha256": "5d04eeb513dd60e274ef46aefd473dab96a29c4a79248e8aa0cbd20c117af624",
+      "url": "a7/0d/af74c9a29bcde554b51165f27a85a137ef4c0e7d4442c788f8a8b1753fb1/napoleontoolbox-2.3.8.274.tar.gz"
+    },
+    "2.3.8.275": {
+      "sha256": "c476e7760ba123e1fee9b21c39d6c0055b94210fad6b7f59d026f967463b0313",
+      "url": "bc/b7/80df94e7a9e1b5b673d5ff40d2722df130175c10fda7e70f8c1da9d1a2fe/napoleontoolbox-2.3.8.275.tar.gz"
+    },
+    "2.3.8.276": {
+      "sha256": "f1d84b675cff2749d3ac7a8a1096c1a8e202988ea62f86bed531b32e0158113d",
+      "url": "07/a0/f1d3ac927bfa1aa140eea8a6970e8a33aafd41bc312e4d17f847e36c40b9/napoleontoolbox-2.3.8.276.tar.gz"
+    },
+    "2.3.8.277": {
+      "sha256": "13bb2c5c37e64279e9a1d4e11c475e62b24552395bb6973721fa9c92272f9c90",
+      "url": "7b/8f/c767e49a1edcde5a2618c7cc43a42b1e11b0ed6052b750cf5c2dac76edae/napoleontoolbox-2.3.8.277.tar.gz"
+    },
+    "2.3.8.278": {
+      "sha256": "c4d020892ab8646ac2d4d64f1e2730158774877a746ac39b752193cefb0995fb",
+      "url": "ae/d1/ce4fb1656adf4f17b278fa96446dd72360d559e2fdc0ddf82d368a54b4a5/napoleontoolbox-2.3.8.278.tar.gz"
+    },
+    "2.3.8.279": {
+      "sha256": "8a9986d7ed80ebfe443e8c0ee050a51d9838028dbb11b9798dbb913d25625808",
+      "url": "50/00/7aed41f4b36a71a9058ec3dba9510cef7419ce54ed0065eb906e0e5a05cc/napoleontoolbox-2.3.8.279.tar.gz"
+    },
+    "2.3.8.28": {
+      "sha256": "a1f7473b078211a784035030898fc9eb68217475adac6a41b92a59be85c3d2e6",
+      "url": "67/1c/23609a4c7c5928996f64353aad967f4b30419cb16508f1e0b32da7b2bc36/napoleontoolbox-2.3.8.28.tar.gz"
+    },
+    "2.3.8.280": {
+      "sha256": "c443df6316b54c2c1859af34d08f0a5d88b3d6335b49459d3a08871356d35cda",
+      "url": "08/2e/2d0011017f026941bb8efe692c7f4a24077a0af0d29112b5807d2bac8755/napoleontoolbox-2.3.8.280.tar.gz"
+    },
+    "2.3.8.281": {
+      "sha256": "8b63b9f8ede7524a5384c51359e9be5d9b965aa928fde7f737b9727055dddf73",
+      "url": "3c/2c/497228f8ee5498111c16fe80ed0ef70b2c7c63451242aa769551f9da529e/napoleontoolbox-2.3.8.281.tar.gz"
+    },
+    "2.3.8.282": {
+      "sha256": "1d65d2fe881a8b87d8c8597aa2268d9cfb9267fd6c88990838c0170488daa1f5",
+      "url": "1a/96/020f132298767b049c4c873aa34ac5af88f7c52c8698111bf49566556c16/napoleontoolbox-2.3.8.282.tar.gz"
+    },
+    "2.3.8.283": {
+      "sha256": "6a06c3dada3483522cb87ab81c2f80e788fcbcd4a1f3324c741d98dcc25da827",
+      "url": "d4/7f/922a5dab514978cd65deda763933b78fe512789a6315a5847110de80957f/napoleontoolbox-2.3.8.283.tar.gz"
+    },
+    "2.3.8.284": {
+      "sha256": "3ff85e4ecc3510b588ccbffe6a1a6e23e4146c4055b29956759255e0cd514d00",
+      "url": "f0/06/0542b7232441a2e89e1b4d9a2067a82eb953053d58f7a38024b1e55bcd83/napoleontoolbox-2.3.8.284.tar.gz"
+    },
+    "2.3.8.285": {
+      "sha256": "ad6e13cdd8b7ede2d9d93cde6d53c4d3e6165d2da0fc834bc2d21e9b4e38fb14",
+      "url": "59/9e/527fb26324d36a14ff511fc6a579ba1650b85d0474438a5ef53d3eba3136/napoleontoolbox-2.3.8.285.tar.gz"
+    },
+    "2.3.8.286": {
+      "sha256": "eb2f5b225eec0a5b4011534834a75061021a88648578d12e15bb28175c857a88",
+      "url": "da/c6/3098d9b5ef16ad963fcb6a0bde974444358a6085cadc76fc0983d7c811f2/napoleontoolbox-2.3.8.286.tar.gz"
+    },
+    "2.3.8.287": {
+      "sha256": "c76a0fb5be6d7cbe7d0ac80397199cd166024e4d04ea8a5da2cfd1631db0f098",
+      "url": "bb/ec/25d6f38c6c3dd644fc05f8ab69a2be9f1334cc15480896114cac2fed85c5/napoleontoolbox-2.3.8.287.tar.gz"
+    },
+    "2.3.8.288": {
+      "sha256": "64507fca907f4ea77d72a6711c83236758bbd012c15fd795273a6920a10bbda5",
+      "url": "b6/80/0f2682a477a8ad2a67d4127f1b3d73dd16f049fb50eea8f899673c43d257/napoleontoolbox-2.3.8.288.tar.gz"
+    },
+    "2.3.8.289": {
+      "sha256": "2d29244ba8daa00df3a3cdb2402a23d22f6ed15f8efff79f7d40660559eabb9e",
+      "url": "9c/e8/bf14f6e40be8870c778074bc5246dbcbe0526b6ff7a11591de35f7e14bbc/napoleontoolbox-2.3.8.289.tar.gz"
+    },
+    "2.3.8.29": {
+      "sha256": "2984c3a84175a60a980e2cd94d5a6f92bfeff1d7653e050f4c25bc64f1d5956b",
+      "url": "a0/d0/b7a783060a8f07de30d495b024b64b4f3027af8772dd2100e7f9155a3f99/napoleontoolbox-2.3.8.29.tar.gz"
+    },
+    "2.3.8.290": {
+      "sha256": "6d30347702c06cc15f72f1821b0b0689907cc23d2ddd2162b2486afb9cf4510b",
+      "url": "c9/cc/001b5079ded756066e4e1eff8611fb5cec81469a09b6be274661b8ee15ad/napoleontoolbox-2.3.8.290.tar.gz"
+    },
+    "2.3.8.291": {
+      "sha256": "fb43e1d8b78b9bec269d1d4d87e196a4189b5706b1c7dd8dfb4200dda3d819a7",
+      "url": "91/0c/2bd385d0eb39cc9d91744ac1d85fa97b3e83bdfa9b04fb33d4055c3f9890/napoleontoolbox-2.3.8.291.tar.gz"
+    },
+    "2.3.8.292": {
+      "sha256": "ff70c7828abf88bf206123f3886255d01fe81805db607a5039993c54eb4ecac8",
+      "url": "53/f2/3f3b83dc3077d948fd5f08a9d1857c8327f15825116fa3601e6856d3995f/napoleontoolbox-2.3.8.292.tar.gz"
+    },
+    "2.3.8.293": {
+      "sha256": "3a92798af5fb2601cad0695da9e2cb5b9fad5aeba91465d8218d6fdac9836fc2",
+      "url": "05/d6/7abb19abb4130c5f590b5c98871716204289c2eee5d11cde714ccfe4b8d2/napoleontoolbox-2.3.8.293.tar.gz"
+    },
+    "2.3.8.294": {
+      "sha256": "6066742fb8079592564a6e51c7ad6252d6bce935d0823346b79dc922c83cbc8f",
+      "url": "ae/1e/b7a7c06b60db939528735ffad25ec0a1981416269a6474e4b53c851bfb1c/napoleontoolbox-2.3.8.294.tar.gz"
+    },
+    "2.3.8.295": {
+      "sha256": "af1367171047dfce8c56851cc4285ed0655923fe50444d631b3808860268b9ee",
+      "url": "89/ec/f74903b042303bf3ff3560815f7b97591bf0628372df34a5252c03ea605b/napoleontoolbox-2.3.8.295.tar.gz"
+    },
+    "2.3.8.296": {
+      "sha256": "8fd8d93b467ee82c200dba6aedeed2b747d2f1fc008bb9eab7ca680f7bd9f1d1",
+      "url": "15/00/316c8ecf5568e68256bb6d5d79c931255cf02bfd8ee55bbe04330783f549/napoleontoolbox-2.3.8.296.tar.gz"
+    },
+    "2.3.8.297": {
+      "sha256": "99a2143e644a37a5adbb992f3ae80e1e9251fb33cd6ea39f0025e5e39b2d9a53",
+      "url": "70/f3/560d9f9eddec487cd95e1b20c75ff6772e7831a7df96f11609529d329a48/napoleontoolbox-2.3.8.297.tar.gz"
+    },
+    "2.3.8.298": {
+      "sha256": "506692898ef6a3b3e7fda302622de0470b148a2dc4a789cfd06a33a5f61d4765",
+      "url": "9c/df/0d9f24b2b6cc769f94eb33ec06f2f07e2425c54a1a872fcd468f97ce7e82/napoleontoolbox-2.3.8.298.tar.gz"
+    },
+    "2.3.8.299": {
+      "sha256": "0be68760b3e6041bec9dc05a54056265c3520960957034b2c862aeac8d646ec2",
+      "url": "42/b5/6485e43049e4260d5dd1e220e469da0d33aa2aa5c05ac4704fe4940cc909/napoleontoolbox-2.3.8.299.tar.gz"
     },
     "2.3.8.3": {
       "sha256": "32620406e1f19b85c3ee18236506e031b04b396c0ce450ff2177ac3bb9c5e943",
       "url": "d9/d6/0f9cec67ecb19f6508968e5cd770b6b0794f33b081b347bca47793b25219/napoleontoolbox-2.3.8.3.tar.gz"
     },
+    "2.3.8.30": {
+      "sha256": "a8d3644c106b32f6afc81908f4a57fee86ba22fb37b8412c8bbe276199b030ac",
+      "url": "23/ac/46e1e17895e61fea1f47d9ff1ccd273d04cf410d9836d5f6152fbeaf5d4f/napoleontoolbox-2.3.8.30.tar.gz"
+    },
+    "2.3.8.31": {
+      "sha256": "92bf730ed45978ebf1187357660aa3616ee553f7ddad72e2cd3e20f5c1f46156",
+      "url": "f3/80/4359d3269229a0c8ff86e4ea5ae5510f621f4d057cdd86a66096f00860fe/napoleontoolbox-2.3.8.31.tar.gz"
+    },
+    "2.3.8.32": {
+      "sha256": "258f93d126f07ca7ee42d3a60508f114b20925a38955ee5ebcf9d9fdb5fd4902",
+      "url": "96/ee/3d84d65e542147292af2327fe726271e6bd7e12969ddd0003ece71bcec71/napoleontoolbox-2.3.8.32.tar.gz"
+    },
+    "2.3.8.33": {
+      "sha256": "de85b66da70f63bb6997db94cb31a4c9fd3f2de3d029b07ac23cae370654c214",
+      "url": "54/08/5980df44733700d0ec6ca28a1bfa7a0813ca61ecd1a0ffddd73087bd4f94/napoleontoolbox-2.3.8.33.tar.gz"
+    },
+    "2.3.8.34": {
+      "sha256": "fb3888d3f009cb70f5adfd00af2203cf518509234231fb6e2ffae7e6c08582eb",
+      "url": "05/f6/6a9c7046ae758f4d4bf264acbedfdc40a8375714506edd04eb973d87ce74/napoleontoolbox-2.3.8.34.tar.gz"
+    },
+    "2.3.8.35": {
+      "sha256": "e068c61ae14a06c928ffcd6cc2b7ff34600432f32da23491c6e11f94cb2f6bff",
+      "url": "76/22/cfa4cb7ce84adc06ffa984a6550bb18195693a0b04352d791132ea07f9b4/napoleontoolbox-2.3.8.35.tar.gz"
+    },
+    "2.3.8.36": {
+      "sha256": "94a5c874f5d571437b832ca07ad150502195e4909ca71e150f13be6af172d416",
+      "url": "e4/8f/15f138632b761d9738f043749dde4471e29014256fd4ef1263e4376bb956/napoleontoolbox-2.3.8.36.tar.gz"
+    },
+    "2.3.8.37": {
+      "sha256": "fee2f27568c5d4fe481eff44b368f2e7abff9662310ab6afb2f4a74beadee546",
+      "url": "b6/b7/563fae036d5ab2b6de7ec24704513bea0f4a4a514f288c51e9ef550ad256/napoleontoolbox-2.3.8.37.tar.gz"
+    },
+    "2.3.8.38": {
+      "sha256": "b47d8f3c4c2548bfed437a63484a260023e99da4e2dd26ad46361ef76d2e692b",
+      "url": "63/eb/f2c014f8616ca3e81c7209231ac220bc3700885a22ad53eb1a1ed770861a/napoleontoolbox-2.3.8.38.tar.gz"
+    },
+    "2.3.8.39": {
+      "sha256": "4c7fe148c5d737b842a2e986de12144fa58659ff639f7c67825baa1478ceb9fa",
+      "url": "24/04/ba5df5ad40dd7ac6928937c5fdb2c08747605b881317b1f036b261c25e86/napoleontoolbox-2.3.8.39.tar.gz"
+    },
     "2.3.8.4": {
       "sha256": "d40a1a3564f913376e864e59e6ab8813617589387a9851e9974297a525d90c68",
       "url": "75/89/f1a043cb8249b278853f78f13bab2cd2eebcffe26d87b457f43451115a4a/napoleontoolbox-2.3.8.4.tar.gz"
+    },
+    "2.3.8.40": {
+      "sha256": "a1b4f8dd968a18bcfd074e1c12af3f5d9b4d6142ae5bbeabcf1a3c7f7ccc1c57",
+      "url": "a6/9e/c0c0ba546e91f1b253bf3d7ec74c2837a8382d19eb685d1012cab2431b3f/napoleontoolbox-2.3.8.40.tar.gz"
+    },
+    "2.3.8.41": {
+      "sha256": "1b976e3012e69dd74026e934aac9e1a84304ddb3399db2147543d8f17ca566dc",
+      "url": "42/c5/9a5b78f50dd81535b862585b954a29b5d991a3de877a7a67d33d0e95fed0/napoleontoolbox-2.3.8.41.tar.gz"
+    },
+    "2.3.8.42": {
+      "sha256": "f0d66417d0780d0396dcd6017c9a52446bdb7df793c29d8f17a51a4a3a857777",
+      "url": "08/33/3ae166a4f51000b9b4a927e4d56e5d6df0552d041ebb6c4672d116a70b27/napoleontoolbox-2.3.8.42.tar.gz"
+    },
+    "2.3.8.44": {
+      "sha256": "e973260fe05f69a71fee8495309c19bf627a11fc0ca4bd80d115c1ad8dca3f84",
+      "url": "15/9b/b3e7764aed6f167a5ba0260fc8e61381fc5a677fc5c1f436379612c2e3a8/napoleontoolbox-2.3.8.44.tar.gz"
+    },
+    "2.3.8.45": {
+      "sha256": "eb2142d437f631ebb79a4898fae8e18607014789f339af7a2338b11415fa6fe1",
+      "url": "55/aa/957aeafb5696bdfac3e956068f50d14bc722f98793804dbe59b7cdcff8b2/napoleontoolbox-2.3.8.45.tar.gz"
+    },
+    "2.3.8.46": {
+      "sha256": "60f47e5c5f254fd86a138ac98b147e3d9b928577b3bab85fc86c27b6ac769798",
+      "url": "de/ff/2860dbd2db60497f9804bf2ef80cd6a57da1cbf0ea738fe728575dd60e3d/napoleontoolbox-2.3.8.46.tar.gz"
+    },
+    "2.3.8.47": {
+      "sha256": "06c1da4145cd0cf3790119a5041bfc545d9d989798eb02dffc05bb7a8469670c",
+      "url": "86/24/bbaaeaca0c2f8474f3350132cf13cfb5962adfae31e5d957c23ce74b8c15/napoleontoolbox-2.3.8.47.tar.gz"
+    },
+    "2.3.8.49": {
+      "sha256": "be94c3ee9b320b43161b3a99d0379d61dc7a39ee86125e9ce49299e00eb4e04b",
+      "url": "10/85/9d351b67a79ba7f05db67e0bd692f8fb501afa51a38229d259d7d60c0bd7/napoleontoolbox-2.3.8.49.tar.gz"
+    },
+    "2.3.8.5": {
+      "sha256": "c7a06cab5818cb8b658f2361d4d151621dd7b60b5061c2c1d4285e9df70c2f54",
+      "url": "7f/e8/75fc440d916cf3561fec74d42078f81f4cc0fe46cbce20daa5255e5e7a29/napoleontoolbox-2.3.8.5.tar.gz"
+    },
+    "2.3.8.50": {
+      "sha256": "10102499dbe3aed692816c0c30f012013ad4d353d88ca302801f48183ceab57c",
+      "url": "f0/e1/02646ade8a6c9cd0d446957577a9d17c0b46875e90f0b681cd027c373020/napoleontoolbox-2.3.8.50.tar.gz"
+    },
+    "2.3.8.51": {
+      "sha256": "c30e1d11a9e56f614c03fdefca4029ed9a82b865255ca40303358e71f668b347",
+      "url": "c0/c8/8f4f774dc62bbf9a46b892949ef41cc5e17a32ebd6ee32d52795e2d876bf/napoleontoolbox-2.3.8.51.tar.gz"
+    },
+    "2.3.8.52": {
+      "sha256": "c5a1ef775396f4023ea8f2efea1ba68242cbdb6b842b487e677bb7c6f7a84abe",
+      "url": "d0/5c/f07bb1cda7477ef5dc4fd9d26b2a951ac85b4ab5d6b732c3416f117599e4/napoleontoolbox-2.3.8.52.tar.gz"
+    },
+    "2.3.8.53": {
+      "sha256": "e0b404363920a46c7a91bb890f8aea58d398ac836b8d84399490daf95063ec27",
+      "url": "f3/74/dcb14fb32456ce2f7a6b1d44b6d169aa6517bde43ac7d7ce620a6f710590/napoleontoolbox-2.3.8.53.tar.gz"
+    },
+    "2.3.8.54": {
+      "sha256": "0b6fcd888f0279efba36efc298ae4ad14e80b9dc3f5e3add52d4bf6a41ba82d7",
+      "url": "0a/4e/b6812fb542d73aebbb683f8fec2acb60286eb85b56ceb9793a488f818d84/napoleontoolbox-2.3.8.54.tar.gz"
+    },
+    "2.3.8.55": {
+      "sha256": "766bffdfef10840d6125c052f2fbd308ccdc4b4a978500f436ebb6ea78b2b14a",
+      "url": "da/6c/ff19eb57282ee86cd8a09826c7676d8481ddc1bbe987c5eec078db3c419b/napoleontoolbox-2.3.8.55.tar.gz"
+    },
+    "2.3.8.56": {
+      "sha256": "ac3e7d0fa6f6928e893a0d560113a98a5b99991ac63b3847f1f63c71656ed48c",
+      "url": "f5/bf/14b82ae9de096cfc1e105f2cfac67c98d7a1dd50b25b3ca7bc80c95b872e/napoleontoolbox-2.3.8.56.tar.gz"
+    },
+    "2.3.8.57": {
+      "sha256": "10c43d588fd19658df620a3d9f12972d3ed8d05c6826916d421cf57c76a0f512",
+      "url": "c6/eb/4460b5b7894dd652656ad3bb62eaf60bc4e847287a62a1d53a6ded9281fd/napoleontoolbox-2.3.8.57.tar.gz"
+    },
+    "2.3.8.58": {
+      "sha256": "3380793134247b11ca2a7ecdfeadb0dfc6becdd99c96411b831c54d23c797232",
+      "url": "59/77/119057f2013de0e03fefbd1ca01a2d4e997dd5cf8840a18e2c19343f9bd8/napoleontoolbox-2.3.8.58.tar.gz"
+    },
+    "2.3.8.59": {
+      "sha256": "9a2861a39971351569dddd76006af384cde92cee699a016866e69c5ce4177849",
+      "url": "97/c3/4541c49a756c5b0909d5a1f40b700d85208d40d5d11335d181080164ccaa/napoleontoolbox-2.3.8.59.tar.gz"
+    },
+    "2.3.8.6": {
+      "sha256": "467aa696b3ac05f14da94f75dd8f8a0bbdfb635001bc30d0d673afad4034e6b8",
+      "url": "ba/ad/64ba8d8c2eb9d5486dc2b25e7f3c043a95ee297d749ca8c304127b814e9e/napoleontoolbox-2.3.8.6.tar.gz"
+    },
+    "2.3.8.60": {
+      "sha256": "f7aa9c743a1767b2e8dcd7fab7c67e8d83371ce6f6fd6bf7b30b22c774feec60",
+      "url": "4f/1b/757e2bef21ebfb88d67abec4815e8086e93dd700fced181b25aaffec536d/napoleontoolbox-2.3.8.60.tar.gz"
+    },
+    "2.3.8.61": {
+      "sha256": "5122191339bd51f95fa090d5eb6267e2d6e62a7031ba5b89d8ba27b46b42a6f4",
+      "url": "9b/6f/e1ba3d961e8df07081ee9a5351c9da8a67f2f35d52171c5b3df524d9ba70/napoleontoolbox-2.3.8.61.tar.gz"
+    },
+    "2.3.8.62": {
+      "sha256": "5e6ca893e381ef02378a9904b0437a42005a30ea48e515a479fa0ef6d88e71b5",
+      "url": "0d/65/dcb815808800d2054bc910ae9fc8de75c95c256031ac84dd4fbe5d2d84d6/napoleontoolbox-2.3.8.62.tar.gz"
+    },
+    "2.3.8.63": {
+      "sha256": "086f5f2c09a1441fb8bd6f515921849f890739289c177fb3abe7d28d84dc405d",
+      "url": "da/f0/02f68d09da3c568a42f867c88358d7e4462f44f69bf20c3d58626a02ee8e/napoleontoolbox-2.3.8.63.tar.gz"
+    },
+    "2.3.8.64": {
+      "sha256": "2de2171b7a1c3f341058908a85b7dde6bbc5339d18ca40bb6d1e99d96a7673c3",
+      "url": "f6/f5/115c73bec2c1b4411fee196d3f21fdaff6f91c8921f9c88c819e5e6bb53f/napoleontoolbox-2.3.8.64.tar.gz"
+    },
+    "2.3.8.65": {
+      "sha256": "948903c555124124f2ba357e1add28df84679a46e50f2d0e602790c130c70825",
+      "url": "7f/76/917c1ba1298818f868674ecf7e64c7198cab465e1659e4e19ffa837631fd/napoleontoolbox-2.3.8.65.tar.gz"
+    },
+    "2.3.8.66": {
+      "sha256": "494b66e45b3a7901846ac55403f0c0e27fe610a4e8226428487cea7ace4d342a",
+      "url": "14/59/f27c5f87c9a09bf3798c6095b21cdb04c577f3bd580207953dffd6a48fbd/napoleontoolbox-2.3.8.66.tar.gz"
+    },
+    "2.3.8.67": {
+      "sha256": "61e85363edc01e6f4f7cf03ac48dcfa9873374f4bb59edcd25233e9f3a7273fa",
+      "url": "9b/71/bdcca83f6c9f7c831b9b4ee5bd27cfbfcbaff41e35030080a6eb260c1a80/napoleontoolbox-2.3.8.67.tar.gz"
+    },
+    "2.3.8.68": {
+      "sha256": "9eca9a2365ecfbd68d52f781f81c12ed39060bd530769ad674b7ed651581d7a8",
+      "url": "1d/ca/b43747d22fe97bbda3e5e010159f3fada53e6a7aa71673d22a6c671c86bf/napoleontoolbox-2.3.8.68.tar.gz"
+    },
+    "2.3.8.69": {
+      "sha256": "f53a271e202054c8eb016bef1516c948f712092f2a8a0474e6f9d62031556616",
+      "url": "0e/14/b536e98ea66e40726b9e4581681ff37a6c45e01a59d08a0ed9add6a6dbd9/napoleontoolbox-2.3.8.69.tar.gz"
+    },
+    "2.3.8.7": {
+      "sha256": "faa9433d450ba70fe91aa0a07a591a2ce5f42944093a80b5828139eb7df8048d",
+      "url": "54/83/1ecb62bd872e9e286e99b367ec1d677eb6907653594a816d2bd736b18bdb/napoleontoolbox-2.3.8.7.tar.gz"
+    },
+    "2.3.8.70": {
+      "sha256": "4cd8668308aef4c916c1e41fc8fc1ece00112b09ec1b7a02c5a3b70b5b6389f5",
+      "url": "1e/e7/bff9f113378d89f2d22d23ad5fe728f9eea61383d014a5c721d57f97af81/napoleontoolbox-2.3.8.70.tar.gz"
+    },
+    "2.3.8.71": {
+      "sha256": "e022084e7df30a479f9c40b1f51cf9bdda2b665d7d6d6a35df3d6d7f50f8674b",
+      "url": "db/f4/24779424f0ac28d381043bf948779d5238088e53b79ab724e8e0b6a02c52/napoleontoolbox-2.3.8.71.tar.gz"
+    },
+    "2.3.8.72": {
+      "sha256": "3fd6d7e042e2152b9a39128757007de4d45646e8379daecea33768a0bf35583b",
+      "url": "fb/96/4f9c3cedbf5830c741d6cc199cf18e87d0103ae5bf947d47081dfd932d32/napoleontoolbox-2.3.8.72.tar.gz"
+    },
+    "2.3.8.73": {
+      "sha256": "e30dc18fecf1d35b23816d7aff956b85d2297c238f683539c40ecbd06748c065",
+      "url": "12/8a/8a6c82b2d6f73558cf19635adcdecf8e719ff0c1ed70596188a6e80dfa8b/napoleontoolbox-2.3.8.73.tar.gz"
+    },
+    "2.3.8.74": {
+      "sha256": "bb11f1f62575e6ce67928ee5c08b9f7bbdffc45d231e75d2d9e41b6494c2f1f2",
+      "url": "f4/0f/351aa4b3f0a89c75a479f116d08e2ef721d532ce77a4e09a81b39859c267/napoleontoolbox-2.3.8.74.tar.gz"
+    },
+    "2.3.8.75": {
+      "sha256": "0eab694743cd62dc9b0248a4fb3eee3476d220dc2e01cb8f42fe2b27866c9b3f",
+      "url": "71/f8/c0a037fa17dbddd5fdba831fc6373279da1644846e6e8a64f937e6ce998c/napoleontoolbox-2.3.8.75.tar.gz"
+    },
+    "2.3.8.76": {
+      "sha256": "f8693164e7ec4ea0155e93d920041e26c354b9e8b9ebdeb5e64a21375b565777",
+      "url": "12/f6/2ceb08a340c4914b59d66f707578a396b1dc9b2311d435303c228d143dc8/napoleontoolbox-2.3.8.76.tar.gz"
+    },
+    "2.3.8.77": {
+      "sha256": "54d4eb57442867b24c321e1c4dbd3c393b154f39fe70ac972fb6092fda1a409d",
+      "url": "0f/f2/e73f4c0a5d514f5d027f3d0c96cfd475f58f584314965dfbafb81d378b50/napoleontoolbox-2.3.8.77.tar.gz"
+    },
+    "2.3.8.78": {
+      "sha256": "2173d3e94d5182fca8f626b008ffb58357c2c9e05758980a27d6e206af09be3e",
+      "url": "42/85/7e5f74875a6f274fce0d2a234220766dc31e3fd5f8b997b8d578cea4aee3/napoleontoolbox-2.3.8.78.tar.gz"
+    },
+    "2.3.8.79": {
+      "sha256": "bbc0a2d136fc038810a6add8c3ed55e845dcb72a3c6a50c1db604948aebcbda7",
+      "url": "c9/ca/59af8afd61f6acd8e5a734aa762ec5cf526c10b3974428d826fd8e4b81ab/napoleontoolbox-2.3.8.79.tar.gz"
+    },
+    "2.3.8.8": {
+      "sha256": "21b3414ab51465606e0539b5ee940461432bb9b84c4ab3e70d0f716ca016a83a",
+      "url": "97/b2/8fc4522b2085a34c583f43facccad9034328b002b4d93c905550f060e93b/napoleontoolbox-2.3.8.8.tar.gz"
+    },
+    "2.3.8.80": {
+      "sha256": "1fb5f103bd0c96bc2bdf1dbba86c7d2455ef8590ec6978f6f4bfe0fc61f39f5e",
+      "url": "06/64/aa9c49b9c06bde23639f6f14762891f2e97b15d659e25beeea93c8a80759/napoleontoolbox-2.3.8.80.tar.gz"
+    },
+    "2.3.8.81": {
+      "sha256": "fc13629a2a2f49ad8929e785d6a7b67a194f3b356ed805bd76d3c78920e3d642",
+      "url": "c2/06/ddf9956225c402359fff706200dbe8234b64e04b3809a86fe3f32e42c4d0/napoleontoolbox-2.3.8.81.tar.gz"
+    },
+    "2.3.8.82": {
+      "sha256": "d1707f4fc0107bf3b114aa12a4cd0789cb64fda007a630380cb1a0a65ec4d0bc",
+      "url": "dd/e9/bc8bd8ba35c02257e9fc28bc4812db61fd916ef81e0bc4db3c384028d074/napoleontoolbox-2.3.8.82.tar.gz"
+    },
+    "2.3.8.83": {
+      "sha256": "66edf44061565c262de3db68a0898beb7d93907b5ca6ce192e58456d5d215136",
+      "url": "9a/b7/8b2f1979d80a3bcdb0c1dc39b4ea40718f553889a03c9c7c09dee066792f/napoleontoolbox-2.3.8.83.tar.gz"
+    },
+    "2.3.8.84": {
+      "sha256": "210b9437de7bed5b668a028e4924e9e19b6a6cc1854cb8ab03698583a62fa307",
+      "url": "99/8b/74787101928d01d8a8cde08a8fd2a05a9502c313ef5b8dc93e692bbdc3a1/napoleontoolbox-2.3.8.84.tar.gz"
+    },
+    "2.3.8.85": {
+      "sha256": "b6f5d146883c74f2cfd277674365489068d793acde2ac997a796787889565ca2",
+      "url": "bd/57/c030faa9f13332bd5bb25b0c473029bb580e045f05364fb7a51cea2786b5/napoleontoolbox-2.3.8.85.tar.gz"
+    },
+    "2.3.8.86": {
+      "sha256": "81031b390cf8da88fbbbfe22deaf506ec62a4436047eeceb78e83e2ea3cefbb2",
+      "url": "5a/ec/e7652a3c38fba249ab2860728d1c46a146a74f360a1ee80fbdce48d15f63/napoleontoolbox-2.3.8.86.tar.gz"
+    },
+    "2.3.8.87": {
+      "sha256": "26faf3eea0ad99ff0b6a28b24846e64e4b5ebe48a51f3e5b992fade7fb7d330d",
+      "url": "69/17/3eac4685e549a3901c49ac047522eabc7b17848eac4647789d8d2551cc4d/napoleontoolbox-2.3.8.87.tar.gz"
+    },
+    "2.3.8.88": {
+      "sha256": "e5f4055ec7395ce48cc8cfdab60f1241d66a2c4ca47d10f6082178d379e6a51c",
+      "url": "9b/df/93538b5ead4842e538ee6cbfc9fa86d7cd855d7adc33e4925a9e812fe0cc/napoleontoolbox-2.3.8.88.tar.gz"
+    },
+    "2.3.8.89": {
+      "sha256": "dde36e575e20a861d1e6cf417f177bf0e795000d727fbc58a4912dd901e00a10",
+      "url": "9b/90/87ecb0ff33dd3f5001c5e86df064482713cb66385017db8fe063aadf95df/napoleontoolbox-2.3.8.89.tar.gz"
+    },
+    "2.3.8.9": {
+      "sha256": "99ac348feeae18446bbc61b416a65e0e437b92ec2e774c3e6831f9c6a7dcdc0e",
+      "url": "b4/2a/fa026cddd3f4180f0cde911facec3078a2d3a2d2fe3f7e49b6c315bf24a7/napoleontoolbox-2.3.8.9.tar.gz"
+    },
+    "2.3.8.91": {
+      "sha256": "4a4c86fd65c640d2438fa6056227aaf56e12817bea96278c7631750ac04ad994",
+      "url": "d3/9d/c76bcb5bac6497ec0f35d5ce4e5b7668886054490071e7fd60be6db67d1c/napoleontoolbox-2.3.8.91.tar.gz"
+    },
+    "2.3.8.92": {
+      "sha256": "092c797cf108f09ca89379a4ff4c0a4433d3f10c02ba7000961c069a7e6f1a84",
+      "url": "f4/30/95951eb88406d4daf8a695e12c7ba0981b1eb0c9546c53d6c5c191419360/napoleontoolbox-2.3.8.92.tar.gz"
+    },
+    "2.3.8.93": {
+      "sha256": "39731a4d52982f75e9b5d8cfea862bd7c013a1fb176b1d8d2ca37160d9cd2764",
+      "url": "54/08/b274c459c0c084e8185c2519767e08bcf8f51f3f2e1af9bc0bed3e8ffc6a/napoleontoolbox-2.3.8.93.tar.gz"
+    },
+    "2.3.8.94": {
+      "sha256": "10f4341a93d33201b8300250e6d2e4f2fb136ede626ebc2ad9201934da1e26ee",
+      "url": "41/ea/89a8b74176a51f4d403903e588734707abcff02a3148ed23e07b2159388b/napoleontoolbox-2.3.8.94.tar.gz"
+    },
+    "2.3.8.95": {
+      "sha256": "b94c357f748af26d4c77978196cb815eb518cec866df92ecc6b59b86eae4dc86",
+      "url": "cc/ab/5dcee5e25c62d6caba92c67cda85678c2e340b99990f537071afed1fc99d/napoleontoolbox-2.3.8.95.tar.gz"
+    },
+    "2.3.8.97": {
+      "sha256": "6a90f681bd51eadf4f39398b282a64a20a1304ccfe7adc1d482d226abd317506",
+      "url": "03/0f/c9532cc106c5513859df4f24f884d5bb05e595741f1d9bdca1890712547c/napoleontoolbox-2.3.8.97.tar.gz"
+    },
+    "2.3.8.98": {
+      "sha256": "0ad25d176e0d8b31a7b4ca41e345e5b6cec164cc38d86e83d7a251a80e39863d",
+      "url": "91/f3/f86bc2c22e9e7463ac7a315e7901b1383be4a0f408d05b04bb927a5e7d97/napoleontoolbox-2.3.8.98.tar.gz"
+    },
+    "2.3.8.99": {
+      "sha256": "c3af97f340339531584e5ac744d1ecf2f0d223986bcd9c5403a81349746bc15a",
+      "url": "53/bc/99abf51daddfd957fb4a3ad0c970b07a5178a15e69d29d3e11679845a7d5/napoleontoolbox-2.3.8.99.tar.gz"
+    },
+    "2.3.9.0": {
+      "sha256": "584fe78e631e077d63b041323fb73239479f6fda7104eb002169846f0885a556",
+      "url": "3f/4b/805320976aa89649443035761aa0c8f2ef82fdcf4919f0a5324b5eeb9d87/napoleontoolbox-2.3.9.0.tar.gz"
+    },
+    "2.3.9.1": {
+      "sha256": "2fb27703e04451c4715cc22c28e2ab25d8521af3273f88a5b67be2ad72b13619",
+      "url": "f5/e8/57bff4930a61bbe985c10c9d97c3d284273a238892f50f4baa0de1a7209a/napoleontoolbox-2.3.9.1.tar.gz"
+    },
+    "2.3.9.10": {
+      "sha256": "4040a58f75c20cdccee00439e5b28274f200886f944828438c68258fa384e7db",
+      "url": "96/3d/a466a09b66542eb1f19cc0a08a2cc3f2ac361df5ac9521868f912ab18a6c/napoleontoolbox-2.3.9.10.tar.gz"
+    },
+    "2.3.9.11": {
+      "sha256": "ecd8ca70db459422d3c8ba50427690d91ded932b3de18f1e5aedac37ba00d9b0",
+      "url": "62/b4/f2ce4d55fcde1430907c9af493173715630f7c02e7e4c7dbebc870f158de/napoleontoolbox-2.3.9.11.tar.gz"
+    },
+    "2.3.9.12": {
+      "sha256": "ba136399dc87e7596ee781ced861fa24725407aaa5cb1f163e8f2107c23cefd2",
+      "url": "8c/c2/87655b8154aa0146c61c526c2c88707ff17ccae1cb4a8ca08690d4ad4a80/napoleontoolbox-2.3.9.12.tar.gz"
+    },
+    "2.3.9.13": {
+      "sha256": "83e061a97e24591976b970c032656f04d5139837ec10948d3693b018a132b077",
+      "url": "1c/ab/537cd6d826c3ab08469aebc4f025b930e8a8938ddc561060c7790952e89d/napoleontoolbox-2.3.9.13.tar.gz"
+    },
+    "2.3.9.14": {
+      "sha256": "187d668df978e91ea5a09ba8fb34bd7a2462a930b5a86175b9e3c244114da919",
+      "url": "cf/5c/b195b12c880cc7ea34f8bf5de4a781d9cdb117799f8fda06a870af969a84/napoleontoolbox-2.3.9.14.tar.gz"
+    },
+    "2.3.9.15": {
+      "sha256": "cc49b27b1ceeda648a43c9240377b007f3308a5e165e4a403e6883ce1da7e8ed",
+      "url": "c6/43/7f7c0001320619ca055b467f342a2f37472af80adb4a65f6f781aad50fbc/napoleontoolbox-2.3.9.15.tar.gz"
+    },
+    "2.3.9.16": {
+      "sha256": "800a095f11187f03c7ce7bce511228b9c6db54927f829ae8c228dd4ae3a99a36",
+      "url": "be/f2/8204d8af6a40d13e3f43486640d0591d944e338fb0ac9d72ed8cdd69e1bf/napoleontoolbox-2.3.9.16.tar.gz"
+    },
+    "2.3.9.17": {
+      "sha256": "7bd8957ee00d0976861c2a9106810414cc5049c04f6096bff03a051f1a4166d0",
+      "url": "19/08/49d178cad6a596c9c54552c5461f09cfee37b871587ea2f786c57891b008/napoleontoolbox-2.3.9.17.tar.gz"
+    },
+    "2.3.9.18": {
+      "sha256": "bfc1524ffac54eb6f1e72567e51b12028bbca05869945df068166c771b7f091a",
+      "url": "f8/83/a808ca16418ad368559f7b1f85d35ea7b20006269584cc56f1bf4273d13d/napoleontoolbox-2.3.9.18.tar.gz"
+    },
+    "2.3.9.19": {
+      "sha256": "9ddc61a705606dd003f6e3b8390badadb484f3e5f610e5f9559bf7e9ee57f15b",
+      "url": "38/d3/2de86c677615273abf8470906d3189667272a86b37fccbc5119695713e06/napoleontoolbox-2.3.9.19.tar.gz"
+    },
+    "2.3.9.2": {
+      "sha256": "80c998f5547e1a55589567d3b4b62afe658878823b31033aea5d127fd1f94bbd",
+      "url": "5c/0d/f0027c62b78435bbb04a1d3de93eaf2bbeec5b120107902dc0b2e7136822/napoleontoolbox-2.3.9.2.tar.gz"
+    },
+    "2.3.9.20": {
+      "sha256": "620b200f033c70f0584c0de3821616fad0502e5f1c41108b12c675ee280e1776",
+      "url": "da/61/e2cda3ed86ec00c8f9edece68c8690a5038266bbdd73b2efd2e3b0d149a4/napoleontoolbox-2.3.9.20.tar.gz"
+    },
+    "2.3.9.21": {
+      "sha256": "cefb4d395a660e59db8ea05a5bb3c4aa3ed8a4fb86b1318743462cf8b0473da0",
+      "url": "b0/9e/1f2066761e52194acfe70d553674831646aa3497b6203e4e983a8a3c1a76/napoleontoolbox-2.3.9.21.tar.gz"
+    },
+    "2.3.9.22": {
+      "sha256": "2f54654b8c7bb2f6c8693dfbdbd4dd5455c81c1b52ecc4a57a544b526df53f7c",
+      "url": "be/f2/beeaa94b5b1b333c67de85beb9f82ed065382c7928ba30214147d3f04e6f/napoleontoolbox-2.3.9.22.tar.gz"
+    },
+    "2.3.9.23": {
+      "sha256": "313b26d6d3e7e8e2324dd098feda5bb259c90fad7e6219f155576e205789f0c5",
+      "url": "68/e1/5e0c48e193fe54155bc03e14760de2e83237f15eb809145fbe664066fc47/napoleontoolbox-2.3.9.23.tar.gz"
+    },
+    "2.3.9.24": {
+      "sha256": "42614f1aeb68af67b6be307985258abee3df460a01306444361eeb05be916ffb",
+      "url": "66/87/dc66fda124096995a4315f88165433efb2fdca3ed243e3688cf565713179/napoleontoolbox-2.3.9.24.tar.gz"
+    },
+    "2.3.9.25": {
+      "sha256": "9e4b996e0bc6fef1cd40fc8b2af6072a5dad5f1c3e0d1844d81bca2fa2fd0162",
+      "url": "ec/97/aab36ec6dd9f05498977a4732e5ccc8f8d712fe8c64bc8a3af0558b7a167/napoleontoolbox-2.3.9.25.tar.gz"
+    },
+    "2.3.9.26": {
+      "sha256": "c41669ed6be63f7584cbf7bc5911f07491d94057a44c1985ed430a7b7eb324ec",
+      "url": "02/3c/04338ab9cb67d249098a91ad079609a256b5bdeb2f6ec469f8212f4aa38b/napoleontoolbox-2.3.9.26.tar.gz"
+    },
+    "2.3.9.27": {
+      "sha256": "47bac1804a25b88830014bf1edf83b4d0fd30bc9add1cf33629ecbddb73d8455",
+      "url": "25/ec/b0f5dc3d6c360e5439368993ee17938044607fee96e94699899684f3eef7/napoleontoolbox-2.3.9.27.tar.gz"
+    },
+    "2.3.9.28": {
+      "sha256": "94d8c8b02880e916898e211eb0bff6d362e6e4942fe5f86ba25f994940c0cd7b",
+      "url": "54/ce/ac3328dfca798023e08edb3f237b59f10831d66d16507f78a4b2acced668/napoleontoolbox-2.3.9.28.tar.gz"
+    },
+    "2.3.9.29": {
+      "sha256": "510d7ae057af9b114070b7710510b6d1ddf920fe60fd964e78fd0a4f18ff0533",
+      "url": "bd/0a/ae0f3de2e2c04c5145046685224400bc2d74d0e053749975faf6b53034f5/napoleontoolbox-2.3.9.29.tar.gz"
+    },
+    "2.3.9.3": {
+      "sha256": "3e0f6b5dd672b87bb69ee905fe4d600ea2308c23801788488a3a4470d19f4e62",
+      "url": "29/ae/ef6c7634fc8845d7c630d25dd12a6193226e747d36905ed4f6a3cd7d7aaf/napoleontoolbox-2.3.9.3.tar.gz"
+    },
+    "2.3.9.30": {
+      "sha256": "0fd9365f701c177c3dcba76762c1f5d62decebbcfed96d3e26756dc18ad0c7a0",
+      "url": "f9/56/bda61d334c0f2aa855376de2854ac3cfff1596970fcc0a64652196a2a648/napoleontoolbox-2.3.9.30.tar.gz"
+    },
+    "2.3.9.31": {
+      "sha256": "9e7e4fd6095baeb2c54bfd9ec6874ef6b974ac7d39e24f4de928923018a3c6a1",
+      "url": "d2/b0/d42be407e7acd20f26bdccf5aa917f432b4124d5682c1e2fdcbd7dab4f23/napoleontoolbox-2.3.9.31.tar.gz"
+    },
+    "2.3.9.32": {
+      "sha256": "eed281e3c694a34e84688058f3cf7a33802a7dc434485e3fc88ce9d08429c5c5",
+      "url": "23/29/5ce7fca62589d97e3abfcf28760394d488ddca766924e2f256e5330d9d6a/napoleontoolbox-2.3.9.32.tar.gz"
+    },
+    "2.3.9.33": {
+      "sha256": "608360f27e57f726d922af91fb31b1f8c0fc44dfcf042607f22b6d515342de73",
+      "url": "ff/29/7b6d2e3f1070ee0301189c30953ec6e017f3d85a818f5cec5ce4ddca6cbe/napoleontoolbox-2.3.9.33.tar.gz"
+    },
+    "2.3.9.34": {
+      "sha256": "861f858ebb3b5491a4f0b9306b3aac4b38b9e453e5f36995d17db2ed4f91a915",
+      "url": "d6/24/fea1308db851972c8a93a99bb7fe8a8c410aa205d68432e43a2c9fe7a747/napoleontoolbox-2.3.9.34.tar.gz"
+    },
+    "2.3.9.35": {
+      "sha256": "5c0d8718d3ce3f76617488d63e60b2a80049e777596cc69b3414eb27a2e9edf1",
+      "url": "e7/34/aeeac3880894f99da9c8dc9a08f61600d8f84a895c4e2c739a38d5d186a3/napoleontoolbox-2.3.9.35.tar.gz"
+    },
+    "2.3.9.36": {
+      "sha256": "6db8172ad60d233a2b4efedc881f59f17cc5ef98af9ff2514d90a9c908391853",
+      "url": "df/9f/1fb54eb50f38fe4dafc24ddd48d152a90affab90eadff52ea82d245e0436/napoleontoolbox-2.3.9.36.tar.gz"
+    },
+    "2.3.9.37": {
+      "sha256": "870db62dd824dd916e2dfb9dffdfbe935d1ebe95468d63fb0c8452ce8ff4840d",
+      "url": "e2/ee/cfd78daeebe60df2dcfbe300e7f19a030f972ac8fba7a3a7c1ac55190c13/napoleontoolbox-2.3.9.37.tar.gz"
+    },
+    "2.3.9.4": {
+      "sha256": "ac4351d9afee9d9851367a44163f755062f45d238af2d904fc5614fd4c78f392",
+      "url": "5a/9f/72b2684e2a4f3b327033d3c6fe3e12f847f6b0f7307aa40aaf5b2a5b0991/napoleontoolbox-2.3.9.4.tar.gz"
+    },
+    "2.3.9.5": {
+      "sha256": "cf52b51ff66527e769ac5dc498136cdeacc19d7af9cbc641d91ea413e462cf24",
+      "url": "ef/6a/22dcc05009bfff5fddb0193c2a62d50787d20fec74082e5d0f39e5afd07c/napoleontoolbox-2.3.9.5.tar.gz"
+    },
+    "2.3.9.6": {
+      "sha256": "04cc55696865a31f66acd24f5b6ab07ba43fe12fbf18fe2653f5fb256b6a9614",
+      "url": "03/24/992b89b355bb5a3afbf721dc91e0528a4431dbb6bc1024e912720fa5a793/napoleontoolbox-2.3.9.6.tar.gz"
+    },
+    "2.3.9.7": {
+      "sha256": "fb16517c67417732e9be0f692f5e31f3e5fecdf6482958fd8fd0ccaae60af073",
+      "url": "f7/f6/030df92a35db54fbc022cb4b4b83629391c30ed25b8897f7df44095ba35f/napoleontoolbox-2.3.9.7.tar.gz"
+    },
+    "2.3.9.8": {
+      "sha256": "3e0ab65157430cb002c58a7777a764fae51dd7731d0f012bd415ebff70da8938",
+      "url": "ff/ca/35e101e16d83c69ad946ef20de31999eab16fd34c65e2db06bd2a33147ca/napoleontoolbox-2.3.9.8.tar.gz"
+    },
+    "2.3.9.9": {
+      "sha256": "3461281aa5e8365a279dab277bc6a93f96effbdd667058bace26875c79f25879",
+      "url": "3c/56/1fd25e77bbc1179659f6a559d5c279a9f06de2df3f510694a706b38d317a/napoleontoolbox-2.3.9.9.tar.gz"
     }
   },
   "fishpy": {
@@ -2957,9 +4309,21 @@
     "0.0.4": {
       "sha256": "0db8edb3b56f1159bf44239007c416a9d8ef601af7794abeab6e8e059c8fb19b",
       "url": "60/ee/096ed0e07b234f8d556121857ea6866c7d8276dd74f077d8987739f7da65/custom_glue-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "4c26f13c060b0476c99504e9db0ebd69df2245feb064235dcbdf9a720672f48c",
+      "url": "44/4c/ca44ea163f1a8dde97727f9ce1811b69ed9695f7f3b157f83465569357e0/custom_glue-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "f544d9815fca6d407c85656ca763e1fdf36adab12bf89cc3b8e1881cc0f90f8b",
+      "url": "d7/c2/a501db409351132b7d6d7e48eaee17c302da9e74ebf7502e7cf3a1582780/custom_glue-0.0.6.tar.gz"
     }
   },
   "pulumi-linode": {
+    "0.0.0": {
+      "sha256": "33899a128a59f79a93242357127678d663e61edc554d7f2ab9a3e93f43b7c326",
+      "url": "4b/70/72ed3553172cd152fef374f0288217e40f7242b8e1f046713b65fc4ca2bc/pulumi_linode-0.0.0.tar.gz"
+    },
     "0.0.1.dev1556811273": {
       "sha256": "93dee54fc17e28ff2f7bf25324ed5070487cb32bf7446f73df518f5a92b51f0a",
       "url": "72/73/6c7adba6bb942997ec0a91d2c4186a644a9ad51f8d4d3aae5bd04b3da361/pulumi_linode-0.0.1.dev1556811273.tar.gz"
@@ -3168,6 +4532,10 @@
       "sha256": "279bfba0b0f080c3215df4489ba416834a09632213dcf0bf705b78c1612fd9a8",
       "url": "9d/bc/6f343cae06c5ce628fc1ea0a3a64b535590a17cad7b2dd6cafdd8d75ce49/pulumi_linode-1.4.0a1580301683.tar.gz"
     },
+    "1.5.0": {
+      "sha256": "a56d79499a5b551f1b0d31b95c08c7cb317367f88e69c878cae697089a030ca0",
+      "url": "41/f8/e51cf9f3c1a0b2056d363b4cbbf1eae9cc8fe52a10bd8f45d62234e7d1d5/pulumi_linode-1.5.0.tar.gz"
+    },
     "1.5.0a1580416140": {
       "sha256": "d1048e8bcc877a2f6e80b3c0c2e0abe68a2b5d440bc7311490ae1fca19f8e6d5",
       "url": "28/7e/028bf311c31d64dba2f38d2d7f225f5cf1a1202a038da2188cd1989e141c/pulumi_linode-1.5.0a1580416140.tar.gz"
@@ -3179,6 +4547,30 @@
     "1.5.0a1580428694": {
       "sha256": "5152e1abf2483ac7bfc0fa56a47de1b2483e3fb504c11efeaff18d793ab15b6b",
       "url": "33/f1/fc629ce62c2c6b1064fbd202b16b7703a9f8b4da16ae8b40f77f091825fc/pulumi_linode-1.5.0a1580428694.tar.gz"
+    },
+    "1.5.0a1582795170": {
+      "sha256": "5f92bad6587c0dedd4c38c42a71e0dbbc2c439b95983a12bf5962b32e6b4e13d",
+      "url": "41/a5/4ea3561e7e5e2f2dbb3edda628d1b25958335353091dfa1cbe225ef2cde0/pulumi_linode-1.5.0a1582795170.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "e2278a1362f57fda2ddbc720f4eb87bfb783b57fb719139a44c35f72696bf393",
+      "url": "d3/ee/afa9b02f160a03171b59dc8edc7367801176519f9993d08c31abeb4dbc3b/pulumi_linode-1.6.0.tar.gz"
+    },
+    "1.6.0a1584954959": {
+      "sha256": "002f7b3341a1f5a1ea90b5f60a3887b0afbf626923ac961894371ab87f630135",
+      "url": "eb/ad/0ff945dd351add48b8a3b05ff77dcbb347d2b4df0681150a11c3a47b9c15/pulumi_linode-1.6.0a1584954959.tar.gz"
+    },
+    "1.7.0a1586282320": {
+      "sha256": "bfb6076902c423459a5f915e0c4299b858e648294cdb9a5aec24ad850e1800ca",
+      "url": "6b/7b/b1141e4a556de643fdf0f200bf2071197aafffc73b49a2771a047a645d50/pulumi_linode-1.7.0a1586282320.tar.gz"
+    },
+    "1.7.0a1586446290": {
+      "sha256": "ef5e48d398e8e0d19c24950f7b6fe8f8de2a6cf524d7b361b484ed64003f91f4",
+      "url": "83/56/c66927f7c0c50844f4f8d12b1315905622a1c327dd0f54acaa612960bbd3/pulumi_linode-1.7.0a1586446290.tar.gz"
+    },
+    "2.0.0b1": {
+      "sha256": "9bed16b3678631c61a7a971bb05ddbe7cd9e39f5bb5d9f568e5e18c49b532f35",
+      "url": "50/85/17298a978bc6736090602ee1ae8e8c6f12fe966b7a7f46ea6cc354fc6533/pulumi_linode-2.0.0b1.tar.gz"
     }
   },
   "stumpf": {
@@ -3994,6 +5386,38 @@
       "sha256": "c15361bdcb9dd24d66fe6486430f9dac67b1bb01851bade53660bb5e4d0c8e7a",
       "url": "51/7c/c71f7a921c71f4e34addc161b1980213e570b84eaa3632d075b18daf5517/stumpf-0.1.1.tar.gz"
     },
+    "0.1.10": {
+      "sha256": "95ff2a9de6c2cafefec9bd1e06afad586ddcd237b2d3d34c2667282401278616",
+      "url": "47/79/097e838fbf7f3905d9d515d13af2ebd240fabfb55d751abf3e42d8fdb519/stumpf-0.1.10.tar.gz"
+    },
+    "0.1.10.dev4": {
+      "sha256": "27e8a1844d257e6187dedb60c538e35c1c1f38ab810ffde73a40c0c0f9749f8c",
+      "url": "82/77/f73297f51842ec16471bffdac8506d1eb33b4d6b943265067d5598f622d2/stumpf-0.1.10.dev4.tar.gz"
+    },
+    "0.1.11": {
+      "sha256": "72fe590d2f1e05dfa5d5764307e12aa924cfa7b9051a635518d0fe9f1237ff19",
+      "url": "1a/53/14619ec12d558db60217d67458ab6f232ecf0bc059afabc9b150c6c2dd7d/stumpf-0.1.11.tar.gz"
+    },
+    "0.1.11.dev2": {
+      "sha256": "66be6a659ce3aaba621615ecb4ecc19d558119cd9211e3960d00fb67498b909e",
+      "url": "db/e4/ebd3ccb227deba4e1ddace57d62f4b83e7cf46081168c42c4cf780c9812e/stumpf-0.1.11.dev2.tar.gz"
+    },
+    "0.1.12": {
+      "sha256": "c81ec4e0be4cac0d91fb542fc4802bb5bddaf66e0a219ab93534b68d7c9b3545",
+      "url": "cd/14/b0caaf0a8e9c5d0b67d85104ad2a5dce7a6fe5d51cfec41a06ea765348bb/stumpf-0.1.12.tar.gz"
+    },
+    "0.1.12.dev2": {
+      "sha256": "bdd8cf8a43af8099cde82469e56960cd4672161eae4357578bda9963d9e125ed",
+      "url": "9b/58/d5ac993c5d867f6915f53f0414e63852741bf175b97b6c436ee3b2cd96dd/stumpf-0.1.12.dev2.tar.gz"
+    },
+    "0.1.13": {
+      "sha256": "5eea37238057324a3959d802420873fbbe6f36156e9ab5e23b2eb46c3499f986",
+      "url": "e6/ac/82fa8c9065432b88945296f3513f2d33c2f0dee08a56a1f302f935496ef6/stumpf-0.1.13.tar.gz"
+    },
+    "0.1.13.dev2": {
+      "sha256": "b2ff3d818653e7c002aa93606e41efba3b8ff4b58d4f2d1732f3bb26dcfd058c",
+      "url": "7b/c6/70c25fd39c785fec4d5497ae322384f00ef5ea4b0962f6e7e74f1c0f2b23/stumpf-0.1.13.dev2.tar.gz"
+    },
     "0.1.2": {
       "sha256": "6d648ae47f95cca43712194df2cc5f6036e6fcbfe46a3840ee7dbbbcfdff0f0d",
       "url": "cf/a1/cb67d8f5698719a973c9b2f4967594b5caa4d34beb02b998aafb19c2be29/stumpf-0.1.2.tar.gz"
@@ -4005,6 +5429,18 @@
     "0.1.4": {
       "sha256": "a2c29df63e6d0b91ec1b065e8fa2a1c1918af37b4c31a9d78ac08416e2a08528",
       "url": "45/6f/2ca483a6839779c884fdeb573a53be7842aa9818b5317b4f2043c066bf75/stumpf-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "0ee2f3c55940501ce2be193e185d19f95649893d99b4186651651386cd78d867",
+      "url": "6e/81/90922c48f8357d89f7048c889f6a769df65e877ac75244882eacd0687b85/stumpf-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "f6f39fb4724414fef4d1f58086d8d580758935882bb9b29196f392e5097f00cb",
+      "url": "36/9e/c83ce1267109e2272b00102d18c76fc33dc3b701a2f1a2c871c8f8c42426/stumpf-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "9e9bc7321154026e6d7c066143f5b623ad5efc104225c07f031d28bafd5537f5",
+      "url": "5f/2f/7041524c8ade869a2efed3131e610595781431d855e8b73c49f774c939bf/stumpf-0.1.7.tar.gz"
     }
   },
   "aws-cdk.aws-codestarnotifications": {
@@ -4047,6 +5483,50 @@
     "1.23.0": {
       "sha256": "4e59bdf502949a230eba1c63a56fbbf3a2ba7e9a674717df7b5ee41cf994be82",
       "url": "65/d8/2fc4019a6faee6bccb9516a1c076f2b20ec75a2ed6cdad2a81cbc1d03cf4/aws-cdk.aws-codestarnotifications-1.23.0.tar.gz"
+    },
+    "1.24.0": {
+      "sha256": "4298948cffc5898d8fdbf055871c35c1a3623199cbca3b0919dfcec11ae1f22a",
+      "url": "02/67/102fffd79a1dad30bd2e86f6c3b1e2107c8e602e45ec1113c9015669fe44/aws-cdk.aws-codestarnotifications-1.24.0.tar.gz"
+    },
+    "1.25.0": {
+      "sha256": "88a47215281a322d381b88f9041b391aecc1cd7a5250067c17489a60289d97f5",
+      "url": "2f/df/27a73064124b5545e97c0834894d76598a44ba3e1b3b3123561666d2989f/aws-cdk.aws-codestarnotifications-1.25.0.tar.gz"
+    },
+    "1.26.0": {
+      "sha256": "bdc5af08a3df7d05ecfe79452357bb30d260f4e5a667010bda2e70ca69b04f35",
+      "url": "b6/2b/cd7066fe43d81c1a7a08ca00b2a06ceaa8faa9376ef024ed9f221585ea62/aws-cdk.aws-codestarnotifications-1.26.0.tar.gz"
+    },
+    "1.27.0": {
+      "sha256": "e76c4e0baffeb6b4fe35d2a6ed802bee7e5bb1be6f8c3cf40cdc030e210f67f9",
+      "url": "02/07/529c93884778d6bcaff71bd1ef927610721d5bf17f976a6e53b0199e15ae/aws-cdk.aws-codestarnotifications-1.27.0.tar.gz"
+    },
+    "1.28.0": {
+      "sha256": "7a7ff480896535e8db3942f0d77f5152477b5081addd0a5919ce14a10246436d",
+      "url": "05/f4/f5eeac53ceb4762f9518b9a95c9dddda509a1dfd34e042442869d6bbbe00/aws-cdk.aws-codestarnotifications-1.28.0.tar.gz"
+    },
+    "1.29.0": {
+      "sha256": "1be2d112a8919fda226a15483448799cf8a5f0929f57a54d6fd9b23cf96300a5",
+      "url": "81/4a/c6bb3b8d5b9a9d1871f2c7322df32a3a8255edf40456fd8ef1ce85ecb692/aws-cdk.aws-codestarnotifications-1.29.0.tar.gz"
+    },
+    "1.30.0": {
+      "sha256": "a510dc40c8f7f29f3ee6f0aea5e9ec99fc83c3900743e82f472d667382640c31",
+      "url": "7e/79/fd08283e6f46ef83884c0c47a2ae89f0487e9e45e9864abf2aea3afc766b/aws-cdk.aws-codestarnotifications-1.30.0.tar.gz"
+    },
+    "1.31.0": {
+      "sha256": "39f31f43bf397051f7a6ba2ae2035141962590009cb0308898dd95a840b97211",
+      "url": "92/e6/8856c7e2ab955060583529a411c0c9b3be6b2c56451430b6ffeda3a21253/aws-cdk.aws-codestarnotifications-1.31.0.tar.gz"
+    },
+    "1.32.0": {
+      "sha256": "03826880bb4e7ac0dbe989d96c61c6a570bfb7375414db2de102c8bd32c02867",
+      "url": "a7/c1/45b5ba89f2f01e4330881e415b3e2ec4c876fd1b1274b76ee793ddda63f6/aws-cdk.aws-codestarnotifications-1.32.0.tar.gz"
+    },
+    "1.32.1": {
+      "sha256": "72f4e5020d609a5d566f06accf8f488e7300a78a300020383c3d3c020c9089f1",
+      "url": "aa/84/8a090d8e0518aea9caa7eea374c623976985e37f145d952f27bcf7db734d/aws-cdk.aws-codestarnotifications-1.32.1.tar.gz"
+    },
+    "1.32.2": {
+      "sha256": "d33b401f851e4df572fcff27064fb3fd651f48267cc6f9d1cd2b544a1665b901",
+      "url": "3b/52/2ac5c66f88f869321905f56625c0f2cd44056a281c7bbcb415a5d9e91be7/aws-cdk.aws-codestarnotifications-1.32.2.tar.gz"
     }
   },
   "seedy-quay": {
@@ -4289,6 +5769,10 @@
     "0.4.1": {
       "sha256": "8eeb88aa109fe5413cabec441bf8ad10921678a83e73eaa0268f2d1a77907e30",
       "url": "09/2d/f9677a314d3c9531ef58d7e4c11c7a49395d26ab31bede3b4bfa82d232c1/nestargs-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "f5754476a027aa5fd4330502533994ad3badfc1f36a48a6865879df36554d025",
+      "url": "25/dc/6fbdf0bf7a95a11a0f5811bd8d4e32bc69525f4e679214d3c53069a6b7c6/nestargs-0.4.2.tar.gz"
     }
   },
   "azure-mgmt-machinelearningservices": {
@@ -4344,13 +5828,17 @@
     }
   },
   "outliers-navkiran": {
-    "0.0.8": {
-      "sha256": "7f0d7cab6e3d7fc54ee6ffb7f819d95ada2b4cfa7380b2060d0bca57dd27966f",
-      "url": "83/ff/1ef4bd78f7acda2f70935538c720575ca5c5b438aaf8e675a8d455ed2698/outliers_navkiran-0.0.8.tar.gz"
-    },
     "1.0.1": {
       "sha256": "277f883a95db963be97fbf4d4ef68fe96de20f5dea2650f0a12b78161ef9c5c9",
       "url": "36/3b/ad660e7eca52a2345b3c653c7324e9e21714718b3a7b61a49ae1e3d6df60/outliers_navkiran-1.0.1.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "bf3f95eb5af3d8794052fd4685b17e65c2aa5b5f6bb768c9ea59e987e34ce378",
+      "url": "c6/f8/14e1e31d9168e36f030b573ad31e269902ed169e97b69ab0b3e5b20d7c24/outliers_navkiran-1.0.4.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "1b2da4c9a500098c5acac0ef4736f21ed4e2600835bb0f6acc525fab2cc535f7",
+      "url": "67/e0/2755d1bbe407018d775a7dbf122c9147858d4b5b8c7ec5ff2486bed30762/outliers_navkiran-1.1.0.tar.gz"
     }
   },
   "aliyun-python-sdk-dds-test": {
@@ -4911,6 +6399,10 @@
     "2.1.0": {
       "sha256": "345aab10d7e850ecfd8ae91ddd92dc1d9de2973eddb2b56c6659b3a5e6b8121c",
       "url": "30/bc/2e56152bef338c68874e11f97e3bdaaf216c0d05e15909612a86e93ffe82/algoliasearch-2.1.0.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "13503bfca28b6e6e8a19c677001e938df6c94a3554fd4b6e8b16533bfbf0f658",
+      "url": "82/f9/4043a01401e5dc50c9e9fe38208b4e58608dc5134c94d638f99f5e53e421/algoliasearch-2.2.0.tar.gz"
     }
   },
   "flatten-dict": {
@@ -4963,6 +6455,18 @@
     "0.4.2": {
       "sha256": "042bd9b3bd168b1a9e38cef42f1e27c7207253304907b2adce219f0e27d078a8",
       "url": "96/22/0be504eff8471350c1d0bef5a7946d5c30e7325e11cbdb377674c28b3a8d/pygorpho-0.4.2.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "38c7c91c88bb212d2f9246a9a62defa3abf5b6f59d84f489fe7568fab34e7ef8",
+      "url": "67/fb/790f964cd3573506413d59476691c4cb489e0a26d4cd085eb321fbc191a3/pygorpho-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "6d165d755051292567b0e35ec9ee2e87368892e85560ff639a027eff12fc11ae",
+      "url": "0c/8d/6b98ba376f5a49424067ed54fc73b76f137106a04714f5938fbe00747fb8/pygorpho-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "8d3a0b656ac880985a29e1e29d759eada299605dc1397c8ef5a2e7ec6db855ff",
+      "url": "8e/b5/7ff1bf9ba903d162199729bd38283542221c6c525d06f8a51334a2b8cbb4/pygorpho-0.7.0.tar.gz"
     }
   },
   "enumerateit": {
@@ -4999,6 +6503,14 @@
     "1.1.1": {
       "sha256": "d2aeb1fe9ec01324d29dc5dfe5c0c727a1edbd389831ca1f034f53aca1de8a6c",
       "url": "e9/a2/2ea41d26002782a0c78c7014644e187d83e60cff88b004eb9f37c577db46/scqubits-1.1.1.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "b4a6d0653dec6a823954af825d3da8c737e5abf0c4f0a35c209359732d6ede28",
+      "url": "30/e7/534783a7790d2968074ee78d21e0ac86a593a802af4b642f403037329e00/scqubits-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "80fb60da4e6d4c8ec02169974635afb3c26ce90e060ebd9d9c7d22243aae744e",
+      "url": "83/79/4092baff7f446da7f33f25e3a07244fb8846916315b6a52788668e69f9f1/scqubits-1.2.1.tar.gz"
     }
   },
   "occubert-evar": {
@@ -5019,6 +6531,26 @@
     "0.0.3": {
       "sha256": "c618053ff1eca3a9c56aca622d99a2946d7c5707332026da96a00a4640917a4f",
       "url": "0c/ac/876d29f7fbcbbd004d7865ade044da3c64a8d19e10965fb7a6afcaacba10/bcforms-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "5899c83649fa5cf7846421060b642346103113830862f7a560f8d9412cfb5e7b",
+      "url": "62/db/df25b9152579ae1de640f1447749622dbde00331053a4cae69de32095160/bcforms-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "f7c1210dc1081562fd0057d2413b173b6f3425701958bb9d5bc423337356ef0e",
+      "url": "3a/bc/949bc9045d956383a3da1d7d4780a3d90a5b0f3f5b7d84cc01221d758991/bcforms-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "aedea53a4f51057ea4bd57e42cb1a4e06f2036f9f342e2d196ec38b45225f50b",
+      "url": "3b/5a/e3b0009f982eb53bf07e2a45e89e0d50448d3c0c427b9fa36fe7601523fc/bcforms-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "217479814f19754ddb701ed1714713b91cf659b9061023fe52c066e61cfc6ddb",
+      "url": "4d/16/9c3dc7c20c3a15aeeee1787f8542f8cac9ca0a653c8f02b34c343bddd29f/bcforms-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "b7295780fcb2cadc650af00a22be8ac29c48f09d9d9100de97431038f65b291f",
+      "url": "b8/2b/dd47c07cf1117d73f247a1b35c398f667cc5c324d922824e02f58cc38d90/bcforms-0.0.8.tar.gz"
     }
   },
   "wordsearchutils": {
@@ -5039,6 +6571,10 @@
     "0.2.0": {
       "sha256": "4da35743922ac7ca5a991b71b6c72a17192d70094c5428218d3b06798d527e23",
       "url": "03/91/88a1dd2e12cfeef0edde9bdcff37dd8fcd232585428b789c40aaee2d6e76/meteoroid-cli-0.2.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "b3bbc64bd802502e433f390e12a30f6cb0c019e1a4e537bbd8f643d7a5dab2e2",
+      "url": "f3/4c/fa3e173fdf2c8e26e7eb244080ac68c739284a8638070d8187af4ddb0355/meteoroid-cli-1.0.0.tar.gz"
     }
   },
   "pylresolv": {
@@ -5055,6 +6591,10 @@
     "1.0.0": {
       "sha256": "ab70cc240ba785c61c77561474a60ad65695dbd377da97f5e4576531be7012e5",
       "url": "b0/a7/7a56cf53026276ad9d2ed59f860e62eb81656633571ffc632980e0d22b9b/octvi-1.0.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "65ace1968fca913cb26a3285872530b7bbe933480bea752b26de58e978d87cb9",
+      "url": "bd/87/3a005fb999f691f65957fb923292841625e2d2db413c915382ee422efca4/octvi-1.1.1.tar.gz"
     }
   },
   "nmslib": {
@@ -5279,6 +6819,10 @@
     "0.1.0": {
       "sha256": "30546b8b194b47578a83fd3408acc3d8978a9533aadda1eb88fecb1490285945",
       "url": "2c/58/64cfbaac17d26603b32c2778e54f2740d7c6b38d01b2d2df7371d925e4da/pepperoni-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "43dc538c2f4b1cb1f954d318069791e4d3e6ef601cbb643ff57921f02358a384",
+      "url": "1b/e6/2eb8f8bfcc19d0fadabd10742afa1485a7424302b257f1c88fd78c303882/pepperoni-0.1.1.tar.gz"
     }
   },
   "terraincache": {
@@ -5374,25 +6918,13 @@
       "sha256": "8638be783f45dfce5cb38b213f7bd139971f1fe071c51c01ab30a80bc7230181",
       "url": "f8/7d/0c813836fd472d4bd1d45811b7478b0e5936c59be9b1408b84a4b644d930/stock_plugin-0.0.1.tar.gz"
     },
-    "0.0.2": {
-      "sha256": "f5dcdc4999df3fa9b94591078c2d03206d9079842ea651a2480832ee2d3a3709",
-      "url": "76/64/29cc8cb1acd48d7067d4421605f3d46fff7aaad07759dfcd516400eba39b/stock_plugin-0.0.2.tar.gz"
+    "0.0.8": {
+      "sha256": "0297bb7acf47e24428de0426e032d7243694e27a721c9a241fef12ef3f97af53",
+      "url": "49/c2/8438bc36fd2bdeba62ae9d7fd78144fd4e6e5f84a056d0ce8e7b296b18e5/stock_plugin-0.0.8.tar.gz"
     },
-    "0.0.3": {
-      "sha256": "2da7a7c16a2b9e6919b291991fda8357e3d412060baf0eb2172515627ceaa128",
-      "url": "b9/3b/75c5013fc108757578e755194249e7f511e06b1270c2b3bedeaacb0502db/stock_plugin-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "5a91387bf44babea871302383ed8baced5c9aecb6273809bf8ab78780d5d1efd",
-      "url": "40/51/d8812dc0a430755ca0e667e2fb99645fcd2a6ff6bce2f713c0d7cb425558/stock_plugin-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "2c053206bb8e12787430c441535a7b52c8a2a04e05cecaf0bc497753b61faa12",
-      "url": "e3/09/c5792f4562137ae09a9711382b82b30e60b4e52fccc0434dbc7e42319fe3/stock_plugin-0.0.5.tar.gz"
-    },
-    "0.0.6": {
-      "sha256": "430b0d727c5a6703a706ebc1b790c3879867c85294053121aeb8916885da4737",
-      "url": "05/1c/4ab2e2d2cc0d8920d68c49ad9bb03e7341f26ee6858e1bea0687420054c7/stock_plugin-0.0.6.tar.gz"
+    "0.1.3": {
+      "sha256": "b8195810d6b90db0b8ee6c1097313557c8d0a823903a17e67ac35ff08abf8ef2",
+      "url": "42/79/c27e4bd948bcff27e72c0f460c708231d643b0f49acd8546d15d28147889/stock_plugin-0.1.3.tar.gz"
     }
   },
   "pycopy-profile": {
@@ -5405,6 +6937,18 @@
     "0.1.4": {
       "sha256": "3a819bd4a4d9abe559c8243d09f79af7613773d03bedba2c8334c4e60f8f4fcd",
       "url": "ff/67/553031c98b0803b484a5b30a3bbd2441e02b0c904e6fad355b58b3c1f14c/mtoolnote-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "5f065e501bb03e6654441f156a38d05ca1824d57bbc61b216e79bd4f1ff3ec45",
+      "url": "93/53/4ae00c297dd2ced964d69f31b22a93887c42cbbe3ca9dd87eadfa2ab68d1/mtoolnote-0.1.5.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "df9b8a5644d07e4231b2c67f9ec1e548905afe906d0b10063a2b804c5461256a",
+      "url": "62/7a/f268b610fe23ee1a56520361786e95d9b941e6a4e79d3b310cd516327584/mtoolnote-0.1.7.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "8571baa0ec556803ba7d66e9957c61fc14779e9cdca7236b96f9659336f55c20",
+      "url": "86/92/6437aad413d062ed6962efaa08f713c76626f9e9079827cacbedbb9740cc/mtoolnote-0.2.0.tar.gz"
     }
   },
   "cassandralauncher": {
@@ -5605,6 +7149,10 @@
     "0.0.8": {
       "sha256": "0dd62f6007b6c3aaec689d5cd208d23e72b7abd7d8c64716b9cea5b279feccd8",
       "url": "85/87/097fb47d620ae34bfbb606324a8305393713997cbf9e53b62920d4b257af/hazus-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "ad534d221cc0307bdacc5283d7390864713d8a77a685bda7d38e9dbd2921bca8",
+      "url": "bc/6c/496bdddfd91e32a86800961c9246ca670b918892b36575b7c22eaacaeb19/hazus-0.0.9.tar.gz"
     }
   },
   "cloudhealth-cli": {
@@ -5655,6 +7203,18 @@
     "2.0.1": {
       "sha256": "3f42195b23c1f963ccd9ca0f985386f6c4b173bc36918b8f26030ef45bf7a4a1",
       "url": "f5/d7/2347b1760443c571cdca0aa615420a45e711d123e03348d970f08f98f320/adafruit-circuitpython-lsm6ds-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "f7b78244165a3b739afa40c436414de2e79b96ff4c2f9fde2fae2d4de1c16d75",
+      "url": "ac/a6/9093becc5c4a8d85d640a372639d0783254f4400dd67fd3981cd8a4ac5c8/adafruit-circuitpython-lsm6ds-2.0.2.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "ff429bb7dabd299846d06115646f18c3abdc0bbe0ac9f81f8a56b19628b77d9d",
+      "url": "46/7f/3ddad7395892b40f4d741ed0180188263ff63fe5df3e7bec21392430972e/adafruit-circuitpython-lsm6ds-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "f3ba60f3d1f7251dba8cb57f3a400461b3eff63ce7dc3fc406bf2c6c7a802207",
+      "url": "f1/a3/3685e6871c2b8b17cd787ecf7895ac65bd0682b46051bde04388d30c0f1b/adafruit-circuitpython-lsm6ds-2.1.1.tar.gz"
     }
   },
   "quart-minify": {
@@ -5977,6 +7537,54 @@
     "0.6.2": {
       "sha256": "b92f67391d69c4451182e45ae39c74a4d033c202fa257fbbf979b4a1043eca20",
       "url": "af/44/9a83dad5f840bf138f23945a3893944dac017102d7f24171df67268129bc/starfish-py-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "097bee6c31195ee7e8b06db4b6b6a8da55cf4b5f2992528b0b2af19445f1904a",
+      "url": "44/40/cb4ea07b363d3efebdd9d596aede01fcebe26002ae563fb263bd72d72ce4/starfish-py-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "9b3443693ad268a8795043358ce97de3a6abf9c5394a431eb846aa6ca51ec33b",
+      "url": "5e/f3/d7c24873cbd2f49fc4bccd5214c6142d5efdba92c64c78468c73ee705bd1/starfish-py-0.6.4.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "b331fed47b753dcc128874216590c588b19d77390ffe5cc13a5475eec584594e",
+      "url": "2f/cb/0146566bc0e99d527bd2103a368f4758008932372a88d822e91eb9133319/starfish-py-0.6.5.tar.gz"
+    },
+    "0.6.7": {
+      "sha256": "df3274384a66ae28f5e1e14631f142364eda2889a55490e1d8ce7dd954568618",
+      "url": "76/38/438ebf65d2e895cf0e084bce484091f92c56d837cea6e04dd9b610ca0c56/starfish-py-0.6.7.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "72ff9fdcf712d820d028a919b02ca56da3ff71ab2e8fadc8e838cf22da756a6c",
+      "url": "ef/46/3a19177533c9e09212e003af55f56ef3077989044824d63842bb95882bb3/starfish-py-0.7.1.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "a5676d7da2187624195896574b0f053a506f82772f4c3f3df7f1e01f54edecf4",
+      "url": "9c/38/e6977c5a6086b284e90bfeaeca7f8fb3d40283181680a9f434393bbf04bd/starfish-py-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "51d8378f0d371060655e33ef678b3a046df6d954aa5b751180502a812f83baa8",
+      "url": "13/22/e67e941508eefa97a60c91303a4490c22bfde16496c71ea1caee0f340a68/starfish-py-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "8a19a96640e62613dafeb7af08288cd42e4ee8c3d4d8f23d74a020283a56c42e",
+      "url": "ab/e0/d0ef40b78006d9267cd75b759a5ec4595b03d2ced78a7bd6fdf0493e0ef8/starfish-py-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "151133cd1d36a0e19d275e0822b8a597224b4459792c5776ab90089644f11f22",
+      "url": "61/d4/768347e68f2ebff06d41925c332da6b79530b0b3c7e6b46705d5384b0b59/starfish-py-0.8.3.tar.gz"
+    },
+    "0.8.4": {
+      "sha256": "1da32067c7766601ac324f1edeeb7d18ce58c89856379afdeda820a0a8f56490",
+      "url": "bb/49/3d249004bd4cfaa18bb306d8cbc608fc540df9fe4089991a32707e2de426/starfish-py-0.8.4.tar.gz"
+    },
+    "0.8.5": {
+      "sha256": "f215ba16de4a0fec0758a1ed0f130acd027ab62c70777bd34d3ad3f8628825f3",
+      "url": "63/59/927403076ab49077aee834d0fedb385d8bada00a1669f2f99f08c939325e/starfish-py-0.8.5.tar.gz"
+    },
+    "0.8.7": {
+      "sha256": "9e10d0d66d9143487bf0babc1ff6017ac028313487fea05c28c6a77fec60a49b",
+      "url": "f3/ab/53b66051ddf32b9d1c7f3490bb9b299e2e58a22d1892515b95c4afd13e87/starfish-py-0.8.7.tar.gz"
     }
   },
   "trivoreid-extended": {
@@ -6215,6 +7823,30 @@
     "1.1.1": {
       "sha256": "0fa84e13fe0989140ca5853bff79208e2700733e53ea82c064b69a0f70a1b008",
       "url": "05/84/4fdcb75ebd3099ac34dc4f2c6c960be5ee5e29276b36012a6a8ef224e99b/BPTK_Py-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "2527922dcda264223b6b659c3bf169b8825e982f43ccf941b5301484a31d637d",
+      "url": "da/4c/c12cd1ad65f2639e7eaad047c0c18cf3f325743d95716c50e30704556ba8/BPTK_Py-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "8a41f83474990a774796d25dc2ab87c02e9da2e82c2306a7611e84c246fd37f5",
+      "url": "1f/42/89cdfa6830645dafda35ae9e6868145eacc3ba627e1acbbda589f0c521e0/BPTK_Py-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "50b194201cbf81338c7184ad105de956cb064fcd78b99e7beec295b48c0bb1fa",
+      "url": "0d/38/89acf026a95124f95e790b03b4e1f8152206c295c87ecbb53757d78f3e11/BPTK_Py-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "32f375689215767e4e82f569ab10d5110da1abbd0e338796e98c8317d2a4c69a",
+      "url": "97/b6/ab62bd37cb39b9f174bf4a8ddc62692af19306293b398a884a15d3bd7d77/BPTK_Py-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "9ac87056ed85cb99baeb29ad8fccbf24cb36d839bb00667717513a0bfaa42901",
+      "url": "14/60/fea1628d6f7a76ae7af186626e27be61dbe1bc98954b449140fbaace7259/BPTK_Py-1.1.6.tar.gz"
+    },
+    "1.1.7": {
+      "sha256": "c6a0b70e2a8dc2cc7ac6aa7f18e4c530ae6b4e2e76d42626a81a38034c6ec2ff",
+      "url": "5f/83/49596724d353fba7409526e39c61e8576ec2baad940ba590846c5204f08f/BPTK_Py-1.1.7.tar.gz"
     }
   },
   "boc-hosts": {
@@ -6265,6 +7897,18 @@
     "0.58": {
       "sha256": "6d765b29d5facb7d940e3e5fff377b3d369c620a1a90af7be61c305979375097",
       "url": "3a/75/b6754bf46be618b566a10f9ff6138466d8becef10d558877c5d72b9b5d3c/trajectory-planning-helpers-0.58.tar.gz"
+    },
+    "0.62": {
+      "sha256": "c163ac5639b2bfda5b1ea62ef2f1ed439446fc5ddafe59ec63ae0693b96351da",
+      "url": "0e/d6/3d7ca0e4c85158965d23f5de5de43f3be8b4b3f69c8a983327981ccaf954/trajectory-planning-helpers-0.62.tar.gz"
+    },
+    "0.63": {
+      "sha256": "03c85e4920c28ec8df675edf79569a48b32a5b2fd047887fca078920ed423966",
+      "url": "8f/7a/bb7d27b357450bc1f3d49049a38e150fab2bd7b3de47895651afb190ebe9/trajectory-planning-helpers-0.63.tar.gz"
+    },
+    "0.64": {
+      "sha256": "b62c435fde08ba1b107ba418c62459f010b7a246f796f126546c30783fec302b",
+      "url": "8d/50/d19fe420138ec6cfad1c91b92b63ac273a59bbc34721abed531ba173af99/trajectory-planning-helpers-0.64.tar.gz"
     }
   },
   "gixy": {
@@ -6497,6 +8141,10 @@
     "5.0.1": {
       "sha256": "eb1fb58807b2cfc69f90d4c23511c1b978c11c06f1eec90ab2de66495d2ec5ac",
       "url": "e3/17/d66b26b83146c10b6d69186c0ef315784988974ccecdc68cdbb69f6fd5e6/ironic-python-agent-5.0.1.tar.gz"
+    },
+    "6.0.0": {
+      "sha256": "623f002d9cf3bd1861eb0a038a50a68fcd8fb852fbe94ceea9d34cb7fc71597f",
+      "url": "ce/b2/bb34d209d58870381796807476535ab9761c3c330498b41ff89b54b714e9/ironic-python-agent-6.0.0.tar.gz"
     }
   },
   "monet-mgdrive": {
@@ -6651,6 +8299,18 @@
     "0.5.6.7.1": {
       "sha256": "7fae4ac4ba35909efb7a57a17d285248ecabf7d41c742983c28c074693859ae0",
       "url": "86/33/4b6738c9261ea9459407f302bca646b52e1c03312f691877f9458eb22525/MoNeT_MGDrivE-0.5.6.7.1.tar.gz"
+    },
+    "0.5.6.7.2": {
+      "sha256": "0c3e88aa13c894eb193cf29112341771f3c1ece4a5242e4d0fbc6e770f79dbf3",
+      "url": "4e/eb/2ff797797cac06b614888ba1581b460e6e128bba3d68b24771f73ff6e52b/MoNeT_MGDrivE-0.5.6.7.2.tar.gz"
+    },
+    "0.5.6.7.3": {
+      "sha256": "d84ffee4508a3e0efd1d24c013d2a9f5ef70d82f273e7c8e9a17c894af7a3048",
+      "url": "0f/c5/ce83de2985a89340e76497b00a54669e115f48ceaabb2fd8a8c5fc7dad83/MoNeT_MGDrivE-0.5.6.7.3.tar.gz"
+    },
+    "0.5.6.7.5": {
+      "sha256": "f97125e3a52e6634ec4f7aa55d84dd3965463d3a33836db974b96af7ffabc5fa",
+      "url": "3f/1c/c079258257e05c6bb062e688efa72740f2342d8754f5a5b18dd3736ed218/MoNeT_MGDrivE-0.5.6.7.5.tar.gz"
     }
   },
   "connect-sdk-haxe-port": {
@@ -6661,6 +8321,14 @@
     "18.0.1": {
       "sha256": "9c1012e5f2a85c720e3cd2dee9f8e1f42be1d12eb8f8fc74b502e26c7cbc8a09",
       "url": "91/72/36abb6a75eb5b09d12b2c9aaeade95f2dc3dc2df78a2016320a1c7605590/connect-sdk-haxe-port-18.0.1.tar.gz"
+    },
+    "18.0.10": {
+      "sha256": "2317ac63ebd2ed0d7872b76e2dfb717d92edd0f0725a072a53b3802db915f304",
+      "url": "ba/d9/40ed2b0ebc4a239be41c2ac8471137e2a4277d6b32b83d1c6df407572ec8/connect-sdk-haxe-port-18.0.10.tar.gz"
+    },
+    "18.0.11": {
+      "sha256": "a14c2496064d347272005554a35ac15dee6f69edf73e0542c1b0f0144d79d5e1",
+      "url": "70/52/448fa06becbc55be39bad28b164702e5523861eded1b4ccf71ab26155460/connect-sdk-haxe-port-18.0.11.tar.gz"
     },
     "18.0.2": {
       "sha256": "b7f7e00de8fec3fe6b6c7cc38373ffd774d3e12c9cee464db5d58b36eed8b525",
@@ -6685,6 +8353,42 @@
     "18.0.7": {
       "sha256": "c5a7bab0badc2f49391fea206901736bbc20ff161602bf5770a7904b20204292",
       "url": "87/e9/16b9da796f2e6d8bef292b78349d6a39559a13868ea1e2c3bf637dc2648d/connect-sdk-haxe-port-18.0.7.tar.gz"
+    },
+    "18.0.8": {
+      "sha256": "b024f8ddaa56c4a9e49255ebf084dad40f8f0de77d6a296ee9255772bec276cb",
+      "url": "00/dd/f23a7686b8c316854e8d177e1aa638ac100648fcb4069561674fa9687922/connect-sdk-haxe-port-18.0.8.tar.gz"
+    },
+    "18.0.9": {
+      "sha256": "31a19ea2a63a231a5eb6927170cd7c240c535ea23dfedb5d41a9f27304bfce1c",
+      "url": "97/b3/9cf8c8cdf178e5f5defb96db20fb3998983f8702c8dfc69d7ec41353ffcc/connect-sdk-haxe-port-18.0.9.tar.gz"
+    },
+    "19.0.0": {
+      "sha256": "4bc40c5cd195ec41b5573a28e1c1f20ee2c15ca82264026e25f00c73c2d632c2",
+      "url": "77/fd/c71792bec448523418cc3a23d0b3c6d8e9e5be572f98ad3d71c9fc89315e/connect-sdk-haxe-port-19.0.0.tar.gz"
+    },
+    "19.0.1": {
+      "sha256": "49be14d191abce3637796ddc3cb7d96bd30c99597a412ce519012c89b24f6936",
+      "url": "79/17/61b0a1ff11e00e32a9819566c1cd88d1134cbb6798498b7d08b73a153669/connect-sdk-haxe-port-19.0.1.tar.gz"
+    },
+    "19.0.2": {
+      "sha256": "f27c87366b4cd283a4e7d18d6c1680c54b0b9dc49af2284f5328c33ba2faab69",
+      "url": "03/8e/7701321f0e3a6d7c69c48cd06c7ad9b693ad249089474d608386b4943bab/connect-sdk-haxe-port-19.0.2.tar.gz"
+    },
+    "19.0.3": {
+      "sha256": "34ae40df18e671347f49804c4dbcc97053e48feee38ab795ed255e9fcdd7ac44",
+      "url": "57/1a/7f340e2e50cb838f77b30263d1b6b004d23a756aea8e35c6b2aecd5585fe/connect-sdk-haxe-port-19.0.3.tar.gz"
+    },
+    "19.0.4": {
+      "sha256": "3a39f0d5644f2816b0f9cfae2839526fd939a97ade45858eb756285a1c914094",
+      "url": "2d/9d/d986bc4eef2bbf197d94bf78c6a9c6d9e3ad1ddcfc9614399f62fbf28446/connect-sdk-haxe-port-19.0.4.tar.gz"
+    },
+    "19.0.5": {
+      "sha256": "6d277f95020bfb711c5d646c2b78048af4c8dad0e6b29fd8770ef9a28e81a110",
+      "url": "4a/01/0bad818b859462ebce0ed7c228c56a9edfec6ed068c569e2331885bc770f/connect-sdk-haxe-port-19.0.5.tar.gz"
+    },
+    "19.0.6": {
+      "sha256": "23003b35246e3575e531c5cc1d1374bcffe34d7e78bb9c6fb854e63a8b7b252e",
+      "url": "68/5f/d5e52a5542e12b5c22bcc257727a725d26c61b299f00a752832de90fde41/connect-sdk-haxe-port-19.0.6.tar.gz"
     }
   },
   "sample-project-greet": {
@@ -6697,6 +8401,22 @@
     "0.0.1.dev0": {
       "sha256": "0a11e38421534a53ca151c618b1c6febd382e938fa0b0dd8fc666628c8fad58f",
       "url": "f6/60/3033c926ccacbc3c851b95eced56a6e4f181b03f4241049fc1caf3bf57c3/aiomongoengine-0.0.1.dev0.tar.gz"
+    },
+    "0.0.1.dev1": {
+      "sha256": "0ad94217a0d97a3bdd0e75f469f9e99aa091446c119f6c7c5f494f8158fca69e",
+      "url": "cc/0a/6d35e203a33793b01809bcbe95a32a2c50ac344e5616bf25cc633d06d5ac/aiomongoengine-0.0.1.dev1.tar.gz"
+    },
+    "0.0.1.dev2": {
+      "sha256": "82c788bd3ba00e1db2680b5873c81a6eaac20328aabfbdf67ab328552acecafb",
+      "url": "fb/ee/447fc5b7f1e479b3fd4d10c7d2666acde2d37019bebecfd2ca593d4889a3/aiomongoengine-0.0.1.dev2.tar.gz"
+    },
+    "0.0.1.dev3": {
+      "sha256": "3bcafb94b1e909057a11eed5934fb2cb23175b4a9ba0e7e5f3cd7cab4e3f9a31",
+      "url": "2f/c5/5ae808a57ddf249d024ff82aa194f8f7445748f0427fafd928fc170b69d3/aiomongoengine-0.0.1.dev3.tar.gz"
+    },
+    "0.0.1.dev4": {
+      "sha256": "9e104bb98f8c28d822549183263968eb198d5f4e62d10a9f599ca7622d74c7ac",
+      "url": "47/41/d55fd09c521dde852bcf6f001bc32f5c8365429b6370f8d47825d4e9a7e2/aiomongoengine-0.0.1.dev4.tar.gz"
     }
   },
   "spydrnet": {
@@ -6711,12 +8431,24 @@
     "1.2.0": {
       "sha256": "7f16e570d29920b298f51e2e628aaf7e10aaae8a46866631dfc9c7ec7db7ba07",
       "url": "88/e0/811f8d7d781c1cf3beeb69bdb59147e1f4630ebdd40d8ba4c487109d92ab/spydrnet-1.2.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "ccb66b6e8714b2efa7dcc19be43a32faeffc97c33eaad250a35142cc1a8ca8e8",
+      "url": "32/92/9b69ead75b1b646db59020b965b2291085bec312dffac496673f709ebe4f/spydrnet-1.3.0.tar.gz"
     }
   },
   "falcon-heavy": {
     "0.1.0": {
       "sha256": "df9eede7b439f6bbd53962ba9a58b19b589b70a3a9f35b7bc50e92fd0c09b22a",
       "url": "72/18/47bcce67268d9034f03786436514865cad2040559c69c6f1ba09335110f9/falcon-heavy-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "a9d628a9cedaae540bb71c7095e270ccf07564bacfbe9fe7db8501525d4868b1",
+      "url": "d5/c4/8f224f938f6fb9e1941bdc8df9e07b4fa720433f18aca2feea4addc2ce8c/falcon-heavy-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "65b26742686c8849aee278adf242b550150e4286e1a81b0ccbd554a9ca68494e",
+      "url": "31/09/8db2cf567c6b23323e28857e284c7ba6dcab776083bf4a5712b3388c0c85/falcon-heavy-0.1.2.tar.gz"
     }
   },
   "plex-mpv-shim": {
@@ -6780,6 +8512,30 @@
       "sha256": "c9046811b2d6274853e52c1637befb30c06fcfc182d6e27f4225b6919c8b536b",
       "url": "57/bb/1f93518e4efc1601e8efd098d47fb317f340c528034b8c340e2f7afd4044/plex-mpv-shim-1.7.1.tar.gz"
     },
+    "1.7.10": {
+      "sha256": "7f21ee5a6125186dab1956f7e9e9f04fec2fd62b9ef5134b11264b0e8323f508",
+      "url": "2e/f0/406d8fa6fb993ec11ee92352bcbad3b3257da38b210a35ead5f74d6c1e0e/plex-mpv-shim-1.7.10.tar.gz"
+    },
+    "1.7.11": {
+      "sha256": "4902cd4ac9652ae37caf55c800e2e29cfbf4f4dec54e662f7339912d1c103524",
+      "url": "7c/be/6ff9a755320e08966bad200a3d4437b2d85b280a9358ae4448ba201a4cea/plex-mpv-shim-1.7.11.tar.gz"
+    },
+    "1.7.12": {
+      "sha256": "f9956014ced58109fce2854b5926ed024bbf9f3ffa0901c59e09fef352998d58",
+      "url": "8d/fe/8621ed90834503aa2bafda1f40988c5770240702a4a1ffa899977278c0c0/plex-mpv-shim-1.7.12.tar.gz"
+    },
+    "1.7.13": {
+      "sha256": "fa0b6684bfc078fef20e2ac2693e2dbcb3a37b5ff44c76c426de3adbe1d9715a",
+      "url": "10/db/9858e5071e9a4a49e02f8ed7a83b0b2c63d240e9abf32981e7b9ae0387c8/plex-mpv-shim-1.7.13.tar.gz"
+    },
+    "1.7.14": {
+      "sha256": "564d7ed29169725d9bda28aed8fdbc9b0933f1b9e420572f701a4a34c6aa5e12",
+      "url": "92/10/a9c0e92222e1c35e1319d8206df77f95d9d434e2ac8e86606f6beaf03740/plex-mpv-shim-1.7.14.tar.gz"
+    },
+    "1.7.15": {
+      "sha256": "e2a3a011ef4f5abf6702b584c63567bc11f167ea3b1274d3a11c7e61b9b12974",
+      "url": "10/50/3210b8ba9ee9f46c08cf744ab91815bc8aaa9397488cdde5d8e10afbc470/plex-mpv-shim-1.7.15.tar.gz"
+    },
     "1.7.2": {
       "sha256": "40b9448d8f911b047e81d8c51049c9da16056444d62978e7373bbeb08d550cf4",
       "url": "d3/ef/12f1073e7baddf1419fd439e4ec8086306f1434085639967a9b89edeb5a1/plex-mpv-shim-1.7.2.tar.gz"
@@ -6803,6 +8559,14 @@
     "1.7.7": {
       "sha256": "ceea21a77167358a7ae4da7688f56a178917536e7c52cb650760671a33af8c87",
       "url": "a7/aa/01800b4e85e6d6f57fe6c29d531714b34ca00d065eb691213e4f5dc6ab91/plex-mpv-shim-1.7.7.tar.gz"
+    },
+    "1.7.8": {
+      "sha256": "a30d973ab058371690a3dae697ba6b6528b6242eb057fd627a6e898586a53ccb",
+      "url": "6a/48/7c94e75487ee87f6fb130c8a0fe013535eb8c612085647482e31344302d4/plex-mpv-shim-1.7.8.tar.gz"
+    },
+    "1.7.9": {
+      "sha256": "a118425ed9f13fed01ec92d57dc35fab04b2d8eec5be31d7a0a0a57dce73cd27",
+      "url": "d7/34/18ea30b6ccd022607b2cc83c5daf30002fac615f45c2ee85773a4f3cb901/plex-mpv-shim-1.7.9.tar.gz"
     }
   },
   "watchmen": {
@@ -7247,6 +9011,14 @@
     "8.0.0": {
       "sha256": "40166ea3ff1df49750f896cc60cadcf196b5e7e99b1b8783ed61e8df5d8be7ef",
       "url": "fc/76/78f2b2d047ac3e9e54ee6bdd1f49f0d481aa6e06aa35668e08b175c2c03a/oslo.config-8.0.0.tar.gz"
+    },
+    "8.0.1": {
+      "sha256": "b605addc284f7090167e5325de371a2437ba3e78d72c3ceb18091aa6e1744fc5",
+      "url": "02/ee/b1869abea5f83f8da696cf1f31f1b4a1f69199003c2638ae2b06b147ff23/oslo.config-8.0.1.tar.gz"
+    },
+    "8.0.2": {
+      "sha256": "44452960969a526c1d6ea8d36bafcbe137fbf6c3101bc41d5804814c9190dd22",
+      "url": "bb/57/8d3a644582d20a3f8e9963bf7a45514fe90210ee23457ea7d8c7c0ceff0e/oslo.config-8.0.2.tar.gz"
     }
   },
   "reppy": {
@@ -7387,12 +9159,20 @@
     "0.1.1": {
       "sha256": "31e367db99c4477b4ba71bcbb9c4190315c304386c6f54cfa02bd5c76a97958f",
       "url": "4a/3f/2eaecffc0c6651ac0b94751616e087737903249397e7d8b043c841e32e2d/django-force-disable-permissions-admin-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "a226c5e9d58cbb0cfd679baaff544828e0c9a266021a5f919d6b6e27fd5ab7ce",
+      "url": "66/4f/b64590f565267258084be2bbfc26f5decd0f90b8c5977780631c59557e74/django-force-disable-permissions-admin-0.2.0.tar.gz"
     }
   },
   "baseweb": {
     "0.0.1": {
       "sha256": "180b015fd5ea4aa590810734e64b9aa63ac9be85e8ac5077653f0a708454d113",
       "url": "27/a3/6089dfbcf2ec5b48d3514606c44f64ffd42804a1ccdf602624f9585c8701/baseweb-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "515c4d3f512c54358fc3c0c029c4253872a9476e5640d5ffb2c06712676ad638",
+      "url": "d0/25/571130df4d95073bd15582bfa019afd8a984157e42d7557ec2414d5cfdbe/baseweb-0.0.2.tar.gz"
     }
   },
   "thoth-python": {
@@ -7553,6 +9333,14 @@
     "0.2.2": {
       "sha256": "d01304d797db1220d4273957b17c84841740f991d6713afdbaa0494d3a34bee6",
       "url": "cb/52/881e2c55277b5a96282ccacbbe4ab4133d617bf0ea594f6e65557845e916/discopy-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "f7ce7554f4f0a911cffbf6a20df4933d2504f902585b6b9221cf18b32a141e16",
+      "url": "17/e3/6bdc8c11b914ec3c9ceaf4b7fa40ce90d74b7d0d7f3285bd3b4dc8e5ca52/discopy-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "bedfbee0037235f618738a75c54dbc5ac60cacaf32ba1c174f782fac21df4856",
+      "url": "09/8e/e6f47ca5b82f4c90675e63b57c5cb60b909473d8999114c1677f0cb3e6ba/discopy-0.2.4.tar.gz"
     }
   },
   "more-executors": {
@@ -7991,6 +9779,10 @@
     "0.7.5": {
       "sha256": "1366cb159439aa28472639dc1f33d6370a56d4c3efbe3def854d953aaa6bbd24",
       "url": "c6/0b/32c8a6b25f423260219a018f92991f2ef8bd85c97c4b69de8ca9bf7412a4/django-admin-sortable2-0.7.5.tar.gz"
+    },
+    "0.7.6": {
+      "sha256": "caf158310cba75888d5e2494f0a7e52b9b43b90d22e12798023bbe8dae51243b",
+      "url": "84/3a/dd173a4d5ea0db4390cf5b4588b85adbf54fafdf61e7c78210ea233409c7/django-admin-sortable2-0.7.6.tar.gz"
     }
   },
   "citools": {
@@ -8543,6 +10335,10 @@
     "0.3.0": {
       "sha256": "5a338e22c9080f76c4cfc33b663b0b47cabb837fcff11c898830c15e6f6896d9",
       "url": "2b/00/580b2965ae7ef36999b24f6ac6cffe4bab0d49fcf005e75436058857e174/pbtools-0.3.0.tar.gz"
+    },
+    "0.30.0": {
+      "sha256": "19cb8bce39710c69d2af50be7e632a28f367a85638d327bff1c350eb28e27dde",
+      "url": "01/7a/e5d6f9ce7d5ded06d5446319909f16dd54a279d0e7f9f5b29688e6af050b/pbtools-0.30.0.tar.gz"
     },
     "0.4.0": {
       "sha256": "824034aac3c4badfdade617dc90eaf77bd3b31564200304f3aaef9919c6cd775",
@@ -10351,6 +12147,10 @@
     "2.3.1": {
       "sha256": "0f8c4763fe2281979bc00350b93d510368992dbae0dae4fea0bafee5904a7e68",
       "url": "32/55/3c25c5497c76b43390e1ca9354c73f3568ee3ba5370e185dd569756c7223/junos-eznc-2.3.1.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "a94d0a9f42be54dcd2b3671f554da7e8072bb2830f6fb952b2aded1030517e7f",
+      "url": "76/14/3bbc7b6abbef498cb74c8166ab7ae9ac6550a09a73fd3b501d68d4c53e90/junos-eznc-2.4.0.tar.gz"
     }
   },
   "django-ipware": {
@@ -10889,6 +12689,10 @@
     "6.1": {
       "sha256": "6dcbf98b3a64318124111c1ed3312a56903bc0e28e991f545059c403fbe7b326",
       "url": "53/3b/ca4040ecc28cd1a49901727e14747edead55321d1ecd5806313a6b670d28/pyobjc-framework-FileProvider-6.1.tar.gz"
+    },
+    "6.2": {
+      "sha256": "d1f1f963275f0cd3ded2cd4012d056f4fc020e0b8f2a42b18dd8522aa2e01d5b",
+      "url": "67/6b/cd363b14125110e4f5af4f9f83ea15449e6732db8b64c6e084d9a832c4d8/pyobjc-framework-FileProvider-6.2.tar.gz"
     }
   },
   "jq": {
@@ -12437,6 +14241,18 @@
     "3.3.1": {
       "sha256": "9ba913d31732c79d0ab8ea73603f40a0150698634e40ef11d4bbe8337f4b6255",
       "url": "49/9d/fd99990f63be4b6c1398577315057e6b1ccba79997e37e004852996ff8d0/bareutils-3.3.1.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "73971ffbca7000eca7447392c05a51a155f4f92769b1075eb925516bd2ba1895",
+      "url": "9e/9d/82a1ed0c35ab3bc8b62c82af5f7d62089382d5c8c673a549610cd94b1b98/bareutils-3.4.0.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "e1e781d9726218e8a7b5471b500ecd5234edee8f198b3d2f7f700a4f5cb4d8e1",
+      "url": "50/b0/7681bc07a61d98bdceed420b6cfee142abf227b3fffefdf924eb6e49f038/bareutils-3.4.1.tar.gz"
+    },
+    "3.5.0": {
+      "sha256": "d0b5e2bfa221bf5447f0586678c38e7e52d3fe5a9a5fb2a3b9c709e69dc90758",
+      "url": "79/72/ce8a7e6ae30768eb9cb0016a8ba66fc3afe77681cd0534cfca85ca2b09f6/bareutils-3.5.0.tar.gz"
     }
   },
   "zipls": {
@@ -13125,6 +14941,18 @@
     "0.9.0": {
       "sha256": "2346dbabb4c09848e21d26c97448e25af388d8b106c86cb439402797920e2220",
       "url": "e3/45/96d1521bd1e3c79704f0fd13e0e6090c59447e97dc855fbe6d9b90409e49/rft-core-0.9.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "1ed96aa451ee7c646641cf34e38ae3f33cae51b1e26d4999310cc15f7dae6ec3",
+      "url": "fa/08/7e774ed4162425ce0ccbe53bf9fb200a59929e003159e1794002aa2fe29a/rft-core-1.0.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "b1c714057881710315a92f9a59637403b6d742cb26d76cd054efc4bae86294ba",
+      "url": "ab/47/4ca756d87b6cdedb3b3c8682582f4cf01ffdb242ca8d7696aab56a954597/rft-core-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "6e7361e2ebf46a072b1c0f3c497906c7dce51647a9acefb180a05d590ab6aed7",
+      "url": "92/61/67828a6d82567bc43ada2f77279f390dd36f533441da95f8068e32c1d696/rft-core-1.2.1.tar.gz"
     }
   },
   "pykeygen": {
@@ -13271,6 +15099,10 @@
     "7.0.0rc2": {
       "sha256": "2bba9ab22167f95f48523d06523d4fd9a8d311825b1a81c3ff76b8ffeda607f0",
       "url": "3e/33/d477b5a48321a7a474906566d4d4f086c33b0ae02cbc6b12128f661e29e2/sopel-7.0.0rc2.tar.gz"
+    },
+    "7.0.1": {
+      "sha256": "79c77a5059c9290e0904356dba6fba1bd5177ab44c9c56a202ed73b13d422ef9",
+      "url": "2a/0a/606b3ab05af876d1fc3eee8d0a3326c7d6bc2176eec4ee8c67d14a1f36af/sopel-7.0.1.tar.gz"
     }
   },
   "pactivitystream": {
@@ -13430,9 +15262,9 @@
     }
   },
   "nbc": {
-    "1.1.2": {
-      "sha256": "a8edaa74ad0bdc392c3c6fc6282037a05da09496b311a517608917638d777770",
-      "url": "9b/1c/fe8f6752cb50bbcb62eafc32c66a26c9c358cb76561e7c70bff8ac7893fa/nbc-1.1.2.tar.gz"
+    "1.1.3": {
+      "sha256": "21c2e9764224a6edda82a9f60b26f8291a02b7fc560e3e6034b7b02b2006a527",
+      "url": "88/eb/47d20474639a1acfa2d678291359f5b97c311301cddaae9b22fcdacdc05f/nbc-1.1.3.tar.gz"
     }
   },
   "anitya": {
@@ -13729,6 +15561,10 @@
     "0.1.1": {
       "sha256": "fd11c7993e96dacc70bd6cace24e81a66044443737e11bc002ac277d62fa8e68",
       "url": "66/a3/6e6b4bd9284b7c7beda49abad94ba36dd35e9da9606932974dc784c4d9c2/boridge-0.1.1.tar.gz"
+    },
+    "0.1.10": {
+      "sha256": "0a9c933c5f6a84bc6559e15d662da77a866ca6954a42ddd6364e408fc87a215b",
+      "url": "e6/73/07af7b421f264dff7be573ceb3a620f69fbb6f10e18c5f9bff73265d5ecc/boridge-0.1.10.tar.gz"
     },
     "0.1.2": {
       "sha256": "b5053b115d6da5c642e450e8f39f9a2ed62ce439d493ea369a44aa672f7b7319",
@@ -15473,6 +17309,10 @@
     "1.4.1": {
       "sha256": "99ba409e2d15dcd77f11930a5e50e2b96ffcce9ab2cdfd18fa232c7dbbab5181",
       "url": "4b/fb/8f1039e572cf7072d3a3ab0fec217b0cb3a4d5c248c7954b640acc12b243/django-xml-1.4.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "379ed8b8434e79d545d2a59b9156300e304b43aa2583a3db926099ac2c70ad60",
+      "url": "77/7a/6da4d3c6e2ad0ab4d5ad77183baf0646a035d1fa8435c46b051efbc57b32/django-xml-2.0.2.tar.gz"
     }
   },
   "mrq-custom": {
@@ -15971,6 +17811,10 @@
     "1.0": {
       "sha256": "545cdcd7f1d6ed30fc4d295b4a7cfb44659263b0bab4a94cf09a0696c54adc05",
       "url": "e6/1e/9f1073b6d88085e19ee9e90dc1d7133a466bbd40e6a5b10fb88e7fec9a37/anax-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "388c1501b4219be1870530638727e82253f38e5688daa8d8425541c27f0b5bf9",
+      "url": "8e/3e/1c7ecc935d5e03c4743dac9a2876a2e7e8b24b9b718e4b81a7fc3bc1d03f/anax-1.1.tar.gz"
     }
   },
   "quickumls-simstring": {
@@ -16156,6 +18000,10 @@
       "sha256": "1c4c835ac19bbd011c9ad8b4525d07edabed7fa67c5a8d7f7bc98e543bc330a7",
       "url": "c7/55/0eba94fb63aa63e644828be7307af9fc8f2dad65f177ebe4b6840db999f4/striprtf-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "e1ba9c56ee479179e93850067457417b31c659796eab8b62b61c97134229f6e6",
+      "url": "d8/36/51371c2485640a65598b73eb316c8e2985efbf9eb72dbb83c704e2935b71/striprtf-0.0.10.tar.gz"
+    },
     "0.0.2": {
       "sha256": "14fbf6491aeeed5869c140a83cde324d45634b297edbb62ac0cc450423b5f400",
       "url": "e5/c3/14fa5c5cc16be833bf1f226a271bffefe16602414ebae28d541e81497cf0/striprtf-0.0.2.tar.gz"
@@ -16179,6 +18027,14 @@
     "0.0.7": {
       "sha256": "5503b2e58b2088d05590c862547cbb67899a8658c13072c30e63dc2d7af5da33",
       "url": "34/8d/b286528d60333ff9cb64cf7e03606f80a408a8538e45fa0ab0594d5494d0/striprtf-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "af91974e5bd132982f5067d157872fd8ffa38b91a2cc993c5092791b54b73b95",
+      "url": "53/44/0d8161a4e2073f0e27fc5614c5437a706fb2e25425cb4f99ee4035a028dc/striprtf-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "88b30a3ed7e88e2a7a9ad7be7a4ebcb310aac5f7d21029a279cdfdb15d512396",
+      "url": "3a/0e/b1ee494c9bea3938d56478e2b32c650802e0e73fafa03b4077908922882d/striprtf-0.0.9.tar.gz"
     }
   },
   "python-krbv": {
@@ -17327,6 +19183,14 @@
     "0.21.3": {
       "sha256": "ed448ad0dc15e911574ce8fcdacefcf1a7543dac7267d806f0bf06b7e0622553",
       "url": "75/10/69e5aac1a6d622288bb262c711e2244e4ba4e50e912f21c69ac95e1b4698/nitpick-0.21.3.tar.gz"
+    },
+    "0.21.4": {
+      "sha256": "052135bf8599b42aa2950d80c0bb8bdeaf19491be45e0f5f308c922062318b7a",
+      "url": "b0/b6/83d641ef8385946c2cd345eb89911ef34889537711e1a45d8c2aff83a6db/nitpick-0.21.4.tar.gz"
+    },
+    "0.22.1": {
+      "sha256": "9754b0d647538aafce35d4a679bde3025d83ebc5059e68bac4df93f4df0ef192",
+      "url": "01/e3/624ec1033aee87f800f71c09af3bc9d3dddc20b07d782ba6cb4159ec0f9e/nitpick-0.22.1.tar.gz"
     }
   },
   "namealizer": {
@@ -17593,6 +19457,10 @@
     "0.7.1": {
       "sha256": "01e1c4f8924de05d326bedac8d6a8e472f736f5190d388bf0f02ab3db654750a",
       "url": "e9/cd/cd6259d09cf4ccacaabcfc026f7b0f2a91715f96f39b616bc4fece3849c5/rapydo_controller-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "d3f46497067e016b2a91ac3b1a375984933aedcfcab1e7088bc9ca9be48d391b",
+      "url": "8e/2a/c5bdffe6f21a0eff27d86f457f2d5eafcaf2661c994fd8eac03d0fcc544f/rapydo_controller-0.7.2.tar.gz"
     }
   },
   "libkural": {
@@ -18561,6 +20429,10 @@
     "0.5a3": {
       "sha256": "e9c2ce25c034aea3603ad4037fa3157ade7cd459db2b96bff872439f461f76b0",
       "url": "fb/63/aef61e5fb7e0a0a9f00922d5d28ea0b0d08ac5338727a425f33a63838a67/wagtail-markdown-0.5a3.tar.gz"
+    },
+    "0.6": {
+      "sha256": "cb914b900d6ae5d769367977b0e68d8b23c25bfa9505dcd6e1038838686b4739",
+      "url": "a8/27/0e1b9c826755e80932898329012324c69fa815946044dc4c4db3221ea13e/wagtail-markdown-0.6.tar.gz"
     }
   },
   "fasta-one-hot-encoder": {
@@ -19182,6 +21054,10 @@
       "sha256": "abd49ee5143c603a1402632becdbc8aa5cd5355875fb119dc77fbdbf3953593f",
       "url": "60/b7/aab292823ba627e46a8fd880bc24553a5234917c5128d15c3bfbefbe5ab3/metapack-0.9.19.tar.gz"
     },
+    "0.9.20": {
+      "sha256": "73c146cfaa4cf5e4c23eca3375d79dbcb7a2a3b3ab108a2538054cef47796b37",
+      "url": "62/f6/bf4773d355e9ac2dcc61ea6529b9cb623009ca0838c68e644c417ea6afb0/metapack-0.9.20.tar.gz"
+    },
     "0.9.3": {
       "sha256": "091634978ee205fa5f9d8a1d58e535028b80591593a09a1c37f23a4e6c782611",
       "url": "b5/c5/21501a27364dc532d10917d8655a1b5262dcbed65a103d30212b66903191/metapack-0.9.3.tar.gz"
@@ -19571,6 +21447,78 @@
     "1.2.9": {
       "sha256": "d28a5aa4a20561fb959e4608045a59345166c8b5ada8c9d338f4e564ddfd4db4",
       "url": "7c/b2/0904acffceb676c43b54fc2460dc315519cd61945fcd2ad50b1a64f8abf3/osrsbox-1.2.9.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "c8b0c539042439c53aacc6051e04331cb5fda09087fe87fab1edc8b58cdc97aa",
+      "url": "4e/89/f6b5c6ac138c4bc44be6f4ca105a0e42d810b712ac73a9025a5dd89f2c85/osrsbox-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "1d0af731bcbe4d2a1fb348d5c43fe19006774a3ea7c17216fc613ed4c5313cc0",
+      "url": "26/55/dbb390b52386a31568c7c66aef6736aa41fd624a05cde1a8927ff0d80d72/osrsbox-1.3.1.tar.gz"
+    },
+    "1.3.10": {
+      "sha256": "320100f813157da865f4acffb414cd466077829869e8362dd7d7cd2253f6733a",
+      "url": "ca/b3/63006e6a074c33f1d0f9b05acf2a9d05500d3655e1a8229214325c206dbd/osrsbox-1.3.10.tar.gz"
+    },
+    "1.3.11": {
+      "sha256": "747feb16b186a7e4bb2ceff061a9a1afa76e9d4c53a43dba325df3b70337802a",
+      "url": "e8/02/a4f198f5fccba41ebd815221228fdc672d6af165cea08a4a73ec497178e3/osrsbox-1.3.11.tar.gz"
+    },
+    "1.3.12": {
+      "sha256": "ad12568f5325b2f7d7565063e84439616cd12b4959dc860fa216686e236c14af",
+      "url": "30/7e/e10d416e49eefb9c6ea7f602183ffaab153d771afd64a33c28214c347736/osrsbox-1.3.12.tar.gz"
+    },
+    "1.3.13": {
+      "sha256": "57f25ec4a16b8c650f9ffb87281cf9d3009eddac439e84824e889bced16b2311",
+      "url": "c0/f1/5e6a723fd298c881888b19a60b677a6c324e068caee818b499c3aa92a628/osrsbox-1.3.13.tar.gz"
+    },
+    "1.3.14": {
+      "sha256": "d7b0a3313bca1c4a6fea044121e8a119a257acdf325910e7d5ba7d461ebfc5df",
+      "url": "67/cb/5708e0d875786c2625b37a85f6698e1383402fc521c0fec882011f99133f/osrsbox-1.3.14.tar.gz"
+    },
+    "1.3.15": {
+      "sha256": "a47408bf1758ba7eb6dd62545d217ecb99dfe766e43b0f253937d9283104d04f",
+      "url": "03/14/87a4be7f91f33cf5987b02bd78129a1fd3636ac1ca8df5f618d8cf752577/osrsbox-1.3.15.tar.gz"
+    },
+    "1.3.16": {
+      "sha256": "206d588f4e89ebc93690e1bde6d44f9cee9a60d6e9ace2115f1c0495ef0f6432",
+      "url": "b0/7f/1a822c03a7ab1850716009849aa6eb75b7542c23171bc1ab1f2522aa0295/osrsbox-1.3.16.tar.gz"
+    },
+    "1.3.17": {
+      "sha256": "c94fa7543fee87f0bdf3c9bfc5daf39557e3825dea73e9a8f6439da3fa5c20f9",
+      "url": "3d/30/595508b8275171772f602abac2d3b4d880aedb4d65971b57f360e2744eeb/osrsbox-1.3.17.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "0c13c2ea0b3ebdcf6d5c9fec87a3ce569601d5cd81588f67e9e40c1c6701eb2c",
+      "url": "29/3f/963231f94276687b6869b2f0969a24b3af967d6fab801e1c063e9a918e4a/osrsbox-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "0b508d639c42a984a6c04f8a0de14bfd257ff6ddbed2b222b237b1fffe79c37f",
+      "url": "2b/5e/55ecd776a196d9763a17a2ce5a7989fbae747d75b49b47060f483fa63fc3/osrsbox-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "cec61482354170d0da01bbe36a6c06f8f1e115f9ae7520b7d48fea50d9a6d583",
+      "url": "ed/09/8c71d1c65007b42d5172df19e33c835a8cedc7c4f1dcd037b9e3a9311cc3/osrsbox-1.3.4.tar.gz"
+    },
+    "1.3.5": {
+      "sha256": "ce03d9a71446a659d14cd489f1bff5fb7e1a0d206773de6a327d31a82a18cee6",
+      "url": "a9/76/bde2de7f3d1bf6e9be3b155a104a5b6c96df8eafb3349be34e2850515a37/osrsbox-1.3.5.tar.gz"
+    },
+    "1.3.6": {
+      "sha256": "8f5afc6254e5c32364753948cc20412c1534b4a529a84d8634d021e698a2e131",
+      "url": "62/95/14b13d44d51521347b0c4970871de2332ae1657261e0b3ac6f7c0dfb02c9/osrsbox-1.3.6.tar.gz"
+    },
+    "1.3.7": {
+      "sha256": "07cabbec5fee35b30896362f4add0209d6d6680ec587fb3af4d2fc038dab19ca",
+      "url": "fd/e1/0a2e25748f7fc91dec813225e30db69055ebff2923d8aa70d226a1a7f549/osrsbox-1.3.7.tar.gz"
+    },
+    "1.3.8": {
+      "sha256": "828fadf34cf581709765bb8902a85ae331d06fd1cb6ce6084be8fe46657d8036",
+      "url": "c4/36/45c4a14d63530ecb01caa0288d92bc734b2c14ccbbbc791f117f29b4337d/osrsbox-1.3.8.tar.gz"
+    },
+    "1.3.9": {
+      "sha256": "2f10296e4403fd6523995c5629647a97acdf6cdc0f8a7f0d6f8cdf7364c3b899",
+      "url": "17/ca/ca9d7f4d2f2af58e8780adcc533a2a46e2d37039ed6364963be505aa6e85/osrsbox-1.3.9.tar.gz"
     }
   },
   "jobtastic-mixins": {
@@ -20219,6 +22167,18 @@
     "5.1.0": {
       "sha256": "0675646af4142c94afbcdbdaa9f0ea8246db518ccf4b41de08df7c869b7969ce",
       "url": "30/a2/10b07664c42f42013895e0146c5c8dbf7a21cf0fccffd21c0c3b5e1c11d8/storpool-5.1.0.tar.gz"
+    },
+    "5.2.0": {
+      "sha256": "92ddd8caf3b9115dff5465a06c80b66092ef6a7d538731f11ae057054517bba6",
+      "url": "e7/61/cb08e1ea9e9efa00cd7254c5c117fee5e5f569b5048500b72d6751571a03/storpool-5.2.0.tar.gz"
+    },
+    "5.3.0": {
+      "sha256": "5612814c7a3ae6a5a622d823412660b68fafdfb5d37a919775dbb39654a69a9f",
+      "url": "59/8f/a7651106723dbfae41790a00e82a712ffd75b336478c962b41ba1f100de5/storpool-5.3.0.tar.gz"
+    },
+    "5.3.1": {
+      "sha256": "88fb3401fd4ceb2eac49430c705601e64437757fdb1f14930b89034c36ce9e3d",
+      "url": "75/b5/8cfb173a9e1366a914b31a44a72de47696641f0cc3d871120699886c9efd/storpool-5.3.1.tar.gz"
     }
   },
   "notificationoptoutplugin": {
@@ -22214,6 +24174,10 @@
     }
   },
   "fusesoc": {
+    "1.10": {
+      "sha256": "2d48a4549e57b5dbe46c1dad7d69ce320d2f0f8b480dd3dcd9d2b44f55aea6c5",
+      "url": "c0/12/665eedfc36a48afb1e5800a44c9e048a4b4ba3c37024103c59700fd8e20a/fusesoc-1.10.tar.gz"
+    },
     "1.4": {
       "sha256": "17610c86561d238631b6b2e48f8cd4359b75f28b68d447ec4db477252284ff34",
       "url": "fe/19/42be5f4eedac806bc8f583ed68366da7a303e1f235073e8aa32ecc7e7c17/fusesoc-1.4.tar.gz"
@@ -22830,6 +24794,10 @@
       "sha256": "1aad67109ad538ff2ae0d09b2caa67d60d7a73d7e02c33154cd1c82edf450653",
       "url": "96/ac/78e6aca303a12141290967929acfb7a26dc6133048a5e6f180768e668af1/django-chroniker-1.0.17.tar.gz"
     },
+    "1.0.19": {
+      "sha256": "e9209a1270a0f252d1fe46d66f94e1ff5924960d75fadffc3732f87e73a488b0",
+      "url": "c6/a7/8cff92ad824b4a490ea6ebdfbe1789706fadfbc4b0a7e6d9315c00aa66ab/django-chroniker-1.0.19.tar.gz"
+    },
     "1.0.2": {
       "sha256": "a80ea2e88e7f8400cd57ffc47fcc74d7d545966238272cdee1b16011800e3cff",
       "url": "ca/44/b87f0925d470cef810e44e34b81e22df7fcdfe1a34bd0d28682321b359b8/django-chroniker-1.0.2.tar.gz"
@@ -23321,6 +25289,10 @@
     "0.1.1": {
       "sha256": "b397f0af1b02409efc168b1f9bc3fbcd161de491e30caabf612f6f077e7fd844",
       "url": "b5/7f/9a7420cd675240135f206e037134bb0fec1403bb67f2fa4f138bf9f697d4/jupyterlab_autoversion-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "1bae03e0de9c33dce3ad8aab3003768f5b1c1c91f7cdb30829184b45fdf2e1cf",
+      "url": "97/46/e62275a50bfdf1ffa03347b6ab6d4d1c894aec547005f1386c2edbc17e0f/jupyterlab_autoversion-0.2.0.tar.gz"
     }
   },
   "mpd-control": {
@@ -24335,6 +26307,10 @@
     "0.9.0.dev1": {
       "sha256": "209862dba061223f6cd2da78df07b8a7395901c5bea8127b2ee15e8843a03514",
       "url": "d4/eb/e25760ed64b45692a0ed8f57a125e9ba79b3608844e2d1b332e46a68c53f/omero-iviewer-0.9.0.dev1.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "33ceab3a33ce551978d85e58d30b254ef1d2253e9c46f57f35451a33b57ee781",
+      "url": "62/4b/3c30fc790e973102379d2c6cb2287e550e7c9a84626b49c99d5a3e9fdb88/omero-iviewer-0.9.1.tar.gz"
     }
   },
   "gramme": {
@@ -24429,6 +26405,10 @@
     "1.0.7": {
       "sha256": "b99b9c3fd6c27ed35b09a2ec34f99aa9c074a94829de8241bb017494ddf60545",
       "url": "ea/26/cea02b62ed29f15603ad10ec3bf8084f611dd39934f0d73bc460b1157a3a/Flask-MQTT-1.0.7.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "d196c4a7a1fc37a4364e8fe46b3670cc656a851c5b63d69e2836c80e03da88f1",
+      "url": "42/7f/817e6852dc6032c7fe14b977e156815c5b5cd40c9d2422e3ca031e1446e4/Flask-MQTT-1.1.0.tar.gz"
     }
   },
   "recoder": {
@@ -24619,6 +26599,10 @@
     "1.2.0": {
       "sha256": "1df39206390f1410fccdb4d6f6c611203ded46d6fe176e17593a207c1b42a2e6",
       "url": "ac/fe/221749136d360c938a64d08bb4b239d9c508bf444adb8b90fe8e8aaac846/uncertainpy-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "e631ae5debe2523daa35119a406d78c0c05b18b695f28f2b9ef91dc29d23973f",
+      "url": "79/93/dbc91f3fa9620ab3fae940ff975714c12c477e5f31d6ace4fc23eb3f5ad8/uncertainpy-1.2.1.tar.gz"
     }
   },
   "batchglm": {
@@ -24645,6 +26629,18 @@
     "0.7.1": {
       "sha256": "9927cb2967a0cabcb9b1952cd86aa30c06e8ea908cf86d51baae910ba3b049b4",
       "url": "13/23/99ce3f6d2bb79c356995f73f205bd4f60cd4f5365277480c12003769da87/batchglm-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "17805a9bc5a9834368589a6174be94b401f77c1582400e46c767049b28a1f519",
+      "url": "7b/39/5d37f1bf55d322b8b9a1d0cd6c24fd10ecef2cc3e542fc7123318aa89f8e/batchglm-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "34946ba8eca6119e3730e6a9122532cae907dfdc1ef5bddfe2834328a1262e88",
+      "url": "36/5b/d9c1bb80e71dd453bf1afa4c22f51a0f9cc5fc9abad61c8b4cf60cd29c54/batchglm-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "89da770c83eb778346fab7b4d784eef23564119cf79e13d0afe5050af6a9be2c",
+      "url": "ed/b4/269ebf8ae2c547fd0aaca1c4523f02e41fd8f102b24cb7c404fa4fa8c29d/batchglm-0.7.4.tar.gz"
     }
   },
   "adafruit-circuitpython-display-button": {
@@ -24667,6 +26663,14 @@
     "1.2.1": {
       "sha256": "f6ddd5d758156966d2ba198ee295f127376392c0cba23bd32c6d8b714c6a8c2d",
       "url": "56/6e/e0a5fbad0f357fc9adcfefd42b5ce06f6ea7d322b0f8ba8fe7b8beeb5fa4/adafruit-circuitpython-display_button-1.2.1.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "eff214ad8dc75f0700258e9fef0895064d9e373b38d2531e8981b249fb3d1194",
+      "url": "c0/5c/8ac5eedef2a3d416b57c31f2d3bbaba0f92c8d86a4da2f21e605a2b8fa80/adafruit-circuitpython-display_button-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "f33e84391a871486e0d0aee4a2ec3f400964eeec3e86bce85365a33c5db518a2",
+      "url": "c1/03/de033eec96e3a412c38caf541442176c4bef992bf3b83998ed3819702531/adafruit-circuitpython-display_button-1.3.1.tar.gz"
     }
   },
   "netmem": {
@@ -25725,6 +27729,10 @@
     "0.4.3": {
       "sha256": "69af0c4072f5125967f1560ce8b596a2ea30a378ca8b92998a6222f2c78cbaff",
       "url": "0c/8e/aeea4198446af93d6159183e15da8e7034cd08e27b319baf00b9233b883f/djaodjin-signup-0.4.3.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "8b363b3fbd2a25bf504836e6c442aed894a050066d12fd9a681290c33f9562aa",
+      "url": "21/4b/2cf17af0263c124957d92fdec49a598aa19f30e33339aa0fd3f4bd7bbb10/djaodjin-signup-0.4.4.tar.gz"
     }
   },
   "flask-python-ldap": {
@@ -26127,6 +28135,10 @@
     "1.0.1": {
       "sha256": "492f7585ee332a44e59002002e518a2e8d9e68e4c182c96080e92fddbc5f035e",
       "url": "c7/80/96cd7e68d4cec3bf7a640578a4be4681445d30000418eafb4d173a49b962/tokendito-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "e5277e2bdcc41d766bcab722e3587fbd656705583b13d8a08e2c060f0ab252b9",
+      "url": "40/06/4d18b0058d9c28fc5f48b9b0750f45dd7232bb35e52b87e90cdaa0a3d5b4/tokendito-1.1.0.tar.gz"
     }
   },
   "django-datawatch": {
@@ -26329,6 +28341,18 @@
     "7.0.0": {
       "sha256": "166322e0b34645fb41339558209c4943b654eae34d4fec1dd0a261c34b76859b",
       "url": "d0/43/85e1fbb7606af2d9f8cade22b11ff41c4cbf63598e86c986f8827ef01d0d/loggo-7.0.0.tar.gz"
+    },
+    "7.1.0": {
+      "sha256": "b9ae7a7c61c750975f77fa14226e490200eb81e2ee3c1d1f5d806f58c8da9d7f",
+      "url": "35/5b/199615d39906afd8bf9c57589f87c9da8686fe55479c4b9cd9958404b5d7/loggo-7.1.0.tar.gz"
+    },
+    "8.0.0": {
+      "sha256": "9217fe86a9a2fbc180e6d33da7462c190a8ce826f73c1c7edc729539f7653e7e",
+      "url": "ad/e4/d7d9970fe57845a960326849de4decd76b80e6a4020edc86569ffc4c9bc9/loggo-8.0.0.tar.gz"
+    },
+    "8.1.0": {
+      "sha256": "844f6ed6358a16dcc20a6db9ee531f8d3f415362c470502c81e42cc3d2ab8bf0",
+      "url": "76/b1/d0d61611044c582afe701948f4020defe71ee37c71e01106db87bf18e78c/loggo-8.1.0.tar.gz"
     }
   },
   "ua-api-utils": {
@@ -26751,6 +28775,10 @@
     "0.4.1": {
       "sha256": "325cf2ef98050906dad6ff35b2da5babf50fea1b8ec685308956cef4b3e57882",
       "url": "d1/86/5ad3bb2311a2401ad11bf958b1d8645940432f6539feb0ac3198cad1d432/farm-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "23cad49455b1528c0ed32b84d11b24e50f9801e194e03d839aa8b737fb4b391b",
+      "url": "5e/52/d9bcda51ec5a87d4066ededed48df13c0074180c2178439037bbc67c7fbb/farm-0.4.2.tar.gz"
     }
   },
   "playmate": {
@@ -26867,6 +28895,988 @@
     "0.2": {
       "sha256": "3656ba456a51ff7e4095fa4392378fd783e9bd50c9826a4861c9859d7de2f293",
       "url": "a0/fb/7e2151d0a612393c38906e1d666a66fa59b4165a95416b7c57061ddd1322/termipod-0.2.tar.gz"
+    }
+  },
+  "analyze-perf": {
+    "0.1.0": {
+      "sha256": "cf24a12a114e11c13e3ed435cc2ef6dfd846bb2e611ee99f39be44810edbb238",
+      "url": "53/47/d363976c179f89428c3161964c7738864adf51906a0bbf56fc228207b0f2/analyze-perf-0.1.0.tar.gz"
+    }
+  },
+  "tfvarman": {
+    "0.0.0.post1": {
+      "sha256": "a0cac036541a25fda1443aeceff8d124bbe19867cb710841934b48828884f0df",
+      "url": "0e/5b/758b37e0df4c1fb9532a1f185ab7cb7bf622629b524171ba27cff1729f2b/tfvarman-0.0.0.post1.tar.gz"
+    },
+    "0.0.0.post2": {
+      "sha256": "481a7c04207619007de8881b02336bc91574de3df5f3660d13b6c3d5c30ba266",
+      "url": "18/8c/ac4a2e1dfa66d68356965ab3f41eb8fd260a9bbbfcd3cb2e727463aca6bf/tfvarman-0.0.0.post2.tar.gz"
+    }
+  },
+  "m9s-gift-card": {
+    "5.2.0": {
+      "sha256": "9a1e5ba7d0d85cbe1a84ffeec7c2c01dc560a9d728f4e3c6a0a49bfd11af8ce2",
+      "url": "6a/6b/789e1ee3070df3686dcae3ebbb9376155fc768949488ba4c1efebe63eaa7/m9s_gift_card-5.2.0.tar.gz"
+    },
+    "5.2.1": {
+      "sha256": "b265ffc7f93f78790b85929d0bb11f458880e61611a00634b1a796b5d323f7b8",
+      "url": "48/fb/9f324851f475121015671db2953b74d3a07c4a07ef57ece1096a4758c190/m9s_gift_card-5.2.1.tar.gz"
+    },
+    "5.2.2": {
+      "sha256": "f349a15866e41b33eb9909a77c7a68a6129da4e634942246cae75f52efd2e108",
+      "url": "67/57/5c6b4565aa27b32da8541605e811bc7dffca4094321763b17ecb2a73c944/m9s_gift_card-5.2.2.tar.gz"
+    }
+  },
+  "thomas-server": {
+    "0.1.0a15": {
+      "sha256": "dcd48c6d87c7d98d1baa9cb6fab59edad6471665d8cc28fa556a1d5208e73e2e",
+      "url": "df/16/4e715419784e1e5e9272f69c3c91d7df4b59126a849e3f46937033e001c2/thomas-server-0.1.0a15.tar.gz"
+    }
+  },
+  "ccl-scratch-scrape": {
+    "0.0.1": {
+      "sha256": "6dc208616f134d22153e325f32f1f5a3d08427d8bac9a0e524ee45c5fcf3cf35",
+      "url": "5a/ce/fcaedbcc14084dbcf27b685c38a45722e0456afaac763a386355236bd4f4/ccl_scratch_scrape-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "9d5794fc4458bc7a4211e51db7ec813f53875f71b5dae58e9cff23038e1470c2",
+      "url": "4a/9f/9127ab27967a0cc443fc1e97e2b01bc1ad748cab68d1aa473864abb9f63d/ccl_scratch_scrape-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "b18d79a7ed8a63f91d1b338d22f673d40d7a797347426588c7457bd200a561d5",
+      "url": "d0/ca/f86bf62ef42b9cc35149186558100468dc07c6aa3c34ba669db249a1eede/ccl_scratch_scrape-0.0.3.tar.gz"
+    }
+  },
+  "boxsdk": {
+    "0.1.13": {
+      "sha256": "2b6079afd27ac7d03a60e95af34a3212c1cb118b0d570b4a20ab6d071c4c150f",
+      "url": "56/73/b189745c7fd0c0f4392689218bdd3cea8bbf6afc2e39fdc69cc9dc384245/boxsdk-0.1.13.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "3fa73a33f9b46907cd09fb88a2ec253d1e8446cea4d29ff5d771349c037e40b6",
+      "url": "53/e2/20d28b0563168cf749d15cc36a57c0a6b33167481ada5d93931e62cd8f7a/boxsdk-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "a774c30489ccd1d3595827c02dbc1959046d97b1fd874f333f55e55fbc3453aa",
+      "url": "2d/ef/d3f2b22af3b83f68d522c20203f8b090453bc87b761283a81efacd10a4d4/boxsdk-1.0.2.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "38ecdbeb010e5b9351f41b8f8e1b4852e0d15dc1148e00f53481fecdfbc8c3c8",
+      "url": "58/4e/12eeece2575c80ea956da81f81ba0a893b7e331e48e8e0783b6477137c89/boxsdk-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "caa687a01be5f1e79416dff6aea7a87a4d4e7cf94b7de90efc1f91c2bb14ef95",
+      "url": "ca/c2/e912b75aa96b126d6812db646278867a261a907e316134059d0efa245fcf/boxsdk-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "902a84099d529acf12cb657b1eb87fb7214e40e9cb7b1485d202769a14c9af12",
+      "url": "dd/68/4542c9a25d8a253564c46329561c30345bade425d44dce932e3fc3b25ee1/boxsdk-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "b89ef65d68c432b4978dbdb039446f2c0f0cce2b3d1180e65d0123f9e61eca4a",
+      "url": "89/67/5657c270f1e78a0b40571040e14e61abdfe7ed7ad0fdb1886bb1356d82b3/boxsdk-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "83444669d7581f4cebb0d52f6853cd87d0518d1f659decf9bc1779034274c971",
+      "url": "b2/25/07ae43c0bdaed1c540d1d04dacdb531a80e7aa357b26c90a43bf65e583b8/boxsdk-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "91fa5d41103d2c3839a7e145ae291cae30a2babfff158b0dc0d09908a972f954",
+      "url": "e6/45/f2650929d28f0fc6f423307c5c111c28ff48c0186146f85ea814f82dff5b/boxsdk-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "53bb1cbbd63ca1e6c4069f1d75575217ed5dbfe63007f9fe2ce76cea0ea5b087",
+      "url": "04/27/ef969da8c74fd70a84824f8a769694ee26363ee8955d0bf1c7c14f985976/boxsdk-1.1.6.tar.gz"
+    },
+    "1.1.7": {
+      "sha256": "d695ff58195fe64c7d0a38cd9d9b6e13a7fbc87d704fc96e0546cf4ae5e1f8b4",
+      "url": "fe/d5/5b008b074af406fddaf51f06956b0f38fecac326ac38e67d23f1f37b0610/boxsdk-1.1.7.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "0017eb2cfb9899c19a139c92f451a9aa854de24eafb960e8379d4f4f3046691d",
+      "url": "a3/91/d954eb8c56f797c88c30f92c9776031a791dc7fcddd39228933761d0de37/boxsdk-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "79cff777e6cc715a77ddfb04079bb4d183c486e8bf19800af8fc6ff28738898f",
+      "url": "d9/35/d86554f3feb1e69b0f78c3ad33f885a6b690cf7e191f15620fdf9480a128/boxsdk-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "88e29a52ad267a63ffba5fab05aa00c542330cfe032d60b152826636c47a31f7",
+      "url": "e7/f9/216b2600aa89bb5e0fc3c9baff9cd261c5fe8bbd1bb8e8b03364c97cc4d8/boxsdk-1.2.2.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "ee9089ec297f43e82dbe2188bf08d62fe4c7477a3ef6971435b722b66308429c",
+      "url": "da/ce/3c5be9013b4309bd24ea4fe976bf7a82449c68265b9ea3ad3e4f0bf26c75/boxsdk-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "67d09d5b3adfc40a6c77bac8b50cc8213ce0acfa98e108a81a58d86fe3a20f79",
+      "url": "56/22/ea5be6dd304e62024380bc0f1781cbe89a93192a790d99e22e9d0eec9742/boxsdk-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "1d5d5bc7314d2a6f06810ee24cc551c3f8436201ea46789552cacc26bc16af0f",
+      "url": "46/1e/9e91abfe46335312f25369e6932592e91c3947100dab57391c4ddafb1e29/boxsdk-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "213a08b1761ceadf53a09fff9e2c1f4ef228c5a4bb741a6b8ef9a606558f6aa4",
+      "url": "67/4a/c81f73b9cac0a2ed9e212945b4175abe60e32fbd7d3c62bb8cc483f59d07/boxsdk-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "e3324e104b40ffc6800cc4081d39f8060a4ca5721e52c79e15d39d055a1fc3fe",
+      "url": "3d/ff/bfaa505e2e3a638aa098713b0cccb7b24ca4b81b61b1d673eb6129e7e11b/boxsdk-1.3.4.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "a2588342bb81e3414ad72acfcbbbbdf8643a94300d9f4983b0983a88a15e5c58",
+      "url": "c1/c0/a9d752976cea7679d87865ca1dddd0f55b2dd2a1698af1599499d5ea88e2/boxsdk-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "7b13fa95a8f1f80d7f36a863c0efcea0dffd8d56fb49159bd2f0ecd2446027eb",
+      "url": "20/bc/8fa478023079768f9ead1a8615fca5377d5760854eed922425f58b230f03/boxsdk-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "713dc358818900d391544c33baead9125421ab58c66b92d830e1cf0133c10be5",
+      "url": "be/4c/01b9c6b9e60b0284febdfef1092b5a8c5fac80fa3193ee04bdc21bc05953/boxsdk-1.4.2.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "cbbbfd29f7ab8194aa60b02b6dd4aa3f7002633d2c61e31893e837000a8a6bca",
+      "url": "2c/2e/f9235f6de950675a90eee4d6943c758325cf145b7fe61c7bfd773c245c28/boxsdk-1.5.0.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "c954adb9a271fe7cc57b5a9fc489597d7ba072198fdbbf307be884e355a1b6cd",
+      "url": "44/8a/21de22c11fc75c8cde67d9ab9790b790b51cf9a3b8e374382e522e2eda1d/boxsdk-1.5.1.tar.gz"
+    },
+    "1.5.2": {
+      "sha256": "643952e7f1621847eb5539a6088f138b8173f55ae1969a84358a7db1e19d55dd",
+      "url": "7a/72/d0bab9d9350077e3b079ee76dc7ce730d907c152fc84bda06259f5f17931/boxsdk-1.5.2.tar.gz"
+    },
+    "1.5.3": {
+      "sha256": "4c58fc167929ae75c77204a55a89f9cad790e5ed6a1b7b59a84f4e7b42e512b9",
+      "url": "b3/90/8e29da1f4061f8998b1a9a7589b272a19d3e465eeb9747aa4343eedf7331/boxsdk-1.5.3.tar.gz"
+    },
+    "1.5.4": {
+      "sha256": "8f07e46a6ff08642efa62163b24968c227a499552d0025f6b212cb34e0770491",
+      "url": "2e/5e/a20de5bc8d75513f98e3875214fa0fbf01ebfdc0b404d0c307d856029582/boxsdk-1.5.4.tar.gz"
+    },
+    "1.5.5": {
+      "sha256": "5b431c57f7785e6930348d0df112ee0c83a613c57c5498401808a55dea963f59",
+      "url": "60/a3/efa801620ee18bae2a76a235abcda33f89a70f067344c48a35e3a008520c/boxsdk-1.5.5.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "61bcea36626e978d0e9f504c25e2fe3d52eafcaac78163f038b209ac8b17acd5",
+      "url": "33/c1/879332b7a3002295c905e8556cd10a1ff9a958ba0d288d0b7984ea1cc653/boxsdk-2.0.0.tar.gz"
+    },
+    "2.0.0a1": {
+      "sha256": "510905c4d3d5a7a4a99803a2284bbbe6968b15d40eb0fca7005c0926694188ef",
+      "url": "fb/d8/0dad600576d59c15eb3858bc5ac3a05a247fac8f5ad874e913027a595e1e/boxsdk-2.0.0a1.tar.gz"
+    },
+    "2.0.0a10": {
+      "sha256": "b9ec78d4fe3dfb21077c9c9f0316b6d3c08e87affb5c836f1f63efa9b265338e",
+      "url": "96/0e/a857390a112c847e89554d034597b57262bb7e8a39c19f5e86e909f9fed4/boxsdk-2.0.0a10.tar.gz"
+    },
+    "2.0.0a11": {
+      "sha256": "4398b2dca7a70f0a6860fe420327c2d881a74bac14e94f748cbd161d17b6f73d",
+      "url": "dd/42/b628290a3b572397048217273ed3434331f9a8e465ce68ba4e18ba7d8196/boxsdk-2.0.0a11.tar.gz"
+    },
+    "2.0.0a12": {
+      "sha256": "233b4075e67ca289a0ecbfea72d481c99f97bf84b9006bd4c91ac78625616d68",
+      "url": "ee/51/9312f0437a6a2caa2468e6f42dfab19337d35c263fe8ab83f9318b3f458b/boxsdk-2.0.0a12.tar.gz"
+    },
+    "2.0.0a2": {
+      "sha256": "485246b1e457bcacdeab1463c7daccd0e4d613feebfcceb2e315c9863129edc7",
+      "url": "d0/bc/a47c047d146c0e610d19b735998975c3783d0525a643ecf89832c8ed6bf7/boxsdk-2.0.0a2.tar.gz"
+    },
+    "2.0.0a3": {
+      "sha256": "ba1f5e2e2deada840fa791420442509055c38d83bb4b28046d72efaf6b8cc8d8",
+      "url": "a5/3f/2f4815805632be98f9b54eb27fff8a65f6727f8fb180fcd595a4bafb85f3/boxsdk-2.0.0a3.tar.gz"
+    },
+    "2.0.0a4": {
+      "sha256": "215672ab2b075da2be0947f6066d394bec95ec4146ec41cdc7a38686c0b01578",
+      "url": "fa/e9/b1e0c0b2fbb988bf2b7560833a4687a576e93738b03a56368e04cae90be4/boxsdk-2.0.0a4.tar.gz"
+    },
+    "2.0.0a5": {
+      "sha256": "cdd065962a796e6edcb23b62b214e86a4e39e24236d08ad45bd54d79789a64d6",
+      "url": "43/b1/0a71487a016cb8ac77af8f1d5061979bc9dda1c83918b1c525acabe881d3/boxsdk-2.0.0a5.tar.gz"
+    },
+    "2.0.0a6": {
+      "sha256": "88feea02a8a255eb0cf4cdcc809fd4b3dca5d28d540e23d632764be1cd6a5d70",
+      "url": "b8/90/11499eebda098fecb320bb437ef5bea461f1038a19433f385dbda1778c11/boxsdk-2.0.0a6.tar.gz"
+    },
+    "2.0.0a7": {
+      "sha256": "af5483ab7bcfaaaaf84cc6e93bc5b78324e710ec11c1a56b72e51d80c02053ae",
+      "url": "2c/be/555eaf6620a1c579a8acbcd470662d8b02757383c9fa36ab49b5f92bf39d/boxsdk-2.0.0a7.tar.gz"
+    },
+    "2.0.0a8": {
+      "sha256": "eadde212d245dae51b21f48ecb47a22519eb04c19a8683f0ecbeb0b58761b1e1",
+      "url": "19/dc/9d43e439d484329d57c36b003e482871ece1d11e1f04c62c6daa25550f53/boxsdk-2.0.0a8.tar.gz"
+    },
+    "2.0.0a9": {
+      "sha256": "7a46a4f4369d7814e2a5b4a96062630953cdd0e5f358222dbd0ab6364ccbe957",
+      "url": "50/d7/d8e968db8a8218798b0e6158e1bc25e0f4ab819649dca4cd5c3a67763d62/boxsdk-2.0.0a9.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "99a94b1fac76ffed42d5cc1a53fb9eeca44a68a5d2a17b28a311783ec435dde9",
+      "url": "23/23/b7b2307aadcfd8c139ff935524fa1a524f00f6ba0b75f96d4f7ad70afb93/boxsdk-2.1.0.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "6063840c06158976bbb861569bf0b13954d4d180d3336af7eab05ea30534b210",
+      "url": "49/86/5bd96b408a1aaeb607533279f03ecb3d8726eecc21055be09ec77b732764/boxsdk-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "55d499af7501565af178df786b17140f4d55ea33dae098d0c7f9c32c5e71d6e4",
+      "url": "c0/70/1429dd19a638a809eea05a92ae1ac891466a00025b5f0d66ca48c6de04bb/boxsdk-2.2.1.tar.gz"
+    },
+    "2.2.2": {
+      "sha256": "b681a1cf78c85bdeb8a1d1d7bc4e3210bee85c33ad01a7e6bdd7d6f8af8b5654",
+      "url": "32/4a/19aa28de97745f2d9331bda085e91c175283b0f1f6154ebd4d9eb86a4081/boxsdk-2.2.2.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "25c12c5464965858f77fbe6ca049cc7c676d43a7ed10a26950a00e7a239e65bf",
+      "url": "f2/9e/166883db08ad0134d2ec5f8f17a57efd677bfefc17a696b9f1d736986e7e/boxsdk-2.3.0.tar.gz"
+    },
+    "2.3.2": {
+      "sha256": "1169f24ad3d4545f7474960cc72623be543afb8daf81537a0cab2c62da165bff",
+      "url": "0d/fb/f7a4d5a10970fffd0ce19ffce86ef3cba862da4c94a6ba41e9c18309356c/boxsdk-2.3.2.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "b7fd4a7fd64045234270b3ff978e8b9c04f61ed0ad7d290decca045835088ff5",
+      "url": "32/28/f89c07908b266f276e131556ca4e585519cc7c40faeaa10892f2c2785745/boxsdk-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "ffa70925750f4ee407d7cb8545ef026fa997aeaa2ad36e0219797d1e2154ed50",
+      "url": "e8/34/c518fbcde802fa9a6b71b79b9d007a5e1ef83e108098b15d81c10c2b3710/boxsdk-2.4.1.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "91ec094eb41c14dcd6e7a52b34de8b31ffca54c1bac645e372e03d7e771d7ac6",
+      "url": "67/f0/9fd965c7822556a0a00deb57469d76354be2d7ed3ca2ad657d8ec2d97327/boxsdk-2.5.0.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "8813188ebc2b84b27f52e99a1fc576eb1c776425121b4f455455d1c8e9ab1173",
+      "url": "92/6b/1e35d9fe1263b0429b1da98b25cb023f3ca4c201bea50a8e6bf259643659/boxsdk-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "b4170a28e2377f9b6951b0c491ede5318cfb8b6e15071003b0cb31e85faa94f2",
+      "url": "8a/40/29581bef7b02d72b25b1417f4219ea964b05d88d96ab24d4eedf828fd10d/boxsdk-2.6.1.tar.gz"
+    },
+    "2.7.0": {
+      "sha256": "86e61e4074dc8f810648bdf71cc9a26004236c65a103df93b15086ee5ee79dbc",
+      "url": "b5/5d/f832bad03e96a6bded47e4d511bf45d0320778abfe8dbf51912c6de8734d/boxsdk-2.7.0.tar.gz"
+    },
+    "2.7.1": {
+      "sha256": "a68a99f85b99081f8403e2608b12fdafa10469f3d6e81fcf5c996b6323c82751",
+      "url": "22/1a/8f3e8268c3f2ce82eff2abe13e5346d34c2f612830562e503ee634df5806/boxsdk-2.7.1.tar.gz"
+    }
+  },
+  "kiwoom-api-handler": {
+    "1.0.0": {
+      "sha256": "096fa1e01c57ecbcec1ec65ab4ecc3d8504ab6510c866aed92ea160aa1019320",
+      "url": "cb/0f/4631a573802d4f2077de643fb71c0e4ba8c776d3e8c8ac999e75c2bf74a4/kiwoom_api_handler-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "864bc1b46192b8cb9d66a2375159d4523deb86b2e88bea8ecfcf4ce789c1e987",
+      "url": "5f/5a/3eec4fc63fc75de8bfce6b599496461d87b8cad5ddf32f496f6939ddbfdc/kiwoom_api_handler-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "596fb06a643c8ec134fdc2b5a97fca182474066b863c78aa49e4a1be226a3fe4",
+      "url": "5b/f2/920791b0f1795cbb1e617e7338fb8148619f7a37cdebc0051a8bf7a561bc/kiwoom_api_handler-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "1725919cd690fe4d33a63b162f4f98f8022029b3fed321a5532a85399e83cdce",
+      "url": "77/70/df361e855d2a1c76d84af84c7be41ee8fb93e1418b8fd422b599184801ba/kiwoom_api_handler-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "e67ac99484be13480f45c77e4005abda91bc63d692c6ad0bf26ff6912422678e",
+      "url": "9d/58/64a389d0dcb65c216ee103be7ccee8d7a9b239bfb2269e6cf8887303c55f/kiwoom_api_handler-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "7b8529319fd39298d092bfb62aeb379c1821ecf9e23fddc05e31f77d295f6d3b",
+      "url": "8f/20/6959396913d13601301b1550263edf571146031276743e1276ec79ceaa60/kiwoom_api_handler-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "1cc9da1b887f81c3c120a7d4803bcc0c7ed67f39eb5ebcae71a6d3bf22f354db",
+      "url": "46/23/0a8bc261407a5e0bd3e8422c56ae2c41c3777c3b0c2fee10f68d672f6039/kiwoom_api_handler-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "c9627c4c3d09268f2bd90253c0f17de92a9074f5e042a83d1cc86f5e6b1c9bf7",
+      "url": "06/51/9972e9407dfdc6bd8274e5cef72a0483c6af03263216b55e720f9c39a6a1/kiwoom_api_handler-1.0.7.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "9e128c21dc4efc4c1872bb9960af58fa8f8d37b01c444ce3ffa442542a06cd26",
+      "url": "47/ff/d48cd632a19acaaed2fc710599fa45122b100bac7d7f4b91ab71f0ff0cb0/kiwoom_api_handler-1.0.8.tar.gz"
+    },
+    "1.0.9": {
+      "sha256": "b1d2ee73a4db120320afdc99024a1b41cf4ac54a83c1b48e16548d31362e5e10",
+      "url": "b2/f6/2383583b54c97e5e7d3a503cd9bbd23dfc7d447a4428b31cec94fb5bb30a/kiwoom_api_handler-1.0.9.tar.gz"
+    }
+  },
+  "bi-get": {
+    "0.1.1": {
+      "sha256": "f645d77c5bc4a5eea1d9d600e41ccdca590c1303438b121031558341bd554486",
+      "url": "63/f7/903c593d074809041c3feae50901a2daef8e03da2cef272466733b0d8d6d/bi-get-0.1.1.tar.gz"
+    }
+  },
+  "sum-walker": {
+    "0.2.0": {
+      "sha256": "145cd3400107b0b1dc335e5c63052056cbbb385dfb3cd5796629a80746ef5cea",
+      "url": "6b/fa/85453ed0f6231be5a6137394c6a7008d8c5980bc9f88e57c891e984e4e75/sum_walker-0.2.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "0b668a21ff401c308acd9e8724068c09f78d7c575e0cecb21d5c210320987f5a",
+      "url": "14/8f/a6dd97dbcd4c7991cba23ac2e3f9277e71e2e465220ae23c6f018a27cc4a/sum_walker-0.4.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "6a6f4659761ce5217d6fe284b6373883511036cc1925e242b3fa4de87d073525",
+      "url": "92/19/fe8ab24731d96adee7904ff6ecce3b0fc6a6485fa2751163cb63d49c0122/sum_walker-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "849c67833e9fbe4dfa5372f62b61d3c684ba876cd9142d39f24cbb931a56873c",
+      "url": "18/03/13f9039628b1d2dd7535e9d123a4d2f3f04694985131d4fff5264723a3d8/sum_walker-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "9bad402616b2c99a87d395ebce33499045aff69da521a707348b6002f71152be",
+      "url": "97/4a/c52d311f98dcc5bc68ccb3d1a1931b0e1846afb9c400cab97762d92a4940/sum_walker-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "a9a7da9f03b2a00dbd7e88f7be540b9bf067b0a4f17852f2c442665b0acae245",
+      "url": "63/7a/61ecc054fb81705d588ffeea2de0b78c99b92d8d387098c6a055279d8614/sum_walker-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "9dc8cb94cb7cdd061b5135adcb7f85495417aa473dfdd9d4dc9666767f8cdc2a",
+      "url": "b9/bb/3792773dc6d4309f29c8ed7c015dc8d06716e314dd758e9a820e05724123/sum_walker-0.6.4.tar.gz"
+    }
+  },
+  "pkcs7-detached": {
+    "0.0.3": {
+      "sha256": "9fb1a96a4ff7a5d7d212480296b065800fef9406be5168c1e48e53813486c2de",
+      "url": "e0/05/4b0e022ddf98d5de5ae0e4f0cdb4aa6a13b0d01483301f47573424b11706/pkcs7_detached-0.0.3.tar.gz"
+    }
+  },
+  "apyref-ebnf": {
+    "0.1.1": {
+      "sha256": "70d31ba76959fbedc8f729ae10661648cbedb6d5267789fa129e8492cdc9701b",
+      "url": "68/48/0862c06270d8243e3adcc7f640989b260070f3cdc4820deb033c0baa2f15/apyref-ebnf-0.1.1.tar.gz"
+    }
+  },
+  "o-nlp-preprocessor-emeka-onyebuchi": {
+    "0.0.2": {
+      "sha256": "ea86bf7671c3b53ab103b30f528901505e06a65f15becec5fa6eec67ca767276",
+      "url": "cb/e1/52a097152796fe1a6850847221cb858af7d623e04537b264e06f9f6dd289/O_NLP_Preprocessor-Emeka_Onyebuchi-0.0.2.tar.gz"
+    }
+  },
+  "ptgaze": {
+    "0.0.3": {
+      "sha256": "743caf22eb8fe2c3c3b00ce2d3576c1e9ddc41f6fe04587cafe226358b85e735",
+      "url": "c8/1a/ae5808526818b7a4ad8e7bc08586d50dc5a2ba056c36b3004b0b810d046a/ptgaze-0.0.3.tar.gz"
+    }
+  },
+  "aws-ecs-service": {
+    "1.0.0": {
+      "sha256": "7724d81925174aa941b7f1323049a8a314ffebb76c55d2758f4c2b3d7d7fffa6",
+      "url": "b3/c1/0fcc41d64c004608127c7ddccc1d9e210ee9dbfcbfc3862c0dfd11c0628b/aws_ecs_service-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "51bd4fc6c822be27c7f60311ffa013e5af2349dee864d31c26f9a9f482855351",
+      "url": "02/8b/5b894b8f7f26703d885497e62e918ec8c88627b6247a4663bb502a630bb6/aws_ecs_service-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "c4c7e35d7658350a51cf3577ee1f34fa2308e58ec7487696c229cd69c8f5b2fe",
+      "url": "15/4d/e86438ff0b6004ca0be3e04873f77af02f3cf140ac8e73370e057f2a2144/aws_ecs_service-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "b9cc39a96cf75c2987c93ee43c03a902e923f6b43b481f53c200c4769c3bc007",
+      "url": "30/af/7562bf93b634c7195792f7264db82eb1f0f382685b9a1dee6aa4175f79ab/aws_ecs_service-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "2b238475b6232e58435d10358d78e5eb8096e8add6aa46928f8148f8679221c4",
+      "url": "c4/52/9ba694901dd05d6dfd26f4d95a477365ac6fe1db133b2f861a7cd386e302/aws_ecs_service-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "ecd120122b66b721f86f9c4b3c6d8bf084102e22a51d791ef2cac3f48f505b2b",
+      "url": "fd/9e/cf04292623ab88fa781e5d426fcef01bc0221e99adf0744ca19045f28b5f/aws_ecs_service-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "b5a99dbb45d3b516f40926bdf5dd47d113ca561a4aa7699d1d0cc56992ef7d3f",
+      "url": "b7/57/84b4e0dd07f953b1575bc7dbba95b6859a944b234107280987e3db9bd473/aws_ecs_service-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "e501654a6f515198e7a17caa79a911bad4d95960e480f61e88a97c63674075c7",
+      "url": "ca/cd/b9e274b78148ea64618b7a642939c45722e9804ecb9d7124c3e2d37a5dcb/aws_ecs_service-1.0.7.tar.gz"
+    }
+  },
+  "knowledgedistillation": {
+    "1.0.1": {
+      "sha256": "6d6d4f76894fc8681dae4b1d873efa36ecffc89c38df7339f1a7e8746666c9f5",
+      "url": "4e/3f/01c99670cb0c507344686a52164f7705cf0bea0438c70460ccbc655612be/KnowledgeDistillation-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "f5a408fc40d977341d229ef5f86a9c4e26cc0d1b4f71536f2130eaa6d748479e",
+      "url": "bc/90/d881040a14dc208482913870722627a884bb675f1b947e4451dbec7adf8e/KnowledgeDistillation-1.0.2.tar.gz"
+    }
+  },
+  "tinycache": {
+    "0.1.3": {
+      "sha256": "60174a216664b6f1afb68e89cbbe8d550ce71d11bb38dab71320a83e79be973f",
+      "url": "34/5e/79eedf9b5077d480542e6fc00d0d780f1088bb2b319c3169acd95f2bc039/tinycache-0.1.3.tar.gz"
+    }
+  },
+  "mpview": {
+    "0.1.1": {
+      "sha256": "9256bda0e99f6496c9d93dce32838862be4042730a8cd2a9f468c2acbb540548",
+      "url": "73/da/33f7d648af16d235cd9676e213ea670e29a6ffa48abceb8edc97c43182b4/mpview-0.1.1.tar.gz"
+    }
+  },
+  "classcharts.py": {
+    "0.1.0": {
+      "sha256": "3c1e42fcb4bb62061e48d58e5ce0effe66749a6b794a956e9f7c5cd409587bf5",
+      "url": "2c/fa/701921efc3c6b7e28b1353117c32f638d00edb609e6364ea5cb8dc1be6ce/classcharts.py-0.1.0.tar.gz"
+    }
+  },
+  "flirror": {
+    "0.0.9": {
+      "sha256": "2038d0d0fdfa95ba56a617e8d21227a7bfd07ac4af6294bf18d98614de96c131",
+      "url": "9f/78/c69334f6a1d55b365d454da8f611193bf6ad40c0931821e0d81ac0cf655f/flirror-0.0.9.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "1d0a0b05fe5ea4d1abbda5fb70fede7d3395614f79814703c0b3ecea0eff21b2",
+      "url": "02/27/1a2e5b083595602a93f928e587768b014d2e46cde5899be48374797bafa9/flirror-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "d5af24a7e7e1416cf1aad616f9c10fca40e3b47427ece9178022033e01e6a54f",
+      "url": "30/f9/670bfcfabf17dcc92fa7ce3942fa4ea05c9dc12c1c7484ada421998542e0/flirror-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "a830ed868fe46c8fa5c4b45a553530aa0d7524c73fc4c6de550a5a1bfd15c9b1",
+      "url": "ef/92/19b2663f2b61b729dc4c8b779a9ba34ca6a4a3a88abf5af241df1707011d/flirror-1.1.0.tar.gz"
+    }
+  },
+  "flexiblecc": {
+    "0.0.3": {
+      "sha256": "35104cdaf553e3ba96091f7168b9669d5749c9b23fb56372e1efd4d259647566",
+      "url": "b0/87/edde6355a0f5f63f4d4e54aee199e6d80c37061d8146821aaeb86069460f/flexiblecc-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "5ff40810856d174010ad3c8bc5928fedb8ba1a379f39a7ecfc0d733adc1f69e4",
+      "url": "d3/7b/0a6f1c7e38bf6e585a66e96fc67ee6079578a12d7a27e0b641969c33f0f0/flexiblecc-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "ab8fdb25f31e45de15d34125256d400f3eff61751e39117167c696369ebfb8e8",
+      "url": "3f/cd/255f3c33ade637d13757cfcf4b6a30293f2fe9014a5f886d69cc153cef01/flexiblecc-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "889a57736810889bbe53458ca966d6acda405d87490c277d0336151694eb8481",
+      "url": "b1/6d/11a54bd5fd7eccb6ea830719c550b4bb7cf33a921e53171fdd26a77d963f/flexiblecc-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "2d4c1b39e6a4feb55f8609105506fee1eb7507a063f94f75a6e294216723b4f5",
+      "url": "30/bf/e71ea103ea5f2f00d4f81dc0614c733a46bfbd901606b8a7a277051d167a/flexiblecc-0.0.7.tar.gz"
+    }
+  },
+  "loveupdate": {
+    "0.0.1": {
+      "sha256": "b6af85e613cc3d272fffce9fac0caa96608b539bdd4812b5d7e29967c8976e78",
+      "url": "f4/de/d92d5a0c2a113a7facae7005650e54f4ffb8dbcae3734b994ea5e60145a5/LoveUpdate-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "1a87932229a6460fe219da8f804f4bb7db5ab9862599d240e89e141dad188326",
+      "url": "c9/ce/a56ee03585b67f41ebcea6dab5a6a92852b1c8bfe3d3c283ba203aa39c83/LoveUpdate-0.0.2.tar.gz"
+    }
+  },
+  "bqqtest": {
+    "0.1.0": {
+      "sha256": "eb016182ed1967e7b04413e77612b8f2c984393b466123c12b169a8318b31946",
+      "url": "2b/83/54430a00b140478a9d8b356385ed0e4ea893b0d4689913cd8de024b5e3fb/bqqtest-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "8d5a6996ee863484ea98de03230a0ea5a64f5df85e4dc50578fc0ee61d5452a3",
+      "url": "3c/4e/97c951f59dacbeb08b3b6b7c681be9997353b2887a19ace0e0a13f0df430/bqqtest-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "18fdd5f31bacc2ffdb7561bd3e81a1b278e2f22a25cb272e68739b6c8fe56e6f",
+      "url": "86/0c/688e1dadae15f12a11a5a6a93204f6841586aea0aed019af63603b6e024a/bqqtest-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "f883ffd5a28f8ea19c3d9f09f9e836bfce08ab9c2f59a3a19bc74e6839493f02",
+      "url": "7e/7b/4290a82f98c44de815cb920b5bf05b6b27c2ae19a1ce9fa7a785219de381/bqqtest-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "15bdc1848e348627090d5bbf7eab4a54b7fd74fc90eea7cd8da8bc81daded6bd",
+      "url": "b5/ed/d9711daa54af6b366558c6a098dfe5b1ec2725822c5ad657cdf84e1aa98c/bqqtest-0.3.1.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "b7def7e3266bcb227be5aae95cfd3d599c924192cef2b0b1fdc8b3ca8be69693",
+      "url": "57/d3/fcdf1f916eb947d38a316360ff30e9b9511f9853b0bd79de3aaed726aa9d/bqqtest-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "85734f53f06e340b821c83ff362bfdee547c8bfd14ac91c78e2245663ab48267",
+      "url": "92/9a/e90addbea121302c9651f4529bfdda1147fe0b124b485b05a7109aee19d5/bqqtest-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "cc9dd4df61c7e49dafcf2aff851ce32501d99a775ab4ecfd317ec8e9a86eba4b",
+      "url": "7a/5f/9c537bbf8b03cdf24b51e92da88f4af2604b56b725593834feb1f0029819/bqqtest-0.5.1.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "7b17d72eea8d0ced7c2d33128ea8ed77857135b85a4b8ec0e525941cc6b95b12",
+      "url": "aa/f2/39e35e3588e14503e6ce326531b712cc153946e8e0618532330f44c95c2d/bqqtest-0.6.0.tar.gz"
+    }
+  },
+  "multisig-hmac": {
+    "0.0.3": {
+      "sha256": "9f5c19eaa83b2222a991fcf1906fb74cf224effc3a8ff9c5ec0e60addcffd52f",
+      "url": "37/fe/ca5e518cc42dac9c75b1da72bad66e67a8402fd09741ba6c396fd9cb84be/multisig-hmac-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "19a3c416b508bb1f0cf74dba8400b71e22c93c2c24bfe63fbbef0b5aafc1b8f7",
+      "url": "50/79/4e9b5a4530c1ab46298002c0285b6c48aa06a062baeb0d2b2660e6766b2c/multisig-hmac-0.0.4.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "706a30049453ae0446cef1a555021ac74aad9d9185bc8772f688f83dd794a054",
+      "url": "8e/6b/e9c3ca770b2183c4f3c23803128841c699676b4b3218bc0fbc0b832e8c82/multisig-hmac-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "3716ff89465be51107eff83d53ce54c22ad6a3332084fa09dea93037e27b7e05",
+      "url": "20/80/42923a9b3ca02ba9061291a04a34f54e95a2336de37664e81c25eed1918d/multisig-hmac-0.2.2.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "3f2770f845070917dd331d201376f4919229dd1809e4cc98da522bf9eb44d370",
+      "url": "e3/47/e3364e7b41dd140eeb42977b77dbd60fe33e537b3e0e5f2f796fb28f10c3/multisig-hmac-0.2.4.tar.gz"
+    }
+  },
+  "pypyr-scheduler-server": {
+    "2.0.0": {
+      "sha256": "3834a09499812486f55a7e07971f4c39db0eec8aaf3b13cc8f25a3d2e566a1f1",
+      "url": "26/79/da7f4801e48c254ab2171cd62e0d036ef1ce623dd0776d78354bd4dae190/pypyr-scheduler-server-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "9b69188b751bd3634d32945b208fed68270b80fd8e2b86c0c3a757bcba0247d4",
+      "url": "f5/2c/19be20e58555233034b40d586c8ab54a9c3b66a9602d4030f68aa2cd0f5b/pypyr-scheduler-server-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "5bb32eb00341c054993727dc42c28b77928391d0b497c149cb43a26104e5d4ae",
+      "url": "2f/e3/aba992367a38a85f11f826400a40da9c91e8f4676916b19fb0d9e9267419/pypyr-scheduler-server-2.0.2.tar.gz"
+    }
+  },
+  "onnmisc": {
+    "0.0.1": {
+      "sha256": "19137df139b7fb76e74b9eeeda5950b051e9801fb20398d2e2d706dc6c9c42d4",
+      "url": "b2/e9/f6115db57fc7d7bf95287c2179f799f90b69ad38253059d51623dfac1f3f/onnmisc-0.0.1.tar.gz"
+    }
+  },
+  "hopfieldnetwork": {
+    "1.0.0": {
+      "sha256": "bc6369052b8f577f638caef896603760a5b6d8771d1b095566c67b3f9ba66f78",
+      "url": "ed/2c/0f3a9016895b0d171123d30a14ed6a6abe9da21642a916e50d7989e4453c/hopfieldnetwork-1.0.0.tar.gz"
+    }
+  },
+  "dtegui": {
+    "0.1.0": {
+      "sha256": "73225a9e7f5d68e1ee04c00e4359de18b942d6e228702bb89e7b3706bbb569c7",
+      "url": "78/8e/2dbbb7892d78d6d46d87044444f8026003311a85e264d048b8e949561247/dtegui-0.1.0.tar.gz"
+    }
+  },
+  "dash-okta-oauth2": {
+    "0.0.2": {
+      "sha256": "fedd75eea4f5a6e94d905ee75e7534e231d669933b4d374e042d4fe328b3d4f8",
+      "url": "40/66/e0fed3089539dd77dcb9f2ec625d3ea52025c34727e01535dfa2c1c137f0/dash-okta-oauth2-0.0.2.tar.gz"
+    }
+  },
+  "mpyll": {
+    "0.1": {
+      "sha256": "ecc62e9da5ec2e54bbefe7892fc1bbc27fb597c67a81a09a1991a4cdf0ab9830",
+      "url": "28/d8/c68d31f058b949072727f50f246e783482c553c5fe3f59c3fa632a86c0ea/mpyll-0.1.tar.gz"
+    },
+    "0.1b1": {
+      "sha256": "ffdf79df14398bd8b579fff7a3046c6faa36a3029dcf8ce859796f1f702b70ce",
+      "url": "4b/eb/85c1add3bdc6e447781969a438a2c02bfc7e32427273caa30ada3cc5108c/mpyll-0.1b1.tar.gz"
+    }
+  },
+  "wto": {
+    "0.1.0": {
+      "sha256": "9463c58bb9084ba927380f4c7971fc1d687f384535d0de795fd6a3d3e92bba6e",
+      "url": "ca/7c/fcd718037fbdab847849492c766b8e56d4ec37d3eeb0dd827008c4c33083/wto-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "1d242977e1ba1573084dacf5b33a6b4613c71ec61007dd941251d3ffcb9cf759",
+      "url": "16/f3/0a7768a04016ecbfcfed037c97107968a98e3b349bccf3eef6e93efd3a2f/wto-0.1.1.tar.gz"
+    }
+  },
+  "hisensetv": {
+    "0.0.1": {
+      "sha256": "41e86748f0c3d767f7b13523c65c1223b46703c820928b509bcc4ace7424f5df",
+      "url": "1f/39/b513035b1450d0b38613b1f2a5d0fa36f2289eb99d70fc7a22195afe4ec4/hisensetv-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "a77db4639c73a5fa5ecb356951159e6cf97b5aff620206f2614e21d3ba8dca21",
+      "url": "c8/31/a39c75cdaa6ef20a07eae61470131c9ac5a90eb8aa26cade790a3696c17b/hisensetv-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "a17519a94db24bcb9b23a04250df01ec3a22e56df0b4db31f76da709108db490",
+      "url": "81/08/e248199d56236843d04c135956d9a8733f54b9660b1295a0d85826d90f5f/hisensetv-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "ddd144802e12e419445ff1f99c5d7201c1fc33c490d183009a458f0466048670",
+      "url": "71/47/1c51dcbef34cc1bd42b8eff18e86fbf236547bd0da92d3809ae761d922d0/hisensetv-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "0b9d667581e6eb7c2e62efb144d55e5bbdf1b09248718e7340438c8b602dca1d",
+      "url": "69/e4/005db9ce1f06c6b26d670f0613f0751541f427c59b5eebbc4cd8f170b91f/hisensetv-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "d72a44f4fb65f291259ecaaf9db8d4cba66044c2ded4a792662070b6d8328807",
+      "url": "63/09/f264d2881a9c43af64114f429bee33daa85078104faf706369cabd9ecc09/hisensetv-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "ac72d180ee90090b668e11ffdc08276fd4d48297cefff3441913316a55f59b20",
+      "url": "7c/65/33f46ad4dd138469e0991363d7e5ef227601bb8c1878c5991e5ba1162e20/hisensetv-0.0.7.tar.gz"
+    }
+  },
+  "behave2cucumber-py3": {
+    "1.0.4": {
+      "sha256": "dbd5ed810f027b5328cb8949bd6a41db5322e10547e58b13e4a1e450a964a804",
+      "url": "4b/b9/1bd0b1da322f21197de2eca75a40cfefdf26ed140e482147304bf436243a/behave2cucumber-py3-1.0.4.tar.gz"
+    }
+  },
+  "csv-diff-yhua": {
+    "0.5.4": {
+      "sha256": "9cdee48fd792e38239651dbe92cadc2646ee33dc2de29fbd93045cb88c826349",
+      "url": "26/28/557819a19347ca8c034b2c8f862a3d81a349a8cf8e733376b414158aab12/csv-diff-yhua-0.5.4.tar.gz"
+    }
+  },
+  "pelican-data": {
+    "0.2.0": {
+      "sha256": "6fece911617cdf53f258a71d2cd1bbf863330a6e250c85a9b1de304976f9a856",
+      "url": "51/55/9dea3bc8fdf0c55141028fe9b504914882ae5928739d94a593d5516368ea/pelican-data-0.2.0.tar.gz"
+    }
+  },
+  "markdown-hiko": {
+    "0.1.0": {
+      "sha256": "eee3e5a9cbb2d6c94cababfb7b9b48711d6f77b26f4e21b888d38c7c408d9bca",
+      "url": "16/e6/6960a4dff15c5754a06f5a42ca8e5b442e12a75ca7018216776139bd3fbd/markdown-hiko-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "3923aac244a5ba2460f02f585d1e168ac7cfbff225cb53a40330f7575da20f8e",
+      "url": "34/24/68af01d4f0b80feb054bafaa1836b37afe57960fe76bd094ac065912fe7b/markdown-hiko-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "c1df76376c8a739d107695da25ab45439422cfa8426e3d9cdc3c8367aba4ac0e",
+      "url": "66/2c/ef6734b92115cdab7e23745ab051e716966f5f85ffe89d338c5707902a84/markdown-hiko-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "80c78bacd56647fa076bf05e5213d0a70d6f55fdbba480393d5342645425242f",
+      "url": "32/56/7c0267f5bb695c288b859863cad8d33623885587332089d43be3ad911c70/markdown-hiko-0.2.2.tar.gz"
+    }
+  },
+  "drf-yasg-json-api": {
+    "0.0.1": {
+      "sha256": "b7f58f84ccb8233c3fd6108eef4b61959b3d6845f1646aae3f57061d646bd9b8",
+      "url": "9c/59/6c63ca00b64491b60c8c807d5ec01015e1e74450f1311620e7b18cba84de/drf-yasg-json-api-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "d0616f8d5d80e177abc5973e028a0b7197de27af7bbe2c561546cc162d0ed84b",
+      "url": "e4/9a/f647bf4d2d918d2ef66c4285725fb02ad787903f78c38e1424061d9f2cfc/drf-yasg-json-api-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "22613fc0509365d1d872e4cb30c39328db59ce37a3bac0be1eb825d4c7bda8a0",
+      "url": "2d/8f/48ca573edc6c28d7eefbb839cc3a669c1a0ba095261cba39c11b071a5d47/drf-yasg-json-api-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "c0d3b6fd632c04fd8ab5d63654491d6ab523fc5f8eb68e55eb4dbb5623a81625",
+      "url": "f8/dc/0fc870f00ff81ef95efb41bb32e43392c93b911920c9d6e749a9868deef7/drf-yasg-json-api-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "4e726b0414cefe1b8b5645288a67f60cf30b2b1aa331ee3e5fb55efcf0140322",
+      "url": "e9/44/8d0270a9d495c65ee505c818858cd7813caab8b4ceac78ccaaf93fb69f86/drf-yasg-json-api-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "93915d390414379b6d619d2a468cab75515b952a0c7d7bdee03af50b74d8aa43",
+      "url": "51/76/1794beec817fff1eb773e1c10f89c6d28c49d4788fd2e9142885e537ba6e/drf-yasg-json-api-0.0.6.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "5135a6884290f45fb2f93839fd32ad4d82f6c4ab9e74e022ea828df3c36d102b",
+      "url": "ed/8e/17898abeff2905e8c9d7fc2e28d2fecfe26916ea86ae0699ccce65c93987/drf-yasg-json-api-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "abe148ac9eb7716f911a8041cbf5d6afe5c379d1b0793c080df0248085f6c1b0",
+      "url": "ee/7d/7590c0788208472688c872864053b9707851e7b8a4a5060aa77ea60e83e1/drf-yasg-json-api-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "02dac942b27df333070c179ab6e1ec5de8402761ccf803a726b223e05d15bc5c",
+      "url": "0f/d7/ce0a4d70e08e8054f62d2eee7f8784c9132e80401d44b6181c572a9e9ca8/drf-yasg-json-api-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "76cc666d2650bec0b9b9494491980b9ccaf733062ded882cc9a62d0a6a57ad51",
+      "url": "34/95/03cc0eca0a7804d3964d78e74b0a2403efd788775cca4f2d1b88b4e6051e/drf-yasg-json-api-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "c6f069a4107e923761621ba94b11b78d208afa72eb0c0bc1bc31a71323d7ad38",
+      "url": "58/7d/bda5c5d2c948d55fb9dffbac09991b07f283516e2fa45565fe69bd1d44fe/drf-yasg-json-api-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "9173f0860331d4b1e6f54464393eb7f6ceeb4e084928089a10afe378c27b0640",
+      "url": "36/ea/ae03e347dc609b3d2e98793766d67e29d8b9a397345d6fc485098b7b6f28/drf-yasg-json-api-0.6.0.tar.gz"
+    }
+  },
+  "as3ninja": {
+    "0.4.0": {
+      "sha256": "7ceb233bcf01544ba2ec53fff9d89994781e67f1a3a349f8c26203341126cda2",
+      "url": "f1/9e/e1d0dc14525e63d1c54dbafc78fac1c202c126f1fb02e55e3f0ef52b5a37/as3ninja-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "e24e462d6f9e91049da2bba08b32466306d2d0a2fe8425ebd1cd38f0f3086651",
+      "url": "92/b5/61953f8cdf94df6656803b597f24aa10f3c6fec882969359e253140c8e3e/as3ninja-0.5.0.tar.gz"
+    }
+  },
+  "django-timesince-shortener": {
+    "2020.3.31": {
+      "sha256": "40720c2de0505b19bda39906313e52618365a79f9606f8295a55ab205c067ede",
+      "url": "19/39/e90c60ad9bd5260933526929f21f02092c95bac375e1c45afe628e1c423d/django-timesince-shortener-2020.3.31.tar.gz"
+    }
+  },
+  "cdm-connector": {
+    "0.0.1": {
+      "sha256": "7657bac5bbffb60ebbb3dc7b2047fe4d097fdd48f3f0081e95a54e420cabc87f",
+      "url": "45/07/bbba29eed2cd875040b08c41f98d839672e4d981271ed0aa9c17fabfda7c/cdm-connector-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "40f9b83ceea32714600bcfce745c30aca0498763beebd43ff5a2c073701d8edc",
+      "url": "f3/97/1bff103c58ceab9a230076b8166c37074d42a024c8d1ba2371de96ca0718/cdm-connector-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "972496c0cb0b261af26f24ce8234e37bcfc9e6f24218ae5891e9ff3e261e25e1",
+      "url": "18/9a/3652a29bba24d51b26228022b09c10509ee7e8ebf07c6d1ed34f069117d3/cdm-connector-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "2eacf38e9ac7861cbf679ad4bdd22f0b1f5df9ba868a49a1092cac9799125019",
+      "url": "c7/55/8c4aaedffb6ed10c4f184e123b9b50723d07610e9c25e3bb91c01707cded/cdm-connector-0.0.4.tar.gz"
+    },
+    "0.0.5.0.12": {
+      "sha256": "94e8f688a494dcaf3f5589d3ba6384b9d47d3ea17a914d8432be19fd98f7b588",
+      "url": "f8/77/7dcc088bee84bd3aac62cb1ed4a9bca045dac5f678d031cf015e610ff052/cdm-connector-0.0.5.0.12.tar.gz"
+    },
+    "0.0.5.0.13": {
+      "sha256": "2b2c98ff8a4054669a6107c1b085f6ee9b686522e1e390a0fd95ed5ca6ad780c",
+      "url": "be/3a/a78f9c56e8255cbd4fbf7904ff17f5772623ecf11f7af9dc037e8c3aa7b4/cdm-connector-0.0.5.0.13.tar.gz"
+    },
+    "0.0.5.0.2": {
+      "sha256": "bfba716b90706f70128820644a3c8e68d6f36b6bad48e97e5b98129dabcc904d",
+      "url": "20/be/397994e3e991e63f12683612d9392840889989397729acae1d0678af114a/cdm-connector-0.0.5.0.2.tar.gz"
+    },
+    "0.0.5.0.3": {
+      "sha256": "da0582b923bfc96abf5c4a7c58c9e7acf208ce5c60d5ce48910e010cbd4bdfbd",
+      "url": "24/f7/6123ec53a800d9406cfa6d04cc3cfed2489b0baa3f54c8f3fb5b0c3b856b/cdm-connector-0.0.5.0.3.tar.gz"
+    },
+    "0.0.5.0.4": {
+      "sha256": "e578e5c436a545bfc6d4659efcd58969380076c0bfe66a5e9723716d299ba3c4",
+      "url": "1d/35/f9eedc70154ca3c631a856a83b437585fc4918c8c666ededb3ac4e1e52c7/cdm-connector-0.0.5.0.4.tar.gz"
+    },
+    "0.0.5.0.5": {
+      "sha256": "99d1ddd8584dc7acb67ceec3631e0b2ad34c51d29765a32339bdca4963e4d8f2",
+      "url": "e0/65/68d6694717add13cd991a27f13e2201c559788aea09bbbdd5f055cf929ab/cdm-connector-0.0.5.0.5.tar.gz"
+    },
+    "0.0.5.0.6": {
+      "sha256": "2e3267388a63fee23aa688643bae239ccd682433b00ef2c4d7e16bb2e37c71d4",
+      "url": "b8/df/f63bee6c5410b99f25f6f5bc257b35fed1bb1509386c0d49ecb5424a0764/cdm-connector-0.0.5.0.6.tar.gz"
+    },
+    "0.0.5.0.7": {
+      "sha256": "191aeafdcf0419a3359552c6faccae20443b5e9ddd72ab1018f543eb6265d13f",
+      "url": "37/52/cd5eb32c5652eb04e0ce1fec5d951539e463107d4e382754ed25bef7b2ed/cdm-connector-0.0.5.0.7.tar.gz"
+    },
+    "0.0.5.0.8": {
+      "sha256": "f2549888d9bda25f67f8fae905b115f0119085f28f18de759023d74504d15eb0",
+      "url": "c4/81/7ece3a29575c58fbcbd46d9e744a909e87fc34e359cd505344bd082a41dc/cdm-connector-0.0.5.0.8.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "097aaa465adcb341f2169728aa19b700235b6706d4de28ff3194041ce9b67554",
+      "url": "95/d5/e88d8014d10fc6230a90d79357581b46d40a3777219bbc29ec3154318fb8/cdm-connector-0.0.6.tar.gz"
+    },
+    "0.0.6.1": {
+      "sha256": "b83dca374b6ad766d78131864d3f7d1fa1c5ce66f74bdb8f2f836382a62e4565",
+      "url": "78/11/e3616e9f75d90d3f1f63ccd23cab69e2b538ef2631bd61e634f5b84099f6/cdm-connector-0.0.6.1.tar.gz"
+    },
+    "0.0.6.10": {
+      "sha256": "4c9176c437ccc6c737bd4ddbcc185beef4d4a1ea19a55e877beda7538b207c8f",
+      "url": "e0/b9/9a66e9c5c3b55158c5c0b0ce20a406df9ce64d93b56f08e5952179c63d67/cdm-connector-0.0.6.10.tar.gz"
+    },
+    "0.0.6.11": {
+      "sha256": "71fe89728e137b821374101914fed2d1a866c83dde4c53a2256d014778789c65",
+      "url": "6d/c8/0bd2021afa68134eee0d596ac208c903a986fdcd5f17b0cc1c0ac56bba20/cdm-connector-0.0.6.11.tar.gz"
+    },
+    "0.0.6.12": {
+      "sha256": "7b5b3a8ac66ac5521aba17f61a7e0cf73181c89f14430b4ad6a3bae748a188e5",
+      "url": "d7/71/2b7c68e31efa0b5551eafc64b79408559435ff21f231dbf863c830d925ed/cdm-connector-0.0.6.12.tar.gz"
+    },
+    "0.0.6.13": {
+      "sha256": "8e84112fd65ae7c73fb36d5ce4a28ac09242fb8aca77c7b6e739bf3aba6e4efe",
+      "url": "56/9e/2d4f7bfacc2fdd7080cceefd87afee9890092c9b13cc56b4c562bcd9a234/cdm-connector-0.0.6.13.tar.gz"
+    },
+    "0.0.6.14": {
+      "sha256": "bb5f40668e98ac804dadef12e4ea78fef57cff756b7c36d430547a24d3fb7b92",
+      "url": "20/d5/ab5aac2550880c39c99181521edbac458e8b9b4f5b2bddbc3f60a36d9a49/cdm-connector-0.0.6.14.tar.gz"
+    },
+    "0.0.6.15": {
+      "sha256": "f3874c6af087d42aae35d79036935a28c8c84da79aa42a6d46cf9fedc496ef32",
+      "url": "3f/d7/4beee70361575e74e2e261ef3a8711e3e81359b123f4ee7be4716ce9759b/cdm-connector-0.0.6.15.tar.gz"
+    },
+    "0.0.6.16": {
+      "sha256": "d208808c52fc1d2ce927cf5b52aaa22fb01c202d7ff7a67250a10a3bd66bc8bd",
+      "url": "2f/94/f37dacefb4d6c97291edebef9d660b6832f9139dff582a289f300c94229f/cdm-connector-0.0.6.16.tar.gz"
+    },
+    "0.0.6.17": {
+      "sha256": "4c003dc96556b9100ade417f8f970777786486696d68170666ffa8e0227a6254",
+      "url": "77/5d/46c171b6ad3b448bf89a869357985319763a093c0108c6c05a8d57429a91/cdm-connector-0.0.6.17.tar.gz"
+    },
+    "0.0.6.18": {
+      "sha256": "d31990ce3084b4ef9a831e82bb9ee996614204e02d616aebc374e6e801530e86",
+      "url": "db/ce/e8c198f676a7e03392440d720a27633ec09552e257197ba3c61b1d58eeb1/cdm-connector-0.0.6.18.tar.gz"
+    },
+    "0.0.6.19": {
+      "sha256": "410babc777335265b7c19ba2e4dba2b504b370ff302f44ffc58700e69fea4770",
+      "url": "ff/87/9a4a4231e54292356b3658a4844c17f85c44cbb5d6dabbab6ff878febdc3/cdm-connector-0.0.6.19.tar.gz"
+    },
+    "0.0.6.2": {
+      "sha256": "b354489f5618c00860d89b470f0d84a066750bb37de3d4b8592838579e67581a",
+      "url": "3b/87/b42e40202b6b73017b4252fcce8e18f9b7bb1c3cb65aa18c30c1d695e9b1/cdm-connector-0.0.6.2.tar.gz"
+    },
+    "0.0.6.20": {
+      "sha256": "1972b71370e341bc1c1ea784c76944f8d73a34d816c371119ac0bc27415c3fb3",
+      "url": "01/e6/f42821062e0243ba833bff72759b8d8e8c4ee00aa11ce172d21e1efba902/cdm-connector-0.0.6.20.tar.gz"
+    },
+    "0.0.6.21": {
+      "sha256": "b4040e22aa4f828240b0e9113cc7d10352294b2151f4a13cc89bcc6e7a318b94",
+      "url": "ad/05/918d7591b524e0fd2446be12c3bde05025c71822237a0acb69ba97ce2fb1/cdm-connector-0.0.6.21.tar.gz"
+    },
+    "0.0.6.22": {
+      "sha256": "79cfd6daca86aad6b33b511a7506b75331faa8f6709106333b8a4f758fc83a45",
+      "url": "93/c4/c852854e418f1f8487263e52eb4e360f68b2f5f901a67e1bb4e60854a390/cdm-connector-0.0.6.22.tar.gz"
+    },
+    "0.0.6.23": {
+      "sha256": "4f5728a4f466dbedc4208a61f2cb5af53451518d3393e38706623d97be142e5f",
+      "url": "3c/fb/0ccc959b5463e1311c6e708ac4e7e9b77532ff351399ba64e9ab38e5d884/cdm-connector-0.0.6.23.tar.gz"
+    },
+    "0.0.6.24": {
+      "sha256": "dc9d34f9302c0665aa18b12942701e1851fddb73f1cfd8abe5fd881e6f9d2ff1",
+      "url": "a5/16/c2b7aa5cc0326674513daf2c44e7f14044af5c54c67da85c0ba6048e6693/cdm-connector-0.0.6.24.tar.gz"
+    },
+    "0.0.6.25": {
+      "sha256": "c10f3875e94dc143e3ce5fd839a1f40dbfc45212dedb8e02b1cb1ee8ff2c6a59",
+      "url": "f2/de/f0ae83a89d7bd697092dce80820eec39c7df5823f39d36abf36a6cc0375e/cdm-connector-0.0.6.25.tar.gz"
+    },
+    "0.0.6.26": {
+      "sha256": "3c5497be851e994ba0b036fffc283a9b37cbc6dc0f024e18044a4f0aebb74785",
+      "url": "90/7e/805db0ec2ed6504ba4ab8c15025784f66045d9cc952a1d9ed17b1dca47c0/cdm-connector-0.0.6.26.tar.gz"
+    },
+    "0.0.6.27": {
+      "sha256": "60ae7422953d5b3efd2a6465fcddbccfa1e78b7c93a1ed0d99347abd4a862150",
+      "url": "78/c2/adde143cb0b5e1fefb377706f3c8cba21c9220f1e2d54bfb3c3d02a708ef/cdm-connector-0.0.6.27.tar.gz"
+    },
+    "0.0.6.28": {
+      "sha256": "d49c2c37b7b132bbf5bb6b927c86b492552156afa4840175424b815fb323a84d",
+      "url": "21/70/c2b488f403fe035d3efd52caacf37ad522705549237d910e88c37927b424/cdm-connector-0.0.6.28.tar.gz"
+    },
+    "0.0.6.29": {
+      "sha256": "f4c1f32be464f3e0000aa19f5f0d71208ab1ace97194f8943affc7bd33507a98",
+      "url": "5d/48/0eef6bd981d71d92f6f9cd1803f4465057489eba5c6ac5469380184bfdbd/cdm-connector-0.0.6.29.tar.gz"
+    },
+    "0.0.6.3": {
+      "sha256": "faf612d787ad2680e7c60630f9d74309648a8e7310049ed74ec65ebf3f268428",
+      "url": "88/79/dd1c06e8478a0559c897aee9f11f78bb065e7b44f06e5795aceb1967b6d6/cdm-connector-0.0.6.3.tar.gz"
+    },
+    "0.0.6.30": {
+      "sha256": "4f8a7247f92826664c1b5594254489ea7b4f869f06c606cf8f92dcc060fdd48d",
+      "url": "c6/21/b06ce84c0ba84e384bc4d29c40f6e2052c97fbc6cac7c248429180782cfb/cdm-connector-0.0.6.30.tar.gz"
+    },
+    "0.0.6.31": {
+      "sha256": "1736df9bfc34bb40efd765016d9dd20d195f6f115a098e78b7d9cf3d781bae9c",
+      "url": "e0/c0/6327769219ab6b2d26388793f886596c560c9c179d97437abfb4d011a143/cdm-connector-0.0.6.31.tar.gz"
+    },
+    "0.0.6.4": {
+      "sha256": "ac0860d90e3461b63b4bec86ebbe876e2ced25fb3c3502596ee30417c0dedb2d",
+      "url": "c5/5b/4ec955a9f79382dcb288b96c17e8058050fb01822788bfb2faa1d066764f/cdm-connector-0.0.6.4.tar.gz"
+    },
+    "0.0.6.5": {
+      "sha256": "f3b279dc3338ca8336e4d0d179a795ef2ee74a3744baa1ab4ed2ca4a937a0adb",
+      "url": "21/9f/44b7f703141e0d80027aa97eed4748513fba8ae553dd472688eab84a2e7e/cdm-connector-0.0.6.5.tar.gz"
+    },
+    "0.0.6.6": {
+      "sha256": "5355a152b1576e2d1cd8480ed125107dbb80ff7ab669aad6bae3fc15f8f9e2cd",
+      "url": "3f/12/4f63cde670358e089b6a07a6aedab9e6caa4ba122af4fe17a824bdbbe974/cdm-connector-0.0.6.6.tar.gz"
+    },
+    "0.0.6.7": {
+      "sha256": "d15f12e1353e50aaa4d1ee8c8f4af17cf25e42227cb5398859a1e28632d47531",
+      "url": "cf/62/1d7a14fc96a373ea174fa34e63f1fc14ed5eb0547af4905217ee5182c06b/cdm-connector-0.0.6.7.tar.gz"
+    },
+    "0.0.6.8": {
+      "sha256": "e7a64beca36190f9515b0cdd7a19314864fa668cae7dabbec42fd4770aeab542",
+      "url": "2a/b5/2875cf5de46687c7c27611eeb21b841437d82b8e4c700e83a9f14b1bdf16/cdm-connector-0.0.6.8.tar.gz"
+    },
+    "0.0.6.9": {
+      "sha256": "3136bd159b67032231806c579f314732d9af279d51f292a7c29c2dec94481a78",
+      "url": "30/55/23e4487892e3d6bcf8c7862609bfdec6b2a0400dfd4bd11375e76ce7caa9/cdm-connector-0.0.6.9.tar.gz"
+    }
+  },
+  "webdevkits": {
+    "0.0.2": {
+      "sha256": "08cbb7a5e5d6ae4e27e80fd1c2a9b1417b1bac84b376400f0298eb1714a155f2",
+      "url": "ad/6d/cdf0b88ef0b366811aae8fd58dd2eb583ebc7b9fbe0e454dc19e9cdac99b/webdevkits-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "b736878af7fd02b73b939205e244e226abb737a9f1326047b57d9c5fda148006",
+      "url": "dc/b5/571570cc2283c3fb05a3f83ade6a3fe7b7595f2b4eda0d90d9f5042be40f/webdevkits-0.0.3.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "cc02741c2a4f209311d451ea3c39cdaeaaab9327ab489388378140c124d73af8",
+      "url": "f7/4f/696e8e2c0f1037e52657b5427be4233274009382a5cbcfedb22fe0d63066/webdevkits-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "326204aab81a92941f86a54672395933db8e1c83eb71be141c459e0ed608388b",
+      "url": "b5/3d/c78b6685b0700fed0109b413527550cdce99d18af01190818e8a861e819e/webdevkits-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "7399ce211e31ef984e953bdc4ead57d57dfc94d91f32001795887f4122043d0a",
+      "url": "a1/11/9667674b932c71fb92635ed1f77d501a64b83fe5acad2bf1f2a110860f8f/webdevkits-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "a1c9b40f5a32f7c6dd30bb7aa433a93f4280e742c50de6ca5c73ca178d886dad",
+      "url": "d2/9f/3b53a17484e2362ef3621ae742ed26962719eef30a815aa3497b2aaee6e1/webdevkits-0.0.9.tar.gz"
+    }
+  },
+  "pymysql-kits": {
+    "0.1.0": {
+      "sha256": "f036e9afff1dd85bb8e2ec33db82e8203189706df2d01be289b44bca8666422a",
+      "url": "06/d3/cce0911b9d2de102915b58792555b04d5a9b6d55891ee1fe13c307c0b882/pymysql_kits-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "b47603cf1d24b373d00586bf22b6051764b12896398c3670d9ea2f6765533003",
+      "url": "2f/55/b698cc87930959fda885c0c5d56c668a3b08f0ac4bb61763b991cf453ec2/pymysql_kits-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "5b0133e5a6d54c3e454c886d75ad3acb61fcecdf235535c044911c378611b92f",
+      "url": "64/fa/dcd81ecd35ebc959f6116bc874b02a5ae1d8ffb29771e67fec91f572e657/pymysql_kits-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "640d7f17507d9f77a1807b3ffda6b174525e33e99cd89fb9e514d7fcf9706179",
+      "url": "eb/14/bc55967a35b6033488e0a4459f343b8ef90ad99f794daf9cf6ffa4c28124/pymysql_kits-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "afa34abfaaed47bec81eddcd2837d8ada3b7582a392a2d184eb43b72037643a7",
+      "url": "b1/af/54a9cf2b550f908e738ccf50b280c08adeb428ba4c989e38b69bf9adb930/pymysql_kits-0.1.4.tar.gz"
+    }
+  },
+  "fitsnap3": {
+    "0.5": {
+      "sha256": "de77839ac82f42640e9608c8bb5a5f20a25cf00ee45a992a732d89daa2443b2e",
+      "url": "bb/c8/126e56d9f179b7f8e9a4117c2881fc727e01e5e0ebd684bd9862f8fd1982/fitsnap3-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "221f1d1f1ecfcd72deb65cbc94a1ba4a6af9036f3e950c8a5e9c14d00eddc286",
+      "url": "ff/3f/bb64d18ff83ad1cef1715c61ca90c0377f2235421f9a4b1a72aba3de568e/fitsnap3-0.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "252f8b118908696f9b5b686155324b0ead70ac2171ed21eb8ff132ae42e3293b",
+      "url": "7e/61/b7fc0bad65af53ba1b351bab69881be8ea60a21c8b618b7d9dcdbe383d96/fitsnap3-0.7.tar.gz"
+    }
+  },
+  "journal-monitor": {
+    "0.1.0": {
+      "sha256": "ab02ec71ce69a3009f1d4d500c73dd272b9ec82bac5837450faf6504524d4aab",
+      "url": "d3/fe/8e4a4ae1fdf0968872ee18550d9e1be703a1572df4d68cdfe514cba5c82b/journal-monitor-0.1.0.tar.gz"
     }
   }
 }
