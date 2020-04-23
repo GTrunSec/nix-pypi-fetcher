@@ -601,6 +601,10 @@
     "1.0.0a1": {
       "sha256": "17974a10b6115500ecddd9b1e2dc10e6bfee1b26d3f9a58a8ff5899c09a40dc3",
       "url": "5e/6f/f70adf0f93a0f363e9856e4255f655adfcb3c9f760543ec750f806c4c7ac/apigentools-1.0.0a1.tar.gz"
+    },
+    "1.0.0b1": {
+      "sha256": "9434831f32320c74ac97d3f830ae7447c10a3b6f9a8b108809d48812c22f59d3",
+      "url": "88/15/952baf3a384f8405bf4f589b9f3e9520a501bd6fbaa00a9e83617efeea0f/apigentools-1.0.0b1.tar.gz"
     }
   },
   "apyref-generate": {
@@ -2653,12 +2657,6 @@
     "0.0.0a1": {
       "sha256": "6fce768bc0873c26807e33468d0ae090f2d9d4f03037b32eac1f5cac2baa603e",
       "url": "5e/da/82a8b3cc399263f6943797bb49d0aed1527e94a28c6ef6d0dae3c8a437bf/chieftain-0.0.0a1.tar.gz"
-    }
-  },
-  "chiharu": {
-    "0.1": {
-      "sha256": "2843cc5108969ef4974be47e22ec8c6a8762545b334144c179fbf8da201dd2aa",
-      "url": "d4/27/f4450c463ff55e6e4a151cb11a62f78f939cb03c52c294e8364488f237d1/chiharu-0.1.tar.gz"
     }
   },
   "cid": {

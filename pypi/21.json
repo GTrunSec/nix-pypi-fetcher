@@ -16139,6 +16139,10 @@
     "0.0.1": {
       "sha256": "fd45849196675ccf822ecdc08adbea85b779b87e5708e5d07c5bb790c8effb86",
       "url": "60/7c/16cefcd0743713a32e94145ce1a018f261413104f7e38bbadacbdf96b386/random_scraper-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "0498038e9ec0e35f541f9e2551d163e78575f75db8e57cc3776d6c7f76034110",
+      "url": "2e/a9/47330ac0da5bfad324cc3b66c0870249e939168a19d54c1cfc6fb9910bf5/random_scraper-0.0.2.tar.gz"
     }
   },
   "random-timestamp": {
@@ -22709,6 +22713,10 @@
     "2020041901": {
       "sha256": "4dccd02daf57011edb87e13b19534a19c97ba52ab33da730a754abd90b56a06e",
       "url": "89/91/d3af6b8572c7dbaf9634df1d9012f27ada037f4102886700464fb0131c42/tlds-2020041901.tar.gz"
+    },
+    "2020042101": {
+      "sha256": "37cf98f51833ed24be80ab388035b12685f81342368a057001b095b2ceea093a",
+      "url": "ba/5c/8786c0adbee43e12e3e0bb3615fb5e00b8b5eaf084c8d92556c4396589a8/tlds-2020042101.tar.gz"
     }
   },
   "tnefparse": {

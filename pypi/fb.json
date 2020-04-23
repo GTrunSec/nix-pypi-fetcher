@@ -2714,6 +2714,10 @@
       "sha256": "65f3387445c36b42f9bac6527b1950922da10dc4d779cbc3b5f2b19ff63aacbb",
       "url": "1f/16/7e966ccf63a23c09a8fc4b3227716224ee5e7f4eb66109d8213230611273/cashews-0.15.1.tar.gz"
     },
+    "0.15.2": {
+      "sha256": "9d6407ca0e783682d7bf515da1b9a46522e5372a6e846a146269d4f7a10478b7",
+      "url": "44/dd/a24543af6ef003e287ce648aa05c25782794fb3d2379035712e6b1f6fe3a/cashews-0.15.2.tar.gz"
+    },
     "0.2.0": {
       "sha256": "f96914c2dfa03668b38ec791ca63b22bd7bab3e43442f9fe4c5d397ee9671ab3",
       "url": "75/fb/41b0beab8d3c649a8f4370ccf7c98eed7c25021edd9440d65df95a4bea8c/cashews-0.2.0.tar.gz"

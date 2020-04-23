@@ -179,6 +179,14 @@
     "1.7.3": {
       "sha256": "26566b9959e313e1d1681062362f9311b9cf12d31a395eaf714286b358e24b97",
       "url": "26/32/cac4b4c0a89230082f7afc33b749c822bee574b5aec0c7e53a07d552e221/a10-neutron-lbaas-1.7.3.tar.gz"
+    },
+    "1.7.4": {
+      "sha256": "c913a24fa83319ee4975f47c53078cc12d7854e1f838a33bd1941ed9b1967e15",
+      "url": "61/51/4e23a39e5e423f488782e22d00b97ce4bd289ea9e967d576f7b5a7b56b27/a10-neutron-lbaas-1.7.4.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "320e800164f63bd4ac5f18fdb0fef4b18d6b40651c71e9720b25feb90153a6e1",
+      "url": "ea/c2/13c77a214c9c0f9a95e88dcd8a3265cd1b158bb172311c09065132f680f9/a10-neutron-lbaas-1.8.0.tar.gz"
     }
   },
   "absynthe": {

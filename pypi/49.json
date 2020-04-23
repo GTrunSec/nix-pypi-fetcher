@@ -20108,6 +20108,14 @@
       "sha256": "073d2c1c06ba0c25041cd020786f9354a368b803617d0f490f6b88ff9e1c0395",
       "url": "d0/53/a576a7d39e86da4f1a13091d2068fb3bf50bea501baff1bf5836e6d039a4/superhelp-0.1.1.tar.gz"
     },
+    "0.1.10": {
+      "sha256": "9c773f2e27b009005a14a6abe3d314006ce90604f516cabd6949730e613c654b",
+      "url": "95/60/5a839d688bf7354c4407cedaec2fda5752220113ece0b6c6be3c2382f6c5/superhelp-0.1.10.tar.gz"
+    },
+    "0.1.11": {
+      "sha256": "e40a9aca7332e42135ff7e55ebd99effca51e51b8a45536e59a9aab35956f609",
+      "url": "b0/1c/7b20f04a379e03cbd0d6ac2c5c9ee4ca2793e8350b293342f5f8f6178c30/superhelp-0.1.11.tar.gz"
+    },
     "0.1.2": {
       "sha256": "1bed19a2e85db91aa62097c82fa2f49911f1d22aa293806da2d3bc0eca015bd1",
       "url": "94/b4/944bbcfdbff57e56eda1659ba8dbebeef530452ba112eeb37a46c9efd755/superhelp-0.1.2.tar.gz"
@@ -20135,6 +20143,10 @@
     "0.1.8": {
       "sha256": "42b03dea862cd080de1e383bc34d48443b426ab6cdfae0cadeaeb0f23adc687e",
       "url": "df/d0/22c29ce781783230aba2103f0ed71c4fb9d1bf3ca4794613670b95a94acd/superhelp-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "ead2e90a1847ce5ec13f893aa1867375e443468912b8f310dac567e11b7b1a1e",
+      "url": "d9/7c/df7604b4efa6e5c28c0540a461e396ca2bd5393e54495c627d78b143dc9a/superhelp-0.1.9.tar.gz"
     }
   },
   "surykatka": {

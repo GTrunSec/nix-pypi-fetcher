@@ -2434,13 +2434,13 @@
     }
   },
   "butterrobot": {
-    "0.0.1": {
-      "sha256": "5bb4a5f9b59da86546cd1e100891bde0a6e6d0a292fc9ffe8975536bf62f9d4a",
-      "url": "b2/9a/bbca91a94542d26635916e61332a9c77ef73af072fb5fa808f96650f5075/butterrobot-0.0.1.tar.gz"
+    "0.0.1a1": {
+      "sha256": "a2ee509a1a040564efc606ec35a8ad57671df200e461b80f7bb615f0486b595d",
+      "url": "84/b8/e7834bfebc9a1eb85184fc95ba8a863212645d02d4764c9bfb5bfcfcada9/butterrobot-0.0.1a1.tar.gz"
     },
-    "0.0.2": {
-      "sha256": "7aa20d52cf6ac1c7b0685854ff5ce8a5bad3f347163709b04f6d9b48c7dab382",
-      "url": "22/ee/0463b9030ca430b5424534bfdb59a93e0eccf087a12207b338e9e2d9096f/butterrobot-0.0.2.tar.gz"
+    "0.1.0a1": {
+      "sha256": "28accd4eb79d6b358eedd14eb29cf5271115ea3980e052ef287be18ce5ace0d2",
+      "url": "d3/37/c87e4e92afb975cb8204acc4ce5ab1f259e152c6e24667af4bd90ccec601/butterrobot-0.1.0a1.tar.gz"
     }
   },
   "c-to-epl": {
@@ -4461,6 +4461,10 @@
     "2020.4.22": {
       "sha256": "477ba2701e4ba9744974073ea485af16cee4a54bb398ff9a9b639cb598a81fec",
       "url": "5a/35/2ccc00be11ac916de7e37f17c007c7860a5ffac23c9851e493563b1854f3/dagster-celery-nightly-2020.4.22.tar.gz"
+    },
+    "2020.4.23": {
+      "sha256": "96d0b42e1362d2292a6dfe9a93a6aa7a8e957e33e6da018b285954bfd5a5aaee",
+      "url": "0e/95/07d6af144b46d4b8744b88931ee21f1d15b04d68a0103eec134c7227bce1/dagster-celery-nightly-2020.4.23.tar.gz"
     },
     "2020.4.4": {
       "sha256": "64e0fb307accf7b9c4a9c15834ea4086699c74b696d03137520b839d19d0cb0d",
@@ -19031,6 +19035,10 @@
     "3.0.0.dev0": {
       "sha256": "10220088607acf8467f59e0ed2ce6e0e05a7355371cd2d6709fb13a432903803",
       "url": "e8/9a/4df8f0087e8dd47b20dbba4e9f3128adc676b37b3649b690a66d1524ed7d/redvox-3.0.0.dev0.tar.gz"
+    },
+    "3.0.0.dev1": {
+      "sha256": "8e60798c25cef74242fbd74d432e24a20504999837e09ad8842f8914775e08d5",
+      "url": "c5/86/3d3b9dc543a661e12d1e808ad9f02c05ee140b9f186f57adef6183b29740/redvox-3.0.0.dev1.tar.gz"
     }
   },
   "reeeeeeeeeeeee": {

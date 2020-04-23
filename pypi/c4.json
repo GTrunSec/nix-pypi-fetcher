@@ -1765,6 +1765,10 @@
     "1.1.0": {
       "sha256": "161a262f798fe6a1f770c6438c1e00f6991009bcb4393e702fba0373b7cf0940",
       "url": "0f/41/864fb1931f45169a1fabb0c495255174ed58a03a2f39eb2fdba8acab4da0/battlehack20-fancyviewer-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "741c109855167599f03d64d7fe7f04cff9b2a7a589ff922cd3e7cc3c4bd10058",
+      "url": "c0/a3/d3e41b8fb8add6b330cb13cc01339ddf681ffd0c88fdcdbff321ed255a5b/battlehack20-fancyviewer-1.1.1.tar.gz"
     }
   },
   "bbrest": {
@@ -3169,6 +3173,12 @@
     "0.1.2": {
       "sha256": "61f2d399d31f2031cc00041832a35d9b487742e83cb5c788fcbe0ba3f6a03d55",
       "url": "ce/9f/9e92423717513600e6c797a9e0d4a4582e9bff0b3a9615a2d4099435438e/convert-0.1.2.tar.gz"
+    }
+  },
+  "cookiecutter-cc": {
+    "1.6.0": {
+      "sha256": "f0bfdef656d6b32827efd7dae1f7b0baaed55d4406d7fd3516038df4aa1f99d0",
+      "url": "b8/ab/e0ffe0dd4420c5d63bf1c5d8c6ee90a8fd26bd54de4b1d4dd7ffb05ff664/cookiecutter-cc-1.6.0.tar.gz"
     }
   },
   "creevey": {
@@ -9037,6 +9047,10 @@
     "1.2.0": {
       "sha256": "8a38129c8c57ac01dcf7544f1d292c48aea07fd490d50fe51de0690c389ce023",
       "url": "af/73/820c4f428285284aa53bfae185b1d9b7141dda6a073be8f09001985504d9/gpiod-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "667a156f707f60f3a68300c43b1392b6c8bf8104a9f42dcced2d9957c2a86dd0",
+      "url": "f9/93/febfbf59df80278af134d282538b2140be064e7960611e1948964f62b814/gpiod-1.2.1.tar.gz"
     }
   },
   "gpw": {
@@ -14873,6 +14887,10 @@
     "0.0.0": {
       "sha256": "0fb628d85964f72f41dc3a0ae4bce4f89364f3151f13eb637e141af71490a573",
       "url": "c7/67/2a9500e69882e8a9dd7a326e80038ba5803ce0225b5124424ff641156a21/pip-compile-0.0.0.tar.gz"
+    },
+    "0.0.0.post0": {
+      "sha256": "8a331217c9a5cad9ba95472873f88af7b8cdc6b824df74f68d549885408233ad",
+      "url": "88/46/9faf71e1a4b7676ede5160cb38b1e0573c12441e6136d248860bcdf0b1dc/pip-compile-0.0.0.post0.tar.gz"
     }
   },
   "pism-palseries": {

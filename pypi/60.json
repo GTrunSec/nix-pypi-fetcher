@@ -8511,6 +8511,10 @@
     "1.612.0": {
       "sha256": "d7fcfdeff8e533507e8f016ab49299e18bb5eb6db8f28050e3507bff826a1c10",
       "url": "38/d8/d49b666977c1b689a361208872c42ece24e534c4b4c7be5d58758ad58dd8/gardener-cicd-libs-1.612.0.tar.gz"
+    },
+    "1.613.0": {
+      "sha256": "4efcc65c8109ef3b90530f7c22211d888f345b21829870f800d7e01ff662b9e7",
+      "url": "86/72/fac9796b439614a1c2ff6753faf9eabce274368e5a408f486f21cd207f15/gardener-cicd-libs-1.613.0.tar.gz"
     }
   },
   "gcredstash": {

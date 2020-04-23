@@ -191,6 +191,10 @@
     "1.6": {
       "sha256": "57b85b61e3cf51f9514e023bb4a0e1ec793453eb50018e9e3dc297a6fca60385",
       "url": "6f/06/827e52949a7741ccf6438d270cd0972a7ad4e14e72c4b8d7d5919648f226/adbui-1.6.tar.gz"
+    },
+    "1.7": {
+      "sha256": "487b5ac47a5dd088ebbd42776941e4c2222973cd0a1316f4b5c11cbf90319a5d",
+      "url": "9d/18/f3416429d3ac3fc76b6612052639ee3a92b17b43673614b508c42b037016/adbui-1.7.tar.gz"
     }
   },
   "adspy": {
@@ -4111,6 +4115,32 @@
     "0.0.1": {
       "sha256": "6c716a37914bdcaae3503ebb47484c7db1112844992695c2183bcc56995e5adf",
       "url": "1a/3b/75c6fc2dcd78d4c9bb2de4c25acbb05c327b193a4970a7f4a203c92b6c58/cython-manager-0.0.1.tar.gz"
+    }
+  },
+  "dashcord": {
+    "0.0.1": {
+      "sha256": "ba6326cc419aa926bb8a5f5813147094cc021c83720d1aa032048f5c8cc57070",
+      "url": "32/1a/cbc2887ab8ab91efa5162291288d8b9bfae597a9f49a7884a5cbbd3689d3/dashcord-0.0.1.tar.gz"
+    },
+    "0.1": {
+      "sha256": "edafb2c91cae116a1cb4754d6c492c925f51257b41b874c7b0429d04b3c596a7",
+      "url": "f3/7d/d8cb9146b00bc0976f65dc9ba1afef8618249fcfae42ebb0f61153fe6381/Dashcord-0.1.tar.gz"
+    },
+    "1.0": {
+      "sha256": "f918358b31063c4aad9e9b10dc2ecc3ae35446764b784e04d29ce278a4a9fede",
+      "url": "03/25/a595541d727cbbe45ba554490d58608e3c081ae33ff3e7cf3ab158bbbd00/Dashcord-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "dc62d6a93ec36bc760a15827af69b18070e46aaebf5e26d4f4e775d639f1c96b",
+      "url": "0b/c8/7404e03012ebac63fdbfed171078ab2eb1d19b0ca9dce97222e12f015659/Dashcord-1.1.tar.gz"
+    },
+    "2.0": {
+      "sha256": "b4e4f30429c51d08bb66f73ed626f0ee7ef8a54f7537e061e343d35984e0c0ad",
+      "url": "c1/45/ecb7d366c6fe839f5cc563eeb6672b32f2c6c746ea27e819059651b804e0/dashcord-2.0.tar.gz"
+    },
+    "2.1": {
+      "sha256": "8a5028a9535bb29912662d59e3496d9cea04d9a4e40e7ff3fcca0171106f1644",
+      "url": "14/c0/9084166bb6a9db3ce237032059e29d443ba53f5305ef70217fdf96aa7d06/dashcord-2.1.tar.gz"
     }
   },
   "dask-cassandra-loader": {
@@ -14173,6 +14203,12 @@
       "url": "8e/d7/7adf2ee653f9068e6d0a0de587a8b4313b2e635d1bbd6da5e5dce7dc7421/nester00000-1.0.0.tar.gz"
     }
   },
+  "nester20": {
+    "1.0.0": {
+      "sha256": "cf35026a8beb592f41e596969669f52b362b2797da7f3c4eb6f3779e0d30a411",
+      "url": "34/d8/a52dc174a221da00312dacb80288b4257e46f417779ce769ff222230cfc5/nester20-1.0.0.tar.gz"
+    }
+  },
   "netdumplings": {
     "0.0.1": {
       "sha256": "a56844ede93bb14279122f426da17ae686a8c10017ec04b1401bc37afed4f75d",
@@ -21065,6 +21101,10 @@
     "1.2.5": {
       "sha256": "7e3469eddec330d9cac57580c9f968c8f5875f475aeed4d52d4c5b769a2bbf92",
       "url": "40/07/52933decfc0c05c03d61025a76e0de5932c2e3d02801997c040f15e26011/skillbridge-1.2.5.tar.gz"
+    },
+    "1.2.6": {
+      "sha256": "b9306c466730c618fe41a6506a880947feb366bed13247bc79a2a9450070c74f",
+      "url": "1d/4b/5b015f1d2d4278e77b3e785bbc08c124069f7edc5102e6aebed9b35cf760/skillbridge-1.2.6.tar.gz"
     }
   },
   "skin": {
@@ -22131,6 +22171,10 @@
     "0.1.9": {
       "sha256": "fac5ec6626c4b4f8d62fa434b3ccef5649cf22de493679f3f6e924911926bb9d",
       "url": "a9/06/7fd72425233a27e5706c437754e052396669ae2ee588edf5b960afa4c3f6/threat_intel-0.1.9.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "e9b00da836b37070397119e8d958bd3b12cd661ca3a0f4b75e8be0b306c926fa",
+      "url": "d9/55/40b5e6249b119d59fe3c4c6086617df3d5f1cca37e580ddbc64f9dacfd39/threat_intel-0.2.0.tar.gz"
     }
   },
   "threatbus": {

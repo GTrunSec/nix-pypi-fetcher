@@ -1832,6 +1832,10 @@
       "sha256": "2723ac54c0dec6ff6ffcb050f3e4df3930f427ced9f2d0810599edd7089f3ec5",
       "url": "6d/f1/360076c74bcc5d7f13d7a1e4d45280b41f4fa6b879933f2afff67d3cc24d/badlands-2.0.22.tar.gz"
     },
+    "2.0.23": {
+      "sha256": "548c100ac37908eb55fe98f8628d1616b79450bf74fc12b419b514dcfcb7cb98",
+      "url": "fc/b9/605ae2b83fb372478e3e6e3360a73d1dc3ea28aed74ee9a0b8e43a9543aa/badlands-2.0.23.tar.gz"
+    },
     "2.0.6": {
       "sha256": "4b5423417b419ac18f182e1ce35209e0aac6b76e42efd4e285ea94f19f5e0a76",
       "url": "99/c0/5e27aa98cbd7b9014732851cdb5fc56a59e76136e5dee30894e6d1b8d04d/badlands-2.0.6.tar.gz"
@@ -2677,6 +2681,10 @@
     "0.0.2": {
       "sha256": "c20ec2b5bee23984896a76fb0d990be86cfb0e8aa1e19aeaf46e78ba1a1911f2",
       "url": "7a/ad/4524d98897beabea6eb60ff2805122f564d3fda2173c5d5035b78a85001d/certbot-dns-vultr-0.0.2.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "60558da4e5003932889ca249277a0d182af9f15dfba4e6d046ffe9d9b747a0f9",
+      "url": "f8/34/294efcd4fdc7d7e898437e5bafe5128263a262b1208d7a4e7c8ee56a882f/certbot-dns-vultr-1.0.0.tar.gz"
     }
   },
   "cfnclusternode": {
@@ -23533,6 +23541,10 @@
     "2.1.1": {
       "sha256": "f2230d125548a763c22bee18b8bb50127098d1b3b71b01fcd77e5adfcca33f72",
       "url": "3c/19/78a2624c5f28a1784ab63a95ee9034e3a7e36cd017b7e13e7b22da00ff08/text2num-2.1.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "16ba0df2544d16ece75e2b3ecd78602c249dc3a0079f54a932d59dba68594150",
+      "url": "3e/08/2edfc0f380b160eb987c611380833267f87248b8163d1645061a4325c90d/text2num-2.2.0.tar.gz"
     }
   },
   "textypy": {

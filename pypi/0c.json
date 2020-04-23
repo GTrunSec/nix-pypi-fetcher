@@ -17928,6 +17928,10 @@
       "sha256": "7675d4c236f1e2c55574101d025cb14f426c3b4540af6aa7c7ab93febf7715a8",
       "url": "06/82/9d93f00e60a43b9c42a0ba8a5387067d6f2daa3b621eae1fbb4592660421/moto-ext-1.3.15.12.tar.gz"
     },
+    "1.3.15.13": {
+      "sha256": "11afba0869ea4b08d12aa3ad394de5431c2168ae82e4726235d1cb3af1b54cb3",
+      "url": "b2/a6/853e7bf31e230610fce1a4e64f979be43a37bedb820a816d7752b633b9b9/moto-ext-1.3.15.13.tar.gz"
+    },
     "1.3.15.2": {
       "sha256": "1ef03757c068f4051bd3799c9cceceb903ef1a022ca2191d035f544054ad459f",
       "url": "4f/7b/79672e99e74a496c497d6e03c8beb8de07204847df0a647f12ec108a1c93/moto-ext-1.3.15.2.tar.gz"

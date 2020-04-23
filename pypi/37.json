@@ -2855,20 +2855,6 @@
       "url": "90/0e/d523ccb03717204d2f54a23a21afe495f85c0fdf895000e9b1a1b9f51332/cilium-microscope-1.1.1.tar.gz"
     }
   },
-  "cjcc": {
-    "0.0.1": {
-      "sha256": "9b29345a6ec8088c9200bfb31f296cb0c22bdc19a60fb8307b4fbabf01cfe249",
-      "url": "9a/fa/9b55ab9ba5d727c2d64d1c6ff4058940f7eca55d024acb93d9ddd60b1ccd/cjcc-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "4c623beb0aae18f42bb5e8489253f323ec59a8af54ea87633a4ce4cadaea56b5",
-      "url": "e4/1b/d4a65287442d5ecdfdf35cb85e53d10daec32fd738f2228dc56152e7ef3d/cjcc-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "01fb21620c70f4fa556a53713b456ac115c5502b9410ff615bf9133c674ad777",
-      "url": "3e/9f/9ec88e084d3a299af084723534fa51d9f7cda95327761c7770d7ce5b6568/cjcc-0.0.3.tar.gz"
-    }
-  },
   "clilabs": {
     "0": {
       "sha256": "8d222fe2ed7d1b2f8434a6de3b1ea225ea7d18e0f30f42a2461bfd5861449c16",

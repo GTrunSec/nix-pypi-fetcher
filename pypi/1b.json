@@ -21749,6 +21749,10 @@
     "1.1.1": {
       "sha256": "99b823a8e0efdcaf9ce160c23ce8ba3362772aa6736310e34f255f22672454fe",
       "url": "5f/d7/2c624bedada4a32bb0ad60bd93a095177c8f58812cab0566f45ea105cdc2/SimpleSQLite-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "e8fe541efefb0c68601250ba609e40cc53430ac9afb2741c1eac084caf910b5f",
+      "url": "01/62/bbe1015d2c60317671a80abbcee089c8ee465aeee4b96641df75f8988444/SimpleSQLite-1.1.2.tar.gz"
     }
   },
   "simpletk": {
@@ -24177,6 +24181,10 @@
     "0.0.30": {
       "sha256": "3656e6b9688d46fbac12ea717b04f52f0535bdce3cd28c1d14564aa42f5646db",
       "url": "50/75/8b2635ac7c5a350119a34d8d8c0960f920cdc77a18c9c81366f3341dda63/swh.journal-0.0.30.tar.gz"
+    },
+    "0.0.31": {
+      "sha256": "ec87349d1f80d93ce43e6c0ecf2ad67fc7dbabab704391bd9695d1bc391d99d4",
+      "url": "41/9d/38b6175311392b2dc7bc2c3caf0af2586d41f70aa9d1304d8a8496be2fdf/swh.journal-0.0.31.tar.gz"
     },
     "0.0.4": {
       "sha256": "de8e79960e9c991633abb68a7656f651a255ea84373c8cdb05d28b3d620a5973",

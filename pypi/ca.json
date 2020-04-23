@@ -4890,6 +4890,10 @@
       "sha256": "96bd47c14b4aaba4780d77fa4d2c876cf35eb6848ab1df1a6338447b6c2c10e4",
       "url": "2e/b5/d644919656adf4e7ae94b5479a3fec7497060c89292c335b27e59d66706f/DataProperty-0.48.1.tar.gz"
     },
+    "0.48.2": {
+      "sha256": "9ae1fba802b8ab7a2c7830ad9f9ce39ad4807cce3fb0b7be1674ac1857f7036c",
+      "url": "03/aa/d4ddd477cf71ef5d52652b0dae24c2fba548d6c391096f7e596c8f3f42ec/DataProperty-0.48.2.tar.gz"
+    },
     "0.5.0": {
       "sha256": "bc47be582c89949448c9a37c5730723b018b893fc451c7cb4955e7708f6d8efa",
       "url": "eb/09/122adc6e9d7b84b42fb0ef8eeeb7520eb00ade162484a0a2aaa086a5a223/DataProperty-0.5.0.tar.gz"

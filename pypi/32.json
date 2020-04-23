@@ -22101,6 +22101,10 @@
     "0.4.0": {
       "sha256": "b035ff41f59a001f0df678a725cdd3b08fd6c2ab4fa11e456421424f2fe08e65",
       "url": "ac/eb/2898b99e3fe17a65f5976ffb1be775b64a7747dacd65266c8bb911faeeb9/tuna-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "24ed609ef81b6c1a97c0de115be92c1cd9e44e36103475670e9814f7cee3f969",
+      "url": "e7/6c/be5c063505f5ba1dd580e13b16bf744b018c54045a961a6b365112c7d228/tuna-0.4.1.tar.gz"
     }
   },
   "turboentity": {

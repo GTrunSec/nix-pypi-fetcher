@@ -10023,6 +10023,12 @@
       "url": "d5/2e/3ede386341fcddbb04ec7e20bd4ab86da4375764d517b6a8c1cf77054920/foliantcontrib.anchors-1.0.4.tar.gz"
     }
   },
+  "followthemoney-ocds": {
+    "0.2.0": {
+      "sha256": "56d884649f1779deee3227e53934168d3036ca9214e2f2d5724782f45879c8d7",
+      "url": "2f/cc/9d74271f3d0d344bf333580148ef4f1d76ee1f2d170eda574770b879fe36/followthemoney-ocds-0.2.0.tar.gz"
+    }
+  },
   "foohid": {
     "0.1": {
       "sha256": "34de951f81089a5bcb35a96289122a998ae66e1609d91942f4b8cb57f497d0b9",
@@ -16586,6 +16592,10 @@
       "sha256": "9eb4c85db3390f30e1920504ff21c3e20c6221299eecc45b58025785eb40e08f",
       "url": "14/01/6bcd50a65c9197e465073363b087bf0e3e0302b49eec160b807e94e950be/netcontrol-1.4.tar.gz"
     },
+    "1.40": {
+      "sha256": "f8c7b3cb915bd44e9feed419e9e1233290c1dd196b3ce8aa729fba33fa74ed51",
+      "url": "61/e6/9668ff4b32ea2e9bebd317e01e8bb4afa10c82311fae1d25c026f11a0e74/netcontrol-1.40.tar.gz"
+    },
     "1.5": {
       "sha256": "80c3692912024053d44d9c03a0276643af9b1e9a41c420761c32b81e72665f54",
       "url": "3a/c6/8239093d09b6290154dc350d6b7f5afdc1f4c7e447503554dba03b74197b/netcontrol-1.5.tar.gz"
@@ -16755,6 +16765,14 @@
     "2.0.0": {
       "sha256": "631a6ad9a6c7de7af0de429c5e9a76051efbbee28ac11aa35dda4e41b6fbf4c6",
       "url": "e2/d2/034cab263df5a8dcc59bd9ece4d41277aaad995ae5cba018a411dcb0061d/nfem-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "6b96287776f741d50bffd67b415596e2370bc580cf7a17600f34f8338bf66237",
+      "url": "99/23/1818fcd6a05947aa3e9ad3a80c3e19b72971f94f3dc98b8a4e1491207482/nfem-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "ac9ca5247894e2dfd1359e96436fa0a0de5a6641a411a35b59106781def66ed9",
+      "url": "b5/d6/83f37375f1c5fa6ca6345e339e42eab9110c1b11fd1960501a8cb379658e/nfem-2.0.2.tar.gz"
     }
   },
   "nfft-cffi": {
@@ -24843,6 +24861,10 @@
     "3.0.2": {
       "sha256": "1ae1aec79c617b1461e52b7bafbd3a4b027c1164e32a781898187dd7fd97a9e5",
       "url": "8e/16/ff5b51228aeffaaf7e99601eba5e56c8942921e52b929b8dfa506e4216f1/tencentcloud-sdk-python-intl-en-3.0.2.tar.gz"
+    },
+    "3.0.20": {
+      "sha256": "4a4e1b357e1ef26591d6784423bbadfed4a8f84d2b349c9d88e3e6eaab5916ac",
+      "url": "7c/a6/48e3a9a9bf3d35eb58f0c9c6447801ae7de0def86dc7b42fa95531e45ab0/tencentcloud-sdk-python-intl-en-3.0.20.tar.gz"
     },
     "3.0.3": {
       "sha256": "7fe26c1c0b70f5d5de38a09ca54ad4764dc04c3a149a3ac6b8630ba4acc97c21",

@@ -4862,6 +4862,10 @@
       "sha256": "dbd2e5738dab62845e4ce9ffb661dd7290671bbb350c689725c4e8fede03a438",
       "url": "d8/eb/d86b6fbedf9bb4ee00d92ce6de339e98a8077ed0094078b216ee353d49a6/dagit-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "ae803c851924578fb4966c4681f9ee71388b55980d837e1d36f4da08bb7895cb",
+      "url": "96/7d/3b445550bda31f29bf604b6f612f4602655a7f99acd6f96657bfb8ed98a6/dagit-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "ba1fed36a5dc7f3099519f6e4c3bf43b661c41e1f3ac81a2db549b7101e0a319",
       "url": "a7/1e/cd295b441afb9f207f1c87349ccd09153925556f2a39a79e98f76a0d408f/dagit-nightly-2020.4.4.tar.gz"
@@ -4891,12 +4895,6 @@
     "0.0.2": {
       "sha256": "c15d451d895efd0997ecb70a2168a54f242184f9b5e0557d11b95de88905b85c",
       "url": "5d/22/c38b4476f81be8bd2175cf4379fdd729c3769c7f25779c44baf0858a8b5d/daokemt-0.0.2.tar.gz"
-    }
-  },
-  "datascitools": {
-    "0.0.1": {
-      "sha256": "cdaf68031fab322a018dc5e20fe0fb5ec89015818e413568683729bdb6959eb9",
-      "url": "71/d8/42373c4bc8d29265554a66ff6d04ab2c243e03e74a436a1f1fa67fb3788e/datascitools-0.0.1.tar.gz"
     }
   },
   "dbsh": {

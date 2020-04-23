@@ -10413,6 +10413,10 @@
     "0.3.6": {
       "sha256": "5c25f3c512677844c307ff7a77a006f3b897d000e8540f20339d71ba50b48eaa",
       "url": "2b/c9/baa1d4a06a7354df8adf76111a290aa16674100f75bcb8c7b2fdb5f91660/igeBullet-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "f6624692f4b04a1a8f8a270a82c54ab972915fc6e86d4a25ebeb35239b23e3a5",
+      "url": "fb/d1/2981d0b9611eac7bb0924db5cb18370373ab9697a957bae95625f3be521d/igeBullet-0.3.7.tar.gz"
     }
   },
   "ilamb": {
@@ -14729,6 +14733,10 @@
     "0.5.8": {
       "sha256": "185d643ecae6f6213c16c5cf132adbdecad9be158f30cc2d48651a30d42930a5",
       "url": "b9/83/39c89a68db863e410e882a1697eaffbf1d967c4f422e77aca25df663103c/pcg_gazebo-0.5.8.tar.gz"
+    },
+    "0.5.9": {
+      "sha256": "51d85ac06971472d9f7cc2f1322f6c6ff2d5b4eed932722c542fa186cc22966f",
+      "url": "3a/63/1f4288bea13d440ba3d99ad302c914766ee8603d1d31ec3d76fe582e9d00/pcg_gazebo-0.5.9.tar.gz"
     }
   },
   "pdbfairy": {

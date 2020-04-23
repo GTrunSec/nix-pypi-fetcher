@@ -657,6 +657,232 @@
       "url": "40/51/dd22a947a8d60f34eb6ef2ffa7ead38eaa9f0a7174cba5464626964b5046/AutoTS-0.1.5.tar.gz"
     }
   },
+  "aws-cdk.aws-cloudwatch-actions": {
+    "0.33.0": {
+      "sha256": "1d7552eb7f7c31e95e913b1bfeb503b703ad0e0486042bc61a1c041524c557c3",
+      "url": "27/e9/a146dc9fb68e8e89d1d43f0f8703390c8d136dd60e6c4d336ff997f9d32f/aws-cdk.aws-cloudwatch-actions-0.33.0.tar.gz"
+    },
+    "0.34.0": {
+      "sha256": "a7f8bec60172ccd9b32ec585813526fed514562073bb797668161a75e62daa7d",
+      "url": "46/4e/5940b4bb3ad5763260ed26e42d3478aaa898fc2bf7edc0751aac7f7c277a/aws-cdk.aws-cloudwatch-actions-0.34.0.tar.gz"
+    },
+    "0.35.0": {
+      "sha256": "f5bbbad247bb94accc5dbef111efa06a3527bbf30b68674d96b20f90001f3423",
+      "url": "29/ea/e20e4f2a0d778b0fae6e393de9474da87c7ba64757720343aa13f2895913/aws-cdk.aws-cloudwatch-actions-0.35.0.tar.gz"
+    },
+    "0.36.0": {
+      "sha256": "223dd426dba8c765ee17ca7a6aa0b01babc847082f3e4163e298f5879c73e753",
+      "url": "f3/e0/b8eccacfb124562fc3d67dd4996770219e601f67856126080ad37c2a7911/aws-cdk.aws-cloudwatch-actions-0.36.0.tar.gz"
+    },
+    "0.36.1": {
+      "sha256": "c27e8b3d61ab04ed1ae43b4f7330210913ccdf62ead8e2c747fd80a9fdad48ee",
+      "url": "52/12/17bec0011e4371f832c79be9105546057c583a4a9dee159b7f6a9a35e3aa/aws-cdk.aws-cloudwatch-actions-0.36.1.tar.gz"
+    },
+    "0.36.2": {
+      "sha256": "39ec1810e4e37ddc1a683416215699f7f62d92f23f54397a01606b0508b36b7d",
+      "url": "e9/0d/2b72a23fabf3a0b34a313a6ad6c21a933e0422d6582411458e1f5df65ecb/aws-cdk.aws-cloudwatch-actions-0.36.2.tar.gz"
+    },
+    "0.37.0": {
+      "sha256": "0189da47e3230328020fd92da7b831ae96bfa2e26a50c7a1471a8059e7fd912f",
+      "url": "dd/42/fe45b9f9ed7257b6319635fe5565f0815b3698ace492856039140ec6f377/aws-cdk.aws-cloudwatch-actions-0.37.0.tar.gz"
+    },
+    "0.38.0": {
+      "sha256": "c1a57961e0e9edb467242dcfb623fc6e8fad5b31ea3e78bcfd7b39a4126dd114",
+      "url": "7b/14/b0416883ebbbab0f881dacefe03ccb29dece1c51d8db78aaf28f365d6fcc/aws-cdk.aws-cloudwatch-actions-0.38.0.tar.gz"
+    },
+    "0.39.0": {
+      "sha256": "0c9d7ce584355f876c9b98d85e66f6774870390b21e81ef2655616cde76f1b90",
+      "url": "c1/e1/db573475d9fc70921b5a68ea9084f575be9ccc3437e6bef354b135717b88/aws-cdk.aws-cloudwatch-actions-0.39.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "668c2877337b342e5dcdced2d818d63c16a2ba8c37c2c7d78a1bef5c1085f3a0",
+      "url": "46/85/2ce0b9180f9c2bfdc76dbd470d7482e67bf50494142297fb607e4f1e6a62/aws-cdk.aws-cloudwatch-actions-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "99a8c40ceeefea48490df3191078b67677f6f0ec77f4c7218d3e0055ab979fe7",
+      "url": "b1/fd/d0a4cea865a65d79804b2cc0d6444c92f15b8e1829cd9aab8b7ad89e6d17/aws-cdk.aws-cloudwatch-actions-1.1.0.tar.gz"
+    },
+    "1.10.0": {
+      "sha256": "d2fd7cfde59dc53a38671a6696e782a590e16b84fbf333f5ce1360ea2fb70b58",
+      "url": "8f/fb/e0f7d96c2c77bdf6d865fb49873d9c5a6728eb0e31d6b6f9edd2a01d0eb9/aws-cdk.aws-cloudwatch-actions-1.10.0.tar.gz"
+    },
+    "1.10.1": {
+      "sha256": "7d1478badfa4c60c8d8699f57504dc6ead75be2deb7cfd213b70f17ad5f7fc10",
+      "url": "93/75/21548310678d2250ec6210c73d5a159b7fd6806eac2ff0c1cef40bc1b0e9/aws-cdk.aws-cloudwatch-actions-1.10.1.tar.gz"
+    },
+    "1.11.0": {
+      "sha256": "888f194c072b849e88262e48ed13990bea51c6b3731f3a38b4a07e5a757a1764",
+      "url": "f5/ab/7c3926790d75f27ece672ba91bd22a038017090fca71ff232dc4814dddef/aws-cdk.aws-cloudwatch-actions-1.11.0.tar.gz"
+    },
+    "1.12.0": {
+      "sha256": "013325d3eb103cb359032b8852045fa5d9fd20ddfde1f540de517959c86ece44",
+      "url": "06/eb/83ebf02728e1b035272501e04a5539eac70b4b4524115304853b1ba838d1/aws-cdk.aws-cloudwatch-actions-1.12.0.tar.gz"
+    },
+    "1.13.0": {
+      "sha256": "d8b7ff89645ea8d0c91315a3aa7d9889bd1e7897388dbc1d447a90c8f66a8422",
+      "url": "47/0c/f88af4a0e4685770fa6a780a8bc2e17793a6accd5f54ff158c56429a26c2/aws-cdk.aws-cloudwatch-actions-1.13.0.tar.gz"
+    },
+    "1.13.1": {
+      "sha256": "82b1099bc8d58ae6c6973a637c27f10acb5276b0f9f2d54dc68f462b707a749b",
+      "url": "f3/17/8f1832c28155fcb743da284d9160d175c25eb2df96f20de3a4bfdf11a154/aws-cdk.aws-cloudwatch-actions-1.13.1.tar.gz"
+    },
+    "1.14.0": {
+      "sha256": "679df9119a6ff5d4faf97e06a32fc124d2442a9c24a85fae51bcecf9bc0c7fc7",
+      "url": "aa/54/f3229650a12c7d962152467031e353fd8a4b80ec4522c801116b6a3eab41/aws-cdk.aws-cloudwatch-actions-1.14.0.tar.gz"
+    },
+    "1.15.0": {
+      "sha256": "859664e8929b939939924123926d9d4d460f8978a13027208e645bb3ebf66109",
+      "url": "d9/58/8d1ca561fde6a07f38230c4499a94e476987676d46e1c42d2d9653e78362/aws-cdk.aws-cloudwatch-actions-1.15.0.tar.gz"
+    },
+    "1.16.0": {
+      "sha256": "8b380a0bb451a24a6058531f5a137e058a2752f5eeac4bcba548a7dc8acf13e1",
+      "url": "d9/c9/26bde2de86ac017dc9d412a112120f61fe7ae25015a8053a01a8d0682d29/aws-cdk.aws-cloudwatch-actions-1.16.0.tar.gz"
+    },
+    "1.16.1": {
+      "sha256": "4a280c1ddf94ee91248b653d2e34c8e76a23337a225bfa5b0ea8e0337b14f921",
+      "url": "da/16/fced63310fa711806a7052f812a760a32426055f1c52112014a736fdb337/aws-cdk.aws-cloudwatch-actions-1.16.1.tar.gz"
+    },
+    "1.16.2": {
+      "sha256": "2ec7239773881197a579e77aca20cf383356924f4f83356bf6b377a3968a2627",
+      "url": "fb/6c/6aafdab23117f93aa918151d6fabbcb664c5158566622185e94475048d28/aws-cdk.aws-cloudwatch-actions-1.16.2.tar.gz"
+    },
+    "1.16.3": {
+      "sha256": "d985c9829d1852dfca480d238b5ed811a13ee6fe87545cc4ab666ccc6be9bdcf",
+      "url": "4e/a7/e0473abc197d1b409b9fd03a821964ff88211ce8363e1693a0c26821d596/aws-cdk.aws-cloudwatch-actions-1.16.3.tar.gz"
+    },
+    "1.17.0": {
+      "sha256": "afc8bb2f53e6d537f64fe223077f8160e3818273c67cc8e604a5578704581307",
+      "url": "ae/40/439bcc8aaf3e31dd437565f0cfd1b63bc7b200640e1d322350c8e0d34e14/aws-cdk.aws-cloudwatch-actions-1.17.0.tar.gz"
+    },
+    "1.17.1": {
+      "sha256": "7deb4dc7c3651424111bf52cfb5c78689f8e3cdf28c34e04723078eaf5028ee0",
+      "url": "ca/9b/a6e3a1b36927512c6bb338004c4d7010c754c3fe4ab51f5083cb0a066c7f/aws-cdk.aws-cloudwatch-actions-1.17.1.tar.gz"
+    },
+    "1.18.0": {
+      "sha256": "299f21114d0167e35c294f3202981414103aed3e8dfef5a4ba9ee81c85b5683f",
+      "url": "2e/31/eff622eb2af5975868e45f82e24fbf9fa047d606680711e37e2fa50a99fa/aws-cdk.aws-cloudwatch-actions-1.18.0.tar.gz"
+    },
+    "1.19.0": {
+      "sha256": "f76c284d57a465b09c256c1563529c3701390679a8424eebcb0df40d43c3e53f",
+      "url": "96/7c/0cb5c65252f3ef3f95e79aefd14880f06470113f1c0499b134312a630e14/aws-cdk.aws-cloudwatch-actions-1.19.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "b934b4d627de6d1bf9b9399d63a4be5ef47a99fa8f8915edc8153e49803d8114",
+      "url": "74/19/ab776265d9bdaf1fb876f186296188139d60c69926dad1025beade074549/aws-cdk.aws-cloudwatch-actions-1.2.0.tar.gz"
+    },
+    "1.20.0": {
+      "sha256": "0f8afca9d82fec0ebc7c4c12c4b37ef23fd570c81cf7bcbc26cd0e535fece38a",
+      "url": "a0/ce/526fb99a1aac5ea74445002448e872eee67bad145c6954ddd897aaa4583b/aws-cdk.aws-cloudwatch-actions-1.20.0.tar.gz"
+    },
+    "1.21.0": {
+      "sha256": "adb1dafc795619a8be16ac7b37d356c442306f8b820134b480bf0c064963229c",
+      "url": "21/e3/cd261e407f9b7fb0f1864c43559767fe22369513dabe12a0474f04a2e045/aws-cdk.aws-cloudwatch-actions-1.21.0.tar.gz"
+    },
+    "1.21.1": {
+      "sha256": "60f06577e8bdd104b240f0bfe2a5675ed49d5bc720c4395f30ed99789b4b497a",
+      "url": "cd/f4/988026bd1ae6bbc4cfac2a3b69dc911f3fbc6d90ac5739eaf9c69f053144/aws-cdk.aws-cloudwatch-actions-1.21.1.tar.gz"
+    },
+    "1.22.0": {
+      "sha256": "edd1a47cabe0cb1f2af273f5a193db628e62e81d1da5ad58138a8f287927ebf2",
+      "url": "ef/2e/7bfd4af4e5a689f06f6f16c87514acfe136578139533a9f6741eb2eeab66/aws-cdk.aws-cloudwatch-actions-1.22.0.tar.gz"
+    },
+    "1.23.0": {
+      "sha256": "95a4d551a73d1cd46c3a1d2bcaba9c0861c57b126a109fff731dec66d873de9d",
+      "url": "44/c3/8743a52d178a8400a14128d8ee3f71ff9ab019daaa94064b5fecbb409d46/aws-cdk.aws-cloudwatch-actions-1.23.0.tar.gz"
+    },
+    "1.24.0": {
+      "sha256": "bbae3872cc02ba5c7f64d2ea95a29aa13350e6dd56a199d2966b7e765ff1fa70",
+      "url": "dc/86/11e9657b2acf27d13af94eec8feca77d285452889c83fb3beebec20a8a8e/aws-cdk.aws-cloudwatch-actions-1.24.0.tar.gz"
+    },
+    "1.25.0": {
+      "sha256": "c400d404415ecba700c0401432f92a129c39c4e57832d9d6bd00ae5c2da18136",
+      "url": "4d/30/a1e304897c42b640849379e9b63f18b56ed51afe84bf175ac47c7131e6e5/aws-cdk.aws-cloudwatch-actions-1.25.0.tar.gz"
+    },
+    "1.26.0": {
+      "sha256": "dea3401d7b0d26b16811b1e020bfeadbc0a5974bbfdba59e8541464e3543b8f8",
+      "url": "84/dd/6f354dcb47de666d37c274167d18a0bb60d49254f7d835b1f901161d9a8c/aws-cdk.aws-cloudwatch-actions-1.26.0.tar.gz"
+    },
+    "1.27.0": {
+      "sha256": "9d363ba461af7661e17302156f6d6ce7225991978a095359dead239616d658f5",
+      "url": "89/84/f90c1e8c61940aaf3cfe471a72a309e98b06184d6d6cdfeed493f4bc86f4/aws-cdk.aws-cloudwatch-actions-1.27.0.tar.gz"
+    },
+    "1.28.0": {
+      "sha256": "790a485de13889632a3a1fc5c12250e63171f0c7cb6265fcc52398a90ce2033d",
+      "url": "fe/d9/2e1d64c1ac8dea77bc8bd18dab77125924492af9dfc99c20bc6100e1e7c5/aws-cdk.aws-cloudwatch-actions-1.28.0.tar.gz"
+    },
+    "1.29.0": {
+      "sha256": "0806365b62a24b7aafbc32780d02e224fde87d02db18c44f3be98994840676d4",
+      "url": "46/6f/53d10a80163d2f17502f10eff5daf12e5a56a963fb901c281d19be8e1ad7/aws-cdk.aws-cloudwatch-actions-1.29.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "761fd1991056bef6539c19f234818b916e476cd26faa70282e8b4a1d693cb85e",
+      "url": "18/03/e7ed66a73bec9431a32d398e20f42eb17db0cd2849b6e94cd415f005cb2f/aws-cdk.aws-cloudwatch-actions-1.3.0.tar.gz"
+    },
+    "1.30.0": {
+      "sha256": "c37049c0a9b60ce3567ce155839259a660e7edfbaaa5b01cf2a08f57b8b45b81",
+      "url": "8f/17/de4970a90513d289aa682eec8ddcbd00148933465ec9998fc5119a163be0/aws-cdk.aws-cloudwatch-actions-1.30.0.tar.gz"
+    },
+    "1.31.0": {
+      "sha256": "5c12652eceb05237175a3db78bbf9fc554f549019d3eeb532593a4416601ca76",
+      "url": "f0/cb/880c57fb9dc0b65c6fe2f635b5104643e5a7f5be65f1c5f8a63a6a3c4b2b/aws-cdk.aws-cloudwatch-actions-1.31.0.tar.gz"
+    },
+    "1.32.0": {
+      "sha256": "698872da7a7c0387c61bebe36b56fca17c300b58dac5def502d432555498a37e",
+      "url": "94/75/1335cf1fa2a7ead89b1f74e00b3e914dce33ee434530611909d664af123d/aws-cdk.aws-cloudwatch-actions-1.32.0.tar.gz"
+    },
+    "1.32.1": {
+      "sha256": "9c812393d896e9e63d706ac43984a538587b852e6c26d585c4a3ce2fe5145a5a",
+      "url": "8f/4c/0f8e805535d5a6f407f3d33917eb5e01e713e30d37bf52f38202c51093d0/aws-cdk.aws-cloudwatch-actions-1.32.1.tar.gz"
+    },
+    "1.32.2": {
+      "sha256": "82cfd29614a997049d8963d159ef2c7e9534975c24d2ebade503b7756cac7d26",
+      "url": "48/98/a221b097fffd3ff56b24709ff96a45fef1e12a69eb8058c9290a2371755f/aws-cdk.aws-cloudwatch-actions-1.32.2.tar.gz"
+    },
+    "1.33.0": {
+      "sha256": "f68039d445d61bfed99c8bd883ff7ad0af32e9667da83bb3057979f3b0936b96",
+      "url": "d9/9f/2d7a35fca99587671c765b06e34d3e93cd52e3058790e7ce716b430bfb16/aws-cdk.aws-cloudwatch-actions-1.33.0.tar.gz"
+    },
+    "1.33.1": {
+      "sha256": "9f072fd67b096d4b7e0169435498b77d53ef826bb2a40903a647a8fb1d3f919d",
+      "url": "2b/bd/86a7db62bf1ac3a1446dea99ee9da18647546667f0a65bd3c0249caa7ecb/aws-cdk.aws-cloudwatch-actions-1.33.1.tar.gz"
+    },
+    "1.34.0": {
+      "sha256": "ce77b5422c26636d809eab3e2af84986652d50929b60b134744581d2afcbaa58",
+      "url": "88/62/ea2e2f6174d2137fa13d7f634250144d794e0b958270dc721fa629437cb8/aws-cdk.aws-cloudwatch-actions-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "209189a4adfb848e53413f94947cbad28695f4df70a590985e778d596f14cd35",
+      "url": "c9/62/1104347758389d609169ef25a97e043d19fab7bd857a4c557a68c9c8e647/aws-cdk.aws-cloudwatch-actions-1.34.1.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "f2282c7a53bb0b32a7a438cc19225c78abd6c72f8bdb1d0b9be1298009213be7",
+      "url": "df/03/793d5bcdc0ea68144ec32f81abd6d7eb78c652fa9ea21b778669c061932e/aws-cdk.aws-cloudwatch-actions-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "7555e5619339d9d2690c5826412a45dcf04d15fc1f5a28bf792e9faf9c570fe4",
+      "url": "5f/24/6a6a4d25480b004ac13b7736f2341f8d541b4c6ade2e40148189deb9cf3f/aws-cdk.aws-cloudwatch-actions-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "f2634a2d5d5571b277a72a0941c0b4767a39cbf841d5cd40599d6ca6340b60dc",
+      "url": "6a/34/428af1cbe93f4af2fe59e91f946977d367e5548eaf05fa3972c402fe69ac/aws-cdk.aws-cloudwatch-actions-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "4dbd592120cedfcb5be06ab0a8aa6237185cdeebd34312f2a0c554c81688727e",
+      "url": "34/ee/7de25d8c0597fa3fb0816ee28afc4b9c2d6e70bcb341778c8c43b93bd678/aws-cdk.aws-cloudwatch-actions-1.6.1.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "d73704f6ff1ffcd136fc0754ddce02d7819c3ca85256a81ca606be3cd2cb5c98",
+      "url": "b5/67/57961cb93ef8117ecc23d65a91315bb2adb61fc8c4e5750c5f5d6e7ed7bc/aws-cdk.aws-cloudwatch-actions-1.7.0.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "3b6f014738aec5d46eef2bea0db129224b2c99f870b814c59095d371b8e4077d",
+      "url": "f2/0b/5fd7c8f1e20ac51831108aca358039b430d62538cc191665a16db8f91fe6/aws-cdk.aws-cloudwatch-actions-1.8.0.tar.gz"
+    },
+    "1.9.0": {
+      "sha256": "aa6044ac0d5e6cfd7b98612950df277d39fc8068a5e8678d8265d3ca4b88c91a",
+      "url": "66/fa/d82fa8258cd85aa4208923e8449f7746229a17a93b7fad402b7d5066f917/aws-cdk.aws-cloudwatch-actions-1.9.0.tar.gz"
+    }
+  },
   "aws-ec2-cli": {
     "0.0.1": {
       "sha256": "e7129756677827569e4ca6a3f3ee6918b0fa86b096b0b92a6222dbbe863a151b",
@@ -11123,6 +11349,12 @@
       "url": "6e/21/9ec0e80c1df9125a4fd9d66cdbbf043268f968b9981d73eb9b2a79dcd7c2/ipy-distbuilder-0.1.1.dev0.tar.gz"
     }
   },
+  "isbesttool": {
+    "1.0": {
+      "sha256": "7a1111face4c669c17d8999eaf638416ebb6acbee298a6642974f2e371bc28b1",
+      "url": "40/c4/d4f8bdc9ab8bfc0128627fde616f2cfc77dfe00a7d13892960d78174b017/isBestTool-1.0.tar.gz"
+    }
+  },
   "isclassmethod": {
     "0.0.post0": {
       "sha256": "a3823085a0844c63110436471b4b1186f49744a0b89e61cf045d1407acb026bb",
@@ -13751,6 +13983,10 @@
     "1.2.1": {
       "sha256": "6b7ca532b23a518693fdd57c2ebadd569f8c761ff318e97dda587dbc216c38e3",
       "url": "c0/de/c4e8ec02d8cf008cf15bc09e8c2531f82bfa58bf86532dbe8f5e5b64c211/mooda-1.2.1.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "2d470079b3d4227728621f1d88ee7b441825e955c16921857518bde1e66fbf72",
+      "url": "e8/1f/0b21d91ec695590d1cb6f1aa711d0379e63c9fdd54a802aafc7b8f5463b2/mooda-1.3.0.tar.gz"
     }
   },
   "morecvutils": {
@@ -15279,6 +15515,148 @@
     "0.1.36b": {
       "sha256": "175b8aae37dfb273f957cd73818840961a4d6a6cc938299addcf408766e8267f",
       "url": "d5/c3/953d5c4b98db1851bee1c9a912a76336106f0ff578a3a23c250e2deb45a8/pandas_ta-0.1.36b.tar.gz"
+    }
+  },
+  "pantsbuild.pants.contrib.mypy": {
+    "1.4.0": {
+      "sha256": "1b18e0c3b4926ca98d604abafc1f84c9943c18c896f431e8b8f08e8439b052a6",
+      "url": "8a/dd/ff57ce2073143471a017e9906be6ff159af9ea25d458ccf0f2e7731a1fb8/pantsbuild.pants.contrib.mypy-1.4.0.tar.gz"
+    },
+    "1.4.0rc1": {
+      "sha256": "2d7397100f7269313958839ff03552f67e38cf9e3e175bf950bd91b7f7758f37",
+      "url": "dc/bb/25d06275fd5d80a556942de469ec6001709ceb60bbde565648a02d50d85d/pantsbuild.pants.contrib.mypy-1.4.0rc1.tar.gz"
+    },
+    "1.4.0rc2": {
+      "sha256": "2feccd644bbef9ae4f7247ac1c3cb1fbeb6d5b3a2e23b460123004aef2a49f26",
+      "url": "10/d0/7d91aedd558393e247ae148231083fbbf72f3394dec66542bc619a6031fd/pantsbuild.pants.contrib.mypy-1.4.0rc2.tar.gz"
+    },
+    "1.4.0rc3": {
+      "sha256": "9361d2409104c1e1763615965b6baaafc51d83a35af5caf2dbd73ccb0e54cf00",
+      "url": "15/40/4e5f2de5c363873e5763d7a9d6e71886470b0344ddb4aef3c2dfb85015d5/pantsbuild.pants.contrib.mypy-1.4.0rc3.tar.gz"
+    },
+    "1.4.0rc4": {
+      "sha256": "144c12a912d9187597abe75424b5374f6a7ed140b42c451e08ca465ec05e3301",
+      "url": "1c/7d/2b76112091efee9981b5689ebf875d735bd6c0cc3f082afa4a6177d58c59/pantsbuild.pants.contrib.mypy-1.4.0rc4.tar.gz"
+    },
+    "1.4.0rc5": {
+      "sha256": "d5032bef9897b48034cf14cb998293e511bf9aa0d843b6229a9d1402cff3108e",
+      "url": "96/1a/71c30ed0e05e74a4e2b942870b63d01c787ae27d60d6e78f80e48911a8ef/pantsbuild.pants.contrib.mypy-1.4.0rc5.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "3990e6b55068d9b60e28fccea099d329fb786626e09838c9de8c23bdcc3db29a",
+      "url": "45/53/e388cb25ac5abc32e9803b273e43f3ca9c2ca1be11a8d8a8b1fa8cd334dd/pantsbuild.pants.contrib.mypy-1.5.0.tar.gz"
+    },
+    "1.5.0.dev0": {
+      "sha256": "57557fc6670c34c39dc1509101caab4524da6d44cb534f207c7e23a1f994b1ce",
+      "url": "fc/06/cc2c01dc7b5760d02d46b2fe7d5457d067b53d0368379196da35e4bfe13b/pantsbuild.pants.contrib.mypy-1.5.0.dev0.tar.gz"
+    },
+    "1.5.0.dev1": {
+      "sha256": "04bd1acd12d25db880e1645396180fe5c86899c2f0e5d06e2bcf77b7b55a5073",
+      "url": "8b/2d/cf32a9409a9350081555db6570317cc4c0d99c62bd607f475017e4ccfe4c/pantsbuild.pants.contrib.mypy-1.5.0.dev1.tar.gz"
+    },
+    "1.5.0.dev2": {
+      "sha256": "7c7e188774b76f96d9fe128f6db6b8b8d24a16ad55be08a6558c6e30cb11e904",
+      "url": "0c/13/03d68f6ec542f229345211ef7bc59a800eb357875a4909347f8462cbcb72/pantsbuild.pants.contrib.mypy-1.5.0.dev2.tar.gz"
+    },
+    "1.5.0.dev3": {
+      "sha256": "189b810007a056a7676d307c5f87d6fbc2b4b29e3be7732d45a17c724f7b7a27",
+      "url": "1f/96/91b6150538c6242062a69b5d4281b8c1deea3fdb39a52e47dd9b49bd3d7a/pantsbuild.pants.contrib.mypy-1.5.0.dev3.tar.gz"
+    },
+    "1.5.0.dev4": {
+      "sha256": "80da5d1345a104461048351b9a361a5cfa5f7ef0b373a910bba6898d1f0a8a9f",
+      "url": "b2/a0/89f827011b7e0c9f00d9f3c529f18510b36b8842f9562d720f3c4823db81/pantsbuild.pants.contrib.mypy-1.5.0.dev4.tar.gz"
+    },
+    "1.5.0.dev5": {
+      "sha256": "942fc864bac3b48114699d4410eff7f55bdc9b41e2cc70740ef42350b38e489c",
+      "url": "9f/48/c17985bbae6bbfe7d19d35d809ba96b001e4a350ce5e244a9009d906e34e/pantsbuild.pants.contrib.mypy-1.5.0.dev5.tar.gz"
+    },
+    "1.5.0rc0": {
+      "sha256": "728651c1984d3d2d771a6a2450653f17607ce067631d9f0d563229296d9f8b59",
+      "url": "fd/d6/9fb8be8b61f81fa445002c565a00a8d0ee18602d8c8f77cec71a4d4022c6/pantsbuild.pants.contrib.mypy-1.5.0rc0.tar.gz"
+    },
+    "1.5.0rc1": {
+      "sha256": "c6c269c92032b367d24c439362bc7e155785a09f336aeecae18f27e369d73f99",
+      "url": "5b/dd/4152d4afdc1514ab0323b53d482aa7d685a53e17bbd8d396e8933529f624/pantsbuild.pants.contrib.mypy-1.5.0rc1.tar.gz"
+    },
+    "1.5.1rc0": {
+      "sha256": "6f3ad5fda1dbd7bd0b0d116900f8867277867157fd9535a003514d8f360614c5",
+      "url": "2d/27/24c3893c6108efc752a3833064314da6414e6ea1fb5b6a990e68e37231b7/pantsbuild.pants.contrib.mypy-1.5.1rc0.tar.gz"
+    },
+    "1.5.1rc1": {
+      "sha256": "03bfbf76cdda6e22fd070d79d4ab5def667354a75bce4ff1134bf8ef5377d358",
+      "url": "43/4e/777f1406f031741885ca08dcb1e7ea8592d29d007dfd9ae386bcf43dd605/pantsbuild.pants.contrib.mypy-1.5.1rc1.tar.gz"
+    },
+    "1.5.1rc2": {
+      "sha256": "3ce28298c96424b9cbee3242ca421696d981203dca5928f530091d3e3917e889",
+      "url": "6c/2a/6103f3075b746185772a532ea0262e9718501261d012e51ed5cf642ba65e/pantsbuild.pants.contrib.mypy-1.5.1rc2.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "dab71937cc0351d475d8d190ceacbef1d324e8d7d35148bf253f8e8a6defd62d",
+      "url": "1c/14/2845f9d6b01dca41996d65b3e9cff11629c8b79a8f8be448aad76558cbe2/pantsbuild.pants.contrib.mypy-1.6.0.tar.gz"
+    },
+    "1.6.0.dev0": {
+      "sha256": "e85e4f5bb01176e269e80b33a90b7d9542997b5489bd22563db8a344390fa48a",
+      "url": "0c/81/dd4d7836429755be6f9a58a31034662c6b017732c2773dfc27df7d652572/pantsbuild.pants.contrib.mypy-1.6.0.dev0.tar.gz"
+    },
+    "1.6.0.dev1": {
+      "sha256": "78d008153087b02c9cd79853d76470085c6297f3d7bb9fb0606dfa1114b75cb9",
+      "url": "77/04/3a29a8df69a88f9caad02e04a2dc5abc9b259887943f9dcc8b5482581394/pantsbuild.pants.contrib.mypy-1.6.0.dev1.tar.gz"
+    },
+    "1.6.0.dev2": {
+      "sha256": "437179e56db4c518bb888b6473e73e16ccf739544e53decc9a7d774783f3d2cc",
+      "url": "f2/ea/9fc5861425005a6edeae73b9cf197b2329a0956cf882772c4b218c5c9831/pantsbuild.pants.contrib.mypy-1.6.0.dev2.tar.gz"
+    },
+    "1.6.0rc0": {
+      "sha256": "5c99f60ec56e2c039cf1746daa07117fe45bb20c95856ccbf2b88f718bf96229",
+      "url": "ae/e2/fa435a8afceb49151ff5ffa5a80dc264937b951b06d3bd0a58ff28c6dc0d/pantsbuild.pants.contrib.mypy-1.6.0rc0.tar.gz"
+    },
+    "1.6.0rc1": {
+      "sha256": "ea66e84aa4a940494c794e5125b208ff7df8c7e349cedf69fd555a249ba2ee61",
+      "url": "11/f3/421054b85baa346128ee716f2e9932b17d45082deb40af27262f40dca95a/pantsbuild.pants.contrib.mypy-1.6.0rc1.tar.gz"
+    },
+    "1.6.0rc2": {
+      "sha256": "f011a368f66113004148183585bf314fce634c3b55ab7232cfdf39cfdd59737c",
+      "url": "f8/aa/e796e3daaf7c0cf527db1dca61602a1470866c22a73741e9e5fd0330d0f7/pantsbuild.pants.contrib.mypy-1.6.0rc2.tar.gz"
+    },
+    "1.6.0rc3": {
+      "sha256": "7c1d185050e193ac3fdb11d177661f1850f52ff372033849a7d27a5120dbe7ba",
+      "url": "74/8a/7c736b674a9f7833de69a7cab249ee026eb3eae8f1e0c49e8ef9523c7b7b/pantsbuild.pants.contrib.mypy-1.6.0rc3.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "95b2095e4e3a2e3b13b3f58250a6c949551a9266a37a2dcfc134dc2021928ce9",
+      "url": "08/84/c089c224787d195918f483594063851a4b37927173364fcaac211eb4cdb9/pantsbuild.pants.contrib.mypy-1.7.0.tar.gz"
+    },
+    "1.7.0.dev0": {
+      "sha256": "5389961c3e2946dddf0fd8f070ef3cec22158d1c95ba9d9ea03bb90b3ddb9095",
+      "url": "23/ce/10a80d0628ed09ee590e2dad80249031c00735b5b9cd99c0d6b99fdfdd56/pantsbuild.pants.contrib.mypy-1.7.0.dev0.tar.gz"
+    },
+    "1.7.0.dev1": {
+      "sha256": "44b32aa2a40d6b8185faa4c98a3103f0143e6131f3a8300e4f20de86b53612dc",
+      "url": "60/f4/5c37425d11057f152b29774568db341cc6d9801cebd4f679e3f1611ebbaa/pantsbuild.pants.contrib.mypy-1.7.0.dev1.tar.gz"
+    },
+    "1.7.0.dev2": {
+      "sha256": "dfe662fa6b05b5ae7fa98f09bb1e22f931fbb7f20426ed1f510dfa2240d8c11a",
+      "url": "08/9a/d0a288e354974acd887b4de198f3bc71edf0f345008252a5b06227666ddf/pantsbuild.pants.contrib.mypy-1.7.0.dev2.tar.gz"
+    },
+    "1.7.0rc0": {
+      "sha256": "40d53ff00320043e36c598ce120346079d7cef92d9b0eca33b699b073f0ad2cc",
+      "url": "86/77/ca9fba068ea97519e92c28aecb97d466acb236f481727bb05d46eae16468/pantsbuild.pants.contrib.mypy-1.7.0rc0.tar.gz"
+    },
+    "1.7.0rc1": {
+      "sha256": "f6acabd9fd0c0e7e468b7cda614df13e4f8d44a7027acdbca20bbbdb5007bbb9",
+      "url": "40/59/3fbe5bda42c95f8f43e7a2dfc8b04680d05ad0676aba66a423e735021541/pantsbuild.pants.contrib.mypy-1.7.0rc1.tar.gz"
+    },
+    "1.8.0.dev0": {
+      "sha256": "9aa04f4a8fda436b79916457a8974a4a35a2d9260fd3534ab7c78feab54a6a51",
+      "url": "87/41/b56d59f327c20e67f2d3f8f0dbef1f38feb17623e8b1e73b387241b826c6/pantsbuild.pants.contrib.mypy-1.8.0.dev0.tar.gz"
+    },
+    "1.8.0.dev1": {
+      "sha256": "bb3b35c256ef52329fa1d882e595784c901c387e9ccb54b1819688e239f2a684",
+      "url": "e4/92/c0fbb1d21fa55b8bd2bac701da7a9dac0ab86b887080e4cfdd2ca94de134/pantsbuild.pants.contrib.mypy-1.8.0.dev1.tar.gz"
+    },
+    "1.8.0.dev2": {
+      "sha256": "a85d09b72c56db2923d002e99a64f56972b37ceb175d39217d764763ce4c6bbf",
+      "url": "7d/ca/86fe0df4c36e8bb45da1df5b88dddbb7e47a532a8136a58fee8e32b9985c/pantsbuild.pants.contrib.mypy-1.8.0.dev2.tar.gz"
     }
   },
   "paralleltools": {
@@ -25381,6 +25759,16 @@
     "1.3.3": {
       "sha256": "e03c602cec7286e6538dcbe527261f2dfabbd85ee79dc03b3569e1ac5fc421a5",
       "url": "25/92/1cb68eec2f7c01b5fe7d03be6da128115f51eb3c0da9f0fc5f3e9cd47805/zort-1.3.3.tar.gz"
+    }
+  },
+  "zugh": {
+    "0.0.1b2": {
+      "sha256": "57d31ea2f5fea2129ff57814f4dcb664bf1fa283dbf24291779b0afab95e2ead",
+      "url": "f0/d9/2b880ab730340068178bef768ed90e519e4978a794ff41e3177f23f25d4e/zugh-0.0.1b2.tar.gz"
+    },
+    "0.0.1b3": {
+      "sha256": "84d9c5c02c6e12eac30cabab88f651b9d05bcc514d001d5c792a37b91607fb66",
+      "url": "97/48/6834ed6276036ef79928cac8e48cd3370550019d7877c117de2a1df349d3/zugh-0.0.1b3.tar.gz"
     }
   },
   "zuper-schemas": {

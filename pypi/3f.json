@@ -4140,6 +4140,10 @@
       "sha256": "e345d7509208a25fc233fbf3ec901882be8e6a0e86819f4b4c32eb520c8f2e7f",
       "url": "58/bc/f23dc48b3f093272401e925454168f4c8564d72c4145df7b510f9e1912cd/cpgclientlib-0.11.166.tar.gz"
     },
+    "0.11.167": {
+      "sha256": "ccacc83622c28e402a667d38d97a8dbffd4fdb308994c5fb459c9c3a9a05cb4b",
+      "url": "9f/ad/741cd6b91eb5189aeb5664d37109be6425f359d6cfafb63a0079f5f9df4b/cpgclientlib-0.11.167.tar.gz"
+    },
     "0.11.17": {
       "sha256": "302a934870914ce6d8fe40362cd29b5aa655033f1fcc97c5f03a1ab6b8dc5464",
       "url": "5a/47/09860abb0ad51d0a9f3ec093c75fbc7c115d59cc447cf9069aebcdc958fd/cpgclientlib-0.11.17.tar.gz"
@@ -7459,16 +7463,6 @@
     "0.1.0": {
       "sha256": "ae29c2cf97804583db60c72db4eb9919938aa063e0d2b6d237eebb94dafb135f",
       "url": "cf/f2/5f098b9cc76f43438754a9a7d692e111d826fba6d93b7fd5d4ec2c79a38a/exo-py-0.1.0.tar.gz"
-    }
-  },
-  "exomreport": {
-    "0.0.1": {
-      "sha256": "62a0697b69ee38d8be76b7245069f7612b0726b8d84665d6af77b5e610e9324d",
-      "url": "03/99/1b584f5677d71533c0509c11ccbbdc595019ed5012178fa9479c94908208/Exomreport-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "d2a5e03cd8870e8c76cb7355af90ea99909595a11fa41e249cc2370fbf49c257",
-      "url": "da/79/f0049ea8040971314f3706b5a11d486b8a194e40999f887bd0e80bd060f3/Exomreport-0.0.2.macosx-10.6-x86_64.tar.gz"
     }
   },
   "exporteer-evernote-osx": {
@@ -16473,6 +16467,10 @@
     "2.2.0a1587596443": {
       "sha256": "2def37a904eb94c12ff6efa98973a6438fe5daed525d5d67df358b90c7da671e",
       "url": "bc/02/82d3c53a0f4910eba726a37ff26ff508fc1634e2916adb759c1c61ec91e2/pulumi_aws-2.2.0a1587596443.tar.gz"
+    },
+    "2.2.0a1587599123": {
+      "sha256": "e3d35a098b5686c9b153ae62220935870f2b96205174ce1aae57edca7364b736",
+      "url": "ac/0d/eb0b9cdfaeddf84889c0fbab20fd74754dcfb6a17bde809857bab2c1b573/pulumi_aws-2.2.0a1587599123.tar.gz"
     }
   },
   "pulumi-pnap": {

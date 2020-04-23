@@ -7156,6 +7156,10 @@
       "sha256": "02d5a31a27ff1c3dce9621acb8f33ed92b1375116c83d3098ca84f3e18297b55",
       "url": "39/7f/e2cc8b70e20c6570180867ad1bac2daf97c43653f4a934262edd8a73e310/docassemble-1.1.13.tar.gz"
     },
+    "1.1.14": {
+      "sha256": "bdf817ebce623b0968b6a3f267550b460a7c63e819932a2819c74613533d95c3",
+      "url": "be/dc/7bb3df61235c2525a4d6e5aedd6719e0821ed1e251dc51ecb5a6f15ac2c9/docassemble-1.1.14.tar.gz"
+    },
     "1.1.2": {
       "sha256": "02a22ab02403eecf93b7955a5443d8ca8b0f54debd50d63dc0b9c997b25b6b39",
       "url": "a5/57/e8ce06cd8a4ddaf0eff22fc402d7577990780adb9becd7f9505ab4eb4bfc/docassemble-1.1.2.tar.gz"
@@ -19745,6 +19749,10 @@
     "0.0.1.dev30": {
       "sha256": "72e334cff3ef2e1e4f15a095bf9dd6d1d6cf2f1717411bf1e8621a5687a430b4",
       "url": "81/7c/589b78d1753b0e347cf4c2b8a9ac84a2b9105e79d535ab865757bab42729/redpatch-0.0.1.dev30.tar.gz"
+    },
+    "0.0.1.dev31": {
+      "sha256": "133520a1e9f879bc8c45c6103083baf99fa0426c40af52c983f1a2222074df7c",
+      "url": "ba/14/8cafe8c8d0a4215de3f09da7939f07c7c136f22be9e666eea302f46b7280/redpatch-0.0.1.dev31.tar.gz"
     },
     "0.0.1.dev6": {
       "sha256": "95909a1dface7f58db5628baba7511c5b8853d87a5dfd4ecfd9a82079421a92f",

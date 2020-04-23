@@ -13782,21 +13782,9 @@
     }
   },
   "kucoin-python": {
-    "2.0.2": {
-      "sha256": "c18c11e21fd2e4b1c7ccd5db1652ac02070de74b54f9095f9765915e48b75797",
-      "url": "9d/67/c4d3c31473e9456f0849c31205b026c45ff14ff7454d209e34ba0062054f/kucoin-python-2.0.2.tar.gz"
-    },
-    "2.0.3": {
-      "sha256": "ca1d155572408e2764a165e239f38a286f4dfcc98fc9d12e88bf138fe3cd88fc",
-      "url": "ee/ce/4609775d522e524077ea5c234f1b255faa77039338797dc48fb8019b4114/kucoin-python-2.0.3.tar.gz"
-    },
-    "2.0.5": {
-      "sha256": "121ae1af1454d908aea6e14f5f458240ace0df7a359682a8c7996a59633d1e8e",
-      "url": "fa/0d/328577da539e7031a676963ac8de3af9e2ab5d047e579e7443e836364b30/kucoin-python-2.0.5.tar.gz"
-    },
-    "2.0.6": {
-      "sha256": "37ba76cf408a535609397ac239eb09a0a6ecd269d6500fd1e2bb1252b0a4c424",
-      "url": "3b/00/6110b2df454ca054199f981ed9731a1f236c3e48a85d214f5671d031bd1f/kucoin-python-2.0.6.tar.gz"
+    "0.1.0": {
+      "sha256": "e4eecfe570718a1a778803f42ffa2cb06a26b9df5104990fd0b677becd9eca70",
+      "url": "5c/6a/8e57deb36d66b1f82d05e2d396c84741231a5168befb4a47b1df3e0447ef/kucoin-python-0.1.0.tar.gz"
     }
   },
   "kutils": {
@@ -25995,6 +25983,10 @@
     "2.1.4": {
       "sha256": "9251e73b844422b835f4f872cf104df2a36c484399d374851428e399809aef6c",
       "url": "5c/ef/7421e13c0d7f285cbcc2e24fafa429776c49873938c59e253161eb0281a4/youtube2zim-2.1.4.tar.gz"
+    },
+    "2.1.5": {
+      "sha256": "38c3e08ddc41fcbfcd61398e9f649a08859fc2e1c433393de6b29f8c1d69761d",
+      "url": "5c/da/188f19703d7e3e7b4f2d1e56418296bac3fcca414891f93cf47779e1e249/youtube2zim-2.1.5.tar.gz"
     }
   },
   "za-parliament-scrapers": {

@@ -2335,6 +2335,14 @@
     "1.4.8": {
       "sha256": "0b076cca3f973ae653d0e169a1ab027d642e07798241866ca06f6dedcfa742cb",
       "url": "9b/34/5184a654584fa2c6db7bc645b91135b6128603cabd8ba384126717ba76e1/comptests-1.4.8.tar.gz"
+    },
+    "6.0.2": {
+      "sha256": "9e2502697ad0c6c5db0d099bd13888d6d1e7bfc26af69153a04bdef2ef973ee0",
+      "url": "28/17/b8ad0ae2414ff128974ae996c448d74a985bd192b1464c166939dae55c53/comptests-6.0.2.tar.gz"
+    },
+    "6.0.3": {
+      "sha256": "6a9902cbb50c1c747a21ce842c13bab15e520a985fde9ced8f2967011c2be24e",
+      "url": "79/b4/6040bd2d68aa5e23adc71215efb73570dd5f6ab3e5dfcf00419d07cb75fc/comptests-6.0.3.tar.gz"
     }
   },
   "concordancecrawler": {
@@ -26059,6 +26067,12 @@
     "1.1": {
       "sha256": "064635430975dd512ef45fef39eef8e410cdf62a2b44cc18e8f9b894e1839078",
       "url": "d0/68/7ae0636c6a5dd2e539662d7cfa23b7f6ceb0cda0ad34dd34bd1fd8e31fc8/zohoapi-1.1.tar.gz"
+    }
+  },
+  "zs-hello": {
+    "0.0.4": {
+      "sha256": "e551a1ec401cfe52627ce2a42f9dc05d971469f60281d430b5ca23c8b20555d8",
+      "url": "8e/2d/6ac931df1848ac5c199206209d04616db6df755d28bcd5f01d3284e0dadb/zs_hello-0.0.4.tar.gz"
     }
   },
   "zscore": {

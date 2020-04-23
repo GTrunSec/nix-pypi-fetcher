@@ -149,6 +149,10 @@
     "0.2.3": {
       "sha256": "99bcd46e8cc6bb5aadecc14af98ecc88607e0bc3ca2a9623d78975a2ef6d240d",
       "url": "62/22/64993533f6a168bd5d1cee70ba73240986793e46d40f136bd89d8a0caaf3/a2ml-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "0b4bb4f4e18e964b546895d06d7f4064550cee2bd52471bd9dc7b5ff1dd466e7",
+      "url": "04/af/eab5a6cc7ffeb904b172ec430657745e0f0acb12ff500cebc943982c2271/a2ml-0.2.4.tar.gz"
     }
   },
   "acpi-backlight": {
@@ -4221,6 +4225,18 @@
     "0.1.0": {
       "sha256": "7807b6737d70590bb077b88c6c8e7559f4ed9ccd666e41b2830c5af6cd93af5e",
       "url": "67/1c/cc7053c21d9bdf6fea93e40ca4a51d67fd168aef9d72707ab918aa53bea4/custom-django-auth-backend-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "3a21e6844686447b332df32f251b6abc56e0aea66a2b4c3bec6185a5ca7b6bfb",
+      "url": "8d/bd/68aeec544d1135fa2a5c77c66cc67123786fa6e8ebfbc2ee5c0c61d807cf/custom-django-auth-backend-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "deccb011e361b20f615f9ea01710a08195ea6e0b8fdefa3969f72a44960583f8",
+      "url": "22/46/d2ad010ddde5ca97aff7553cf11b9650d77c464de74531386ffb3b0b874c/custom-django-auth-backend-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "c482ac649e5aa4e53bb7e6fbd83476c8462dac7ce728c7d35cbdc59facc16a82",
+      "url": "fe/8b/d8f455536fa1adae8330fb6ba5ee40106bbccf1658868cc164fd6c1dbae3/custom-django-auth-backend-0.1.3.tar.gz"
     }
   },
   "czml": {
@@ -11371,6 +11387,12 @@
     "0.0.1": {
       "sha256": "d58f8a5e801de61de2a151c821da7b841a50219afc5fe8616daf65886243845f",
       "url": "c0/cd/f9ca112fda1136c7dd8a65fe9c92655eeae76f47b98692fa40fea5b37552/microwinebar-0.0.1.tar.gz"
+    }
+  },
+  "milad": {
+    "0.1.1": {
+      "sha256": "ea7139debf662244c3a1a490ccaf545ee4cf4bb5530f85b161421cd1da58b513",
+      "url": "46/fc/86fb49166410fc5f71cafa2ebec5deee70baad3e25ecf5635b73a8ee2a89/milad-0.1.1.tar.gz"
     }
   },
   "mimeprovider": {
@@ -18717,6 +18739,14 @@
     "0.6.1": {
       "sha256": "043e1ad5b391e4d19c5d35bbe07be06ee4638364e58a1164e5acaecaf3d441b2",
       "url": "c8/ee/dead5686fd4b00ab25ad1a5b87513470a2edb5ba3be3b1e716b32a63b266/python-mirai-core-0.6.1.tar.gz"
+    },
+    "0.6.10": {
+      "sha256": "26239994e6c801a555bb917c940cb02bcc6f403c6fc0fc21a45ff9b17999ba10",
+      "url": "09/bc/d5fb6d5fddb2d9e29d2f32a3ec4ddc37f3fa426ba418ae1d6e90866a9dfd/python-mirai-core-0.6.10.tar.gz"
+    },
+    "0.6.11": {
+      "sha256": "11255ad897560d85829f9087e0d3e4e0bbf71df55a2de002bf1c9acd47c90082",
+      "url": "8f/61/89e52b4a9aa9515cd1330783dfd8255fdb9bbfcc0396c773f28b7f3041bf/python-mirai-core-0.6.11.tar.gz"
     },
     "0.6.2": {
       "sha256": "6df3ebb37f36c2ee828b6cf2b6b852a698fae1798bf73b4260a98c53f784db22",

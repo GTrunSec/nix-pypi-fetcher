@@ -6668,6 +6668,10 @@
       "sha256": "cf537f655f23045dd478b0d472a30d195c98451fb69080b4871f48260d48d705",
       "url": "af/9c/69fffbfb38ca0773e80a91d96c738dd4752251d3e30d9a9e23e6f263576b/dmss-api-0.2.10.tar.gz"
     },
+    "0.2.11": {
+      "sha256": "1ba0c3cfb0b4b6b70416267b6cf3d41493ae6f301b9e50ca2dc6ef87be78a115",
+      "url": "56/19/03ba53141899ac26341b8ec1544c17b69687355956bf27dc96d65f7eaef1/dmss-api-0.2.11.tar.gz"
+    },
     "0.2.2": {
       "sha256": "14a30d31d4ed86661c2b3412cae61e48471b34d3818120db4947d3cf04648ca1",
       "url": "75/73/fe9c8a3e7e7c8c96780550f352519507b7448bd18a2d5eeb37e83eec0396/dmss-api-0.2.2.tar.gz"
@@ -9097,6 +9101,10 @@
     "0.4.2": {
       "sha256": "37be8cb32abd7111b9d95ce0b1e762e195248e7d1193cbaea271ce08a77db2f3",
       "url": "c6/29/b1cb14923d387cb8bfc5ff5df3feb036f6bc135195a73254ae95a97654e0/gluonts-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "e41651aeacdc633315a9e7bb17736db0debc871c8dd81ccbe68d8805ad697520",
+      "url": "2c/c9/df967ccb2102d491a220f19ad3cebbedee12d6100c4660fc424743ef5b2c/gluonts-0.4.3.tar.gz"
     }
   },
   "godefine": {
@@ -11733,6 +11741,12 @@
     "3.4.2-4": {
       "sha256": "2103f44ac006dfb051868b69c5adcef88d9568c1aceaaf79b43626731f010e6d",
       "url": "fa/2f/5a416929462ec90dee76b0053132f753e11fa8517fbe77f887f9a55057ba/micropython-contextlib-3.4.2-4.tar.gz"
+    }
+  },
+  "milagro-bls-binding": {
+    "0.4.0": {
+      "sha256": "4df342030a9fa30e5a12b76976a4445725966bef4f86c513aeaddb404abefb2f",
+      "url": "b3/db/06872741dc14f40c4c10d93218e45c0a409aa80a85cc38cd7bb1c167693a/milagro_bls_binding-0.4.0.tar.gz"
     }
   },
   "milla": {

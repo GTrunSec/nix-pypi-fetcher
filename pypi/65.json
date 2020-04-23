@@ -13147,6 +13147,10 @@
     "1.0.0a3": {
       "sha256": "418f5b556979e8b4a0193ded2888f6f69c745fffa02514604388d105501bbe30",
       "url": "0a/a3/bb5b6397265ab65c8f674cf80dc89bf75c2aee8d79f44fdce97c98efd408/maboss_test-1.0.0a3.tar.gz"
+    },
+    "1.0.0a4": {
+      "sha256": "a5c51cfcba5060778d1305444d24fcce76f4a755713f2842dedf82e91a892c48",
+      "url": "d3/85/a26d82505e85302f6aba0034892f2fcb1ea9f0a7f890a2b2e9b4bfe748cb/maboss_test-1.0.0a4.tar.gz"
     }
   },
   "macss-tallies": {
@@ -16351,6 +16355,10 @@
     "0.8.0": {
       "sha256": "32c48eb7b2c8567059f2043a9f13afe74781d82d455dc46e42a17169ea81e43f",
       "url": "ac/0d/615c0d4aea541b4f47c761263809a02e160e7a2babd175f0ddd804776cf4/params-flow-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "463d15e59868ac84841a710ea364a61351a1133b874e99db737c2f6dbfffa093",
+      "url": "9c/dd/f873dd2fb61103a0415cfb7b9af366228f3069bbef1b6d9ae4f2b8d5e717/params-flow-0.8.1.tar.gz"
     }
   },
   "paunch-dir": {
@@ -18343,6 +18351,10 @@
     "3.7.1": {
       "sha256": "0dfa110a34a62ec0d07439a9ed903756ee18d27d176c473c9a69e4a4dcbc8377",
       "url": "74/27/02dae19a9f27843301da3670c42e2a21e0c832f12d861ed08fd832b9d003/pyannote.core-3.7.1.tar.gz"
+    },
+    "4.0a0": {
+      "sha256": "c75d75f27ce3171c53821acbf551a7fcae7f8f160baa22b27c8595c45bff899d",
+      "url": "0d/17/e67d755560a2849d3fc1c145348c89d5ea0b1396b5033ad5a12a6d36d53d/pyannote.core-4.0a0.tar.gz"
     }
   },
   "pyaqara": {
@@ -20329,6 +20341,12 @@
     "0.1.4": {
       "sha256": "bc1d936462ead3c32ae953b8373e82428637cc4451a225259b42810acc4679e9",
       "url": "b0/cc/c3e930e8213cf1c99b8fbab07fabc3c688a8f177e29ab8998625cc4568fe/pytetgen-0.1.4.tar.gz"
+    }
+  },
+  "python-dashcord": {
+    "1.1": {
+      "sha256": "276a3e899064944b3b14557c57febf619581e7d5e91ad877281b5e5bba4f852a",
+      "url": "8a/2f/8c3a7186354275b0d39db2dde613f411d34dc5903d9969de80a625bf160a/python-dashcord-1.1.tar.gz"
     }
   },
   "python-frontmatter": {

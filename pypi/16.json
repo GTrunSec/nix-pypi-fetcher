@@ -510,6 +510,10 @@
       "sha256": "2eb963e48737217ca8b9b68fc0ba1c672b09fb9f078b27dde05c7f7b2083cae0",
       "url": "06/2a/03b57d5331bf2c7150bc2af8716fe4ba21695d1633c445aa2d971fe9f788/aliyun-python-sdk-push-3.13.0.tar.gz"
     },
+    "3.13.1": {
+      "sha256": "6a313dcf88971693f8cac6fde0ce194244d2cce25c274f8ac3235486ea4c9134",
+      "url": "03/f8/8ac3215dbd0a9d35d433a8eb646b0723d03416a30f8bae773991b0b3cc9d/aliyun-python-sdk-push-3.13.1.tar.gz"
+    },
     "3.2.0": {
       "sha256": "e6c68902e1c40a97695cda51751a646796961f748bd31d60026bb3602fadc016",
       "url": "e4/4b/0a79478bd9670717a91915e3afc9fcbd36c56830d1aed30aa862e852c8d0/aliyun-python-sdk-push-3.2.0.tar.gz"
@@ -10475,6 +10479,14 @@
     "0.1.103": {
       "sha256": "f9361cebdc12f65c20105d0f497a3218d8a8c38de29f2c0b654755d9f9f67ee7",
       "url": "9f/a4/38bdfc96c28a7108abd065f66ecba5c8aee996be52a884e7a0e175e47642/koverj-0.1.103.tar.gz"
+    },
+    "0.1.104": {
+      "sha256": "324355b15c72850696414da74938e9015baf5d22ae080cd71861620dfcfea53a",
+      "url": "bf/36/7fb10428ce652f7b0cbb6bcbc35b8d1fe5e314dcde610d0b862f2cf3463e/koverj-0.1.104.tar.gz"
+    },
+    "0.1.105": {
+      "sha256": "0aa4f86b5ecfe3b76edaa7f9a7c70bea82ce5ba6b9579a879fb4175eac116e53",
+      "url": "a8/b4/c15dba0d52d6e7e1d36105f493edea3c75e1c4f7c0dceff4afa373d7588c/koverj-0.1.105.tar.gz"
     }
   },
   "kstoolbox": {
@@ -22503,6 +22515,10 @@
     "0.6.6": {
       "sha256": "3a7eff7a4881a6b07617b214826b3ac8b789db2d676596e99440d14a654b39c6",
       "url": "02/96/8fcb38dd497d57dfb19a9a1776165c08df113cef33f243b7682275bafd66/vf_portalytics-0.6.6.tar.gz"
+    },
+    "0.6.7": {
+      "sha256": "3e87e7e5190dceef66056504504732660caa7c944879a7e0552884cfe36b9259",
+      "url": "8c/2b/e8108e17ebabfb45741ae3981e1e288a568be8ca7a48b329d8ea47b699fc/vf_portalytics-0.6.7.tar.gz"
     }
   },
   "videodigest": {

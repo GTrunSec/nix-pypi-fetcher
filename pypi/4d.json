@@ -20182,6 +20182,14 @@
       "sha256": "0a7ea8e1635d3a53790123b8dfd4aae5ad4adde0beccf07f03707c7cfb5eb23a",
       "url": "f6/5e/650e20f7dced17d20abdb9ff316d3f2d84c78142402dfde31424acfed9ab/pymedphys-0.24.1.tar.gz"
     },
+    "0.24.2": {
+      "sha256": "fab65161c1ee5c181c1f398f2955693d3650490502b5ed838e333e1e519b6ee2",
+      "url": "01/f3/860bf502bc083bf86b91ea9b4d6f3eb39480974da81b4dc3de66f3b5ca87/pymedphys-0.24.2.tar.gz"
+    },
+    "0.24.3": {
+      "sha256": "e709a5541ff5eec6a69f22eea06cbe9dd764652f11cd116ade3d26800da75f27",
+      "url": "94/86/cae54551e2b401248aa7fdb861e2a3c5dfc3af71f5168046c603b901e532/pymedphys-0.24.3.tar.gz"
+    },
     "0.3.0": {
       "sha256": "bdc8a6383502b825f3abb2e611cf0dda3894a1efc21ad0bee2b5ddb232251604",
       "url": "8f/0a/6b85949aea3180425ca78857584494b6ff8e3b62d7fc8c19578a53d557a2/pymedphys-0.3.0.tar.gz"
@@ -21167,6 +21175,10 @@
     "0.1": {
       "sha256": "9d6933a63d69dee7f93accdf9560ac49a986eff2aa81b81e9a0d580ac9bfbdc3",
       "url": "7e/02/8680db467806dfe62725b1ac4c2bdc68f6c07f43e9ac65a71e2d4541bd82/quant_utils-0.1.tar.gz"
+    },
+    "0.3": {
+      "sha256": "6ab2214e7e359afefc0957c96529984badd53a4178e350cedaa382c137a9bdfd",
+      "url": "21/fe/96d8cb2b95ac985c73caacd3e790be7d774fedb5153412f11cb3cd5f551a/quant_utils-0.3.tar.gz"
     }
   },
   "radical.pilot": {

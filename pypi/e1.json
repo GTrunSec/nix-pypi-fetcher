@@ -5766,6 +5766,14 @@
       "sha256": "028b1245575122d9f9866adfc8ed6f1b05812226b625a3acbd65a379db108f0a",
       "url": "a2/39/96bcd7955929ec1f653e7b676d1c942cf35116f521bd8d1afa7b4a9201e3/boursika-backend-lib-0.0.1.tar.gz"
     },
+    "0.0.13": {
+      "sha256": "bb7ed8a05c45286418e5226e597932e66655064be95bc290dac67c40a053c45f",
+      "url": "cb/f0/a8d63003b7b9aced03460ad64be8827bc9c1483894f4ef45bf83e7c59c44/boursika-backend-lib-0.0.13.tar.gz"
+    },
+    "0.0.14": {
+      "sha256": "14105ee125ac91ccf80791e585f06a4d65fb07bb3fa2fe876bccf7d6235536e5",
+      "url": "14/80/907484d8667e2c4a91ac9d16f0b9c5cab0706ead46bd5d3084ef0ade0061/boursika-backend-lib-0.0.14.tar.gz"
+    },
     "0.0.2": {
       "sha256": "cded3e8706966e2cdae50e58e506d51a565b69ccd8738ed666c386c0a0facd40",
       "url": "e3/24/37c45190ff5b654c42e7c5150c5be8f3214f3b89aa637b97beccd74d7153/boursika-backend-lib-0.0.2.tar.gz"
@@ -5773,6 +5781,10 @@
     "0.0.3": {
       "sha256": "ad1314e03b08b532cc8b482ce527a35021266b6e691b20c42c60c6aa908bec2d",
       "url": "bc/01/8f83e8eac376b2fbd208b6bfb6c79ec0d79cc7dd867f9aa249b2dfae5264/boursika-backend-lib-0.0.3.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "fc74050890855d235f9d8f404c858ef5572153554dd6ec708c4ce7108601e265",
+      "url": "84/8c/efdf4e4f4aca804e9defb3c6617ad572ae1a4bbd16ea351fab814dcf8230/boursika-backend-lib-0.0.9.tar.gz"
     }
   },
   "bpdiag": {

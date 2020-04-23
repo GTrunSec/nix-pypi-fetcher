@@ -7205,6 +7205,10 @@
     "0.4.1": {
       "sha256": "e3adbc142e7bed60e7c7116620bde41ad8a3e078a4debe5a72e21da6ef86dc18",
       "url": "34/b3/f5b629d54bdd42029909680a61178489043b13c0ae6ed5463eec7fb2f853/expandvars-0.4.1.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "778f8e806702cd9e86241793501e0bbbe0db23468c9511498902b3a80b00a7a0",
+      "url": "86/59/d477cd91c23820e0fea7308570cc2db65bd1b95c3ea975690db132da431e/expandvars-0.5.0.tar.gz"
     }
   },
   "extproc": {

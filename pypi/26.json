@@ -5675,6 +5675,10 @@
     "1.0.6": {
       "sha256": "9d68be8c42ce9da06ec8b162e772e527db23f5f4a4a69dd1999c392225d2194c",
       "url": "04/a2/0be7e2bcd8398c351a9fc86ea5774a168cc7d481c8ca77010e03e7fb9dbe/datafushion_plugins_sparkpy-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "568db029821b0956b6187127098096c54154de13f2085305365dc2282322b885",
+      "url": "87/23/f15fd6a729dbf61acb1b77d6e27d182ad3f312d86d67c5a20656dac31d24/datafushion_plugins_sparkpy-1.0.7.tar.gz"
     }
   },
   "datetime-interval": {
@@ -6953,6 +6957,10 @@
     "0.1.12": {
       "sha256": "d63df4b148d1e8af75e0b344e7b514188dfe1ada0fdcee9fb4d9f61ffe710251",
       "url": "4b/50/eb91b05e8161b7a770d42a49687c7166b8b81307c39988f0ea0c7c0c1c6d/djangocms_plus-0.1.12.tar.gz"
+    },
+    "0.1.13": {
+      "sha256": "1610c18666ff193a8ae4ca2acb8ba878c173bc119094e1db0aa54b5a00ba0e2f",
+      "url": "26/25/e6d6a0aeba70e887476fe1d30a1b1282beabcbf283b09efb0f1de0fbf63c/djangocms_plus-0.1.13.tar.gz"
     },
     "0.1.2": {
       "sha256": "32f88755a32226b1adf481781f7a8ff785f02fce397d5125d1f18b8d7bc5ff61",

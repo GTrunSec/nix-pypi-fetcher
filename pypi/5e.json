@@ -16767,6 +16767,12 @@
       "url": "b0/24/61a7fd846ecd6dc35318d01f38050476ea89708c2c557878ef6516b8e7d5/onnx-caffe2-1.0.0.tar.gz"
     }
   },
+  "oomnitza-events": {
+    "0.0.1": {
+      "sha256": "b40a99c93d78aa1976f98b343360fd708c53d0d0f726e5ebf5c173e98005b650",
+      "url": "6f/a4/2edff811dfe1d14f884b2aebe85dd45bc9fe47de1e3a0f16b43d091ba9a2/oomnitza-events-0.0.1.tar.gz"
+    }
+  },
   "opal-azure-cli-redis": {
     "0.4.3": {
       "sha256": "c236adcb731391b286cda9da052083ce1b519b86ead346e6bc1a24dd6c47c3a6",
@@ -24069,6 +24075,10 @@
     "0.32.0": {
       "sha256": "cc736865ddbda24b158be11e4048ebb1faa85079916f295bdf9b2dc2e82ab810",
       "url": "7d/55/54c1fa8e94e2157f95cb63cf9f1166728c0be806c1bef6289bb9135787f6/toucan_connectors-0.32.0.tar.gz"
+    },
+    "0.33.0": {
+      "sha256": "49154adfd37e79e8b2887762f84dbe63826b3c32e7a308e5e7235f8f8c6c740c",
+      "url": "19/f7/ded92f7dd19622573d3eb812cb587d13ec74a75fe7f6fe2d84f7b4815485/toucan_connectors-0.33.0.tar.gz"
     },
     "0.4.0": {
       "sha256": "9ebb3596189ef68fb4bab99d6d60875644da5692e9f9045cb43a4b6b9e831adc",

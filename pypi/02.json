@@ -207,6 +207,36 @@
       "url": "44/24/40bfae48531e777c21676606102355e70e5855a47d648d84b2779639bd2e/aliyun-python-sdk-elasticsearch-3.0.8.tar.gz"
     }
   },
+  "alloy-ml": {
+    "0.0.1.dev1": {
+      "sha256": "b664f2ddcce04dffd555a37c13e1d5aff0a65180eea0ad21849e638b365cc78d",
+      "url": "47/e5/cefa9c1fa44ab3e41c108a4b6f948034b2ba06bc0b48f93172ca77a4981e/alloy-ml-0.0.1.dev1.tar.gz"
+    },
+    "0.0.1.dev2": {
+      "sha256": "10a63537f8583fa93f74e8cf45c801bc14c0db6150b6b8e07fc4e379ac6372bf",
+      "url": "de/bd/02266c3214b989dbb35cbf5fdc714bd875f02f45d1b364fad39ca01a8ce9/alloy-ml-0.0.1.dev2.tar.gz"
+    },
+    "0.0.1.dev3": {
+      "sha256": "49cd4a84590304567dd35f772528b93dc61c200c647545da38f5e1fd9e83f597",
+      "url": "5b/ea/f0f14fa75c34ba9f0517f97eac2e6fd9fdc57619e0b4e8c43f32a1bda467/alloy-ml-0.0.1.dev3.tar.gz"
+    },
+    "0.0.1.dev4": {
+      "sha256": "d24d8dab2663b7c2831c323869c9f42c834c9053ecc9fd03255ec014bc3a8b90",
+      "url": "d7/73/1cb18c65c24b12e71a30a43a0745180f4d8d6e1fb6ed992f41de83c5d67c/alloy-ml-0.0.1.dev4.tar.gz"
+    },
+    "0.0.1.dev5": {
+      "sha256": "d13f0dec095909331cb02b7299176bfc7de103e73aa1d02a38503d8abe443a5b",
+      "url": "a8/13/d16188f8abe86fb513016f7a5773e6d94ff88803a26db37e5e60d5ed4a7e/alloy-ml-0.0.1.dev5.tar.gz"
+    },
+    "0.0.1.dev6": {
+      "sha256": "b0d3d358eeca993219bc0b67eadd42a0fe0e75068981ea5548bec3a7a5ce077d",
+      "url": "69/91/b79137603532fc131be44ff6d8f591df62fbc2b35f0fb5f41b04695e6cff/alloy-ml-0.0.1.dev6.tar.gz"
+    },
+    "0.0.1.dev7": {
+      "sha256": "0029e0edbf010068c412267f5c18986f596c9546dbc79d3c91e400e441045b0e",
+      "url": "ce/79/f33ffdc07bdf7f5421f8465908951909628a03b6d3d3a24786d593cbefd0/alloy-ml-0.0.1.dev7.tar.gz"
+    }
+  },
   "alm.solrindex": {
     "1.0": {
       "sha256": "1934f32175b39abca7398c7f41af9806d8d4cbf8954aa753d99ba795d27a093a",
@@ -23075,6 +23105,12 @@
       "url": "17/11/1b08765fcf0b4f3cb23cc95352709ee1e1dbf5d186f6f6d4e8a7006ea44a/wcpy-1.2.tar.gz"
     }
   },
+  "webdavconvert": {
+    "1.0.0": {
+      "sha256": "8acdf756db276f91d3ae87e22927619853cff98fa4cb2170bde0384082db7869",
+      "url": "7e/2f/9f451832f18629ef4922d7b89841453ee95b5a238d994295e8049d9d7f9d/webdavconvert-1.0.0.tar.gz"
+    }
+  },
   "webstarts": {
     "0.0.1": {
       "sha256": "eddab0fba2851e9e1bd3cf277a4da15a4df84d8441e0a3f71daaa87981262859",
@@ -23687,6 +23723,12 @@
     "1.4.0": {
       "sha256": "479e689bfede01fc5924d3ba6cb070b87deec1c8703fb6fc5009840355f16762",
       "url": "ef/6a/5b24a534b65ac9c2953086dd90b34cec4b7d1acfb033d5881d01d511b6eb/ymci-ext-coverage-1.4.0.tar.gz"
+    }
+  },
+  "yqn-pytorch-framework": {
+    "0.1.1": {
+      "sha256": "ff3e4bef4c7957eaafe0a8f8ce349df272591c2169b90d30a5a4e55e36c94a7a",
+      "url": "4b/c3/8c29d6a4dbf16640e917871d1ba621424a6981e6e6a487d5aacde88ef10d/yqn-pytorch-framework-0.1.1.tar.gz"
     }
   },
   "yunpian-python-sdk": {

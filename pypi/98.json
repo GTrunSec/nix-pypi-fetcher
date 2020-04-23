@@ -12185,6 +12185,16 @@
       "url": "14/01/34383618b29b20618942aec63176dc04d61fb806b0d26914200099b6cafb/hops-1.2.0.5.tar.gz"
     }
   },
+  "hsfs": {
+    "0.0.0.1": {
+      "sha256": "61ba8e76581e9cc01030d5175ed93b8873e00f294c11df3b15d4b668d4871407",
+      "url": "b9/23/6d5169455c4277dd06c2d7f97d2599c8de961343ec90ea2393ce173d43ee/hsfs-0.0.0.1.tar.gz"
+    },
+    "0.0.0.2": {
+      "sha256": "fcc959609afb2099d57f7be1170866399f76e2838c6fbed9989ebf4645c6005d",
+      "url": "b2/33/9fd76813398fcb33bd09aeef5165d11091c2ed48c0d63948e58a19935f29/hsfs-0.0.0.2.tar.gz"
+    }
+  },
   "httpie-ntlm": {
     "1.0.0": {
       "sha256": "27babeec80be15ca497cb50fd9c4cbbd5a0a4c3bed207472ad6cc56fb79227de",

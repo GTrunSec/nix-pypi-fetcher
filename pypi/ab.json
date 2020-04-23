@@ -4739,6 +4739,14 @@
     "0.2.2.5": {
       "sha256": "fb1b36237af2006fd53f0891787505508120bdb151bde36fef613918fc096b01",
       "url": "ad/37/d4df435a9bcec085fd97c4c7ce10cd3abffdb1475bd3a16ecdf2ee0f0ebc/build-flask-app-0.2.2.5.tar.gz"
+    },
+    "0.2.2.5.1": {
+      "sha256": "e59dd97cc58181042069890e5bea72d0f4b73215c5b2b72e1a6acbabec7d8b52",
+      "url": "ad/48/e2379a57202189a5e4d8ab2577f9da750c2b6b2bac70e5097853027e93d4/build-flask-app-0.2.2.5.1.tar.gz"
+    },
+    "0.2.2.6": {
+      "sha256": "77393e5dccefa83e6630b9a6d79e667f8bff09b303e624e280d6de11397e841d",
+      "url": "25/1b/ab4aa27ce2d6f7c21dd691977ff2e7bf9ded67183f4ab1406f991224eb0d/build-flask-app-0.2.2.6.tar.gz"
     }
   },
   "bundleman": {
@@ -7331,6 +7339,10 @@
     "2020.4.22": {
       "sha256": "b796fc05881457c1fa14e8a8194b87897413ba37ca9296828deeafc75fd8c0ab",
       "url": "f4/cb/99b64d84183ad93ff285044229ee327e0e4b48165965cfa21856be56b35a/dagster-graphql-nightly-2020.4.22.tar.gz"
+    },
+    "2020.4.23": {
+      "sha256": "26220f03bfcd3ed16112823d08025db949bf94192c2446b64e2f6393894c20a8",
+      "url": "9b/b7/4f3b2ff88e0ed127615f62195daa042ad02a1a99b9baf926e3db336df288/dagster-graphql-nightly-2020.4.23.tar.gz"
     },
     "2020.4.4": {
       "sha256": "d335b636ddfc7f502e6a1870a420e646d6e347d1130160547f9ce1b47abe61b5",

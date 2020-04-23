@@ -6097,6 +6097,10 @@
     "1.0.4": {
       "sha256": "bbf3ba50773ada83fd6f5f6fa4b5af59e1b855db2da231f2c376a4656d95b804",
       "url": "98/03/f37381bf3b4a2b239ed82e0e44cf677fc97be5d012ebb85e4acd76fdf7f8/datafushion_plugins_python-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "c85bd98581a47b575051bf3a565e10779296f6eec73133c120eaccb881664e3c",
+      "url": "3f/e3/32355946db11c347b0e7f027f916507533fea3fb52e4a5390fe7fd830961/datafushion_plugins_python-1.0.5.tar.gz"
     }
   },
   "datagram": {
@@ -19771,6 +19775,10 @@
     "0.5.2": {
       "sha256": "914e587443ecc4aa0d8eab7cb467ea0c342d582bce6bbcf52b946392f06a870a",
       "url": "17/03/270603b7a698d4aa699eecf504710ab75da3fcb0f97d0a6219eed9bf6d68/qbittorrent-api-0.5.2.tar.gz"
+    },
+    "6.0.0": {
+      "sha256": "6f2fdec31fc85fbfd92e726c263a653b16ccec62294ae405b48f5cf0f7d9cba3",
+      "url": "36/02/332b4c5faf3f6ba012d81e95f3c6edee1a65892cd8e697f5424546c999ab/qbittorrent-api-6.0.0.tar.gz"
     }
   },
   "qcmaskingcode": {
@@ -23955,6 +23963,12 @@
     "0.1.0": {
       "sha256": "5a7b9baea763d6cd8a1f8d5bae8353614395377795c8c9462617a09a4f40ebc8",
       "url": "a4/40/d0898094a568315967a28a2765ca072f10f30c55dabf94980f27830fc640/udpcp-0.1.0.tar.gz"
+    }
+  },
+  "ugflib": {
+    "0.0.1": {
+      "sha256": "94b232a3cc2184a8e43ae4cc12051de67e4f49f34bf2797819be4595ec34354b",
+      "url": "fb/4a/558fe358734e5d7604c7028734878e6ff1e0a2fe70c580bc0008bfd7e802/UGFlib-0.0.1.tar.gz"
     }
   },
   "uliweb-ui": {

@@ -637,6 +637,20 @@
       "url": "f0/ad/ad3da0235692278fb5e267b23809954706e952e820c2d03a24dbec2181d2/Arghadeep1990-0.0.2.tar.gz"
     }
   },
+  "argrun": {
+    "0.1": {
+      "sha256": "d577706b1256822245d4845942a8e45ad56f513fbf9baa1a86df501e3d1f6d43",
+      "url": "2b/d2/72688607fc1251a4fb0d6dcee42c0b0c528b3c886e847bb48e315baf89b8/argrun-0.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "eb664a153304ab8877716f7adbb0dd51b17e355c80873d6503243e2db72acfc4",
+      "url": "bc/f9/71efb4a80cfcb9c708ac9e66b7d277579b15a0ec45dbfb615d82c62ecde1/argrun-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "6bbe2fcca90a75a1a63ffbaedd128424da27c912d3613967095050058070bac8",
+      "url": "e2/c9/4a9fce06a7ba3d44cddd7584e36a529cee18ba13ee5792f9962864c9b737/argrun-0.2.1.tar.gz"
+    }
+  },
   "arith": {
     "1.0.0": {
       "sha256": "72e3053b217a8c04b2c8d32186c4a54c146023b005f48edbe65f79cd5cd75ee3",
@@ -3950,6 +3964,10 @@
       "sha256": "33f953e03230595887f82881f1ad40356e1dee48ad39ad1ec1a2b80811c10eaa",
       "url": "a2/d4/3ae251b51c657e04f86003b8d6d2e1b52c9b2421ab4ceedb528988c2e173/dagster-github-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "73694e7c859dc71f7fbcd6232d44fb49efcc66f111ecaead94d96eaf0efafc5c",
+      "url": "7f/89/cad2ae503f06a415cb1a398fc3224e3866bca0147048bd0e6d6ea13400eb/dagster-github-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "30a11221c93eea50634947b40dc83e58dfa3d57f18135127f6aa712f01f02ef7",
       "url": "60/ec/95ba18a14aa62fea3d3385346e256fbc87d316981f642d00fc2717b005f6/dagster-github-nightly-2020.4.4.tar.gz"
@@ -4101,6 +4119,572 @@
     "0.1.7": {
       "sha256": "70bd2ecff3485261c36567e7cb08ebd2ca7ac50bd6a48652dbf1b3f6d0241678",
       "url": "dd/ec/e60b1d9addb3f0ca59c8af8a2ade1bf58b82a9b7d596b6245fed3eaaa4f6/dbutils_typehint-0.1.7.tar.gz"
+    }
+  },
+  "dcinsideread": {
+    "1.0.0": {
+      "sha256": "147d7cd9ad078e00fe32a1c00dbf0db2471e471859dc6d102447f69540f179d5",
+      "url": "ac/b3/b5179cf7d75c058fabdedd16bdbebcbace3043c62c8e207c236f544c07f1/DCinsideRead-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "ff172dde3913df294d7824f064d168e80d4cf365f21f079ab214bf07017c6eaf",
+      "url": "01/dd/c421836a94c4babb7bf1c81d37c2f5e4af5823fe26fe25cb8037dd6d87d2/DCinsideRead-1.0.1.tar.gz"
+    },
+    "1.0.10": {
+      "sha256": "77aee490e9d37ada52ec16cd49a729d1a5e94a8aaaa2ca8970ac8e0f3620dfc4",
+      "url": "ec/64/7fa604cb5309677fe1a4ec7e3b941947ad6a0a551560b91de8a4afdc3c98/DCinsideRead-1.0.10.tar.gz"
+    },
+    "1.0.100": {
+      "sha256": "0b43ca7fb255d31968147bfdf42f45cddcefde0fdb5b071ea7bd2d2ea09c1847",
+      "url": "49/75/ddf145e2e8a9b5b3f04d3b0eb53ebf06d2881135f548eb008780fa50f696/DCinsideRead-1.0.100.tar.gz"
+    },
+    "1.0.101": {
+      "sha256": "2ea0bef7e2f61ab8b23fbe5880610e5ac35640b42ae3673b5647dab3ff477681",
+      "url": "36/04/c5e9f8984c85660f5c249d70343c5e128e43dda4242da455bbc7bc90785f/DCinsideRead-1.0.101.tar.gz"
+    },
+    "1.0.102": {
+      "sha256": "13636fce537f33dc128280c8cb3f3a7a4c5b68faa51feab798528e84c54dcc80",
+      "url": "ac/26/fca6cdd177037d1c5ca6d792c7a759c02265026044c207f4ce363daa7b0d/DCinsideRead-1.0.102.tar.gz"
+    },
+    "1.0.103": {
+      "sha256": "d798b27ca7861d75306df13026decbc686d0cbffc6c0d3a30663010f1afe88c0",
+      "url": "80/ee/cf313263f68ff8cefed53c27cd43603ce9df742c7e9450f4b44a04757dc8/DCinsideRead-1.0.103.tar.gz"
+    },
+    "1.0.104": {
+      "sha256": "f7558719a84e5c42613884a325e88fb75bad0a162cedf89362bf79004f2c4c23",
+      "url": "02/fc/822d68d32f68f96cf01ee262a6dee6f13aee135d0c9e16223fbffb87bcc0/DCinsideRead-1.0.104.tar.gz"
+    },
+    "1.0.105": {
+      "sha256": "73f69c3eb5da24706458533b7c1299c34a87fbeb942d887850d1c9217fa72c53",
+      "url": "17/f9/53c7812505ccd5aa1f27e92e8739910b1a1a43c822e788f4e8ea995bd028/DCinsideRead-1.0.105.tar.gz"
+    },
+    "1.0.106": {
+      "sha256": "61c97035c06dcafd6ea9b9d16a6aceed28e48cb76220cc9575089ddf53de5b8e",
+      "url": "a3/27/9c91fd75002d93a9f7411e86b4e5de78fd8245170a96f9741db804c8e720/DCinsideRead-1.0.106.tar.gz"
+    },
+    "1.0.107": {
+      "sha256": "756e7cf57b98f0d890af0d44bcbbe2239aa5576cf53c8a63f9b6ff70faaba718",
+      "url": "ca/53/ffc5903dece58d97cbca2dc3a3a40d49f107087876fbbdfeedb4ba4156fe/DCinsideRead-1.0.107.tar.gz"
+    },
+    "1.0.108": {
+      "sha256": "bb64922f1a67de9acc32b671b60da0e24ffa052074d5e87b233a30c200e32a4c",
+      "url": "32/f6/845319b31e72b7981cc6b1119aca6906d3f6d8ce92283f3a2a2ccbf6f349/DCinsideRead-1.0.108.tar.gz"
+    },
+    "1.0.109": {
+      "sha256": "b894c448bcf5369bbdd0fc9b90fd8553dce184e0679efd4840382508ecb533dc",
+      "url": "07/89/a15f508a054725236dfde4cc70c1dd6701ee7c2d3471f5463fcc0d455e8e/DCinsideRead-1.0.109.tar.gz"
+    },
+    "1.0.11": {
+      "sha256": "10722a5335fa457e6d3fa510cd559c516afc9110c3e9062400f74931c1ade738",
+      "url": "a3/2f/3f9c3d763f8640d7a2365efdfb1373fd2b2c530e20172b38dc958174b46d/DCinsideRead-1.0.11.tar.gz"
+    },
+    "1.0.110": {
+      "sha256": "b86f1e4ad51a03cc1815eeaca338d98ac1b5b08fb7424579d822dc95d67720f9",
+      "url": "a4/a1/cec413944db9f507c5e539cf092bfe44220faf7123c7c2a57ae1219e9965/DCinsideRead-1.0.110.tar.gz"
+    },
+    "1.0.111": {
+      "sha256": "ed2369dc7a1d890cb391c8be43dc76252a7b8b683e0a4b541e4daf3c05644f95",
+      "url": "cf/8d/b03cce91d51a1b0b892a68df467d1f466de792ee2ef5fb41b40e8f11bca7/DCinsideRead-1.0.111.tar.gz"
+    },
+    "1.0.112": {
+      "sha256": "3d57694849ef619ae42e273f6468189d088ab17b4d3dae7205f689f818b65b3b",
+      "url": "be/10/3a31b3604623ec3d708bb8b07f68bfbbe02da47fb66ac51b6c53c2c2d0c7/DCinsideRead-1.0.112.tar.gz"
+    },
+    "1.0.113": {
+      "sha256": "dcea4d1565c4047dea106d7021141f00b4cfcb2ec8f4925cd626ecfa96f63b28",
+      "url": "a5/a8/04d0b3ffea83292e24bf8fe65700b4b8c74327339400f860dbce91e6204f/DCinsideRead-1.0.113.tar.gz"
+    },
+    "1.0.114": {
+      "sha256": "806037292fd1329aae2edf3f10faf0062c34acb8063dd54461680821c3d7d012",
+      "url": "22/e3/e2caa9623c4923a8126dd9af3984260e1da7f3291574d6e8081158a90b69/DCinsideRead-1.0.114.tar.gz"
+    },
+    "1.0.115": {
+      "sha256": "ba94ee621544058fbd04ba626dfca5d65cbc7d51b4a902dbfd9cc8806c45df72",
+      "url": "d4/9b/e68a2a2a879b181b75ddaef26c4e395fae2bfe585d1cfda64543dda7a834/DCinsideRead-1.0.115.tar.gz"
+    },
+    "1.0.116": {
+      "sha256": "8c8002e3154d02852f9a457bcc49b5fca37d26b229119f0719ff76c6b212ff0b",
+      "url": "64/bb/b820b2575c509f4eb56dc3b08f533330b53935e47012f10eb09644abb688/DCinsideRead-1.0.116.tar.gz"
+    },
+    "1.0.117": {
+      "sha256": "a63ff0c25fb0e2dcb2715129a6c1a5c6a09e8e5eb1cfd24d46641558fd08e2ac",
+      "url": "a2/a8/ccb5db406a971c1dc8de4fa247411358fd10f235fb44e7d6da9d16f316fe/DCinsideRead-1.0.117.tar.gz"
+    },
+    "1.0.118": {
+      "sha256": "29c4f3fb7bea84cfcca3f2f2b91a8e060009a01eca8275634358edd9d0060d5b",
+      "url": "5f/db/3e8df9a7567a6b94bcd2099462743da0f4964ad7ba1169dcbb89900f75a2/DCinsideRead-1.0.118.tar.gz"
+    },
+    "1.0.119": {
+      "sha256": "56f18d6c8b6bb4ba426911864e454dee59fe7e90d816c6e69443f77f98a4f2ac",
+      "url": "d6/b0/68ef52f44500583496a85ed1926fef75db37561c1f27ac41e93a0066059c/DCinsideRead-1.0.119.tar.gz"
+    },
+    "1.0.12": {
+      "sha256": "e99dd0bc839afd5eede3bd29d1274455a40c9c89a5654f4bbda295630cb34829",
+      "url": "d7/29/c02db71b616a699eb89b88fb67b996c07828867163b3be336d17179f9680/DCinsideRead-1.0.12.tar.gz"
+    },
+    "1.0.120": {
+      "sha256": "62bab972a4e6b6bdc616cbfcabe046f44910daeff19dafbc032f35ee9e49cde7",
+      "url": "c7/30/59496c630a3d0e591649e139bfb31e76ea0b8367b78d6ee0b244fe03f6cf/DCinsideRead-1.0.120.tar.gz"
+    },
+    "1.0.121": {
+      "sha256": "88a0a97fdcbfc0eff9c39279a9b03e73880c85d32ea429988635283f32a47012",
+      "url": "38/fb/bc34528c26fcc2d89c7c2b1fe4f8a0d1a21f94752823fac645162ace016d/DCinsideRead-1.0.121.tar.gz"
+    },
+    "1.0.122": {
+      "sha256": "1253590f886468185c49f92843fca313b005e11200111d1280568498a64e4d4e",
+      "url": "18/eb/98790678f8ae79f50b0cea4fc1d3235dcdca36fcb18dd61a19c04807113c/DCinsideRead-1.0.122.tar.gz"
+    },
+    "1.0.123": {
+      "sha256": "75dc0740fe6a57631ac1c55860aa410f8a7daf719cffa48c0c547a99bb610809",
+      "url": "6c/86/16e3d0c89e2a6e2c0df1827e8cb00e96f3734857a4258e980034bf419adf/DCinsideRead-1.0.123.tar.gz"
+    },
+    "1.0.124": {
+      "sha256": "7033871b1bcb5d1cece826893839e14ce7107803d65e924e60a6e429c5a05c47",
+      "url": "8a/f3/800b934489d5b734c46fb10a143c86d6a0077085d8e3bfd64cc5bca391ae/DCinsideRead-1.0.124.tar.gz"
+    },
+    "1.0.125": {
+      "sha256": "9b34e1d9515c1b96de789d5ca7d8d2fcb73fe5584f9f118fecfa8548e8499694",
+      "url": "d7/1e/c22ae7d494adfad7046cb6570535d69ea0bef86542e92041ac3ea1001967/DCinsideRead-1.0.125.tar.gz"
+    },
+    "1.0.126": {
+      "sha256": "c4367fc900193d560bd324acb95f643f16e4198150c18cdd5c8d673dc0f7c9cd",
+      "url": "e5/6c/b5300a6fc79a551e90ed03550e7dd47bb0c29d4bc10cb2807dac13b78dbb/DCinsideRead-1.0.126.tar.gz"
+    },
+    "1.0.127": {
+      "sha256": "ef8cefdbc071f7061a1a3bd646db68947e2bcd2f1cb41ce8bb9604af58b224ec",
+      "url": "b8/72/9cc44ecc32db9ec518d9f90f537b7e4069e612023b2a0a266cf4d6c5a726/DCinsideRead-1.0.127.tar.gz"
+    },
+    "1.0.128": {
+      "sha256": "a2fd6a737de597951ef0613c13a50ae299033e6633b6e57a7f92ae7eba32c84b",
+      "url": "3a/d2/918e02e3dabee899deb330d1e93d06d9594116ead72a744715ebbbf2ba2e/DCinsideRead-1.0.128.tar.gz"
+    },
+    "1.0.129": {
+      "sha256": "d4c75e74ebc4d950e67ad6a893f3fd0189aeedba7c7d4e1b6af48e7c1386ef0e",
+      "url": "4c/58/91099a6574d1cf2d807d7f4e364b1c8af62551089b4d0f4c25561d83f579/DCinsideRead-1.0.129.tar.gz"
+    },
+    "1.0.13": {
+      "sha256": "554ba0d05f6846949212a80756f0ff16e6637c65ef4150f7791e1764bc72f783",
+      "url": "91/36/6bfe734b619f75093f709e6db2a5a467bf5de80dcd8e0f897069cb3945ce/DCinsideRead-1.0.13.tar.gz"
+    },
+    "1.0.130": {
+      "sha256": "7365c34fe8f42cf526a43ccb6f2d3454b50037e313b28155f0d353aad4241a30",
+      "url": "30/3c/c12814bde2b1e084f673938dd3a428984d1a328e8a6d7e3d2db47af5704d/DCinsideRead-1.0.130.tar.gz"
+    },
+    "1.0.131": {
+      "sha256": "9d1ef06b2079369dd1eb1fc7d7eb1677ea583fbc3b2c823e1914f9462dc51209",
+      "url": "33/e4/4ddecc0bb6b1737cd9a2da64223b27b5881ec35ec4794224edc1c48a1e06/DCinsideRead-1.0.131.tar.gz"
+    },
+    "1.0.132": {
+      "sha256": "de898ededecf9f67a97b6b4f5a0049a7bacdbd1023c7c2bfe0b13d35e1319a8a",
+      "url": "e2/33/d413dd6a3c582f2488919359cb7257c3e8a0de21e624630c5f241c70808c/DCinsideRead-1.0.132.tar.gz"
+    },
+    "1.0.133": {
+      "sha256": "2692fa49b6376e8d8589ddc04d370bfeb703a025f3fb669e7159065a1fbce14c",
+      "url": "76/4c/aa9df956e9d4fb8dc556a58237d5940ac7d471d4f169bf21622ae945e99f/DCinsideRead-1.0.133.tar.gz"
+    },
+    "1.0.134": {
+      "sha256": "8f564dffd1f196a96ea48d20313dc4a9973c4c3717437c59fd7c059037ae5d57",
+      "url": "7b/0c/8a0b17b9ed726cdfea62a3fb7ae7e59bc53c9e075dbcb7299726b56faec7/DCinsideRead-1.0.134.tar.gz"
+    },
+    "1.0.135": {
+      "sha256": "3cffc41e86b22da8ffdb46fc0622e525043af8b415a764ba551fe082dacf1188",
+      "url": "e9/9f/2db731299d19d1d258c8071144679c379d604abdca8ee50b70603c351c3a/DCinsideRead-1.0.135.tar.gz"
+    },
+    "1.0.136": {
+      "sha256": "7dea3b1f13eee08f5f23ba01a93b27c4b991c2ac75c61456b0d373161dc0ca82",
+      "url": "0f/fd/f02dd3ae3310b2d490f97b8bde6c63799942f77ca5ee4f85aa529d4f2f4b/DCinsideRead-1.0.136.tar.gz"
+    },
+    "1.0.137": {
+      "sha256": "ca68a231317304c17a98925f0206d20c6786fc7676b1c2493610dcd80810f8ef",
+      "url": "16/1e/302b7a465f710abec110ed25c105058fb03847cce66a253cc29791568686/DCinsideRead-1.0.137.tar.gz"
+    },
+    "1.0.138": {
+      "sha256": "3822a24509f36d9ab8944151c06ac35583a7d7a542e9f48f2309a8bf725daaa1",
+      "url": "a4/bc/63dea394c801d22cf6606aa1f9af50c4d515bb4179bb62b55e2530525067/DCinsideRead-1.0.138.tar.gz"
+    },
+    "1.0.139": {
+      "sha256": "eaf90026e1084f45a8cbd5550626ba8cd86286d704e81e51e282286f4ca1b1ac",
+      "url": "8d/fb/58f6050325fb3469ed009f53efa419d06041a5cc4c452d09cf712e26f0f3/DCinsideRead-1.0.139.tar.gz"
+    },
+    "1.0.14": {
+      "sha256": "84e99f0904ddddde51c2ada3f21fea15e3c70080769444a0066640ddd99bd414",
+      "url": "00/4c/392c0a7001a05a9378a0eb1e0d29b1dd3f9eb489dc9b26dbce8a6043f9d9/DCinsideRead-1.0.14.tar.gz"
+    },
+    "1.0.140": {
+      "sha256": "568ced60ae7d8a879cc1b8c50e2c74b4a2e0f5f3b1cecddaa96b7f28df0617fa",
+      "url": "1e/52/a893151df30fbd7385b1e2d3810adc8180912ca426d4748063fca0219430/DCinsideRead-1.0.140.tar.gz"
+    },
+    "1.0.15": {
+      "sha256": "80a069cf09315df06849dc4a616e0193a11d8f74a7cbae9293927fb4a222da9f",
+      "url": "f7/0f/9c53d2c86f17f68f8f3cf95d1a55e39510085b072002c7db5801c05e7edb/DCinsideRead-1.0.15.tar.gz"
+    },
+    "1.0.16": {
+      "sha256": "809d56b8efd76afb39d6b7fba469c4cc5fe2ef95be1bd4cf0922381f9b475544",
+      "url": "4e/15/b5ea8fcbb2a88ea290ed995c9380ee1ba51e9cecd5f0c74e99dc5e5bfacb/DCinsideRead-1.0.16.tar.gz"
+    },
+    "1.0.17": {
+      "sha256": "d726b260adbda855a11365126d7022d93d131ebb92e6dd5670324cc9dedbb26f",
+      "url": "4d/10/0ebaa04ed1ec4562eccea18d8527503415f757d7d03608e0b3754c4a09b9/DCinsideRead-1.0.17.tar.gz"
+    },
+    "1.0.18": {
+      "sha256": "8a2da7a8b765165735edfcfbb4d62f4f1a4e6aea074884a8c7798f1ff9022d71",
+      "url": "c7/31/642a8e61e634b1981cf08323c545ee2edbe05e32b2f1af7b17edac778442/DCinsideRead-1.0.18.tar.gz"
+    },
+    "1.0.19": {
+      "sha256": "008f03d03a18e805b4bd9bcb09101476209b8df4121a9aeb4a92222de2ac2758",
+      "url": "a3/74/f7e6071b8f34ba009b1cde2dfa7bd820d65964e9dfef8180b52e1479d821/DCinsideRead-1.0.19.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "c435d7c0eae9ab1a2ebf940b3ae321acd6103dd6d38f98ee65a2edd59136587e",
+      "url": "47/e5/35e475b199bb3099d5b7a2968829db107cb73031bf70ae8cd6b69c43e29c/DCinsideRead-1.0.2.tar.gz"
+    },
+    "1.0.20": {
+      "sha256": "a787eb8e1dd59c0c0aceb701008909f32c9538edf88ccc8d3fb7b610b646eb2d",
+      "url": "0f/7c/8fe069ef5d863ed424d09a9bce489037223f40851c14d645e1f8b3e394d1/DCinsideRead-1.0.20.tar.gz"
+    },
+    "1.0.21": {
+      "sha256": "b20a452fc51e60f07b7b53d273602518dd2279eb65a21b9598af682b0ad37638",
+      "url": "9c/01/dac5334e96b40c6bc14c3015ab9a45c4743a84ff61dd05c5aff033a50410/DCinsideRead-1.0.21.tar.gz"
+    },
+    "1.0.22": {
+      "sha256": "580ce55dc593aa7422aabb1c52c8ddf2c5266efc427109c4a94d86d2d7b2b391",
+      "url": "82/5d/3dbadc10f3f827b498b052a350a5cb7ab427b39e28d2264b2496116cba40/DCinsideRead-1.0.22.tar.gz"
+    },
+    "1.0.23": {
+      "sha256": "1098db1f84fdc1708658506a22fbac9b0a9ce6ab7c624b52af7a9e86dfcd3b62",
+      "url": "a3/72/c0fef4f7330c0d595d034019282e2697ce8f95534a2b6c58265c85691b6e/DCinsideRead-1.0.23.tar.gz"
+    },
+    "1.0.24": {
+      "sha256": "dbc3214b726cc21dc25371133e87ca67814a771e8bfa33f94321e9c1d14e025c",
+      "url": "3b/59/8d88961e88e98ee389e1dfb96cb7393202549687571d8b4537e6b0a81332/DCinsideRead-1.0.24.tar.gz"
+    },
+    "1.0.25": {
+      "sha256": "bf9af4250f3795570e1705b046154f3d8ca40907f735804ba50fef12fea8a8ad",
+      "url": "40/08/023a3009c2e5793e7443b0fa571913b4b884f1676c5edae85a88e0423926/DCinsideRead-1.0.25.tar.gz"
+    },
+    "1.0.26": {
+      "sha256": "6df6b4b557876e3c4d8c3452177ca29c4f6520f1acb6d00205c61fe5de7423cf",
+      "url": "b0/ef/f4df689261d632714f3974a83a173b15d571ee2b5d46cec8893ec3a93d2f/DCinsideRead-1.0.26.tar.gz"
+    },
+    "1.0.27": {
+      "sha256": "49bb9a99c95ad498e5d6bea6941b2dc98a7cbdcc92ca5e1894cd56876038c0c8",
+      "url": "6b/47/17a21310ca00ebbfcc51cb5df0a3eb11afbc06ce0464e9a407669eda0f08/DCinsideRead-1.0.27.tar.gz"
+    },
+    "1.0.28": {
+      "sha256": "04b56240385366b67ba8fccf855159401cc17b29aa080176ed9db7c7cb54b34d",
+      "url": "ed/d8/e35ebcbba78318b42fc3faaa27ff4fbd99963b714532951a6cf22bf94b62/DCinsideRead-1.0.28.tar.gz"
+    },
+    "1.0.29": {
+      "sha256": "b882f2f6be0a79cda20384c7d5031f34387efc2d7a51a3ccedf93c5946d2c1c2",
+      "url": "e5/ea/d1532b54efb28be92eb560fa0c1d08ae3f61695ce4a2923d5593a5e60c3c/DCinsideRead-1.0.29.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "b0d21c83024994953e9b5842b02070994b70e6f38067eac5b5736c6ac552dfaf",
+      "url": "95/14/297d2e364cff058282443a73044bc7de87dc7d90fbe46131716361dff75c/DCinsideRead-1.0.3.tar.gz"
+    },
+    "1.0.30": {
+      "sha256": "87a8d839cbe3494699436523d6d5c90a4b4547a76fdb14375e2fc81b20a49ee5",
+      "url": "34/10/8ab1aafc15c3366c0ecf9b4d7a23d037d662fccf7e93889bc91ea9205d24/DCinsideRead-1.0.30.tar.gz"
+    },
+    "1.0.31": {
+      "sha256": "2d253db1e3270f551c3f26ff56430fddc96b9f17f48aeaf768aeb1f9f235f394",
+      "url": "6a/c6/abf8536f050ac7fa65ce796c840a0ece3070a6e63772643181c6c4063df0/DCinsideRead-1.0.31.tar.gz"
+    },
+    "1.0.32": {
+      "sha256": "bcde2f7a1d013446e1d373c220ccccb171cf8ab8201ed23718065e8ad3698b48",
+      "url": "c8/25/b645611174cf49a0071728a6fc9598fc5f26070a9225294e0e29d8affd21/DCinsideRead-1.0.32.tar.gz"
+    },
+    "1.0.33": {
+      "sha256": "e1df2b26bd1f7b42053da9063ccd4d50a6890bf7766dcd8486fac8bcf20b89ad",
+      "url": "a9/b6/cde42da90d5708ab2a538ecc50e11ccd60c8562d37cd12a4092b2a31eea6/DCinsideRead-1.0.33.tar.gz"
+    },
+    "1.0.34": {
+      "sha256": "d3543829e95cb36e9159c3c3f76405ed952b4b5e2b20b5ffff583a5cabf99cf2",
+      "url": "e1/d8/4719209cca43aec4d4fcf66b10ffca4b2b53eabbe0dee2d8b3e748184212/DCinsideRead-1.0.34.tar.gz"
+    },
+    "1.0.35": {
+      "sha256": "4070f5efdc9932510a4b828c930001a5ca07ad5bcc7ea6d73b991d2d78dc5fda",
+      "url": "b8/de/99ee98956d18accc8991c3379f8a3608381d42da17f0c940a44204f5452e/DCinsideRead-1.0.35.tar.gz"
+    },
+    "1.0.36": {
+      "sha256": "b3b213022895165760ea9cab9105f78931867289f5f76a3929859a8871d343ce",
+      "url": "39/e7/4a64c22196c0316be1a5019cc752b7c313a1db6cf2800e7432a1ca5e71b1/DCinsideRead-1.0.36.tar.gz"
+    },
+    "1.0.37": {
+      "sha256": "4318a8a3754e59c0a67d52fe1058e597c7f484dc2f166b0be6d73524905decf3",
+      "url": "c1/41/9aaa98a50cb3bc3f6f60e54a98c9d5467bf10da68007c8f72cc820efe643/DCinsideRead-1.0.37.tar.gz"
+    },
+    "1.0.38": {
+      "sha256": "b44d3dece17d60a7de8f972ed99c5c2d956bc97c353f0add1597efa59a883fbc",
+      "url": "6f/1a/ec1ac82d5e1ba442881c50b39c15393081a4cf4849200eba96eafa1c3ca7/DCinsideRead-1.0.38.tar.gz"
+    },
+    "1.0.39": {
+      "sha256": "cebae7b96e4d20ae7e41e1795dec6caf054f36fd589a8d3e2993ca53da6871ef",
+      "url": "d8/c7/024fafa483a325998e4ae58e5da5e326156713c121f86ba84a786fef57a5/DCinsideRead-1.0.39.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "dfcac1dd92a01c45172f66290587d5446fb386373cccc8ed4abf5e295ab234a8",
+      "url": "21/4a/c25b68fdc61dac1b5f3c08ff008521c58d499520c180c77c2f24b1f27c00/DCinsideRead-1.0.4.tar.gz"
+    },
+    "1.0.40": {
+      "sha256": "f39af2b813c4442ce63088bba3f8e77f0aa7db6a9641aae6b058e6b941666201",
+      "url": "7e/30/10aeb28e47c0bba50ad3548b5582d55d770601425e06fd7a19904fa55a0c/DCinsideRead-1.0.40.tar.gz"
+    },
+    "1.0.41": {
+      "sha256": "27f457181d7360953bd7fb14df61391e877015f0e59e746478d10e3d61fd2a44",
+      "url": "e0/03/546f8ee59c27442fdd429ae4ed5c63216884af4c8e7b7dc3ef3f879715a5/DCinsideRead-1.0.41.tar.gz"
+    },
+    "1.0.42": {
+      "sha256": "40495b3a8b19fee4f553b4ecd2dfa9219146b824943ff3c8a5c5462b40201363",
+      "url": "25/aa/f9d855bd75062a67ad526a0edd1841098145bd81e2afcb311a7fa28ca960/DCinsideRead-1.0.42.tar.gz"
+    },
+    "1.0.43": {
+      "sha256": "64f502cae185fa819662deb7fdc95fda8247a81a944e8d70ffe613ff5d9157c6",
+      "url": "82/aa/7e95d82c0cff2edb5a0640c059f7707cd9045043ee51f4037c5510ddaaf8/DCinsideRead-1.0.43.tar.gz"
+    },
+    "1.0.44": {
+      "sha256": "1adb90a401cb175f4dcb976d63f8dbd0e2ef0370d0698cb2615cfeae3dcf13ea",
+      "url": "1e/b8/14f5ef6ff7f336694c6a3b3670e77002d78668c378b1d8bfd0c51329adbe/DCinsideRead-1.0.44.tar.gz"
+    },
+    "1.0.45": {
+      "sha256": "70c341ac9fb14a981ccfcffcbaa4689bb955b1fd8182d32ee4e668ece9444fa2",
+      "url": "4f/78/dfdbae1dbb5c10d72f655acfba33a563a0246fb2e8b0ef3a344278376ac5/DCinsideRead-1.0.45.tar.gz"
+    },
+    "1.0.46": {
+      "sha256": "90e9232de4c2a52859f3015eef3ad884bfc0cff474237d643db1e6c782872860",
+      "url": "e4/ab/8379925fc2f3f9ee10b54ae99b6f9b44fac2a7da54d7e31e52501c346887/DCinsideRead-1.0.46.tar.gz"
+    },
+    "1.0.47": {
+      "sha256": "0a3b8f312fd4a004f995cb07ebe81f006b0d611a0d1b2bcd15592f86ea5cf035",
+      "url": "14/5e/7a2d94e965ea16d21da5914da67436564b22c8f7ee16bd7719f188d0134e/DCinsideRead-1.0.47.tar.gz"
+    },
+    "1.0.48": {
+      "sha256": "186a8301372764f1bed42f08640a934ae2a56e6aeb22ca1411979bee330c8e58",
+      "url": "0b/e8/565f41c0c788050d34e0d0a9c43155269eb93168ab205f4d22e8863ea6fb/DCinsideRead-1.0.48.tar.gz"
+    },
+    "1.0.49": {
+      "sha256": "9ad29676255e0d90c5d17c655275db7720d0cd51463034fa932336edce7d5554",
+      "url": "31/c2/c33e2a488f5d9ff210d88a2572c09fc2e91b27f0aeaef7f4241fb4b87382/DCinsideRead-1.0.49.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "b81b28f4f5b18ffe83bc799a2497e0658aea5d13349fd0816640f9c8770cbbfd",
+      "url": "73/dc/a5562b2d093b4b57411e7b14a56b230ebadbaa5198568f445935ad440df0/DCinsideRead-1.0.5.tar.gz"
+    },
+    "1.0.50": {
+      "sha256": "60cb08ed53e7d3e86ef0e56e7690449aad8c33fc930bde2903cda40bd836a658",
+      "url": "24/5a/60c4cd5ef295514068caeffe56ed7d39d067ef76e7def01cd4a36c7cd271/DCinsideRead-1.0.50.tar.gz"
+    },
+    "1.0.51": {
+      "sha256": "7309fba040db09fc6007419c78dd63ba1058df0ca83c8c1370a20f80d36d5090",
+      "url": "0c/2c/15341c206d34cccf88565584820c57f2c0de0a28ea29bc7af6a70ac10fcc/DCinsideRead-1.0.51.tar.gz"
+    },
+    "1.0.52": {
+      "sha256": "da880c1ca15afbe246fb14c1b1fe1c66fc07787b20955c917100c1d8336b6611",
+      "url": "8d/b2/a8a95c603f04ce82eff57bed2ad056c76da4e79ed4cb4203fbc8b0abb27e/DCinsideRead-1.0.52.tar.gz"
+    },
+    "1.0.53": {
+      "sha256": "1dea9aafcd954a18b87caf63a8a210007ca8e5423d495d2084560f02d9bc3c26",
+      "url": "b1/3d/2f563b5660b119d2bd5a927f829de7599ac3eefed311ddf2d4cfa12eb668/DCinsideRead-1.0.53.tar.gz"
+    },
+    "1.0.54": {
+      "sha256": "f66f8fb6438fe3bd55a9639b7027a921cf9ebb83c6394adcd02de3f123da7f56",
+      "url": "e1/02/708c645ee2e738a6a98d995f7c5543f9637f2b38532ac92c2c9a4ec9bd40/DCinsideRead-1.0.54.tar.gz"
+    },
+    "1.0.55": {
+      "sha256": "4056e974d571e53d37a464d1613311fc4d3bb2de22a56794c096f00add76788a",
+      "url": "87/78/083d612ba8ac1a6dd7330541099430f2e61274a02666f7f9c5643b15670b/DCinsideRead-1.0.55.tar.gz"
+    },
+    "1.0.56": {
+      "sha256": "ffdab05f87b29e7482722aa34e5a9e1050a24e5445bec7e505ae385e1bfa21a3",
+      "url": "a3/3e/5b408df202884ca9a62cc9cdf74303dd05f900b8ccc7e36603be5f60a442/DCinsideRead-1.0.56.tar.gz"
+    },
+    "1.0.57": {
+      "sha256": "3e80b098671f4eb8f197e2c50f14ad8431d0b680b81b12c2478e726f4d08986d",
+      "url": "e2/b8/f38d39fb8fdc5613cd59f30775d8eaa8f84abb4d1634edeb5b1ed83f6b20/DCinsideRead-1.0.57.tar.gz"
+    },
+    "1.0.58": {
+      "sha256": "ff52818891ec6829a96f7259f9d93e1a937f64b4c6f618e977fff2028f40622e",
+      "url": "cb/30/f10a65af4cd44328087eccc7d13d4022d2900224c13dad6fce88db89ee5c/DCinsideRead-1.0.58.tar.gz"
+    },
+    "1.0.59": {
+      "sha256": "047120049865a2eb801a36f27ca59b2039ffdf134a0261a7456ad0135990a662",
+      "url": "c1/27/b6447443996302a213c31c582b62abb8c87fb8c87f86e0ec1a292bbde20c/DCinsideRead-1.0.59.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "ec7ab1657e7ebe2fe01dfe467779e4b5c7b0141ee97b2f2f46d3424f35f7b9e3",
+      "url": "e2/34/e0659a35a13fdcd52099574fa08e6b72cfb216207a1b6d70f73fb23e2468/DCinsideRead-1.0.6.tar.gz"
+    },
+    "1.0.60": {
+      "sha256": "2044f74e90e20a3956238efebaf484000c4ee8338e2479e3fdb1bcd312f6ce47",
+      "url": "7e/32/2ca45eefaf5001ed241c43d39ca7249488aaa0a46f727d60bfda97bce23f/DCinsideRead-1.0.60.tar.gz"
+    },
+    "1.0.61": {
+      "sha256": "285693529b8e9443576890b984b0e27421d815f7d77163578aced469869a9ad9",
+      "url": "b2/cc/f9cee939d6b049206f8ded7e1229d16719141b2306dc9a5ad01ec42c5fdb/DCinsideRead-1.0.61.tar.gz"
+    },
+    "1.0.62": {
+      "sha256": "47604a3bb427ca0075c92c5a184f1048fe657d53efb74d5530248a189ec09444",
+      "url": "39/c1/6784a7fcc2de28c3c2013560d87eeb8a6cba99f20eabcf5a4a179f6d2c66/DCinsideRead-1.0.62.tar.gz"
+    },
+    "1.0.63": {
+      "sha256": "de59ed37f547ff570485c68fa3bd00682299cb241cec1d3ecde948933d62f7fd",
+      "url": "c3/ae/0110fd002aee51ef077eb6f84a50d7aca722bf272293acc734651e810a75/DCinsideRead-1.0.63.tar.gz"
+    },
+    "1.0.64": {
+      "sha256": "bf712d09901e5e72ffe007c3584c00494d8c76509fc4cccac0a107296f597192",
+      "url": "b5/fa/a118d984538022f9c35ed0b4e8ff6a0508b7a8f885f70dcdf3684c0a1abb/DCinsideRead-1.0.64.tar.gz"
+    },
+    "1.0.65": {
+      "sha256": "74ce64307dcdbfda3e5136631d629dfe3570a88b528fff8c2b3589aa090385cd",
+      "url": "a8/ea/46361b3543e56f45d4dffa4abc2626e8659935ac2bbb8435d0c67a22ad8d/DCinsideRead-1.0.65.tar.gz"
+    },
+    "1.0.66": {
+      "sha256": "17201b3b6d3bc06f398d906259449ad5b94eea1056f539b6d25d7428f238d120",
+      "url": "a2/41/3e22819eda6b55c152a06bcd230027ecb0fe29e8148051cf0af5a6ddb495/DCinsideRead-1.0.66.tar.gz"
+    },
+    "1.0.67": {
+      "sha256": "f9cb64e45b017a4b8a44f7781331a7db7b29e402efda49095efe61654928c4e2",
+      "url": "7f/74/cb95f31e224f6b265d24aa0d1833d7365c7bd8fce6f94ff3a68cde0d53b6/DCinsideRead-1.0.67.tar.gz"
+    },
+    "1.0.68": {
+      "sha256": "520775954ccba16cd9c4722b881a58799cef7a0090ffc1ba964415f01c3601c3",
+      "url": "1c/c0/7d6afba3e0645ed0259dcf30852af667b406f91c3e0c2bc0e6c0d084887d/DCinsideRead-1.0.68.tar.gz"
+    },
+    "1.0.69": {
+      "sha256": "bfb719dfb7dbe8ea1a5e4186eee183e76c574c2fda4b2cb613a73a3eb42b7492",
+      "url": "fe/8d/343b5a907f775e881d14aff36b92fb96a805b78b9afe348f67ee6ff0ff70/DCinsideRead-1.0.69.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "9d736bc48714aaefab6002d34693a01aa82252857f19c664ef10861243442567",
+      "url": "01/e8/74aaf0c74398f27aa1a2d73efe8924c8a5c6c3dee1fea819d68a8c86450b/DCinsideRead-1.0.7.tar.gz"
+    },
+    "1.0.70": {
+      "sha256": "1b92a4e3c19b2b4b27cafbe8a834000211f94da1a08bde28b9f7ce5af0d80c0b",
+      "url": "66/13/143c2a891babf8d46ebd0621a267a33601868edbe3621424bff4f32a7d3e/DCinsideRead-1.0.70.tar.gz"
+    },
+    "1.0.71": {
+      "sha256": "e9d48430a1f935df20fbba5e319d757e28df522f27e5e9ab8d1608ee99a61016",
+      "url": "59/48/b645649299eb702520bdb254d84e7ffbbdbe337097c88fa89a927f6b2060/DCinsideRead-1.0.71.tar.gz"
+    },
+    "1.0.72": {
+      "sha256": "c559e3d7a4f1af82704bec5bfb1349494c53c5d5e933a607e192a72c1b1466ab",
+      "url": "cb/e0/099ab89226f47f16aee50f75460eab28491a4445a01229e932b9dca69fff/DCinsideRead-1.0.72.tar.gz"
+    },
+    "1.0.73": {
+      "sha256": "e28a90758d56f2c60a42dfd800b903958d17c9c561366d74fd76e5c766243a4b",
+      "url": "9b/a1/babd3c6dd5e402d8b4515f6ea7aa7c5d61276d829fe740550547fc9522b0/DCinsideRead-1.0.73.tar.gz"
+    },
+    "1.0.74": {
+      "sha256": "445502c48c062a17d55712e1f0b57bd64d4f33315867ab599ac516f9ca54a118",
+      "url": "c7/e9/d9d4b387fce6c228b39aa1628b609c2e792ad676fab12f097f7929c14b6c/DCinsideRead-1.0.74.tar.gz"
+    },
+    "1.0.75": {
+      "sha256": "04ec2f5a36f87715f1ac40fe90141788cbfd93ed44b227a20d7010557f1f4ae3",
+      "url": "9c/d6/1bed1973716a7aa41195a2ef5aa5dab1afef8b1c1e54dc265a3158acf8bc/DCinsideRead-1.0.75.tar.gz"
+    },
+    "1.0.76": {
+      "sha256": "e1c9daffccdc8162acbfcbc4cdf2a8291b2056b8f95b65dc0854f512902e3354",
+      "url": "b8/0b/9e5f2d332fb04d911ef5ae63ef191ac20f00a03775b59e123d231cc2de7a/DCinsideRead-1.0.76.tar.gz"
+    },
+    "1.0.77": {
+      "sha256": "5d979b1d10c18125c4c7cbb9fcfc78e3563afd7ce732ee931300620c0cbd1838",
+      "url": "03/3b/a4ac61a4d077cd7f4fabafc2d6e71133536f3614db038de8b9ddfa33b980/DCinsideRead-1.0.77.tar.gz"
+    },
+    "1.0.78": {
+      "sha256": "012132c89b56964b9157628e8a0a27fdd3d95296f4fa8bbaab3bfa4e86047955",
+      "url": "0f/c3/82ca069ed4c43e1d4d934d9da643cf555ac46899a509255ce8238d465fd1/DCinsideRead-1.0.78.tar.gz"
+    },
+    "1.0.79": {
+      "sha256": "149b8dff7fd472694962c73579911a8c62dbaa30def5801ac49248961535dc60",
+      "url": "11/99/3dacdd5253fac7e51f558dd244573597792086bd94ece5ea2005fc0519cb/DCinsideRead-1.0.79.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "077a0d2e252510b1d47dc50a14e94941c185b0222e15332034daed6f8467061f",
+      "url": "d7/c9/f35f5e4ab5eca6d3ba49589fa233a40abe5d9a7a8815fc1175e5d326b13f/DCinsideRead-1.0.8.tar.gz"
+    },
+    "1.0.80": {
+      "sha256": "cb7a48f29876e23f1b06e24ba68f76e7d0c2285de674375c54edba154fa41192",
+      "url": "c8/9a/fcdba62370e1d268e1a295a77eeab2e27cbc686ba2304bfa8f4aee3e3ce6/DCinsideRead-1.0.80.tar.gz"
+    },
+    "1.0.81": {
+      "sha256": "f2cc5124149263c863e6fa1dc3adeeead619d9a7fa2d265c9782560d570b4505",
+      "url": "56/63/5c536c3f89d3c935ea3d09b533fe6025a542e984531db2dd7323eedc5a51/DCinsideRead-1.0.81.tar.gz"
+    },
+    "1.0.82": {
+      "sha256": "2b1ec622ea0ab1050543502fc31da4ffe0be72bd3de1915000f8ace971eb109d",
+      "url": "ac/5c/7477701a3ceefbbe55f9ab4af3839ea4337f7de876fa25e5ea7a32ceb071/DCinsideRead-1.0.82.tar.gz"
+    },
+    "1.0.83": {
+      "sha256": "9890f686b4526f0ef95a55b0c9c4f6d03cf14fae93d5c60785108d85ac99af90",
+      "url": "2c/a5/88338b5c6577b8b02451f498b95599313fe16766d5574b609a8d9e4752a4/DCinsideRead-1.0.83.tar.gz"
+    },
+    "1.0.84": {
+      "sha256": "d2ce5ab53ae5c712b1adb3fe9fb38c099cdd63588228cca2fade351aa6c397ca",
+      "url": "da/fe/45866fc2ea464cc11281101a2cb72b4df6d3f55722fb27aad0302ae4bd21/DCinsideRead-1.0.84.tar.gz"
+    },
+    "1.0.85": {
+      "sha256": "8a2d00a5a43c8463002b35af12c2a8ec9d9dbd9fa22c5dbba03b161c4996e9b7",
+      "url": "1c/83/829f231d3ea94eea68ae7b4c6d1021fb074b6b3b0b8f436f79862a3f6914/DCinsideRead-1.0.85.tar.gz"
+    },
+    "1.0.86": {
+      "sha256": "38ca64da1ca1978a97ee463435014dbcbd423fbd7ce6fba443c0fe0ca281907f",
+      "url": "49/92/9f78c7801cbf23c949064395149ffda3895d242a71640e0835b2fa1e25e6/DCinsideRead-1.0.86.tar.gz"
+    },
+    "1.0.87": {
+      "sha256": "59e6ffcc154f89fc9b86ac92c39e222cc750bec7c3529c752b638b43079a9320",
+      "url": "55/36/269a4fa784234a85a503638dc1d7c027eea00d8f7224d75379159cf78d15/DCinsideRead-1.0.87.tar.gz"
+    },
+    "1.0.88": {
+      "sha256": "0fa0fd97f565208377c27aa531f0e29cfade29b5ca6e3ac2eef7a280a28192b4",
+      "url": "58/f8/d9c609f740baaaecbb0710ae76469b74ce1d7a3462e6492b346e575c0fba/DCinsideRead-1.0.88.tar.gz"
+    },
+    "1.0.89": {
+      "sha256": "1e90e7edd31be81b172e12548aed3413435f9f2da937fd4cf87187a1a533ef22",
+      "url": "e0/fe/b5a4372afccf85873e01312602ea13f850f0548bdf050b4c9e6022416e30/DCinsideRead-1.0.89.tar.gz"
+    },
+    "1.0.9": {
+      "sha256": "246e7f6cd3bc74a44e3bd118375a5b5de35b015a73173d25d0c317e474f771ec",
+      "url": "8b/37/1ee3b0134a5323b1e1bc160ec2869fbe8c76ccea72a72dae025a5a8d5ca0/DCinsideRead-1.0.9.tar.gz"
+    },
+    "1.0.90": {
+      "sha256": "16c1b43150f94d5fa86d1030d53cb94b8635048c2e3a2e891221737a9dc56fda",
+      "url": "8e/b4/05a507982f6c1d8e2a0ba6a6594e0e6dc816fef89d6de125a7c380a366a5/DCinsideRead-1.0.90.tar.gz"
+    },
+    "1.0.91": {
+      "sha256": "fd4eaf40a7293ef9753dfed2b8bf43aff41ac0823de6a764f2f53cebb134c74b",
+      "url": "c4/4f/a3117ef37eb71f0c4ebf2e0228b0bd3eb80a36f3f19578e5564c85816be8/DCinsideRead-1.0.91.tar.gz"
+    },
+    "1.0.92": {
+      "sha256": "1e5949731aa6ead2b1a3743a7923c5cd69ca9d4f63945142e8c119e158e8c558",
+      "url": "fd/09/58031fba61c7f1e421d91384245bbb29dfd94866f0101cec082f7251d57a/DCinsideRead-1.0.92.tar.gz"
+    },
+    "1.0.93": {
+      "sha256": "f299121d296f2edc51e0befc58410fa8816be48ae7e8b880c923c06eeeebc5a8",
+      "url": "d6/ad/41829b89b0f29c9ca33a76723be4ee28b508fc8680df40c32d25a513a9df/DCinsideRead-1.0.93.tar.gz"
+    },
+    "1.0.94": {
+      "sha256": "9b814a1c9b0e7cbcf13070ab907db8f7d19d357d0848d219aa6f162f3902bb93",
+      "url": "d4/1c/6e33395d473367c9d688f6f3d1c7ba795ba188045b76fd4888e37bceccf7/DCinsideRead-1.0.94.tar.gz"
+    },
+    "1.0.95": {
+      "sha256": "f1cd56751abe2c9ac24643a5812a94b8e1e9ab398df476112a44d6038c0560e6",
+      "url": "59/43/bbddd0a0022a75fa690ac6ae28cd2aa693d242432df974c12c6f2f174258/DCinsideRead-1.0.95.tar.gz"
+    },
+    "1.0.96": {
+      "sha256": "eee64fb57b2f125737a2ee9984f477d89c5b3f3101a76667a032707a4341e7b2",
+      "url": "fc/c1/d24e6038a60174fdeeed9b5bf075af6f1252addec2aae8066a4f113f389c/DCinsideRead-1.0.96.tar.gz"
+    },
+    "1.0.97": {
+      "sha256": "b9549b036d75df2329287c8c003f16a1ceed9edbf12991cda8708658010a309e",
+      "url": "65/b3/02aedb82e867bbf53253c42402c3482bbc669500005133ad33ef8254f141/DCinsideRead-1.0.97.tar.gz"
+    },
+    "1.0.98": {
+      "sha256": "7348f1300f56fe101b4975319b93e742f973fe9347f1bcca480662805d67fd6b",
+      "url": "e1/97/671b3288e492bf12202f6de2bbd3e90e891cb1c7130db3ead7b89c4df8b8/DCinsideRead-1.0.98.tar.gz"
+    },
+    "1.0.99": {
+      "sha256": "7a6515bc2e03ce593ee70b48ccc0dfdcea4455d81510ff91791b67707b91ec30",
+      "url": "43/03/f713b787430362af9d45440a69bd484b46427ac53b785c69bafae6305873/DCinsideRead-1.0.99.tar.gz"
     }
   },
   "decimalcontext": {
@@ -6715,6 +7299,10 @@
     "1.1.3": {
       "sha256": "b7a35fb5de8f8c996b34978c030dbc90aac035aa0aad7fddd2181632687e45bc",
       "url": "49/8d/8e519270e68096c350ef525b4ac37b8f946531f216d9be25b88c3dd82891/fnbr-api-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "cba3d3e68e31edb3b34905f2a9fcef5de64b40003d71db3f65f4aba393188756",
+      "url": "07/63/f1e50bc846fda7e77c51bc03d32b2bb78790b6c9309bffa21388c875dd3c/fnbr-api-1.1.4.tar.gz"
     }
   },
   "folktales": {
@@ -19489,6 +20077,14 @@
     "0.3.1": {
       "sha256": "2e84eb47183f9aac3bb7122c5ea9a3cfea132ed7c445770959b9ffd3b68b91dc",
       "url": "1b/dd/d7f1668bec1f7cfba6b54894e1101fdc90725d8ab227874609192b1ac85c/screenplay_pdf_to_json-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "b03a1bb0c87748b073bf47ac84be719c863cc05941953bbb8fa57669dfd14085",
+      "url": "4b/45/687f2e154ad6d1b5f93ecc984c1e13addb17e3310ad10bde9249e65ede22/screenplay_pdf_to_json-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "4559b220594358038a98f8ed78e8a0e27b2a1b57e103c0453f09586deb56dfbd",
+      "url": "ca/d0/ed3802e72d810c739b2c3b979e52293c662a2a5839b8b33d5d28dfa90994/screenplay_pdf_to_json-0.3.3.tar.gz"
     }
   },
   "searchcmd": {
@@ -20991,6 +21587,168 @@
     "1.0.6": {
       "sha256": "d8a0be6300b72b3628faf039a6a3763dd2ef7cfa467ec6b7d436ca91c0e7cc55",
       "url": "b3/2f/24bfe877e953b0694ae81e75cf00fb9745911b6bbfe3eea106dc48002cca/sysbus-1.0.6.tar.gz"
+    }
+  },
+  "ta": {
+    "0.1": {
+      "sha256": "d49db70d8afa4f75adbe12c537ec16c3cb331746ad61f00f70b2f5b8760eab56",
+      "url": "3c/79/752ceaffd56013f7ff2bfaeb1e4979eb63fd724ca01e737343e5899c2cea/ta-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "92923ef34dd5fd6028bed1f4ab2c947c1c52dcc25bd75f7bdd59198446d99c2d",
+      "url": "f3/62/4bce4281ca3ed730371cebc1dd9a59cfb0d78c3bf81ea8ab9e110140f353/ta-0.1.1.tar.gz"
+    },
+    "0.1.10": {
+      "sha256": "f8e5f95b03c54af1aa328ee2e6dc73bfa36cfc2ddd226c590c623ad1d5545c01",
+      "url": "bd/06/70ce15fe950130154f60a421beb9bd62f93a700fb38378027632d043d30d/ta-0.1.10.tar.gz"
+    },
+    "0.1.11": {
+      "sha256": "ff8dcea8e403f1604a42e0c190e83aeb4114b595bf8a777c54df5d0d334e6a2d",
+      "url": "45/78/ef06a991b433fb0dc29e4f171d331e3aded20958d57b7fe4ef85a2a7f77d/ta-0.1.11.tar.gz"
+    },
+    "0.1.12": {
+      "sha256": "09280cc749c8f6ff2663202accaf2fb0ea70f4ec74fc25137c27ca14472c1819",
+      "url": "cb/dd/f38c245552f509bd67a03c7ea955f4221a507778db6dbd5623d88a142ae5/ta-0.1.12.tar.gz"
+    },
+    "0.1.13": {
+      "sha256": "64836aa37970884e4e8774c737f319d66e1bb5ad4fc9689b0073fe54fcb2dcb7",
+      "url": "60/d0/85341067f91851cfd3d7b8531c857eac75febf4be3f838c84cce825acd13/ta-0.1.13.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "44b0ba5588d34f578dc6c0e85449d69ef3732d6f5754958478fae29bd43f17a9",
+      "url": "da/53/4aa9be91d52cb3f064f79cdb0bb8d1d550c23cf9a5d62fabf8305edd487d/ta-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "8b67d160631bbb748188905c2ad9672928e1bf0af0eb81165fba55172159d7e4",
+      "url": "32/cb/d554397ba18bb0c7e838f30f7d3c18e9ef2d9782ba022c97fee119085668/ta-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "e71d8a65a2157c54e1324af94ad54381ff00700aa1d6827c1772842507dc29cf",
+      "url": "68/29/e2b9a4ad5f8710a0913d9fc1abb52c5b89ecf7ea036f8a8d8e4e73b08009/ta-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "d453f2813e7ec048d508745448869018109c87999333033562f87eda3e530b94",
+      "url": "a1/0f/1c34b631c2ca704447ac36a1982e7cd86a386b5137367f9f72c71c39e6de/ta-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "d824fbbe82c1b0a7d183d6bc90751dd364844df5d1c35a2eef6076fd7860c1cb",
+      "url": "36/c6/3250a3166c37cbc08d5274b5e2a95ab7f64d922fcebf2a4985f77fae1904/ta-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "be5ab0559c8771f874f766da56087a496b8f061386154a04b3c3aeb3a88d8f8b",
+      "url": "83/2e/7112fe360f14ef3c3f790e1415c047111b378dc58cc95f007f341009b721/ta-0.1.7.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "c93ffbd69f8f20580f5d7f414c70ea4fe161966f811feee1de71b2676a5739fd",
+      "url": "f5/90/2bed73a841fd409312c1db7229be94a3eb76771438d526961bd6934e7f38/ta-0.2.0.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "c61597bcf0afae8244a3bc26c32c4905394e3638124c9931bddb7143db7804f1",
+      "url": "06/fa/5778ed0301add297d393595ec9ac46c2e415ec42a771c6b300875b43993a/ta-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "7f4c7f28b81760524d833d3d9b97319e80553b26e68bf5802a83ef044abc3529",
+      "url": "96/fd/2a75a52c59d41fd903a30d2cc7ab9a2a7b0fc500b2f8dc0ff503715c2fdf/ta-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "3330b9683dc843c6666b3b3334516f01d5de9d0293cf0683d803d2f7d5b95baa",
+      "url": "a8/c6/a0ec6efa50f99d2599a3a74024eaa1bdb449a3eaa9792201644402b5a9bf/ta-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "ed20740b13a9c842713506d061deb4a663059a29d595639ce5539ddd634d635a",
+      "url": "9c/8d/ead9e11e228c74e6f10586fecf4c8023ccd492749c77d766042698236b86/ta-0.3.7.tar.gz"
+    },
+    "0.3.8": {
+      "sha256": "558ed1b119210d68f643264e0988f74305fb6ec962df5914902903c1def134a8",
+      "url": "06/fc/72e063cb6c0580ed986dbada2e07a5689f8ac6aaa31fcd32cf7599f46708/ta-0.3.8.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "ea72c8eb411219d1f821b04903a51edf9b58a52576748821d8a57be9e20f8cfa",
+      "url": "7d/e2/a496ee0c8a077028a519116c1a74d3c69edd12531fd855d5017edb3c6033/ta-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "d688e8ec59feb79a8171f21390afe1120720255517cd54d12f2b22d35c84938a",
+      "url": "b4/03/b26f82a9d21bf609ae8d2f3037d5e4c8eae19795648162b757c40db6a000/ta-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "7d785db9f1fd1e2325884bc3bbe847190503f6e6beda22c1dcc1f0722d8bdb18",
+      "url": "ba/09/149cb10cbd6b98cbcbaa6f74169b4f1f2ce6df144335bea0df0eaa9e1b01/ta-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "e44ab5901bd6dd9f10060414915c13d43998c159b91d711d7a17caa722406e30",
+      "url": "98/82/b1d2e7583dbbb2343694bc750f4a3df008fc5e71616f1fe3b052a9a3ef8a/ta-0.4.3.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "555d45a20e2639b7fa871bad51f1b7f40e6e57dfc06148105875f1865a1a11b8",
+      "url": "24/58/5d1eaeaa53c71da049505c586f002e598820f334cdd6ae6802dec3d430c8/ta-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "2ba4044188816641427107235649d9523185c0e73bf0ca3e8828887a250bfd0f",
+      "url": "3e/d3/749d9c6975a699de8b661113cb835212176baf3b8714389e6f9f51a396da/ta-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "efb95aa9678eef0b0b61bc6b829740e731d5a2a01c5d81db300bc1e0d97b2b0d",
+      "url": "ad/bc/648db3a8ab3d57e269380c9bbab75249bbaf5012d86fe20149d7729240f8/ta-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "89e9cb44874488df79f81d5b674556126dfd065f08cadd189e655f39a73302ee",
+      "url": "49/84/331c267d6594e10d0ed4e1ffbfb0b7fd9e94280f5e824855d7a40b8e4751/ta-0.4.7.tar.gz"
+    },
+    "0.5.11": {
+      "sha256": "14c581b7f45138acd4ca6510e0e09bcc4e3bc134ef1d861a7dce6c15df29d629",
+      "url": "92/ba/5b69e3347a749f18110ceefdc8165aee12645b0c85f660db141828f72f5e/ta-0.5.11.tar.gz"
+    },
+    "0.5.12": {
+      "sha256": "d1db22b21058fbf1f2e9dd4d22ef714972ba93e2ace205f4eddd6556d5424d9a",
+      "url": "d0/90/dac043dbdcb82b73dfebf36cc281eb645ebc327735ad246c0506009c11c4/ta-0.5.12.tar.gz"
+    },
+    "0.5.13": {
+      "sha256": "5e54e598f4ab8963952e00d8fb298008845a33430f09f393e2d1252b932ce17d",
+      "url": "45/3e/e26a7afb6f0b0547088aceb35e386719fb77da9ad4994fd5fa8d057d3c67/ta-0.5.13.tar.gz"
+    },
+    "0.5.15": {
+      "sha256": "20445158dfbc72bd13b3ee0ac6b5ee2ad039e1c0c2ff3d89cb1503da166d9b57",
+      "url": "a1/69/602e636dd2ed3bc15fcae514c5918049a8e02490d660f601f464c91985e1/ta-0.5.15.tar.gz"
+    },
+    "0.5.17": {
+      "sha256": "754281965bcb8f8c828a03cbaf64af5e32353aee54ba845d5757f355757b3ada",
+      "url": "3d/2a/2809eb8aab2c568893f2febdcce79b524498710d4c5c37a49ab544186a7b/ta-0.5.17.tar.gz"
+    },
+    "0.5.18": {
+      "sha256": "46bc20d8c17f379c8825c6aeed05558e7923a0eef28be1ea1af83e3028feef97",
+      "url": "b4/b7/2bc0b556ba62fb8d3e28ffe4e8694e5d2cc1591a8a7683ad57402bb29dd6/ta-0.5.18.tar.gz"
+    },
+    "0.5.19": {
+      "sha256": "c2e9a9b24ec1f497c1f67377ca5f5ce2f97634d5a0dcbb91f92e4020bf929537",
+      "url": "17/b3/75dcbed6ff38aff063637743f87729d5c2c9d1d77b43fa3b6b694abd061f/ta-0.5.19.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "514283e77da62680f282c9db560a146ac738550c5236b001dd55cbbc13e48356",
+      "url": "09/28/e1ee932b3283b2ec628e9e9630391c56efd2c42b0b23e119abf540ba9d56/ta-0.5.2.tar.gz"
+    },
+    "0.5.20": {
+      "sha256": "5441e9cf40ac724ad995524f50da0a896ff950724b1ccb651402a1229e597af0",
+      "url": "a3/9a/76f441779cef8bc0e918314cb21b71e4c10aa6eea50417ce9824216b1fee/ta-0.5.20.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "f39e912c8df5d85752035035d96e29ecc5259dbdf4a5731f291c8672eea9ee5c",
+      "url": "c1/5b/4bbaad92195bb23b818af478bd31959e8880532ff96a3387e51c8c89343b/ta-0.5.4.tar.gz"
+    },
+    "0.5.6": {
+      "sha256": "b6be7a083da2c0f359f8699a939ec6db51684c1c821cdc4eab5762a4f9ed9d3b",
+      "url": "4e/26/f5c7a62078d7e464a9dbd725f0e3efb6942fcb19fbf34d523bebae0f4a26/ta-0.5.6.tar.gz"
+    },
+    "0.5.7": {
+      "sha256": "4b837cba5c70cb1be9edd03be56373c8ff0676c5b0f393d00c458c391a29994e",
+      "url": "fc/6e/e3a6d3475acccd05e807de656aebfe16e23239f755bc848ab798532f5592/ta-0.5.7.tar.gz"
+    },
+    "0.5.8": {
+      "sha256": "7385dfa5916adca8cc83bb0256a57df9f40d171f2c4e5a587f4fdfe2db71529a",
+      "url": "5a/51/3bd14c1c7bb4f57386be42f74a21a299c7c9eb4aed5dfb95703d962c2c15/ta-0.5.8.tar.gz"
+    },
+    "0.5.9": {
+      "sha256": "80c7250e504391fb49224f8db5cae7b706dbe3c3330c5b31c2fb0e33709f756b",
+      "url": "06/20/4d219d76cf64d5ddeba25a4e0284d7ee68f567f95c74cfc98b54c27fbde0/ta-0.5.9.tar.gz"
     }
   },
   "table-string-sqlite-cell": {

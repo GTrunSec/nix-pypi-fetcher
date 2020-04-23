@@ -7069,6 +7069,20 @@
       "url": "1b/f2/f4e0151ec5441918fa30dc3c39e8ee88c198462bf7b2cde9307e215a093c/finance_quote_python-1.5.1.tar.gz"
     }
   },
+  "fits-utilities": {
+    "0.1.0.dev1": {
+      "sha256": "a41014ccdc8ae93e72c81b33f49afe004c06ac292c8d67f92732c50bf0922af6",
+      "url": "15/c9/25421f8d6591e4c8c3640c2184b7931f17bef39bca80ddb568e97e231864/fits_utilities-0.1.0.dev1.tar.gz"
+    },
+    "0.1.0.dev2": {
+      "sha256": "bd3835006612e1b26dfc8bc79433d1caa8156f7fbcbdcbe70547f6dd171e64e3",
+      "url": "c8/25/8d82683da2ee78d729f117667a739a27a95bb5696b7ef3f55ba679df24af/fits_utilities-0.1.0.dev2.tar.gz"
+    },
+    "0.1.0.dev3": {
+      "sha256": "0a294d0be8dfcdb3f0a7eb2dd2ba699c5aa3977f13cbf357c3f2d2322301d842",
+      "url": "ab/a3/764fbfdb5ce69bcae5c92ccda608197c47e893aed57f98ed82b2d1a7dd01/fits_utilities-0.1.0.dev3.tar.gz"
+    }
+  },
   "fixie": {
     "0.0.1": {
       "sha256": "4f99916764b50f5596bc47eb5636b3b6146222ccdaa654cfbe68400c1e5b5b6d",

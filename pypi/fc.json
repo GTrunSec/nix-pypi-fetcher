@@ -2653,6 +2653,10 @@
     "0.0.1": {
       "sha256": "e736ccd0d4bb4bf80dd7d38a282e46d800299ee7ce3f868d8ebbca292a7a17a4",
       "url": "b0/4d/ffb3f5b085912bcecff86a769186b954dc766d643a6cd7ebd236256121bb/burst_ex-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "a15dfed23611fa7387665f770efa7b2197cdf212565ce751b1b4a2a254ceff5d",
+      "url": "39/18/136deff9be9213d3971dae7111699eb6b85c062f064c6baf8278787eb209/burst-ex-0.0.2.tar.gz"
     }
   },
   "butterfly": {
@@ -6435,6 +6439,10 @@
     "0.0.4": {
       "sha256": "3ee4e25c907f6ea9fd47ea472deda7b525586c4e736f1cc67a509378938194f6",
       "url": "14/54/38fe935003c1085a3be568c603215ca307e110945dedc55a127bfbacb1a0/find-kedro-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "6d1d6c9e7baf5ddf190c1ff34b5a95a5f3eea2cdd0f8999fe452bb0dfea8f460",
+      "url": "d6/26/08b5cd44bb0e8354eef30c16f37b613068d96e5e848921232edab85a12cd/find-kedro-0.0.5.tar.gz"
     }
   },
   "findmodules": {
@@ -6491,6 +6499,10 @@
     "0.1.1": {
       "sha256": "06637117960de0be8cd5cdecdcc601b09f8462126254811ad4572c46d96d7db7",
       "url": "5e/b9/2f2047033a176090cd6e2dca015c058e71160888cab74ae9a2bb9956ac31/Flask-Authorize-0.1.1.tar.gz"
+    },
+    "0.1.10": {
+      "sha256": "614965136c8fe45b4031e17a0ada5cc69640aabec1b7d93e80a07f19d038dfe6",
+      "url": "af/26/55b328105ebb4226289ccee3c27282248dba3326162e8b27713d0a420ab2/Flask-Authorize-0.1.10.tar.gz"
     },
     "0.1.2": {
       "sha256": "62ab931812c4a8ddcf401229b9a13d30302c9ffae656fccad00a52e81bca2d13",
@@ -7371,6 +7383,10 @@
     "1.5.1": {
       "sha256": "fc1fe7ae5cba1bf7508840de82980dcbb22a338cdf62692b64e21711b5a93a5e",
       "url": "1f/ec/3fcbc7af89a4fcb64a74fb87294bae519503bfc9bca5a5d72506cd6f0939/ftw.colorbox-1.5.1.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "7b3005843af3fd63807c9a9b637c8fe253a6f23591edc8577ee5cbd1d2cd3a72",
+      "url": "a1/35/d9988f304d25b13db09f1a1abe3c4513ab5ff59a58ee5b153e4c62e2af93/ftw.colorbox-1.6.0.tar.gz"
     }
   },
   "funniest1707": {
@@ -19893,6 +19909,10 @@
     "0.1.1": {
       "sha256": "5315604e855920c92a6cf6940d69cbfd67f9bda052c30ad11681ac2de0d73394",
       "url": "ad/52/405997565cf569542e4f9e40cd7c4b24b491da040a9c61bece3e75406e49/statham-schema-0.1.1.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "90fc75e2564cf5ad22adacbba11d670b1a505052939a4315698b74ddb86e80b5",
+      "url": "45/e8/59eb64eed7470d320d4b09a2c349fa1b9802ec363222cec63b2ca54a9534/statham-schema-0.10.0.tar.gz"
     },
     "0.2.0": {
       "sha256": "c3322b65d90c772a70eed7dd40fb26e29a5c03dddda52317dde3b0538e521ed0",

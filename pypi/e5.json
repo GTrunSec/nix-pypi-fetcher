@@ -16559,6 +16559,14 @@
     "1.6.3": {
       "sha256": "b26975d60c132bcfccebbb2627eba13e62d9fdf0bf4aef381f9a7c72fe92319d",
       "url": "67/1d/3036e17e5cd7481df03a9c64bf1209f70d130ba3758d75efded79b92db97/pydaikin-1.6.3.tar.gz"
+    },
+    "2.0.0.dev1": {
+      "sha256": "17e38b1d1e1c72f8a258e238c6ae7631d15d077f1838bde731ca096b9fb7972e",
+      "url": "d4/af/ed37ef3db49694452336bee60d40395b6c983465c7e3c615eea22ca56d2d/pydaikin-2.0.0.dev1.tar.gz"
+    },
+    "2.0.0.dev2": {
+      "sha256": "3bb736874de9fc519ecfb7121ef6ab015b71c961b0c26d1bc14419b599481849",
+      "url": "60/78/110d73c934708d2e70861714aac4c25b55c57d0e30020fe01854d6f6bcf0/pydaikin-2.0.0.dev2.tar.gz"
     }
   },
   "pydnspodint": {
@@ -19579,6 +19587,10 @@
     "1.22.3": {
       "sha256": "33671539a77d739dde26f9a93fd08a730ecd1cbc064986cdd26855df1a312293",
       "url": "7e/f4/2ce34e81bae500f6b00e08d4b2c41c1eaa24ac2adf3103372ae11b4c6c4a/rucio-1.22.3.tar.gz"
+    },
+    "1.22.3.post1": {
+      "sha256": "a2daa6e6101c9abbb239a84dc84e5eb3b687cc6f3e46b2d9aae89c355bf362ec",
+      "url": "2d/10/e159b39b85997c6875eab3afe119154996df520c70e228a8c034c08f0b4e/rucio-1.22.3.post1.tar.gz"
     },
     "1.5.10": {
       "sha256": "ee337c447b3b7f005b9f1a4ca18277ccb4a3333b42dc37f1773b7ebc646360b8",

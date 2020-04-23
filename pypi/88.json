@@ -10066,6 +10066,10 @@
       "sha256": "9ef9d1679178c61f4b219b5f8c9e6c9e6b06875833974cb2d23edf02fe578fee",
       "url": "ac/d6/fb3a286aa19af479b6e90196ff92263c66c1c79f2c0e721e66a5c6e039a0/hts_heracles-1587386156.tar.gz"
     },
+    "1587639575": {
+      "sha256": "35ea9de013a6a63a54a6bfa49703190e8ee3dff5cd1c531cbf7c0177810bcc86",
+      "url": "e1/d3/eb0a93f383ee0ab8cd9b0a003a9edb433fccf688b99f0e2792d552888e7b/hts_heracles-1587639575.tar.gz"
+    },
     "48593": {
       "sha256": "b090bcc3953701017e692da5e1391d80cf6f410a4135c888ac640b7c980610d8",
       "url": "a5/8b/283cb94f190b093a1aaf38586223cde9d9190340a33b0ea06d730c5955f5/hts_heracles-48593.tar.gz"
@@ -13065,6 +13069,10 @@
     "0.17": {
       "sha256": "bc9a65d59f1dc8e9df370cc913cb7da22588cd63ccac794f30e45f91a55a46f3",
       "url": "4e/10/4cf629f1700435fd46d36e6bfd35586bc43eed64d869fcfcf86dd9889e5a/mikula-0.17.tar.gz"
+    },
+    "0.18": {
+      "sha256": "6bd2b1744d372af10f7678c6e6c9ffd3279da902e2285490b8b443a41feb9217",
+      "url": "49/96/77f529f58f7a7ffaa489fd9e80e5c7e1a0a89a7efaa397bc12ad0b660661/mikula-0.18.tar.gz"
     }
   },
   "milk": {
@@ -19577,6 +19585,12 @@
     "0.1.6": {
       "sha256": "5d92565e6ba7754652d1e73afe27f29ef8d03380855fb4f0a9e343715b66b992",
       "url": "70/02/301aa0752456d9d09fb86000ebece18f81fc21aeebfa51c14542e9b6f476/pysda-0.1.6.tar.gz"
+    }
+  },
+  "pyship": {
+    "0.0.2": {
+      "sha256": "00fe968a5217dfdf23f01095d4e0d4e821d7226f7e2ddd2c594d5f507d94544c",
+      "url": "81/50/e5a92e0e4cf0b78a30cdc20989b203700be88a4294cbf0f903aa17739d31/pyship-0.0.2.tar.gz"
     }
   },
   "pysho": {

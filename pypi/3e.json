@@ -3161,6 +3161,12 @@
       "url": "28/21/41c5ff5042ca670f5ffb8c3aa3c8d8a7d109d937e6e7a05844711012d6b1/cascadenik-2.7.0.tar.gz"
     }
   },
+  "catapi.py": {
+    "0.1.1-alpha": {
+      "sha256": "0cdb65494baf608d8490289d7f72f9bc2830f8db643f37cea926898b141677d8",
+      "url": "8e/dd/f316f12e7bba977b38dfdc8ad561de32417b6337157d6dd7acaff0224984/catapi.py-0.1.1-alpha.tar.gz"
+    }
+  },
   "cathub": {
     "0.1.0": {
       "sha256": "9f7c83ebe105da3aade22419d493f490cdf4ae8afc9cbdc9e4c60a89f69c2ff6",
@@ -4340,6 +4346,10 @@
       "sha256": "beac91cce9fa914148b402352c22f344bd4183350584c30a57f0d20e414fc2ca",
       "url": "30/c7/9e2017b09c10ed2d3c2fc47fc6b13d9358b17e59201e188cce7863162b98/cloudcix-0.2.90.tar.gz"
     },
+    "0.2.91": {
+      "sha256": "4918bfac7fbf9cd94850f9708a2a4539cbda4f5430ac9bec6398e8d1522eab16",
+      "url": "ca/eb/21342cbca3f98181d4d207344421c9481792f942f763b823ee71c630c438/cloudcix-0.2.91.tar.gz"
+    },
     "0.4.1": {
       "sha256": "c74c7e40e56160eaadbe62d0ad5dbed7e3e0dd78abae32f0b44536c2c1e3edc3",
       "url": "7c/ae/bce0a0097351e44b0ebb314ff4aaa95bf143acb34d08a3fe8027ef3f839d/cloudcix-0.4.1.tar.gz"
@@ -4511,6 +4521,10 @@
     "0.8.1": {
       "sha256": "a9cef1aa9905924a68a8cf2cd43d01218170343cc30c440b1b9cf18b30a4e30a",
       "url": "fc/5d/47342b4c6217aa38b4de47ff6f7bc83aa6312aefc18713dfec9cb2593d06/cloudcix-0.8.1.tar.gz"
+    },
+    "0.8.10": {
+      "sha256": "f9999bcb8ec52e480f86c169594f72b86c45e1403458863b41102722f7845370",
+      "url": "1c/de/d241677fd3c10f526d71d05e44f5078f291b270a1858a491dc8582dfde57/cloudcix-0.8.10.tar.gz"
     },
     "0.8.2": {
       "sha256": "0984acb33aa571a6c3ca928a17a7632401f3a28aad94c8a49a7795e22121a349",
@@ -24077,6 +24091,10 @@
     "0.0.91": {
       "sha256": "db514a9fddfe5824daa60bb3c1a79dc1b20d5a2fc9e7f585082a8ce209bea1d9",
       "url": "2b/3e/d85b0a7f78e9345c365706540564740970991c2a6126bd4e5faccdb0ca4c/swh.loader.core-0.0.91.tar.gz"
+    },
+    "0.0.92": {
+      "sha256": "1673c02f3fc60fb0f75465d33ea2524b41ea240730c9351752aeea10bd42fbd7",
+      "url": "5c/d5/955754b6f3a3019249df6ad78c466f2abf888d39bd37317445d3e280943e/swh.loader.core-0.0.92.tar.gz"
     }
   },
   "switchyard": {

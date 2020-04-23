@@ -5543,6 +5543,10 @@
     "0.5.6": {
       "sha256": "d8a598159998dc2f4dacb4f73252a56f338aa1f06a8abe47388756b11bc81548",
       "url": "55/b8/8b38d25a8db5077fbd4531c0d16cb28b58abfe20ceda0e4f652d4079b702/devicecloud-0.5.6.tar.gz"
+    },
+    "0.5.7": {
+      "sha256": "456b939649ba912ee351d056be9053b19752723a2a8dd9335281298c08139986",
+      "url": "0f/a0/39e70409928817376605b3858db82e6f3873007c21a6ee19ecb046cbbcce/devicecloud-0.5.7.tar.gz"
     }
   },
   "devs": {
@@ -15643,6 +15647,10 @@
     "1.5.5": {
       "sha256": "4bac5d259c8e0dafffdf7273182d669910c972b0b28535625c5a41e7811fac88",
       "url": "a4/cd/767013a746bad4ec5676fab5896bca7205a73eb910e34408a4a3034dd60f/memorious-1.5.5.tar.gz"
+    },
+    "1.5.6": {
+      "sha256": "aa1c071f528e877141a8f2087f403a44d052b85c87341c5bdc4c828415910392",
+      "url": "1f/b0/15b3ed382436d73bf4d54686867998df610191a6f1fcbb518c3ec94ed17f/memorious-1.5.6.tar.gz"
     }
   },
   "metal": {
@@ -25461,6 +25469,10 @@
     "0.6.7": {
       "sha256": "c046554b77cf2d4913d5e1b586f67c344fc667c25a90047fd3ba7546bf507408",
       "url": "98/09/d5018537deb16166d5baec26d5dd64ae855fe150e8cd3ae23a7f8baeee37/usienarl-0.6.7.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "e9372dcc91c22a41334dc88e1708ec1e4a141233f6c35851e97c2fb78e19b1c1",
+      "url": "fe/f6/5f099c16179e3c9669ca68773839c1da2878e5a5113fc15d1552a590d632/usienarl-0.7.0.tar.gz"
     }
   },
   "uvp-adb": {

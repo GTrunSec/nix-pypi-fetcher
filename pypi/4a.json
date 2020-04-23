@@ -5542,6 +5542,10 @@
       "sha256": "42908c393852563b328224cfa13f5df3360099d7e52872dc719e74bccaf83b63",
       "url": "82/2c/a16b2e5fb3d6b28c9cb369bafd6a4607420952e3f2c3c1a18e9556cbc7a6/dagster-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "00b84f1b5b33b6db8b5152cfffbd137e86868fdde4a54a6e880ba053c11d5fac",
+      "url": "83/68/65894319763aa40d7e554704298c3e1b6be198c1be31a601c52c5b057bee/dagster-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "079ba9b6de36bccefaff5a4f2ea455d7cf2e667c45d232e72f5dd4e075c972ad",
       "url": "e1/99/887f05309fd1146ceee8d5bfb34e0e294ed1e99f23329fed6b83332bd12e/dagster-nightly-2020.4.4.tar.gz"
@@ -7579,6 +7583,12 @@
     "1.0.3": {
       "sha256": "37a5852a022ddbda3ba97ce854c103b7095dc64a17e8ed7c5c63fad5372fc09a",
       "url": "e4/7f/8d83476e217879a3624614ec8686d1d63f0ef953f831dc9af176fb92ea9d/easyicon-1.0.3.zip"
+    }
+  },
+  "easyocr": {
+    "1.0": {
+      "sha256": "6cc59055e18a62a910ce715e997b2acf9b668443ae5c5fa0bc7845e06bd7cf6c",
+      "url": "47/99/30077e9e1df8386bf0234967d681deeee8be71c1750bb5d5b7ac23690449/easyocr-1.0.tar.gz"
     }
   },
   "ebnfparser": {
@@ -15289,6 +15299,24 @@
     "1.1.9": {
       "sha256": "f6b2815825f94aa84cb42c853f026711d07573864986f70b50aa9517a3e51bee",
       "url": "43/dd/daffad20446c820f5b316591429b1d9313a0d44e914cd13676107981b39f/nowyou_grafis_script_python-1.1.9.tar.gz"
+    }
+  },
+  "nr.shore": {
+    "0.0.10": {
+      "sha256": "b6f843f38c6aad0a486bb5c6468122f75ebaf36027152b45aea956bb5bb84c86",
+      "url": "3e/05/7d3b087ca269be91a9cfdc17609ff33f58c7c36943330d53833ad6244ae3/nr.shore-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "84e50d6d2f107bafd8b04f474a13e493948df9eee14397631aa3e0df7d9e69ce",
+      "url": "a4/e6/8f87fe808085e393db8b7f56cb573e6e9cd30d303676afed78e664873613/nr.shore-0.0.11.tar.gz"
+    },
+    "0.0.12": {
+      "sha256": "a4dc6ace7a08bb288e1f59d3f58ed21d5146e1472e087a4c38994730da5c7ab2",
+      "url": "19/63/07d57caa3609f2de442295dc072c6187ac13f3f4eb55321a04451ff50b3a/nr.shore-0.0.12.tar.gz"
+    },
+    "0.0.13": {
+      "sha256": "d115757e1a6d2e24210bb28531d661b175f1a6bf3561c8038df64ad0f028388d",
+      "url": "e5/10/abd99f17efbff7e4b424a161bb60cffa908f5f0dd53a9135e665ca9c2811/nr.shore-0.0.13.tar.gz"
     }
   },
   "nti.contentfragments": {

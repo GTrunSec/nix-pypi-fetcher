@@ -7380,6 +7380,10 @@
       "sha256": "598c7a23e41e5ff8b99ab7f8254e77588fdb5f480e85fcb497b8a05dfd41f444",
       "url": "7c/5f/71ff1ba0e5b996b17b264282b2aecbf20aa72ae6ade69eccdf57e37da671/dagster-pagerduty-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "b0d7b8639fdac9380a53bc97f6170b386372ae3a079048a57fb6dd05c81ec439",
+      "url": "c7/08/e3a45320d629863dc1997afbc3964ff9767985d58eac7f5a8fea2ac479c9/dagster-pagerduty-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "582e2b6f23349873f903ca00b840be1bcbba20a2e44aa28a2fc0d1f749a2b418",
       "url": "3d/23/8842216a6ca8d4e6a6822962f0b03a98545ca7c7a8b8d18eb8c4d796535e/dagster-pagerduty-nightly-2020.4.4.tar.gz"
@@ -15345,6 +15349,14 @@
     "0.1.0": {
       "sha256": "0a13921b3a9a8b2ac6d162f4641fd8f65771671eed06b4faf16ae3dc69eab7e8",
       "url": "9c/ce/2a5b685a5e43223e163c1cebb5be628843d4047befcabe4a43f2dbc94e6b/markdown_verse-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "59484bc96b3345102c916786e0e9b17ac97a695b1b18a9769ae963a872f40170",
+      "url": "a0/d1/749584f91600d5aabd42496a6e27414e8eff86eacc4683b26fa6b0672c3c/markdown_verse-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "d31358a35c12886c6f0f37fd6034865f111569c677c7f2eaa86ec54755e8b251",
+      "url": "c0/c4/ff26218f8a176119ddb79ccbc2392951718c3d8e1281bb90489da2b005b6/markdown_verse-0.1.2.tar.gz"
     }
   },
   "marketanalyst": {
@@ -29081,6 +29093,10 @@
     "2.0.0.0rc1": {
       "sha256": "4c80926d5d3a01d92db2605aeab07a9cc8298fc6b184c9b609a7fe23f6740cef",
       "url": "02/bf/ecb227be038744dbae04b353380a7cd27b0e838558377b3d2cf515b826d8/watcher-dashboard-2.0.0.0rc1.tar.gz"
+    },
+    "3.0.0.0rc1": {
+      "sha256": "a14e79b4bbc65538b13fd4217401fa65f53b2c9e8910b2e874412299d855faa1",
+      "url": "52/13/c76ab51f324ff437eb9774a9219bd5bed2606402364cd2eb3e484cb246e1/watcher-dashboard-3.0.0.0rc1.tar.gz"
     }
   },
   "wavemqtt": {

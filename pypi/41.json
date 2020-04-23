@@ -1,62 +1,4 @@
 {
-  "abcmd": {
-    "0.1.0": {
-      "sha256": "b46996bab64d8f8d5fcf90dc44afc6ad356acc2a98784e5c6d81888cbd3f8451",
-      "url": "a9/0d/2273a4bc58a9f7137f0e52b6d82ea434166f2772f3afb918b2ba8096ff64/abcmd-0.1.0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "9afe9f905b32f8b802854477e4fe7c4dd2bdf955557326857d5bf79ffe7a387e",
-      "url": "da/8e/478d3902d02149a68b439d5fe462914bb250748e6e5ffee06876a042135b/abcmd-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "094160086a14687a6ee837aeafa604989768889007107285715e1cefc24da0fb",
-      "url": "34/8a/b6a62839a953125a5fc69e8eed1a6de4db5236aa551511e4243e79cc9594/abcmd-0.1.2.tar.gz"
-    },
-    "0.1.3": {
-      "sha256": "c0073b23a55a8a4c224a9bdf36e980230f054d6f112596d541343fba6e9ce942",
-      "url": "05/7b/61287da41a1da62e996e17cc0642862e3ac0103fd37e4181abb8a7f9d6bc/abcmd-0.1.3.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "c6e4f956fb8f301425c4288eb7fad83ddf7bc18d42c5fe855196157d3c9b4c1d",
-      "url": "b2/6d/16c9415c157e6248f18b23f9b37601ee11615a311a594dcadf59a3442772/abcmd-0.2.0.tar.gz"
-    },
-    "0.2.1": {
-      "sha256": "bb14b3da8511f0279f4252e385dce7aab33ff9afc605d3a29bdf032e3a1e8f75",
-      "url": "25/06/a954d6034a278baacc5897466506cb6c6ba5f240d7d055fa89ca5789dc9e/abcmd-0.2.1.tar.gz"
-    },
-    "0.2.2": {
-      "sha256": "a6374d208abb5cb261d83cf8f0b12485332f4dfde066b6f671b0b638bd42061e",
-      "url": "ec/57/13909d5468ff087ba38dbd612967b3b861b1b8be6d6ea12ed198cef9f069/abcmd-0.2.2.tar.gz"
-    },
-    "0.2.3": {
-      "sha256": "da83ea94c606992518ed4a10ad44aa4ea4829bd04d037b94c525b5a6c77fc61a",
-      "url": "c6/cf/00d222d6779b67884a1b882f3df3f6ffea635eeeec54264a25f1647b00f3/abcmd-0.2.3.tar.gz"
-    },
-    "0.2.4": {
-      "sha256": "be73e8f725a5c81a124ebc3e59cd924a589a4bb13b8c907c9c538b6749ce520a",
-      "url": "35/a9/2f3e4c05ad839fa622fd110b741e69606d9877cbdbd9e9116d7ece34174b/abcmd-0.2.4.tar.gz"
-    },
-    "0.3.0": {
-      "sha256": "e25b8fa519251d1810d0ef308b7479b51fb4c6fafc239e49f87d270433bb721c",
-      "url": "8b/85/e932e5626b3b06f0d92f3615d8e374f747ed0199af6ca2818982f8848559/abcmd-0.3.0.tar.gz"
-    },
-    "0.3.1": {
-      "sha256": "95ab3caef7bab8ef56ba4a58e4b4e6581cea6b49123812777591343917d420e8",
-      "url": "9b/b8/2d5079fcc28d29c0a8402c84d1b42922458f2467d071d3d046657ae82ce7/abcmd-0.3.1.tar.gz"
-    },
-    "0.3.2": {
-      "sha256": "c513698217ce54f3c591462e94a9a87b987ed26f48ee14b6d2959c7f295b69b5",
-      "url": "3f/ac/dc161da6cc1714ed65be6b1eecbf9776efe5bd2c2cf25794728afc9b8a56/abcmd-0.3.2.tar.gz"
-    },
-    "0.3.3": {
-      "sha256": "70e608e2c94c0149da80ac98a0c88467453510958e0a6373c71de77762ca89f2",
-      "url": "4a/26/171e187bbd48de22f5c0b77670de2d768edffabd0503fa4992cf67aafc41/abcmd-0.3.3.tar.gz"
-    },
-    "0.4.0": {
-      "sha256": "c40f9f63f4a96868d991b84d2008132af8df32586ef0c94a440cc94c7feaf05d",
-      "url": "11/35/d040ed053105a935e3a3475b28518128061c3ae9e04e987d9847c4a30362/abcmd-0.4.0.tar.gz"
-    }
-  },
   "abraham": {
     "0.1": {
       "sha256": "71e13cee25d95594f0da18f46947a7cccaf3031437355ec1e0ce9bc15bd673a3",
@@ -3457,6 +3399,10 @@
     "241": {
       "sha256": "614469efb7d1471c2b21ada3689ac6915a449c9c1a751edab97b26c6dd3387a3",
       "url": "b5/5b/afe9ec31928a2c33a49c4480e29bc621dad9666e227c682dd8fcee8a85c3/cdflow-241.tar.gz"
+    },
+    "242": {
+      "sha256": "376b4a71c1c293cdbc62e481299c5061649ba512afa2b3f0d2fecfc3213d7e47",
+      "url": "7d/0a/7c155f23838bf2017c9b08eb565d294cd275078894c12a979fac9fdffb86/cdflow-242.tar.gz"
     }
   },
   "cexbot": {
@@ -8671,6 +8617,320 @@
       "url": "11/88/372f728fc08f0aeb9e94d4143c6d35c74752ff0c1e49362eba038a7f31dd/fdump-0.1.1.tar.gz"
     }
   },
+  "feincms3": {
+    "0.1.0": {
+      "sha256": "b7168f40111c4fd309ba7bf983fc273b67084184ce2a42ff2f72ed249a46fa27",
+      "url": "2c/37/b2635e399255e2820a971f1d4a40fab5758adb6be5a7e0a7f60ba65b7076/feincms3-0.1.0.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "7b6b95159fff7c5fa8517d72839809e2d66cf4f95f98dcab3f81ab2bc0376c61",
+      "url": "a9/68/a5d17d0fd8a0c5858325a1da6f27268ce9231a57e6fb8d5705c9e82db0db/feincms3-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "5f81663e32ba9a433485b8bc3d2b3d6614caaab9a12e589374a21cab54790c1d",
+      "url": "15/7d/3c60ddc3cf580ab52b1b2ae9256c0a2a2d01ead395b30d975441845f3a6a/feincms3-0.10.1.tar.gz"
+    },
+    "0.10.2": {
+      "sha256": "d4005d7677b702e2963b197ccef8e1ca4d006ce4d7921c2e8329756b0afa3a93",
+      "url": "5e/20/995955446a656e204309aefd0e1ae5cce7dcef9b8d81510b496cc42b3d91/feincms3-0.10.2.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "3048c9da7dc0e0d207626046ff5bf1e3c5c8eae911d26f1adf298f7c70473afb",
+      "url": "73/b6/68d6932d48fea63c6aaf2b805c73c34464fe88ae2cf8359a847b9a589bd7/feincms3-0.11.0.tar.gz"
+    },
+    "0.11.1": {
+      "sha256": "29b4b0069d965270c06b22cf978287628fe8acbfe420e84e903f0fa03a30ed40",
+      "url": "72/4f/a2277429f63e53efe7b8bb459dadfb50b2e05f8dce8a5a4a59e6a810b6d2/feincms3-0.11.1.tar.gz"
+    },
+    "0.12.0": {
+      "sha256": "4e7ea140eb710e1b53fdaf111109b919c3d2bed9b1db2d26eec0da40845f80c4",
+      "url": "90/07/f15059bf3739ab064972bccbf0322ff2facbc03a4d02ac63983a8835a0ce/feincms3-0.12.0.tar.gz"
+    },
+    "0.12.1": {
+      "sha256": "d3877fc4f950b8ba40f0eeb99c538e68ddbe81f00aece6d52567f612fef19bf0",
+      "url": "8d/8b/8ccea0cb935d51a558cacedd1ac4bc5875961e8c2d395fb5931b358d241f/feincms3-0.12.1.tar.gz"
+    },
+    "0.12.2": {
+      "sha256": "1b28af7d1a0897928f2f7302e5ea86ca152cbed87cbcb879a1c5da543f770ef0",
+      "url": "fb/13/e216cf324a0dcde92d6c56c5e1a7268ac8c9be6cf47693dd47db7fd4975d/feincms3-0.12.2.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "d62254160e29b14f19b6cfc1ff8ca47af6dba6303d62a180b4b60089240326a4",
+      "url": "6f/62/ff2efdcbd9b3b3fc3300db5e2b0025f8357b5ff7bd3fe02a3993b356f451/feincms3-0.13.0.tar.gz"
+    },
+    "0.13.1": {
+      "sha256": "b09ede494bc0962007eb3ca182b426980a3f4bbed9b531a06812ece0d34bf4cd",
+      "url": "31/88/f6440719e67bc581c6fb9df30e9c406c568821ca03f3e7eff142e62f7322/feincms3-0.13.1.tar.gz"
+    },
+    "0.14.0": {
+      "sha256": "c13282bf220dead8ff7bffdaa043672d0323fb70b51a9c978d912c7725caaeb2",
+      "url": "e9/a0/697798be27a2142ac3d9be571bd48eaeec09c696d1eca304b75bf2048327/feincms3-0.14.0.tar.gz"
+    },
+    "0.15.0": {
+      "sha256": "3eb307a5b86363cac55392857f7f8582c57b1c978b6537769ee522ddcb47dd2f",
+      "url": "06/7b/c1750ef8973b9a491da8762ac0cd3a25ef736cde89f8594fa8402dd188e0/feincms3-0.15.0.tar.gz"
+    },
+    "0.15.1": {
+      "sha256": "6db5f9350466215874fa15a78500f2f1518916b5c9c0bd917b64f41c9a8c88fa",
+      "url": "61/8b/646f54c799aa93c21e653b5d92b8a05b29b375695edcc8dae347f52e5fa8/feincms3-0.15.1.tar.gz"
+    },
+    "0.16.0": {
+      "sha256": "a7c60b7c2bfe610879de513c20dd14d8aa3d5f0efd5c12055a16cdeb68057ac2",
+      "url": "11/f9/1312829cd1c0d0d00a8106647032591ff66c18fbae597ee8a2ff77aa93db/feincms3-0.16.0.tar.gz"
+    },
+    "0.16.1": {
+      "sha256": "0f73eee379ae0f368c738e156a7a1bc617b92d082bbb784700dc3626dda4ff67",
+      "url": "1f/30/ac0fca6865e6b42f68632e33b18222f6a5e95ad8f25a0a6b090fd2ae17b7/feincms3-0.16.1.tar.gz"
+    },
+    "0.17.0": {
+      "sha256": "3f9da845741aa13edf58460d748b1448f97f17ce61cd118d6f8abf9997b45978",
+      "url": "76/58/9119e4b649fc18364926d3678dcea174e017a8a610e6a69e3be4feb5e473/feincms3-0.17.0.tar.gz"
+    },
+    "0.17.1": {
+      "sha256": "5270ae144f966ba40054c26c31a971cae125800b1817b624e6a1faed79750a6c",
+      "url": "d3/d9/f97b715e8e9dee9dc9c4d8aa5b7bb3639d65f9e46140a4fa21325ac746d5/feincms3-0.17.1.tar.gz"
+    },
+    "0.17.2": {
+      "sha256": "f101f31768d5141333aba482e040bb22567228b8e18c03a12210ec9b57dcf11c",
+      "url": "eb/1b/2c1e15156a630b77f8a10c658aa7f74890ce8052f3f6452fbbeee336c9ae/feincms3-0.17.2.tar.gz"
+    },
+    "0.17.3": {
+      "sha256": "6402abbf5fc6a487b3e611d022c636a4d3bb751c91ed51e3f8243cf564d4e9a4",
+      "url": "98/20/9c11085bb838cb8d415fbd6d6596f96a53bc39fec8c83c7f1d6307ef93d1/feincms3-0.17.3.tar.gz"
+    },
+    "0.18.0": {
+      "sha256": "bf34ca7ba7af6e31592c98880d7a6f30edb270524bd4368116dad323407c1c6d",
+      "url": "90/75/76346d77a8348540e40419df82a39dd64f1ac89c56c3f9b4b8d0249fc0b6/feincms3-0.18.0.tar.gz"
+    },
+    "0.19.0": {
+      "sha256": "9e32c72f1615e109b21f7f9c39657e966c934743d3dc54a29089c14179c13526",
+      "url": "81/3e/e92b0b898af690bb6406eec7597d40c0f5a058c4b08ac6d2f591ce5d163f/feincms3-0.19.0.tar.gz"
+    },
+    "0.19.1": {
+      "sha256": "76aa18a495559d967dd9456362743e0179aefcba70fbeff89abff4b64987fbed",
+      "url": "cd/a8/fcce88a56443da019b7a78dfaa17590e4c4d1bc8b4fff0c06166684bbdca/feincms3-0.19.1.tar.gz"
+    },
+    "0.19.2": {
+      "sha256": "e5d3ae9563e7bd47423b27c3a98bf23e29fb7b2c757fd4bb239a9b6b5479f0d0",
+      "url": "73/00/7c200e98351a40e8b431c44d568dd69566b369614f5c63ab7abb7e1714d7/feincms3-0.19.2.tar.gz"
+    },
+    "0.19.3": {
+      "sha256": "3d4b7e4833bb491ba1c2b517931227fa365c8128ba697e5db8d107329d36425f",
+      "url": "0e/92/9af4986aa1829bce52a0bb638042f813cb92bd7c0ee5bfbac931bf444402/feincms3-0.19.3.tar.gz"
+    },
+    "0.19.4": {
+      "sha256": "82a705cdb5fa8a78981453ba09c76a75847d97a597d8d8507a8ccc91ad9c4cbc",
+      "url": "2e/79/8bd86191f501eff747c7c98b32307a5b29083685db9b03143ecdd666b7a1/feincms3-0.19.4.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "6626c7ae4837bfa325d754340a0df20c82d4b9a0201131761fdb6546af404694",
+      "url": "be/e2/fe2ec4b5c1506ecf52619522660976b3b3a55bc671cb5dbfc67cafd6852d/feincms3-0.2.0.tar.gz"
+    },
+    "0.20.0": {
+      "sha256": "92e4ef0853a66cdcb124575977126102227dcff2add9f555b0b16fbad59e63a7",
+      "url": "4e/6b/4f01ae7cdb53bc01ffe080c7d1b252707a683df53d7f9d73fda4b0deee77/feincms3-0.20.0.tar.gz"
+    },
+    "0.20.1": {
+      "sha256": "e6cbda7fb22cfb647737166df08d2b14fcb10673929864b11b1bcd9fa46c3833",
+      "url": "f4/bd/21a15fd202127ab2f56f5e8ede823a51b1753856bdf1450c610c0c8331e2/feincms3-0.20.1.tar.gz"
+    },
+    "0.21.0": {
+      "sha256": "35a26fe20c6ed4ebcb339c6c4d90e85e9dbc2fcd2dc04a4806f9582a9bc24f53",
+      "url": "c8/c2/829b51f85144e760b893ea78fbdadf7bcacb3f76d57cbd425df89ff389c9/feincms3-0.21.0.tar.gz"
+    },
+    "0.21.1": {
+      "sha256": "7d2615e2e92ddc60cbad5cf2b0dbb999436f9b5aa006b00389cab2806a0b6a86",
+      "url": "eb/be/a61b5400b2b4e086420736b2bfecc95520dcc873d3d4fbf24910cbc601dc/feincms3-0.21.1.tar.gz"
+    },
+    "0.21.2": {
+      "sha256": "651f88c5dd00636a0d58b7d589bfa0d14e5af83e64210993f52e5002551d248e",
+      "url": "dc/53/a357618910127cda3afd362fd2f9568f0eb3c54ae669e9e396430dc2a25f/feincms3-0.21.2.tar.gz"
+    },
+    "0.21.3": {
+      "sha256": "7d57a8d8466711d8cb97a8abed36c3111355bedb59bf799adec9a0b40f719d09",
+      "url": "d1/ff/3e2752747302d83b15f11051ce5d3e9273a66eae432264b93e63f5d84ef1/feincms3-0.21.3.tar.gz"
+    },
+    "0.22.0": {
+      "sha256": "c33dd01d9aa6cbb2149cdfb4575fc416c03a14426edc12bafb7de074a7bfbef9",
+      "url": "aa/cd/f08b5baca488c37431ecff0f182613fac6e7f304eee12e6160aa98233ff7/feincms3-0.22.0.tar.gz"
+    },
+    "0.23.0": {
+      "sha256": "d561b2d57c2de0280fcb222ed58e31d52b53dd2bef9370ca1b9cfa32bad0cfc4",
+      "url": "66/11/b35b7f698bcaf13cfcc4e2882491e0818c9feba1ab9dbeed384ea1c8f6e5/feincms3-0.23.0.tar.gz"
+    },
+    "0.23.1": {
+      "sha256": "f322cc355afef9add30c4cb89e5bfb3f3b204da07bfa43e751a29a2ad430892c",
+      "url": "c9/ad/a32055df7cd46a36e8a5a9709ae88c4205c7072c35856a4d9d6f62bdc294/feincms3-0.23.1.tar.gz"
+    },
+    "0.23.2": {
+      "sha256": "3847933693acaafc48c2a04b7b2294bf744ed53cdc9c30a1c568111cb69660f4",
+      "url": "fe/bf/f3ba566b21128cd9d3a9620d6c47722fa0750a32b4f68cb97d52335fb3c7/feincms3-0.23.2.tar.gz"
+    },
+    "0.23.3": {
+      "sha256": "cd1bf59bf3123fc782a82b54dc056a305ad37dcd69d9fbe6f7eacfc5b7bdd4e1",
+      "url": "81/cb/14b6fc2ab73231884f086109eac68559c36f08ead78019aa8ecc68a79856/feincms3-0.23.3.tar.gz"
+    },
+    "0.24.0": {
+      "sha256": "5df4d3be54fa38d913e4a23ce15c2b73dc4ee14da9b6a2b4d5439211b0085ce1",
+      "url": "ca/ab/756b70e4c528c451896b85d1a248e6968bd9e1aaf7a112e17f7d6187c225/feincms3-0.24.0.tar.gz"
+    },
+    "0.24.1": {
+      "sha256": "65ad345ee4c67698d181cc37378d8060b28edf2c7afb8492c1daf24dc2c08de6",
+      "url": "76/8b/6f2750419cbf0d0d87ca82dadd8a5d328545f14ff96df6c2443cd445e2e0/feincms3-0.24.1.tar.gz"
+    },
+    "0.25.0": {
+      "sha256": "0701d9bf36bd0bf638e208d644d3cd8f2f4ba8463a009da0bd6079af767e79c0",
+      "url": "de/a7/3c50fb199a43f2766852122ee70f9d6b781cd3ab0308651b605cff85a121/feincms3-0.25.0.tar.gz"
+    },
+    "0.25.1": {
+      "sha256": "d419b0490ec3a7559e5830d3eec3bb326aed598d75883629763a354da603a3c9",
+      "url": "12/82/0e44e4bc7807c8f8b4a692dc6478ba505ec3f604562126f64fb5cb358b9b/feincms3-0.25.1.tar.gz"
+    },
+    "0.25.2": {
+      "sha256": "d5537ad51c436582261b99a626aee3504c870025c6926ab5c9dff758046dfa17",
+      "url": "8f/6d/3b062a13d5c2de1f347128f86dfe878a226ab8b755889d956576763ef27f/feincms3-0.25.2.tar.gz"
+    },
+    "0.25.3": {
+      "sha256": "a4be23eb0187c20e89a0767471e3f32e1897bfe84b88b0ebe0c26f63fad4f162",
+      "url": "15/88/5c79acda6473cb0b61173d59f1b870a6eeca2598da0f1e2eea0980beddba/feincms3-0.25.3.tar.gz"
+    },
+    "0.25.4": {
+      "sha256": "69d7e3ea67cfb99603913ce2b38278e8150288bee5ab4d27e905d0cdde226b97",
+      "url": "d3/ba/2df8450f90fe66f6cc4533226ffa5c6a5b2d0de17eeeb29f0274262a0b8b/feincms3-0.25.4.tar.gz"
+    },
+    "0.26.0": {
+      "sha256": "26753a7c5e6a4cb324933347d83a33c1f58f7a163cd36c72ae2cdd524881eebe",
+      "url": "c4/da/dc717f38d36e05949fab32dae064b1c745a66067d70a07b801e06c033176/feincms3-0.26.0.tar.gz"
+    },
+    "0.26.1": {
+      "sha256": "db6992b5519f2f6e8db76ae2d3b87dd30329da6eda56aef3b4af957d46a15c0e",
+      "url": "27/4c/0bb24dc42a24041f14b6a90ca8c292ff23929d7f4f6fa4e5502fe2194de3/feincms3-0.26.1.tar.gz"
+    },
+    "0.26.2": {
+      "sha256": "4339fe87606bb978ef18baf055a51c8d8e5bfe540ec887170ffdb8ddbfbcae3f",
+      "url": "94/fe/3b4dc1049cd837ded57eed3ab2648e8032cc8161a67c5f622cc229563d5a/feincms3-0.26.2.tar.gz"
+    },
+    "0.27.0": {
+      "sha256": "78e92a8bd804171b4e49636652a044a97114649cbb8c4bf59803c939d82a80ee",
+      "url": "d5/bc/885cacf08e0d2511b76a5d875d1e3809f99115f0c6fe6fae5183e02c2aee/feincms3-0.27.0.tar.gz"
+    },
+    "0.27.1": {
+      "sha256": "89cb6d661b39922f9fb442bdf11ce29a7506060d04c323dcda2aa3b93950d110",
+      "url": "a0/07/9784c86a929f5f55df187b1c560561d574895c06a7ec69bda7127347474a/feincms3-0.27.1.tar.gz"
+    },
+    "0.28.0": {
+      "sha256": "54760b82ace23eafdd2a34d3f955a861c6e34b1b21042bdcd7c55f77af6b2bf9",
+      "url": "1d/f0/5dd4a06531ae3d2aa14bcf7713ca78eb69bff158a821e896b8157f937dff/feincms3-0.28.0.tar.gz"
+    },
+    "0.28.1": {
+      "sha256": "42bf9516bdd33082506541ed6ff53825c3a74dde08caa50e502552e1f6d9455b",
+      "url": "df/bc/03358a2e5a5b3341393ccbff641f2c1b6703e38505cfc8499ede195dcaaf/feincms3-0.28.1.tar.gz"
+    },
+    "0.28.2": {
+      "sha256": "d1674697b6470165b78d6247a49a7048eedea2d5f43a5e8c833f090ae073ec29",
+      "url": "3c/22/e5caf6a4e30af5fc5f522ada1af2f9344563cef9439818096e88bb383473/feincms3-0.28.2.tar.gz"
+    },
+    "0.29.0": {
+      "sha256": "5ea58de0c2441ce1fadc5a2d48cd27ac4180c4c9786908119b37426146def896",
+      "url": "4b/00/3fcb98bcc0d22edec2e508e04a2f0b154278f29be32f4a56fb300cd6e9b2/feincms3-0.29.0.tar.gz"
+    },
+    "0.29.1": {
+      "sha256": "919e3349fd426addb7cf835b8769ca25c80df35fc5666580d7cffa65f6fb389d",
+      "url": "42/d2/bef79f39ba4fc3ec231528028f41bd58018ce0a55256c6de2f987ea28db6/feincms3-0.29.1.tar.gz"
+    },
+    "0.29.2": {
+      "sha256": "a16c9dd780184affa0fa28f78ec10ea28ade25891cebd6c81eea8d7781d6a251",
+      "url": "0b/e3/d56fc6e09505489bbd379e5bb22128c195b0298ebe931dd9262e458a72d1/feincms3-0.29.2.tar.gz"
+    },
+    "0.29.3": {
+      "sha256": "55794dbd058770bca3b9771709bbd26b05df8250cfcdfa0158cdc4cd4f03e9d1",
+      "url": "ec/6b/88c1f1799b4b2ac10c6b52187830d327095a08806b2440f452d57b9c1e45/feincms3-0.29.3.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "5f636d35dfb49c260d3372bd7ac5f9857983862dcd99d2d1c778ffe1efc6816c",
+      "url": "1a/31/d77407692f68ab5e279eb77bde144f878f8e26535c3a8ed3ceb6ce5db4fd/feincms3-0.3.0.tar.gz"
+    },
+    "0.30.0": {
+      "sha256": "5032d620c76badd52f75304329828c5cbb5dda33bc236d32ee6775c600002894",
+      "url": "4e/bc/289503c00b5f05428aefa288546a7a2761804eadbc01ae3fcd21a8fb8540/feincms3-0.30.0.tar.gz"
+    },
+    "0.31.0": {
+      "sha256": "877493dd7009b16bb7abb1737d8a3512ab0c85f086432422891ba4dd77287959",
+      "url": "d1/00/ffc16eefce0c6ada7930a3bb392f408c59aab5e007211a8219691b083859/feincms3-0.31.0.tar.gz"
+    },
+    "0.32.0": {
+      "sha256": "f05830aef4d556c9b44cb4f5e4029122433588dafdca8cb1767d82ed95bbb57c",
+      "url": "35/02/c96ae4d8f5213d18d6cb89d3706087c7e791397e7596ef7ee683fa312a04/feincms3-0.32.0.tar.gz"
+    },
+    "0.32.1": {
+      "sha256": "ca819795746c4046e729b8423361be9436e1b1fbcdaf33b0b301ba16e5000fa0",
+      "url": "90/5e/82e7ea317e6c7058965c66058d8154aea43ed54b9dd42a915f3f6e0d8e93/feincms3-0.32.1.tar.gz"
+    },
+    "0.33.0": {
+      "sha256": "2ca154d3dd3269c16d35f0a8f69e7537056e428d860ae2e421bdff1705b56323",
+      "url": "01/79/cdc6962695e19cf363319fee8242b9c2442c7b1cf2f71182f70a4cc26404/feincms3-0.33.0.tar.gz"
+    },
+    "0.33.1": {
+      "sha256": "3038cf16a796be2ae84e08222f294b58a57f803f92dc6cb5ba925fcab78db90d",
+      "url": "6b/47/cccfda292a55aa75b2f2b188f16f881745aecc5260ccf0af40ac0e55f79d/feincms3-0.33.1.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "792f1990a26175cfff45e4467a8c24e7494042a49811b72dc28ba2f8c6e7f945",
+      "url": "7a/89/b66232e387afbadb57c06d6dd9220192ec9f75d66a7dcc4d57dd68539026/feincms3-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "30d274e3675969d16c0365e248b51469115f343e62d94b22b8542dafb4c1271e",
+      "url": "0c/06/e5fece7645729d0e58321fb6378e30b712ac4989a54b0cb04f7e55ed1538/feincms3-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "0e43810271f7fd8acca2f857c8891658fcc9692e33e79cf7651eb350a4ddcee4",
+      "url": "e4/0b/fe2bf11af52b7b450f9e7b7036358b3b7f69b2362a780c818f9e2b3a27ce/feincms3-0.4.2.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "6efbd9578730d8cbbcfb18650d5def84442c011ce04b30fe539117d142156604",
+      "url": "03/19/a05bd0f02494420ed3d0b5b2a02f461f6db9025f0e83267602b69b866a5b/feincms3-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "95d4c31d1466b8f73a2fad41526c009688626a068b8a3ea2d04077d4487ca89c",
+      "url": "e9/99/9817d5da5be4389b2ef5f29055ed079e705caf9bb39009eaa8879f090083/feincms3-0.5.1.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "c39f3e081032ea0e7811376d6d994bb07cebcda51121de73a124cd6fe15e934f",
+      "url": "93/a6/8bea6faf18dab6005860996c09ef251db0f9777329b02c327d848ca335c8/feincms3-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "09c3f81a380f6eadea4ace9874281be6554f886b2da8d3b5fb5b7df069834360",
+      "url": "b6/1a/8a9c2dcf14aadf51bd05518f2341b1dc81e25724efc4636702c7c39934fd/feincms3-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "a26ca50f6eca0bfc22b59ac8f155ea54af19b50fccf7d498db27e7bf5e211dd8",
+      "url": "ff/24/e9a7b5815cd47702fc391ff6895b1e16294d55b6000d4ed9b303a89ad63b/feincms3-0.6.2.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "59e3c22502baa2de603a39a882886b5908a398ad36bf95a8220b6a5c2247e9f4",
+      "url": "74/0a/15951bb9f4680a06097d69e4788e54473536d460db32a635f520abaf3a0f/feincms3-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "791174dfeabb604ef413ab8b41786693c1de74cb5b81a643692bd6169794ce6c",
+      "url": "ab/c8/e426865dec556c93057da217acf4c5e2c34888b410d7f34b8b062a5475b0/feincms3-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "fd2908455cfd1bc85784dc83391f8de2aca9c552d11ac80b325d3f7eaa65c78f",
+      "url": "91/9c/670df542413ea62b069d7b3ed193422f4c651982ec79c61c93855507a754/feincms3-0.7.2.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "9f0172709057d71a4363b24e6c6ac3a0230019eb6cf7b17a32e669eb02113cb7",
+      "url": "73/84/91fcd3322f830f37498dbc39158ef042945ff264964b4908a4a71d1dfcf2/feincms3-0.9.0.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "5e819d4e4d8edf7b02268b23085cbae7fb6012060a416ed865039dd984b1259a",
+      "url": "60/b5/70a8182bc4b965e6eb6188e06aaa847b8bbec52770a0e11699ef14d84e36/feincms3-0.9.2.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "797b9d82df97b356872905ed11106e89771eb20d6c0aaf129403fa05999139fb",
+      "url": "c5/76/e14482f788cbea2e86dbf205c6329878d321b3949b2a5d2d3c531243156c/feincms3-0.9.3.tar.gz"
+    }
+  },
   "ffs": {
     "0.0.1": {
       "sha256": "decc4d0b89f43b79d47105e1bb0c7f1c21e65919f2ed154228bbcb70738da84c",
@@ -10473,6 +10733,26 @@
     "2.0.83": {
       "sha256": "2195891285e367c434d49b6c91ca36e24ce90087d9342fb143ea39e1f00465a9",
       "url": "a0/d9/46372050ef0dcc3d8125539509d6e879f97de48fac3927b1e00a93199c6c/gtl-ville-2.0.83.tar.gz"
+    },
+    "2.0.84": {
+      "sha256": "bad9842a20390650c2e9022cabfce0ab0c2db8cf50a27968aac2509484941599",
+      "url": "e0/c6/663a1592f7daff61a0a8032c8b35308d38eb61cb872cb424cd69b3797878/gtl-ville-2.0.84.tar.gz"
+    },
+    "2.0.85": {
+      "sha256": "fe84a67e72f524c02fce5ba57e18fdad81b880b60c108b2f3591a6ac55f75905",
+      "url": "ba/45/be9feb0172419b12aa5b3e9845ebde5efbe4df9c867b78d08950c8fa5869/gtl-ville-2.0.85.tar.gz"
+    },
+    "2.0.86": {
+      "sha256": "ff07d0d9213275a67de0417e506e2aaf564b8ec138a2ab87125fc693cecb5a2e",
+      "url": "a5/5c/b33aefdae46a9c6a685c873805365d24e507ca5f337daf71bdd62fb64893/gtl-ville-2.0.86.tar.gz"
+    },
+    "2.0.87": {
+      "sha256": "b48c408ef6c97029a47ae1b2d9e6db0f0462c91d64ca0b331379af6bb7eba8f1",
+      "url": "b8/7b/37203cb00f3480dee658c22837ff312d819cbd45f2d13bfb6d9e865bfbd8/gtl-ville-2.0.87.tar.gz"
+    },
+    "2.0.88": {
+      "sha256": "5a65b4c8be2a540126f8f4cf6f58abcbcce5fd9cb3a56ab12d946a9d9ff87e97",
+      "url": "e6/5b/12748ae4b58bf96da151bba607f6e2de58137a8724deb5c4f5bb8583026d/gtl-ville-2.0.88.tar.gz"
     },
     "2.0.9": {
       "sha256": "bed0793ed4c2b8be86bc0df0cf0fc3404cc4370dfadb68ab7df10661abe7515e",
@@ -13123,6 +13403,64 @@
     "0.13": {
       "sha256": "b04011b8defd179afe24da2b5788b1ae3e9dbe112b4b91be966c91d8e93e847a",
       "url": "24/fa/7594ec68fa4df19c4eab9be8b8d7eac0966138149519ef5e8cf06eef3d60/mcq_hammertime-0.13.tar.gz"
+    }
+  },
+  "meautility": {
+    "1.1": {
+      "sha256": "2c8c396338007329e3689925b0840b268a91d342752092d5f2e293c99411ce48",
+      "url": "1d/4e/0d7ed18c8112ceaff96d1673f6b88a47f349cf33f337cb455aed168e2f4c/MEAutility-1.1.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "92d6929dcb0ed1597d38b8ea85824dea5708fba7bd2e8248e642f9b547b37687",
+      "url": "01/2c/067fdf512f7d454a3a98346d3ff4cd47505e7aeef1594e65ca8088e9b7d4/MEAutility-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "28b731a169004de8e5b4b93f3dab60fbf188dfac823a0d955b9a548cffba80e7",
+      "url": "fd/d8/c1159593ce3dc970a1286de535a5030a90d951d062c0e685dd1c827610c2/MEAutility-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "fe6765451baeb56996b95f8900fc8826433390c2fe0b5d42f96325c35f924d16",
+      "url": "a5/31/a3c99665108e151463fceaf404eec50e3348ac0fa177da2e7e237a44e08b/MEAutility-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "38bdc92806061496e12c64753210dbcaa56791b687b4a6791518b1aedb1f4bd6",
+      "url": "1c/9d/052ce1bd3444c714b9f0c39bec7defefca90791be34554575c1e182bc1d0/MEAutility-1.2.4.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "83ef66be84bc056ee76d138140f61e7656c200f523d02d39e3802a162706d840",
+      "url": "13/f6/85123f7202b49e028d9dec3e766197644febf5fc4d338cbcc85196704815/MEAutility-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "d1f0fc8d26ec6866295ffb818a377de81b16b4c64f0c76fd460ef0245778550f",
+      "url": "78/f8/20d4562c4d1d9ee8f43d26f08831d08a95622d0d616b2f870d7a28075bf6/MEAutility-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "067707fe31ea517339ad1355ba054357f80c7751baf66b60f7c2c6fec7d40d5a",
+      "url": "87/0e/57713080d7ffa925ef38f92b019eae31be0d7ddc72b79c186f0dd972e19a/MEAutility-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "410245559fdef7b3f50968fc3671daa0e216ab0e2da1d40b53b6c9ecb4f75e9f",
+      "url": "c1/ea/155c0833673a49016bf19856767b929c68063c56673706a2969b57ee863e/MEAutility-1.3.3.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "8be013867681c2d6a09c8e6b2c2050f797e566885c10b951c0f56c1a782f287a",
+      "url": "c6/84/4e42b67bd50fcfcac3d0d159000330c2c3c9a711ca945a437dfc7457dfce/MEAutility-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "694bc58e583fceed0cc409e3bcb801e13475e9baee43ee43dc45a9f77d656713",
+      "url": "f9/ce/1a46dc284ba8e78ca98e830644868c2cd2e592ea16e4dff940c77732c0b4/MEAutility-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "3d646997e68b13a21f502242bd38dd3c6c502c04f233e84c6f5a438c2a1b2a0a",
+      "url": "5e/33/a3dc991654645155d0cb8778440fdf3fdd0547dc2af367bfdafd03f6ae1d/MEAutility-1.4.2.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "7cd1f723992aa7366f1cbbf8f2843e1f61d8123b459435653860a3b544bc752f",
+      "url": "02/0c/8c5bdfaf8e61e195676d3ded6e6a9a2813609e4121d0b531010b205f56e9/MEAutility-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "8dad04cfed6fdc8b993a41f8c847905331af7ed3a412d9eda3fca5bc4f88175d",
+      "url": "d7/53/8ebaea57510962928cdfca93e98421173a98d96bb2712328f107d224650a/MEAutility-1.4.4.tar.gz"
     }
   },
   "medialog.mobilethemetwo": {
@@ -18268,10 +18606,6 @@
     }
   },
   "pdfparser-si": {
-    "0.2.5": {
-      "sha256": "95ad41a5b352784cc649f9ef8b0fa00755c80a6132e6ac1d9ae2821c6550497b",
-      "url": "fd/0c/0ebc6d3b630548caedc4108989da58ce2386af6fe2b41d7c2a3d14f2ce83/pdfparser-si-0.2.5.tar.gz"
-    },
     "0.2.6": {
       "sha256": "e9a598771361e45ea829213bcd1250c3453a10d752bc32383f326dc20e5a2864",
       "url": "a7/7d/d391555b4046b1ea472f935a22eb4e50166f127338a0a33a4f81dd018549/pdfparser_si-0.2.6.tar.gz"
@@ -23473,6 +23807,10 @@
     "0.1": {
       "sha256": "3e5ff81714c379cef7f0391b6928634ceb3c1617dedf7da7d693b39ccc49c9a4",
       "url": "52/1b/e3f8e077d5724cd0d031bff47b8550a5642636d4717dfb5a2bf4820917b0/rgsync-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "8f9f3c07d3b9977049d8464579ee6b3e299a40b721201e49d9198164bf08f7b3",
+      "url": "79/82/ad1e214077d989058f79e61af77827a8f8a75af63e64cae877ef735f7a65/rgsync-0.1.1.tar.gz"
     }
   },
   "rig-c-sa": {
@@ -25625,6 +25963,20 @@
     "2.5.9.20190830": {
       "sha256": "9fd7955adb6d71c3c22fdcf20cbe634558557fe5423492c2b797d7904db95fc1",
       "url": "99/89/e759694b24f6a9d74049e8dd66bd9194e54e4bb97effbca4c69dff9f9046/TransVar-2.5.9.20190830.tar.gz"
+    }
+  },
+  "tripleo-ipa": {
+    "0.0.1": {
+      "sha256": "2497416dcdc393ef7acd32e9789127644831320a7276b121b5ff4d74b382a733",
+      "url": "66/77/e9fd961d99cd897faface71c4a33dee837f0c3fa31af3e5664041d795cf5/tripleo-ipa-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "c1beec37dd8161d0dead46ddb188cf3eff1cb04ba37aeb9c0c7609797b1bdb1e",
+      "url": "4e/33/00c77d5f6b681597dbd57f42f12633738b81a86f739333ca674a2abc637e/tripleo-ipa-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "8d8c1ce2d5e5d1b814be0f20b44c11264f931c825ac4dbeae2d5fcd5f20ecb28",
+      "url": "ca/c7/66179dac9c27e43d0dc1b873e14df269275132bded180c545b22fe71e13f/tripleo-ipa-0.1.1.tar.gz"
     }
   },
   "trytond-sale-subscription-asset": {

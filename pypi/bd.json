@@ -471,6 +471,12 @@
       "url": "fd/d9/f5d26a7597224dad1b7dc308a62e43b85fc9f6697958f95129ddc35c7fec/anlp-0.0.1.tar.gz"
     }
   },
+  "annotell-kpi": {
+    "0.9.5": {
+      "sha256": "52dc3c1780057b472d2f4826c9168809cd67290dce1a2be573a3f8127862f32f",
+      "url": "6e/84/8029afdd2828a8a9481df25a7970138c6e3809b78d4f556e79e71a8b585a/annotell-kpi-0.9.5.tar.gz"
+    }
+  },
   "ansiformat": {
     "0.0.1.dev1": {
       "sha256": "df781bb0307af73b87b39ac8816fdf24e72ebdbb18218a7337a9894a33dbb38c",
@@ -933,6 +939,10 @@
     "3.6.0": {
       "sha256": "677f162fbd8564f2a9dbd421f89619b4ca776befbaac6a41faf0fe648dfac78d",
       "url": "41/0b/82437825d43f9b0d81b40d5abef76f9fd09e0072ac43feec7e24a7cb26f9/area4-3.6.0.tar.gz"
+    },
+    "3.7.0": {
+      "sha256": "37413739df6ed5300700d036a99708fd99b0860fdd7085466b4a2443150e531e",
+      "url": "0c/41/7dd579232f053df94d5eefa14b251e27db87fd17af28a459664c088695e2/area4-3.7.0.tar.gz"
     }
   },
   "ares-util": {
@@ -8601,20 +8611,6 @@
     "0.1.8": {
       "sha256": "700a3fea2cc566ccdf95b016c90a228fc0f133ed7544396c2e8ff38c612b7842",
       "url": "42/68/3711e82ff846a53297e86549221eccb01d6754817fc380eeff44540e9ca9/expectly-0.1.8.tar.gz"
-    }
-  },
-  "ezexif": {
-    "0.0.1": {
-      "sha256": "e15af0b91657681b0aba8a96aec12d9ad05311139af52d109cb9e93be25f5f49",
-      "url": "5c/08/35a9c8d47e6a8052492a7556d7c48e2fc99491e3e4114611a5c1d891f640/ezexif-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "1bcde38f6f827fe1d0d9b3ec8727a84b25b381588a1348ab457a43a20f29655c",
-      "url": "b1/46/3bd20f0b7f1d692ee4b56d6af37288ae071b3f41380ef997da76c9b1f553/ezexif-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "a59f47bd95c12cdc13daf1920cc036d628f61bf8153dc9fd44351e96b961c2cf",
-      "url": "a0/e0/cc012fab534454737a46c1fbe4233778a1fe6416ecfbcec215ceac722398/ezexif-0.0.3.tar.gz"
     }
   },
   "ezvis3d": {
@@ -16512,6 +16508,10 @@
       "sha256": "0c9a785dd1bb27bdd8c63f1bdf36de230552851b4f67bf1784ad63f1119d9762",
       "url": "6a/1a/b45f5831e3803ccdf803dae166427ca59a512d70f57f08e860a6e3024d9a/opal-0.18.1.tar.gz"
     },
+    "0.18.2": {
+      "sha256": "b4395fcded83a3a7fb24e61f3d60eb84f57343e8e8bebded7a94d0a8841673b6",
+      "url": "83/75/8f92eccc1abb18b459468071e571f5b1cfbb55e149a66facfb63cac5b449/opal-0.18.2.tar.gz"
+    },
     "0.3.0": {
       "sha256": "b75f083b77046942638850ba4de0d1fc47104d2fac5282df6515d5c8be599b60",
       "url": "ed/01/1f358922b952e1d9037cc46a2931d14f1e0a79aa569b9182ec7844498fb0/opal-0.3.0.tar.gz"
@@ -18497,92 +18497,6 @@
     "1.3.0rc2": {
       "sha256": "c1ac75fa222d5e377b7244becc035aa0e7424a46e788fff5e8c8647c0aa1bca4",
       "url": "bf/d0/1d611e38bec9594e5592892c02ade064194051053fa3b3a1836800c38f4e/pygeode-1.3.0rc2.zip"
-    }
-  },
-  "pyglottolog": {
-    "0.1": {
-      "sha256": "eeef66d38d6a7887a8b3ec0b80d9186ffd3f3888cd06bc2375861ed7e0d2738e",
-      "url": "cb/49/ab4dce435d9be7e9221b5f097bb0ff3f8d426935ff7dd7c957adfb7fd33a/pyglottolog-0.1.tar.gz"
-    },
-    "0.2": {
-      "sha256": "38468505761d585312f22fdce3ef9602273d2f6e2d0d890611d8b3e1dba4ad4d",
-      "url": "51/b7/5bf6456acdee11b7e5e903d53392f0abe5980927a5629c5fc3f280e51d24/pyglottolog-0.2.tar.gz"
-    },
-    "0.3": {
-      "sha256": "dfb4acf2e6e601c0152bdc2b87e2141b6771bbfd6f9b7bd05b5b9caf1c5128aa",
-      "url": "85/a4/c259da52c9100e9195b0f3bc4c631c73d4fa23af94445f7734dd2cac168b/pyglottolog-0.3.tar.gz"
-    },
-    "0.3.1": {
-      "sha256": "cd16721371abb7f9414fc228b8f9104108411bdb83bc9836174e9e20900ad2af",
-      "url": "bc/2b/2cb2a3fe31e2084c9b2aecdf6c3b230f3ba14040fda008063bb0b5c6b3c3/pyglottolog-0.3.1.tar.gz"
-    },
-    "0.3.2": {
-      "sha256": "b5f31688c3bfc14d8ba67fc5c3a1663be4e2acf9e8b6f89bbc05fa80f6707c6e",
-      "url": "bb/3b/57fcfc318df4460d53ae2802aa079d3d1b99dd460406a5c09f5b118bfa5b/pyglottolog-0.3.2.tar.gz"
-    },
-    "1.0.0": {
-      "sha256": "7da6c0d0fc5a0695f526bd2a86c3c654ec0adf2c599b356ef58398599b5e56c2",
-      "url": "9f/bb/b53f7fe83ccc97251462ead5a3f888189ac243dac7b15784d2fccec6fcae/pyglottolog-1.0.0.tar.gz"
-    },
-    "1.1.0": {
-      "sha256": "d15b848f2db575f226cc69d1216f2611c632e0efed79c4f21233017dfb40d9a4",
-      "url": "24/52/338ab25a1d3055e61715aa550255182a5aa7718568e60d5b971c4df7c36f/pyglottolog-1.1.0.tar.gz"
-    },
-    "1.2.0": {
-      "sha256": "c0d485b9d09c540079b2e147f38c875d298babb05d517adeac0a6a81096d209a",
-      "url": "14/13/d093793d412a3d5f1554b93c19ed81caaac55c8a8dff41faf519422c3eb2/pyglottolog-1.2.0.tar.gz"
-    },
-    "1.2.1": {
-      "sha256": "db32374205bf8681e2c61857da2309b1fef2e4fa535a66aa02dbe346af344267",
-      "url": "a3/68/d44fb2805a4d22651a8704e7838a84dd3c5a815f0b4ce2ac7bbbc18d1d46/pyglottolog-1.2.1.tar.gz"
-    },
-    "1.3.0": {
-      "sha256": "ade548fbd36b8a6bf1896e2ef75fe5ffb93cdf1535b547f6a9c1c6599df47003",
-      "url": "d2/71/d77ba6f3e59d55f2ffa34587ecce8bb4835508e53ce4652659232846d4df/pyglottolog-1.3.0.tar.gz"
-    },
-    "1.4.0": {
-      "sha256": "32be243d2f60006b64994b822c2b62627d5eb6382a290185d20e68e13a2c0430",
-      "url": "80/c9/317b8414f695194ad4165ecd259e1dcf00f0af99dbf1f452b9fd00ebc091/pyglottolog-1.4.0.tar.gz"
-    },
-    "1.5.0": {
-      "sha256": "8ab1f1c287f4ca8b0345e7d68bfb31ee425034e8a8498618c2546f180282e3c8",
-      "url": "c5/1f/130f490590522097704bb3533690a8f21d447a9bc2d71c32b1b7de06d805/pyglottolog-1.5.0.tar.gz"
-    },
-    "1.5.1": {
-      "sha256": "f8aae18b63d15612fe6e8c4e6fc6245967e2380f2004bea2eee72dc1b4fb4d87",
-      "url": "58/da/42c4adb18132a7a462c1617ca00dfac6a1b012da73bbb32d3ac8df3ecb30/pyglottolog-1.5.1.tar.gz"
-    },
-    "2.0.0": {
-      "sha256": "d8216db4a05dfa81ff33ded48fdafa0d8fffa00e31fcb165495af252f5670e30",
-      "url": "d8/d8/cd59ac1502402b777682f704670451fddd9b2ddcebe77fc14f974df16ca7/pyglottolog-2.0.0.tar.gz"
-    },
-    "2.1.0": {
-      "sha256": "9cb44b356a1acc3a4461c0ce01aec91104787db2bfaa6bef99bb9b7422297125",
-      "url": "7f/19/0dbfb9a824b09979c6a61e111f78051530246bc756b7a882440e0bc81fec/pyglottolog-2.1.0.tar.gz"
-    },
-    "2.2.0": {
-      "sha256": "24f26d57118e79e4e2ca1693e52c0f3dd3ef40de2c6c97be50f14a5224c9dc10",
-      "url": "9f/13/58e331c5c155f826cc50d399cf2f0cd5fa19180af233c7ae4f7b3f4b7652/pyglottolog-2.2.0.tar.gz"
-    },
-    "2.2.1": {
-      "sha256": "364dc586e38951de5e32e0b82716f5cdc057e023bb347ec313e107ae4cc81cad",
-      "url": "ba/c9/80242ad1945153f46a07b4200a506be5bc481070bca76715e5c2f2767da6/pyglottolog-2.2.1.tar.gz"
-    },
-    "3.0.0": {
-      "sha256": "6a2086560e97bd4d8da09d7c93ef407dc0bab08461416d0aa946cd44586eb977",
-      "url": "d0/d5/3aca43ecf102d88474df28fb2c6e47ae6bd6f4582a240d270a99b298c5f8/pyglottolog-3.0.0.tar.gz"
-    },
-    "3.1.0": {
-      "sha256": "1f3500f45aa7b33c636ca465ca5d50bc586ae79ea766e4c8084a098ae6a1a3e3",
-      "url": "c4/08/96d65a325891c649dcb1a419f08cead3e1d503895617772bc4b26d9aef2e/pyglottolog-3.1.0.tar.gz"
-    },
-    "3.2.0": {
-      "sha256": "665287dd132911a863219d2e80b2a1d3e83bf81a721d6c1e8b3f42e7c10ef541",
-      "url": "e0/21/a0593a529d03d57611cdee5a51a46b13a0dd0ce3753a8ae88d648a8b2d73/pyglottolog-3.2.0.tar.gz"
-    },
-    "3.2.1": {
-      "sha256": "236d1123484bd3d9ad1b4fb1281003421f63d0b2f3e9bfe88f291efe5589fae4",
-      "url": "cc/bd/4de4dfc969ffe3bfc3ea7b778a3009bf694737c4e4e848c8cb9c72be4568/pyglottolog-3.2.1.tar.gz"
     }
   },
   "pygrouplib": {
@@ -21865,12 +21779,6 @@
       "url": "26/63/46aa83801ab7209cf9b3b74575f172d5b5ca3a6a700cf9eacc5e35c88c20/simple_rl-0.811.tar.gz"
     }
   },
-  "simpleshark": {
-    "0.0.2": {
-      "sha256": "75722ae03c1021d9faac70aeca10e624ae09dd4b0b59bb66b5a4905c6f9270ea",
-      "url": "2c/16/e601fbd0ccf17869339ea780b779d3566d8959c35ce48f4bc46be1201799/simpleshark-0.0.2.tar.gz"
-    }
-  },
   "simplesteem": {
     "0.1": {
       "sha256": "70cc766bdffbdaf3682bf8cc411ddf6e275b4daa14ae9d9164b26bcd6a10810a",
@@ -22937,6 +22845,10 @@
     "3.4.dev13": {
       "sha256": "3c6d2dc4fc2cfb9ccf972ebaedf87b8196795778cd485deee27970634237549b",
       "url": "e0/fd/09eff0e6959c327ea69dbaa15d24fe7391bb07c42421c8d45271f44a749e/skale.py-3.4.dev13.tar.gz"
+    },
+    "3.4.dev14": {
+      "sha256": "dc677b2d962f88c045b79342ff9ff985617c6c0500ec417c0867aa72b7689701",
+      "url": "f5/22/9ea824f8650d0f7192675f1e488fdcfc3af4eb6b373f02a7ac3cee1e0912/skale.py-3.4.dev14.tar.gz"
     },
     "3.4.dev2": {
       "sha256": "08989d430c93fbb7ac0d0e4f98291bd1e990a21082207a875872793df061138c",

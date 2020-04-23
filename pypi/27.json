@@ -10467,6 +10467,10 @@
     "0.3.2": {
       "sha256": "a18518ecabb6f8a79f1be5aa0597f345d61479be1e104d6891aaadd75cc065e3",
       "url": "bf/88/8f5360d47c30b24b085ea29754e8ab1674f1adcf6522126fd52d24acf26f/Homie4-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "e5ac4b780195a1363d0db0274e0efc58f9d789d5eb736f130cd6a0f989df1aa0",
+      "url": "dd/f0/347ac8a5ade41d23141909954bf24ddfb93bd4fd9e64cfedd6380108e094/Homie4-0.3.3.tar.gz"
     }
   },
   "htop": {
@@ -12987,6 +12991,12 @@
     "3.8.0": {
       "sha256": "cfa59ecc1154f5b9cac042b12ffb152a1914f3437395ff96b75de762a081487d",
       "url": "0a/67/e1d5912a483f484e00940b40de704afbc78e3ff61936fae967bef4534abb/msmbuilder-3.8.0.tar.gz"
+    }
+  },
+  "mssdk": {
+    "0.0.1": {
+      "sha256": "39ac40890cf66f80d48c9ca4befeacfd1829d40e99563a1aaa9b53cd897c139e",
+      "url": "94/dd/1cb43227604f8ed6a4ed16eaee13708c2b29f1ce1d8b5577e05bdaa0b2df/mssdk-0.0.1.tar.gz"
     }
   },
   "mtrand": {
@@ -20191,6 +20201,26 @@
     "1.5.0": {
       "sha256": "9849f4d13128090756982de32cd5b9d964e539335a542803f9e65af1ba2e8c7a",
       "url": "dc/29/1ad23d9391ae34813fb2bebcdc54c8f5739738dcdd2c53c8e26d54648c6d/streamsx.hdfs-1.5.0.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "9cab6707287a59650b08d2bfb37a6f1e0cc9258616a57d2348a67fc908a189d7",
+      "url": "10/98/afeb3518f11711ef23a279132336d109589e63cd751ee1bf3dacd5ce20a9/streamsx.hdfs-1.5.1.tar.gz"
+    },
+    "1.5.2": {
+      "sha256": "4ae345bfdffc03e7055f73cfb95f51e1a00ca710064bee9d306217c89320a114",
+      "url": "bd/40/75761732e8c73e8279bcd156ad0d94950385856cee2cdfa59617425128dc/streamsx.hdfs-1.5.2.tar.gz"
+    },
+    "1.5.3": {
+      "sha256": "c90c48593619569a85f2f04243c6e4b44fc857b739bae4df288fd7d591aa801a",
+      "url": "da/ba/56c87c00579ae678d40049393a361d6c91ce91b3b7096186626d274d9ce6/streamsx.hdfs-1.5.3.tar.gz"
+    },
+    "1.5.4": {
+      "sha256": "14cf2b2803023051bf6fb3d297a6c23641ac77e6eef68cfc8a45a0546ad24095",
+      "url": "9b/e9/557725915d5d352c0299fa5de93cfa17535e4002d4f51089471eaaf7f1dd/streamsx.hdfs-1.5.4.tar.gz"
+    },
+    "1.5.5": {
+      "sha256": "e18872f8d2553dae846c255c6a3a6beee182bbe6fd173a1c17672c411f0a18fb",
+      "url": "3d/be/e3bf1552b65e0582300774b32a400648e5f319f8c3bd7625e49f0f2d6e25/streamsx.hdfs-1.5.5.tar.gz"
     }
   },
   "stsci.imagemanip": {
@@ -21179,6 +21209,10 @@
     "0.0.75": {
       "sha256": "f3f75f595c5306b43197c0740ff614efcd96fc440393c92b4febbeaa27275007",
       "url": "b2/48/be80c052fa40de5b3cfbb547195314f856353e62bec046386c9f3a270ba0/telegram_util-0.0.75.tar.gz"
+    },
+    "0.0.76": {
+      "sha256": "147871831366aca89ac08faa988c7258be1a0a278257c9a218fe75aeaa9730ec",
+      "url": "91/27/7605c4b8e7c9db1ee6a77683bc073d7a85334400697a551de817a3136551/telegram_util-0.0.76.tar.gz"
     },
     "0.0.8": {
       "sha256": "ac86f5525bdf5c20fd983977dd9bb28180ea660ff7f771b062c5d8d1affe5aaa",

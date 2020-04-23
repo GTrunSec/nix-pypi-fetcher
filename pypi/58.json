@@ -6848,6 +6848,10 @@
       "sha256": "575cb7200952f142180a5e7eeb593992a98e63e519bae678c9eec437cf2be1cb",
       "url": "d4/be/d185329052219a4bde9e49939863ae92661c5bf989d547f6b5d5a0b2e81d/dotabase-4.11.3.tar.gz"
     },
+    "4.11.4": {
+      "sha256": "432e944ef31fa1da32300695b72752f70faea6d82d5da82823603a6e6a1f735d",
+      "url": "2d/0f/3db2c2befba5c69ee363995b3863ab47726c3048f007ae00a953cf397f44/dotabase-4.11.4.tar.gz"
+    },
     "4.2.1": {
       "sha256": "8a0cbf14ab6545a82a4f5b27967cb397bc4c6b7209759c6556dd1d625845f626",
       "url": "ac/a4/c49ab5dc2cd448e966bbca18546298f6be31d6bf3acc15b57fa7c7a64749/dotabase-4.2.1.tar.gz"

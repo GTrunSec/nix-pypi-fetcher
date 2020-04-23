@@ -19287,10 +19287,22 @@
       "url": "29/00/c4fbd469808e75121672226736a924511b725a89889025481babb02de19c/pycheng-0.0.4.tar.gz"
     }
   },
+  "pyclay-common-utils": {
+    "0.1": {
+      "sha256": "6120b1e0303e534c86a67aa2b82446844dab2c1ffa4c1370c75240df0607cecf",
+      "url": "ff/6e/df237c34676cc75d7004abd513ad92ab71728ea0c9eb3669fd2eb8ab345c/pyclay-common_utils-0.1.tar.gz"
+    }
+  },
   "pycopy-cpython-ubinascii": {
     "0.0": {
       "sha256": "f19db225e6bac8a728d362c3c999a962a578b81404d1c086844a8f647590b986",
       "url": "e2/e3/22efd67a1775e46a00296cf9030dde325b6f49a52f470c59c7f4c2c57437/pycopy-cpython-ubinascii-0.0.tar.gz"
+    }
+  },
+  "pycopy-sys": {
+    "0.0.0": {
+      "sha256": "99b8a9f965d1338a7dfbd468261bde482d64733fba4839ed97a16fcf108cb574",
+      "url": "04/5b/be3679b52814180d6ecaaec7c71daf30bdf374cf7db2e9fedd86fb48ff50/pycopy-sys-0.0.0.tar.gz"
     }
   },
   "pycopy-utarfile": {
@@ -23653,24 +23665,6 @@
     "1.0": {
       "sha256": "88b27e1ec459dd14fd99b91c04705d95c55af91fc6bf1c69d53c2198e40fdd17",
       "url": "36/37/b3b55762d8803aa70e477ef84a359328b8563d7a2382cf1a830aa4a11ab7/taar_loader-1.0.macosx-10.13-x86_64.tar.gz"
-    }
-  },
-  "takagiabm": {
-    "0.1": {
-      "sha256": "1372b614c3a88a76c6e67e31c522aaa8b38d37e190d056f3d55440af38432ddf",
-      "url": "ac/8a/74fafd9f40ddc61eed7fa2b901f02e4e4181f80fe403ed85ee0f3dce210d/takagiabm-0.1.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "6636ad4cffe928835fc950a720d0bf85b371dfeacd5c09e551a515afb2dc46e2",
-      "url": "af/82/dc921b0784218787421c26e9d05aaa34cafd89813d69b392c521bd8ac3b5/takagiabm-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "33e4cd36e6bf92f5299448a78bf0dfbfa72bb586d0ef72c724668b2d85fbb70d",
-      "url": "87/5b/e1ff6d7dcf31ff7e7ac0802b6725e9495e55b9e323508905fe1cf92ca133/takagiabm-0.1.2.tar.gz"
-    },
-    "0.1.3": {
-      "sha256": "271ff806556372832b3856b82601307125437dfbfc1f4a46750a71f99bf0f127",
-      "url": "57/f3/6d21fb23d57b2d02bfee89bd3a300590713bc94d115ea0f2b38c1688b15b/takagiabm-0.1.3.tar.gz"
     }
   },
   "talisestools": {

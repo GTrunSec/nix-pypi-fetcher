@@ -1701,6 +1701,18 @@
     "0.3.6": {
       "sha256": "79a4ca1562ee44daebe4853542e798afe499f2dfa77cc591f02d1fd618b08729",
       "url": "82/32/8e6f2aaaf14dbaa9c57e2ae782ff33362fe148bd644fd9bc036e1b5b4918/azotea-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "3391b2e0c780e20350d6f2b520812abfab5df59cdeb0a82f1872cbf0ba14e957",
+      "url": "66/76/7fe4be8332b74bf4889de7707792a019b0ad0bf67225dd0e940bdd38bf88/azotea-0.3.7.tar.gz"
+    },
+    "0.3.8": {
+      "sha256": "ed86f8b25b8a93e390580ba10d8b7ce99f965eeaf864959ccaa1d6693e8419cc",
+      "url": "cd/bc/c98941c2cd8c712177bcad4d643afc8da720cd17e477d2ae6d1514eb8371/azotea-0.3.8.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "75e7f7c9a43cfd32ebfbea496b991d540ce5a569f073d2ed36d9dad868c52b70",
+      "url": "b2/d6/bd5aed8f0ee4c1d155aecc80996139bfdf08ad1372b5169405abfa53bf09/azotea-0.3.9.tar.gz"
     }
   },
   "azureclikeyvault": {
@@ -2637,6 +2649,10 @@
     "8.11": {
       "sha256": "4b7c8f7666e56187e4aa5a869403b0a1cf71d74866f82f06eb88fadeb23be4ba",
       "url": "4a/67/5fe8f0b4bf4974efbc4293028efb8e60f660ab79230b5dc793e04b2a4859/canopy-8.11.tar.gz"
+    },
+    "8.12": {
+      "sha256": "ee45524b82748a1c4ff59eb6d583bbd39a609a014d8b0bd9069477b52b0a618c",
+      "url": "92/0e/01218c310131e3e104d0e67d7b76b9940ce36b8f7d16f6102e7038c3eb2a/canopy-8.12.tar.gz"
     },
     "8.5": {
       "sha256": "59e2d20328eee8bba8ece4f9046a673c0cb59adfc5b6325af425659b2a834cf5",
@@ -21913,6 +21929,14 @@
     "2.0.81": {
       "sha256": "b9c1ad827bd1e5c5e8a6d5f62b1cd289ea60f52f1952761e5ba3ab284023ecc1",
       "url": "e4/50/acd51f816d230cfea648fb87269edb212c5db1137f1fa98510e725eda3a4/threefive-2.0.81.tar.gz"
+    },
+    "2.0.83": {
+      "sha256": "6af2bf9a11206a515d11a028ff36ac37965cd79cac12a63c2548181664bb9d3d",
+      "url": "e5/2f/2da6fd826c7c50ba41abb9a4069be69a7bbaac8e3b6a9d5f4a1a191c8a98/threefive-2.0.83.tar.gz"
+    },
+    "2.0.85": {
+      "sha256": "5ea73590ae0e74f659406e3940733b212b2370dd5722cc1dfe3800db896f1631",
+      "url": "a2/aa/7119330dd9a06dea8cc780c5850c6b3a639a9568007c0f39ab304ca6f388/threefive-2.0.85.tar.gz"
     },
     "2.0.9": {
       "sha256": "bc1cfd40930ee7c5683206d37dd4bede806eee59af992d55154acc682e5e0ccb",

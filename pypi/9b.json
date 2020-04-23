@@ -1246,6 +1246,10 @@
       "sha256": "cb86c8958886acb8ce9f0d40c21bd0dea48d5cd6f9d5ce44bda3d98409e110d6",
       "url": "9f/7c/aba315c6d5003894d6b10e3898277458ce1e4bbf73b79245f196cc9ee1b4/aws-service-catalog-factory-0.40.0.tar.gz"
     },
+    "0.41.0": {
+      "sha256": "0eb4e706e137d5bec9a0e13b51433008ecbebaec5b760dcda9063166dd302598",
+      "url": "ce/99/35c98b6f20efed22cf780d35dd273be09f4326779ed1cf4602e9fbd8361b/aws-service-catalog-factory-0.41.0.tar.gz"
+    },
     "0.5.1": {
       "sha256": "71ee6fd87f69adc99712dc0df542cc9412c73debc1e9c811d0506a89d839d145",
       "url": "f1/b2/9af402af2257338fd567fb93ebb0524cf7dfbc2fcdcce6ce128b6fb8c1a1/aws-service-catalog-factory-0.5.1.tar.gz"
@@ -4271,6 +4275,10 @@
     "2020.4.22": {
       "sha256": "3e50c7e619970df7846c83e07ef29226520c608d1fdf504f80513491caa23c8e",
       "url": "cc/89/cc06e1711a1d9e74cb4377685626250d1dcc9df95b03b33ec8b616231bf6/dagster-datadog-nightly-2020.4.22.tar.gz"
+    },
+    "2020.4.23": {
+      "sha256": "7437e344eb780862acb1e9fb27eb93966a36233038476c32adb8b8cd0079e1b7",
+      "url": "cc/b6/897a1519bf26046c210fe49ba399157e9a18378bfb6c84ad30d977a4ad41/dagster-datadog-nightly-2020.4.23.tar.gz"
     },
     "2020.4.4": {
       "sha256": "5ea360908042814fd9c74ee7e21b76494c3878e2d154961ae0eae125ab344fb9",
@@ -11155,6 +11163,10 @@
     "0.0.1": {
       "sha256": "1838434a85c2d5efa73dc599c53b751f4bd5623468d6ac2666ef5cb7dbee2a99",
       "url": "c1/2f/120180fe507db2cdde87b2f1b9e6ae80ce752a2855675115db92f0487884/l2rpn_baselines-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "63011e96bcb84ac35f7dd21d90105e9990f0a59d748f77c25eedf59fdec0f49c",
+      "url": "d3/d4/cd03eb8cea76fd31bb7be722c248595aeeb83122fd8ce2b97390eef2ad0b/l2rpn_baselines-0.1.0.tar.gz"
     }
   },
   "l5-shoppinglist": {
@@ -16077,6 +16089,10 @@
     "0.1.3": {
       "sha256": "bbf58509b744464c7d90f4c3f4ec541891834e9b3768982d9c63c06ae9149b7e",
       "url": "90/ac/e00a05fa46ccb1f3a3a0485b085615927c53796940d9f44f62f8c8f96232/projects-site-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "4c03f073fb057950e4b57afd5cb0e5f6123bbd5e38b7bc84b04abc8c93ecbc90",
+      "url": "2d/ec/bda9827c451e9e6eb8b7b5367a5b84acc36a9a91d5fd92b669144de290c8/projects-site-0.1.4.tar.gz"
     }
   },
   "prometheus-aioexporter": {
@@ -21331,6 +21347,14 @@
     "2019.9.24.0": {
       "sha256": "08ac527c9e21d9e87b4a91c20f18bb0b577fbca78b13fbc29ddd0ebb040235ef",
       "url": "e7/92/b2e09426bfde0c1ab74957a08bf2bf8cddb5d55fd1c4be0af9fe655e2a31/stk-2019.9.24.0.tar.gz"
+    },
+    "2020.4.23.0": {
+      "sha256": "9600cb4b88f40e94e28e945d1878cc9791114ce04ac5d7068f6e4434455258ff",
+      "url": "5b/39/17dfd3ab64225794d411c17941910df23b6b6df15dd9adb0d9004a24daf9/stk-2020.4.23.0.tar.gz"
+    },
+    "2020.4.23.1": {
+      "sha256": "156697e9c1d8d0237a7728fa0dda5eb639a226118bc74421fa5da043ce83b593",
+      "url": "4d/2b/a8822df96e6d9aaa4fd6c7e077aa0ceea5652f56b579622420ffec2621b2/stk-2020.4.23.1.tar.gz"
     }
   },
   "stochasticprocess": {

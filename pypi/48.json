@@ -1205,6 +1205,10 @@
     "0.1.5": {
       "sha256": "83b1163331c73a3b65a480fa9db96b0233be4a0d8fa4ce01047544b44ad0cfa6",
       "url": "a6/b1/ca0bd7b92f76843cd6c23630a224217277dfe3d06dd99999c92ab2e65e45/autopub-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "318fe952e81ed5c414bb2769a81e6c2db1750391a6c026f75dc5d1f6f2de7f9d",
+      "url": "1b/0b/fa6ee8d1dde21454522d70bcd8ef4ba0c580e160f389b9e64955c307e2fc/autopub-0.1.6.tar.gz"
     }
   },
   "av-slice": {
@@ -6922,6 +6926,10 @@
     }
   },
   "fixedpoint": {
+    "1.0.0": {
+      "sha256": "25b6e12ad0cb2ba187589f0f478fecf6e5b4ff678014da79674e6f38fa6796ad",
+      "url": "58/f3/e8ba5088825964ec6d4a76fcad869f3d0ac7a3f6ae1e9d940e88460a9d81/fixedpoint-1.0.0.tar.gz"
+    },
     "1.0.0a0": {
       "sha256": "4499c110f127e9809de94d5832b0058b2725970d971ac2eff3164f765ac44a06",
       "url": "d9/db/954f146cd4028df7db66c62e7452f35c99fb33dddd75de280f4ed33f4efd/fixedpoint-1.0.0a0.tar.gz"
@@ -20809,6 +20817,14 @@
     "0.2.7.dev20200422220725": {
       "sha256": "b3d3a2b3ba07dae06b29224c6cefb90fcb06ba054b4c94bd950ad5bcafb2307b",
       "url": "d4/4c/e30770874471eaceb5be59d44b6ee5542d04d9af500d0e8c8aeae295b757/timecast-nightly-0.2.7.dev20200422220725.tar.gz"
+    },
+    "0.2.7.dev20200423020726": {
+      "sha256": "c78e2a4744ffbd64bd6807e46e1af1fb66a4dba6989422d21efed1a084f2bed8",
+      "url": "c6/49/bcd096e3dd7af8f9cce22b4cbaf9e5921983ca7edb07b174016b164d3bee/timecast-nightly-0.2.7.dev20200423020726.tar.gz"
+    },
+    "0.2.7.dev20200423025527": {
+      "sha256": "b0156a08d264033cac8c722cb43284f6d9f153be0b9daf60f13fbe0c76cbc011",
+      "url": "8a/e2/66dbbaac6de2cc19e28cf338d7e142b8ef0be9f97dad65cc2736c196d13b/timecast-nightly-0.2.7.dev20200423025527.tar.gz"
     }
   },
   "tmx2dataframe": {
@@ -22069,6 +22085,10 @@
     "0.0.6": {
       "sha256": "483049cd13f8d5f04f49d60a46bf344565b9959585a435cf5d077b2e9f386ad1",
       "url": "e2/ca/e252ad3c0da187d1d69236cd4736bf9c42fc450c557c9c3733b5e7a75283/YTchannel-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "bc5ed651d43035da46793cdf1133523b46ad6ee7c1b2934109fea40358e389b3",
+      "url": "f2/51/928805496caaafbcdba9433a3b9f282156d7f5bc23853c1081ed88e0579c/YTchannel-0.0.7.tar.gz"
     }
   },
   "zdb-analysis": {

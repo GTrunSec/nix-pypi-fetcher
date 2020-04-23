@@ -5301,6 +5301,12 @@
       "url": "d9/35/6f7fb9971193e3acfc86e66ce0b5e0e2f4f1082443dfb4d22d8a121c6260/django-quantity-field-1.0.1.tar.gz"
     }
   },
+  "django-report-builder-rq0": {
+    "6.3.3": {
+      "sha256": "277fd95ea8dc6bee0b0eee7057cd2dae74868353746abe274993f53738edb178",
+      "url": "6a/ec/fd7ff6cfd39d209b322aa92e7724748740dab583b7c4d3f5ab6966c953dc/django-report-builder-rq0-6.3.3.tar.gz"
+    }
+  },
   "django-resto": {
     "0.3": {
       "sha256": "40cf6fe35c8e18f77498a83d25cdf806357b8ea131c167eb22550b4d7d573a10",
@@ -19691,6 +19697,14 @@
     "1.0.43": {
       "sha256": "233b9b5f76756f657dc0895964556134a82fa72705aec794da067a963ad42457",
       "url": "b6/e1/f1e1f8fd39735990f9d5b639b6f2e5e6cc4edd0269e980ecb9383a8191dc/uxapi-1.0.43.tar.gz"
+    },
+    "1.0.44": {
+      "sha256": "222f3c03c649fe7ebaa26a44cb10081b5d55150c192e13af3e30e0fa5a52f209",
+      "url": "ea/42/12e9b27b9a077a4e33380de6f43d1b6bbe264ea0019ef0407d67aa7aa090/uxapi-1.0.44.tar.gz"
+    },
+    "1.0.45": {
+      "sha256": "b27f69830f502d023595e4bc9da7b1242019422d8a926337191f99df0487af34",
+      "url": "19/16/744919b446dfacf6a38ceee6d0370e1fc194ce7781cfeb5c1db3487f133f/uxapi-1.0.45.tar.gz"
     },
     "1.0.5": {
       "sha256": "8be47cc0434eff68cc2784abba07ef742823d485738b2d734c967e64b8895f79",

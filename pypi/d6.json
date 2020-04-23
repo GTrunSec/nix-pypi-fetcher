@@ -1369,6 +1369,14 @@
     "0.2.3": {
       "sha256": "811c1d2e206008288e6d6256fc7a6967a9156a89c00b300ae29913a2724f7fea",
       "url": "9a/4f/526b23bf1feb371bb51b82b2cd8e2b455051dadce90706ef416ede97412f/AutoNode-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "f0d73fdb6a7cec2b9f7be90b01580ed927d62f577b46b43f2e46f23142f48913",
+      "url": "05/a4/db35a8a7cbd3dfd25f2c7bf67c2ed5229e33470991c9d15e566750d6e1ef/AutoNode-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "50e89aeb25250efb8646b4ae822e8d450a2ce02c42ebb84a0d3d46b809f67b22",
+      "url": "1e/19/b750c3da48f156580ba7a42b6b6df59736d1210d09c9aa56271370056a41/AutoNode-0.2.5.tar.gz"
     }
   },
   "autoxinit": {
@@ -1601,6 +1609,12 @@
     "0.0.3": {
       "sha256": "e55ab43f6c5ecdf5906b004ea092437626c8c0e9e6282209d5657d3ef0a3b68c",
       "url": "3f/70/30a19dc21d835bdcc2937c6608ceb606bdac5f93146465ddc6f01a69ff9f/bbc-radio-tracklisting-downloader-0.0.3.tar.gz"
+    }
+  },
+  "bf2c": {
+    "0.0.1": {
+      "sha256": "4589108c1a7961a9f97b9880574f600b90bdc97f45ce189aa952a791158717e4",
+      "url": "dd/4c/042232ca11b8a638bebb918edb4766b8044eb4f5f8eb83a377521e56a764/bf2c-0.0.1.tar.gz"
     }
   },
   "bibcat-publisher": {
@@ -4897,6 +4911,12 @@
     "1.0.0": {
       "sha256": "30bd74f233f96b2e2e6ecaca43eecf7c0e1a4e4e69f741c92a80dc68b0c1743a",
       "url": "5d/a4/8716cc18e4905cc89fe7b25525a68e1e9c48ab192945f209c3513ae01493/django_lti_auth-1.0.0.tar.gz"
+    }
+  },
+  "django-model-editor": {
+    "0.0.1": {
+      "sha256": "29b629c38819ea7a862202b55429fa1810a95af6acfec001a98fa498ecdcc70f",
+      "url": "62/b8/452de6b0dc7115f159e4ce9ffb30cfb42a3997424349f9596f505b273959/django-model-editor-0.0.1.tar.gz"
     }
   },
   "django-mp-comments": {
@@ -15025,6 +15045,10 @@
     "0.2.3": {
       "sha256": "00b50cab8a27913c2d5440f232b11c07429a4c9447f560069f3c1078a445b8b3",
       "url": "06/60/db103c19b181bbee505d808d43c79311e4730a54b8d4b767e100d404f600/pg2avro-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "70430edb757e636c5b772377238345b29543e0945460dc2248e886cfdd40f228",
+      "url": "10/f6/5187b3374e7fe877466377e8b1f240c89249cddff1fcef7e98cab3a3425a/pg2avro-0.2.4.tar.gz"
     }
   },
   "pghost": {
@@ -16793,6 +16817,10 @@
     "0.2.11.post0.dev41": {
       "sha256": "15214aa3f3f87a0ef6f1ff893c166542f123c3f2cf79d1976acdef4bb53a85cd",
       "url": "f3/53/a9cbcdfecd95f0066fd044215cd34998137a6c725fd16df2ab33afeb9ce8/pyiron-0.2.11.post0.dev41.tar.gz"
+    },
+    "0.2.11.post0.dev47": {
+      "sha256": "019577607b4a5382527dc7d2c23c3b6b815dcfed52be86d6373193e3ca083379",
+      "url": "66/f8/83f94cba1d7b64a178df8496737e3690adeb84558bc64328a40992ed58e4/pyiron-0.2.11.post0.dev47.tar.gz"
     },
     "0.2.11.post0.dev5": {
       "sha256": "615ce17c0ac0f399c4ad9edad7d8f6db26f875f58eb21acaf497d721f5b6928d",
@@ -19451,6 +19479,10 @@
     "1.3.1": {
       "sha256": "c6899726dba03b19d6689e5f7941cb2cee01dd2d604bf7f9b0599eaffa236864",
       "url": "0f/e1/9f4b19d6526e4186f4523883d1eb125b6f27cea43188168326deb7d15830/rdiffweb-1.3.1.tar.gz"
+    },
+    "1.3.1b1": {
+      "sha256": "9af76400e40c9814a4934da9724db5f770f064e743ba0bc78d844ca1a81ca92d",
+      "url": "8e/7b/db2cd9570fe45d723fcb4f9a0b9aa2f53e5586a0a44754b1e9e41ea528b4/rdiffweb-1.3.1b1.tar.gz"
     }
   },
   "reahl-bzrsupport": {
@@ -20373,6 +20405,10 @@
     "1.40.0": {
       "sha256": "f5ff2f3b4c4baa654fbfff61f2242c88842fd26bc04a4451e222abea5f8c405b",
       "url": "63/28/99060df4d9ea906a8888c06dde98711667f989d1f8e56a861937f3afcdbd/rlbot-1.40.0.tar.gz"
+    },
+    "1.40.1": {
+      "sha256": "e4491031c0ef9fc09f61e1d03de426a5d8e67fd956b33bf365294d7c0bffb107",
+      "url": "fb/a6/1cb6263bb8d75a6f3c99195b43630d3f3e99cd4183833bacfb1b2904b1c0/rlbot-1.40.1.tar.gz"
     },
     "1.5.0": {
       "sha256": "47901e7b3b6cc449ac667e65a2275a269f4a1f3995a076063314017d76c056e8",

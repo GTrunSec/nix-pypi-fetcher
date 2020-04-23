@@ -4241,6 +4241,14 @@
     "1.0.0": {
       "sha256": "9117de44896b397a3bcc1ac21fdaca5a6d8cbed6b107c23d8a2a61a3c05f752b",
       "url": "20/df/5f7dbbd678769543f49cc6209c2206e5ce4dce1bb50765e15caeb7ceb8b1/credopy-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "cd4ad851a917cc36b51d9bc951d410baf44cdb51439f107e1ac0f578c6a7809d",
+      "url": "5d/73/2dd0532a429e2c332631597ad9674f076959e7f3ff3c3cced8b4fde84477/credopy-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "6373ba915e03c17fc760ad9181c22b22ad86ac1b7dd5a851ed2146425bb742e6",
+      "url": "ce/5e/5bc3a09898ee446daa2c44493c7d5228507afba9f8f58812f9a9894d331f/credopy-1.0.2.tar.gz"
     }
   },
   "crunch": {
@@ -9519,6 +9527,12 @@
     "1.1": {
       "sha256": "2895ca6b4a805203d370d07af34ad3d8136e7432f1af27e990ea16963feb156d",
       "url": "f1/76/8187aafcd9a2b52691fbf8e080c1133c9645f5821221035c88331163fe55/fastqcparser-1.1.tar.gz"
+    }
+  },
+  "fastscape": {
+    "0.1.0b0": {
+      "sha256": "e41a715cebea780b5b42a4b49fcbd272ddc1bc66eada54db26da4bf0500beca8",
+      "url": "94/b1/6bb4ae7556412627e441832381bad03376599e42fa2e884992e3141d4be6/fastscape-0.1.0beta.tar.gz"
     }
   },
   "fb-idb": {

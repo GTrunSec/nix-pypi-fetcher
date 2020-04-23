@@ -19891,6 +19891,10 @@
     "0.0.4": {
       "sha256": "f1ddbcefd606f09e6e826d20fc629e4f5ae06ab554f0247813ce095b1537594a",
       "url": "27/8c/c00db2f18e5ae62411b3f5ac7aeb340e6692b9d55146ba178d77e3441b9d/uyaml-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "2b49a0e6f1d0d2558a7f5cf0d0bf68cb31dead7b9017a29c6fbf564f1c043fbb",
+      "url": "6e/13/3e9a7891d15937bcc22f04c0218edbedc55e3815099c7bb0c4649471a7e8/uyaml-0.0.5.tar.gz"
     }
   },
   "valedictory": {

@@ -22277,6 +22277,10 @@
     "2020.4.0": {
       "sha256": "c1b0f02b04a7d360624e7ec0aca76af7f1f9bf41c4185e1d43e50a8c55607290",
       "url": "06/f3/944cb6e1edaf653cd22bf43103d0db7e5601232fd03040511c3b670110a7/redash-stmo-2020.4.0.tar.gz"
+    },
+    "2020.4.1": {
+      "sha256": "25634491d978fa9eab27c6e9d51e1480d28222cb2e034af04651f6b371d50278",
+      "url": "d0/d6/0ac1ecdb4ae27db9f3c57dbd42575d687b1e260df28c03828d04319ea59d/redash-stmo-2020.4.1.tar.gz"
     }
   },
   "redis-py-cloud": {

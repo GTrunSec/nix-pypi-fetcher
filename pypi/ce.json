@@ -4945,6 +4945,14 @@
     "0.6.2": {
       "sha256": "9636d44335c9d4b7453cf309061cb28409d92644cb093cbf12eac15956c65cc4",
       "url": "2b/24/030df5520146eb90ab61efc017179617834677951a0bce14d617ca986143/django-mcadmin-0.6.2.zip"
+    },
+    "0.6.3": {
+      "sha256": "732a7e92fbd97d450d30b2753255b011bf561a5ae1327940b9cdcead2e7ea4a9",
+      "url": "97/5a/665c0a6827b80b275c5d06c1aaf859403944d18534f096f91047db5e649a/django-mcadmin-0.6.3.zip"
+    },
+    "0.6.4": {
+      "sha256": "9b8fcd4e437dddb231f12740d2427e95e7be8919d25f683d720fa3cb012795ce",
+      "url": "2d/8c/8aa31d45cc8a6cdccff6cdae145fad4779249f734e9db687d1c59db87e4c/django-mcadmin-0.6.4.zip"
     }
   },
   "django-mobiclicks": {

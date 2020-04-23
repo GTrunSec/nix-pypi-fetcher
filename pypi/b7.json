@@ -2619,6 +2619,10 @@
     "0.2.1": {
       "sha256": "aa504e7be9eaea46445a0da0528f262b4efbf0bec06f1c37e977eb7ba5549f78",
       "url": "8c/94/62abf7b40e72f4fc34fb249476e5c1a34c8b459a5f36a3dfa32ac22d22c0/cfb_predictor-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "037d410cc8b1ff9dcaa1f6198db483f2158d3539c3b83b13f8aca3d41ce0ad65",
+      "url": "63/3f/23096096a1603cc2b2171636692f0e46d56e55bb5e943e4bf6c94446f1c8/cfb_predictor-0.2.2.tar.gz"
     }
   },
   "check-puppet-agent": {
@@ -11917,6 +11921,10 @@
     "0.31.0": {
       "sha256": "41f939353b8973737a603e70e65386a609f2504b99fff997a4f56eb79f46603c",
       "url": "48/39/3317c5f74b8739da64d671e579df21a5083158fbbe932aaa8c0af7ab2a37/koalas-0.31.0.tar.gz"
+    },
+    "0.32.0": {
+      "sha256": "e03589e9b6a0c0c6fbed531cd814229bfcb706957b935f79b7d3c3c04e4a6a50",
+      "url": "1a/51/154b00453a15e5d3149ac1d0b4faa0f52e8ce16a9c60028c9d2710d36443/koalas-0.32.0.tar.gz"
     },
     "0.4.0": {
       "sha256": "9ed16834e255924ddfe9a254cbb258b35dd167b727f223bee316ee436778794d",

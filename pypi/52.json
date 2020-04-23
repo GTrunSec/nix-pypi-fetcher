@@ -1210,6 +1210,10 @@
       "sha256": "ca0044e6e339c20b5f67674b182d39f03e5e0d29005e7339ba699f2fd0cde7e1",
       "url": "84/72/b7ae142144797ffad8811e3ec0d2ba8b7dc0ea7a4451f6415e7eb7db531d/asciichartpy-1.5.15.tar.gz"
     },
+    "1.5.16": {
+      "sha256": "295070eadc3d2bdd0d19fa6c53bf544dcdb016a0a3d9ccd8fcd8eec1596a4175",
+      "url": "cd/bc/53f037bf0da026cb75ddf9548196ad715c87526b0ae476933d079bbcd852/asciichartpy-1.5.16.tar.gz"
+    },
     "1.5.3": {
       "sha256": "d5523db90876f3511a123d0b9387a56c6db286b0f7077454884012012df70272",
       "url": "9f/03/1cfb5c96a871694ce43c8d6def39b3f80b4624c985b8a0795916c2bd84b2/asciichartpy-1.5.3.tar.gz"
@@ -13803,6 +13807,10 @@
     "0.3.1": {
       "sha256": "9f84371b3c64db7b441224d1688df11d4184b8da4e5dd0e509b1d9273d389c73",
       "url": "3a/e3/ce3130f2dc568c0950592ab6ee8e351765e4d2a1030342583494f44ab64b/outcome-devkit-py-0.3.1.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "5855dbe5237fc8b0e69bdc9a5d3bbc9ae29bf6cd70323f74dbba7c26d686af4d",
+      "url": "1d/db/3e29990715899ee8d82452583d830e56f3613469c6e4582576a3b0a7f144/outcome-devkit-py-0.4.0.tar.gz"
     }
   },
   "p4a-django": {
@@ -18915,6 +18923,10 @@
     "1.22.3": {
       "sha256": "0a1c34375f33f76a6de98ae2ecbb3b6b7919401a95cda9d5e84e53fdf8776241",
       "url": "e8/ad/210c98cacd838581469bb01a0122e32b42216701521dcba1e8e182b3ac5a/rucio-webui-1.22.3.tar.gz"
+    },
+    "1.22.3.post1": {
+      "sha256": "b3ac105aeb6337b1c566fd7eb8d4221e802c07f34aa88e3f7b2087395bcbe443",
+      "url": "90/5a/a8fbffad4b94b38ac1519fd866d856657ccd5c5d318a4c4177a8cba20c95/rucio-webui-1.22.3.post1.tar.gz"
     },
     "1.5.10": {
       "sha256": "bfceda085f3d677020931eeba027b4098476dee497c5bd66f7c038099fb3f208",

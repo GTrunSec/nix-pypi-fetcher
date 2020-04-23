@@ -21719,6 +21719,10 @@
     "1.0.1": {
       "sha256": "eb093548b4887e1df37be9893cc97f406d08af126ff1bc7b3464f42a4c2a4688",
       "url": "5e/e6/905c6afbb7f2ad48570c8438d76020cf0c139983230214a1242fa3d52437/redvid-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "e658c809f4f0deba8958681afa949eab82c576c7cefa55fb2e8ceba6c619eb95",
+      "url": "c1/dc/a51508b7a46a6ab9d3a4e74e2de78477e47dddd50b34d7c704e1cf4e5279/redvid-1.0.2.tar.gz"
     }
   },
   "refreshbooks": {

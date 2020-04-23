@@ -5387,6 +5387,10 @@
     "0.5.0": {
       "sha256": "3b2ac9f459a4c291556b7c98a33b197bf2c96f40f1ee39d9e52eebbc984d0340",
       "url": "03/99/df28f7bd6fa7f53930dc0fd46245f61de5ba4ca4ecdc6322f4d291a29f66/django-power-extensions-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "180ccaa6bf9e7c6817386ee74935e9234feec2cc1b7ab16db6a7ee6ddc9e770b",
+      "url": "98/c8/d0b6047979135f4f847a36ebb3ced21647495ec816dda445e0597230bb7a/django-power-extensions-0.6.0.tar.gz"
     }
   },
   "django-rest-apikey": {

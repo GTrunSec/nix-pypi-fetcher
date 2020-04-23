@@ -11623,6 +11623,10 @@
     "0.4.0": {
       "sha256": "00ba3a8c5e78b78408bb3ce185821d943c1c6133f8fe3b777eb180fe6081fc7e",
       "url": "c6/a5/14a9a45f7f38511b468e150eac8810cf19433a9326b30e0bdceeca23f93d/methylcheck-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "890b1792b2acac9e322659d45630f14719993f5ae170429bbbfbaf4dd168e8ae",
+      "url": "28/97/4563dbb3690749686b0561f64524ddc311e8129b5aecc4cab381be4d29b9/methylcheck-0.5.0.tar.gz"
     }
   },
   "mgvestruc": {
@@ -14767,6 +14771,10 @@
     "0.2.1": {
       "sha256": "76a042f43253202c3962e7252ad61df68efabce42c02ea8227c7eda9b53591e5",
       "url": "30/7d/bcbb453c96610b438eadbe7b41f0815e17a5e99f712e453e242da79dce51/pygrappa-0.2.1.tar.gz"
+    },
+    "0.20.0": {
+      "sha256": "bf72d90805d4cc63a973581c6f41cb6e57398374ad88775d5b2844a934b6dd21",
+      "url": "b7/45/b34134d31ca444286dcca6eaa9b29fcb7c98c0927cdf9742fd9aaf114d09/pygrappa-0.20.0.tar.gz"
     },
     "0.3.1": {
       "sha256": "578a2dd8c3cf16887fb515a1f4b9b3e9d38e7f236c2152644028a21f7e5f3834",

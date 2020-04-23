@@ -10119,6 +10119,14 @@
     "1.9.5": {
       "sha256": "42612cecfbc2c425999a5727ea86ef5f9d4fe1475fa552e138a72ae88ddcd004",
       "url": "d3/c5/b4c13b76f49dcdb73bdac656769a43f6f7742a748c93433b63012cee7b54/gnomecast-1.9.5.tar.gz"
+    },
+    "1.9.6": {
+      "sha256": "c27ef012e0bdcda5e261bfcff662ddcf184ed19c3aa215cf30cac334076ed83f",
+      "url": "33/7b/10b0344378dcf5cd4cb6762d96f83aa24dff07cec83c3b8ae83d73aad5e4/gnomecast-1.9.6.tar.gz"
+    },
+    "1.9.7": {
+      "sha256": "1b1bb0c6a4abd631c56a653e00a7ff840f709d8d64f13c34d9ef263693bc11e6",
+      "url": "7c/d9/d32746c06b75b0a80505bb6fbbed5ca22aa00ace5534726b3b06f4b23262/gnomecast-1.9.7.tar.gz"
     }
   },
   "googlecloudstorage": {

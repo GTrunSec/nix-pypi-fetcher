@@ -1807,6 +1807,10 @@
     "0.19.2": {
       "sha256": "4b5e70364c37f25ff5f8419176a0b0254e39d761fc5266d2c9c9183595b1eacb",
       "url": "b5/b1/9dd03ba391c130ef9ec791a6dd9b413ee98356e78b01989dd7518bd52842/buildmaster-0.19.2.zip"
+    },
+    "0.19.3": {
+      "sha256": "900c1c79363969a8bdccfbc1925c48ce42d2c558163935b089fe407c353ec804",
+      "url": "13/c2/bd3392099b75839fe1d9c51ad7b688be81ae86dabe9c94e11506f1cd7692/buildmaster-0.19.3.zip"
     }
   },
   "buoy-base": {
@@ -26503,6 +26507,10 @@
     "0.5.8": {
       "sha256": "ad4aded12e4d090c8d070864ebba1416d3575880adaaa31130a005986a5d2947",
       "url": "97/cf/c2df872320bc31d4af481a60b3c493e97082a0ed3789e1e4211cce532a0c/zygoat-0.5.8.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "1e418236c658bfb2e7778c631165a3e06da3fd3dc1286e74920d75a58211ab71",
+      "url": "87/e1/825e756d050bc7a587d456dff0cfd57d25a5d057bd289e70f07929cc1a32/zygoat-0.6.0.tar.gz"
     }
   }
 }

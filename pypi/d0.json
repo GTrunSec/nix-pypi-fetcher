@@ -8703,6 +8703,12 @@
       "url": "ee/f8/8a7c5169c042e83d1fc22bc3cdafe993e5b94e0c0918cb9ebd6fcce2269c/httpie-jwt-auth-0.4.0.tar.gz"
     }
   },
+  "huginn": {
+    "0.1": {
+      "sha256": "f50d8b73af580152013df2ebbbc13c4ab16c6e50b4a1df7b47b7f2250f059a0a",
+      "url": "8f/37/185658791026eb5531d9550c2c74b70fd407914edcb03a3d538587660594/huginn-0.1.tar.gz"
+    }
+  },
   "hurl": {
     "1.0": {
       "sha256": "43f1747a73ea6ed3d4e577213cd7da865ad47a9b054a6e39d01990cc8de671a8",
@@ -11969,6 +11975,10 @@
     "0.4.1": {
       "sha256": "812270cfe8eb9aa5e8c4bcccd0531f1ae3fcbf873dbfad0d17b46468ecf5fb55",
       "url": "23/3a/65d18fb956f471c7b6622f08cee9a3b25a84d775d4cabff794072853fa7d/online_monitor-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "6ebf0500b3662d703571bbf689f0449d2cd75f021490500ae23f5d4a4bed592c",
+      "url": "be/70/47979c5a223db449157134fabd911b817f51e25ed36b3c5f01bace7a440a/online_monitor-0.4.2.tar.gz"
     }
   },
   "opengraph-writer": {

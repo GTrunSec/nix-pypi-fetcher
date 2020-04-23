@@ -7757,6 +7757,10 @@
     "1.1.2.post7": {
       "sha256": "5c0baec7bac365322d2e9ea2054dd4f4a6c184636df0ced5073a3e34feea6852",
       "url": "6a/5b/335f813c08bc9d909a2534002d80e5fac585d292fe34ebebe8a884d8afd5/emda-1.1.2.post7.tar.gz"
+    },
+    "1.1.2.post8": {
+      "sha256": "c502c26a1140141bc9e66b1aaab91ea9021d4376e9cd8efab33fc93bce398c5a",
+      "url": "7d/e9/c076d151718dfe20f9fc929bf5eaaab5ebca1a68040c0514af2e2a844396/emda-1.1.2.post8.tar.gz"
     }
   },
   "emeraldspray": {
@@ -26931,6 +26935,10 @@
     "0.4.3.dev755": {
       "sha256": "923b8d2a00717b457c984997dbd5bffda5b8b0ae17222e161fbdcf530d4ddaea",
       "url": "9c/96/a28e1dd18e16a5f0bb340e7a6f4d712aad1435373785e4525191fdab5884/transiter-0.4.3.dev755.tar.gz"
+    },
+    "0.4.3.dev756": {
+      "sha256": "008a9e467c242708bb3c094a06038d675e53821751f8184271acc67aa7babcca",
+      "url": "4c/fb/1d3689edd9b8432e5edbea22106bd332e955f0424cbf5c6652aaffe2892f/transiter-0.4.3.dev756.tar.gz"
     }
   },
   "travis-sphinx": {

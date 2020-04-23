@@ -15789,6 +15789,10 @@
     "6.7.0": {
       "sha256": "053aea5baf5d2e9c74f021c3c8a1a525fbdbc64c7164889c8e89bc572c080967",
       "url": "cc/74/9b9205c62a4a05debd68071b0b9ca717e96c4ea93c061a41726ac194f15d/plone.restapi-6.7.0.tar.gz"
+    },
+    "6.8.0": {
+      "sha256": "35f9155bf8cda4eee2d6bd707ecfb55ecd1027783403a89250544d85a47a5fe2",
+      "url": "b8/a8/eac038856dd47bc562127849ba729ac1fedfe85ffc56462450689d484cd0/plone.restapi-6.8.0.tar.gz"
     }
   },
   "plugindjango": {

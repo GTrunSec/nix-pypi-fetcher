@@ -651,12 +651,6 @@
       "url": "2d/22/84b1b74e5935684c7660a719014b81c01c77d9f5d43ed0b8610d4c73b934/astronaut-0.1.3.tar.gz"
     }
   },
-  "async-responses": {
-    "1.0.0": {
-      "sha256": "7669ea9765aba429406f61ec196b7cf016448e1285dc3adb8431d7182ce92055",
-      "url": "f3/4d/42303987b6c9a9e861d1d9b219289cc61e387613dd84af2f0228ab0a29a4/async-responses-1.0.0_2.tar.gz"
-    }
-  },
   "async-vk-bots": {
     "0.1.0": {
       "sha256": "904a13e7863cb552a2e3293b55a444d7a311648da88ce7dad3ddd37681ffb200",
@@ -1269,16 +1263,6 @@
     "1.5.6": {
       "sha256": "80b985fa81822ea4fdcbaffc0df6c3cd2ca430b80f3d138137721fe672293542",
       "url": "78/fa/cfcb0c8b299a97ece12dbed44e02b7f5efeb691c86797ddf0db0268aed87/behaving-1.5.6.tar.gz"
-    }
-  },
-  "bengali-letters": {
-    "0.1.0": {
-      "sha256": "35a8c8cd77d033c1e15ffd6f4d926731af79e8f22d8ed5384c73eaefc1b4928b",
-      "url": "a2/d2/2db6080ee0cac28d8c31a10d032235201d707968e20d752bb460ac36cb9f/bengali_letters-0.1.0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "a99e9d4690cb3d8fd223294578d238e8a60323a8050563823f6900ee92972180",
-      "url": "79/dd/b7f788dce8271b281ff1556ef55ffb68bdf70e83011635b9fb7e29eefeeb/bengali_letters-0.1.1.tar.gz"
     }
   },
   "bert-document-classification": {
@@ -2501,104 +2485,6 @@
     "1.2.9": {
       "sha256": "6fbd456bcede7ac6eca0cadbafbce9bf6535e2ddc1030e56a1cef52ff775408b",
       "url": "a9/03/195d835ccc4a3a44110224a24e6851c034a2ece98b9443efbc78257b256c/ch-frontend-1.2.9.tar.gz"
-    }
-  },
-  "chainercv": {
-    "0.10.0": {
-      "sha256": "ad04048c5ed33f2d5be494d1abcaf23faf207d47aed400576ba759a2b5934bb9",
-      "url": "94/df/e35d322b931e00193eec44bcc859a066977edae31e5a7cfb2e4bae07dc6b/chainercv-0.10.0.tar.gz"
-    },
-    "0.11.0": {
-      "sha256": "bfffa907397e8997c1594ee850ba43bf678ae7a3afacd3b88d5ed2ad0d3c25a1",
-      "url": "bb/1c/cee12630628d0acd4d6c5d7a3ba196a3aa079a863baa3dc74eb70d8494c5/chainercv-0.11.0.tar.gz"
-    },
-    "0.12.0": {
-      "sha256": "75a1ef76f6c2cf07f85b2fe546f366ee01dfc58bf43a9778e3bd539a3b61ff53",
-      "url": "e0/b9/02d9eb0ff60db1b9e5ffb1d89f8ee26764784a0f9f37a7342cb665e8de38/chainercv-0.12.0.tar.gz"
-    },
-    "0.13.0": {
-      "sha256": "eba804d2caa19f59fe10e0bce74562bfffaa574fd78cf23faca34966b82b3eec",
-      "url": "2b/8b/1a4dcd9c25842bb87761e73f065477cbad9bce0e5a0bb9ee480e81eb884c/chainercv-0.13.0.tar.gz"
-    },
-    "0.13.1": {
-      "sha256": "84214bd2fc191dacd73a95342ac45ded36232fc588825458752ec57df5e97ded",
-      "url": "e8/1c/1f267ccf5ebdf1f63f1812fa0d2d0e6e35f0d08f63d2dcdb1351b0e77d85/chainercv-0.13.1.tar.gz"
-    },
-    "0.3.0": {
-      "sha256": "c96189c05e79d1688f32cac4092d91c27ed0023fbe6bd5f3a5ad4eb87639807a",
-      "url": "cf/84/2c4f878c9e41ea81868319705806522621a32aed079c1d697f59f36b0a8c/chainercv-0.3.0.tar.gz"
-    },
-    "0.4.0": {
-      "sha256": "98106222b90a771b6e7df506e05203283184f2ad9aff811419cfc680d41d0d1a",
-      "url": "db/ce/58a1fc2780f58554efbeb0eefd59f99b9638de2c80c9d24773101e3ee7ec/chainercv-0.4.0.tar.gz"
-    },
-    "0.4.1": {
-      "sha256": "3c68584c1c7b252b2637be6ac4986a8986a3dbb63da1ebf7c90f5ca2cc8e34bd",
-      "url": "e6/e2/7d2d6e02de6df8430df637b8ec5bf9c463fee33dda062af94b1d2ec8ff81/chainercv-0.4.1.tar.gz"
-    },
-    "0.4.10": {
-      "sha256": "f035f1101c562ad652e99d1048b99b52ce0395a4750d38790aa0ab8c2007b44f",
-      "url": "8b/8f/36e31291ad8381f6d45174bb44cfdb23211c40739ed21cc05f2ffc8b3fa5/chainercv-0.4.10.tar.gz"
-    },
-    "0.4.11": {
-      "sha256": "97c70ec5873f90636c7db03229d66697de7735c410b69cca3421d4dae79586f5",
-      "url": "4d/c7/d76a506cb5eb30d12fd696f34473cb89248787e431eee6341e9989b18832/chainercv-0.4.11.tar.gz"
-    },
-    "0.4.2": {
-      "sha256": "a15909e22b6e072a3fb86bdb7b43afe5fe5ca00037a7c1ac239a6511bb260793",
-      "url": "fa/35/8fa37f050c23ebe9e9a87d7e3c5327428aa0b042c7cfaa7b66cab2e3e89b/chainercv-0.4.2.tar.gz"
-    },
-    "0.4.3": {
-      "sha256": "9ae51c5ceb6372047bc711ccae2b0c5e8928d9a752fc9f095833de91608aebe3",
-      "url": "60/f3/6a5b3e28e8bfc00d0732a876732fa10f8ee033c9961953a62b78f9e2e6d4/chainercv-0.4.3.tar.gz"
-    },
-    "0.4.4": {
-      "sha256": "498e644a23a496d27b0c8de92296ce33deb0b91c2e90af79d008c8000cfbb404",
-      "url": "a1/1f/281a58875d5526e0d70553cb98e8843b58d1286e8a210f64dd19f596c29b/chainercv-0.4.4.tar.gz"
-    },
-    "0.4.5": {
-      "sha256": "864cf3317062262583e0814baf47019565286d96134e39ed4d632f721b7a2885",
-      "url": "01/03/5d09bc58c079c503d54b197fa7fff943c0c97d83c5660e8551a8c7ec8346/chainercv-0.4.5.tar.gz"
-    },
-    "0.4.6": {
-      "sha256": "11e5574bf3e587733f62069ea9661bd1db488e06fb94c9169fe01be40f4e00c7",
-      "url": "fd/f1/acb2af7db3987b1837d5fc788f0a7260a931db686b7d920d6a64f01fc1f7/chainercv-0.4.6.tar.gz"
-    },
-    "0.4.7": {
-      "sha256": "8149bacfe3ff5cd7a146dfe74be26528aec05a64cc88a2651c76e1933ff4c1f4",
-      "url": "4c/bb/b4807491cfdff394aaa794635c3a387ce73fdc03b543c187c5c293c33e37/chainercv-0.4.7.tar.gz"
-    },
-    "0.4.8": {
-      "sha256": "d5cfe0441cc0b95919d80d8b50c02825c618db8c4e9056982ca2c4d28b761b92",
-      "url": "18/24/ed5e3e126d7a7bb82030186df6bfb83f551eaf56118f3d0ac4181ac34077/chainercv-0.4.8.tar.gz"
-    },
-    "0.4.9": {
-      "sha256": "73024a0e9493159281d45029208d1da64048a80b029a8e36fa31cb5eb43da51b",
-      "url": "f7/83/a7d56f8749b7c91a9065eaca50c8cefbe40e22089222a2caa60218644b23/chainercv-0.4.9.tar.gz"
-    },
-    "0.5.0": {
-      "sha256": "566ce7b5918d4a0f4a680db59971eadb54816e1d577b77be8a7f18d88a7f80e8",
-      "url": "94/11/1d7281a2c75a03cdde8f0db302b728b58884471a0204222bf9c4acee94b5/chainercv-0.5.0.tar.gz"
-    },
-    "0.5.1": {
-      "sha256": "365f303fe06c87d7c7fb5bab91a9518fedf71ae9c26c24c1c1ec5e92b0bf8493",
-      "url": "d9/5b/0dc17559a11b49a93868714ef7228b67b98f800e9faec940857c759d27bb/chainercv-0.5.1.tar.gz"
-    },
-    "0.6.0": {
-      "sha256": "fe1ed0b509126384a274656ebee93b28496f3c92b01d30e70cf11932f016b650",
-      "url": "f0/b5/49b4d128ce1712bc9625cca5163b9773dee9bbd1beb0229b874443a51f46/chainercv-0.6.0.tar.gz"
-    },
-    "0.7.0": {
-      "sha256": "4713df816cd6a99405048dc895dcffa45204b9b1af355a8e4647e5f4047d1eaf",
-      "url": "0e/7b/85eba1308b83f154154d3939ea11c0ebf6e0579b9944547d10873f51ad3e/chainercv-0.7.0.0.tar.gz"
-    },
-    "0.8.0": {
-      "sha256": "2cc9c6a772b02fd81eee51c85a54a037d73bae2a8840c273cec449bfe0386f75",
-      "url": "6d/c1/ff40e5642f37fe15d1d987d3fa5834ac8f0630b1540ad74d4dac05708273/chainercv-0.8.0.tar.gz"
-    },
-    "0.9.0": {
-      "sha256": "56da3852387a8c1942b8b07ef56bfcbd397a413273fd9bb7e998d495afb23e03",
-      "url": "18/21/5338bc26bb68bba997b424f592491a7b6d065f79a00be195b93ce8d76558/chainercv-0.9.0.tar.gz"
     }
   },
   "change-base": {
@@ -7967,6 +7853,10 @@
     "3.8.0": {
       "sha256": "6b76f5a565c735f7bca319e76871d082a42f694a6e454b6437e99816a9a62e57",
       "url": "98/1a/bd8dc3057de45b923645100dd930bf1f65ce4a2de3514896a4f4ad023cb6/hagworm-3.8.0.tar.gz"
+    },
+    "3.8.1": {
+      "sha256": "32b82fd21eaf4b64847e08b2315525d5bc2fb2d2f0d4e4cc42a052e9e0a8a2fa",
+      "url": "db/f9/3751d7671e9eb4d42abc647910bd77518cda65d00284746841fc230f808f/hagworm-3.8.1.tar.gz"
     }
   },
   "hanger51client": {
@@ -21649,6 +21539,10 @@
     "1.2.0b20200422": {
       "sha256": "ba3104fce0d74906a285812812feed93526c048c872723485dcaf38fb34acdf7",
       "url": "36/33/09c1d70c6e30694489dc36eedc9f355d2eb104f10c03f17361687eaa397b/torch-encoding-1.2.0b20200422.tar.gz"
+    },
+    "1.2.0b20200423": {
+      "sha256": "0d44d83811c20fe0bd0965d5e224615e161baaebf7a3e026c9a0b6324d8eb1cc",
+      "url": "09/bc/12dc362b4557dd5b6db5d65598964b329a8eaaa402b9c2384983a0a81894/torch-encoding-1.2.0b20200423.tar.gz"
     }
   },
   "torrentstream": {

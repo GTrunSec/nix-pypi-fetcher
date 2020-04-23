@@ -4721,6 +4721,10 @@
     "1.6.6.5": {
       "sha256": "8eef3175b711cbe90febde05bac8c38f6a7dd5ad088f0123ce6bd1b5ff640309",
       "url": "e3/d4/4b5ed45c4137ad12d3d28bee296975cecdbef0c4095797ec2f37ac39f725/cuitools-1.6.6.5.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "e2748a4dce3d600e803a804a1b5129ca87c04732074a93674e655b6e3ef65e00",
+      "url": "bf/67/180063d23030570cb33ad85948264ffabec2bde0c10e3faad02670eec94e/cuitools-1.7.0.tar.gz"
     }
   },
   "curatedmetagenomicdataloader": {
@@ -20219,6 +20223,10 @@
     "0.1.0a0": {
       "sha256": "258212c129d7ca5d81cf9d51ccb926d7a49eedc91bab8803df6b431995d03153",
       "url": "c4/ca/6fa667d1f61b094ae12d6b32c4a5aae89db2bf2d7beedb283889de496913/quickselect-0.1.0a0.tar.gz"
+    },
+    "0.2.0a0": {
+      "sha256": "07f7d3e42ad8e32add1b6924b081d774da2ddbe41ebea10482cc1eeb7916cb27",
+      "url": "4e/79/f52a438dd0e10b3a775a3ede4b122f9d04dc5ded0e8b2f3ee965ba75d344/quickselect-0.2.0a0.tar.gz"
     }
   },
   "quintagroup.dummylocking": {

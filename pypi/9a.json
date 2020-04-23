@@ -4615,6 +4615,34 @@
     "0.0.2.1294": {
       "sha256": "a0121dfd90591ff5f09b525531c4633d474fa6c78862e42269613de5ddda407e",
       "url": "c3/90/6e562abab739c93cf2bcba18f1ed66cbc7b8461d7f820784bb38c3a82820/cs18-api-client-0.0.2.1294.tar.gz"
+    },
+    "0.0.2.1295": {
+      "sha256": "72c5cd5ccccd67e02b925cd405a15eafea84027053791ad09ac5ed90db90880a",
+      "url": "c7/6a/e63792cd068e3fddcad339261a06629e7a793c31c254d0cb75ef52d949f2/cs18-api-client-0.0.2.1295.tar.gz"
+    },
+    "0.0.2.1296": {
+      "sha256": "c579a56840da5118413337712441b457b7c7026d9a203490f1cb9f129b34ad95",
+      "url": "64/99/9ba53a38014a38734269ef7dbde1649018d67a655fe036aa775ebc9f3180/cs18-api-client-0.0.2.1296.tar.gz"
+    },
+    "0.0.2.1297": {
+      "sha256": "2a41a1cbd6c8efecaff429329cf2c2eb76294edf30ec4d87f1b2f5009dc745f0",
+      "url": "54/e4/57b733d49d1be8d300412d533fc153cd4255839e004012da4974fb62b33d/cs18-api-client-0.0.2.1297.tar.gz"
+    },
+    "0.0.2.1298": {
+      "sha256": "71476ee683a693e2e971a01c26749ff7888f0814616dac33f835c4806489ffd5",
+      "url": "6f/ef/8475946a3e415f488ba1905b44fa621c8b4cc3ef7f85484432310b12e791/cs18-api-client-0.0.2.1298.tar.gz"
+    },
+    "0.0.2.1299": {
+      "sha256": "dc18fbf9c18d791b2438fc30fdeb17c98d9c78781633024cd8067850818db933",
+      "url": "0a/83/d046dab61d05409e362cc2f8a1d5bf3d4839d283b66f77f7db6a678df64d/cs18-api-client-0.0.2.1299.tar.gz"
+    },
+    "0.0.2.1300": {
+      "sha256": "71b1963969dfcfe3da792a33ca077405445ddaa74965be9cd3803c1667726959",
+      "url": "e3/ad/c8ac9205c80f7dfd5a80d9167ef2c9171a3f918bff33b7833f52b3c8228f/cs18-api-client-0.0.2.1300.tar.gz"
+    },
+    "0.0.2.1301": {
+      "sha256": "0bac92742c87b2f02eed65a89db9aa82ad573f2af6d3a3addc311e6c32e67822",
+      "url": "2f/f0/6d1fc8e5c0aff426bb8c25161aa0e144e5b81fc58175094585aee4a437fe/cs18-api-client-0.0.2.1301.tar.gz"
     }
   },
   "cskipdict": {

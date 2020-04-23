@@ -6080,6 +6080,10 @@
       "sha256": "422fc26de3fe911f4f9036971c9fb4fb1500ea2ab286c7599f2380b98fd34ccf",
       "url": "f3/e0/943b60c9863f7b21c0eb8cb611a5331828539233342704da7ae910fbb5ec/dagster-dbt-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "d43c5c19b1b7098212e952570ea1708b501c442b977a7068df35eedc80236795",
+      "url": "24/3f/5b0d38c8abebf6438221c8e6318f79867f45bff905137d03ef616be2dfb6/dagster-dbt-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "e42f0159efd029cafba06b187f1748c505af40d7b58a1451e65e8b0426317370",
       "url": "ee/7e/93562d88d06d3b0f62eb984847c4777ffab555d5edd52c09ac9a921ea1b6/dagster-dbt-nightly-2020.4.4.tar.gz"
@@ -12995,6 +12999,10 @@
     "0.2.2020041501": {
       "sha256": "31152b8841fe16d8e2e55b67267821cdeb95e666eb36a91ced1dceb079406e09",
       "url": "8c/3d/56bea88e16ea5116c357cebf82adcc1f07c5b1ad2f4b48b5183e86563329/ivtjfchcukjgtekjrnbllkfrdkvdhdkh-0.2.2020041501.tar.gz"
+    },
+    "0.2.2020042201": {
+      "sha256": "9aef2c3584a7bc5e17bfa16f26794223834db2a56248f6de00a0e52b9119b5a6",
+      "url": "06/46/9e15da924a197bef7953f0073c368311565cbf88f8ed9d991adb1acb505b/ivtjfchcukjgtekjrnbllkfrdkvdhdkh-0.2.2020042201.tar.gz"
     }
   },
   "izzy": {

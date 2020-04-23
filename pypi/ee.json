@@ -981,6 +981,10 @@
     "1.6.1": {
       "sha256": "f4f60af4d6990a31e584e81cfeafede6fddceccca7a681e3de316ba70d826759",
       "url": "c3/ff/f98fbded05f320c7cd15d435bd4c51d2e1e983cbe85fee98de00d2e63581/arlpy-1.6.1.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "0f8febcba26ef5deef523856b7b8e7a57ae880618c4f08ac4d2ef61354ddd9d4",
+      "url": "b9/48/80d833b16a925248a115e8741c23c75fa2fca254132274adebf99b5c3519/arlpy-1.7.0.tar.gz"
     }
   },
   "arrowhead": {
@@ -3207,6 +3211,10 @@
     "0.3": {
       "sha256": "fcf3a69fabe32f3be42b3f7eab2a0a54e12af948c2ba83878b2179507d9a04fa",
       "url": "14/19/0fda15be60c4e5bac10d73674795520dd22bbb25fd0995ed59ccc242ff65/cloverwallpaper-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "d2d934a2cdf437c30768cbc3c1c0debc187d5ff429c872e507879be3563b2048",
+      "url": "6b/ec/584980fc8a5624a501ef64cd2716610457a532e0f23abed1b8e8d6ea5e1f/cloverwallpaper-0.4.tar.gz"
     }
   },
   "clpb": {
@@ -3219,6 +3227,10 @@
     "0.0.1rc2": {
       "sha256": "fc1d9515ffa136202dd828cd7c3055b0b340aa547987b282f875b18179d94f53",
       "url": "9d/03/10950f48e7a3eacd7a7c72e9e19762ef6c97becd6dce61f70f324315814b/clquery-0.0.1rc2.tar.gz"
+    },
+    "0.0.1rc3": {
+      "sha256": "5a6e4a7c7e3f9470e1b20c523721f84cc5b109df830cdaedabc401e35aff5aa0",
+      "url": "b3/d0/4a2f395ce3154634119f898a008aa2ddc242c18c5d6fa27e1d7f04718bb1/clquery-0.0.1rc3.tar.gz"
     }
   },
   "cmake-language-server": {
@@ -21847,6 +21859,20 @@
     "1.1.21": {
       "sha256": "0c006dcfdfe4ad621585f8acc4f7576b76ab3e2228c36aaa1f6dec2c8bf72dc7",
       "url": "30/21/317cc261074f1b8d23d195a2254705f9b36bf338260bb098ce98dcec2525/stups-1.1.21.tar.gz"
+    }
+  },
+  "subcmedians": {
+    "0.0.1": {
+      "sha256": "d0afe8c31ec8641445bc810ee4562738dd0c3c490ef6ae7be6d837c012bfe8bc",
+      "url": "9a/92/ddfee993e0dd4b36105310c742706c338f46a6fbd2b4c97e90eeb9950900/SubCMedians-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "fec8703db30f657c3d47ac046cf55ee51fc63ae0b1b432b90441e9a9aa79a5ad",
+      "url": "26/fe/24de7d31c8ae841a46018680cf7f320b3b6871be8147412e84b2b9e0086e/SubCMedians-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "9585282cf5c81c82d4ecfeea0334049e00bb6abcce70810afb35c9fcb28e34b2",
+      "url": "22/b4/e7e1cc5df93f29f85dcf609bc6aec651c155671956096f8603e07d744bfc/SubCMedians-0.0.3.tar.gz"
     }
   },
   "subdl": {

@@ -8891,6 +8891,16 @@
       "url": "c7/29/cbd664c42a119ee14d73a6991e4689beec529313ada5c4586c9c33f72e2b/fontawesome-markdown-0.2.6.tar.gz"
     }
   },
+  "foreground": {
+    "0.1.1": {
+      "sha256": "55b3424f2f93066d4f759ef203a258659c03d3779fe0a45b2d29bb933c418b5e",
+      "url": "03/af/afdf4af8726cf79d88a296df2fede0ad8a6c56472aae574cb4dbbc67ce1b/foreground-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "d9ef8ca82109977b8f8ae5f4e86cffe6162e465965553ffaa5b65e59cf3df658",
+      "url": "bb/24/cc2e6fae1b5f8ac29d150f4575e08ac9e928f26b42ab12bf9b91e63f20be/foreground-0.1.2.tar.gz"
+    }
+  },
   "fos": {
     "0.5.1": {
       "sha256": "10bf7a0c478caeb8d00d3ddcf061fb9acea598155814cba54420f7f935cc08eb",
@@ -20099,6 +20109,10 @@
     "0.0.4": {
       "sha256": "9ac3faf7c1e4fb5e0b3118bfc8c1965f5244feffa98637f6d3c1ca4ad1092234",
       "url": "dc/d6/f689c740f83bfdb3d0badce798735efdab95a3db77a11e6d921a60fde63c/RouterOS-Prometheus-client-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "22df634377d3da7a24e17d30a67203bdf76ddcedb97dc81fded5d1a254be7e61",
+      "url": "eb/c3/4686cc2a796404c7a5da039ed17846349513b6ff2770bce0894cc5a8fcd7/RouterOS-Prometheus-client-0.0.5.tar.gz"
     }
   },
   "runnerbean": {

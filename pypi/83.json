@@ -4216,6 +4216,10 @@
       "sha256": "b10fd6e04d93341b7384a3ec04d193241307b2ffdc0eebd636ae338ee1c1505b",
       "url": "9f/b6/96aeb83343b72bb7005e79b6ec60f9635927042c7c1462f83ccf7bad0626/dagster-postgres-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "bb358509fc490c6bb80265bb00b6cbed146dc3dca12d02bd6d892e84bac6f2bf",
+      "url": "69/e9/46386e4970a1b8eeffa7bea3d803017c323fa55350bb6477557bb690a2ab/dagster-postgres-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "18a2a68978e5d8a3a98e221dee0438ac4f3eade120fc2b1aa7bd1b417a3b0c44",
       "url": "32/1c/b51321cc738709b06ecf1cf642e7f9dd9ba5c033db4e21e9146747d5b9e7/dagster-postgres-nightly-2020.4.4.tar.gz"
@@ -4517,6 +4521,14 @@
     "3.1.1": {
       "sha256": "86f66009343638317e12ee3c2e0435377c6f3a9deeb88642e5fbde2a1d871094",
       "url": "84/02/66ce83398c2656bab126818d4e541be0a8b6284dd308c581f9c0311cf59d/deckz-3.1.1.tar.gz"
+    },
+    "3.1.2": {
+      "sha256": "6e9533bccc5109e5e1822bf410cf698df0798ecf7570de13ec653b87e7a4251d",
+      "url": "20/14/fa025adc1da62707baa6c9cf6c0e44d1ba749128570b279d30f1d6e194c7/deckz-3.1.2.tar.gz"
+    },
+    "3.1.3": {
+      "sha256": "23864cc537a6f1cfe37446ca751746886e903ac3b098406c8d7ba5f5dfd13b46",
+      "url": "5d/b3/78e890546cfd61f682d0ddd4cd67874fcb807ee8a9d09476623104e22c47/deckz-3.1.3.tar.gz"
     }
   },
   "decotrace": {
@@ -23041,6 +23053,10 @@
     "1587539085": {
       "sha256": "6f2c4cac1de3852132c3ba7d18d3406730ee3ac9bc4654d6f6b64a8f5e57d7dc",
       "url": "a7/be/b183744162b293ba7d3d5dd46f5e82de5225df59ad86f8bf4624bc1ffd17/torchdata-nightly-1587539085.tar.gz"
+    },
+    "1587625496": {
+      "sha256": "07aadee764fc1603f5fa46f4844946bd8947e2ecd4f214a248997d426fa32d88",
+      "url": "12/97/390e6ef62c9d8dae9d81abf52c5505718923bc392c7f61d200cb9a1d566e/torchdata-nightly-1587625496.tar.gz"
     }
   },
   "tornado": {

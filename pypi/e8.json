@@ -9107,6 +9107,10 @@
     "0.1.2": {
       "sha256": "19bd6eea35ab03f274002a9913e2ac2fda202d07a2d14346ab862e224736a832",
       "url": "41/62/656e1287540a0bd73f2ecf5c3eaf9244cd245f5bac257ed8b5e9fa6d316e/git_nb-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "351ef389bd5bed62a8b0ce5865d4cbfc874c37533a2477ea961312d74beec7ba",
+      "url": "f7/bc/285d9de0ee38485ae15fa9ef26e0c3e40f2a6f1df7fb2a04fb92d91ef4a0/git_nb-0.1.3.tar.gz"
     }
   },
   "gitlab-changelog-gen": {
@@ -16755,6 +16759,10 @@
     "8.12.1": {
       "sha256": "59ae9cb25fb03027c9f2bf5584098e699be7eca12c443838b83752956be15cda",
       "url": "1f/43/a5bdeca8d0128a0aff3ed5189e319f3385b58f78a3a92025af1bd2961f4b/phonenumbers-8.12.1.tar.gz"
+    },
+    "8.12.2": {
+      "sha256": "61adadab01adaac571b04ddbe50f981c488ef00cfd51eef7e040ef4765871b00",
+      "url": "0f/25/25f589503e07f97199cb5671b4470f4a343a41a0e0ca470967880a118d11/phonenumbers-8.12.2.tar.gz"
     },
     "8.2.0": {
       "sha256": "81786062a0a619f989c1c2997171e3eb2085fb095cf07ab8db85f894ace2825c",

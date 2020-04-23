@@ -4356,6 +4356,10 @@
       "sha256": "ba7608139c7e09c7b342564de43a87cd4ed644c5baac6afb594cb8c7411b22dc",
       "url": "32/10/48a70e4faa52b03dc02ce6821b4dc90cf3a8f319038e75b52579515dff3e/dagster-slack-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "38955623cdcfbf4f0f925fd8b1d8c35b6c955d66f4a91d7adb5cd6eea9045e02",
+      "url": "44/a2/650cba729fe17ccd220858cb04c601630393ea2a3d16b0e5f2aa527a1527/dagster-slack-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "24418f7fac43a7b447eec698898f334c920a1f7764d3a6c46067b776df79ec76",
       "url": "d0/ce/8d879cc54172a85496c97cebce81f5758e42ce33aa80c2da8aec5b33558c/dagster-slack-nightly-2020.4.4.tar.gz"
@@ -4775,6 +4779,10 @@
     "2.2.1": {
       "sha256": "ac5a38193204a7ea8c6d0c6a6ffec81397579dd98769a09eddf2dada44ac6e2e",
       "url": "25/e6/3c182eb864c65590fa7b11ed38f26bac52227a5b1c2de999ab92c85531c3/Dictabase-2.2.1.tar.gz"
+    },
+    "2.2.2": {
+      "sha256": "12bb9287215d5f7a8aecece6383725159ba9e18e79105bdd0540eec2fcef9b8c",
+      "url": "1f/e3/60c6c236658a2fd9ef964afcdf92475bcf16d7d845169af8a6a9891650fe/Dictabase-2.2.2.tar.gz"
     }
   },
   "distributions-exercise1": {
@@ -7231,6 +7239,14 @@
     "0.0.1": {
       "sha256": "42dd541951ef08a3962d52f1e89d577478dd299043b6152cc05aca347e546034",
       "url": "02/1b/223148728e3c59e96466d3e9572765097dadcebf229bc0ae56fba404aea2/everviz-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "eba930820b9ddf031a421d94b3252578f61e174a4fc04bbe259daf957b684130",
+      "url": "13/f3/ee2439a25df1b089768041c4a762fcecc2e57b3edfce87fe1bebff86b9ef/everviz-0.0.2.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "c0a7027023a82b87ee1d8b90795fb37a12a6a50e4c95b9c3bc512554b5fae87d",
+      "url": "bd/1a/8544ecbf931d0f950408da4c4b5d45a64f0446f901cc25bd38e2d849d578/everviz-0.0.5.tar.gz"
     }
   },
   "export-to-telegraph": {
@@ -14869,6 +14885,10 @@
     "0.1.0": {
       "sha256": "f3cbf64f5ff3900a17ac5219b2398335e070295c54f150271a272d6437c706e5",
       "url": "f4/07/77d25eb1c02dba935d49eda9ebe99adadf3575615aa6046edb64ea66b3c0/moco_explorer-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "b476a485c76272e30f4af264980feb2b202f5715c631dda78174ee74b15fe980",
+      "url": "db/7c/349455d99561f84267dbdaf889ab8e223789566374e85c2b54f6dc846633/moco_explorer-0.2.0.tar.gz"
     }
   },
   "moco-wrapper": {
@@ -21057,6 +21077,10 @@
     "0.10": {
       "sha256": "4710a8921b0b7425cd2073d696862ecf99922ef522e681cc63a52008112d63d9",
       "url": "6f/37/e1682534d84899dab81943bc69fb0f01fd3164d0fa889480ce1937589533/pytest-raises-0.10.tar.gz"
+    },
+    "0.11": {
+      "sha256": "f64a4dbcb5f89c100670fe83d87a5cd9d956586db461c5c628f7eb94b749c90b",
+      "url": "2d/a1/cfb28f1bc8b7a99aa48fb6719640071a5fd00a8b5d78a693635c51ac6822/pytest-raises-0.11.tar.gz"
     },
     "0.2": {
       "sha256": "12e5626b2eb0d8c4befec49a810e2960ad31af3d0cb68ba435ad1963ba8df406",

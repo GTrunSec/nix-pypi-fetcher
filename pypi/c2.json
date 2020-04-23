@@ -3695,6 +3695,10 @@
     "3.6.0": {
       "sha256": "a0a3124296e58d825500e3e35e05cd14182ebd6c32e98aa804780c03e715c87a",
       "url": "8d/01/f9c807ceb63ee20041c0e13888b463dc24d65419e00d99f4be7a68ce6de3/checkQC-3.6.0.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "591f89c56f18af291e98f3dffa4d690cdbd301f62c772d21a5f2381c2d935a0b",
+      "url": "6d/e5/525817ed36e10460a870b0b5ff92e5b8914f64dbe6cb1e52589c1e0ea6a4/checkQC-3.6.1.tar.gz"
     }
   },
   "chiloc": {
@@ -5797,6 +5801,14 @@
     "1.41.1": {
       "sha256": "fd16783f3c94bff27088677c9c6d1b2d93f01ea7eca637c25fa102279539a1b7",
       "url": "24/95/350fd1ba020a71404cff6756db524d062260198d112d41f2aa1cf3e0de49/dialog-api-1.41.1.tar.gz"
+    },
+    "1.42.0": {
+      "sha256": "5996bb3b569efd69e500611cae7734612fcbe341355fb1f39424b4755b574feb",
+      "url": "2b/66/f3473606096126a6c4398224442b6b6082400edc35ccf54937b8957e411b/dialog-api-1.42.0.tar.gz"
+    },
+    "1.43.0": {
+      "sha256": "a445ea2d02bceefaf1ee63ddf7c09ea97bafa8615ebd71c6e3d0573a1f36e6e9",
+      "url": "9c/67/6560f0bdc3311ded2d72dc944243c92a0b395c849f8caf0dafd642160b56/dialog-api-1.43.0.tar.gz"
     },
     "1.5.0": {
       "sha256": "88ac4a17a6e0961d7a3e5764452287244a28e8076144d25b181f68c91022fa02",
@@ -25481,6 +25493,10 @@
     "2020.4.dev25": {
       "sha256": "b973777a7bb77f8c580019b8a1f71e71380aa49391d6227371bb56b0cf38b5b5",
       "url": "8e/da/e7072dc1a06c86dff3150629432b39f53d8405de8e30bed8ec9c714138e9/trood-2020.4.dev25.tar.gz"
+    },
+    "2020.4.dev26": {
+      "sha256": "11168a8d1806819821e57c2a3b9748890267052454ae97d25c1aff4b50806a57",
+      "url": "30/65/ec99691173d973fb9271a1e5b6351cfb6cb718fc4c32552d8dae8d8df64d/trood-2020.4.dev26.tar.gz"
     }
   },
   "trytonar-cooperative-ar": {

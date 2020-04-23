@@ -980,6 +980,10 @@
       "sha256": "09d1eedb7a3432f96cf879b2e1b421e25078ea3134ac80ab0b6a7f8b5d19121d",
       "url": "21/27/b6631904b88460e1ce9fe3a5d35397733605f28e6c943c0b9b8e38c5f295/autogluon-0.0.7b22042020.tar.gz"
     },
+    "0.0.7b23042020": {
+      "sha256": "dd9d3a660628915cc1ace7e860836c96f102d827d25eb6c0d77cd51d4edd8471",
+      "url": "c6/ed/a8cf3627f879ddeaeda85f05d900f2363ef73abe748391b2770fe1ae3e15/autogluon-0.0.7b23042020.tar.gz"
+    },
     "0.0.7b4042020": {
       "sha256": "a435e4546772405f1e5e97dec049e81ad1b9fa17d89841b405e249eb95d30ab7",
       "url": "38/dc/c69bd78aad8e37458d49269dcfa36fa95005102396e840f54aa71de1c626/autogluon-0.0.7b4042020.tar.gz"
@@ -9463,6 +9467,10 @@
     "0.2.13": {
       "sha256": "f9dcfd4d9adf2a04d16e1fbe3e8db140271b6d5ad19a17043c4478af85efde39",
       "url": "e1/fb/9a2b5253691f91bf6d31e2e2ff6be8b0d2613504009ba8e8a4a6968baf2f/idissend-0.2.13.tar.gz"
+    },
+    "0.2.14": {
+      "sha256": "689a64b406122c51996bdb3af79bde72a12fd4a4589a9c58f04251bb726958ce",
+      "url": "37/32/890f54de45c91d4a8c9fed69b06996625d229eb0b5838bc5126f5c5edc97/idissend-0.2.14.tar.gz"
     },
     "0.2.8": {
       "sha256": "01e4f5a917e283517226a4987d02244da7f01d5dd5f67a904c22b3c885586529",

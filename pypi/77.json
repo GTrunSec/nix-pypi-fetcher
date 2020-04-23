@@ -18775,6 +18775,10 @@
     "0.4.2": {
       "sha256": "a8e51e2b4b9f4c6cfcfb2763c1497dc000ceea6de0e9da1ecfb795bbe026ef72",
       "url": "b1/fd/31fabb46db32393ada03b08efa5d23aba3c1b1b8bad4f547018c8c8a3131/pyconnect-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "fc599b15170af39470375c079e01fbab5f0e30484fd54ae4a55001a985f4cc7b",
+      "url": "3b/25/33696e8b40061c341b82fe0b41ea167d466e32a9e9b87ac11757a320f347/pyconnect-0.4.3.tar.gz"
     }
   },
   "pyctogram": {

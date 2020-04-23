@@ -6360,6 +6360,10 @@
       "sha256": "bcfafdc7422b1420cc06e04ffc4277888a45c8de8219b12dfe4b1c9e59c2b1c6",
       "url": "03/7b/ab9c48409ff47fd9efabbb7dbce7b7fb2aeb8370228048cd23fdb5050226/DTP_Emulator-0.0.15.tar.gz"
     },
+    "0.0.16": {
+      "sha256": "c28e5d6a1be4ae9b5693ef371828ac2c82b433d279221d12b27808c542c14aea",
+      "url": "88/a9/64d2efb12179c3952dde34f6abb8d8a5f2d350df251c273214d7a6fbbc56/DTP_Emulator-0.0.16.tar.gz"
+    },
     "0.0.6": {
       "sha256": "7cac66ee2c4ffa320924b8aebc1328a69ffef3b45d666fce9bc9640fc5dfbe06",
       "url": "d3/22/ce5733a000b0589039243d4f9b050903e5b780f2471ed2f6653cb4ce760c/DTP_Emulator-0.0.6.tar.gz"
@@ -18923,6 +18927,12 @@
     "0.1.1": {
       "sha256": "55952d908eda0ffe508d2d796b45e0e2d08a06a2be1b63c9d0df4ee68d534545",
       "url": "4b/46/2e8d80e42c2a0ae32ac3622d0d0230a0c66ef397726d174ff4bcdad69efc/scopes-py-0.1.1.tar.gz"
+    }
+  },
+  "scraparser": {
+    "0.0.2": {
+      "sha256": "2ae9e2d7571f39890cc428f5b727ff11af067eeee9d26dbe4cd58147871b75b4",
+      "url": "a6/e5/8734427e7c7d06aa5b9f8cddd18f27177d742519abb639248348aee98c0f/scraparser-0.0.2.tar.gz"
     }
   },
   "scrapesy": {

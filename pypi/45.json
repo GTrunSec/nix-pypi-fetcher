@@ -437,6 +437,10 @@
     "1.6.0": {
       "sha256": "e2d3fb52bdc8d1f0686ab3504ee7e2eb3acde08e01d53a5a391bbcf773e5e4fe",
       "url": "f8/46/05926f0803ec330c82cf67e7c763656c7db5a311111d2ca6004a7858b69e/AlexaPy-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "021a384a05ba64ea4c4c2d849140ebe11d4f2ec945d11b5e47830979fda0d32c",
+      "url": "15/9f/64f5242978ee48117ebc26588152b890537ee9f41cfc2d0870c9898e02ff/AlexaPy-1.6.1.tar.gz"
     }
   },
   "algobroker": {
@@ -489,6 +493,10 @@
     "1.0.1": {
       "sha256": "7f6ea9269f2d911655e9991424de24a3e05a49dd97ccb6ea1c4117678b6d81eb",
       "url": "1d/2b/6000bb3bef346c6810a4bc68878179daafde6978e2689c1561ad4111de0a/aliyun-python-sdk-geoip-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "38b86cfda1ca0dc75de024557e0ac73a9247687ebb96d3edd33388a87c6a65cc",
+      "url": "9d/cf/c70b7b3c449087b97772617148f7ecca0a6edeb31183f1fef45aa5356383/aliyun-python-sdk-geoip-1.0.2.tar.gz"
     }
   },
   "aliyun-python-sdk-ivision": {
@@ -2041,6 +2049,10 @@
     "0.5.3": {
       "sha256": "1b71d2dc992de5e766fae7612b9e7c8296113d186e0afbb4cdfe16834340e745",
       "url": "ab/71/5be06a917ee4e099553e383c6f13d9f3625f627e3e742b2dc2f4cb310477/bulkdata-0.5.3.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "f9649381c228b212f776e0110f703862a1f7d5926638d26faa32581438155bac",
+      "url": "58/60/066996780ce69a027c0236a2621b8eeb4b77fe2db08bb205758f0ff04db6/bulkdata-0.6.0.tar.gz"
     }
   },
   "burnlight": {
@@ -3079,6 +3091,10 @@
     "1.1.0": {
       "sha256": "b328d6f8cc3adf2ece9651247c48d0e6e0109edd5bd7b922392201c66acbf2f9",
       "url": "b2/65/1de800a46789a589b49955ddc95cc50fc8430f2ceb3095fcd2098d074b77/cobib-1.1.0.tar.gz"
+    },
+    "2.0.0a1": {
+      "sha256": "a9e59f82f112ab929463dfccd126a032a8093d3e57aae2191a276e3ddff0680d",
+      "url": "07/83/758f3b9520394f88221a652120eb03ad783dc267fd997867e06a1d9ad6f9/cobib-2.0.0a1.tar.gz"
     }
   },
   "cocoplots": {
@@ -19283,6 +19299,10 @@
     "2020.4.1": {
       "sha256": "d160eebdc43dade6f8ef699b91e4aa18a3f094fb87f272aeaffa73b0aed03459",
       "url": "ab/e8/e1e3532c2f0a74832930782e8e696148a98b0b6c30370f075bbed78379c2/pytype-2020.4.1.tar.gz"
+    },
+    "2020.4.22": {
+      "sha256": "5dbb2f551e94f09b996c71fd15158f1ba2a0d941841803a8e2a0cbcf587e478a",
+      "url": "57/7b/c5359ecb23c52a9fdf07040d1e655d942bb75fd7745bc127a3cea862535b/pytype-2020.4.22.tar.gz"
     }
   },
   "pyvdj": {
@@ -21693,6 +21713,10 @@
     "0.3.14": {
       "sha256": "16784293272b8ef18b98436bfbda88db7a6a36e2a0d8cc15263f3f81a3ba01e3",
       "url": "fe/2a/0a8cfa972db466c1d31a7f812ea716ba6aa315637ce5d695fba098dae288/sob-0.3.14.tar.gz"
+    },
+    "0.3.15": {
+      "sha256": "0801af3cbffc1e6f382e31bbcf331094729ba9d1607500b35418a3589114da6d",
+      "url": "99/ca/6808263b9640a9584e2bd816fdc1f787732970a16113e9324f724ec32780/sob-0.3.15.tar.gz"
     },
     "0.3.2": {
       "sha256": "63d294a8c2198c10fd1efd2f6044bd410fd4df2a74116fe282b3d46996ac9317",
@@ -25287,12 +25311,6 @@
     "1.2.4": {
       "sha256": "3e49f513c9c7d336178d105b89e5f9a063a20d1b15f123ad4c746e1813c98f81",
       "url": "08/e4/17f0a37b249db471428fb55f02caea61afda8c37bb90e3f9072ec1ef10e0/yggtorrentscraper-1.2.4.tar.gz"
-    }
-  },
-  "youtube2audiospectro": {
-    "0.1.3": {
-      "sha256": "c60042283c1b1f82bac3fabc6371be33463cfc314da508d332b5fd1785573c5d",
-      "url": "17/ee/309011b57f327ab819d058686d5e9adf1c31268c6749c8918dac33cfcde7/Youtube2AudioSpectro-0.1.3.tar.gz"
     }
   },
   "ytp1": {

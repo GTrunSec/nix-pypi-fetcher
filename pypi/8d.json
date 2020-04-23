@@ -2459,6 +2459,12 @@
       "url": "eb/25/af5a1c694f7c73700128a38713a371a560a49789cce611b27dc199546882/blog.post-0.1b4.zip"
     }
   },
+  "boltrp": {
+    "0.0.1": {
+      "sha256": "50868767ae8e02ef3dea24d0eeb0a8d3ae4231be470449f680b31dd49f5485b5",
+      "url": "c4/02/2c0d80454b5841c872bb9529f8125b8175a9aee8e6c447a972f0b666914c/BoltRP-0.0.1.tar.gz"
+    }
+  },
   "bongo": {
     "0.1": {
       "sha256": "6a4b912d7ce570612000e74d09ebbb42ef41a218496d7b63739838c6db8765ec",
@@ -2613,6 +2619,14 @@
     "0.0.7": {
       "sha256": "6de2acc7b76ea13c3062a90d9da7c2ba17882a12c84fd7d29768f5ef6114b716",
       "url": "13/f0/0782a4f36497fe20a8212731af8e80e9dc2630497ee4362bf646746c1d40/ccl_scratch_tools-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "b5d5ccea3b1dcf4713951738129132f4626ae69fbf06dc99d5d067a9e3bb0dfc",
+      "url": "fb/05/ffad07de5c7608c6a4ef7935b6f68e7fe2632e4feb9c3ba02805ea4518a8/ccl_scratch_tools-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "cc3e59166e12086d60601fe5fa7255df38343a8616591fecc8a31578828ab670",
+      "url": "c0/8f/03784b846f7c6426633ddbc924eb17ebe2e467e94a35dba9b7332b2a5faf/ccl_scratch_tools-0.0.9.tar.gz"
     }
   },
   "ccs": {
@@ -11377,6 +11391,10 @@
     "1.2.9": {
       "sha256": "9779be344f04fdeaa1d26be1393ae43747315d22857f8cabc4f7b1165f6ae600",
       "url": "1b/96/0fe6ac31b9664e637ee94457f4c3735783b90a5439e41528019ed48a451b/FuelSDKWrapper-1.2.9.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "c2630df49dd6d2e76f10eff0566d533ce94280726b7e0b926cf1d1a65dde5b69",
+      "url": "dd/fb/6fe502944371deb03f6ab950818206aa3e597263250843b9ed3af8d6d4ad/FuelSDKWrapper-1.3.0.tar.gz"
     }
   },
   "furs-fiscal": {
@@ -13623,6 +13641,10 @@
     "1.1.0": {
       "sha256": "72433e535b6f125b9ed15dcef7c390c784ceb0552d8c4b12d65ebc3ac3dc3629",
       "url": "47/44/0643080d00419e5d2675915281a3ed4738389558d3f6933a86fc50fe3b20/kafka_messaging-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "766b13e810be42b583964da2872315f4b734b596607dec14bb5926a09f93da9f",
+      "url": "fc/35/9382c660013a6241c9748d9cdc9646634a6ce6226ffa3878f4440abb3801/kafka_messaging-1.1.1.tar.gz"
     }
   },
   "keios-dynabuffers-sol": {
@@ -13675,6 +13697,10 @@
     "1.0.0": {
       "sha256": "f6e48be9b8dee1b94ec7fb2c2973c14a4ccaacc49097b0dad1d5433cccc53d7b",
       "url": "24/4f/558403f491b1a5f8d8a154f935c587d461919b17bf12cd6021279f680c8d/keios-zmq-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "e2ddc00a594ffd7156a6d49784fb8a515e028c3cf9758d8df1a0784fb12e3177",
+      "url": "61/7e/53cba15c116c3bf2c4afb77dff6f18485202fab100f574ab66f385ab759f/keios-zmq-1.1.0.tar.gz"
     }
   },
   "keras-ex": {

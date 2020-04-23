@@ -21794,6 +21794,10 @@
       "sha256": "dae69267d14528aba5bf4023159b2997691ad3343a08c6c7d9fcbb7c278e3561",
       "url": "bf/1d/f6b61291e3dc5baeefe056dd0fb5b2184ea159148461d519d9fa101657c5/tnorm-0.1.14.tar.gz"
     },
+    "0.1.15": {
+      "sha256": "aa5c73be0010c756972e8e32ed30d6675d4bbe44540d50af7c6100b460a2cd34",
+      "url": "03/b7/8402dd941b7561e2ba91918f312d8c9abb3d02ad283e83b0ed037e04abfa/tnorm-0.1.15.tar.gz"
+    },
     "0.1.2": {
       "sha256": "2c2f09a8a2e1a402cbfd0ecb228e07a160dda1db29e5e76205f18736ad7dd0ab",
       "url": "eb/85/857c88ce03b32b1153382a8762fc36235f172c0bacd8971627b608148a91/tnorm-0.1.2.tar.gz"
@@ -23221,6 +23225,10 @@
     "2.43.0": {
       "sha256": "0a8cf7fde206e33ed47248f8f820a6167f70148b4537114cd6489ca810d7bbba",
       "url": "7b/79/2ef29ca47f2efe9284206b9d4cdfed37fc2264abfbacab9a05c07d5d4122/xml2rfc-2.43.0.tar.gz"
+    },
+    "2.44.0": {
+      "sha256": "e6631aa2699942f387705e9fb624655b99f43abd87091bc94a3f6b82f2aabb4e",
+      "url": "96/41/b30e3952dfd4915472a1c218651e319cd1502736fca6f10bf4b1d1498372/xml2rfc-2.44.0.tar.gz"
     },
     "2.5.0": {
       "sha256": "84d49410b0d0f07e04defb55e39bc75eb7dddcabd2bb885e0b5687bb8d3fcaf6",

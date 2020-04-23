@@ -10102,6 +10102,10 @@
       "sha256": "1f1d76e7b6e5b2b603ef3eb3bb1f063a9bde52e7a4406826e8791c45fbb9fc24",
       "url": "d4/89/c4259e1b79e3880790ab6f3ada830f03de58c784c7c516ea4125e4add0ca/ezdxf-0.12.zip"
     },
+    "0.12.1b0": {
+      "sha256": "b7105f0b68065847ab107b1d0ce8f04f5410270f56b1ac12a4fc34fbca416b7d",
+      "url": "8e/cd/5908c5178d41da1b6c9b2b36b75f1db2f422ed2b2c58740faa81b99336d3/ezdxf-0.12.1b0.zip"
+    },
     "0.12b0": {
       "sha256": "12579a5745fd4c42039f18784c538692d2b9f1645c57bc6c73b3d1e7eaf9a7a0",
       "url": "a7/22/11d9f98674764c5f247072b39085cacf7d4c8caf62df7cb67d05067ce7fd/ezdxf-0.12b0.zip"
@@ -13162,6 +13166,14 @@
       "sha256": "2c61dbaa5adff0c5abc65c86c6780b304056ff0d7265a00876c3c84bca164dee",
       "url": "9a/1f/d519e029e8e039f7e10eae5ec570a2dd087f3d0963e829a4212069feef12/imap_tools-0.14.0.tar.gz"
     },
+    "0.14.1": {
+      "sha256": "c9998d929d667727cab5c4c368744710e74dca04e9e29c7628bf79837d905d5b",
+      "url": "ee/8d/0eb69a2d25ac99e3e76cf6972b295eed37b9b458deb52b2d4c86e0241164/imap_tools-0.14.1.tar.gz"
+    },
+    "0.14.2": {
+      "sha256": "c1236bb95088ca1279840c0be9927b3358fb4af067a28778ae9cf662a5ff7f48",
+      "url": "82/e1/8330fdd096c233d3f9baf527b489bb1a1044ba94055a867723cf76405f3b/imap_tools-0.14.2.tar.gz"
+    },
     "0.2.0": {
       "sha256": "f3a56b75f7861e0b4c2897fa18e71006a9e37d2ed3e647d2ec475a5ff4c65fc4",
       "url": "08/96/9371c094fad76f9a9d24ac9a90ea7a194d63bf887271e688970e1d947f90/imap_tools-0.2.0.zip"
@@ -13925,6 +13937,10 @@
     "6.0.17": {
       "sha256": "06e27ef9e9d491d4ee27d49d839153936b6a56d4e3cbd955cb631bd040cab3e7",
       "url": "0c/c7/2ddd60168fa7b185dd785a1bc0f076ec45f3c0458c1e5137d3b4cd31fc77/inspire-query-parser-6.0.17.tar.gz"
+    },
+    "6.0.18": {
+      "sha256": "1a4ada575d0f54437af75821fc70435084f74164de09268a5dbd49c9543c0e2c",
+      "url": "27/13/2ee95dfc29dc4dc0d80bdb65e082d4b1d0acc2758b9dfdad0307b77d0e89/inspire-query-parser-6.0.18.tar.gz"
     },
     "6.0.2": {
       "sha256": "5b501f7d98870907c49708828d673766c2e5155e85d21238fd4ed34c384f9ba6",
@@ -24959,6 +24975,10 @@
     "0.1.7": {
       "sha256": "94fbf63af979380a37824587dc9975f25eb87ec4708413c080540e8f23b95265",
       "url": "4d/75/bc602635a07f21cc6a7e0d43c9ee2edbdc6cd0fbf7a899a55f8aaac3d7c2/smokeur%20cli-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "2d728cb327403023f64c6d2261283e5d99b5efbf22db9a12ca41c3abf0d2e1e1",
+      "url": "d3/fa/a15d2c7350dcdd40a90f4688e0d171439ed09158ef5e4a61ce8c43994dec/smokeur%20cli-0.1.8.tar.gz"
     }
   },
   "snaketools": {
@@ -26937,6 +26957,10 @@
     "1.4": {
       "sha256": "ec7333f809b01445df1bdc6aeb2eaa076840be9dc83d71ef864807e485f56f47",
       "url": "2d/3e/d73f5e0b8ce60977c160715eea4589d3b42b78dd9af4e7489640cb5a9c52/uaviak_timetable-1.4.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "148dca4b834a43eec2f7897138fa3dfc1a908349af8c5a62550aeb49fe947604",
+      "url": "b1/55/fdc87a77eb310aa35b2cbe83d414cc1afc0ed7c3d069220fae0408638066/uaviak_timetable-1.4.1.tar.gz"
     }
   },
   "uek-wyc-one": {

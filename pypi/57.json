@@ -5412,6 +5412,10 @@
       "sha256": "050cf64a88e4c310981b4718b0e2cc31a5d9833b01c4ae083df8df616ebfb281",
       "url": "f4/46/1fe30d960b1d9bb80b6b00ff5bfe08940b8fb1bd0b086b2a9ad27ce7afac/dagster-ssh-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "4a75d26f76ce56c5da96894cfa95666ef4cf2aab7d7907d7427ca07943441fd8",
+      "url": "45/57/5901233c29c92697cd8fc29e664f3b0ea8c92e337e58780f78d895e437e9/dagster-ssh-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "48a5901231b9d3a4f8c1bd0f10a113684da58cdba79ff86b182e78ab5730cbdf",
       "url": "65/af/7c4e1e0e1de042ed22c75064d6dc11da39c9dda5956b4b1e8e7060ad40e4/dagster-ssh-nightly-2020.4.4.tar.gz"
@@ -20492,6 +20496,14 @@
       "sha256": "8ff3fc76106209f69296b906f09cecf40f06a06984124acadc97449f07f42509",
       "url": "35/92/019a9910b71d70c3e71801b331bf08d16b4c6cabcf97a473e94c968d1076/slurm-sbalance-0.1.17.tar.gz"
     },
+    "0.1.18": {
+      "sha256": "3af945d488a859afcacf6736f8ea95963ea57d8dbc880a40bf99aed9fcc4c6d6",
+      "url": "4c/26/b45803a9381fa590b69db5f392657ca93db655c5da467439ac1f47fa1f83/slurm-sbalance-0.1.18.tar.gz"
+    },
+    "0.1.19": {
+      "sha256": "c3b278180cc9583f3e4cbc623c31ab059e7eaa783d1692b41573cd3afe32ea22",
+      "url": "4a/be/8bac846c43402e6286dc6d6e8c334c4a12f109579b11e1f3cf4826c1cd1d/slurm-sbalance-0.1.19.tar.gz"
+    },
     "0.1.9": {
       "sha256": "6c4ecb9b00a60f3ff9ff880860091449900474e9092b8271b54c0eab7db7d9a0",
       "url": "0d/d5/f7be74cc937c6669b307270a886f374819d393b1ce4f1f5d8c0548148d3b/slurm-sbalance-0.1.9.tar.gz"
@@ -21811,6 +21823,10 @@
     "1.0.1": {
       "sha256": "87d616713a6d85de04becea657954ab13a455d317002cc72b947627ba063c599",
       "url": "2b/4e/47d1f1aed68e40b602b006a6990ba53b54c38799c06b43189542cf31b52d/taps-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "351a831510db591c87a3bb9ef506aafef9966f3c55537dba30ba7cc248397f68",
+      "url": "ee/8f/c658d24e059d0076ee0bea502900283fa6069f36482c9fee1a2a859f3c64/taps-1.1.0.tar.gz"
     }
   },
   "termcolors": {

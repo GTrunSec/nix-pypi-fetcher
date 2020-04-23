@@ -1636,6 +1636,10 @@
       "sha256": "816725ebcea1b40654afcf2c74d32d51d0d94087d9520abe6c0c9a2125fc3425",
       "url": "5f/49/77c6c0354975060b17f3a3257afc17fc4b5c0d10ee23ae5409ffcd3c6a51/backend.ai-client-19.9.7.tar.gz"
     },
+    "19.9.8": {
+      "sha256": "7eb834699bb32312cdd405e15f2dd25e96d4fb6d1fa2708e7a6672e999fd5eb6",
+      "url": "bd/01/330325f5631b07d04e691997b680976c860af9ddc0880960ad217cc9516c/backend.ai-client-19.9.8.tar.gz"
+    },
     "20.3.0a1": {
       "sha256": "7b23430ecb5cb946bdfb3da5dd9ac305f1c591e935095779cfd349160a0fb159",
       "url": "84/e1/ea9678f7b2f62401d815cd0e311761a53b0c81657854822e3e4b81ccd3d1/backend.ai-client-20.3.0a1.tar.gz"
@@ -16965,6 +16969,10 @@
     "0.7.8": {
       "sha256": "a7d34c729051ed8840361b1c2568c3f0f1db94d190b44b31e0397d38405cf9fb",
       "url": "19/a8/935f11d66bb761c7c5300bf0f56996ae2a23cdc006eeaf2b4a791b6bcc2c/pickle-cacher-0.7.8.tar.gz"
+    },
+    "0.7.9": {
+      "sha256": "4e3f26d7f2cab3ac75e9c173cd1a9c02d92b58e5900af19cb12c12a2fbec6de0",
+      "url": "e9/4b/0eed40e8ac62b6584664b566f98ff5a713ea3412ef2236bdb4efb37d79e4/pickle-cacher-0.7.9.tar.gz"
     }
   },
   "pickups": {

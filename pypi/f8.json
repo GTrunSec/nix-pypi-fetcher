@@ -435,14 +435,6 @@
     "0.0.1": {
       "sha256": "2ba965b7f7ef1cd2fc40a392769766483e4845432408b10778c918467e197285",
       "url": "f2/0d/da790a4d51afc444febb6b54bb489f2e2aa2bdd85f84cdbba8826a047e52/alipay-sdk-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "d12364336b45bc6198ea2a117c9c81da6a7ac718f1e5395ed44b6464001f0e71",
-      "url": "5a/55/11ea3b4a7ebe1437869a4da1d44f1608b18b46dbd3b6590ca5309d04059d/alipay-sdk-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "882f9af002ecc3c89bf61e0cc57e69f958bc39371a3311a1b45cce532c0299fd",
-      "url": "24/e3/669b00a5d64d475051868d7810702375582f1646441fb92d312424bf2d20/alipay-sdk-0.0.3.tar.gz"
     }
   },
   "aliyun-python-sdk-sas": {

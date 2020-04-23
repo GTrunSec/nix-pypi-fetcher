@@ -18289,16 +18289,6 @@
       "url": "e6/1b/1b1811c2030ad580891e889a49a1a00a529d0fd46a0f3775629c1064eb64/pyspikes-0.2.2.tar.gz"
     }
   },
-  "pysplit-dataset": {
-    "0.1.1": {
-      "sha256": "a3f3e3693b2614b5fdf5175b9560b01bc31b3b9e6799c06d43223226f4b8b6b0",
-      "url": "6e/06/79fc0411a4dd6fc6cd073ea7613783373a7c6c066a9ed8fdf6866bf9a108/PySplit%20Dataset-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "676cfb37b4e43c09a444bc01ed9b921f4dcd2b832dd41c6a386fa2c52a775fb4",
-      "url": "64/20/81905a96db36d0a71473be0a6faef05ca2acf6483cbe16e7a8b49497c7b6/PySplit%20Dataset-0.1.2.tar.gz"
-    }
-  },
   "pytag": {
     "0.1.0": {
       "sha256": "68777ceaa9a2c77f424f06eb7349e4ff602283b9d2aaaad72c2e8e6eb4302481",

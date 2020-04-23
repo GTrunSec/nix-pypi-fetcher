@@ -12361,6 +12361,10 @@
     "1.1.0": {
       "sha256": "741d7dcb3bb81c57f2085840b60755d75dc34064dc39f2745a59f0f244936b17",
       "url": "1a/ad/04124140fa9b33ab56cc5bf8e72aee0a4169b67c63cfb824e6953c9e743c/makenew-python-app-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "ac035ef87293d92c17edfeb046c66b2709ce5e2149464656ec44f913b78e96c4",
+      "url": "95/1c/73ef4dd30dfb0ad2fac0d3514d07c4af1fc6018ba6129c4f16ca9a21d600/makenew-python-app-1.1.1.tar.gz"
     }
   },
   "makey": {

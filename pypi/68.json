@@ -1241,6 +1241,10 @@
     "0.0.2b20200422": {
       "sha256": "71bd64eea024a6f8522469bb6d35e894d142acbbae9be2a2a7974e1a8e56531e",
       "url": "e9/85/6073d21b2bb1581788a88c9be5909ff7a23f1eb1d7ba3337e1369da9979c/AutoTorch-0.0.2b20200422.tar.gz"
+    },
+    "0.0.2b20200423": {
+      "sha256": "9911969ca18eefb6ea237d2b99da763e6e2757d3d123c411502eb22532faa0b6",
+      "url": "73/9b/53762bd48ca39e35fa0028019ff9d93c45e662b9986a8295f11b5cdc65fd/AutoTorch-0.0.2b20200423.tar.gz"
     }
   },
   "avocentpdu": {

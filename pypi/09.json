@@ -14393,6 +14393,12 @@
       "url": "02/7e/be4a0dd966b41628640bcbafb8aff2fb52c652af31c5da6d5aabb71d9e7c/polyaxon-k8s-0.5.0.tar.gz"
     }
   },
+  "pomodorino": {
+    "0.1.0b1": {
+      "sha256": "dce664d453ed3cc8bdfc7703dfe48078283978c3c29d7476f1d688df93bc9140",
+      "url": "1f/4f/93fe8904f443de77b5b6a98102be34889dae43966d07e8ac4efa90446996/pomodorino-0.1.0b1.tar.gz"
+    }
+  },
   "pork": {
     "0.0.1": {
       "sha256": "674f58d08da9f02d3b4d552b654b51cb1f4a842955e8b791ba8cae5975a7e2ae",
@@ -16157,6 +16163,10 @@
     "0.1.6": {
       "sha256": "728effcd678b5a9c3538a305c9da3b17ea0e8026717cc32e234fe21f039238db",
       "url": "b4/2d/ee5755855645fc08aca67aa47d21650547bc17c756dbc775d39c45361473/pyodin-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "e9ab2586af439db63c768eed62ce4ae14324b81fa0445e4f309c9b04d7c442c4",
+      "url": "ae/f7/de7ae8c2d1b7e46d53f5c210ac6b6bde965e34decd142f100c0b68194cda/pyodin-0.1.7.tar.gz"
     }
   },
   "pypads": {
@@ -23357,6 +23367,10 @@
     "0.0.15": {
       "sha256": "7017f4316b832723ca4dfde37e9dcf4edcb5265783241e9cb25e6133b62fda52",
       "url": "92/e1/765c6cdb82e7e6a87c6380a8b8b955b39d35c7992f77c0a78c4855c13f39/water-healer-0.0.15.tar.gz"
+    },
+    "0.0.16": {
+      "sha256": "c8fc000b21f0dcf9d8ed459b11d2e02b8cc98505f9f4d0bf44f6daa998e0e1ab",
+      "url": "db/f2/d25ec662f3468a1b2fda7fd43e0f4bf6c6becde19e23e236c71d48a600af/water-healer-0.0.16.tar.gz"
     },
     "0.0.2": {
       "sha256": "5c07b1cb103de38b4a508bcf571edef2ee0bf402b752d322c52fb0d2701f7cc5",

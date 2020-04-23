@@ -20004,6 +20004,10 @@
       "sha256": "8eaa33c600843272618f1998a38d4dcf9d374a5604882d9a53c3acd1e8af4fe5",
       "url": "d1/bf/dd8c7df5d9ddfd2dd2bf6a7ecfc38a978660e4558a63d5c573149b5f62d7/taskcluster-29.0.1.tar.gz"
     },
+    "29.1.2": {
+      "sha256": "a9de9bc7d9e882c019bc24473e97357c8b80df45295ecceb8f0543e062a0b3da",
+      "url": "aa/98/fd146d7d2f39e04171c119c5600e87e0abefacdabe4b0bdf0e56408ecbf0/taskcluster-29.1.2.tar.gz"
+    },
     "3.0.0": {
       "sha256": "e99b11496ad3586c0a4295dc6a2a68534e93037ddc20b0b380e90908d21f1c43",
       "url": "90/77/8dca8f65f53a299f27a4154cd586dc06a4214008f2f21de062e85882eceb/taskcluster-3.0.0.tar.gz"

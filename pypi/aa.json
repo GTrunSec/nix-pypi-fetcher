@@ -4751,6 +4751,12 @@
       "url": "77/b6/5c7c07083ca144402b85fc96450447e7a124258d7a43ad5aaf0ced038731/django_function_cache-1.2.tar.gz"
     }
   },
+  "django-gofastdfs-storage": {
+    "1.0.0": {
+      "sha256": "a731960ef2b6eca00e5080993694bf1d07c995f06f151fb666a7aea1ac847f3a",
+      "url": "9f/61/a952b79d926a7204b8bb179728d7c3caa9306742a4df9c6fc7e6585c6267/django-gofastdfs-storage-1.0.0.tar.gz"
+    }
+  },
   "django-grapevine": {
     "0.1.0-rc.1": {
       "sha256": "c0be60bf9143dc7dcda56957500dad4cc8cff2817d46ad25df8ce32a8fe3bae9",
@@ -18622,6 +18628,10 @@
     }
   },
   "shopdb-halfbottleofmind": {
+    "0.0.0": {
+      "sha256": "7b57515bebb365d0db42d31feb907733034c1ef0d5426d2f651192662df37e46",
+      "url": "27/c8/6c2e5cd33f539df8a14f85938915c336b8020b8e8002169baf161094f644/shopDB_HalfBottleOfMind-0.0.0.tar.gz"
+    },
     "0.0.2": {
       "sha256": "57b77ec3f1d09f756d5c9fc938ef8f206992cb4b38babc25f85c351373c8ee64",
       "url": "2f/d1/84afa2778ce6eb84b73f2371641ec851d73ecbd81f7d18c549c354f170e0/shopDB_HalfBottleOfMind-0.0.2.tar.gz"
@@ -18653,6 +18663,10 @@
     "0.0.9": {
       "sha256": "21e47a8333aa5b5b81f1be632db0ec1a626cbdc0dd6a64feee113ca7cd86d0ef",
       "url": "e1/f2/ae6f8a9736e036fd46298a4f9ab4fe042025545b0a3bf470147ba710171f/shopDB_HalfBottleOfMind-0.0.9.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "86d249d3a2c927b53bcb4e9e1f58a16a8fe8d5a3b3a32e7bb10dd5d6f0c9ae1c",
+      "url": "52/45/69bcf36a653e745b39974deb10887f5b1c28f9461927da254b9045807071/shopDB_HalfBottleOfMind-1.0.5.tar.gz"
     }
   },
   "shopify-api": {
@@ -19731,6 +19745,18 @@
     "1.0.9": {
       "sha256": "f9c68a63787689b17961264d02e51f5ffb230a451bf42169910ec500dd90078f",
       "url": "02/56/3503b71d3df21d9d2c1724fe675324767c5d61e782611e6aca37c499e5f1/swissarmykit-1.0.9.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "62047e5f0be1ffdd667aaf3dc0620b748834676ce1dd04d6c1b5b2140e43d1c7",
+      "url": "1c/fa/4813ae87b93710a2d031ea566c8b5277bcc2528b3b3cef2fcbae1ef7ff68/swissarmykit-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "8219cd3eb8072a938f006fb3fb58639122098f3446be80762104fca1eb102274",
+      "url": "e3/d6/4ffd4025a07986320626e2607e68f0b47a6a1256e51a3c51a4414a824b9a/swissarmykit-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "85cc1daf89fcd7be630ab80d867dfec272d9d4058f12fb152737f4af7aa65ce2",
+      "url": "fd/9d/fde0135b6a64fc8e5ce6f001d72ea0eb88bef7f9725906780363b6d41d5d/swissarmykit-1.1.3.tar.gz"
     }
   },
   "symboldict": {

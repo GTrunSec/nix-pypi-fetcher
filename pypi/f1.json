@@ -6061,6 +6061,14 @@
     "0.0.3": {
       "sha256": "712b6ac2f1c40d58ab2292d6ffb1dd1c03733ba51cfd44e4355b5eea84f772d2",
       "url": "45/34/553e651feb94c29bd1c60401e3999f6385c03a5a0d5ae107c908c8d34de2/django-signalcontrol-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "9e6459236f7df006d265c7c2348eb3de248799f9fe9c366c65cc810e1794c6fd",
+      "url": "33/20/a364b24455949aa86446ef62c66721e1c47e1e6989f1edc1c0c415489f5f/django-signalcontrol-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "d1ab999e7823d923846a1e97b64f6748b391677248b11df5fe2ed578ec368433",
+      "url": "1f/db/aca36945e01669120c139fd695da5190ef1c19b3f7a5b6541edca780c9d4/django-signalcontrol-0.0.5.tar.gz"
     }
   },
   "django-smart-forms": {
@@ -11753,6 +11761,16 @@
     "0.1.3": {
       "sha256": "2af28ce6927d53b7217b14676bcd21c11410a2407fb241e6163f2f617c702e75",
       "url": "83/10/85a576bc5f380d34584f5b0cb8089e95e97d0810b23861f8bd0446817021/KivyCalendar-0.1.3.tar.gz"
+    }
+  },
+  "klippy": {
+    "0.1": {
+      "sha256": "cc95cfa25dfe8f29f3e51076ca0e79064d251997c95c989385a82c4b2c945219",
+      "url": "64/31/74c0cf189764b24af3de40cc256c7a1448f7bcaeef610080dbfcb25083db/klippy-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "c52a611948cdf62a24764803123d5dad83962893811941400cb6c363f5d117ac",
+      "url": "cf/52/414d4f044a7523c0d5f8fb873e4446a0896f53d0286ff821a1545e103259/klippy-0.1.1.tar.gz"
     }
   },
   "knossos": {
@@ -20625,24 +20643,6 @@
       "url": "60/60/5a89716ae85197d714308b51df686c635a3874d27a33c516f41df7cec562/sorno-py-scripts-0.47.4.tar.gz"
     }
   },
-  "space-console-game": {
-    "0.1.0": {
-      "sha256": "a7cdc56507cf4d925d4595f9b5e1ad27920f0b6570a3a1e21602b78485c60fbe",
-      "url": "35/85/26870b3e054d7d7b2896ac784dfd8c17517ca06aa59a95f74437f8a7e745/space-console-game-0.1.0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "973084f18c01e7b73b2bfc36b01803b9db14884099a84a7a20abaae600eb3dda",
-      "url": "a5/9b/0116a53b4135bfd7669e7b74d4c1f2494acbc0a656c19a2613a3f9e279a9/space-console-game-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "26b88d5eb8e3db86a3550afaaef225b331280da8b1350460df3920305efcd017",
-      "url": "e0/e2/ce1fee0fdb4f14d08df5ba9bdb4e88dadd95305db15f83d7a3fd09925c88/space-console-game-0.1.2.tar.gz"
-    },
-    "0.1.3": {
-      "sha256": "c7e0945168d5fa4ebd826504248244a0c3c3ee0b915849cfc6d4beda9d5f9237",
-      "url": "b1/d3/5cae10a7e68f836809d12bf3e76d5b4767c185b87d677df939ebe9bf62a6/space-console-game-0.1.3.tar.gz"
-    }
-  },
   "sphinx-scylla-theme": {
     "0.1.0": {
       "sha256": "aa01b220fcf5300c2f10087d6c86eff3345e55153a9b7787e73a9206aec1d125",
@@ -23211,6 +23211,10 @@
     "0.0.2": {
       "sha256": "8c9ac9986a51919a125976c36d8551546e4d707491bb1947a3afacaa602bf8b9",
       "url": "08/e2/bb88c7f4ea091c21c946d8c0fd4220d587acc9b4dbb99e94733935f1d7cd/xenditclient-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "6a2782c7aef3653875df81e4725dd713aca83d2b15bfe2babfd789547ccf8333",
+      "url": "73/99/a0fc72f7095daefe98c96fbb303987b8fa5901a02bda016ba1ae62e8d244/xenditclient-0.0.3.tar.gz"
     }
   },
   "xglider": {

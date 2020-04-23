@@ -129,6 +129,10 @@
     "0.6.3": {
       "sha256": "07684582197e8190d415aa121888cf6af14ad501ce688dd32c10d2b03e76562e",
       "url": "fa/ee/34ad6a5411a31c6b6083d8977fb1a1594457f17838f644a86734715b9442/aequilibrae-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "f5ea0a51dd3e28c7de31faf37c76f8368cb2121f3462e58701c09b16f2fc412f",
+      "url": "4e/76/89a36a39bc6b1384e1c44e8fa678aed1f992b8883f19c29512feb68f1739/aequilibrae-0.6.4.tar.gz"
     }
   },
   "aioconcurrency": {
@@ -723,6 +727,12 @@
     "0.0.3": {
       "sha256": "dfd0216e4cec2044fabdc7c4a26f6bbc3451fb170c1f798953ab7c98d8f242f8",
       "url": "39/df/54b2819ca869d852992bfca094e12a32d5bde5ac9f6d44756e420108af08/au_notebook-0.0.3.tar.gz"
+    }
+  },
+  "audiospectrum": {
+    "1.0.5": {
+      "sha256": "a9b3fe8432a54953a1946eff047f81a20c29fe1f9e259934b4052ce6f2708e9a",
+      "url": "1c/b8/dff84b8e101b84d64c0e960d088e753ee06b726660d834f44e5b2cd2135e/audioSpectrum-1.0.5.tar.gz"
     }
   },
   "authentic2": {
@@ -2217,6 +2227,10 @@
     "0.0.2": {
       "sha256": "d14aeb58d39948b093d9885d8b134d52bf2bc3e67e49c30bb132d11f68bc727e",
       "url": "be/91/1fd04c9f987c6956a95760480580314e733a4f24f84743c266c966af8bf9/cnsp-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "be1f59fb58243acaffffd534bb77ffee156c5e86f335af04dcd7f092d74587c6",
+      "url": "ee/a3/6eb7d8494f95bd03e8b1aa20e7dc16216629303cc216ac7ad9e88c0c4aa1/cnsp-0.0.3.tar.gz"
     }
   },
   "cobra-utils": {
@@ -17177,6 +17191,12 @@
       "url": "69/19/9019dd94b7dabc7ebcff785efa4dcb741f526bb1060cbf1466eaba935df8/pwmd-0.2.tar.gz"
     }
   },
+  "py-address-parser": {
+    "0.1.1": {
+      "sha256": "82ec78a413631b67c9b84ce6311e95472ce60b0b46175d03949b6c9c0ae48dde",
+      "url": "1f/be/f5f0f6267b4b46d83b008cb2f510ae67bb8b4b5f3b390c27fd9858c9cc59/py_address_parser-0.1.1.tar.gz"
+    }
+  },
   "py-aiger-coins": {
     "0.0.0": {
       "sha256": "abc1fd80c38252f0938f7f1911cbdbdce5bab8d3feede6e8aa325f34cf664119",
@@ -19383,6 +19403,10 @@
     "0.1.1": {
       "sha256": "1955c6f6a9767cd38a34bf2c892a6a44b8abb98c1f45358da03a44b447f362e1",
       "url": "85/27/476bdb4d0653eff24d78f1f15cd315c8cb1ad5478ea66ae55f38c39798e4/pywaterinfo-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "ace739c23ccccc7cc97d507cbae5865fd854c7c29000cc09d2d0f208dd4a1983",
+      "url": "a3/10/e3a3046395b14d65db4c9f6c7a2783f5ac5f983a9d12e83e2d5d2f49982c/pywaterinfo-0.2.0.tar.gz"
     }
   },
   "pywin32-cffi-spellcheck": {
@@ -20001,6 +20025,16 @@
       "url": "ff/4a/779ff74860a0be45db77654c207019bc7b5b26d5dfb03b1ff723da49f55e/robotframework-reportportal-ng-2.0.0.tar.gz"
     }
   },
+  "rockchisel": {
+    "0.1": {
+      "sha256": "de5f18c71ddda6aa3e61683eeef12a22ab65251ab7acfa76422f05c7279b31e3",
+      "url": "34/95/d91e2099de45b8388a75c3b9c6e137641c885f2428d4d713c3bbe1bb462c/rockchisel-0.1.tar.gz"
+    },
+    "0.4": {
+      "sha256": "66db30975733a728991a7ebd1c5602ffa99e68201a2146cbbeabf7740d07ac55",
+      "url": "cc/42/4ec20cec375a47c6a964ac1aa8866002bc4f183b530e5d598d986ba1cf82/rockchisel-0.4.tar.gz"
+    }
+  },
   "rosreestr2coord": {
     "1.0.2": {
       "sha256": "18e00cbdcc76fd71e4f6fb11e1d0181bc72b7ab222e1f269e5dbaf7a3161bf00",
@@ -20061,6 +20095,10 @@
     "4.0.3": {
       "sha256": "b9d0dccc9e25533596a1ba5022c8638dafc536b4af875da2a4bd2c6b481acf86",
       "url": "8b/27/fbd8d7369427fd0f9ec46ddef144bc0fd16b8d76e55b8a1c09d7de0c1c44/rosreestr2coord-4.0.3.tar.gz"
+    },
+    "4.0.4": {
+      "sha256": "d8d540dbcdc6d15a1985fff622f303bb3a612306c85ac8010c84ea19ea34f75a",
+      "url": "b2/94/c2e9423394c877b00664edfcf48730f857a8e9e9b5f02f2f275f16584888/rosreestr2coord-4.0.4.tar.gz"
     }
   },
   "rpmrh": {
@@ -23987,6 +24025,14 @@
     "0.2.3": {
       "sha256": "f412cf0cb0e7e78dcd2c1ce0bb4bcdbd3116e0ba060e04541c22b607d4e46b61",
       "url": "48/a6/5a0069e7fdb5527569a233b022a836807848cfc3838a55fa0e89621d3407/vtorch-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "3de93cfd1ae0a2c9bf83f02791c223d1a958cf6466b852b724a62b39ca4a75c1",
+      "url": "6d/89/ce74c0b19132910709000a2d3f121e393b480486dd23c8b9f4655d502b65/vtorch-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "23e5a09cd3e640bfdfac1e278f4c47897851e728c9d9f7b471699004d15e26ba",
+      "url": "ae/ee/5b1d5b6d87c9f32d0e43a33865233caeb394a2ff71b9bf25290d56558667/vtorch-0.2.5.tar.gz"
     }
   },
   "watch-rsync": {
@@ -24079,6 +24125,18 @@
     "0.1.8": {
       "sha256": "ff9442645ed7ec379810357e5b5537dae3dbee46748db3cd5a257ec7c6b4c7ed",
       "url": "f4/e2/ec1cfa6eb8dc1ea95d4287d3f7476a711feecb81b8d873e580268f15f9f0/wikistream-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "dd64b52353e9ec56913fefa1489e5c6c27e8f7615e9303c3679e04bcb77e5999",
+      "url": "ff/7a/8c1dff8b9912d2db2bcb1d76bc8845123931e4f3f84c35ab8d5b396e4bb3/wikistream-0.1.9.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "a01504bb177bc7d77c68bbcf61c093a4a5ec1e0c37ff700ac1abcaf9e88585ab",
+      "url": "9f/27/799a3938a4814d8578bb613d092b07e76e9d980b862cd463d1f68ba3e1c5/wikistream-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "82f74ff6c8b1d69451b36b85cc457f95100ebb40dff109a8abad703b746c808d",
+      "url": "95/f6/6a5f29a552172def39da7770eef843b9648961ac73351feacfb513fbd141/wikistream-0.2.1.tar.gz"
     }
   },
   "wishbone-decode-perfdata": {

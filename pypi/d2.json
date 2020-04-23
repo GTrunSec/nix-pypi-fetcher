@@ -1169,6 +1169,10 @@
     "1.0.1": {
       "sha256": "f3bc22e16cbbef804ce99f5c2d2e02b2fee3597252db5038584b83ac6bc3b473",
       "url": "19/bd/b91af25cd03cf42f67985ddef12eff095c598ee81bcf1106a22ba56ce26d/aliyun-python-sdk-onsmqtt-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "2982fa52ae7a70a529f312c190f3039fdac327b97a5e79144b7ebc71d77ba30d",
+      "url": "74/93/8a5b180217287c38becacb22a6f9c9ac6d1ec4744828596d9e988e131bd2/aliyun-python-sdk-onsmqtt-1.0.2.tar.gz"
     }
   },
   "all-search-module": {
@@ -25677,6 +25681,10 @@
     "1.20.0": {
       "sha256": "4b4c974076e8fbd089a5b4b86fad1de9fb2c8a016de13a36b5f11494b7f00315",
       "url": "b0/57/8ecd277213425a1364c04ca6a848eee9331f365d71388addfd6928c1b950/strato-skipper-1.20.0.tar.gz"
+    },
+    "1.21.0": {
+      "sha256": "dda05dafcb4a8db67c1522db081ee4042afdd6d3681ed4f4d000d97aa4679884",
+      "url": "94/d5/ce648e0f70b1ef470e4b1ee6a6baa90eef5aae25c6eb9c69729509349c4b/strato-skipper-1.21.0.tar.gz"
     },
     "1.3.0": {
       "sha256": "e6319988de19362f6d3ebedc2a77f116dc932229832f8c551656599478b24c6b",

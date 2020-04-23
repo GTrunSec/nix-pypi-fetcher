@@ -13228,6 +13228,10 @@
       "sha256": "516f9953f35de10ce6be7ef8dab8b81bc3ae729a8040d79f9b2006c2b2ae29ae",
       "url": "70/f1/7dbb7175a08f325f76eefb7240171304361cca5b794e9b5bb167c8df709e/lusid-sdk-preview-0.10.1320.tar.gz"
     },
+    "0.10.1321": {
+      "sha256": "ed6477d561a42b17ea371ab9364c00db0dc4f934a3622cf4e29a263832a1689b",
+      "url": "e8/9e/0ae23c34401e9ba83e2379b8e93f8e0409238a1ac6d651bccc8cb7e53c82/lusid-sdk-preview-0.10.1321.tar.gz"
+    },
     "0.10.178": {
       "sha256": "a27bc6b85bb8ae25fe42b83aa192c14de208149a82d3241fb96e65b1d1600242",
       "url": "f2/4f/e93f37e3eccbdd656a9f592e46e1656df5af1694bb8b6b1256a87de22ed8/lusid-sdk-preview-0.10.178.tar.gz"
@@ -24197,6 +24201,10 @@
     "0.6.0": {
       "sha256": "e1f5457b2024e00b12c7635e47edeac83abdabb49ca55b43d6516d86274a8c23",
       "url": "01/c9/b6fe38892edaa852b0e3f22c94b197edb97329dec7782b81b744f5eef5c9/score.ctx-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "1edf2ad35b575b2f061dc72b70546b96c82d118c611d17e347acf2141d4fd1a5",
+      "url": "42/23/f224ddc5c71c92042c4c931705181f2405d54896838c6cedb3464677801e/score.ctx-0.6.1.tar.gz"
     }
   },
   "scrapeit": {

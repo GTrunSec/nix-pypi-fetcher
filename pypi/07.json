@@ -9253,6 +9253,14 @@
     "1.0.1": {
       "sha256": "55b21106bac39a64bde61808f688337ecef7a9e54c326091e1d03b33b47ec027",
       "url": "a0/5c/53e8c65c65dd4dbf7ff12bee708ae1ac77feb38b17f4364a91264159c324/flatnest-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "8a8f299e8c59bc9d2a64117f1aef3e4537eff5d5d47f6ecccb1a0dc14b5d375e",
+      "url": "e7/10/e15ea109124e4feb8b7400c7ba2ca487e8a7ee6974cb46e64ed9199980f5/flatnest-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "72a05cdbab66f87154cc93dab6b98a13d38135b657b4cbba1699a48d03e5f45c",
+      "url": "ee/06/9087d199621be196ec759cad1dd5ee1fceaefbe2d60c20a1721642114419/flatnest-1.0.3.tar.gz"
     }
   },
   "flowchartpython": {
@@ -22169,6 +22177,10 @@
     "1.3.0b8": {
       "sha256": "4d1b7d34aa998bfc47f31ba7c50e109be842578336eb7653a755cfae2ec8af47",
       "url": "bd/64/9681dace4ff086dfcdaad52376a68203628115e76221b9dc96d1ba9c855a/sonicparanoid-1.3.0b8.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "a8a217faf83f577b17182ddf510857d45da18cf0bc8cf93c84ea6528b8830bd5",
+      "url": "ca/ef/205cd70ad7846f44198294317e82d74cd65e9ef14144ac96378ff69b3855/sonicparanoid-1.3.2.tar.gz"
     }
   },
   "sopaipillas": {

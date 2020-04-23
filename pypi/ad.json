@@ -261,6 +261,32 @@
       "url": "96/5b/f3b4e3d05f31f7735598987325a4be4228a9fef234811668530a4cc6a3d9/addhundred-1.1.0.zip"
     }
   },
+  "agentsmith": {
+    "1.1.1": {
+      "sha256": "63e9398ee3e075bc913842db4d970b5f561ac2f357baef408023006bec8aefb5",
+      "url": "90/98/490a831065a63e98e55867cc0066ea9bad5cdd3a7a350b40cf210ea94ff0/agentsmith-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "6ad1da16d067527524e4d2172730c2b2e5707ba4d4d92e37a9852caf15ebcdae",
+      "url": "8b/d9/3ead2a24fc4a0f2ea06d58a33a6fb23aa91186b0628905609a864c6748e8/agentsmith-1.1.2.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "7a2fe0487c1127b5de434615b7f109e7543b676c3bc533eac1625d871c115f0f",
+      "url": "a4/12/7a47d7b543ce20c94fa218e33b56ca981cde924f3b7816905cc5b4700364/agentsmith-1.2.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "39bad72fe8af5c2dc95ad174b4f690807225d10d195ecaf7c1be52168561a6fd",
+      "url": "a7/07/e88b56579a74ae7e78cdf788d2efd7e7eedf3fa93daf2fe2d3a38ee7580a/agentsmith-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "b5e5fea0d3c423e604f3f6c7220ad6c59f04b01dadcfdd9347c3232dc2fb2e18",
+      "url": "ce/e6/35fa29b2429f86a185159a61dcd5b9b5641a9c46a04fabb416a281a859c1/agentsmith-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "bbb4366fdee5eb0b0fa94e3caaf1370b00ff6f4233692c12721b1b123d215e1f",
+      "url": "41/8e/7f3188d660f1854318f25b01e3ee95a52f2add59ec3d139aad07f64d7c3a/agentsmith-2.0.2.tar.gz"
+    }
+  },
   "ahlev-django-team": {
     "0.0.1": {
       "sha256": "559bdc2c9745708c9cffd1be49acd1779f43f2a55369c5f1517aad6a346a93ac",
@@ -2791,6 +2817,14 @@
     "1.0.2": {
       "sha256": "bb912af1e476c41cb7e25aec3e63b318c0888cc28bcb21750766fb39a01f5b00",
       "url": "d2/af/1aa07a8486dda570592de68ce0b00bd37845c49ea423ef8834459a4b476d/cpacman-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "1bd724645d5d8d1f821643781e486a334bdf998469001de93f2291d89605a408",
+      "url": "68/79/43d98321765db3e560ec8315ce90f14ab90c86a84e756e7fce32a804ec43/cpacman-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "5895e7f47812d6da3a51a8f53bd9b56a9483d6df0ff1f6871b5f7dfa80005582",
+      "url": "38/3f/cf0567ef5571b18e5d530c48e022e866169391b26565bbc59cae7af0c35e/cpacman-1.0.4.tar.gz"
     }
   },
   "cqlug-demo": {
@@ -16409,6 +16443,12 @@
     "0.0.4": {
       "sha256": "4915dae8e83259a8dcda416ca1b0c611cdc8b1a8567d83258ce821250f15283c",
       "url": "42/f3/8d4e8fea378695c4620aadfed52251397b0bc6a6f7851ab98b200875bf77/harmonypy-0.0.4.tar.gz"
+    }
+  },
+  "harpycrates": {
+    "0.0.1": {
+      "sha256": "661835e783ed71c7611ed2481d0bc86349e459c10ca62037a0de36a28300bb6d",
+      "url": "ce/f2/6be5096a3027b413b9f5040f77ea8b423f68501235e15c28a37670678779/harpycrates-0.0.1.tar.gz"
     }
   },
   "hashicon": {

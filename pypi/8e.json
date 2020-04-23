@@ -9763,6 +9763,24 @@
       "url": "e5/03/a8a5ee4679e740aa1363133d8c338205af939a13eb400271fb96dd442302/FCombLibrary-1.0.9.tar.gz"
     }
   },
+  "feature-selction-ranking-algorithms": {
+    "0.0.1": {
+      "sha256": "5388000cba87926956a917d5fd081d261cbad33b145638a211177cde543d9a62",
+      "url": "06/56/a19dca03db6bff76302b8952a1d0d11067e892107e62f2263c69cfc7e47a/Feature%20Selction-Ranking%20Algorithms-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "5c00e7d1db45fc0053a448d086e6e68fc74facf1ce24fbb0f6611c9067e77643",
+      "url": "03/db/462e09ce102c823f8e87fb477acfb9de2d2b413b0a4fa71e780905a9d27f/Feature%20Selction-Ranking%20Algorithms-0.0.2.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "5247825207b3e0bb23e96636448829dbb6b3a51cb17b44e2ed520f251de7c8be",
+      "url": "f3/cf/cf93edfaa3c27f72627041f420f3a3220bcf191a99839753ee1b4aad03cd/Feature%20Selction-Ranking%20Algorithms-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "8142c60c766f9f0f4926d1b0a0d2b7309ac715ef79794df070c59d4ad45ca971",
+      "url": "04/5a/0ced8134630cd1fd7d647b5264172a3cc48a27ed28635133008820f3592d/Feature%20Selction-Ranking%20Algorithms-1.0.1.tar.gz"
+    }
+  },
   "fenixapi": {
     "0.0.2": {
       "sha256": "68cf4b14912efdf9ab462f715460e11118ba21bcbfd2a2a77a8d2e85b396002c",
@@ -27145,6 +27163,14 @@
     "0.1.16": {
       "sha256": "9df613e5e550ab209cb641e76c6570e2dba9e21751c67990c5696d2ea51097bd",
       "url": "d7/5b/ed0a2208cdf7b911f41259debe79e188309597c712aae4ae9eea115a17d1/truedata_ws-0.1.16.tar.gz"
+    },
+    "0.1.17": {
+      "sha256": "683bf66e5cffaf2929b7cc264bba4bfa1ae69dfc2d6a7c7e8bec2ad5f82c2bf2",
+      "url": "d1/56/2e6908c4948f29cddec5262357ed46884d3c9f482a591c778d3439ef99d0/truedata_ws-0.1.17.tar.gz"
+    },
+    "0.1.18": {
+      "sha256": "4622918075736619cc5cdfb105214ee38bacfd9b3bfa3f527cd7af3a4bf8d608",
+      "url": "30/f4/0bdaca0451b6ec90dedaa3ba7810db80ae2d83e4cf05af9cbfcce9cacb06/truedata_ws-0.1.18.tar.gz"
     },
     "0.1.7": {
       "sha256": "53e00f52b7acc57c91bea1d91d1103731b33adc0df89d8c6cfc3bdb48a05b941",

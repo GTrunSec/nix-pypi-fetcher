@@ -8033,6 +8033,10 @@
     "2.0.1": {
       "sha256": "d21ffb1a70d97bdf0e664ebf479972941261421f89450ff3d210cf04aa240872",
       "url": "f1/3d/f3b936804ac1d2372b55a38fb8d136a1c1670f9e30186f490237076cd559/django-datawatch-2.0.1.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "faa4b25b8f0861ef92862e0f483457ab257f1795ad4b05056fe7d37a4b408d9c",
+      "url": "9e/73/a922ad78d4557bfb99e6a0f7195c03845eb0f7a6a0c7085bd342ce8705e6/django-datawatch-2.1.1.tar.gz"
     }
   },
   "django-dated-values": {

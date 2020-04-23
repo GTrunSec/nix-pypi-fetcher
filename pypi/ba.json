@@ -1833,6 +1833,10 @@
     "0.1.0": {
       "sha256": "b1bbf435b2d85182eda2e4709f2124f4f00df5977d06d6d45262f29ea5bf4725",
       "url": "4d/f5/91d2d17e531ed311a9e6d754b39dbcd6937e9444816011bd8a53b42d558f/bdtsim-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "74da13053cd15a9b855a1f2858330aa12742a461fac86437c23b207ca2f95fe0",
+      "url": "78/72/851fb7e8344d7cfab66c11d65a14c1bc851c6e4282b1f77c9f16eed52533/bdtsim-0.1.1.tar.gz"
     }
   },
   "beatpy": {
@@ -13497,6 +13501,10 @@
     "1.16.2": {
       "sha256": "d4dfa38964a25cdfbb947660841bc4823f8e70f5e1d219ce7e5bcacee5b79174",
       "url": "a1/c1/9078ed00f185f81e6893e8ca99ce410a1b62ffdced44b3237cd66dca7606/MindsDB-1.16.2.tar.gz"
+    },
+    "1.17.0": {
+      "sha256": "405bf8c4fd0db1c31a235c8ba8de2d85f80e81638e2c905fb31769f40306cb80",
+      "url": "14/0d/269c2efef09a9ea05cd8ccae038a62bbb30e49d788ac5cf8d7092a9cd56a/MindsDB-1.17.0.tar.gz"
     },
     "1.2.0": {
       "sha256": "884565a33bddbf8f0a4660efaf87c0e33f5cff19d576f6359b72960fad4afaeb",

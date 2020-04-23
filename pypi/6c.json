@@ -2182,6 +2182,10 @@
       "sha256": "f4412cf06a3ca28792fa71959fc4c4fa0d72fdcbc1a0504df28fafd34c0e7e14",
       "url": "33/37/02bfc3e6989aa24feaa28e96ef41400b7a5c8754c71260e2cb380f1596cb/clubear-0.0.2.tar.gz"
     },
+    "0.0.20": {
+      "sha256": "77e4434e6dc5d52a6c4cac31c069820927aa026a735ffe95d66448e6772593a2",
+      "url": "73/47/d055be2724b73345e5e77b79c8f5d27d6965140db91a4658bb2cb990ab9a/clubear-0.0.20.tar.gz"
+    },
     "0.0.3": {
       "sha256": "3acb7bba2cb395e7e77dc855906ecf6fa060ecbe99df635ad14dde2dd46d5f19",
       "url": "09/84/5acfc5afa62da0338e2bde73814f07bf1c7dd3b3a77454cbd18e91031776/clubear-0.0.3.tar.gz"
@@ -8475,6 +8479,10 @@
     "0.2.3": {
       "sha256": "1f6a144704ebfdd3002faa2c56b81f2038697aebfdf82a5404348f2470fe47a7",
       "url": "63/66/ed8abf649e4f9ca2077215bd540c5b12c3179a62aa336d509f4994b95d0c/kisters.network_store.model_library.water-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "4be0e35673bf29f03d971a02f7664dd706fe9957a16c8dbc28993a9f0fc0bb30",
+      "url": "82/7b/ef47643fae37e818137c470189b5633fd0acf70fb2db3afb93a58a503922/kisters.network_store.model_library.water-0.2.4.tar.gz"
     }
   },
   "koalafolio": {
@@ -9114,6 +9122,14 @@
       "sha256": "25acd0c6fff8d6fb1a48364cf522c83d739fa897a171beace2ecbc275f15c7d0",
       "url": "cb/74/93cf4312fdc4d8a499712ff2fff2e862605627573a1e2ef1a5b76d818d6f/livestyled-0.0.1.dev10.tar.gz"
     },
+    "0.0.1.dev100": {
+      "sha256": "6b691b1c139aafe967d62885a4f8ca561ff2c7deb932ee058724680db151dde4",
+      "url": "e8/f4/569a70b035e7a44c148d6145bcdd6d66a6f11daddca0b3289f483ba68f53/livestyled-0.0.1.dev100.tar.gz"
+    },
+    "0.0.1.dev101": {
+      "sha256": "d9e610f2e5a0a1f3adcd24e891f68332f940d225b60f199f8b0488693067ad88",
+      "url": "7e/0b/cc57e8b6e80cf6bb5f475b891155b415e6b505946ed1411977f155496e7d/livestyled-0.0.1.dev101.tar.gz"
+    },
     "0.0.1.dev11": {
       "sha256": "95384bc37bebd18cb3296655d80b863dcad9469447f8b9db3c79928595f45dac",
       "url": "c6/cc/1e194c1f45d176fa4f407ae39804065b1348175e0efc835ca7336403dff9/livestyled-0.0.1.dev11.tar.gz"
@@ -9485,6 +9501,22 @@
     "0.0.1.dev95": {
       "sha256": "0c6695324ab0f77db55b2cd0e03834a9689555b004131b54122dcb2c5eaabd4c",
       "url": "08/2c/aeca463fb11b9aae1e11bfc147d4497070fb9d876c9f462e89879873795a/livestyled-0.0.1.dev95.tar.gz"
+    },
+    "0.0.1.dev96": {
+      "sha256": "affe7745974e2d31f408b36ddaafd102459c7f56d49d89e8407519bf81886a71",
+      "url": "4e/02/abce699fcd921aab09215e862161b93358153118231ffc8cf9e53adae9bb/livestyled-0.0.1.dev96.tar.gz"
+    },
+    "0.0.1.dev97": {
+      "sha256": "ab30e45246c8139f0a8216714be6ad8d0bf24d16a8a2d8a26d393d3cf2d32a7e",
+      "url": "53/42/f12183d42076c38f9b65576ee8766e3c5de21e90d614072484c0d2943351/livestyled-0.0.1.dev97.tar.gz"
+    },
+    "0.0.1.dev98": {
+      "sha256": "b6697175d5f9ac4542f2f7de76066addf17e140048b179a941f0137d34251a31",
+      "url": "55/2e/5f8cc3128fbec40ff4099af2765589bb0dfee57461b3a1d89304deb91743/livestyled-0.0.1.dev98.tar.gz"
+    },
+    "0.0.1.dev99": {
+      "sha256": "e3d0244267247aabc7795a355ad61b905071152e2f8f3b913661e810c9e92e2a",
+      "url": "a3/d6/4fc87a34a941e4226309c5b5bd50ec6ee9bae6fdfa66609607541531295c/livestyled-0.0.1.dev99.tar.gz"
     }
   },
   "locusselect": {

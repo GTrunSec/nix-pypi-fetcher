@@ -7377,12 +7377,6 @@
       "url": "7b/eb/9f97e2af0f0b949c01f73512175bc9f2c8b382e28056bcb14f72a86fe9a0/eventmagic-0.2.1.tar.gz"
     }
   },
-  "example-pkg-unis": {
-    "0.0.1": {
-      "sha256": "6b341a44e3d1aae1fb93c176ba3baf317484ad61ff17f06c9e8e315b693ac6cf",
-      "url": "88/a0/2c647e6a96e9ba270a728188dc1e6815d3bbb1294353a4b3281925122fcf/example-pkg-unis-0.0.1.tar.gz"
-    }
-  },
   "exp": {
     "0.3": {
       "sha256": "a1513bfe20db83a28e3366ed863c8e1d1d1bb28e595529256fac1db0f041672e",
@@ -10313,6 +10307,12 @@
       "url": "64/30/85ede13ada85a826b8c5ffe003b66abdfc5724593791b3f063671741b1ea/kedro-static-viz-0.1.2.tar.gz"
     }
   },
+  "keras26models": {
+    "2.0.0": {
+      "sha256": "4595eabb73c9e778c11f1e2dbbac44480e94845d8d5644677ebe78c394e713ab",
+      "url": "68/d4/0b311970dfefaf33d0f3ebd5d560b9650abb4fec3a22180d892e11a41517/keras26models-2.0.0.tar.gz"
+    }
+  },
   "kforce": {
     "0.1.1": {
       "sha256": "c48166438c6ac492ee1fe5d3290f227bfce81494732c027f3a914c254e6198a3",
@@ -11087,6 +11087,10 @@
     "1.2.0": {
       "sha256": "d6e9fd98d288e05062263d0cba3a075a724c413d9af3e866e24714a83be1f390",
       "url": "2b/08/963b725951fce6a05aa4f2e2e245eb48afb1a6fbbbb68b2adb0a75d89a04/lingam-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "6564500d0830c4edd4d010f4b1888408c224d1795cddc38062d9c980f4c422ec",
+      "url": "14/5d/513c554ff702e4c5bda5857627fd3d6090b800ea11224eb6610d200876a3/lingam-1.2.1.tar.gz"
     }
   },
   "liquidcounter": {

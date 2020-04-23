@@ -1673,24 +1673,6 @@
       "url": "13/aa/0ece977d856d7744250d942cb7ac65c303d8e523eb544c1e555a0ce9a54d/campaign-monitor-api-2.1.tar.gz"
     }
   },
-  "cansi": {
-    "0.0.1": {
-      "sha256": "5f2eb11ba5e5762be27860f9d7eb34a6e90a2286662a1ddc8faec79855902f94",
-      "url": "cb/95/3e56df529b2f964db477b5cb3e7a40dace0f57a0e2529bfe962743d7a1f6/cansi-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "78e334f46bc1cd8bc2753259ace1a370eb9330d207f140ffd992a16a7c586fac",
-      "url": "b2/87/629aa0e421f9cec23bb670127fcf98eaf0236dbc5b3b9d63bb41b73a129a/cansi-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "0ef1c7455064c3992f7820f39bc49d218fd4b0326174887dffe16f858296a024",
-      "url": "15/24/6884abb78826a96c161e0f1913d53d35e771a20c2f0d664af245988ac181/cansi-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "4c1d70583c9042944614d79b5555b921d3f4f0bcc8c79e068b19336b458f811d",
-      "url": "02/bd/6096cf365593a821664ab843a753a8e343777f9e45549df375ff5c2a9515/cansi-0.0.4.tar.gz"
-    }
-  },
   "caoliu": {
     "0.0.1": {
       "sha256": "166d3b872114b75f615cda13640eada981e18cf6a7f894d9e1eedda93fbc609a",
@@ -4197,6 +4179,10 @@
     "2020.4.22": {
       "sha256": "7a5b75bb12f9a9159f397bfae338458757f3283550a7a497fbab1e4dac0127e1",
       "url": "b5/34/0821bde2f247bf74bdba54bcdcba7eff871ffdbe691ee5e365061743766e/dagster-papertrail-nightly-2020.4.22.tar.gz"
+    },
+    "2020.4.23": {
+      "sha256": "8ce0c549d8336d1b197ba57c7096de4d43c8a367e32629d31c180b82125a82f9",
+      "url": "ed/1c/ad7f6f6d4c6ddaafd63f5d48861ad729f882ccafab05b55a5d27467c6576/dagster-papertrail-nightly-2020.4.23.tar.gz"
     },
     "2020.4.4": {
       "sha256": "7e0c61b86a9501d93670eb37a605d060742c659ec2ff067d6417abde8cb033e1",
@@ -9461,36 +9447,6 @@
     "0.9": {
       "sha256": "a58ae819a6a076f44e819131467ef37236be58ab18d49e589bed73e7036d2b29",
       "url": "4e/49/c45dd025cd77aa7c0a446f479bbb2060e99b3621d954d01a62fe8b41d212/Flask-Googletrans-0.9.tar.gz"
-    }
-  },
-  "flask-gopher": {
-    "0.0.1": {
-      "sha256": "8316f8d149cd5dca81ac024b7cb7cdf927fe960935c9f1a96893d10bdb09c56b",
-      "url": "df/7c/e1a540d6492c483a76f87c1a28339c24cc681eb687f807264b45f6e93187/Flask-Gopher-0.0.1.tar.gz"
-    },
-    "1.0.0": {
-      "sha256": "99f1002771fc62f9df9b79e038c3dabcbd1b2841665ec0686df6d3d3a5facef1",
-      "url": "d2/1e/7ef541a88176a95e6040bd1b73e0fa04bb1dbf5f85e3e213326a61757793/Flask-Gopher-1.0.0.tar.gz"
-    },
-    "2.0.0": {
-      "sha256": "310397e95d70ff47ab21624f4823ce2e1440200748969255c88a55223688256f",
-      "url": "52/04/c55b120d28d4885a73f3096725d9f33510877c7da57e29a259f90f10f8a2/Flask-Gopher-2.0.0.tar.gz"
-    },
-    "2.1.0": {
-      "sha256": "6d1c47803343f51edbd6696ccb452a7320fc6320ebaf118a5ef822a3cb55efea",
-      "url": "33/54/aacd51c0804f087c2268fbd05bb5236f00802a09a1c29393a446ffaac4d1/Flask-Gopher-2.1.0.tar.gz"
-    },
-    "2.1.1": {
-      "sha256": "68c85b951a5edc441bc1d98a1da034dca57df8af0b8486dea7c28a09ccb66eae",
-      "url": "20/6c/40a5d8981ca4db4e10edc83b4e927692b882b5007217176b18f06ba7dcb3/Flask-Gopher-2.1.1.tar.gz"
-    },
-    "2.2.0": {
-      "sha256": "23a1c692133c695ca82da1043ab39b78470d756f5d9d500e9a911dfe757b2b93",
-      "url": "be/62/379d442d1df7fcf3bab7ccd164a285ef757f78c82ae6be1958b08a899cb3/Flask-Gopher-2.2.0.tar.gz"
-    },
-    "2.2.1": {
-      "sha256": "b66842a912fc70c727a62f881f19626f7d067f04cf62c676a74387fd243b05bf",
-      "url": "c3/94/ab292d9fc3bc70ff2e46eef3c892b86d3e826725c4a609924d11f6ea9a15/Flask-Gopher-2.2.1.tar.gz"
     }
   },
   "flask-kale": {

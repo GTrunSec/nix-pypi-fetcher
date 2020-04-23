@@ -2995,6 +2995,10 @@
     "2.4.4": {
       "sha256": "180e8f3c4b4164c6d03ab86138ece5a57410f73b0e9f865186ad59721406cc96",
       "url": "62/85/5e2b386fd13bfd84908c643178e7bdc673dc5a58c77585186cd509c0d00c/cloudmersive_convert_api_client-2.4.4.tar.gz"
+    },
+    "2.4.5": {
+      "sha256": "6e7ff75096227aa86cb5a8763b0a999dad47e1ce9c64335452cdf24f2c45ff13",
+      "url": "fb/70/c2d73213a9ee916618e8f348fb2545c4803c7d0871f46da3fb8245f85cc3/cloudmersive_convert_api_client-2.4.5.tar.gz"
     }
   },
   "cloudmesh.comet": {
@@ -19479,6 +19483,20 @@
     "0.8": {
       "sha256": "ebe059d116de37c9271822e8e937251599be9ccf90792071d402a123a64ac193",
       "url": "05/fc/10471cffec14d15e9e9dad71376ba59303bf8f345460e1524e1af428e86d/queuey-0.8.zip"
+    }
+  },
+  "quickocr": {
+    "0.0.1": {
+      "sha256": "066b1738de014408b45edfbc9969a65c1d7a59847b6a9c447fad7521e10a9bdb",
+      "url": "77/c3/ea25886eff04ee0bfe0a815940ed6acdbffd15b9eef295a317ff15f7f721/quickocr-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "d87e3af37124f2b5ee0cfbd4d6e49a27583887da38e55114f67dd0a72b7b98a3",
+      "url": "f1/fc/8ddd92998e531beb265163fe72b351654518fe3994dd28b7ae4ea7f3074d/quickocr-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "2f3d49c7ee45317ae46f8457c2c56cfaba05f01c433e1794087540bee48a7b4b",
+      "url": "c7/f9/598106e52fc3029e6997461bdd2b6c315752bb077432d2c625a7daa5098c/quickocr-0.0.3.tar.gz"
     }
   },
   "r3d3": {

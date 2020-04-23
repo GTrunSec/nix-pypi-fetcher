@@ -23371,6 +23371,12 @@
       "url": "cd/81/9025dbf7975f6ee81e29addd84a293b662a5515569d9229d01f42619b34b/xid-1.0.4.tar.gz"
     }
   },
+  "xlogger": {
+    "0.0.2": {
+      "sha256": "4bb7e443b94ffe466e28265807cbd7f5b2e117a1f196d09cba8ba452092d8379",
+      "url": "e7/cb/ae777dc711b7ad6eebc26e5af023c1e6a2505333a4398a39ac130d2a8237/xlogger-0.0.2.tar.gz"
+    }
+  },
   "xmuznlwtyr": {
     "1.1": {
       "sha256": "fc249b3e552b8e6903dea872200b27af6118b96a121109aa5283eda0641cbcdd",

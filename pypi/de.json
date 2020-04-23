@@ -9616,6 +9616,14 @@
       "sha256": "c6314ae8f6ec596cfdafd2c76ecfef2ee502a9392f0f6a42066b9a525b4e126d",
       "url": "db/9c/6d6222cc12e057c1f484584b20d3fb91ae0c169123458f0723caf2c05e5c/genutility-0.0.26.tar.gz"
     },
+    "0.0.27": {
+      "sha256": "fab02ec89941734b8a1a43249c75f14bfceeee245ca23874cb1a9df300bdd572",
+      "url": "50/dd/17affea1d4f7c5dfde19a9b21166584b0f4f3b155f9e0f30e540933c90de/genutility-0.0.27.tar.gz"
+    },
+    "0.0.28": {
+      "sha256": "0b48f5828f0601d6929c135ce007369bdfe724931c7684220b90522f62831e1b",
+      "url": "73/c7/463e423ed50f377909dac9602e485dc2a89a736e7ace077bac621e2a33dc/genutility-0.0.28.tar.gz"
+    },
     "0.0.3": {
       "sha256": "1a70d1d812f1e69eeadf039cd9931747de202025cd3c315b9d069272e2eac6b7",
       "url": "a2/3c/b51346508fca0208630f01e0e40405f7b94b8fd6b87e43792f3bcedf97a3/genutility-0.0.3.tar.gz"

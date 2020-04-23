@@ -285,6 +285,10 @@
     "2.0.0": {
       "sha256": "a9ad42315ba0eaf10cb29fc72e060ea2b0b79abe81355fa16fe52c47996cff43",
       "url": "d4/90/cfb86e47374a7512fb0b6bd9e0946a4fd5f9254ad79ba6142aef080a2705/ai-django-core-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "905920d5b62d4de5543428e1d570335e406b28b57603f74889099579a2d827de",
+      "url": "4b/e2/86c46a79f0231a208a9011f967beba463749e40a337f4d4a9c101fee8ec4/ai-django-core-2.1.0.tar.gz"
     }
   },
   "aiobook": {
@@ -4723,6 +4727,10 @@
     "1.1.0": {
       "sha256": "33df9ccd9c95d7e86c72c88d6b0bde2417e84ab2f6a3217711086896682cfaa5",
       "url": "49/bc/41fc14fa9fdad4d21fccbc7b662e2dd15c14b7a0edb9d4521cf330163644/conllutils-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "72e72aaaa237af485bcc7057e59139cd5d7be1f2b22fbecb3db27444bae487e1",
+      "url": "8b/61/157c5bd278033e0d9baee87e43825626debc31db13c59bebc58fb80a5419/conllutils-1.1.1.tar.gz"
     }
   },
   "contex": {
@@ -6919,6 +6927,10 @@
     "0.2.6": {
       "sha256": "2b964760b4f756f9fdf840bbcb7fad3999e5fd511c5f7c219a9185ecea75cb6a",
       "url": "08/46/aa4356f0895ec5aa810af08cc508554daa26b29116ea1a907caabeed0dd3/django-tiny-util-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "03484ee7dfc7d97a22fa1291652c984fe9339b6b03dbbc7e1ed020acef948001",
+      "url": "c5/8d/d95e25cf3a387292a712530a853c13a60eb63a488319a7ec82a2aa64eb7f/django-tiny-util-0.2.7.tar.gz"
     }
   },
   "django-tsugi": {
@@ -9509,6 +9521,10 @@
     "0.0.2": {
       "sha256": "c1d456c8435c50e645baa8c65dde3af35a9cc2baf7e9b76d774889994f2ec8ca",
       "url": "37/7d/2c82447a53291d0d8ea6573d938198d1707a87a81fcf06ce831ed02c2db9/find_home-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "a11581b3106c7b1c209f53e00153e68cf2fcfc8e78c53cea623a942a0e3b2c54",
+      "url": "9b/40/4027ee1d8c4ed1c4ab12ede1e4430b1fe404d6220a6479cecb27f22dd6f3/find_home-0.0.3.tar.gz"
     }
   },
   "flasik": {

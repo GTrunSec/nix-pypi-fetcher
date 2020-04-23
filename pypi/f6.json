@@ -10019,6 +10019,14 @@
     "0.2": {
       "sha256": "6107abb1188e2372f83b285b7c47087bebebd9fe3594f9b5717bc3e45c37e444",
       "url": "55/ac/e1bdbd9e7e500744fe33eec46f32a1a288d6ef7f9170d9c702a0f5c76cfb/ipymagic-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "8e1bdb3681f6f7bb2dbf2ee6dbf8e27a648a973effe0e4be7f79ae1476f4a0e4",
+      "url": "b2/09/c8080c6582e9ec22f89599ba47d3ab3384d8ef26c7e196308f1041612c3e/ipymagic-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "9a60a20c89b6b58c83df510974f2961c884f54523ba212c16b4f470faba5c64f",
+      "url": "f4/e1/d90363409a54015180701a3ce50e00a6accd99a8368c74bef15e9ee7c552/ipymagic-0.2.2.tar.gz"
     }
   },
   "irdap": {
@@ -10569,6 +10577,10 @@
     "5.24.9": {
       "sha256": "865f995f28e339640c3d9404a4b5ce1c7d3d71680e847a2092c43b68d934cb05",
       "url": "e4/57/9514b15a1746be73c64cff6cb04f5b719dddffb7675ea7707a818d41b4d9/karp-backend-5-5.24.9.tar.gz"
+    },
+    "5.25.0": {
+      "sha256": "7858eddcace1eb2f82946b3bc6427e3a8395410a09483269cc7774a257f27f21",
+      "url": "c8/5b/010dd99055ebee3d76f7596a3167db165f7da140289013899f20cdf8d9dc/karp-backend-5-5.25.0.tar.gz"
     }
   },
   "kazy": {
@@ -16417,6 +16429,14 @@
     "1.14.2": {
       "sha256": "acf0e0dafe31a4e00e5e0d6eecebffe33bd0971e06f5fab278f2be19590fa921",
       "url": "54/73/1578c475f744c837dd500ffe8bfdcb9f0b0aa5f7fcac7ac493ab0115ecbb/PyBIS-1.14.2.tar.gz"
+    },
+    "1.14.3": {
+      "sha256": "c2a7d5c03519d5ddd37b33561f29388840223cc4fcc9680648993f0f7d589a7d",
+      "url": "b1/dc/ad61136e0c2acc6dea1170e5fcae156b228dc7f987dd68a737d6eb91ca8f/PyBIS-1.14.3.tar.gz"
+    },
+    "1.14.4": {
+      "sha256": "96c622cb31a1713e925fb4effce1755948ada01491403b5ce62c85fbe11267dd",
+      "url": "83/f3/ba16f82bef567ff2d5e84d4a600f9570ff840ba4fef63c33136b327f6156/PyBIS-1.14.4.tar.gz"
     },
     "1.2.0": {
       "sha256": "24b114cf2002a9ffcb55ae3e68a3d0ec26d2fb009e1b04e557f7bd76c8ba2043",

@@ -6014,6 +6014,10 @@
       "sha256": "039d03fe00671c6c6f48c08fc6e277c0a2b0c7b253d6d0e182bf4e36aa63d230",
       "url": "70/e7/f6b8525242ec39472f3202b5aeea9521b1a7065cfbde457b204875787fdd/dagstermill-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "b5805e7661a6f1c46c816f148bf360db0679be407fc3dc6330d27941bb7d7eb3",
+      "url": "4a/0d/452d16ffb2e72e41a7ee09206312d57909da0cd7324b592dd048d2495334/dagstermill-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "90c1945383bafef7676a2477114af6faae2f6369e82a31fb5125531fb1719b2c",
       "url": "93/5b/ba96a0b30502a343abc182ee9d00dc76b038c157399cb75f7595f624342a/dagstermill-nightly-2020.4.4.tar.gz"
@@ -10767,6 +10771,16 @@
       "url": "f9/d0/c68206706398e0497adcefb1ee53a38b26117553ee3452fe0afe35e3a41c/glow_navigator-1.9.0.tar.gz"
     }
   },
+  "glueetl": {
+    "0.0.1": {
+      "sha256": "4f408a0acc16a66f5920611239ccd4ff1fecdabd40a184036d35398160fb5a01",
+      "url": "d6/4d/10efbee295c19d5c28423bbedb7e32e83b104df11051fc6afb5c1dfe03f9/glueetl-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "96181f4dd0a51c4d3d809a45c318a14d1f2f8c550976cd914b4681e0f31c22d0",
+      "url": "5a/72/fccdfa0cd313fcef4b32afabf991474bf5c9ea1a1ff6750f95175a6252a6/glueetl-0.0.2.tar.gz"
+    }
+  },
   "gnuhealth-imaging": {
     "3.3a2": {
       "sha256": "5f8d3e14357ecc00fbd5d045ac9ccc0a10c21d81318b71a9ceb4b432a8d48f43",
@@ -11171,6 +11185,12 @@
     "0.0.4": {
       "sha256": "46272f89a0fd4e853dcbb9ee73f7fde3ea22a77d0be133d26265eee0e2a34f4d",
       "url": "3e/8a/ae82d7257352880636c110055fe159106b90c5860b16da21e905f039c495/GWlal-0.0.4.tar.gz"
+    }
+  },
+  "hamqth": {
+    "0.1.3": {
+      "sha256": "965993560549f1e392760900b6bd264231bcd5621319cb2cf9e2344834554ed4",
+      "url": "e3/de/9bf865f9e2d004b8202bd568f913243ade0f5555ed2f5cfcc1b859006850/hamqth-0.1.3.tar.gz"
     }
   },
   "harbis": {
@@ -12632,6 +12652,10 @@
     }
   },
   "kaf-pas": {
+    "0.0.100": {
+      "sha256": "f3774ba9e86d3dafe84db0a870bdaee257654a9e37ac440ba6ffb896fcf1f1a9",
+      "url": "5e/90/57893a7ae39f033518a4597753e12d7c9376422c0e10439a0eea8154e06b/kaf-pas-0.0.100.tar.gz"
+    },
     "0.0.40": {
       "sha256": "cf79e8244c4792ebfe40ad829e2f29f1269dbaeedc1837b2b14160793df25c27",
       "url": "fa/5f/fb2128d4221a65f78009aa99076dd7ce193c54ec07f06dc6789ec94b477a/kaf-pas-0.0.40.tar.gz"
@@ -14855,6 +14879,12 @@
       "url": "e7/43/e3dd14eb02c7648d03ea6135978f1ac1878a11cadb9fea46a00534ab5e89/milan-0.1.tar.gz"
     }
   },
+  "min-renovasjon": {
+    "0.1.2": {
+      "sha256": "8580aee2c9c5a417340151c133e24763ba8fa88b2e27670fa974ff57589263ab",
+      "url": "a1/90/882d7bb7136bdade96cd8b78ae0ba509e27fb600956bc6d609d3a23f34b1/min-renovasjon-0.1.2.tar.gz"
+    }
+  },
   "mine-init": {
     "0.0.0": {
       "sha256": "527a7c19ad6e867c14f224464278ecf3d30f52abd1fb14b0a50b680a73022c77",
@@ -15919,6 +15949,388 @@
       "url": "0e/c7/18ca422ea28971d995ab57c3d1005a39d3a796156719c01b02a49662f40a/numerix-0.0.0.tar.gz"
     }
   },
+  "numpy-quaternion": {
+    "2016.08.25.dev221305696": {
+      "sha256": "5b25760cf48d1efffd7456c345da17e9759fd92612bb55fb66f1d0619c9f5204",
+      "url": "f8/55/c02825004be2aa4e670da7cd11713c3fed06243434371fb5f93300bd0254/numpy-quaternion-2016.08.25.dev221305696.tar.gz"
+    },
+    "2016.08.27.dev94615536": {
+      "sha256": "6f25a92569dfffa0a438dce6577d810a2ac8bd8b9d1b94f2b37a6b77f1133efc",
+      "url": "9c/fc/f6ac5c3eb854879a8761fd79682153950e4ffe918f2ac5e2e51c9dc4df50/numpy-quaternion-2016.08.27.dev94615536.tar.gz"
+    },
+    "2016.08.29.dev231774547": {
+      "sha256": "54cb398854348e0e797ad3ec3408173c120316bc6ba42069c5d75a5c762e7705",
+      "url": "79/cf/836c75cb6d5f692135a3a659cfce45e203aa8fc1a02d8615d1c9e813c6d4/numpy-quaternion-2016.08.29.dev231774547.tar.gz"
+    },
+    "2016.08.29.dev258356679": {
+      "sha256": "ffafe7165f76fefc2dc215015c6a807fd501d14e12e145d9e2e996920e3d0987",
+      "url": "e2/37/aef8d449b7b8562ba081749d447e3db86903bcc8e0bd4896e29a7b9b0057/numpy-quaternion-2016.08.29.dev258356679.tar.gz"
+    },
+    "2016.08.30.dev142425726": {
+      "sha256": "0bfe519d8ef887a0f970c3609d66c8938c6a290b4569e0f5c8fe4d26c5c6a3dd",
+      "url": "a1/2a/c5397f551bc0444edfb650a9ab82d2cd43c3112f50cc199c579d3f06a9ee/numpy-quaternion-2016.08.30.dev142425726.tar.gz"
+    },
+    "2016.08.30.dev40560191": {
+      "sha256": "15dabd80a0595d083108d5d2da52a5be01ac56f9bd8739ce8db0a432a8ffcba4",
+      "url": "d5/c1/7513e1d7bbbf849b97eb4be609ca88b87a3e1fc4b8b34f03b4be04498c68/numpy-quaternion-2016.08.30.dev40560191.tar.gz"
+    },
+    "2016.10.12.dev209377407": {
+      "sha256": "d71bb88c93e8397fd28785af3f40535407b8f9b163009fd041453ea546f9daa3",
+      "url": "f5/fb/86fb8359dad7ef34c4674cc435a6e497d1849be1bd44696f05b958969b99/numpy-quaternion-2016.10.12.dev209377407.tar.gz"
+    },
+    "2016.10.12.dev268044850": {
+      "sha256": "4dd5fa8c064bd9970afd842cee1a77f7bc5314b6f331a25daf969846eb080104",
+      "url": "56/21/f67e2e4bd0ccffbd36979112b0a37bb0acbb545df3a60bdd63335a5cdd5a/numpy-quaternion-2016.10.12.dev268044850.tar.gz"
+    },
+    "2016.10.31.dev83815479": {
+      "sha256": "9fcbe06948ba1595799443b86f288d6eae3ef4aecfcd56033118cf5d1a5f945e",
+      "url": "06/5b/dcb0265b87c54108d8643b07fa48d41f55dfe5d7e30719cbb09c7d81a878/numpy-quaternion-2016.10.31.dev83815479.tar.gz"
+    },
+    "2016.11.30.dev101697805": {
+      "sha256": "31cd3e8447c371da646014e3360de7ff32a1d446b90e7eb84c1539a97ea525ea",
+      "url": "94/04/862b22ff45a97582bc395e82c0cf5364fba90a118ccf448f9b97ee95743d/numpy-quaternion-2016.11.30.dev101697805.tar.gz"
+    },
+    "2016.11.30.dev220855819": {
+      "sha256": "20bec8d391d353adfa468c6ffeede1f9a2cdaf72830259ededa95f0b9caa9b32",
+      "url": "89/76/20ec0ceb5f10eb3bc2858238d6c1ded61d6423bfb2afa9006b9837739bc7/numpy-quaternion-2016.11.30.dev220855819.tar.gz"
+    },
+    "2016.11.30.dev43897183": {
+      "sha256": "2d2c7ccb9144cba0052fe7e85eb9c95ab7a85139c74c689283fc7897f9365500",
+      "url": "6a/42/1172e1c48b302ceac0c4c5aac619999ffcc61f50da54cf271df0db2d53b1/numpy-quaternion-2016.11.30.dev43897183.tar.gz"
+    },
+    "2016.11.30.dev51027772": {
+      "sha256": "d2534da84e91c10acbe95a5737e19f3c56b610e250fc5e966865dc86cf91fe23",
+      "url": "91/42/a30384343524213cfce7c21676cbfc5e531be62feb3b72878a0ab2f2df65/numpy-quaternion-2016.11.30.dev51027772.tar.gz"
+    },
+    "2017.01.08.dev232822920": {
+      "sha256": "679536e007b6e6cb2458dfd002b97fd6494317761e29f552950b8afcb460f469",
+      "url": "55/7c/4f59d2bf1bf9166a6a6ba9de5e7b3a9047894076ce56293dcd273db8aefe/numpy-quaternion-2017.01.08.dev232822920.tar.gz"
+    },
+    "2017.02.28.dev21024698": {
+      "sha256": "bb7ea12187c7c13b9da743f7f3e1dcd366ed43a554afa70f14822b76d647c7d0",
+      "url": "23/99/4bb921af8a46209070e65215e5e0d06067a8342dca70466b576273e70325/numpy-quaternion-2017.02.28.dev21024698.tar.gz"
+    },
+    "2017.02.28.dev244535353": {
+      "sha256": "23644c874ec726cca52f981d186c24a6d5a9a093d1168f2afd4643e72c59ea54",
+      "url": "f5/04/06632fedad33bd0a49d09223c4ab0644d685f8a876a7780a75beaf965d35/numpy-quaternion-2017.02.28.dev244535353.tar.gz"
+    },
+    "2017.03.01.14.16.51.dev141622364": {
+      "sha256": "d3f218679c33b039c7931db53649a5cff3c194d81ad83c36936ee31050e508b2",
+      "url": "c3/25/284b9e1efe0515fe53bd2c76cc2a091e1c9b81417c02abf01fffe2f08f2b/numpy-quaternion-2017.03.01.14.16.51.dev141622364.tar.gz"
+    },
+    "2017.03.02.17.14.39.dev234032961": {
+      "sha256": "26ac9e5dea57351d324c629a08c3bad49bdf990630aefdeac90ed7f96018eb8b",
+      "url": "87/7f/25dc98ba649af284831e49a1d645a822bc018b4a63cf45867d102f72a6b2/numpy-quaternion-2017.03.02.17.14.39.dev234032961.tar.gz"
+    },
+    "2017.03.10.04.36.28.dev170668370": {
+      "sha256": "4566d67457b015b601e760e4768dff9ff981dee159e1037b5b8b1ed21a6a0611",
+      "url": "8a/a9/df1426cbd48b5c6ea056bc7063271ef9bf08e246316120d8c3e16254f9e2/numpy-quaternion-2017.03.10.04.36.28.dev170668370.tar.gz"
+    },
+    "2017.03.13.12.04.42.dev87917346": {
+      "sha256": "fa0b1ba5b7cea31d3d15abd3c6827fbf8d0cf136a4ccaddb5814bc0d6269adc2",
+      "url": "7a/70/8326d772aa0f6cb1a0a31a6c14bfe337895516068583c942cad5d25c4f4e/numpy-quaternion-2017.03.13.12.04.42.dev87917346.tar.gz"
+    },
+    "2017.03.13.14.42.16.dev259768242": {
+      "sha256": "7d021f679b9952461865c977c93c0157c06e9d197e96a54d5f3c1811564595cd",
+      "url": "ab/22/d10bd2e43a6629f9901d95851227b1f42c5014bc3faa9301255495d5b862/numpy-quaternion-2017.03.13.14.42.16.dev259768242.tar.gz"
+    },
+    "2017.03.13.14.50.58.dev88917002": {
+      "sha256": "16c10e55aa7badb976438d36ba369f478679ca4a9d94ccb9b686d7d6f387d715",
+      "url": "8a/6b/55aebe721cb2b77b49b10673f1a98c4b8d41adadd2f849ae672567c37b88/numpy-quaternion-2017.03.13.14.50.58.dev88917002.tar.gz"
+    },
+    "2017.03.14.01.52.59.dev139985168": {
+      "sha256": "026d21991d2f2fcf5a4a31d977c8190f23f7cabd4eeff76811c2744f57eb76bc",
+      "url": "30/34/a540702adfdec5a8e6d5718309380ccd98bf110726f7ac754809b3da8913/numpy-quaternion-2017.03.14.01.52.59.dev139985168.tar.gz"
+    },
+    "2017.03.16.21.51.57.dev242408302": {
+      "sha256": "9e45824e46042522534d0186abd50e14f8ee9b2ca5949e8303fe5187a333726d",
+      "url": "50/89/f220dae23b33a4010dab5598df2659edc26b2e170b0ee227bc1db08c7c76/numpy-quaternion-2017.03.16.21.51.57.dev242408302.tar.gz"
+    },
+    "2017.03.29.15.26.47.dev5411921": {
+      "sha256": "cef37b02343eb5d0232a62aabea478ca88fd9432a51adba8becfb8e2bfaddc5b",
+      "url": "5a/e5/fab0fabadf3bcf9249d8035e4be6b9a63135115b14cadd79f7727e24c90c/numpy-quaternion-2017.03.29.15.26.47.dev5411921.tar.gz"
+    },
+    "2017.04.05.14.49.15.dev261789573": {
+      "sha256": "9020765a5c885d62d1c6a79564f65f748e45073fc7ada9580d0646f89bb1acf2",
+      "url": "18/3c/5a0112cfaed8f56d1347d8fe6384895ba3a04a7c418993ef1f63bc713b20/numpy-quaternion-2017.04.05.14.49.15.dev261789573.tar.gz"
+    },
+    "2017.05.08.13.59.46.dev255649235": {
+      "sha256": "e5a65d400cedefdea28346a6c10a1bc06761de357ced3dab0e277dbe8954495d",
+      "url": "fa/d1/e7bcfc4c258693561a1a411ffe5c8acfcbec3bc7cbae333ecfaa11644e42/numpy-quaternion-2017.05.08.13.59.46.dev255649235.tar.gz"
+    },
+    "2017.05.23.14.39.48.dev53804477": {
+      "sha256": "396c9ef58254b084dd209dddad68624f877f4f47c0fc21b0473c7c1b9b5e9b2e",
+      "url": "49/8e/1cdbecc55591899743f922db7b7b581d831413be3a0923d0e22ade45682a/numpy-quaternion-2017.05.23.14.39.48.dev53804477.tar.gz"
+    },
+    "2017.05.24.14.05.54.dev33077846": {
+      "sha256": "931aef9aecab26655c26c1cc03f4269b8647736abd55f51580266f900b4b709d",
+      "url": "85/42/93a5841ef867e1f9028b6d533b5302541b24285e13de2cf3c3ccbf6c6adf/numpy-quaternion-2017.05.24.14.05.54.dev33077846.tar.gz"
+    },
+    "2017.06.02.13.32.11.dev17910925": {
+      "sha256": "a30c1c20cbd905481a2c39ae2adb39a7ddc538f4f80f6f2273147e4d0f93afff",
+      "url": "a0/11/d880d18bb985553c8a5ef11e6f5d71887790afac11e52b2ea6bffcc614a1/numpy-quaternion-2017.06.02.13.32.11.dev17910925.tar.gz"
+    },
+    "2017.06.05.21.14.57.dev19253288": {
+      "sha256": "3bc6c712b4bec17b5b7ae1c44b227f7bae04d44cd371ee3b133389f50e7d3e0e",
+      "url": "4a/a7/fb0b0f870fa69a6f562b361b5c775e19673e622baf8cc8b501f406515a06/numpy-quaternion-2017.06.05.21.14.57.dev19253288.tar.gz"
+    },
+    "2017.06.05.21.19.52.dev20097538": {
+      "sha256": "cca48099be2cda8d1e1ca527850cc622c2c46e07c320942e08c15fb455b75367",
+      "url": "2d/be/903da366382e527cab7fc4c253903c73b62c7406b8d6ebaf3a2a66a7d1af/numpy-quaternion-2017.06.05.21.19.52.dev20097538.tar.gz"
+    },
+    "2017.06.09.12.19.46.dev119623821": {
+      "sha256": "d029e279454f2d07e76937f38aa30846ba7e86e1e35b9a0b6f95770bbb2fbe91",
+      "url": "02/72/e1bdeb68daec57fe7b71c26fa2f60c5988a62024757f55f648a132398c31/numpy-quaternion-2017.06.09.12.19.46.dev119623821.tar.gz"
+    },
+    "2017.06.28.13.11.35.dev177226304": {
+      "sha256": "3252e34c3291bc48d17a932a0f25a5fd3c7173032dfca1b951b4de18e1442a46",
+      "url": "f0/99/f38033e0a90674a7e8a1df5e98d2aa73e73cec8b11955c2ae155d1da9369/numpy-quaternion-2017.06.28.13.11.35.dev177226304.tar.gz"
+    },
+    "2017.07.13.12.09.11.dev31661272": {
+      "sha256": "0f9297a13f1ea729991abd72b410dff0c1be47531d586bc7d27e05650c483dfb",
+      "url": "f0/d9/265ec8c844a5d136cb373d9de50c60c702daf77ef02998d6f273f97d897c/numpy-quaternion-2017.07.13.12.09.11.dev31661272.tar.gz"
+    },
+    "2017.07.13.12.10.29.dev114912538": {
+      "sha256": "a9abe7b95bf48b9e2c4a7a552a5a1cdca723e4d2df2e35ffcb941fa8e0dfcee2",
+      "url": "91/77/c392b7dfa8255db513b162d2b43f67cb2ae0ac9b3ad1d4c65460cde04ed2/numpy-quaternion-2017.07.13.12.10.29.dev114912538.tar.gz"
+    },
+    "2017.10.04.13.50.36.dev52395737": {
+      "sha256": "4ce643988713e6a496c27b64b2fc799332ce6af082932b0b72a63e5a519b9453",
+      "url": "a6/44/4ff18ddb03ba96b526cb5e933cf054973817d4763931f494ab69c789c76f/numpy-quaternion-2017.10.04.13.50.36.dev52395737.tar.gz"
+    },
+    "2017.10.04.16.20.25.dev180388366": {
+      "sha256": "a2abaa934b6db491c4d1a40d04429c43d5efda6362a1207a4660221ad8004d66",
+      "url": "42/32/30d30fe69c6a4ebfa0366a0600c8eba80a745a0ca873dc6cc8810957ef93/numpy-quaternion-2017.10.04.16.20.25.dev180388366.tar.gz"
+    },
+    "2017.10.14.11.11.56": {
+      "sha256": "78e15ef8e7324b5b599ea1ba64eadc2c0197887b9db3aed6c7675de9cf0d64b2",
+      "url": "dc/8c/a6e94e7bae9e0f0f23c8489ed9b27dd6870d6cf9b8adadecc6a0d5630b38/numpy-quaternion-2017.10.14.11.11.56.tar.gz"
+    },
+    "2017.10.14.11.13.13.dev206252663": {
+      "sha256": "17e67549a3a6a70c552435b1eb8d1d01aec9914902a8b4c1e4e02babedc4e5cc",
+      "url": "16/7b/238a1540b9334bbbee89c45f6631fe8856fea6c3d0ea2b0328df831db211/numpy-quaternion-2017.10.14.11.13.13.dev206252663.tar.gz"
+    },
+    "2017.10.19.15.47.40": {
+      "sha256": "0399ff457ca0c5b9b627bf11017895d74ca8627b0cc5bee75fbdd274d490381a",
+      "url": "ee/e8/5521c1c0978e8fbcd28e715bac31731abc06a6774658de41e6ab22e37b42/numpy-quaternion-2017.10.19.15.47.40.tar.gz"
+    },
+    "2017.10.20.10.41.30": {
+      "sha256": "2b41df1df9f1f76f32eec7652fb407c41e50b16903ca508c55457f0e1837cbf5",
+      "url": "87/2a/f17d4ae503506cb634ce93ac34a6acb20c40f2f63e72618a6f71fb6e620d/numpy-quaternion-2017.10.20.10.41.30.tar.gz"
+    },
+    "2017.11.26.19.00.13": {
+      "sha256": "3e3cad8e769934628fae9beefdb19418db9519d9b8a8c5eee7c78778fc492988",
+      "url": "7e/4e/ea5f0cfa242619f6d38ebc9500d26811ed68c1050fe658d0cc6c2b51d29f/numpy-quaternion-2017.11.26.19.00.13.tar.gz"
+    },
+    "2018.02.21.15.41.17": {
+      "sha256": "2bacf476ea3734d55ce6b33e2ed0c350615f37c321036bce56e84f8ccdc09aa1",
+      "url": "a6/ff/adc2832fbe2e94a54ace146897a7205adada41bd007691a68f13fb621ac1/numpy-quaternion-2018.02.21.15.41.17.tar.gz"
+    },
+    "2018.02.22.22.24.39": {
+      "sha256": "be2f224dcc1ab24c23b552a5bc7a97df6aa4f9ff4a79a9826eb117639206d735",
+      "url": "8b/72/5e61aa6a23765c5eed318e26fc151c658fd3225d0022a00b9038e81f8b08/numpy-quaternion-2018.02.22.22.24.39.tar.gz"
+    },
+    "2018.02.24.23.05.39": {
+      "sha256": "d731cd92e95be232572ba700675d547b9ad3d3b369279aa8f8b4bd97b78274cd",
+      "url": "a1/cb/9d8825ecd6a2cecde923e9e84f2e85169fcd4beda93840d14089af968972/numpy-quaternion-2018.02.24.23.05.39.tar.gz"
+    },
+    "2018.03.02.09.28.43": {
+      "sha256": "15c552aee5837521b1f2cef0a3077b7aa549913329e8e5e9c825d8cb2414d189",
+      "url": "44/fb/59cd63e842322068b69205c49ed60a7e342b14def7dff329265772a567f1/numpy-quaternion-2018.03.02.09.28.43.tar.gz"
+    },
+    "2018.03.06.20.03.47": {
+      "sha256": "b82e9c1eade4ae2f769dd6859162b777ae16f1febc59de12017f541c67ebc493",
+      "url": "0e/03/4813b1ac3e3044c1ef888dc4ef3fad6b741c5b7ba41a800b808ab6d99fb0/numpy-quaternion-2018.03.06.20.03.47.tar.gz"
+    },
+    "2018.10.1.15.1.2": {
+      "sha256": "b456ccf0d9de9e2d15f52c0811f5b07240f38b1041a13315d2b9be35107ac813",
+      "url": "41/7a/0719152e9775892798b1cfd6542664bf48d7e4c2ac9ba020901e1cde8a8e/numpy-quaternion-2018.10.1.15.1.2.tar.gz"
+    },
+    "2018.10.1.15.18.24": {
+      "sha256": "7cac506b7203d9858908b1713c3d27278e28d3848c0e89d0c9bcb442e2830251",
+      "url": "f8/96/74881aa0658a87b7da645455201c33d13fafc2bc5fef83dc2bb7842d5199/numpy-quaternion-2018.10.1.15.18.24.tar.gz"
+    },
+    "2018.10.1.15.34.19": {
+      "sha256": "6db424f4758c41382a4bdaf9b58d85ff97cbdd9bc2be82a1292c09ca416f27b3",
+      "url": "91/5f/1ccf613e772c42010851120e528410456c5eb5865023e4dd6a88cc702df4/numpy-quaternion-2018.10.1.15.34.19.tar.gz"
+    },
+    "2018.10.1.15.39.8": {
+      "sha256": "d73477c9a6d8c2dcabb954c853fe7147828ac827c323e634e8f7777a152a6aad",
+      "url": "38/19/b7106a7e3dc0c50b67583937b98db881a71d54b7e7c5e2f30e2507f026b9/numpy-quaternion-2018.10.1.15.39.8.tar.gz"
+    },
+    "2018.10.1.15.59.11": {
+      "sha256": "fe2ccbf5045ffe5fd1167e05211e410bfd5144a1eaf899d109c193c686991728",
+      "url": "a9/c6/a492b1f30e84338e2832d14f8dcd91b7feb2222a4dc4be2378f94c073cba/numpy-quaternion-2018.10.1.15.59.11.tar.gz"
+    },
+    "2018.10.1.16.30.46": {
+      "sha256": "0f5b1ec6669217605737a715dc2576521e9f0c1ce580d4ca1f15e438d14aaf4a",
+      "url": "c4/53/066f61ca207e2baf7d4894b6e6c31b5d46514b0468221f06b9fd445938a2/numpy-quaternion-2018.10.1.16.30.46.tar.gz"
+    },
+    "2018.10.1.17.6.20": {
+      "sha256": "ae7c7310d80e79adb364a527f5f79b9ebf5e7488e12ef561190dd36260dd693e",
+      "url": "d4/0a/a4d3700ecabb9c58b9492744f47131b4a5963098100c1b3a98b51f0fb4a4/numpy-quaternion-2018.10.1.17.6.20.tar.gz"
+    },
+    "2018.10.1.22.5.32": {
+      "sha256": "e2c790d05d0ea786fc2ce3e19c469f660499e87acc0e2ea29f63295e07eb96d2",
+      "url": "46/65/b046c9e7a3cba3a33a56f9aec66366ad2dc4ef64e4dd19d3b318f993d6bb/numpy-quaternion-2018.10.1.22.5.32.tar.gz"
+    },
+    "2018.11.28.14.6.55": {
+      "sha256": "260148252683ac63c419d1bb7e61808ae3aee03c19f1ff8946625e5456e8ab10",
+      "url": "28/1b/cea22375aaade16797707d44772bbfb70c7983d2349c06e29f6fc7c35e60/numpy-quaternion-2018.11.28.14.6.55.tar.gz"
+    },
+    "2018.11.3.1.0.41": {
+      "sha256": "48f11507849c429cc78e30d906ea2adbc3359b46254c94c5a899aa7e6a4d7b38",
+      "url": "3c/5d/e58d67cd579061aa2c392dfeef510ba35b89d208d8ec689b0b0438c3632c/numpy-quaternion-2018.11.3.1.0.41.tar.gz"
+    },
+    "2018.12.24.11.8.55": {
+      "sha256": "a27b86b920680fdf9ece173f6ba8338602bbaa3323bb865a3d1cbbbdc33e3a20",
+      "url": "ef/4f/fa00ba5f2d46704eef9e69406fe13a73c79e988bbe73a1504874242f28b6/numpy-quaternion-2018.12.24.11.8.55.tar.gz"
+    },
+    "2018.4.16.17.4.9": {
+      "sha256": "8d9db4a070cd61a7a37aac48406f4bb6d50cbcfaab19e0b6b8233463583eda6a",
+      "url": "56/05/caa4e0f746b50ac5a0ec887c4232ddbaf77065a6a7d95da63a47b6187cf2/numpy-quaternion-2018.4.16.17.4.9.tar.gz"
+    },
+    "2018.4.18.16.15.4": {
+      "sha256": "8f8c4c118553bfb43956c8274d4561ff31c34104357fe8c1015c5e6b01c6eb2d",
+      "url": "e4/3a/9d094cbebf2f42b497d175592dc071c680f987891bc35b123314fc1d6ef8/numpy-quaternion-2018.4.18.16.15.4.tar.gz"
+    },
+    "2018.4.18.16.18.52": {
+      "sha256": "ac0492de9ab722071dbaf432088841101cb0d186489a42eff63e91a409f89610",
+      "url": "9d/bb/684537640470970f8b9923639f45ccd4e99c6499b74ce798383d1cee1a27/numpy-quaternion-2018.4.18.16.18.52.tar.gz"
+    },
+    "2018.4.26.9.35.2": {
+      "sha256": "ca9892f602d7310494ec592298cfba2bb39b59b81380fc9f853c68a392511da2",
+      "url": "79/85/3d42f09c6a56b0da9d109ec85000050f9f515e3bd9b60ca4f0f75388c703/numpy-quaternion-2018.4.26.9.35.2.tar.gz"
+    },
+    "2018.5.10.13.50.12": {
+      "sha256": "4bc1ad407cfc9a09037f986eaaed4b79269d4a35ed68c6965e2615d4eff4d60d",
+      "url": "f2/15/2fd56a611652de82bcb854920a616f1525034ea3bc2e316c6e04aa3c13e8/numpy-quaternion-2018.5.10.13.50.12.tar.gz"
+    },
+    "2018.5.16.9.16.21": {
+      "sha256": "a4680bdd67c6d49890ad88f2f5b38d507d13c964c18be061b66133b0fd64fa53",
+      "url": "ad/20/9012ee7b2971bf2ae5955bcf8b060cbc1fdd2fa9c8dce382a7f77dfde72a/numpy-quaternion-2018.5.16.9.16.21.tar.gz"
+    },
+    "2018.5.17.10.19.59": {
+      "sha256": "c14d448cb590430a98d1cef8a13b4ac2328653e9f8a20b1f978eef09352ebe26",
+      "url": "9d/7e/d8dfe1a1cda9530da0be75c0b000c2ee1f8f3cb274f42b84f3a5e1ba1aef/numpy-quaternion-2018.5.17.10.19.59.tar.gz"
+    },
+    "2018.5.2.21.39.8": {
+      "sha256": "a306fe739809da164bd4e4cc7e3f268ff2f9fb9314b40cdd4b11fceca4d96890",
+      "url": "4c/6f/4d5c7506a0e30c5fb11fc01d7cb983369f6caff5d7223ed4b2ef0d6bf435/numpy-quaternion-2018.5.2.21.39.8.tar.gz"
+    },
+    "2018.5.31.13.56.17": {
+      "sha256": "6f4e89520034b74ef6d9f76715cfdc7db9b6dbad8ba85a58b4da8f2b52fc7de7",
+      "url": "7b/51/74524c12c2122d23ae689de4fd1ed4c435ce552818294fc31da7d904c1c8/numpy-quaternion-2018.5.31.13.56.17.tar.gz"
+    },
+    "2018.5.31.16.8.42": {
+      "sha256": "0ce982d586b8815de250d59a5f740c965f9f102ff914b48709b18ffc293a8697",
+      "url": "d3/9b/21f12f26efd9b258f0574ed5815de17c3d1d8a046278eb48bcc3fbca086e/numpy-quaternion-2018.5.31.16.8.42.tar.gz"
+    },
+    "2018.5.9.12.22.4": {
+      "sha256": "874b18f3e870d8a1db329952c7db21fcee0097b1950b1bd29b6a17b8e66812f7",
+      "url": "ff/12/38874120e7e0f0046fb3f97c1318ca98a135e7ed0d8f69897baa90023f44/numpy-quaternion-2018.5.9.12.22.4.tar.gz"
+    },
+    "2018.5.9.17.32.22": {
+      "sha256": "fb591f21ab94417ea05a7dffe2e06f48fc17815a80a5f4cd956d05e21afb6a2d",
+      "url": "76/25/652b2344e0c8454958cb1d28ace211baedf20f3c49f04a21d738810107e2/numpy-quaternion-2018.5.9.17.32.22.tar.gz"
+    },
+    "2018.5.9.17.41.0": {
+      "sha256": "ef02a946e7b4ef6c24df267afbf9250005a2dd0ecfa3111315aac27bcc6f9463",
+      "url": "18/71/ad839626ad570c1cb913d44c27cb5dfce287f6f972a9868c92a2cff601af/numpy-quaternion-2018.5.9.17.41.0.tar.gz"
+    },
+    "2018.5.9.20.48.6": {
+      "sha256": "a51ddf661e4b95cef0b4acbd679709b167d9063740ff0ada168ee20f7a07a124",
+      "url": "37/47/60503ca8e99e8367052d770fe0687c8585150fbf3a2eba3b789dceef4887/numpy-quaternion-2018.5.9.20.48.6.tar.gz"
+    },
+    "2018.5.9.21.48.54": {
+      "sha256": "f17dc2178c7fb6fe13db3181e8ebdb7dd690c45a1778391fc93f6c6b99c6ee9c",
+      "url": "20/c5/103eabfe8f2d818f9c4df082c234aa53618b6ed8b605f4c043db0cd7fa2b/numpy-quaternion-2018.5.9.21.48.54.tar.gz"
+    },
+    "2018.6.18.16.33.12": {
+      "sha256": "c965e5745084c35d990893368e996cd215eec6210a2734f2846a9d53f159f756",
+      "url": "d4/92/7221bfa3bf3a922b0ff07c236c1e073f7ec553f502b58a5b1f56d1e2c21b/numpy-quaternion-2018.6.18.16.33.12.tar.gz"
+    },
+    "2018.7.5.21.55.13": {
+      "sha256": "4608b70898433f23b920be1e29a9538d5d624e7825a72fae68f439d842631ce7",
+      "url": "b3/27/4a24bd518a8a85b4a8c7906b80a61972a656cbc9b8f9b738d0f0b0f09410/numpy-quaternion-2018.7.5.21.55.13.tar.gz"
+    },
+    "2018.9.30.22.1.29": {
+      "sha256": "066164f9641f96c28fa147efb049246f9c1b9e8d06eaaca8b345830fb256fd89",
+      "url": "49/ae/dcbf6253b16646af19e504a5ce0f6d179f5a81f95b97e0935d0818dd8e71/numpy-quaternion-2018.9.30.22.1.29.tar.gz"
+    },
+    "2018.9.30.23.2.27": {
+      "sha256": "49dfffc3cda57a4c32d80c93e50787dc82f72e3bfde8195ff1078a1021a687f1",
+      "url": "16/13/a4d3571c533bce29dd9b4f2c88af70a0d32520af65d457fd388a1bf11fb2/numpy-quaternion-2018.9.30.23.2.27.tar.gz"
+    },
+    "2019.10.3.10.26.21": {
+      "sha256": "1be56c6ebab22c55f2f005a62ce098e08a7401783d2fad2efb1ba1dd21f02372",
+      "url": "c3/38/3f425805ae8c20cbaf38b3ca6f13afd62bf069e8b581087e257a2c130f5c/numpy-quaternion-2019.10.3.10.26.21.tar.gz"
+    },
+    "2019.12.11.22.25.52": {
+      "sha256": "21d7bfbc08ad7ba882a05262fc67daf96e9e394fe442d1b62a4b8829259d6688",
+      "url": "a6/1e/62ee5115236aafa3d763226da9ad01abc91b8be9cfb843aa0f709ec38f5d/numpy-quaternion-2019.12.11.22.25.52.tar.gz"
+    },
+    "2019.3.18.14.33.20": {
+      "sha256": "7b8de471861a7977802c0fd0a9f67aece6a5967c398b7e338a44178ecf546aef",
+      "url": "f3/07/6512b870e10c185ae58b5eb90c878dafc09c0d290d77c0c33b6b5c0d6d2f/numpy-quaternion-2019.3.18.14.33.20.tar.gz"
+    },
+    "2019.5.24.11.54.47": {
+      "sha256": "100c99f9a4b9467cd6b2cf9a9e24248e2bad753092a10efd86309c256ee444c8",
+      "url": "f1/6e/498179d00cfe63d397b73299744b006bfb706b35a3d34ff727d33c45bfc4/numpy-quaternion-2019.5.24.11.54.47.tar.gz"
+    },
+    "2019.6.11.17.26.3": {
+      "sha256": "d7278ace6928279990897092904e7f5873b333c899b577605b12551bcca4129f",
+      "url": "e3/36/c4a17998ed49b7d2818c82fcfbf2f2726f7ef4cf76c947834a6759f12993/numpy-quaternion-2019.6.11.17.26.3.tar.gz"
+    },
+    "2019.6.25.22.33.21": {
+      "sha256": "4dc3f29560a1f754dfd153fcda3ee86b0c6fb238719f69bc2779cbb63db596e8",
+      "url": "d5/b6/b6561125801cdf7f2f955b2ede0b3259c4947469beb36907bf5276024c9b/numpy-quaternion-2019.6.25.22.33.21.tar.gz"
+    },
+    "2019.6.25.23.51.47": {
+      "sha256": "51a46cee4dee7b77be00a701febf23576bd700eafc0f253119b576ca75f04dce",
+      "url": "3a/0c/a8e8c843021d41c2fb5c29f01bbcd4fa77ed4f812302b71b1cddfd745768/numpy-quaternion-2019.6.25.23.51.47.tar.gz"
+    },
+    "2019.6.25.23.8.37": {
+      "sha256": "f2d954268966ffc9fa72e4c49e48df3cc81d30ab046559acb9557214cb1ee718",
+      "url": "46/66/8bebe6c0e524b7f89c0ad7155309df66061fdb642d6d4eb885a91566ce99/numpy-quaternion-2019.6.25.23.8.37.tar.gz"
+    },
+    "2019.6.26.0.0.13": {
+      "sha256": "5244e524cd7c13b7bb3f8e35684b5c276672794cadc98866826eb49de4db15c9",
+      "url": "d2/94/86e81260c0098bc03416b68227ebf43635953f3d6ec4971fa934e5c23280/numpy-quaternion-2019.6.26.0.0.13.tar.gz"
+    },
+    "2019.6.26.13.19.17": {
+      "sha256": "63cb05e463c001f9eb8b2d4f37f83431e04033b5c8d950daa277c164109d2f9e",
+      "url": "a9/7a/66ee39f82fb6a1eef150cfaea1d6e63365407da62d29101df7d4bb29a515/numpy-quaternion-2019.6.26.13.19.17.tar.gz"
+    },
+    "2019.6.26.13.52.49": {
+      "sha256": "de9e4c0c8f37b4ff64bdaf13a914bcf2383474352153d3d80acbace2d32fe785",
+      "url": "3b/ae/5512e9092a8e2ab2a9ea19077f088bb79bb3dda667c8f83346ec52db0356/numpy-quaternion-2019.6.26.13.52.49.tar.gz"
+    },
+    "2019.6.26.15.8.24": {
+      "sha256": "5b11f65f3ef6fa0227530d2c587cc0cf57f64a46d5a121e1cf99adc4c2807014",
+      "url": "2e/60/5f944c433e3726a340db9cd0ef24bd4ac34c4d3654ca8dc8f9cc0e21ce78/numpy-quaternion-2019.6.26.15.8.24.tar.gz"
+    },
+    "2019.7.15.12.50.36": {
+      "sha256": "7410612b684faa8f70d01a3d7f75d77307f971ddb72bc6bd00e7d093184cd60b",
+      "url": "54/b5/4a5f654ace2656d301f08629d91eee6475b59bd6d225d51a7068451e4141/numpy-quaternion-2019.7.15.12.50.36.tar.gz"
+    },
+    "2019.7.23.15.26.49": {
+      "sha256": "42289bafc3292959173d93736f9c875b5c69d472934f04a76883b7b185adc42e",
+      "url": "a5/c4/9d54605988a118d72492001ede7b49a57b1b281cb5b9966278d0faab6730/numpy-quaternion-2019.7.23.15.26.49.tar.gz"
+    },
+    "2019.7.3.22.46.7": {
+      "sha256": "f7f3a2fd9e8e6796129f0ca76eed3cbf9ffd22e4dc3fdeb94d8df1119fb674e9",
+      "url": "5e/79/2cbe050deed1cd7976e5cbcbdc15ca67840f7079a044bd082db127db204b/numpy-quaternion-2019.7.3.22.46.7.tar.gz"
+    },
+    "2019.9.30.17.47.33": {
+      "sha256": "4ebc8e419aff57e6146baadc7c8309e2f3558d9f2c36c62a4813bf9905f59279",
+      "url": "98/19/fd182e94a025a57a3f41220852230655150599a49f98f0648294f0a34505/numpy-quaternion-2019.9.30.17.47.33.tar.gz"
+    },
+    "2020.4.21.14.53.58": {
+      "sha256": "4027fda144389be042d55076cdb77e2502eb9418ba7006529455a18d3e4feb6c",
+      "url": "ff/06/02a9e98fcb659953d3b3bb76bc7b19a410c91b61b013c661e29bb053ada7/numpy-quaternion-2020.4.21.14.53.58.tar.gz"
+    }
+  },
   "ofarchiver": {
     "0.42": {
       "sha256": "ab5da68318a8f561d8a3f782e5127415eb30be1cbbf7f970a959040de2eb72a3",
@@ -16655,6 +17067,10 @@
     "0.1.dev3": {
       "sha256": "370b6a8427cd47af969b324a817190ad4394feb72a79b3eb6d69b591f0e24dea",
       "url": "7a/96/e35a9261cff977d08ee0378e98053ad005259be197e25fa243c2bb395487/panda3d_viewer-0.1.dev3.tar.gz"
+    },
+    "0.1.dev4": {
+      "sha256": "57e044721a69274645829125394da05a565af7f404d79dce045500488db44fdc",
+      "url": "24/bf/f86fb1a36ebbcf775259bb64bbd38e367d81afd591f93c416e9eaa95923c/panda3d_viewer-0.1.dev4.tar.gz"
     }
   },
   "pandoc-simplecite": {
@@ -20335,6 +20751,10 @@
     "3.0.0.0rc2": {
       "sha256": "0b5be44508de49f6855897b1307b8760b7dede45b1f03d5f05fb3f1fc7e98a37",
       "url": "56/0c/32fd427069d146792955a6ca10dc5aea8e10387c29f433009c46c48afb7b/python-watcher-3.0.0.0rc2.tar.gz"
+    },
+    "4.0.0.0rc1": {
+      "sha256": "670351f1d6220409d301074e8c11557d798910e59797ec5015c07f640b7459ec",
+      "url": "d7/d1/0da63976efe1221fc203e88941c4ba244bcbad698ed8209e00fbd963fa45/python-watcher-4.0.0.0rc1.tar.gz"
     }
   },
   "python-xycloudsclient": {
@@ -20391,6 +20811,268 @@
     "0.1.0": {
       "sha256": "4b3f62fd4149d81f26189117458fd36e56040dab4f0b37ee83cef3b0fc4e0026",
       "url": "2b/2b/03e2eb7302d0b0b235ded3233d57f2a91b32b8eecaea967ac37b30eed759/pytxrx-0.1.0.tar.gz"
+    }
+  },
+  "pyvizio": {
+    "0.0.10": {
+      "sha256": "6bf167fd6a5510a0d555ec0574e0f512d11835ba011262b1ff0608cc62b1e21c",
+      "url": "c7/eb/eea6e4245b5c3c86324158a09cf1199714b0a5765bd9aa8e7c03189e943f/pyvizio-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "7c516cecd33df4ea2d6928a91c9ddef80212eeb2befaf6d52df86d49381a1fe5",
+      "url": "48/46/ae645aad50c5966070bfc5ce653d029d1873d742b799685d081b71015aab/pyvizio-0.0.11.tar.gz"
+    },
+    "0.0.12": {
+      "sha256": "9e22b45067ec19a2e1baa4162a69f4b5c15ed9c5633ff9b6ff23813b85bae9c9",
+      "url": "d9/53/f5bb5ee5caf86b5511e08b0ba402013f1a38daf12da96596b3ac10e0f05e/pyvizio-0.0.12.tar.gz"
+    },
+    "0.0.13": {
+      "sha256": "d77b97422469ad0417bb2aa96e1c74780d91807e437afbe349cddc1a54a388ef",
+      "url": "59/8e/bb15c08fbb98eb4b39741c00a642533e22d07160a6678506362ba0c4fcd8/pyvizio-0.0.13.tar.gz"
+    },
+    "0.0.14": {
+      "sha256": "c39f8b7cc6b1cf69a8211e7974cec5c1aecd52100e39c95fc1862b9a268fc515",
+      "url": "3e/14/9d24c43ae8bec38f89924c6df408b4efea27d2932fc45d24dfe3be055998/pyvizio-0.0.14.tar.gz"
+    },
+    "0.0.15": {
+      "sha256": "2a8d80bd09f364a913783e8fc35159bcccac1b1da51ce1952e508042a5160036",
+      "url": "9a/0f/21679615127ff6b5aeb7ed6e67d45906c9da085a75af5ecb90599686f728/pyvizio-0.0.15.tar.gz"
+    },
+    "0.0.16": {
+      "sha256": "9b8863991fa455dbba0f99b16050cffce8592f9149b682b20697ee2cb63bb452",
+      "url": "d9/e7/8346b1d3899d72dbf1be8432a8202ec5f14b0d206c76126806abf77833d1/pyvizio-0.0.16.tar.gz"
+    },
+    "0.0.18": {
+      "sha256": "f470fccc1024b70d0aa4f00497a8d035a2c2a75bca02993aebe74cc82f37db1b",
+      "url": "6e/fe/abecfa5e77aab4885b7be45086494bae38deb18e032c2217e1dcc1d94df5/pyvizio-0.0.18.tar.gz"
+    },
+    "0.0.19": {
+      "sha256": "b41efae0c31015d2e1ce1a4f0e4ba6b5d21e83669ba8876f2ca6821c50fb9ef5",
+      "url": "75/c9/0753d93139471ead6bbfaaae202ae3264b8b1658640ba5d700ba5e5829ea/pyvizio-0.0.19.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "c8292a38465ab636fd7f6868326b74b06596bd0dfa3783e89933f6473b65939e",
+      "url": "87/c4/f06bf7fc9a7a9faf5ce50383568d40ae2a246938f4e3cdb56234c1db8103/pyvizio-0.0.2.tar.gz"
+    },
+    "0.0.20": {
+      "sha256": "33c5f3b91e7bb546d02b271763fef02949d61264b8e5d5f55fe84a11139f26e7",
+      "url": "55/25/af3f312961dc4051d5ae761e0db99b85d8b0bd081f5e989fc76e34a59aec/pyvizio-0.0.20.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "852b0def8dea69178c6c574f3ab8eae66c6dc5de8cd8c24094ee83c9cfa5a7e5",
+      "url": "bb/2a/f7e5fd97de451b99e36ea5950be60b15be4d5dfdf1c225c69ba837bd4f8b/pyvizio-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "f4a953d4b4072f56474847936410a91ada95fe6a4092a2aea2d66fffe184e432",
+      "url": "2e/29/e8ffa1b0ec6c8fd49981fe7a0924a2874fdccc0ce42f984bc92400f850d3/pyvizio-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "718cdb5eba213cc1ab33bcc7a71c0b4350b2fbdb0335308868c704dd794ef7ea",
+      "url": "1e/4b/53d58bee603041d3ce4f2bc7816befff704d56d29bafb6d1c23ea3d27f37/pyvizio-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "4cf91830bb281f71c0c7de18bd63e08b96b6a9c564086000e06f8196a5d17146",
+      "url": "50/e4/396e5051c3cbfbc06ef955bc4d1e0760fafc51885f731ced36b49fb1383c/pyvizio-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "cf0b9f2e16dd92a0692c7dd96b03c3c3d3a58905f2f4a71486aca49feacd5a7a",
+      "url": "35/3f/e83e095df5e0207b02d7b4f08ddbcdaf688d982f47edb080dcf643588622/pyvizio-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "c09dc81f95b3617d5b8e300109c8d938d6fb0b2e796f60a09968b3b2d8e2ce90",
+      "url": "3b/57/6923a40808d771e7c488710220fc18613fbc48c82a5bbbfb4202f6106a47/pyvizio-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "223445d49409c4684828de6879bc1349999310a2fa7a4407595a240765e74802",
+      "url": "41/27/914bb3889d4660b34a468dd3d795ddb1f4bc88ec2582eef23af7b4192374/pyvizio-0.0.9.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "35c361ff472839b63e34a8b66ea9f2b42b74c1f4130f093b8244d4b22f376456",
+      "url": "02/d8/ac2e665ff2d7ec7f841b8590343ba5316ffb8da5f4b2b7d4bf7e11b70f5c/pyvizio-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "a07504508ee598dfab0100f949e9b016efcdd79e74ca6ec559367702854d2cdd",
+      "url": "a7/cd/f27c1002c9ce023d24a6f3e2e36e06b6b5be2a04b05d907da545a3b58df2/pyvizio-0.1.1.tar.gz"
+    },
+    "0.1.10": {
+      "sha256": "0057ede9e59283c7b03d3f420fc172f5165f8eeac55358acf64ad876e52c99ac",
+      "url": "59/27/b39486c4ceb4b255951b194066fe467c1922e008035d431a0625f14ec12f/pyvizio-0.1.10.tar.gz"
+    },
+    "0.1.11": {
+      "sha256": "c7a0a3cb89d2df6bacafa11e76d24b03008eb0e79146a0caf529d8f03e6c4959",
+      "url": "ee/5b/e415cb78282a232304684408a74b7d1ca9d18da6db5ccc91329de5fdab57/pyvizio-0.1.11.tar.gz"
+    },
+    "0.1.12": {
+      "sha256": "50d57fdf564077d0352d5c001b73fdbd710f3bd1c88cc92ea368497e443b5f11",
+      "url": "fb/47/5481ef13bde479fcabc38c599605fd53ebec69f9694669787a7073873532/pyvizio-0.1.12.tar.gz"
+    },
+    "0.1.14": {
+      "sha256": "ebcae14e22fe58730599cbd412fba792755e4dbef4a67072336dbe12b5ba617e",
+      "url": "db/99/eb1606465d1988e7c3053d5d456f0873698ff06c4def5380c6adfcb0973f/pyvizio-0.1.14.tar.gz"
+    },
+    "0.1.15": {
+      "sha256": "ec74ce0c8817635163d68126ac6cb296e207c4232dc0c653b61f66e7ba5f336c",
+      "url": "7a/cc/ea1cad4f8bd40d604839f0918e9844061307613b50e2155d5c3346f2fc35/pyvizio-0.1.15.tar.gz"
+    },
+    "0.1.16": {
+      "sha256": "bf48509d6df18459041e4aef9d34a14cda54095f5eb8c0dce7888b7db64ff451",
+      "url": "06/9f/85f1b96ad9e56304d4e93587016ae55239b86a982544cf50250403aeffcc/pyvizio-0.1.16.tar.gz"
+    },
+    "0.1.17": {
+      "sha256": "784b113a7fd33887325c158bbdf583fcd5bab855b76526dc7f79e50cac478f42",
+      "url": "f9/08/caf3c124db196b09d7b49becc2370518f22afea99faa47203f17078b5f39/pyvizio-0.1.17.tar.gz"
+    },
+    "0.1.18": {
+      "sha256": "0ff3e0ec225dcee05b73b29cbe0b90c2161496be97e9dd70da9e1aece5c1e0d1",
+      "url": "57/71/a61bc8cb868fd3e67b6372d2bfa7380c461968be37fb650bc17eb2c18de3/pyvizio-0.1.18.tar.gz"
+    },
+    "0.1.19": {
+      "sha256": "ef9dcb5f92ce2e3942085bdc5f3e6cc2bdb0e536445e668c468c35a63a54f9be",
+      "url": "2d/32/90eb0c32cde71d2df11c8af2f82fbac404a8557d04886778700a0d68bd99/pyvizio-0.1.19.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "6dd4918fd72c339b7eb09710f822068b431c8e3fb193e76e48ac4507a40ba86c",
+      "url": "3e/79/85221a315ee7a8cd1f29435e2e3875a8ceede50ad55697fc8250e270fbf7/pyvizio-0.1.2.tar.gz"
+    },
+    "0.1.20": {
+      "sha256": "4e4c099e73a6d8b6a6a53fc3b83b5194691c6feb3ce4924725401354618db691",
+      "url": "19/e0/75b930b787415b6e2fcf4ec20afb402a62ac9e7829d37a0ce75c3b46cb9a/pyvizio-0.1.20.tar.gz"
+    },
+    "0.1.21": {
+      "sha256": "1cbfd7903ad256a566cda07a89285e9ae30c5b8f9354f46fb9257d78cfc5dfe0",
+      "url": "2e/32/3fd22c6df26137a8812fb364515c778cef5917de89b2ed68f56a0e73fff2/pyvizio-0.1.21.tar.gz"
+    },
+    "0.1.22": {
+      "sha256": "83107c3e6af4824abd93335ab2f3982da7a2ad96ec79d933480d449c646e63b2",
+      "url": "36/de/bcc00ca3bab64ce9e214a073094771aa5693d3cbca15d8b6458f978bf756/pyvizio-0.1.22.tar.gz"
+    },
+    "0.1.23": {
+      "sha256": "cad1f0fafebc91498cc3c929a6d3f20ab51ffa829338395832e1f8d89848d4f4",
+      "url": "17/56/d229debb4d66de99de930b3fcace5322cd0e9d001452857de62f244a935d/pyvizio-0.1.23.tar.gz"
+    },
+    "0.1.24": {
+      "sha256": "8da0be44991bd7de90313ddee852372a507747c5624e9a97296f2b2c6ad76e22",
+      "url": "d9/b5/7071213e85388760f88d0e067e2b0a6293e43e5235a967b50699bd599546/pyvizio-0.1.24.tar.gz"
+    },
+    "0.1.25": {
+      "sha256": "f48353bd74c81abfc4afe897ed0ac63c4c4f3887ca1b0736a95d4d7b53fbdb19",
+      "url": "ad/15/52523e9ddee5a7ab185b2f3813cead8262007c65322d37454b6e5d7a39f6/pyvizio-0.1.25.tar.gz"
+    },
+    "0.1.26": {
+      "sha256": "ba00bf7bb9ac9cfd8bba382e9ba28686575a254fd11b20f0319ea457f80e764c",
+      "url": "21/19/67bc58af935ed257b315fa77ee276d6389db8140bef05255e1cd09c694dc/pyvizio-0.1.26.tar.gz"
+    },
+    "0.1.27": {
+      "sha256": "9161f19cad113c3b888bcc5ed16f4cb359d289cd9d879fd31e9d122964fbffcd",
+      "url": "ea/57/dd6b43432884ad6ee7eab593289d8715f0638f98be48c087431e17566ec6/pyvizio-0.1.27.tar.gz"
+    },
+    "0.1.28": {
+      "sha256": "73954c230f6906a8d087b6a8657e9683eb97706b7b6a362d4de86029fa021257",
+      "url": "30/20/6c8379550073be56dcab654517445bcd9159725cd402ad02e4637d6484d8/pyvizio-0.1.28.tar.gz"
+    },
+    "0.1.29": {
+      "sha256": "d5b200dd77aa2f0d12ad7ae735d66bb5c351a3ea503f522cdd117bdd97ad36a8",
+      "url": "7e/58/97077968ead4e38a645ab6911a497c7c577b3de03a6a9876da68720add2e/pyvizio-0.1.29.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "cd2eadd63dcdc5d731ef24574aeb2f97c5e7ef85dd8a9eba1179c2c0cd926920",
+      "url": "8b/f1/8b4b98690a3f5f1b4101b52be187fd3b19523028c4eadd5dc2aa6bf6adf9/pyvizio-0.1.3.tar.gz"
+    },
+    "0.1.30": {
+      "sha256": "2a0c5b0f6c45af0b91d7044c73b02bc4b1e32fb16977aaa5a2c4111012d04833",
+      "url": "93/6d/9ca9007b8ba5e5e49dae6f92b79e82df98d6dda716036e3e1d29cd1a7bf0/pyvizio-0.1.30.tar.gz"
+    },
+    "0.1.31": {
+      "sha256": "99c3865b9c18cb76211a9dc8782f784c0be0c411eec377b4d58e5da47ecc7a9f",
+      "url": "99/8f/a8853a6f8b259a15a99c7029637fdcb678b5c87787e803e25e453970db98/pyvizio-0.1.31.tar.gz"
+    },
+    "0.1.32": {
+      "sha256": "4c23d6b9c7826c90769c77f1d020dbbd4c1410c6340fd5ab54d02464f722cce1",
+      "url": "71/db/5c95d5bfad9dd51a0ed78179fea9561869622d7386fdca1bb33194fecad9/pyvizio-0.1.32.tar.gz"
+    },
+    "0.1.33": {
+      "sha256": "b7c37937dc9f6a012db660506c64ba98a53300ec464ceaca383a680624ee5320",
+      "url": "aa/c7/3f29a441c2882b5aa73b5db4096dbd6b5e2508d2c7fc7496e31b1a8c6041/pyvizio-0.1.33.tar.gz"
+    },
+    "0.1.34": {
+      "sha256": "b53236678ab5c399214a110d052106a084a4c7d4892dc571851e94a298581ad5",
+      "url": "65/cb/19140517b9c8e6ca2b6bcd4bc6094e73b8bf687009044268c640583817f8/pyvizio-0.1.34.tar.gz"
+    },
+    "0.1.35": {
+      "sha256": "26571ad5f37eb0987b697b4a1d06f3512bc533a0068db8fa68fd689c19ea88de",
+      "url": "78/f9/1e96be1ce555d42941c0f257a8544694ba3759989b5ce29e9d147a29ccd3/pyvizio-0.1.35.tar.gz"
+    },
+    "0.1.36": {
+      "sha256": "48b9d01afb860fa092fee66c37412e19eec2a11d1d55103060e6b19e63ddf14c",
+      "url": "5c/96/3f73652b73a0134647d14a3037632bdb8d29099a31820a72e5914140bcbe/pyvizio-0.1.36.tar.gz"
+    },
+    "0.1.37": {
+      "sha256": "0fa50b0be797511a4e1cc0af8b1159542c6f1985d114d7a5124902e9404fb536",
+      "url": "f4/42/ceb60c0e03081dd8044130b9ee583db808348ed40aca0c2aa305c4d4217c/pyvizio-0.1.37.tar.gz"
+    },
+    "0.1.38": {
+      "sha256": "8a9d345e0c273c65784ab4377b227749f988273fa741ecb17af9c443cc826264",
+      "url": "82/e0/0a14db6af332d5ab5616de7b9830a17c0c08b978f280c617567094778f27/pyvizio-0.1.38.tar.gz"
+    },
+    "0.1.39": {
+      "sha256": "87324e11ff0afea1b0291e675a971ebb1240069a0165b7d87ac67d61784eec8d",
+      "url": "c5/d3/0c5eb514f369bdb96a3a196465c440926c12aeaf1d20c8d9668fd6cac791/pyvizio-0.1.39.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "ead0ca94fc800c058a37e5f11fee2385929670b90133b430a549c4fea9cd5f4f",
+      "url": "78/ae/4fd47727ac779cd56d1fd2327916476b0c498caa3d14594b2751a07b9d56/pyvizio-0.1.4.tar.gz"
+    },
+    "0.1.40": {
+      "sha256": "1c20f486f6effbf68378a6209d3763887775cbf8300a17ccfd935ae5bd83f899",
+      "url": "1d/f9/1c85a8649c87bbbb622ea38048bd28170f78331d9414bffebbd3a864b53d/pyvizio-0.1.40.tar.gz"
+    },
+    "0.1.41": {
+      "sha256": "bb13292ab3d55e3977c8998ff65f458bd96da8a2fb935981e80acf6ad51f0ade",
+      "url": "42/77/a629e5522c637fad46782a0af6db772180cbfcbf0e7f8f5a84267cb2ca63/pyvizio-0.1.41.tar.gz"
+    },
+    "0.1.42": {
+      "sha256": "7a7c254578ae031ca920fba54f3044c7b271a625077672306d9cc2a9ae64d7a4",
+      "url": "b5/d8/8a28c20f63e95589979329e96240f9fee2d172e7625dfd89bef97b7fbd87/pyvizio-0.1.42.tar.gz"
+    },
+    "0.1.43": {
+      "sha256": "99375a954750ad0fc5ca39bcf125dd0cc11d13796ed90475007bcbe315ba3baa",
+      "url": "bf/70/91877e2b4205c7485d591f564be2fbaf79f47d79c6d2e06bbdb4464b3440/pyvizio-0.1.43.tar.gz"
+    },
+    "0.1.44": {
+      "sha256": "6d549d9affa4f5a95db9c8de704271ce1f3d2bb8128294898ee97fac640875d1",
+      "url": "2a/ca/cb74e0ca40c4754b4b5eba76f1bb14080def89e3ec545d14a4f1177e66e8/pyvizio-0.1.44.tar.gz"
+    },
+    "0.1.45": {
+      "sha256": "8432263ac96eb67bc21ad70f2cd2591aed15e663a4073e5557aed5884e55beeb",
+      "url": "80/f8/631192c706af38709de140cb83d019e82ff0e59df3ecefa5464bee51564a/pyvizio-0.1.45.tar.gz"
+    },
+    "0.1.46": {
+      "sha256": "9afb8179c6c36f83856b42e9ed55b18cf5bdca80bbba472c43142693f60f8301",
+      "url": "5d/c0/b63df439816e7ca2947dd0a3aa2589dc5e2a3f42e63e0ae155108b259430/pyvizio-0.1.46.tar.gz"
+    },
+    "0.1.47": {
+      "sha256": "2fca57135da1952f1a3ca40f7dc222a0fb90067735c96018021a442dd0d0a30e",
+      "url": "c8/61/f4166f73e07d01438295b7d7ee46717fdde7f3e71559fbe1d0ef9d5a0cd1/pyvizio-0.1.47.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "b21ece84e97e413d2e85fd737ebfd5fca7987e25564bfa332096b7d042339c29",
+      "url": "fb/4a/a4f90ba186a925a408533f51fa63e41efb5660359a77c5340f6018b85013/pyvizio-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "d94f74c2980d8d3b4ff10b7ae6c33f4056f4e1e5e01534f667bf0642532667f0",
+      "url": "2c/88/afdc55821c1fed80d8786d212fafe6b7bc4b845361101da56491a287dad4/pyvizio-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "063077d7301a1c19418d3215865f92c1fe4c2f9fa53d840f5f9ec5dd5dc1ab05",
+      "url": "88/fc/00dd54115d60b4830387c9397071bc6c86c926935ae9b0a1a36e5725d2e6/pyvizio-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "d1356cdcf5051ae1974429108939d7da5fe0e400c2cd7ac5518e075f8afdfce7",
+      "url": "0b/7a/44ff0917e04e33b163fdabb0059c87b0b0f41479131ee7f5abe6b9020015/pyvizio-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "6171b4acca1883d5d84d0f3cd9f89258888ee3e56d42e7c5ae02fb85a52bc70d",
+      "url": "1b/b2/ddcce1a98c0c7bf8bba46fd77c061dc6fd42d100899285ab26f2255be80d/pyvizio-0.1.9.tar.gz"
     }
   },
   "pyvlx": {

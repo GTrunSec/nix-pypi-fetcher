@@ -3803,6 +3803,12 @@
       "url": "5f/21/db7f7c9bb46e6d11c53dead2e2582159e07dd8ccf2000d56b0f3de011f98/commons_py-0.2.1.tar.gz"
     }
   },
+  "compile-scss": {
+    "1.0.0": {
+      "sha256": "dd328cc927a41d44adec53fbe8e34c1cb29bc998858532d86b73d277d27b28d4",
+      "url": "59/ea/67bf88d378624fe1e3092d99038e386f4e2abd22fd8d50cc1588dff1007f/Compile%20SCSS-1.0.0.tar.gz"
+    }
+  },
   "concreate": {
     "1.0.0": {
       "sha256": "0e09f4902da002cab1d21eb6eed3f847f3a42701001dd0051078b93658c0e45c",

@@ -10471,6 +10471,14 @@
     "1.0.0": {
       "sha256": "739a70bffc81126f9431609179c6c1b53d4a227126c22c98e9db5af92ce866e6",
       "url": "10/30/05c7447f9d0ba4242aa3639bc863790b7d3e2cb73908bc241669c3cc6202/inql-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "727d40b4189e77bb409ed0a2b3a7300679192a6404f0a5f497732db09f75dd79",
+      "url": "55/a6/97fd80e4339ddd18d854b6c62b1095544709d3879b8ca2e1dac815329c34/inql-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "d2bc124652e2263682498a31a111d78b05511e88c8d0b46edee3605eaa367863",
+      "url": "c7/44/61d41ab067928d0af4d6da2530a3caee220145bdbb4fd42f20e82a042e4d/inql-1.1.1.tar.gz"
     }
   },
   "installer": {
@@ -21079,6 +21087,14 @@
     "0.1.3": {
       "sha256": "6824f0eda74b29e76f0478596c6a3b8bc2e1c5deb5d59495ce778064b49e6b04",
       "url": "3d/dc/76744eebd521abfdf0b9ef0f6c61a128d7faba9e2e6bc424ea880f72f987/subtitle-sync-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "fe5a45dd9fa27580a476263ff06b89461bb04596f7218862bd5f5ab90b51d354",
+      "url": "d6/de/af2865b38325a0f267bbc1348ae78bdfae2cb260f9519c20824d87a8b7ab/subtitle-sync-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "5110ecba588133cecc86cdd49aff1368ae3dec8e1857ea0f9de1da913160309a",
+      "url": "89/98/625be7de75917c2c0b5a43d52361681e0e7481415ed1f6eefbb57d34ef98/subtitle-sync-0.1.5.tar.gz"
     }
   },
   "suds-unleashed": {

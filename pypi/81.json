@@ -2977,6 +2977,10 @@
     "1.0.1": {
       "sha256": "b8c1a17ad8533a9568ed68b9f7ccb4fab37976fd467f7700395e5e9c0d37e9f2",
       "url": "b1/ea/3b0608d67181a0d59ce2cd106eb81fdc352956f38a9af8dc5aa62ad32477/calmjs.sassy-1.0.1.zip"
+    },
+    "1.0.2": {
+      "sha256": "ffc9146004a05479c38299dde66d1502b3ffb0f6afe446775386077fd6e3cff6",
+      "url": "e7/91/ef89d4b2038bf170ed817a082655087bd53037a6be78f18ac8b5b7403032/calmjs.sassy-1.0.2.zip"
     }
   },
   "camo-sign": {
@@ -21879,6 +21883,10 @@
     "3.0.164.1": {
       "sha256": "d12ac36f9e583b72459fc355e1bba3a57d920a224c0845385bb8e6a3c890b14f",
       "url": "5a/d1/8060cd9f7b9bfc73cf4d9e0b391aba1f3406690ed9f4d4eb76ee2c4a8e25/tccli-3.0.164.1.tar.gz"
+    },
+    "3.0.165.1": {
+      "sha256": "dd4fb49f225ae39ce261b578bf4a616bb380bb90729307d7fc7e121335ef8c63",
+      "url": "0e/3d/f275fa18cc912cdf226fb6c949486ff878b5d5b5bb149c95507839387cce/tccli-3.0.165.1.tar.gz"
     },
     "3.0.17.1": {
       "sha256": "55a0ceff468bc6cfd10a14c6df0a3650bebcfbcd9d414f2c9bf425a46b83df56",

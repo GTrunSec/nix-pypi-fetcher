@@ -16275,6 +16275,28 @@
       "url": "36/33/9c24cc9ef3bbc20cc3904c24d63f43dc14c93bc639b416688f973304887a/py-tictactoe-1.0.1.tar.gz"
     }
   },
+  "pyatom": {
+    "0.0.2": {
+      "sha256": "e1110dd5589a3b5a5cd813d234601ee986868b1e7c9f79c1c2749e086675f8c7",
+      "url": "c9/b1/00982c1a78e9c7ad4069d293b6d61ff2b5891f29c8b273ee6693342f311f/pyatom-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "05dddbf3b98c2bf09ce04865be912b7a1210fc1170be903060e7399a738f5d6c",
+      "url": "72/e5/8dda3a63c5f9fae50d159b8a2e276fbf3049d4ae87e69def271581eeb2ac/pyatom-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "217df22077ebce1bd72d7b76ba3a92e33568d4de518ad16624a34e62a9582606",
+      "url": "46/09/5f81b0c011e4c26595d7c9c52380f7aebfbceb186486540956e02189d6ca/pyatom-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "905f2085db6a60e7c29b0c69bdaed8692dc1fb3d02ea50571afec381eb83038b",
+      "url": "95/41/bba445ae7f5b7a4c0cb2e5b7c7c52f52fd90170ce4c75faae697f280919a/pyatom-0.0.5.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "8712ece0b093187490e996f0f162f7195d1cff8973d5b6ded6062c688a7afb8a",
+      "url": "8d/c2/0d05944c72ec20af6b5f37c0cbf2b6b5f8f5641b91d39f094a121f3c52bb/pyatom-0.0.7.tar.gz"
+    }
+  },
   "pybfd": {
     "0.1.0": {
       "sha256": "5e70e3225c91645338e408cf184e56273b07cbdc497fefde08ccd1effea0e358",

@@ -19103,6 +19103,10 @@
     "0.0.4": {
       "sha256": "a0eb4e3018d807138b8eb01f4940e4ce18dbee9c5d1fb5d6602b3a64073a7160",
       "url": "46/42/86b620c97ccb33b7179414a7776a1db3ede6adef49097c941d694c907261/simpleobsws-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "406ab738c057afc578ef384683ab88768495347ae2f3362a4e8d547389aea207",
+      "url": "38/1a/5024a374d78fe133554f29926c234c67ec072be665d681f49f5c1edf54c1/simpleobsws-0.0.5.tar.gz"
     }
   },
   "simplestrpc": {

@@ -12631,6 +12631,10 @@
     "0.16.1": {
       "sha256": "3b1e1a6547d4856c3ba6fd33ed4ecf1b41c251d76dd020c0abd0469a8e993728",
       "url": "31/e3/2ad7ddfdaf8cea153d6a9fff9bb80be27d54ef269bb569f6e3d4bc240399/libcove-0.16.1.tar.gz"
+    },
+    "0.17.0": {
+      "sha256": "1aa262c49316c49e81cad3d625a55ad0be80bdfa9fae3f38145d16c14f97aaee",
+      "url": "a8/0c/eeae2a10f98cc16bbc998adc106f5d2720a49f3545bf49723b1b36187bd3/libcove-0.17.0.tar.gz"
     }
   },
   "libgeb": {
@@ -15968,9 +15972,9 @@
       "sha256": "13cc78e6636ea98eb6f56dcee76bf92c871239a0d60a2a8761ec271b15c61fd1",
       "url": "b1/4a/3f7c5a4d887f674bd92eddea4a2299a6e0f86c3ed37c542a4a69ee122c11/pre_request-2.0.1.tar.gz"
     },
-    "2.0.6": {
-      "sha256": "ac37dda17347c181189572b815a2f4631279d39756a400dec4f4710f53436711",
-      "url": "a0/47/036537a162d8805856f13135178c435ae890e5a250a01ae7f8fab6fdc341/pre_request-2.0.6.tar.gz"
+    "2.0.7": {
+      "sha256": "edfa57523476addd7d089a2d78f040baa0802021c88e191fac805062c4dd0047",
+      "url": "ef/de/2bcc64e46dd9a4ca889c403fb9b243c93bd58b545d2d83e4ada42003663d/pre_request-2.0.7.tar.gz"
     }
   },
   "prettype": {

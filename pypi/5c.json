@@ -6261,6 +6261,10 @@
     "0.0.3": {
       "sha256": "9ca223665d0e923a015bd9a1a95cf7db39188c4dbb01e93b3724ead6ca11bfd2",
       "url": "0f/0d/9517868b886d1adccee49e30ff1ec170d47ee13847fc4c25d1c11f0cabd0/gpboost-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "7acd055af87d0897738a4b0339140fdced48a3f555b7c008ff5b043fe49750e0",
+      "url": "0c/a3/bcaf6a1311eb98afb68a5610abd33062be1ce6d56699b258c2546cc3c0d7/gpboost-0.0.4.tar.gz"
     }
   },
   "gpiodev": {
@@ -8023,6 +8027,10 @@
     "0.0.0": {
       "sha256": "f5bf14fc8671bced4ca98c73cb5f42ec521270bce47cd5f30cc73ff554d6f096",
       "url": "74/be/05927e43b78b9ed156b3dff397a15c413510311d6d8756abb1729efeba65/lilcom-0.0.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "487f076783c11ed84d822250011310563ab9b5bc71314370549feee96e9aa8d2",
+      "url": "01/5b/db6478a825d300a6a42beee6b8e31ed7ce48105cd73b87c73cce52aa8bd1/lilcom-1.0.0.tar.gz"
     }
   },
   "limic": {
@@ -11425,6 +11433,10 @@
     "1.20.0": {
       "sha256": "47768fe7311dac27af85cd744062ee3f64a00782fd8f0c5975b95b0805478c30",
       "url": "38/db/6133862dc3af568921dfd91f0e40bc0c746582529dc9e6a4acf4a2325e4a/nomad-pilot-cli-1.20.0.tar.gz"
+    },
+    "1.21.0": {
+      "sha256": "e12864855e5bb6bcf0893c7566d5013a3e9b3224131fa1a18efc30fc498fe2ad",
+      "url": "86/f0/3d092511cc41c141f36086c4b56073a4fe578e862cc82be14fd249859ecb/nomad-pilot-cli-1.21.0.tar.gz"
     },
     "1.3.0": {
       "sha256": "15f2319408f29f83f3c04d518c8d0639bb66b601c4cfb0450a6dd3cfce5d9223",
@@ -18239,6 +18251,32 @@
     "1.0.1": {
       "sha256": "47e4372b7fa576d5cd7fff5de6deaf8c70605e71f3e6a5d2db8e9f437593f47f",
       "url": "84/26/8f6167d6d4c5415ae26e85632531f8aec60499138d371c084df1138a0560/silizium-binerdy-1.0.1.tar.gz"
+    }
+  },
+  "sim-py-test": {
+    "1": {
+      "sha256": "7f49bfe55cc1c9a94a13f3191b176c0c99f7e33f3b3d1e1eeb97b30bbda123d3",
+      "url": "2d/6e/bc6bc9b7d9d5a290cfe0f4ab373a399fc6a49a77996266f4c37eee11a6d6/sim_py_test-1.tar.gz"
+    },
+    "1.1": {
+      "sha256": "16ac157ac31432a712ffdcd57bd6d0ad7c782f75ee1b6efc528be7687cd77fc4",
+      "url": "23/a8/696e03d48067fa9a510c8dc9b26512ecd3b659319173ca9f77036973ea78/sim_py_test-1.1.tar.gz"
+    },
+    "2": {
+      "sha256": "9979d9020bfe13815c055b2983e9e1b64de2e267a0a095f8f0682119916d1e2e",
+      "url": "a0/60/c1822a01a89da031b2d8cf456f010da7050cbb26b05df564760b54cbcfe6/sim_py_test-2.tar.gz"
+    },
+    "3": {
+      "sha256": "e9eee5a5cf1c97c15f88e94b08f94b5bf83a0de585717ea7050099e64cdb7d61",
+      "url": "13/c7/fccb112cd0aac0f3436e51328b887546656ab45a2b45b000a1b9aaa570ac/sim_py_test-3.tar.gz"
+    },
+    "4": {
+      "sha256": "6462ac0ff1d1e7db2e72246ba398339ad87d2411c0d687a2b438dc12a39eb0ca",
+      "url": "96/ef/259c9db2934fe1e07d6a108225f4d6e0a7ff9f36be0c4b061cdfc55ed7af/sim_py_test-4.tar.gz"
+    },
+    "56": {
+      "sha256": "eeac126ce043eea7d8c6657da11a3d72c30ea9b9b589815ca2168ea568e96106",
+      "url": "ea/60/6122118f7a210ba62be4213a9d96f2e3141ba25af077ff812bf03bb3a283/sim_py_test-56.tar.gz"
     }
   },
   "simple-distributions": {

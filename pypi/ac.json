@@ -2747,24 +2747,6 @@
       "url": "8b/94/ec04897a481c44cda6070863b6cc63f560242c56f832b5f60609d671c18d/butler-0.3.0.tar.gz"
     }
   },
-  "bypack": {
-    "1.0.0": {
-      "sha256": "3886ce91f835fde35314113d4f24c8b0d1a7a0d4137ea449ee76b4bff2c31083",
-      "url": "a3/de/61343368eb9b1d6d794bb4ddea88c62d97c1efa82ba777b7e95f25daae40/bypack-1.0.0.tar.gz"
-    },
-    "1.1.0": {
-      "sha256": "a84b902c41ce8a74933511f20f3676243c831635763bd9f435ef9b55a6515fe4",
-      "url": "33/39/265b2a5ef63ccd027d3b0a0ab9c0794c9087e394cc5d5732560d6de3c63d/bypack-1.1.0.tar.gz"
-    },
-    "1.1.1": {
-      "sha256": "7a65dc6e2fa4cebd4cd3868b1b5c4225079e704238f406e414592ac69fdffb37",
-      "url": "d5/48/68e7ec958e24420b7c92c12490b6295178331a5f8962b3ab2898588dd025/bypack-1.1.1.tar.gz"
-    },
-    "1.1.2": {
-      "sha256": "d0786dcde6cbc9d641b09a0a2c02f6e4a06ebf36b9d16c9702ec86407c54abfc",
-      "url": "15/e3/4171803643a93208ea76e5e674c9825bee73f4d7fc1bfc33e7c7c8550f9e/bypack-1.1.2.tar.gz"
-    }
-  },
   "cadmus": {
     "0.1.0": {
       "sha256": "ac8ad71a0da7c549c9fadf422c5f98e41c243ffd5b6e7e01ef341d5db53213a2",
@@ -7683,56 +7665,6 @@
     "3.9.0": {
       "sha256": "4199ce6639585efa0e0b5e80708d517ea4202353fb1ffeb62618462b0e74460c",
       "url": "73/a1/03cd2c87fca2901bf99150d8cb35df329982eaf4bf2a976adfc850285f1e/FanFicFare-3.9.0.tar.gz"
-    }
-  },
-  "farbox-bucket": {
-    "0.1708": {
-      "sha256": "0eb61e17a36b44140d32159f49db59e32610a1dd63bd0c0d39feeb16cced08cd",
-      "url": "cb/5d/4d8efcb6a72ea837ea977b191726d285daeb86b5b62ec675ece82b239b40/farbox_bucket-0.1708.tar.gz"
-    },
-    "0.1709": {
-      "sha256": "61228af3d2995c2ad5752b7865f0e3e865125f38766e928d3f1abc3fc7e4b4e4",
-      "url": "84/cc/ebce70784b922b76136b434654db42a4718e37002156cc37e4e1ad5d7cd6/farbox_bucket-0.1709.tar.gz"
-    },
-    "0.1710": {
-      "sha256": "3c6d06ff7c2f21c9239514a50877f68bdb34b7e1209c92e30919aa185cbadb5f",
-      "url": "55/f7/8ee5493d3b0694c9327dfd44d2f62482960ee90b67ecccd8769bb333f608/farbox_bucket-0.1710.tar.gz"
-    },
-    "0.1711": {
-      "sha256": "60b33086e33948c652ab4bc7a373df7ab7f094fbbadd92aff6c62525f3fe631e",
-      "url": "c1/13/1f3c8d5ea990bbc60203e5b248f3a2132b6184f87234c353af9d834f237a/farbox_bucket-0.1711.tar.gz"
-    },
-    "0.1712": {
-      "sha256": "afe1c1ed0648638b32b18a1984957de6fbc1e8257795366c739b329a683d0088",
-      "url": "ec/91/4ae16a02ebe5bb4c7a8be5d4de7d3fb4f634947020e1fbb3da4989f8c353/farbox_bucket-0.1712.tar.gz"
-    },
-    "0.1713": {
-      "sha256": "fc2a7819758f5712e69354d5fa7b26b39aad2f8a48210039aae096b475389bd8",
-      "url": "7c/d8/f0aa368c2917096248e8ba6873c1bf1aa69ff53729a4c055f688067b54b0/farbox_bucket-0.1713.tar.gz"
-    },
-    "0.1714": {
-      "sha256": "53111bf7630b18ef295b5ae0f81f1c9ebb5a91f35d67ebc564f1d154209b2199",
-      "url": "71/d3/f3a53af1134edca5ffe3f1807410a10585144fcf06d1607cb2dff8a6b9e9/farbox_bucket-0.1714.tar.gz"
-    },
-    "0.1716": {
-      "sha256": "f51ced0d0022606849a7e6bceb58b41b01917ae2e2a31dd5d0e8d94f91241f8b",
-      "url": "7b/ae/5a6461b28767f976563fe56aff9f92c4251e2f2745d916af482f135f807f/farbox_bucket-0.1716.tar.gz"
-    },
-    "0.1717": {
-      "sha256": "0b7810012a84b880e8c7afad6e53aadffff54d21e46783ee32a0f8d57b0736a0",
-      "url": "16/55/c332e36c1627a04341df9be8482cec9cc63a5150635a8cf21ba8fcd2e0b9/farbox_bucket-0.1717.tar.gz"
-    },
-    "0.1718": {
-      "sha256": "649fd609b07114a61b3aa252b4bc14b795d6f54ba0b6e234e7f87a3c6dd9fc5f",
-      "url": "88/bc/10aa8d75ee39cb8c811294ffa541b482db2a23d669cde6a0c04d2cdc2f14/farbox_bucket-0.1718.tar.gz"
-    },
-    "0.1719": {
-      "sha256": "33dc44ad4ddb4bd774d18bd4cdf31e29312f1b6b399180bc616679aac9a480de",
-      "url": "d0/ca/c184587f1ac0d776f7959310489945cc87a6cdd85bf6b244f4b694f8e232/farbox_bucket-0.1719.tar.gz"
-    },
-    "0.1720": {
-      "sha256": "eb743ee14f20577118d3b9e258112468c63c950811292887877263a5ee54c759",
-      "url": "b0/92/7f6db6a5b87660e556e2220a1eb93f0e03053206449a2bc47a77e423e277/farbox_bucket-0.1720.tar.gz"
     }
   },
   "fast-prng": {
@@ -22769,80 +22701,6 @@
     "0.1.3": {
       "sha256": "d8ade9c4f673c51026b4a6f15c47f4145abf7489de860697abe87bc08756247e",
       "url": "ce/d5/bab3a2cffc94270839edf8386fd034f8dc97d08f7cab8d95c321276b7b11/textx-gen-vscode-0.1.3.tar.gz"
-    }
-  },
-  "tgcli": {
-    "0.1.0a1": {
-      "sha256": "1f128790f32ec0b338589bd4d0e09e26cc20e1523b72616a1c5756d90a8908d3",
-      "url": "84/68/53edb7a40955eecb8ec3aae377f6ddc53b7b685a51988bf89940323e5987/tgcli-0.1.0a1.tar.gz"
-    },
-    "0.1.0a2": {
-      "sha256": "f0299a9b55d4f8ec3498fc95cea676732dbc4b369e1a17d181e34e5846485e8d",
-      "url": "52/1e/c168ce5b154b9098d190aeb3e5a743adaf28838b6b7def0a8f675e095572/tgcli-0.1.0a2.tar.gz"
-    },
-    "0.1.0a3": {
-      "sha256": "0b86afe196159a04de79140fda7aeaaafd8e267c6435fe21d4a451d6939e76ce",
-      "url": "a4/35/269e3b8a33eeb0096706736514e67b5500e49d740d3801482a04daaf8896/tgcli-0.1.0a3.tar.gz"
-    },
-    "0.1.0a4": {
-      "sha256": "770fbc077246ac93dc55c2ddf34a58bdffc207fb46fd3e33ff9f193a72a556f3",
-      "url": "37/74/ee9bde27d2882b1093faa5f8fc9233f57e39f8763f0f832ebaa580131dab/tgcli-0.1.0a4.tar.gz"
-    },
-    "0.1.0b1": {
-      "sha256": "5a4c427daa39015f87bf7fefdaf27b132f021ce2e766dc4f32192c4801428a33",
-      "url": "d2/f8/916dd4d7597efa23ce111d62dc98648408261788027e981623f10e2fd16f/tgcli-0.1.0b1.tar.gz"
-    },
-    "0.1.0b2": {
-      "sha256": "36c81912ad8e4c14191da6c10b1eb74bf69084af8e3ba92b71ddc41f6a14e1dd",
-      "url": "4a/c5/fcd993426009b9c36e7f9cd48217a4a19b43a2dfb781545727700bc2e9c8/tgcli-0.1.0b2.tar.gz"
-    },
-    "0.1.0b3": {
-      "sha256": "9897c85ce89e73a7852c28aa298721284380c5a0d6cef0a9012b55ce13a7354e",
-      "url": "36/b4/c55c344c647044aa14ee3eb77c5273a75c5919d68824ebb3d20fdf635334/tgcli-0.1.0b3.tar.gz"
-    },
-    "0.1.0b4": {
-      "sha256": "de245023c337410dca86d1ef7b775bbe8a93e182f727d36383d6dd13ba1611e9",
-      "url": "b6/bb/8034ffac004cfc122ef1da7934cabddda1b96905132d8118e8af3d0f8039/tgcli-0.1.0b4.tar.gz"
-    },
-    "0.1.0b5": {
-      "sha256": "8d7d16c123860c6fd7663e2bcc312f0b52d084395e310c8f7d392f4ab2d9f95b",
-      "url": "6e/c5/355fb582252c20ed86c611e291c27fd31bb8e22614e6ca2e5c93352a6c58/tgcli-0.1.0b5.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "39a8b62d3b305c514f3a138faa992d98a9a79800a193ff4c83ac71e6a5483576",
-      "url": "e9/9b/0c783acf9c16c2f8cb886c72a461df2ef730caff7a46e0887c8ca09d312b/tgcli-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "9a726327ee7363185d0c46ca62f6723d5b58d3f441ca8dfc0a9b0a91e3b8684e",
-      "url": "ad/75/6e99eb985edb240db5a83e061e30cbc74f66e4733994afc7890ed932029a/tgcli-0.1.2.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "31a66339c8a5f91978c634342a14b6dad27bf2c046f5dd8e38b5a2919409f18c",
-      "url": "38/ed/6882d73c17a3d5e84ca482e85598cf2bfde2e5614d9ceec067885e8ffa17/tgcli-0.2.0.tar.gz"
-    },
-    "0.2.1": {
-      "sha256": "bfe365d9eac4377d9d6c9c75077efc3c128f98f2e1ee9e4786ab0d65ba6cde67",
-      "url": "ed/db/3faa9e9fee244de3e4c0aec4f5954a44eb8a1070e836377af76ec1a59cd2/tgcli-0.2.1.tar.gz"
-    },
-    "0.3.0": {
-      "sha256": "98d63ee41cac2385272369e99df4c32e34deac7e79713a7f8ad177b03ddb155f",
-      "url": "66/e1/7eec94f6a52ec34ea66a5d1004ab6e0b7f780292493a868a856b4aad1bcb/tgcli-0.3.0.tar.gz"
-    },
-    "0.3.1": {
-      "sha256": "217acf2badff3d9fafbf6bc8de69306d6dfdf08bdbaa7ccb39eeeb345cac3c73",
-      "url": "4d/b2/d508e4a7f3d4ccd77cc070c908bc440dc1a9a1705e309e292fff0a412668/tgcli-0.3.1.tar.gz"
-    },
-    "0.4.0rc1": {
-      "sha256": "576f255b165cd2dbcb9e68926b26cebb1d38888af81fb9eb0803984f7bf905a5",
-      "url": "fa/8b/fbeb0d2cfba4029065d80d6851a05a4cb7f78e964f4e53a4f9e3b63fb67f/tgcli-0.4.0rc1.tar.gz"
-    },
-    "0.4.0rc2": {
-      "sha256": "34ce2ef87365e841f92eac4a2720b399a9aa5eee1f1ef088f47611ac7bb7eb5e",
-      "url": "21/a7/89a538546ba7f79203db1279d0891c585fc7288bdc90d986ba82025019e9/tgcli-0.4.0rc2.tar.gz"
-    },
-    "0.4.0rc3": {
-      "sha256": "14f95f97d58f2c4953ce3eaa6fe6e729781ec1f90355ca00ab67944bf513e7db",
-      "url": "8d/9a/8c707a0770aba857831d6121165f71cd3e73937ecaafdcc4ffabec9020bc/tgcli-0.4.0rc3.tar.gz"
     }
   },
   "thalesians.tsa": {

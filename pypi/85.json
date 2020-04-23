@@ -10365,6 +10365,12 @@
       "url": "73/cc/f1a89a169ceedf5544bd457f301e4639363b3e9d0ce2d62c5910e30018d9/ipkiss24ce.tar.gz"
     }
   },
+  "ipyaliplayer": {
+    "0.1.0.dev0": {
+      "sha256": "fec3e00cc0e72fb8c720a5009c757202b7eb95e4a88d4ee28e609ff8c5b09cf2",
+      "url": "b7/ed/d71f7c77324f6373a3d5cf2c2863f83578bc78caf2dc90390a63e5edfa69/ipyaliplayer-0.1.0.dev0.tar.gz"
+    }
+  },
   "ipython-cells": {
     "1.0": {
       "sha256": "37b7e6c9039d7e808e1605757c72e4d546c50c7244f540b32076c9c47204e51b",
@@ -10529,6 +10535,10 @@
     "0.4.0": {
       "sha256": "cfc221683160b91b35bae1917e2957b78dad10a2e634f4f8ed119ed72e2a88ef",
       "url": "e2/39/41fd545b99eac81d47fe346b8c78c09a3b187ce2fd9f3c9656dfe035e39a/janus-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "0700f5537d076521851d19b7625545c5e76f6d5792ab17984f28230adcc3b34c",
+      "url": "9a/76/fbb89aa5d3cb5f3fec6ce74d34cf980ccd475b015d1a59cb5a14fe4cd2c5/janus-0.5.0.tar.gz"
     }
   },
   "jcms": {
@@ -22033,46 +22043,6 @@
     "0.0.1": {
       "sha256": "975e5c104e9927d1147f7d870046ffe28601b773efbffa64a3c0fdd3d7d42414",
       "url": "21/55/dc51b1152bd5bedab710a699ef05cd8e7d20266927f7a8c60810b6a0760d/sf-sdk-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "10c943056e1d00ca26d0f20122667a618327d0a48838ae02601b9b10266cd514",
-      "url": "4a/f7/6d1fb601df4e024a9ff425ce44ea5b3de31ac9cb33d3eb07a97ed7358d6f/sf-sdk-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "cd0dbe80288a39b7fd85c962acdd3356ed81d9c8d20e84a72e14a44e3b7d329c",
-      "url": "f4/df/d6636d02af8e0f122c25a9854a79815ab54f2258a95232659c1c2cc822b7/sf-sdk-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "1afd2a1cadf8d201d8e07825325b9cf43261b1c7bce16cedccdff339ef1e27ed",
-      "url": "1f/4a/c5a0596d0f9f23d667a19da4f8a76fb505580bcb3c597084a0d3719f58cf/sf-sdk-0.0.4.tar.gz"
-    },
-    "0.0.6": {
-      "sha256": "6eb3155e14ec7b33ad8d75be28bb94cac19feaf062d4672b52d42260b74730e1",
-      "url": "c5/7f/0a2192ccd08e2bd74928d6adb015f5d2847e901cb90a0a5d407acd23edf6/sf-sdk-0.0.6.tar.gz"
-    },
-    "0.0.7": {
-      "sha256": "89119cd1b9af9918a1f4700786c7755e46307152c3750f03a5d34d74f3da7a18",
-      "url": "fa/f9/1718a7064e72551d1c3c5ca4a0c1bf84603f307bf991f7b3bb37d4b4608d/sf-sdk-0.0.7.tar.gz"
-    },
-    "0.0.8": {
-      "sha256": "e09b3be52742b0229c9234c578acaa479fce34435125cabb1f9e7d4cfdfee286",
-      "url": "80/b9/8236abc2fa47d633aed86631db116481e2629fda97af7cd3847ca6c0085e/sf-sdk-0.0.8.tar.gz"
-    },
-    "0.0.9": {
-      "sha256": "ce3687cb00be56451f8c6cc25546b34bc9cf5c8b468d364896e16c9b121e73fa",
-      "url": "de/6d/27b1bb9271207d1968cc6fd11e1f954f204b9e1dd54893fed51e860b8ca4/sf-sdk-0.0.9.tar.gz"
-    },
-    "0.1.0": {
-      "sha256": "3ac81962bdd3970774e9e6dbf1d6d281654bdfe4385be98310b0e719e1738a3a",
-      "url": "6b/a7/1e1c52e3b216daa9f8df4d1e762d1a51b3d1e820d37e3bd201e48e44326a/sf-sdk-0.1.0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "4266096997fd76bd10905483d8ff3f97f52335844945018f1cd0f237ef7b603e",
-      "url": "28/39/ce2f3c115ef532dcbf72282d7ad5ebb3c08e639ee1aa3b4896527f5d38ed/sf-sdk-0.1.1.tar.gz"
-    },
-    "0.1.4": {
-      "sha256": "70f2fba2fbbeeee1722fdaf367fbaafb021397e55219801ff57e6592c2fff0eb",
-      "url": "13/a5/bc65b6dccd97aaf868940d17ea06367f82390d400f808e580653ba449a17/sf-sdk-0.1.4.tar.gz"
     }
   },
   "shit": {

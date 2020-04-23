@@ -3455,6 +3455,10 @@
     "7.2.0": {
       "sha256": "d8b2eea53cd6698e9d1a7c25c4989477f4fd344601f12898996780524440ab0b",
       "url": "c5/b0/edb9e4f9c361c784331e7a61e6f0d1dbae4cfb0da74ddb79e21b0ef9b513/chainer-7.2.0.tar.gz"
+    },
+    "7.4.0": {
+      "sha256": "d52b0ffccabdb12eb2925d2699c8ddabf26f1e63bda75afef29e5b2f5839445a",
+      "url": "47/57/73daef432f15c356a0730c3375bbda1ae286166fd8268b140545ba1d83cb/chainer-7.4.0.tar.gz"
     }
   },
   "changelog-cli": {
@@ -5281,6 +5285,10 @@
     "2020.4.22": {
       "sha256": "a0557383562e79d92f7d238e91991d1e6053e61ab17b8cbc535d92bfa5fe762d",
       "url": "b2/1a/f1362a496f729bac5d5a1a33d6a0f25661d1f2ebbd617a4c2a5d3c8922cb/dagster-twilio-nightly-2020.4.22.tar.gz"
+    },
+    "2020.4.23": {
+      "sha256": "6ca649403fc6daa0c778dc9cd0f02d98c10b27bccc449ad6c55f5a508a3ceed1",
+      "url": "f4/05/718ed4c785dab2795677129bd8b3cdb2bcdd5a90d99f6a8c5eb4659b5610/dagster-twilio-nightly-2020.4.23.tar.gz"
     },
     "2020.4.4": {
       "sha256": "6ec8bfe142a716a94dc700e56f1abf8c654da10c16bbd9b371e02923da92cdcf",
@@ -9921,6 +9929,12 @@
     "0.0.12": {
       "sha256": "1b62e0a040c15725ef4ad8917d884f3923847d554df20e659ab9eceee0245f01",
       "url": "7a/17/0bb727ed51e0884d9b3ac0143562356fd1e44cd65224738581a96a3cac2e/example-pkg-eischaefer-0.0.12.tar.gz"
+    }
+  },
+  "exbetapi": {
+    "0.1.0": {
+      "sha256": "636cb9fc22a366fa309ba8e833da4451c2397b5bcfce0c1ab534929e22af04da",
+      "url": "14/71/98cbee4dac6903c02d24cebc2a7d6a0c369eb55946ca3a8e94102ac15855/exbetapi-0.1.0.tar.gz"
     }
   },
   "excel-to-json": {
@@ -19385,6 +19399,14 @@
     "0.0.3": {
       "sha256": "238c7ec4607a34541ab0c0ab77eba4a4dc4ed3091899ef581b8f1479607f7d10",
       "url": "f4/3e/b253a9506a9e0a63fda83917d36dae6ba270286a2ab50a789cbf73f1d521/Py34-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "58eb0e8ef3bb8d24afc62571ed8d6ac40a3a5cc470566609663f4b917661b3f0",
+      "url": "b7/77/2d062bf6b8217b9ac4a774734eba5bac35627c57bd164b5909c727713a60/Py34-0.0.4.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "17b9d2ae54b84548ef56a5244a94f057493c2b629f0b34d8809e478dcdb9b64d",
+      "url": "40/a9/0c9d4aae596b7268505c838816cc01a78070a8def877b78dbdb3762d8b23/Py34-0.0.6.tar.gz"
     }
   },
   "pyanalytics": {
@@ -21251,6 +21273,10 @@
     "0.6.0": {
       "sha256": "40641c885e4bcc7256fe35ffcb22d79b9ddd74a92f82103cd2f0940db8f36227",
       "url": "92/f8/e181eff3bc20b92e0e1410c5088657bcf635bceb751d2421da93b0f2c25f/qiskit-ibmq-provider-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "5fd11ebf0e5a8bc56fff780420d773b985667d0060b036b2f9cf89e670aaaf40",
+      "url": "23/80/978f12b4bad5547e491ce3b3775054839aeee352fc43d45d235f4993043a/qiskit-ibmq-provider-0.6.1.tar.gz"
     }
   },
   "qopen": {
@@ -23417,6 +23443,10 @@
     "1.0.1": {
       "sha256": "94b38163a03c7b97bb130743477a45a694504e49f2860a6436ba048d36fe26d1",
       "url": "69/50/9334e4e88dac45108364cf38c2712ac3169ad57b3b4dcac27e49659d5056/statcord.py-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "fa106c17a04380b9b15877e1a710cfffd8f8c4a675792d925e31694eaabf5076",
+      "url": "47/13/d8f21ce42ec00afa96db0d7b716213346288b7bec711aef95cfdfa0ee619/statcord.py-1.0.2.tar.gz"
     }
   },
   "statuscast": {
@@ -23527,6 +23557,12 @@
     "1.0": {
       "sha256": "843380f71ca2a2260293bae4d9c2b36f49d9b8205e674fea958de412715f3244",
       "url": "47/1c/c4f1706df8c51627741ffc37eb99ad0c4198bbfed4dec0301910ae5b0e44/Summaly-1.0.tar.gz"
+    }
+  },
+  "super-sweetest": {
+    "1.0": {
+      "sha256": "322bc140a1ded028a776e03f0c43ee4cb0683ceb5d1313307afe22e0d99791ea",
+      "url": "72/83/721400d224b1e6f068fd69f30fe6d7a9da419414f21575950bc6c41ba3ff/super_sweetest-1.0.tar.gz"
     }
   },
   "supercollider": {

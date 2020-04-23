@@ -2415,6 +2415,10 @@
     "0.0.4": {
       "sha256": "e7e57ce6eb86c480ce8b7597c9f69d71333f15ce275218374117f06c26046705",
       "url": "24/09/71ad0d0c9479dedb808e14ed9def252a4b35beff52a7241ae14c0d71fb37/cengine-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "932652ccb2c6590e674f1c0c3c82fd6b37fd91ffa58356ad6be8f6634c27758b",
+      "url": "bb/49/77772e66ad8b3cfbe678f2d54497bd05088b396aeaefbc360635e0210c02/cengine-0.0.5.tar.gz"
     }
   },
   "chainer-watchdog": {
@@ -2653,6 +2657,10 @@
     "0.3.2": {
       "sha256": "c35f445aec2882475fcf7b933717ba61fdb1757052ed3a1a73d6bbd2d12db518",
       "url": "b9/b2/9860de37853845d73c7674c77c3938c9f43963e3673be9c7b686c52d6605/cobra-component-models-0.3.2.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "491a050c7e4b766652ea5c5505ff5bdca289a34b101181cd5ce36b05cbddbeb8",
+      "url": "cf/ff/9ae5af0b68f887472650222b31d24622f9a6558f46ce2edfabdb8939eb6a/cobra-component-models-0.4.0.tar.gz"
     }
   },
   "codecaseconverter": {
@@ -11035,6 +11043,14 @@
     "0.1.0": {
       "sha256": "72e664c1b6f06ad364a635d658842adc027c0f4938013c270df9b4e12cf339f7",
       "url": "44/50/9658cfeeab9a5c88676b78977339222eee99e06d2a8d112d2a1c08636155/markdown-readme-generator-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "c31c78071c83308a8176e4e16ebb1b6b7b3cf437cec07db3f24f92a8147ab41b",
+      "url": "7c/d3/a16f57bf196d6188c1a536e58f38a7ab13289cdff23fea4023ef80e66ad4/markdown-readme-generator-0.1.1.tar.gz"
+    },
+    "0.1.1.dev1": {
+      "sha256": "5dd3ea57379850c0108c683227a6e1ebe6e57c6c2fba5d2ff5f15e18ddbbad79",
+      "url": "fe/cf/b3d46432a4ac18b6c3ddb1f1938d4a0692fe73a5388070ed9126fac3986f/markdown-readme-generator-0.1.1.dev1.tar.gz"
     }
   },
   "marshmallow": {
@@ -20995,6 +21011,14 @@
     "1.0": {
       "sha256": "8fb8fcdd6d7384c89cc183e7c3ed38938dcb9d678fc7082a94218c739999728b",
       "url": "13/d5/3143364bfb900fc3a780f919ab215600b0fe27a1abb30811c0be4e535604/ScaleHD-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "0edf7b5bf00e81c42d68b1db6435a3e49acc3dba15cc5f32f3a414bffdcb3224",
+      "url": "be/ba/7fd1b6fb4d3509e3494664ce727ebb0957cf73168622da0c8ec0142212db/ScaleHD-1.1.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "cbe154bfd746e7049598ce943b0d41c86b6d4ca77d4b102793f75d9f6fb26e33",
+      "url": "e7/8a/61a646e73b2bee543cb4040ddd30d10270e2021f2fdfb0966fb5aedb158c/ScaleHD-1.1.1.tar.gz"
     }
   },
   "schema-learn": {
@@ -21989,6 +22013,12 @@
     "0.0.4": {
       "sha256": "005bbeda3b8c32c556bac7b762ff8ce1090ade8ef2ce3b49789cc36b650d9c17",
       "url": "09/2a/5ff72747fe319e0951021b591b76c5742d6e97d101ac88999fc42d1d2b30/spacevader-0.0.4.tar.gz"
+    }
+  },
+  "spectrochempy": {
+    "0.1.15": {
+      "sha256": "6a028998a0821dab10c426429c15e7a655232bee75276cfcbb2f33701eb799da",
+      "url": "48/fe/3aa2464af097ff1b13b652a425bff576bbc1878b0ce36c7590da05726f37/spectrochempy-0.1.15.tar.gz"
     }
   },
   "speechtotext": {

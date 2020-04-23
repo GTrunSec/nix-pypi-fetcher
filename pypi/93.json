@@ -883,6 +883,14 @@
     "2.3.1": {
       "sha256": "c09cdc932a2903f85f6073ccd2067732f285e11ebf215d61f939d757787e8a96",
       "url": "a6/67/cd16ba2d5dbc04934a254a90c531b8a378d36dd399c9433ca456c91ef012/assignment-autograder-2.3.1.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "c0045e5351e0c1352525cdf3d788f1ec5f936729bff8e14f45918f8cf2b7a2d2",
+      "url": "66/8e/4ffa5a8dd060bb919ab49e1adb1013e911324968a19dcc95f23b7c67d598/assignment-autograder-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "431d7dbe840745b7d5280ffc0d62e0ca083985ce0c3dfdccdfc18c0f71f08964",
+      "url": "93/7d/4746323e93336a176568d56187b968d21174278941dbb3b4bb781574d8db/assignment-autograder-2.4.1.tar.gz"
     }
   },
   "astkit": {
@@ -15165,6 +15173,12 @@
       "url": "96/fb/e58e303e7ff65a62cf1dec268258b4752c9530934d7cf661664f34dfc107/microcosm-resourcesync-1.0.0.tar.gz"
     }
   },
+  "mines-esolang": {
+    "1.0.0": {
+      "sha256": "026ce8c7e1b50560c23174c72b86f099915f97d4253e445a80b48d8cdd4054dc",
+      "url": "1f/72/55dc73f8bad973ff44592587b21ddb462cb4a4137c66ea7cdee752a73406/mines-esolang-1.0.0.tar.gz"
+    }
+  },
   "miniadt": {
     "0.1": {
       "sha256": "38867d48708c0f0dbc37590f2f9b980b44992b63d2f4f7ebbaa49c06618e8295",
@@ -26987,6 +27001,10 @@
     "6.1.1": {
       "sha256": "1576b55cb45b7bd38bfebb47dfd16481b0f8409719851495eff95145cf462967",
       "url": "44/55/2a9034e1d24843983003872760a91fed21592bf766ebc53837d0ea40257c/wonderbits-6.1.1.tar.gz"
+    },
+    "6.1.2": {
+      "sha256": "29aed781a20917e9ba54052cbd90b42d4b14f176ed6568c424872f4011217536",
+      "url": "b6/f7/299bc3a899fc78dbfc58fbf5f6e491be8efc1938bbc8f5c4ff570388c496/wonderbits-6.1.2.tar.gz"
     }
   },
   "wyzesense": {

@@ -7795,6 +7795,10 @@
     "0.25.6": {
       "sha256": "6343db5c240a2bad477fb78f15e2287ace23f7df55119ef61e6e14eaa2a85912",
       "url": "44/76/738e1b0cba91c5c06582ddf1813734bf08aa3af85373ea98d403f4d7156a/faculty-0.25.6.tar.gz"
+    },
+    "0.26.0": {
+      "sha256": "8c5f034c8968cf2d991b94b7ef70ea533a3b5db363bab0cb48efedcca915cec1",
+      "url": "ed/5a/1642da99371ee260d3654a27e2b6cf85665a4c4eb98d7da662d3389c5c7c/faculty-0.26.0.tar.gz"
     }
   },
   "faker-vehicle": {
@@ -13320,9 +13324,61 @@
       "sha256": "b8c9a21d67cb1442bc6a4e7c4424559310deb8236d95b3ab6316a6652e406fde",
       "url": "6d/23/42f0703380740efe46bb6e2a5692417c629535926eb0478c6751e4552574/mlbench_core-2.4.0.dev26.tar.gz"
     },
+    "2.4.0.dev27": {
+      "sha256": "64591fc8bb7c228a6fd69210e4dc570f1da004ce51aae2ed4483bed18ca91575",
+      "url": "56/e1/2704a7d2daf8e35b07c93596008e4116145740d511fe8a5e90beb8a481fc/mlbench_core-2.4.0.dev27.tar.gz"
+    },
+    "2.4.0.dev28": {
+      "sha256": "c5ed93019505e3b9fd38bfffab1e09fccfb11afe6a1fa1c427fa2b0070a880f3",
+      "url": "52/d4/ff9719c24d196fc2a6756538331398c35a2ce6195ce6bce866645a995791/mlbench_core-2.4.0.dev28.tar.gz"
+    },
+    "2.4.0.dev29": {
+      "sha256": "cb896cfacba38f8e45d0f0d4cb0c943e643adc1cb9c09b6bb5347a05c5e20249",
+      "url": "a0/24/f24495807ac1dc18a4f6ceca5dabe553809a4d8b6d72ac9d952edbef01d9/mlbench_core-2.4.0.dev29.tar.gz"
+    },
     "2.4.0.dev3": {
       "sha256": "63e6d5083c2fecf749487c71fa3155e7fc6d71d345408fdf13e5d6b3250abcdb",
       "url": "3a/ff/a53cb6ed4a2cf73aa21e025f354e8c4b251af76b2911e6f5ada15af2ab46/mlbench_core-2.4.0.dev3.tar.gz"
+    },
+    "2.4.0.dev30": {
+      "sha256": "4abbb04b0aea7e9eef96efd65c01b419569243d9ee39bbebfd457bd1468ba0d2",
+      "url": "0f/2d/e7b4f1e94ad9b40bdae5d20f87b47b376d6322df268c1c0d07a33a56f5cf/mlbench_core-2.4.0.dev30.tar.gz"
+    },
+    "2.4.0.dev31": {
+      "sha256": "cee98f9d59bb9f5c3ad8ac966b5e45d4dee756eb635d04aafdb0016da6dfe221",
+      "url": "c9/f0/6a20e00f50f1179ccef1ebf702d6ff208aa84dc2d498359236bab3cbfc6a/mlbench_core-2.4.0.dev31.tar.gz"
+    },
+    "2.4.0.dev32": {
+      "sha256": "331294295697434193eb5ed73a58dca05ad3076396461f63603b64d41736ae54",
+      "url": "57/5a/bd8a5a36a60a90036d8ee61f7e88a3438c476c0c3d725dec0ee205b0640b/mlbench_core-2.4.0.dev32.tar.gz"
+    },
+    "2.4.0.dev33": {
+      "sha256": "90098008c5e914b1592d332f5d187d2933db2591be6ada3c849e359388c16704",
+      "url": "5d/73/c8bafe033a479bcd5e3ac9e3075ed2bb535a532ead8f0e49ecc941f62537/mlbench_core-2.4.0.dev33.tar.gz"
+    },
+    "2.4.0.dev34": {
+      "sha256": "b0ca5a69f58dcc8b34ccb5a8eef4e92539d5ad31b93cf4fd22f21def7462ee21",
+      "url": "33/09/1971d2ba9fbd1c03497a814d4af91d3b39831a143c3a58412ba5c275b121/mlbench_core-2.4.0.dev34.tar.gz"
+    },
+    "2.4.0.dev35": {
+      "sha256": "f9f64157423312120608cd021eb5d2d3a074a245b16107e435f620dd11e7e293",
+      "url": "9a/fc/e84462d903ee9101c61c3377606998650180642a22112d0f1785fd372b36/mlbench_core-2.4.0.dev35.tar.gz"
+    },
+    "2.4.0.dev36": {
+      "sha256": "8c81fc5b43cca1481389ede666e4e3f420b42ca974163a752dcfea7fb449da26",
+      "url": "a8/2a/318470f5120a50b7e411a5af893bd4c1b913856a3350461748ec0a837d20/mlbench_core-2.4.0.dev36.tar.gz"
+    },
+    "2.4.0.dev37": {
+      "sha256": "1e250732333c942bbfb520a8854b951617f1766b4bc717027c4930d5a8c5fe4f",
+      "url": "91/37/b33d725ab3100be79abd55bb059057ed1075ac9ec070ac82d043aef72c75/mlbench_core-2.4.0.dev37.tar.gz"
+    },
+    "2.4.0.dev38": {
+      "sha256": "1266e22ce715f2a2b13db4a206636921d20278d030cabb405cc58a8953ad3688",
+      "url": "90/39/e6f60d673e1f1e25208a7c56df134f45cb7772291f571a45247c2cad985d/mlbench_core-2.4.0.dev38.tar.gz"
+    },
+    "2.4.0.dev39": {
+      "sha256": "21f6ce74c782175a2b0e9feaafc9cf1d7315adab081f6170716684f51636551e",
+      "url": "36/ec/4379ccaba8a97629927c530ab6a1641c5537c248e30ef6624b0188146004/mlbench_core-2.4.0.dev39.tar.gz"
     },
     "2.4.0.dev4": {
       "sha256": "e1d725a27a0379a654e16dd951a800b175776693fa32fa794ef8f2269891f167",

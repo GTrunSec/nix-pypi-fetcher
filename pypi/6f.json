@@ -1641,6 +1641,16 @@
       "url": "c8/87/6f121b223351d15564c4047036cf9be88b3ed5b9881958bd9fe90a46abaf/CDNInvalidation-1.0.0.tar.gz"
     }
   },
+  "cellyzer": {
+    "1.0.0": {
+      "sha256": "9fe3727f82fa4dfce2210475fdb956b657dabd503c42056f1be20d1531a3a320",
+      "url": "71/11/6327ea449ada293a2ee2198f3a379025dd60b2d32adea024fbd260d7b19c/cellyzer-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "0845812a0d575db363df5a54f26796d79535c63f4c92f67222b106bf754e402f",
+      "url": "d8/92/7dfd167a42bf640c6668fc008738a5c63496119490d342d5e7730d44e9c8/cellyzer-1.0.1.tar.gz"
+    }
+  },
   "cep": {
     "0.1": {
       "sha256": "973a25a6e82ef5b2c4e475709a2c0cbe24d339041282f97203bf678e1062efc9",
@@ -2339,6 +2349,10 @@
     "0.7.0": {
       "sha256": "0a8b1a2b4e1304d33155970e5dfea928801f2e9adfc8ce960a6abc7588280664",
       "url": "1b/67/7d8f3428d700c6a68f00f0eae69f3dd8eb1272de99a948d517da3868b414/cognite-forge-template-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "e4cfe109a023f0c4a687e5e32fc4c9970beab4c421b09b5fa93678051e0f4546",
+      "url": "6f/1b/6d098486ccf336c9945f12101b389ecbd915ce9d875f107cfc3ac9aff627/cognite-forge-template-0.8.0.tar.gz"
     }
   },
   "coinor.gimpy": {
@@ -2437,16 +2451,6 @@
     "2.1.0": {
       "sha256": "4bea2035fb45c9f3eea5f3aacba63c5ae6947899d01d39d3aa9304ee1f5b60d9",
       "url": "f8/47/535e69d72acdf2a6e22f9166473486cfc0fc77d67a5275d996602f36c30e/coinor.gimpy-2.1.0.tar.gz"
-    }
-  },
-  "collections-example": {
-    "1.0": {
-      "sha256": "7d4fce7e8c2f6f47e3df14d580b1afa9e091f683434c6c52a5f1e2a3c3917e62",
-      "url": "f7/54/22250d095d10fa3ba80858a6a36e9291f0664bc16a3f69b54e3fad0d0fc9/collections_example-1.0.tar.gz"
-    },
-    "1.1": {
-      "sha256": "7981c435e695fb2e9740ca44208b5d296173abd941609f61268d443fcf7fc091",
-      "url": "76/4d/a03bc8b779cce8f3895a9f1b3a0f8da1c0d56bdca68c2d8476ed286788da/collections_example-1.1.tar.gz"
     }
   },
   "collective.contentrules.runscript": {
@@ -6329,6 +6333,10 @@
     "1.4.3": {
       "sha256": "3dac9029f055a3d87c19db5ba9711501254aefa9e45cf6f55856efc335f1c34e",
       "url": "1a/c3/c04dff7c38e7e60a7e7f72877e277cc2305d338698cd93853056d910ab3a/dns-crawler-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "fbf3c0301c09c190a32260759f3952725ad0e92d52c56c50d3503e710e071de1",
+      "url": "60/77/6df71f82d2ba5d77d1b4328a6866f110f3cddcd8a81fbcfb26621dbaa53e/dns-crawler-1.4.4.tar.gz"
     }
   },
   "docify": {
@@ -9019,6 +9027,10 @@
     "5.4.3": {
       "sha256": "9ff5fc9f5fed4896c4da6d1d87a1dee4636fe03f5c9be1693bd9de723029cb81",
       "url": "9c/86/49f64cd6fdc32f2fd4177631996441adfd1a393ae12a39b57729430ddc4b/fireant-5.4.3.tar.gz"
+    },
+    "5.4.4": {
+      "sha256": "67e0433bb869409ada5e465ed86c08a0676b14035633dfa426ceadda4065268d",
+      "url": "bc/de/912244dbdef2168bc8a68c4704f72d387a7cf7a798254e9b32973cf138a1/fireant-5.4.4.tar.gz"
     }
   },
   "first-setup-cms-wagtail": {

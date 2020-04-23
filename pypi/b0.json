@@ -1123,6 +1123,10 @@
     "0.1.0": {
       "sha256": "bbef24ccfe398314f36ab03387a246a2a38d040d51e8fbf30f0e119fbe87017f",
       "url": "ed/c8/9bac808f5abaffa4327a75bd8e4f28f720ef8d072bd59d73a0c71322e76c/appfire-connect-sdk-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "1c97c980377037f66cdb254c475d23ed90afe98b8c538e1108951f7a3cbfbf3d",
+      "url": "a1/9b/9354f21a96d7e605c786d6560bcee0444615cbc09920a8a91961ee064da2/appfire-connect-sdk-0.1.1.tar.gz"
     }
   },
   "appinst": {
@@ -2667,6 +2671,14 @@
     "1.0.1": {
       "sha256": "f9f3ee91627703350d9fe7289dee94586d799818855e15b9bfb794bf18b00efe",
       "url": "4f/71/afa53e5afdf5f294962470870a08b96a7de6d80db325f0a3eefa87c4936a/AuroraSolarClient-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "9f5b51854a44a58743d952ed65ffa0bc9c2f2b5889ed28ae94691a25393db013",
+      "url": "4d/83/cb2c91daae6e0368e013dd1592f1d929960fae7dedcee3f196b40b368748/AuroraSolarClient-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "f7c89a4a6c2bba6ae4593185c9574e1e65a4f266b14e17078ffd87bba637ee52",
+      "url": "40/c0/02cd1bccea09c08b43fa5c293ae58c792c3b63b3f063fe97544b7d4c3d3e/AuroraSolarClient-1.0.3.tar.gz"
     }
   },
   "autodecrypt": {
@@ -4481,6 +4493,10 @@
     "0.2.6": {
       "sha256": "e224bdf03d19b0853986a89fd52f6d04b7db38cc7c3ff7b4ce3165f1cb5da2b8",
       "url": "80/94/8cb84ced99b2fda167f6fb068882ab25791773d77867ba50d9cc260c487a/contextualbandits-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "177ad2958f9a71b43f0f3c7942d10e4720545e1040f6e419d098cc58358fe60e",
+      "url": "1e/89/368a2203ad2a7c2f0d145c33097b5e4327b794fe32a1b465c9f342ed6944/contextualbandits-0.2.7.tar.gz"
     }
   },
   "contracts": {
@@ -20534,6 +20550,10 @@
       "sha256": "1c6f24a8a497ef27d4a3876a315479bfea4bc4cb76f17197df6a6066978ce76e",
       "url": "77/4f/d7af511b07543faf20332d593077ad211cd911a54d57033883f1d7be0a5e/sangreal-wind-0.0.55.tar.gz"
     },
+    "0.0.56": {
+      "sha256": "97d0f39b0f12452b4b4291a5cbc18f075ac71b4b194b33f7a5eb316f281bf36b",
+      "url": "7d/2c/1b9d1aa9f07c55988339bf8272b9595248e147497c20c8bc6b4d4e4647f8/sangreal-wind-0.0.56.tar.gz"
+    },
     "0.0.6": {
       "sha256": "dd60599c06dbccfdf8701862dfe89d63a5292b918f99656bda52c97842220b28",
       "url": "94/55/fe1189635a621bc47316547e684c11ecd56ec9ea2bc7604761967cec37c6/sangreal-wind-0.0.6.tar.gz"
@@ -20625,6 +20645,10 @@
     "1.0.6": {
       "sha256": "a2645ce5cf3808195c5c944d50d8adc49fe4972886c1f81e992f3308812fc5c3",
       "url": "51/64/1f2d48f51b5357361b37c73bb0e11c53c87b097d307390c8583d1f90f48e/schemahq-schemainspect-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "a24aac45619c7a54919bef075efc045dac14c0d0a1ddc7d482c92eee7e1772f1",
+      "url": "07/47/0561549b81b472fa743126521e36330e663cf7f61ea1c2343edd4e9e7157/schemahq-schemainspect-1.0.7.tar.gz"
     }
   },
   "scikit-gpuppy": {

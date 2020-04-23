@@ -2957,6 +2957,32 @@
       "url": "fe/58/cba654243faf2ea551f8b26fe8adb652e719ca1519691890347cd2954af2/bumper-lib-2.0.4.tar.gz"
     }
   },
+  "c3tools": {
+    "0.1.0": {
+      "sha256": "36d16aa0cd9040e8ea970fe365eea6c99f16c5951d9faf984654ea9b3f80ed39",
+      "url": "e5/6e/e053b27321dd74070f1769c0268d27d61558e7b365fbb9a768a1a1aeae86/c3tools-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "ccf93c767638f13d9349034f32d2ec27f301b4c3ff1cfd284577d891c2e65899",
+      "url": "b5/73/457fe2671fdcad8389cddbbe9245901b29832fe3f10d64b9a9e52468b37c/c3tools-0.2.0.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "6958847c226ca3784f596a63cc49af0a38c6bc0c18554cb0c313faa9184de694",
+      "url": "01/63/96dbab90c489b277b2193aa4b7fa164c689fbd3812d0b52f5fb283c6af21/c3tools-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "2319f419ae09d8e65721a87cc17c29bc911c26bfd92317d449e947e446223c5a",
+      "url": "da/4a/1646315ea2f280aba19ed3654364112a7b93be93249439b87ca48aa0a055/c3tools-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "3e4ed9becea7de8886362154089004442175502605a4d65fa0a274361e15f633",
+      "url": "35/c6/d6dd592b767a95a252003566bf4973e7e42879caa85ee14d3bd77366308e/c3tools-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "16e72f21584be75dec7d54ac6807d82741d215d1b5a66b14a7d3d6c00ad802da",
+      "url": "85/f0/7359390069b870ce96e731a715e668086cf8867705d846e451532a8f9e22/c3tools-0.5.0.tar.gz"
+    }
+  },
   "cacpanel": {
     "0.2.0": {
       "sha256": "92b98421ac500744b3d453043b136e923a4456a371114df8a50811e3e3a29ee5",
@@ -4542,6 +4568,14 @@
       "sha256": "50edb9481034b2864b888d1231157ed5e9fa6df04bce51daa10b5f078ec909a1",
       "url": "6e/6d/c9175fc083cf7c82687c921e63996eae6b6bcad7653864d17183b11f8aab/cryptobotkit-0.2.1.tar.gz"
     },
+    "0.2.10": {
+      "sha256": "93c74708a9f02678accbe06f153d973dff5094e54b800cb5ed1d172049885a83",
+      "url": "a9/ff/f6f079aa4f1541a3802ce5a59dd22bb39f6911f5b5b327b503281adc1e91/cryptobotkit-0.2.10.tar.gz"
+    },
+    "0.2.11": {
+      "sha256": "dbc4970db97ffb15aba35c075d685a908e0a91be548de746573437b6a0df81fd",
+      "url": "32/c0/c293c2d3059bcc458ada32ab6c81af46eebebaee86c7a28bd8d4d08cd5f5/cryptobotkit-0.2.11.tar.gz"
+    },
     "0.2.2": {
       "sha256": "a7196bb6ec2b1eaa158c66be5e3d29fe96b1db9c906912344fd627d7c2251d2c",
       "url": "dc/63/29ea76fda7dc1482293f88bcd7be67f25be98c5e3f118b27a22a1aa19d8f/cryptobotkit-0.2.2.tar.gz"
@@ -4569,6 +4603,10 @@
     "0.2.8": {
       "sha256": "1bc16dbe3f1bbce5dd3c3bfd62ef7ac45866b4b324519389ffb7868577020d5a",
       "url": "71/59/68ea9921c124aea2a9df466874081441dd1b15cbca40e814b2230029f171/cryptobotkit-0.2.8.tar.gz"
+    },
+    "0.2.9": {
+      "sha256": "d8fe4cf90bbd265a95962c04058606fca9fb9028b256824abc5c419db020eb91",
+      "url": "27/5d/fee72fbd224ebae4483d677a6b98ff1f082470ac914f153e46312cddac02/cryptobotkit-0.2.9.tar.gz"
     }
   },
   "cryptocmpy": {
@@ -16625,6 +16663,12 @@
       "url": "b8/8a/38187040f36cec8f98968502992dca9b00cc5e88553e01884ba29cbe6aac/multiprocessing-2.6.2.1.tar.gz"
     }
   },
+  "my-server-student": {
+    "0.0.1": {
+      "sha256": "37ffb4bf58604c9e5d7409ccc263398e1cd09b2d0552dd0328f96428f7367c39",
+      "url": "7a/50/1ccc870f85566d82f2ce29a676e1fdd2289be8930332ce10f3e3a15627dd/My_Server_Student-0.0.1.tar.gz"
+    }
+  },
   "myapplicationalex": {
     "0.1.0": {
       "sha256": "235ccbd12d862bc953ff00e8779c38bb6e8be9ed2bf88e31162afb2e04e20522",
@@ -20645,6 +20689,16 @@
       "url": "05/45/f0c545cf1bee1556fed7fb3e7eea77a4691255939522b1d677ecb2c04be8/pytest-sftpserver-1.3.0.tar.gz"
     }
   },
+  "pytextree": {
+    "0.1.0": {
+      "sha256": "99fc87ca077c112cb19d25d0e24b45a781dfba7920a59fc7c1f7a8e900283eb8",
+      "url": "bb/dc/e59a82930a53329e510451a46308b0b2e4f8a5773d4d7f2bccce1e28fadb/pytextree-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "92c8f717c695e79c3a0b6b1ca97a06f82d67afa60845938e45c7af43d3c0ba25",
+      "url": "b5/64/abea99f592acc7d1480275110fc5d43a5b45c1e4f2db2f755df5de84c196/pytextree-0.1.1.tar.gz"
+    }
+  },
   "python-api-client": {
     "0.0.1": {
       "sha256": "5268b25b1e0bb3e0757f363eb687985ffceaa491255bba45657437f2beba049d",
@@ -21343,6 +21397,12 @@
     "1.3.3": {
       "sha256": "69d9e7250deb8c43d1f3f1912e801b090043474534a35b21ebe4693af30fe1b9",
       "url": "a2/31/31fb9dc3d34f52bc29c27ad997d006e4b7a5a2ca1e8b21529e8cf97d09b5/pyvision_toolkit-1.3.3.tar.gz"
+    }
+  },
+  "pyxt": {
+    "1.1.1": {
+      "sha256": "626fb9e39f7f35ec4a5a79cd026207c08b068117b08b572e5422cb30369c0c74",
+      "url": "40/33/976c21f2df47ad308e9457213bf82ca7592af4d11a59f687da3375991f9d/pyxt-1.1.1.tar.gz"
     }
   },
   "qf-common": {
@@ -23219,6 +23279,10 @@
     "0.0.1": {
       "sha256": "e142cef87ee419258ca253cb6ec586b26a0658454909daa41fbe23fa509de347",
       "url": "61/a5/19e71983b5f6a23b1861e3c56df2b61232822a08a316ab4c95869383c4ce/shed-0.0.1.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "5e64d6640fc56190839deb9a4ec8f71554ddcc07bf953bf688c0ae43937229ec",
+      "url": "d1/85/5802efd208d5a9d8f6627af0baeb330f02e24148fe93f6769f875f3559c3/shed-0.0.3.tar.gz"
     }
   },
   "showit": {

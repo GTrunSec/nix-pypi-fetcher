@@ -343,6 +343,22 @@
     "0.3.0": {
       "sha256": "382b570d183bd3cb14fe0251c69b3c61a504b84330ef266a7ada60feb46e8b87",
       "url": "b2/a9/82fdd7bf80638f0a5ac835fc08cdbb8b1732db3f0da8b86a35748ec3ce4f/ai-harness-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "b724f4baf8eaf473ff978e17c40c1c853bd878237bf4d0cf9242e44c2496390a",
+      "url": "3d/2d/453fbd1364a001c5bd106c80ff5982a3f3684102cea44f4d3109fde09025/ai-harness-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "f09480a6738e46fd3f61c088bf83ae132c7218e41b2da082a0bdc7e56e892d9c",
+      "url": "5b/5d/dc27369e370d9f25597ea214372744e38dc0fbd53ae6cec33df533ea5562/ai-harness-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "bc208e8f58a15d71fee6e5ec1ce2da331cbd29bea6437753a7f3875bacce8f8c",
+      "url": "59/6a/2e727fcb7a70c26329ed78d94c6304ac5d383e69c33b64a1449a360e1729/ai-harness-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "8727691a5c568dd877cdd0ccf68b17abbd93c04528099c8944479ef3fbdd2f93",
+      "url": "0c/fe/b0b13626c14673b125883b7a062b707d495beff424089c1f61f937c8c7ce/ai-harness-0.3.4.tar.gz"
     }
   },
   "aido-analyze-daffy-aido4": {
@@ -14489,20 +14505,6 @@
       "url": "c0/98/545000e2d4a9720d9448e9a870aa187d3f2aa79c5d91b2ec7aac40ad4e1f/movementtypes-0.1.1.tar.gz"
     }
   },
-  "mowaki": {
-    "0.1": {
-      "sha256": "bb1f502bfa782b09154e01ea1d8ce4571c8270b584cc7e0565eb80ee6b2b8a41",
-      "url": "4d/9a/ab902f4a9efe0a3b3cca279158e0cd5c6ab74364c5edbeb92e9d30826cb6/mowaki-0.1.tar.gz"
-    },
-    "0.2": {
-      "sha256": "e8eca13d2dc809a023f84e3ee7fbfd32ab2e54e29d3158129b84dfb79c163b25",
-      "url": "9f/4a/50b5fc53726b6b06e53c150adffafb7a795f7ea3cbad95b10d6ceaff1088/mowaki-0.2.tar.gz"
-    },
-    "0.3": {
-      "sha256": "6f22cce326a4b5738759ee780a0f3bf4ab046d51978af9f48c235ae98fb6c9db",
-      "url": "06/ce/34755b4698ff72b31d18ebb241a6a5c61fc6de248867fe5d628dea607a93/mowaki-0.3.tar.gz"
-    }
-  },
   "mppyresponse": {
     "0.1.0": {
       "sha256": "5d8cac5958363103e2b287bbf4163e2c7ddfc2688c2f3fa2bb01475b70fc7e0c",
@@ -26391,6 +26393,10 @@
     "0.0.2": {
       "sha256": "8369b8058d2d7ce3a33d02d7b017487beb8d000acde8e8798c0dd4ed1c20b4df",
       "url": "2c/8e/3e793721a8b705db16e20ebfd91bde30e8030fcf9da90c7ac3c91223f28d/twitter_activity_api_dummy-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "e2afc7a9c8b537f10e860bac31467c66a38219504baa210ebe9354ff31ad8428",
+      "url": "50/3f/9d2598fca8c71b862bbb6b336af92d991caea366d0522086e01dd58e5f0f/twitter_activity_api_dummy-0.0.3.tar.gz"
     }
   },
   "twitter-filter": {
@@ -27785,12 +27791,6 @@
     "1.0.1": {
       "sha256": "12113425acbfe8b289f581a0f7a64c838656be671fee2e14d34ff162f525054c",
       "url": "2a/6f/9e34a5cb293619fc37911d62208bccc592804b8ce989b804468bde398309/zfun-1.0.1.tar.gz"
-    }
-  },
-  "zhuhegege": {
-    "0.2": {
-      "sha256": "907af0577958517e6944002539fac15a482e8f2030be5667ec5d5ff466815b70",
-      "url": "58/a6/62f311d025b559b543cfdfcc2ad0ef08fbfa1ea211732ebf8a9c6475ee9f/zhuhegege-0.2.tar.gz"
     }
   },
   "zipeggs": {

@@ -12441,6 +12441,10 @@
     "0.0.4": {
       "sha256": "098aa38fa39733fa4d901e5f4fbee47b2d2dd8a9f22517456dcdc240a11bf53c",
       "url": "33/41/1100c7809ce903eef03777ab2cd4e0a42d5c3017491e91f31bdb6b6e338f/onlytld-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "40ba271e5a4ab7e937b90c549b0d671f132b28893979d2b90ce5e76c6a3d2234",
+      "url": "a6/36/fdf5a1dfb3f89f503919f437ff9fb0683808bf8d066c6224f2138629baf8/onlytld-0.0.5.tar.gz"
     }
   },
   "open-humans-tornado-oauth2": {
@@ -15265,6 +15269,24 @@
     "0.2.6": {
       "sha256": "c3ac19cbcaa5d0170c7c64db4e318843f93a861b006ead6eb071a45941dde9f0",
       "url": "90/30/4c37944839b21b1ae006ef3f12eca4a80b60195a16e1450bf47ff1464d58/pyopensprinkler-0.2.6.tar.gz"
+    }
+  },
+  "pypeako": {
+    "0.0.1": {
+      "sha256": "ce02db83ad114e891e419f5b16059850d224c965cddf320e89006585cbb91fb4",
+      "url": "57/64/e78a622a0b34bd72df5f62aa2aa6aeef1a0ed099a8b06bcb9bbb0fafaf5f/pyPEAKO-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "638ec54732be8b91c91a50e13d15218908085f434402c07bff7cc320b26bf3ac",
+      "url": "dd/63/97424c1c932484fff2d0e566305a32569e7b7abd2af7b23e39b7755abd18/pyPEAKO-0.0.2.tar.gz"
+    },
+    "0.0.2.post1": {
+      "sha256": "5777df731ae0a35ad9827825f0c8f42d18009e6fa9397d5dd7a3694b9eba16c6",
+      "url": "94/75/73bbf748dd6add913292e2ff4dc51d73556becc86a455de3e828cac345ca/pyPEAKO-0.0.2.post1.tar.gz"
+    },
+    "0.0.2.post2": {
+      "sha256": "1d1acea0b0e65ee47ba8a2b542c20783f5e45feadb46dc996e6e6705fbe6134f",
+      "url": "6b/cc/c74dcef289ce25ae0b2529b60845ef7ff22a223a612932eeefca9a9d6f68/pyPEAKO-0.0.2.post2.tar.gz"
     }
   },
   "pypimirror": {

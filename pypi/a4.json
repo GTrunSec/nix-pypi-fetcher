@@ -5094,6 +5094,10 @@
       "sha256": "fb30c009ed0c473cf77cdb41a3ae0f0e006cf39b373c4df16390c313a6f2c0a5",
       "url": "79/ba/8ab420166282fd4123cc1cb24ff781441c31e623b9a105e188a017504c2d/dclab-0.24.6.tar.gz"
     },
+    "0.24.7": {
+      "sha256": "d26cdd09b07d5dc29feee23678cfc0fa7c8ca7c39d9b05a5ecd20d9a44433b0d",
+      "url": "60/84/82f39f18509b288ffe8dcffdcee6cf354554464386d6b27e1b649701dc43/dclab-0.24.7.tar.gz"
+    },
     "0.3.0": {
       "sha256": "5a56c018e7bd79f566f46f1471436767385eb2ddb77516594e6037c4294fb528",
       "url": "60/82/0545cb796e16abd822e5c9b46d63d1ebb617ddb683ff63019b276af3dd14/dclab-0.3.0.tar.gz"
@@ -9021,6 +9025,16 @@
     "0.9": {
       "sha256": "e3cdf83b89710f5ce7eee18c5a53bf87d59e21d820bffd5f1f67e99cd57b303b",
       "url": "01/1a/abc96cf846a0390e83c7b144ae9cffe5932148a6d1abf99196b44297cd76/facebookpagewriter-0.9.tar.gz"
+    }
+  },
+  "failprint": {
+    "0.1.0": {
+      "sha256": "40fd7e7b4d822cd966fcf6b36f634c62d4899a14522db990c27e25d25aa3f2a5",
+      "url": "37/79/6de2be8eb256c2e7f5801287e31fe4e9db42ee8bb1687e0dd2f5bd4fe51d/failprint-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "128d940a27deebed71652ae07f10dacd1b5f83885b4fd59f00f3f5329385045d",
+      "url": "20/fa/40495adf09650338aa1c6bb7e2cc5d01c2415bfe33ea7df554adb0ea36b6/failprint-0.1.1.tar.gz"
     }
   },
   "fair-numbers": {
@@ -21809,6 +21823,10 @@
     "0.2.3": {
       "sha256": "c4c6d5592468375387d37cf497b59ca00542fa7686243c50a624a4854bb46866",
       "url": "45/35/d4516533fef5980127b455e66eb9922be2f8858a1be3d9fd0bdbdc070b26/r2k-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "35bbb096dd5e159d60b4b03a1834902c98736c802ec3d4289159caf6a80540ce",
+      "url": "1f/72/bf21c686c05b380f021c88795441acf8bac22b5100e3185b49e4cdf1ef2f/r2k-0.2.4.tar.gz"
     }
   },
   "radare2-ctypes": {

@@ -8929,6 +8929,34 @@
     "2020.04.1904491": {
       "sha256": "643ec8b566abf7e6b3eebd78d979c0738772edb6908f2adeb289d8d0c9949a46",
       "url": "12/ed/d1ba46b1bc92aa8b8913d2fee0459649dabda8c4248a54fd80d4e48860c1/fluidattacks-2020.04.1904491.tar.gz"
+    },
+    "2020.04.1907501": {
+      "sha256": "83d871c7d221c99bea7f697eddfb262c49c5b12fb6172e3bea1cb7fc026cf93e",
+      "url": "f0/4b/843af8031ba8f404d4cc77dacfa62ff2b8d343cbce0181d09f368f09865a/fluidattacks-2020.04.1907501.tar.gz"
+    },
+    "2020.04.1911571": {
+      "sha256": "5ea7b678a2510d7fe0693da94ef193b3c19a87dc83d0445cee81a22d63462c78",
+      "url": "4f/6e/fd158345f904f6b46c91387c23aedb124518a2d9bc28ca621d998108c2d1/fluidattacks-2020.04.1911571.tar.gz"
+    },
+    "2020.04.1912832": {
+      "sha256": "3fe2bcb1e328ce455d9fbf7f46b9c904b66ef9214fc31c9151be7d422daf8b8f",
+      "url": "ae/23/dbe3cc232e016907d4f6bcc97d18bb4c55c253edaceeeb58cf249b2246f2/fluidattacks-2020.04.1912832.tar.gz"
+    },
+    "2020.04.1913602": {
+      "sha256": "07a255a5579b42ecfe786470e554526ab75e25dec85d51da10e1de6ee5c22038",
+      "url": "fc/24/66543fbc5633dc79bbc760b515bef490ea674482cad70b5645e80a341a02/fluidattacks-2020.04.1913602.tar.gz"
+    },
+    "2020.04.1916375": {
+      "sha256": "90df722a9907d705c933e6de00c512f650b407e090a0b9c02dca4e8f75d5a5f7",
+      "url": "03/df/03ca182b5220eb11e536779433695527a07fed6bfc02160a608ff284d38c/fluidattacks-2020.04.1916375.tar.gz"
+    },
+    "2020.04.1916900": {
+      "sha256": "c0c910fefd64f2f6160ca80eda506675b71a8384dfc8b7d147073c3cd32e857a",
+      "url": "32/3b/b5915e45445ce574f95597c833a0bca16a670832487076452c104cbf8db8/fluidattacks-2020.04.1916900.tar.gz"
+    },
+    "2020.04.1917460": {
+      "sha256": "0d2bb3126536b2755e6b53614e009e219dc8886fabc286186c93cc5254b0565f",
+      "url": "da/22/0cda3ab70d49a4186ed3050c5f9aebbfc7ebabf030a80a26ddef5c5add7f/fluidattacks-2020.04.1917460.tar.gz"
     }
   },
   "fm128-radar": {
@@ -17677,6 +17705,10 @@
     "0.0.1": {
       "sha256": "626009a2c746a6e5231292efb7922e169b90077e54e382b2d7811a22a66fa37b",
       "url": "22/6c/9b4c3a31c4d9c5dd7251b965a009d0af9d7fb2b47ac0d4b19e123cc11f0a/pass-pls-0.0.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "d4d8edabe3fb8d28022c1f62cadb4d1dcb8c4619d3cd27d6e9e9185ca28bcca7",
+      "url": "91/f3/b8f11713cc919caeb91c0e8846a9638dee55d39010edb4067ec28344c4e8/pass-pls-1.0.0.tar.gz"
     }
   },
   "passjoin": {

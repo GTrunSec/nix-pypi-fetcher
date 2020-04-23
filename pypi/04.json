@@ -8752,6 +8752,34 @@
       "sha256": "7e787e5b2582d81817e80c0eaaeb01ef09b82a165cfa476f42f2a3f01aaeb77a",
       "url": "a0/ce/1d4c4883ee76f1a4a288f8d11bbc4115b5a97d0ea2c1d4181de12424c83e/cs18-sidecar-0.0.2.4334.tar.gz"
     },
+    "0.0.2.4335": {
+      "sha256": "08b4c6cd6e95af95dedd9aa3be8972296cb2ecf5ad9273ba8ee2ffcfa7ef6086",
+      "url": "2f/23/558622886717add90769ecba4e9f6bf6f13344a4692308031ed36969906f/cs18-sidecar-0.0.2.4335.tar.gz"
+    },
+    "0.0.2.4336": {
+      "sha256": "c5b7b4dc8bb6e89fca5bc494011f171339aa1b304cc701f278fa7802acc26356",
+      "url": "a3/e1/a7877bd70a1922d8b8a60c8cb6aefef9260e3d8a418eb69cccc04b3261ad/cs18-sidecar-0.0.2.4336.tar.gz"
+    },
+    "0.0.2.4337": {
+      "sha256": "0e3500d4aa262d45db8ad21344c6b8be1cb7f054f417dd736926fa629146fd00",
+      "url": "73/cc/dba6adab4decfc722fdb6247fba93a68cd1501b97417e844daa0a71afb75/cs18-sidecar-0.0.2.4337.tar.gz"
+    },
+    "0.0.2.4338": {
+      "sha256": "d1ab1cb3128522eb53252d7b88cd958d340af8a1c58fb6c0ad1437ab5acf580e",
+      "url": "62/d2/76addf311c66c527cc466ddf98c5a41daedbbaec66d14392571cd604a213/cs18-sidecar-0.0.2.4338.tar.gz"
+    },
+    "0.0.2.4339": {
+      "sha256": "cfcbccfd62ccc8a341cc9d182bcb4a1c9d53543b80c6161d389f4205f7235205",
+      "url": "ee/90/2f0d157fad33919c9394d1943aa436c1d9d89361206f32fc8fdbc5525863/cs18-sidecar-0.0.2.4339.tar.gz"
+    },
+    "0.0.2.4340": {
+      "sha256": "d127cba68104909383ff650937a966ada18b52e15fd2bbfcd07d5f0257ce7577",
+      "url": "19/78/2afa1e013c7357b98bef52b77ef133c4a0e8fef3fc5d7511130a1e5900a2/cs18-sidecar-0.0.2.4340.tar.gz"
+    },
+    "0.0.2.4341": {
+      "sha256": "98a5191ee776dd130f014fe899770db77663df1654236271f95f03e171602c1b",
+      "url": "a7/d8/9db94c3bb55de27c530aefa49f9d68f7fc1cbffe3e7236d43f2340b20413/cs18-sidecar-0.0.2.4341.tar.gz"
+    },
     "0.0.2.5": {
       "sha256": "6235ad4b9354fb5cc8e0013669d4a980133c9d7eb36796535b214e81ccd8b6d4",
       "url": "6b/69/6f4f2d498a255bcee00a26af963b074b4f5690c74c2c10681746f92c8772/cs18-sidecar-0.0.2.5.tar.gz"
@@ -22397,6 +22425,10 @@
     "1.0.2": {
       "sha256": "877456b2aaa08b825d9b61966d067b6188f6b8c11899b6b47036a4ec441fbd29",
       "url": "40/14/fb4fb8689428e74aa30518a47a0570f733bbf636934377f576b5b27c7247/preimutils-1.0.2.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "edffa9718dbbd4fe35a94b18e787be9503d903b72d18bde55fbfef95469deead",
+      "url": "05/e0/d9bf80171b88e1ec54afd33ed60a5143f58bd7e5851d83042ad043a2bca7/preimutils-1.0.4.tar.gz"
     }
   },
   "pretix-cas": {

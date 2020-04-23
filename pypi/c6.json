@@ -2013,6 +2013,10 @@
     "1.2.0": {
       "sha256": "d03c738f5377dbe7ecce010e28afcc0fb8373c4c9d01f8590af7657b53342c1d",
       "url": "15/aa/a57d90f73eec0cb34a868936ceb5702f81e4ad01de76dd3b764b6107670f/Bootstrap-Flask-1.2.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "a05b18a85aa4c095bb49b9edfe77c42099cb8ed9ce8e445ff76510353632c32f",
+      "url": "91/c9/866286c5ae445ba8651e17b59df8f8485371dc8cbbeb8a9f4bb13a3cb357/Bootstrap-Flask-1.3.0.tar.gz"
     }
   },
   "brz-build-recipe": {
@@ -23647,6 +23651,10 @@
     "0.0.53": {
       "sha256": "36ffdaa7251e9eeb13f57fd8b8c8725ffe438b0b2b67a13ae66148b853caf305",
       "url": "b4/08/a09a4e273629599f6ef4877e1b9311c1a7de2ad4b33215591e157f46ef24/webviz-config-0.0.53.tar.gz"
+    },
+    "0.0.54": {
+      "sha256": "c49b207ed5fd61a1724cd358952c68415893eeda11c9822cd62d853de7c72d4c",
+      "url": "d4/b3/1ad0b2e479992ea20acfbdb10aaebb34f40197aabba8d5d5bce4884f708a/webviz-config-0.0.54.tar.gz"
     },
     "0.0.6": {
       "sha256": "050beb8ed6e1543cd3b051f0482aa2bced6522863a3ae1f9c44c7bbef72476a2",

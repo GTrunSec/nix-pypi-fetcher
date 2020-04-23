@@ -1244,6 +1244,10 @@
     }
   },
   "benchmarkstt": {
+    "1.0": {
+      "sha256": "24dcd415b7b1fc04c7dc08eb1b401f21371f70e043d3b48af66968f847c6d03c",
+      "url": "2b/ca/58f0298a6757e380569eda9b551f3fb534f57141b83566cc79398e34bedf/benchmarkstt-1.0.tar.gz"
+    },
     "1.0rc2": {
       "sha256": "82afcb18a1ebcefa29fd3d914b26e91757a72b68c4b3eab69c85cbca62f56e8f",
       "url": "3f/73/2ad13da41dce96180ff320c8cf8fc44ace4f28800f1bdee3857337b5535f/benchmarkstt-1.0rc2.tar.gz"
@@ -15103,6 +15107,10 @@
     "16.0.0.0b1": {
       "sha256": "da78805ea624967891b426ca0ee36b7e0cd7804f9d29da209543bd490df0b3e5",
       "url": "50/c6/1c3ec63ba586fa2df00c86feedd2add15b0f7025ee2a83509956d8f2f3ad/networking-odl-16.0.0.0b1.tar.gz"
+    },
+    "16.0.0.0rc1": {
+      "sha256": "71c572153237f00b6679279155788bcbc3e7364f471f72893274bae6bc88737f",
+      "url": "99/98/b823eae00dbb54f32d3ebeff80179fbb2e61f8d4baa912489116c194e2b7/networking-odl-16.0.0.0rc1.tar.gz"
     },
     "2.0.0": {
       "sha256": "85f1fcbe36c4bad06b10e3d246496019968729dba1d81aaa99c192512ca652ac",

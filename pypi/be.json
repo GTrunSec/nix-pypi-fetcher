@@ -9133,6 +9133,10 @@
     "0.3.3": {
       "sha256": "0210e7c619a987130a2ffb592ec80754db46fa253b29528af0cc7352ecaf236a",
       "url": "60/b6/3e9ef68f8faa0df07589d566415e389a088de38de0a93b3420c98769fddc/geeadd-0.3.3.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "e74546ff06ebbfa92792d39b404a32b886c913e831d285cdd772cea4feaafc24",
+      "url": "bd/0f/2cfc1fe1e0b2be9d078de9d077131d3492ab68a996cbf38457f0011cf011/geeadd-0.4.0.tar.gz"
     }
   },
   "geokey-sapelli": {
@@ -17351,6 +17355,10 @@
     "2.5.0": {
       "sha256": "e2d10422520a51c200ceb595e76fabadb61d0e3b60672b8bffd8ee825b2d0d19",
       "url": "e3/19/fb849f73457c947cdc2c9d46584e30b08857fd27c5a28f1010d1c70bba5d/pheasant-2.5.0.tar.gz"
+    },
+    "2.5.1": {
+      "sha256": "84ce3fac687f019cd9ad259801fbaa77cd6dc3f40f0fe9f3f3b25cf8364754d2",
+      "url": "f5/bc/25caa7b3a18c1d9b6586c380f459c5946a8196bf97a56c9475faf873bd5d/pheasant-2.5.1.tar.gz"
     }
   },
   "philippecantrelle2adataviztest4": {
@@ -19128,6 +19136,10 @@
       "sha256": "d03a59a38c543b8b3a2dadec72297c8885ac7686447432c8240ad65a779f6dd7",
       "url": "9b/c3/df3730a60907839019d2601d9bc0161fbfd2e882b63ff67e807dccdfc5df/pypans-0.0.10.tar.gz"
     },
+    "0.0.11": {
+      "sha256": "7151663179f9ea8b30375b7faf6448cce356498d2ef1df0811b675d8ab3cc086",
+      "url": "f3/53/7b7c1f48ccb66ef49cea2930b053fb191aac714fbbc03ac4b76e562118f2/pypans-0.0.11.tar.gz"
+    },
     "0.0.2": {
       "sha256": "1a5d4eae8c123167407c0e50fb9f0ce67c647a19579c850c700f9a0e7b728ce1",
       "url": "3f/d8/b7007c899519c56dbdf386f71b25a67c74ab3f35e5f5ec69b705372dcfaa/pypans-0.0.2.tar.gz"
@@ -19333,6 +19345,10 @@
     "0.2.7": {
       "sha256": "07ca8a44cc08c39b77c61f69f800542aaf734f2b974738500bf52db2a9ac69f9",
       "url": "da/29/4293ffa236c2853c83efab2afc9d4e54ab336cc405b968dac2ac353fab06/pyreadr-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "1d7399eab92cf321bb69ab2999dee61dffda165f5fdf6ea01a3391231cfcbe60",
+      "url": "a8/d4/36940e114dc819ea46a6a9575e9ecc090f458596108d9315be37f9d8c155/pyreadr-0.2.8.tar.gz"
     }
   },
   "pyriemann-slim": {
@@ -20763,6 +20779,14 @@
     "0.4.9": {
       "sha256": "e1bf0f34876ced4a4fb14b8755a87eee76c2d9f0eac54a1d1a3084d6d80d6bf6",
       "url": "c7/00/9716257d13d50fb65d8ac7c7051d8c6495b23064ecbfbc61b7b775850f3f/qoalai-0.4.9.tar.gz"
+    },
+    "0.4rc19": {
+      "sha256": "e10c3e29973e3d90590f96d2a1e2e0a32d56e2001d29e42d64e2eb4488419241",
+      "url": "28/e0/95544cbf363c2e68a0b5adfabdf430a8e7b78b0c48af0902d40d056ba4b0/qoalai-0.4rc19.tar.gz"
+    },
+    "0.4rc192": {
+      "sha256": "87e7fc893538abec2a82f98e2ccc7c0b4558b5b2d965138c0e48e67afae5d74c",
+      "url": "54/1b/d89a7b133767e71201d6db228e1eb76bb0156f9961bbdad53a726945b251/qoalai-0.4rc192.tar.gz"
     }
   },
   "qpubsub": {

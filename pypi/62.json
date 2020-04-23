@@ -4217,6 +4217,10 @@
     "5.0.0.0rc1": {
       "sha256": "eb76ae690b4ce067f458bfa2cc9311f5117f7b842d5a88a0c23510e596eceb58",
       "url": "84/d5/22c45af0cc2005f89558dd4372964d287a7c9c50a6740d0f17058309b376/congress-dashboard-5.0.0.0rc1.tar.gz"
+    },
+    "6.0.0.0rc1": {
+      "sha256": "ae35b14a268a3c8e8be2814af26608a91c561ff805e4518a104ebbe580ae9c30",
+      "url": "ea/68/2fce83b9548d0f99979c13f5d2bc262c7f1e280c03a2d2f243a8a3546235/congress-dashboard-6.0.0.0rc1.tar.gz"
     }
   },
   "conversion-therapy": {
@@ -8741,6 +8745,10 @@
     "1.29.5": {
       "sha256": "9e67f6891f1d8f129e538439af90791c30f06101807c17e0bb775c3806bf07f4",
       "url": "df/fa/bc65552dd7e2312a6c1515e17a544e74dfca6572f6438fac5f14e2372460/followthemoney-enrich-1.29.5.tar.gz"
+    },
+    "1.29.6": {
+      "sha256": "495080311e786c2d0614ca31abfd8ffcf16a471d03c1eba5ee6238b77769d0c0",
+      "url": "2f/7e/48f0241e2af725f3a8fd742647020afcb5083b86dfc5c591e43cb64ea83e/followthemoney-enrich-1.29.6.tar.gz"
     },
     "1.3.14": {
       "sha256": "565fbd1236cce9ba5f6b5e0f1005cd1e20cf2ade1a52db6760fbc3e310f45298",
@@ -21979,6 +21987,10 @@
     "0.9.0": {
       "sha256": "7e57d33f586d2a416f4e64bb4f707788bdf4128d7a7e9c20640bff62c178b271",
       "url": "37/b4/656e37da143e0b2963e5e7bcbc1ed84c239906b258cda71b3f3060c80e16/staticsql-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "f032ed0f76177291a8f647b1dae5f3c6640211c65395705175074fdfee713e6f",
+      "url": "6e/20/79ebeda2ec52b613fa7886cc10bcf468e6c1dd5e5299d46b34d96bbc918c/staticsql-0.9.1.tar.gz"
     }
   },
   "stellarstation": {

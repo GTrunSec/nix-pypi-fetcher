@@ -5836,6 +5836,10 @@
       "sha256": "2d2860542f19ab77cb4f68c0848d377a3ff627e88220d57cb547cbc941ece4cf",
       "url": "a4/19/2ce4ce81324d5028c608882c95674fccea99df6cf4bc5914e8b841e7d288/dagster-prometheus-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "db594b5e3a30e73eb8169c2c338906ee9713e74e201abbc097b55220c792e6b6",
+      "url": "d0/ad/07e10ea7fa38b41d94a37e27e459c65409f937999e164b96dc3eca8a7d8d/dagster-prometheus-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "49f3c48738d56643463718fc67629c87d505666e312176ad996031d0a116defb",
       "url": "7e/a1/b5f2601c3d6c793574894cb846f415c9b60cb7f426fb2152f8822af57bd1/dagster-prometheus-nightly-2020.4.4.tar.gz"
@@ -9669,6 +9673,38 @@
     "0.2.0": {
       "sha256": "5fc5c7a1e436ec2498743ce6202b56eedb57255374916fd20b10fd46801ad32c",
       "url": "9d/dd/08327da7268cdf5d4bcd1c4fe5a36dec0234d524f23db874bdb4aa9bb533/geosnap-0.2.0.tar.gz"
+    },
+    "0.2.1rc1": {
+      "sha256": "01a7b26c81c42960326355df464ad88eda3b351ba91af12d2e89495cec48f86e",
+      "url": "29/33/b8ea7e0c2f7760ecc29f2a2d37749655ffff1cde5ea22bc2eb0f5704d866/geosnap-0.2.1rc1.tar.gz"
+    },
+    "0.2.1rc11": {
+      "sha256": "7873ca8c16711dcd2a569a79bc1de67fc0051280b1954ab32e4da24014c03601",
+      "url": "ee/5b/04930457da28ec5b2615ea08b62243b77f126318ddbfa96afa2dda8d0c5f/geosnap-0.2.1rc11.tar.gz"
+    },
+    "0.2.1rc12": {
+      "sha256": "e329edf9a7d4307f8f5b512dc0380ee155661044e0fcbcb43004482ad9a1bd88",
+      "url": "2c/ee/64e081ab6cb79b0ff9e3ae707a51f612f4d7a1060c67a1174945b7394dc6/geosnap-0.2.1rc12.tar.gz"
+    },
+    "0.2.1rc13": {
+      "sha256": "cdd658720198c2e9110c529d9335879bf093b9b2e52e77067eff8cbfea62998f",
+      "url": "71/78/e8ea47261eecd7469f2439c8563bcb4a52c57bac54998b2149763c5ac111/geosnap-0.2.1rc13.tar.gz"
+    },
+    "0.2.1rc14": {
+      "sha256": "732efa752a105230756df3eb83f40a2a86e4f74b66628d3c19a018a4e1ca426d",
+      "url": "94/22/11cafb24bb681f015b63f68b792b4b277daff447cc3dab2e164195df757d/geosnap-0.2.1rc14.tar.gz"
+    },
+    "0.2.1rc6": {
+      "sha256": "906bce8c559374df7ce4df89d373c9d2e8ae3f2c9b9d64ded5bb82204517c9f4",
+      "url": "e8/e2/d9aea8fc4112490d814a1970faad48f76d545d477cf31601db016dbf24f7/geosnap-0.2.1rc6.tar.gz"
+    },
+    "0.2.1rc8": {
+      "sha256": "751561649f8e18e2d57db046ca34d61b7d47a948b4a881192de7def769498003",
+      "url": "d9/5b/575a27c0cb0de4e745c3d72579629586a7534b83d7094b0705e2bbc9567a/geosnap-0.2.1rc8.tar.gz"
+    },
+    "0.2.1rc9": {
+      "sha256": "a83097b6be616fe2fc55389143840e10f0416bac745df81afb9aa3ddc827675c",
+      "url": "0b/f3/df486fb141e001f7dc236e3336ea872e52a33778c5244add6643965902db/geosnap-0.2.1rc9.tar.gz"
     }
   },
   "german-lemmatizer": {
@@ -10971,6 +11007,12 @@
     "0.1": {
       "sha256": "2a339a7eb1971985478bd41b5cb3315ac5c3e190285ad8e4b5d9b342f72764ae",
       "url": "08/e0/edc4904c04550321181ba608b172a3f359f5197b83854b2577e80d5e643a/icloud-0.1.tar.gz"
+    }
+  },
+  "idem-aix": {
+    "1": {
+      "sha256": "f2bbdfdc3d785ec5c026de28902b6cc8e16063168db189e7fdf56076dd0d7522",
+      "url": "0c/bc/2e2623aee4bb45ed421892566d5d93ed266d110f9c0041cb6b8dd8104705/idem_aix-1.tar.gz"
     }
   },
   "idpflex": {
@@ -13367,6 +13409,10 @@
     "1.9.4": {
       "sha256": "cbc0a846f829116d4a901a172a3a1de1183463b679e0162a5f69b76eb135c44f",
       "url": "c0/51/e2477c2bde13fd7cb98ac45663df191ad20a5baf374ab2768abe8fcfbeeb/lpack-1.9.4.tar.gz"
+    },
+    "1.9.5": {
+      "sha256": "4925b88b0066bfcf83325747592b0ab8f902425104dcbcdc63d87a80151b158c",
+      "url": "35/62/a2a4b6a959d2997fa0cadccc67bccb6f779e34821dbc19792dc486330056/lpack-1.9.5.tar.gz"
     }
   },
   "lrange": {

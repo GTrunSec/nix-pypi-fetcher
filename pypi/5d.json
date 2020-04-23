@@ -1641,6 +1641,12 @@
       "url": "f5/6b/9da58bbfd7aed9ad676467d33b88b3dacf84088205de0b8907458f35a5c3/bgdf_distributions-0.1.tar.gz"
     }
   },
+  "bharel-pastebinapi": {
+    "0.1.0": {
+      "sha256": "f873a30958156ae8c32b142407b9f89c011480e524f5c674a94c82464d26bd59",
+      "url": "41/43/c0f164d89d4537d14387b04e29fb10e198cf01397b0d5901a474b00b4383/bharel_pastebinapi-0.1.0.tar.gz"
+    }
+  },
   "binarystar": {
     "0.1.0": {
       "sha256": "8865acfd36b31a93228813841c1e1b6cc1edf3f3a5f772def661924f2fc9a52e",
@@ -4335,6 +4341,12 @@
     "0.0.2": {
       "sha256": "e82f993cc60e47ed0b4e642f5980cc85bb3df37dcea041bc08e1a00323bd3baa",
       "url": "52/4e/ead3a19f9812a32dc0f7b421eb76d609d071c2393e03b3305c9450bc1827/digimat.meteosuisse-0.0.2.tar.gz"
+    }
+  },
+  "dingding-webhook": {
+    "0.0.3": {
+      "sha256": "9c42ee2b11a9b01b001a14858b09289bc13f68a9ea6c5ab74af7998f4d2f3dc2",
+      "url": "41/ab/471482343b789245b910d65536de2f6f1661371990cb6d32d732532f3391/dingding_webhook-0.0.3.tar.gz"
     }
   },
   "directpy": {
@@ -8287,6 +8299,16 @@
     "0.4.0": {
       "sha256": "02610a4aad30ad1c4b5198f9fa436e46c47f4ddf7bcc5d882813368f632c5541",
       "url": "11/34/699df6c9e1b5bcd1fe20df4f0f8587c73d5c33c526ce20b71dd8c0e420ee/gtrain-0.4.0.tar.gz"
+    }
+  },
+  "guardrails": {
+    "0.0.3": {
+      "sha256": "853625af4ee48851477f29a22baf58dbeba88c69f59cb38545fc7d169bc8e6e5",
+      "url": "c8/7a/a2617bc20fe427a81bf0401187e7d3fff93602a6dcb44b4342669026490b/guardrails-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "ab6b042a279cdaaebe2999ce85931b8421d5731ceceb2764e4164cd2b107c1cd",
+      "url": "3a/2f/de2d4c9cc97a41a4f3abb6cdaf954d8416b059672cd323fab95baf97344e/guardrails-0.0.4.tar.gz"
     }
   },
   "guibible": {
@@ -17449,6 +17471,68 @@
     "0.0.9": {
       "sha256": "631acf66d03abe8d02f18057de3db6b3f6cbd780425b5652714b10a3b37eda7d",
       "url": "50/2d/11c167d9d457661323f444caaa597d25eac710826e1284fc4c459ee82055/pyramid-mongoengine-0.0.9.tar.gz"
+    }
+  },
+  "pyreadstat": {
+    "0.1.6": {
+      "sha256": "9aee4d98b0a2ebb5866cc07dc1d4607160122ab054f5fb4bacec30a819f3e429",
+      "url": "d3/7c/a9d9d2ad046abe703fbfe6a13a767e5199578100f136cd9f626213f363d8/pyreadstat-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "1091ab41a2e4ce8b9e4dce95c871147008fe0144aad03f1cb7f4e4ff32ba2771",
+      "url": "44/fd/996b448368ec7a5a25d113fba47891bf4f66a9bc3a913339b83f8edf2c8f/pyreadstat-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "932b60e26bf90198af4c94cba042cbe25662de14d415049a6c318a5b2f8bc4a7",
+      "url": "7e/8a/7fbc585b54b435ff592c291d604869a9015319b02c385042d7b366c2a339/pyreadstat-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "146149d0d3fa9061987ffc6cdafaa591f966a223950b9bcfd8ae4de45172ddfb",
+      "url": "25/d0/487f7611a59d68dcf137865dd5434ce7f8dde1cdb5edae953facf4d4a4a1/pyreadstat-0.1.9.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "9646983ef43c716842ae7802441d12b27325e6848b4433d211d2dc2c4823c8e9",
+      "url": "9e/a4/e57fe5d5ad75f59f24fbd52772d5e44f16a0b61f6a2dee2999c2a72a6d1f/pyreadstat-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "8e48f4ad426dce82ee0036f5874223fd7688709cc4a7a337fd9896cefca73596",
+      "url": "a0/1b/9da58f6c2896ec326e061d00cb8521eea2b75aab5bdfe64e39e9e8838e43/pyreadstat-0.2.1.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "c200685ed428cad33a290108adebed3846e2fe4a493535423df770fb64a3b965",
+      "url": "0f/94/6abca1ec2adeee984f2aebf4370e65e54fe3bc03b0daed1f873e01d05b5a/pyreadstat-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "78efdae9ee39dbe55a58cfd8eb473af865cf10ba7f811dd747d9a06ebcf24712",
+      "url": "44/d1/0181aef911950d2717f74616948ad6f442df1829a2ea0815b8ca9782e31a/pyreadstat-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "322f55dd101e8efd61d9c81bdadacc0c2d811d318a061dd3b79e02527808a40f",
+      "url": "4b/0f/04a5c1b1ceca6aa55c36d9708e241ce3597a6e36899e970d32777f5accff/pyreadstat-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "664ab7123236174163e92d6bd094b297c164e01d8d3c81351d6f63efdc5eb9ac",
+      "url": "d4/2a/3917ff25b43a48d148505e64b81461aac822ea776fc116efc8ee01f2356c/pyreadstat-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "524499d172aed2c4323b9800d8e8f9c81acd920e124c1844add076d770ff3f86",
+      "url": "59/55/b5542fefa8d633eb1ea0bf3d1ec6d3c76828ac85175ec2bcf72feb013b8e/pyreadstat-0.2.8.tar.gz"
+    },
+    "0.2.9": {
+      "sha256": "a470ce741b4600cb987379fe8006629cdef20f68a884df70b03cd5855b1c27a3",
+      "url": "9c/89/1f86762f7683433e8f011699cb2a4e6f06d6ab32bf551c42cc7459038624/pyreadstat-0.2.9.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "381aa0d4dde4dbd54c4d7294d5a3ea221df0018cad46ee330047bacba6a28d98",
+      "url": "ec/62/ccff1f78649430791b67431b4075560c8079c5537a0d92185ea25fbda0e9/pyreadstat-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "23fe6a4636d58a308746cdb042c104abc76eb26c120a0468df76c904c8013563",
+      "url": "c8/0d/4700663ab26fb5ef423f0c32c2108f5adb35093cb4edbad4b62297b84a0c/pyreadstat-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "3c9f0feae62a5dbbdd38b818b20bec291e37f396831fbd2435735ca3a241031f",
+      "url": "5b/1e/feb5274e9c12575b5ef398b70f5c1b597956a8ff460f4a66e9a2ab97e03a/pyreadstat-0.3.2.tar.gz"
     }
   },
   "pyrecon": {

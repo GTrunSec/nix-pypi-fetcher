@@ -810,6 +810,10 @@
       "sha256": "ee5689ca5d1971dd81c4d056d634058d1205b4702e546795b595edb3fd0f6a7f",
       "url": "f2/02/930b04d430cd404856e6eaaf80b01b4c3066375fcb21ac811f1f30f6666d/Appium-Python-Client-0.51.tar.gz"
     },
+    "0.52": {
+      "sha256": "2481d454343f8e89a7ba073b70e2a6b9126c17b27be1aae5676fe0f8b5c92ada",
+      "url": "6c/92/9be7026178eb023668c46454704cbe5b0ee8ef51c4872a2aaa47c0c06345/Appium-Python-Client-0.52.tar.gz"
+    },
     "0.6": {
       "sha256": "d778224c7cd2b4c3190142157a2bd5de0d95d24fc5bb6b1ca00813670a6360ad",
       "url": "69/fd/84a89e39d7066e44a49b5964d011ded27475ccb46cb43d5f71d5e38e54ca/Appium-Python-Client-0.6.tar.gz"

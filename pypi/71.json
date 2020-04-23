@@ -524,6 +524,10 @@
       "sha256": "3695b5090a8c933e9d42fb5ef316a4f89bab0ba8e74003a0682835c5adc74ec4",
       "url": "01/b1/744afc2fa1a0e0ec6fe7747c46dd5e0042e4d53200a3ffd234d915723045/apicheck-package-manager-0.0.12.tar.gz"
     },
+    "0.0.14": {
+      "sha256": "8c9b1a5a8717b2e5bd865e3dc2ddaf1587585cff8767336c9b5f4493fe1d3b79",
+      "url": "aa/b2/98951a078775626dfe6930d1b62f6ffb788fd3e05fe6592745b124357a5b/apicheck-package-manager-0.0.14.tar.gz"
+    },
     "0.0.9": {
       "sha256": "3f18e1511a8ed1b4cd6c84233ea878c17196a9c2f663df78a36b8c5bc7d26944",
       "url": "05/a0/183af7fee867523c2b506aeaa34de214dc85a5f8d9f071c36354e4a9fda9/apicheck-package-manager-0.0.9.tar.gz"
@@ -8809,6 +8813,10 @@
     "0.1.0": {
       "sha256": "1161d9558c04d3ebd36fdabc03ee3e97f85fbf3a29981c0b64f288ae3d48308b",
       "url": "c4/ee/1ae1a6e11840b78b22f7695fa0c4f47872ab41a5483197d06544552d3384/hotware-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "9f5a1a4d64e7e9ec13b1217ca7d25273672207c95afa6cc433a3888849dfda64",
+      "url": "59/7a/8ea5634aca0b2eccdddbc11be22888f39e1fba6c2e0e55a8d7b91c981984/hotware-0.1.1.tar.gz"
     }
   },
   "ht": {
@@ -17837,6 +17845,10 @@
     "0.0.3b22042020": {
       "sha256": "283ddfd7a37ab16b5b44934388d556a32633d88aa29f3505ef81c85a3934e761",
       "url": "68/09/89b4ae14b1eabce14f4676ccefc8ad8080ab3f7ee5415ec77e65299b5301/resnest-0.0.3b22042020.tar.gz"
+    },
+    "0.0.3b23042020": {
+      "sha256": "d54e170e09ec5277416221cd0766469ff6e03247dc4d7930398566219a8c3660",
+      "url": "3a/d3/ae268f955ef999ebf15ef20d80e8562f6571d7be11efcdc16edcb8600e0d/resnest-0.0.3b23042020.tar.gz"
     }
   },
   "restcountries": {

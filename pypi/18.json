@@ -4348,6 +4348,10 @@
       "sha256": "53c91ff6c386b9e18eaf61d34319811f58b3a516ca2ba1b859c1ed48b50af4ee",
       "url": "12/b7/23ea3120087ec3e5d5ee848f4e9d7a5b6f2e560ae201b720f237dc78da68/dagster-gcp-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "2686c0e29eaaa2e22fcd4424e820ecd4529d3133031c89a5126b6e0f39bd7133",
+      "url": "e9/36/70dd364e141bdf05a55edeb79856aed06e3502e39ec0e0eebf77fb430d3e/dagster-gcp-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "437fc2cd369398e2b36831d390dfc9635357396873bc0f134dbb6926a4a81a19",
       "url": "72/50/a71e6d47465eb1bff3d4d9f389de94b26a7f54394310adabec3300f0ae54/dagster-gcp-nightly-2020.4.4.tar.gz"
@@ -14365,6 +14369,10 @@
     "10.0.0.0rc1": {
       "sha256": "a9f9ace76204bea001e76c5c3515900585d389db4529ab1debb2d9602db2139e",
       "url": "0e/a3/5902470e46d8efacc2ffd4f121c1080a9b0153fda1b4f8f3c7ad2b0a4b0c/openstack-congress-10.0.0.0rc1.tar.gz"
+    },
+    "11.0.0.0rc1": {
+      "sha256": "cd5aa254eb5d5d355d53b73b367e963fb17a2c40b6ce023dd2b981defb563b2a",
+      "url": "45/7e/5b49ccc2e548382cdaeca74bc2a55bd7e5cfb4d7ba013e97002dbacbd6fd/openstack-congress-11.0.0.0rc1.tar.gz"
     },
     "6.0.2": {
       "sha256": "3eeeeaceaa1b3960e58eb2f5ea4aae8c477ff9e785a05ab55e4cc253264c425e",

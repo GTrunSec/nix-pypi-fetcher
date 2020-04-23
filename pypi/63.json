@@ -1045,6 +1045,10 @@
     "0.1.1": {
       "sha256": "d7a7949f2879aee947a90c9b000a55ec2b1f2ee582b2c386b45f4a9dcda73833",
       "url": "04/c6/c696501a5e56f3c54c4ea3c63c669d71518dadf9efccb2b1673f32931d1c/arnoldpaperboy-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "9a7d911d2ac2849a1ea7c3a9406b24512c61597f411be22b5eb7d1c4190747dc",
+      "url": "cd/26/419e114a52a1929b2c692df88c2e7b623774aa788ebc0b4097caab8d924a/arnoldpaperboy-0.1.2.tar.gz"
     }
   },
   "arunnbaba2": {
@@ -5909,6 +5913,10 @@
     "0.1": {
       "sha256": "66f603637ae88ef73a7cf66e217dd2bfa02a0379b7af094e2eb5804f23ef36f1",
       "url": "21/35/ca31e9ed53dfc9eca4307560ff2c53041f0e4195b7e8a48149aae9d81a25/django-pistoke-0.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "a57436f78ae12a8b88cd929070403513bfbb7a5dac7599a71bffed070bea5366",
+      "url": "91/06/a7d469ebb287b826a941cc7ee25a14a57ec93312217b58b1f09f35b068db/django-pistoke-0.2.2.tar.gz"
     }
   },
   "django-restup": {
@@ -21112,6 +21120,10 @@
       "sha256": "03367f68546cc9dc75d7f82bf9fdcd2c27fb76e58b58158de488220cb6175f37",
       "url": "82/f8/d5bd9238391919a51019164103d5ad90010d5bb551eec49ff6d24c83d300/spectra_lexer-10.0.0.tar.gz"
     },
+    "11.0.0": {
+      "sha256": "ba78aca297945a8adef3cff9beb4f5a5e8bf4f776a5a261b72a04289b16dd323",
+      "url": "ea/71/ca529036222c8339cec6924ce7ccce444d3c57644a17e56554292fc92d63/spectra_lexer-11.0.0.tar.gz"
+    },
     "2.0.0": {
       "sha256": "143ded8aac402419b705c2b7469320133777962044c6672c9157a7774abb5d9b",
       "url": "2c/6e/a9aa3603f05673a87f93f13f5f594d9d708045d243bd14c946384c92efe4/spectra_lexer-2.0.0.tar.gz"
@@ -22209,6 +22221,10 @@
     "2.2.0a20200422": {
       "sha256": "f9af09c273a54c306bad9f42c82531f170203e7f6a0434f4fe593f8795be8d62",
       "url": "ed/ff/6cdb246cd9c848f6b7c9e47e24a6765de30eb4d520f626ac78428a05fd5b/tbp-nightly-2.2.0a20200422.tar.gz"
+    },
+    "2.2.0a20200423": {
+      "sha256": "d3a5137b24d765171ea25c33edee99472c245936b913731dbd829f3494f9b050",
+      "url": "32/7b/09a22aa9ed71e5d9754276a3a11a21cb027b746d04c94aed534d90a593b8/tbp-nightly-2.2.0a20200423.tar.gz"
     }
   },
   "tddmon": {
@@ -22933,6 +22949,10 @@
     "0.1.1": {
       "sha256": "ad9fa7741b5ff2917d2ea3c42ad7447c2d79ff07838cce53534896a69b4c2447",
       "url": "ac/45/d428d4ee780376759fed4fb43b7359cdb453c4e1f82a0ef5dbc5232d09e7/typenv-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "ccac168192ab5910c68cc8039f02090a93bfa9842f6ddb3f1af84ac58e7d9cbe",
+      "url": "68/02/3be6d2bd3f6653e56a82f06ff0c5d71a4fcf2491810c76d8e5ba41acda23/typenv-0.1.2.tar.gz"
     }
   },
   "typus": {

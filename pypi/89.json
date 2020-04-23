@@ -1447,6 +1447,30 @@
     "0.1.2": {
       "sha256": "7423272ad2644e3be94aa8e911ae725c5faa01ee0b3526b882b18117f236b7d5",
       "url": "98/cb/234e559628edac0c58bf06b481923642d8f8ce70aa40b2a3d0afe2be763f/astrodom-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "0aa975ea5b190ea977605d58ad8d6fa212bb6ed312666eb12ec3e38d1047f08a",
+      "url": "18/2c/58d5481f0ee5cc88c87bd90de28c28b9b2d0347fc2b41bc1289a5db8e8cf/astrodom-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "0e9158688afd07f880ca14c5c039885b4f331b615531ceb1069186990ef4ba5a",
+      "url": "e5/84/7e91135aee61e9077553ecbfdc7d65a0a265c57301607384313c99df3ada/astrodom-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "3943d8d5ba899534cf49594d04379d3616b80387327c7b2e5cfa340f9e480230",
+      "url": "1d/40/8d911f1c9bef45c9c509500633cc4f8f072e622afa86deda61e4c872fc83/astrodom-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "b40f0ff49df4df668ab2c2cd77a071d801fb8d1715feb36e61397de37aefc304",
+      "url": "b2/78/70061b3aa121b1844af9f13722480a67fe923fe32c2ccea84d554cce8d92/astrodom-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "72dd347f8454d2ea54bfb96c0c87e49020d6bd0809207742df88667018c8003f",
+      "url": "5e/cb/9c9095306b239cb195272ec76ea1ecf9d3b9917577c44191f18915bd6245/astrodom-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "25041f0b25931b35ac169d82cd65dbe39ad7c6764d7129fe69483311f504de60",
+      "url": "82/bc/9894656b5ad0d673643788a7a7000d2f7e2744a8d0fb105245a3f30e097e/astrodom-0.1.8.tar.gz"
     }
   },
   "asyncoss": {
@@ -2053,6 +2077,12 @@
     "0.1.6": {
       "sha256": "4dacc3b20248c94ff6c9bb0502c4678b4e2b0a3eba3b2ec8d13fa9543f144792",
       "url": "82/75/f70a70ae52b83f4828f7625ba4864958b5b9d800589629438ac7b5f169f9/betamax-yaml-serializer-0.1.6.tar.gz"
+    }
+  },
+  "biggu-pipeline": {
+    "v0.0.1": {
+      "sha256": "97f7016338d14810343129793bb957ef06b95b1540814e9cd2dd40c759ce6005",
+      "url": "c4/56/c2943abb3f6fc6a1a8afb82f4809f42743a7bd4c5832ddf475cc5ad561cf/biggu_pipeline-v0.0.1.tar.gz"
     }
   },
   "bing-web-search-api": {
@@ -9029,6 +9059,12 @@
       "url": "d9/4d/efaf9bb0a5271f1e51ad6a33ef7a359a4099500e314df5d8341b8a4b8824/jenkins_rapid-0.3.4.tar.gz"
     }
   },
+  "jia01": {
+    "0.0.1": {
+      "sha256": "1385ef5f45f7730701bf4c8fc347572a5fd05bea90dab67621c31584fea32667",
+      "url": "a7/98/f3f74082e6f151d2aab0e1b2cf1286bbb66c214be51406d5e6a6577e7039/jia01-0.0.1.tar.gz"
+    }
+  },
   "jiaqiscore": {
     "2.1.4": {
       "sha256": "41f51aee28cabd9db00957c99140db2bf271c4ab1659995eab412cf245f9b943",
@@ -10183,6 +10219,10 @@
     "0.1.4": {
       "sha256": "5b596fa5f6243caa05f2d571cff7de370b78f40348aa21468a85761a99ea3b2c",
       "url": "8e/16/e586f57436d0959d2b574b40c884f1be1b2523e1df6d952ed671a7c77136/luadata-0.1.4.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "a5340be20759c759ba327129281e69c0799090658fd25fa21e6e636e06968d09",
+      "url": "02/d7/de6a32c7741f43b063d6444fdef6e4a90bb0e7f0931c9d7f1fd5997d0cfe/luadata-0.1.7.tar.gz"
     }
   },
   "m9s-electronic-mail": {
@@ -12557,6 +12597,10 @@
     "1.4.0": {
       "sha256": "cf92cd17940f9e775c30614702f345e6fa488833041d6c85971077a9edf9343e",
       "url": "ee/cc/869f8bd85e63972f3873d82372a59f3408633f0634362af27e0a3aec3444/ntc_templates-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "d04f859f3db2abbb1b594b4507b14551ea5d1a7724b9f4f5843326c4277f5382",
+      "url": "ec/0e/5a7c453b9e743905c91dbd0fc4d0e62c7c2923c7cf0303b0a206d97e7500/ntc_templates-1.4.1.tar.gz"
     }
   },
   "ntfsutils": {
@@ -22843,6 +22887,240 @@
       "url": "ef/c4/a53cd009b17747becd610ae4a09ed3a471d63917eb72bcc32fedf5da172d/stonebear-0.7.1.tar.gz"
     }
   },
+  "storops": {
+    "0.0.15": {
+      "sha256": "1e36494b5c439c1721b21ac78ac192969ca5b152c196ceac63ac8538232c0ca3",
+      "url": "2e/df/d8f44015d9d6f5939d3bf0ac34a57ee086308a0426829628e24cced5a494/storops-0.0.15.zip"
+    },
+    "0.2.10": {
+      "sha256": "c1a42d960053e2c52fa89563e9568495583b7ce04c6e60bf6e87051243574dfa",
+      "url": "bd/82/0ea3e75dc812d2eb4ff403b6839857df918485c0d6e61e0fe61a1f562a32/storops-0.2.10.zip"
+    },
+    "0.2.13": {
+      "sha256": "2208975483b51952c3ef15952fce6ddd152084791624e8ddc801e8a51b6c34a3",
+      "url": "eb/9a/72e5f6793f8ad32514c81395e0d29d218026f90a61747e05df2e6831919c/storops-0.2.13.zip"
+    },
+    "0.2.14": {
+      "sha256": "01b3dfc3b0762f33d47d7c7a1666da6ccfa2fc5c088924c71131e426a2ce16fa",
+      "url": "e3/58/5e8b4e4b1c3a66057bef10f1c2db46a015a000c6e6fb87f31caab4a1bcd2/storops-0.2.14.zip"
+    },
+    "0.2.15": {
+      "sha256": "859c1844ddf77829717f785e937ab3acda0f61b9b0d8f5cc93d141cf8a926759",
+      "url": "1e/45/035e4cccfe5c773048f397bd4625eab4ac68e6f65f3614c12ef51615e9b4/storops-0.2.15.tar.gz"
+    },
+    "0.2.16": {
+      "sha256": "df21eadadbb0ba7644ab982b27b9a9f57b5d95617ad974afbc9afeca9f172c4b",
+      "url": "4f/52/858a3ba6efdeb534cc80f1f20b4ee5089ea4dab5f591dc89c79fe7e2ffda/storops-0.2.16.zip"
+    },
+    "0.2.17": {
+      "sha256": "e1a26351c7ff45ebf661db2425ba0b45bbdc3e66eb7b3fc132ae4fc3b9337538",
+      "url": "97/5a/3e5ec2f2c350718f8f921e2bb44377d3725790da0a480d27c71c29090d61/storops-0.2.17.zip"
+    },
+    "0.2.19": {
+      "sha256": "a2b40736a5af6804b18872294a0a697836911efb60d442c5b72b296a741b0b0d",
+      "url": "aa/73/dfffc002abe350dafd6c6091f4f9f96c0069566fb71358e04f7434ff1cdf/storops-0.2.19.zip"
+    },
+    "0.2.20": {
+      "sha256": "35d9b9cbd91c4de5e22483e5bde9719e8e6496d4a8c26720d42587974cbfa871",
+      "url": "84/00/539dbb31835815a684766cf9742118d4e3e05674eb59f79dad7ac1e6ad3d/storops-0.2.20.zip"
+    },
+    "0.2.21": {
+      "sha256": "96dd20b013e5f22f8ee8eaf9e235b4202df4cdf10198eb39c2b7af2843bbc65d",
+      "url": "48/25/a06e24d9a2e03af17ed30ab4cfc0d076742a0e438522c8ce03b003cbd07c/storops-0.2.21.zip"
+    },
+    "0.2.22": {
+      "sha256": "7c6285c43f223996734cbb2d5456999c999485fdcade6d055a70ef38497410b7",
+      "url": "ad/ce/dd4f8d811395a2b922b0ee08eeda35a6f13fbe70c84a84c44ff6f467e8af/storops-0.2.22.zip"
+    },
+    "0.2.23": {
+      "sha256": "c0ca97a23b443869c5e2041aa1c9df825782db12936f723373b7dc45710362da",
+      "url": "e2/8f/d55e2724a223b1779ec23d1e66bb1007353a596c87823002ccd664101d80/storops-0.2.23.zip"
+    },
+    "0.2.24": {
+      "sha256": "5f95d997075d76fa50bb9ae7a45b1634b1283cf5f46a3f073c61a436136bd55e",
+      "url": "27/51/504feb32d4b22cedb69d9fec4b9e8b4ac03a730c1b0a7dd411521cde6b24/storops-0.2.24.zip"
+    },
+    "0.2.25": {
+      "sha256": "d4397cdf1458fcf30ea244eb48004ceb3f368c231367d023f799c0a679021e9e",
+      "url": "50/c7/ddfb9713f54770242719b806192d44e84ed7ca3a1ebc285c1ecef08891bf/storops-0.2.25.zip"
+    },
+    "0.2.7": {
+      "sha256": "fd4b01ee6b39f7f097bf674f7206c367458267aebf8798c8cacfe49def668ea5",
+      "url": "d9/9e/3601ae98633a86b1b978f187a2f0a462b1a3bac424b28ebcc8847e708056/storops-0.2.7.zip"
+    },
+    "0.2.8": {
+      "sha256": "c5af816a059c2a222a67071715b858489e6b06b9e6353dce545afc904abc310e",
+      "url": "b9/ee/a953918977b0e8674f3184b8618510298c7aa3e772d0cff653f3e28e7ccc/storops-0.2.8.zip"
+    },
+    "0.2.9": {
+      "sha256": "7d933b40dbc25d4a0aa26213c69868b0f864370a83c3f8ebac5c9795c22b9643",
+      "url": "eb/df/7578a073a21f681894e7ff12cc8fb2de25a611915b73d47714bcd0aa0ec7/storops-0.2.9.zip"
+    },
+    "0.3.0": {
+      "sha256": "0dfb474291c9489087085aec47d02feae5f91e03742da2360243255d26603562",
+      "url": "a0/44/ef2a6a2a0966e67099e6c3945afb7957de1bcc776c26a468471c18c3128d/storops-0.3.0.zip"
+    },
+    "0.4.0": {
+      "sha256": "f9ded15c11a391129ddea6687c157d417f0a1b1348ae8f3d8a378c54a2f9c4db",
+      "url": "4f/e9/e4b2da2216a65d5a543bdac65979d551a16eedaa67e788a7587fd16390f1/storops-0.4.0.zip"
+    },
+    "0.4.1": {
+      "sha256": "e18c9159096d95f6b0397102533339b359dd5a40e22e31e21d9125a0b902cd3a",
+      "url": "39/74/8a27c20cd76c7dd0cfabe5e048c61f597011f53779c0e08dcfb6f1691da1/storops-0.4.1.zip"
+    },
+    "0.4.10": {
+      "sha256": "a523c6ed120c11b6c909d85384fce64242306787b8fb0b7621272c459774818e",
+      "url": "04/94/b52b16bbd8f01b84b83f2e2f88af88a9eb62036e97e11ea25af2dfc93b0d/storops-0.4.10.tar.gz"
+    },
+    "0.4.11": {
+      "sha256": "e997c86e2a2eb0f395642be0589a334360edc2f9694ea0d8e652bff7afc373f1",
+      "url": "8e/d2/70e442c7a99d8e7f0d6fe2f205e272a3dc1277ddeafe6e8d9faee0a868fe/storops-0.4.11.tar.gz"
+    },
+    "0.4.12": {
+      "sha256": "ce38cc47a75565b4c5b06c1ac2be43574b878237bacb13a0e515a65f56495d52",
+      "url": "52/02/b97d9b87f68a73f21e72c129dbbb63074663faac88f6f48a242339a1ab3e/storops-0.4.12.tar.gz"
+    },
+    "0.4.13": {
+      "sha256": "e8430fd577bcc9ffa008190ca6110dd59cb3717b7c1702463bcbb7b2dbc10962",
+      "url": "3f/0a/fde544f13f280d364c533fb9d882c8ab861adfaa7dae377b4a737f03a8b8/storops-0.4.13.tar.gz"
+    },
+    "0.4.14": {
+      "sha256": "51c7b92ae007a2cb946974970a006e8a66c9adead12229c890d0a67a53096ebe",
+      "url": "f1/24/73bc0e6dbe255498fd9ef4cda9659825ce0ebdab6d5f4ad67ded0791993f/storops-0.4.14.tar.gz"
+    },
+    "0.4.15": {
+      "sha256": "4382726845a8fb3e32ceb47cf2cef899a1ffeec4a0f24d6c2a5c7efd534f9829",
+      "url": "0a/61/bbbf25f22d721c450db1958e8780e3ddc3d3e418b51e4213f6dff8c5c8d9/storops-0.4.15.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "5f270c843febb6c53060db9045ca5ba4fb80ea216bc5ee72a9ffad758afc7466",
+      "url": "b8/14/8f18285b22f4f68758a838deb0c9bf5cf36abfd27092012332f0fe4605da/storops-0.4.2.zip"
+    },
+    "0.4.3": {
+      "sha256": "644ef65bd1ed75165783eda74b5716056171100f46464d9cd9433147ce1b9e7f",
+      "url": "82/ca/e1d37010dfef0645681701814baef8d321f9a774a9e0e710884588715123/storops-0.4.3.zip"
+    },
+    "0.4.4": {
+      "sha256": "6a6935286d1a9525cdfcc812c2e0089ab158b8829c200f39a801f9988e3523c4",
+      "url": "0f/6d/a500ca138b6c872f4e72029b31a29f96db33b0cc31656ce945673e1503e0/storops-0.4.4.zip"
+    },
+    "0.4.6": {
+      "sha256": "61a5f3ef92a1f0b43165356eef61cdfb6a22ce2e307d75b0eee28e2f28a1d445",
+      "url": "13/3e/d70ae04e6df039f97f9df11da3d9e4d2eadc56b82660c0dc1e8f2abc9d1b/storops-0.4.6.zip"
+    },
+    "0.4.7": {
+      "sha256": "fe540c8f86717cbeeb166038fcba794548ea345df95ddd4232900dc340027ae8",
+      "url": "f3/c3/760ad7e296e21d5d226afbb5b1fc11764c2d45ecc207d270287a35a8f26d/storops-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "dbbeb10a3684dfbfedc5100603f9c07fbb9c80bb9059cb4d5d72b34052bcb86f",
+      "url": "19/3e/8f23efd6509aed28029e65c5b67ac720e0fc856ca0762e43ad78a01cb02a/storops-0.4.8.tar.gz"
+    },
+    "0.4.9": {
+      "sha256": "5613bf9248bfa549b883f8d3884e0597ea673975ee14a2cd5e9667c28970a0c3",
+      "url": "30/b5/f7bb5b92667e0a87543253fcf4a38e3789af43eae391d880cdc4de1b0481/storops-0.4.9.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "cfed0a397878d8e382743e7a7f1d8f17c4c3faed3e633d5e723c6771312a2952",
+      "url": "3c/9d/f553eb808f485c2e7a4cb22ded8070e3135d36b963bf7dfb5f37584f81ae/storops-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "3424a4c59bbcac2ff5904e87b18559cea77e96352ba46d58b87842ef5f8b0e2b",
+      "url": "ee/01/b77d97e7107e746d28ef4aaaca25cbe3f5da21a12117cd3c710eda9e1a88/storops-0.5.1.tar.gz"
+    },
+    "0.5.10": {
+      "sha256": "064d08141e5dd55ce96b85fdd6e6572abdb64974305c940fcf2b128108c71055",
+      "url": "7c/58/9ea69ac23f779e984fe05a209490d55f30baf987d3568d419e4cbee1ed07/storops-0.5.10.tar.gz"
+    },
+    "0.5.11": {
+      "sha256": "4eec05aeb8fc352d18ff656cc2438c522ce2cb3741b31a695e62c3cb981074f8",
+      "url": "06/b5/6c8e65709517fc3df263abb5dec383cfbd26eeeeff51ee030ee00dec5a44/storops-0.5.11.tar.gz"
+    },
+    "0.5.12": {
+      "sha256": "252a266782274395be536a895f6f76dfd832f412ce6fdb7ed128f49e5aa97dda",
+      "url": "c5/ba/df2c6b861561298884dc0b0de3b5164d53618ba9607a04ecc1e4cae17954/storops-0.5.12.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "42fc187a1083ba42760150a01587d41e56b44014c75db670e43cb1686ac51789",
+      "url": "53/d4/929a89a5e6c986784f215d005eede70968e68bef125e08db564a8569603c/storops-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "42965392db0320977f0b1214c8031d517e0705a32bfb83144036613af976b67f",
+      "url": "ad/38/9ec919956aaab762d4a72ec1542b731f3d6b1286392c0d55e108c2d1a3fc/storops-0.5.3.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "f8356242ae900c955c8dd6e466dc98c4be81dcfaa5167d26df7525621ff5f672",
+      "url": "39/31/c574e8ade62995680c86c9744e34d117eff99323d2486e42c267fda379d5/storops-0.5.4.tar.gz"
+    },
+    "0.5.5": {
+      "sha256": "3729cf88df23bb3cba3dde7d2d576144fb8c467638e7d3c8de58b5e11c357d0e",
+      "url": "8e/19/983adb7c394520cf3823ece93076c1ce7862b98ac1befd0f34366e79367b/storops-0.5.5.tar.gz"
+    },
+    "0.5.6": {
+      "sha256": "24cf67c5b48dbfb12c63aad2064201ea40131c19b9efe421e164d0f6f43233d6",
+      "url": "3d/31/2050acfb4f2d46e38a8f5b866544ac76dad39f3f43da6ef25a58b85fb26c/storops-0.5.6.tar.gz"
+    },
+    "0.5.7": {
+      "sha256": "3d66a727074fd977f62212e551c75165cc76ca5480e4121a6b983de85d42b6a7",
+      "url": "2d/19/a681d4a27014833ea8239cd0cc48bf81d6f849746487296087f23583f6d7/storops-0.5.7.tar.gz"
+    },
+    "0.5.8": {
+      "sha256": "78f742b8251f750ff8ada04d9b5e938f37fa62f9de4c9c289723e3828117b583",
+      "url": "e6/00/c2546cacb3daf1938e0d8b3e113ecd4f964d833cf295852c36a4a29ad91e/storops-0.5.8.tar.gz"
+    },
+    "0.5.9": {
+      "sha256": "188fa20f176db071cdda661a2f5e7681f4cf45fc6228e2a9f5405cce48142abe",
+      "url": "05/db/6eeaab97557ffef41aae8186fa88746209e4e7934527465cf5149a993b0e/storops-0.5.9.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "2873ba618fa05cdf68d1dbb4755bd15c3d160fc55b32b6132eb3e94b3e25effe",
+      "url": "10/2b/682743cf71b7b0552117d4622a3e19831e462bca787dd46e926c8a334452/storops-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "e40030d00a23cb17cec0bc1bad168c34d2b36f65b89490bf27ffccaa7ee6dc95",
+      "url": "f6/46/b9775ca34eb6492badc2750dddcfb9ea7813d7bc84045b4a13289b397e76/storops-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "d7d44b0a9dead1b87c0e0ee4590d51fd75a67db1470661a9b3b6b403ba955698",
+      "url": "74/cb/30443d05f9f311589ab52ef0285a11897291e17930600c2a98779ace2d10/storops-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "252e4009cb11dd252f6a06ab7ce5246dadf23356f19bdafccde0fb336f90b441",
+      "url": "d9/18/59ac72e25d60901bab5ea94492f561b25a633977e9424c867ca3ae650661/storops-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "999a9291eede5dc69d5f5cc8fd153cfc4ae4a768f03a202c6b5e0700c74eb17a",
+      "url": "79/e5/4f2a88d5f11e75c49a6b85c237d7c5684b36e9616ce85e533573eb555a7a/storops-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "aacbf00d687e66dbd52a720b4847093cc341cd20d5bc8f22c7e98a401a31f2e5",
+      "url": "e7/fa/008944f2569d7cd13cf39df0ea883386c02ec7639dd40baec120993267ac/storops-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "0b4cbc92ca6587c56885f5fa28870b5a3d0c5b1b340ba526a168aa79ce144fa3",
+      "url": "51/f2/dcc377b9620180e29e9c60ab97e6712411e202ea548a9506454271a1edea/storops-1.2.3.tar.gz"
+    },
+    "1.2.3.dev1": {
+      "sha256": "e10c11ebe853a4a1367755daf119dd377890fcc910829bb67c1fa0904769f8a1",
+      "url": "9b/52/572c93f868131d85ac1d7be94c77e9dec32f63c7d10c6a04458e45982461/storops-1.2.3.dev1.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "b5d613c1fedd6fa41f23964dc5f9a32eaa4b1e9cc5202f1c2a3e287f60f64980",
+      "url": "cb/c5/848a9e0cdf782fe8c71420faeb49666e79780f39d1295d52999d3153b0c0/storops-1.2.4.tar.gz"
+    },
+    "1.2.5.dev1": {
+      "sha256": "9f03acd2a406579f15eee5f8ab02e797d601031cf3a7e5e541ff6174705d84ff",
+      "url": "8e/44/d8ec94ff19c5db14e4e692a902726890c148d54e9bc055342cf6dc5d0da6/storops-1.2.5.dev1.tar.gz"
+    },
+    "1.2.5.dev2": {
+      "sha256": "3232cf4d947966ca5f6bd704df1cc6e51b6e763ea1206bad58d3efef9057482f",
+      "url": "2b/49/c7b6df318c5676483a4cf320fab5c0d5b5c66166fe98833adf4995906c1f/storops-1.2.5.dev2.tar.gz"
+    },
+    "1.2.5.dev3": {
+      "sha256": "2f616ae2a2da96f015c7e92f1a2f7a3168163ed05811406292ca8355b55c1b9b",
+      "url": "ca/d4/871cc121fcdad9c74d92ff8ce63985af00616e95de0f1b5a9125d16b529c/storops-1.2.5.dev3.tar.gz"
+    }
+  },
   "strategypy": {
     "0.2.0": {
       "sha256": "53835dd9bc20cb9bd470bdd39b40b1c69648f5bacaa4e4843ed0619bfc64e89f",
@@ -26875,6 +27153,10 @@
     "0.3.40": {
       "sha256": "5aff91268feed87e054f5f49fffbe6dbd23503e58a00274612a794284bab8816",
       "url": "cf/58/4a196806dc0cc3b1c49675a07d5c3c64bf9210aa7b3013a5929b638a29f5/ybt-0.3.40.tar.gz"
+    },
+    "0.3.41": {
+      "sha256": "8610111fec276848f5eb12e3e093803d5d71779844b33e6be6f1b292d39f62ef",
+      "url": "27/f0/e3fdc128aad083b040e56a6d72eae472bbcf0c60120e493ab216e7a635f6/ybt-0.3.41.tar.gz"
     },
     "0.3.5": {
       "sha256": "1e556f5e406d06f63939006f94cad1c618b48a58db51cd9df1439e5824d11481",

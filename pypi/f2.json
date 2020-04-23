@@ -26,102 +26,6 @@
     }
   },
   "ada-sdk": {
-    "1.0": {
-      "sha256": "2702c8bc3c6dc656c7f4900d514e8f2b1110dcec0dead11102eab354d9f895f9",
-      "url": "ed/60/30296720242f161980c33b2522db4e212fda075ed639f7f1ec5d25a913e3/ADA-sdk-1.0.tar.gz"
-    },
-    "1.1": {
-      "sha256": "2a2d722d6721018aee9285d4ea065f7e6de7e194033de092b97fceca2ee4a627",
-      "url": "3b/5c/14f8b61fed2854992ea17d95838bdda8178affb8f3b9dcda0ef417936ffc/ADA-sdk-1.1.tar.gz"
-    },
-    "1.10": {
-      "sha256": "db5ca8ab49fe4ec8842d374038e63c404b15c8d7d119f7a0c067b27328c17370",
-      "url": "16/33/aec5d7e31a6e41833132604a86271a52d56f90c2c8b63fb204dd0e85da86/ADA-sdk-1.10.tar.gz"
-    },
-    "1.11": {
-      "sha256": "3afec392d98321f0619bd9863e01d95f6240d5e8253de3e436e9a70722e20fd4",
-      "url": "70/f0/29fda7d30adac5916d017c928e9e809a458b9500a52fa6ab95ce1ac80f22/ADA-sdk-1.11.tar.gz"
-    },
-    "1.12": {
-      "sha256": "25360386fb1597f75e793a7df1d9c8a0d12abf55dda7801b6613aa3beae058b3",
-      "url": "94/cd/fc69ce0478b813c3329597be339df34bf0441b74744ddde01326144fcc5b/ADA-sdk-1.12.tar.gz"
-    },
-    "1.13": {
-      "sha256": "927010a09dd5de2d41d424dcd33353d96e7e9c619cdda0650897c8da7dbdac27",
-      "url": "00/9f/c6c605a23c7869e878de841912b9c3c5394457a21422b0dadbfd27b31bd9/ADA-sdk-1.13.tar.gz"
-    },
-    "1.14": {
-      "sha256": "80041a911b7e4c8dffc97512ff0db5d07e1bd1b1d825dede20456b9450c19603",
-      "url": "df/36/14ee3721d4af5bd0cb5bd63150f28520b1f7232057fd23ae45291ced3e95/ADA-sdk-1.14.tar.gz"
-    },
-    "1.15": {
-      "sha256": "4ffc845128ba9e37a98ecd028f7f235830999d3a984486f3cb8e5bb7a613289f",
-      "url": "e7/77/9e83a3f72a49b2cf3a942773f22faef7b3f663c73ab6a6ba2e7f36dbdd61/ADA-sdk-1.15.tar.gz"
-    },
-    "1.16": {
-      "sha256": "f454188d4fa3561d1670264928ac949f1b8691acd89ca10a0a8f09a4ed819277",
-      "url": "09/58/9867c85d08623e00b90f5b003fec4f0ad4ad4c7bc6d21598ad532b0ae09e/ADA-sdk-1.16.tar.gz"
-    },
-    "1.2": {
-      "sha256": "bd073e11b134210594ab87c1d7198a5e339508b7c9d71fc24bed2ddcca63bee6",
-      "url": "03/83/bf69b3696911c1f895bbbd8ac597a37281dc96576b34f82cbd4981417174/ADA-sdk-1.2.tar.gz"
-    },
-    "1.3": {
-      "sha256": "ac1f423e3dcf29ddbcdf1165484791de02a2bb75b5914bf426180bcc65d5de97",
-      "url": "a6/38/675069d814bd6a338f99f4748702ad71e04b51524c89e4ea8ac475a17315/ADA-sdk-1.3.tar.gz"
-    },
-    "1.4": {
-      "sha256": "dec74bb92359031ee92903fda6a8e819fbf1a2c0192e74c9943eff3bc4f9af84",
-      "url": "de/a0/cd6dc447283ebd1f59b6185837a089ce2bb23e460be7fd00ef69c322fc59/ADA-sdk-1.4.tar.gz"
-    },
-    "1.5": {
-      "sha256": "1f0c86ac6b6a20f76bdc76c55ce81b6f4d36679379c035d6b913b0fef9a3a73e",
-      "url": "b5/d2/fe40578d92f310f1a9a1fc2aa6a02a3d6db6ac8a93f258ebdf8772f8b045/ADA-sdk-1.5.tar.gz"
-    },
-    "1.6": {
-      "sha256": "266fdff6912411506270f2ba639b921e294245198d7f1515b1d43a027d91318e",
-      "url": "47/2a/5032165ca67f5c62b14572bf4bcbfcf5c50a45398d0e7768c6c9e6aba6c1/ADA-sdk-1.6.tar.gz"
-    },
-    "1.7": {
-      "sha256": "128cb08a8f4bfb14937da20a62dc4ac34e294aac1d76dc3edcc19a0c744c9a4f",
-      "url": "6e/73/69b2ad2cf71ca2af3ddd999296f96f7125d067767dd6e6080b5d101fefb9/ADA-sdk-1.7.tar.gz"
-    },
-    "1.8": {
-      "sha256": "61c120b1ced87aed297606a0377294fe4f0bf3405036a2d69538ce06b8a7b64a",
-      "url": "68/32/c479a3c44c050c16f710be4fa8ec5766bbc48ea1cf18d580efa81e24c7a7/ADA-sdk-1.8.tar.gz"
-    },
-    "1.9": {
-      "sha256": "d60eeb89b8cff6f7b933988cd406379c77f5c29085dfb8b6b1fc03314065bc47",
-      "url": "cd/9c/2aff945b6460815ad754b0fbe1dd88695370d4ec34b78fcee0a6ae829061/ADA-sdk-1.9.tar.gz"
-    },
-    "2.0": {
-      "sha256": "806766262e86ba6e18bbd1c0fba2fcae9a55629d9e54020e9255d8a70c5785b1",
-      "url": "51/41/5f57794ef82bb8b1bcc58bec7bea42281d148b3aad788200d0fd1d1b7046/ADA-sdk-2.0.tar.gz"
-    },
-    "2.1": {
-      "sha256": "9ee081985e390651a8310ac47d62ee8085030e46b81c908508e3b82e55aa652e",
-      "url": "70/af/151f5007edc33dd1d7c4aa0684353685665871cdff662f4af89269d1e53b/ADA-sdk-2.1.tar.gz"
-    },
-    "2.2": {
-      "sha256": "68d4581e25d5f800ec4ad0a7a32ba1954cf040971b08c69382e83c36af11d434",
-      "url": "e7/5b/b38402a647d22d712ada904f8c99a5f1c04cec662becaf6e5cc0eeefbdb4/ADA-sdk-2.2.tar.gz"
-    },
-    "2.3": {
-      "sha256": "32a71fe847f5bc5478dbeadd0c359141e48d5db9112dee479c3f53d8b7abc790",
-      "url": "fa/ef/b5812425eb3856b3432d611d4b92de8a412ea862a3334f5348aac9c78cfd/ADA-sdk-2.3.tar.gz"
-    },
-    "2.4": {
-      "sha256": "c7a90864870f8275fb5b9912ff28210ac3ba71a3980c1eea7c5770e770d5b3ec",
-      "url": "a3/bc/a518fce545896039d7bd0841c00a42963795a345b59094ddd1993b3bdf32/ADA-sdk-2.4.tar.gz"
-    },
-    "2.5": {
-      "sha256": "1f4e117f5e6e89c3460ee96c4191ad3b0c33a4c334594e8b9dc8c77842057ecc",
-      "url": "aa/e7/2e772d5569edb41d76d89034c3a4e965041044d8eaaeacd47122eb24a0c0/ADA-sdk-2.5.tar.gz"
-    },
-    "2.6": {
-      "sha256": "e6e166272f3121108e509768f545aa6acc33eb3e7b1523e55495f83d6e41998b",
-      "url": "e4/a3/549536cf767a4bc4ee95a6c26765d30f497369340b9e22930589b653fe0a/ADA-sdk-2.6.tar.gz"
-    },
     "2.8": {
       "sha256": "2db9648f591a6b5f0e13409634088115d57270dee8c8edd8f567a72239249383",
       "url": "3b/f6/05c882d4facda2da3685a67e47a78e7f4aaee819b944431a59a4c37fb946/ADA-sdk-2.8.tar.gz"
@@ -8977,6 +8881,10 @@
     "0.2.0": {
       "sha256": "f34fd95d5758ff956e4fe9a92e6357f880b8a717134043bbdda87654bd4cf414",
       "url": "9b/0b/ba88e4c7e30138f9aacc679ade8cdd216aa195622c59c0b34eb7bd598af0/Flask-Board-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "9071c6d001b6ef2e317e591ccd464f50be2041f044d29873f45715549a91b8e8",
+      "url": "cc/96/d66c2b9bd94a592ebaf8678c12837eea70294ac845df1b501204a798d23e/Flask-Board-0.2.1.tar.gz"
     }
   },
   "flask-flaskwork": {
@@ -15355,6 +15263,10 @@
     "0.1.0a1.dev1587519585": {
       "sha256": "bd2bcf6e213bcb88309704cb1648419f4f625eca8109cafe18c54cc49bc00af2",
       "url": "cd/2e/d477ac4fd523ad0a5139b250c4759d5852b74320d6eac8d885d2473e0ef6/pulp_npm-client-0.1.0a1.dev1587519585.tar.gz"
+    },
+    "0.1.0a1.dev1587606102": {
+      "sha256": "ff94c8fc1fe1c25aa8cc9d4396899e94c35564ca2c646fa5cc28c39861238e24",
+      "url": "b4/76/544b1573b3c6d50dd10da82b5ca1a1e2274adae96433ad0af9585ddf4b53/pulp_npm-client-0.1.0a1.dev1587606102.tar.gz"
     }
   },
   "pulumi-azuread": {
@@ -16753,6 +16665,10 @@
     "0.1": {
       "sha256": "1ad13f7aeefe1d10a4ccae7adeb0368d7c9eb5b1faaf761a384a3cf2de6ea852",
       "url": "d9/95/14db64e99d0cde2904edc6bea910ffbb6b21bf288bb4e258e5cea726f4c5/pyterum-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "d266911e5092b0de3b5edc98c8def60c9d654e70d97c2642863fc69e5fe834fe",
+      "url": "4c/7e/05cfe41d1821a2c57a3afed3c2318524767a2d29620cd628b713f00ecaf1/pyterum-0.2.tar.gz"
     }
   },
   "pytest-curl-report": {

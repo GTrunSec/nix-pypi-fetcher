@@ -5330,14 +5330,6 @@
     }
   },
   "dleamse": {
-    "0.1.6": {
-      "sha256": "ad2f9e107ff670caa1b8333f729585a312039fce8ae768f929299d7b28b880aa",
-      "url": "36/25/29dd4e0ab8bfd7878dfdc0213bb6173e5c2297a694eec97a69232bc3915f/dleamse-0.1.6.tar.gz"
-    },
-    "0.1.7": {
-      "sha256": "f607009e41470431bd3c8e1caf721dd2b7056f4be9f8e722bc54fc9d56f25670",
-      "url": "83/6e/e971157ab555821eaba1266cf1db98e4440bfc6736e44385753eaefc4189/dleamse-0.1.7.tar.gz"
-    },
     "0.1.8": {
       "sha256": "a86e2cab3628d1fab964174af2ae4e21a3a776f313b21f3f0ec6818c9581f1f8",
       "url": "6f/db/9854274d3d0933923e8b5ce93fe88262826727ff5cd174f4cd091d1c7885/dleamse-0.1.8.tar.gz"
@@ -5393,6 +5385,10 @@
     "0.3.2": {
       "sha256": "8133911a19e77b264d286f3ab9f7993cce29493fc98aeffa5a9e7ab5d09f5f10",
       "url": "e3/c4/66df0e1f598dc468bbddfbf85ae82d39866e523cee22c8426db3f6f7140a/dleamse-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "f6e04202c7c0b9805029ec4e081960da6ce225a658a691d71a2b0fe4a16cbbd0",
+      "url": "bc/f3/0208e4273e8865cc782194742a137e570f63b4bc023aff2ae712fec0c4f7/dleamse-0.3.3.tar.gz"
     }
   },
   "docker-host-ip": {
@@ -13657,6 +13653,12 @@
     "0.2.1": {
       "sha256": "94b2f0c68290a1a47c482cd8bb0d221c76d951bce51f0b13c31b003c0a4f3916",
       "url": "68/0f/242bb447446441ea783a0632ba8315dbc35f9aa9bc10dd88d059e76912a6/pdat-0.2.1.tar.gz"
+    }
+  },
+  "pds.deeparchive": {
+    "0.0.1": {
+      "sha256": "78419988ed0f828596e3d481f8a39f5f7040367387fc2d92dd2091d9b05e4fd5",
+      "url": "94/42/cddebbd28053881e27f100ed4e2209b0730614af57a853fa7fb027107af7/pds.deeparchive-0.0.1.tar.gz"
     }
   },
   "pdsavails": {

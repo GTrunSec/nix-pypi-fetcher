@@ -6265,6 +6265,10 @@
     "0.8.4": {
       "sha256": "bf42daeb26cbb63435996acc0db1d8d6907c3e7546a124a85e882130a07860d9",
       "url": "be/75/99426fe7740382db46283eafdf863af069f394a6d7aeff76e1a37db2f89d/django-restql-0.8.4.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "5a91996d9cdb6cd6e060aaa9d7defe6c06375bb30ae3aba4e6f12068bbfc6e86",
+      "url": "d6/12/a4028118990f83fb21036f3a2988386551c5c449f069cbcc5ac083d42bfe/django-restql-0.9.0.tar.gz"
     }
   },
   "django-sencha": {

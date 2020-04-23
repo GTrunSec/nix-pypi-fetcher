@@ -3167,6 +3167,10 @@
     "1.1.1": {
       "sha256": "fe4c996f13702dc3d3c8e93d5832bf0c0d7f6bc455067f3b7be7a6b978f44a57",
       "url": "04/34/bca6e4688a89f960992974e1fe3db4a544211783927c9a246ce992e5b7cb/comicom-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "28e961071d9ff7a0f4bc3cd83b5f11fbacfd32899b2694a0a3c62707d099b918",
+      "url": "d7/25/c0b6a619754d7db15a394988ef0c9dccd87a686ae521b82299e0b62f4a41/comicom-1.1.2.tar.gz"
     }
   },
   "confidential": {
@@ -10431,6 +10435,10 @@
     "20.4.22.1": {
       "sha256": "296d2ad5969b76b2a9955dd00a9a0ed09c1605303cd8da979f2ad0e933aa5e13",
       "url": "f5/25/5b040b0c580ffffe7de0ccc3cd1aa6761610cd65aa1585cafd314bc9c414/lino_react-20.4.22.1.tar.gz"
+    },
+    "20.4.23": {
+      "sha256": "d35b2769a271192479794068dfe65406c62eeca3749a5f4daa89fe5cb527286a",
+      "url": "12/00/3ab1ab85300ce1ec897d3a6043ff8fcac0e85d179faa77776ba7015fa632/lino_react-20.4.23.tar.gz"
     }
   },
   "little-brother-taskbar": {

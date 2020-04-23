@@ -18,6 +18,10 @@
     }
   },
   "aa-standingsrequests": {
+    "0.4.0": {
+      "sha256": "ba897874aaf64ff3d28b37339f58dd51d8b0b5420a7fdf0880ae457dcce598fb",
+      "url": "31/af/cf9640a7e83023a01db274828995381c6753f025a98f981175a335b2fea5/aa-standingsrequests-0.4.0.tar.gz"
+    },
     "0.4.0a3": {
       "sha256": "aa1c90061a42c768697f4e6e132896348d9a6290c4ed6bd17ed8bb0b7b6a5e7f",
       "url": "22/98/9b9b19e6e4b8b507bb67eb2ab080f2a7e8cd8966c139c42b5c9601895393/aa-standingsrequests-0.4.0a3.tar.gz"
@@ -16559,6 +16563,10 @@
     "0.8.7": {
       "sha256": "74bdf2a1b40d9ae73e41ed1b69d2c9be53c43f31d77be8d37f8340211ce2abe8",
       "url": "98/d7/3b0a66704b8293f4ddceeac77b8f897ea009264f3a9bcad0fb8c8bb198c6/libra-core-0.8.7.tar.gz"
+    },
+    "0.8.8": {
+      "sha256": "01216f02b53fd8f07f7e2dbe42e88753379ebdc272423d96dbd579d7c6ac8f56",
+      "url": "f5/93/87e41ad0ddc48d954ba1795d64f9f1af8216f5c7c6e5a1fc71a3d5c6e386/libra-core-0.8.8.tar.gz"
     }
   },
   "lighting-baseline": {
@@ -17711,6 +17719,10 @@
     "1.0.2": {
       "sha256": "e0a4a10a6afea6148c0125e14231d04087e19e0bfe93e21d304e2cfef2d6c4da",
       "url": "c8/33/567fae2da481720b1abfeee656d8d5dccd258e3e4b328d37759024d8e053/mesher-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "d757e99c6f5f4edec1ae18159c30ac72fa1b30a330c8487fc981f9c967654677",
+      "url": "46/67/9529d3b20248d3724aa2ae027b1a013a36c7e33bb51de875eb665aa26016/mesher-1.0.3.tar.gz"
     }
   },
   "metanetx-sdk": {

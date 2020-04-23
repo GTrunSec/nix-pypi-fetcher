@@ -12633,6 +12633,10 @@
     "0.2.9": {
       "sha256": "2808b5406200e285353d856b1197832cd98b893fffbe372ee2942e956420f8d9",
       "url": "bd/ad/aa7f2c7343506e17f61f2c4223dc912d4f099fdcc3e1736f393c9c31e118/moleculekit-0.2.9.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "965622f85f404911f1ae8c2400e9350fc5706ff5017c0938144ce995397399b0",
+      "url": "9d/1e/99ffa0d73766a735c3e91d591c92537e37b0024cd9b1d745c4e5933563c1/moleculekit-0.3.0.tar.gz"
     }
   },
   "mondrian": {
@@ -19627,6 +19631,10 @@
     "1.0.0": {
       "sha256": "d0a31f14fc7817ad86bf23b8e4d135d3029906fe73637d3e1c8e8b3fec3536db",
       "url": "af/da/3b7fbf50cfc9aa3e0c99229017b59d1e577e5621913e72fb1350b92d1fe6/stackhead-project_validator-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "0c3b195cea6de153a84a00218a176d7284c92096bfb31580881b4f78f12b632c",
+      "url": "dc/96/815637e989bd3f18223a27ed755b407b2a5a7e273dee5f03b9942a3b7f96/stackhead-project_validator-1.0.1.tar.gz"
     }
   },
   "stateflow": {

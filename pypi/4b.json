@@ -2047,6 +2047,14 @@
     "1.0.3": {
       "sha256": "3053f94e2ef442b37c76308a8d91e199f165c7c9d311770d7052781b37a66ac1",
       "url": "77/dd/a5538eaab3682ad7b91c4b8be7b74ed505f04449821f1fd124ddf662cf06/cerner_rca_packages-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "72ba1a72daef9839e6e6811d87127c21cc78da0b4aad12ba4003802e2c18bee4",
+      "url": "40/d2/d83cf0c1515b53778f7401173f3a164d498801ccf803c4a59424dadba8ee/cerner_rca_packages-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "fcc474cfb6d334c1d4ca407b5fb933e04e2049ce42958f4fb8b70b9f8e830bcb",
+      "url": "16/59/37c99235c2eaf604d0a43ea58d1b6178e795974ed282d99418b4c492e5a6/cerner_rca_packages-1.0.5.tar.gz"
     }
   },
   "certidude": {
@@ -7083,6 +7091,10 @@
     "1.612.0": {
       "sha256": "70798a61436a2ca392d444c1e181c41690b2730d8e3dc4724d3be473f822a341",
       "url": "c7/7e/c9fb83f04b9afc2635ec990f001358d5ed7e12c560d4aaa85e2153af300d/gardener-cicd-base-1.612.0.tar.gz"
+    },
+    "1.613.0": {
+      "sha256": "a4ed8b7de343bad477f2beca149781cd15ece017b87372faac5424133b534b97",
+      "url": "84/de/bc10174cee0dda1098dcf5b6889258e20f3e05390da5358ebb0fbe7fcfe9/gardener-cicd-base-1.613.0.tar.gz"
     }
   },
   "gcdt-bundler": {
@@ -25539,6 +25551,16 @@
     "1.0.0": {
       "sha256": "ab8266333138944f001233eab9de0890760ae07ddfe56f1afd2c71ee0e08c909",
       "url": "49/ac/f69538351495011c4de7ad78e22e858dc07a54b2dbcc878462cfbcb13213/solution-efe-client-document-1.0.0.tar.gz"
+    }
+  },
+  "sonybraviatv-remotecontrol": {
+    "0.1.0": {
+      "sha256": "db950c98ef7aae046aff9dd9d1772371d7202641e1e36b66c3aae6226dd5dac4",
+      "url": "bc/58/ecf5eb6e5e88c48128948736f43aab70dd84e345d9901ad8e39989e00f2a/sonybraviatv_remotecontrol-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "d2a9da6e65f42154cbf932e0e088d3e2dfc4868dcc272845ffbef00315816570",
+      "url": "9c/88/f3e4f013f012ba8ecfb1e926cf4cb34658396aaede18fcdf86b1b4b93499/sonybraviatv_remotecontrol-0.2.0.tar.gz"
     }
   },
   "sphinx-catalystcloud-theme": {

@@ -6959,6 +6959,10 @@
     "1.15.2": {
       "sha256": "9e6715a170471470c3750a73534a3fc6222d980173242112e7c894c332ab8e90",
       "url": "a0/f2/7ec749e14b04a736e6281d8ffb6edfbc8d48402b5bba2f892508a5ded465/drf-jwt-1.15.2.tar.gz"
+    },
+    "1.16.0": {
+      "sha256": "d56d7544a5d2b66dd1e69472bb054d0e7f500e643e441793fb99320afab862be",
+      "url": "6b/b1/8b2e6f6074e85945d32ac4cb568def175b86f28d40119c72ddc6ebb23a21/drf-jwt-1.16.0.tar.gz"
     }
   },
   "dropcam": {
@@ -9294,6 +9298,10 @@
       "sha256": "c650469a1fd66341ad874ee1f5a80cffe62e2e5426ddafd3c782607a5b4edf84",
       "url": "e3/20/b3afee447c38cb70ba5946cbfb8b1e85dd031ec9ee4c2d0e811f8d74efed/graphio-0.0.12.tar.gz"
     },
+    "0.0.14": {
+      "sha256": "d799d639fa026188a08df639a2b951cf1ed2cea6fd3f21726385b57099a6b52d",
+      "url": "9f/4f/a7173af51db993106c4fe8e5a7db3293d0dd6c972d6191ec774b019707b2/graphio-0.0.14.tar.gz"
+    },
     "0.0.2": {
       "sha256": "06a8ff0ab323dc994436aba2ebf3ca539c8cb2697752e3fe3e2778a53293eb40",
       "url": "3e/37/72e93e7676643afbe2ba91fa5786f1df3866bd332e371758bda9274e215f/graphio-0.0.2.tar.gz"
@@ -9893,6 +9901,10 @@
     "0.3.13": {
       "sha256": "92255db64c0f0496cabba0839eb598b575e5ef9f110b85c2099d03e1b4d658ac",
       "url": "a5/2d/2300933f1a7dde7d6177862e06171c21d6ecd8bdb12e849c062c5c44f699/ibmcloudsql-0.3.13.tar.gz"
+    },
+    "0.3.14": {
+      "sha256": "d865c784cc97885b63cfb8563983e50b67a63e191732fd729c9176d719910bc0",
+      "url": "1c/c9/b5cd5a6fe76a8a0d12ff3793748b816104b80c1189bbbbb987418909fa1b/ibmcloudsql-0.3.14.tar.gz"
     },
     "0.3.2": {
       "sha256": "7714651fcfd4102a6ef479543fd466e5b0d88de2978b122ebc22fcfb3060d564",

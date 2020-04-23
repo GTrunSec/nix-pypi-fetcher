@@ -16475,6 +16475,22 @@
     "0.7.1": {
       "sha256": "3049c1c057bc6578f76f98a43c1a36a84737c95c85d62cf5ddaf9eb0b7981749",
       "url": "eb/d1/72300c1018bb9a3d7cb8cf275900b94659f253307fb265897cbfcfd29ed3/pyboat-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "63c02b36dfe6cd96ba53f8b54d28a08f7c5747dcd5dd927b2fdc6992ae04e739",
+      "url": "0d/a9/35dc6419dd4b2e79529980e53972bec81fb26978deb46be5b8d95509caa5/pyboat-0.7.2.tar.gz"
+    },
+    "0.7.2.1": {
+      "sha256": "c01d6b839f1edfe06b22815d27d0329a974f9706a6f0138e27d853a95695a020",
+      "url": "2a/ee/a5e837be575514d97bee4c37e9e714a9f655ab05aeb412f44149a6d33609/pyboat-0.7.2.1.tar.gz"
+    },
+    "0.7.2.2": {
+      "sha256": "4b74ec9eeb023f5cf4af427ef5a7298447df5652c0a94c3f1ed4b1726146a772",
+      "url": "e2/8e/5bd6c503277fe22fbd8d93fd5f42629dc4d9d4523d5e295d6d4d35d8005c/pyboat-0.7.2.2.tar.gz"
+    },
+    "0.7.2.3": {
+      "sha256": "7bd4f50606ca31702da214a35435cb3343fcd97493b84f221200f8e1e057ac05",
+      "url": "86/0a/8e7e06fb33613f3a532530e4576c4773840d34979a40d1d2b57d4770605f/pyboat-0.7.2.3.tar.gz"
     }
   },
   "pybrain": {

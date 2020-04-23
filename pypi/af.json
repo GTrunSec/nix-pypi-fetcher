@@ -13155,6 +13155,10 @@
     "0.2.3": {
       "sha256": "3d8ba464fe845e26d3a1b03349a5b32f996df3c9b0e67843dbb0bb93a5f336bf",
       "url": "ce/e0/3a70319f09eae99a37d384d414a6e215dd2e92749064f2d4548bbb816cb0/kimai-python-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "5759066cbcabed6153ebd6220f07b4837891ef14c7c6f1d5b3cbe06f9ba383fa",
+      "url": "5a/4a/89a6ec624b43082953f08cc88ed4e70079c9b15018bdbfa608812cd0b19e/kimai-python-0.2.4.tar.gz"
     }
   },
   "kitconcept.voltodemo": {

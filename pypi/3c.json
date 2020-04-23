@@ -5061,6 +5061,52 @@
       "url": "53/6f/71a35f5662ae8be45e9b873adc526ebac464760f886ca458a5eb3e2eb940/comdet-0.4.zip"
     }
   },
+  "commandlines": {
+    "0.1.0": {
+      "sha256": "16dc4137c44d3c7ca8fcfbe8d040a89998714944049115f0867e4359149ed440",
+      "url": "8d/be/3c155eb60391a9cd92bef6a40271b92a99fe7e19872adaa7961654124be3/commandlines-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "87e1c7cfda74bfb32f47f764bef483baa2c7bef2a5523060cf7ebedd5bfab20a",
+      "url": "5e/70/9d8d5f9b4d9c0323eb1b220a4e5ec0890c12ca53667611709e0570551ecf/commandlines-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "29539acb03987da541fd98b0ede539e8355981ae5e1ae3efb36557345ff7fd0b",
+      "url": "20/66/d007155e30d909b4eb804ac39c9fbf1322ffc0ac63be6a11866bd0267ece/commandlines-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "cd610befa586f9acbbcc17c467429a721ac75974402d6b70d68265f36460f578",
+      "url": "d4/14/2aba977b33904b665b212232954e7ef7e2d7e0a7274720bd56646e2ec4ab/commandlines-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "fc738a2dcc3be70e2b59ddcf76ab160365bc7d9ee97a54825650638300dca510",
+      "url": "37/03/438f42c7624eb8f24a949e8ae9f905b07170f38cfcfd1f704b034150f3c6/commandlines-0.2.3.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "a3116a88584b8c9a39ac5b3292e78e0d8b0ab9e58228d984969e6ab3e1616c3c",
+      "url": "5b/3d/9c4bc3f15df8a153cb236876b8507e08db2056bbd508039dec3366141c23/commandlines-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "da413ac5c76540a7b7e40d9b3ee9ea1ad2503883df854c74531b43b0b951344f",
+      "url": "50/c7/e6b5b5a8f881f988d92fe608f47e7c04ba08625753a738ccb9cbf12a2bec/commandlines-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "987ba8fc7ce050591f4ed22c08b67ef1d02f05661e8fdfd6f5380afd6f29016d",
+      "url": "76/99/4de96b19a7370d740e6704f46e20d75b5fa334588ea2418c46e12c7eb81c/commandlines-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "831a4648b0e2dd53d7e2d1fe9e3b8ec60ec00dedf125e2c6d0a7393236b93d7e",
+      "url": "89/42/8f637e14f5ec1bd4c984ab195a9c8ed27c75999ae4a95f57998e2e935f03/commandlines-0.3.3.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "005df53a205a85c4f9a51c8f31dc1d2d50cb9376e93601bdcc8bb9f4a650e77d",
+      "url": "5f/2a/950f7e95c6a1e344c53a7ebe18178f77b3e5f35cec39e04c8bb19296fc30/commandlines-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "86b650b78470ac95966d7b1a9d215c16591bccb34b28ae2bb9026c3b4166fd64",
+      "url": "b9/4c/d380f7f9aaa12175b189cfe087e823cd9aa2a99afc95a8d6e028142311c9/commandlines-0.4.1.tar.gz"
+    }
+  },
   "compositions": {
     "1.0.0": {
       "sha256": "ab87444c66f8e25bba9e1604aaa7f4f3f7cea921999627d930fbf695e032c227",
@@ -5431,6 +5477,40 @@
     "2.3.0": {
       "sha256": "f2bdc2637860055470597b937bf939e84482d3ea28381d5344708a566f8f02fb",
       "url": "35/fa/5c36a661fe30e0847ccf57fbdc542289db3abcb85a1ec96dacc3d81c4371/couchHelper-2.3.0.zip"
+    }
+  },
+  "covidmx": {
+    "0.1.0": {
+      "sha256": "88cad0a5bdfaad88e1b35c7184d49e7ee61f65a316a621db7690f48a2a443038",
+      "url": "97/89/a29f84372e765688bd66626ca4d551286b58e8b2e7d58c155c1a18b6e38d/covidmx-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "9c3fe62393723b200403fc49a1114534bdfc210198efebf61e59b9c5f2085f69",
+      "url": "c3/c9/2464165ccd634308f4560a397b2c4de4e1582a9c5633c6d7d1d414739ffc/covidmx-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "c56fdfb09d5cb80efbb03b79adcea997098433261aa22d54505cc197797fe851",
+      "url": "10/5a/6bd75b377208aefd8cc011d5629d9f90fc6188de147f2f21efbebb3a4031/covidmx-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "571a169a276a468c4798a8b7c15475c42f092e983e36f4ca5692c59361d67314",
+      "url": "5d/74/20cd9ede46e758d659b93e8e8b2dd1e82ab22329da800d17733bbe45f94d/covidmx-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "0758f7471713cbb2fa81118ad57b348c13ddbfcb973ff54eda211e0b7d32ed9a",
+      "url": "d6/56/345966d52ce591c968c03283194bc56077f4268e5ccac8de6ce1f8359a23/covidmx-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "87a6ff757ce86416b961040d4f92013b2f8068bde379de502425c2b5a6d5cbd3",
+      "url": "73/18/072a775778d28db9cf16f70e387e9e56f8f851066481d05800d3580945df/covidmx-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "e5c94631a7b3ddc74ffb40e1f1a469958e7e8bde41370abeb857f3442a5bb41b",
+      "url": "b5/e6/2190f3d444e5fcce6d8660a7c0e45830c5520c1c22279761714a438c603c/covidmx-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "4150d8e61e484cab8129ec87d27fa96ddf33f2b18094c3cbfb24c0f2c3f5db43",
+      "url": "51/db/f6aa495f8ceebbb867a9256802cd700ab7cddf32aa679b1c33f8008e97e9/covidmx-0.2.5.tar.gz"
     }
   },
   "cpv": {
@@ -10339,6 +10419,10 @@
     "1.5.0": {
       "sha256": "1f43bb332e46dca4264b2b1e049d63ebd609902ba146911e542ad766136461e3",
       "url": "40/2f/31738bebc029b678c8901c6df55d0e863e6b793032fa09dbc06593ae2b3f/geolink_formatter-1.5.0.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "9c53209e78e58e65eacf27dec1265ba66202610142e44be27e485810e72386ac",
+      "url": "9f/a7/cf9179df87d64478839158570830dd5279e1b862d4489cbbb75144d6f8fb/geolink_formatter-1.5.1.tar.gz"
     }
   },
   "get-a-shell": {
@@ -11459,6 +11543,12 @@
     "1.0.1": {
       "sha256": "6c5bd29a7f1dc5d33887f4d93188d1a19962af9e9781e583a0ed846151055c96",
       "url": "55/86/54aa87e90f889cd7d63f6899e3cd54837686e7cc2a1fa02fcf87fc80a0ba/hveto-1.0.1.tar.gz"
+    }
+  },
+  "hvf-extraction-script": {
+    "0.0.1": {
+      "sha256": "f36fab87a31d6219901b44680cb1c8fc421c806a809253df52386f9b8a03feef",
+      "url": "2f/a1/61b06e2d213b31f182b398e414b98a3232757ddfd36df5afeb2a67c24306/hvf_extraction_script-0.0.1.tar.gz"
     }
   },
   "hydrophis": {
@@ -19393,6 +19483,10 @@
     "0.2.2": {
       "sha256": "c51b0ffd3225e109d97ef1f94d8756fa06399707abc759b544ce06816d7d84b0",
       "url": "c6/47/67ba9d256d6371b5315109f723441d9c82786cf11f7af0efbc0650a088a2/psd2svg-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "1aeccd0855c20ccf797fadbed782a4ece8937d7f7510974fcf8820ce23bf38f4",
+      "url": "ad/92/63a864b19fcd608080890983c17e5aadb57dcbc295898893650d5aa4e702/psd2svg-0.2.3.tar.gz"
     }
   },
   "psm": {

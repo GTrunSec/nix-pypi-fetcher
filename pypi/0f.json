@@ -7453,6 +7453,10 @@
     "1.3.1": {
       "sha256": "9deef902dea51d364bb38f3babc26c2bb4c27590fe251b93077cabab3520a849",
       "url": "52/da/a7b2d62df01dc34829a045e9bdfc1e9a6bbd5ed924f92b218c1b1434e1cf/flask_taxonomies_es-1.3.1.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "667da939df33ec0cd587d5f54f1133e3c6456587dbc17a80cc09746351960169",
+      "url": "f6/06/23184658b2453e98d1e8796f565a49e426e1a24d35109243349818cd95b6/flask_taxonomies_es-1.3.3.tar.gz"
     }
   },
   "flask-validate": {

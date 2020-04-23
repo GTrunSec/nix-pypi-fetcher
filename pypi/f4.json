@@ -12723,6 +12723,10 @@
     "0.2a1": {
       "sha256": "a55c5d52a5a0f8454dc18d8b3da2f8053a108518ef3ec1369871aa75e8377065",
       "url": "83/f7/b3087a6fa983c0cebc8893f2bfe3271ab8918d1a6a951d5d43d22384e45b/mobiko-0.2a1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "aa0527a3829ff6995bd1c9636b0bd4ab6a2b85d3aa75b3159af83c584dd28636",
+      "url": "08/10/d30c925b6869c934effdbfef9007852b20c70671db09a303a26b14de6675/mobiko-0.3.0.tar.gz"
     }
   },
   "mobius-client-python": {
@@ -18721,6 +18725,48 @@
       "url": "2d/90/1144266bfe816ff58d4e375281c9c00ee4b54f4d9325d3a0382564ae33bd/python-schema-registry-client-1.2.9rc1.tar.gz"
     }
   },
+  "python-synology": {
+    "0.0.1": {
+      "sha256": "4e38a807d4f2cc670dfe182f52224a5edf63a5e85656bc40d372ac4f426d22d9",
+      "url": "58/ea/81d7712734423a09733a23297cc52ac9c7f049205f480f45ddc6ff9c7510/python-synology-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "bcb7e05750433aae2219e98dd629b1c2d94e32ca1a08807ded0ddb92508e5d22",
+      "url": "17/8b/95128ba8052863bf0db75596cead5e478e3a7a286b936723439a06243cae/python-synology-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "bfa0bb0b21c94c35438d0cd7f1c3488e3657272b6f600d299ebc04fa5f4a1d1f",
+      "url": "47/07/abebbe5f8694b1da27d1c453b774ee41951944c317028b763d95baf1c8e8/python-synology-0.0.3.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "350266aa1279539da82ee9195e299ae1a8ded3061df21a23f6816e45de094ed4",
+      "url": "cf/3e/632fb7dad299d072d7a045e626113b3d5c9a2214a199b3894928e1e31c67/python-synology-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "a241e2e88e109cc5e8701c3a6cf86576c876ecd4d19c53c8b69606958891ab6b",
+      "url": "84/b2/5fa8087e6d07a38c32c8f456a576251bd298908ce04151338a967edb38e8/python-synology-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "780a0d15fe36a86a7d124a31748a33b8cac9221e5c632d24b46b5b71eeed37e0",
+      "url": "6c/d3/6c175f03a8891023b9037c5ed4b906d7de1ec209b75f17b5539359b26455/python-synology-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "36a90357f92570bcf9b7938e0a079dc9606520681a40180bec83d4aa09c88887",
+      "url": "ec/c6/b812cd898034b6e661bfff3a5176f57d35904154343e28349ded70966913/python-synology-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "fe310b5aa2aa11be303dac6d7071f8ed4d71197c5ddd01e1314ce8fd571360e7",
+      "url": "5d/fc/490bbfc8be24bfc6879b8ecad4ece1a3ebdc1fe83a5bbae3a0510d04db63/python-synology-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "b0dc33c26c050a4b3834186d0455ed62c56452f1537f5a2b7086ec439c2d3b1b",
+      "url": "5e/7c/0a076465d71a8d9c505eb64f95ce60e06dc61a15c9faa8e9de550f8bf6c4/python-synology-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "07dd358150fcacc478ac28a2539a877818646dd4816780a2b4ba3b263efe52da",
+      "url": "ec/14/f47f15df3d3eb2ef5a41e16d824647a311e86c49532e583d2ded8e876042/python-synology-0.7.0.tar.gz"
+    }
+  },
   "python-unixtools": {
     "0.0.1": {
       "sha256": "3da26e8210ebbb74aa17463e821dde0cd2d5a422b9e247cef6c1eb134d7c3ea6",
@@ -19669,6 +19715,12 @@
     "1.2.2": {
       "sha256": "bc1346021c5a1be1f828b74217d74b4d805d7abe47d671dfa1ac7a993bdd1141",
       "url": "74/27/3bfc0d86290bacad1fd0e0a4f563b1c78796e22a45f02e95f0bd88ef2fa4/robotframework-xvfb-1.2.2.tar.gz"
+    }
+  },
+  "root-pack": {
+    "1.1.1": {
+      "sha256": "1591e30a1f3e15df18ec06cb117bb86d8f34005cca5c1ec410dbd44e3499ead7",
+      "url": "2c/69/5cb2f1f08aaa929bb0956432e048715f67f7c44d2100b66b78e5c6d4e97a/root_pack-1.1.1.tar.gz"
     }
   },
   "round360": {
@@ -22352,6 +22404,10 @@
       "sha256": "d1551fbb2879a6a34ce6a9e73172959725f7b2559ff014bfd9c834f0fa3f9322",
       "url": "d1/7c/c8f05225c830c4b6c25a8a75df396e59a4d2c039d243179fa1a41cbdd17e/tabulator-1.38.3.tar.gz"
     },
+    "1.38.4": {
+      "sha256": "e617e499d128289bcf7dfd2f44a53892dcf46fd8a837c354e1439983f20b629b",
+      "url": "53/ab/ff48e5fe0ae4747755db42202f8bd094909b02cac85ff9308ffb7db46b53/tabulator-1.38.4.tar.gz"
+    },
     "1.4.1": {
       "sha256": "a9d7f84740c7098cf511bfad2547728ac020cbe3a53ea24c608a5a4f6f976771",
       "url": "f7/63/9d244498e2ed598d026fbee6f327f610cb649da6df2b44e45cfbb36b008d/tabulator-1.4.1.tar.gz"
@@ -22585,6 +22641,26 @@
     "0.1.2": {
       "sha256": "8475186c4b4e5464e6466c5eb0d79f67036d367effc908581af87694fc58b7a4",
       "url": "28/0b/461cbbea6037835f00ba0b7db32bffdddb851340a9dd41afa7fda8d2de7a/tfduck-bsd-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "a7dee1c370b0b25b5df40b9997a05a24cc03e0b049859f32cbd186a7a7b14347",
+      "url": "5e/11/f23c2d70ddd747e3c32f1020986709562a46d04d5507b9b603f96b882cee/tfduck-bsd-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "5b7a377fe9f374fa9851a5b362d2b9b7ec16ec77b6bc862653adb0f5d3c5925c",
+      "url": "ab/44/a40eab3e45cbed7e1d4e6b27c7dae08c6cba8f89e52a632bb7797af4b009/tfduck-bsd-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "a5b8343a13e9655705740af739420e675b3d955d396c7e6ca28843771e2484a3",
+      "url": "cb/ac/4ff50ba551a660cc853cc8049bd67daeb3209301ba018cb931b567a98aae/tfduck-bsd-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "0cbc4ce8971f4e89e157be58001e648f2014e3778edca30b9934c86928ac0fda",
+      "url": "6c/9c/e44b26b873829bd41a7d03e7cb11ed4cf56e302bbfd7e1b734d05f733852/tfduck-bsd-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "05640f69200872a3dec51bfe20ac7595b26b968b9fbcbbf778ea494046933cfd",
+      "url": "f8/5c/f20ea4e56a7b9d2d406f11ff80514c6309a780b50bccade9bf933e07dc5c/tfduck-bsd-0.1.7.tar.gz"
     }
   },
   "tgintegration": {
@@ -24673,6 +24749,10 @@
     "1.88.1129": {
       "sha256": "43409708427a3e346e974d5de7d49de0ddf2e17fe19ce090b3013353d74a3c42",
       "url": "9e/b9/b52729f884ab3fe95abd723124715bedfeaed2d657ddc36146927ecd1712/vinex-ccxt-1.88.1129.tar.gz"
+    },
+    "1.88.1130": {
+      "sha256": "dbb6a57d2328aa238fc5d3a7733220d74022bd995625108f97918fed0af06a46",
+      "url": "f0/4d/d52da4adb1977d787c0347b344aa25409fd29ee304e0a86b0b2cb6cd7673/vinex-ccxt-1.88.1130.tar.gz"
     }
   },
   "virl-utils": {

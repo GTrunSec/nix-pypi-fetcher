@@ -6573,6 +6573,10 @@
     "0.1.3": {
       "sha256": "99e90c9475f2d43401202150c9b11d63c0dee8efaec500a7af635c74c6eaddfa",
       "url": "99/c5/8e64e1a7111333a2719cc17331d2cd9dc5d7cd8776104cc7a69ab6c13c2f/e3smlab-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "013fc2150123d1a3da476350a97bb920da9cbea44830f2b29a2113ecde00fa35",
+      "url": "60/3d/c106a335bc85c0c9412ad951e84821bd03db75f12fbad3fbb2d5d9652e4d/e3smlab-0.1.4.tar.gz"
     }
   },
   "eachprint": {
@@ -11747,6 +11751,10 @@
     "0.6.9": {
       "sha256": "77dad8b0c89a3769c911c5d775c21a291d6595aa2f4a4ac7d8c4fe02fbeb1d5b",
       "url": "19/df/2effd3179ded97f22ae0345313a2a183b50a766530155d2218f7b789185d/localcosmos_server-0.6.9.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "5d2bf3740bd6b5ee5333c5b81f401d33ec5aea643067f188059957aaeab63f3a",
+      "url": "a9/05/a580952327ad186590b4f5d9035d489e29284b9dc13869bf8246d868e534/localcosmos_server-0.7.0.tar.gz"
     }
   },
   "loggedfs": {

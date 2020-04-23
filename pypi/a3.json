@@ -1483,6 +1483,12 @@
       "url": "57/62/871e81386d7b60547d3d788db5cb699679290cfbc22ad324cc9043bbada7/artifact-cli-0.1.9.tar.gz"
     }
   },
+  "assistant": {
+    "0.0.0a1": {
+      "sha256": "56c6350f15ee42e20889f100485138549a575804f85e792e51ff0e56ce5c9e65",
+      "url": "7f/8b/8100539e4268ec505313b615b7aabf34ba047a15a28e7f778ff0a61bea9f/assistant-0.0.0a1.tar.gz"
+    }
+  },
   "astrocalc": {
     "0.1": {
       "sha256": "89d516a27fb16bf080f648c07ce6b8dc22eb11bf06b4182fd58a8ea0cdaa583f",
@@ -20317,6 +20323,10 @@
     "0.1.1": {
       "sha256": "9f2f0d363c80f1a29ce80e3d1c7294d29a3fdcd2130a23d7ce872c68bbac3031",
       "url": "a5/23/ac964e342305cb95873e0c3f170fce58d330711e026e8c08e7d9ea28dc2a/pyPSCF-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "6a701f5f35f3045e4a9f323435b108540829379ff1ae0f72638bca5dd8f046bb",
+      "url": "4a/24/5b6800a81523f61720c6d6e43f2a90ca865d081a6d16d247c403738c902a/pyPSCF-0.1.2.tar.gz"
     }
   },
   "pysjobs": {

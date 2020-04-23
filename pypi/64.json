@@ -4612,6 +4612,10 @@
       "sha256": "48f7e90da947c140c47d7ea6b83454959bc49deed77b832559f00440ce0836fe",
       "url": "fe/5c/395e98a38ba1c717a4beedb0c6e3eefcdfe450a0314d5cbb1d372e64d26c/dagster-cron-nightly-2020.4.22.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "227af173bfb8939c80e209657d20daee0d2a98f17ff764446ba029e64b273d13",
+      "url": "69/e5/89022aece314a4ffc312426d22d18120af20d91fb153de698c09ce39f6f2/dagster-cron-nightly-2020.4.23.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "b47a932d34842e16cec737b6925e3b857e6e7e1e4ff179ecc662824ce242c99b",
       "url": "a7/8a/79aabac0789a21db2fb686ee0176e4e5a1c6738c83d2464510c5a4ce5529/dagster-cron-nightly-2020.4.4.tar.gz"
@@ -4929,6 +4933,10 @@
     "2020.4.22": {
       "sha256": "b724f43683c4248509a5a12e29917dd75421ee9f55a4e1ecf0e4a9200654a978",
       "url": "51/e4/03163880e2dacecbfe8bcc3c70519b376f3a3e79bc6dc3612802dbc5565e/dagster-spark-nightly-2020.4.22.tar.gz"
+    },
+    "2020.4.23": {
+      "sha256": "17af3f73235239c156ebc6947926d79812a46ba105819715fba9b32f5edf3e4b",
+      "url": "5e/22/2078b9b9683fefa6763e58ace8f4d8ab8fda482b9b96c43a1d727e2612e5/dagster-spark-nightly-2020.4.23.tar.gz"
     },
     "2020.4.4": {
       "sha256": "b6a5df621caf3aa3d1c4ca333aacde709abbba560526e3a33b8100cf386780a5",
@@ -7953,6 +7961,10 @@
     "0.0.1": {
       "sha256": "6f127c6baa4f6d4ad83063046cd74bb5fffc430d844b2f836662fecbfc604130",
       "url": "d7/26/f44eba583cf30159de66467fb932cd89992d05fa1aa6c121ddc24d76540b/dslectures-0.0.1.tar.gz"
+    },
+    "0.0.10": {
+      "sha256": "81ac794f29ecdf33ff2d4341e0867956d5bc994152c672322aded5bb0b34777c",
+      "url": "2b/4f/ef6e1045e007ea079b88a52ffb7216bfbf24f33fef0f9f472e983370e0a4/dslectures-0.0.10.tar.gz"
     },
     "0.0.2": {
       "sha256": "fbd1272b5f41b851e4d740eddba8e580fdb8a16463682cf1e7ab2dad7e993754",
@@ -17133,6 +17145,10 @@
     "0.6.0": {
       "sha256": "f1e36c90f90934bb28a507f67a4a903a6a25e6cb450fb168d5e3e156687e9133",
       "url": "88/67/7a58f8132431c6e4354ed4380095a9063d5b4b73701423640f742040e887/numato-gpio-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "89b534e0aebe0edd764c6eb2a152e69ea208a4147d036fe05840e6bb5d6734cb",
+      "url": "51/80/ca4e34f759df25517a3978919cb7be667433a20bb2419a14afe870daef3a/numato-gpio-0.7.0.tar.gz"
     }
   },
   "number-verifier": {
