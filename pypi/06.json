@@ -2097,6 +2097,10 @@
     "1.34.0": {
       "sha256": "36a02dd1bdf46cb3c68005306c9c9d2976a197df6919ea128cdd545b4a37fa12",
       "url": "b6/fd/fee0b545e880a1dad62c0d719730ace389f5908908278d089f219553b33a/aws-cdk.aws-accessanalyzer-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "b646f40782be547764757c77cf8f2f215dcce20bac7438d418995a8647c7a7e3",
+      "url": "1e/66/9bb71747e6c8a5a863c12541d86cac2d879754a35c425fe485ee50e22ade/aws-cdk.aws-accessanalyzer-1.34.1.tar.gz"
     }
   },
   "azure-eventhub-checkpointstoreblob-aio": {
@@ -3135,6 +3139,10 @@
     "0.15.6": {
       "sha256": "79f2051a238f01a602cc98d70495f3719c45f0dc7c27ee10610eafe335d4bcf3",
       "url": "f1/5a/79387d00176c05fa32abed52ee5f40a5d0389df32fec7bd13b95af08c129/citrine-0.15.6.tar.gz"
+    },
+    "0.16.8": {
+      "sha256": "6993571d2fb96264b2c8eb9381ff04aff9be72c424dd17993ab6548f1aae4671",
+      "url": "16/f8/6a2c44307bf168ff1f3d6e0a5770c2e00be2e8b7a1f6ec2123396a97f999/citrine-0.16.8.tar.gz"
     },
     "0.2.0": {
       "sha256": "240db121b753244f9ef50c7ce329e7b80d1002b0f6d57c07a91989e4c827b6d4",
@@ -13820,6 +13828,10 @@
       "sha256": "0e5b899bc2217e4a80f13c5032271ae4655b4a94a482899a406f570e4461e1c8",
       "url": "bf/fc/27286365bdeee331e071085e3ce93c1839cb9c7d9c28a7e70170de393580/mypy-boto3-codecommit-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "9d9595fadb13d9a000e4dad6113d61826596752a86e52922ba66266a953159fb",
+      "url": "33/5d/4e6f3ad8ec7e4b1d6bdfa21698e71cd04b47adf00c7442af814c28206c6d/mypy-boto3-codecommit-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "00418d62c39e3fb78923ef881186e3b581a2bd021511f6cd4c5cb83a3dc3c2e4",
       "url": "4e/e5/01c8b279bb3dce8c40657030b91acb424f1e1f2d1ccf168453d4c3469038/mypy-boto3-codecommit-1.12.5.0.tar.gz"
@@ -14329,6 +14341,10 @@
     "1.12.43.0": {
       "sha256": "db6f6897bcd30c891061185fdb8566e0dea76acbf2ef90a60c9d23e76fa2f821",
       "url": "af/e1/59d18f7bff7eaed4d0a197d909ccfec7da25544ffc2028d6fd139cb0ef86/mypy-boto3-pinpoint-sms-voice-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "5259b40f805bfe3c45ecb9c3100903b15eff3af3b7a0e5554031abb9fcf964b4",
+      "url": "0a/7a/f76efa68f1d46a9da7097134d2d770f77423c16df51be22b6dd9a6262348/mypy-boto3-pinpoint-sms-voice-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "06afda085215eca24e89d2d183104eee835fcfb4c6d7948ae6e46202cca8a91c",
@@ -21449,6 +21465,10 @@
     "0.1.2": {
       "sha256": "0a30200890c0e8a046d2edd2a2dbfbee92edc777402253508999d5d2c74ec620",
       "url": "79/ac/9920db6323903bbea2016711e51869b167148cc641a53d20ce83cf6e1c01/sinagot-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "1a669f9b05966316f1ca65ac800098fce160f43ea8e32fc4b36cca60535d3df1",
+      "url": "75/e4/7d02a114d9b44118a29767ed4a1bb0a96501885fe82b1f00748ca5c91daa/sinagot-0.1.3.tar.gz"
     }
   },
   "slack-progress": {

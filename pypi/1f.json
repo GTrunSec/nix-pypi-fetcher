@@ -11602,6 +11602,14 @@
       "sha256": "fa681305a5742cdb35478a178288aafa6a0bad805e1c6dfb12d524a665693451",
       "url": "2d/8c/a7dfb03cc6cda818e5ddecd948b0cc6a6e1fce1f232d2d9c2fd3b859ce18/meg_runtime-0.0.13.tar.gz"
     },
+    "0.0.14": {
+      "sha256": "49b4a1f6e4276f1b1d61a986dfd07604b7d3354a58e8082a098d9b681d8371c3",
+      "url": "40/be/4fbacc8c8ab0f093ad083a2124ad46f851c7eb5e44445010ae30a7da0166/meg_runtime-0.0.14.tar.gz"
+    },
+    "0.0.15": {
+      "sha256": "350b22ef5f58367f39a5fdb3d1804e81e589fa6fb0b2a2ad061e18ec38f1e5ad",
+      "url": "d5/4b/ff8ace6654ae59bd6a237cb8ad74b13995cacfa04aa89092a4bf65eb6cc3/meg_runtime-0.0.15.tar.gz"
+    },
     "0.0.1a0": {
       "sha256": "cc22f1c110ae07a8f05d204a84862ce929917b85e70e5a6b890aa6c484c6d1d0",
       "url": "60/99/ac0ff31c97e56a805940841fdd71bce9755591847a8695b7c40f96359a6b/meg_runtime-0.0.1a0.tar.gz"
@@ -13146,6 +13154,10 @@
       "sha256": "f401df5655b550fb148b10aab027e64e1938061f152a7c8f28cd80287a7ea487",
       "url": "82/7a/b7384dc262fbc009545a7e669642d41f9dbebbe3a7aeaf60b8ad44801398/mypy-boto3-alexaforbusiness-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "8d33db675aed42ef534acb16a219c6ea4693275b03856d3fcc1d5a7d932d44ed",
+      "url": "a4/b1/fdcc9faddaf349858633a2a63c19dc57a58857c1b8f700369a95c397db7f/mypy-boto3-alexaforbusiness-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c7df305332b162a87506ba6183f13813cd84ee778c96ff36a8ec50a76aed0f58",
       "url": "40/e4/7c74618dd048991d548283d89d384d0101aaf5791b5bd9799e606b67e343/mypy-boto3-alexaforbusiness-1.12.5.0.tar.gz"
@@ -13655,6 +13667,10 @@
     "1.12.43.0": {
       "sha256": "d598569293b87ef60b169d26501b2460e2070416124ef1e6e66c5f4999b36122",
       "url": "ab/e9/34143b2669d8672c85e9422ed788d11ea43fef6f6ae80420799bd074b509/mypy-boto3-config-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "24f3794de36c3f1e44a61c41c6bce67143a598acb560dd2ad8a39b9c01a414c9",
+      "url": "18/f2/a6502e13a78e7d3737cfcba0392a3fd38f122f2cb1b44e417350decd2309/mypy-boto3-config-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "6d177d300edd6086a81f1292d800478774c8953176882bbd16e03b0d1eacd513",
@@ -20605,6 +20621,10 @@
     "0.3.3b2": {
       "sha256": "6a29d1e306c6fd23bd68d617fa9df8fea648d2b47d66ddf51980ba49fad676ad",
       "url": "e8/79/c9fdca4620734ee126b25b38e5f4528b237f769947fb2006a348769f28af/sdssdb-0.3.3b2.tar.gz"
+    },
+    "0.3.3b3": {
+      "sha256": "7722ab11ca873ea0bf88139d5846863699318b8be8062288deaabd12b9c4cc24",
+      "url": "fd/bc/fa4c6f92dfacd9f76b814f6d0aa016b0650c98be6dc6ecd35e3f8c113ff2/sdssdb-0.3.3b3.tar.gz"
     }
   },
   "sec-edgar": {
@@ -22023,6 +22043,14 @@
     "3.7.0b2": {
       "sha256": "875c1fa9564904423f5a244d43d29d42ffa0dd815c95de93fc9026e4b309f426",
       "url": "cd/ff/ba27ee5a2603eac2c77113cf92d568140bd6e143a04d0cf27df1a0e7d945/streamsets-3.7.0b2.tar.gz"
+    },
+    "3.7.1": {
+      "sha256": "339c04732308c256f152dbf28bd0610e393e0a008aaebfa0f11abc8c245a5845",
+      "url": "43/5a/5ae976b9a12f3be68690d20c86ff3c15bf1f44f5429ad66c6d470f7b3444/streamsets-3.7.1.tar.gz"
+    },
+    "3.7.1b1": {
+      "sha256": "dab2a7724b28a2ea55909b093834a4ff586352a7992e3f1ba0cf07183d7ae8ee",
+      "url": "3b/2f/49a2066c4605ad2ba6d9051532cae57c722c46cb7bf75bce1f4440739ccf/streamsets-3.7.1b1.tar.gz"
     }
   },
   "stringquartet": {

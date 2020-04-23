@@ -1120,6 +1120,10 @@
       "sha256": "3b4cedc69299132ddd4c51344fc89a134d84c6b8a23aec136a3591b836c4c933",
       "url": "06/07/1f381f84cb447bbe7858bccec31735670223b7a06138d7786fb813e2fc07/aws-cdk.aws-elasticloadbalancingv2-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "780704d774768c1dbef6be56f5d24b28767c6e8b2893ad9a45873f5ba82c0dc7",
+      "url": "a4/d6/84bd3172a4bc0873e08683453de51d1f2e2e54e70549a16db1ae1479bb1b/aws-cdk.aws-elasticloadbalancingv2-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "f42ad31d98ce154b6a76ec6068a7ff16a948b6421a0e98808f5a07ce881ec7f0",
       "url": "c7/e0/9b2846a4af31e3ae347d26a545f43f42d90e79ccaf92824a7d5c36bde001/aws-cdk.aws-elasticloadbalancingv2-1.4.0.tar.gz"
@@ -1369,6 +1373,10 @@
     "1.34.0": {
       "sha256": "cdda827567a72012de3d8c46874f81aedb9723fc072b22a3a1f28804298dde26",
       "url": "45/ab/edb361fc6b5ff93d4e9f987cf665cbb57fc1f9dd10bb20d1f06a00ca37f9/aws-cdk.aws-lambda-event-sources-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "5e48dc412dea64e9cc911b74fb3c419f30c9ae3a160de2c36f73c9009f0eede5",
+      "url": "e2/54/a7339dabbb259e52dae7f696cdec91bb4639b30f0bdd42749e46b904c292/aws-cdk.aws-lambda-event-sources-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "448c3309309a995a4fedeebf15a677ad3a935085ebe1001563354f92a413ae50",
@@ -8732,6 +8740,18 @@
       "sha256": "8b5d9b0bfb3ad022ecf0b860fde66d22aaa89bb2560bdd2fec918f073278c7f7",
       "url": "97/74/0ad9485a6844904a2b2718c65f80ceba02217ca989d3824a06a02c210725/cs18-sidecar-0.0.2.4331.tar.gz"
     },
+    "0.0.2.4332": {
+      "sha256": "5c8730d81eea94470ebd2eaa44825a9dbfc3f072b95308d87ea5145933732155",
+      "url": "3b/ad/0bb669a70cd95fde092d19c7b2ee7fbdf5386121e35708cba9df9bef3064/cs18-sidecar-0.0.2.4332.tar.gz"
+    },
+    "0.0.2.4333": {
+      "sha256": "f68718e2606f0fca27a8b5ceeee10b42893419c9d0d42a05048cb0f087c9208f",
+      "url": "61/fb/52e41f380e72945dfd7dea3f95bb2c70863cc8527132c6b84659602aca47/cs18-sidecar-0.0.2.4333.tar.gz"
+    },
+    "0.0.2.4334": {
+      "sha256": "7e787e5b2582d81817e80c0eaaeb01ef09b82a165cfa476f42f2a3f01aaeb77a",
+      "url": "a0/ce/1d4c4883ee76f1a4a288f8d11bbc4115b5a97d0ea2c1d4181de12424c83e/cs18-sidecar-0.0.2.4334.tar.gz"
+    },
     "0.0.2.5": {
       "sha256": "6235ad4b9354fb5cc8e0013669d4a980133c9d7eb36796535b214e81ccd8b6d4",
       "url": "6b/69/6f4f2d498a255bcee00a26af963b074b4f5690c74c2c10681746f92c8772/cs18-sidecar-0.0.2.5.tar.gz"
@@ -9507,6 +9527,10 @@
     "0.7.2": {
       "sha256": "ee16035257c0425f9635d7456f7b8b712dcbd3d76696323586df8a788347e1a0",
       "url": "81/2c/0e7be89bf094c20bb98b0bfcdfe9d8a6850354c862f1f69df931b01c29e2/django_bridger-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "fd8eaa993fcb8087691de72a9744267dd264a51dd632adc0f89a4e09e63d8422",
+      "url": "09/08/4a6da301d203bccf90e96669db11ad5858ef0639f01978bc2e86ffbeb143/django_bridger-0.7.3.tar.gz"
     }
   },
   "django-callback": {
@@ -9579,6 +9603,10 @@
     "0.0.15": {
       "sha256": "e6dba0e728ac2d9434d4e96ab427377cc85725e693d7e308be657c6436004708",
       "url": "e1/61/254231ab8c694a1b8fbfd735793953422a5e0095134b8236a988ff88993b/django-computedfields-0.0.15.tar.gz"
+    },
+    "0.0.16": {
+      "sha256": "bf7e1e4b557a833adee636570cbfec78bb3dc202d417a9b3b723e67cadb91a8d",
+      "url": "b0/3b/184889c57e5af75bff18c69bdbd95c61657acc8ec2d1b2116c5ac8acbbd9/django-computedfields-0.0.16.tar.gz"
     },
     "0.0.2": {
       "sha256": "960b62c470911c7c33c43aa7583e352c2f8c0a160f37b74f42fb661d6e2347c8",
@@ -11631,6 +11659,10 @@
     "1.7.2": {
       "sha256": "5dbb1184971173cae2f37abc4cc46643a9db3930f926691fdf7c7c3541b4cbdf",
       "url": "eb/8c/7d777a8c397f6d9456ddb428be6db71a9136ab9aa2275e1972e72289baad/eth-brownie-1.7.2.tar.gz"
+    },
+    "1.7.3": {
+      "sha256": "02c0cd4af9d4906774189e836f4ab07ad797961483a0f67551c5ee1688310116",
+      "url": "7b/98/f6bb274d1614ee21bae584d7ec6f74ce9ae7a12d769e0cac5de989628d17/eth-brownie-1.7.3.tar.gz"
     }
   },
   "eth-vertigo": {
@@ -17211,6 +17243,12 @@
       "url": "09/46/31d17d6e6b7b8a20688c461afbdaebab2e703f5967645365ba8664845f30/lost-n-phoned-1.0.0.tar.gz"
     }
   },
+  "lottie": {
+    "0.6.0": {
+      "sha256": "cb0a76c3680fee0d25073e2f13e8b39afb7e29cda52d202b9533bb778c089a44",
+      "url": "14/4e/534e02cb4950807999edc55841387ef25b64be46d3d39146c8ffd7736a97/lottie-0.6.0.tar.gz"
+    }
+  },
   "loveyu": {
     "0.0.11": {
       "sha256": "96724a3c0e73682a66c004a735a237d4d5d14d2f554e70669ad9d63d11f84100",
@@ -17429,6 +17467,12 @@
     "0.0.1": {
       "sha256": "7f0ba926bb27a6027d81926d53391144ddf7eb584c847c68037fc7c9c5ac9a03",
       "url": "96/72/7dba42e88c40a89539eb0f12738910d9040b91eec3bdaf2f8bc2b8bba806/marvin-wfms-0.0.1.tar.gz"
+    }
+  },
+  "math-distributions": {
+    "0.1": {
+      "sha256": "291c93e8f4d126ac9b1bc66cbdec95558a04883d18623370dcc687d94d8b2e4c",
+      "url": "9c/0b/a1a02c8186166f85ca45adef482fbf4a4fc36a1ca944f671e90e64a095df/math_distributions-0.1.tar.gz"
     }
   },
   "matplotlib-hep": {
@@ -19184,6 +19228,10 @@
       "sha256": "c923b36ce7f3e0b212b9c5ba65754fb6423c179e139efc6cda9d16c661f5a6c6",
       "url": "8f/ef/8759b7345aba98297a653777773c8016e90812dd173a5ec36c125800c352/mypy-boto3-codebuild-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "f6795fe4a9bfaefa3504f642bda3dff6911fcf4674a7ceb176738a109f6b6ada",
+      "url": "19/ee/6bf3d4d981a6326cab00c59c068c90939eaefc59296419e32b8446ccf0f4/mypy-boto3-codebuild-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "f5ccef59a40b9dcd714b5af963c46b9af1a9d23d0b05f7a6adc5c28e2154edc0",
       "url": "be/7c/5e799b5f803a2e5c1af159b4ebc7478473e4dd0ac48be5741be736bb020e/mypy-boto3-codebuild-1.12.5.0.tar.gz"
@@ -19629,6 +19677,10 @@
     "1.12.43.0": {
       "sha256": "c7f35ea41ecdc02b9d782679425f3a1f236f5f3571d235af5e2a0cfc0f1f2523",
       "url": "19/68/018b2ef3ffee61fdd14a282fa1e8a3f8cc576b47470cf8486d7a17c76e19/mypy-boto3-outposts-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "65d77d243613c66cfa1b775e51fe2b0763bd8307cc6e792a7634f6e6111bd50a",
+      "url": "fa/79/099c4a2207c1a5f6f024ccf0941434d80ef6dfb1ecbb318f19502121e391/mypy-boto3-outposts-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9b1fd9cb2d2b428b4910098d27b49a70455956a22857c8aae424150bc56627ff",
@@ -22789,6 +22841,32 @@
     "1.0.1": {
       "sha256": "276e733e605f9507feb17519c8733fb0e105ac34a3ebe15cdcfafe01d178c2d8",
       "url": "96/1d/8b499673df992bf15bf916240c855859893816b0375b9f33cc06266a42d7/pyaspsms-1.0.1.tar.gz"
+    }
+  },
+  "pyazo-cli": {
+    "0.1.0": {
+      "sha256": "0636249a7bcb465e11f9cbf7c2ad0aa42957ad4a2f8c4c0fd647871234a8eacb",
+      "url": "53/ec/71f547e85a4c766252bbbc73713e732a84dd32cee70dded3bb4962eb95af/pyazo_cli-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "542cdc327a3ef9c60b78cae8461fa3004aa4b198ac51d9230a42123301ace9bb",
+      "url": "0d/e7/573baabc9906e46cbe2bd0a262d4b002dd512d11c36ca3a2d3c69fb2f1e8/pyazo_cli-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "b93b46b5a732916eae15559569e1616d0c58e40a3f5c2c585abddce775c0d06f",
+      "url": "a2/f3/c1424a3ff245323c13832b7052e03af5dd12bca4e42e8f992b97c7924ed7/pyazo_cli-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "caf9a0898cedf5359da3e30139194cba26a512fc2aef06c82cbe375a40246544",
+      "url": "32/9b/f5de5a9f82a4433bc3d2b7427c1a168b876bcc946617611764e3bf17b39f/pyazo_cli-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "b7cb2a849149533240eb2f27a527c09ab28dfbd9c09f09a7a940afe275f19e35",
+      "url": "b8/8f/7b6d14eb0391ebb64dace8a8148c65cb0e74690687426c11379b62b06ccc/pyazo_cli-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "a29f007261dd4f6f6d67fd0792b39dc25ae29a6ab84ff95874072469f5eda6b5",
+      "url": "c0/c8/e34422086d96d90b9daddad2f5a6594dc365a6231c56f6c6bc5c727dfce0/pyazo_cli-0.1.5.tar.gz"
     }
   },
   "pybdaq": {

@@ -1788,6 +1788,10 @@
       "sha256": "4717ae4beccfa06f75dd92fd7e524c1de9061ab782bc6e32853ca70443f7da1b",
       "url": "23/3b/2e964bf20a8bdff408fb40e68ccf8cbc6422cc39eafc5417ed03c3892857/aws-cdk.aws-ssm-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "1392f66e26624d5a9aeb36545d3ab0d08204a0cc6702ed443941593894e9777b",
+      "url": "8f/22/d7e6d77746e9ac2f396853fd68c7fd2d03cda6bf21d77c5bf1262693d4df/aws-cdk.aws-ssm-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "9195a3512bc21659eba881f64cc22262df8fb36a6a2eab2bbf39c3f02ebf4e9b",
       "url": "14/ae/fa6661f5b9e50b4f8c6f0b129b24ae4c85dc111cc0f166efdfde953f8a98/aws-cdk.aws-ssm-1.4.0.tar.gz"
@@ -6911,6 +6915,10 @@
     "0.0.13": {
       "sha256": "275f51ec200e2355054cde4a1d0abb609f59d4a443c6994ec44a508b4982a3b3",
       "url": "09/e4/7beb92a84eaf11456b011abff8bf981450ff7ab68f2d67fa67b028164311/django-qurl-templatetag-0.0.13.tar.gz"
+    },
+    "0.0.14": {
+      "sha256": "bba09228bde037659ae678f8c69438156e0ee71c297ae219979804187eef9025",
+      "url": "b7/ce/12d548e042c6cbb89839061cc382bd668e28f552aed9f94bc7f263dc6499/django-qurl-templatetag-0.0.14.tar.gz"
     }
   },
   "django-resources": {
@@ -10257,6 +10265,10 @@
     "5.4.2": {
       "sha256": "580b1b1a659cb48c490a30d896a116d93346deaf280df3ed5ca1179c8278ac26",
       "url": "67/fc/903ad4a368b8d2d094c86dba0dd7d7217c84e659a95afb0d31f3714e7000/hein_control-5.4.2.tar.gz"
+    },
+    "5.4.3": {
+      "sha256": "54992991d45299b17fe4e28f4cf7d1cf04c86eb8ebb2ca29b9e728d48b6e7a20",
+      "url": "37/45/c8b021c88cbd6bb61c90fe6f51cc5fd7146b682f64259fd1c3bd53a26184/hein_control-5.4.3.tar.gz"
     }
   },
   "heroqsx-distributions": {
@@ -11007,6 +11019,10 @@
     "0.9.4": {
       "sha256": "8c73787b689c7ca6711996dff6257949763e7389115420a6bcb07c69b6efa673",
       "url": "ca/44/b39146443bd4bdadc8926ece0e242cb79ab0115f93094f4e0fc3def03e1f/ircstates-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "335243fa501286f22de75f28d28c5537f5bb5dc2985719fe878a2e1ce90446d1",
+      "url": "d1/7d/bea19fd0c5ff0fb6181425eab5dce5f472110ae75c20e637a3e795feba6c/ircstates-0.9.5.tar.gz"
     }
   },
   "isa-rwval": {
@@ -14690,6 +14706,10 @@
       "sha256": "063a7a4890f3aaa3b283615dba2c9aa09f102aff12f9efefdc8f964e28a60f74",
       "url": "ee/0c/d9914a6573dd63c83a522435f108a6d9dab711334c6e43232eeb2c646975/mypy-boto3-forecast-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "b4eb2032c347c5bf763670df1ef50ee92d4f6c9103e85f200e66fe9c7b73a83d",
+      "url": "ad/4e/b88311b1fe31793a1d759ff608ce12eca5f255bd1b0df8e8a0ac06eb11ec/mypy-boto3-forecast-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "86d3c3fae1305940c85b115659ae635bb9b3611fb3b2e9cd2a54204f5c40433c",
       "url": "9c/df/09571b2784c71d7c42ba5c8833b7b813da4874d0b45da701942a9fef0e2a/mypy-boto3-forecast-1.12.5.0.tar.gz"
@@ -15200,6 +15220,10 @@
       "sha256": "92ddd8181d9220259e9d43c507120aaeb3a649243b6552623b5896541c77c28c",
       "url": "9b/5f/3c400c94566a1e66d980336b5274277ef77848a0814e2a4f2b1aeb13bbb1/mypy-boto3-license-manager-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "e565aaab28b1a33fb2cd8b2fdae925b30f9542263dbd51165cb877fef403bf0a",
+      "url": "d6/69/20ca38bbd71dd85f2f403ff2bba7a14ca1b04e854529b343f238cb3da3d0/mypy-boto3-license-manager-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "38757686e41ac7ad59a8067a74c8d9b9b63ec5d0b45b5cee200d6555cdd688b0",
       "url": "97/65/1e454a01801326dbc96710c490863129e1cf7d9fc938c7fdd610a8606aba/mypy-boto3-license-manager-1.12.5.0.tar.gz"
@@ -15709,6 +15733,10 @@
     "1.12.43.0": {
       "sha256": "22e3c3a024728652f0117ea376f7a46de342ca40321ac1502c646dbb3980979b",
       "url": "d2/b3/a08b3fc4314379aac6ef2d815db0d77fd7c842667685e5a1cee87f248876/mypy-boto3-mediaconvert-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "cff1ab2ed0734bc3ee60e2f1083eaf574266ed3029363202c25fc15acd1c33b0",
+      "url": "95/ff/87c7319d6bec59c4572817c9b56a5b714dc8be25c54c3cfa985bf0d26d96/mypy-boto3-mediaconvert-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "41e9114d749e8c5fd1034306305e90aea3147b446a43f3e4612487517f1ad9c5",
@@ -16885,6 +16913,14 @@
     "0.1.9": {
       "sha256": "f07dc3a2dcab1bdde7fa485f19d8922d5bb3bd7cd45957fea0132008c8e9ce06",
       "url": "3b/39/f57e331ef65c45898057e464904f71e85fd3224eb5f15dc369d32dcb3462/panther_analysis_tool-0.1.9.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "4bec9597f83f3a745af2331bd36c50198c6c326109103c748351a768c05619dc",
+      "url": "1d/ba/be8ca85173c39ab5901fe90d25910f7a8f1c974b998c1711ece7195a5ff4/panther_analysis_tool-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "6ab0dec90169fa4a6d1c3d0f3fd667e0e29a3b67176aefb51f6454a4354cd94a",
+      "url": "4f/5b/58ab7e6f0841ac5d8c723a7aeb4724f359f97b5eec460c6693fd1b75f015/panther_analysis_tool-0.2.1.tar.gz"
     }
   },
   "paqmind.flask-views": {
@@ -19455,6 +19491,10 @@
     "0.2.0b2.dev1587492107": {
       "sha256": "af5541b4374770b9608d049bfbb22126cade94bacde48f48cbcd815da70e2b5a",
       "url": "28/91/463596f7883e2e7acd87c83af7fd69f42707e3eedcc8da07d0e4d8b5d880/pulp_2to3_migration-client-0.2.0b2.dev1587492107.tar.gz"
+    },
+    "0.2.0b2.dev1587578881": {
+      "sha256": "e125041cbd3323ef8c031333cc67c5a0c35dd8a6d7da3fe927d9db22216c7f9e",
+      "url": "54/f1/2232c70de8be823b9c2200fdd15b1319844ed2425b22fe08240602a54b58/pulp_2to3_migration-client-0.2.0b2.dev1587578881.tar.gz"
     }
   },
   "pulse-replay": {
@@ -21889,6 +21929,10 @@
     "0.0.25": {
       "sha256": "27bf5e3b3b5e643bc1e7a2b1d3651cbad58a2f0646e4fab8359024b7dc9e6776",
       "url": "c1/a3/9e37cece7a7f54eeb7d73e2fc948666618749a3abace908bd13910f02f0e/pysonos-0.0.25.tar.gz"
+    },
+    "0.0.26": {
+      "sha256": "57b16db38e82792340a00a99e098ce188d3ae38ebf9e74ec750a1317825467f9",
+      "url": "44/e6/142e8abdfc7b6b2605335117cd2bf9255b1b9ad14e26e469dea137165060/pysonos-0.0.26.tar.gz"
     },
     "0.0.3": {
       "sha256": "c328208c842b2b3556624e147762f43826bc8e5a97d6b92b83cfe1d124da7769",

@@ -159,6 +159,10 @@
     "1.2.4": {
       "sha256": "248b0d21389ed596c6c65c76bcd7d0ab88c9281bfccd16ae00f107afa43e3546",
       "url": "ab/be/ef23b10077c5de226848de45b0f2027ac79584f0aeb28406bbf781175585/aioasuswrt-1.2.4.tar.gz"
+    },
+    "1.2.5": {
+      "sha256": "5d6cb227c7a527ad64d262e558170ab8bd3ca1cef4152fc4d418534d9d776a01",
+      "url": "9b/77/495fd7a2d8206633291bf463c88162409fce80e2711ba784be39b624a6d6/aioasuswrt-1.2.5.tar.gz"
     }
   },
   "airbnb-script": {
@@ -581,6 +585,14 @@
     "0.46": {
       "sha256": "ac292d41968b675fdf00fa39b831432377b00e2bc9ac1261af05d1d4dc57adf8",
       "url": "70/88/327043e31591b2c4d6bf628fd2ef6e8e35eb60badaeb96ce25d994975354/alpaca-trade-api-0.46.tar.gz"
+    },
+    "0.47rc1": {
+      "sha256": "e6d0aa811c4e96c8c9f8510dce233512d69cf6b3b11faec8c842f3a510f6b59a",
+      "url": "84/25/7dea941e416f8a35db889c50092c7745a1dc09be8ade6de113b9f7f0c695/alpaca-trade-api-0.47rc1.tar.gz"
+    },
+    "0.47rc2": {
+      "sha256": "9207504679d3000eac5773d1b06b3eae46cd0505fff473632f7778e170e417a3",
+      "url": "83/31/d85f7d1fcee89d85d2f73062d96e5ea6e31a58671a188ac0e3aa589430df/alpaca-trade-api-0.47rc2.tar.gz"
     },
     "0.5": {
       "sha256": "71f5ce5ecf32f68210ae28222bbff2061db63794f05e3d5da0156aa06ecc76f9",
@@ -1029,6 +1041,10 @@
     "0.1.0": {
       "sha256": "3b734e82b8b6f7ae1f742e46ad8ba05972b222d623296813e0ce26eab5334821",
       "url": "c6/6b/55edac4d914a6ab4361e53e5b24aa1c23273ac908faa2798f57312181827/arnoldpaperboy-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "d7a7949f2879aee947a90c9b000a55ec2b1f2ee582b2c386b45f4a9dcda73833",
+      "url": "04/c6/c696501a5e56f3c54c4ea3c63c669d71518dadf9efccb2b1673f32931d1c/arnoldpaperboy-0.1.1.tar.gz"
     }
   },
   "arunnbaba2": {
@@ -1387,6 +1403,10 @@
     "1.34.0": {
       "sha256": "0dc4315f9cbc69fce27ac0797018828b756691c661efeaa1dfb884b7d940809a",
       "url": "e0/b7/91b44d280006b8d7f01041f40be42e1c6afcfcbbb329016eac635c420466/aws-cdk.cdk-assets-schema-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "398ee92fdbec4d3ae0ee64334e3a4b3a0c669423acb089f3c036c909a6f4ef11",
+      "url": "09/e9/07784ce12922711ed0efe467cbdac8150fae4e9ae23983e9f15ec9bd5110/aws-cdk.cdk-assets-schema-1.34.1.tar.gz"
     }
   },
   "aws-ic": {
@@ -10323,6 +10343,10 @@
     "0.1.5": {
       "sha256": "c4d8e0e7e792e490e23b34476f078a6e0fcf8f1bb52480a37b169498a03101e0",
       "url": "d4/b8/0978a4e6bdbcc8212b7b5b5e482a301a00cd1e6f8ce13291640ef3af1483/ItsAGramLive-0.1.5.tar.gz"
+    },
+    "0.2": {
+      "sha256": "e4e5f7c12756804a86c108b5e638837843364e4fdb7d0e082504f1d7ec78b2af",
+      "url": "b4/9e/b6fb5563dd7fc9391fb2d6522d56049f79a50346a9d046d6608423c7da48/ItsAGramLive-0.2.tar.gz"
     }
   },
   "itu-turkish-nlp-pipeline-caller": {
@@ -10639,6 +10663,10 @@
     "0.0.14": {
       "sha256": "ec2bdf398ad55cad33070eed2a2f0fcbeca5325f89efff85c8192bd74ecea812",
       "url": "c1/a1/f665fc21a5de4458da3ce90faafc6ce1764b57bd829a52d1b8db9548f540/k8-kat-0.0.14.tar.gz"
+    },
+    "0.0.15": {
+      "sha256": "26f048b324b77b35e0498880c5242026f90f412ba7ab575dd3f695b35b3222bc",
+      "url": "3c/ee/2639373a3bc7ffb102a4101b58a5f609f32b35f8603f01becdfd36b20576/k8-kat-0.0.15.tar.gz"
     }
   },
   "kafkapythonwrapper": {
@@ -14005,6 +14033,10 @@
     "1.12.43.0": {
       "sha256": "198807b4587ebcb95f2322ce91c6fe6a0200638528e46d833233ebcc5c898ddc",
       "url": "6c/93/6d869a0eed4f1fcc82b1bbdb3a49af31d44f8674029185ccdc8efbd88be2/mypy-boto3-eks-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "dff02f7f5ae45d0d7f0dec37ed76cfb91a400ff02c9c70103ea155a3d4d378a3",
+      "url": "a9/f6/c2d62800e75c401b0a18ecc34a59416cc55988d83a5477b339ab462782d3/mypy-boto3-eks-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "f2c749d955a17d41ebb61a28506e256cd5235b3b9da1089f1e273aedc133e3a0",
@@ -22173,6 +22205,10 @@
     "2.2.0a20200421": {
       "sha256": "8e17251f19df94ff34e81646dff4ef4ca82a60f7a3375ded81e461e044e73013",
       "url": "b7/36/1cfe78e9f8acf95811ff16a3d00ecb492c603e4f56d995bc658e7f282d6b/tbp-nightly-2.2.0a20200421.tar.gz"
+    },
+    "2.2.0a20200422": {
+      "sha256": "f9af09c273a54c306bad9f42c82531f170203e7f6a0434f4fe593f8795be8d62",
+      "url": "ed/ff/6cdb246cd9c848f6b7c9e47e24a6765de30eb4d520f626ac78428a05fd5b/tbp-nightly-2.2.0a20200422.tar.gz"
     }
   },
   "tddmon": {

@@ -9511,28 +9511,6 @@
       "url": "a3/02/e00cc7139cb0397a10ab9c04d8f4c2a33ef39ee4a820d44b686e5722ad93/dropbox_csp-1.0.2.tar.gz"
     }
   },
-  "drsignal-server-lib": {
-    "0.0.1": {
-      "sha256": "edfc9fa0d5e00620b29acca45d4b6be0eac9a1e5d29699fc8acdff532434c1c2",
-      "url": "b8/6b/13037e79ca3313d137499ddcca82a5ea8d728f5e7759f8892b13b0ff737a/drsignal-server-lib-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "7e8ec4a282cad891aa1319acfec3a33bd000cb066bb9f78f913ea71797550ce7",
-      "url": "5e/29/1de0f1ea4b13300015aa36d0eb13d7d508311596bb2c7744102439fe8f82/drsignal-server-lib-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "b4d6993558022faf8b2bd5360da9571536a6f579084c36544c28a29ea8bc38e4",
-      "url": "28/4e/86f068787d567fcae6fd39af3784aa6249017360cbb9428245809b771251/drsignal-server-lib-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "68f80b794d6b73158deb5a8f999dec3ea8eda45b53d42e819a88d54a701eb7f4",
-      "url": "84/59/183cb967c39dffdb3b277b9c65bdd589bc6b327d055f1ac7190c32279c6b/drsignal-server-lib-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "41bbf262bb6fb663909da288844250b0e7524385aee5ece7c1d2172245d63da0",
-      "url": "f0/5e/fee6747dee3bf3747e34a0940ac4a2e32e32959d76faa278b74736247d97/drsignal-server-lib-0.0.5.tar.gz"
-    }
-  },
   "dsin100daysv14": {
     "6.0.0.dev0": {
       "sha256": "3cad6f28307b1df6f6089adf9d8a6dd9b0915472fec820bddd40b00d69ed7cfa",
@@ -14163,6 +14141,10 @@
     "0.1.1": {
       "sha256": "dc80044c04f8351c5588a757ff5c15de77ed392455ede9d4e57de2a3c8d85a2f",
       "url": "bb/2c/2a130e91e6f7abc2930d14923186338bff6f15cc371c5c1e42e2ad6c779a/iocingestor-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "147b33be437ea7a1ef84fa8e097a08706a306f39733cc44014b059c0ed39a45b",
+      "url": "a6/88/cba29bfed0fd91b381553d293d63e315a92cc23a5e42c2648567511e63fa/iocingestor-0.2.0.tar.gz"
     }
   },
   "ipernity-api": {
@@ -14793,6 +14775,10 @@
     "1.2.2": {
       "sha256": "66c9e3b22d7002f9a4aab46a37a728a46afb70cdb8c4344021a61bab128d2fe8",
       "url": "28/0e/5e6f6de155fb199b12d50b13f7b87f8319b9dbe5078ae933bc7fe7a86fec/keras-trainer-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "1b436c09a3613d87d0fe67c20dca9841dad1ae4cf9edcaa890342b5b864c0382",
+      "url": "18/fb/f9d0a133976b4f3b64b5226171e00fe707ab0e1900dedeab319c682ebf01/keras-trainer-1.2.3.tar.gz"
     }
   },
   "kervi-hal-win": {
@@ -18004,6 +17990,10 @@
       "sha256": "c7ce4a30bbde2f7f885cee8d039425828ae35359618002097c7cd850dcfe27fc",
       "url": "d9/60/5c3b607fd1b6ff36ed49a58bfeabafe043720f9f7037f6f6963d2d820682/mypy-boto3-mediaconnect-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "4e686f0ffacb7dce649cf2ae9ceb50f5a8c9f0068f186d69075c2404214215e8",
+      "url": "be/52/88e5ef47752ccf0aca88f014416727f9794878e76bd3fe4337cac43defb3/mypy-boto3-mediaconnect-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "820783629c7c5cb2cb40a4451d49090cbc6ab739a72021dcff7d13489431eb6b",
       "url": "5c/2d/adb323ec67e120a8e1138419e8952a847f999fda523f00cb90a044096134/mypy-boto3-mediaconnect-1.12.5.0.tar.gz"
@@ -18449,6 +18439,10 @@
     "1.12.43.0": {
       "sha256": "f4cbd545d447b5edb24db0a7a58cc73d425a6749874290890d13df69dd3939ce",
       "url": "53/52/aba1eb540a61e0028a5a3f268ce05f75710ff3f795bfab5d833833366ea9/mypy-boto3-sso-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "0652e48451f2194f595f9d822c4c2bb0405adcc9c1dee2cca03bbd4b4fce1bcb",
+      "url": "cb/14/02c5d314e6a255b6a790568b1ff1c3c930f89ce38d421583b76fc0f07999/mypy-boto3-sso-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9326354bb633eca129650ec82c78f61df92fd93d048504c5a186b1b8edd10618",
@@ -22912,6 +22906,10 @@
       "sha256": "88bae769e55b390255e8bb94aeb53ad85809dc5bb4f8d878cf1e2c9fa621ee40",
       "url": "8f/27/b20904b961448af2aa5928f7df57724686929eb9983baab9c5efa1260e88/pycvodes-0.13.0.tar.gz"
     },
+    "0.13.1": {
+      "sha256": "b59e63f9ed5b734b2d44d9854882e30e9a366d086422cd57bf37deb54bd0900c",
+      "url": "da/52/99456ff813a22d90e46c2fd2c543cea7ab00e151d4292c6896b7f1a62e57/pycvodes-0.13.1.tar.gz"
+    },
     "0.2.0": {
       "sha256": "b3f35fd985a956e62a4a2bee562a47d09d85a2046472b2259ab67acbc0c65a98",
       "url": "50/7d/88bf0561d0d46203d46a7edd71352ae327c0e812cbb38a69db29947d9e25/pycvodes-0.2.0.tar.gz"
@@ -26837,6 +26835,14 @@
     "0.0.3": {
       "sha256": "151bcfd3c22658b0102ab585fbe0c3bfe8a0b34a8e80954aa7197bd2e8679755",
       "url": "93/dd/5464078b28eb41d785f00023e60ed0c5bd2ebb96660b4d08884140dd934f/ruppell-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "ec0de66bdb3df977e09f0c5b87c367153053a8d4a533cd6a5f14c7e2937b2b01",
+      "url": "4f/04/2e3b0a83b57a93262be17727c35d1dddff3eeb6d07697883b8ebce022553/ruppell-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "a4d203c2a681a49b4c5ef143a714b3f0c63350ad9fdb2ba32488582db51c2f1a",
+      "url": "34/36/a285b63d184dd91ed240bf953ee00bfc492f8e48d042ef242f2f5baecd14/ruppell-0.0.5.tar.gz"
     }
   },
   "s3-streaming": {

@@ -1139,6 +1139,10 @@
     "1.34.0": {
       "sha256": "d34d9551c05e28a5614c641844786420c61af2cf6ef8947d050a7fb94988b56e",
       "url": "65/ee/46394f7b9ae9b470cab7cbdc3ac7ad0df55dba362c8af9ab5174c6f182a2/aws-cdk.aws-chatbot-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "826dae97e959a6b2916dd8f6084460165032ce65b6252017020a89e977843247",
+      "url": "b0/62/3d33473e2a6b34b6b9cf63fc80819f99ade0c9d865cf4267d5ee66c3a1f9/aws-cdk.aws-chatbot-1.34.1.tar.gz"
     }
   },
   "aws-cdk.aws-lakeformation": {
@@ -1281,6 +1285,10 @@
     "1.34.0": {
       "sha256": "d9549a426e7c1c3778fea140d5c0e3c07f1976124e43bfdb3bb7e0e2c1e867df",
       "url": "fb/cd/f3f0fa7509841aff8748756d03252e85451032c6076634d7c2621cf9079e/aws-cdk.aws-lakeformation-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "43acf5983979f368ca3f341e400a80d48c0dee799e8b389ee916f3e5513cf844",
+      "url": "b4/86/691b3698a23e4dd1d7b01c1a4dfb8d8b71081f2af967cdb5cebe6336c4fc/aws-cdk.aws-lakeformation-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "80bda0a1f9a6cadf7765b277789a3e2a28a47a64da2e014fe207057a005decc9",
@@ -8201,6 +8209,10 @@
     "0.0.30": {
       "sha256": "b0d2195cc51a2d3a296d7d50cd0d051dd84c0447327112d83da10984e04c2eb4",
       "url": "ce/d0/edcc3d3d389bccf1cd4e067b5e56328200de1ba56e2f08f6e169913ebd12/finanzen-fundamentals-0.0.30.tar.gz"
+    },
+    "0.0.40": {
+      "sha256": "34efa4add5046ff1e212c4caa1fc6bc4c414f311d672198b78d75ea522f71146",
+      "url": "5b/88/c7a21b8a867f12ca34876eeaca206f7625ac8a5aa00dd3651ef2e193f4ca/finanzen-fundamentals-0.0.40.tar.gz"
     }
   },
   "firexapp": {
@@ -14190,6 +14202,10 @@
       "sha256": "84a805aac357cd57c78be07efc8d55aa0540c519eb6ae21229bfc5d34c952e6f",
       "url": "41/ac/6d3554a68bbb195069dfbd0b5f0fa1a0017dd89f1c10b22dacc9c9ba810a/mypy-boto3-cloudtrail-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "49b889b98ff04478f92bb43dd642114bece020302e24967a2ac27a50bad184ff",
+      "url": "5e/5f/473830bb48ec11e7f5153335c99011cb041be6b78a709e4c88d61937e007/mypy-boto3-cloudtrail-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "12a7718459ac920f6c4eed61fc6fe2e0a93c912df3187f58df0b0a40e4b7db31",
       "url": "6e/fd/42b9fec88680fa56267ef03bd8eaf30fd5a485bd659b67efea49920f7b87/mypy-boto3-cloudtrail-1.12.5.0.tar.gz"
@@ -14699,6 +14715,10 @@
     "1.12.43.0": {
       "sha256": "4f02d8287a96c8f4eb3b5e8ed5d4c81bdc83555096ecf2f0b1ccc6a889b9f407",
       "url": "7f/11/97f4903fd75ed4a109d58c05e969b13baba27f290dd266a8a24a17e546f9/mypy-boto3-marketplacecommerceanalytics-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "0ccde6d216f4921bdc1eb240aa08a32b698f75ebd038abd01fd1ad5dc4c8ef41",
+      "url": "63/24/53805ef497c72b2c969ab8b9631b3fa2b534a2a8033dd316292330fca68d/mypy-boto3-marketplacecommerceanalytics-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "41ad8725662e7af55b61099c79fe7f8e61996768880ed43b93c351cafbec2762",
@@ -15210,6 +15230,10 @@
       "sha256": "9b184942ee5ddb4e487ed28084af0744d59fe5ea3d1c13f7a2bd98a3ae6ad9fd",
       "url": "93/d1/2cd83699d2da11a494b47a2582f4fa449dd62252efeaad2e976af68653f4/mypy-boto3-mediapackage-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "409f14bb0a5dc0d71b97c4c2967b39e5b1b3b126952ce30a9e6bb1588d03d7a5",
+      "url": "76/9b/a057ad500f4299ef4fa894a3e2465df2d8f41f818d2ec60cd1a062775394/mypy-boto3-mediapackage-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "f8e8997d3acdcada67839bc0f01bae1cc8143a1d2a7ce5828a21803b9a890b01",
       "url": "c9/52/f6dfc85b4367d38e3c04e3b463b7d280f4e2f8cf405e5b208788bff1c754/mypy-boto3-mediapackage-1.12.5.0.tar.gz"
@@ -15719,6 +15743,10 @@
     "1.12.43.0": {
       "sha256": "1e5105e2d9731ab16c2ef6811efa43578281076cc6445109c124df755c527acc",
       "url": "8a/99/e6ea6eb6d57fafbd4a4bd5bfbb921ef984e0f176720a413b22355b921eed/mypy-boto3-opsworkscm-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "6ecb768b822d7dcf2d1e3bb9e7b62414c7ce1fadf5211e58ad459d9e5db638d9",
+      "url": "4f/d3/ec03459a3aa543aff5c28aa237820a259cf42815c8fcdb521de9d1056a5e/mypy-boto3-opsworkscm-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "4f12c030f7d7e95da716f4674eac64465584bda68b7832f0b54f34d1430f1fc2",
@@ -19085,6 +19113,12 @@
     "0.1dev": {
       "sha256": "1745e3cf503c9739a03ed63384e38e7ec98b72ce8e453eef9f7e393ef6240f44",
       "url": "09/33/21736fdbced55d23ba1b3c953bace5c15d5d7f2f647813b6c6b8805d7d4a/PySky-0.1dev.tar.gz"
+    }
+  },
+  "pyspeechkit": {
+    "1.0.0": {
+      "sha256": "fbeb1542caa05b38eec2f859459695545992e8eaf2e9cdff672393c4752b572b",
+      "url": "e1/91/318d96542da573342529e6be794caffc3073cf49316a9b5eab67740405ed/pyspeechkit-1.0.0.tar.gz"
     }
   },
   "pysummer": {

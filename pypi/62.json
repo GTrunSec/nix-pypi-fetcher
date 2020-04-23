@@ -505,6 +505,10 @@
     "1.4.0": {
       "sha256": "cd93ec3e68ccda4b61f7c6de0421682f0dfbf3b5c3e6f0de3cf244c72e83cde0",
       "url": "20/1b/84b4edc60161205fd597cf654efa6dd97b80f16516f022ac53251a68af1a/ansible_alicloud_module_utils-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "2cd62aa378a8575577a78c83238f7048a01277295118523f5da6156e4519593d",
+      "url": "1e/de/aec4af16f301b6c8d7b07eb62599e6890cd0b8fc58d5b0414c63365a22ac/ansible_alicloud_module_utils-1.5.0.tar.gz"
     }
   },
   "aopclient": {
@@ -1263,6 +1267,10 @@
     "1.34.0": {
       "sha256": "039bb48ed9162f478f1f47f0d2331ee43c6add90c9a7cfe1f95c6f88064decce",
       "url": "55/6d/6f4b2c9aca92d74899ca3210d9828545a7b1830f5220ab029a557ff843c0/aws-cdk.aws-eks-legacy-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "599e663e016beb66231cd9ac16b43587ceda2d8fe227b58061cfffdcadddb06e",
+      "url": "32/cf/5cbde53083d78dc244495acbb04e187ad44c0016c819b1963403a8a80869/aws-cdk.aws-eks-legacy-1.34.1.tar.gz"
     }
   },
   "aws-lambda-event-handler": {
@@ -11075,6 +11083,10 @@
     "0.0.6": {
       "sha256": "1442068ed18a0125e163c1c375861cff5e9f60c9b0e5f79bb5f908cf73db4b6b",
       "url": "d0/6c/c65e0c08832b5abc361376c5711b1e32213b45f8b8da5f42020af2a73958/http_request_args-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "ccaf8afd611bd175fbc26429f5228e3d24222a6a5cb953c6ef873040635d3d61",
+      "url": "22/54/94146b56b41b9ae378db0c049b5b47f2c194645daf2cb038569087c5dafc/http_request_args-0.0.7.tar.gz"
     }
   },
   "hug": {
@@ -12445,6 +12457,10 @@
     "0.2.0": {
       "sha256": "9f77344d7507cdfbc2d62fae7f21a32587ed27889ad4378e8eab1ad2c1babc04",
       "url": "a0/71/afc727bfb2e104e1923242163ca24a203bd1bf377672a63773435e61e3a2/kaczmarz-algorithms-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "4c851ab763f95d66e1ce99184f11231ad09ec72695befaf6e12c631a0622a312",
+      "url": "f1/4f/59c1712c6123d57f69cade073d8311b5439a977c50a3e16cb8e8f241cb9b/kaczmarz-algorithms-0.3.0.tar.gz"
     }
   },
   "kafka-rest-client": {
@@ -13561,6 +13577,10 @@
     "0.0.3": {
       "sha256": "58d8259503d073141e7f638b7c6967ab0991e6c725e8d91a801ca53f0baa7dd9",
       "url": "c1/d0/9e34109c636d05ae51e5c0514dceaec7702e603365684c0908b2d18584c7/metapack-jupyter-0.0.3.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "0a13c5d9d6a3b9dba72201c276372ff221082cb8e6dd693b3f5dedf4b87f1eda",
+      "url": "31/3e/601e0ab398afd57acf2f1cd689c00beba9e211e32e878bb80bd774a6d1b9/metapack-jupyter-0.0.6.tar.gz"
     }
   },
   "metascrapy": {
@@ -15455,6 +15475,10 @@
     "0.3.0": {
       "sha256": "3037e4bfb02524adef776468c43f4accb79690776977731080b6d32c8f62190a",
       "url": "d9/86/eedf19abd1ceaae82ab5f2845685a5e1169a930205bed209f5112ec776d1/oswin-tempest-plugin-0.3.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "ad824f021bb96ccb457527a8eeb46d2879bc95da70c2b7fc5dde78769347ace9",
+      "url": "71/0c/2f668802df231df794f0218a94fc7e1c6796eb320dc70582303e2f5b628f/oswin-tempest-plugin-1.0.0.tar.gz"
     }
   },
   "ozymandias": {
@@ -16675,6 +16699,16 @@
     "0.1.2": {
       "sha256": "9efcd6c1d3ecf6a5da0b2b44d23fe0497915518150dec5bd81585bd43b9c8a0b",
       "url": "4e/a7/45591adb6c6cffa13da4c691cd9f491ab774745281a6cc724bdc469c10e6/pycose-0.1.2.tar.gz"
+    }
+  },
+  "pydefer": {
+    "0.0.1": {
+      "sha256": "d638ec0b66aea71cf4535ff35e53be34847d5a1c138effd955b5ef6c6c31bd16",
+      "url": "a2/15/d5a5514370204effa190b60fd91720526fd5eacc153834109abe3ded07f7/pydefer-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "7fd71e5567c643542d0e92f43a9500ad99f44979d82786436f7f58e150b557ad",
+      "url": "08/9d/8a3eb93ed90e1ebc9886aa708af95d2b4b63a1c61b0c7d23ee078710ceba/pydefer-0.0.2.tar.gz"
     }
   },
   "pydevto": {
@@ -18053,12 +18087,6 @@
     "1.3.13": {
       "sha256": "6fc9f99c468130aab4174a7e32a67d982431508cba97fa6bcf091aa5735373aa",
       "url": "96/a6/a82ff91cb37a8e2df8123b8d5ff70920bef19acc2a1330592465548aac63/pyweblib-1.3.13.tar.gz"
-    }
-  },
-  "qfast-uq": {
-    "1.0.0": {
-      "sha256": "281b60a01ccd9e2666c0de9daa928bba39c77ea3c5b68b4f68aba74d6131fc54",
-      "url": "58/97/91c2186fa898f14b36ccbc0d958175260d4cb80b52d401d0f61a89fd7bf9/qfast-uq-1.0.0.tar.gz"
     }
   },
   "quantiphyse-asl": {

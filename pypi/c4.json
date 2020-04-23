@@ -1516,6 +1516,10 @@
       "sha256": "b57efe1d04ada690930c9aee27c43d2bafdc4feb54d8864e2017b72af93440c7",
       "url": "a9/58/78af6d505dab736c2d8b2a793fd1e89bbedf980bbc77568d8dde999b08aa/aws-cdk.aws-appmesh-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "620bacc1a491453d47eaeab477a0c88240570bf241ad725d9a55beba868d8909",
+      "url": "0f/06/31a7d4dfed420f997d57cab757db0dfcb7abcbc8d87f972cac2c0c1e09bc/aws-cdk.aws-appmesh-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "ce9b04fccea545d203c11a9016ffe3b72e1b96dce9efdfd5cc8cb6afd5850d15",
       "url": "d8/90/4e15a8b4199cdb549b3ab0b0f2ef1547ff4b04186359bc471735b36d4cbb/aws-cdk.aws-appmesh-1.4.0.tar.gz"
@@ -5865,6 +5869,10 @@
     "1.0.0": {
       "sha256": "f5a5c6431ab00a78959f7930a79faaf488b2fe8a4eddc4297ef8cd593e74868d",
       "url": "ff/00/5f4a07fd1c7bc1d7e0ad828cf548e27da9fbc59ce418745c8905b38b6b21/django-split-settings-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "2da16cd967cd38315ec7ff0ae0c9db8488f8528bb2e5de26cd898328dc4bbeac",
+      "url": "32/cc/3499310c3f1dd2b5f68018e0818318c005ddc0768edb7af2f0df72cbba46/django-split-settings-1.0.1.tar.gz"
     }
   },
   "django-superview": {
@@ -10451,6 +10459,64 @@
       "url": "d8/d5/da8da9fe4bddbdd10eae0923a634d9ffc6fa2ce27a848a7d0e40cb0d604e/libmoji-0.0.5.tar.gz"
     }
   },
+  "librouteros": {
+    "1.0.1": {
+      "sha256": "b9cc97c05d5d74260990903744aa981034ca3a6c8fea5efdba96102d4b673867",
+      "url": "ed/7a/541ea3c41a7a61612af0dbe2b02946748d7051093c2c4563d4a2cc320e68/librouteros-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "36c610a8e2a23724d3ac54be521ee9a7f7667da6b505f34fbed63c0710cb03d0",
+      "url": "0c/0d/29ead34a14a8fa4c2e06c76a930d036986776888f76c1eb8842a0ba95bff/librouteros-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "0c861d7f3a042d67bcee76d9107e516752844191a87a7c748004fd3b77fe4872",
+      "url": "48/dc/b3d1364e1818ba529ecafac9a7c3b1b59676a246affcb5ef21a3aa86d7a2/librouteros-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "efdd13a85ccb65888e4bc0d4f9e8fa2ba3ef38e0bc662731c59a22b740cbfe19",
+      "url": "3a/a7/f1c0ee1dea23707960ad704ec1e67dc11af82a518b925beefc7d4cc97330/librouteros-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "deeae9d6522cb3015a450fa87d8825b7108b5c863d57b6250ec3d6623a7172e7",
+      "url": "93/7d/98cd8cbe55a11c5f2a690a4d89ebd8edf4f9a7463e9c0100fc39d5e15275/librouteros-1.0.5.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "13d09baca53fa1c889b4c6a4c2720cfe5556569fdd9cdea0a1cba59dd619e903",
+      "url": "04/de/3586a56bd2681fa246e910958fe91df7eb27384882e1511dfda6152ad7fb/librouteros-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "cadc4887090dbef80c220ecfa2e406037d2374aad008f02a128976bc2e60b1e4",
+      "url": "c7/67/a7e85950a27bd04e8be118dbdcbc080ad0f9febd8003e50b7c604ba0f3af/librouteros-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "2ef4974adb536408f5832f8cc9d6ec1c50dd8618436991c4355840f5abecfe60",
+      "url": "b3/e4/53c4ef8bc2be623c997cc35ec2da1eb20c5ebb8e896a8e5158286035418e/librouteros-2.1.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "a8463ed01d97460b4b2a0b5e7f58d025c875b4e705de9551a1b318d9cb0eccac",
+      "url": "7c/56/4dccc50a9fd147fbe481ada0694782e3fc96f71ecb6c112d0d6aacfdd1b7/librouteros-2.2.0.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "9128eaf6ff3df1ab875889a0ffad7ae627567ab48086ecbe1517776aa9403f1e",
+      "url": "22/d7/459da0bd55f5ea1c99966b7d796184e09491e2836b06d3fb373b408f72b2/librouteros-2.3.0.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "c70e985dde29b8dc6709d9e773fff1fbea46aa82f05e2ff79e3994c95e5619bb",
+      "url": "ee/7d/c63bc54aa577588d69ba7bba82e9b141e3e5cb7d9541d3ad1d8ecffa38cb/librouteros-2.3.1.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "e56392fa8e29c4ecfa343df0f17b193a35108383b13d7895bf2dd64839d16461",
+      "url": "ec/4e/7c0e6c780b2f3e603cd48e1118daa51b5969ae53e735e8d991bc7f65dd0e/librouteros-2.4.0.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "12024e7bb475b33c065b57f8c6ca592d493605faaca416efe2fdf770a6aadb59",
+      "url": "7d/5c/efb8fefdc8f07058b4048209989ec3b1abd47a671671883badf360f51bd5/librouteros-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "c84bc1683cca20e2b68d58bebc275f0d0dd511f186a14dbeede4e4ae9cdf5007",
+      "url": "26/76/a88737f629250725aa3ce5cde2d427436fdaae5200129c17afa0d8326c72/librouteros-3.0.1.tar.gz"
+    }
+  },
   "light-cyr": {
     "2.0": {
       "sha256": "b3d0e3b3b2c48424cdc25734a9322969f2228a7bdaacf7aefbba84c02cf575ae",
@@ -10927,6 +10993,10 @@
     "3.9.0": {
       "sha256": "019e6d5de14d8a17d6bb68320a3dac290c1acbaa70571c292648bfd67402d323",
       "url": "a5/e7/3d0ce4600fda13534adf3728114586a26dafa420b8240433d66d420c45b1/limacharlie-3.9.0.tar.gz"
+    },
+    "3.9.1": {
+      "sha256": "f9f9cbcbffece34db08d6e7c5d5c064dc1a225d777d6a63400807b3c5dcecf66",
+      "url": "7f/b2/74c2189dd39ebdbe0d2fbb7ff8d071139b4a07ebb9d13b7e1e71f84d8ebb/limacharlie-3.9.1.tar.gz"
     }
   },
   "linaro-json": {
@@ -19159,6 +19229,10 @@
     "2.4.1": {
       "sha256": "98a60c41d748272b3c27b1e2b569d3f8652078ec50dbacc9e6e780c79f57991d",
       "url": "a7/cd/0a9d0dc9602d1362a228cb7fa69cf62c708076a389f86024eb5842b18eb6/service-configuration-lib-2.4.1.tar.gz"
+    },
+    "2.4.3": {
+      "sha256": "9febe88ff1a4b259a8963078e551ac41cb02b7637c18a457e3b7176401ef8c78",
+      "url": "a3/c6/34a820eb5dda6f8b4036b11c470eff1ab08ec8f4d6d17d2910c406c999d4/service-configuration-lib-2.4.3.tar.gz"
     }
   },
   "servisbotsdk": {
@@ -20455,6 +20529,10 @@
     "0.0.228": {
       "sha256": "742ec6e5510f940c56aecb756a3aa04587f39273d52df391215711ecbac7aab7",
       "url": "f2/1b/41c59f4c698dba05d04abc8fef51da423dd01dfeb4b7a14d958d4718f820/swh.web-0.0.228.tar.gz"
+    },
+    "0.0.229": {
+      "sha256": "481fccc2d87ff7daba857f3e9a161a9fc4105179478170703275bd6a4128431b",
+      "url": "2a/53/b95c115d12e81b18c1cc7595192b0680ea9ebcaa8e35e5207faaba5e51e4/swh.web-0.0.229.tar.gz"
     }
   },
   "sympl": {
@@ -20957,6 +21035,14 @@
     "0.5.3": {
       "sha256": "2f9037cf2774035684d6c151a8376e37760512db6539c221c2ee8624aef0d9fc",
       "url": "9e/25/d600d55eadfaa52aedb068bae5f80cac792145438e81a8ab572ab2515be8/tgs-0.5.3.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "d3b4ffda8c5599d9a87f09ce3b1722129ef076157de9b6d30ec07650e24b8873",
+      "url": "3b/31/3a93fe3ad374e720a019fe3d75913b4333dec01b753699ba655e8aea7e04/tgs-0.5.4.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "155893eb77b36e7baf267d8409b5f6cdd47765d318c49fa8ea0477b3266ed62e",
+      "url": "99/89/03e1987ed41e346ff8dcd61d764394bc6c8e5fac2385d41546654c616984/tgs-0.6.0.tar.gz"
     }
   },
   "thapbi-pict": {
@@ -22603,6 +22689,10 @@
     "0.6.17": {
       "sha256": "d9ea2a19e72439f5e9902526aa242d9d6cd1181474283447752ed8ba3dea344d",
       "url": "59/f3/0fb04803d1a8df5d4c2db5964cced998d1cc645a0dc3d7be68d025aa511c/v3io_frames-0.6.17.tar.gz"
+    },
+    "0.6.18": {
+      "sha256": "f744cee94975f056f61094fc409ac50aba7e79bbb3cca33bc113941e8089b788",
+      "url": "a7/78/a0af4af7d86b0a86615b5ee4a57d61f493133d83106dbe070213b37023ea/v3io_frames-0.6.18.tar.gz"
     },
     "0.6.2": {
       "sha256": "1113bf1915ae7e902365f02ae4193813e2052c8625cbc59100a8c6a3e541753c",

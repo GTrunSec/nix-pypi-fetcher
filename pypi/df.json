@@ -653,8 +653,8 @@
   },
   "async-responses": {
     "1.0.0": {
-      "sha256": "337456e45b109d42c18b9e9813a88b5fe22a9ffccfb541907b9f390df24139b7",
-      "url": "c1/ff/0897f534bd525dc77ba1f1bc5c738fbc4d7c4cbff1166749e5b29b54ab3c/async-responses-1.0.0.tar.gz"
+      "sha256": "7669ea9765aba429406f61ec196b7cf016448e1285dc3adb8431d7182ce92055",
+      "url": "f3/4d/42303987b6c9a9e861d1d9b219289cc61e387613dd84af2f0228ab0a29a4/async-responses-1.0.0_2.tar.gz"
     }
   },
   "async-vk-bots": {
@@ -4741,6 +4741,10 @@
     "1.1.38": {
       "sha256": "0c3059876b5ac261452435ccf1ece2aa9039999872067214adc291ccc1223e1a",
       "url": "92/48/20fb450ed4a8dbd708885627cb3f8cb98c9869635f9b7db5340926494c2b/django-codenerix-1.1.38.tar.gz"
+    },
+    "1.1.39": {
+      "sha256": "1a0511835fdec01160471031ed734dc19ebda70415f0c7b922bca480dc6fe1b4",
+      "url": "af/ab/2fb425c74efa8a7325975eb8a48284f22e604c2bebaccb7d45249c49c90b/django-codenerix-1.1.39.tar.gz"
     },
     "1.1.4": {
       "sha256": "a113546aac1f5fdb07ebda61af42105b9a39ba702fefa12d70b7004cd53db45c",
@@ -13271,6 +13275,10 @@
     "1.2.0": {
       "sha256": "56770d56ef44c8f765644e35ac6e95becabf67ea7dc8e5a8dd51cc3db2a3580f",
       "url": "1b/01/9048f8c641193b1032e59893cb6c6d6db1d62271200ea42e98453ae95326/niswitch-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "0e3d3c0accdd944c719edad5f7864f43c92d400bd3e0e1d5b9a3530e2a74c2b5",
+      "url": "85/48/8d741358a0187fceff223c6a19623a9939caf0b649bf938fc6da73a2cf06/niswitch-1.2.1.tar.gz"
     }
   },
   "nodeconductor-auth-openid": {
@@ -14807,6 +14815,10 @@
     "0.5.1": {
       "sha256": "2b9a88ff0fd31e7d27a362d3e36e6e75d8fbc339c9c4367f4a97b72b22e6f4f4",
       "url": "1f/d4/69848c80085ed047e67776d8dc0f4c5895f6f0d90332f07a397d233386b8/pip_shims-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "423978c27d0e24e8ecb3e82b4a6c1f607e2e364153e73d0803c671d48b23195e",
+      "url": "52/6b/62a232d019f94fa00697f7fd8fbd26fc538404203b0177f0330bceb40372/pip_shims-0.5.2.tar.gz"
     }
   },
   "pipeop": {
@@ -16183,6 +16195,10 @@
     "0.2.5": {
       "sha256": "d920f405dffa70df94738c5ff2997a85873a7d997f048845538021a269c56cee",
       "url": "12/3e/9773bc2af1c899307f8ae152029c2036c6d561e7c962328809e4968616d3/pydantic-gen-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "77422273bfa0c380a51aaef48541417c7724049de2ad109da54bd107887e2ae3",
+      "url": "e0/7c/f8efb7fddb356b65d27d9ff38042a5cfe46e97b8192c7a97a7acd9859ff2/pydantic-gen-0.2.6.tar.gz"
     }
   },
   "pydataflow": {
@@ -19367,6 +19383,10 @@
     "1.0.2": {
       "sha256": "011946ec47ef91737494a90ffdbca4fb96097e1e34b6421248056f1ebb8d9cda",
       "url": "cc/29/769b3295575d70dbbf6b7aea41fed12137448c6ab23e5f57d0338500e2ea/serverside-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "24fa58e0263eaae4b9aca85f079cddfcf5e3d69fb26b00594af9b17916744ed9",
+      "url": "92/30/0e0751dc628f75e35e2380891e8b28b6afaf8089397c2e6bc721f4a51e14/serverside-1.0.3.tar.gz"
     }
   },
   "setuptools-shim": {
@@ -21625,6 +21645,10 @@
     "1.2.0b20200421": {
       "sha256": "e5cbd496d8bd423799244f02521560bc5764c03bb963158bb0e3baaf401cb99a",
       "url": "fc/46/b01832ef5964cdbc78d6d64329d7d861a9f564106de80aaf2cae172142dc/torch-encoding-1.2.0b20200421.tar.gz"
+    },
+    "1.2.0b20200422": {
+      "sha256": "ba3104fce0d74906a285812812feed93526c048c872723485dcaf38fb34acdf7",
+      "url": "36/33/09c1d70c6e30694489dc36eedc9f355d2eb104f10c03f17361687eaa397b/torch-encoding-1.2.0b20200422.tar.gz"
     }
   },
   "torrentstream": {

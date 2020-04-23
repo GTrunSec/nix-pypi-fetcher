@@ -1010,6 +1010,10 @@
       "sha256": "7c3d0972cc264983416dffcbb6fa0fe6213716417444bd4e5339ec248bff03c2",
       "url": "6c/4d/550038c0b4cfcf06f77ee05db033221868c03e75ac9e7b84191a2c79cddb/aws-cdk.aws-ec2-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "63f208f188a7f370180c1d43fc2ea1165119aeecff24c0dcffc4ff31b87b2b35",
+      "url": "20/98/46d5be00168338d3354a36b2fb2a542dd429ba13e95e255ab5985e340948/aws-cdk.aws-ec2-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "4acd4b78a5fdaeb166fdea2c15aaa02e2ded7469cef1dbf14aa27fad54bae9f7",
       "url": "cb/f9/9ab412cffe183a0c2782896e7d379084dc02b9974405a6a7e5ce0e9e9815/aws-cdk.aws-ec2-1.4.0.tar.gz"
@@ -6896,6 +6900,10 @@
       "sha256": "cf4b4669b3ffa155b5ab06d5f18e03bd4b601c29b9d522e5428d3f803790f19e",
       "url": "88/13/ba13353c4a5eb18c79d02387f3a390a786e6a34e1c01bf582ac8620887ff/footmark-1.2.1.tar.gz"
     },
+    "1.20.0": {
+      "sha256": "997dcca79d4ded5380f9324a3bcfff7b602559d0384ad813c9732a786b384e2e",
+      "url": "57/7a/8fd327b197060e9b61f8d657c404a28478bb7a724f8d3669cc5fce6e4f4c/footmark-1.20.0.tar.gz"
+    },
     "1.3.0": {
       "sha256": "bdfa4b98cb70030cc8255826cbc9e62c4c5d7258cd4d4a92444b8a692bb9b9eb",
       "url": "f8/58/e8249cae80bcbee359b9f58edfec0a8367b0a0bf95620cecc0f6ac7fa038/footmark-1.3.0.tar.gz"
@@ -10325,6 +10333,10 @@
     "0.1.4": {
       "sha256": "afbbbe392fa3cc537ebffe4de70dfcdcb5caf54303e27e40812cd18fb12ef643",
       "url": "9b/20/80b5718eb6be1feac123147deaa61e44fc47981569676d4ce0a654670182/implements-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "215fd817132fd1978d1a7803d555c8a878e82414c70f3e6a0dee69cc52e4d776",
+      "url": "9b/ba/3798ebf643b965041be6d2e5198e8d0b5564ab13095728fca2506717fa61/implements-0.1.5.tar.gz"
     }
   },
   "imprimatur": {
@@ -14172,6 +14184,18 @@
       "sha256": "1697ee35ff8ceac2d6358a751b4d7f64e44c1ebbfe562070807c203a23fed2e8",
       "url": "58/1b/7baea2a690aa1f18f0c5c576afeb3fc57db38aa3cb4617022c4450774bc9/mdml_client-1.1.14.tar.gz"
     },
+    "1.1.15": {
+      "sha256": "694375f44c168991ceb56ff7e85474c622017949ff8da47a64213861d733e04c",
+      "url": "75/de/1bfde73683e69752ba01941c99b4d9fade0dd519a714198cab52b20fca0a/mdml_client-1.1.15.tar.gz"
+    },
+    "1.1.16": {
+      "sha256": "dea4c1526ee26ad97fc62423c1d56e9c732bc0d8d468bed113acff952741966b",
+      "url": "17/39/0ba560af682d87e550ef8a875d96bcb60c6a85bb6515dc66278f582feb04/mdml_client-1.1.16.tar.gz"
+    },
+    "1.1.17": {
+      "sha256": "9eafc250dbe9a088a49bf8d8384e859f39f81ae8c7cfd73c343e0c6355477f1f",
+      "url": "68/7f/6663f165b6ab2f514774c343deeeeedfcf3bc163be362dfb9a24083eeeaa/mdml_client-1.1.17.tar.gz"
+    },
     "1.1.2": {
       "sha256": "d1ba1d78c5f9ea47e9748077b5b62493fd416b947dbb972318894fa4f203d8c1",
       "url": "14/17/ddc4b2c675a9f4d2c755d8b786a304a31a4d5378297efadd6635ce9fbec5/mdml_client-1.1.2.tar.gz"
@@ -14545,6 +14569,10 @@
     "10.1.10": {
       "sha256": "09093bf4c6a42f2eaf683e72fb9d227dc9aaff8c982811bcad6a2f8b65c64120",
       "url": "37/15/118b574ee69fedbb2edaa03df1a1cc4226548dc58fda5070069a39a1fb88/molo.core-10.1.10.tar.gz"
+    },
+    "10.1.12": {
+      "sha256": "3a56bc56a9768200039086692588c01b0784c36e7629ed40216f9116749d5116",
+      "url": "6d/da/ec29576ec113cf082f036b6700102cdd1e91e304b980425f3d7e7b7388f9/molo.core-10.1.12.tar.gz"
     },
     "10.1.2": {
       "sha256": "c07bf1fc62590f83bcc085ca9ae9a88d8293abba5f6f8e31dbd52b8a2ac7fd55",
@@ -23855,6 +23883,26 @@
     "0.1.2": {
       "sha256": "3129161d467345c5de0583692d08c5cddcb56d5faf63cb0248e7c2acaafcae19",
       "url": "f9/f1/10dcd5323851c0fccca857f3e88c5fb92d72148edd90e7c19270c78edeee/v2t-0.1.2.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "afcff6bf138fba38959a279696f648b37e50e523370233387ee3997106df8ab9",
+      "url": "5d/6e/796f9bf8298c8b4c666a65980cd4aaae4e8222c4bf2c62804e7e091a2123/v2t-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "7c7accb7f42815b8d6d435eb7fa8d509d9bfd1f055d5959530ae2227b177b8c9",
+      "url": "e3/a6/ca5d3a3bf3babd005d51a13d93b218f417306c2f5e0b9615a0d9331b569f/v2t-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "3727b2be9beebd665fb16a8666df20ba88a8c834edb582f7463e9429ded1726d",
+      "url": "0c/83/34aa1fcdc9287b28df42c94efac3d082e4522d8ff86eb013f82bef457da6/v2t-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "fa478f77ffde5ad5ba353fbfea47f28b95da34076c2c0b2c8c6fa678d717b016",
+      "url": "cf/f6/232e190331f9e8c4855d7eb595fb8f94d49f4a87df14200f52e8e7bd0b1e/v2t-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "ced398d2a5b1b2dd761a6af90317b36e6a7972a353f88bd878a52f3edc550bd1",
+      "url": "59/21/1ebe2231eedaed31d3e52e4cfbe96d7aaa8c9652aa1efe4332029f2c0885/v2t-1.1.6.tar.gz"
     }
   },
   "vald-client-python": {
@@ -23965,6 +24013,10 @@
     "0.0.31": {
       "sha256": "62697b2e35a807eb3b5e0188616a9912dbf4448d67a1ea53b7a9686538270c88",
       "url": "aa/4c/7d1577494fdadb48301d8950f0c66c84ff39a0141feb1e09afbe73c008b7/vald-client-python-0.0.31.tar.gz"
+    },
+    "0.0.32": {
+      "sha256": "8a6637503d8117cb92bfeb1e375f6df8c0c19e25d8a2932498228b6da3e21038",
+      "url": "65/0d/4e18c923c9105cc4c013ba8af45a58095c6b978a7f52fa5183c6f7d67f08/vald-client-python-0.0.32.tar.gz"
     },
     "0.0.4": {
       "sha256": "1cdaa655c8fa9ef43eb917f2f9c5e2eddbae88c47dd737e8557e6d0a3e329f67",

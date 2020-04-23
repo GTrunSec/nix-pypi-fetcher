@@ -3520,6 +3520,10 @@
       "sha256": "a4a25d6d3845d83cac84062d70bfe4ba951d2e04e1733399ee3aa7eb9f597754",
       "url": "a9/f7/5fdca3b040659d07ff82d72a018aa697977f9ac3af4de6086d87c0fd6632/dagster-snowflake-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "1f813ec413f4dc79b2a00f62b34508d1be08a833856b26bbc9206f13a538a202",
+      "url": "18/b8/1879ba17e660cea24fde64a8c0e1ac59e05ce4fea7c82a47907196724c82/dagster-snowflake-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "679104e7167914d7b607f7aca2dca864747ff16d045841f81b71686a7f21a356",
       "url": "5e/ec/6cf910c6f7ee0db80b148a19d526cdb4c4bc825dc6cfdb3be03ff54598c3/dagster-snowflake-nightly-2020.4.4.tar.gz"
@@ -12057,6 +12061,24 @@
       "url": "8c/77/3e002b8bb2cc225795cd28384813a9b33e297fc8755b8ee950286ea1ecea/notimantionSdk-0.1.0.tar.gz"
     }
   },
+  "nr.dotconfig": {
+    "0.0.1": {
+      "sha256": "d6d60202ffc48b719633dafda37fce84d953202fbd029acd847d63d6e7746a4c",
+      "url": "9f/64/e668f28dc5ed5f8807db17eae8f904c90e64cc5ba1aa18d0a2d0ccf991a6/nr.dotconfig-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "df7fa2906aee15498b8dffb5c88407dc8c08947959dd40b5e24a09d9ba142ef6",
+      "url": "57/50/679e4b5af21423add2336c967d37a8ac8466f3fd69bbee359b93b18732c0/nr.dotconfig-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "147df3564b47ec2065e7ccc949c24e9ee1896da5492b153415745c5bb05b1c6a",
+      "url": "2a/61/4737d44b5c981fc8a054512687413a6f27af9f0ca5158176a27f2fc372a8/nr.dotconfig-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "b258cc430123d71dde11485a0451c880885f83ce42e54d2c8ca9d2a2cbbe80a2",
+      "url": "ba/e6/f52c6ba474b6db903d27f5b262cb42183dbc0a8ea14ff79e607fc3de73d5/nr.dotconfig-0.0.4.tar.gz"
+    }
+  },
   "nucoscr": {
     "0.0.2": {
       "sha256": "7fc2f1b2218588f1656b5dd762d2985ae4786473c3562ce62be704838018a87d",
@@ -12465,6 +12487,10 @@
     "0.1.8": {
       "sha256": "e62bc43a7074a8315b55408a9e5ea5ff42ba4716f8d7d69ee06e8840c197483e",
       "url": "0f/8e/d1881ad5c789590b87948852f5348a1f87baee0f0c84a41588c74ae74aa0/opencmiss.utils-0.1.8.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "a9d876576dba30037a7b3f25b67929d352c791536552b89f6b9e8d13d434ffe5",
+      "url": "28/23/65854d3fd45470a16980896885ad66104bad152cd87efe1c2546d8105645/opencmiss.utils-0.2.0.tar.gz"
     }
   },
   "opengrokfs": {
@@ -21839,6 +21865,10 @@
     "0.2.54": {
       "sha256": "734bd11784fd501f43514c92844abf881daa23a09ef9ce989cbb69d0d1b36923",
       "url": "c4/c8/90e45958f761b2dcf125ca7b65536aa7bc5e653b358c71146127645d519d/wkcuber-0.2.54.tar.gz"
+    },
+    "0.2.55": {
+      "sha256": "6928ab33e497d4ee247555a80456ad4289b158400e8494395190bb56e491e5e6",
+      "url": "56/a2/0b3f8e948613e14c8c2d0bef4dba6e94bf7dcc5d7cf7b361f5645ede8849/wkcuber-0.2.55.tar.gz"
     },
     "0.2.6": {
       "sha256": "b0312bb799a2076c81974b0c39bc440e0e695ae083f590d77629662806ff2aa9",

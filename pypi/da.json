@@ -1443,6 +1443,10 @@
     "9.1": {
       "sha256": "8857263de2b0665b0de2239da051a8cde28131946e75579beaef2de2ef9f2b7c",
       "url": "31/a7/0456aae181bc392841ca9682251074f310f9bf2d0aa8fe9f85c022db8698/articledownloader-9.1.tar.gz"
+    },
+    "9.1.1": {
+      "sha256": "0b00b2207b491ac609422d284486f03ab051358b649950094c1bde6b5f136140",
+      "url": "e4/8a/db9f3fe83f21d7ba967c9e0ca366d1f56f97e1c4b6e289d087313d464fe2/articledownloader-9.1.1.tar.gz"
     }
   },
   "astroimages-file-drivers": {
@@ -10678,6 +10682,10 @@
       "sha256": "7c6cd56cf7e74d1efa9f16bd7cbe6f84dca440c294074952e76914a870f0bdd0",
       "url": "f6/1c/62bfd41fc061e7a3b7ac076c2042eddff81c612a5d54c580c1ec16c8838d/moler-1.11.0.tar.gz"
     },
+    "1.12.0": {
+      "sha256": "177a40d63d14709d3e86ebec85e58930cbc504efbede8a09a89f4c8f37a0fd01",
+      "url": "bd/ca/66eb5f0c7d5ee66e091400a7148e8352de224bebdb922f3fcb3e1ab31034/moler-1.12.0.tar.gz"
+    },
     "1.2.0": {
       "sha256": "bb827fd9c124bfb363e00bb340cce22a1baf944dc8e28fed6573c3e29912c9e5",
       "url": "84/ac/e0e53fef126c9eea63a5d08c1a265656e009a47b3b82a0804ae6a465c4a8/moler-1.2.0.tar.gz"
@@ -11729,6 +11737,10 @@
     "1.12.43.0": {
       "sha256": "94fe60cd4d5497fde3ac7ad84423569a047a9408188ac13394753a1d57b83b5d",
       "url": "b6/79/e51730d3a83334c6e986dcdf94b575e4f8169e6b80a04d3d2d74de97d4da/mypy-boto3-wafv2-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "e33ccd56f60906c825f5cf90f940b99e4e914f59c2b30d055b326dbc18837bed",
+      "url": "b4/06/144486f520d2dabb6d2747c189f8fc781f8510491c2abd3ba444e824ae67/mypy-boto3-wafv2-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "0cabed07b854834a84a4a17d9b9b124bd1d7c25fc517be706a391273f88681b5",
@@ -19409,6 +19421,10 @@
     "3.3.0.dev3": {
       "sha256": "7ccc2ed37694f0039c2a2de53f76549f8d6df0ab41ff06df721cc591fd21d3c5",
       "url": "9d/35/4100f547357a80168e1c370a93cfb552e9394cd29e23296704a9adc19bec/stpmex-3.3.0.dev3.tar.gz"
+    },
+    "3.3.0.dev4": {
+      "sha256": "948d9b9ba46813d3bebe5330b23ebabf155da8952df8a81cf135c808d7971991",
+      "url": "3d/9d/367985e7c8c2f5764eef4696e023ff6e06b1558621cf5f3468855c560fa7/stpmex-3.3.0.dev4.tar.gz"
     }
   },
   "strawpoll.py": {
@@ -20487,6 +20503,10 @@
     "0.2.6": {
       "sha256": "fd71d48eea616bd33d0453992507b6bdbcccb33e5f2f7654eb37976078a600db",
       "url": "c1/fe/34425d38b1c715934331833358e0f15083f41b9771123d91b7e679798512/timecast-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "73985b5da50619fdc782d967d2c108ef6f924d37077ca31b42a3714987d9a409",
+      "url": "bc/d1/794cfd8b506aa64df953c400a3e9ee5714287277b3892f960837e1af38c8/timecast-0.2.7.tar.gz"
     }
   },
   "timezones": {

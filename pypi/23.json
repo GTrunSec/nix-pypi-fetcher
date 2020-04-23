@@ -1556,6 +1556,10 @@
       "sha256": "d44e62a7168eda7f1f08b2c2398234e52c01c317a8426b9081002e67987b4a1d",
       "url": "9a/b9/da68107da8ed81483fae26e8bbb11252c855303346721cb00356e1198fc2/aws-cdk.aws-managedblockchain-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "149379de878f61bb6c70b2f786cfbccbe86c1001b7f3b99f115941c4d4c76c29",
+      "url": "fb/a4/162cc169024526043d3646a701af42000b4bd7814c7d1d8ca41e2bac5da0/aws-cdk.aws-managedblockchain-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "7f605019928ab68dbf8ad4a19e181a7aad365a3188ab980a49d1c787ac0bda09",
       "url": "6d/1f/f2ecf093b8b24ce64146642fa968505683379993db2a1e4ab57c261ac68a/aws-cdk.aws-managedblockchain-1.4.0.tar.gz"
@@ -4211,6 +4215,10 @@
     "0.1": {
       "sha256": "9a6ce3be07b67db39dd56714dcea8a877eeb46377c6f10302ac16772ada8f88d",
       "url": "0c/83/442c830da454a8accededd2ac61fdec72a6b521e8a1e2f09d1c58b3360bb/d64-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "cc064a98dafd3ae47c5b81252eed29b230744bd739a81934650277d1523553bb",
+      "url": "e7/ec/9ef456c30fc40c855b791394fb935442d26254b592612372377a08f3674c/d64-0.2.tar.gz"
     }
   },
   "dash-cytoscape": {
@@ -10187,6 +10195,10 @@
     "5.0.21": {
       "sha256": "b0e934d3b1f1ebd56adc677c4caf105339e7ea22d4dadc3237c96496c8d6654e",
       "url": "77/db/f8c6da6d8875cd0469e11db483660bf963b7dd4ed24ce0f38e820c76af6a/jampy-5.0.21.tar.gz"
+    },
+    "6.0.0": {
+      "sha256": "8c98dec622532511e07c808b78d11d6fbbd356656f07689cdbf4582daae04592",
+      "url": "d1/ee/83b3c129dc5a749d7a7e2c70a6946a45c6dccb2387abcdb84ccc6bcaf073/jampy-6.0.0.tar.gz"
     }
   },
   "jargon-distance": {
@@ -13205,6 +13217,10 @@
     "1.12.43.0": {
       "sha256": "478afacf0ac8f993660bc644eb0be8fcd4367c5fcc059cc42c4f7ed8db2b7bd2",
       "url": "1d/80/8d9a6499886d1091657ee606d15d04245c8774657c5e5234e0d822c0248c/mypy-boto3-sesv2-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "563e518883d80b26c538a8318f9ac802207755857fb1397462ee01bb1ee7f38c",
+      "url": "fd/f9/35f911ab7209b037631e594ba71910e1da0d486e35c7b388e82236f3bffe/mypy-boto3-sesv2-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "8654229972ec0850b50594eaf8d65a10424bf0560a603ddf0abedbd6831c2d5e",
@@ -19489,6 +19505,10 @@
     "1.5.5": {
       "sha256": "d853840cde15a1adacac4e00b129a55e3c5c524f4b0ac88935502dd59823823f",
       "url": "f7/ec/58686de814e3cc35315b90abf5c2eeff5fd153ff8e993229ce8727175bb0/requirementslib-1.5.5.tar.gz"
+    },
+    "1.5.6": {
+      "sha256": "3b0cf0a0519fb80f102575ddaea28f1cd05e410b8d240fff51baa154d09b7a31",
+      "url": "fb/38/a8882c6fa8a792b974f934e34ff5651929f41da4a6aaa9febd8881171dcd/requirementslib-1.5.6.tar.gz"
     }
   },
   "resco": {

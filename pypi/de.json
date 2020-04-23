@@ -3200,6 +3200,10 @@
       "sha256": "bcceabef8f087aacc9bd3c54961f94f976c420b8461246169f23b38ac3df9819",
       "url": "ea/86/42e08ecd5b112f0e572d4a370ec25a2836de3be42468bc2c9f2b36c85c19/c2cgeoform-2.1.11.dev20200417.tar.gz"
     },
+    "2.1.13": {
+      "sha256": "b162f0670db46d084e9b765402739b5e489673c69893aa7f70c83a6b551061ab",
+      "url": "62/55/9fd77c081f2ecf6570729d4b294449ec869177bb9772515b2b25c9dfdbec/c2cgeoform-2.1.13.tar.gz"
+    },
     "2.1.2": {
       "sha256": "18d6dcf0841f2d91b45a34cdac15247a5be40d2af21f5bb2d9d63c266b9c3350",
       "url": "e2/6b/23af6340f28460de244c5cfb3f82ca83422e4a6d03b2673a860903c2ba1f/c2cgeoform-2.1.2.tar.gz"
@@ -8409,6 +8413,14 @@
     "0.3.7": {
       "sha256": "11daa1b0f61f31cce90ed378fa61d90c965be4b047cd843110b589a900498eb3",
       "url": "f2/5d/05937ea91dcce24c5fb8701aabf7cc83f989512f328e8997b171aedfbd91/faerun-0.3.7.tar.gz"
+    },
+    "0.3.8": {
+      "sha256": "a658f3764c4e8a1565aada91c305d8e4e6256c46ac6987427f9fbe4857af97fd",
+      "url": "a4/52/88d5004fbf1cbaf5fe05cdc0270e5b4c45cb0d1db4349a49dd43bf8cbc58/faerun-0.3.8.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "5564bf2c8dc49b57f37c9d46ae7c6d24b8568d3bca96015e3abde4a7ec40d438",
+      "url": "f1/c2/9c4c19313990f2c6f027881c6e03da0a940180512ca11350c06cf13274d6/faerun-0.3.9.tar.gz"
     }
   },
   "faviconer": {
@@ -9153,6 +9165,10 @@
     "7.2.0": {
       "sha256": "e0dfac3eff304c758a8a0b201a2fa3a15fc408ede6e6b2c92ac7b252e0c959c2",
       "url": "fe/72/40b82d7d3e7ab2afcbe48bd28168884b92889315e1ce9b910ee8076d6caf/freezer-7.2.0.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "01bfbcb8c274e7e525fb4d174116b45d3f47d57f3fc1acb4a29319ae115164a9",
+      "url": "08/2c/b5f8fba60dd9b35ea01dea95ae377b08c1c076ba9d77a4cde8610614add6/freezer-8.0.0.0rc1.tar.gz"
     }
   },
   "fsqlfly": {
@@ -9595,6 +9611,10 @@
     "0.0.25": {
       "sha256": "46a6a34f543dd6969647510f6feecf8536f8b1791192bef5b55097ecd16173a2",
       "url": "d0/78/7eb3a2b8d064fdc797a4dcc0080e8380275e4ac32510774be715267d42b8/genutility-0.0.25.tar.gz"
+    },
+    "0.0.26": {
+      "sha256": "c6314ae8f6ec596cfdafd2c76ecfef2ee502a9392f0f6a42066b9a525b4e126d",
+      "url": "db/9c/6d6222cc12e057c1f484584b20d3fb91ae0c169123458f0723caf2c05e5c/genutility-0.0.26.tar.gz"
     },
     "0.0.3": {
       "sha256": "1a70d1d812f1e69eeadf039cd9931747de202025cd3c315b9d069272e2eac6b7",
@@ -10139,6 +10159,10 @@
     "0.9.9.1": {
       "sha256": "e98169b43418523a0eef684e52e783ff732605e7a166213da32ca16e7afb296b",
       "url": "4f/a0/ead220f1cce22f2383db5da3d8c1b805c53139671b2899f41c5018947c73/gpkit-0.9.9.1.tar.gz"
+    },
+    "0.9.9.2": {
+      "sha256": "f84b33134b61ae2eb732c86fd0f624c281ad063ec32352cc2e34f4e5af8c359f",
+      "url": "46/d4/f50db950df04c954e678ee332d8045e8336a606084b5217abad857fa055c/gpkit-0.9.9.2.tar.gz"
     }
   },
   "groundstation": {
@@ -12101,6 +12125,34 @@
     "0.0.9": {
       "sha256": "e1b512bb128819e714b93e767585daee5f0b4a47122ed482041b18bc6e6918a0",
       "url": "14/4a/19178a14f62366e4b42e72a5bc3ef5aec5c79df9f988493516781c1a6a2c/labvision-0.0.9.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "d95dd3492c5b7e8dbe843e47ce075d3fab3437f399ccc253b7f81c1b72f3fa5f",
+      "url": "fd/ff/23042f66adaf2e0a5e0d8b51524dfa1f0187efb80b58c55ae237124dc4fc/labvision-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "ac67402f636dd1533be37307a6b34e421f5e3a1e46a0db7cb0aecb6c8127c859",
+      "url": "e6/90/2c6be7798fd4e1fce2526f0cfd0a2f1409e22af5c536298495075c7f7677/labvision-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "8a890b74826ddb05e5d1635ed0003950a2311aa245fb6bf24c0c3791ab9af514",
+      "url": "2c/49/7617805a20422a28085b6e02b4e8f0225611778e74dea667c444f3a57ad5/labvision-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "d0fcf340b187c2063767c851cca0a54b2e37e7b5aa29a76e7777ed233704f349",
+      "url": "48/87/ef3180fc7e0fb378ef39274551593cfbd74e3c8f0f7d63f88b69d3ca13ba/labvision-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "e4ea7a5943d919f87377edd54b723c5b8f21a1a74cb901c2da743a4f7acb16ea",
+      "url": "bc/07/2094b505aaf164cfc212811d79fb4ab411b37580fc00505386427592e84a/labvision-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "1b6cb3c6935054acd328bdef0ec9f858a46af1703941ecd335a4c8c3c2bdeb8c",
+      "url": "70/1c/ef2f68a163db48427e66d33dfca11b9e66d00287cf17afe96ec7d489218f/labvision-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "13a1afa85a1aacb3860899c95007ee3de6bb266dada3398e51c22142c23792a8",
+      "url": "0d/2c/735a86efc1796e9358f90636d7de6e694de5ad5ce55a406200a09114d177/labvision-0.1.6.tar.gz"
     }
   },
   "lammpys": {
@@ -14652,6 +14704,10 @@
       "sha256": "fe7a1b4ffa14377437a8cf5193b512ee90ac68bebd56869222d92cad49269d84",
       "url": "01/d9/27546f33ac4bf810fc7fa851f7a6e7589be9e7121674a999c3b6c11df08f/mypy-boto3-rekognition-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "e28e07d9c7bef83bc88044fcb6c4145513e5a51231050f6155d33587b6d8d5ad",
+      "url": "71/3f/e452e58347e5957fd6512c14dabe4196136be95d3ae195f90a563f10bd80/mypy-boto3-rekognition-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b1b54d4c5179ee9aaba788770bc3019b9b85b440f1156568901decca1e79881f",
       "url": "a3/91/10334735483f76cd4fc6b3102c315974fe8b460ea6a9b6248ba0ccdc65ba/mypy-boto3-rekognition-1.12.5.0.tar.gz"
@@ -15162,6 +15218,10 @@
       "sha256": "f02500b020b2bbdbb95efc6eb1684c6763a7f688b1fea723698c6667aac344a6",
       "url": "db/0e/d59b20b6278dd4e1863fc0ac34f0fa37f3814f3c8d57bc81f64dc24ef3ae/mypy-boto3-route53resolver-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "081df9b336aa7bfb8d9b6058dc6659117e65bbbd5fa5722cb369b5fd53d5931c",
+      "url": "9b/87/b19589293cf1f246e3e406a30943aa80fe4f5459066b6904218ac89c8d84/mypy-boto3-route53resolver-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d51c44aa3a2c310bbb9a5a022bd0cd85b24741575e86b2f7ea2d6d45d19a9c1b",
       "url": "17/fd/2a6a91dc1bcc4a2877b4166c3cd4b18f589b1c0ad002e761b5d6b4d9a751/mypy-boto3-route53resolver-1.12.5.0.tar.gz"
@@ -15469,6 +15529,10 @@
     "1.2.0": {
       "sha256": "c6c394c642445cd8c85fc1b64b69717b599b26d11de7b33a65d334bf449334c7",
       "url": "8a/1e/a8a3f2055908da0b26e9ee72da7e94e95f0957856b4353c813e952238af9/nidcpower-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "7b1a6d64bd28ecd2f13bcba2c101a4a5afb326b1fb3f09a2600b6168ff296f4d",
+      "url": "3f/3e/ae8a6eb0fc018c8241500aa2abe91a47259cf1db1a1301579e328cdf86ce/nidcpower-1.2.1.tar.gz"
     }
   },
   "nisteag": {
@@ -15909,6 +15973,10 @@
     "0.1.3": {
       "sha256": "5e24df1d2689797d30e3087499d0d82063e0d12bfe63bcf2f3bc688601c56f16",
       "url": "da/6e/c6a7626fd2f1074a1e5a23838896be99710909baf64930ad280d1706e8f2/opencensus-ext-newrelic-0.1.3.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "5b5e12f50e5b2815c89b53bd411d43d7b25f6438a7b1409aab7a1f8f34329566",
+      "url": "e9/46/b7d509ad64bdc66f91dde0b8c7294beee9b7890b82c78da1ecea9f53349a/opencensus-ext-newrelic-0.2.0.tar.gz"
     }
   },
   "oppaipy": {
@@ -18179,6 +18247,12 @@
     "3.4.2.post3": {
       "sha256": "e934ddde0d1ea50b448f53fbb50fb5f0345a53d0d67d5a656083a47701b5764d",
       "url": "82/d3/b2d01335e3701d31f3831769fec31d4d97c54973e411e66bbfce2974e748/pycopy-hmac-3.4.2.post3.tar.gz"
+    }
+  },
+  "pycosmo": {
+    "0.4.4": {
+      "sha256": "07cd224c2b507e57a333a772ef53313a987e34c0f6bd7f7e6fd97539454cfc7d",
+      "url": "b3/67/9ab7b9e745818013712010243e3838b43ff4a1975de5884bf4325d9ef4f4/pycosmo-0.4.4.tar.gz"
     }
   },
   "pycpf": {
@@ -23485,6 +23559,12 @@
       "url": "18/b8/411f2a50664575e0d152d0525882e5ba7e77ef61ea58baf302bc312b8813/stanford-0.0.0.tar.gz"
     }
   },
+  "stanpdf": {
+    "1.0": {
+      "sha256": "f07f61ae1b88ca0a3ba8506c6b3cb8916253eb89898610a3b8b6130746898322",
+      "url": "78/e9/8ebf737ae4a4a7af4b7ef3ffa219a9a5251e7b73684329c2a579cf0dd1f3/stanpdf-1.0.tar.gz"
+    }
+  },
   "stockmarketdata": {
     "0.0.1": {
       "sha256": "38d7b65ad9c8a6d67620df94b1c9fee7b6cc1e07e933d83c47bbd08e97d7da61",
@@ -25623,6 +25703,10 @@
     "1.1.2.15": {
       "sha256": "fca7a07af7e0a2533db8f7c2b2ce6f464ef4bb02f7dfe5d561941806d153c430",
       "url": "4e/26/77098cb8c760791ca9aab4f5d9b7927cce3bc91b4b3c0c759686a13789d1/wrtdk-1.1.2.15.tar.gz"
+    },
+    "1.1.2.16": {
+      "sha256": "f6cdca15c55657bdb65c762f219b45d4a39810abd6e90b0bf84a350c2389186e",
+      "url": "ee/18/e2f8057b5b32f1fa22249dfdbdb29fa740e6135aedb3f93dc458f8dcb0ca/wrtdk-1.1.2.16.tar.gz"
     },
     "1.1.2.3": {
       "sha256": "92a7613c8a7352d1c7defefb33da072554218c4d5d090d085eb672810ae63e81",

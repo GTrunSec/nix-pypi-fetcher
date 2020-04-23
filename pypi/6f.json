@@ -2335,6 +2335,10 @@
     "0.6.0": {
       "sha256": "de1b76849f2c9cb85e2ed0e2fb4ac323a0f2243dcee2839f236c6a87bf37e7e7",
       "url": "0f/1b/8c081f9f6222d16e8d5cd9cc15ee983e7d98d7f70a8d1b7b60db12eba2f9/cognite-forge-template-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "0a8b1a2b4e1304d33155970e5dfea928801f2e9adfc8ce960a6abc7588280664",
+      "url": "1b/67/7d8f3428d700c6a68f00f0eae69f3dd8eb1272de99a948d517da3868b414/cognite-forge-template-0.7.0.tar.gz"
     }
   },
   "coinor.gimpy": {
@@ -4763,6 +4767,10 @@
     "1.4.0": {
       "sha256": "6483eb8744d001b8505c38a5217be36998f9c11858b2126974a9060dfc74ae50",
       "url": "a3/0e/f1846597fef2960594ef6e9c5b7e00cb6b98bcc824fc817cac086f145c51/django-cacheback-1.4.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "853c467fe0b87403d38fe496d43387eb15564c8fb176045ae3c59d94079b4bb0",
+      "url": "ba/6e/f0c5e7627f67afd1830b88f1732740de169b237c8fbb5c661d4bc2afe970/django-cacheback-2.0.0.tar.gz"
     }
   },
   "django-centralniak-slugfield": {
@@ -7036,6 +7044,10 @@
       "sha256": "302ff8005240446bd7cdac27333c3e75c37b1b742eeb5001b1d154122a6b504b",
       "url": "b9/95/58bf767c0f3137c9fe02b5478dd590b2e736de4dd2df9ed4c183afeb3742/enough-1.0.13.tar.gz"
     },
+    "1.0.14": {
+      "sha256": "ed4fce76911e40d489e92ce8ff2f54465d3e5b5a0706bd3551d8facb7bf2f681",
+      "url": "ce/cb/16ad4c2a160710f6a4348fdb1af9612dca95fef7f9ac12e483174d749aac/enough-1.0.14.tar.gz"
+    },
     "1.0.2": {
       "sha256": "f82588d612ff1f9d24b872095829e642a11a15515e11eb43bc4ea63c7df1e2eb",
       "url": "3d/bf/86860695e400c5b1d87414721f191743a3e7b703f6bb5fbf601c294353c4/enough-1.0.2.tar.gz"
@@ -9003,6 +9015,10 @@
     "5.4.2": {
       "sha256": "a27d88d7f56d34fb3322dd7e756eae877fce0453f5c7c295832657190e1831af",
       "url": "dd/ac/222aa34d65e94524ed25248ec054e02ced39de6399bb18c554a1e9b15344/fireant-5.4.2.tar.gz"
+    },
+    "5.4.3": {
+      "sha256": "9ff5fc9f5fed4896c4da6d1d87a1dee4636fe03f5c9be1693bd9de723029cb81",
+      "url": "9c/86/49f64cd6fdc32f2fd4177631996441adfd1a393ae12a39b57729430ddc4b/fireant-5.4.3.tar.gz"
     }
   },
   "first-setup-cms-wagtail": {
@@ -9229,6 +9245,10 @@
     "2.1.1": {
       "sha256": "ef6b789f430e2222a5e0627e64b503dd74b4c66f0321e35daeab2d856e314d0a",
       "url": "ed/d4/6648da9cb9257d09439502d43db14a4942c4d1dd35d40377d4ce46c3c466/frag_pele-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "625300b3f32c23c7e8a14c263eded89b7adf11893eb85e4718800ee2f9d89a54",
+      "url": "ee/f5/0400b73f5f6be4e6fb5a1792db7698af6084f6930a9abeb89cb1535f1bdd/frag_pele-2.1.2.tar.gz"
     }
   },
   "franklab-mountainsort": {
@@ -11109,6 +11129,10 @@
     "0.5.2": {
       "sha256": "d603dda7b5fb2512a5409205f8fc67b3fb56ca985ebaca581f28cd67af7b6623",
       "url": "85/85/10b9e45861a263214d1c5684697842c772b3e6653e277c1ba50df830b760/invokable-py-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "c7ee64243005f5aa8a0d5f1266380102f9c64b02c0a2676e8e6ef4d9be3edf0a",
+      "url": "1b/a5/7d72ec92502542022faa35b6a6d983169291804ab648ca934183cf28fd1d/invokable-py-0.5.3.tar.gz"
     }
   },
   "iotlab-radio-test": {
@@ -12607,6 +12631,10 @@
     "0.3.6": {
       "sha256": "edcae7600b4a0da8c332c27fe87d84571c2b5b1795934c7d2715102d48e228d3",
       "url": "03/d8/3b085833052cb4195c8dc7feffc90d6f4e0d04926942c0d722e19eff2303/lale-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "dd65529a1b6383042fbd047e0bf1b6964991d7ccae37394386f9bb6c7591929c",
+      "url": "90/4c/61af0eecb40f50e99899efe943b7b3fb2cf32d28b6c44b65374a11d85270/lale-0.3.7.tar.gz"
     }
   },
   "lamuda": {
@@ -16008,6 +16036,10 @@
       "sha256": "0c249c2ec25a207dc5a67ac115e3f9da1f539babd669a157a0829d8e8a28a0b3",
       "url": "c3/88/05e4fd8df810126c4cfe1d2ef82da2fd6d60f6eaac9949546d31831eae7a/omegaconf-2.0.0rc25.tar.gz"
     },
+    "2.0.0rc26": {
+      "sha256": "b62ad9288272c601a5a6a31f7de0efbc26568ec6a42ecd485b0320fd913b8953",
+      "url": "1a/6e/545eae01e715d9f5444907b0768beb0400cdbcc20a5ccb57159ec9626f42/omegaconf-2.0.0rc26.tar.gz"
+    },
     "2.0.0rc3": {
       "sha256": "3d7ef1142f51291f35279d14c24cf9337142008794c9d3f2e711d533265ce726",
       "url": "0f/f7/56e057cc650b8ebe7751fe87866f2cc23c37ef6edbca39cbcb5a69cefb5d/omegaconf-2.0.0rc3.tar.gz"
@@ -19155,6 +19187,10 @@
     "1.1.6": {
       "sha256": "2ef56a0115bfd5bac2020118a8d258afbba285ba896f971a84ce8c2f5a482b44",
       "url": "ed/04/2ae31114ad470c567abf8e89a47310b924f68964b4b8ebd4d765150c0479/pywe-decrypt-1.1.6.tar.gz"
+    },
+    "1.1.7": {
+      "sha256": "5a15c9ea9e45687fa7cd9268fc99ef50001b537df05e26f1ca2eb2460acf3b21",
+      "url": "25/6c/f4d026b6f83297265b973aba46fdffa974258bc379cf3a3a602746289d2b/pywe-decrypt-1.1.7.tar.gz"
     }
   },
   "pywebcopy": {

@@ -1900,6 +1900,10 @@
       "sha256": "2da51dc40881c36d8afb46d1560c53c3485699be1ef0736a6a35631b54d80ac2",
       "url": "7c/b8/36250925a23393109527a0e0f104b0e5c1bb47293bc5d7a8f449e152cd08/aws-cdk.aws-backup-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "3eeb021c3508ea2c8c95fdb36acbc0e2ca366eead549d0bb68e4fda209fb327f",
+      "url": "90/19/5da85a6367363739a5d7b71566c989b32b16019cc816096ea1292918901c/aws-cdk.aws-backup-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "d4abcb95176786361354857f85bbac8fd425d19d3760d32cc414412cbba570ea",
       "url": "8a/39/40d0657b11fb30f5abe94656b780da0dc8c82d2377ff8f400800bb384da9/aws-cdk.aws-backup-1.4.0.tar.gz"
@@ -3879,6 +3883,10 @@
     "0.0.1": {
       "sha256": "e0b9948fc9d5c9451aefd7bcd4585d6ecbadf74ecf1bb25cfdd6024df21829dc",
       "url": "32/58/6a5b5a9afed3e05bf99e563f4b984626f4e516aae8d2b69db500bf803fbe/common-utils-py-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "ae98dff2898eb201aebabdd63bc0d99005d1ecb91f5cf640c5c9da34fe7eb9fe",
+      "url": "85/5a/46796d19cb2449860594e13db09d583dd82c11a766f2d1d6708883467d67/common-utils-py-0.1.0.tar.gz"
     }
   },
   "compas-assembly": {
@@ -6883,6 +6891,10 @@
     "0.0.6": {
       "sha256": "701ae27206b07c72ba3e6602c696ba57f0744999063c909702ea66aea534a519",
       "url": "eb/10/83d9b4d7c8b5df79db820703dc699398d789c2ad6f9f39c3fe7eaa27ac42/easy_vk-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "634f2d14271520cfe32f093e800192f3f16c32656fae22d02f627bb642d7ef17",
+      "url": "74/69/a86123beacbf3c8d35a4ca88a1c94a8edd57c2d20ad607804004f8b90768/easy_vk-0.0.7.tar.gz"
     }
   },
   "easybay": {
@@ -8111,6 +8123,10 @@
     "0.2.0": {
       "sha256": "527f6410cbc01093227c43ef061fb898e37f50383b52d6efecda75053b18a603",
       "url": "30/4d/3152e7e444472198b5f3384b26c4f95b988e947d6488d65fc3c05a09e191/freezer_tempest_plugin-0.2.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "6ca5f6db4086ad8fbb23ba1695b85f71f29a8d0097de18236abd04f336d0d9c3",
+      "url": "c4/b7/0898a620692aad02e6860bbe0266e4e3cb687616080a09b02ea74b3b204b/freezer_tempest_plugin-1.0.0.tar.gz"
     }
   },
   "fsfe-reuse": {
@@ -16045,6 +16061,96 @@
     "2.1.0a1586902610": {
       "sha256": "01d3894b924de06281362665347b838062c07307949e3552935ef04bcf294c55",
       "url": "40/3e/4163c65283a554a7872cb35b7390be1645f60a1073e33c6fdde9fcc91f8b/pulumi_newrelic-2.1.0a1586902610.tar.gz"
+    }
+  },
+  "pwbus-web": {
+    "0.0.0": {
+      "sha256": "ef2523db2b3050e43cb7d7d6a34c2c94277687400715314f5720e44957b3cab2",
+      "url": "b0/06/0abeb665bf14f01e121cd08ef374cade4cdf5f7fd50dcfb2572943e2ef2c/pwbus-web-0.0.0.tar.gz"
+    },
+    "0.0.1": {
+      "sha256": "31458739ee5fc3bd8a5fdbcb23171cba9e91819c91936c5386895b27fd93fb3a",
+      "url": "7b/d8/fb723730376614c5713c43bf45891cb660f0f29dc341832be8fb6adc85d6/pwbus-web-0.0.1.tar.gz"
+    },
+    "0.0.10": {
+      "sha256": "8de798df4227d6c5308a83bd12279c81f1c81fc7d4b4f73c1c59a3777136b58e",
+      "url": "da/ec/2bf3c1edc968f0fce01ea04465db6581f179c0f491a2c4804210edc863e1/pwbus-web-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "59dda4dea21e64dbacb35c8f23536cd4244715210d9c51f5fefd9a56f9df5fb1",
+      "url": "61/49/b13a4b9e0125fccf08ba91d0909f83dcecd658cac3fe29d7dbf1a3f8b6bd/pwbus-web-0.0.11.tar.gz"
+    },
+    "0.0.12": {
+      "sha256": "fcf4aad62c48e1e9ec93e77fe984feae97e794b7b2a3dd37c4e506561580c1ca",
+      "url": "4a/3b/9196c800d7f8c4e5604bb225c5d2ca43faeed10defb6dbe0734aa3c27675/pwbus-web-0.0.12.tar.gz"
+    },
+    "0.0.13": {
+      "sha256": "74c6955453a1e835dc983786e94ff3cdbdb295d3d0012a1dcc2d950bc289c9f6",
+      "url": "f3/71/7dfa66eb092710a8b969761ba92d8c1e1d2aed42d173976bbaf294014a67/pwbus-web-0.0.13.tar.gz"
+    },
+    "0.0.14": {
+      "sha256": "246c470d5d2f004e6d20190a6b46e55ea1a492009dbc6efc6a0a644286bf12a9",
+      "url": "59/a8/cc27a4089352a85713ba8572ae48fa30419ec03a6ae5b0ad430566e43465/pwbus-web-0.0.14.tar.gz"
+    },
+    "0.0.15": {
+      "sha256": "c898eddb0366857fe58342d510ec8f5f1cae7e2594d62a1d42e414dfcd81be7d",
+      "url": "fe/dd/cbde838e2b7223b1900989cbacaaa838705f6c68bb4c527e736d983f89fb/pwbus-web-0.0.15.tar.gz"
+    },
+    "0.0.16": {
+      "sha256": "59fd6ecd99809e4b02bed924b5e4a8e2a149987d15babc43715c5e6175b5b0fe",
+      "url": "21/93/602507cf2fdcdc9c7c22852a714cd07cc30a97d16cec68da2c0c49dab889/pwbus-web-0.0.16.tar.gz"
+    },
+    "0.0.17": {
+      "sha256": "8890e04b76764b2ef93ae15bf3b03d63bd3bb833d9755392cb793f0ce4ce55d2",
+      "url": "b2/54/7e534c0acabcbc456d39ebc546d21aceacc1db233725959ed55b00fc4b03/pwbus-web-0.0.17.tar.gz"
+    },
+    "0.0.18": {
+      "sha256": "e7af0666f5af24290acce10b2c765d2e1b3b551b0816aabd1b3721fcfbbfbfe2",
+      "url": "0e/a4/0b63cdf4b2ed38a75f03e5cfef6fde3dd6b6af23ee3858caf27f5151dfc0/pwbus-web-0.0.18.tar.gz"
+    },
+    "0.0.19": {
+      "sha256": "c6114ca31e543af296b34285fd8e9f7cb8210db8c4d1a5dd1edbe3aa9837bc4e",
+      "url": "79/d1/0ed20308dbc241790ad91c647ad6ffd754952576d0429929751d210636d6/pwbus-web-0.0.19.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "e17354f87466d4f779259f71b9eaef103b73fb4bb140a803d04af2a82afb046f",
+      "url": "1b/39/d659f4cebfe46303ca527744f748091205f5c062d512ddb7322acfe25634/pwbus-web-0.0.2.tar.gz"
+    },
+    "0.0.21": {
+      "sha256": "19567346332a1ba1ac7c0cd35a9faa8e9ddd97be7a360f7edc3cbf92d2c4cab9",
+      "url": "48/57/c5dc353286e9b40dc402d455b91b2284b02b5c6dd78673cfbedd38ea8e56/pwbus-web-0.0.21.tar.gz"
+    },
+    "0.0.22": {
+      "sha256": "cd0bcc71a250dce75d02fd234d89b8ee385153660d0fdaa9b81d89d78798b4d1",
+      "url": "f0/71/12b11b93c4387ce322fba223401275b28b485bd64437ba2dd3ef9baecac3/pwbus-web-0.0.22.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "ba8261b26a6d9e397d426522586670316740383accb11751dd7539e4058bf529",
+      "url": "9c/b8/50c1f5c565ec7d1a07c1cd0eed4fbe64e227cdcaf247b8a9a1251fe265a9/pwbus-web-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "fe23594d16b87c646221d12e2e748c217511e5085f42ef25e3b2b1e67365a43b",
+      "url": "a4/10/e0a0b8a3d3e1102cd2394c7494c4e60bea5c6ff433c8297bd8b9793180fb/pwbus-web-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "3f60fc55868822d4e90348a7f2af04c4e17c5b3c8f2d380c93bff91276df5a77",
+      "url": "59/08/745e3ca4e7026a360c87464f8d13a74d4d369631a1efdde0951c0e3a4887/pwbus-web-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "4eeb78c6bab821c532ec0c7b889c1a962ef73c7201434431780d0afdd6297ea5",
+      "url": "ef/ab/7c631bab9a2a000376be0500996bde70a6e35ccf1b45d89d1bebd8d9d1e4/pwbus-web-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "3e85690a919cd3e35af5f8fc78d1b515611dc360d3419b7c9714b7b820346676",
+      "url": "f9/87/758e250ce51a73c8003c56d979e16b9495b98d60005a174c6f2cfb62c48f/pwbus-web-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "ac68668ae9a47f3f26d95d9b462771e2261fb7eadcf359dd437175617ed30b0e",
+      "url": "b7/ad/14cad645a284e1ad283d443c8e149b534c46e365468626e6f4ac78932533/pwbus-web-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "9749a980441d68164093a8e1e3e68f53ec88883149ae5cd6c8dc4bd79b7d06b6",
+      "url": "6a/ba/f608512e46ee62214402340ca930d42978b79310518786fd08a1d032606c/pwbus-web-0.0.9.tar.gz"
     }
   },
   "py-email-yak": {
@@ -24048,6 +24154,10 @@
       "sha256": "14ecc14227bdc4dd66d76ca8bb9b083abb778630dcb274704dd1589a6dd4a3ab",
       "url": "dc/ec/029029ca1f403fd721fe8d46374d9b26e15d6106a51655b79c6c35435d45/wasdi-0.2.1.tar.gz"
     },
+    "0.2.11": {
+      "sha256": "fc0c7388ae8df7eff5d62f403e7fe11956d244bda2a5c9bcb3581b3a7cefe4d6",
+      "url": "eb/12/950fa3e402acb231703e6668ac6712835ca95c957fff429b214b70efbc5c/wasdi-0.2.11.tar.gz"
+    },
     "0.2.2": {
       "sha256": "11c141d72bfb4bf6a90e6550973411910ee6964f8df02ba282750fee799b2c82",
       "url": "1f/6a/284ce0e2d84d29f8001a0656ff8becc03c73a18e92943d5cd81f404de95b/wasdi-0.2.2.tar.gz"
@@ -24095,6 +24205,18 @@
     "0.3.5": {
       "sha256": "8e6c9b24f5b934c8e06716f250edac7f994991ffc53f43514525285345fc4864",
       "url": "12/54/083229e476a4268608d84724ac424fc1f3c4b63e1822a93525661da435da/wasdi-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "a9b4c606191c7b0a69bb76fb2b085d03f877ee124ebb8aa61aced59a6d8956d8",
+      "url": "20/6b/68c0ab8a0b2cb1a80b383d8ea562efba59715cb709609b244ff978377957/wasdi-0.3.6.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "86b02446e421f9519380a9f0c1f45626a160d8a9a49f07e7ff3cb8ca4ac5f29f",
+      "url": "b6/ca/b7db1695e3d95ff39ba23986dd02d9cd63876e61321269761e60b99a5aa7/wasdi-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "1988bc0d455aad70cbf5140a1a2c0042d6af8b4fbc24e9772e43eae6ae634d35",
+      "url": "66/cb/fff3026aabf6a580e05e1a4e66f2c9abae7340f9b0dc787ed999245b609c/wasdi-0.4.1.tar.gz"
     }
   },
   "wcs-python-sdk": {

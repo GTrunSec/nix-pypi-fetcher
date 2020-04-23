@@ -1634,6 +1634,10 @@
       "sha256": "c7f7031f81c858b36f9f182d7fe89b7082520c21d49081ef50d0112eed2a4964",
       "url": "bb/b1/6a9860a0e1584110736ff2f429e88c778e9a77454636050b45e201b9e599/aws-cdk.aws-ecs-patterns-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "2841086b0c056205432c550d7f9af14d7f7410f73ce43cb9c0ed6a027b90c70d",
+      "url": "ac/34/42f0ad92ff633e788b44494069aef9e985c12ee6ab8aeaff80cf9baa323b/aws-cdk.aws-ecs-patterns-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "c5b049b3c31b19b71c011c00c598a39c95dc9e4d15d0b13d3ad078a983f35025",
       "url": "c8/3d/309aeac79477e56873df2b492d12b0009f29d80ec500431fa7970c901e8b/aws-cdk.aws-ecs-patterns-1.4.0.tar.gz"
@@ -12441,6 +12445,12 @@
       "url": "8c/f6/8d5b589adf51085ab4693a7428e7500e1cd7afe390024d406403255aa112/gnarlytvdb-0.6.tar.gz"
     }
   },
+  "goldmeister": {
+    "0.2.0": {
+      "sha256": "0f306e30fc48d62035d871ff848978909ef0c52a9695c3e42ba40a7050b3102e",
+      "url": "01/27/b81fdddc6290d02939d0e070307f99e9f29de2a8c7bd5cd192716038d641/goldmeister-0.2.0.tar.gz"
+    }
+  },
   "golomb-coding": {
     "1.0.0": {
       "sha256": "9c86447272c8f9248d79241ab6aa78f002eb442e53cd3786d170c27fed646c0c",
@@ -17608,6 +17618,10 @@
       "sha256": "37e3453e17a2abdf0d5f413a7276eba123b8bcb11d1efe938ce5b95b852c331d",
       "url": "ad/f9/f9dab48f923af8b8c3fa33ff90f961345aeb359b476a76c058159fca354b/mypy-boto3-connect-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "8583a1e367675a5367a83b3a7bd04c520a9fd35a2a799dddea3ca32426cf81f9",
+      "url": "cd/a5/3db0badde9145a532f1724398b8f646824e89ce56e7aae0ea1c312442296/mypy-boto3-connect-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "8fd28dff0eb6945499f03676578eb2b61f59bde5516d471b88e013af59c40e64",
       "url": "f2/b9/5a5086c0a7e229c73b93e2b906ff738e5a351d71b6f545936bc651481c4a/mypy-boto3-connect-1.12.5.0.tar.gz"
@@ -18117,6 +18131,10 @@
     "1.12.43.0": {
       "sha256": "0ecd26ce503c055f624875f86e98bc0b1cabc3f1779ca5542825c25129f46dcd",
       "url": "90/22/85618cc06285bb111637fba25d3ea7728ba03feb36659dfa1011774a42ac/mypy-boto3-sms-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "992c245ae2abf90a7e68ff4ab5c9d3fa54a5184fbaaa4be9c6ddaa9e1ee71b06",
+      "url": "74/cc/a7cd5a023d19e9844530ce3270614e2902cd7534de30ab99ca5835c56111/mypy-boto3-sms-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "4b584f40b69650bc431ab106162ad1be037a712edc58c2daba2b987e1686257e",
@@ -21361,6 +21379,10 @@
     "3.3.0b2.dev1587417102": {
       "sha256": "ddfc3347f60a8e464df8abe318d4bf937bb9e3f3e9f16038de25da9a3fe55f82",
       "url": "18/62/8426e5e1e946633f9318117f1583b6b23f83bcb6f97b1ce46672e0aa60b0/pulp_rpm-client-3.3.0b2.dev1587417102.tar.gz"
+    },
+    "3.3.0b2.dev1587561151": {
+      "sha256": "16ae7bf7d165ca93bd8da2466b5151a1439e3c54b3481ada4166370087321f78",
+      "url": "6d/ee/00f534a9d8e10e7a618aaf86a522a70b65635067767f35ad7c00da045b60/pulp_rpm-client-3.3.0b2.dev1587561151.tar.gz"
     }
   },
   "pulpo-forms": {
@@ -27927,6 +27949,14 @@
     "0.2.5": {
       "sha256": "90c7dabb30fc013605cb1185bffe0cd9cb0c48602e4e6015329467839316a8a4",
       "url": "bf/0e/d2083bf251eb20b51c8387a36a53b78a3827dfeab69dc02cc7c18bdfff3a/tesla_powerwall-0.2.5.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "b3c9833d084e622d8921990efd87a12c837d997182b701e793225423143fcb71",
+      "url": "9b/83/1d010bab6437d4bb6722ebbc27d022152fbda3463e8233afae0fccc49320/tesla_powerwall-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "ae3449f760f2bd617797815b85a6c91ccc4d3a61441e0cee4d59fd979641dc0e",
+      "url": "c3/9c/d6f33183f7be92b72c5bf48da80b221b7ea2d13b7102dc04f080da1c5287/tesla_powerwall-0.2.8.tar.gz"
     }
   },
   "testas": {

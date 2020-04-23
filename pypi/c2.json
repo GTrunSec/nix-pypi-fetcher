@@ -7087,6 +7087,10 @@
     "3.0.1": {
       "sha256": "759d864dd0e69a2965fa1a95892392ad5922ccb208576474b4ff8365ed1b718c",
       "url": "33/6a/2939e63c8bfa2d3152d1aa996601577d6bc77efcd3291218dc08ad9b28bb/django-tinymce-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "fe82e476059b27187eaec849b6b765ef9918a25e64e419861c4f507d0c8cc143",
+      "url": "65/df/dba64fed45200f1726fe616b6d68d00b63f91135b04663c04bfa6f678144/django-tinymce-3.0.2.tar.gz"
     }
   },
   "django-translation-manager": {
@@ -10932,6 +10936,10 @@
       "sha256": "b7faaa35ccdb747294dc1852f5f6f710da5d44c829fbfa13ed20581caeac4a58",
       "url": "9d/99/c04cc19f822b18545313ff15e48fbbac0f333fd21f792a1d751be48d49c3/hstspreload-2020.4.21.tar.gz"
     },
+    "2020.4.23": {
+      "sha256": "8adbee91298236fcd564242663d44bcdcccd520068852024b91d9c00abc3187f",
+      "url": "93/bb/d2236343ee733654480659652dde7365ab0ec6b5d44fa4ef0bff240e5e2b/hstspreload-2020.4.23.tar.gz"
+    },
     "2020.4.7": {
       "sha256": "3e952e761ea9c43ccf1c61c2b1962da63c66c85469b18608228f95fcae6535ee",
       "url": "0f/c0/84dbd4122be0292cc11bba33170fa782d56aa3d4f6d730e9db629f86a2bb/hstspreload-2020.4.7.tar.gz"
@@ -11033,6 +11041,10 @@
     "0.17.2": {
       "sha256": "eb7a6b137ae31e61c5f429083c5bebb71fe5fd1958e7f3d5c39b21b11cd4b290",
       "url": "1b/f0/a35a448afea308aeb6a1430dbcfb46f4cef11360cbc18f22af6e567bb847/httplib2-0.17.2.tar.gz"
+    },
+    "0.17.3": {
+      "sha256": "39dd15a333f67bfb70798faa9de8a6e99c819da6ad82b77f9a259a5c7b1225a2",
+      "url": "b4/ff/605ae6e8e77cad745c877d512851cc40d75d8068b1e456fcb4e30ee2d944/httplib2-0.17.3.tar.gz"
     },
     "0.7.3": {
       "sha256": "786bce4ad4e5abbb1b4f660b5fb5296a565a6d593b54234b7de5bbf4af596a5b",
@@ -16100,6 +16112,10 @@
       "sha256": "736f9120a02efed0dd6e1e8866c2a5de2a7dfd494b798cd4ca913781acb110d5",
       "url": "d0/f3/26d3fe8b53b403614b4add8986c13c6ce627f188dd633c5830f00e2dfcbb/mypy-boto3-iotsecuretunneling-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "f363183f4912b704f483f8f8fefc13c6f28a3c54452cd08e8d7a3c80a609f5a9",
+      "url": "a2/22/2bc340fb293ec17dfc77d446e95380768d1a008c67ec6ecffab073b8bf5e/mypy-boto3-iotsecuretunneling-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d5e272db6c1be6c79f60e40ff537f510e7acacf17fcd0c6ce286bd27ee796244",
       "url": "92/9a/174ec8fa62987507a671668679e46dd258ac96727036409f15b338e69ebf/mypy-boto3-iotsecuretunneling-1.12.5.0.tar.gz"
@@ -18691,6 +18707,10 @@
     "2.0.1": {
       "sha256": "db5f930734e7b58d243196859f869864ef2a338f4b765f83aa570a720f3f2974",
       "url": "34/fc/5cd1af257e9cd9dcc58d57789e30db3d3a1ae9f624e9818579dd41630a10/plone.transformchain-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "5c2ee8fc262dfa8fae643abc529a79a07c7d9e6319e9d0391d2466264a7895e9",
+      "url": "31/4c/e9381ec4312adaf8f708ec95a37913ae59ed8bbf2a9eef94acb8a94d9412/plone.transformchain-2.0.2.tar.gz"
     }
   },
   "plonetheme.peerstheme": {
@@ -25050,6 +25070,10 @@
       "sha256": "4b621e4f238c77acf0d560e14ec3531b4c65fea91610fb4e2c49e169c1b75d88",
       "url": "ea/78/fba49fde6a8929c54fb2d9e68603a9dde42474e907d0fe9e9be6b0d3eaab/timeseries-etl-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "8d2875a8d0a7e9ab08320aff14cd3601b6891b516efed6df67ee423e05866d11",
+      "url": "f2/a6/e295a95599ced3fcb46d92a0e8a396691aaa51d3e5656ad8b3ccc362ee55/timeseries-etl-0.0.10.tar.gz"
+    },
     "0.0.2": {
       "sha256": "2d4f8889d081c576bbb0f7719575c7b02785f973b172c8a603b472292616c2d3",
       "url": "a4/3b/61f7a01e2a96f37c8dbb7814598ab25a1d7b88928eec013d10f6fe3dc640/timeseries-etl-0.0.2.tar.gz"
@@ -25517,6 +25541,12 @@
     "0.0.5": {
       "sha256": "789dd319281999a31d2b2de799666d68d286f0657022a027bc23726a9298c3a3",
       "url": "0b/18/557e27a0423dc01d2ae7d512d4b73ac5472e818bc00bbccbb2912d292e2d/twinkle-0.0.5.tar.gz"
+    }
+  },
+  "twitter-boto-dummy": {
+    "0.0.1": {
+      "sha256": "66c60e2c30514f96d80ca3f5c2382cb4f98f654323037a9769c008c1c38d760a",
+      "url": "ec/9f/3e6bd41cdb754f477dc43ac8ebbbe302b236a694ec3637f2f17815b5512b/twitter_boto_dummy-0.0.1.tar.gz"
     }
   },
   "txt2boil": {

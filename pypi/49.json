@@ -4945,6 +4945,12 @@
       "url": "b6/8a/eb66db557e081a20f444d55dea7efc335f636f32bb4a8d35c56f5eec5333/django_mail_admin-0.1.4.tar.gz"
     }
   },
+  "django-migrations-diff": {
+    "2.0.1": {
+      "sha256": "80501d1a130b8f5e3e0b6b7bff0da7494644a397a53ea6e078c437194838b9fe",
+      "url": "e4/f3/20705abe290d009692bfd999ca7b71fb81ae5d20ba35742f106a5ed4f200/django-migrations-diff-2.0.1.tar.gz"
+    }
+  },
   "django-model-changes": {
     "0.1": {
       "sha256": "61cbaf3fb41508942cc83c33a1de22211946e0f76c81bae1f41dd86af1c589e2",
@@ -6517,6 +6523,12 @@
     "1.0.5": {
       "sha256": "5f94236388ae6c3c9f2a822332cf8c8ea3f6c1bd0d9822866fe8bebf42bde186",
       "url": "85/35/314254c7b3c0329427d6056954bb6b8ba66b588cfd13ce5508a98db2ba7f/edrn.sync-1.0.5.zip"
+    }
+  },
+  "elasticsearch10-dsl": {
+    "0": {
+      "sha256": "1c4514f4f982253af7c18ba745e8c62c732300a7005c157b47c5fb3f792fbbf7",
+      "url": "60/3a/3842e7e980e987792e87c78cb3a7c25707985f2b29a31c0fc8bee0093bce/elasticsearch10-dsl-0.tar.gz"
     }
   },
   "eli-test-distrib": {
@@ -9341,6 +9353,52 @@
       "url": "58/0d/fcbd7ad08b2cd6c1326c34e026667047c894827555c54aa66c07b9c0561d/libyaz0-0.5.zip"
     }
   },
+  "lidazhisheng": {
+    "0.0.2": {
+      "sha256": "c06036eac303800af726fcd2eec31d73f5fb1d7c3386acce494320b61fd39d42",
+      "url": "4e/1d/f711d1efbaaa8bb21c8fe30541d49445f9dedc905d697e3052c9adb0de87/lidazhisheng-0.0.2.tar.gz"
+    },
+    "0.9": {
+      "sha256": "1c4fe0368be51cad1844a205dd4008fd8e8201d2f4ca2a61f60ed1021166acfd",
+      "url": "fa/67/93b33d033846d80f45153c20f46a238058b4a5d1f69ed15ee78fb943a489/lidazhisheng-0.9.tar.gz"
+    },
+    "1.1": {
+      "sha256": "b3108d5e5564ef97dfd2a9a557267d02f27931d84cde8ab61b527a299c6ed544",
+      "url": "4e/9c/2773d33595b632c6f5b7cc0600f41307d51451efd9fd7f58545768c9b7d8/lidazhisheng-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "b90adee336decd53d992c2bed83f479596a415568003d3987b5b84def22156fb",
+      "url": "a4/81/06932d11cc8db512f72e7ec4e79e3065712af8f0b02b4ce9092f4bfae143/lidazhisheng-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "dd63f1cddbd68bae3fe96800c3a22f577b65b562df7d4ba2982f950ac33f9a79",
+      "url": "30/dd/86cbb0b6b242aa9cf7bf5bf7b500573b8dfaf987abe98d5f8ce6e5d8543a/lidazhisheng-1.3.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "e202dee368b456fbb26c9b516c52c41ee6927cb6269b429c1ddc2ea33294eb6b",
+      "url": "4e/36/b50c88af6771b47d23f41ea4374d680789a74a4210fed4eb5d2d1960e835/lidazhisheng-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "eae39379bb5262d617af2d822fca4203da179b3bcfb0990084252b36d9691e21",
+      "url": "7f/13/925c2bd378293ce33db5b780b815748bde9f2dc3206917959e61591d01d9/lidazhisheng-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "ef29426bdfa0e83cbac4f83312f195a392760486edf0241e9dcc4afbd24112cd",
+      "url": "b9/a9/81448151dd32c26737f06a716a8ba8ad8803916722d011c72390c3424edc/lidazhisheng-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "ed2dda51326890de7361f519662a660cadc8b526f68f9c265429d6fcc91c57ad",
+      "url": "af/c5/4974821511df2431882367aea6687c37f17a1b27abad6fdd6e6f3cc6be78/lidazhisheng-1.3.4.tar.gz"
+    },
+    "1.3.5": {
+      "sha256": "859db74a698653997384132bedeabbba00847eb48b6e610c35005b40bfc5d974",
+      "url": "3f/d7/7dbb5f8be91d27c38e7767f9f7a328a8774568592254f6cb71540f50931f/lidazhisheng-1.3.5.tar.gz"
+    },
+    "1.3.6": {
+      "sha256": "48c26773df5f245614df72084fabfc4503652941c27a42fdcb0882899a0e0a41",
+      "url": "b9/89/389b3a2680684633dbe56aa6ab4a330835166d1d0a1c613c2a434da9faf3/lidazhisheng-1.3.6.tar.gz"
+    }
+  },
   "linseed": {
     "0.3": {
       "sha256": "3987ac09afb715c58195ca8e941aec88e7145d58a4b3586d1177c8021e7b87b5",
@@ -10814,6 +10872,10 @@
       "sha256": "18482b22b9c55e7228debc60110eb1aed7599aeff75044f0d09fe0e5fbe1d52b",
       "url": "ff/c5/944d5a32b9019d9695fc79b69c92b280777be95f76690cacabe42ffc2a6f/mypy-boto3-discovery-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "d2f9718de38a2dfa85045bc595028a6f30cc189b969d0fa901ecab87c25ee2c8",
+      "url": "4c/6e/05f62e3f8a309385e488706c4b18780548d8fe1c593f6301e7b631975490/mypy-boto3-discovery-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c41e9a95c4e57009020ac7e673cfdb1b4c5d1b3d85ae51bbcd89529f8210a40e",
       "url": "27/3b/b0f063d7fc9094237503ffa7f6e15d4f981ebee1ee091955211d3993bce2/mypy-boto3-discovery-1.12.5.0.tar.gz"
@@ -11323,6 +11385,10 @@
     "1.12.43.0": {
       "sha256": "1a774e6841a2b5e7c18bba624aba6e05e7216f4ff83402053d3b9af68a93a615",
       "url": "50/ad/9e7d122ecec94cce63be86cbc4484047cb1bf043ad91b3bc2da13116af3a/mypy-boto3-health-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "cc7d0fe35386c55b2d1670a250a520e17b20e5906a4d50f0320a7ed6ed60627d",
+      "url": "17/71/5383ce05d365336e92b09ea02adbb564b9528bc618facdaa082793adfabf/mypy-boto3-health-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "d01e9cf061cf11ce1f4cb0a730a08706a1960d781020e18789b24f1686f6c4d1",
@@ -11834,6 +11900,10 @@
       "sha256": "e793996b9ef231a66457c8b4ac716aed84b4556b7b79615a33419df58ad1d790",
       "url": "e3/90/f425aa8c7c5458532961dd2f2d0bbde1862e01edebf28fcf054bd1d73c28/mypy-boto3-lex-runtime-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "768f95d96cc70c152b0fb2802d254166e2f8853adc8b0b00aa6a02496c07ec7b",
+      "url": "3e/61/57a911b7f28c79f3f2ae5b18cc9a4f0537115587816c388009d684303f34/mypy-boto3-lex-runtime-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "f7a3ed012beeda31c3bfd99d09e56761d1c05f14d725c18627921031fb4e8164",
       "url": "24/47/bce2a6522dd689640200fe848272d07a53e2d4e8333af3de7f3df8f34826/mypy-boto3-lex-runtime-1.12.5.0.tar.gz"
@@ -12059,6 +12129,10 @@
     "1.6.0": {
       "sha256": "6b3f2a9f944b5e7e1359fbe999f5b35e8e6430ecfb2232bf978ef1a78e96d606",
       "url": "ea/b1/f841693bbc58d624427534364d60e28098fcb11153d614012cf980c81725/neutron-vpnaas-dashboard-1.6.0.tar.gz"
+    },
+    "2.0.0.0rc1": {
+      "sha256": "955a3462246ec11be8cfdb7d527626b59a974e26dc6b68d159cb30a9e4d06d2f",
+      "url": "e4/7f/24656cb49d73e42cc50a41108a1edfc81631933e40cef9714573ba1ddcc7/neutron-vpnaas-dashboard-2.0.0.0rc1.tar.gz"
     }
   },
   "newspaper3k-no-image": {
@@ -17383,6 +17457,12 @@
       "url": "83/5a/5ac4478adc393d33cd0057236cd0a28dd29deb742f5317a5726eff0f4bed/reboundx-3.1.0.tar.gz"
     }
   },
+  "recovid": {
+    "0.0.1": {
+      "sha256": "d487872e57fbcf687d395a8d0553addbfd072340d46ea9329f6123b2d725878e",
+      "url": "ad/96/b7b230cf09cdf61a54819703f9c9f7bed2fb208f7bc64e904a0b9b59b8cc/recovid-0.0.1.tar.gz"
+    }
+  },
   "redisolar-sample-data-generator": {
     "0.0.1": {
       "sha256": "a39da19692a5fbd2e2d83eb23c7d12991721e722f4732d686ed14a1246cd7c70",
@@ -18599,6 +18679,10 @@
     "1.0.0": {
       "sha256": "8e30001e37ceb35a98175b05603b468c96899efd73dfcbb71b8fd3637ce1d238",
       "url": "93/85/f45a837ecf7a3329fa58264e6022d2fd7544da269780104c3dd232dbaa47/smallab-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "4e887c23d035870138e99d9d12a13f8488fbe8471c806db5e787802812ac1579",
+      "url": "d7/a0/ba9f6b97ec0c1320720a6310fdf800452e48be6a51e7328fe3605de11820/smallab-1.0.1.tar.gz"
     }
   },
   "smart-search": {
@@ -20027,6 +20111,30 @@
     "0.1.2": {
       "sha256": "1bed19a2e85db91aa62097c82fa2f49911f1d22aa293806da2d3bc0eca015bd1",
       "url": "94/b4/944bbcfdbff57e56eda1659ba8dbebeef530452ba112eeb37a46c9efd755/superhelp-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "0448b14398e59007883ccd6cbde39df20b075e70d7c481d22a7af6eb3011b782",
+      "url": "11/69/24063597adb8dc8e12ee9b9578c9bd630d2103367940d9668c96cb0b9f17/superhelp-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "235d8995102849234d095ee5f52f6ad08fb74cdc5904f84c8873dda89406bea0",
+      "url": "73/66/2a67efe5d1436f80c96f3905c60261fb7dd86dd6245b18133ccd22b691f2/superhelp-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "db72c95c4458b7e3b85cef3c9103d7ad32611d3e25e294b4da62d9fe466c97a3",
+      "url": "a2/5d/45af8fc4376c591d8ce34cbb1edb82f3cbc9be024435731f2d29652d359f/superhelp-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "9e36f8292d2bedc16fe3254b75175c973ca00e2cdd649f29bac9100009f12176",
+      "url": "d4/c8/3972dd5d3ef63bdc3d914cd71ba7a6e329d9d66674f94a4a86a98ca9d40d/superhelp-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "932cc2695c8ea439eca7cc09cb1ef3f45454a6aaf577b58d58080eedc74da1c8",
+      "url": "58/12/703938be02a2d6affbbb07f481afee01ccac374ff5f9ff64ec5fd52de43b/superhelp-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "42b03dea862cd080de1e383bc34d48443b426ab6cdfae0cadeaeb0f23adc687e",
+      "url": "df/d0/22c29ce781783230aba2103f0ed71c4fb9d1bf3ca4794613670b95a94acd/superhelp-0.1.8.tar.gz"
     }
   },
   "surykatka": {
@@ -23245,6 +23353,14 @@
     "0.1.0": {
       "sha256": "71d002b49c711702f0d3c95fc1a1699ff5f8e2ea49b0e7bed0bbce1ebff5dc7d",
       "url": "77/42/ad53b48ae7e197856e567ede6120404447d30f633c9127de66c5f07253d7/xFlask-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "a3756d0fd402e6ee2707ba56cab7dec826c3eb53a3c133478c3aac89df7b2780",
+      "url": "21/2f/ca09112448e6306645936c24f5c3d1c57026a19929f769ac4749950fe3e3/xFlask-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "f1c88c39c899b6178633c3374bce82a52a669afc716ce620fb4b7ffb7b4d7bad",
+      "url": "42/1e/a4e4dd9a5905b1b79cf6e5c30930c160c57cf879f30dabfa11602eed52a1/xFlask-0.1.2.tar.gz"
     }
   },
   "xgitberg": {

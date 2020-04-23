@@ -1569,6 +1569,10 @@
     "1.34.0": {
       "sha256": "7cb9893f988b85237eb3f8b862a706b40565bb637d7cba1c7cfadb1efc84f3b3",
       "url": "d2/70/c95c13d164a3e5a4ee39acd688ce2e1faee52d532bfc851afca3ace747f2/aws-cdk.aws-eventschemas-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "863bb80cfe56361939583cba5a652e6c3b5f8588f96f4b2f0200f3a4f1563575",
+      "url": "ac/89/6475b6496e8995c06acffb28d182a5dbb984c726d7acc41d1f2a0be04f45/aws-cdk.aws-eventschemas-1.34.1.tar.gz"
     }
   },
   "aws-cdk.aws-logs": {
@@ -1791,6 +1795,10 @@
     "1.34.0": {
       "sha256": "a770412a5b821752302cfac30a275a5af7e911c51907621f242e861a6a768b5d",
       "url": "f0/bc/2e22bcdae97d67c67c9c7d3ce1722bcda23da9a8d675aa9c7db62c41ca69/aws-cdk.aws-logs-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "77cd50d69f29118f5dd52e9618fae0bb07f9c1231ecd3ca038bf1e73ced9462b",
+      "url": "0c/3a/f803ef10b6c459c32acd9d777a475fa78e8a1001802e956152e63f6f2964/aws-cdk.aws-logs-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "353f14f2171b599e4231e3f4eb7ef2b6047e4039405ee51c4ea2d0a12c5c784c",
@@ -4729,6 +4737,14 @@
     "0.0.1": {
       "sha256": "3b5a6f2e77be83c742c946aa18334ceddbee7c0c244a92ecdba2012cbb28d606",
       "url": "a8/ef/3aeb894f8a84ed93b4add7025ad50dff1e17e190817583f705a7008f6d76/curie-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "43b5ecc3d8b85379ccfead6e463fdc27f9e8d5c69d3d18791a916fdf000dbb6f",
+      "url": "42/0f/ea0889c91fa61ccfdcc8399f957421aa20b9f6c2c1571f3641e5dd422ca0/curie-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "c116cdb249e75dbabefb471a4c5a7b18b3aa9413efe12654a8f5fa0379b12164",
+      "url": "dc/d0/1dc7ed2c0fb5861e69372fed044ca5928cad4c941a3a0aaf32c03db31ddc/curie-0.0.3.tar.gz"
     }
   },
   "curldrop": {
@@ -5798,6 +5814,10 @@
       "sha256": "0987cfd5d77124192f13568bec782e504abbe3a112c14a776983d3b5c2d7f87d",
       "url": "aa/4e/8ff89b9417d219161fb643f8961f5509bb9e037748b24342b86a1049b102/dead-hosts-launcher-1.17.0.tar.gz"
     },
+    "1.18.0": {
+      "sha256": "39fcf40e4904e25dbf53b443865cfb8ebf64ed85f8faf2c4057194b3c7e44898",
+      "url": "63/70/0c9fcce88a40ab1d7cb785dd94c13bdeab1612ba543ffe6a6f3777174d2c/dead-hosts-launcher-1.18.0.tar.gz"
+    },
     "1.2.0": {
       "sha256": "46e94f9541ad3004f4ed7021924420764829c516787d3333d92a548726e86685",
       "url": "07/8a/9cb57e390d38ec2184ac6d06aa36195fbe76d9863f07fc9927c1d4a94c8a/dead-hosts-launcher-1.2.0.tar.gz"
@@ -6297,6 +6317,20 @@
     "0.2": {
       "sha256": "ce2ef2b798bcc3a7a6b9fcd410f3861f65d0824803ad281c885adac84f111bb7",
       "url": "e5/03/3064a22672618fb379e16a50e4be691494c2cc0d6432cac9e228f63aa64a/django-cms-contactform-0.2.tar.gz"
+    }
+  },
+  "django-ddd": {
+    "0.1": {
+      "sha256": "6f81e2a2fb56b84a89a438c94d05953b7ac0c9eafd01ac88b9c3dcc2af17cf69",
+      "url": "d5/bc/12d4de68e1ef103058d1ff4a094861e60c4d1f9016e78d4a1f904ff27416/django-ddd-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "88485c3bb13fef16aa703231d2183856e0c19fe5b01268e4dd6d004bb491ed02",
+      "url": "d3/81/387e8003189ad0bbd375703b5a23e30503c89864a3e381205c3dad4e95c6/Django-ddd-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "a6cb4cd74572d108aae0fb1e0146e90e60a776ec0f347999ae26b9d0e24e7c7f",
+      "url": "ca/24/d21a1421b9b060dcf5313389d3c34e52be1616ab09d8ad847f37ffb73d36/Django-ddd-0.1.2.tar.gz"
     }
   },
   "django-dform": {
@@ -8321,6 +8355,12 @@
     "0.3": {
       "sha256": "f632974bf5c28f6c9e6d07704e9d824c9713562801ab6b3f1adab8de8af05cb8",
       "url": "ca/ca/265ce499baedbbb6e31fce9dd6f9503dbf6be1073b88fe07d3189f0d99df/eClaircie-0.3.tar.bz2"
+    }
+  },
+  "elasticsearch10": {
+    "0": {
+      "sha256": "145facca516fbcce7a18823fafe89043613feb8957260403362280fea8f15da9",
+      "url": "1a/a7/f3f9b548f145c4c0ab267f856bed288b4d458787f5b9b53b19242373d7af/elasticsearch10-0.tar.gz"
     }
   },
   "electionsbr": {
@@ -12779,6 +12819,10 @@
     "0.9.7": {
       "sha256": "2a0766d3d551241a91ea03fdc152b32039667db490bdd5a65961294e52381f75",
       "url": "fc/a1/bbdcf7404e3c945bd070766cf098c65a1bd56b765a4f2ce706bed803afc0/janis-pipelines.bioinformatics-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "7d5da80a7761bc9840b86ffe2d25e61b929b34afbb68e29d68dff2dcc91160f8",
+      "url": "ae/4c/ea4fd2667c4a4dfe7c99d17a93870dc6c1e5ae4c6a9e415cf37253e8c67e/janis-pipelines.bioinformatics-0.9.8.tar.gz"
     }
   },
   "jaraco.text": {
@@ -14689,6 +14733,14 @@
     "0.1.0": {
       "sha256": "d7c4ca284ed018043ab2735a3bd5d883f7830a3390836db57e02aa4087c17560",
       "url": "5e/83/e5f118b9d7d9c86c02fc7c0fda63204d5556f42c135d9e918f16248bedad/meteolab-0.1.0.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "498c51e351fdb7552d38061c9526da34ead6a9c3e91de7a962531b1b791c760d",
+      "url": "d4/a8/8abb945ea0547495632849aa7a83d07747f598495f48ab9443c829c70db3/meteolab-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "621b9d166f203b6fc311ee320c3c5b2e422fd414e856ef08f9fa98b907f97c66",
+      "url": "59/d0/5e7a112b63034583717efe7b26a168461980e08d4808c02b57dbc042c496/meteolab-0.1.3.tar.gz"
     }
   },
   "micropython-test.support": {
@@ -16997,6 +17049,10 @@
     "0.2": {
       "sha256": "3f3aa4fdf12d1032b9e4857abf750d992bbfe5bf5cbc8d61f6e498d8c88f78d4",
       "url": "31/d0/615f59285ac8ca2c6e3fe522b2d7654e72f343f5b40918c7fb7567b5fbc5/pliance.py.sdk-0.2.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "f044ded85cafc7c7dcc0bb1846abb221547f4540392e8302cbe537f5d240caeb",
+      "url": "40/5f/0fb82d6c3c503116a39c10015d3521326087ea365018a17386909c602680/pliance.py.sdk-1.5.0.tar.gz"
     }
   },
   "plink": {
@@ -21753,6 +21809,12 @@
     "0.2.4": {
       "sha256": "ec446f4a6a4b3397c75a6225b8722a606cdedbb5b79f158577ca05ead113c799",
       "url": "b2/2e/d882416c1cbb5292a18b1ec41904efe26cc0ac62bf9eb68237e643a10867/siegfried-0.2.4.tar.gz"
+    }
+  },
+  "signalsgraphs": {
+    "1.1": {
+      "sha256": "9c1967e7604fe797068aaddd8abeeb8333e71c96589898720b118a2f553cfb9b",
+      "url": "d4/b2/5ccc6a94a3510a6dd2d0d7c1222f4b116120f9ca88d82c09740b258faeae/signalsgraphs-1.1.tar.gz"
     }
   },
   "silverdawn1992": {

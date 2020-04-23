@@ -3622,6 +3622,10 @@
       "sha256": "b3ae336a2831a861558b9d855988cbd14ff4df6c7ec0c6eaa81b81ab16e84e91",
       "url": "67/15/0bb896640b4c1e68772bd0176e0c3069acefc4472486e2904b4acf47530e/c2cgeoportal_admin-2.4.1.104.tar.gz"
     },
+    "2.4.1.105": {
+      "sha256": "b432651acd86b4206cfd99c2532d2afe56ea4a61d70f1d7455a3a0302b185178",
+      "url": "1a/3b/2cd06230dce4e89bc2c51c7284b58932e37c05459c54d75f652a16f1e990/c2cgeoportal_admin-2.4.1.105.tar.gz"
+    },
     "2.4.1.11": {
       "sha256": "1c04eff5e76aa1c3832ce11afa0e0614228cc5af5eba4c06bdc20619be94e176",
       "url": "e5/42/439967a9fca94e741543c3f011674305e125645c1ee77e07e6a323be2025/c2cgeoportal_admin-2.4.1.11.tar.gz"
@@ -7967,6 +7971,10 @@
     "0.1": {
       "sha256": "840e99643aba19ad160657b9217b2d21c92831033ae596ab5c51e9e143def192",
       "url": "27/40/f031a10bcb3cc530739becb06adf30a8ce08431497bf238e16cf84d4ed03/django-polls02-0.1.tar.gz"
+    },
+    "0.4": {
+      "sha256": "c87b694d848adeea37a78a516e5939a7a3b4a1f4df6bf5529cafbec9ab27ba34",
+      "url": "b1/8f/f5bd52771cf118681bcf52feaaf5e3f0a4a1ad6058eefb42ec8889e8cd56/django-polls02-0.4.tar.gz"
     }
   },
   "django-processedfilefield": {
@@ -15865,6 +15873,10 @@
     "2.4.4": {
       "sha256": "9820fc8c1498fb0886d1fcbfd26b98ef8ff1d5c632edc423b400db082352f283",
       "url": "bd/96/37636fc21d487efa0a9d9f27e56a040cd569c034d120bf16395fba60beec/ocrd_utils-2.4.4.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "1accf34d9d131d06f9ef8d833203f8a68ed16b72dc6e203e8d660fa281517738",
+      "url": "30/3d/f32356b13ac552face3ffcc22eb5228847905eaed91b09bb41163c2665f7/ocrd_utils-2.5.0.tar.gz"
     }
   },
   "okta-jwt": {
@@ -24543,6 +24555,10 @@
     "0.1": {
       "sha256": "e87c79a1cf33b93e99a161ea40d1919f8cd8f18a8a4da561afe7a00f70e28a7c",
       "url": "2e/f2/e086a9f79c1bc3a45ee209b500c0d4978874f8b5167a627849c1a26b0085/trajectorama-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "b894d8fc86eaaf56943b45be6594bddaff7e1e2bab6d29bd44bb7b904cd69c58",
+      "url": "8a/c6/7aca3d07ac7a8d10f334d9405b1485d8b83c0a148274b655b733ecd3bd42/trajectorama-0.2.tar.gz"
     }
   },
   "travis": {
@@ -25949,6 +25965,10 @@
     "0.1": {
       "sha256": "f65fee7684c605fe43d1fd54cc3b7ab48eebd0edab10aceee78b5d7e55cc6a50",
       "url": "81/f6/fa9100913a8cd4bd98e19d24d08022a8dca15884867aacc2508aeac95284/wendy-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "f3fa0b9a40637f8745864e6f37a9ce8e89dada913816189465ee2c020ed096e2",
+      "url": "f4/d8/703513aefa5e2c63e91d88e834af502a2d9d65f624d55cd47a9a0a5b944c/wendy-0.2.tar.gz"
     }
   },
   "wf-api-client": {

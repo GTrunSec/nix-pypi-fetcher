@@ -3173,6 +3173,10 @@
     "1.34.0": {
       "sha256": "cb07b0599962e8b496f120146f33c7f82b4cd22939361892758e0cc15ff974c4",
       "url": "29/01/fb6cb67607da8893d2c9d95d97f0dcb5dddf922614190c15b15407d4da9d/aws-cdk.aws-networkmanager-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "ed82a4e8215fb01adb154a298e86487eb4b3cd0047303d670057645ccfa19c12",
+      "url": "de/8a/86cac8606b5cc93794568017ea02510194e16a9fb76cfcfd5b52c7965082/aws-cdk.aws-networkmanager-1.34.1.tar.gz"
     }
   },
   "awshelper": {
@@ -5287,6 +5291,10 @@
     "0.1.0": {
       "sha256": "5a6d40a4bc75a55edbedfd1d7834c69a70c811180b8d7c1a77b83ea4ba629df5",
       "url": "b6/f8/3eeee6ed195ac762341e57b432c878efe94db5bb25f09ea428d495b0e7ed/confugue-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "c4d95c1276aa5e0c1519ae7f25d585a6f9eebd8bfbd49d0f04a404ed3bb86626",
+      "url": "c9/fc/8b19bc4dbe060b7f90c1a327f5fec454bb630c6d28fed6dc3d70275aac10/confugue-0.1.1.tar.gz"
     }
   },
   "confusion-matrix": {
@@ -6085,6 +6093,10 @@
     "1.0.3": {
       "sha256": "2340e0184ee8ea9f3d3fc8775745535cd3eedf0d5a49cf8f1a125ccad6acf53d",
       "url": "be/4a/06ee48dd75d89a9e97f81f7e10610e3391dcc2fddc5cc212438e13de1160/datafushion_plugins_python-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "bbf3ba50773ada83fd6f5f6fa4b5af59e1b855db2da231f2c376a4656d95b804",
+      "url": "98/03/f37381bf3b4a2b239ed82e0e44cf677fc97be5d012ebb85e4acd76fdf7f8/datafushion_plugins_python-1.0.4.tar.gz"
     }
   },
   "datagram": {
@@ -10586,6 +10598,10 @@
       "sha256": "9a5c17cbfb2196554088104982c2757df4c42b586cc9791941fa6e58ff80cd67",
       "url": "80/81/1bfd3f559a06b15abc83b87dcf9be72d0dca2999482b2477a9f7e187dc80/hip_data_tools-1.36.0.tar.gz"
     },
+    "1.37.0": {
+      "sha256": "88b86c3805585b9dc2f0bc46c5936052403b872c1a348c79365d4798cd24a7af",
+      "url": "42/1e/a87dbd0c018d57ad232fe62018f0c15125febde768edaa19b2a901d293b3/hip_data_tools-1.37.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "edcafe79cfdfb10647fd08cd59c18780b33ce20884cfcf6686bbe5f88c27860d",
       "url": "34/31/89c9372f18ed9db052db392bbc3fee7a2b283d7e05e580ab65fa81c2d980/hip_data_tools-1.4.0.tar.gz"
@@ -10753,6 +10769,10 @@
     "0.0.20200420": {
       "sha256": "ca93ff195d36f72384658fbf735acf1eb510c3c6b2fbd871bab2cb060305952f",
       "url": "76/5e/3514508fd13673268f72226bd9a80f7bb3261399b3ca63b430141082b736/HPI-0.0.20200420.tar.gz"
+    },
+    "0.0.20200422": {
+      "sha256": "c52433d6aba99a65cb3be2cbc85027ed778e5e8c114a19e04ced46ead5cf7f87",
+      "url": "c8/87/5010dd240673d6c446ed90f850a24c4d8f9801623143cb545ae4d9577895/HPI-0.0.20200422.tar.gz"
     }
   },
   "html2rml": {
@@ -15838,6 +15858,10 @@
       "sha256": "4bb4e665ef6ff8bfd2fbee648fd520a6fe650a41347ea000e2d0b9e123e63b52",
       "url": "c3/99/fe89bc215534457dc5f8cff94bd3f072731dc07a6e2478f84f6416a19043/networking-bgpvpn-12.0.0.0b1.tar.gz"
     },
+    "12.0.0.0rc1": {
+      "sha256": "dfd769b8c712ff3343de5e8b0188f82d7c24c5cf587e3e8aefddb05b73cce652",
+      "url": "34/ec/923ac1cc23ae0d4922336372f69a076195f4b376b7bae13c7c052586566d/networking-bgpvpn-12.0.0.0rc1.tar.gz"
+    },
     "3.0.0": {
       "sha256": "5158367dcea27215d9bd23dafdd3041c7fa93f46e83ddc0c3dbb5ae32f48abaa",
       "url": "b9/43/ff3750cf6f4051242de1e15f29ec9660550f7cdb30036f98eb7c2f5d1a6d/networking-bgpvpn-3.0.0.tar.gz"
@@ -17135,6 +17159,10 @@
     "0.8.0": {
       "sha256": "dd5485292bb076547db182d697728021467b8c7d532f5a187d79c75a99df0954",
       "url": "80/e4/c69571059ec6b8f5583e43a69951c62b8c3a2d0483e45ec5142f7e038407/pdm-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "0ede95f4330ad882753c516b490221921d9a687e63ad576f912d4a8fbcfce348",
+      "url": "aa/fe/089f7f1e5a4ac4547fac0aaa9a334352df57ea3b68a47dd3138ba3d4a539/pdm-0.8.1.tar.gz"
     }
   },
   "perceval-mozilla": {
@@ -22737,6 +22765,10 @@
     "0.4.0": {
       "sha256": "5e6d4fd2eaa6edf86dd529d4ae0cb7a094b27a4f1e431bbcc15e6751d764c37e",
       "url": "a4/bf/c2c3e940dc8b92872b32760ff7a4ae3a8af21747e54820c2430330c652a6/tap-google-analytics-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "358d6581770d908b9c1ff26586c106b8d7fada9577d2b30505387cf2324a08fb",
+      "url": "0c/03/9a82a48a51036539643c1e45562c947ed9aac47031bbe229cc90ba78dcd4/tap-google-analytics-0.4.1.tar.gz"
     }
   },
   "tap-s3-csv-kasparg": {

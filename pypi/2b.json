@@ -183,6 +183,10 @@
     "0.8.0": {
       "sha256": "cb6017082f9933edf09a6dc18d66ecb57d9e745b109facbf9e419479fec2c6d7",
       "url": "df/3c/6e3267219c1c27ac9197913631dab3ac18abd3887ae9cf05ee15cdade0fc/adbutils-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "cc41a116c9e02e580ef88c1033bdb8fa460c06e6f096cae536530fdbb4529a23",
+      "url": "ef/a8/701a43082fdf11d2666ba0e26363f7513c18160fb3c20ca5a63427939130/adbutils-0.8.1.tar.gz"
     }
   },
   "adversarial-vision-challenge": {
@@ -9143,6 +9147,10 @@
     "8.2.3": {
       "sha256": "33efac7863884141bd4f30e83dfbb4a6874f2ebec2e8be28996fb802abc75414",
       "url": "ae/fe/5f467eebbec07ddd4d0adb61f7c8cab62392dda8b599a9bc08a073701666/ganga-8.2.3.tar.gz"
+    },
+    "8.2.4": {
+      "sha256": "d1be345b07573e9179cebc358c70a97394a5059085040acb8c23b9c606e9d030",
+      "url": "91/da/bfe03dea8effd9914b3b496e2aeca4f567ea9e4f8c881d1ab73b46de4466/ganga-8.2.4.tar.gz"
     }
   },
   "gcloud-requests": {
@@ -21025,6 +21033,10 @@
     "1.7.4.dev20200420": {
       "sha256": "6e3d6cd92587a9216b166976248f2c937d99cfc8005789895cf19d853b79d5ae",
       "url": "2e/52/4b478d51dc647a6b559eb1274113a91917db8765a8f5e626a4456b19f955/pyramid_oereb-1.7.4.dev20200420.tar.gz"
+    },
+    "1.7.4.dev20200422": {
+      "sha256": "b3069c092961265df301f2f8156f05c589bcf837a05db2ce66406872d95f0251",
+      "url": "1e/d3/79910f8dada5c95297e3fec3997a3a87cb9c04d21abe77ef16e7a3435faf/pyramid_oereb-1.7.4.dev20200422.tar.gz"
     }
   },
   "pyredisrpc": {
@@ -26464,6 +26476,10 @@
       "sha256": "8382f1429487ba641e9d8348db32c1d7b235b7de9129f235a668eef2131147fa",
       "url": "72/f9/614c5c7f48c5dfd4076108cf0201c0d65147ae55611b342d846f3a92727e/stripe-2.45.0.tar.gz"
     },
+    "2.46.0": {
+      "sha256": "cdb27e83b8234d6f0a1ca89df6162a033ff673642bf427d707f4f82601342416",
+      "url": "56/33/a345957b37b6b1593c44a729114076c5aaa8f5d7b1ea57a522df8f7c3df8/stripe-2.46.0.tar.gz"
+    },
     "2.5.0": {
       "sha256": "61d6be45d25849336745e480d0033931348cc72c94e343bf04590b9a44d2c13a",
       "url": "a7/1e/e9fd5899a373e900fa857a889ddd6645144eb89612451f0cc73f02eeba3a/stripe-2.5.0.tar.gz"
@@ -26777,60 +26793,6 @@
       "url": "ff/36/5b423791cd877a21c2771a2b070194270f163f2969066923f89aa3099e2d/syntok-1.2.2.tar.gz"
     }
   },
-  "takeaicanalysis": {
-    "0.10": {
-      "sha256": "4f6d3eb7c0dc1187bfabf08a7a39f406bebba0c989691414676a5357941af7fc",
-      "url": "73/19/f3d9a6d3d0f4be73b41d0305bfbb2bda704cfef7aae29f70cacfe9872f7e/TakeAicAnalysis-0.10.tar.gz"
-    },
-    "0.11": {
-      "sha256": "ba5d12f81152fbb5e5b898a2953ba0c32ee7ccc54b70c25532042ae6068baf10",
-      "url": "54/ba/d47ee5ce9075030623aabb2253b0dcea17be87f92e61ec3250f1fd3fadef/TakeAicAnalysis-0.11.tar.gz"
-    },
-    "0.12": {
-      "sha256": "00048788329bf742986fccd868e04a67b694c90aa7dd68c787489f6cc3513c49",
-      "url": "8b/58/40aaa7f313a054eacafca96bc52421b0abdc8f3191494df21bac26a5bfc1/TakeAicAnalysis-0.12.tar.gz"
-    },
-    "0.13": {
-      "sha256": "2dcf491b1f67a4675be1814e5409b802bc52ad81c87a76a2eaa7e336d87fcaf9",
-      "url": "81/71/20904e53e41e5806bba834afb609a46e700f7298582b22c02fc76cac8cc9/TakeAicAnalysis-0.13.tar.gz"
-    },
-    "0.14": {
-      "sha256": "acce823fc51411846769e35af295ce08fc1026e23ab2ca2b21d1bb775f1e17b8",
-      "url": "19/40/c58bc98630bf8c500d98a54419bf1a2805912f625ee5ac7fb9ebcf926cfd/TakeAicAnalysis-0.14.tar.gz"
-    },
-    "0.15": {
-      "sha256": "d8305604f942e907bcf8e51a36d42a9790b8cc3fc9ff7cf5339e5daa03888306",
-      "url": "fc/d7/8cdfb43be7f4537fce6a02e9eddebc39e9fe71edfd1b305ce3e1abc911be/TakeAicAnalysis-0.15.tar.gz"
-    },
-    "0.16": {
-      "sha256": "5f0166cb260c3139e24cf9dc5edcc979daab0945e581af508d47c50a27d29d04",
-      "url": "ee/0d/5aeffbbec9ef77bdb042614a9abde78012c4aac7cb827fb1fad84f6b2216/TakeAicAnalysis-0.16.tar.gz"
-    },
-    "0.4": {
-      "sha256": "4185b817b78a1a931ef868bbc280c01b29857001b0bb78be4dba616076bc42f4",
-      "url": "2c/12/1bbe620c03fb911f796d31b36bb717ac0bbc29bd112e8205881da518e6b4/TakeAicAnalysis-0.4.tar.gz"
-    },
-    "0.5": {
-      "sha256": "fcecd4e1fff66ad674cc26e0202b045a5d79412383f2acb787ee98bdaac189cb",
-      "url": "94/b4/a55df18caa7bd4cdb5840f466e0a505073bc36758ea83e0714d954d7eeb1/TakeAicAnalysis-0.5.tar.gz"
-    },
-    "0.6": {
-      "sha256": "10befdcb81f45b3377f94a378281f09d7d1d6eb31ee02d572c94fa13dbd887a8",
-      "url": "12/d3/e94a75c92858602ce50d06885b67ca048e678b1de035c0078c1d22f16bb0/TakeAicAnalysis-0.6.tar.gz"
-    },
-    "0.7": {
-      "sha256": "ffd0cb783a4728f07140d519c47aee655cbcc0f10b10443b0ef89846d1520444",
-      "url": "c5/a6/4e58da1b69fefacb90d00cff4ba659ea1a4563c1b14c912dd78844ac1758/TakeAicAnalysis-0.7.tar.gz"
-    },
-    "0.8": {
-      "sha256": "2896b6f9c0044cd3cfd3abe0e1487aea3624f4c256d81c36297c8ba2609a9f45",
-      "url": "25/f4/fef85ee3fc16035b7eb81871a3cb93a5cfa156f1eae7da3e92611aac6b75/TakeAicAnalysis-0.8.tar.gz"
-    },
-    "0.9": {
-      "sha256": "b4ffbe2d70fa68df4e10c36971087d1e2449974c531a47aff567419a7f7355ff",
-      "url": "ab/74/1026a570c97ab577bfc5dee2074f68dfb2090d9a5e177745d3b8f54f53fa/TakeAicAnalysis-0.9.tar.gz"
-    }
-  },
   "talker": {
     "1.8.1": {
       "sha256": "536de4901b1b2b51047f985d5ec9dd499b217d5d39809e8e8d6aed430004f0e2",
@@ -26881,6 +26843,10 @@
     "0.12.0-rc.1": {
       "sha256": "e9980e3e1ebed1dc7ce796086aaf5e9c658104214d997bd28e3ef3c763a0ae0d",
       "url": "c6/56/3155c91896f62a9410ef5a8a24763b9ecec2e8cfb654cf6d9900d11dfaa9/tantivy-0.12.0_rc.1.tar.gz"
+    },
+    "0.12.0-rc.2": {
+      "sha256": "de39606b4b0be23c742ea9fe2094d4e6b1a14737a0e371bd5e7b8ac4d69fa2c1",
+      "url": "9d/73/494899587611ff0c09efa136c429f75413a5f876a40b9c8c96dc022d4e3e/tantivy-0.12.0_rc.2.tar.gz"
     }
   },
   "targeted": {

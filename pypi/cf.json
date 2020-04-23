@@ -9647,6 +9647,10 @@
     "0.9.95": {
       "sha256": "5f3fe06eb624881c9787a8b23be5d25e0a41e04a85cb051f4a6b1be591d0a658",
       "url": "9b/9c/8a0852bec354f210ed4e721f0913a47ef094d3a3285140705026ed0adadc/gawseed-threat-feed-tools-0.9.95.tar.gz"
+    },
+    "0.9.96": {
+      "sha256": "3551c5a8be0124b08ca4963fb8fa885133f93dddc9ed5027bb99f83d29055129",
+      "url": "3f/74/84755689eac30b8166a9e4decca08b786ab7750e11ac5cc1da7fe6b07c07/gawseed-threat-feed-tools-0.9.96.tar.gz"
     }
   },
   "gbin": {
@@ -13212,6 +13216,18 @@
       "sha256": "607ed8dba124f4507c471c2a5a0d900ac558a134402fbd5e8e8aafe26d060916",
       "url": "e4/ca/dfcc1b43ddcbf71329c40d9d50460386617ee5c89d89a06c8251879c4a0e/lusid-sdk-preview-0.10.1311.tar.gz"
     },
+    "0.10.1318": {
+      "sha256": "ccad7ffd18eb9c6d926441bdccf572e2f636352dffd060986b5e92e073fc843e",
+      "url": "05/36/84ee8dd0f2134c2dac29acb23b7c4f8d907b871658b30d5477d4aca68b67/lusid-sdk-preview-0.10.1318.tar.gz"
+    },
+    "0.10.1319": {
+      "sha256": "50093933b36907194f6e51f6d9a20bebd0eed890ed96d0d99480e329e6634633",
+      "url": "4b/77/c339c3306c410bc1727eef4f9cb4aa05ddfcd749b2a9bd4dfa1316f65e6c/lusid-sdk-preview-0.10.1319.tar.gz"
+    },
+    "0.10.1320": {
+      "sha256": "516f9953f35de10ce6be7ef8dab8b81bc3ae729a8040d79f9b2006c2b2ae29ae",
+      "url": "70/f1/7dbb7175a08f325f76eefb7240171304361cca5b794e9b5bb167c8df709e/lusid-sdk-preview-0.10.1320.tar.gz"
+    },
     "0.10.178": {
       "sha256": "a27bc6b85bb8ae25fe42b83aa192c14de208149a82d3241fb96e65b1d1600242",
       "url": "f2/4f/e93f37e3eccbdd656a9f592e46e1656df5af1694bb8b6b1256a87de22ed8/lusid-sdk-preview-0.10.178.tar.gz"
@@ -16292,6 +16308,10 @@
       "sha256": "fb6aa700f9e0c7cda62bff656a6fdbcd05bf359fc129bf6a3559089d0253dd45",
       "url": "cf/9c/c070a48df28783ff509ddb33c1a9fe5711465422ffa948f0e4ffcd329e1e/mypy-boto3-athena-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "d10a3c1f0c49a01d0e52daa27945222791548723b008c65f964f1aff1334c353",
+      "url": "3f/61/048dfabdb164e195906e41c96f06f2d9c726d01bd0d0792c07dc0ec75313/mypy-boto3-athena-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7182f717e3da9e75b2c06bc61b54567900c66596348de9e36fe5b2b4b7d6830e",
       "url": "c4/29/a611474a661dfb2b7f161922856cde201127fcdc3d1bddecbdc974422e44/mypy-boto3-athena-1.12.5.0.tar.gz"
@@ -16806,6 +16826,10 @@
       "sha256": "184a6c87eeaa6466d14eba6dab8dd0cbf433f8b6ea6f07d985bc182904c60f63",
       "url": "25/4a/e860796b117a7897ddb634f1d378f6fa2d38ba24b335d44671e227056faa/mypy-boto3-gamelift-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "4b64f318c7e365f66afa3eb8b096ae4f7bd36ebaafcddfbb2402a3502e3a043b",
+      "url": "8c/ef/dbfa1346f883bc4ef33bd68d8eb003c4faa48554873b15e799215e4cc5e0/mypy-boto3-gamelift-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b85946f69f241b3c79e41fb58b4f15351e0f58a081e16731c1ff3a90ba0170e1",
       "url": "cb/7c/7b18963f8d9284f56e72f476a506e33c766dccbcaa513518d28bf554a19f/mypy-boto3-gamelift-1.12.5.0.tar.gz"
@@ -17319,6 +17343,10 @@
     "1.12.43.0": {
       "sha256": "d9dc44ce04823f3a76ee69ebfec7bc1dea91c4ee639431b41cfad39d393bfe2d",
       "url": "05/1c/40649341cd0fa016c7f841e9e8bbf24893358fb1ff2aadabc76a9b89451c/mypy-boto3-route53-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "e8483adebd5e4645ded715d2df8abba26d3d6187137ae0c0aa88ac2f5c5d7d52",
+      "url": "b4/f2/d8854d30af56e759509f52611660b67f10fd2975cd5d9032a69a876351aa/mypy-boto3-route53-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "8c9466e78dd4399db6f6a116f92079bf7f0d4efece7f47482d8ee1e85ef38839",

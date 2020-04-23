@@ -13486,6 +13486,10 @@
       "sha256": "2621f04ab29de299b3a2e4d3622bea71fee83fc780ccfa01ce50ee0ef11152bf",
       "url": "67/69/5398e59b464637d8cfbe2dabeb27fff9cc48b91c454d734f80c50aec32c2/mypy-boto3-appstream-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "39e848bc6c2ca176b15ed551e7b184a0d3fd9408e4a6329e2c7396056f2439f3",
+      "url": "60/96/a1c51c612b2bb4ce44dd807be62abaee05a1c5958f81d1457ec3be07264f/mypy-boto3-appstream-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "25d0029bb27ce93a2fa39ff1139877e408dbfb6400c10c7b9b1dbd0e5d85fb70",
       "url": "74/ea/1a344203d7d65149e3329a77f15e9bd9b8ba05fceb7c04087c91d77970b6/mypy-boto3-appstream-1.12.5.0.tar.gz"
@@ -13995,6 +13999,10 @@
     "1.12.43.0": {
       "sha256": "8864349bf7ad368a617f18335a6f9fa6df3c7d8234eb15c8fb332e203ba1874e",
       "url": "24/ff/ed4a783c65b919b933e5d318e7ba9befcafa72e77a270afd85e81dceb4a1/mypy-boto3-globalaccelerator-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "75a522731eaa86646d70986fcad971930c3ece682e1b7c434c26dbb44d91254c",
+      "url": "69/9b/fd0ee5ec285d8b7e0f487e3c1b3672030e9c5c384e3c5e0a338927856068/mypy-boto3-globalaccelerator-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "3a1e1b6cffaafe981ccfbdb6a8074a2891bbe56b5382b9b0612059cda4f1845e",
@@ -14509,6 +14517,10 @@
     "1.12.43.0": {
       "sha256": "22bf52373001c4f42716c2aa9f6cbca21ba969310ea5a335272eb6dd80f5f3eb",
       "url": "7b/7b/2b1729aacc2a3b5cdc4b0450605e357b1f3dc8e6629eda10a337d4c0183c/mypy-boto3-servicediscovery-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "4540ec951c1b6c263eb5b81526dcbb54c8eaf9fd1a084a1f052a98984e8ca895",
+      "url": "81/ac/db7af3f1d0c8c071e24ef1bab20d95c67b5ef8d076fe489b1e59c8c72966/mypy-boto3-servicediscovery-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "e070950256053fbdec5a2cb6f769e55fbfc91420aed8fb2e9d34930799f4af01",
@@ -15301,6 +15313,10 @@
     "1.2.0": {
       "sha256": "af1fe88435226ce56048c31ea484d4231c135b7c4d1f0b81b6d2f8afe92c6d02",
       "url": "38/dc/e54faca0c0daca6ea24c109e8211c90df6aa0feee11a659dbe6ebcc1e69d/oelint_adv-1.2.0.tar.gz"
+    },
+    "1.20.0": {
+      "sha256": "de2d941bf6104ac1374519bfea36638f31ae0c47026d8b8cc8fbd3ce2e2a91fa",
+      "url": "c9/8c/ce3fe86314d37db3bcbef6e5ec2a46eaf0409d9f01b8b6f342615c865f8f/oelint_adv-1.20.0.tar.gz"
     },
     "1.3.0": {
       "sha256": "19f956d203e413f3ffffd84588962c8d6fb32618a7b59fa42c2f8d89744ba1f5",
@@ -23521,6 +23537,14 @@
     "0.4.5": {
       "sha256": "9c28495795c17849889f0bb36552bd275a8abb024712f925f999c16a57d82ef8",
       "url": "a5/a5/5772439d34cbfc939fc8ae4cc98ce7e3f9222f5b6bdbeaefcdd23f8ae235/SciANN-0.4.5.tar.gz"
+    },
+    "0.4.5.1": {
+      "sha256": "c2d559d43524a35e0630c145d9a31da7083c9fed5bfb1d45dba2cdc06212b60d",
+      "url": "7b/8a/91cbea1c25e2d0a6ba5399a114a381cc19d9df71c718b8f147273fbdfec2/SciANN-0.4.5.1.tar.gz"
+    },
+    "0.4.5.2": {
+      "sha256": "85fb44b81f285ddd9c74b0922c8976967883fade7565619c02cde7b9917dd70a",
+      "url": "86/79/b98445037c38bf67e1be297551f0421e00a8ca2bad11e01f563bcfbfb6cb/SciANN-0.4.5.2.tar.gz"
     }
   },
   "scikit-hep": {

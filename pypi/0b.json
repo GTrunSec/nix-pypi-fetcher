@@ -3,6 +3,10 @@
     "2020.2.14.dev1": {
       "sha256": "77fa5e6a42c3969c03d392f313bf7535fe6b9a7fa7a7df246151f4ee1f4d5ab6",
       "url": "ff/90/4c7af6ea7d9cf283075e1c6e533c991e409344320d240b7f67bec0ec5187/accelerator-2020.2.14.dev1.tar.gz"
+    },
+    "2020.4.22.dev1": {
+      "sha256": "18695f6973dd9249b6a29fd27038c27cc0a9851bd1dd80962ec9fd0c338dc51d",
+      "url": "6f/b7/484aafd6ce39da13084c36cb7a639893bc2c8a8b174bb58dd1ef47f7a164/accelerator-2020.4.22.dev1.tar.gz"
     }
   },
   "acclaim-badges": {
@@ -3875,6 +3879,10 @@
     "0.1.2": {
       "sha256": "efa641e11352033a7e8ae4ad2e6e2c0ae24ccd3ae38f91280e9e762502e8498b",
       "url": "2b/57/b61f9175e1cd8df6019e705b0986d6d56561120a9a4a708cbb671ce3a386/comet_cli-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "f6193edb81747f0a11e10611bdf25f1973bb1f8d92bb97720533ea2be08d716e",
+      "url": "b9/28/429232d251c41fd70a0774014be323c84e62bbc3a061bcc02bc9b48f5df9/comet_cli-0.1.3.tar.gz"
     }
   },
   "compare-versions-s528358": {
@@ -13148,6 +13156,10 @@
       "sha256": "fc4549e89144994b35e67e19b0f0f43cc79f701cdb91a2d94a5e14cb2e1c1470",
       "url": "be/29/aba01619a342b0632083ee42c20390d5d5300bf311f66a8f00f29f073209/mypy-boto3-codestar-connections-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "570d3adcdf9b1fc027496cf1951e8eb2aad7fc24f07361a5d5d4fb1e7b65c1f4",
+      "url": "59/f8/cfbea53cf25cc87a0a98976278daae47eeddc0eae9d7fb126802a9e95e32/mypy-boto3-codestar-connections-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "3126539bd91acac7597ca705acd61bc3ad1f10d5d01ef20bb377d6b4ba590418",
       "url": "e8/2d/ad748e26cf9ea006a8cc1d3f510ce5b669f3704c5b86493888fd9b735ec5/mypy-boto3-codestar-connections-1.12.5.0.tar.gz"
@@ -13594,6 +13606,10 @@
       "sha256": "2fa758fdb43765859fa9e83c9e7dd3c670331067409a7e056e34ad8c0a2168af",
       "url": "33/af/43f4f8ab8d0c8063d311619c68d4c585ab34054ff9cd704bc5866058b446/mypy-boto3-connectparticipant-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "2320df483a00b6dbb987d799de1253b26d988baf2c9f15032335f0f257d108c7",
+      "url": "8a/ea/61778df8df7a713d5c47cc9548c394d66e6d794fc13edad5ac896bb313b0/mypy-boto3-connectparticipant-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b684977fc934e4f180cfac273b08788884ed9d6622f54fc81b2d2449c7b4706f",
       "url": "ed/04/f06c265bc12294a651e725f2616554e7152595401c56fc4477f4c022e392/mypy-boto3-connectparticipant-1.12.5.0.tar.gz"
@@ -13773,6 +13789,12 @@
     "1.1.0": {
       "sha256": "70e3840e5c2538c69ca35a3a9c07bad925a36f0e26e0243fb86ea268acb19bc4",
       "url": "d4/df/addb37c2ecf43dfd5f6e7e7a4751ee68f3cb60a5798fad3cb5db8c5430a3/nice_list-1.1.0.tar.gz"
+    }
+  },
+  "nidhi-missing-data-101703369": {
+    "0.1": {
+      "sha256": "67bf42e0050522bda83097e24c18d5fa5d3bea3f99b7722330e2095bbdf41ba8",
+      "url": "2c/72/513fb6cfa512cf65d935fb8d23379ba0f34a9a8184e3f3f236390145ded5/nidhi_missing_data_101703369-0.1.tar.gz"
     }
   },
   "nmme": {
@@ -16251,28 +16273,6 @@
     "1.0.1": {
       "sha256": "e1e403171327bcbbacb8d170d12ed6f718554b059e3641225a0005c3278b7922",
       "url": "36/33/9c24cc9ef3bbc20cc3904c24d63f43dc14c93bc639b416688f973304887a/py-tictactoe-1.0.1.tar.gz"
-    }
-  },
-  "pyatom": {
-    "0.0.2": {
-      "sha256": "e1110dd5589a3b5a5cd813d234601ee986868b1e7c9f79c1c2749e086675f8c7",
-      "url": "c9/b1/00982c1a78e9c7ad4069d293b6d61ff2b5891f29c8b273ee6693342f311f/pyatom-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "05dddbf3b98c2bf09ce04865be912b7a1210fc1170be903060e7399a738f5d6c",
-      "url": "72/e5/8dda3a63c5f9fae50d159b8a2e276fbf3049d4ae87e69def271581eeb2ac/pyatom-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "217df22077ebce1bd72d7b76ba3a92e33568d4de518ad16624a34e62a9582606",
-      "url": "46/09/5f81b0c011e4c26595d7c9c52380f7aebfbceb186486540956e02189d6ca/pyatom-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "905f2085db6a60e7c29b0c69bdaed8692dc1fb3d02ea50571afec381eb83038b",
-      "url": "95/41/bba445ae7f5b7a4c0cb2e5b7c7c52f52fd90170ce4c75faae697f280919a/pyatom-0.0.5.tar.gz"
-    },
-    "0.0.7": {
-      "sha256": "8712ece0b093187490e996f0f162f7195d1cff8973d5b6ded6062c688a7afb8a",
-      "url": "8d/c2/0d05944c72ec20af6b5f37c0cbf2b6b5f8f5641b91d39f094a121f3c52bb/pyatom-0.0.7.tar.gz"
     }
   },
   "pybfd": {
@@ -24043,6 +24043,12 @@
     "1.0.2": {
       "sha256": "f8188c565908f2f324d261145c9079dabf81ffd319eeb928611ed1e0a1b5e950",
       "url": "85/fb/c0b20aaae7cc6bb2a6c02f9a6651335395cb74571cb81b60b4ceaff0512b/wiselib2-1.0.2.tar.gz"
+    }
+  },
+  "wishpy": {
+    "0.0.1": {
+      "sha256": "641b8e2a821e07b9df83ee39faebaca1e6ea4895ad9eeaef0bdb0d657490ddf3",
+      "url": "91/f0/41438366c21f7528b5ade022582f8f50d1c91a1ea1f158af9cf0eda049ba/wishpy-0.0.1.tar.gz"
     }
   },
   "wmctrl": {

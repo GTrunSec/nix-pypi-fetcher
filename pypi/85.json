@@ -1271,6 +1271,10 @@
     "1.34.0": {
       "sha256": "ece44615baaf358ce39a81c6995816bd37b9ee8b2565a7a5b4448ace0c08cbb4",
       "url": "c0/75/5e1734cf53a548214dcdc90db5472cb482f22679dd2deb79b4fb33541cff/aws-cdk.aws-mediaconvert-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "5b826b8ef1c8f359e6db7ee4c799330f4385b00582d9efc6a85acc2653aacee1",
+      "url": "d2/d4/d6371d8c3d19b8f2e28956f59cdd18df4c56a6930e3cf62dab38f226dc77/aws-cdk.aws-mediaconvert-1.34.1.tar.gz"
     }
   },
   "aws-cdk.aws-sagemaker": {
@@ -1493,6 +1497,10 @@
     "1.34.0": {
       "sha256": "d983aa1883d2de97c7b549a6960cda826c0116c5823f042b222afe9fabc68ad2",
       "url": "0d/f9/b0851b04ece2e073abed4d57586845924e09afffe32b3610457edf968ff0/aws-cdk.aws-sagemaker-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "54c3bb2b67f19e5f5f0a42337a5dcf787f7f021028637ecd41dc6107bc3c19c2",
+      "url": "b8/19/c2da5e9592dd65a7669e8ea70725f341d1b9c40f7257d7be414122ad8ec9/aws-cdk.aws-sagemaker-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "0641f26a5b2baafe0379babf0e6e3b6063f83fc1c3603cd823d5bca7b821cebe",
@@ -11925,6 +11933,10 @@
     "2.0.2": {
       "sha256": "f05ebccd6b0c048455c5cc99731fe583f5bfcce8444acc5c33ca813476b7dd36",
       "url": "e1/0a/7b4bda52bf9434f0f41bd443b9e2ddd8ee29da1a91ce3c776ca87fb69fec/LbDevTools-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "ed3fb5046305170319c7c05743005ff516088f53c6b8f98c6af49969240cf2fb",
+      "url": "54/f4/6cca2ac7b3d79854a77521a81de7c00f79f5078e76c65792f70b48f640eb/LbDevTools-2.0.3.tar.gz"
     }
   },
   "lbjobmonitor": {
@@ -15196,6 +15208,10 @@
       "sha256": "ca5d62fbdc36608ee224d946a017b327a6d4ef75524744817ef6233e5c88709b",
       "url": "d8/2a/d6707592bb4b1720494cd4c6bca05413dc029aeb443203444c27f654038c/mypy-boto3-s3-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "3e85dc2b5bb079a33a237485794f2f0594be8f6371d959cd8c6c9a43c8c8319e",
+      "url": "cd/4a/4b43c908ff8e2ad8a6f462b24747ca90a7730aeedf5f2af5b67571ce7fe7/mypy-boto3-s3-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "88fda97e1e1a11b1d55d1ef60dfa640a7a4a67cf3e46be07334e7b1238f8c6d2",
       "url": "f9/31/f5dee02cee8db03ce170c9b81e7f0716f0180c8f17c5109dc1c8f55c36ef/mypy-boto3-s3-1.12.5.0.tar.gz"
@@ -17619,6 +17635,10 @@
     "0.3.2": {
       "sha256": "e2d7ca0492573eec5820015abc1b239cb23ce36da6921d077cadba78c52950a4",
       "url": "12/66/f04fffd0b01a5cf701560a64455d1a5cfe98fbb0a1dd0e4f4ac95deb25bd/pymanip-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "1695957bf8a37084a954fb376d8af11d4a276e3b5078ff725d55c015224238b4",
+      "url": "9e/56/f176ea36a285fa5f0130f18b66352a773efa3913db6c38a9c83e1acd1b2a/pymanip-0.3.3.tar.gz"
     }
   },
   "pymetasploit": {

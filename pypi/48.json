@@ -12758,6 +12758,10 @@
       "sha256": "cbc66e84371c7a04940527b6a4426c0c00a8c83d7a6d1b4c7a3487b5fcfbd922",
       "url": "8d/f2/e1d67cf803d5202a8bc5f1fc755d3ba9f3f61a6bd9b11ec503f7de7b8a0f/mypy-boto3-directconnect-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "d0e378fdedd119203a139f5469d87b2c89cdda8dd04ab2a2e329f89b580b9e87",
+      "url": "a2/60/fc7e1b8762ed431970143dcc1bf62fd86c455a774c7535998b84ab5d40b2/mypy-boto3-directconnect-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "e424c04172b35b84fb9875c68248436929e82510cf842d18c563e04e75790fa0",
       "url": "79/7a/ee9d80730b364587a2c0e388010510976345253356e66acb8a76fdea3c5f/mypy-boto3-directconnect-1.12.5.0.tar.gz"
@@ -13793,6 +13797,12 @@
     "0.0.1": {
       "sha256": "15285fbfb165b0afb8b94ddb933d65014c70e4e1388e9e82a00139854d86bab5",
       "url": "1e/40/b3f9e442823c9a1d6b76e5a4a6f6aa5640cda96a6f50a861598ab256e17d/pali-0.0.1.tar.gz"
+    }
+  },
+  "palki-101703381-missing-data": {
+    "0.1": {
+      "sha256": "9b62fbec6768ae616c2fa971aae81121771b0a7fb655e3dc0dd69caa1595bbfb",
+      "url": "f2/7f/4417c24d98158bfa0b5a00278c8c28fafbeb1fc8b2874b716c54d09fa5dd/palki_101703381_missing_data-0.1.tar.gz"
     }
   },
   "panda3d-gltf": {
@@ -20775,6 +20785,32 @@
       "url": "48/e3/060057ed4a9a9d14593eaf03d7c8a126ee9104ba274d29d28599260bf4c7/tidyplot-0.0.4.tar.gz"
     }
   },
+  "timecast-nightly": {
+    "0.2.7.dev20200422211239": {
+      "sha256": "2a12df5872cbd142f020bcb7b77fbd26fcaf23fdff34b429754245c4d947140e",
+      "url": "83/9c/a49a9af94bdc8e9e7ec5705a61f4534af2513ecea070f5204e4afadb5bec/timecast-nightly-0.2.7.dev20200422211239.tar.gz"
+    },
+    "0.2.7.dev20200422211607": {
+      "sha256": "d130e0a56b977dbd6a1832dfed1fa8fdbf4fdce31e12cceb3457352d9b3b5a22",
+      "url": "ed/94/57ef9c3742473c5b446fe0a20b0fa1f03f2f9a70b958e8d4741dd7dc13f2/timecast-nightly-0.2.7.dev20200422211607.tar.gz"
+    },
+    "0.2.7.dev20200422211715": {
+      "sha256": "f0e37265d01b87e5f76e6559f43fec475fd19de10d710dbbdf61cbe4484582f5",
+      "url": "c0/9f/ea90517fe3fd8646f36970be821a522a35d797b4cf7e9922ce01da8db2d8/timecast-nightly-0.2.7.dev20200422211715.tar.gz"
+    },
+    "0.2.7.dev20200422212420": {
+      "sha256": "dfaa09ec3521e7dc4b7dd992bcb0fa92112bead074f791f5c9e1c323527e440c",
+      "url": "7e/99/2112affcde2a224d0845d05f0795715307263e6f9b7c260d03fe39cfcb82/timecast-nightly-0.2.7.dev20200422212420.tar.gz"
+    },
+    "0.2.7.dev20200422214847": {
+      "sha256": "61810e6632cc46bac74e82f4db7190abd5cd0fdec00a18e4808e0cbe525b53b8",
+      "url": "71/d0/a39fe54696a819e0530247551c3c4301d1227d5a13ced30c7f3f56ebd157/timecast-nightly-0.2.7.dev20200422214847.tar.gz"
+    },
+    "0.2.7.dev20200422220725": {
+      "sha256": "b3d3a2b3ba07dae06b29224c6cefb90fcb06ba054b4c94bd950ad5bcafb2307b",
+      "url": "d4/4c/e30770874471eaceb5be59d44b6ee5542d04d9af500d0e8c8aeae295b757/timecast-nightly-0.2.7.dev20200422220725.tar.gz"
+    }
+  },
   "tmx2dataframe": {
     "0.1": {
       "sha256": "d624ae9f0e02879dd426c939f30a1860c9bc5928d73dc3dd91ad2759aa8de71c",
@@ -21799,12 +21835,6 @@
     "0.0.1": {
       "sha256": "b98d43df404737f5344640d3773f6eaf2fbea2677cee6e363ce7d00a2545294f",
       "url": "9b/7a/507334ed83be441f17ce82e9ae8ee06918c557f694bdd44584a95a7f8177/wc_csv-0.0.1.tar.gz"
-    }
-  },
-  "weathergui": {
-    "1.0.1": {
-      "sha256": "81478576440694e2a195af7c17c2a14156d820f9ecf6284b4d36524c0f1edf9f",
-      "url": "03/85/c23fdb711bef31c9696ecdd94735f1d8080a8ae02133f7a3f49413faf582/weatherGui-1.0.1.tar.gz"
     }
   },
   "webcouturier.city.theme": {

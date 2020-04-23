@@ -2730,6 +2730,10 @@
       "sha256": "37bdd18771e6da538126b63d2a0ee4bd709cb8d0fdf1826663820fd3aa7008cd",
       "url": "54/eb/a12b98a449d8c4d7afed964ac6f41e8560ef415fabcb2ef8222b9ca1b073/aws-cdk.aws-autoscaling-common-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "c19b2ea35d4f49271f41ceaaaa9c7f9adc29b36de5198a481a61d6a011576b75",
+      "url": "ea/74/7063ee2695841fe1f1c8e6ac416ecc923ca255abe54245ce783007b2b6eb/aws-cdk.aws-autoscaling-common-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "12b9669e64fbb8f6dddfd7bada7b062f1771f80eca61ee78149681ca8a2d739a",
       "url": "d9/2e/2927e5ad7429f410040f807923014475b2ff596a14512973ad64d829d6bc/aws-cdk.aws-autoscaling-common-1.4.0.tar.gz"
@@ -3771,6 +3775,10 @@
     "2.0.1": {
       "sha256": "07b26adfbe9fad4bb53e770d220c4d5d0fff8ef6813aa18222fa348bbdb8994b",
       "url": "45/83/20bd995c4d79f8947fb2c9b80fa729157300d252a63c412d0f5a4915ff07/bokeh-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "d9248bdb0156797abf6d04b5eac581dcb121f5d1db7acbc13282b0609314893a",
+      "url": "30/cf/9bef843880084b646cf5e6988e8f0aa081dccdf09f1617cfc6755f9a3353/bokeh-2.0.2.tar.gz"
     }
   },
   "boku": {
@@ -8845,6 +8853,12 @@
       "url": "3d/c6/8f875f09946cda09033dbe0806fa94c1a500ceaee5a3b8768787dc56d246/elasticsearch-cli-1.0.3.tar.gz"
     }
   },
+  "elasticsearch9": {
+    "0": {
+      "sha256": "9ec7bf65e36a89d55e9b6e0c26acc617d4d8e940c7dce6287f7ee8c51ec3efa7",
+      "url": "cb/43/1c35d96479e97af6e1e51163a7f6b5f9f81e1f0f8677f1391ebf51d8d946/elasticsearch9-0.tar.gz"
+    }
+  },
   "elementwise": {
     "0.111220": {
       "sha256": "62932d8b3dbad2a3908375681094f3b2b62a732dfc07f6296b6095c8fd1de7de",
@@ -13053,6 +13067,10 @@
     "20200418.0": {
       "sha256": "cbd2a788d60e78cb6592ed3e5c1600f15b8dafdb1409475eb3855bc3ec47fd8a",
       "url": "8e/68/037c48705c9260e4e1a0bb6df4583ba2d83fbd9dab0e100b92ef2a0de67c/home-assistant-frontend-20200418.0.tar.gz"
+    },
+    "20200422.0": {
+      "sha256": "9a06e8df4275b544aa65edbb14e064b3a84ae89a8d8f0fe3e6d1f7a9f506c053",
+      "url": "1a/3c/37c2229d139b77c9c8190209c7dbc52c96e00706df2a23e7ae887694c37e/home-assistant-frontend-20200422.0.tar.gz"
     }
   },
   "http-serve": {
@@ -27419,6 +27437,10 @@
     "0.0.4": {
       "sha256": "295bbdc81806290167663254babdd44017e58de2768df4eac1bbda8b89b864e6",
       "url": "fd/2d/2d2d6328262829e29ba04a0c14d9ac7da9a525b5f8248d84352b92ebb19c/ubc-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "09496aa7914c469a937f5cad99e5c07e105c567efb4aafea29873a086c102e5f",
+      "url": "68/6f/1f57153cd1e2f85c14f05d6cff674bdda24dea1f0ac60980d152efa53603/ubc-0.0.5.tar.gz"
     }
   },
   "ugmark1": {
@@ -27681,6 +27703,10 @@
     "0.9.0a3": {
       "sha256": "f428ea201d251b65a4eef5a11d613d5be327301117215784aab36db5ab82b09d",
       "url": "b9/92/8ac8d70b77c9964a08ad5e517be3e43b8d315a7dec58f03794e9f08f1c28/vemomoto_core_tools-0.9.0a3.tar.gz"
+    },
+    "0.9.0a4": {
+      "sha256": "45e6d2141c9206f245eb444cf1763e3e9a1255a0668f5dfc4f1264fa48a089ee",
+      "url": "8d/60/acecad7aef365be98af1a41acc7871d45432be608c17a8889027bb9333a4/vemomoto_core_tools-0.9.0a4.tar.gz"
     }
   },
   "versioning": {

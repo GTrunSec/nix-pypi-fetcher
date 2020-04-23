@@ -1377,6 +1377,10 @@
     "1.6.5": {
       "sha256": "18c4f946ec4204189913969f85d4b2a73a436482820064eacf81836c3044e4c7",
       "url": "89/df/d714c93e4c15332b263524ea5d39f7db3cc693c3b380db92bfc7ecddaca0/autoscrape-1.6.5.tar.gz"
+    },
+    "1.6.8": {
+      "sha256": "65950e1a5f6e7168b6a03fc17574b9610ec4ed911bc9ba8933c05d1d9b11d873",
+      "url": "59/16/958445b837c8205812519866cd00f9937f520b7ffd1ceb42399463263295/autoscrape-1.6.8.tar.gz"
     }
   },
   "aws-s3-url2uri": {
@@ -4975,6 +4979,10 @@
     "0.7.1": {
       "sha256": "98ba08bbee9ebdd27b756209e76cf16a0559e6ea7f0f939bf2304256e31924f3",
       "url": "fc/a5/b1fda3c8be606fe664a5d983afdb3b8d32f39c99e49a06b293e9d5833e10/django-helcim-0.7.1.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "83f5a6c55421a5d2d6c8a7b6d9d49b765a08729dd03a071e7df0bed40465fa82",
+      "url": "d6/88/a19e7a37fc265156b9da5c08d9e5d136649ccadccbc9c79ad7fe940e4c13/django-helcim-0.8.0.tar.gz"
     }
   },
   "django-hidefield": {
@@ -5501,6 +5509,28 @@
     "1.2.2": {
       "sha256": "6e70b54490b44dac45c5af1cbd09940562866efe81b8c0de49b448077dcf5f2e",
       "url": "c3/c9/3fedd5d4f01a5754b4545e125ba767b05dae2850d0bb730999f6f7f4223e/django-seznam-captcha-1.2.2.tar.gz"
+    }
+  },
+  "django-simple-account": {
+    "0.0.1": {
+      "sha256": "536f0592cb19fcfe6ae9867b053611bcfeb29c7a55a75a80cb4eeb8f7c36fb4f",
+      "url": "41/5f/1a6afb2873dd5811ef3fe17346fc24cd83fd9292d06257da7dec64ae253f/django-simple-account-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "de8461243f62c8379415bbac93ba3fcf0c2e17c2d6335216b5e0284ceb98c0fe",
+      "url": "75/f1/3bb84a3a270fb1a50c43fd99060b4b3615da00e42424323c6eb8bda75822/django-simple-account-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "4a57c43d4f587dc92329468cf572eb478092f0de4f6f7e0310a6e2a5295cfe66",
+      "url": "71/ca/98d94fd0bf766bf109c4cb2d94952cdbd77e906248cd96d0c7043799124f/django-simple-account-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "940f856c25ef075f42a16c749399abd984bb443f32ac8036a9b0289ff7b9d275",
+      "url": "01/16/7a548e83f5f784d6ba964a6ed5d69e9d06288226f79b07b8e1dca10452ed/django-simple-account-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "ab7f1f71b5d89b28346421aeb862e6045b2ca27ca29e4aa3b596794f412b1043",
+      "url": "f5/55/012ebc2590a039a1e000cae6a50731c9539e634c7c703ad2560cf6b3152a/django-simple-account-0.0.5.tar.gz"
     }
   },
   "django-simpletwitchauth": {
@@ -10148,6 +10178,10 @@
       "sha256": "b8746caec7f05c24c957c2259fc99aa072d2a642f565461b9a2bbacf72b4e202",
       "url": "5c/47/01b530e6c60c59d01cf011e05930adc24ce77574cf3f42bab498323d5944/localstripe-1.12.2.tar.gz"
     },
+    "1.12.3": {
+      "sha256": "4cc8208321c0dae49025d43e269cedfac3dcaf20ea2d191928ad1fac759552ee",
+      "url": "eb/6c/be95c4f258697c0a8bb6198ebb70008d494672c2e5ad2a11bc4167cd1030/localstripe-1.12.3.tar.gz"
+    },
     "1.2.0": {
       "sha256": "a016641ca6cbb6d29af482455a535cf517c4674243c241eddba355e35969e978",
       "url": "0c/a7/e406ce4285cb1406fc46db402b6c1bc8f9cc3c3dd31dcb23115597a77ef2/localstripe-1.2.0.tar.gz"
@@ -11475,6 +11509,10 @@
     "1.8.1": {
       "sha256": "fdac9cae4e5817df29f39f06efb3ab0941a1c8f66fb0972815e425f473a126ec",
       "url": "80/75/84649979e3d3286f60bfcc2197a41abffb1987c54dd3cb417807c35394c0/mindsdb_server-1.8.1.tar.gz"
+    },
+    "1.9.0": {
+      "sha256": "92317cc77faf60b5584b9f3f7b9f090d4ce33f1261324834035879fb7e66670b",
+      "url": "3f/1d/14f455170d0552c7fe9cdf88435ed3a4a36ea33fa6b4069850bba9f64e47/mindsdb_server-1.9.0.tar.gz"
     }
   },
   "minibolt": {
@@ -12841,6 +12879,10 @@
     "1.12.43.0": {
       "sha256": "542e98e797a85126a2383417c82dfb149df6541e36b44fd54710a2db7f518af5",
       "url": "f3/40/a1851860064d8e2921546545d2a7145f7efe295790fd2baa8bff73d6e5c0/mypy-boto3-networkmanager-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "aabf7412232f1ab05aed8196d63650e7e683d4d97622e1bb05d753ac53325606",
+      "url": "97/26/376a22c3130ccd929730ca1d0229ea7e7b36d2784050501b5600b06a7a7f/mypy-boto3-networkmanager-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "0ce24b8ea77cfb093bee195fb90ddea13dbe2a8c9c2ec3d4544cca03593f8173",
@@ -16539,6 +16581,10 @@
     "0.6.1": {
       "sha256": "dc7f83545a7de5824c8e4b9c519acb2aeb65907a86e6b3253029fd66d52a9cd8",
       "url": "41/f7/0be9f7a1e2071829a1903c93b4e50646c48c14231a433a4e8a66fd6cd373/pyfastx-0.6.1.tar.gz"
+    },
+    "0.6.10": {
+      "sha256": "db183b38afdd9a1fc7a96b34b11ba5b2d699126cd4ca7b16d8e47ac64176b8e3",
+      "url": "9e/ea/484e2fe538260409f52c722311ef11987f3ff135645f19c240c7eddd8440/pyfastx-0.6.10.tar.gz"
     },
     "0.6.2": {
       "sha256": "0e96af2adc6fca6d1254c7b1f09af0610bb46995c46ae6e5e3ae2ed721c97b9d",

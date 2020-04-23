@@ -1466,6 +1466,10 @@
       "sha256": "230fcd20d35c2f718da9f329fe5336a0eaa2173bcf98c490bcaeeed5be73d4f0",
       "url": "08/9b/70b8955a1b19646b4b6e632011c7bacb1fe9d02e6375dfa14a9291247162/aws-cdk.aws-route53-targets-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "f884e44ffbf9d8736ea01cd76eeb781abc4cb37284e227a889bc5c05757d73ef",
+      "url": "47/97/de7a1fd87bc18b621db54b524182fd3d614152090bd1371bc5f49be6c734/aws-cdk.aws-route53-targets-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "dfb69606d11de22416bcb5909f8d7e5ec5573371becfa758fb304b82c3ac4afa",
       "url": "b2/67/41097fc3e6617205c89b4002a73edbb0c7d68929f286e90da44b34f36094/aws-cdk.aws-route53-targets-1.4.0.tar.gz"
@@ -12164,6 +12168,18 @@
       "sha256": "66af943a51d5b3405b33c0386348707b7fe41b275947eba26de358ac69af6677",
       "url": "9c/e2/3dc676bdd5ab82a8e38c9dbb92735c99abf8a66ae39a14d7812a93a458b9/homeassistant-0.108.6.tar.gz"
     },
+    "0.108.7": {
+      "sha256": "b6be9d81e695bf9c82bfc10398b66e7ca9cda7f05bc1d15f9da274db8cab0cd7",
+      "url": "e6/5a/a37f892c3bbee871b8df46c6621c4237eb3960a0af1583e98e977b44b339/homeassistant-0.108.7.tar.gz"
+    },
+    "0.108.8": {
+      "sha256": "43a2320f049274d765c03f8250cf6d1cf58fa4fdebe63cf79756863bd58b0075",
+      "url": "79/2e/bcd2b5067ce3e661997bd32c1f6e38d4a9eda57926b55d625b583039e08d/homeassistant-0.108.8.tar.gz"
+    },
+    "0.109.0b0": {
+      "sha256": "885289fab02b5960efa44c1480937ae4602411ca4a34910056228654ba22a962",
+      "url": "79/9a/7f37b43f9b0c5978739d49213bcff5a3eec588e7a9f6c40d40cea6d06037/homeassistant-0.109.0b0.tar.gz"
+    },
     "0.11.0": {
       "sha256": "da8096b9d0e358e2fe949b53111146b712230f51191919a506f0a2d9ab1bd9de",
       "url": "73/13/33a0d48d0118851295ed7aff86089451d41b91b3f1e186c25bd301e5618c/homeassistant-0.11.0.tar.gz"
@@ -14671,6 +14687,10 @@
     "3.63.20108": {
       "sha256": "5638914a01c61174676488698ea0e33ee815dda85adf5e04b0e43cc3bf4abd4c",
       "url": "b2/99/293fa9999fece8800c17055e1dad6b24750304937963a7e56172f72b1bd7/jx-mysql-3.63.20108.tar.gz"
+    },
+    "3.67.20113": {
+      "sha256": "0caf42912167126e37f7f9311d1c892c4731d09aeda07eda906ca3d8ab75d813",
+      "url": "fc/35/30d59493b7089c5f2e4668fda4c82eca3f4a7f4da1a6535820ce09e164e6/jx-mysql-3.67.20113.tar.gz"
     }
   },
   "kassandra": {
@@ -27103,6 +27123,10 @@
     "0.0.25": {
       "sha256": "89130e5c6d79bee871e91e688be07aa29a0215df9f5601d6f294fd5f73ba9786",
       "url": "e8/8d/d6c14d1e9e287d8677c8322ecccca30b60425fb0890588ab59b56d4b7be1/uiotedge_driver_link_sdk-0.0.25.tar.gz"
+    },
+    "0.0.26": {
+      "sha256": "b3cb273229af1b2860b02bc81a035b57e628027ece5555dc64d228a586d41d16",
+      "url": "65/b1/14e21f81b91643791fc86f6150226001e08d8982437aa5b6767056f3ab20/uiotedge_driver_link_sdk-0.0.26.tar.gz"
     }
   },
   "ukyvub0ffj": {

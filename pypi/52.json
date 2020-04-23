@@ -3021,16 +3021,6 @@
       "url": "9d/b3/2fc4ad13cd744ca1b2884a64f6db0857b5e50fb4ab3e14514cfcf3065abf/ConfigHelper-0.0.3.tar.gz"
     }
   },
-  "consoleweather": {
-    "1.0.3": {
-      "sha256": "23f070ddc43239dc233c384be82757620fe8a6f5ffed45d121628d8362d8d37f",
-      "url": "8e/f5/75a405a3d900bf8ce6eaf9464f1529e87a7241e8cd3a479eb4e976299b26/consoleWeather-1.0.3.tar.gz"
-    },
-    "1.1.0": {
-      "sha256": "87f1659646672730fd9c8ec11b519b9b4ec4d54221ffbb8719ebd40f0a669a47",
-      "url": "a0/a9/13d466f5b9593c0e067a050a5ce8d21a9fb74da0bdc6c2ba342b16ec11af/consoleWeather-1.1.0.tar.gz"
-    }
-  },
   "consuela": {
     "0.1.0": {
       "sha256": "b5ea432783ca5dbbd3bdf95d4c325adfd37bd04183a836b32db1e0be42148bf3",
@@ -8797,6 +8787,10 @@
     "0.54.4": {
       "sha256": "16225a72d832b75c7aad73f85afc3dda764de084e35cad346fbc4472e8d8583e",
       "url": "b6/4a/b71a4109682f168db5dfd4eff8684d365daa84335c49898ab20a6bd7d0e2/gordo-0.54.4.tar.gz"
+    },
+    "0.55.0": {
+      "sha256": "8cdf4de466984f9c7d315f222a2d3c7489ca2336aa8e7d6621bb6bd32b7a1f29",
+      "url": "bd/9d/3de03eb6f7cdf359e247293aff65961f8c84845eb808ec0e59bafd360ea3/gordo-0.55.0.tar.gz"
     }
   },
   "graphene-gis": {
@@ -12200,6 +12194,10 @@
       "sha256": "f7c21c5fd75886ccccdad9c781fcb7d4f2b949f713fc6b22c5e56ac164b4f1b5",
       "url": "02/3f/240a9132ecbc11b8238503c04ac06f9c5ef5ecf3d1028b28550ae57384af/mypy-boto3-mediatailor-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "4d019ce854e6a63b4d5be4d7df0ca557ebf86a62d35df8bd90676888018ba44c",
+      "url": "ab/2f/02f6f19276c7b7c08e9059f18bab03728c913140cc2e4556990808cd3e7e/mypy-boto3-mediatailor-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "beb5b1310ce69d9f7af3157c06eada400e3a1bca00d15105654e3d4c04dec8c7",
       "url": "f6/d3/d186acb426437f34039cc746ec86604f33ebaddd235711ed38101cd07310/mypy-boto3-mediatailor-1.12.5.0.tar.gz"
@@ -12713,6 +12711,10 @@
     "1.12.43.0": {
       "sha256": "8f61087e6e7cd4fa721115dd55f4112f67f59a5b78e96f99d9bb190717917d86",
       "url": "df/e6/84ad4c58e8293a4aef8f5f1a07f51e774fea87df3a4377b77804d9ea077e/mypy-boto3-textract-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "b22069911fb8c1458d17f8edef6aee62430a8e8fb4404e84ab0b7640d8d26162",
+      "url": "97/1c/3b1ad5639e283dd3c3bfb43448bb0c7a94c2dabff56a48f2498106be3bd4/mypy-boto3-textract-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "be677fede9edd491a0bf1826bf331f93346dcfd42e9f67dceffd3cc122642ab1",
@@ -19723,6 +19725,10 @@
     "0.4": {
       "sha256": "309350fa5534a6dcd0327cba169e85e3591d603f28a67daadf73ebf9f314ed6f",
       "url": "66/0a/bb7a2e3d543044cb8a15237912c8c708ca39facfa44ad3710b48ac6a1be4/sipzamine-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "0004b54652ceb1a08aa21144ed58078fcbdf24392552a289bd3250555e1b52e2",
+      "url": "18/c9/9cc3bdf0913fd3ab440b502be283d8682ff097c4245d81ce1defecc56bad/sipzamine-0.5.tar.gz"
     }
   },
   "siris-scraper": {
@@ -22259,6 +22265,10 @@
     "0.5.3": {
       "sha256": "0669449089a1846e76ace226b5f912c5ed439b741001c5ec9fbb509a46d12844",
       "url": "4a/ad/c69a6012eadd289d5aa01e13d9707343b30c6751a53e2b04f9fd195be0ff/thornpy-0.5.3.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "c690c635942a1bef648cc848fbc24c17bfb9de5476545923ee20e6931580b797",
+      "url": "11/06/179d170e6fb767e3f6cf4cc575869d28edc1b3a994d8def88490a6ff80b0/thornpy-0.5.4.tar.gz"
     }
   },
   "thoth-common": {
@@ -22369,6 +22379,10 @@
     "0.12.1": {
       "sha256": "61a7662dba3cb96badb7aab98661bc9edbb7078129701d521daf43eebf57cc26",
       "url": "96/ce/44bf91c3439023aca0fe131b4710bd2b8eeaddab4044db3747e8c19fb217/thoth-common-0.12.1.tar.gz"
+    },
+    "0.12.10": {
+      "sha256": "00ba872427158ce7ead4e9ea11285857d019435d4f718d8d2115f2d8639a3698",
+      "url": "bb/e7/a59e52559ffcb20cfedcfe08c464e6a9d084bbbc344f60f10c359274376a/thoth-common-0.12.10.tar.gz"
     },
     "0.12.2": {
       "sha256": "a61a0926aec36298dd923ee3fbc0c3c64e2b3105b714bc51037dbc2b025b9f6f",

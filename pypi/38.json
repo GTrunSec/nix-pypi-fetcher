@@ -3020,6 +3020,10 @@
       "sha256": "456e5cedf12ecfa6774cdf9d421c23461c7973bd6231920f9d5ada3b4de6204f",
       "url": "03/38/adeadd083b71c31c28f581a2f646adfee0b6779be69e6a3e0cf7e52245dd/aws-cdk.aws-opsworkscm-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "70c52e1d805023c260adc33b51911cce1fdb7fb04d2ead628d7b4dc8a5d6f5ee",
+      "url": "8d/e9/24a120d4cf9d11c61dec939381cbf342f55af98bf7593ceca39879872995/aws-cdk.aws-opsworkscm-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "24172b60bc0ac94b705ee7a75745f5cd8fc8e2b2108285ad00a6fdfddc060bba",
       "url": "58/07/ea6cfe0ad8b07ead1186aef9dded3ab1cc025d6f8196336ca47965635a09/aws-cdk.aws-opsworkscm-1.4.0.tar.gz"
@@ -3238,6 +3242,10 @@
       "sha256": "ba64901ec51fe25f9fc26770528fee47c8ab1a117b577f71682230bbc37e7953",
       "url": "98/d9/860ff874a7268830ab0d7881540adc84af059b9cffc78752595f10e16ac6/aws-cdk.aws-pinpoint-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "a03ad21b3fe2e586130df833722c146c853721de887d78c32f103d1d15536acd",
+      "url": "d5/ed/bd8e8b544e696220a1374d3a51fa6358fa84d8583c78f4f3329183ec004e/aws-cdk.aws-pinpoint-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "2f5a29b5c1ddce27e19ae3d4b879c2b1043128edb242c8da0d25cb68f446ef68",
       "url": "1b/8e/b27c9f234f17f9d5edfa68b15e736637fb5a517998c0fd5474b269a8ce10/aws-cdk.aws-pinpoint-1.4.0.tar.gz"
@@ -3419,6 +3427,10 @@
     "0.7.3": {
       "sha256": "0311f4891ad44be964c670791ce75b1b6e84f1e31dbfe7df6dff3c8697d95f52",
       "url": "92/b3/0f9a7ef7fddb35cc2ae7e0dd72a58cf1567fa6783de5cdd4612c2431c6d3/backtest-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "371a5780d8e0b6d5e2b60f1ab36b45280a48d47d2fbaf97750e0949a99462f8c",
+      "url": "95/2c/f6df651741a8a9dc87e6fa2b24ebf585155906de37347c8b6bac3eeee443/backtest-0.7.4.tar.gz"
     }
   },
   "ballpark": {
@@ -21642,6 +21654,10 @@
       "sha256": "3708ed399950ff6b77281e11d0b3e34d729d6a54c4e13a2463ce891bd572365a",
       "url": "07/80/d0ac598ac0dfe2150e267a165dac3583adbf4aacda85ba73a1ec21148942/mypy-boto3-sagemaker-runtime-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "7b8148db3386d0a8d87f4afb9647ffc2540983c4b8e1bb72ea9720c13de0551f",
+      "url": "7b/21/1f2aed82b4e0fea9480c0121848baf7e87c471714275452b88e78d04d246/mypy-boto3-sagemaker-runtime-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7f9238c421b7562edd11b566b2e1c23800a11c29bb820d028a3797eb971a9dfc",
       "url": "d4/4c/9b5477cab0924849180271371cbdf34951c229cfc7ab483759dad7216b7c/mypy-boto3-sagemaker-runtime-1.12.5.0.tar.gz"
@@ -22155,6 +22171,10 @@
     "1.12.43.0": {
       "sha256": "77aa48d8678255f7c9bafdcc1cb9673921c8edcea7d857f3341455ac41a0b916",
       "url": "4b/f7/3c42a65d4f46d1c2b6f86e20a158192d1faaee0f9472a9f3d50425a56d8d/mypy-boto3-waf-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "06d9690d2926b3dab7db12a2cf7be5cd41f7d0a72dc67c7fe95d9fed55512453",
+      "url": "47/f2/59221b889b44cfea0e54bf86240de823aca0b60eaa4a61bbd88d1bf55fff/mypy-boto3-waf-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "290ae6c23ce47901830f530ab1209fb1f3c5b6251b80fb930894c344573e5991",
@@ -24976,25 +24996,9 @@
     }
   },
   "punctuation-stylometry": {
-    "0.0.1": {
-      "sha256": "1e02c5b1050b00998c94931805757bcb6f80e0fd5e399a1ad439700a9de39ea6",
-      "url": "af/bb/7efb48a8aa9a7677ebaea19f186f02910af7d3d88c66e9a14aae965df07c/punctuation_stylometry-0.0.1.tar.gz"
-    },
-    "0.0.10": {
-      "sha256": "b44aecc8bdee8b6bbf68eab335f22f8093d99c4bcc4c8c4172776c1eb4110e5e",
-      "url": "14/79/3e5d5f81584fe2bbe536646b97feea842a6f253c3f05dfe1753952ffb538/punctuation_stylometry-0.0.10.tar.gz"
-    },
     "0.0.11": {
       "sha256": "33dfc35534b923bcffd27535dce7bc245cfad82824bd9c9cacfaa53721572876",
       "url": "72/d0/2f357bcc617f49355f3e7bcd3120543c8a2d859123b1ec585bd1a96beea9/punctuation_stylometry-0.0.11.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "20e15b2d9fc3661ab2de802c872405a77f58f9119e309012c67370f922ce908a",
-      "url": "b0/d6/db6f512ea61661c28c4f1ec633465964b07e7804f4c785854f351253c74e/punctuation_stylometry-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "2b3a565fe96b2c55b1c933e37f09b102aed7d236836a1b80b1c5f4a1f444b40f",
-      "url": "b6/a6/4fbc729e0350b0b623e11f5c147d7c07be706b9575ef62b4c6b9b72bf8c9/punctuation_stylometry-0.0.3.tar.gz"
     },
     "0.0.4": {
       "sha256": "75bacd3d294958d270b9cf782c0c8e96ffcf44140c6ec4e2528127d234a10e54",
@@ -25003,10 +25007,6 @@
     "0.0.5": {
       "sha256": "92cfcdcd8d4c0b4cfb3a4ec8beb41bdcd15a236ac522da8ae61ddf5b72f904ef",
       "url": "ff/7d/2f4a7d37023d03151f29c9474e94f23cfb6be02429e53a18e0581bfe0376/punctuation_stylometry-0.0.5.tar.gz"
-    },
-    "0.0.6": {
-      "sha256": "e3d3c1351e29b1bd6f34a09aeba07c3a37c1b65af63171c330751f47e8a819e9",
-      "url": "25/c3/a27c5cad3aeeeec74e6079405206ad8bd5880bc5d79f2e0f3256d737a413/punctuation_stylometry-0.0.6.tar.gz"
     },
     "0.0.7": {
       "sha256": "9f0d70243c9e73233b0a25fd36e1b03a08f0d88a322794f14aabc7e8f6b31689",
@@ -25739,32 +25739,6 @@
     "0.6.0": {
       "sha256": "d3d993cc8ecb751009d7fff716814539e792eccb7f8e4d1a9d6cafdf07cb5025",
       "url": "8a/19/52abc434154ca463fd3042ccc544af764bf98f942f18ceb9d101a8990622/pylexo-0.6.0.tar.gz"
-    }
-  },
-  "pylightxl": {
-    "1.1": {
-      "sha256": "57b38a2b4a95712c7def429abc2dfaf70167ad2021614a471a9928c96ed0f811",
-      "url": "d6/26/9e1fa4f7579cc50d72fda05e43f8b9429f5d5f3a700ed9fdaba02b61c13c/pylightxl-1.1.tar.gz"
-    },
-    "1.2": {
-      "sha256": "5759806180dc52d6e5852e4ee0e285df6da2fa187d626e3522620248a0dd9989",
-      "url": "42/85/ace8afde45219b827dd0caefd7f1ee04ad84f4a9797284e79d736a30bb66/pylightxl-1.2.tar.gz"
-    },
-    "1.3": {
-      "sha256": "1267e83bee86cef9b90a73558a026a1be00de67765cc6a69e7c0921bb90061e1",
-      "url": "0b/6e/375761e0c0445d142b92343ef3f9563e44c4233d425170cddf43ade76b6f/pylightxl-1.3.tar.gz"
-    },
-    "1.4": {
-      "sha256": "d4750bf71f979e8e53880a1ccdc1be74c3c33ab86b9c64f0d55a16a630dd613b",
-      "url": "99/43/69153c2adf18bb0258f8ec39651aff9db10c233e8c75eb3b2001050bbea3/pylightxl-1.4.tar.gz"
-    },
-    "1.41": {
-      "sha256": "50023049f8b78155b6954c703c4c053c8c0f2c2784562ce271928ae52952836f",
-      "url": "30/81/0061fc76683cad8fcd3e8bf3ce8cf1697db43fe25de28a5dd6de7abbe402/pylightxl-1.41.tar.gz"
-    },
-    "1.42": {
-      "sha256": "986914eb2198cf786ae7fbdb35f1efd50266bfc952f2fb08b5ca32172cacc75f",
-      "url": "e0/1f/6e9da124b35bbd6993487989651472ba43df667cb1bf03a9f67ef77ade55/pylightxl-1.42.tar.gz"
     }
   },
   "pylint-beergarden": {
@@ -28704,9 +28678,9 @@
     }
   },
   "retrrry": {
-    "0.1.0": {
-      "sha256": "8169a112589f2998ee4fc35c945ed353a1851f4c40b60dedafe8d98a0cbbd87a",
-      "url": "e3/e4/80c803de54f4c42bec1771bfb6577da5a81720c4c6d6d2a7c28f6b6246aa/retrrry-0.1.0.tar.gz"
+    "1.0.1": {
+      "sha256": "72ed8aee562b7ec090de1adb30de09919d23a78270bbac401953d771c4d2eaa6",
+      "url": "0d/d6/0067a817f2ea8370b22dc385efd15481fb0a7d41e6109316782a687c8de7/retrrry-1.0.1.tar.gz"
     }
   },
   "rfeed": {
@@ -32885,96 +32859,6 @@
     "0.4.0": {
       "sha256": "247ebe9494ca24928086466d09777dcc2335de73cd55eceff07d7c318e866b36",
       "url": "13/aa/68cafa51b1a7d578c796a6e769c11b67bce3a609ac926a657fc56d384805/vetoes-0.4.0.tar.gz"
-    }
-  },
-  "visearch": {
-    "0.2.0": {
-      "sha256": "9ec0b5b30a92c0a93e57fc29c42f863f952be1eb5ffe0fcbe62016af73fe7442",
-      "url": "8b/a9/71bb49a82ec4fe6cfac56a5710663c9b2743ae4ee1c11cd5b45f260477ef/visearch-0.2.0.tar.gz"
-    },
-    "0.2.2": {
-      "sha256": "c7d69aacdad1cde244391d95f407342ba5ac6770e424ff3b29cd986bbd8f5ad4",
-      "url": "af/b9/c2d77e86baa95482a1a543558b3684b8bf839d2fa0efeabbdcb82bfbbc2c/visearch-0.2.2.tar.gz"
-    },
-    "0.2.4": {
-      "sha256": "cbe0fd7e1cd224af338e491149b6405a3aab0c162a43bbd11a5a74d2f159e16e",
-      "url": "f5/44/d6ce389a2c400c06df594e6b624647f246814b83e588301bc3706a7b9795/visearch-0.2.4.tar.gz"
-    },
-    "0.2.6": {
-      "sha256": "1779db7d2671af6e73aa12ecce57bd117b6de96e1df05b9f737a8c5ca97ae60c",
-      "url": "d1/78/814a564bdfca0c476f34f84d4a06fa9109eb838a6a3b4102ac0c5dd21db2/visearch-0.2.6.tar.gz"
-    },
-    "0.2.8": {
-      "sha256": "23a4c06974e7d28e82e65ea1afd0c27975b4b4fd9fb6f4fb99a9c6c2bb809d76",
-      "url": "2a/96/449382396256c4aa025a4313f9afa8adc74b7628d4612ab5d22fb91cfe70/visearch-0.2.8.tar.gz"
-    },
-    "0.3.0": {
-      "sha256": "ba8fb8bd04394c609b1cc1cd9611b7b5f4355213b714d450aa54ae36dfea495b",
-      "url": "75/fc/09da56867f91df96cfd55ea1cfb9869447131638ea408130e1811ec898af/visearch-0.3.0.tar.gz"
-    },
-    "0.3.2": {
-      "sha256": "644dceac509eec45c138f40471cfe52083be821b2a2c178470ffd01fd3b26858",
-      "url": "36/a9/61e5dd2df8c456fbb867cd998cb3fea48720a247d360de5a5e31c77c797e/visearch-0.3.2.tar.gz"
-    },
-    "0.3.3": {
-      "sha256": "311b0449f13c4761b43aad5080155784bd431d694277c2de69ab88d7cfe63e1d",
-      "url": "31/58/1e795fcd1742ec5aabd88378f6c03877e5ed2fc7dc852aa3426543a25774/visearch-0.3.3.tar.gz"
-    },
-    "0.3.4": {
-      "sha256": "656c54641fc9825b83a4c7acb1b301fd7a6836a3c4fa990d0a4b70879fbfef42",
-      "url": "bd/41/7425e851a9c4cc9eec29ebf1e5259f7d0326b02a86c317f1de7407984291/visearch-0.3.4.tar.gz"
-    },
-    "0.3.5": {
-      "sha256": "87a00faf873e4faf5fe9fea7bc29d76c3d9b8c040463afd93e5f0cd8cbc4f587",
-      "url": "13/8e/957641bb0fb58354fd3dd64ad509396e52a7ea264dbc597ee625cc9d77b8/visearch-0.3.5.tar.gz"
-    },
-    "0.3.6": {
-      "sha256": "ddc1c3c7c26c5be07d9620e17b8ec0342a131f7116c5a3fe18a516111b54f5a2",
-      "url": "6a/d0/2d637c8aee4616f8f08263d6696e9acb2f49e346effd9717c241154af2ac/visearch-0.3.6.tar.gz"
-    },
-    "0.3.7": {
-      "sha256": "706b6b4ad596f67ec1186e22b3837589c79c8080fd783ff0063b3a181568bbd5",
-      "url": "d3/bc/09240399cd34889af40ecc863a04de31fee650aa6f8547c1f42ac6b73433/visearch-0.3.7.tar.gz"
-    },
-    "0.3.8": {
-      "sha256": "4a6ea8bb4912843f2de857cf823803825157439efffd447895e8ce884fcd521c",
-      "url": "3f/2b/25c3abc6abe58bb522e88b8b1f72a90b11784772b664af4f0780c6f86d49/visearch-0.3.8.tar.gz"
-    },
-    "0.3.9": {
-      "sha256": "d885b53f33ddaf6d5e5bb27fb4a093f2ce49609190cad02ab2f0adb62ed02405",
-      "url": "83/27/069dbb6abd396b6193b0e77373721a578322ec4876ae256b2dd4702e6fec/visearch-0.3.9.tar.gz"
-    },
-    "0.4.0": {
-      "sha256": "4ea1a25ae9776911ce3019089d491e8ca5eb8175b12947d5fd1206f919af16ff",
-      "url": "4b/12/3640d14c64e7a16e885ab63435acca529a3b2b5b169286671d9810ef0a1b/visearch-0.4.0.tar.gz"
-    },
-    "0.4.1": {
-      "sha256": "c53ba0ed03747e30eecf4b634281474bc65a6655c53aec8c152266df98acf58b",
-      "url": "e5/92/dcf058dd4c7e2b0c50c0d3186afedced50498bec0b0f8f55f3e8998090d8/visearch-0.4.1.tar.gz"
-    },
-    "0.4.2": {
-      "sha256": "f00aa59ddf40e8dcff8998b909296dc01dabd3b081a33a832b2f57413b6475dc",
-      "url": "38/e5/51194012482602cbc0f47cf2676ba11060bf636f871718b93ea66aed9608/visearch-0.4.2.tar.gz"
-    },
-    "0.4.3": {
-      "sha256": "b756077ae7dcee02331bc388aae58be28cc4a281f6816b9094cb567bbff560da",
-      "url": "c2/32/551acd88ed4f32d8af13fcafb5ecae45cba75d0aa585f327d4560886267c/visearch-0.4.3.tar.gz"
-    },
-    "0.4.4": {
-      "sha256": "e5a5825f437396bc863cd845eae495128bb13cb986bb516162a9e141b06eb26b",
-      "url": "a4/c0/ccbee6f314952f09c6423039b5694c5a69f5026ce365bb178150f9e4d200/visearch-0.4.4.tar.gz"
-    },
-    "0.4.5": {
-      "sha256": "4423715e17343e62fbe59a864580aaf4cd3fea40d04ebeec580a3ad295249144",
-      "url": "44/b3/c830ab951d319ec37fda97d61cb6e96a7cfa84193030b2402604686baf1e/visearch-0.4.5.tar.gz"
-    },
-    "0.5.0": {
-      "sha256": "1b7e3add86169f2a9156642a5e974d8c480ff6e9e1466176577bbb0cee946d15",
-      "url": "39/b9/d2896b4beca44e69a73a28e3adb74e1f8a56f90538710f4a969b9e596ef9/visearch-0.5.0.tar.gz"
-    },
-    "0.5.1": {
-      "sha256": "c75c62aeac0c9f0d62c95561966e8d41ed42d9dc5f8e4217f6371f87adbe795c",
-      "url": "53/27/ac780635ec0cabedd4b5888004e12e07fbda3b64cf03c6998371b6854dd4/visearch-0.5.1.tar.gz"
     }
   },
   "vitriolic": {

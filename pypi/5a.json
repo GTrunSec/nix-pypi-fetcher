@@ -377,6 +377,10 @@
     "0.6.0": {
       "sha256": "3684a9e5626664169ee31bc6e40d30d1ad86d9a1832d251652fda2cf3e3e74ae",
       "url": "e1/e9/8061d4d1705c862bb1e149b11b276458b2cff708689ed4802228eefa9314/aioitertools-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "27411653e28c391f2caa79476cc719591da88540278c53e7d6925d5b2fafa162",
+      "url": "32/7f/010fadd7b91d715ef0628f8a204aa6f8fd5b80ed02b5c808e5d4a797c6e9/aioitertools-0.6.1.tar.gz"
     }
   },
   "aiommy": {
@@ -2111,6 +2115,10 @@
     "1.2.0a7": {
       "sha256": "b843cccc8ddd632017628a597100d890ade69b6530b874f6cac05cc75d9e6300",
       "url": "6b/70/3378475c49dd980ce344a82f1fe6e8048a431a85d0ca4bc1b8e0e245fbc3/borgbackup-1.2.0a7.tar.gz"
+    },
+    "1.2.0a8": {
+      "sha256": "1b85851d87987c848a110cfc69794433433bef0d4812b35172b9e1ada1fa857e",
+      "url": "aa/4e/6edf9672fea0d8c7b7af0905fc18db76661f833db34b8f696240e11b9513/borgbackup-1.2.0a8.tar.gz"
     }
   },
   "boto3-policygen": {
@@ -2403,6 +2411,10 @@
     "0.0.2": {
       "sha256": "71cfa6fda21d9a377fbd47b170c3a9f9e74cb3aaa8db7af5d9ab0a98d1bb0645",
       "url": "72/db/86dd680a9cf944f9aef372478553b16393e6a91796d639b3d5eb7b552e34/cengine-0.0.2.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "e7e57ce6eb86c480ce8b7597c9f69d71333f15ce275218374117f06c26046705",
+      "url": "24/09/71ad0d0c9479dedb808e14ed9def252a4b35beff52a7241ae14c0d71fb37/cengine-0.0.4.tar.gz"
     }
   },
   "chainer-watchdog": {
@@ -11019,6 +11031,12 @@
       "url": "03/99/baecdaeb8c6268faa56678fa2fddf6dc76302ef4e06117a8f86331e9c84e/marc2excel-1.2.1.tar.gz"
     }
   },
+  "markdown-readme-generator": {
+    "0.1.0": {
+      "sha256": "72e664c1b6f06ad364a635d658842adc027c0f4938013c270df9b4e12cf339f7",
+      "url": "44/50/9658cfeeab9a5c88676b78977339222eee99e06d2a8d112d2a1c08636155/markdown-readme-generator-0.1.0.tar.gz"
+    }
+  },
   "marshmallow": {
     "0.1.0": {
       "sha256": "7857de852b5170be1cab48d26c5eb1eeb5dbfb1037257680b6ca8de2b4157c33",
@@ -12906,6 +12924,10 @@
       "sha256": "9957ad05b1fd67485d774887e359c0373861df7284f840e3bc797cd74a85c7e9",
       "url": "9c/49/647966adfb1a79f4e644cb3f856027e8055f7a1c235331c856bd31ea485c/mypy-boto3-application-autoscaling-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "05a4898241550b80f45b3413035b7a4ed9cb259a53fd41cbed39dfa9bd51d370",
+      "url": "a5/c5/64b7356c29f848c31d7cd3f5d62dd46be5ff197bfbca62853ef6c4167bbd/mypy-boto3-application-autoscaling-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "71cc3e6c31e0f781346adcd81c607ad8e0ab87194e26eeecf35ba907f7909f19",
       "url": "3a/18/862a1eb324cb2672abc1f90b8dc3aa31436971697f3bb597daa6043b142a/mypy-boto3-application-autoscaling-1.12.5.0.tar.gz"
@@ -13420,6 +13442,10 @@
       "sha256": "e0f8f68e6527fac148ff5dae3e52e5ee7c4b2a789c195db7b04c2c632c2eac47",
       "url": "45/9b/7bc1f75b57df6672d4d18754c74385d1901c6739122f28390378a63ae90f/mypy-boto3-backup-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "ab31a29b83a723c404f93ea933d5e91925a539e4b2e5f56f25fe22d7297fd8ac",
+      "url": "1a/7c/ea1f91ba0229c0d34e725c53d4e8a85a1d662feeeb2f4f8bfc063fdd4135/mypy-boto3-backup-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "5cc1a7dca2e004d73b103c1b8e4373b81dca83f5a9722329d0e9aef5d69e2c4a",
       "url": "b6/7e/de8e36008cc1083ad2db992de59f757201c66ce26beacd3483880151c151/mypy-boto3-backup-1.12.5.0.tar.gz"
@@ -13865,6 +13891,10 @@
     "1.12.43.0": {
       "sha256": "dea2fc4f91f303a251adca00b6e552e535268028479c1ab38e6b0bf5509092d2",
       "url": "4a/cf/3c7b5a5daa27dabd854b1f19e3ff47187a86f33585ffc0449585364ecb4d/mypy-boto3-codeguruprofiler-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "57b2d71c67be4e77b212ec9170fcb16645e317bf3bcbe5fb298d2f96c6459804",
+      "url": "16/52/1535f31f832b0fca4b899ce70b3d859d7d28c9a1f8d0526ea853e8f0aac2/mypy-boto3-codeguruprofiler-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "0df0659ce2ee21734e4aec1bc2e0c01a52ce7b1fa6dac73a8926ddb71e728a56",
@@ -18257,6 +18287,10 @@
     "0.1.1": {
       "sha256": "0516d26d5b2ee814ad6b8719635b2696d941294406441ad12842611ecdc53b51",
       "url": "f8/85/ad377652df89430714dc7521d305e313936d60c63762251f4ad0deefd442/pynori-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "406ff860286d234e60e26749cd406f3733c2f0c7ca6495c972b22bdfa6cd1ab4",
+      "url": "3a/e1/9be91cee03caea9a3f111bb3bdecd182c2824a1dbac6db1437e5e23f8b2f/pynori-0.1.2.tar.gz"
     }
   },
   "pyobjc-framework-opendirectory": {
@@ -19240,14 +19274,6 @@
     }
   },
   "pytigon-batteries": {
-    "0.95": {
-      "sha256": "2f47b88b6393594cd7f2768332f8e4810cf1dc295c1590ecdc97f0dc3ed467f3",
-      "url": "89/51/17638d0d0bc9c8bab411eec66e2ceb1bb8a73494703d28ec9b7ec4b08636/pytigon-batteries-0.95.tar.gz"
-    },
-    "0.96": {
-      "sha256": "4cb9e9652c452d0ff6c1578719465f3c9833dc7560bcb76d792f590dbc0727d9",
-      "url": "c8/81/ac20da1fa4b2971a3b23098d107aeba840f36bb64349399d3c1c6946b5b6/pytigon-batteries-0.96.tar.gz"
-    },
     "0.97": {
       "sha256": "8dd9a821c5012faf6af70b20b4545323b0ec60da7f5ebf18261419d135ca3b81",
       "url": "cb/83/cce5cee10e36f98be486e638d04293206eb147c868b1c73f37f9d6088941/pytigon-batteries-0.97.tar.gz"
@@ -19255,6 +19281,10 @@
     "0.98": {
       "sha256": "7eaa7f4a617be2dfcaef5665664c6c2e725ff93a5ec371cd5c93282ac1184132",
       "url": "9d/8f/c4088258078abde4f2ecb128159ccc675159f6db9aa642c8ad71fd1fa07c/pytigon-batteries-0.98.tar.gz"
+    },
+    "0.99": {
+      "sha256": "11a9a3fc2e748e7ba00c420e5577538918b5bb8d940fa324e969df419a9d6fee",
+      "url": "6a/c5/4268ff99eb16367243122bec1430441c2d854304a2f4893d6436a314db88/pytigon-batteries-0.99.tar.gz"
     }
   },
   "pytopcmd": {

@@ -2710,6 +2710,10 @@
       "sha256": "6b2cbe8fa4886547f5af6eff89e003ffd387776db3b07308837539b91dc6fa65",
       "url": "f0/20/216cde82fac299cc3387fb477a894c1b2dba30bae3c9a52970ff9cc4842d/cashews-0.15.0.tar.gz"
     },
+    "0.15.1": {
+      "sha256": "65f3387445c36b42f9bac6527b1950922da10dc4d779cbc3b5f2b19ff63aacbb",
+      "url": "1f/16/7e966ccf63a23c09a8fc4b3227716224ee5e7f4eb66109d8213230611273/cashews-0.15.1.tar.gz"
+    },
     "0.2.0": {
       "sha256": "f96914c2dfa03668b38ec791ca63b22bd7bab3e43442f9fe4c5d397ee9671ab3",
       "url": "75/fb/41b0beab8d3c649a8f4370ccf7c98eed7c25021edd9440d65df95a4bea8c/cashews-0.2.0.tar.gz"
@@ -4833,6 +4837,10 @@
     "0.1.3": {
       "sha256": "ef94da455c18d2bbe344958a284a9ff4d09bce7af68e11e2874ac59b8a3bdbe2",
       "url": "de/c2/585801200768cff8c42820f272ce97c2b466f7013588dafc9fd8fbb7d251/digicubes-pyclient-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "7abc69b8d039f10ef0bf4e0f8a57c6fcb7893728febdb49824b91ccefa452200",
+      "url": "5d/f9/b091a7de3af4ca39e0872a2217b45668b7008eee71d359b364502f9fa619/digicubes-pyclient-0.1.4.tar.gz"
     }
   },
   "direg": {
@@ -7571,6 +7579,10 @@
     "0.1.0": {
       "sha256": "234f20f9eaae85fc52a64092a82c7bfcc2c601886081e681c3ef63da6fab4330",
       "url": "a0/40/0f0bc3a6c44f80c9e2d477649e59666b3b7ccdd1f32ad6a962da0f7728ce/dxfeed-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "a134268c323f98d0a82de7274d2df779a9ec3c57d1f21e6908e4b6c02829093a",
+      "url": "1d/a0/9c580793f23718f15065a01beb36c3d7de54bdf8c3c33427e2603138a18c/dxfeed-0.1.1.tar.gz"
     }
   },
   "dynamite": {
@@ -12429,6 +12441,10 @@
     "0.6.0": {
       "sha256": "7647879bc835b25b56a026c122b4d681ab3d806e088b87995ac0b3d5a2b8f11d",
       "url": "12/89/15549e7f48a64bac8d7ca882520506220165e625e62ab60e6991afae5c8d/iuliia-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "f8efec7243df1657a92b9d5233c371a9717cfa94852b2e971554a8cba60be35b",
+      "url": "24/20/d49c7830e685bdb7f7437e63a6feb6e521027f585c1497cf1d61f2568db8/iuliia-0.7.0.tar.gz"
     }
   },
   "janetlist": {
@@ -15947,6 +15963,10 @@
     "1.12.43.0": {
       "sha256": "5c8b2ef89e2ae930b3bbdcffb7b6f9d3f3d35d21bad717b0d7211fc8059382bb",
       "url": "63/c2/eb36c8303d17ae5f1edeff01f3fe45b158261939977a8ddf356edeae2e0b/mypy-boto3-chime-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "39db3db0bf7d91ee75d7a73d0b2278e07cb833e2585a1702bbe706cb9d887397",
+      "url": "a0/15/b0fea9e6f127fed301038e4b80157e60cf72a4915e87284e5dbd0c31a67f/mypy-boto3-chime-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "fc0b310c508ffee77f462fe5d2ea20f210367246a6312ab4d138e1fdcbd9b43f",

@@ -1716,6 +1716,10 @@
       "sha256": "9155051fbf7c77174ce45e07a057c2fd94d43601624265d246621f08f4ed612d",
       "url": "7f/69/b53a14f2950010786f8779819e89023d4a03670b53d93b7c90d0348b1684/aws-cdk.aws-codedeploy-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "170fdd10fd6072f10917964dbd09ef91558845b3a043be9d8767ea7a66208547",
+      "url": "ba/b8/ead0e77f8e13a75d273941a0cac19347334a9499c6d91b5e7d7bc128986d/aws-cdk.aws-codedeploy-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "134416391a9281ba1b57d96101bb95229ac66381ac1aedb0157b854ecc26f907",
       "url": "16/f5/ad3b93051d074cdfb5284e777af9759f42eac12b956ba64048fac32a6d44/aws-cdk.aws-codedeploy-1.4.0.tar.gz"
@@ -1965,6 +1969,10 @@
     "1.34.0": {
       "sha256": "6c1eca1692427a4f5020fd7a85edd4b442c0d4e8948dfa87ec79b77245d40819",
       "url": "08/a8/723400dd7f936a6c2adbc0b485a662e28e17baa9a61e9c9d148b45c216c6/aws-cdk.aws-elasticsearch-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "f851738db14501598d62cced18d1fe037d47fd31c87acee0e69a7904b4f31e46",
+      "url": "19/87/a01744fdca8256c06245a8cafe4b8d9607efeb1a667bf2f53088258753ff/aws-cdk.aws-elasticsearch-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "d7fcb6b151e95f6c8e53e7c23ea5390f9bfd776ea91231cb58ef30ebf21b3c2e",
@@ -10983,6 +10991,14 @@
     "0.2.1": {
       "sha256": "d004ba27441ba2623c849e01787a98f64c0fefca5051505526ba85107b14245f",
       "url": "cf/5d/8fc6f5deb1b24c7be1f4ddadd83f922ad11162a7f6acf5f0903679ce9d95/kisters.network_store.model_library-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "52768674b4c2350fe7c1e6061ecc8a47e060e7bc5f763e2d58bdf7ad4bec97f9",
+      "url": "9c/e2/8dbc6b8226fb1e130e4502f184a7c7399d1013ea4d6639ffa865d659eac4/kisters.network_store.model_library-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "e66534b8b715269b94c2b8a7012f433bfe660d58b4f531e0cd3a7bc3703d4f19",
+      "url": "82/01/a8b73625a710444c2a3758734cfc8759959d5c2e27f6b1fda9152c311b98/kisters.network_store.model_library-0.2.3.tar.gz"
     }
   },
   "korv": {
@@ -16979,6 +16995,10 @@
     "0.10.3": {
       "sha256": "7b70245a271d32395a4525b43a1b9e0db9d21c0ba248b46c6333ebe4c57b087e",
       "url": "78/9a/babc6c052277a3957753533472995fd0494dd8a1526e8f74d25008861979/pyodeint-0.10.3.tar.gz"
+    },
+    "0.10.4": {
+      "sha256": "11b7028323d03b5864b7600fbd14c87903a62d8826fbe8ea8fd0afbccadc1044",
+      "url": "1b/f8/a758d9c1be73b45ebe02fc6d02449bda9909d5071fc5ee21ecd4e413a0b6/pyodeint-0.10.4.tar.gz"
     },
     "0.2.0": {
       "sha256": "e2656ea6b81f3b55a0257785cad4fac9cc30183de68da8aa147696bc323a96db",
@@ -23531,6 +23551,10 @@
     "0.0.195": {
       "sha256": "351e076a3dbbd59ac2f07ef29e28ada5cf6f62bc944c883d82c4aa9741959f00",
       "url": "c8/72/9a615795984436f365acc32be4b81bb665dbc92a95a810fcc0bfa1f817fc/xtlib-0.0.195.tar.gz"
+    },
+    "0.0.196": {
+      "sha256": "6267ce606d163f8ed42db0647b5f39b06057e0bfa6b273f00f2af60a90c61d0f",
+      "url": "de/d9/8e896a8d7b3113bc04b0c3fd7c843e395a1147c80a6d3be52e0251a2c14b/xtlib-0.0.196.tar.gz"
     }
   },
   "yandex-kassa": {

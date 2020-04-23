@@ -17,6 +17,12 @@
       "url": "bf/0b/bd2a3f2a379e057382204f2f4499f3ddb158a8772211aaa52a0e3e8988ab/42qucc-0.0.4.tar.gz"
     }
   },
+  "aa-standingsrequests": {
+    "0.4.0a3": {
+      "sha256": "aa1c90061a42c768697f4e6e132896348d9a6290c4ed6bd17ed8bb0b7b6a5e7f",
+      "url": "22/98/9b9b19e6e4b8b507bb67eb2ab080f2a7e8cd8966c139c42b5c9601895393/aa-standingsrequests-0.4.0a3.tar.gz"
+    }
+  },
   "abu": {
     "0.1": {
       "sha256": "390b5e949ad51b4180898804fec2d9447eee742f2ba61fc707f5c182eae98b31",
@@ -2329,6 +2335,10 @@
     "0.0.4": {
       "sha256": "f70926a35d477bb366b26d80d55c1980274b860b4102cf91f2ca4e48004db442",
       "url": "b4/54/7727dde8c30031a5c9cece905924ee4ed31e1d86e0a5051635a15ec30895/capybara-cophylogeny-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "114f866af9a25e4f2fba2075d4b3869a0028b9ba3c2168219de911fbe28aa0fc",
+      "url": "dc/ed/61e66efade33eaaab344d72ed3dbe4777e5ee96f5788c30d9d54501bd165/capybara-cophylogeny-0.0.5.tar.gz"
     }
   },
   "cassandra-s3-incremental-backup-watcher": {
@@ -4277,6 +4287,12 @@
     "0.0.4": {
       "sha256": "b23129a97d678d9d7e83cb1f5d9f6ab706dcb52c47e955206a038adc489e4d60",
       "url": "2a/1a/38b1e7e74d2590dc3175ac25604515d3ab5ba5b7e62f634ef470283e461e/dfw511-0.0.4.tar.gz"
+    }
+  },
+  "difftorch": {
+    "1.0.0": {
+      "sha256": "c816bf866cd4a2d4c0970bd80a38a9288edc4075785a929eaf198f64246dd0b3",
+      "url": "dd/2d/b1463ac9422160ddee44346cacabd4f331b018ed0231afe49ab8ab4751a1/difftorch-1.0.0.tar.gz"
     }
   },
   "dir2pdf": {
@@ -10992,6 +11008,10 @@
       "sha256": "600c8452a17d1c90650fe23406ac2d33fae36ef7abdda8234d572031b2678522",
       "url": "67/6f/0c754cf4adaf804d4ba4bff05180b73b8dbd6afdd94e12326a0cb128fad0/graphql-compiler-2.0.0.dev16.tar.gz"
     },
+    "2.0.0.dev17": {
+      "sha256": "0d444a87046859136e7c56be88855e1686256d263a5524551c3e8eccad1fa7d0",
+      "url": "20/fc/965c0fcc25767f61e0f2b75d49927215e39dee0d3a272de250a035ae741c/graphql-compiler-2.0.0.dev17.tar.gz"
+    },
     "2.0.0.dev2": {
       "sha256": "c57c3c697523f9da7fc51d8c6dd901ae5a79098cf6828d113f9fcb2dd63da714",
       "url": "5b/7f/5056b53cae57268ae54746b8ed03920997b3ceba7b24e5342dd767e18a03/graphql-compiler-2.0.0.dev2.tar.gz"
@@ -17687,6 +17707,10 @@
     "1.0.1": {
       "sha256": "917b718ceba5e73c06efee3bce2a5d181d93c4ab86b8629b263587d55df613b0",
       "url": "13/2f/0ed01850cda1e6977ee7b7cd24a08858488df5bf01c41ec7a6c5d851968c/mesher-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "e0a4a10a6afea6148c0125e14231d04087e19e0bfe93e21d304e2cfef2d6c4da",
+      "url": "c8/33/567fae2da481720b1abfeee656d8d5dccd258e3e4b328d37759024d8e053/mesher-1.0.2.tar.gz"
     }
   },
   "metanetx-sdk": {
@@ -20171,6 +20195,10 @@
     "0.4.11": {
       "sha256": "1cf78944537958f47ddf7768fd3981c166e978ee1e8f3f4a04cbf33d3bb4ee21",
       "url": "41/83/157f3dbb5609dbbe7c0db90539047c66d38e5687627e12719eab4d393318/pangeamt-nlp-0.4.11.tar.gz"
+    },
+    "0.4.12": {
+      "sha256": "ea7998a757e20b45a97a1858270cabdf9aababeb6ffdbe00d49f625bd4595d6d",
+      "url": "15/f9/a5c6ef973f236132ea0330b5ee7e11634905da9702539e4683fec23f77aa/pangeamt-nlp-0.4.12.tar.gz"
     },
     "0.4.2": {
       "sha256": "31277d77bd23024705050209e34419651264a682dfc907cf1f571f6316638d85",

@@ -3993,6 +3993,12 @@
       "url": "be/85/c8967e798a62343ecea9dbe7d886c8d87fef234c76ce6e05383e7558c0bb/coinpaprika-0.1.0.tar.gz"
     }
   },
+  "coinuma-sdk": {
+    "0.2.3": {
+      "sha256": "a340e99ca08dd188b20c1dcc1d6c3a280f0981f285e5f31e413a1166324fb9fb",
+      "url": "c9/99/f474ba7503e2aee21bec507a6b2dabdd6bb09ca55443e670b872cf3e29f9/coinuma-sdk-0.2.3.tar.gz"
+    }
+  },
   "collective.atclamav": {
     "1.0": {
       "sha256": "e69c44a351199a97b09228425cb9c714b7958a0f70a50786ff2f084f495964ba",
@@ -8445,6 +8451,14 @@
     "1.0.0": {
       "sha256": "9486f0a16a78ae61fae58b3104c4960d9a8e1aa1b8a152f5bd11186a7b8eeb6c",
       "url": "6e/41/25a46f2ed3c6e7cb3e54f8a4e42952ad756ee691a12baab9cfa778cb63e0/gabrieltool-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "c357cf2b1a67de2ffbc65441e4c9b0965318f86ae4c91c11c9b84869aa44b472",
+      "url": "8b/ff/d2b0b6f26a92639fba83627a16b415b06f4b6b7b1c02bae2e507ae28594c/gabrieltool-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "26936dfc74710553c79e8cdd587ce76aaa2c650004877c60a59b1d8c4f130b36",
+      "url": "62/75/77076d08271d4698062d0968ece5609e12a01a1227a4bacbd9f9499276ec/gabrieltool-1.0.2.tar.gz"
     }
   },
   "game-of-life-pyfection": {
@@ -11541,6 +11555,10 @@
     "0.9.6": {
       "sha256": "2a893c017447dbe8a27659a7a5e99ecd48715a4dfc127761771e9fa69e85a299",
       "url": "ac/12/c26c3a480167f18b0419bde7a7bad7771d4681058cae9ad1f307a041fa69/kafka_client_decorators-0.9.6.tar.gz"
+    },
+    "0.9.7": {
+      "sha256": "ae783f0c8b6f69971244a1465846b0a14443c0ebcf8b323b43599e78cdca6ae7",
+      "url": "6b/63/7fe568329542d8e06d525f7ed0c6f543b9233db0128b479e3bf473eba29e/kafka_client_decorators-0.9.7.tar.gz"
     }
   },
   "keras-lr-multiplier": {
@@ -12379,16 +12397,6 @@
     "0.99.1": {
       "sha256": "9c4256bbe17db0696fb598030c8062421abbf2fec92fd48d5bcda9d3b058b778",
       "url": "64/92/38e9cfd720ecd5617a79bfbb6cf3cee7bdf1c09ff0723c090aca4ffe91ec/logist-0.99.1.tar.gz"
-    }
-  },
-  "loxonehome-pp": {
-    "1.0.2": {
-      "sha256": "9eca0e2219eefc8e0279e30538fd789982e3976d0966297e20ae6b617e5f68d7",
-      "url": "2a/d0/d5bf0465ab9690a0e8996ec1e0d69402a3e3a599b1ff6448f411b67beda5/loxonehome-pp-1.0.2.tar.gz"
-    },
-    "1.0.3": {
-      "sha256": "bdc18eef23d5379ff6b097a0287cecec0fdd876b4144009ffa7b2cc689b38829",
-      "url": "4e/b8/959ae96a47f36f2ca7e205979ab0b4b89a5487abf04a673217904eb20678/loxonehome-pp-1.0.3.tar.gz"
     }
   },
   "lpd8": {
@@ -20851,6 +20859,10 @@
     "0.6.35b20200302": {
       "sha256": "6681f64798df5a70540de7eb16a60f1961157750adc4e886424ad791477356dc",
       "url": "50/9a/15bed5324b10ea12a25e75d87f14f7bfe6fa1ef42d7f7d1a0e310a4bd221/rockset-0.6.35b20200302.tar.gz"
+    },
+    "0.7.5b20200422": {
+      "sha256": "5828744d394a51a4b5cd6b162e6a7fbf11552ace987faf6712bac1366b89e201",
+      "url": "97/6c/a744bd45f9014078e10947500b5adc52529a297a04b2c227920fe5c7eb2e/rockset-0.7.5b20200422.tar.gz"
     }
   },
   "rokuscan": {
@@ -21131,6 +21143,12 @@
     "0.0.1": {
       "sha256": "a268fa002fda702aba528b222e8ee5a5742e806e64a860c32beefc7604f38972",
       "url": "6c/51/a1924f9b9354917d5ac939b10a3c5fd25cfd68d57766d440bba855f4210a/scraptty-0.0.1.tar.gz"
+    }
+  },
+  "sdflex-ironic-driver": {
+    "1.0.0": {
+      "sha256": "b610414818b08b82f8393c5487d8bc108d55c61520ec2b37b4ae5c44c823be2a",
+      "url": "82/e5/6e44ae5c4f637b5e54bac4ba97fcc8938181e5c4ef1513280bb1b1b26423/sdflex-ironic-driver-1.0.0.tar.gz"
     }
   },
   "seaborn-meta": {
@@ -24189,6 +24207,10 @@
     "1587452594": {
       "sha256": "a9444e9b0de0d12d9c0823c940554f0cafa31019bd39667ea54760140c3735b4",
       "url": "49/19/8318cb410f927ffcbcf3467b31b24d860f7c194e17c7d7c9470de23e42c7/torchfunc-nightly-1587452594.tar.gz"
+    },
+    "1587538992": {
+      "sha256": "ca7bf87d94941fcd5df6d11301e3ce08a801ea1d09c61603ca6ffa9b4ec6c37f",
+      "url": "df/e8/401387b25fd1fa09099ec622e53d7ff2f91734e5752a602659dc3874e035/torchfunc-nightly-1587538992.tar.gz"
     }
   },
   "torchtricks": {

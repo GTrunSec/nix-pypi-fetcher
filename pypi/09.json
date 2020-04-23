@@ -459,6 +459,24 @@
       "url": "a4/bc/0d5d1d84bbea247e0a4003baf7e4187d1667bc6433f8e4540b5266d06694/aioriak-0.2.0.tar.gz"
     }
   },
+  "alembic-utils": {
+    "0.1.0": {
+      "sha256": "cafb341d46ecf94eb41ca7b255a121a24c50453b37528c7a3ac32648a3b3eec3",
+      "url": "03/6a/540045894bbe547160bfd480191fd79cd77674a2489ca2cdae6c454824f1/alembic_utils-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "02c5d6cbee0666ed7ec45aa8494d853821dcdfec51800fac2a90a757dda8969e",
+      "url": "ea/8a/e7c704d6a87e679f960dea371813fecf31b919435416112536e44576e918/alembic_utils-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "ddf89fac740b471f5188fd0f59406738041021132a74b8ea425c01a4d78d41a6",
+      "url": "36/16/c95ffa1bbc264de3263092c8aa60b7eb061e7618019fb61c8672bf4cdacb/alembic_utils-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "fe08f41b8ca9261a962f7c01d09d02571a9cff5531f6750382e0dc08be00b98c",
+      "url": "18/58/c8667a6ea606f8e9f89c0e691d84993b12cf66b26c16cd66ce7a9b6c5176/alembic_utils-0.1.3.tar.gz"
+    }
+  },
   "alexafsm": {
     "0.1.11": {
       "sha256": "ecaf6302a96f71806472af90b0f0111528e78a641cb2b38862e4b51ef439116e",
@@ -898,6 +916,10 @@
       "sha256": "9d2748064d73cf4147961f5f06e5f3ca630fde4f4b9bdacc1ce6e10ac741e4b5",
       "url": "fc/b2/c825dc724ec49a12159ba7b15e46ad93b396b6d9516f907886b07a18fb2e/aws-cdk.aws-docdb-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "8448d2a650ffcd067da22b390e19873ca5d5a8ed534e75bcff20b21b84afe988",
+      "url": "55/86/09f918dec02b5905d927a226f412502b3391f18c0a1d86aba7520b488b60/aws-cdk.aws-docdb-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "00a5cde2f4ab214f81431c03da57b744d4e9542516f16e5119a8a41034709dab",
       "url": "e4/1e/c262f5385afb5d48c11ad6004f40e303b9f92b8692e535e366c72affdab3/aws-cdk.aws-docdb-1.4.0.tar.gz"
@@ -1147,6 +1169,10 @@
     "1.34.0": {
       "sha256": "d513b563ecdfbca9698f4b64903a8c606c862e3a10c212a51d434072dabf8786",
       "url": "be/44/6e0e593865286b68bf7062e455927bdeae46655b63c62b449d33e81bacad/aws-cdk.aws-iam-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "beee91526185798fc592d8bd7136ba8517e07ea5e90f4c6b6f873473103d4d50",
+      "url": "94/b9/7069fcb75fad0e92c3634e0dcebb10323c159bf7b06fea4c8ce6ff8a09b8/aws-cdk.aws-iam-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "99e3ea05c07bbaa25c4d00571d057a6b6f3a3763b9d9b230485507e206499221",
@@ -9831,6 +9857,12 @@
       "url": "02/c7/ddc9f9f37bec95dea992a9bd778355b5ab752d57324d313b82924061fc10/logzio-python-handler-2.0.9.tar.gz"
     }
   },
+  "loopr": {
+    "0.1": {
+      "sha256": "b5cbae8e411f2a733ed9fa0a14911ed0e4e77b3c750d34587527e78a1dfd8079",
+      "url": "b4/64/e541a176611e580fc0de2dc5270deb30c4ff874193fb7c1c5e9aad21d257/loopr-0.1.tar.gz"
+    }
+  },
   "lpcdbeclient": {
     "0.1": {
       "sha256": "7111abfde373bb11417335c978cd992e7fbcc84288a4cdd1ecdac03aaf7a709c",
@@ -10561,6 +10593,10 @@
     "3.63.20108": {
       "sha256": "cc0c0d810d8afa4a7f241e379311e8a3938f434bd07709c3d4f9958c15fb175d",
       "url": "1e/0c/bcd1795d50df4f7f1a34a860d951b69ea58a27e1df06174cdd4c406de736/mo-logs-3.63.20108.tar.gz"
+    },
+    "3.66.20113": {
+      "sha256": "49d99312f35e84db47e48897b3d61e4abc1c6419868025eab827c3f57ff53480",
+      "url": "db/41/a775faf5f9868114e9bd2da2f16300511b7f19a64299047551548ffdce1d/mo-logs-3.66.20113.tar.gz"
     }
   },
   "mockupdb": {
@@ -11645,6 +11681,10 @@
     "1.12.43.0": {
       "sha256": "41c9c7bd2ba6450c354d2a905002c1082162b284fc2a8751c8993edc7e7f034a",
       "url": "93/b7/2c07e6f5e91dc4f16e8febee79fc218a88c6fc3fce9a8134dd55d222746a/mypy-boto3-marketplace-catalog-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "77ff20ebbce4bd1ceadf43b16b17603c28eb14790fcd1f6c0f2ab146c44d25bf",
+      "url": "90/4d/0e2b2fd18cd8e34bf4f90bd4e903b21d6df2853995fac3864a56c1a15f37/mypy-boto3-marketplace-catalog-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9032d2ee58bff3395c3cdaae3755d985a42e1c30dbdc03f052163f2fd8394a7e",
@@ -16113,6 +16153,24 @@
     "0.1.5": {
       "sha256": "a4803b26d951d2bcc685b12622cc02f58be75e40dade3d7a8b69f41f756c612c",
       "url": "bb/cc/82a911cbb85820a0edc6d7110dbf3703b8ea3d1d04f9b4f3fc594a5298f7/pyodin-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "728effcd678b5a9c3538a305c9da3b17ea0e8026717cc32e234fe21f039238db",
+      "url": "b4/2d/ee5755855645fc08aca67aa47d21650547bc17c756dbc775d39c45361473/pyodin-0.1.6.tar.gz"
+    }
+  },
+  "pypads": {
+    "0.1.0": {
+      "sha256": "80f5942845c5cf52576b871481d0e1edddda44e036c2b8a53beaf3408ea70a37",
+      "url": "b7/fe/4f08c19286235e32ffc70f6da196419d04c0d5d7b1673136289ecdc80ebc/pypads-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "f9434f7ddf3485cc20cdbd65a29b2e44fdcfcc0813169c43d4ba0cb10816c842",
+      "url": "f1/69/9b8cdc0dd7bf30fbb86301b1999bf15e7807b0a20b6f2dd8677f90fc2620/pypads-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "2d40dee8e4fdafa07b6d37e882a7446e6aa789094d73c97ce2468f586c1758c0",
+      "url": "d6/7e/84a7e5e3cd77c144096e317de6cbd70d74602d561902fbb9aa250b1c378e/pypads-0.1.2.tar.gz"
     }
   },
   "pypesq": {
@@ -22763,6 +22821,12 @@
       "url": "1c/58/6d2afc15105cac8828b9746a95cbe70bbc5d1bfede2b7f0e53bc4ac9557a/unice.portlet.lettre-1.0.tar.gz"
     }
   },
+  "unicornhatmini": {
+    "0.0.1": {
+      "sha256": "5b1bcf65197c1ae068f9c548c1c7e664b9b7730c64ae2c4af7faccc824e30f27",
+      "url": "32/a1/5925ab79f7cf72db999f5350b08430944d5c293ca20cb1fbf3b6a98bd7ae/unicornhatmini-0.0.1.tar.gz"
+    }
+  },
   "unidic": {
     "0.0.1": {
       "sha256": "798b332a44ff16a5d7269e7ffa81a1c01d6cf9f06be544b7c306438d61cb9d6f",
@@ -23285,6 +23349,14 @@
     "0.0.13": {
       "sha256": "fa32f0c0b873aa091b563f7f4d0028c1223c352078eff7b18eee228ab920bae7",
       "url": "33/b0/41da5883d957f2cc49d4e44935625a4436337d97bef86e948f745d37bf1c/water-healer-0.0.13.tar.gz"
+    },
+    "0.0.14": {
+      "sha256": "aaada77cd70b559852738a8cca41ae36afeac1f12358dbd7aaa46264b1aac5dd",
+      "url": "31/ee/0a33d0187418cf817ff9d83f87a6f806b1f4280ecce59d7e38c42eec31db/water-healer-0.0.14.tar.gz"
+    },
+    "0.0.15": {
+      "sha256": "7017f4316b832723ca4dfde37e9dcf4edcb5265783241e9cb25e6133b62fda52",
+      "url": "92/e1/765c6cdb82e7e6a87c6380a8b8b955b39d35c7992f77c0a78c4855c13f39/water-healer-0.0.15.tar.gz"
     },
     "0.0.2": {
       "sha256": "5c07b1cb103de38b4a508bcf571edef2ee0bf402b752d322c52fb0d2701f7cc5",

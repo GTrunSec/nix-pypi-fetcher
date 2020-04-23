@@ -14009,6 +14009,10 @@
     "3.1.7": {
       "sha256": "ba5d4ed866005e3b19e9ee854eb531c5168c7ee9e74d1808f54b191e8e61076a",
       "url": "72/d3/d802f978f2cc81f9071d8d992d106c9a0c03a26fafcfe611deb4d3579f72/Products.PortalTransforms-3.1.7.tar.gz"
+    },
+    "3.1.8": {
+      "sha256": "095aee4db0afa437cc9398bdd431c3f4db3cdb9ac0cd2d544576214910172f03",
+      "url": "cf/c2/ff0612a979eafdc37f088815af4a16b80867381c6153dd59e9920df25d8b/Products.PortalTransforms-3.1.8.tar.gz"
     }
   },
   "progress-disp": {
@@ -14869,6 +14873,10 @@
     "0.6.3": {
       "sha256": "59b41316356ed64d49661c5c5bb166c15844c58aa11422c515d93f732f2639e5",
       "url": "0f/71/93ca2f27b5aa4a74d5ad9d48c80e1eaa1ecad54c5d1d2fb92b8cc5348114/pymediawiki-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "c0727d58c1ceef80c947bb676ae79ec553128f788a8e8f4c3cbbf4d860d875b3",
+      "url": "9e/08/deeace58faf7b79be4d62d782bcb85cb177a6ea729a9321390f73c89278d/pymediawiki-0.6.4.tar.gz"
     }
   },
   "pymf": {
@@ -16911,6 +16919,18 @@
     "1.0.1": {
       "sha256": "8a314cd8e15e0a68a8487ddffb40281654095f5fc82087926ed878b74ee323e7",
       "url": "c8/c7/c819263de4e40988d6057b9d70cf9e30dd85098ef0dbae445b2855f623c4/sanic-jwt-payload-encrypt-1.0.1.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "cdacef1c646809b580ed0d4d4312dc217d8a61138c0b6b5ae94bff939b8f8ceb",
+      "url": "ce/d2/05847aa315d0a660fd5c9253835b7c00f0b39183619a5e6e927aaa15dc86/sanic-jwt-payload-encrypt-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "dc4f6c1cadd7a0bf49641eeec3b51058f6eee75b904efdc8880d216d10fb6a9b",
+      "url": "15/81/8630f2e24f57b924b74fc86784eb44b047a7a785cc9a9cd5f421557d8a62/sanic-jwt-payload-encrypt-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "e2e5440554139450ca422e3f3f5028e1a677c35bdf2888379e423ca35b1edeca",
+      "url": "b8/e8/734201bb0f0971861f7d28f25ce148f3ddb0fb83a68b08e8bb3a21462123/sanic-jwt-payload-encrypt-1.0.6.tar.gz"
     }
   },
   "sapphirequant": {
@@ -21046,6 +21066,10 @@
       "sha256": "e100b97cec26c47d8267b750a2d84e5fa607d39cf8812b2c687bfa72ea9f28ee",
       "url": "de/04/f260c516b595b917fcd2d29a235139dfb89e60694044fde268647e77776e/tortoise-orm-0.15.23.tar.gz"
     },
+    "0.15.24": {
+      "sha256": "c3c4e8e837c1987b958775510822dba1e997b90392cc3acb419c62b03ff2f134",
+      "url": "a6/31/92c2354d5831c0edce2df592fd8c9df1acb8a0ea1376472ee9c18cfe4d9c/tortoise-orm-0.15.24.tar.gz"
+    },
     "0.15.3": {
       "sha256": "30bf6db2898914687e9993f6bc78803fc9a61477f713d7d045c0bceb8b5c1d29",
       "url": "10/27/2af8e51c89e2039e2f5f9e48848b28574cf0cdd6844a7aa429e3d8e10108/tortoise-orm-0.15.3.tar.gz"
@@ -21105,6 +21129,10 @@
     "0.16.7": {
       "sha256": "0c2f378e7723e0a7591fa14d39b8a921113753a2975fe652bdde840536b92773",
       "url": "c8/1b/a12be04479b07f2f0f4b6895f55d53c82d801eda243392b716cce20a1384/tortoise-orm-0.16.7.tar.gz"
+    },
+    "0.16.8": {
+      "sha256": "2a9ae7854505df647cd41e9ca1cd650435c61b2f16031f4ff97a3851ab20a311",
+      "url": "3f/26/58c9d00a400fd42f5ddf29b4bfded0c49753379ff8ae6ff086b78cbec3cc/tortoise-orm-0.16.8.tar.gz"
     },
     "0.2.0": {
       "sha256": "f4fab5de4e85574e232e6b60f203e672b6dd42785d24d82f368e24a7f741e4af",

@@ -1896,6 +1896,10 @@
       "sha256": "9677cea99669a3a9fc9a41ed10709b78c965c8e433ba5c13e7f7b561b1042717",
       "url": "59/e9/5bbfa335e5491cb4af672a9167dd733b0c36691cfdbcbfcb52f09ab12cc6/aws-cdk.aws-iotanalytics-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "aaa9b55611fc260cd6e79da56074e17bb643b737bde25e259b3f44eed00f1e9f",
+      "url": "f2/7c/66370c7c474bd20383b38aad7cfa61bf27f6a2358c1c9c9465acc469fce0/aws-cdk.aws-iotanalytics-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "709dff91aa419622e787661bc355b6bcd7f9180b1ebe35a321d57edda22b0bb0",
       "url": "d1/9a/18d012047248dcb6ee41a7c37fb9e31e13d4f4e63c966ff5f31ecfbd6a27/aws-cdk.aws-iotanalytics-1.4.0.tar.gz"
@@ -12341,6 +12345,10 @@
     "0.0.2": {
       "sha256": "1c648aac5ae308fac64cf1e705c8df165e5231a1de2586ad04b086c865479da7",
       "url": "a3/d2/170b182326ee035bbf1bfb09bb019762640463ff428d88297fd0b1797b4e/libcx-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "d78028dc787ae02d9472995ad9b7f5aff613cc75b22f03d0b7d5e052d31ead03",
+      "url": "29/42/3a56a55e6b0fee50fbaa907e2904a174028a3552a806db346a74f22d81c8/libcx-0.0.3.tar.gz"
     }
   },
   "libgql": {
@@ -14703,6 +14711,10 @@
     "0.0.1": {
       "sha256": "0be177ef0b300ff5ca57952434dc4dc6859166802631bcad157834868466f3d5",
       "url": "4f/fd/a05c35f049d97af8c1cc65aa7de8a1be4d33b988dbbeceba2a1d467c9c27/mypackage_wsc-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "ea07e6b21204ee72a982aaad7df13e0d270cbe31fbb3f966cd884a3f8be4a2f3",
+      "url": "db/d5/8b449638eb52aad2b0b62824c0c1ff51cc2b237fc9c52d2b0d2b1a1b47fc/mypackage_wsc-0.0.2.tar.gz"
     }
   },
   "nanogen": {
@@ -16133,6 +16145,10 @@
     "2.4.4": {
       "sha256": "f88c592de3f772dd150737d24440503c168794df9ccd795b26904a0416c10840",
       "url": "ac/9f/d44b467d4ed54b7420ca0b059b04aae465934489341f2a90cbd016c0c53f/ocrd_models-2.4.4.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "7f0d0886988829c5bf26940891f031ae1c6acb52776f787feecfbed88fc0465a",
+      "url": "3f/70/2732ce15f7ea0e422a07fac99b250cb206b963e646e923536ddf17a1c939/ocrd_models-2.5.0.tar.gz"
     }
   },
   "oncodriveclust": {
@@ -19761,6 +19777,10 @@
     "0.1.23": {
       "sha256": "d0462e0add90e1549ea6c562e6404cdc27310c098d861b525d379dcaee968a30",
       "url": "f7/16/fda5a447b0b7d73b35fdf414a32a6fb5c33415c92f1911c43c20f1c632e4/python-qdatamatrix-0.1.23.tar.gz"
+    },
+    "0.1.24": {
+      "sha256": "05c2f62cb410b876135c1614f67c74000dadff2d61f3d65b49931ebc97f6f828",
+      "url": "4b/6d/43ac6fc2cafd8e5f9846ab619df92e7b20b7f51373a7c16c24d8099f5f61/python-qdatamatrix-0.1.24.tar.gz"
     },
     "0.1.4": {
       "sha256": "c471a827c757a1789c7a97080b8f4d359e4a18086e5080133fda3b9f8131478b",

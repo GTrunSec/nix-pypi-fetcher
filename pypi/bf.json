@@ -1385,6 +1385,10 @@
     "1.34.0": {
       "sha256": "766ae6dd43c2a02842f78ccf41fcf2053ee0acec3c596ec946d6134f483e49b2",
       "url": "b7/4c/fd852ce45f055deba1afbbac8040a9731984c9a7a331a8cdf6d51c03516b/aws-cdk.aws-apigatewayv2-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "0f838af024994b48c002eb1e7d74f9ccc14ba910d3556f55c7753580a6fe9fe9",
+      "url": "ee/f1/02bc46627bc12e9d721667113a14a72dbfe4ef13d6bf34569a86d0b5fe7b/aws-cdk.aws-apigatewayv2-1.34.1.tar.gz"
     }
   },
   "azcat": {
@@ -4879,6 +4883,14 @@
     "0.8.3": {
       "sha256": "f6bb3963c9d83350ed38a09b3d1f3f4d3a47e98b0eff1ecaf2f504c52e09867c",
       "url": "ef/62/6e03e5601c1cdbe9920114a9a468c608baffccd1b441312352aae84fd24c/demyst-common-0.8.3.tar.gz"
+    },
+    "0.8.30a1": {
+      "sha256": "2b24d0cf91bf64c698f430ca075b463c7d93a228f188e133644ec027ccce1878",
+      "url": "90/2d/c7a4039244f579d1f3f164417f610b56737cef1350da7cddc86d6514b782/demyst-common-0.8.30a1.tar.gz"
+    },
+    "0.8.30a2": {
+      "sha256": "dea243f136cb25f10ad210bcdf2eeeb4a61c96e5090610686eb9973880088c7f",
+      "url": "65/39/5dbb978b17306ed85bc54104ccfeb18117f29ed9a56ef60671fddfc54e51/demyst-common-0.8.30a2.tar.gz"
     },
     "0.8.4": {
       "sha256": "dcf2059a9305f1015f1a4bc304d3a2b0b69e2294e67487d686d24a53c1c4ea30",
@@ -13999,6 +14011,12 @@
       "url": "f8/67/a32f50adf0f85bc0a6ae926991c774b7b77c66ff65135ea1a113be18e214/MqttImageUploader-0.2.1.tar.gz"
     }
   },
+  "mr-uplift": {
+    "0.0.1": {
+      "sha256": "11cc671e6a48cd421a9fdd6ad5b052dde33785d882d06442e23ab01944cc53d8",
+      "url": "63/4f/b7c0b780943aa632d1bebc72a9b23d2224b0156df99b39a16c0e9acbaf9d/mr_uplift-0.0.1.tar.gz"
+    }
+  },
   "mucor": {
     "1.5": {
       "sha256": "9dbbfa29a44e9737bc8d56c715dc2be4858daa219acbf329d5201392aa5a4656",
@@ -14523,6 +14541,10 @@
     "1.12.43.0": {
       "sha256": "3603939bcfcf64746e2bff871426786d68eec187eef73737d32eda2e553b2369",
       "url": "b0/a6/b9dad45dde559f9a2684e55411f66dd774a80857f7ca740c8aefcfee5f70/mypy-boto3-sagemaker-a2i-runtime-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "0957f885e4ac0d8107e971f6995196cebb94bf34b007b998f033404bcacf6c01",
+      "url": "31/f7/f7e4587297d260d14e4f25f8eac4da7b0684de6977489839f40b122844e7/mypy-boto3-sagemaker-a2i-runtime-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "1d76b05778e5e60dff65a4b4768c74b06d5ad96868bda1bcb8c8156211307998",
@@ -18001,6 +18023,12 @@
     "1.2.0": {
       "sha256": "0e0337ce1a685cc210efa50f88ebd91c994ff660be21aab7e65b02596f587c97",
       "url": "4b/0b/fc9136c13947dbdaefddc9301f096f4925e32cafb15b1b97237db7e7a2ce/printLista-1.2.0.zip"
+    }
+  },
+  "prng": {
+    "0.1.dev1": {
+      "sha256": "4ab76d8e118c601b567cc561e2ad3313b04baa6adc4f2ecea42fdf2f4bbb164f",
+      "url": "ee/68/8714244333a68b4bdedda51912cd414219e2a8e1aa7363bd27f89ce81445/prng-0.1.dev1.tar.gz"
     }
   },
   "products.masterselectwidget": {

@@ -4523,6 +4523,14 @@
     "1.3.0": {
       "sha256": "95c950331160677bb16027330132ed8f5b3a764d38f7f39a8c8f92dcad5fc658",
       "url": "0d/55/45a33172effc268b7d8b65f5b3c2954b7f17aa5c3a82ea51fef49cadd138/django-clear-memcache-1.3.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "8f5246f654e793cdcb3862c913246532965ef25410a8ff3c554871575a21fea3",
+      "url": "83/13/ec51383635ed6abd847bf6196752f0db88da5b6a4193159758a03d1b628b/django-clear-memcache-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "932de71fa822e01027f9dd69b22d292a802e4436a96697a0657461fcc148dffc",
+      "url": "28/66/9fb98ca2dd9a10ed08ffb2ef6b34183fc0ad5fcf3d5268c61c52f5c58d92/django-clear-memcache-1.4.1.tar.gz"
     }
   },
   "django-database-files": {
@@ -6098,6 +6106,10 @@
       "sha256": "51732515678fa540471eba9f1a38b391799f4174aa53e5153f7bf4466de9b44d",
       "url": "45/90/f990247c0d23fc734ca573aeae72d3f1f16aca00aa6c5c68d46f5abafc39/escalator-nyandams-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "eb50348e81fc94541bc14abb57e029131a0017faeb340bd4f00c8f9bad06b13d",
+      "url": "9d/14/a7e9b3184a7d57b7464554ccdc3dbd2d4035e725caca138113e748c94c0b/escalator-nyandams-0.0.10.tar.gz"
+    },
     "0.0.2": {
       "sha256": "5d8895f78fedd8e916abcd57ca3c2837e42bf5db3b17c452c75d181c5db9d6de",
       "url": "6b/2b/88dd55674581825f3eda875153056c9a4991e12b7e73c9eed9038374d6fa/escalator-nyandams-0.0.2.tar.gz"
@@ -6125,6 +6137,10 @@
     "0.0.8": {
       "sha256": "ba676ffe8c1e079d3d48ef8460ce92fdd2e7fe7f5e4afb8c3113068cf80773f2",
       "url": "53/7d/dd74a74aff6390fa90d91d8429aaa34021ceb056bb226b9d5c1a76e97e18/escalator-nyandams-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "46c1cdfb5e66c4711803e988ad0ea1e7f6d12d3b5a8e1152ef71f8f2bbd452f3",
+      "url": "52/84/36f797bfb95675c631789fd998c45e53864859873a68be08a001c2ae36b2/escalator-nyandams-0.0.9.tar.gz"
     }
   },
   "escposprinter": {
@@ -7443,6 +7459,10 @@
     "7.2.0": {
       "sha256": "8aa6059e573660ef421ef22eca2127237c14f399a2f3a88d4e9330fa39ec257b",
       "url": "3b/c0/d9a417040a5c2635d7ca7ef14f75fe398f528f4966b270975577bf9fff4f/freezer-dr-7.2.0.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "a75b0bcf307b30fe72593be137ee39cecc91b1900ccc31957fba84221cebdc6a",
+      "url": "84/cb/1e95b49503b5ff5e780ecc0540937e55afed488f20d0125ef88edb0b953e/freezer-dr-8.0.0.0rc1.tar.gz"
     }
   },
   "friendly-config": {
@@ -11725,6 +11745,10 @@
     "1.1.2": {
       "sha256": "3c3dba15e43bb7be7f8eb71ce220ff6be3a8485c2b49c1641ac2938576c2ffe7",
       "url": "8a/da/c4601d6bdc13d005f8cab293fcf960a7ca8335cc5f1335506d65cda4d612/md2xmind-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "543437318143bebb59b06d378f54b132d1dabff73cf57a1190c102d03d1284bb",
+      "url": "64/28/29bc62c33f2f512b2228a4352981bbea8022116ebc894a099134ecd35bf0/md2xmind-1.1.3.tar.gz"
     }
   },
   "memeoverflow": {
@@ -13645,6 +13669,10 @@
     "1.12.43.0": {
       "sha256": "aef046b37cfcd35a81a93f992442f7a620ccb9262d2f23726f27ae453405b0a0",
       "url": "8b/6e/e1b90bf6a49c619d2c21be0eb7d6d6d5d4934f5fa1f9916fead00c31c187/mypy-boto3-kinesis-video-archived-media-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "d900a14ed633ee403fc2c31696ad7d37f760deaee851e7e62e8a8c130233a62a",
+      "url": "e4/15/a0e7ec16b20916908895914af318392e366544497e8883cff5fd2a96355d/mypy-boto3-kinesis-video-archived-media-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "228cb86cdf345cb5d11b2e2465254c09ccdaa0c7acb94cc43bf746408e133149",
@@ -18557,6 +18585,14 @@
     "0.1.6": {
       "sha256": "176aed21e3fefd3b7e56235e569f066a95d2effc042ab63294c38d868964c438",
       "url": "2a/56/a447e2e955d4e61bdacb0f9d2ef3838b77b09ab95cefba04cc5ba849d910/python-lightblue-0.1.6.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "1e44e57d9105d576bf912f2d139ea0d3e3953ec2b25ef2db3af194c7eaa3fae8",
+      "url": "b5/2a/a0cc091252666196c8d48c83be6752bba44b445861ca702ee5d6bae840f0/python-lightblue-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "9b5197d39eb42bec3d61c6ff614b27f3887fb816364df4ead07007a692a637d0",
+      "url": "fe/60/4038c96e604dd67626df09540dd237b1405d60d36b334f34b22b0f2625e1/python-lightblue-1.0.1.tar.gz"
     }
   },
   "python-wordpress": {
@@ -20121,6 +20157,10 @@
     "2.1": {
       "sha256": "047db384b7fc3e799ffbc88d56c4a0bbe347b226bf603370d500aa188d2b2a21",
       "url": "8c/92/5109e45e43b74f7dc59e9022dff2319cd98f51460438121d977ff3a5b83f/rpi_tempmon.py-2.1.tar.gz"
+    },
+    "2.2": {
+      "sha256": "19bbd7c948e9b150bc5f8df2e1a86eab5ec48a4f06c2c48d0d33915cec3cdb49",
+      "url": "53/6c/3488d48b10e5efbde8ef40068b23ba2a74fb7b215d6a51bf97bf4f80bc6e/rpi_tempmon.py-2.2.tar.gz"
     }
   },
   "rsmtool": {
@@ -22369,6 +22409,10 @@
     "0.9.2": {
       "sha256": "c2507d492401a75af547b55eb007836317751608eddcb3fb36eefae7c730b4ed",
       "url": "f9/6b/f2a3c224af881e593bc2a044240314d5b4087c5f35d6ec1cc0ba491e3fb9/stellar-core-prometheus-exporter-0.9.2.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "88d356e17aa1c85b5769dbd0da5fc4be52ddf622dd093baf57c842016bb66511",
+      "url": "09/12/b3f52da9625b93f7f768361fa16f9644bda36c5031071e14a6996f34ca12/stellar-core-prometheus-exporter-0.9.3.tar.gz"
     }
   },
   "stereovision": {

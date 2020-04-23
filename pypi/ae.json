@@ -4836,6 +4836,10 @@
       "sha256": "9721e7b413e3b1b2b7670940e89d0088d1b83bd54cae1ccfe7305eb2e9361c17",
       "url": "18/95/59951f7ab2e92da30a6f0ab1697ab817a7f336340f5e991340a407c20ede/botocore-1.15.43.tar.gz"
     },
+    "1.15.44": {
+      "sha256": "fcb84381f6fa2d8f96e2647bc059790b1a5a9ce0d00a5296ffe0946bdee15802",
+      "url": "e2/b1/c04ca6cc006949534a65883eddbdd93cdac9c1fae56cae7c66d679eb6069/botocore-1.15.44.tar.gz"
+    },
     "1.15.5": {
       "sha256": "9de7885e9e9d6dbc30b9846d7edd8f98251db7f00395a6f4cfd765efc7098bdb",
       "url": "b0/62/87c999c172ce1b365b906f840a3c3d40732bf3ef869cf9e250d926907a47/botocore-1.15.5.tar.gz"
@@ -8945,6 +8949,20 @@
     "0.2.1": {
       "sha256": "abba4d264f4b9251413a7a45124587c11378411567f07d04648ed216f18c3f5a",
       "url": "70/c1/f4e6111f1aee4385dd14d26d1d2a52d9478af8b9b7b1cdaab68f247f1907/django-geohashing-0.2.1.tar.gz"
+    }
+  },
+  "django-gsheets": {
+    "0.0.1": {
+      "sha256": "75e894b6a7f2826adc4f26791d86a159e0ae20c5c6dc66efd39df13beb6ef9f5",
+      "url": "42/0b/07183ec9f678fd78345a967db99dc23a2f175b14a66f83acc7231999e709/django-gsheets-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "6ae3965bfbd4a05ec13bbe0b34d11390ed7d4a2601bd65f8255af490083f8647",
+      "url": "0c/60/3dc0d3fe76d75163b1ca3e11449428efe86a5a0454ca1ab0504089466db0/django-gsheets-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "5c1136c0113dd9cc27430ff812fa6ce5069327a9c8cbe962a3b8fcbf1c0c0c6d",
+      "url": "07/05/1b401efdec067d0603913291455d2673dc9c80c9a769df9cddd5e3837bb2/django-gsheets-0.0.3.tar.gz"
     }
   },
   "django-htmlsanitizer": {
@@ -14916,6 +14934,10 @@
       "sha256": "dd062b077ee26068b572e5a8207729e63e96966a40d7699814274ee66fee121d",
       "url": "05/2a/3778d07a6ed5f80a133cfae9ed1c55ce180cf80a4e90daa1fe4220bbbcea/honeybee-core-1.27.0.tar.gz"
     },
+    "1.28.0": {
+      "sha256": "241486a57c1763f439cfc9357fc6319b13cefd1e1a51aa52439725eb8076d0a5",
+      "url": "b5/06/68f6c5fb0667742855ba534373c214cc68cefbf9f209cab09c0e68c1f67a/honeybee-core-1.28.0.tar.gz"
+    },
     "1.3.0": {
       "sha256": "4407ea20f94cc12acd0f7c0572002083577c6931ca0fb782b8cd4eb8b475d423",
       "url": "d1/c3/c16fd09fae3aca0f03acb94316daa39e052570db338accc2c1c533c961ff/honeybee-core-1.3.0.tar.gz"
@@ -15565,6 +15587,10 @@
     "3.0.1": {
       "sha256": "ad15f915d847f0391deea3b07fcb7248e8574603569d5fe62b7ab21c856c4d98",
       "url": "e4/68/61cbd684070fa302b5e95297a36e9641a3b50537adab7d9786959f9eed58/ijson-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "c5227748745d01233fe3a1cd70cca42037042cb81ae9e1cf1eab85098949d912",
+      "url": "da/f2/68b7743286ce99f6e3d5a3675c054b53b33c5c84192171feff864754c87b/ijson-3.0.2.tar.gz"
     },
     "3.0rc1": {
       "sha256": "69de3668ef5aa19148422c197272eb99261a62fda0732d1de0bdcc5f4d4d4679",
@@ -22971,6 +22997,10 @@
     "3.3.3": {
       "sha256": "e48c30ad68dcfea2c0e2f5202d3f57410745b1c459d6fabb2e9e41a86f03dd17",
       "url": "aa/ed/dd6da1ab401834c3aa9dafcaaa2d6b9e52125395b016b9f2c1f572ca2023/Products.CMFEditions-3.3.3.tar.gz"
+    },
+    "3.3.4": {
+      "sha256": "8fa524b666bed56c237b53adf9c57905ebc9059c32f3ee7d754d8f2235198164",
+      "url": "4c/1f/fa698f7049fcc9ad7d6f796f88062db292c9f493bed5ce7471fcea8d6812/Products.CMFEditions-3.3.4.tar.gz"
     }
   },
   "products.plonehotfix20200121": {

@@ -6076,6 +6076,10 @@
       "sha256": "748b4e9a8fdbf84c8b7c6441af0ddffe9f84d034d24116b52e010dad81d9ecc6",
       "url": "ca/34/7125445ea0ea49015399769b09d94d450dd8115909d5e030ab699cde995d/dagster-dbt-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "422fc26de3fe911f4f9036971c9fb4fb1500ea2ab286c7599f2380b98fd34ccf",
+      "url": "f3/e0/943b60c9863f7b21c0eb8cb611a5331828539233342704da7ae910fbb5ec/dagster-dbt-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "e42f0159efd029cafba06b187f1748c505af40d7b58a1451e65e8b0426317370",
       "url": "ee/7e/93562d88d06d3b0f62eb984847c4777ffab555d5edd52c09ac9a921ea1b6/dagster-dbt-nightly-2020.4.4.tar.gz"
@@ -17906,6 +17910,10 @@
       "sha256": "b0827e31a633605a9446d28add995c700e0fae488bd76043eac04053f3be73fc",
       "url": "b3/22/b7746ee6833603b53001c57eb9c30618ae336079cfa84b778fd225b51e94/mypy-boto3-imagebuilder-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "d996ea42eafe7cca7484f07385860e025536f046e0ec73e09114c3a2aedfc939",
+      "url": "24/54/3c8e7da919b0f0f946681ad24d90a835c92dc8d606b515023380474e1d96/mypy-boto3-imagebuilder-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ab3b7889b2d825bc3c26ed846326b058b5ff6d5c86c9ba4e1a1ab267d62a210e",
       "url": "5f/b3/9c4ab246838192814b39e37a5a0e31b94fc6be10f069996ddee71d7a30ec/mypy-boto3-imagebuilder-1.12.5.0.tar.gz"
@@ -20185,6 +20193,10 @@
     "3.0.1": {
       "sha256": "50bb79ed64d1612ce068c324382ad69c9637c06c9b6abe6b52c88b0e4b358d2b",
       "url": "9c/6e/632d197f49581b6c610528185398caf1ae747910a8064d256ee062938c7d/plone.resourceeditor-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "e5d920cf034f20ecd52eecba945aeb2f1414a4ccf199916ba82339193eb35c84",
+      "url": "db/dd/30fdf658155df1ed2d62b212a65cf73df9f536183cb4c814566a7d96ade4/plone.resourceeditor-3.0.2.tar.gz"
     }
   },
   "plpylint": {
@@ -28043,6 +28055,12 @@
     "0.1.9": {
       "sha256": "ba1f12fd72f3b9710b550db6a7c33dd83ae7cee8a78d1fa95fe7d516193efde3",
       "url": "0a/74/6810300bf8d47eb8e078b53a9313e3dd04fee779bba224762b092978fcaa/usaddress-scourgify-0.1.9.tar.gz"
+    }
+  },
+  "usb-quartermaster-virtualhere": {
+    "0.1.0": {
+      "sha256": "23324798885dedab441105ac023d3f06eee317da4e31c9c975c8bc2106e47dd6",
+      "url": "06/81/88a87fe6e14bace07e74ee9d2a378a2a012b401d525fc8efb54a9f6fb186/USB_Quartermaster_VirtualHere-0.1.0.tar.gz"
     }
   },
   "usefulpy": {

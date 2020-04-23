@@ -956,6 +956,10 @@
       "sha256": "34f8da6146ff989455c6bb25c32119e713cf0a1c9460ffab858d1c399d046861",
       "url": "12/a9/e3bef963b14ba941b6d5d4f033470835fedc08c1ca451e5c540cd2ce22a0/aws-cdk.aws-amazonmq-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "95fab25e83a5eb7e9975e8ef3445ac6a75e7d6d89de9234a92c7da4ca586d8b5",
+      "url": "e1/16/53c5b125e0c2f083fd78bb22172c84014e4b6aecc3c3caa437b2ff611f3b/aws-cdk.aws-amazonmq-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "599e7dfc39ee10a5b8a69555b02f06f7b33c222afa566092b045355183221bac",
       "url": "39/27/99dfb3ddc25d20107acc91e6ae561d4471805f6c9c5e2929bb72c68c7838/aws-cdk.aws-amazonmq-1.4.0.tar.gz"
@@ -1205,6 +1209,10 @@
     "1.34.0": {
       "sha256": "a0d25ba657aa6fe45471f6a686de6e10a79ad3892abb116072aa26b8a0e3223a",
       "url": "56/78/db0ae2dd30097c5cd7ce1f5a12276d6b382e3437f47926e951450308ac9b/aws-cdk.aws-ecr-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "6c84b2273b26110419c28135487df66021c48fe951e5bfcdc6390bb984ca9b04",
+      "url": "31/96/baedd262429d3787b87dc014c844a3d1a89e87aa96ea02e5cf4e405cb12f/aws-cdk.aws-ecr-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "a2d51fe7e0c9aa8b675e4ac6187ddde791c461e0ac7bef2d44b288f8648ab9ca",
@@ -6735,6 +6743,10 @@
     "0.0.3": {
       "sha256": "bbee2ab3255f11c1214e354b958c06c025b18676d775dce3534dfa9330b6fea8",
       "url": "7c/1e/794eb4477e72bcf17502b28cdc6335f84bc9e88fff2eb32e02f616031952/gdbundle-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "6151d9742ab311bee75f1764370108048ff25f950e472185f74195c0dfef8855",
+      "url": "cf/d6/a8120cb35cc412a693c8c225e75cd9b965a0eadad5b87ef9571369600d08/gdbundle-0.0.4.tar.gz"
     }
   },
   "geist": {
@@ -9497,6 +9509,10 @@
     "0.7.0rc3": {
       "sha256": "27174c101ffce59c6baf6f71b19f97756d504b810777878cc2bc803254f15fd5",
       "url": "09/d0/c473471b10fd231f8195256ac75f219a803579c8f7d07cbceeeed7b4ae4b/knack-0.7.0rc3.tar.gz"
+    },
+    "0.7.0rc4": {
+      "sha256": "66d1ff609ecfa1da48f731c9258f03d5dd1da324e2cf81732c78e993afc46683",
+      "url": "ab/63/8250a8d2f9157fe04e801beac5fd4ec40d1ead6406767ec8efa2e15da850/knack-0.7.0rc4.tar.gz"
     }
   },
   "kojistatus": {
@@ -11424,6 +11440,10 @@
       "sha256": "6078c3030e4ba1a5e4cdceeda8f71d46a0cb48256850ed03c1e0f24ab931ffee",
       "url": "29/b3/b58f0bdcdade3579bd8eb5c19aa8bd8a30553344f7e3d07a57f3210f3cc1/mypy-boto3-dynamodbstreams-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "1be5ba54a9489a80f11f4c77221ca34a765648a3390f8c86de5ea6f12e189da4",
+      "url": "cd/d4/be9a06a7dc8a14b90a99716aa3ce84c1b0540c3426212062b993678e2607/mypy-boto3-dynamodbstreams-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7e19556729c774388223443aef5af814dcbeb830abc18b2e862a820876d1c924",
       "url": "26/ef/6d5ecd8312f8393992b5fcd458ba15d38727ad7fb268a28146a82f16368e/mypy-boto3-dynamodbstreams-1.12.5.0.tar.gz"
@@ -11938,6 +11958,10 @@
       "sha256": "96c11bb942ff574397505d0d141318f39ecd5287095c6c3974c1f3b1b7ebdf3e",
       "url": "a7/51/0a5402b5a574976b89afbd26a9eafd0fd2835deec6b75b49f0bed824b685/mypy-boto3-translate-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "bd7ce31ecf0f3b58d8d78ec286aaf67b1465cad6b50df9f0d1b7ca3659932b66",
+      "url": "19/78/160f8dee450fd2056a5174deabbe47530465ecd78e68990574a3a0637b2c/mypy-boto3-translate-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "cd3f1623d42d282c880564b79eeae269653d3f598c1171497f9c3bbdd68210c5",
       "url": "ac/74/61ca4323017723b9d2b55dc5a0000ba86a071bc899ae07acf46d5f903488/mypy-boto3-translate-1.12.5.0.tar.gz"
@@ -12081,6 +12105,10 @@
     "0.5": {
       "sha256": "f10b661f5d1858b2a86ba81de2946bae7088a943c9e6291983c715aa3bc9321f",
       "url": "81/10/4f7d10afb4a4ad4c7bea74ea8aad9dbb7e3fbb81bdbb7936e007333838b4/navigation_mdp-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "fb8176abdd2e24ea0f8ed5497246d7c5c11702b50c739580b6fac838bfe668aa",
+      "url": "57/dd/2d08f216b01e65734545115e2bcbddb229a740bbd270ee0b4c597c842185/navigation_mdp-0.6.tar.gz"
     }
   },
   "nbreversible": {
@@ -13029,6 +13057,10 @@
     "0.2.3": {
       "sha256": "f4e1552f44a885e262e1a1067fe692c1af1e1e88719699a1c03bfbc3ffb4a5de",
       "url": "0a/b0/c78f9c3e1746862b5686cf61d6d344046f37c60467a8a1ed697cea841b10/orcaflex-cloudsync-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "1a274f9a193e610cbd8573b58a028d5d15d1a6d1a18b52fd20a9d416329fe454",
+      "url": "62/ce/d65eb7a196ee1b6fb7152bdd6237e232fce315db803647ff132e9fad7ed1/orcaflex-cloudsync-0.2.4.tar.gz"
     }
   },
   "ordrinfork": {
@@ -14777,6 +14809,10 @@
     "0.2.1": {
       "sha256": "260782d1eca768e562082a5a5911fba383cc10827c3a5e1ce3442eece4e01e91",
       "url": "3a/81/73ac62694037f71808d1621024ac6261d5b52d983dab6b783f3f07389d47/pycopy-test.support-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "eca48ece0b36552d37ec578193a3879debadf42b59d8a4a294ac60a784f50440",
+      "url": "f1/1d/c44fac43d8f68bb13362af469c313d49093959bdec343ff60fe4351ad380/pycopy-test.support-0.2.2.tar.gz"
     }
   },
   "pycoqmut": {
@@ -18947,6 +18983,10 @@
     "0.9.0": {
       "sha256": "4d85a0f0bea52cc3dca63511a167da803dbac2fc2e6ed09559b463297680890c",
       "url": "fd/0e/0fe91417507bc28462bb1511268356dcf5ecabad71ee04a8608fdb416ddd/spelling-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "4440de77b75ea7d006f72e4c7aac1d9f5cfc15a776e74ee10411f12e10e1419c",
+      "url": "aa/bf/fc369723a0a934d9c767ab18e681eacb95122d7f460049a9505d005097a7/spelling-0.9.1.tar.gz"
     }
   },
   "sphinx-copybutton": {

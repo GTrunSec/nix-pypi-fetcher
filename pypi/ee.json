@@ -1632,6 +1632,10 @@
       "sha256": "1460483034ef31c818826e48c0b55ad7061da1ed557ce8d0c026cc2525a79d6e",
       "url": "34/a3/5aa5e0fe75482146f1fbdd02947a5dd6c447e6402a399e0fc49a92da0056/aws-cdk.aws-greengrass-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "5807e57e82a31cf5ed24d9d9c8cfc7c427d11385d747a83f8c1a3fdb48caa5f5",
+      "url": "56/84/3e1260799917ad20c78b90d6f64651233542710cbb4c8ffc3b6f166419d4/aws-cdk.aws-greengrass-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "4ae784bc61f02ef64966ba938767298446e07cfbdd07fd5f5d7f9dc619ac9575",
       "url": "a8/68/5c2e5911a1a2289f8bd022d38ba62ce27e6825c74fdf8dfa65d985359d7e/aws-cdk.aws-greengrass-1.4.0.tar.gz"
@@ -3211,6 +3215,12 @@
       "url": "4f/58/e0bc3de527cfbece36ad04b7108552bd003d6cd5eb070774870b13fd1004/clpb-1.0.0.tar.gz"
     }
   },
+  "clquery": {
+    "0.0.1rc2": {
+      "sha256": "fc1d9515ffa136202dd828cd7c3055b0b340aa547987b282f875b18179d94f53",
+      "url": "9d/03/10950f48e7a3eacd7a7c72e9e19762ef6c97becd6dce61f70f324315814b/clquery-0.0.1rc2.tar.gz"
+    }
+  },
   "cmake-language-server": {
     "0.1.0": {
       "sha256": "82ba3920f80f2d3fb1210f7122dfc6b92d773d4c0079555b4475909557c9be22",
@@ -4385,6 +4395,18 @@
     "1.3.8": {
       "sha256": "c15fa297f21730482929ffa5a40280eb49d1f1315bfd0db3e3fac4c1f75e8e58",
       "url": "55/cb/7c260bb9a4a0f7eb0a609d2ecc01671a4ba093496f94bcd5fc35265a284a/crsts-1.3.8.tar.gz"
+    },
+    "1.3.9": {
+      "sha256": "c5ff5f982f86eb85db6e3e3a49f4b5c39b863430654b15d75e79a854e54168f1",
+      "url": "71/5f/b855953bf42b42f6cc1f176ccd3d15eb492d489e0a06501ebcac0ae8cd2b/crsts-1.3.9.tar.gz"
+    },
+    "1.6.3": {
+      "sha256": "e0e6e285d4dc19ccce8675eae619e646be648daf0bac1fde06d6d81018f18015",
+      "url": "cd/f0/ab4fb3bd2a03291122362dbd8a7fd4875ca75b327a30afcb72b52dcd98f0/crsts-1.6.3.tar.gz"
+    },
+    "1.6.6": {
+      "sha256": "4cbd4b47df11c0dc61a5c3cc91bbc95d84cacc5d8ab1aae720957e5812ae6fbc",
+      "url": "34/af/84930ebb1cefea532a543cc2e74c62b12aa5e9d3de9c0b7e5a0e11bbc69c/crsts-1.6.6.tar.gz"
     }
   },
   "cs.numeric": {
@@ -6491,6 +6513,10 @@
     "0.2.3": {
       "sha256": "6b92a1461817432d316f4e0372ed6fc3f547f404e041d54e1a8fb129705e35fa",
       "url": "e5/6f/627282300062cd5515c1a4eca7ec0834fb480189518b3b2e71ceb38e14cc/dppd_plotnine-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "53869469893a538205772a45d3877ae87b2d7eedb9a4dec06b3354f78ad8fe4f",
+      "url": "63/55/0da46f8a17c6ae85e4d059e0e94cdd8ff598e0d72633928820ebaea83124/dppd_plotnine-0.2.4.tar.gz"
     }
   },
   "dpymenus": {
@@ -13967,6 +13993,10 @@
     "1.2.0rc4": {
       "sha256": "712ce6142e3cdc38c02501f6f0d7a99462efb7009c86056d6a9540b563b9da82",
       "url": "76/58/899a5cf376565f2390adf10079a2869b02985e34fa9d2135ce6ca3681d08/niworkflows-1.2.0rc4.tar.gz"
+    },
+    "1.2.0rc5": {
+      "sha256": "18d139532fa19cd5275291c1bfd342aff82538ff5d7e5c1215f51a3a2cee7f12",
+      "url": "3f/cb/9371356e59699a1a71c2f9e6efa50b0921d4c0a566ca74a62a99aa4ae4b9/niworkflows-1.2.0rc5.tar.gz"
     }
   },
   "nix-visualize": {
@@ -17911,6 +17941,10 @@
     "0.9.16": {
       "sha256": "d25e40d3c3fe566ae415987686fba738486936518b69dab6786949fb1984afcb",
       "url": "0a/5c/09651d70403f0ec991724a7ae33359e6748b85363d1854c37e944796d6ea/quantastica-qconvert-0.9.16.tar.gz"
+    },
+    "0.9.17": {
+      "sha256": "a4d49f503a3b5e19a5b39474d619c657739a7be788c671ad633d0110575e8183",
+      "url": "fa/a3/589e1cbe28d3a3c0dc9f1ec6e3f80c7ff97af9df353c9b8a86028ea9dd22/quantastica-qconvert-0.9.17.tar.gz"
     },
     "0.9.6": {
       "sha256": "9f53fc475bc3ff9a68b0cc9b2b82bd064defb924fa72523eabdb6110c14fc89f",

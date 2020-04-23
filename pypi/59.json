@@ -2266,6 +2266,10 @@
       "sha256": "e5a13fb7a5deaa98cd08ff1245ae6b671b99c622c2f93c321684d3c5c73c982c",
       "url": "62/1d/f1d1a38b77e63a7b9146abb6640ea10a4d2217fbaea9a52da0a19ae25791/chatie-grpc-0.13.dev9.tar.gz"
     },
+    "0.15.dev0": {
+      "sha256": "d90d3783b6f2775af02c0454d0edf11a859709b95334164810189231b13f0f5e",
+      "url": "26/fe/7b23f5f6226f868d1f69ed4eeab65c2f99c3d36cf2d51ed36ca6f2494bec/chatie-grpc-0.15.dev0.tar.gz"
+    },
     "0.6.17": {
       "sha256": "174ca14dfea5f72d69b3a038db20556695246b7d630b80e84fb95dea33ecfd16",
       "url": "82/67/d823f3079c24356bc880bfd82baf3b46a35d8c196bb346e33a364f5640f4/chatie_grpc-0.6.17.tar.gz"
@@ -5461,6 +5465,10 @@
     "0.3.8": {
       "sha256": "4e4e1c637a139503c1db3625ec62e7266585e849b803272394db19ae95b44016",
       "url": "ee/e8/1376ab949d0e9d4324d77c82201085e1c31e23cdc62ae9a280d7037e5bb1/django-graphql-auth-0.3.8.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "0a38e8961f455afa06a61605cf7d77b29f0b1bbffef64364e5d15f1c136c42c2",
+      "url": "81/7c/030a1b26e980f695168c556f486ee6d9e700ab87676becfcdee4a17bedb4/django-graphql-auth-0.3.9.tar.gz"
     }
   },
   "django-group-access": {
@@ -7193,6 +7201,10 @@
     "0.4": {
       "sha256": "2915c970c27f3509d9c0d6e60dd81201e6644610037784e0987cf127a030b19d",
       "url": "06/16/96838ca6f05466d56d6cfb2ed815aec7a988681ed252e811a662d2ef34b1/expandvars-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "e3adbc142e7bed60e7c7116620bde41ad8a3e078a4debe5a72e21da6ef86dc18",
+      "url": "34/b3/f5b629d54bdd42029909680a61178489043b13c0ae6ed5463eec7fb2f853/expandvars-0.4.1.tar.gz"
     }
   },
   "extproc": {
@@ -7223,6 +7235,16 @@
     "0.3.0": {
       "sha256": "d3ff68276fa306efba25ebd86382e11ee31eb4dc863f914a4f796cb62632b9f1",
       "url": "bd/82/f40cc5c5af7cff4bf553d357dc24bb2168ac28c283a4e3fcc60601f30098/ezprinting-0.3.0.tar.gz"
+    }
+  },
+  "fabo9axis-mpu9250-python3": {
+    "1.0.1": {
+      "sha256": "9cb0fe83d6059548559058ce152b6f2a1e117fffaebef3ea398495890027579e",
+      "url": "b7/84/7ad122b5f9655780ccf71c044f6693046e599352d6a401ac4e231ea402db/FaBo9Axis_MPU9250_Python3-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "1394217525cf1287be2381fc0b89bcc9f85860badc1ae6700a3ad555e340fe7f",
+      "url": "81/30/05b24dac46580733ef639da2560b86cc9d7a1e35d38c4ee5e5b3a081af4b/FaBo9Axis_MPU9250_Python3-1.0.2.tar.gz"
     }
   },
   "fabuloso": {
@@ -10113,6 +10135,18 @@
     "0.0.5": {
       "sha256": "01e5266f7077d8523bd53994ddbfa5ceb39efb2956badb3dd6d1017429ef681d",
       "url": "e9/63/8eb3c217221831ae6bf48503928f1c3b9f107f0b5567d74bc4524470d6b7/jsbuilder-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "fbebb0eb4836f10f21f0ca2f96d8b280b1c708453925d41524faa2ba2f77ba87",
+      "url": "08/a2/5e29b2b6bf0f92ad3c1a725f22c3c848caeb0dec523b3da82dd7a00c0105/jsbuilder-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "ba289f3890b4877e49e004f8588c85c7b53de858a5643e7991c5f27f55c86f25",
+      "url": "94/bc/e414b3c230d7c14e5a94f54033e9d25414ba09daa133488ead3bbde7cd41/jsbuilder-0.0.7.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "9be3fa1f23f75b235a6d99c1b2a7f3758c3e011492669ba38246227cf77fa4de",
+      "url": "e3/5e/85261c555a0fdaecb2df1f0565a563c9556191337548753f27e92f1de681/jsbuilder-0.1.0.tar.gz"
     }
   },
   "json-dict": {
@@ -12895,6 +12929,10 @@
     "1.12.43.0": {
       "sha256": "1cf8e74ffbfcd6dd7f5b7f2a010b71baea24af68c99836e27169d0403e0183c2",
       "url": "c4/54/2b58a0263b48b472db3e57e77583ced423f5070760cee0b82b3a4039554e/mypy-boto3-inspector-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "4ebd97ed6f2573b110c47dd3061ad37320bf8583c71efdcd684ca92bec4738c8",
+      "url": "20/c6/6005accd4bbf9a90fd4514fcb23f8ffaa8fb4e0180ab2ebe80b01d78f528/mypy-boto3-inspector-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "03584df0145969d1576658dcfc94142bd7268645201b7061d2a90d5dcb74b347",
@@ -20451,6 +20489,12 @@
       "url": "c9/5b/367a7124d91e4b7abc308a4a555f0640deb13fcbabf761bd9e1e51738742/spellpy-0.0.9.tar.gz"
     }
   },
+  "sphem-py-3": {
+    "0.0.1": {
+      "sha256": "d4d799ed6b69267ef153090005e7fe18e09b48591f26b91131d759bc37070c5d",
+      "url": "34/eb/e44998fdfe6a0656dbd636d6d0c92f1fe2826a163ef091f0660dd9fac6fb/SphEM_py_3-0.0.1.tar.gz"
+    }
+  },
   "sphinx-html5-basic-theme": {
     "1.0.0": {
       "sha256": "9e2a70ca64e0ca859e0051efe353f55f217783c1db7cea4535a53b6405aa04db",
@@ -21169,6 +21213,10 @@
     "0.9.0": {
       "sha256": "caecc5eab0e8dcd0949435446573bfb019dd73c80df6cfedadce69e6664fb50c",
       "url": "2a/3c/60723db82c566cb4f588ba8d4a13aa135adc70e2a08554bd3f4fad879712/stellargraph-0.9.0.tar.gz"
+    },
+    "1.0.0rc1": {
+      "sha256": "a59597529b121059820b224588ac07fff24b80b1421a7822e858d73ee54ad5f6",
+      "url": "fe/76/c008cfaeaac2c52c3dbb17f2f693105f86dcdd76008ed20a10564c5e26f2/stellargraph-1.0.0rc1.tar.gz"
     }
   },
   "stix-shifter-modules-carbonblack": {

@@ -6316,6 +6316,26 @@
       "sha256": "e170f4a1c6979e98ac2fa83902ad32d82f7fd9cd87db68f06ac1e08a89e24bcb",
       "url": "0f/fe/2870be1fbb767d27ee33a4898d9d578711a4c480df38d4e3900ed99df53d/DynamicForms-0.9.11.tar.gz"
     },
+    "0.9.12": {
+      "sha256": "1b29b1c9e6018c74b0974f2144404a364168362ab39eedcf3dee30c743ce3d07",
+      "url": "50/51/1c1da045ef9f79fa2c6d79ef7c82413d9e364ed084bf3460fbe0ae098c5d/DynamicForms-0.9.12.tar.gz"
+    },
+    "0.9.13": {
+      "sha256": "3c51d933ed0b1bbd84bb9c03d9399cb99bd3d2865406f4066a0649080e40b5f7",
+      "url": "9d/1e/7b451dc67ebc8133f85d5e5fa0823e370b6967233153844a7fa9aa3ec430/DynamicForms-0.9.13.tar.gz"
+    },
+    "0.9.14": {
+      "sha256": "b71d6c33deea65957f32551b9605f6d6bdd30a280e16f32f8cf65ab42f3a1671",
+      "url": "19/53/0a574ba9b446a8d9000030c3f1dfc19a726d9f4e9a548b0ce222a3fa6fa2/DynamicForms-0.9.14.tar.gz"
+    },
+    "0.9.15": {
+      "sha256": "c6f9f7fba30dcef3ebd9e4fb1a1b407c5e7aacece23df14581717332b9ab5f88",
+      "url": "22/09/7686d80eff8de4fb2c62b2e558a0dc25c19a5f43b4187a26707bd0fa53b3/DynamicForms-0.9.15.tar.gz"
+    },
+    "0.9.16": {
+      "sha256": "522a96cb987bfa930a9f8626b7647d757abfcaf5982953d380144baaa1f2a372",
+      "url": "6a/fc/819fc83e406d21f8220e76dc0cc4a614a87456eb6bf52649e0afef39457a/DynamicForms-0.9.16.tar.gz"
+    },
     "0.9.2": {
       "sha256": "aafc8579f5bdfb3453d5f6c79595308c5a050c754d691b4415a37c70f9f4b33b",
       "url": "ff/88/998ba2b959260093249651009e9ad802070539f51acf8cb385e6cb80852f/DynamicForms-0.9.2.tar.gz"
@@ -6539,6 +6559,10 @@
     "0.0.1": {
       "sha256": "62f3c8d84da9fd47a1eeb06fb6038c6083b93cdaa90257cb4ceeeb534f0220f8",
       "url": "2f/c3/1b51f2ae1f95ad8704704b3a3110823244e978e7f0d5e386da6467b1b2fd/econlib-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "daac1e62140922818bf06069b2121ec608623ee1ff761d2ee6ad136aa93aa022",
+      "url": "da/31/e9ab07ceae3b10c449599bc0fc031df8dc2a994146c794e24f3376399512/econlib-0.0.2.tar.gz"
     }
   },
   "ecs.cart": {
@@ -16453,6 +16477,10 @@
     "0.0.3": {
       "sha256": "e2d62dd4efc4d0d423fea4fd298f77460760a7e55a40eba733dc0ec7fc57fc27",
       "url": "f3/79/2b77dfd9690f12a2cbe2fb662a1d41733d93c40689df1cbbe2b239a0af47/pyppl_runners-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "c1c9d0122d4c09cbe553938a02fa57e4f3073c5c61817a2e3143ce7c132ea1ff",
+      "url": "1a/f9/ffb92456f5aeae5c48aed3b3d3420f34404fa054f15402a1d8237fa458bd/pyppl_runners-0.0.4.tar.gz"
     }
   },
   "pypros": {
@@ -18899,6 +18927,10 @@
     "0.7.3": {
       "sha256": "54d9ec2dda05353ff5ead21eb6780c5cbab0a2ab95ec93920c2453bb8b75a67f",
       "url": "82/dd/1d235b54efb7dfe01e54c399bfe0d9ab16c2e7194dee7ce82366c534322d/rbpy-rb-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "94f3ab7b4a1c8b03d540d265990b48d730d4b295257f6c2cb13e91c425bda1f6",
+      "url": "44/cb/0b8eaabdc6d87dedf4c4f11d38ec93b91a0eea83fb5c781b956a2a5cce96/rbpy-rb-0.7.4.tar.gz"
     }
   },
   "recurse": {
@@ -20087,6 +20119,12 @@
     "1.0.5": {
       "sha256": "3c9db2e0290f9bfeca97e4325aa327598f78a72296ca260246512516d2aa7c87",
       "url": "39/b1/2ff6e0ed0b56d527c0026ca4193d8d9e620b6f81fa0eda4abe16d1a46504/scipion-em-locscale-1.0.5.tar.gz"
+    }
+  },
+  "scm-helper": {
+    "1.0": {
+      "sha256": "f122fbe36003786510d4893b08d4b50e73bd82eb1113bab5c06ef4d9a16e0ef4",
+      "url": "2b/1a/a6bbc59640fd719affb606ef84a61814e0537e0d14bb2bb32b9280330c50/scm-helper-1.0.tar.gz"
     }
   },
   "scm-source": {
@@ -21579,6 +21617,10 @@
     "0.4.0": {
       "sha256": "75b8f9188fde942da388d722ec16600a9ad1bf7b4c946ec9262a446beb0513d6",
       "url": "bd/73/d36f43d2cab4a7ddd85cef2ff68c214ed1eab50a2b9aa758afa716d9c3c9/telemetry_tempest_plugin-0.4.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "eac4e309624de8275a2efabdf3b93f8740a2350322b4592a9750bb55765512ff",
+      "url": "bc/87/b196eb9af0cbf823300d2143f01aa4d95f5654d64a772235e6cb6f2a841b/telemetry_tempest_plugin-1.0.0.tar.gz"
     }
   },
   "telnetlib3": {

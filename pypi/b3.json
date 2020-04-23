@@ -1257,6 +1257,10 @@
     "1.34.0": {
       "sha256": "87b170ed9b1971702d87b778459b4507e287b56ed9e64bd8cd974797a1e46b1d",
       "url": "b3/b7/33448b339f1352ded04a68878bd2b2ec82e3edf57666ce99d6949b910fa6/aws-cdk.aws-cassandra-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "8ae5218af786a7cb339b656482eb4562096ca76bc5b490afb840083119b521d8",
+      "url": "c5/a0/740f3a26bc722792eedea2264e6729fb5604cf8a3c647fb68d77566dac6a/aws-cdk.aws-cassandra-1.34.1.tar.gz"
     }
   },
   "aws-console": {
@@ -5483,6 +5487,10 @@
     "1.167": {
       "sha256": "ec2e81081b0072e26a96a13c050118bb4ff4348a7a5752bb846e43f06305c410",
       "url": "41/4d/7a2243c1303c77c5508891aaaca4927055ac55381943a71d872bc18c4316/django-bom-1.167.tar.gz"
+    },
+    "1.168": {
+      "sha256": "d24ff93e570e9a736322e90ce829cc2f48cba73b57d056e73a05e7a0b33ad654",
+      "url": "68/b5/9c889f1176f099340c5efd27a1bc28d70888adf4b27a7246c7ad85d470b2/django-bom-1.168.tar.gz"
     },
     "1.17": {
       "sha256": "d0fedd5d0df6d6dfac4d48ce8ba2e9fbf45c0f960abbb3ca09eabeb9ef16e862",
@@ -17207,6 +17215,10 @@
     "0.4.5": {
       "sha256": "c3cde01dbc9a60aa5d525c22d056794ab58280dbe31351ce91c44e60302fbd96",
       "url": "e4/45/1d7b3894e5459572524e3eec9e4877ac03f139838133610ed30f0f180354/pybrake-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "1e8f68199469044f8fc90dd3432cf5eca861c4221abb080c6959e75ab358b2e1",
+      "url": "45/13/2283079ef5be9f0eeb12d7e82869497e4ed65aded9a593bc4e420c68ffd8/pybrake-0.4.6.tar.gz"
     }
   },
   "pyclics": {

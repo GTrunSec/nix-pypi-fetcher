@@ -1075,6 +1075,10 @@
     "20.2": {
       "sha256": "2c43048d628b557bc78d1241e19792993086988fcbad112251bc11f6b7f5517d",
       "url": "6f/d6/db69b1aa1b04c0964ad912c4cfc3e09a076e46c3de943f1c90694fb7c9d9/asposecellscloud-20.2.tar.gz"
+    },
+    "20.4": {
+      "sha256": "7a4a1264d09c95e52cd5c03aa4e80f6221dcf8fb90672bdebe2fe211aed5fc8d",
+      "url": "86/c9/f248a0549ff2726b51c3979f9641371181153556b0c3b988bd280f850a3c/asposecellscloud-20.4.tar.gz"
     }
   },
   "ass2rythmo": {
@@ -1677,6 +1681,10 @@
     "1.34.0": {
       "sha256": "ceaff9963d030f8c17689d793bf06ad42802eb88fc404f2b9da991551867fd00",
       "url": "bf/4d/747ea5be05034750c1133db16fc168b4af7fd32a0bc951b72ef475818f97/aws-cdk.aws-certificatemanager-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "fee2bff6b7dc1f98179ed37b39e6bd51ac43392964f02215ef823386c4dca609",
+      "url": "fe/fd/cc48254feaaf02a0adb17f9023fc25b54c1cdc2e65036e13307d64d504c8/aws-cdk.aws-certificatemanager-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "ef9548829e103d846b692f559667915873f1427caa512c9dd11f49cbfbe48343",
@@ -3270,6 +3278,10 @@
       "sha256": "7f9cfc521ce394fe97c2f9692da8e0b6df45075321821a4648ede055f501034b",
       "url": "02/63/fb7dde754d201019dc5400841c08bf29747da9c9f06822915e7cd71d5842/cloudfoundry-client-1.12.4.tar.gz"
     },
+    "1.12.5": {
+      "sha256": "710681f1f8dabfaba317e719b20348623bfd76dd92c4a80b1efacedd5be8f5ad",
+      "url": "57/1b/096c58d265375d17dd8cfd3913af6f26f356b6a554bac0d297b430714ad8/cloudfoundry-client-1.12.5.tar.gz"
+    },
     "1.2.0": {
       "sha256": "fcdb1d6b9da08936a8f76e999dc6308959f01ff90fe2b96aa6097763e39ee0f9",
       "url": "91/1c/a00d10bae11343eecb93dbd52187682969d7371d387025559aa53a5152d0/cloudfoundry-client-1.2.0.tar.gz"
@@ -3963,6 +3975,10 @@
     "0.0.18": {
       "sha256": "43a6648c46d16ddff97385b4da98fdd21d29d4ad94b679eb7798e997a7f368fb",
       "url": "7e/10/0bc3ac87e6a28bf32ab00967282f577f61ec8fb089509b7780bb9dc7b363/dashbot-0.0.18.tar.gz"
+    },
+    "0.0.19": {
+      "sha256": "d06dc664789460f215afc3dd365954ddecd2ad6a96e6080a2848e44ecde71264",
+      "url": "06/bf/8fdc46548635bc3bf98904ac5fddba8e9523b7828d650c5d21ba8a71d13b/dashbot-0.0.19.tar.gz"
     },
     "0.0.3": {
       "sha256": "e875e78de32b84b922c4701a5b443316fabb16d42f81f5b6a94e03fb407451c5",
@@ -12156,6 +12172,10 @@
       "sha256": "c271e23c51556a894c0be96ee1d5739ac919187213d7928185e1ee9c65554406",
       "url": "1b/13/a5f2591658466dedc6b6abe216a76673dd929947d80733f6e6b53c36de95/mypy-boto3-es-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "d83336b780f0719d57b2c79105843a60a280b91308069281b5cea7da0b98ee94",
+      "url": "2d/ac/23701117b25487050886f69fa9559a6c21588ae0f46de325075c135f0cdd/mypy-boto3-es-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "27c28e89d6a93fda74b99325bd7a639d1b1747aceef3004256a71c7097efa5cf",
       "url": "61/5b/51c590adf7e88dbe5acb7bb6299a0c543a0b0f96a76e870cebd5262436e8/mypy-boto3-es-1.12.5.0.tar.gz"
@@ -18847,6 +18867,10 @@
     "7.0.0.0rc1": {
       "sha256": "346431971a221544fb6c756ec466cc58babce2318c3d5f1614ab542e845c4fbd",
       "url": "69/cd/9452351aacd2ab25a1022d5abd64c00357dc608833339fae5cdf39f57e0c/searchlight-ui-7.0.0.0rc1.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "09b18c8ec6c0b30d2600b14bb9a6a63333243b222080e6ec81fa79f2cfbfc83c",
+      "url": "bc/8e/dc8d5acb505cb7810598133634e22e643edaf35d19c8852ddc6468c02b01/searchlight-ui-8.0.0.0rc1.tar.gz"
     }
   },
   "secretig": {

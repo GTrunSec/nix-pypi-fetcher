@@ -1822,6 +1822,10 @@
       "sha256": "e23a999f6e45727fd6606dc84ce043df7cce6c64ed11f30ed5b4b718a467d7cf",
       "url": "c8/8d/95d4c5b6ac09f55188eca3b71e411767636a6f79bcdbbae8dfb041bfd718/aws-cdk.aws-mediastore-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "630cf200438695fa57770d72fd80f711ea29f9b81f6517a2605298451605d6e7",
+      "url": "ae/ab/f085b5f530e56e9973f3b43d3db65a5b06508d10e5b8cc7ba8691a850951/aws-cdk.aws-mediastore-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "f6c0cf70eeabc1d28b8cc994b9b53e06eec7102c3f7c315ea77920c1408d3576",
       "url": "b8/9c/a4920685bf009add30f4f14bb6ef2dbab0c34b242b4a3e4511591d197b54/aws-cdk.aws-mediastore-1.4.0.tar.gz"
@@ -2087,6 +2091,10 @@
     "0.4.0": {
       "sha256": "7cfd514ec629235762787c7ae4ad6e3a8bce4fddc857639552d8e87c274123b8",
       "url": "c0/a8/b923f4edf6a68fd93618f136c819255c588b89cb790e5bc1dc335b7daed6/azure-mgmt-loganalytics-0.4.0.zip"
+    },
+    "0.5.0": {
+      "sha256": "16f4c4f676ea718b7e1c59bd9a516fcfc796f1aff844b183a7ce9afe69fb214d",
+      "url": "87/a2/cc70fb71277d36f0b10c5ed63b70ae0aed7ac659c666d62fe7c098e48da5/azure-mgmt-loganalytics-0.5.0.zip"
     }
   },
   "backports.shutil-get-terminal-size": {
@@ -2310,6 +2318,10 @@
       "sha256": "84a49d9f07f5b82211aa0959d0ef973704fd2335887aea161c5eeb22e38b0282",
       "url": "2e/ea/03c12545b2a25790af9ffc6afdeafdc656a5efcf6292ab7e764e43496723/bikeshed-1.0.1.tar.gz"
     },
+    "1.0.10": {
+      "sha256": "22455d4c0ee69a9922d31adda5fcee1c7db59ef38bfda45591e29dbdf9d6dc7c",
+      "url": "d9/11/2f302d5e53b9aa21d23d58a61631e815554ecf92abed52391fb8de5fa889/bikeshed-1.0.10.tar.gz"
+    },
     "1.0.2": {
       "sha256": "dd602e11bd1ba0bfcfe275f9a74d6c4c253129cd80119b12bc38266e911e5d96",
       "url": "59/cc/f6c450034e4c8773b48599bed6a71c28b5de464618e3527a46b38c23417e/bikeshed-1.0.2.tar.gz"
@@ -2341,6 +2353,10 @@
     "1.0.9": {
       "sha256": "0675e62cefb326bdce7a7b0ec100e2c227f7b0378c1c908ac61bf16de05f7142",
       "url": "61/30/e9afa72f00d76d2f0f302e89a30204723b21365613242c544ae28601ba36/bikeshed-1.0.9.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "d7f65e1d224c91f4800c4d9fda30466239f74069a227f1d7d39e06169b46e794",
+      "url": "73/58/90a61dfebcf66088e35aad124967f801c6c86a50a7e3cd758fcc06d3dc8a/bikeshed-1.1.0.tar.gz"
     }
   },
   "bin2qr": {
@@ -3787,6 +3803,14 @@
     "1.0.2": {
       "sha256": "c58f28668bc649733a9179e78f3d49c56c95fb551bdab9a3383c1630952e86ac",
       "url": "0e/fc/be8cf4cb775400960f8d0788b909125d03fc4302dd043b7cdda741d18e5d/cctyper-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "e6c1430b5580c8cb65cd6f18a745a82784188020ffc41dc3d6b29044ca92dd00",
+      "url": "ae/64/a9bf1c981bd059b62573798379ccd72fc414051a51490624dd6b616ad06b/cctyper-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "bc7c456052272f3caee568377450acc2ed62b64152d0c2f395ce6be3a970d5af",
+      "url": "02/ea/554b5fd888c44251f822acc6e91bec660cd2d8fb55ae1d0f4165263c77f2/cctyper-1.0.4.tar.gz"
     }
   },
   "cdf-ifs-file-extractor": {
@@ -14167,6 +14191,10 @@
     "4.1.0": {
       "sha256": "b71bc3b3941a27ef3395336f96600b85fd5c07a26096269aad3f9a3d80fad7d3",
       "url": "4b/74/c914a847c27f66ccfb1cccac20548653a8f3367bc3528c4bf053f065c872/locationsharinglib-4.1.0.tar.gz"
+    },
+    "4.1.1": {
+      "sha256": "ec1735180130c04d129171cf6ecc566db75bce676979ebb0809fc64e5bd32002",
+      "url": "34/52/6bf313f7266105985067d5d126c3177163069c93def6599fc91bee3a6663/locationsharinglib-4.1.1.tar.gz"
     }
   },
   "log-anomaly-detector": {
@@ -14591,6 +14619,10 @@
     "1.0.4": {
       "sha256": "e91f1fa57e84c5840dd3102ef29549300771314be8254080f2a6b1958f322942",
       "url": "d2/ef/eb1887be6637c641b970324a4e4e39ba14408db791cc6d3c3cf0908800c8/marketing_attribution_models-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "e31ba155c45cc652d139a26f42ff7b8891dc803ca0332279ae2e57ae47734274",
+      "url": "6d/80/bfbbdd3431d3009f897930536d258fd9f3a508ea98e4cb38fb2bc448e202/marketing_attribution_models-1.0.5.tar.gz"
     }
   },
   "marknote": {
@@ -15201,6 +15233,16 @@
     "0.0.1": {
       "sha256": "34b9797f8017e34cf3c5700eee6e16766432c77b40d5ba3dd72efd23ea697c08",
       "url": "3f/d8/4905e61b24a2f78d36a882ba1f55d4c6a16e3eb6cf29ae1409253c6da98c/mj_helpers-0.0.1.tar.gz"
+    }
+  },
+  "mkdocs-pachyderm": {
+    "1.0.0": {
+      "sha256": "16309267b9ef113d663f93496621459f2875f489795590a824eff4c3adaca994",
+      "url": "28/f1/26848b16ec0a278a38e5f44e8a56d7909dd16858e76b4e3f16e056bcd8ff/mkdocs-pachyderm-1.0.0.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "7b5cfedeeb5e971c6356007f3a51087586449f864427d62650aee80e8f065ff8",
+      "url": "b2/9f/997b7873e38919ce5af468c40e2dffdedb73e0384a9c6f5b4b3706a1cb83/mkdocs-pachyderm-1.0.2.tar.gz"
     }
   },
   "mll": {
@@ -16433,6 +16475,10 @@
     "1.12.43.0": {
       "sha256": "eb5b0abcb9c8cbbc5fbd51bb2290ae1fb0e84efa1f563b232990a4f6de1ac15e",
       "url": "64/30/d952cc64cf81d6185fbf6ce1be6942c55f8da4c4223cf3f3d480c6db6cca/mypy-boto3-budgets-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "1edca082a2cb57c587c3afab596326a6b2ae4470da1db4512f07ed02bf4b2080",
+      "url": "13/a5/a6b426d1ae049690ea28614b740cc819274b41735307b6b33c105e572e50/mypy-boto3-budgets-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9f953d5a19d1c192065b2f4347473a6e2c1f374fb09566e83484c30927766ede",
@@ -24047,6 +24093,10 @@
     "0.7.4": {
       "sha256": "4b186f5b4b6a4821175b27191cf4acf3b9fce169b3c2ae6c7848bb05f3175e62",
       "url": "86/e7/01a7a08120665754802a25694ff60e669af2e3bf93973e5d6cee9aa6ca60/slimta-0.7.4.tar.gz"
+    },
+    "0.7.5": {
+      "sha256": "16d50a228be7752cd3b2adc1cdcf74d444e03f95686570a98a422ad1bd7cbddf",
+      "url": "35/58/5e631ed075ce5f0cc7e261c652d26fc73b808e1b636180d02f5de70394d7/slimta-0.7.5.tar.gz"
     }
   },
   "sloth-ci.ext.docker-exec": {

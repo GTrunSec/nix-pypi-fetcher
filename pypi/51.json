@@ -2098,6 +2098,10 @@
       "sha256": "5213613c78221e21bc1b62a2e2817a826ee2458cfd9f2ae3fd6c1f10a5e16c3d",
       "url": "4a/ae/a3b870df27beea38a23067194ffd10546b43783906abc197f8a6d9baa70d/aws-cdk.aws-redshift-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "bc161ddd52845bde1e515fa9cadf5489145a7e316d8ba5ec1da5d35b5b9731e2",
+      "url": "43/ca/8f694e739e80459cdb461fe9ba3a27bd6d48bc2ace440f21d1f226ab7d7f/aws-cdk.aws-redshift-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "24eccd0a9d3077852353bccfb2997291099bb31966f4dd0a8fe87a16eb92e863",
       "url": "67/64/b51a3f156a7473c8dd269cc5ecf811dfaf59108ebae39b20b30fa56bad54/aws-cdk.aws-redshift-1.4.0.tar.gz"
@@ -9781,6 +9785,10 @@
     "0.6.0": {
       "sha256": "d2761d16076427edb25300e3429fed2dc97218c94c1d9daaf32cc04583136395",
       "url": "b2/b3/8151853870fb25c05486d8375755287e1698377941d89dd75b764e8e07f9/gftool-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "cd8727ebb3b8f673cc224f8619b24423a475e0c1737c31f20a89bd3abbf06a6d",
+      "url": "50/9b/ab33e220941e72682893ec31374abb2458b9c151e7ca8453317428a0c1f1/gftool-0.6.1.tar.gz"
     }
   },
   "gherkin": {
@@ -16718,6 +16726,10 @@
       "sha256": "5e397e8044c797faf4fde58a7f9eac609a9036048a285e553205ac9da3884a35",
       "url": "24/78/37a9691018fe42a0f93ddd294e293012ddec52df5aaaf15acf57341bf37b/mypy-boto3-iotevents-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "205bdc563e9a915e765252cd3fe65f1dade87c82aec6e3182cfb0dabfae0b5a0",
+      "url": "bc/51/41e73e24a3743c35c0c516c51e99455ddc93819207fa9b94ec8e430f0e16/mypy-boto3-iotevents-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "436c8d150502c2896245150d3c8e10f43f4867c817f6b3ba6122dc2d65dfc15b",
       "url": "24/7a/48e18defdb8764e8d4260518072ccaeb29686225301a17ebd3b345c1e5dd/mypy-boto3-iotevents-1.12.5.0.tar.gz"
@@ -17227,6 +17239,10 @@
     "1.12.43.0": {
       "sha256": "f931369b0d7b5fc1c2b3ee177db4f3421553428ae49329cd8ea1bfc83c283b97",
       "url": "6b/c3/3d293283f6eb1288c5f9a769dc9ed196a574cd22a603e4c72453728146b7/mypy-boto3-mq-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "607db9955ebf747ebeeafb61a346ce29b44d7891248436b869eaec90cc701b0c",
+      "url": "fa/ba/73dbc5745484818a225d12e38a18a2f8299151db81430605233ad47346fc/mypy-boto3-mq-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "49b8d8eb322c0b19ba7f6090fe5da983d75c039f503c38f04ae1f7087d71b4d5",

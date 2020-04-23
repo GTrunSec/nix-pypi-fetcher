@@ -506,6 +506,10 @@
       "sha256": "437284848f37605a4803dcb87745b1a44938155412641c01de2c5db987c7a377",
       "url": "2d/e9/dc9dddf3f7e402b46399c79a6e0d7b4f09bb18910c2ee3f90c6108745ad8/ansible_alicloud-1.18.0.tar.gz"
     },
+    "1.19.0": {
+      "sha256": "e4ecfd9bc4a5e5c5fd712f70bf107f053244a242f39107765851929ff629b134",
+      "url": "c5/8d/d7f81448b7494cfd50bab6b07ba8b22f253809397a1386c82d473a1368f1/ansible_alicloud-1.19.0.tar.gz"
+    },
     "1.2.0": {
       "sha256": "0546246c7557a9dd1686e45ce6d173dbd56eb47ae3ca4f903cb5b150fc4394e4",
       "url": "ff/cf/d498afd0f70a8e7dc2b8a08a3d0f0aeeb23b455eebd38bdc5ad9a50e2ee1/ansible_alicloud-1.2.0.tar.gz"
@@ -1809,6 +1813,10 @@
     "2.0.0.0rc1": {
       "sha256": "ac9410e80d2a3c9267949edab68ea1723d5f6684e9e0d693948326442f056797",
       "url": "0f/ee/1e426d33cdfa333fec3d20479cd93c158bc3442470fa114b13407c31933c/blazar-dashboard-2.0.0.0rc1.tar.gz"
+    },
+    "3.0.0.0rc1": {
+      "sha256": "de30940d0c96a839bfc87380e375bc53e932ff136e8717b410ec152fcb72dd51",
+      "url": "dc/59/992ef6394d704ef460df2d2b5e00c5de35fdb6c359132986556b32bd204e/blazar-dashboard-3.0.0.0rc1.tar.gz"
     }
   },
   "bm-common": {
@@ -5635,6 +5643,10 @@
     "2.4.2": {
       "sha256": "d47ac8f7e91f8c9757ba68812493ea4dac75a87f3a017826142759156c323032",
       "url": "35/49/4b8ce6aca719a47f9559d02f5ada8a40d8646399693366527db7acc0c65b/django-comments-xtd-2.4.2.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "bfa8520026eb1bfda0a2b4e1c8c8ec68628b785340771bda29b229eb6f82fc08",
+      "url": "75/7b/d32c78ce3b3324226da63c93558aad9a92f8d09a02ab9758d1b51062fabb/django-comments-xtd-2.5.0.tar.gz"
     }
   },
   "django-context": {
@@ -14721,6 +14733,10 @@
     "1.1.5": {
       "sha256": "66d38d4bf79a21b97059a54bdd5b16240ea8d29c6074595305729515ea93cf4b",
       "url": "36/02/ee51786e8ff8362b002e7c417f174259b49fe2f63006c8353532523ffdce/nlpvocab-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "3d1e76058e6673eec69be810823ff18a3254167f5d5986ef76cec7dd57be6fbb",
+      "url": "bb/a8/5bd6f0a3472539960ba68cf2455787af676337e136eeba8cc74baa75ad32/nlpvocab-1.1.6.tar.gz"
     }
   },
   "nrfutil": {
@@ -16455,6 +16471,10 @@
     "0.7": {
       "sha256": "bff2bd443b7c5173542bf4938e46ac86a248575d0e17eaa1950ea83afaa5dbe4",
       "url": "e4/23/fc4ac514ddc6dd3f6839930e54f0c90fcbf2a2a24377a18c6c4489496bd1/pyboat-0.7.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "3049c1c057bc6578f76f98a43c1a36a84737c95c85d62cf5ddaf9eb0b7981749",
+      "url": "eb/d1/72300c1018bb9a3d7cb8cf275900b94659f253307fb265897cbfcfd29ed3/pyboat-0.7.1.tar.gz"
     }
   },
   "pybrain": {

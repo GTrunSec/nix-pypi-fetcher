@@ -1052,6 +1052,10 @@
       "sha256": "e61486e0d6f2b2c4b0d42fa8a764f020a376df68cacc61d2c4681875d0755240",
       "url": "00/ef/0022c87da990cbbd2899c68bc777698da5d813456df1d383ea2fe6a253d5/aws-cdk.aws-iot1click-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "af89db99f3b9c2fb63f5cf903ead53e042cbebe07aa862023040f715571b7d2c",
+      "url": "7e/6b/99ebe79e805064719f9e1c1f1009a97f5a40ea1b9b86191452b96541dcb8/aws-cdk.aws-iot1click-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "ad5794aed2afa146d6610f2a412086c646ae711be2c22c0b9026a178ae9e35db",
       "url": "47/94/a9c8c67546f6bfa6054f77ce495aeffebc80bceeec4934a203c3d1cf077d/aws-cdk.aws-iot1click-1.4.0.tar.gz"
@@ -1201,6 +1205,10 @@
     "0.2.2": {
       "sha256": "b13246ce31e7d17f0e5f58a517672dd0f4d01a886bbfbac3d9a6a6c67526c1f3",
       "url": "e1/29/c424763fb5e1ef971f389d344c12f84685650fbbdcaface7530341f120d6/bas-web-map-inventory-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "706c1a8d9c0b4e2750c0cc6c84aa7075fe21b24d2e7619b3cbca492f4affb246",
+      "url": "2d/be/79228868bf2a43c24f48c2a7d7b51ca65ba91b8c396cfbfe4eade7c290b2/bas-web-map-inventory-0.3.0.tar.gz"
     }
   },
   "bcresolver": {
@@ -2901,6 +2909,10 @@
     "0.1": {
       "sha256": "9895ccde2ce36cd0911895cef5169f8c658045394ade2dff041d0142067adf5c",
       "url": "6f/50/de626113237fde344bb96e158f21bc6d42e428b41e8cadd243e647ad5364/coin-seer-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "8bead4a3e94d16b126ad9278558eb187dd2a8a11964e307ca311cf4ab7b710bd",
+      "url": "6b/07/dce8b4ba3b84e2e09b380d4b564360aa8865f21014b6b4adf27b67038a14/coin-seer-0.1.1.tar.gz"
     }
   },
   "collectd-cuda": {
@@ -3967,6 +3979,10 @@
     "2.9.1": {
       "sha256": "919d01f65967eedb800884544f12210d0e49adc6d4e1b291f64638798cccb3f9",
       "url": "91/7b/bf15c340dbf2410642654520bb8b9d2d24a60676b8a32f4d20c4d33a759d/cryptography_vectors-2.9.1.tar.gz"
+    },
+    "2.9.2": {
+      "sha256": "99ac91c4d89572399b097240809af1b8f67f4bedf43398d290c9b2b3d9f491b4",
+      "url": "cc/64/1d69ad8236ce49ae06b0d424642289306c22cb3260252dee540b4ab6deb9/cryptography_vectors-2.9.2.tar.gz"
     }
   },
   "cssocialuser": {
@@ -7557,6 +7573,10 @@
     "1.5.0": {
       "sha256": "4db97893a4a69a4d5a4bf5623b0d1e489f4b42e704ab58537f7ff38f0856f209",
       "url": "33/b6/a18f7b25ce993e5302a8b7326926071b06c4a7135e2e173a5a856d0303ad/djangocms-bootstrap4-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "bdd685dcfe1250d83d1709336f9e176c154ecf112043690c06b8b3c6a948fed4",
+      "url": "9c/84/59abf8466a45e5cd195575ffc310e840d226b0cc2b3d9c6621c0e68c4c55/djangocms-bootstrap4-1.6.0.tar.gz"
     }
   },
   "djangos3browser": {
@@ -12359,6 +12379,10 @@
     "4.0.0.0rc1": {
       "sha256": "39168168424085d501dffd4ef7ab017e000d919920289098c211252245992867",
       "url": "4f/c5/4010b3ab845aa19b8aaebcb6856248abe7908e049cec55341903224c2053/kuryr-libnetwork-4.0.0.0rc1.tar.gz"
+    },
+    "5.0.0.0rc1": {
+      "sha256": "6733ac12b86a615534334cb8447f154b6095680f0a86bc1bc33d3209ce8f8212",
+      "url": "3e/4a/adccb44756b2f5140d7effb1d89e67b0365f08b7661148c636a7aa0aa4ae/kuryr-libnetwork-5.0.0.0rc1.tar.gz"
     }
   },
   "lantern-package": {
@@ -14209,6 +14233,10 @@
     "1.12.43.0": {
       "sha256": "0d8b1c5b80effa356d30c4fe6b04b3148dfb866b06d2b89b5110427132b01501",
       "url": "59/ce/d883155501dacec8e5f22d1f23214e681f1b75db2eacc2f3aafeece7ec47/mypy-boto3-events-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "a84f7af209a24e46f6e9a1154d3d004c4e0b6329dd3e91ed8bd87f4ecfeb0201",
+      "url": "e6/59/ad7850d1cfa0f206669d9f1a89c8e1a950bbd63d94a194143a425023231c/mypy-boto3-events-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c41b9dc79482a49dc547801bfe54e13443561fe149fc2955140cc4cc88741d47",
@@ -17604,6 +17632,10 @@
       "sha256": "6e7339a1f4acd3506cf375da299dcce7bf8cc21263ad20d49f7c7e814484229b",
       "url": "2f/68/899c6fcd1c09720fbdddbc29d6733a72209f87c8347353b8954cd6fdde3e/plone.uuid-1.0.5.tar.gz"
     },
+    "1.0.6": {
+      "sha256": "a13f522fc1ffec87616ea2514950fa4f20d425f852e0938e58b83f9cc54e29d9",
+      "url": "f6/6a/cf110e1f8fa2607208fc0bf407c25457b788e7b5d80d27c9f00bc710bf80/plone.uuid-1.0.6.tar.gz"
+    },
     "1.0b1": {
       "sha256": "24cdf3a68d8a8831073f6a3ec7d5a3b58c6de9dd4ceafcfb83ae249f8ad30e6d",
       "url": "d4/e9/f05e33f9f767d5a03b5480e6e450836d1638da0819c1efb13f50db5ba809/plone.uuid-1.0b1.zip"
@@ -19682,6 +19714,14 @@
       "sha256": "ff8c36222457707e6bac494712b9c17f1868e314e0114a9622a8dabe748211f3",
       "url": "5e/9e/62ff4f60fb685a3ad08b397362f2f613ba03f8646fcfeaf716ddad424480/pynando-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "3f094654e75c237437b3023d145e6f0c6b65fab68fe3b662803313cec9c1fd3d",
+      "url": "21/57/bc6eef1f70ad8c4a5b6978dacadc9e69c3ebd877935cee4420b751cba7b7/pynando-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "17bcdd4ac1eba330ff3147adb9e592cf9e88831fd4e1f3a630998ac0299be72c",
+      "url": "61/ac/ffb57032f0c9e3443334c1a7782004d3806e81b9b06076d90a498c72c23e/pynando-0.0.11.tar.gz"
+    },
     "0.0.2": {
       "sha256": "1d36821967c29dc6917c4fadc2fca2f45bba0615bca746daa36239ae36d58fa8",
       "url": "ec/be/0c42d589e5362f4f56d7a5784273b05019bbede04ae5600faa61ab7eafec/pynando-0.0.2.tar.gz"
@@ -20692,18 +20732,6 @@
     }
   },
   "pytigon-gui": {
-    "0.93": {
-      "sha256": "4d50e37e78d2c78dd4eeb42c78668894df8a9b0828a4d6f89db29c9bcf0bb739",
-      "url": "ab/ad/28f790a5cf24d2f58b04400a71f5fc940b46b691f79d2fcb4c1184a4b85c/pytigon-gui-0.93.tar.gz"
-    },
-    "0.94": {
-      "sha256": "c7783ee6bfd3c9662d2e362fd727342c5aebfaad8307f50800c12855cb944d60",
-      "url": "de/85/0c67fea9674cfb68e33c750aac9e9095c3bdb2644e21bef81b116060b42c/pytigon-gui-0.94.tar.gz"
-    },
-    "0.96": {
-      "sha256": "b7f58dc7dbe2c414ae018fac0a8b28c55cb143a8b160a4b4a4963f76ae1e11d3",
-      "url": "37/88/9823d1ea9659aea022efaaacca9a258f58439c604c404091557fa5c05a4b/pytigon-gui-0.96.tar.gz"
-    },
     "0.97": {
       "sha256": "5dd871fd03be7fbd9e4443d2515a61f51ee7e833d722000e667ceb017da63929",
       "url": "6d/df/eebcf72d6ba6413cb7433fa663e981a70749ea6b2c2a7c7bbaa7ffba0a22/pytigon-gui-0.97.tar.gz"
@@ -20711,6 +20739,10 @@
     "0.98": {
       "sha256": "72e4978f4511bb624e428291bedc4f5ccd8f361c360d8fa5e5fe521d2ff92895",
       "url": "91/4f/f69b547466ed08ff8c86f6a63fc337627309f4d81106c342f1dbf27daf66/pytigon-gui-0.98.tar.gz"
+    },
+    "0.99": {
+      "sha256": "d4d8931e83abf9a36f51e072b284d96979cfb53f3ebc99f75321a7a61c183452",
+      "url": "7c/af/e3516e914d080893c540bdea17350f664c1045a7f85cd370fe4f787b6835/pytigon-gui-0.99.tar.gz"
     }
   },
   "pytonik-time-ago": {
@@ -28359,6 +28391,12 @@
     "5.3.2": {
       "sha256": "85e674019fe598a585a11ec58936cbea3744ef4d300e962de4400ef094d909b4",
       "url": "30/94/305a172cd358bc511249981d71b5202086122d8e5fe90b5cb0017d24d27e/urbanairship-5.3.2.tar.gz"
+    }
+  },
+  "usb-quartermaster-usbip": {
+    "0.1.0": {
+      "sha256": "9d05b462d1eae3410e7e68fab0c9deb187ca0c70f701cbe61a9d183bdbc67b31",
+      "url": "92/12/6297a088601ca226564cc7275eee2004e63d60a84fd61a930aca1639c627/USB_Quartermaster_Usbip-0.1.0.tar.gz"
     }
   },
   "usb2container": {

@@ -7376,6 +7376,10 @@
       "sha256": "0159f981ace371186a83b2c3069f71ec94960a4027af189e29794ca116089a23",
       "url": "97/7f/5d61edfd88d1490fdea1ae3b397a1e20ecf9df0ce4da744f1d7539ecbe9e/dagster-pagerduty-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "598c7a23e41e5ff8b99ab7f8254e77588fdb5f480e85fcb497b8a05dfd41f444",
+      "url": "7c/5f/71ff1ba0e5b996b17b264282b2aecbf20aa72ae6ade69eccdf57e37da671/dagster-pagerduty-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "582e2b6f23349873f903ca00b840be1bcbba20a2e44aa28a2fc0d1f749a2b418",
       "url": "3d/23/8842216a6ca8d4e6a6822962f0b03a98545ca7c7a8b8d18eb8c4d796535e/dagster-pagerduty-nightly-2020.4.4.tar.gz"
@@ -13031,6 +13035,10 @@
     "3.1.7": {
       "sha256": "fd52f6a75f81edb584553fe8156b37846bbee5a770c0bbadc05008974dcb1980",
       "url": "43/1c/5fb7e0aa1f09611d86438959d28ea7df04bfb43831e3556f311e6b80b662/indico-client-3.1.7.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "2c128efea73138016e62446c3b2c1b869dc25fa759acf95a53aafe0e2d08bfe1",
+      "url": "b7/17/efe4df2d9c3714756e09e1fcec3101c480cea6b47a725e37dac2c2f55f8e/indico-client-3.2.0.tar.gz"
     }
   },
   "infi.datatable": {
@@ -13672,6 +13680,10 @@
       "sha256": "f6f6c8b824819a2f6203673127de51d57180a8f829523db95f18f894aaea9f1c",
       "url": "2c/8f/7aa9f0959c3f2709572cf90bd956046af2b3c3eef23685fd8bcd5f3cdf77/jdcloud_sdk-1.6.54.tar.gz"
     },
+    "1.6.55": {
+      "sha256": "b3917f1e31b9ee11639b99a7d15061c60ccbf0d7471287e054b72c4eb237377e",
+      "url": "19/5f/669f1eeecf717013cd58fa1e8c8e193d3a4473c3d9d4bc2bf87c5d878389/jdcloud_sdk-1.6.55.tar.gz"
+    },
     "1.6.6": {
       "sha256": "39685a563660b23c33191e0e41ac20da344c6e68c0a867dacdc2a21f8d4d94d6",
       "url": "1e/fc/92d3760e4da02203355eab839befc655e1e2448be64fcf7ee3c947baff42/jdcloud_sdk-1.6.6.tar.gz"
@@ -13981,6 +13993,14 @@
     "1.3.2": {
       "sha256": "0e2a8c5aea6d21858746b18189916d8ffb114703fbcb1372f97c357b6dfb8bdb",
       "url": "cb/cc/42331cc5dc0405e558cadda5a2885eeed18212a47f1d3c8e42551670c59c/jsii-1.3.2.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "42166e22ddbace21b4817f9c5703f202331f676fa251aa42a26a9a0ed0ea3950",
+      "url": "f7/58/6addad0512e11f097326dd83f8708a8749bda5f345c40d028360836816fa/jsii-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "c219ae23812f04228805daef850d93a9e0bdcddd18e9fcca907c7412a1b1f7ca",
+      "url": "0a/d0/e0cfe8c2f2b30ed7b6341930d3103b146b7e7e43682fc7c4459f86094467/jsii-1.4.1.tar.gz"
     }
   },
   "json-schema-env-validator": {
@@ -21843,6 +21863,10 @@
     "0.5": {
       "sha256": "4311f5e128ffee4178fdd356878ab01d5a19a966da0ae916eed161ea92f919df",
       "url": "7a/14/464e376e7040d20602e492ccf2d6e02d7d3c9d55795670bf849e1991a6ec/pyEQL-0.5.zip"
+    },
+    "0.5.2": {
+      "sha256": "0f5257506a78df7428653d04191329202c2f1a503144a1f689471757cad042b0",
+      "url": "c0/05/906377ef24d5622c5360a77889a3b9a3e059828e2172bea609e88e4e7518/pyEQL-0.5.2.linux-x86_64.tar.gz"
     }
   },
   "pyextdirect": {

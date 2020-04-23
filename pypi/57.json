@@ -2120,6 +2120,10 @@
       "sha256": "30dc75516f964a599d0ead4195ac604a9b909f07155693d77bc430a98f6c9405",
       "url": "d8/36/3643505aa6686dda0bc69b8939ef815fbe33ca2387d23c687eaacbaecdf9/aws-cdk.aws-codebuild-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "d1924fa6cfd510f8656b6526f8b935a56c0311298e359b7810b24263a1cc6097",
+      "url": "fe/66/3b0e3f6fdbc24866c6f028820949a805454e65487649578530beca6e0da1/aws-cdk.aws-codebuild-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "03a3e5c02169427d5e85e9b4e199d7b8fd3ed00f82a86504cab23e7447982e93",
       "url": "f7/cf/9372396d6e28c3a6021b61e326e4692f27ddcf283794027ebde2922fed65/aws-cdk.aws-codebuild-1.4.0.tar.gz"
@@ -5403,6 +5407,10 @@
     "2020.4.21": {
       "sha256": "6ac040be8e3d6512d4fcffd4d877216aac1abae346442095543e63a53dff3767",
       "url": "5d/b1/b46cf8a347076b7266a7ce01b8ced563b59653990595c06499479c156924/dagster-ssh-nightly-2020.4.21.tar.gz"
+    },
+    "2020.4.22": {
+      "sha256": "050cf64a88e4c310981b4718b0e2cc31a5d9833b01c4ae083df8df616ebfb281",
+      "url": "f4/46/1fe30d960b1d9bb80b6b00ff5bfe08940b8fb1bd0b086b2a9ad27ce7afac/dagster-ssh-nightly-2020.4.22.tar.gz"
     },
     "2020.4.4": {
       "sha256": "48a5901231b9d3a4f8c1bd0f10a113684da58cdba79ff86b182e78ab5730cbdf",
@@ -11149,6 +11157,12 @@
       "url": "ca/90/737ba82be795f3c96416c4bf4202c14b063accabfb55cbda23ef9bdb55eb/inkblock-0.6.2.tar.gz"
     }
   },
+  "instaapi": {
+    "1.0.3": {
+      "sha256": "727f2fc9821469ddbef9537e3d5be92b42e885e3542cf416bd91475bce87c299",
+      "url": "ab/6f/0ff8561ff110e59aafbe30370cce90a2206d9d745fa3065ee7ff99e4e2b5/InstaAPI-1.0.3.tar.gz"
+    }
+  },
   "interlap": {
     "0.1": {
       "sha256": "64484f4d2c2457f66dda6da34377719850e29929e52e6deabca827d8554d039f",
@@ -11349,6 +11363,10 @@
     "0.9.0": {
       "sha256": "da683d952847a08bf95a38e42a674de1671e6f22bcc21e7fb9d311f0daf1a4c2",
       "url": "76/ad/a16af3777efeed501f53b08636676fad180ef205948423d5752e6e045c8a/janis-pipelines.unix-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "d338d766e26037aa8998fe8c2bcc8b187c3bdba439f640c19f2dd0eb221e4989",
+      "url": "35/e3/abaf45dcc8fff6c5309d9f2ff7c5b3ca820ebe0d4bdf6d52b8a84a88f399/janis-pipelines.unix-0.9.1.tar.gz"
     }
   },
   "jappy": {
@@ -16849,6 +16867,16 @@
       "url": "94/53/9f0ef8b1789ac64cbba4dee87848d80636ceb2ee919afdcc38148843d14c/pyfnnd-0.5.tar.gz"
     }
   },
+  "pyfstab": {
+    "0.1.0": {
+      "sha256": "427f4cabc2a476db41be2b1803cbc4d24bfb31bf918e14639f50bb786ddbb2ab",
+      "url": "cb/94/3b6ebd2322d5a7cdce59ad75406db38bbc5df3312e59a83a1992190958a4/pyfstab-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "3f4cd50120d0e06fd706b89f0cc23aa1b7ec6114b4af7a7d51727fe55e7695bb",
+      "url": "bf/c4/88b8e4ab2c4e9a4b6980a353285c0520bd32e6b264d1a89794e882f5d305/pyfstab-0.1.1.tar.gz"
+    }
+  },
   "pygeo2x": {
     "0.0.0": {
       "sha256": "3e7b70fe572a8f9f1a4e2755f2132bcc77318f21deffff033fce8307ceca6a6b",
@@ -20079,6 +20107,16 @@
       "url": "2f/76/ae238a9c9dd46a200ce59d28ad8112845fb66a1ae52432c198f5fa755763/setuptools-rust-0.9.2.tar.gz"
     }
   },
+  "seven-framework": {
+    "1.0.0": {
+      "sha256": "1d865e28253dda19fcc2419ea950544340de2986221bd288ab7c51ea59f15db3",
+      "url": "32/db/b6fe056652cd6b4704a4c53e7fd143030685e74cdd84c3158fc7c5d0545f/seven_framework-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "f92b51b45b2a061668f3c4865c039b2e5cff5273f8d3b0d08f6944ec10d587e8",
+      "url": "da/13/2ce6402608f6dfe0079cc70cb308d0d60356f19d88c2fc1a12d6e9dc67ef/seven_framework-1.0.1.tar.gz"
+    }
+  },
   "sg-logging": {
     "0.0.2": {
       "sha256": "52de6b562581571c5407e09144d2751e721addd4d4d3a80760e5197aad44a6f0",
@@ -21085,6 +21123,14 @@
     "5.1.0.20200325": {
       "sha256": "283cb9a16089b464a28b46b9390e1a000abef764d1accc9da5fe91844f00d2bd",
       "url": "7c/80/c6c49e369f45499114299cb6ec8cce4b608a6b792d11c3fe09d79ac3d67c/squareup-5.1.0.20200325.tar.gz"
+    },
+    "5.2.0.20200422": {
+      "sha256": "bbacbf49f9b8a63ccf55a2e2e10eb4580a03187c01b66ae4cca188f65aca4d16",
+      "url": "6a/44/5bc8a02e1641d4b937bbdbafa7e44c939abd1dfc8aeb9f3ee3ef7ff034dd/squareup-5.2.0.20200422.tar.gz"
+    },
+    "5.2.1.20200422": {
+      "sha256": "e01b36f3759b55dcf2cf414c74087a8e1f25828f2783576d3c7a5095b50a56d5",
+      "url": "ec/12/e1d69e8766be77dd66eef0c11628e9732e8912136b3bb171e64009659571/squareup-5.2.1.20200422.tar.gz"
     }
   },
   "srt-shift": {

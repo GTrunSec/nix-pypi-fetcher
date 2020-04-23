@@ -1274,6 +1274,10 @@
       "sha256": "bec4730b70dfb9b5f2043c27c9a84f125e34a9e922f86ad26cf6d61a6a1a3e77",
       "url": "7a/92/c24d142a0cb995cc0fa698863df4c96e57a164c18cc35a8c838c7aac0f35/aws-cdk.aws-sdb-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "d954a8b62a7d77cd94c1f1ea37e5565c76811a721d331e12911ee3481d17bae3",
+      "url": "0f/79/7cf63e862780a4291ecdbe249e6bd1373e780118ffff3c27aa1d258b9d19/aws-cdk.aws-sdb-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "72b13d5688db14311d0ed0f9a31358238cd35dcd0bb570e90494dc9f48edb3f5",
       "url": "49/a7/91fa6b42c7102e54d22d77a6e81c003780755e1ac002938059e3ef5062bc/aws-cdk.aws-sdb-1.4.0.tar.gz"
@@ -12569,6 +12573,16 @@
       "url": "56/40/172b27a8eb6f1887f714a2021b2212d4b70104205361cf309462cdeac73e/jubi-0.1.0.tar.gz"
     }
   },
+  "jumpserver-django-oidc-rp": {
+    "0.3.7.dev2": {
+      "sha256": "9afd7e28fd3579130fc221d3c43bd41d59fb195e1d045482646a3ace8577d260",
+      "url": "b5/da/7422f8825823b5afc7da556ed3b82496d6e698b26f83a2dc441a4967c0e8/jumpserver-django-oidc-rp-0.3.7.dev2.tar.gz"
+    },
+    "0.3.7.dev3": {
+      "sha256": "c2d35d0d13b0ce0884b23f69c70c0a2da17a84bfad9cb49eb0aa8753b6c3fb01",
+      "url": "90/3a/feb55b7bf115dd0f31ce2eff01e1f905ba074d01c66f33ca427359a23da5/jumpserver-django-oidc-rp-0.3.7.dev3.tar.gz"
+    }
+  },
   "karajan": {
     "0.4.0": {
       "sha256": "9a44e51f42f8bb2edbe3ef8d5dd9fff19d10c96bf889454d16637e841cd1b1d6",
@@ -14199,6 +14213,10 @@
     "0.3.1": {
       "sha256": "e8e1f6775d8181c194cde1732fdc0dbd3e12851aca36331656da364c4c982f13",
       "url": "c9/60/075d947de7e3094e2155e11f765b3b381ba7f06ee757dba7af92901c71e4/megahal-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "95bd7b7c0d234c35434c5881eb36000a552ef82ee35f837eff6a71e9f918cdc9",
+      "url": "9d/4f/f85118bc4139f3a838f75335476c460c8cf554578ab9948b96a707d2ad77/megahal-0.3.2.tar.gz"
     }
   },
   "memoria-romaaeterna": {
@@ -14831,6 +14849,12 @@
       "url": "e8/5c/9cfcd4e9375afcf5d730ecfc1330edebb8b9443aae6bc2235e6f89b12642/muds-1.tar.gz"
     }
   },
+  "multi-file": {
+    "0.0.1": {
+      "sha256": "6bcc9b682743aeb692fb0ebb687513f5bfde48873241a97b38619771501cd1e3",
+      "url": "95/88/060bb170174968feae0a93832afe1985dbe50f3b6007c1943b247649461a/multi-file-0.0.1.tar.gz"
+    }
+  },
   "multipoles": {
     "0.0.1": {
       "sha256": "da4e4e9c1200f4bba84b6b305dc7a10f5cda4b4d60200ad686c16c28828c20ee",
@@ -15335,6 +15359,18 @@
     "0.153.0": {
       "sha256": "11f9d44dba58f8d97c8e01c4d59572fbed0f5d6a2923e51ac77eec68ff1a5f42",
       "url": "f4/cd/1337b22108e12c8c807a1a99f0a9884b2ce44d6f0e0f26d2ef0f7cc11f0a/nala-0.153.0.tar.gz"
+    },
+    "0.154.0": {
+      "sha256": "2cec3a0b5cf8cc5593df132cac3e53d4648f4ece01b61d4cd3071d057f36bcbe",
+      "url": "69/87/3f895f210fac1cd7b395cc220deed506db92f15ece4ff0bef6af59400d51/nala-0.154.0.tar.gz"
+    },
+    "0.155.0": {
+      "sha256": "01530cf135d436ed80f87c56bf245dfec262a04fcaa7b98c34319d190a016554",
+      "url": "e4/9d/32e988e92a03581a0ad07a57eb65de3da21acf1094cc4d83344346acf455/nala-0.155.0.tar.gz"
+    },
+    "0.156.0": {
+      "sha256": "21ab3ece70d8f0eb670f6d4fee654531158b2d435232ce91da23b43baef876aa",
+      "url": "78/c0/56237271006d6b71eedf7d06a9ac518b5e9d9e80868a97d9677f3f94fbc3/nala-0.156.0.tar.gz"
     },
     "0.16.0": {
       "sha256": "327b7436e81860e6ce0ea57af425997d5acd14ae703e2b70fd10fa9d5f184873",
@@ -16121,6 +16157,10 @@
     "0.1.2": {
       "sha256": "ea9bebfae0506e8376f9527e67e7d1334bf9c76ea5a21c4f64ca5aac8117adb5",
       "url": "55/a0/3e0c42b8d86d2fb5582e0200c22d1e3a923ef3f1725a46c8e15e4a2ffb45/nwbindexer-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "3d01967ce0b0b9b353aec0a397ed5b6b14f0d5e5b3f8a9b1cbcaa7da36566130",
+      "url": "e8/d2/f9ce80a4637799d7d5b083a2452853220c52c45ccdf0a82f2752eacc9bde/nwbindexer-0.1.3.tar.gz"
     }
   },
   "objdiff": {

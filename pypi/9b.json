@@ -690,6 +690,10 @@
     }
   },
   "apitoolbox": {
+    "0.10.0": {
+      "sha256": "f5fcd30fd774ffcd8ff862b0bdbfbc06444b5bc6c618ce45290f4e231af6ea71",
+      "url": "c5/c5/3aec702d19fee2f55f4ac6d2abee4ba54cd9cf2b9339e153433c6ae08da6/apitoolbox-0.10.0.tar.gz"
+    },
     "0.9.1": {
       "sha256": "55fd5a5a435b38202069a7cbc973709e043d4df2c9e0cf70aff2ec2454663c6c",
       "url": "34/d7/88a9fee10c7641eb6e71e6d698e628663ec8a8091006d056b499887bfa2f/apitoolbox-0.9.1.tar.gz"
@@ -4264,6 +4268,10 @@
       "sha256": "c01d355035b9b0b2d544ad0fd72d0843015836fe3be157b1bd11cfdb9231d8e5",
       "url": "70/20/b32be8e1983867f1301a0ded31a7526579ae68dce4f22ed3e176ca3be7a5/dagster-datadog-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "3e50c7e619970df7846c83e07ef29226520c608d1fdf504f80513491caa23c8e",
+      "url": "cc/89/cc06e1711a1d9e74cb4377685626250d1dcc9df95b03b33ec8b616231bf6/dagster-datadog-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "5ea360908042814fd9c74ee7e21b76494c3878e2d154961ae0eae125ab344fb9",
       "url": "8d/ae/443c48bf13f624c1d40f5ea3c081c9302747caa1e181a26ce59500c55d4f/dagster-datadog-nightly-2020.4.4.tar.gz"
@@ -4293,6 +4301,10 @@
     "0.1": {
       "sha256": "8fcd30f54c76e5086de1c6e09f8b6369bd9c406564d51a83f50a7f38d77a9e98",
       "url": "d6/3a/e476db6fbd062baf633b786eae15596e027d7652001e8eb780ffbf58fe52/dame_flame-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "b5055538921c8947b2be30207caa2a441de08b608872d2cb6724bf4c326f569b",
+      "url": "0c/9e/7c87796b1e18aac5348dfa05dcff03750326e8b8ad972b9d2bb86ed5cf01/dame_flame-0.2.tar.gz"
     }
   },
   "dapeng-cli": {
@@ -4789,6 +4801,10 @@
     "0.10.0b1": {
       "sha256": "c1668b4cb50733a40c9cead3ea9225544ecda0aa07e8b76631bcef1ab1cf2a62",
       "url": "27/43/1c641589d948127518dd15b29a5b7782c0b9f38ae4ab30811b697bcdf0dd/Diofant-0.10.0b1.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "1156e6d06de1d7e06ee8c4708e0ebb7e25edaf8d594e0e2807b23fbc44dba947",
+      "url": "fc/79/78bb9d74418668333bb7ff593642f77682ffc1b74126d05a8f0efb1a29d4/Diofant-0.11.0.tar.gz"
     },
     "0.11.0a13": {
       "sha256": "a2dca865a8e495190e39457779d7e7cd486b57d90ea86bea3b58addcfb0ab5e9",
@@ -6655,6 +6671,10 @@
     "0.1.3b2": {
       "sha256": "dde9b5847ff23897a43ed9cb02400bbfa0c84f3af981843cbf581f20c2147e98",
       "url": "93/6e/b856ccec97e30ed50d0a51f5163abbb82546ea866d99eb6bb987970b51b7/equilibrator-pathway-0.1.3b2.tar.gz"
+    },
+    "0.1.3b3": {
+      "sha256": "87473b2409716c36b79f943d67c4688f4dd6a2e6674cdc0ddeead38ba2911fdf",
+      "url": "c8/45/fa1fb63c8ad60882fa88acce4c21edaca8751e27fc1868c33f1c04bfb256/equilibrator-pathway-0.1.3b3.tar.gz"
     }
   },
   "equitweet": {
@@ -6807,6 +6827,14 @@
     "0.3.1": {
       "sha256": "7df4a4a57b7c4d09860a459452cab356bb5aa166d379479104a63bec0d35d072",
       "url": "74/26/db877205c18170c48d53b9d91226332ca9436331ac086b9732c2c5661719/eth-keys-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "7bbef15df4c5ef522158ee3466f4d7ecca3edf5d89854b6f54978f1ac0c7eea8",
+      "url": "b8/3d/413e70eca83c79143a29a0c169f8233aa6b0a2be456e2377181d63ff8b9d/eth-keys-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "a9a1e83e443bd369265b1a1b66dc30f6841bdbb3577ecd042e037b7b405b6cb0",
+      "url": "89/d7/9b9b4c7933f5f4ee0190674a87009f05126c9dd53b2fbcff66a8a190567b/eth-keys-0.3.3.tar.gz"
     }
   },
   "example-package-bh": {
@@ -11121,6 +11149,12 @@
     "0.2b0": {
       "sha256": "e01a51913dcebf7036c9c9df55244e269d3cdff53b39938e565254cf5dc73fbe",
       "url": "07/73/17b1e9a979a643ef8357a254ab984e77b1247995e2187fc1945ee1721758/kymatio-0.2b0.tar.gz"
+    }
+  },
+  "l2rpn-baselines": {
+    "0.0.1": {
+      "sha256": "1838434a85c2d5efa73dc599c53b751f4bd5623468d6ac2666ef5cb7dbee2a99",
+      "url": "c1/2f/120180fe507db2cdde87b2f1b9e6ae80ce752a2855675115db92f0487884/l2rpn_baselines-0.0.1.tar.gz"
     }
   },
   "l5-shoppinglist": {
@@ -18897,12 +18931,6 @@
       "url": "05/65/3e299f0cffe33136f8f4c0d174bd29c7215ca6b51d61e259ae901ce487a6/QETpy-1.1.0.tar.gz"
     }
   },
-  "qfast": {
-    "1.0.0": {
-      "sha256": "005a3565995d3bbaf65f69fd8c3263ea098f22dbc9c61ac673daef7f879f0eeb",
-      "url": "a7/e7/98ec798ecf1389d982171f99e94eb401d05b48de7724e226ab96b5ea6658/qfast-1.0.0.tar.gz"
-    }
-  },
   "qnet": {
     "1.1": {
       "sha256": "0e8e37206bee248e27b4707e85a94644fb0063cdf3b5ad74b2f8eafb1dc10ab8",
@@ -25479,6 +25507,10 @@
     "0.10.0": {
       "sha256": "3069c67ab7b31e6e501f9500770f78d87edb1f2cdb336cfcac6279d31848229a",
       "url": "5c/f4/8ae005cb8a65e4c2d90240560c96141ec3ed63eee108636141f3d3f228fa/ymmsl-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "96ea4651fb9820bae0a10c97a856bb3b7f9b37ed5a26115dc0fbb1ced4296f46",
+      "url": "c5/74/ff3bbd9868950f606eae454bf793a5c353b32c8e055569b72b5cc283724f/ymmsl-0.10.1.tar.gz"
     },
     "0.2.0": {
       "sha256": "34624816cb0cd076a3145a9fe399ef69111d9f7e4a09b7367350e681f9fc8f9f",

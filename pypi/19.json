@@ -1762,6 +1762,10 @@
       "sha256": "162e4753b4b9a1c8bbeb6987f288eb06da65d66a5237e271ac6b502aa0c2f99f",
       "url": "06/3c/e009c41a3e1850291a8c5864cb7c45993d7f3bcc6c73d172ee9f6d14c127/aws-cdk.aws-codecommit-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "beaa1548af3712c577b0dcbc07ac33f960ce20f217d85222c3ce532582a0c1a5",
+      "url": "37/bf/8fa7d6343c9ae4b92729e4adb1a911ebd5539c4ab45eead73fa15ae90c02/aws-cdk.aws-codecommit-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "2b62081b8b80ae84be10e2bb9542b71bb43fc3f9a486c4e6c6a6775e3fe36e58",
       "url": "67/01/2ad78cb20764ce7b0fcf99c6cec856f930f77e0499ba086e782258e6e0db/aws-cdk.aws-codecommit-1.4.0.tar.gz"
@@ -2011,6 +2015,10 @@
     "1.34.0": {
       "sha256": "aca39f552c6889e9014158debd95c6492879dfa2241e6972eabd20b38e4e87a2",
       "url": "c3/36/96e50d36e72db878a725a908afd5cd095fda90dac5fb8d1bb1fc0ab385cd/aws-cdk.aws-servicediscovery-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "ae42271782efd8dd4a077667655fe7f23ae5c5c89b84e01d06db1fae0dfc5d9b",
+      "url": "d3/2e/4fbdfa6986f288cd0498808533bd9e8b233b8b535fd86dd15cfd16193680/aws-cdk.aws-servicediscovery-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "56ce0d9239d88b46db296447e339d2494f7ce4f14d8fb19758ba46004e439a66",
@@ -2991,6 +2999,10 @@
     "0.0.2": {
       "sha256": "db642f1664bcd36b0d0103f34f5a96b05253541bcd88b6dfe994f8c464579019",
       "url": "88/b8/82034462ee534fce95eacfae4bcc7df4b76beac16c09dbc9b666a46f71ff/cannon-0.0.2.tar.gz"
+    },
+    "0.0.20": {
+      "sha256": "88d42889a3c231362c33d9244ce632962b0806da239b05b3aeea627414812e38",
+      "url": "80/4a/922f11bbf5112fc36755563a70e5acb48222a8963c146b724b207d1d9a41/cannon-0.0.20.tar.gz"
     },
     "0.0.3": {
       "sha256": "178927b3c1968db1e0429a87b5954d7961af5bd178e1f90234be7872ea8012a3",
@@ -11133,52 +11145,6 @@
       "url": "8d/b4/7821583d2b5ed4d3ba23727c5b8c4c250dd35be4e46a532476ebbe6eca42/Independence_test-0.0.2.tar.gz"
     }
   },
-  "influx-rp-generator": {
-    "0.0.1": {
-      "sha256": "346da456f102e6700e841282310c5ba2247764c7855e66af7355ba3d2ee820ff",
-      "url": "ae/26/698950f229dde4cfaa2c9d126de192ef7aa5f14d3179b5bf7333aad44202/influx-rp-generator-0.0.1.tar.gz"
-    },
-    "0.0.10": {
-      "sha256": "ad9d1b17675e1c1daccd7b8cea515f7c2a03339cb29bd4d99c593bdecb6d213d",
-      "url": "a4/ad/c7203e5a2f68e7947bdadd48372f3d1d39575737d46489f5341e6aeb6126/influx-rp-generator-0.0.10.tar.gz"
-    },
-    "0.0.11": {
-      "sha256": "18e6ef4e960337bcf95ad299c98e6deb24e2d2e8abbc738c863e273c43833e20",
-      "url": "d1/e7/1b154ed03c01182fb559e76114ae4d73a6e82e63432f1d014f9b23341b71/influx-rp-generator-0.0.11.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "f5f4213490a90eef1b34630e0cdb55b3329789c866410ede89702676b986c123",
-      "url": "86/3c/69fd18b467eed14e190dd60e0f3d301c9aa252f40e0bc7b1bc598d9f2cac/influx-rp-generator-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "98cd273c10e01cf123606c3e178fef4ce3bba754154635bebac891fb265fa270",
-      "url": "ca/4f/7bf6ad0e3097838b4ba9c86ab40168a50a1b495641fa22392a42535eb649/influx-rp-generator-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "e07b044089d580ef56972c9019112d034cb494fa47907a4bd2ddbede7f5418ac",
-      "url": "10/2c/b70753e8707f6c36d9d63d641974835be8ea90f28abea1a8609444548a2d/influx-rp-generator-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "1dcff8b53cb25fe1074c0cd568c869a5f82d2d6f03ea83344f691df36a41e3e9",
-      "url": "c7/62/8692b929ce25b98e1c51dbbc3be24fa8e322aa8e5ddddfcce882b45d1ca0/influx-rp-generator-0.0.5.tar.gz"
-    },
-    "0.0.6": {
-      "sha256": "c3fd0b684ea803fda06e2e076c2fb676ebc3a489f52fc8373ea911eb99a2d357",
-      "url": "9a/7a/db0d4e0c103808ab330e80e4ed2a033b64d797933dda65050b6b2f4b7c9e/influx-rp-generator-0.0.6.tar.gz"
-    },
-    "0.0.7": {
-      "sha256": "783aa1be03355c88363c9f70c1e39c0dff633f6ca9fee6eb13384d6f5d08a24f",
-      "url": "02/79/94bf05dc8b1d8aed0c090875594b86d0650d9690de0092d547945cad43d1/influx-rp-generator-0.0.7.tar.gz"
-    },
-    "0.0.8": {
-      "sha256": "585443de0a9a3fa0edf5abcec651f034a909011ed411ed4b62055259ab7bbdce",
-      "url": "cb/71/bd3c088043a00e9d6bc405808e9ad75effaad81bb1d46f2a87bc927655e6/influx-rp-generator-0.0.8.tar.gz"
-    },
-    "0.0.9": {
-      "sha256": "318275b6105ec83796b6c920cd5720b01e4b6e985fb8810db7c8af9cbd1fca9e",
-      "url": "06/95/5f65ea83f65d75899dd1356ed68a793df172ee03b9b63f67186978c85dcb/influx-rp-generator-0.0.9.tar.gz"
-    }
-  },
   "infracheck": {
     "0.0.1.dev38": {
       "sha256": "ddfd02c0efb014ad109d439aeffecd15120fb85e0d2bfcee7d319b0d7f39208b",
@@ -11459,12 +11425,6 @@
     "1.8.1.dev4": {
       "sha256": "9a659979c5453409f4613f365ef3e910cc2f7419f4f61f8dcbe506374e721bac",
       "url": "20/40/318fdf210d001d32f8bd2d50523a3974d0c8f9c9e1dc52dba12e3a24d150/infracheck-1.8.1.dev4.tar.gz"
-    }
-  },
-  "inspy-logger": {
-    "1.0": {
-      "sha256": "0a0c9ed3a6ce99e8a06b06945549077f8cff9d2583c8ebb3a95d6383c57e5b14",
-      "url": "8f/8c/ebf08769f65cc4c8e0693e97e6798b694acccbcbb86ddf411ead81e574b9/inspy-logger-1.0.tar.gz"
     }
   },
   "instaread": {
@@ -18035,6 +17995,10 @@
     "1.4.3": {
       "sha256": "2fb322e2771b1f2eb7a7486b11cbba6047c5d073ee41bbbcfb4664157e6467c3",
       "url": "1b/10/e12bec7d842f413993f896aab923699f69144d0e7e98f6a9a8d9cc0574de/py-readability-metrics-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "1cdba3648885edb2e99ef50d23013b2ab9f66722447d3df6f7f2997acd2b691b",
+      "url": "a6/b1/cf29dee93da9f84631667b8d8496104de0ac94dde84616d016b9abb855c8/py-readability-metrics-1.4.4.tar.gz"
     }
   },
   "py-upyun": {
@@ -24465,20 +24429,6 @@
     "1.0": {
       "sha256": "3542c6dc2667481041926a797a9869d55c68890ce9ab2cd06907eee9345e5715",
       "url": "87/a0/7a0af2b4221cc76d9a23db620f8b99dd8803ecbb0442c3d09efd90f96331/visual-logging-1.0.tar.gz"
-    }
-  },
-  "vsc-utils": {
-    "1.10.4": {
-      "sha256": "4480bbbfe7104803a0e0791b35628ff4fd5ddf567e091dd70962463e054e7a6a",
-      "url": "27/cd/53a740783e4d26a85c87de7317e63d4eb8326f27a4a372b24b3f62a3a4e9/vsc-utils-1.10.4.tar.gz"
-    },
-    "1.8.5": {
-      "sha256": "044898a2808459acd78c3b24626ca4ab46a61e68033d1b4219769c389325f999",
-      "url": "74/a0/3139f47f12ceecc67e4d3420931eef7a1c8f0816f611a0cd143034dd7a5d/vsc-utils-1.8.5.tar.gz"
-    },
-    "2.0.0": {
-      "sha256": "c21ee5f86133bf135a1c4f13ad925140855eef4baa04da1b78d6e0850ee47f93",
-      "url": "2f/cf/dce194232e3ab3dd56f9cd69a476fd6a0f061fe9e73f9b76407cfca9ecd5/vsc-utils-2.0.0.tar.gz"
     }
   },
   "vyked-orm": {

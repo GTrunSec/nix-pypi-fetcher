@@ -7601,6 +7601,12 @@
       "url": "5b/a3/21c71a138db17de8a8103412aa65ce5667b89b6b4d3546a6836e71e7e1e9/Efreet-1.0.zip"
     }
   },
+  "elasticmagic-qf-attrs": {
+    "0.1.1": {
+      "sha256": "48a7b55b60f37249a09123a71822f83b3f14dabbd6c95f014313bf864f1888e4",
+      "url": "70/d4/8ce916f3645b4792626c5b0e824ff9b18b406f450b6762f66db638f4ac54/elasticmagic-qf-attrs-0.1.1.tar.gz"
+    }
+  },
   "embrio": {
     "0.0.1": {
       "sha256": "65fd8626c4efadd7c51ee7850d45460b37bc3f9919e010dd9b793a6cfa1783bf",
@@ -14460,6 +14466,10 @@
       "sha256": "becd9aef4cc1d72fedff847f51b362bc66c8adff773cbf07a8e5b1549aa19967",
       "url": "f4/05/f6b06c50e34ba187f096b279f2e0a55a81c25ee24341196f8a4eae79a09d/mypy-boto3-acm-pca-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "3d8107eea4eed9b36686122fed797b637cfe490f31aa94ff0dbab7b5a7643185",
+      "url": "ab/ed/4461482a417d92790194d57603eafcf863968654170dc3e0d66c44a57cd1/mypy-boto3-acm-pca-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7adcb4673f4211656500aa85f2db05d0a628c5b1df0168247edff54f068b44ca",
       "url": "90/cc/21b5fb79b0a5b862767f63c6d7198686b1d728da435fe5d30e04a51a193c/mypy-boto3-acm-pca-1.12.5.0.tar.gz"
@@ -14553,6 +14563,10 @@
     "1.1.0": {
       "sha256": "07c8b9d1f98339eda4694b5c2df610b4fafa91df73b9b7ca46de01d2914318a4",
       "url": "61/cf/d9fb7a170a01d2e6607b5a6ed34e2ef0d32f18008242620a31c12aea28a2/nameko-django-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "656f47e3d1647c55b87262a1c6aa73236de9672e22a22dc6d0dce7427df17a5f",
+      "url": "8e/c9/fe05251724d6fee0231eff94fff056f62a264bc71e84716c20017d18c6bf/nameko-django-1.1.1.tar.gz"
     }
   },
   "nanshe": {
@@ -25071,6 +25085,10 @@
     "1.0.2": {
       "sha256": "9f91ebb365b17bb4e8475e0c6a6984b3f156f9542b483d4470e011fa764bc2bb",
       "url": "22/bd/03525c8230921a8e34893b50eefba7a762b37abb0d20372f0368bdb74c3c/xmlabox-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "d237866c90f353a0d6b2d603dbfc04fd45f9fd7e0a9fdf14017bef7ab273f4a3",
+      "url": "57/6d/345934bc573ccf35d2963cc7f7d89b0b06a8980f12a36145eac2b2e2d057/xmlabox-1.0.3.tar.gz"
     }
   },
   "xmlschema-acue": {

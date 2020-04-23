@@ -15568,6 +15568,10 @@
       "sha256": "5d273514822528de561774b6b5f70347f61f1512a8b59298c041d8d9f7215cc1",
       "url": "a4/c3/0994aaa4f76c9db50a025907c40b93133533bb1e9f170f64c18e79514ed1/mypy-boto3-clouddirectory-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "882828b4315de38058b07379923cc55eab14bd53329ca5e04275678e1875206d",
+      "url": "df/0b/9f369eb9800a84621515b1752add9272850d91505528008af8ba1492e224/mypy-boto3-clouddirectory-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "dc33ad41b15b6a04227d8de9c7dd651ac455cc9c79c35908821734d18b738ed5",
       "url": "ad/84/bf6408d924aa1f23e3800b343b70921d62412897013257c22a764705356c/mypy-boto3-clouddirectory-1.12.5.0.tar.gz"
@@ -16078,6 +16082,10 @@
       "sha256": "7cfc93515b55f67748ca384f27088670dee94e5e3ad1134261ac0a81f1ae0aed",
       "url": "ba/e6/ece9f8eabd4b2e8fb4fa4e4b814bc37e2faea2e8289b9b3b297283c3e9a0/mypy-boto3-mgh-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "53b14748915debc0d7c104c236c5d55cbea03d5fd9544a1e64d9c94e625d0be0",
+      "url": "63/c7/a99b00210f493f16c7b0b7917d539d7a3012afd1d86365c2ee3f5301e18b/mypy-boto3-mgh-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d5fb03e1e329e76418308b1d9637ef25820394d7bc4e59ff1760f09ef3a9b570",
       "url": "5d/df/9fcbf6f6e72ed5cede791bf10eb87b0676fc0b6cb92094f52fe7649cac6a/mypy-boto3-mgh-1.12.5.0.tar.gz"
@@ -16587,6 +16595,10 @@
     "1.12.43.0": {
       "sha256": "026bac5d1d076c2ed8474148b0ed82443c9c8d938eff222a8ef565565f6df3df",
       "url": "b4/53/a78098b079928860c554189ffc3d779dce8466114b9f07ec2ea0b50c2ff7/mypy-boto3-mobile-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "153ee941ea4a082202395f02c47e06874fea93cab50f003ed957ff90930b081e",
+      "url": "a6/4a/ebf8de78d77f4c588f6219bafa39754b400eeac4aff208392476d8a8cb44/mypy-boto3-mobile-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "e869cca1fb75afc9bc553162ab6614b40cdab0a43eb99e00a62c3853d53eac07",
@@ -17591,6 +17603,10 @@
     "0.7.0": {
       "sha256": "a7ce4263849e947896d63cf53d2464a56ec12718d933b01fc6f9283bafa4e1fe",
       "url": "3d/ac/a726ce5803e62920f4db9920282e225be949fa0600b4b7534eca98b415b8/optimade-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "d6d0efdf582e15d2191b4c5065a14b972db3d31dd1bbaa1f9440c9e79ba10ecf",
+      "url": "32/61/36cda20a4f7998e7a6b7214f5d377bd5b57bb3b87f67dd46122e6c0f7c75/optimade-0.8.0.tar.gz"
     }
   },
   "option-merge": {
@@ -19893,6 +19909,10 @@
     "0.38.2": {
       "sha256": "c8a827c4ad541601f2077a78178f565c47c2f8464499286e225313a14ffc6ea5",
       "url": "f9/fc/da2d66ce0176dda9ddeb489d062184e27ae83fce09d07bc2baa2bfa40886/pygerduty-0.38.2.tar.gz"
+    },
+    "0.38.3": {
+      "sha256": "a39692d5f99a3beb60b3d69f38d4e7c0463d6a31569f119fe50b2e35b6eef53a",
+      "url": "4d/b3/c37eab00572848f3aa88b9f9e35a0c07b20eb65946c8bfcfd51a9f5faa10/pygerduty-0.38.3.tar.gz"
     }
   },
   "pyguard": {

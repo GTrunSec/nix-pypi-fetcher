@@ -1733,6 +1733,10 @@
     "1.34.0": {
       "sha256": "428543072b39ee25e1231481f3c92738331ba31b29752e4fcd3bc197db897e51",
       "url": "55/bf/f56babc979d1dbf408b124e517ffde5d0a83a348af1da0e63b93919d9ece/aws-cdk.aws-fms-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "a448b2aa20ad186da80aa41ab202ba2615bcc0b1a720c2b435f337546a2816a0",
+      "url": "5d/43/9123cd03a61f14931fde28eafb4d7a576a6f126145f4900f45fb93e0e9c7/aws-cdk.aws-fms-1.34.1.tar.gz"
     }
   },
   "aws-list-all": {
@@ -8001,6 +8005,10 @@
     "1.2.1": {
       "sha256": "26ec76f6ef951a2bfc7b8b0154459450df77fa979dfad0b6e21ba8591f923254",
       "url": "0b/95/dfd2f1b3ae5661ae339c8eb60bf8a364ff65705c1b693e6af8fc3607eb2c/djangocms-installer-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "d34478f2445d690592906e182b7a4ca76d56b8848ecbd54cf978fb4aabff4618",
+      "url": "7e/ba/98dcbd716ac5fa5960f4f59de80d75051681675d10de1d73228acf485ca3/djangocms-installer-1.2.2.tar.gz"
     }
   },
   "djangorpc": {
@@ -12797,6 +12805,14 @@
     "2020": {
       "sha256": "f34f0e69f8319b4a014650218c446e10e52cff6b2907f630a8a8fba648f3bc8c",
       "url": "d5/41/e123de50e7aeaae6663eb761c4542aa3a7eb09ae186784a64b97f4d1077f/layeredimage-2020.tar.gz"
+    },
+    "2020.1": {
+      "sha256": "51ac126eefe4add98be4895de85cce721902779bf17ca264e956916e33e2de8d",
+      "url": "b3/bb/0e808dc0f6385ed8ddcd3276908a9d5b3b9fa08cbd9e841d6ebf3729c6af/layeredimage-2020.1.tar.gz"
+    },
+    "2020.1.1": {
+      "sha256": "a1b755259ee0f05074857082d185c9066057532509519c63264c72f81177ef34",
+      "url": "d1/c1/3735fcf8b8410f2256fa72c89cbcfac6c13e84218c3fdab9248da23498a4/layeredimage-2020.1.1.tar.gz"
     }
   },
   "lc-py": {
@@ -18215,6 +18231,10 @@
     "0.2.0": {
       "sha256": "c9b3c894bd9592e6516e0e87dfd649fdfb3d9b8864c053f2b326db66e9980870",
       "url": "d4/f5/2f91978de29fca4192ecd2fc9f5d93ee7939f35846887b68e4179de4d083/pydata-sphinx-theme-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "fe492687c2430cede47ca988f19a390835b6a38282218c667636bd444bd40f74",
+      "url": "fb/aa/eebe877bb7ae9bb4de2a5369716989c90e6a82da8e0691f66a84dc25754d/pydata-sphinx-theme-0.2.1.tar.gz"
     }
   },
   "pydelegate": {
@@ -19951,6 +19971,10 @@
     "0.2.5": {
       "sha256": "1bb531341464413add0f1415cf6ce995d7ef09586a648689478505d047fedcf4",
       "url": "e4/12/662677aa25bfd804f10625e5bbb865ac9d7d326cabb35888bd77e195f4bd/pyskyqremote-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "404329c0c8a997d8768b2f6136504b73621aa5515a65c46f8f1e168b0958dc7b",
+      "url": "e0/ff/0815009c7c5a1021df3fcb14471b0b4d3fb5b5130635e45869ca9a6a115d/pyskyqremote-0.2.6.tar.gz"
     }
   },
   "pystoned": {
@@ -20049,6 +20073,10 @@
     "0.6.3": {
       "sha256": "fce50ef9eb11f205b556c224d81759a123fa29f2fb5f046088df07a5ea771a09",
       "url": "36/02/2b6a10dd4bdaf79750329b04c127d658ec9ecb5f57ab6336aed26f034d54/pytest-automock-0.6.3.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "d5d1e23050d03134ecd5cd23baab3516a2936ce7913eafd74b0e226cd4699478",
+      "url": "16/e5/63096d2ec4d3599b6ba9a99e235bb3684d9aa6a1da446afa0e318516b14e/pytest-automock-0.7.0.tar.gz"
     }
   },
   "python-google-spreadsheet": {

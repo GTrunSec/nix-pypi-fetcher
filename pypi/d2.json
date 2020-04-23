@@ -1441,6 +1441,14 @@
     "0.1.0a0": {
       "sha256": "18d5dafd47493ecedc1877580b91535c4b6b477339734c22e4f02f92459f7372",
       "url": "1c/2d/784fc9ae5c43c8e171efae98bd995e617f04a4ecbbf938ef46c2df5495d8/arcade_gui-0.1.0a0.tar.gz"
+    },
+    "0.1.0a1": {
+      "sha256": "8769e17f52a3404ff15ab197903fd9af5def84ff2dc1fe7fb6ab6452e6b87009",
+      "url": "58/55/d734292878701f859f26b9271623d9d055bad5173b68aa049b1afad22adc/arcade_gui-0.1.0a1.tar.gz"
+    },
+    "0.1.0a2": {
+      "sha256": "bcaca2df9d3a28a1c78d97a445343aa8b383967f10cc2181bf8672dffd438ab3",
+      "url": "32/79/23f2a2ed5cbe152d1f2283a08d322a31f7e03da41a655678019f2e648a6c/arcade_gui-0.1.0a2.tar.gz"
     }
   },
   "ari": {
@@ -2855,6 +2863,10 @@
     "2.0.5": {
       "sha256": "046ad5770375df9a5b3c35ec566dc723ec26a9bf64645e173b736b0d94d56194",
       "url": "58/a1/08978c3f09df2ed7e3617cc5c8a7dba5e45e467217a186ffdd70536bc4fb/cloudmersive_virus_api_client-2.0.5.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "5d64df2a9c16d11d51bbbdff75e782d4e7244c69ead8779546a5e77295cbff9c",
+      "url": "df/f1/47a0094372b788620648c2ef924b8aade26a2384c8949c23c0de9501148b/cloudmersive_virus_api_client-2.0.6.tar.gz"
     }
   },
   "cloudshell-shell-networking-standard": {
@@ -5353,6 +5365,10 @@
     "2.8.0": {
       "sha256": "9eaf527590bd3ec8bc4bbb5db2cf762147bf4ddaea4bb58a5fa8548ca3db453f",
       "url": "bd/79/314b6208bb52ff7797d41cf1374220f296cfb5187165dde9b78ca6b99beb/django-mssql-backend-2.8.0.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "a34145e537387c6251290bc1016199bf0a01ae91ce25e311091f94ba2a1399ff",
+      "url": "28/b0/30f90c899d55aacc244363ea7cab321bea639a8c3e603befe364fcca5f27/django-mssql-backend-2.8.1.tar.gz"
     }
   },
   "django-multiple-email-backends": {
@@ -9954,6 +9970,14 @@
       "sha256": "bbb9bc99ac5a158cfec25d99a4c6f28b28b6ae9aefd286092d615c4d61e635a4",
       "url": "71/8d/2242624e30253d630801a1cd74248e7c498736f2153b004b08c5f42782f1/ihsm_analytics-0.0.27.tar.gz"
     },
+    "0.0.28": {
+      "sha256": "4d72b4e903d897eb049f1ae37b94d52876cd68a73954b3bf59d0d182c0d9305e",
+      "url": "4c/7e/09b283b1f488a4b20ec85a73defa5026a4942da100efd94a9a54ec1dd38f/ihsm_analytics-0.0.28.tar.gz"
+    },
+    "0.0.29": {
+      "sha256": "6888bc57d53f59d1fb9468df12649c0600eaf4e76b52f43d232805dad1ee49d9",
+      "url": "74/ce/a98148732946b9b29b7096355b427b745f232523f93b2c0876651fd8acf2/ihsm_analytics-0.0.29.tar.gz"
+    },
     "0.0.3": {
       "sha256": "2171160eb4600d6f7a4a1b1d7780d820fc84858fa99491d23bc8b4963908dcf7",
       "url": "73/84/5f0e383aa87762800e01c8b190a74a2faf669a32a8a502de82837469ba27/ihsm_analytics-0.0.3.tar.gz"
@@ -12357,6 +12381,10 @@
     "1.0.4": {
       "sha256": "4ac6ec49f3b8ac9c7f5cc20df5bf04ed80f8758efc74733a19be4d47c288d3d4",
       "url": "12/ea/69e2c22fbfb958dcf4c852ba50dad5ad87915a6bbe3a7f45268f37af2910/micro-py-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "9b17f1268fec9a378c2b348f3870e3a3696c361653328867c5fa3aa6fc9e2ff6",
+      "url": "4e/68/584932db795e23a467872bfb2cf23e9ecdda926637cd6757334874d43d4a/micro-py-1.0.5.tar.gz"
     }
   },
   "microwave": {
@@ -12645,6 +12673,10 @@
     "3.63.20108": {
       "sha256": "b4d40863a7015aeb409e231797d1be94f8da800ec50fa7c32ab47228637b750d",
       "url": "e3/e1/1829bc8724df3e23bdef4c9c85e9f9949e0f292f6573d2186893896ad557/mo-json-3.63.20108.tar.gz"
+    },
+    "3.67.20113": {
+      "sha256": "baf876281d6121b9ac867c71ecdf707bcbdb7adbf6814a964d5c1b26fb2427dd",
+      "url": "15/b5/9f5821bea99f70291d4b93088a06086351321c5f51894dfe40d7df1e4795/mo-json-3.67.20113.tar.gz"
     }
   },
   "moarchiving": {
@@ -21625,6 +21657,10 @@
     "3.0.14": {
       "sha256": "12559761cf9990729677f7e907788f59a3ee99b6755e4d9d1d7897f53454a933",
       "url": "c9/db/083dda3a585486ed23314d14f35528d4cc2de2fb0601213c644c608c6acb/PyFunceble-dev-3.0.14.tar.gz"
+    },
+    "3.0.15": {
+      "sha256": "b07ed56791bcef379c7838d0ebb73e7ec77236a01359437bc0c373df87364caf",
+      "url": "ea/e0/8b437aa9253c0ff50d6619f84d98fc79eff58675bb2757c13271f0729541/PyFunceble-dev-3.0.15.tar.gz"
     },
     "3.0.2": {
       "sha256": "2544f7b94255f7b81c8830ca5974938afad01f5cd561fa8ec42e5b572141642b",

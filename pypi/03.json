@@ -8990,6 +8990,10 @@
       "sha256": "c905660853afedf32a75dfb391bdfa9a13d85b4268ce76a0ef1740261eb9909b",
       "url": "06/c8/13799847d9d200413911c0216cdc65b01b3f0c15dc80f7c327a843f9b72b/docassemble.demo-1.1.13.tar.gz"
     },
+    "1.1.14": {
+      "sha256": "55a4c610b7eeb5ed0a1b6f91e1b9c0c466866e83255110cdf517e94b592e2fa3",
+      "url": "9d/67/6b07ee539b6baa174aff68336d295c16d88ad74a4c55868d4c30e983ba53/docassemble.demo-1.1.14.tar.gz"
+    },
     "1.1.2": {
       "sha256": "4186ee3cf472d98e60f8127c5cb68e6d48f8a25697a8fb89610ab3fd9f8640b9",
       "url": "d5/fa/a5726b58caaba012cf9e7b9ed4e2934891f3aa54faffd4cb5fd504204f96/docassemble.demo-1.1.2.tar.gz"
@@ -16067,6 +16071,18 @@
     "0.5.5.6": {
       "sha256": "e4fcccbe25ab142fd2775c51c7721afa071093d88a391abce31788d4bc813705",
       "url": "0f/8b/19f479757800037314f59fd6241f6bfd34a4968e11d0efc4c83f296468e3/modisco-0.5.5.6.tar.gz"
+    },
+    "0.5.6.0": {
+      "sha256": "c17bd9a2c7c3a33f74986f561399d43f0f1e86df09190c7dbc955f49446b306b",
+      "url": "dc/4e/013c550e6baeb4adde5039b0e83a93a4088b351ceb2a4daf0065f70019da/modisco-0.5.6.0.tar.gz"
+    },
+    "0.5.6.1": {
+      "sha256": "1d4186bea6120be41af430ad83235f0c9b1ff7035f07f9d449b9ee7691e1c503",
+      "url": "30/e5/d785cd5b078788d27889289d88677289b30e122a206383c778e7abcd866d/modisco-0.5.6.1.tar.gz"
+    },
+    "0.5.6.2": {
+      "sha256": "4fd6c06ace9eddce77213cc902f96169147677dc37bdcd64caf10c7986a90022",
+      "url": "4c/c8/d2615551e0da499da54f98df191d997f1d66b62178a50a9193a18baa67dc/modisco-0.5.6.2.tar.gz"
     }
   },
   "modoboa-pfxadmin-migrate": {
@@ -16772,6 +16788,10 @@
       "sha256": "081c2a1b8133cb610d2ead19a558e75e10c092768582803c8ee94a703702d9a9",
       "url": "1f/44/6a0ee07fa4209bdeb0fdfa7b5342c3ffb55171714f37a2511435055cad72/mypy-boto3-codedeploy-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "4999589718d8af71071745b5d65d15594a8058c282ba78af7f2df4f77e681d9a",
+      "url": "c2/26/3cd8b6caddcd134da8263bfb01be586e04cc839b1e384166e5af1fab644e/mypy-boto3-codedeploy-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "81ef622c364f02bcd078004a42180d19a53bdadea8fe20d4454dcecb124321de",
       "url": "7c/54/15361c9dbbf4bfebc088bf33084e88a90775073289a9ca226ddf934b3750/mypy-boto3-codedeploy-1.12.5.0.tar.gz"
@@ -17398,17 +17418,9 @@
     }
   },
   "numpy-demo": {
-    "1.18.0": {
-      "sha256": "415853ea803e2f983eac89e42f08c92768d23951dc06335e64bcfd1e7c6e3a3a",
-      "url": "99/d0/dfaf68ed1ab035711db0de779066dbd0c59955db72c61ed1f67b7bb224bd/numpy_demo-1.18.0.tar.gz"
-    },
-    "1.20.0": {
-      "sha256": "f562fb715f1d5d422f17a06fff466bbabf2016aba3c353cdf6a01eb03164126e",
-      "url": "a9/91/997b473315c3b65878e98fb42abc56f6bc9543ba2dbf434650e87c140c4b/numpy_demo-1.20.0.tar.gz"
-    },
-    "1.21.0": {
-      "sha256": "2fc87fbd4bf34a15c1aa336ae0e96842f038c332c66c2f182dd374ce6ac48842",
-      "url": "b6/31/760bf9a42a0612582addaa9e8eda4ef84604714b08ba89443747057e2a5c/numpy_demo-1.21.0.tar.gz"
+    "1.22.0": {
+      "sha256": "2891abdae7dd5f6c4a0808bb1c17bcae65a70731271cd00ea1e30b3b3deec906",
+      "url": "28/d6/faa06cb0d5a061512465e7efb66e07c228a645438f2e1667f052b288eecf/numpy_demo-1.22.0.tar.gz"
     }
   },
   "nuphy": {

@@ -1353,6 +1353,10 @@
     "20.4.2": {
       "sha256": "1c943f94bb759c07445a6984a3bc4c76f73e2a90a1fc2c3521c211579b73d3db",
       "url": "13/0e/b182b46ea437e59003de78c68bb00824d304dcfe58e7235f29c4f275eca0/autobahn-20.4.2.tar.gz"
+    },
+    "20.4.3": {
+      "sha256": "c6fe745d52ba9f9eecf791cd31f558df42aebfc4f9ee558a8f1d18c707e1ae1f",
+      "url": "cb/16/38d27874ef827974f44acb6dd64a92a9248b624734c0e84b91083c2d9350/autobahn-20.4.3.tar.gz"
     }
   },
   "autotagger": {
@@ -9350,6 +9354,10 @@
       "sha256": "1fd97930c1956098348f0ff2eb8959cb241662ef7bad90baa9aed7a08ef823f8",
       "url": "94/ab/778d59620fcc6525b7dd63727d54ecaaf2f7987b8cd23d4d1d3faad5f43b/ec2-api-1.0.2.tar.gz"
     },
+    "10.0.0.0rc1": {
+      "sha256": "ee46319b1929b4ae837821cbcf3a10b776b4fbf54b2f5ffb3e4da1a42361d9f7",
+      "url": "93/80/ab2808d69f0b0c274d22bdc4ccb71bb26ef28f3750a96ba700c9dd699c3c/ec2-api-10.0.0.0rc1.tar.gz"
+    },
     "2.0.0": {
       "sha256": "70b2be524abbc7221d45587ef2bc9802515f2dba913db9f934a40498c4a7b948",
       "url": "17/a1/3e36b1d47a265310dff6a759cfd538389086d75f86b5b0f848865e46dd49/ec2-api-2.0.0.tar.gz"
@@ -15015,6 +15023,10 @@
     "0.8.1": {
       "sha256": "c97bca6ac49e3918a1ac87d3e5cb2351656070d17f9ed4ab356c8662698c0291",
       "url": "32/d8/e28ae6691c4336ea92a2d1b64d9b62846c7e6d1ee7fc175d6158f05fa107/metatab-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "d6b61d44c9261f6d1a47749f867f983f38103266dca95a97a7db68a0e2034bc5",
+      "url": "0c/e9/ffaae0a3ce2bb31b96a7e2927f899907ec08bc71276026dd340f29e1f371/metatab-0.8.2.tar.gz"
     }
   },
   "metro-distribution-engine": {
@@ -16860,6 +16872,10 @@
       "sha256": "217c5d1c9ae39343c5a11e2ef80f63a2f73971820a57333f7ba8092996575c51",
       "url": "a0/a1/59096a67070239dc97b249f290d1bc75a8087592f8eb3a07b8142c7daab8/mypy-boto3-apigateway-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "e65c27c511f3f77b3b1e4b81589599fc930e6a9f247547c80b8b48f37f9133fa",
+      "url": "36/e6/11866e6179576faba49ca57e87278ec27fa8e7d7fc66fc06b54ca1b62d2c/mypy-boto3-apigateway-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "6b9ec9e4ff39fe89998af3439e4b2efd55357c5f3edd5b95fcd02dd19190d710",
       "url": "a8/48/5fe79b0f6ef3d2e1e0fa4912be6d1165997dee4c2138c39fccb3f030ce9e/mypy-boto3-apigateway-1.12.5.0.tar.gz"
@@ -17369,6 +17385,10 @@
     "1.12.43.0": {
       "sha256": "cba809054fd092cc4d4514374bdbb441cdbefba09a6e4f320ba385e7d374d722",
       "url": "63/b2/ec179ff81db0dbfcec1067c89e98b6d8c66e25aa5818ecf13e36ce923b77/mypy-boto3-pinpoint-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "c4b711c2b15bbc9b1acb48c3c668641660db653fb684024cedaba59c2397ce3b",
+      "url": "58/4a/1dee3c2b14c71ec7d0ae88916749766fc70926f617007ee3a34f650a1bf1/mypy-boto3-pinpoint-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "85d9a4a74f0a86579ba2cbed437966ece70ce74c7df4262dad7e0dd572749dc5",
@@ -21173,6 +21193,10 @@
     "2.3.0b1.dev1587402885": {
       "sha256": "d9ebfec3f993e05449fe368eee071d3942335b3ecb7465aefdfe1d51e2eabe12",
       "url": "33/d9/cdd5b146828c839668c61fcd708249c0744d601842c44d0ed3129ea5a19b/pulp_deb-client-2.3.0b1.dev1587402885.tar.gz"
+    },
+    "2.3.0b1.dev1587575970": {
+      "sha256": "5f1140835f95c7e5fbd3ebdeec85875ffdc51c150755aa5f92f4e1b124bf5f93",
+      "url": "dc/76/cccb3c1ebe8eef5ba8c5253b94b634881d78c80e053de7788f1ce3e50b73/pulp_deb-client-2.3.0b1.dev1587575970.tar.gz"
     }
   },
   "puremagic": {
@@ -22757,6 +22781,10 @@
     "3.0.3": {
       "sha256": "aca8760b78e067f97d6f9639c8c18f2432e53ff60f78a2d8368d8930fbbf2065",
       "url": "40/9a/338180b6016681d56d4292b4de3ff4ed2db1957298b70cddaf931ae60ede/PyPPL-3.0.3.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "bd641ada48cfa35f7b1d1b7cdd64f05a197ef56c86f7b86e1c93159477d9afc5",
+      "url": "c3/71/801e5e50c07806077a7a165a60e2e172be0341ff1791513d4447d7e11ab3/PyPPL-3.1.0.tar.gz"
     }
   },
   "pyqtdesignerplugins": {
@@ -27889,6 +27917,28 @@
       "url": "53/3e/2951d37017c810487e11071f5fe70149167b28fd0212fd92010f6336a123/virtualenv-commands-0.2.3.tar.gz"
     }
   },
+  "virtualfish": {
+    "2.0.0": {
+      "sha256": "c718ab1d37d9454646b3896cbf37b1c42416dfe02be9a0f188e451842051563e",
+      "url": "c9/52/de765108819e52b2502a5e9b8c530b1e57ea7a241996e4dda55b08f7f64e/virtualfish-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "18be951a4997cd58ed6861f1d833390b63bb631a2c31933dc3e713e63ea80b6b",
+      "url": "6d/39/7c0d2f17dc40b1f5605a2536fd26f884436bf1f1f969aefcbdc5dcfdb381/virtualfish-2.0.1.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "704b9e4ec0594f84ef6a29d3caca4c74ee9778ec57ab97c5bd79073e477982c2",
+      "url": "c1/96/c319a7ccfe85bb85b4ecb59995afe1061624de3f5580f552df8877855694/virtualfish-2.1.0.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "9dae04094af00b1033ee837a2e0781ae3afd6d278ee9e3884009dcebbd8bb1a2",
+      "url": "6a/0f/65de7e039b68190f0b8be851f13000d9844dbe97bf78a97b9051587b75df/virtualfish-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "828a208535f27a21a61fc0d88afe27b6a83acf8dd5fcf9964e90c3f00358b2fd",
+      "url": "82/6a/2e9fc470b95bca9ec3846903b646591b3e16cee250da34f53da0b3e33d07/virtualfish-2.2.1.tar.gz"
+    }
+  },
   "visualmath": {
     "0.2.0": {
       "sha256": "a8573f06151c7d99a50e2b16c23a9933e718275eec3f56f4d4196cf653500948",
@@ -28296,13 +28346,13 @@
     }
   },
   "wrds2pg": {
-    "1.0": {
-      "sha256": "020f2c806ab050fa44d5224f55fb07b0aab465e80a8fee1c305fcf0321705614",
-      "url": "f8/b5/57250a95d680429196b3c940d5ab97aa72061508333b710a933a0fcfee15/wrds2pg-1.0.tar.gz"
+    "0.1.17": {
+      "sha256": "665c4fb5c4dcc9f3553eb144053f334ea76e1721b65a96b438fc5a3f78719ef1",
+      "url": "ae/9c/ee0b12002821c2c8e21625c915081fc315d9f1ceef100cb330e9116f2d0d/wrds2pg-0.1.17.tar.gz"
     },
-    "1.0.1": {
-      "sha256": "56aa8f40dc63c260f72c37828b0ec0d6b737bcdeba29db2aec839aafd734eb15",
-      "url": "65/ef/f548c8c1ddc97f75261a41e5e6e0b0397da3535e7212d90e8a862cd61ed3/wrds2pg-1.0.1.tar.gz"
+    "0.1.18": {
+      "sha256": "7dc2949f1891c602c81f795369c5bd3c72fd257370306eca459e7330e0874988",
+      "url": "dd/4f/6c631513b90802ad1fae0c3fb3dbf65efc603d3fee00a1cae4af45f6b2c5/wrds2pg-0.1.18.tar.gz"
     }
   },
   "wsgi-static-middleware": {

@@ -996,6 +996,10 @@
       "sha256": "aad093a4d0e084183f161d9652294a96a6b7c7b171324b6e9255c10192891445",
       "url": "71/a0/edce3beae9c7664bbcad3fec2ed44c2222d69de62211e6027047e0f81169/aws-cdk.aws-pinpointemail-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "86703bcf24c658b999bf42d4171e2bca9383c9a058971f4fd57b40bd765aafd4",
+      "url": "44/24/7c75d75dc0d8d8bceb9c932f2468dd74aed98196d1deaabcac4e599eb301/aws-cdk.aws-pinpointemail-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "014c9dabdb508701db287d727b63ffd128f03f964ebb3bb5f421501f89ab3dd8",
       "url": "28/8f/418bfef93b2003b35bb7ff308a7d29cc178329b5137891e1f854299a2358/aws-cdk.aws-pinpointemail-1.4.0.tar.gz"
@@ -2941,6 +2945,10 @@
     "0.1.26": {
       "sha256": "abcbd7e4a352392b29548dc2c95227050f42ba444ff43adf5340059238d7df8e",
       "url": "94/be/2455cdf16986b1e3aba85e3986f501aabb3fdb170c52b6213ddbc9f7ed85/chariothy-common-0.1.26.tar.gz"
+    },
+    "0.1.27": {
+      "sha256": "f8f8f2c10237d1a9990d7da79ebf117eefff1309c36c54b6459f57ed07e916e2",
+      "url": "30/fc/91e472fdf55dc89a985da3a9997923764c230eef846ed21c41c073964a73/chariothy-common-0.1.27.tar.gz"
     },
     "0.1.3": {
       "sha256": "530f196da0de5ccfc45f02be87f63edad0f670d0b3ea5f9a3badfc5cd2533634",
@@ -6940,6 +6948,10 @@
       "sha256": "11dd57f11c3ac30a351708cf3a35d1d58eac2419aeefbd39e406a322c04d7275",
       "url": "50/4b/8789d2bf930e65cf84c1914d91e229bacb7c9f54b7edcf5e08fba2c0d0b9/epsagon-1.42.3.tar.gz"
     },
+    "1.42.4": {
+      "sha256": "f3244e4e686105f5eb7cd94857637ccdd298a2081463e936259fd0f9db69a6dc",
+      "url": "a0/98/c9e2727f7b12d935a88d5b72ce9973046d41dfdc54e40a05a619f4fdbc54/epsagon-1.42.4.tar.gz"
+    },
     "1.5.0": {
       "sha256": "1078bab74a5e3347362911f731dfe709e96ca00d73084d7b52c9e7ebe6046c34",
       "url": "f6/00/fb8c2b8c398eae925a310744a826b4f59ec3a8994b8bddec589aaf801ce1/epsagon-1.5.0.tar.gz"
@@ -7665,6 +7677,10 @@
     "0.3.1": {
       "sha256": "34c99b14f3d3434cca81964d9e9782abc98af52bb295a2fc2669fbaada17746f",
       "url": "cb/15/81c897578b4a79e4b86a5da9a240e136d44028b57f7b9eda027093275175/flask-dataview-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "061e56474c1b259217bf2cd5a9e43dc48dcaf6d54cdfd7a5858f7f115b87682b",
+      "url": "02/0d/c992c5381b4e7be1a017a7f6da3e3dfdee39e0a3d7bd11f55ad56fb1b91c/flask-dataview-0.3.2.tar.gz"
     }
   },
   "flask-downloader": {
@@ -7839,6 +7855,10 @@
     "1.0.1": {
       "sha256": "f059d99b01fa03c27efd25c48c8f1768e96b9a00ee2d71bda52123502cddbd9b",
       "url": "46/0c/6e065e94dca13adfca6b67afac9661e27922d5c8f53084e975aaa480df39/flatpak-sync-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "2eb19c6e45aff3102b3a16c4ae0b698c07615a54e6081edcb882137a4e7a55c0",
+      "url": "79/91/eff62be8549f76e58c68534a08f759a59395c0d390069d471cafb8a66394/flatpak-sync-1.0.2.tar.gz"
     }
   },
   "flying-ioc": {
@@ -18567,6 +18587,10 @@
     "0.5": {
       "sha256": "b772aa7ff78a27cfca640e259fc1ed003d8542f08161b52a4228ea61762713c5",
       "url": "77/2c/828aece19cb5a8f2b292fba0263cad0c8ce12d3eb22c060a9191ee69f4de/pytonessentials-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "394f4f0e219d2b2b5f09375909cb069b2e452713551be5e9dcf57c244795c270",
+      "url": "a8/38/2a6edf01f16f77f70ad493c5ea646411f2689160df46c046cfb3b2bf113d/pytonessentials-0.6.tar.gz"
     }
   },
   "pytoutv": {

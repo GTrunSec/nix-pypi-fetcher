@@ -2711,6 +2711,10 @@
     "4.3.4": {
       "sha256": "49403440555618c7b960e69876d2ec05d4553a3c57fbb42cf11d8747a4f5a8af",
       "url": "42/5c/1729e85297264df24e53059b828d57d4d425711a4bf80357d795549e1890/cloudmesh-common-4.3.4.tar.gz"
+    },
+    "4.3.6": {
+      "sha256": "b4bf79421e476531ca68b4c24b32214a75894bbf489b0d3a853c947d91c89844",
+      "url": "1a/10/dcd53ad333c39db69c9946a31363042d2935e0774773a22c37e18246dcfc/cloudmesh-common-4.3.6.tar.gz"
     }
   },
   "cltools": {
@@ -6501,6 +6505,10 @@
     "0.0.2": {
       "sha256": "832d9c31baafe4ac3310fe2d05347340cc495a4fd3ec792680a7a3c2cf5751c6",
       "url": "ce/df/873d954f481b340fa7f42e40f5119797f8af6529fdda9f5a813e5c84bb09/DKUtils-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "90ae0a06fae7d28b0b432989392dc1730345e3ec0d51d73a73792221b3c4b8f8",
+      "url": "73/24/de284d1c196aa162cc53903c74e369d9d876119af76b374a8171f435dd56/DKUtils-0.0.3.tar.gz"
     }
   },
   "dl-analytics": {
@@ -15849,6 +15857,10 @@
     "3.1.0": {
       "sha256": "29a4d9c6e10a093ee886975a16e25ad29d3ba837c18e363c20a33142b910fbc2",
       "url": "94/86/89e53823755dd6c6fb6f16f1af475eaf51459bd4cfe9f1e2de224e1a44a7/plone.scale-3.1.0.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "c3518994671dc8ac2894bcc7bc4b4bbf84411c1fffe94f00b4882a9d0afa7332",
+      "url": "2a/dd/94ce69237e35ea9dbcc22e1dc7d8e24b06ece26cd16907cfb0a8fd33b596/plone.scale-3.1.1.tar.gz"
     }
   },
   "plonetheme.level2": {
@@ -18649,6 +18661,10 @@
     "0.0.162": {
       "sha256": "073a7017e1298c1b35c511385dce11402234bf58e7517da192f22e8d70791773",
       "url": "85/15/f9d1e350f608d2b7454dfec6193f5183dd97327ba0e190b4b117698aa829/PyVuka-0.0.162.tar.gz"
+    },
+    "0.0.163": {
+      "sha256": "2021796b9847e71440b6b3a3788324d270c9a909e0bc0ff3fa8498217a67365c",
+      "url": "0d/e9/23be885e943d13f06c41ffe8eb8a969a264911475dc5ff6dca6c4bf77d4b/PyVuka-0.0.163.tar.gz"
     }
   },
   "pyyacht": {

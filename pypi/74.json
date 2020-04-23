@@ -8516,6 +8516,14 @@
       "sha256": "9114b25193e950b6471dd404034f054f951855d9f9319794038ae527457bec41",
       "url": "a6/25/fae860242dfa1479ed94ff095747d0d09fccc83b23ed85db191c9fb423b1/functional-itertools-0.9.1.tar.gz"
     },
+    "0.9.10": {
+      "sha256": "58f67c6776cf1d8c49c70543f658184c32270440d61a6252ed244f1ed227c040",
+      "url": "00/77/1c52c5101149a7b764f4d1a345f8a0747588cd61615e7f23c76e18913c40/functional-itertools-0.9.10.tar.gz"
+    },
+    "0.9.12": {
+      "sha256": "fc8f328827f2eff503cadc55f2d3ed161cac9f543bb6760fce16c21ff6f6f84e",
+      "url": "a6/0c/02eb0c4e644811343883c63c80e475890e57c216fe1bed1c3050196cdcae/functional-itertools-0.9.12.tar.gz"
+    },
     "0.9.2": {
       "sha256": "58970e5f6fce88440114c2db2d4bea152eede93a9d1a17f7ff806234e827d450",
       "url": "47/59/5260ad238878ab9e6615643cbb43f22b6ac3d3715056bded88c72772c4d3/functional-itertools-0.9.2.tar.gz"
@@ -8535,6 +8543,18 @@
     "0.9.6": {
       "sha256": "c1d6c446dc200fcd58940063c86ebb45d860d99454656217aeef38f856e7cd38",
       "url": "a6/6b/2fce03d4c52345f49fc01eef04dbec712b4107363a4b1315558f26832f5d/functional-itertools-0.9.6.tar.gz"
+    },
+    "0.9.7": {
+      "sha256": "f7980139a948a1e169fb2434360b1677aadbac8e5accb2e332bad76fcc1dc6bc",
+      "url": "65/1f/efe16257d9cd2954e5a128fd5eea9a9b19c9f4c5c851bc15fed84ae4f53a/functional-itertools-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "462c7272965c95867296f71505cb9cdf711899d6872777a32ea259ac315cc8a3",
+      "url": "a2/d3/2b319c95f6cc82cf1828cce1d5c58d76a75215cf1b926ad806ef57897dc1/functional-itertools-0.9.8.tar.gz"
+    },
+    "0.9.9": {
+      "sha256": "4f94e9fb93016307d69202dfedce77a8dbaae909a31c387dc3de3db8c244ea19",
+      "url": "33/38/2509da1701c6ea9f745f21af1ecb54ecf55c783849c1ebdfa19077ff8848/functional-itertools-0.9.9.tar.gz"
     }
   },
   "fuzzy-lib": {
@@ -8889,6 +8909,10 @@
     "0.13.2": {
       "sha256": "60acbeee346e8c14555821eab57dbf68a169e6c10bce40e83c1bf44f63a62a01",
       "url": "5d/71/f63fe59145fca7667d92475f1574dd583ad1f48ab228e9a5dddd5733197f/graphviz-0.13.2.zip"
+    },
+    "0.14": {
+      "sha256": "e104ba036c8aef84320ec80560e544cd3cad68c9f90394b4e2b87bc44ab09791",
+      "url": "3e/58/11b713c7aceffb5a993a04141c1a9667d57b5d254a1e617107620ff29988/graphviz-0.14.zip"
     },
     "0.2": {
       "sha256": "e70ca907440e3e5b6aab89749c4c8bb000ddfe3079624f395fea4fc79ed8d690",
@@ -13089,6 +13113,10 @@
     "1.0.0": {
       "sha256": "c0d4a79a52078c2ec13c6a5eaa086681a947669708a9b9a2e3b6cd6518c59371",
       "url": "97/a1/cdb78e5fb9368d48d35ba6f814d9636b7388004a3e73c673c30a76585bc2/mimcvdf-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "97a4ccdebb58352c64c268d2e57ef8817c9fe4ac3dcc922410bfcc72033f344a",
+      "url": "9c/cf/26ef474702a01308d21b28a5e622bac669d5391bf4a9e66350663673d3af/mimcvdf-1.1.0.tar.gz"
     }
   },
   "minimaldb": {
@@ -14282,6 +14310,10 @@
       "sha256": "65f119d986d17d8c303e41e6b406ef81f39b84bd7193a98e4c9eec822338b4fc",
       "url": "0d/b6/c8132a709813bd2c22ddaab54105d992b9fce25780ca9c6cb6cb0badb8dd/mypy-boto3-securityhub-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "8edff2561c708458e4fb3822cf7830a76f350642d5dc4af292be2b1cd44fef4a",
+      "url": "42/1b/3897c2294b42a616eed909cdd0f7194cd9554964651cb08ffd37a0aab138/mypy-boto3-securityhub-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7c05580453a8d3b315782da1a8afb139def2add522d973bf41606e3893955ba9",
       "url": "45/1d/cc6d7418501a84078295bcde805a3739f85475ec11e4f0e6e86076de2414/mypy-boto3-securityhub-1.12.5.0.tar.gz"
@@ -14791,6 +14823,10 @@
     "1.12.43.0": {
       "sha256": "8eab6e089d4618d0cf7e134cca6d279e71a9a00722a5c59566f1f579fdaee6d4",
       "url": "d7/dc/63adb6708c32c4c1a8d43b3e23dd1464ea647d81317de3a2143d452123eb/mypy-boto3-worklink-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "f06b355e1ff43de523c32509b155b201b0ff51b2fdb32a74bbe03c96a584c69f",
+      "url": "e9/96/3b0c6631e280013fa7e1c02efe779174cb96fcc7b1779e7cbb9c53f452aa/mypy-boto3-worklink-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a3dcc19fcf19c04d4950ab7709af4fd10672c1aa6164b99de923203399afd21d",
@@ -18343,6 +18379,10 @@
     "0.0.6": {
       "sha256": "e4c6d1a1b91e7900de531a16e104bd4eb13591070124dde2726472f1ce4a2620",
       "url": "e5/8c/71baed32cdf6ddd70b710864caeab74d2978c510c28cdbc7f7324308f5ac/pravah_protocols-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "8d07a40ea47adbeb39c96dabd59a28c126433fa509e6cd680cb2d02022fce323",
+      "url": "c5/2d/ef56323d03d41d8e4eca297f30f14977cf573bb12f36e99c92993e423408/pravah_protocols-0.0.7.tar.gz"
     }
   },
   "prayertime": {
@@ -23913,6 +23953,10 @@
     "20.2.0": {
       "sha256": "6858ad2af350eb0cff4da1c22d6a7be2cdf64a85000080627e1a540b3e7d5d79",
       "url": "62/22/affb5d215a57c9d64a4bbd6cea99bd13a3984bdb8b7577f5b25a040e9c82/spelltinkle-20.2.0.tar.gz"
+    },
+    "20.4.0": {
+      "sha256": "f565ed9ddd8a4505ad136f3ce84588e6c8dbd466e7c4f22de7b82455b197115c",
+      "url": "c0/9b/9201d82a17b1319fec98d322d0f40e93e1c82d223c378d1a80c4b11c901d/spelltinkle-20.4.0.tar.gz"
     }
   },
   "sphinx-autodoc-annotation": {
@@ -23957,6 +24001,32 @@
     "0.1": {
       "sha256": "53ef2eb6eb638496a356609f781f4ebef78e96a47bb3fe47ef1c8c6cab04e58a",
       "url": "c3/92/eff228324eda3e41b26f074e0e34f3920244cedfcbd83b7cec6766709f66/sqlent-0.1.tar.gz"
+    }
+  },
+  "squarelet-auth": {
+    "0.0.1": {
+      "sha256": "1211614c3d7c994ae51e7d53c9f735ac424a3d452f6b5529b8bd6632de864914",
+      "url": "78/6f/9aaaf2b63e12138d45bec2dc3798726b3e678518ec0b77a42c4bd41038b7/squarelet_auth-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "2661df3b85dc6d04bb541e66bf75c0cad3bc303c41bc8007febfb7279626750d",
+      "url": "9a/76/c3c2a771ee06134db2c91e9b77a4fb2ebfa37ad9d7a39ecef1a5caa0cb12/squarelet_auth-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "47a9fd6e5f91b8273c72944b1f95b3d3b672ed1723bd418f28c3882b1c5061c7",
+      "url": "8a/7e/eb172cdd22f4b5275e6a315707d1e793899bbc6994d07f697a63d218556d/squarelet_auth-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "c5bc7a2784f62762b255373a8990980ec1094ce47eacc207526d95bd2a14e974",
+      "url": "12/8a/6cbdc2ecdc4389ac0ef2fa9cdfc5f9e4e5f7e7d788b630163de316b499be/squarelet_auth-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "011879e36b1dadbffaa44b1d07dc1aa68749d4bdd16c44daacd31ccd82138e91",
+      "url": "05/ef/0a7277dc09459665d699bef497e3aea21623b1d705367f1d11ca7a674a60/squarelet_auth-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "142c2a8fc4c7dfa69c98f433fbb3001a0b06550486958260d568ff6d180550ab",
+      "url": "29/21/1e1862871de6aa18da96ae228498a71293b5087c48c3782ba109e29d31fe/squarelet_auth-0.0.6.tar.gz"
     }
   },
   "squidward": {
@@ -24519,6 +24589,10 @@
     "2.3.0": {
       "sha256": "fa9099ba215772db43ad5757416cf783abacad7c47a74767f829fbb1c1356129",
       "url": "ca/56/353a3798728739e2d4d4576f620d27cfccc42692e793ca61e7b7bf30b711/things3-api-2.3.0.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "d75801ea0c00fc8d66dcd94ce9ab8777cce394736e0c8ed0885e3c04ac7bf028",
+      "url": "74/cf/89960e93a3c2e3cd407b04740c7085e35d3e3fe476a853f82bb996d3476c/things3-api-2.5.0.tar.gz"
     }
   },
   "thorsonwiki": {
@@ -25905,6 +25979,10 @@
     "1.2.4": {
       "sha256": "6a65574a6207fce001dfab7ffc177e6a2a6237b221dc20f886a304761b156c23",
       "url": "7f/4c/acd9291bfa6a0bdae2fe5058d86a0b120641855b2743a0d0c8fce8ee6fff/vodscrepe-1.2.4.tar.gz"
+    },
+    "1.2.5": {
+      "sha256": "af4d8bd43d0ba4fb1565c8bd45d7bd1e05c05c821cc47e9109c5fab60bf59206",
+      "url": "d4/63/293890b55f830d2f453822d478060b36ecef8e1ac5f897e96f4a6f411351/vodscrepe-1.2.5.tar.gz"
     }
   },
   "vrypy": {
@@ -25973,6 +26051,10 @@
     "1.0.2": {
       "sha256": "f9c8263dcf1b93c887847c904f090e90a5d0ed5827d6775ca5b85f9dc1c4ab12",
       "url": "bf/86/6e77efe40a5fff982a80c84eabfab67faec0b78ea6e60e5ead4dd46a3ae8/wagtail-opengraph-image-generator-1.0.2.tar.gz"
+    },
+    "1.1": {
+      "sha256": "5d9bb18df5b555531020d8239652713fbac1a2e232729fd23310d392405e88bd",
+      "url": "ea/44/8b0008125735a61495eaab80c36d5a000a91336ac30ba520c96f16bb3f9c/wagtail-opengraph-image-generator-1.1.tar.gz"
     }
   },
   "watson-form": {
@@ -26513,6 +26595,10 @@
     "2.3.0": {
       "sha256": "8f30dbcb9cfad9e8f663ad8480aba7c42a41d8beebe9c6fd506ced514f3fd127",
       "url": "ba/f8/ab86f2b5e7d7c8f2654b814b29e64e8571f5e814d5c175f5bcdbf842b26f/WTForms-2.3.0.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "861a13b3ae521d6700dac3b2771970bd354a63ba7043ecc3a82b5288596a1972",
+      "url": "68/7a/4ce1636e03a25585f3e1436179232a66c25e53ef17f01b4384d16ace6d61/WTForms-2.3.1.tar.gz"
     }
   },
   "xfce4-terminal-themes": {

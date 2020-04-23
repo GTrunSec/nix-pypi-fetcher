@@ -1439,6 +1439,10 @@
     "1.1.0": {
       "sha256": "b763b5b10d6ed3dd1a717c2ffcf6a2f1bfda13f948240a4b3bd61cfba90db13f",
       "url": "2d/29/9c9d8663c7dfe436f23833ec84ecb0942182527d0462f47d08719cc3c2d3/azunyan-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "abd47b16c455ecbe8b15e9c2b279cd44f29e886436c3fa650fd7feb2504afb9f",
+      "url": "c7/33/4363e801428a13a7b2befacf87e31962573fd15a539d772a784ab80d2cf6/azunyan-1.1.1.tar.gz"
     }
   },
   "azure-cli-configure": {
@@ -8531,6 +8535,10 @@
     "0.1.43": {
       "sha256": "a67fb9ab66d25f8d9455c6c39a50bdda1a15ef7a5172f72b574fee7a4c20efd6",
       "url": "47/cc/c40b83c192a2b0d5726e899584b31adfb259709e5cdd9dfab06257cbfd1b/gene_graph_lib-0.1.43.tar.gz"
+    },
+    "0.1.44": {
+      "sha256": "dfebed15bd6d7703eec02f71d7b34afef6a3e9491ea4eb54b93ac074e1d057d2",
+      "url": "a0/28/fb40eb2ca02b11adf26bc78bc56f232dbf87d959799019c6e92a9dbd4a29/gene_graph_lib-0.1.44.tar.gz"
     },
     "0.1.5": {
       "sha256": "02f0751c2f41530057761a3addd3db8ee80e5b24afcc743a2face8f94ac7e5a4",
@@ -16231,6 +16239,14 @@
     "1.1.1.post1": {
       "sha256": "a76df6394081049ff75ec7a880740e10b420b5b65fdc36eef6c19b61aa5c4e1f",
       "url": "12/80/0f5e4c1c00983e589f0660ccc0cb49d3d598f62ed8962f2fabd51b5b63b9/raise-1.1.1.post1.tar.gz"
+    },
+    "1.1.1.post2": {
+      "sha256": "2b343fbfbe1e6dbb3357eea3b2c364d23844f36541cf5285404a4c13ba5e68b9",
+      "url": "67/9f/03624ab068b2ae14f42d146520fe4ac32187edcce2c9cc460bcb9af44bff/raise-1.1.1.post2.tar.gz"
+    },
+    "1.1.1.post3": {
+      "sha256": "16098dc38ff102468011fce9918dcd0d537c5ce9ce0805589541112a00aec375",
+      "url": "1b/53/17016f2f48c4b2d0f196c95713eb5bf7ce088ab983453e94d7105e20b613/raise-1.1.1.post3.tar.gz"
     }
   },
   "randomutil": {
@@ -17978,6 +17994,10 @@
       "sha256": "ef6950734fda1af5e3dce93a2b503a27ee93f26520697ad6aff434c80129b160",
       "url": "e6/ce/1575d816a2013d4b436268a5aafb296cf0cd8b88f60f193bfb3576018795/simpletransformers-0.24.8.tar.gz"
     },
+    "0.24.9": {
+      "sha256": "0e2285eb86fe7ce8e0f64f964877b8ec0a4423a9fa705ee569e0ac374a65c604",
+      "url": "ca/b4/fde4ece5cf9124f9e534da511b30ea9055d3cbb12da9d874894b2a81e4b7/simpletransformers-0.24.9.tar.gz"
+    },
     "0.3.0": {
       "sha256": "cb26922567c79519130d9481ae05e8e6f5ff9a797c51702c548f99e3508fdba5",
       "url": "86/73/e42f43d1c710acedaa55d12d339f668fe4730c801bf39f41fdc32ee70f1d/simpletransformers-0.3.0.tar.gz"
@@ -18501,6 +18521,12 @@
     "0.1.2": {
       "sha256": "1cc741507bbc2b1b88b42a536a0e61a6c3ef7ad315be6169f8168854d1cf7f05",
       "url": "b3/88/eae9dc09fb40adbc0e11247ea9ddc4ea9e5dffb15b19222cd14cefef73a0/sphinxjp.themes.tinkerturquoisesinglecolumn-0.1.2.tar.gz"
+    }
+  },
+  "spmf": {
+    "1.0": {
+      "sha256": "7b2cb5ece49a4e19f385c028addf71ba51d6746a22e39df95cb7b03bc88528d9",
+      "url": "29/ec/dad07f58250b6784e24689d33e702e019fb4a06dd1f21808f6dd69dc2e54/spmf-1.0.tar.gz"
     }
   },
   "spookify-py": {

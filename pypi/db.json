@@ -1144,6 +1144,10 @@
       "sha256": "6de4e3f78c43d9e401ad41bdb8ca68a8195b3e23e80ad24016ad72556c7c6e39",
       "url": "5e/7c/2096c34a1886420aa0af5dbfb4a014f5062430f459c50d3f5c65363740f3/aws-cdk.aws-cloudfront-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "c058cabeaf31899e4099993751ceeeb1bf309eb96f258fa8cbd83b655fb33caf",
+      "url": "ee/3f/91e8d1bf353cfbaef154662d35d11ed20dba1fded36c9300debbec323368/aws-cdk.aws-cloudfront-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "e9764787d18fc186b7b01ad27d0b4f4d0d4a5aa638066132c45b85bc6c3888bd",
       "url": "3f/77/5cbc2782c70facb1852711be6b021024a37bba725a803cf372373503a15e/aws-cdk.aws-cloudfront-1.4.0.tar.gz"
@@ -6993,6 +6997,14 @@
     "2.0.1": {
       "sha256": "1951c6782580e1c6bd9db58e7c3124d19b62d4a1ec44854dec46cea193ada91f",
       "url": "d9/ca/89dd04db8f5c9a4dfb8d7d9053f96152fa6eb7273994a460b03db99a4802/docker-ascii-map-2.0.1.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "065021ed41ccc21a1487ca93f84dbabf93bd98571501f0944a293b0247661c21",
+      "url": "47/19/a1da90fc330534c58a74683d1cf80d9d4dc09121fc1dc187a2ca85b142cc/docker-ascii-map-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "50876efd04e1e873d383dd316f2d80345a99b40b66438e704ea95d8fb224eca6",
+      "url": "7f/23/45f9dd7e8613eb993ead0ae3ea8e6d22bad3af5080d6f2cadbea48544f92/docker-ascii-map-2.1.1.tar.gz"
     }
   },
   "docutils-react-docgen": {
@@ -7113,6 +7125,14 @@
     "0.17.14": {
       "sha256": "0dabe8bddf6f39629c220a62c048288f355cf6b3b0ea728ac3885992a428a1e0",
       "url": "1f/a6/7e50072f8f9d7201d41236d117dfcd8695503c4f16bd2a45ff4645b8bfa5/DuctApe-0.17.14.tar.gz"
+    },
+    "0.17.16": {
+      "sha256": "9dfc7e92e34fbf4b7f197fb385370c281323126a69972cc0926a7f5655dbcf13",
+      "url": "fa/24/86b117b297ec3ba0f4e88dfabd143903798bbb3c2bff676523e45554c82b/DuctApe-0.17.16.tar.gz"
+    },
+    "0.17.17": {
+      "sha256": "d50b813c44e54a3a13921b879c23fd1ec299ef8fef571de1f46d749526b6ce6a",
+      "url": "a1/b4/b359eb4ee6b12c5009dbb1251c97cb798ae0427368569c77f7d46f3e06ca/DuctApe-0.17.17.tar.gz"
     },
     "0.17.2": {
       "sha256": "b5891a3c04ab957fad481cb034990d14d6087b34a3cf5ce4e98e29ff6716386d",
@@ -7651,6 +7671,14 @@
     "0.1.0": {
       "sha256": "260e236e937523e8a004bfdf5add5e2a049d9b11f3e4598e2e614fef4578586d",
       "url": "56/bd/5b7e08ddf461d574b3fe992ac19da65e4546ae8f465e4d3d6e9156d2e244/ESRNN-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "bf1746a5d6bedfd35d7783d2ddc0ad6352a30680d039430767abf04a548cd037",
+      "url": "14/71/2234df646020f12740330c09dc84b0d81c732da0932565d0ce207ca76105/ESRNN-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "1bf3446a942c148520315493837d93700d6042c30524fbbc7302cd116496eff8",
+      "url": "e6/b9/616f154dcc3fc08f141bef2b795aef981d6a5913a2613f7dd6fe65422a82/ESRNN-0.1.2.tar.gz"
     }
   },
   "essentia-sia-api": {
@@ -8015,6 +8043,14 @@
     "0.1.4": {
       "sha256": "c63c7a9039246800147979147d8917bc48365002761d0bd5a95f9c38a6527c8f",
       "url": "f1/de/9ac15a2405e211cf7bba852c1d7fc323f09f483486e4d75e14dc2fa2b7b9/flask_auth_service_mongo-0.1.4.tar.gz"
+    },
+    "0.1.7b0": {
+      "sha256": "6703071f8ea3a0087b6584d6ef59e337e768a2b35528582b7fe786ddade74f33",
+      "url": "cf/de/d6a91ebe6e1380d6ee7d153331665c8febf86ca53900165292e626df8db3/flask_auth_service_mongo-0.1.7b0.tar.gz"
+    },
+    "0.1.7b1": {
+      "sha256": "bae236d078ad07a21f21e3c1e07f0f38e49ac849d710ff9321feb58dbe87bed1",
+      "url": "2b/7d/a2bcde8f487ac1055c2c1c5366bc0b9c4836b293ae148e7aae0de6e32dc6/flask_auth_service_mongo-0.1.7b1.tar.gz"
     }
   },
   "flask-emails": {
@@ -15571,6 +15607,10 @@
     "2.18.7": {
       "sha256": "c64109b343db221f0a6ecdc059d89ff0188ac4829c1182e62988db57f02b5b24",
       "url": "2c/5b/abb3bdfc06c29deaa5fcff656bb51196441d0e9783283b973f75dc6e6420/noaodatalab-2.18.7.tar.gz"
+    },
+    "2.18.8": {
+      "sha256": "274b6b9ad09808b345a52af0cb36d3d83002e844fbd331ab7062f9e9da15cf41",
+      "url": "de/f2/77ae02279ce70f71669a11bd9a0cb10016af50652258ee31789bc7992b8c/noaodatalab-2.18.8.tar.gz"
     }
   },
   "non-admin-draftail": {
@@ -24469,6 +24509,10 @@
     "0.1.1": {
       "sha256": "c73ce5814feeb9b4207ed31f41397cd7ebc5168c52ad8b93ac4180f51dcf55e7",
       "url": "1a/63/191279a04acabc503087f96416283cf727dc79ad0bda3398c832f7d337d0/yaqd-control-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "3e292ee3d55fd310dc58d9ae5d7d4736ebf924cc428d376988ed46f48fa594ce",
+      "url": "6f/a2/1150d7bec381d95640e1539008b3ae08433c4e0bcbf9f1722f20b67996c3/yaqd-control-0.2.0.tar.gz"
     }
   },
   "yellow-idea-py": {

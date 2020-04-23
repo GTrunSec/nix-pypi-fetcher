@@ -1106,6 +1106,10 @@
       "sha256": "71cba52a6225451650ca7270cc82b5cd4af41c9e70d38bf0a695429bc84cec04",
       "url": "49/6d/3c9e7b1a75687c1ebb4c43e7dc3508c11f71e7213aa966219462d779d7cf/aws-cdk.aws-amplify-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "53b53de04bb821670acf0da67977f741af9ecd22b0f015306452278e763ceb52",
+      "url": "29/7c/24015beaa08224d9978924aeca4a24af106dd70ab7b6fc7fbad93237f2e1/aws-cdk.aws-amplify-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "307518c71ca89e2f156780ae235a0cec55b2a160858c3539dec044f59d05736e",
       "url": "3b/4b/ade00f091d8132e76cf2bbbc3b0921ee3344b59285e8d4857961dd131680/aws-cdk.aws-amplify-1.4.0.tar.gz"
@@ -1471,6 +1475,10 @@
     "0.2": {
       "sha256": "f0b422aefd86a0cf33c6ce0372fa89d5cd5ff0772dfbfdc87d9b66dba44041e4",
       "url": "22/ab/bf755960d6503d9143db807ba666e634f117299453e181830dfa189033b2/bescape-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "105c23a637900d957eacc0180cce6577f080fe1d69476ed0a84009c40dce90a0",
+      "url": "57/8c/3b926f8720d8a496706d2f254edbe4f3525ad57c747f728d773cd9aa40fd/bescape-0.3.tar.gz"
     }
   },
   "bhcd": {
@@ -4124,6 +4132,14 @@
       "sha256": "0175e64b03f8f1c18bfd3d996efaf08fc5b008833fa08206fac6357efdff5cbb",
       "url": "04/c3/e3fe2defe93b2cb9c4bc9da8b00f7a4458ab393f73e088a2819f3faf878a/demyst-df-0.8.3.tar.gz"
     },
+    "0.8.30a1": {
+      "sha256": "d68500335849056c9e3258fc707080b6bf65177c1a22a2dbd7d3fe150478fdad",
+      "url": "1d/11/ec457d26dba6bf57ee79517d7a390bcf6097878754b79553119939bec23e/demyst-df-0.8.30a1.tar.gz"
+    },
+    "0.8.30a2": {
+      "sha256": "118060da87568c521d26d8df36850f23a03de80b2d61054b5eb146cf5ddb5a12",
+      "url": "b0/be/cb73d1151b4fa76174312b051d7b6be7c0c79710b6a3345cc106ebfbf8d8/demyst-df-0.8.30a2.tar.gz"
+    },
     "0.8.4": {
       "sha256": "d512f63b5e3923872b7ce7522c6ec316c83992e82dd56595170bd4194f7f7167",
       "url": "a1/38/b8e7708a4bb922e760f5e4e771eb47b5b3ae723c4f14ef4d0826a7065019/demyst-df-0.8.4.tar.gz"
@@ -4317,6 +4333,10 @@
     "2.1.0": {
       "sha256": "9d58428e0db686e15f8bd6ad1e0e64f3e8c5e82dd07fce78c0003cfa18ee5028",
       "url": "9b/c4/5673afac336e4030b41c543fd7302dc6de5d048a87391b22e6d910c16482/dinopy-2.1.0.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "c2b282dcb60a313201c60cb4899077e23e3d0e528dd1c55e72d18b624ad04c33",
+      "url": "f0/ae/9192e91468e8e8a27172bcf242d01006732ec28de1616970e7f0fe05c28e/dinopy-2.2.0.tar.gz"
     }
   },
   "discordtr": {
@@ -6539,12 +6559,6 @@
     "1.0.0.1": {
       "sha256": "3def10aa16e580f5a8e2af578dd187f3b5b632fa85e551d0cc306d1d1e190721",
       "url": "4a/3c/b2c109e8bf52d3e274071ed5cb67b3ecff987e45fcf0b11ecd6834ca3820/epic-theme-1.0.0.1.tar.gz"
-    }
-  },
-  "epydoc": {
-    "3.0.1": {
-      "sha256": "c81469b853fab06ec42b39e35dd7cccbe9938dfddef324683d89c1e5176e48f2",
-      "url": "60/a7/666cb415b0f5d8d5c99f145e03a6005220090d7b77637871ac52c2cabcba/epydoc-3.0.1.tar.gz"
     }
   },
   "eubh-dev": {
@@ -12333,6 +12347,16 @@
       "url": "e4/6f/f3476ee756c80fb08362e5c1bbfba55206af827409c8f34f88d78a7e5323/lopy-0.0.9.tar.gz"
     }
   },
+  "lowess": {
+    "1.0.1": {
+      "sha256": "61b9a38542da55a4350f1f2eb762d4e80d1dc09396fc16d99397a2a252110995",
+      "url": "c7/9c/d9174f554e345a2042b0d7bc8cbae4f43631d1486ac070ba0f07b671b033/lowess-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "99a0940663707141ae0d4f95af12259c232d7a5756a5896fc46a0599b3874162",
+      "url": "04/e3/ce90bb45eca24f728cfaff9529cb8e70bcf5cb7ffdaddfc82109ee227046/lowess-1.0.2.tar.gz"
+    }
+  },
   "lpais": {
     "0.0.1": {
       "sha256": "7e1a4a46bc9523e9e92cf533906064c899c418baa6b9e6898a3b19e2818d7e9d",
@@ -14224,6 +14248,10 @@
       "sha256": "746ca1b937ee1ea510a4256c6059db427937ca1fe19e47d6bb93e507fe09ecc8",
       "url": "ca/12/b6379d78e1bd48fe31bb8198a8fccf5d3043c46142d60bac0d6d30291bdc/mypy-boto3-cloudhsmv2-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "f2eba8821d18dc2d49d983f77fd3270ebdbd2d05afc2b6ef7d24f67b52940a1e",
+      "url": "18/91/980263af63e5a4e81cf2b73d86c50b42da5e8338a3a5cc1714b300563682/mypy-boto3-cloudhsmv2-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "0a3315ab83e45e798c2c031f583b7329d1231d8cf59337fd79c1ffe620e5e9d1",
       "url": "89/b3/294e183dcd7c8d4568eec0055d6b259650c7a7305ac864f2492c198a0105/mypy-boto3-cloudhsmv2-1.12.5.0.tar.gz"
@@ -14733,6 +14761,10 @@
     "1.12.43.0": {
       "sha256": "73951ec5cf0cea0c13504f02390c86355d519769289086e6a5e01c3db2ab03f9",
       "url": "df/a4/46dfa4bc4bed2c3a92d090764ef984724ef9333a09fc1b4415dfb95bebf0/mypy-boto3-ecs-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "7b64d346b3982329b2b7c16ce57adc4fa82ffefbbb6ae4b662dfab6ec87d6bed",
+      "url": "b5/a5/0d0ff98a6473281aadf29a3f42e46ac1d6c689959c0c1599c30489f31c1f/mypy-boto3-ecs-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "65ce1e1ba2697bace1996b4048a87692445c2deb98b18ab79a3635a782196c52",
@@ -18543,64 +18575,6 @@
     "0.1.5": {
       "sha256": "91cc9f05b375a96bff5caf3b98f3c3883f3b96bc4f26b5d9b7657a3e88b33d4d",
       "url": "57/f0/b030174b40d947ba37e9ebc29701ae2a2114ff16df2283ffb1ac0b21c6ac/python-coinzo-0.1.5.tar.gz"
-    }
-  },
-  "python-debian": {
-    "0.1.13": {
-      "sha256": "620dfa4ce886b6ccf081d821aec14b8da1c0b111d8c8a59c5057032945c482ff",
-      "url": "83/19/ee37750f1f62ba34110f8185db227c6b347d86acc08965dbdb09154a2352/python-debian_0.1.13.tar.gz"
-    },
-    "0.1.16": {
-      "sha256": "69e2673b33bb8c281031860234dce4aec2ae2a6dfa4ce0adc9f52318121dd38f",
-      "url": "76/a6/f8a4083e567b56c90a246bd2cf3684c6dfe4ea504b9f45812dd15a955ce4/python-debian-0.1.16.tar.gz"
-    },
-    "0.1.21": {
-      "sha256": "1e6447da1fcc2d7654d4d26e1e7cfc7086824ab010985ddef234c01d5255744a",
-      "url": "a2/92/474e63303a22bdde7b6817d2b09f7227400404bc20eac407d2bfbffbf98c/python-debian-0.1.21.tar.gz"
-    },
-    "0.1.21-nmu2": {
-      "sha256": "2c2cfeef00ea77bd6cff8591c1bc768d2d0099f064e61af634e4da9998623e69",
-      "url": "2f/87/a499d8ac21c4356bcff3d6181dc32556d5464c535280b9a25376295eb8a9/python-debian-0.1.21-nmu2.tar.gz"
-    },
-    "0.1.23": {
-      "sha256": "d07a0fd581f36d35eab5d95517fb0fd8bf044d8ddff39052b18349cbed576ea4",
-      "url": "2b/b3/0e6b0692c9e12ff516e6428fb3b82005414d78fa1c541eeae938a9e4e90d/python-debian-0.1.23.tar.gz"
-    },
-    "0.1.28": {
-      "sha256": "1e4441548598b8dfd2b61bc36db64bfa5a7b93a65ae04641d3e998fe3b702544",
-      "url": "fc/84/a637f063d0632edfad36044e97e2a7d1ee13c1d68aa4b3b85b4054977663/python-debian-0.1.28.tar.gz"
-    },
-    "0.1.30": {
-      "sha256": "57c3a9b090cb06916ca44cbbe808db3aea809c11b9ade8a32f2e4b90223a2f55",
-      "url": "16/4b/3d10e9bd6ce6ba8653e0a2f2bac594f2661e3b73e3ed4613950d3c574640/python-debian-0.1.30.tar.gz"
-    },
-    "0.1.31": {
-      "sha256": "21465ccb8a4cb2942f15e74b6c9b92caff5188365e22ab4a0dcc778b90f28479",
-      "url": "54/bf/d59ca16512ee6d740f2272ec8eeab47517bef3043eefbfe47391493cb567/python-debian-0.1.31.tar.gz"
-    },
-    "0.1.32": {
-      "sha256": "143887ac647ad30819f289f5a4ca13b77e56df27b686b84c34669447f7591280",
-      "url": "b0/42/08ae626745a5be3cdcf2f2792918581485d4b33aa9097f29ff68ffe92ff9/python-debian-0.1.32.tar.gz"
-    },
-    "0.1.33": {
-      "sha256": "06e91d45019fe5f2e111ba827ea77730d6ce2fea698ada4e5b0b70b5fdbc18c5",
-      "url": "b9/02/81d72ec3885b1f87547f1723d2cd045032776cef218f8e7897894e135106/python-debian-0.1.33.tar.gz"
-    },
-    "0.1.34": {
-      "sha256": "a02e073214e9f3a371f7ec0ff8b34dd82bd4941194dd69c49ad80b321b9d887e",
-      "url": "05/0d/15596f62603b0f5d3cdcd67b4616a1e35bc264389a322476743668c3b151/python-debian-0.1.34.tar.gz"
-    },
-    "0.1.35": {
-      "sha256": "5bcbcadfb7f9b4c51eece9d8492ccc45d205b07c34262adebdb6fa16bfa5ac7c",
-      "url": "38/5b/3377f8c3d97eadc8a5044cb61f619310655e8e13ecbccfdf69453364c3bd/python-debian-0.1.35.tar.gz"
-    },
-    "0.1.36": {
-      "sha256": "c953bb0c54e96887badd2324cc66e1887bf2734f301882cd4fe847a844b518a6",
-      "url": "c7/36/1a991e67a9de813e1dbec1bbc41f5531b5370cf4184e78fb597814860a50/python-debian-0.1.36.tar.gz"
-    },
-    "0.1.37": {
-      "sha256": "ab04f535155810c46c8abf3f7d46364b67b034c49ff8690cdb510092eee56750",
-      "url": "e3/75/e16dd9222bd894e32a23564aa248d144930858fe7ab2d386f2c20d02415f/python-debian-0.1.37.tar.gz"
     }
   },
   "python-feedly": {
@@ -22747,128 +22721,6 @@
     "0.1.1": {
       "sha256": "25c1d78d739cc939d45b51cef7d943f7e88e9e08a0f7a051e810796f85931908",
       "url": "05/1c/026c8ca50d0f3598173cd39915a2af642dafc2dc645cf950ddb9c4dbe912/tidytree-0.1.1.tar.gz"
-    }
-  },
-  "timesketch": {
-    "2015.12": {
-      "sha256": "4e3d9b0b62c3280f5ae435185d70b1c721cab8a4cd7b93904f8d6fb6841c6fa1",
-      "url": "32/d3/61570f0052118a12e6829fd6ac33fdfc5e1c101db30af93e26abcea0877b/timesketch-2015.12.tar.gz"
-    },
-    "2015.7": {
-      "sha256": "166d094e92a64cfb331fb9aa241cbb2ff763de8f7a065769696a347ead493cb5",
-      "url": "17/48/0e182637980d306215fb821d30346ee1b3d714b5e0997fdca1a36746d123/timesketch-2015.7.tar.gz"
-    },
-    "2015.7.1": {
-      "sha256": "5d8f37911542aff6c0c4df31df02e1965c4e61ade8d59d18411a62f31da2d69d",
-      "url": "29/5c/aec2a49650b2baf37a000ce43e9a38437e52b4b0202409e890c981442d3a/timesketch-2015.7.1.tar.gz"
-    },
-    "2015.7.2": {
-      "sha256": "188851d779efeb45ab3a4ca0253d71ecab8a9bc941c6bbd6f81b9ed313d72e0a",
-      "url": "c4/ad/ad858eb88fb1464298f769646c116daf1b52674dd64888dc98a914cc9272/timesketch-2015.7.2.tar.gz"
-    },
-    "2015.7.3": {
-      "sha256": "d78b7b41d18e94705eb660f3fdd51ffb5ce77c6e3380239ddb5a61ec58bbc4db",
-      "url": "16/0e/9bd76b177b28b56d942aa17164be46f7655bcda8d40fc11ce104b129b9ba/timesketch-2015.7.3.tar.gz"
-    },
-    "2015.7.post0": {
-      "sha256": "68b3e7ab413ec63509d6b28d822a7875652d080789e04dc2a0cfc5a92b1ae9ac",
-      "url": "ee/dd/e5a8e734e4cf29d418edd10709258c3c48c2fe9f1bef0d4dbd8c1bf868a3/timesketch-2015.7.post0.tar.gz"
-    },
-    "2015.7.post1": {
-      "sha256": "bf0c6e368d7572dc99b7a722a5f05392b119e1426ab449c89c651b866b4eedb0",
-      "url": "8c/48/021cc03ab330428d837d482be8e4af45cff239d39d470d5435e5232919bb/timesketch-2015.7.post1.tar.gz"
-    },
-    "2016.11": {
-      "sha256": "ecb32c0c540e237c52861c7b4b1ec0aa1af9fa463ad71792abc13ed1a2ee25ce",
-      "url": "c6/0b/925de7e976cea3103b5b633f01d8283df5391a2c6b0ee4396769d6218ca1/timesketch-2016.11.tar.gz"
-    },
-    "2016.7": {
-      "sha256": "a065bc4b1f6f2774670406b0e0443d2847a2defc0715170d52b727b07744db33",
-      "url": "a6/af/cbf72dd7e0e4287adf55d8e032e64ae3e77f3b1bf54421f6fc80cb6eee37/timesketch-2016.7.tar.gz"
-    },
-    "20170721": {
-      "sha256": "6c0fbdb3f95a972fcd2c0233e27f4f76ac5f75a5476ee138af72b856162e13d2",
-      "url": "76/6e/fbdbd4117d8d5f374070a316d5c93afe13e45d3330afcdca1ed46a40c6a1/timesketch-20170721.tar.gz"
-    },
-    "20180612": {
-      "sha256": "33d650df436690aac6092622f46cf8312528445feffff34e8b84488490d8656b",
-      "url": "fd/22/7e0cc674535ff796d3d06d21aa38e2792d71b11ef8b25cc6ff79d6ecb161/timesketch-20180612.tar.gz"
-    },
-    "20180613": {
-      "sha256": "00eabff5940d49a103cd7a1755b793b003bc37f3edb26863026c9d96510ba506",
-      "url": "05/34/0687e4f0f2470c60c074b9487cbae55a9e24a7ce9cd87df7d21149c0f39d/timesketch-20180613.tar.gz"
-    },
-    "20181116": {
-      "sha256": "2337bee8f4698100159bb90e608b844bce0ca9c18b617137eae28a51a075987a",
-      "url": "2d/80/7387ccdaf2f100279aecdbaa71dc7ed69eaec7146a08e7ed92bfc844b9c2/timesketch-20181116.tar.gz"
-    },
-    "20190207": {
-      "sha256": "4575d91b213c6e6f46fac6bb8f29c3e21e9da7a6bf6d0d66f86d02ae8f40e4b7",
-      "url": "5e/27/0ecaa28d71d984f0d3a054acf55e734eff38f61e93b9e2624c9ddfe7cdce/timesketch-20190207.tar.gz"
-    },
-    "20191219": {
-      "sha256": "ba4ab54a85c53c322d5129a5ff012c3f40128d394f89553e7e92805ad09aec58",
-      "url": "68/13/601cff02ebc80e30743cfb0f80cfca545b4dc7cc92c46653bb892df144b4/timesketch-20191219.tar.gz"
-    },
-    "20191219.post1": {
-      "sha256": "3159c329d6096f2bfa19342ba5847d614f058ab6ab50cadfd783c8671b546b57",
-      "url": "95/e3/bbdf609c1248b4a49caa99aea06e75878bea06e67d5f085c363bf7041b90/timesketch-20191219.post1.tar.gz"
-    },
-    "20191220": {
-      "sha256": "b9375dcb487f62228f03b6cc3e1339d689ffcd5e909f9fee9002a3b39274b45d",
-      "url": "7a/3e/abb543b7dd2b8f90c82dd379f167fa79a31d65cd4fcd91479cee128976f2/timesketch-20191220.tar.gz"
-    },
-    "20191220.post1": {
-      "sha256": "75d05365c771f33cace97dfc238e605a7d11893b1e1596fc41edee2cac564573",
-      "url": "07/b6/3646922a9546269dfdf9a7c4d833916f0190c99b7fd30a0a6de21e0fad4b/timesketch-20191220.post1.tar.gz"
-    },
-    "20191220.post2": {
-      "sha256": "a8f034badcbe5b344bd5c0ace3bc2f59cf85a3ccf44201e0b60e48686479291b",
-      "url": "41/96/69aad8a569078f3cbc6e19fc872de40f4ed9797587d6751e3032ee42be31/timesketch-20191220.post2.tar.gz"
-    },
-    "20200131": {
-      "sha256": "a5f44e2b67bfa00686018de6155f078cbec2220cec76dcd7c3fb296c123d1a18",
-      "url": "1d/dc/9d51dcc6175d8bc4a606ed2322851f1555cb029dbc3ca74be38aefba4bfb/timesketch-20200131.tar.gz"
-    },
-    "20200131.post2": {
-      "sha256": "eeae504efac23bc744c305d3c5f262fde64df925c148719144256727ada1edbe",
-      "url": "72/96/52628eca57973794b041aef249a9762e2568d3cd98b5ce8c031edae36325/timesketch-20200131.post2.tar.gz"
-    },
-    "20200131.post3": {
-      "sha256": "4b1b6df6be49f190bbf8234d8fb29d6a3097695771c770e491608421759b678f",
-      "url": "77/9a/8be4cec0365fb4bca1a4be9dea9300053528c74e2647343be63072643d91/timesketch-20200131.post3.tar.gz"
-    },
-    "20200224": {
-      "sha256": "5a72c025caa10bae1403e834e54bdf364599981088e80132208ae6a2e825024a",
-      "url": "82/11/1b6de00c49987f1c7f5719ae1bdc6e3dd9764d28b0a707639082cfd35ad0/timesketch-20200224.tar.gz"
-    },
-    "20200226": {
-      "sha256": "dd9c0139ff3501f9e9e52b82f74e5ad48a42849bbdd993df2885734c91d1a3a0",
-      "url": "09/a9/e15e7cc734f87f6750875b1b884f90c6cd2f0765f7ef0064c8ce88f26d19/timesketch-20200226.tar.gz"
-    },
-    "20200227": {
-      "sha256": "84c3bbebc5774acb8f599ab64e43d4297fe6ebb39954d3ffc406d9e24382e36f",
-      "url": "da/ea/7f0c33d2b338caebfd088b13541a4e91e9a2146b49e307d814e15b58627c/timesketch-20200227.tar.gz"
-    },
-    "20200304": {
-      "sha256": "aad6ed501ecaf8da992549590d452df72a3e5b36cdc0d341082a63a2323f1eca",
-      "url": "75/0c/263c26e8f9cd4cda185e7749f9ddea32d897c84c7d0c606faf41e50b0c87/timesketch-20200304.tar.gz"
-    },
-    "20200306": {
-      "sha256": "4779dda7d645f54455c340620c96c727723b34eff586c1b1db33c1337711617d",
-      "url": "42/4c/4e96852bd7444d39eba9aa791a4148cbc243b7f5d56528492919ce4470ec/timesketch-20200306.tar.gz"
-    },
-    "20200310": {
-      "sha256": "079d4348bcc5550520d877fbfd9caee089b3a4e734b6104b24501842f2ff5e52",
-      "url": "c3/6e/d0958c2f1df7478125eeaee428e459815797ceecb67139e0fda8723d1d6c/timesketch-20200310.tar.gz"
-    },
-    "20200311": {
-      "sha256": "7c2e89e69f61e55631ffb02cba07c971eda8adbf3f3fa64399eb405f9b5a102c",
-      "url": "dc/76/1e1f01c86ff08271c3663dbd630c03fd418baf0e59e9cc5ebce61e739b43/timesketch-20200311.tar.gz"
-    },
-    "20200319": {
-      "sha256": "652406648f1995c0066f586ddf1a8dc18f693ec05bc3340ca413657ea88526a5",
-      "url": "8a/20/0385613864be7a0dcccad04965a466674b4a749875aa6eccecb0683a2344/timesketch-20200319.tar.gz"
     }
   },
   "timetable-tool": {

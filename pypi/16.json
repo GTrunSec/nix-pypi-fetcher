@@ -443,6 +443,20 @@
       "url": "06/bb/86109732e4f24e93b1cbd2091e8b3fb492dee8b8067a3a5916e0a4ff3349/alacritty-color-switcher-0.1.3.tar.gz"
     }
   },
+  "alfred3-dbtools": {
+    "0.1.0": {
+      "sha256": "4cf6b1e2f0eb5a57b93f89a0c0ed9c3a4471bae769261d8a5774ef73be48724d",
+      "url": "b6/b1/ad70dfbea329bb50c1b600336fef63a4e1d45675f38ece327ae9a5630ae6/alfred3_dbtools-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "cf35786dea4d8c94eec9214d526e6c81918b2f87de5423896c19f7ef13dccd99",
+      "url": "a3/f2/45daca7ccbc40e647ca1faa483bc7dee54177d2d6a3b6e9d33acb8942a46/alfred3_dbtools-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "ec281affaa45980430e302292aecf97db9fa6a5bfd0cc0b3879d5d06159ba2d6",
+      "url": "0a/73/3a1a872d31b1704a8f18a2f81f73f6c5e9a85f85017d2b97b6b70d952258/alfred3_dbtools-0.1.2.tar.gz"
+    }
+  },
   "aliyun-python-sdk-push": {
     "2.0.0": {
       "sha256": "03c10781ee1f83cc476a1f5c0f1ac480a63f67710044e3ba602704e4b1f2e235",
@@ -1276,6 +1290,10 @@
       "sha256": "d5b7a0e687f8167a9d03bbdf1f372a3776604d1a1c64ea81d5f294986360b4ba",
       "url": "5f/d7/75e4c2caa6ffae17863277c64a072be1db65a8346dc9962637185d46fc25/aws-cdk.aws-robomaker-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "e8583b20a9657ff49270183d8f6dd25bfd106c56d607a702690b1c7eacdab29b",
+      "url": "bb/fe/34e0f3e0c590c25531c4e674b51f50565decfce4080278e1b6100ad5ceaf/aws-cdk.aws-robomaker-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "1a59579475bcdfec968cff399df8686db9cd12a234d2b833303e1b7a654ad6c1",
       "url": "46/f4/41b5dc3f01f127350df0f1dc1851c6e4f8ad4c2cde1dc643e1dafaf013ea/aws-cdk.aws-robomaker-1.4.0.tar.gz"
@@ -1423,6 +1441,10 @@
     "3.0.0": {
       "sha256": "b42ec09cc9172df229c6faf10d81b79d87840777c91fd2e15b84bc26b55a57c1",
       "url": "50/26/3cce735a67483e319399ca5c71536f79c773eaf816a6fb2f3abc9c557024/aws_ci_cd_lambda-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "bc018824073219aca1e262d02aa2b541ac1fb63fb0b317a325b587891271d8f9",
+      "url": "ff/55/9cd476e32499ff83a9c10c320feeeb8925c2d6a53f9cbbece1c1d81acb4f/aws_ci_cd_lambda-3.0.1.tar.gz"
     }
   },
   "awsbots": {
@@ -8830,6 +8852,14 @@
       "sha256": "bcaa486e222a72e2d90e0c4bafff2e5bbcfc34e77b1e8343a031de167f3b3636",
       "url": "15/34/d0ec11bcefb1ef785271e455d92bfbe59b91cc6e5407147878f81cd277db/hacs-frontend-20200421170812.tar.gz"
     },
+    "20200422065954": {
+      "sha256": "77f95c49b12914e5511f1de3da814fbc31fd03627ecf4d2f7b4f82929607f714",
+      "url": "2e/a6/ea3cca4ac24c10996a9797fd680b797eac05b43988390a840767fe6b1cc8/hacs-frontend-20200422065954.tar.gz"
+    },
+    "20200422201603": {
+      "sha256": "28f33486830d005278bbf2fb7b6e18a6b5dcf1dff82eaf4ccf8aae26e2d7c557",
+      "url": "6c/93/db7bb778068902c84129b5b2d26d93092a68d87e9b4a69c4d3b6c7e9f3d0/hacs-frontend-20200422201603.tar.gz"
+    },
     "21": {
       "sha256": "743a4b1682ec2f36f3a61468bfd567d70b012c98a30249b256d198a6765c5fb6",
       "url": "1a/20/de1a17dec322c3aff1511f4bdacae922e9d2032ba8cef714ae364f04c82e/hacs-frontend-21.tar.gz"
@@ -9229,6 +9259,14 @@
     "0.7.10": {
       "sha256": "afc7acaded6ceb53379c9e0c2fbf1e241c011975214a6c7ddbf6abf130fa4345",
       "url": "3f/47/391e6e8daf8cd84a21ed03df8ca58f7a683d369f8c652e39bdec53360853/hmt-escrow-0.7.10.tar.gz"
+    },
+    "0.7.11": {
+      "sha256": "e9a76dcbe7dffa9f32eea209fffb6ac62df36818fc5b11dd7bc98463afe58cd8",
+      "url": "58/52/4d5c22329887d46305ca3a83a643a616e3cdfb12346ff7af2e8ff5637f1a/hmt-escrow-0.7.11.tar.gz"
+    },
+    "0.7.12": {
+      "sha256": "8cde68dc398e1a2b2701dde037f52f42b88df724017d6a9358fcc2e70214f7eb",
+      "url": "48/31/7c9f5e3c99b1df23456a556adb5ede44a0fb433a88153ab7150166af30b0/hmt-escrow-0.7.12.tar.gz"
     },
     "0.7.2": {
       "sha256": "a091d7a64b6b654aaf64edb37c0b02254f9414ab65b082b37cfd7b46f6a22e8b",
@@ -10429,6 +10467,14 @@
     "0.1.101": {
       "sha256": "faf45bc66f56f81ba6a93175ad2dfb1feb7cb4b0a03597d75fa77056f9def556",
       "url": "e2/df/753abde7eed8946009210e20f353a2a351e1b04360854f98909154511923/koverj-0.1.101.tar.gz"
+    },
+    "0.1.102": {
+      "sha256": "7bc92b42408af54beced4723b593c4515f209def31cb2f5215ddcbdae190e741",
+      "url": "59/96/7f11ead0c57b3e5e771d7f29de41144b4cc157224c78def24629fd92ec03/koverj-0.1.102.tar.gz"
+    },
+    "0.1.103": {
+      "sha256": "f9361cebdc12f65c20105d0f497a3218d8a8c38de29f2c0b654755d9f9f67ee7",
+      "url": "9f/a4/38bdfc96c28a7108abd065f66ecba5c8aee996be52a884e7a0e175e47642/koverj-0.1.103.tar.gz"
     }
   },
   "kstoolbox": {
@@ -13011,6 +13057,10 @@
     "4.1.1": {
       "sha256": "0bbbbff5ccd66fce5366ea722c3de8cce3e36e3f9d615b61e1bc942a06f62a27",
       "url": "a9/6e/1e31af30704b81195fcd23777e1044866180d3db8460a50a18da1768f974/openstates-4.1.1.tar.gz"
+    },
+    "4.2.0": {
+      "sha256": "107d22bcd21a3673b0121bffbcf2ba0719c069275afeffb2705775e4814d32e6",
+      "url": "52/76/bfa747b0626032809f25ed586f113b3fbf7f532f93486a5e1bbde50bc70c/openstates-4.2.0.tar.gz"
     }
   },
   "opusxml": {
@@ -13997,6 +14047,16 @@
     "0.0.1": {
       "sha256": "b220fe1998e565ef566f450b18f2836b0e8f36e5714c14d5cde4a5cc4229a1a9",
       "url": "0b/16/9d160c02d674ffeceb8bd747e9846bf51fe1c3e73016c0d6fc67e31b2d31/pmw3901-0.0.1.tar.gz"
+    }
+  },
+  "pocketsphinx2": {
+    "0.1.15": {
+      "sha256": "d778876845661983a518ea123a484d08f20068b9766054a6039b0232e8d93425",
+      "url": "13/51/3e16acb93ce705c19ba9ba95f16929f49e143dc3b4ec2d8f7c696ecaa779/pocketsphinx2-0.1.15.tar.gz"
+    },
+    "0.1.17": {
+      "sha256": "c00e2e42c3dc63e6ee4ccb2fcda21f019472738767aa60bb4be00c86b474494a",
+      "url": "13/6f/280431fc903d7bc1a0b7efe5dc837602f0f193e382b36006bf23178acab5/pocketsphinx2-0.1.17.tar.gz"
     }
   },
   "prefs-n-perms": {
@@ -16269,6 +16329,12 @@
     "0.3": {
       "sha256": "2395051ed989fdb8ebcbc3e5def17f9d473ebb50aad16433f777aa78c69448f3",
       "url": "73/8d/2c60d83bd9f8d0bf13942fbb309ec7166233a1214bcc2a8360c014224b13/PyTS3-0.3.tar.gz"
+    }
+  },
+  "pytwitchchat": {
+    "1.0.0": {
+      "sha256": "851636e1e7f58fa7043efb64053a2307271778f60fa199a20c2b9fb415454f7e",
+      "url": "0d/49/b4d3e0e3d287430b1ea081cf54ee11ea5a2b1fe60c95ef066c54ce23d529/pytwitchchat-1.0.0.tar.gz"
     }
   },
   "pytwitchinteract": {
@@ -23119,6 +23185,10 @@
     "1.0.8": {
       "sha256": "acc3c0dfc80b4200bd23df716808112518fa41a0238a6787ac0a3e78fc5883ce",
       "url": "2c/bf/0b5cc9ae796efa8a6a87f8a57dfeefc40e4b226cce730611088be0433c7a/wot-1.0.8.tar.gz"
+    },
+    "1.0.8.post1": {
+      "sha256": "00de4cca5085d8cc27ac6a5581a9eec632d470a4ad1fd46d45e5c9b6921fb50a",
+      "url": "2f/46/a324abf3076734ffd9768256343bf493b921e21a061ed850ff6e50510a31/wot-1.0.8.post1.tar.gz"
     }
   },
   "wp-honeypot": {

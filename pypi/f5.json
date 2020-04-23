@@ -789,6 +789,10 @@
     "2020.4.22.2": {
       "sha256": "5485f106fbd98a59925795456fca064840f139d6888880d4e638f574dc2c8ff3",
       "url": "ea/a3/13cc09cdf1170eeb1b63ac7e18e4b5e7dbfaf91acad0a1264391f29f25ed/artap-2020.4.22.2.tar.gz"
+    },
+    "2020.4.22.3": {
+      "sha256": "aaa981e4d13646733b3d7e3f8fe7e76724f5d8ffec9822a277a6550c6d442faf",
+      "url": "a9/ec/e66fd4bb3c7c01fcf0ec23d93ee1287f179b006e2084618ab22c5af9d60f/artap-2020.4.22.3.tar.gz"
     }
   },
   "artellapipe-tools-assetslibrary": {
@@ -3201,6 +3205,12 @@
       "url": "e7/82/50304f1dad489d7561f15964cf0a3d1e50a4a81b663a7954019fd565fdfd/CPSReleaseTool-1.0.0.tar.gz"
     }
   },
+  "cqepyutils": {
+    "0.0.1": {
+      "sha256": "f4bf925661d176dec64edd39175106616a024001c72fe4e35d26d28044e9268f",
+      "url": "bd/a6/f5f04384cdb30214e112843f0d9aad5e41f9231b2923c89cbd2733db5117/cqepyutils-0.0.1.tar.gz"
+    }
+  },
   "crate": {
     "0.1.10": {
       "sha256": "c56b81c8a9e55ee4c02f6accd118b1839825784810768650a0db56d005a0f4f6",
@@ -4049,6 +4059,10 @@
     "0.2.6": {
       "sha256": "e9c125b24547688a297b5f356297c4204cebaa5c83b8dcd2b5e7aa1214aca41a",
       "url": "ed/09/3cab7d258a6089106cc251c7df0c346b176f0e811c2be9ee66d6308f715b/diffengine-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "4decdbbde85969ab75a147c020a7ee3440e9ec0796545a71ac8cb2348a54a492",
+      "url": "a0/da/0afc809b781a12bfb0759becc02506e4a2c405b05d7ce7bcf4bc01c7b89f/diffengine-0.2.7.tar.gz"
     }
   },
   "digimat.ccu": {
@@ -11248,6 +11262,10 @@
       "sha256": "7a0220a6d9f6542433a744e0154369cfd723009089bf283b4449d7445a40fed2",
       "url": "3d/5c/01ac78fa4a0040ed629a383d263eb0d2b0cd729cd671b853c10d03e65f43/janis-pipelines.core-0.9.1.tar.gz"
     },
+    "0.9.10": {
+      "sha256": "8154180b608796bcf7bf018029e136cacd24caf177df0d666bd380014b93893f",
+      "url": "17/11/62d3a7fdd734d6be08d14a2a3ea7ad6ede977b4b0367c76176160fc93b03/janis-pipelines.core-0.9.10.tar.gz"
+    },
     "0.9.2": {
       "sha256": "dd497474d169cd8c3c5bcb5d6ebba5efe2f4454d702f538cea113a9d2044af97",
       "url": "2b/9d/2326a4ff9a6e394a352c2fba08aa7eaae1b5f789cd41cc8eefd16fdd3458/janis-pipelines.core-0.9.2.tar.gz"
@@ -13970,6 +13988,10 @@
       "sha256": "cdd46f96172c6a4c116909402b37cb2785e75fe2b95edadb72557bebaa8af540",
       "url": "0a/0a/d84b7ed514db03dd8104d21ba7a9642d7c101c55faf9b9dcfcde85a4af51/mypy-boto3-sdb-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "10b21eea5ae7438dbe941830ad89dbaa9ad828193d8c4ee6b3cd28f19e3b618f",
+      "url": "0f/e8/de78b6b1efbf34dec2394a72de1d14aaa6a8d146747785b94dc430b66816/mypy-boto3-sdb-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "bb0abda6bcc5334a28a7b00f1bf791b85fd5b582d17b327584fbb9743c9d2f37",
       "url": "4d/f3/05d8d71136f2c08e480ab3b34797cc697c394f479d0d839fc83a96b34305/mypy-boto3-sdb-1.12.5.0.tar.gz"
@@ -14479,6 +14501,10 @@
     "1.12.43.0": {
       "sha256": "de799ab046e0b1d05c7967dfdd7360a7310f0931b73e7256ab39cb14e2cac61e",
       "url": "5c/1f/cfa9eac7769366131ca64eb9695399752185fd031b67623e91596fa042e4/mypy-boto3-signer-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "548dd5ce3226baeeb6b9826a2d042b43c71e0e7fd2861d703e8ea42639162266",
+      "url": "23/d0/e59e0dad0ea0ed74fb848982ce152d8f7abf2e6443ce04aed85409595b5c/mypy-boto3-signer-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5ad33cfafb1f64b9e58b752855999efcfe810238650da34cbdb19f705f66dcbd",
@@ -15891,6 +15917,14 @@
     "0.7.1": {
       "sha256": "9e57bcfd63488fff970fb7187d3fb4e4f8b94a1f2eb3e030ed67d1d744344a2d",
       "url": "b0/ee/d65171a9a43a73316589796e5bfec6c14ccaee37072b2e1d8f1e97ccc2b8/nyan-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "02b715b97e2e7199ed9928e1614a4a0ee18c5109138ec51d31b4bd267e54cfb9",
+      "url": "a6/63/94bea2de0e4cb179e57a2342827235c9b9f040944f8a47e8c8b1c3dd684a/nyan-0.7.2.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "c745ac6ca8b3fe3d84125ec821806deec361e8e88b9a73bd932d4e267f1414d1",
+      "url": "f3/3c/a17326d811d742335787b552e17b9db4ef6f915aa2639a21694730b05530/nyan-0.8.0.tar.gz"
     }
   },
   "obol": {
@@ -15972,6 +16006,18 @@
       "sha256": "b31452a09fb2e46f4d6ff0bd8954142257b479fa1a3ccbbd2e75b03ff62ff7ce",
       "url": "f0/90/2ee6889f20f8b3ee3143e958c1918ed363c4a0c0d69b24707c77506b9b1c/okchain1-docs-theme-0.1.13.tar.gz"
     },
+    "0.1.14": {
+      "sha256": "5583a1f578b26c281c78932a40544b673876c6fa38056d9303232adcc67798a8",
+      "url": "ab/3d/ce601628ad2e14e1ebc7c7afa945a3d81d0f7e02968309fa5e1c561a3ada/okchain1-docs-theme-0.1.14.tar.gz"
+    },
+    "0.1.15": {
+      "sha256": "dcae4afc00cc87d55b1e5d3bfef60f4aa24a510629d60f2a316277a65921843b",
+      "url": "9e/9e/f594148ecc4207dff66fddc6ca87e3ba2875caca8fcfa71b260888fd0dad/okchain1-docs-theme-0.1.15.tar.gz"
+    },
+    "0.1.16": {
+      "sha256": "aaf9582e2d1bbac9a544b3cc6901ce47e0b5d8e57ddb4be93e9c3e0edb74e80c",
+      "url": "8a/68/c81854decf4532fad8329c9715128150c214b94818ed21f5afdd6c5be280/okchain1-docs-theme-0.1.16.tar.gz"
+    },
     "0.1.2": {
       "sha256": "ca70105d548bfb27b3241df999f2bfc48e490bb6d71c0b3a701833cba829e800",
       "url": "d2/aa/1a80200c8955f6b85346abebdddff237820e0d0427449266226069e025e4/okchain1-docs-theme-0.1.2.tar.gz"
@@ -16047,6 +16093,10 @@
     "1.0.4": {
       "sha256": "bb2f0a25214a517029f7c680ecbf272624b734ba233905fa5346e45c92d50b62",
       "url": "8a/da/247abc72e2eda597ba775712787298bc09d72807b261bfbf15e442b1dca5/opencmiss.zincwidgets-1.0.4.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "38f1730bee3545fb2cc6d6d1f6fde31c440169e3bd3216f6e0181df9534d85f2",
+      "url": "8d/9a/54b82e7166e652b88364dcbfe932c2792c03a672c3a66735123d591cb1ee/opencmiss.zincwidgets-2.0.0.tar.gz"
     }
   },
   "opencvpython": {
@@ -17683,6 +17733,10 @@
     "4.0.2": {
       "sha256": "dc92d192d6aa7e93f68b37bd41dd266747808bf4cc32f66325cf4ea0a3cae8b1",
       "url": "3b/4e/0a447a575326e1fc68f27dafe471c03839dc225190d88b9954208d93a88b/Products.CMFQuickInstallerTool-4.0.2.tar.gz"
+    },
+    "4.0.3": {
+      "sha256": "945279eaea6080d9dde8ead71d3ce64e9c63b92e159c9047d3fbb27a454ac2ae",
+      "url": "0e/97/0c55117679c0acbc7c9636efd6b10de738c1aa4db5680ff3ed26b339cbd1/Products.CMFQuickInstallerTool-4.0.3.tar.gz"
     }
   },
   "products.mediaobject": {
@@ -23477,6 +23531,10 @@
     "0.6.0": {
       "sha256": "abbe4c0ba0246f37a592217cca5aa7b0508a620396c09a2d632b99cc28ed1c7c",
       "url": "aa/db/723cff00234af6a21f85acae7189926f0d8554485840d7b55c9725994449/textstat-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "31f62d33c91fa2ea84be963d4c11b31d27c46d22aeebbe18f703ffd5754be6cc",
+      "url": "da/5d/c4754faa5b49f695bd8feeb0acd4864db217614f007b296a9ac65d107a04/textstat-0.6.1.tar.gz"
     }
   },
   "textx-gen-coloring": {

@@ -11771,12 +11771,6 @@
       "url": "34/62/839393c4af2299e8fb173df205d5a86bff9a13fe26ab016af7f0035fbc7a/gaepsi2-0.1.2.tar.gz"
     }
   },
-  "galaxy-ng": {
-    "4.2.0a1": {
-      "sha256": "e6af6217fbf468d2eef21137cb98a92b9452dafdfc6263a52b178feda3433477",
-      "url": "d1/ee/82571d6ffd93a98506ff630c2661674b7a2c697fb53cc7b29fabd1e2847c/galaxy-ng-4.2.0a1.tar.gz"
-    }
-  },
   "gale": {
     "0.0.1": {
       "sha256": "7d450466b56005c76d5f75bba7b4bf4a34204f4042a03a85b66fec0bc029a2bd",
@@ -13291,6 +13285,10 @@
     "0.1": {
       "sha256": "d57f47c74cb128015a2631adf34e43ca66131550f63e020b9c843b5a6adb89e9",
       "url": "b3/55/a9d40abdd98a47a9856dd5b7d8e70db2dd56a33a235ae35b958d19e0561a/huetui-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "6593b48112239ff00fd1129d308ca82a7cca239aa81edb02547758e08788a274",
+      "url": "98/cb/4122a4eb9ed6bbf03a91f157526b560e15297a67fc55caf4900277b5dbc1/huetui-0.2.tar.gz"
     }
   },
   "ibats-di-trader": {
@@ -14455,6 +14453,12 @@
     "0.0.1": {
       "sha256": "16e72a04d8d1e32725406a7d6b697874383c2d34a3dd7827ee3ad4fd36040e85",
       "url": "f0/ec/8356703c53bde8ac02f628fc0af6d98e30aa433f050eb56081d13b679f3f/lasier-0.0.1.tar.gz"
+    }
+  },
+  "lbcondawrappers": {
+    "0.0.1": {
+      "sha256": "9d7efde8a36357a6964059b2b27ae1f89e7c87c32a2ec47121ea342ff949c7d6",
+      "url": "d4/ca/3685b8eec3d023fb460de9f0c3291835ecf462202a1498083287e3fb9379/LbCondaWrappers-0.0.1.tar.gz"
     }
   },
   "leancloud-sdk": {
@@ -15827,6 +15831,10 @@
     "0.1.21": {
       "sha256": "d40bdf1022939ecb4d64a8a36a1130b19bafecb9fb3360394ed520821cd3291d",
       "url": "31/e4/08322ca272c908be502122ae81fecd7a0a8afc5abad32a1b3b824afc6849/mergetb-0.1.21.tar.gz"
+    },
+    "0.1.22": {
+      "sha256": "ca81f4b849b0d42f7306e2ba5690de9aa6d9b44e7f7286d341b096cef574c121",
+      "url": "de/18/965f89ee0134cf562a5544db535a940368db3e2a9a74f8b56b05fdb72cfc/mergetb-0.1.22.tar.gz"
     },
     "0.1.4": {
       "sha256": "798588622c7152cff51ce0c978da574bc7b48d53b0977a09dc6f9e5bf59e968a",
@@ -17240,6 +17248,10 @@
       "sha256": "64d4f8d4c1c364b760dd43a257d8fa3f1e4a2588156c1fe68bc13cbd759649fb",
       "url": "b6/62/918df83598d9f3b2178a3b3ef2bc9b8a19e19534e66b3cabab561a3d74fe/mypy-boto3-dms-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "b6ddf79a4fae75da5a6d0e74630b9e3b5299d24e0eeb3e39620b81c00f161e70",
+      "url": "ba/34/be43d7e93ab88aa16bbe56a3ac37be85b5382437f9b803a278e5ecd01d86/mypy-boto3-dms-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d425d0b753feffc7165aa66dd39d6bfea27cda9a40fe0f57eab33f1f65beaab8",
       "url": "70/5f/613de6a2f45fa9c7ea227b497d497138f0abb1852c6d07d043169cf652cd/mypy-boto3-dms-1.12.5.0.tar.gz"
@@ -17754,6 +17766,10 @@
       "sha256": "3f79b563a907914e677f5c43876ff4d18511007523bfbb9ae13f40f80fc7409c",
       "url": "ff/cb/93ba222e38df5b37ca60f887e98bc6ee3f09d5d0932c91077c467100aa92/mypy-boto3-transfer-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "afe8407a8279e31f090b200a1f27ab01a809e02e11cba501aca52ef235780a40",
+      "url": "de/f3/7879e84499bb0b317a844ce5d82629d9bd480bdf97541d5625c547da037b/mypy-boto3-transfer-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ab8b6b8044b768d630ff0a59e70967c414cfeca66fddaba2658fa57b038e96bb",
       "url": "9f/87/77c1b1921e9a8894afe23e7f2136dc2d541492385cda3d345cca44e3befd/mypy-boto3-transfer-1.12.5.0.tar.gz"
@@ -17939,12 +17955,6 @@
     "0.9.9": {
       "sha256": "5805045767edec1c58b8cc32ffd0b36127251926edc6c5029e4c7a43c131a186",
       "url": "93/e4/da12a686879787936d0fcac9c6055bddb86a8d3c10084eb2a5ad2c650767/nemea-pytrap-0.9.9.tar.gz"
-    }
-  },
-  "nested-file": {
-    "0.0.1": {
-      "sha256": "8bc563b77ccca87471d8fafb3fecccf96d1718c97419e63e8c0a564ea04184d8",
-      "url": "db/d2/1c74d9ca73f5863bd03ed3debc9f0bef43f1283e67d4d8e5a901dd38d1dc/nested-file-0.0.1.tar.gz"
     }
   },
   "nester-amit": {
@@ -18945,6 +18955,10 @@
     "0.1.0": {
       "sha256": "58cdd46030d614d867d8dc7ff1b00ddd2fd2c516ac4b2a84fdebaebbd068e643",
       "url": "2a/ec/dccdca41a2409abbe03eed688b1a2477c08c435c71aaba7e3bad78fdbe79/opencv-proto-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "9480b7b265cf832492cfb64d108243e1c65a5136c2517efc89d419c0f53453bf",
+      "url": "26/a3/4345a4a23be4d46ab91f8c1b7ad5c46cae6773aaf7b5a0733992918393a0/opencv-proto-0.2.0.tar.gz"
     }
   },
   "openerp-portal-project": {
@@ -19439,6 +19453,10 @@
     "7.0.0.0rc1": {
       "sha256": "2f1169b17d0b71ad52b85ede52d28a63f20fd0414152a95b1baf6d9b9e0a86d1",
       "url": "ec/2d/d3abf18c8fbcb3b1a614345cce4fe2926cfe51f1a77b29c61a29f004be62/panko-7.0.0.0rc1.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "65fec636c30204f67e194b53f5534f8d90c54b9a849c399c0137968cc2074504",
+      "url": "1b/c7/9912430207e66bc75b2036238abaf7df6a25737bb405d9da3c1ce03d3124/panko-8.0.0.0rc1.tar.gz"
     }
   },
   "pants": {
@@ -19807,6 +19825,10 @@
     "1.2.0": {
       "sha256": "1ab6dee52be17398e909c9171fbbc0e6489d9c5fee4365addf87a96586663b7a",
       "url": "bf/22/31942f2bc939411449eb352b58cb4af9291f8b1dcd5d7b8bb3c89d6240bf/plone.schema-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "07c2cf61aebd5671d153b89bbe10c975e92d6a05a8fe34b4becf9f16a7c85b20",
+      "url": "89/58/4c3381e600f27b9ad2fa4fd0bdf86b0124dde120484eb6342b48cc315924/plone.schema-1.2.1.tar.gz"
     }
   },
   "plumbca-py": {
@@ -20905,6 +20927,10 @@
     "0.9.3": {
       "sha256": "eef5bb93dbd5c0b6cb08fb90a65ebd09f475ab6e8874f164f4be1adcab820cb1",
       "url": "47/7e/f6656be2d2fe622da764b5bbd93f5123daba165419e42bf5816254d0a131/pygslodeiv2-0.9.3.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "ee30278c05d7cdd0dd550fb970727da7dc96c7e0e783517f3b13b514e1b2095a",
+      "url": "6d/3e/916827b71466d236422648a891950bd2dd31b0c55ea4ef84a6c313a07508/pygslodeiv2-0.9.4.tar.gz"
     }
   },
   "pygurobi": {
@@ -22247,6 +22273,10 @@
     "2020.2.0": {
       "sha256": "295fefedcb9b0240642758db3063b93ea9bf4d3a9176ded60fc2f6d6bb35a01c",
       "url": "df/a7/58a4e75bcefba927cef92aa221e367ec2f457132a6dfadbd95724956356a/redash-stmo-2020.2.0.tar.gz"
+    },
+    "2020.4.0": {
+      "sha256": "c1b0f02b04a7d360624e7ec0aca76af7f1f9bf41c4185e1d43e50a8c55607290",
+      "url": "06/f3/944cb6e1edaf653cd22bf43103d0db7e5601232fd03040511c3b670110a7/redash-stmo-2020.4.0.tar.gz"
     }
   },
   "redis-py-cloud": {

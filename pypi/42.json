@@ -4505,6 +4505,22 @@
     "0.5": {
       "sha256": "fe75408bdd519504de2183d94c382fcc403b0328dccd2afb87fb69c1a899935e",
       "url": "04/c6/aba4c2fc6b29abc814b98e16f90e6c456b0aa4d125c98ddba63d270622e1/datasmoothie-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "79522f589414b50d88577c9cc4370b9600e4582ebb2f60bd47436cbeeab7fc0a",
+      "url": "7a/b2/1b6e81456515a3ac47b1050b5cf6479e9778c2b5d0d8c1dc2cacf8555f56/datasmoothie-0.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "78b910c2a5d4406402e36ef8472f6ae47452668f40d799b3c576103a4a848694",
+      "url": "c6/94/637cd2a036aa111a324e8b4f0cfc8dac288919fa9956e692b6d4635c41b4/datasmoothie-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "04d0cc7609cf69628e662b196502bffd2e558eea28df14a5c3f78acec2d0d3d4",
+      "url": "aa/4c/dda8dfd794eb5216471a936b8a46054e45f651b7d9e9c943deb72b9b231a/datasmoothie-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "a50722b936b3a34a31de6756af4aa06e2c624ac2aa756d664dbdee08afd1f610",
+      "url": "75/fb/4342b939dcd0a61c43ccaaf59a9f803b66af63f6b404023892604057bbeb/datasmoothie-0.9.tar.gz"
     }
   },
   "datastore.git": {
@@ -8875,16 +8891,6 @@
       "url": "c7/29/cbd664c42a119ee14d73a6991e4689beec529313ada5c4586c9c33f72e2b/fontawesome-markdown-0.2.6.tar.gz"
     }
   },
-  "foreground": {
-    "0.1.1": {
-      "sha256": "55b3424f2f93066d4f759ef203a258659c03d3779fe0a45b2d29bb933c418b5e",
-      "url": "03/af/afdf4af8726cf79d88a296df2fede0ad8a6c56472aae574cb4dbbc67ce1b/foreground-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "d9ef8ca82109977b8f8ae5f4e86cffe6162e465965553ffaa5b65e59cf3df658",
-      "url": "bb/24/cc2e6fae1b5f8ac29d150f4575e08ac9e928f26b42ab12bf9b91e63f20be/foreground-0.1.2.tar.gz"
-    }
-  },
   "fos": {
     "0.5.1": {
       "sha256": "10bf7a0c478caeb8d00d3ddcf061fb9acea598155814cba54420f7f935cc08eb",
@@ -9457,6 +9463,16 @@
     "3.9": {
       "sha256": "5fecc853faad8f0ab12e1310966d8f0fbf58ffa7558c2e7f5086686ede3b1e4a",
       "url": "5e/1c/798ba5474da2af79d37a367debabf1d5dd276371e4be210065fe52524822/gps-3.9.tar.gz"
+    }
+  },
+  "gpuutils": {
+    "0.0.1": {
+      "sha256": "c35268f1dd89fe42aa4618ca4fd768d38951e2577bce308b001ba4005160acb4",
+      "url": "d3/fe/afb374c810c833373765fd00374e6b3b55c3ea759fdd80d91e141ff150bc/gpuutils-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "a7703eed72e144355d275ce098b31f1b39da490f3d4724b2bf48a83a6e6b7ce6",
+      "url": "63/86/78702fc7c03725b56bfdff3e7a97ee78054a26782918da38413c97d8e11e/gpuutils-0.0.2.tar.gz"
     }
   },
   "graph-theory": {
@@ -14689,6 +14705,10 @@
     "0.0.1": {
       "sha256": "b592ec877a9fc83ed1914824904a2d6bee73248734f4a4127666da57716149a4",
       "url": "2d/e3/b6c27cd70683a6319a5719b4cef7b1884aa9823a7429e1939cacdb40d5df/photomatrix-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "7996485ef8ad0dc41a5513513168b5a0f1bc42c039f0dcde91faa78b1f37d675",
+      "url": "0c/03/e000c061e599bd22de27156640d78633cbce85be4979eaf331596bcc2e8d/photomatrix-0.0.2.tar.gz"
     }
   },
   "pio-cli": {

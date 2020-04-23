@@ -2957,32 +2957,6 @@
       "url": "fe/58/cba654243faf2ea551f8b26fe8adb652e719ca1519691890347cd2954af2/bumper-lib-2.0.4.tar.gz"
     }
   },
-  "c3tools": {
-    "0.1.0": {
-      "sha256": "36d16aa0cd9040e8ea970fe365eea6c99f16c5951d9faf984654ea9b3f80ed39",
-      "url": "e5/6e/e053b27321dd74070f1769c0268d27d61558e7b365fbb9a768a1a1aeae86/c3tools-0.1.0.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "ccf93c767638f13d9349034f32d2ec27f301b4c3ff1cfd284577d891c2e65899",
-      "url": "b5/73/457fe2671fdcad8389cddbbe9245901b29832fe3f10d64b9a9e52468b37c/c3tools-0.2.0.tar.gz"
-    },
-    "0.2.2": {
-      "sha256": "6958847c226ca3784f596a63cc49af0a38c6bc0c18554cb0c313faa9184de694",
-      "url": "01/63/96dbab90c489b277b2193aa4b7fa164c689fbd3812d0b52f5fb283c6af21/c3tools-0.2.2.tar.gz"
-    },
-    "0.3.0": {
-      "sha256": "2319f419ae09d8e65721a87cc17c29bc911c26bfd92317d449e947e446223c5a",
-      "url": "da/4a/1646315ea2f280aba19ed3654364112a7b93be93249439b87ca48aa0a055/c3tools-0.3.0.tar.gz"
-    },
-    "0.4.0": {
-      "sha256": "3e4ed9becea7de8886362154089004442175502605a4d65fa0a274361e15f633",
-      "url": "35/c6/d6dd592b767a95a252003566bf4973e7e42879caa85ee14d3bd77366308e/c3tools-0.4.0.tar.gz"
-    },
-    "0.5.0": {
-      "sha256": "16e72f21584be75dec7d54ac6807d82741d215d1b5a66b14a7d3d6c00ad802da",
-      "url": "85/f0/7359390069b870ce96e731a715e668086cf8867705d846e451532a8f9e22/c3tools-0.5.0.tar.gz"
-    }
-  },
   "cacpanel": {
     "0.2.0": {
       "sha256": "92b98421ac500744b3d453043b136e923a4456a371114df8a50811e3e3a29ee5",
@@ -4587,6 +4561,14 @@
     "0.2.6": {
       "sha256": "b0fdc5cd937cbd9ab90a56edff4f01d0e85e7ff94c44c1a7ed35b67e19a8c4a1",
       "url": "76/28/2275950e32267c0caaa7c86228afebcd43fb7faedb1ae2b8241970fe0e61/cryptobotkit-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "ecbfc92fb16984005a6f7d6c1777beef4915e25ed0ca3ea272fa8301f54ab656",
+      "url": "fe/23/f26c35d58e7fc87d777f02d2ef45dfcc6e457654f17a8f8e15b497cbd69a/cryptobotkit-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "1bc16dbe3f1bbce5dd3c3bfd62ef7ac45866b4b324519389ffb7868577020d5a",
+      "url": "71/59/68ea9921c124aea2a9df466874081441dd1b15cbca40e814b2230029f171/cryptobotkit-0.2.8.tar.gz"
     }
   },
   "cryptocmpy": {
@@ -5083,6 +5065,10 @@
     "1.1.3": {
       "sha256": "035ddd4d351bcc1f2f639e6492b52cc35461eab268288452394c2c53fa65e82f",
       "url": "57/b5/7261004aa1c3287640d349d9eea3cbd927b9d73e1b78438ccb0a0bde313c/deadlock-cli-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "a6fdbc274e891d13df29e09ee6da797658625cc657852b70cf6db831152fb515",
+      "url": "ff/16/f5094c852235763fad6d87da5bff9926bea7a495bdc8fef93cb7e9720946/deadlock-cli-1.1.4.tar.gz"
     }
   },
   "decoupage": {
@@ -13967,6 +13953,10 @@
     "1.2.0": {
       "sha256": "6f454412abde0e070712238ff1f2db1c93f94453cfad8240a14bd8a924b6b82d",
       "url": "d5/f5/1ed39377bf8e56bc89740273782fb9898950c518a7e0641e33c738079783/jobs_done10-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "8755109e01dfdcc901e52b34d7a9ae510002b14dea94ee7aeac79b58fe823782",
+      "url": "9f/58/45c152059d2c42c8ca6dce86fa7f85f2763446d23c4506a948d93e39cd90/jobs_done10-1.2.1.tar.gz"
     }
   },
   "jocelyn": {
@@ -16633,12 +16623,6 @@
     "2.6.2.1": {
       "sha256": "ef3b81ad85d7de252e5491b1daac028e17f9741cbe3625032e6eaa4ad4c79900",
       "url": "b8/8a/38187040f36cec8f98968502992dca9b00cc5e88553e01884ba29cbe6aac/multiprocessing-2.6.2.1.tar.gz"
-    }
-  },
-  "my-server-student": {
-    "0.0.1": {
-      "sha256": "37ffb4bf58604c9e5d7409ccc263398e1cd09b2d0552dd0328f96428f7367c39",
-      "url": "7a/50/1ccc870f85566d82f2ce29a676e1fdd2289be8930332ce10f3e3a15627dd/My_Server_Student-0.0.1.tar.gz"
     }
   },
   "myapplicationalex": {
@@ -20659,16 +20643,6 @@
     "1.3.0": {
       "sha256": "b7ac34a23f63d77e27f67b6a81c9418243733f027eeb8a3061d965b2da7e5cab",
       "url": "05/45/f0c545cf1bee1556fed7fb3e7eea77a4691255939522b1d677ecb2c04be8/pytest-sftpserver-1.3.0.tar.gz"
-    }
-  },
-  "pytextree": {
-    "0.1.0": {
-      "sha256": "99fc87ca077c112cb19d25d0e24b45a781dfba7920a59fc7c1f7a8e900283eb8",
-      "url": "bb/dc/e59a82930a53329e510451a46308b0b2e4f8a5773d4d7f2bccce1e28fadb/pytextree-0.1.0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "92c8f717c695e79c3a0b6b1ca97a06f82d67afa60845938e45c7af43d3c0ba25",
-      "url": "b5/64/abea99f592acc7d1480275110fc5d43a5b45c1e4f2db2f755df5de84c196/pytextree-0.1.1.tar.gz"
     }
   },
   "python-api-client": {

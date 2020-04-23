@@ -4389,6 +4389,14 @@
     "3.2.0": {
       "sha256": "f71ca00e5fa09170a8bc3e6b90b74f907d4ede8633c569b47dca56e40aad50ab",
       "url": "9b/1a/48932608687594ea7e89c028ead41101c37625bc1ff09632852bf1109eaf/django-measurement-3.2.0.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "224aa18cf77f7c44dff1e0d06e94215535746e198678619b756c4feb1cc19913",
+      "url": "f0/34/010b82a6b8d62e958cf3ec1c4abe8e9592f0d9e1ec7b2c5163177f095688/django-measurement-3.2.2.tar.gz"
+    },
+    "3.2.3": {
+      "sha256": "8fda226239a4d4ac033270e5bbd5aa3595c1c817f47a657c83f343b492b88220",
+      "url": "46/e3/050ecfb46394f388ce144e967d35f14e046e6581465dec59685d591658b9/django-measurement-3.2.3.tar.gz"
     }
   },
   "django-modelcluster": {
@@ -6003,6 +6011,12 @@
       "url": "3f/5e/3ce69ed35b89c84978c278381b8d4fecc417c4f9130b4fe77398ff25ca82/elastic_cloud-1.1.2.tar.gz"
     }
   },
+  "elasticsearch8-dsl": {
+    "0": {
+      "sha256": "50d7bda550fcf4672ac780570f7aec55a6dd144c67ade02c408641390c07ed1b",
+      "url": "22/d7/320a51b546d35b844f53678352f7f2306b56a3e0ce358e335ab7d45c4771/elasticsearch8-dsl-0.tar.gz"
+    }
+  },
   "electroninserts": {
     "0.1.0": {
       "sha256": "759a98a13239b17186ffec9d311d85ac42bf68505d545c5863dfb1f2f78e6475",
@@ -6981,6 +6995,10 @@
     "1.15.39": {
       "sha256": "30a3b5077147175e40328dbf9eb19ba3b52c57d9eba02d73ba3cb53160444c97",
       "url": "77/db/767aec072aeba3987728fbd94b591545c011831d8708e2b9086c0d7b36b1/fairyfishnet-1.15.39.tar.gz"
+    },
+    "1.15.40": {
+      "sha256": "10a4a443536e24b89f05f30cb8d8037081ab31bfe8ba2abd8bfd1d1d14b52e44",
+      "url": "22/bc/5b2d0c66674631fb8982879365c4a76e91253888ae6571de9b27c9bc8fc2/fairyfishnet-1.15.40.tar.gz"
     }
   },
   "fake-ubersmith": {
@@ -12603,6 +12621,14 @@
     "0.2.6": {
       "sha256": "8c17e0a98d5f24a4c24c1612de45f6acb45133986ed23a4c55177781c84a036e",
       "url": "ec/b8/81e2b0522502fc3b02d7d45e8cb7db49eed64d2329c2f2465e48ebcaa947/mljar-supervised-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "34c9359b53c1dcd001be4a842a9aeb03b1d50979a98ae33d5ef7a48d3bd04551",
+      "url": "12/75/971629745fdeb8052c1ae3c58afb3fb109fa38f95015ceb7a1d21c3ca474/mljar-supervised-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "c7d746a42ddeb2b65cff3e90077ac437e545284bb7f1630a19ed662181fb8753",
+      "url": "11/d2/f5bb8ca72db31d575e69cdb94d9ec8e726256e33febafb4c58b1ffcb8812/mljar-supervised-0.2.8.tar.gz"
     }
   },
   "mobidic-mpa": {
@@ -13419,6 +13445,10 @@
     "5.0.35": {
       "sha256": "b49ac7b3eb59b9244765eb1299eae9edc5bd6f1f34ca6976689b2c3d96529d41",
       "url": "f2/ae/8a1f4c24280187f074c70eab316e8992336120d8ef7295f781b6114dacf2/neox-5.0.35.tar.gz"
+    },
+    "5.0.36": {
+      "sha256": "df27bb5de5393c9c59e1b8bab3980443b05599e15028bf41d117b19024c44ef8",
+      "url": "75/9e/7fd0f2842b011d45e338b16a73c321f1177d6930683060ee821243c0f8b4/neox-5.0.36.tar.gz"
     },
     "5.0.4": {
       "sha256": "8ec55141778d8443e6814fb3fee01bbd49c99524be2d5d19a55384b6a6c5113a",

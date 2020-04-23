@@ -1913,6 +1913,10 @@
     "0.1.1": {
       "sha256": "ec62730e8260b4b1b8bff74674cfab0e81002a003d913d385d858bc8f91c3088",
       "url": "f2/bb/3c4b3d905634621b1360064c0f8b1d7e5c1a0bbf16912c3f439aebe29420/beets-autofix-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "f734c24f5208e170da99732c7a5be77eb1f729810a29fc8a7cfd88cd7d49d1bd",
+      "url": "34/ea/f2dc0fc78cffb50661c7863ba5af804f525183000e5c26f3369b088015fb/beets-autofix-0.1.2.tar.gz"
     }
   },
   "behave-plain-color-formatter": {
@@ -6986,6 +6990,14 @@
       "sha256": "39168628dd965c241a90c1728e76b221a3ba7312d27146b406160981c7c30954",
       "url": "61/0c/4cd0e2dd96c956a18b4b0e4688bbfed976b71e88fb7864e0efe12b0c3da6/django-apar-1.1.6.41.tar.gz"
     },
+    "1.1.6.42": {
+      "sha256": "ae4fef80a2f22de0e5c1691889f687363506a2f3bfac7199c888025f2304e414",
+      "url": "6a/3b/4a4ba3521038f481fbd7a27c6cb2329fe24b77358b4ae31d62c447d4c06b/django-apar-1.1.6.42.tar.gz"
+    },
+    "1.1.6.43": {
+      "sha256": "230132e6b0117fac630a52c4fe2c192f335ab3e8d8ffdf8b42891ba1befc7ec1",
+      "url": "90/66/37f9cef7d3113658e55690f70d86cba3314f2f0e8a795e02c7b8a8373305/django-apar-1.1.6.43.tar.gz"
+    },
     "1.1.6.5": {
       "sha256": "b7fac65ec567aa416abcd94714d8305d28b8a0ef4bd2f4e6072fc8c59d04d13a",
       "url": "bb/33/a50d605a1a127a6e040c0bee7260d1a5958e9e74d25127678d627df06a34/django-apar-1.1.6.5.tar.gz"
@@ -7213,6 +7225,10 @@
     "0.0.2": {
       "sha256": "d172144ac6832de34a673836b53b2097e6de8007eb780302fa7809d92704c6ae",
       "url": "b2/96/8c6da776c7bcd46f39e212dbd121793c0adab88cf16f467482c570cb7ed6/django-cavalry-0.0.2.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "175425f443b6ec59da7f1d5021a3724437a806008b12593c66e750ec465eedd6",
+      "url": "c6/51/15324871510f15339aa3226f6e86e606dc08086d3b6162bcf9006f7e8bcd/django-cavalry-0.1.0.tar.gz"
     }
   },
   "django-cschedules": {
@@ -11225,6 +11241,14 @@
     "0.4.5": {
       "sha256": "bcee136e09341026a6b04abe0cc888ede0919f1e366478a8da9ebb7156874aa3",
       "url": "cf/07/33cf5bf6975a5a6bdcda57f5b1e551cdf902afe454ede0d9d78c112bd453/igeCore-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "bafca231fb06c86bde3ea583fd26f823633b846cd4956aa0014bb55222140a4f",
+      "url": "f5/b1/3352001c2dd45c5299a15b6504582c30f4ebe2f314f473a06c76cbd431a0/igeCore-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "f9c295c73677e879772ae88c465cdf80b43e3c5cd2ddc99a25792ea3cbca2363",
+      "url": "76/19/6a6cf91bcd394b6ba460a6e18a1c740a5f593965ef3ddd0d7847354b8461/igeCore-0.4.7.tar.gz"
     }
   },
   "ilo-utils": {
@@ -12769,6 +12793,10 @@
     "3.0.7": {
       "sha256": "ecf70d94c6f31667744bedc8785f863b2265893802e0f668fa7c18673396d783",
       "url": "de/54/30168b968b0fad026dbf26d399a6ed4e754db6d7ad54341f3454669b75be/LbNightlyTools-3.0.7.tar.gz"
+    },
+    "3.0.8": {
+      "sha256": "85fbce96f59bca6c9754175fa0c6967852f71811547eb20be287d9936dd01086",
+      "url": "e8/b5/a810fde1a1a3f9b6b9cea7023cf753b77b967e53d829831c8eb6597d37ad/LbNightlyTools-3.0.8.tar.gz"
     }
   },
   "ldapdomaindump": {
@@ -25843,6 +25871,10 @@
     "0.0.2.dev0": {
       "sha256": "fcab661b3a586b40fd12a71ed430576886dd7afe107a9188505d242872a2bd59",
       "url": "a2/c7/45be2c9cd738ce85cb52ce728fe626666bdaba9365da7ba1b9e58770874c/torch_nfp-0.0.2.dev0.tar.gz"
+    },
+    "0.0.3.dev0": {
+      "sha256": "ccdb022137492234a498b7af44c9e8a7fc35ae198f6b3d1530db54ef52da196d",
+      "url": "31/84/5b346d1234dbfd338ac11ffdad6ecdded1c20636b88aa6c420122a65323c/torch_nfp-0.0.3.dev0.tar.gz"
     }
   },
   "torcpy": {

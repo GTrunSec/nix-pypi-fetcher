@@ -4858,6 +4858,10 @@
       "sha256": "82466b586e0ef330e2ecf554dcba037f5e3789a10537f33e1ce98118f8fd239a",
       "url": "50/76/58a27af55a5910448ed67341d231b1f3c72a74b37af86fbed86a3ffefff4/dagit-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "dbd2e5738dab62845e4ce9ffb661dd7290671bbb350c689725c4e8fede03a438",
+      "url": "d8/eb/d86b6fbedf9bb4ee00d92ce6de339e98a8077ed0094078b216ee353d49a6/dagit-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "ba1fed36a5dc7f3099519f6e4c3bf43b661c41e1f3ac81a2db549b7101e0a319",
       "url": "a7/1e/cd295b441afb9f207f1c87349ccd09153925556f2a39a79e98f76a0d408f/dagit-nightly-2020.4.4.tar.gz"
@@ -4887,6 +4891,12 @@
     "0.0.2": {
       "sha256": "c15d451d895efd0997ecb70a2168a54f242184f9b5e0557d11b95de88905b85c",
       "url": "5d/22/c38b4476f81be8bd2175cf4379fdd729c3769c7f25779c44baf0858a8b5d/daokemt-0.0.2.tar.gz"
+    }
+  },
+  "datascitools": {
+    "0.0.1": {
+      "sha256": "cdaf68031fab322a018dc5e20fe0fb5ec89015818e413568683729bdb6959eb9",
+      "url": "71/d8/42373c4bc8d29265554a66ff6d04ab2c243e03e74a436a1f1fa67fb3788e/datascitools-0.0.1.tar.gz"
     }
   },
   "dbsh": {
@@ -7723,6 +7733,10 @@
     "0.7.1": {
       "sha256": "ddc778d5d8eac8b5200890c506ed11334fa19b584980ebc59b059aae26b473f2",
       "url": "c3/0a/9696cf5415e07026384b3c5db5724715509008cb1a6ef40fb65564bd9f27/econuy-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "980194a128a3dedb2687ae08fef7bf1f0257e55cf8db592915c01db3d5a79d7d",
+      "url": "1b/55/a7a779cd60fbcac1d3cfdd3371806eb1a57759ba670e9f5cd2450216052c/econuy-0.7.2.tar.gz"
     }
   },
   "ecsutils": {
@@ -14339,6 +14353,10 @@
     "0.38": {
       "sha256": "8c1d17b23284e02fe51c58feb3bd0418406c4765c95af67c23dc514c6b1f087c",
       "url": "1f/d5/981b23a257889ed2a568de73e568d2878b45e0b4cd010a506edac95f206b/mrakun-0.38.tar.gz"
+    },
+    "0.41": {
+      "sha256": "21ece39bea9b8f2bbb581fc4cd1bbfc12578b52d5d9f089577f189b48e36c2e9",
+      "url": "6a/f5/a9cc376287ab65b9285d22ed77721f8a325ecc3fe2c689d25c0a12902b9d/mrakun-0.41.tar.gz"
     }
   },
   "msutils": {
@@ -23435,6 +23453,10 @@
     "0.0.7": {
       "sha256": "b4a1c4cd4580d53407ae732ac887afde72ef4c09b8d540e15bff5de944cf115a",
       "url": "a9/ce/d2213297e65379bccc3fa08f8450e97cad2562b831e2238ebc8061d1fef1/tangUtils-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "378722eac7cdbfd46341375cadaebc952bafeddf0bbd811ed5912061877cae05",
+      "url": "ee/c4/28328979e7f6a35e9dc3626e2cfb21294ca7d74dc6117b9e81edaaa6bcb2/tangUtils-0.0.8.tar.gz"
     }
   },
   "tap-harvest": {
@@ -24429,6 +24451,10 @@
     "2.4.2": {
       "sha256": "933aa2b1f0b2581edb66f670d162e2a59a4a4ac161ab75449bda480953b0e808",
       "url": "24/f2/fc091e44b0b4547e22aaf04b129faa178e3fd1197c9e7871babb35329fac/tibia.py-2.4.2.tar.gz"
+    },
+    "2.4.3": {
+      "sha256": "255fa6eb1d143f0bd0d7b99a24077aa486d5ea4f4cf200d3a27461d37386bcb4",
+      "url": "41/ea/35dc1de03abd3012b6b662321d425e28f7db518f8a865ab7cc93e46f55ea/tibia.py-2.4.3.tar.gz"
     }
   },
   "tigeropen": {

@@ -2099,6 +2099,10 @@
     "0.1.3b0": {
       "sha256": "f6e3ae3a0f1b74adcb788ee820524cd4f4039686ac5eb11080e05a3ccd35401b",
       "url": "f0/da/c7979a930fc027baefd333616a726e75bea7a4fff7d6097751f84670bc71/bone-pytex-0.1.3b0.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "530684a3b876d7ff9afb8f3eeecff9b63c32bd4d3a93525002143ad1b88e30be",
+      "url": "f2/52/bd85d6d5e2dc7eb1ff4cc22276bfd38706265d47460397b2c2342a8349dd/bone-pytex-0.1.4.tar.gz"
     }
   },
   "boto3-batch-utils": {
@@ -3645,6 +3649,10 @@
     "2.4.1.104": {
       "sha256": "9a0dc788fd3d4b3a8d5ba1e28ee1cb9f44572b688d33a27a6aaa29bacf4211d1",
       "url": "20/90/4ddcda40010bc28fb4ec61ed0cce0cf0604eb2dfe73ad7e06492a3f2b515/c2cgeoportal_geoportal-2.4.1.104.tar.gz"
+    },
+    "2.4.1.105": {
+      "sha256": "7f6546e19666f81a5de23f806f97ba0a42c6b4c849e5d29de37a689ae39ae21c",
+      "url": "cb/8d/dae7f569d740880df8a8b3cc2bb5a72e81d34c2cf479665a43c01861e67f/c2cgeoportal_geoportal-2.4.1.105.tar.gz"
     },
     "2.4.1.11": {
       "sha256": "e7c77c608fbc441935d52b2e0986617ba16f038ac6b9d1a43cca46615189bbd1",
@@ -15053,6 +15061,10 @@
     "1.3.4": {
       "sha256": "83fef8239ad06fb5e5d9ba91b9f30d8657ab912bae4fd79e04852342649fd7c3",
       "url": "cd/92/05b5b0c336760984117eb4fb020cae5bde880c8cb1acf2209597742ad38e/mgzdb-1.3.4.tar.gz"
+    },
+    "1.3.5": {
+      "sha256": "e9bda7f6281e79095d1f0ea83980b779f0914f5ddb54c8964de241b95c95b535",
+      "url": "5b/ee/ec8609c07ba3258410888f61e371cc745bb4ec85f627b41b9d8372c50b66/mgzdb-1.3.5.tar.gz"
     }
   },
   "microapp": {
@@ -15079,6 +15091,14 @@
     "0.1.6": {
       "sha256": "8ebf1e9c2b4540307e12713d033fe2a2ec2eaf2bbd916c756b3778415d7458e1",
       "url": "b7/e9/e41dc18200b610717212cdc543d70fd662222c7541f7ed45d5755a47a88e/microapp-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "f3f59aea1cb274d8571e47b67c51492a56e6e4e295ce02a03281ea56fc61634c",
+      "url": "24/e1/a33f58882796d477fcff284daeec4f64487ce0f42ac30a7ca1837f7e832d/microapp-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "050099291128ba891fb29e943823c1b3b645e907ba9a8a3ea7fa9520382ad1cf",
+      "url": "51/59/7ba690cf10efe8bfe5ff8a85cbc8bc0fb27a3e0450e2b8cf5eaab07053d1/microapp-0.1.8.tar.gz"
     }
   },
   "microbenthos": {
@@ -16246,6 +16266,10 @@
       "sha256": "b8a3f67a6c2bb874db6bfed1697e3a8f069732a81bfc5749929440e09fa1452c",
       "url": "29/b7/66709cdeb477b20ebef419214dd6063242f06f6ced56489caf63d591b7ea/neuro-0.0.7.tar.gz"
     },
+    "0.0.8": {
+      "sha256": "bd1c84706f8edd15637b794d8e03d62c86e2bed3d08ee96d30385d0699c38c41",
+      "url": "88/55/0a4892bb267991298ab3af6073e54c13e5fff35642c5ce02432630635d01/neuro-0.0.8.tar.gz"
+    },
     "0.0.8rc0": {
       "sha256": "295218c98924cdedb05bd0ddf10987627d78e3cbd300a1f52fc71484615599a6",
       "url": "a4/3c/a9120fbb159ece9a4664443ab7dcf539f349dc9020e412977606e48559ae/neuro-0.0.8rc0.tar.gz"
@@ -16697,6 +16721,10 @@
     "2.4.4": {
       "sha256": "55ae8a4f073c873a55ed090c77875a993102fe5c4dcaf4a4890caa5989344478",
       "url": "a7/f4/35055847fd384350fa3ae2e99c01e497ba9a8b4961830ab37b601bd01f75/ocrd_validators-2.4.4.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "cfad44d9b5497ed77927c92ab756eb407936c1673240242955b974b4d1541be4",
+      "url": "2c/5d/0fcd38f81f661b37636ceef8102646a1e38b6a385b5e31798e047c2be79e/ocrd_validators-2.5.0.tar.gz"
     }
   },
   "odpm": {
@@ -18997,6 +19025,10 @@
     "1.22": {
       "sha256": "6a153bed675576610c225bc1ba2ae169760789d3bc26b156fbad89ef0078fc1c",
       "url": "49/4b/0c91ea6ada888d9e74952fcab36c611e2ab7d5b43788d1efbb79c9fe89f7/predictit-1.22.tar.gz"
+    },
+    "1.25": {
+      "sha256": "ba1b177ae89f6bf6164fe027daca7b676fdddcb0c181d55419725bec2393a4f4",
+      "url": "7b/16/91baf176aca42a3c487579b20a8c42b0728cbddb2ec87fb5b0fa3dc03432/predictit-1.25.tar.gz"
     }
   },
   "prestify": {
@@ -19677,6 +19709,10 @@
     "0.1.0rc3.dev1587477902": {
       "sha256": "ba7d5425a899909454c039125ebc63d0af41a406ee2d459925c9e60074283bf8",
       "url": "2e/e1/6a3b64fddf43e42d57b854d48f54aaade58faf403342ee3d46eae29943b9/pulp_certguard-client-0.1.0rc3.dev1587477902.tar.gz"
+    },
+    "0.1.0rc3.dev1587564346": {
+      "sha256": "bbb3b550fbc2a2bf5f2a3ed0512fa161944f71dbb126d5e02e6032d8c1fcf7b0",
+      "url": "ed/97/50310f336ce4583ccc3405ecc959fa785ca3f2a00ca10200d13d06d6cf79/pulp_certguard-client-0.1.0rc3.dev1587564346.tar.gz"
     }
   },
   "py-di": {

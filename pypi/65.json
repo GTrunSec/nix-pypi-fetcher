@@ -3318,6 +3318,10 @@
       "sha256": "2ec67ee9c2e6a5003e1e2f2f8ba9eef7f4a3cccf5cae7a6d4d7e4ec52f33d24f",
       "url": "4b/f6/a0ffad95b7a706c6de9d98ac532dbfc6f54c5e9b05b4e7b9537053e18841/chiavdf-0.12.6.tar.gz"
     },
+    "0.12.7": {
+      "sha256": "5a2e65402a00d769b4616001b92a0bd7216e1c1bd5554d97104333bfe7ccea80",
+      "url": "98/34/c2d5fbc6fcf5de213e1a534fa9007914fd9cdaf139edd795184293fc657c/chiavdf-0.12.7.tar.gz"
+    },
     "0.2b1": {
       "sha256": "c017e062db06eb4e3c2834f99a43957ad6c1de1c6ec8c996a360a633d3f32945",
       "url": "77/a1/a8e2f4dffc65e8c0c267a6935cb2d71b8c110b4e0ef1a496b1e17e09f8bc/chiavdf-0.2b1.tar.gz"
@@ -3483,6 +3487,10 @@
     "0.1.0": {
       "sha256": "8d036d724307e25fa09665fdf3ebbd82ecaf0f571824c5f8f45fe6f1d52372cb",
       "url": "50/76/3eddb6b56140c4edf3f073ab967c5560479e971f5d00d47262f7053ab708/cleanplotlib-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "c1bb321353b037cad1779a457ce3a551f1190c41d28b471086fe04f000dcdae8",
+      "url": "2c/ea/0256220445efc7c78ee4b9b2bfe7e8043cf3155d90fa11035f7492003525/cleanplotlib-0.1.1.tar.gz"
     }
   },
   "clingmerv": {
@@ -7141,6 +7149,12 @@
     "0.6.1": {
       "sha256": "618c92a99b5de2e8e6d99ac27341b2084c1407f906446c3af9c290e3bbe72230",
       "url": "c1/6c/be8bddb175fbc16972edfae1fc35212faa220b89d78911c614923f7faf39/effortless-config-0.6.1.tar.gz"
+    }
+  },
+  "elastic-transport": {
+    "0": {
+      "sha256": "e0e11931f7c754ecb592e59875a3d8d42b59fec92dfd6ac497048806a5b23fed",
+      "url": "d2/f0/d87aa5afe2b530e1dba0db0137132e75d2bccae0c56d1ea3de366d39a6e6/elastic-transport-0.tar.gz"
     }
   },
   "em-media-handler": {
@@ -14692,6 +14706,10 @@
       "sha256": "92a185265117d2319ed2454e9402eae1561d2bb67f4ed0a96d47926c68094be9",
       "url": "8f/48/4a345ea3e8ed16fbe7f6876b51ded7f3785c127f803faf0cad3acf71c411/mypy-boto3-lakeformation-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "d6b0b15113a4924c27ca911addaae30cde755920aaa28698425749ab7fac6c57",
+      "url": "92/b1/49886e6fd55b5af5df1a348c5bc628cc970aa7b7f1d7b2b9e1dc26cec85a/mypy-boto3-lakeformation-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "904afde808065f49889aa2b7d1b695aad3cab27135e6775f27e09b3a990e6730",
       "url": "b3/70/1cbcf0ebc4e7058cafa8da6c54a5ffc901873ffaef8b32fa80b8a2c8d974/mypy-boto3-lakeformation-1.12.5.0.tar.gz"
@@ -15329,6 +15347,18 @@
     "1.16.2": {
       "sha256": "33af04ef0570c71483d8f89e893c7730bc963e33630d7fe9c042ccdb28a709f5",
       "url": "09/a3/ef4d051cf683ca903ef831bb0673bd8642f7b95d92b2f3638c86ab2a9602/nextstrain-cli-1.16.2.tar.gz"
+    },
+    "1.16.3": {
+      "sha256": "d5793f79dfa4834c1d547e152f4712866d6ef9ff5cf4b4853743b384afaeb89c",
+      "url": "e2/f5/44952bfbebf92f18d0f5fb14ef14fbcf8389bd7890f7271949506a0c1b1b/nextstrain-cli-1.16.3.tar.gz"
+    },
+    "1.16.4": {
+      "sha256": "57ee004e709e4256a9932338b4d1b1f3bb90fe849eaa4ac9082a1f898297f91f",
+      "url": "9d/6c/c03464fc6b1538b1e5059c9bf2355b20d823210270131aa746dcc208fdd7/nextstrain-cli-1.16.4.tar.gz"
+    },
+    "1.16.5": {
+      "sha256": "876eb32a7188e7da24e2d3ba0aef8d37a56f1b841a1c912de8d4f028ac410193",
+      "url": "4c/70/bae0494761935f7303912b10b8d40e84876eb1e3bc78bbf5c6f6901147a5/nextstrain-cli-1.16.5.tar.gz"
     },
     "1.2.0": {
       "sha256": "69b2005c123a6b3adda74b1d69678b912306d7fcd466bf0d54356a369f0207ff",
@@ -19146,6 +19176,10 @@
       "sha256": "ae73a143029a77fc7df1bf5767c4686a5977acc7c95dfcb470cd87b2d5bec4b0",
       "url": "73/af/ca08664d27403b5ff1fcf06a5c70afee7f7bef8faa4c6770a34033f70654/pyinfra-0.14.2.tar.gz"
     },
+    "0.14.3": {
+      "sha256": "61fd03d1a40855bce280ab793f0402691f643a7dec95e21a49b52feec025b058",
+      "url": "a7/f8/2c44ac4ff2b0925a56196cc63aa9fc48790d1add868d63464bf80c11a320/pyinfra-0.14.3.tar.gz"
+    },
     "0.2": {
       "sha256": "89be42b76e8f8b19be2a08097738ce07d342ccd9f99984550847654fb730d606",
       "url": "c7/4b/046d1ca66486077878c3070c853e66356c623932b3db5ac4e9cdbb6f11c0/pyinfra-0.2.tar.gz"
@@ -20655,6 +20689,10 @@
     "0.0.2": {
       "sha256": "5e245806ed92612fa6761c393acc4749356ec9068b7fe34e6a5349bc4bf9186c",
       "url": "5a/1f/dcd8e5cf3796ec1220e8ccea5cd484a05ffd1e59437c50d4314d6d21f120/pyxtal-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "48ba6bd4a7d28cfbc6a2c07002b852ee96abeeefb53fd228a22cecb8cfb9069d",
+      "url": "8c/cc/b769852e10d8d547db68e640f6e88d741640b6d9ebffcf391f248832e8d7/pyxtal-0.0.3.tar.gz"
     }
   },
   "qcore-nocython": {

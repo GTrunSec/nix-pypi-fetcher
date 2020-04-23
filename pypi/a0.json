@@ -2032,6 +2032,10 @@
       "sha256": "a4316b2f48d8bf5a0a928200dd2a9db41c875d4c414394de2cd6912a0ba7ea27",
       "url": "a8/5b/e8d3e1bdb9683f5fb2d31d26729faa2478c06c4a9c39d1b921bd4b93a86d/arjuna-0.9.20.tar.gz"
     },
+    "0.9.21": {
+      "sha256": "25f33ef6d58348629cf152537fd5d302eb382d7ad9be2286ca43edc52167a98e",
+      "url": "07/9e/83d218de69d4e65c9ac21ca13d92b4d70926c4c32428d3d7948fa93d0b88/arjuna-0.9.21.tar.gz"
+    },
     "0.9.3": {
       "sha256": "0e768db74191a2fb7fd00e0337d1ffbe0834436c2395af2d5d8bf42aace1e2f7",
       "url": "a7/ab/85e1bd53718be091bdc88c9392cdbf2b55967e84c1ac143716fad8e89bce/arjuna-0.9.3.tar.gz"
@@ -2673,6 +2677,10 @@
     "5.2.0": {
       "sha256": "360619aa2eacb8b08205b990994436366150914c027ff2b3bc9bc4839348cb35",
       "url": "48/a1/9b6955b43306adae0cfd76166a43c61ed8a896f8bb2342a30657f3c4a40e/asammdf-5.2.0.tar.gz"
+    },
+    "5.20.0": {
+      "sha256": "a093fb547df54896de3447fc81fbca290c870c805f7ddbda9d31ce7f22d66dce",
+      "url": "df/a8/cf5a88d86b32c96f203349baf0aa7e66bde3adab6282bcbb4a26f6002ce5/asammdf-5.20.0.tar.gz"
     },
     "5.20.0.dev27": {
       "sha256": "e7b5eb6d05d861e440dc96ccdfc910420d9b64e0aa344ef70636d69e28955c8c",
@@ -8987,6 +8995,10 @@
     "0.0.4": {
       "sha256": "8845b63b308576c7ced0c2c9ba35d5af547bddd3f5e47af80fae5855f9b72334",
       "url": "75/99/ae8ce1468dad8c317c0a4b8bf64cd613614e5282537238b53a7da3fdfa20/flipy-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "937152f4d54dbd258819d290aee8a2b9e5d229c9c176326ba73d26b9b93483dc",
+      "url": "0c/b4/1918b129020adfa97296e91d3da0bfb82ac9eeab5ddd743607020cc7b4f3/flipy-0.0.5.tar.gz"
     }
   },
   "fluent-compiler": {
@@ -13708,6 +13720,10 @@
       "sha256": "bd32098026aa9a1b7ade9f9522f7add8349ca863a6fa7dfdf866ad6701510fcb",
       "url": "71/17/6c82de395e54e3240cd7e7902eb911b2f7c5608f8f3b6c9fe06fba114db7/mypy-boto3-marketplace-entitlement-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "d94c1dec208bd0fb3039a95627c6412c4426030104c54881a91ccb04ca2d518b",
+      "url": "dc/e9/732fda09733b594bc02d1c1bdec3282b69b079ab459a1b7830e7fa6fe5ce/mypy-boto3-marketplace-entitlement-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b530726d6d732eec27f43e94b26fa57506beab7c023f73cec6e991dc91e3292b",
       "url": "71/50/e970c1ce7515cc8462c95fdbc87888d2bc3f1b0d5695e340de508730201c/mypy-boto3-marketplace-entitlement-1.12.5.0.tar.gz"
@@ -14073,6 +14089,10 @@
     "1.2.0": {
       "sha256": "7be6e816dadfa9f3244eb71d5aafee5ddf85ab2f3de0b693c3ce2d58e504ddce",
       "url": "46/04/ac13726551a47d0b8d05d97f338fdddfea474eb93623a2fbfa20f4cc2789/niscope-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "4f44cc9689aa062208ddf11d89c14ba9a49db11c5427469ac80d8bdaf0694953",
+      "url": "44/53/51a69eca0d712598194d2abe843747fc9d927390df882063af9ad1bc22e6/niscope-1.2.1.tar.gz"
     }
   },
   "nlglib": {
@@ -16689,6 +16709,18 @@
     "202004201743": {
       "sha256": "4cd7bc5ce1468b61aad0af65be3b62dc52012707796322a945d38b7270f388fc",
       "url": "b0/c3/b6db95c3a7fcdcffeaa38774bc4a2db97a11838bfd81666be7b205b68e47/PyNyaaTa-202004201743.tar.gz"
+    },
+    "202004220734": {
+      "sha256": "50d358c1bcb1e6d19a2bd6b11066c49a5b160571b3dd89fac9d471c32c5efb5c",
+      "url": "96/54/ba76e2146ce15d864947564ea2947d0597b05c432fca744a968c4b122433/PyNyaaTa-202004220734.tar.gz"
+    },
+    "202004221152": {
+      "sha256": "f142a5551bd981d5df15119f06ff52eae8e7a0ecc9e428ed940afc3ba6b1c746",
+      "url": "13/02/26e30a4e4bb33777bb531fb026b63481bd593ed421dea25ca0162876b768/PyNyaaTa-202004221152.tar.gz"
+    },
+    "202004221648": {
+      "sha256": "b02f57002f522b259572f53ab23ece0b6a180f0f59aefa3c75030eaf04ddcd5a",
+      "url": "20/2a/0d0b13df6ab6fb505a3abcca1f7e17291aab03670885853d961c2bdcbde8/PyNyaaTa-202004221648.tar.gz"
     }
   },
   "pyobjc": {
@@ -25033,6 +25065,18 @@
     "3.0.6": {
       "sha256": "d96c4472c880292699d9661b43f829d216690a3cb4de48667c536842e99de5aa",
       "url": "0d/0d/08c8b0df0775e5eabe866c821bc08d20bc42430228a87998efa0a4fa4765/vsc-base-3.0.6.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "25456c306b6afd852803007c5aea21431cd072865903973b48f9378b1a6ae0a8",
+      "url": "ca/b5/c7fe6c4a202b62a01c70071b1a1942075a800ed5b9d4fb0393b4ab87e913/vsc-base-3.1.0.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "74d14bd481af0cb92c25acb0f20bfcad2c80643d503be104593c110e4bb0ec5d",
+      "url": "18/6d/d79269ae7f965159f8f6a63fe627a89f26f9ed5c4d39fa83a94c57361cb2/vsc-base-3.1.1.tar.gz"
+    },
+    "3.1.2": {
+      "sha256": "1b4963d72313f2a6d07511e4a69bcd77a719aaca24b79fe3f8902a8471681b85",
+      "url": "01/62/98ba505c4f3ae01b3e274ac3b07c8de90437465acd77c04fe845ff46f629/vsc-base-3.1.2.tar.gz"
     }
   },
   "vscodex": {

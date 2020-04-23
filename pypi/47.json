@@ -12018,6 +12018,14 @@
       "sha256": "ff6cbd94c3291671ccf3a1a3e788ac15de67f98e3361638e7179dbfb8315f3ae",
       "url": "e6/62/a732cee033eedba4d6c7a97a4ac3180e9f304ff759ae0dfe2ee45ebe8598/lusid-sdk-0.10.1311.tar.gz"
     },
+    "0.10.1318": {
+      "sha256": "f2630be8d7daae6bc44b082957de874d33a5ed5d6e395cf2c03afb7f20595362",
+      "url": "ff/34/93cc6e1b0a82ed5bcc6ef0c49f843c20ec95b84b40bcdbe4110ab0a2b652/lusid-sdk-0.10.1318.tar.gz"
+    },
+    "0.10.1319": {
+      "sha256": "70c6a1498537611cf8474f6919de63f8a91dc805dc2170f3d39c2cb4c8a5a505",
+      "url": "34/5b/2de153d8d2d072ea45bf0a80208ef4c93dbe6abbb1aeff092a3555b16590/lusid-sdk-0.10.1319.tar.gz"
+    },
     "0.10.14": {
       "sha256": "1fd5268db4a7505645b5b0240303bfa39e54cb8b09c407279fc4ac9ab8cb61fb",
       "url": "9d/02/2636b5179688215bbde45482eeb6295ea1f6d89f5efb8b48e791f5292103/lusid-sdk-0.10.14.tar.gz"
@@ -16674,6 +16682,10 @@
       "sha256": "2fc8707b57b266938e29d09402c94a0fa4a05ee009d495264301f93b9d1238f2",
       "url": "3f/5a/6a8587f7f330089ad1205dd36a8df070d93bd3889faf2b1e2a49ac5ee659/mypy-boto3-comprehendmedical-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "afe7e56b3b788b63fe6d7acb367a26c9671ccb2cbe39dd9970d33374443bc547",
+      "url": "2f/63/8faff70918e4030fe7ad9de2c41615600731fb458f848be6789bdd682c53/mypy-boto3-comprehendmedical-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "e014f2fc0f31d75f0ce9016b0006d647150980bb6c67741b997788dbfb0a9fbb",
       "url": "af/43/b3f2a8090c10306b1953f932c74a7c60712c5d00d4ab3d7627171eee92dc/mypy-boto3-comprehendmedical-1.12.5.0.tar.gz"
@@ -17184,6 +17196,10 @@
       "sha256": "898dbc5f1798f04e8a8e684e3bda4679c8a3d9eab02fdd16303c6fe6f75ee4a4",
       "url": "3c/31/913ebac938c327532c401384080a5c10fa6f3d72177132d3f5cb52270fa9/mypy-boto3-dlm-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "ebdbff81c5a6c09e35ba2e04387b132deaa1c2778d7f364a292b0d3e6ebb49a9",
+      "url": "3f/5e/ace9ca24b01d0cd9d3b17c0713f5524c7889c79643bb0133a2637f14f299/mypy-boto3-dlm-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "86883b2510f5f7f5c37ba13d4d54b59943f4d25dc0a8f27f0ec2d2e99ed43c9c",
       "url": "25/39/bdbadc854f74b73c6e51e27e96ec77135cba0446570701b3b7e8b9959b31/mypy-boto3-dlm-1.12.5.0.tar.gz"
@@ -17693,6 +17709,10 @@
     "1.12.43.0": {
       "sha256": "22a03041ec018c1d2373c49884c839f1127980ce1e82380345ce9a6f1760f6b2",
       "url": "6e/97/9501fe40750b6113b114d255741c2b12215c83e0ec36d8e7ca2a247b6d52/mypy-boto3-kinesisvideo-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "0b7d5848e78ce6609eb2a4b35c24d64d00f25dba439de420afbe78e59a4fcc58",
+      "url": "68/f3/264a4aa8b7e822ef5a9d3c9018aac5f0584d86e1bf706edb303ef5d1d336/mypy-boto3-kinesisvideo-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "90ab47005cc340a292e4e424e9adf2c1fd95e8c6bc0376b35163c6d5cf46a9bd",
@@ -21921,6 +21941,10 @@
     "2.3": {
       "sha256": "15c530ed9076ea8ced337a1d538431cd99d716c65ccea010d7924749fee17433",
       "url": "d6/75/7383d254ce34e9683219689b29a2ac2e7c86a10f55517e1769441f06438c/pypxlib-2.3.tar.gz"
+    },
+    "2.4": {
+      "sha256": "94cf838373f790fc6e615914c7f9b1cc54c1cd5ef6470b64aeecee1eb0b6a981",
+      "url": "d6/7e/d378703b654343103024de11b830481dfe46e49b7b795a6c729ec536b173/pypxlib-2.4.tar.gz"
     }
   },
   "pyramid-dogpile-cache2": {
@@ -26171,12 +26195,6 @@
       "url": "75/40/bbc5e131826b37dcfa844852f0a04f85635e4536942aabb5658b359b82fc/tensorspace-0.0.3.tar.gz"
     }
   },
-  "tensorwaves": {
-    "0.0a1": {
-      "sha256": "1bdf386037477a18e0631dcad112c58f90065318302fd53893209a5764af98c7",
-      "url": "b2/7b/940160f5c2e8ad453ebfebd183eb838a9b904199e45e259334d44475b9ce/tensorwaves-0.0a1.tar.gz"
-    }
-  },
   "termpair": {
     "0.0.0.1": {
       "sha256": "0f688bdc5158a64a50ef1109c01fcd448e967cef45164a27ecaf86d69798cb12",
@@ -28651,6 +28669,10 @@
     "0.1.24": {
       "sha256": "c6a12135df1eaa3790e17990b21d4b44da7a8324d1f53c09607b8b5a9cf9d6f7",
       "url": "90/64/21b81a08fa65d016c0abcce474409e2f6d470d579d62221dc3cf9ed87295/zqpy-0.1.24.tar.gz"
+    },
+    "0.1.25": {
+      "sha256": "7d042017439f027b0215271cc0338aca110e5acabdf3ff339001db42f10ffaad",
+      "url": "59/04/45962eb271154a24a03f33fd9a5abac2f47643ebbe95c74f5b3dc83fe23d/zqpy-0.1.25.tar.gz"
     },
     "0.1.5": {
       "sha256": "612cbc540b1a3f54e9c55517bf2def86382f368ee6b674106fecca036e298d51",

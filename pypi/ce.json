@@ -3049,6 +3049,28 @@
       "url": "52/d6/d5e9b67ad05cf09787ece6b010ebb0b015d526690dc5c783e016b2037f23/CydraTwistedGit-0.1.tar.gz"
     }
   },
+  "cyzil": {
+    "0.2.1": {
+      "sha256": "930fbe0dbbb22ece0203bd3d349565249f0d6b01ef9a1105bdae7a5c2260a0a1",
+      "url": "be/d9/e95b836289760737300a300ec0efeac9679c1f791a2bdbd9e3522f694560/cyzil-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "f53eec7116e7cc0a674b99bace0294d28026024eb230abe32468784f438556dd",
+      "url": "4f/a0/ad59f2896750f8c08c67d28b1fbec8455b37bdc89257b0a8b1ad97108d34/cyzil-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "21ecfc50251e4a944bbb2f5401ac30fe8a4365f8b80ab4ee10bdd4d0fdf7d654",
+      "url": "4a/9a/b004228bdde2f4ef39fd4c701b3a9fe0655e6aa841fad7e5ddca5589b9ce/cyzil-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "e3599d5b84f9d5ac4d72974285480ac036ba6b314c42db6b4835eb872edc8cd1",
+      "url": "38/e4/1113643542c0f5ea43bbe6e3196709343fe316cf303f78465f3262eae075/cyzil-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "6f98899f9e1434dbbe33b85c3b6bac7cb40aacdc651437a0c12e8c36233a0a0f",
+      "url": "37/96/c0bd66fc09dbbfdbd5eadb6847997921420fa239e4126364b5bb2c028358/cyzil-0.2.5.tar.gz"
+    }
+  },
   "d3r": {
     "1.10.0": {
       "sha256": "393e9d4c7a04e386abe41fdc4caf554b27c44a2ebb15df6ca16383e1865a1d66",
@@ -10913,6 +10935,10 @@
     "0.7.2": {
       "sha256": "156765e7de28a9488c4eacf5def6cbc6c630ccb1c4e242724694f3e74c561c87",
       "url": "f2/4d/be8f97dbf0d31f40920d52fea361f930a08c808046ee2ae4ed7a84338429/jupyter-nbrequirements-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "4b78a25ce771ac4ba5593861b3081d55194005a07f116d1786d6ae02fd2cad89",
+      "url": "85/53/907110db3918f5c06bbb2bcfd7c968209c76ef1d2fba96fc467bf547952c/jupyter-nbrequirements-0.7.3.tar.gz"
     }
   },
   "juspayp3": {
@@ -13341,6 +13367,10 @@
     "0.12.1": {
       "sha256": "a8e48bba93a0f30db0b0872e248fd30142da3d138eb7535e2afc596574cd0552",
       "url": "d9/73/52998f808a17462c8b8b2cb3c446b26d2d5230b8547ab71a727fc7009d96/mlreflect-0.12.1.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "3e41252e69582515a9a553f2dd09cd597469ce814031bc6fb278abcc4ffb4049",
+      "url": "09/1b/c4e592ed6539b64565cb673ea8f226fc1b4c84929e0e3e401dda84f4682e/mlreflect-0.13.0.tar.gz"
     }
   },
   "mobi-apns": {
@@ -14406,6 +14436,10 @@
       "sha256": "4e35a7059b1970d046efe55a94b9a9babf8bcc441c886adacd08c522f0003291",
       "url": "f4/45/fca823634643056ef5914c26011f8635f015c7616034da66aa3d4e3696ac/mypy-boto3-xray-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "462b36f3c82f6417224c77048b9b0109334ed183be88eb26cf2d8972858cc1e6",
+      "url": "0c/d8/bf5988cdd14257990d27b7b0f02f4374ae81a378b5f5ee40b9828a8c166a/mypy-boto3-xray-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "bbbe70f7eaca947018d4363db070f9274c5b9b7766c44d94fdaab44bc2692858",
       "url": "fd/23/b832d68c91cbbd1e73ae77c8d679bb990a08c0e872ba49e87b7c328a7b1a/mypy-boto3-xray-1.12.5.0.tar.gz"
@@ -15021,6 +15055,10 @@
     "0.36.2": {
       "sha256": "ee782006a1414b93cb1cd5d9cfe1f3f670fc1a33a91a88ae318dbbfddfb33638",
       "url": "63/9a/df3c8206b330c712a28d2b2b6d266b3436c580409b44dfa64f819d9cb34b/openstacksdk-0.36.2.tar.gz"
+    },
+    "0.36.3": {
+      "sha256": "c719d811b9892668dc84c18aa9395fb893c771dc055ede0db699e1da697fc390",
+      "url": "88/33/7b1d4fbead375bbe397c012fa162ff292a5cb956a95d8cb8488d1c6d1a98/openstacksdk-0.36.3.tar.gz"
     },
     "0.37.0": {
       "sha256": "0428b210ff187d911ef67cb8d2deea1ec440aee374aa09f74df3fd9c55c8da60",
@@ -16385,6 +16423,10 @@
     "2.1.1": {
       "sha256": "5f120a024977f0fc2627220e2bf97ecf1f20fd0cce9b90a6c655d565b21df2b3",
       "url": "39/a8/01de85c2ded9f0673e47222ab100cef884bc6346e28e451c0735a0d26950/plone.resource-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "7cc0b4cd11d54d19ff2417d798220408cd51779f35d4509a7350568ca695d24c",
+      "url": "ef/5c/cb19fe7094b7abbd68ab0adb0e02c1f9f61c415c364f477acb22ab574d5d/plone.resource-2.1.2.tar.gz"
     }
   },
   "plp.idl": {
@@ -16841,6 +16883,14 @@
     "0.18.288": {
       "sha256": "080932f2fa6e240eedbf6e22d76e3898960e8a2d90ae8daee0420408b564d814",
       "url": "86/03/9a88014675112e113f4e7a5a0181f1652c680001aad040a2db33f28b00d7/properly_util_python-0.18.288.tar.gz"
+    },
+    "0.18.291": {
+      "sha256": "4b4a0f169bc5e06bfb7d9312fc9239503c2efd44806599a84ddde585a431fc74",
+      "url": "8a/03/0963939db88a77affe17cb9fed2811c921e7b1947e9fe9bb098b4d3a8747/properly_util_python-0.18.291.tar.gz"
+    },
+    "0.18.294": {
+      "sha256": "a3c2866a1a994f40b40a0e277904a40e4809491c8ab80f845393aa3f3dd34d5a",
+      "url": "ab/b4/76441e3a345dcca3c3ccd890b3098be7387d65e114dc60e6bdc87021ede9/properly_util_python-0.18.294.tar.gz"
     },
     "0.2.0": {
       "sha256": "e49280bd78ba236e31ea3a554c2fefb8c568116dac8d70c554389d436aaf482a",
@@ -17323,6 +17373,10 @@
     "0.7.1": {
       "sha256": "6db0321e652b4e470b368d74681419196ecc8dda69b48b4c1e95ec36d7b41ccf",
       "url": "3b/b4/6c4c7cd6b216a7799003465c634205ba0368fd340b7bbd8dc62c2bc6af58/pvlib-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "40708492ed0a41e900d36933b9b9ab7b575c72ebf3eee81293c626e301aa7ea1",
+      "url": "fa/2b/f714cf8318e551900adcd5e5b34cc74ba144d18a02d1b520a8ae47bb0130/pvlib-0.7.2.tar.gz"
     },
     "0.7.2rc1": {
       "sha256": "4c5105dffc6cfc6a38e72767db7cd5b8cea3ed14c9491bd392b2a13a886477e6",
@@ -23941,6 +23995,10 @@
     "0.20.0": {
       "sha256": "56b1cca3e52371af2c2849756b43f2a4c35b9d20c16586802de368cf4f85f97b",
       "url": "d5/76/61184665185e5d04a433525ebbcdce71c26aa3e8ea24a6a1f446c4fa5c4b/vistautils-0.20.0.tar.gz"
+    },
+    "0.21.0": {
+      "sha256": "0834665f0f241ac283dbf6fa53846acaf53b14bd7d28bf48fcc6128a8c32574d",
+      "url": "00/db/4107f9a5ab41e56bfeb7136814005289bb4d87e16a6582eda47bf7485f61/vistautils-0.21.0.tar.gz"
     },
     "0.3.0": {
       "sha256": "1fe3f0d9f1e8222c948eee990ba6cb250182e3179ac8e3e18dc68102c9a4c8f2",

@@ -1214,6 +1214,10 @@
       "sha256": "a2bae9847b5980611faa5a657279fd150701ddb3f9e63bd225725ade69b044b4",
       "url": "9c/f9/a34eb4cbfea66418240188960950c63bc98c3870ef820b6912a537598fbf/aodh-1.1.3.tar.gz"
     },
+    "10.0.0.0rc1": {
+      "sha256": "48a668dba6b2da37f2be94e368466b1f249c3a02cb544ef02af204041bab54e2",
+      "url": "be/c7/0932d44cd591bb4e83ad9005795c1e40cd972817a90f81e3a7afa2c8c483/aodh-10.0.0.0rc1.tar.gz"
+    },
     "2.0.0": {
       "sha256": "f146fa642a7a2cf747eafccfe86561273d1a14f9c7eb50d81cb844f3dc1f4985",
       "url": "55/15/4d0c67578f77cc297454a57f89e26b557562455e6091c4cf5f35baef87e0/aodh-2.0.0.tar.gz"
@@ -10111,6 +10115,10 @@
     "0.6.1": {
       "sha256": "00ddd844720b731fb1e70e6f50dec09123e8f436ef9590f0052c949816037575",
       "url": "08/38/3bd030ca3700ac212ef6c67ab3dc4a6fd27b8500701fb57d7e2d2ee7d1ba/iommi-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "927c13dbbb31ab9a89db77c6bb77770ef88072255742b7217d9aabef90c5f0b0",
+      "url": "87/7f/8e5f07a238145d9ff2d7650bb34e1bc50680c3050b77dced438ae27dd239/iommi-0.6.2.tar.gz"
     }
   },
   "iot-plot": {
@@ -13029,6 +13037,10 @@
     "0.4.3": {
       "sha256": "42fe41720411de2ef05d4d23254c3e9c03690471cfb62d897faa22a320888938",
       "url": "6c/20/b29da975cc3944291d456260a466bd70f2859d0334c2f7eb7be68fe38820/mmcv-0.4.3.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "f476b63e6c56a5a90268d084453eebe5d07e009e97d2add45ddadd2af381d397",
+      "url": "a7/96/499076ecb7d15757098c8d79e92ef521564289a5438b642b898479a21037/mmcv-0.4.4.tar.gz"
     }
   },
   "mmir": {
@@ -14524,6 +14536,18 @@
       "sha256": "27d85e7c36d1d5633bcdfaac488cce55b1af53a8131ac6d292ca09c9ae92e205",
       "url": "5d/78/c0ff19077642397a071323203746aedf2de64e64a1e4496b2ed8a71fbe35/moto-1.3.15.dev651.tar.gz"
     },
+    "1.3.15.dev657": {
+      "sha256": "a5d4ad34d5eac68bca8ee01d20a9f740257cdd98563914e18a5fee73e2a5e250",
+      "url": "5a/f8/5d82bcae213c133031ac38a14dd8b955aa80b55e810b5f677b45854e26b7/moto-1.3.15.dev657.tar.gz"
+    },
+    "1.3.15.dev662": {
+      "sha256": "a37b0e25552897303c89bc61f574d4d06526ad68a5a9757563fcfac979ea8215",
+      "url": "08/98/4cd26ae96be98b4e429b9645a11e8485c57eddd00099027eb70412f3ca86/moto-1.3.15.dev662.tar.gz"
+    },
+    "1.3.15.dev665": {
+      "sha256": "b33ce2c4c8a157218cf13fc32ea9bbf8e0d13ab190edf4bfcceabad8b327fb80",
+      "url": "da/0c/8de4169acc6197128f335fe5385767dd56b891229395914830a542ab9a97/moto-1.3.15.dev665.tar.gz"
+    },
     "1.3.15.dev70": {
       "sha256": "3ce780afdeef3d9a7ee1aa4c093a696e4b8643e12c464ca3d49539b9500ad4ad",
       "url": "b3/fb/49708e75d15c15ba8f6a55a4ca7186f8673f833823c5f581c5494b1699fe/moto-1.3.15.dev70.tar.gz"
@@ -15215,6 +15239,10 @@
     "1.12.43.0": {
       "sha256": "022e962cb9e1767ea9badfc83923bc72244c5c0e485a49cad95af3df0be9a1e4",
       "url": "70/ca/ee38816470d2717a1cb8c3c58ebe23dbe2d29d54a61d056e011a7776b346/mypy-boto3-iot-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "66ef2cc9fa096b188517c18d2d16701e0d53ecd91619d145b28bca96b0e1c844",
+      "url": "be/65/d420b0b6719f17f0f3be34acdc88d4e4acbafbdabea0e9408a367bf72357/mypy-boto3-iot-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "dbdf1626d1d940a1e96ea0096fbb91edd77b37babc74928e9f19e8bd79caaa94",
@@ -17252,6 +17280,10 @@
       "sha256": "9967823996d56a9d96034b18e5502a56bf0c5d3ed4e0454c364184512d964345",
       "url": "73/d6/783cdea45786aa47e78b6f9dccee7a86686f7a1c398e287a86a6857403d0/otree-2.5.6.tar.gz"
     },
+    "2.5.7": {
+      "sha256": "e855d8b2ac1c6e435746db2e2f2dbe5957193838c1c1590957877469cce75a57",
+      "url": "0f/73/c5428f00434353d44632a0939579b82e15abbe3d41424f4cd7ab5d91f2a8/otree-2.5.7.tar.gz"
+    },
     "2.6.0b1": {
       "sha256": "2d075b25b31f387c1f398b80db5cbe1c8f56f28c26b5289bdc38ae9b2d120366",
       "url": "ac/78/2378b3d7c48b2cdcb3187f0e314d537ab71fc08e4e5657b1cb8ac3f155d7/otree-2.6.0b1.tar.gz"
@@ -19255,22 +19287,10 @@
       "url": "29/00/c4fbd469808e75121672226736a924511b725a89889025481babb02de19c/pycheng-0.0.4.tar.gz"
     }
   },
-  "pyclay-common-utils": {
-    "0.1": {
-      "sha256": "6120b1e0303e534c86a67aa2b82446844dab2c1ffa4c1370c75240df0607cecf",
-      "url": "ff/6e/df237c34676cc75d7004abd513ad92ab71728ea0c9eb3669fd2eb8ab345c/pyclay-common_utils-0.1.tar.gz"
-    }
-  },
   "pycopy-cpython-ubinascii": {
     "0.0": {
       "sha256": "f19db225e6bac8a728d362c3c999a962a578b81404d1c086844a8f647590b986",
       "url": "e2/e3/22efd67a1775e46a00296cf9030dde325b6f49a52f470c59c7f4c2c57437/pycopy-cpython-ubinascii-0.0.tar.gz"
-    }
-  },
-  "pycopy-sys": {
-    "0.0.0": {
-      "sha256": "99b8a9f965d1338a7dfbd468261bde482d64733fba4839ed97a16fcf108cb574",
-      "url": "04/5b/be3679b52814180d6ecaaec7c71daf30bdf374cf7db2e9fedd86fb48ff50/pycopy-sys-0.0.0.tar.gz"
     }
   },
   "pycopy-utarfile": {
@@ -22720,13 +22740,9 @@
     }
   },
   "shreport": {
-    "0.0.4": {
-      "sha256": "7c2f50d6ff406c4638f016fcf3685085fdd8e5d34e5784b5cbc938b6827071e8",
-      "url": "1a/84/9f1a97f4be78c4c8c46a4a5e0f84541612dd97accd97440c14b71eb97667/shreport-0.0.4.macosx-10.9-x86_64.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "b478fa43a77739809e2b4cc97731f3412dd6ccd54ec0dac86afab907bef5f5ef",
-      "url": "9c/e2/7feb4b0a01b684b338ec986c9f31becf75051d6d4006624c06be8c790f7b/shreport-0.0.5.macosx-10.9-x86_64.tar.gz"
+    "0.1.1": {
+      "sha256": "9183faa30a5f5d5d27a1290d47064b27d5fa6143a3e40ca418bdf51a7c2f1ac0",
+      "url": "20/77/75b67c540aa028c5875e1e23ac996a0c35f6e4777375b4b6b4562652368c/shreport-0.1.1.macosx-10.9-x86_64.tar.gz"
     }
   },
   "shuttertalk": {
@@ -23651,6 +23667,10 @@
     "0.1.2": {
       "sha256": "33e4cd36e6bf92f5299448a78bf0dfbfa72bb586d0ef72c724668b2d85fbb70d",
       "url": "87/5b/e1ff6d7dcf31ff7e7ac0802b6725e9495e55b9e323508905fe1cf92ca133/takagiabm-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "271ff806556372832b3856b82601307125437dfbfc1f4a46750a71f99bf0f127",
+      "url": "57/f3/6d21fb23d57b2d02bfee89bd3a300590713bc94d115ea0f2b38c1688b15b/takagiabm-0.1.3.tar.gz"
     }
   },
   "talisestools": {

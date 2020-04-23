@@ -920,6 +920,10 @@
       "sha256": "1d5b5d47a83a557f757c49c50c22da3660783e11a703cd38f04d5c927e2165ea",
       "url": "f8/a1/dbedd803c7e6d7353f1b4336a14afb852bc7db83422ee011c01333108eee/aws-cdk.aws-securityhub-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "62fc466d174a57740788fab3848c15d3f11fc1f988b23751bab1b6f431c12af9",
+      "url": "02/eb/d397e6b19b8bab67bdd36dc04bc154587967c25e7cdcbc331c55c3ebe8e4/aws-cdk.aws-securityhub-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "2941e058725be0a5dd650fd3613c0c67fdb1b1f90b0ed582dc3e584041dc72b5",
       "url": "3f/46/c8e969e71492f522113105d976c1651c3668ef680e1fe6bd5eb849723d64/aws-cdk.aws-securityhub-1.4.0.tar.gz"
@@ -1073,6 +1077,10 @@
     "0.1.8": {
       "sha256": "5ae445a8b8f8973c26b6cd26dc6bcc3b88a42a3b1b6d26e405be05ee49523d08",
       "url": "2a/54/e29be0ecd65df5294c1d313f9f5ba15f6ee76038ca4bc00f81256c610f72/azure_extras-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "5e4504f545719e1f40d01da6f3240a62983480e0f2d56b2e2e6bab85d63d9a04",
+      "url": "3e/7e/b52a5023d19c3a0e8e86ec1fd5416d73a7e1c71669aa4d5ef884a61d83f0/azure_extras-0.1.9.tar.gz"
     }
   },
   "azuremgmtmonitor": {
@@ -3147,6 +3155,14 @@
     "0.2.59": {
       "sha256": "fc50648d052d01659f6dc3397eea4fafe97cfc9e1775eacf85809fa627aa35c6",
       "url": "5d/f4/fbcf1804d22f937468753e2c0d8894c5cf5e146923d3a4884805eadda91d/cityair-api-0.2.59.tar.gz"
+    },
+    "0.2.60": {
+      "sha256": "04d71bb65a2cdaef7b5c0a609478c4669c00e2434c01ffc1c8712cc673963f91",
+      "url": "a6/58/2f70b22614a5722632fb82c69ce2eb6a1fef8f781dd34a068a34c8b046ac/cityair-api-0.2.60.tar.gz"
+    },
+    "0.2.61": {
+      "sha256": "d1802cca887ccc954c7064a80a4617276d74ad28180be91780ae4cc36e9a5081",
+      "url": "14/a9/85c2505f32491c8479640d8fdf68eebaea79e02ae29c3010061f41b94205/cityair-api-0.2.61.tar.gz"
     }
   },
   "ckanext-data-uploader-theme": {
@@ -3555,6 +3571,10 @@
     "1.4.0": {
       "sha256": "598ebb288d708d62d087b1736b51e98a6f5fa799db8da9f826197ee0744dfc70",
       "url": "1e/93/eb75df306b7276c7524a201d241cb164128c17fa4380a28640cccd7ad40c/confluent-kafka-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "f2758e9ca5568247ea283af0ce503279635e7b0bb9bd689e7eb71a0aad5edb68",
+      "url": "28/51/710ab74d6d9435870bed97af21dea04a5828e1e3b2b8ca80fd79bae01b99/confluent-kafka-1.4.1.tar.gz"
     }
   },
   "convertme": {
@@ -3951,12 +3971,6 @@
     "0.8": {
       "sha256": "34fcbf166f9ed5c3f1a9a4815e076479e13fae6bd087921d0933dbb8e2d1cbdf",
       "url": "55/35/6910258972260b462aeb74647230cadd2d57ed1973b3774c3ac980610d51/cs.zestreleaser.changelog-0.8.tar.gz"
-    }
-  },
-  "csrs-ppp": {
-    "0.1.1": {
-      "sha256": "cf8a7d62e49d4450f5b0b3cde6659df6ad4dd2c9288cb9beddec3198a4e12104",
-      "url": "f3/49/ad8ee6930b90557300edf2810adab27367381d62eb6d61e94f04a89bf58a/csrs_ppp-0.1.1.tar.gz"
     }
   },
   "css-html-js-minify": {
@@ -4594,6 +4608,10 @@
       "sha256": "260c37ec36bfb8a16a4d6c3b153ebc6255660d53cfc3f4371c092ff162f5d51b",
       "url": "03/60/a4e1c22cd308fc089c62291e141f6a0c7517154b9595fa065237f433fc32/dagster-cron-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "48f7e90da947c140c47d7ea6b83454959bc49deed77b832559f00440ce0836fe",
+      "url": "fe/5c/395e98a38ba1c717a4beedb0c6e3eefcdfe450a0314d5cbb1d372e64d26c/dagster-cron-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "b47a932d34842e16cec737b6925e3b857e6e7e1e4ff179ecc662824ce242c99b",
       "url": "a7/8a/79aabac0789a21db2fb686ee0176e4e5a1c6738c83d2464510c5a4ce5529/dagster-cron-nightly-2020.4.4.tar.gz"
@@ -4907,6 +4925,10 @@
     "2020.4.21": {
       "sha256": "ea03e5e74f5cae3dd9305e7133f88cf79e112fa639156d1e6bd3e96f9234600f",
       "url": "03/a7/ed74830bda9a37648ab2d062b93f0808589a72a745e717a86d7ffe64417e/dagster-spark-nightly-2020.4.21.tar.gz"
+    },
+    "2020.4.22": {
+      "sha256": "b724f43683c4248509a5a12e29917dd75421ee9f55a4e1ecf0e4a9200654a978",
+      "url": "51/e4/03163880e2dacecbfe8bcc3c70519b376f3a3e79bc6dc3612802dbc5565e/dagster-spark-nightly-2020.4.22.tar.gz"
     },
     "2020.4.4": {
       "sha256": "b6a5df621caf3aa3d1c4ca333aacde709abbba560526e3a33b8100cf386780a5",
@@ -7635,6 +7657,10 @@
     "2.5.0": {
       "sha256": "b550bbcf572437e408e1a9b956c7c6e2fd498d868c402424395eea8d40d9cfa0",
       "url": "df/7a/ec9cd6410f6a4435ad3d98d1bb7eba8b3249e34189d0c49ceae9ab0df9b9/djangocms-link-2.5.0.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "e3b97856b319bcbff1d13d22fa4386e3ff90d1af9b1de9fc7cc41e830cd11d3d",
+      "url": "e0/03/01c4b8859716948e92990ac3325293f174452ecbb9a79c9b3e078584ab65/djangocms-link-2.6.0.tar.gz"
     }
   },
   "djangorestframework-amauth": {
@@ -21091,6 +21117,10 @@
     "2.2.2": {
       "sha256": "6504c06c4f70afb7a8e6ce8818da2556ecd215641e87352f71e16bf2ea4e7f22",
       "url": "00/29/ff3f5d2ca4fd415e2b1b547563ef91471a6a3734320822290a43c7d3ab4c/sca_logger_python-2.2.2.tar.gz"
+    },
+    "2.2.3": {
+      "sha256": "7984d73459baafdae70c7ee9becbafdf5dfe44039c338d1bdcf13ee2b21e9f1b",
+      "url": "17/a5/a1fd6da1d0f6648e691267ecf9e8c44b71e383af1ad91c6efdf6c4fd59df/sca_logger_python-2.2.3.tar.gz"
     }
   },
   "scanningegsinp": {
@@ -24963,6 +24993,20 @@
     "0.1": {
       "sha256": "02ce58f4beccf9a7ca3662be01a23aa9b0d77a96f3a83a0b592fe309698b1d57",
       "url": "8a/1f/63d1f466f185ad33b83b725edda4b627f9e5c128beeee7bd4c53c9407145/weasl-0.1.tar.gz"
+    }
+  },
+  "web-and-file-utils": {
+    "0.1.1": {
+      "sha256": "fc33b3b7f44f30a9bb1d8ca94b8c7d48d3463d223c795e0e5625d269d252aa58",
+      "url": "c6/4b/c8dd738b212100627f7bc3e84105ec55f9868bea386ef1f6d71147fad392/web_and_file_utils-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "296558cb80880b5b113bc52542ea0294c6a8dcfe43e71c4a3799db340092ed3c",
+      "url": "58/0e/3ad858eb743e759e825eb5be4c84d95f0852b863042ea83079964c9bcb92/web_and_file_utils-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "214265fb3d861188cd20f1b0f9b4209555638fdc36ed944bfedb814a5409cb29",
+      "url": "2f/71/9a06d3f9f80ab93354c62bfdfd9bf7268fc5a57d6434286c1a786a301985/web_and_file_utils-0.1.3.tar.gz"
     }
   },
   "webcrawl": {

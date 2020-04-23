@@ -141,6 +141,14 @@
     "0.2.1": {
       "sha256": "74931ce4a38ef0eae128c05969b551cdcd2170b4dcf003dffdbc25ef70eebe8d",
       "url": "93/0a/68512e5fe6bf826709f7ca61d0452ecfd0161c0a8310713bcf5fdaccff7b/a2ml-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "730c3e64df4685740d14e647f38ea19d406dedfadd9ee8eb4e2f49963b0db569",
+      "url": "ba/6c/3952b5357a8b1fc031e7192fd0e5d35b3ae6ab0b88972b3cab483390c21c/a2ml-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "99bcd46e8cc6bb5aadecc14af98ecc88607e0bc3ca2a9623d78975a2ef6d240d",
+      "url": "62/22/64993533f6a168bd5d1cee70ba73240986793e46d40f136bd89d8a0caaf3/a2ml-0.2.3.tar.gz"
     }
   },
   "acpi-backlight": {
@@ -9418,6 +9426,10 @@
       "sha256": "7eada90ea97e9cb3b513fa55c9094345bb3b57ba653486a298aaa91fe3855b22",
       "url": "89/93/56828e34682f27bdd5743fbad4ca6694483c87dfdc5ed2807ee37a3266a1/IHEWAcollect-0.0.24.tar.gz"
     },
+    "0.0.25": {
+      "sha256": "03d577db342d4679493dcc7f6acded1de7cd2d379ec4e2f7de18970b28586714",
+      "url": "99/6b/701186ce4081335b3d1256ab325a03ba658a9da01e2ccb8a566d78591c92/IHEWAcollect-0.0.25.tar.gz"
+    },
     "0.0.6": {
       "sha256": "8dbfa22667c0d0d7884e2848d6679b03f21eff203070ccceb2940f47024dc2dd",
       "url": "0d/f6/90b8cdc826f3beb854ba91c122b157525779d00208c0ff8d9daadd81a75d/IHEWAcollect-0.0.6.tar.gz"
@@ -12358,6 +12370,10 @@
       "sha256": "12ec26f7687682aa3f11392d66096efafee69068574c3642e8d54c45a04074d3",
       "url": "73/d2/296ff08e70feaa7c534c254e6ee035ecc975c122021b287248b31dd81f9b/mypy-boto3-migrationhub-config-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "77125ffa0e81ce4d9b4496755944be30d5ee59b80c15faa32136ec568fcb4485",
+      "url": "06/42/bb3a7c65246b9b55db3f2ecd27905d821cee20b0b3dbd25e1732554fe53d/mypy-boto3-migrationhub-config-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a70277d1a5ab2e25dfaef8194dbab1bead0730aeb54b4c35a7bb9277ff7b7061",
       "url": "d2/df/9bec9320c945b0eba221e16380bf52ba1fe8b355ee6514eeeebcd70db30f/mypy-boto3-migrationhub-config-1.12.5.0.tar.gz"
@@ -12867,6 +12883,10 @@
     "1.12.43.0": {
       "sha256": "4467983f5ba5699aac494aed6e42df9bcab03095e5cb89e4a167facf8e5df246",
       "url": "4b/d4/35ea4240bc1b47dc93b3890f1a181b3c0df96e304c775bb322fb2cf1160d/mypy-boto3-secretsmanager-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "4c474a873e0d23e023389929a76bca6dd6b0f376272193a609e1688944f562d3",
+      "url": "7d/cc/b3612f49043bc7d42fe8439eef81edd962e77e8227162ba921ea08eb68a5/mypy-boto3-secretsmanager-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5c336b95adf206a04c3d510e890fdde0733aa346b7070e2941a2da2d9bf7b62c",
@@ -14401,6 +14421,10 @@
     "2020.4.4": {
       "sha256": "f12add35f71e1cb8e2cefc234219880c647c695eb984dc246d25edc16e6dd1f2",
       "url": "c3/9a/2cbc501f3da9df50b7eec87276fece068b0f9ce13a856f57ab34701b3786/openstates_metadata-2020.4.4.tar.gz"
+    },
+    "2020.4.5": {
+      "sha256": "e8372a977fe8aed518cff9821550682bf62c04f13437392c5d927b1baadf3544",
+      "url": "ad/98/ca0c0f71f58d554c054ac01c6389949151b3d42dd44d9e481e406a0aeadf/openstates_metadata-2020.4.5.tar.gz"
     }
   },
   "opps-polls": {
@@ -18717,6 +18741,14 @@
     "0.6.7": {
       "sha256": "d63210c610ce4829cbdeac74bbef1cc994861fd40af0ebdaa286d91761b1b8e0",
       "url": "d1/a2/834f2432163114e591ac14e22bc9b150561635e82e34f85132fe8b419a9e/python-mirai-core-0.6.7.tar.gz"
+    },
+    "0.6.8": {
+      "sha256": "946f677022d43acd4c81cace2853dd268cec64c30adf1815dea5eb273d8ad81b",
+      "url": "7f/db/7ee6e4816321e69e333d489cc7ca8171e3a6aebf5f07f11cbcc875b0e02a/python-mirai-core-0.6.8.tar.gz"
+    },
+    "0.6.9": {
+      "sha256": "f862b9ba028a1071d4e52a5e8eca2a9aadac6ce10aaff879c72a84a2a9e7e610",
+      "url": "5a/5c/775679230c891b8c95f3b6243995e5ca56f2514e1a7c522be66f9b6a04d0/python-mirai-core-0.6.9.tar.gz"
     }
   },
   "python-rofi": {
@@ -20115,6 +20147,10 @@
     "0.4.2": {
       "sha256": "f90b3c78844ad01c9439820197be16f7f72dba98cad6bec918a81a508a2e28aa",
       "url": "6a/40/a1904a8099c74b7a32d648a6f09568054d1bd19a370e42ba02fc32b0c0f5/scmdata-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "98af5157b87c3fe91a6b7423d02bfcbab7cf0eb46ba95d72963bf1d257a84626",
+      "url": "ac/9a/9d1ea5b5506343b6acb836d71864d54b6e83fd5bc99a9f69dae68a878e09/scmdata-0.4.3.tar.gz"
     },
     "0.4.3a1": {
       "sha256": "f60820f3bc1a2996e42b43319c23080c59997398d4bdaa26f6a44be34ec9a667",

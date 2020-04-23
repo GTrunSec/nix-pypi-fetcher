@@ -976,6 +976,10 @@
       "sha256": "90c9a709bf3d374c5673c5c0068d1da8deb466dfb11b3787f5bfbc487afca1b1",
       "url": "b2/76/19ebca530781f490ec56f7dbfe08ce96509276c8ffadd3eace0c77fa45bb/autogluon-0.0.7b21042020.tar.gz"
     },
+    "0.0.7b22042020": {
+      "sha256": "09d1eedb7a3432f96cf879b2e1b421e25078ea3134ac80ab0b6a7f8b5d19121d",
+      "url": "21/27/b6631904b88460e1ce9fe3a5d35397733605f28e6c943c0b9b8e38c5f295/autogluon-0.0.7b22042020.tar.gz"
+    },
     "0.0.7b4042020": {
       "sha256": "a435e4546772405f1e5e97dec049e81ad1b9fa17d89841b405e249eb95d30ab7",
       "url": "38/dc/c69bd78aad8e37458d49269dcfa36fa95005102396e840f54aa71de1c626/autogluon-0.0.7b4042020.tar.gz"
@@ -3283,6 +3287,14 @@
     "1.18.1": {
       "sha256": "80fc39aa0c62864557e8af4a646964c40dc4f6ca864df14d7620c48e183f112e",
       "url": "85/4c/7499148d0424e8bd53e45701f887ddae0e61ef84ec25d3b8c94fa2fc0ef4/commitizen-1.18.1.tar.gz"
+    },
+    "1.18.2": {
+      "sha256": "f3495632f215378f28e856e46b47abed1c3e63ce8781f26c4e7024c601bef05c",
+      "url": "58/5e/8143e5960a5d349318fb7a3db93aa7fb745c52ff812d525cdec6bb3880ed/commitizen-1.18.2.tar.gz"
+    },
+    "1.18.3": {
+      "sha256": "e9c73bf3a1928d37676b3f212e45b1c35ed67653905120b4fc471d2693e6847a",
+      "url": "53/42/c295b28456cea26c81fdaeeecca64c44d3708655bc8e92408710772bb22d/commitizen-1.18.3.tar.gz"
     },
     "1.2.0": {
       "sha256": "cb61702569d5bf5deb802b0e376b0ee28140e88fa8b368825109a2d78ece6b19",
@@ -9447,6 +9459,16 @@
       "url": "f5/d4/e14e5b17aca858ad53210c0342fe0a4b1f46dffe3e2e31961b34ad7c4fab/ics-0.4.tar.gz"
     }
   },
+  "idissend": {
+    "0.2.13": {
+      "sha256": "f9dcfd4d9adf2a04d16e1fbe3e8db140271b6d5ad19a17043c4478af85efde39",
+      "url": "e1/fb/9a2b5253691f91bf6d31e2e2ff6be8b0d2613504009ba8e8a4a6968baf2f/idissend-0.2.13.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "01e4f5a917e283517226a4987d02244da7f01d5dd5f67a904c22b3c885586529",
+      "url": "2d/94/09e9825c5b14b32ff4b68933d39f6ae43189013c660378bc950e02046d1f/idissend-0.2.8.tar.gz"
+    }
+  },
   "ilina3635": {
     "0.0.9": {
       "sha256": "a6b965c8eda0de8547d4344be05b54b450fdf300bd2a211c2edecad05aed2538",
@@ -10835,6 +10857,28 @@
     "0.0.1": {
       "sha256": "b008527d42cd96a19e418def0d9e5b4f75e3ab9d380168fa400c0fe91380909b",
       "url": "83/b6/d77502442e1f7d11aa915a0ca78b639a229bbd1802ec44593a877b92315f/maracas-0.0.1.tar.gz"
+    }
+  },
+  "markdown-editing": {
+    "0.1.0": {
+      "sha256": "743df4ab6e3aa8a41a838be315d060f69b5b702655e3a2187e0a277b71245114",
+      "url": "e4/95/d8fc0ab6141573b22f33c248ced34c72d2ebcc7f0e07fac314fd8e6f6bfb/markdown_editing-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "1cb1331310ab53d07c5c9d509ca2b9dea6bdec34e939ef40c49cae38fdee0a38",
+      "url": "c0/f4/4488d5f4c5d4bb6579618ad1ab3137ee9895c0e2e3cd786afccae5fd7236/markdown_editing-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "3c63e9c127ea54b9ece259e85803b8636b557a68f5071eb65574a41a8fbdeb9b",
+      "url": "e6/14/117341e57ae5b0c730af3e34482d24629916b2b437b99676d1dfb7e20bd6/markdown_editing-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "e11bcdda1aa4ce1c77186077c156287af52afe0801b66eacef82d4fecf1cd699",
+      "url": "ee/2f/b3e4beaafe8eb377748c0972747b97d87ed03a02461d6d9104250430dc1a/markdown_editing-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "5c1d229a5465982474c9af8ed4032f93df282a0d1e4c1ed0c8991be223e494a8",
+      "url": "45/68/ef5388292b8f46ce93b7db1be74afecc8432c84835c634a731e4933890d0/markdown_editing-0.1.4.tar.gz"
     }
   },
   "markdown-swiss": {
@@ -13557,6 +13601,10 @@
     "1.12.43.0": {
       "sha256": "6255118ca780ed9a35d836eb0de68292390996add53ca66f83e20d82a6cfa42f",
       "url": "a5/8f/fd35e6131a088e940ddfb379c1d7f09b7abc1eabbf91393caf43a2df6169/mypy-boto3-datasync-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "04d27f374f698b53ec3c14e81f696524b51c1bdc23402ef4e6c4faee1c33f6f3",
+      "url": "f1/a3/d79b4fe7b6c58d80c6e955c362bdf1ad0a51a9f63cdaf41e0c4a724b3ea0/mypy-boto3-datasync-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "49e7d067a535f22f5aae0c11aad3377bb72f1312fabeeb676693418fb535d00f",
@@ -17133,6 +17181,10 @@
     "0.15.6": {
       "sha256": "b47819ea99a41c2616adc8a5ba797f663dfb860a758cd80bddc1ee8212d8956d",
       "url": "94/e8/4c604500020405ebab940aeeca2799d767c9dfbbab15cf7a15a70bc29441/qprompt-0.15.6.tar.gz"
+    },
+    "0.16.0": {
+      "sha256": "e1eec372be47d128a36c3c980a4a85bf2941cce986c10bda3449d5d2cfd781a8",
+      "url": "47/b9/2598aa458f83d47a6b1bb307bf3dc0d491830dfdaeb5c5355a5793e79752/qprompt-0.16.0.tar.gz"
     },
     "0.2.0": {
       "sha256": "ce46822c07121ae79e410eed5f8ca1c0646e1ce6a4a2fd51ee6cf87780b2ab9b",

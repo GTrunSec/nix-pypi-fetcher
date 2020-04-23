@@ -1204,6 +1204,10 @@
       "sha256": "90cdfbc0e0670e9109a9ce4a8806d09f472a683dfc785ed9df1d37f08c31ef3b",
       "url": "80/e2/06672594bdb6f93e69cd61076da4495036c1893f05890b5bc485477ec9c8/aws-cdk.aws-neptune-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "9a70dc9101e9606dbbe151854be422ea20a370487cd5b6eda34ed3f0592804c8",
+      "url": "ce/29/924fb040bdf707b1e99466904dd0fdfe06fde82671c00f395ae00ea4b1de/aws-cdk.aws-neptune-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "5d1a19d51157acb479a1174edaa77ae546d8be307107dd400c3d3c8372847e1b",
       "url": "36/42/92990883b099e30c9f6d601a9c69a35a313c689497fb5d00b2ca71e5c967/aws-cdk.aws-neptune-1.4.0.tar.gz"
@@ -3995,6 +3999,14 @@
     "0.8.3": {
       "sha256": "7a8389005bf2d0d604d6b1282538c74f70b98ab3267f6957d42193d83a02f950",
       "url": "b8/52/fe316726e217939dfb73f7ce73f96b66271507bb1b4ddae97c2b81fdd19c/demyst-cli-0.8.3.tar.gz"
+    },
+    "0.8.30a1": {
+      "sha256": "b7eb8f136a7c9613558fd72c86fcf3b2cff715e7ea56e92a96ded40b0c35f096",
+      "url": "89/d2/0b94f16c95950fa9f0b021d77036f390240ff452f501d49efc1412540455/demyst-cli-0.8.30a1.tar.gz"
+    },
+    "0.8.30a2": {
+      "sha256": "60e3092baa6825d1f373236396f5899c6fab456fa42c733cd493ce6943506ec8",
+      "url": "ae/65/10dc94083f4340eb1e8bde041138d4f3e0166880be290ed2a5e65a2a060b/demyst-cli-0.8.30a2.tar.gz"
     },
     "0.8.4": {
       "sha256": "31aa97e52b33279b27556d0e3af8f9df039ea7ad609359ce8d6a0747e0fbffea",
@@ -10878,6 +10890,14 @@
     }
   },
   "iot49kernel": {
+    "0.0.10.dev0": {
+      "sha256": "db1388a49c8609c1dd96c855e908daf4e02c3fd2ab938299950c8d75796917a3",
+      "url": "07/85/2554e2922e045d8a970c070d2caacd5ab70dec5984b17f50b84a59264fb2/iot49kernel-0.0.10.dev0.tar.gz"
+    },
+    "0.0.11.dev0": {
+      "sha256": "c85a3844e64c66c73255c50c40cfaf21365d399ab74a1ab2f883f3ea7bb8a24d",
+      "url": "89/f2/74f56357068b819799229b4f4589544e5a87456d71a43e6a028b05a3bef9/iot49kernel-0.0.11.dev0.tar.gz"
+    },
     "0.0.3.dev0": {
       "sha256": "b7dfd696cf9a65fcbb6e0d3ad6fa45dc8f3958f883b731f933a583b8f01b500a",
       "url": "23/63/b59441b5d5e7aff9bd2c625449fc2544d29732d514d1f1db067b4f6552e1/iot49kernel-0.0.3.dev0.tar.gz"
@@ -13692,6 +13712,10 @@
       "sha256": "bb07f5377d3e0d634f56def316f259ccdfbb7dc3ea91644dfda7b54e0e60df81",
       "url": "f1/43/e20c4a00a69c1209b8b8aacfc1b53dc5c334b7ef913c91b26f1f262a3587/mypy-boto3-detective-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "0af6b8318205af0a9c09cac42aee9b58e594eb32aafd1d32e637926110f2a75e",
+      "url": "c6/a8/36f298827f511b515c6cdf8a495f4c975c54b534e31b5f0aca2f84d7a0ec/mypy-boto3-detective-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "054accf3c6adc1eb845fbeff7561b7bba4ee80f9310a839133c4de76f41be0ea",
       "url": "95/97/5d5cdb07f5e844f56892cd57e8b62dd7f6c6645b45455dad3bff0b81415e/mypy-boto3-detective-1.12.5.0.tar.gz"
@@ -14201,6 +14225,10 @@
     "1.12.43.0": {
       "sha256": "4237fd80fcb0fc4eaea28aba9adefbe0eec18ece9ca8a22e3ba9fedd3fe027cf",
       "url": "a4/47/352b944c79c2c3e24ba1e59700732021dbbe9dcc04d859c95d9d83aee24e/mypy-boto3-iam-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "9ba92673e69bef897cc050e29bee9f27db3938e5e21e1e7826b19fa229bb1319",
+      "url": "e6/e3/7cb6c5afc2630e942a4a6499a1608aac044cc887355ce6f594cc67dc09d9/mypy-boto3-iam-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "59ccd8d263818286339cb11de3f510b28e868c82e99d185e94a23f9813c7e56e",
@@ -15765,6 +15793,14 @@
     "6.0.9": {
       "sha256": "eb5deed5a6e160bd24683841c6333e1528d29f44969bbf44a8dd309b4b06e370",
       "url": "d1/5d/c8b77aed60253339dc22d74815528c47c4d3b716b23d8441e16751b5665a/osha.oira-6.0.9.tar.gz"
+    },
+    "6.1.0": {
+      "sha256": "f20f632cfe3c3ecc43dd2439ff147d80a18e060bb00f9de1455d23aada8744a7",
+      "url": "73/be/fe1dfef09ca8baaad50db4e56f8f0856e6cbd335874e6380bd3b20814de1/osha.oira-6.1.0.tar.gz"
+    },
+    "6.1.1": {
+      "sha256": "d6ce0c01fe2b8886d8c751ab2ad3a4b7f512c29e1f57fec15202827e1ff9e81f",
+      "url": "5b/9b/9497c6586cdfe834a04a7ba5a4f596481497a78389bea21622bae57204ae/osha.oira-6.1.1.tar.gz"
     }
   },
   "ostrichlib": {
@@ -18685,44 +18721,6 @@
       "url": "2d/90/1144266bfe816ff58d4e375281c9c00ee4b54f4d9325d3a0382564ae33bd/python-schema-registry-client-1.2.9rc1.tar.gz"
     }
   },
-  "python-synology": {
-    "0.0.1": {
-      "sha256": "4e38a807d4f2cc670dfe182f52224a5edf63a5e85656bc40d372ac4f426d22d9",
-      "url": "58/ea/81d7712734423a09733a23297cc52ac9c7f049205f480f45ddc6ff9c7510/python-synology-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "bcb7e05750433aae2219e98dd629b1c2d94e32ca1a08807ded0ddb92508e5d22",
-      "url": "17/8b/95128ba8052863bf0db75596cead5e478e3a7a286b936723439a06243cae/python-synology-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "bfa0bb0b21c94c35438d0cd7f1c3488e3657272b6f600d299ebc04fa5f4a1d1f",
-      "url": "47/07/abebbe5f8694b1da27d1c453b774ee41951944c317028b763d95baf1c8e8/python-synology-0.0.3.tar.gz"
-    },
-    "0.1.0": {
-      "sha256": "350266aa1279539da82ee9195e299ae1a8ded3061df21a23f6816e45de094ed4",
-      "url": "cf/3e/632fb7dad299d072d7a045e626113b3d5c9a2214a199b3894928e1e31c67/python-synology-0.1.0.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "a241e2e88e109cc5e8701c3a6cf86576c876ecd4d19c53c8b69606958891ab6b",
-      "url": "84/b2/5fa8087e6d07a38c32c8f456a576251bd298908ce04151338a967edb38e8/python-synology-0.2.0.tar.gz"
-    },
-    "0.3.0": {
-      "sha256": "780a0d15fe36a86a7d124a31748a33b8cac9221e5c632d24b46b5b71eeed37e0",
-      "url": "6c/d3/6c175f03a8891023b9037c5ed4b906d7de1ec209b75f17b5539359b26455/python-synology-0.3.0.tar.gz"
-    },
-    "0.4.0": {
-      "sha256": "36a90357f92570bcf9b7938e0a079dc9606520681a40180bec83d4aa09c88887",
-      "url": "ec/c6/b812cd898034b6e661bfff3a5176f57d35904154343e28349ded70966913/python-synology-0.4.0.tar.gz"
-    },
-    "0.5.0": {
-      "sha256": "fe310b5aa2aa11be303dac6d7071f8ed4d71197c5ddd01e1314ce8fd571360e7",
-      "url": "5d/fc/490bbfc8be24bfc6879b8ecad4ece1a3ebdc1fe83a5bbae3a0510d04db63/python-synology-0.5.0.tar.gz"
-    },
-    "0.6.0": {
-      "sha256": "b0dc33c26c050a4b3834186d0455ed62c56452f1537f5a2b7086ec439c2d3b1b",
-      "url": "5e/7c/0a076465d71a8d9c505eb64f95ce60e06dc61a15c9faa8e9de550f8bf6c4/python-synology-0.6.0.tar.gz"
-    }
-  },
   "python-unixtools": {
     "0.0.1": {
       "sha256": "3da26e8210ebbb74aa17463e821dde0cd2d5a422b9e247cef6c1eb134d7c3ea6",
@@ -19311,6 +19309,10 @@
     "1.0.2": {
       "sha256": "7518dc6a96abfbed71ff4fc50acb13cfb9fd6c412aabb90732d0b4fb88e8b274",
       "url": "ce/c9/9c52b4bf9e556d21fdefd0fd47ec21e0823276225e58a428ce04e523fa35/rasa_composite_entities-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "e02eb3488da3c5b4c90feee8b8698c467d50331c53c4f87e8f1631520670096c",
+      "url": "3b/ef/16b33575717703263777b400b798f34a9e97fd7b3f76e9fda0eeeec4c8b7/rasa_composite_entities-1.0.3.tar.gz"
     }
   },
   "raspicontrol": {
@@ -19667,12 +19669,6 @@
     "1.2.2": {
       "sha256": "bc1346021c5a1be1f828b74217d74b4d805d7abe47d671dfa1ac7a993bdd1141",
       "url": "74/27/3bfc0d86290bacad1fd0e0a4f563b1c78796e22a45f02e95f0bd88ef2fa4/robotframework-xvfb-1.2.2.tar.gz"
-    }
-  },
-  "root-pack": {
-    "1.1.1": {
-      "sha256": "1591e30a1f3e15df18ec06cb117bb86d8f34005cca5c1ec410dbd44e3499ead7",
-      "url": "2c/69/5cb2f1f08aaa929bb0956432e048715f67f7c44d2100b66b78e5c6d4e97a/root_pack-1.1.1.tar.gz"
     }
   },
   "round360": {
@@ -22352,6 +22348,10 @@
       "sha256": "ba3903ac652b69c555dd3327a0ce815767f74fe4f7727967992e9ca53b69d780",
       "url": "a1/ae/59e8924c7ec5d9a84255869e0432f12e95f7be8c2e2bd89d2fa1871ee719/tabulator-1.38.2.tar.gz"
     },
+    "1.38.3": {
+      "sha256": "d1551fbb2879a6a34ce6a9e73172959725f7b2559ff014bfd9c834f0fa3f9322",
+      "url": "d1/7c/c8f05225c830c4b6c25a8a75df396e59a4d2c039d243179fa1a41cbdd17e/tabulator-1.38.3.tar.gz"
+    },
     "1.4.1": {
       "sha256": "a9d7f84740c7098cf511bfad2547728ac020cbe3a53ea24c608a5a4f6f976771",
       "url": "f7/63/9d244498e2ed598d026fbee6f327f610cb649da6df2b44e45cfbb36b008d/tabulator-1.4.1.tar.gz"
@@ -22577,6 +22577,14 @@
     "0.1.0": {
       "sha256": "60b51f85bc1aec659fcc5b060a405e87e9bcb50c0b539a1672e15a3b8ad663c8",
       "url": "0f/b0/002bd6a6637432d8bedb1a008838977b1972ccc2cea708a85c67affe4d59/tfduck-bsd-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "bb0283b99b79a1fd5d931f8995a4f0efd22ea361177cb7327bad9790fef02d4f",
+      "url": "64/f7/d8f14053f5f8e1cff7d5e83152d0e09ccab8049ccf1e8bbf5d8ed9760592/tfduck-bsd-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "8475186c4b4e5464e6466c5eb0d79f67036d367effc908581af87694fc58b7a4",
+      "url": "28/0b/461cbbea6037835f00ba0b7db32bffdddb851340a9dd41afa7fda8d2de7a/tfduck-bsd-0.1.2.tar.gz"
     }
   },
   "tgintegration": {

@@ -8861,6 +8861,10 @@
     "1.0": {
       "sha256": "d7a549af9047f1af0d824cf29dd93c5449241266a24e8687d3399cb15bfc61ae",
       "url": "7f/7b/7627af71aaf127014238040b78ad8eaf416facda3d0755af69f382399c36/faraday_agent_dispatcher-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "92106dce2a888f4e39b62217e777824730a557c55955aafaddded7db2e3b7e94",
+      "url": "7f/7a/5cb26f3d9e566252f89d84e17c53c41d7fb0c7a2a1feb8b8c8aa9dbe333b/faraday_agent_dispatcher-1.1.tar.gz"
     }
   },
   "fastforward": {
@@ -12587,6 +12591,12 @@
     "0.0.7": {
       "sha256": "6d420c8a79263ddc6f0cf45e1c9edf55f6eeecfa187ec6460d99994f763423a0",
       "url": "01/15/420a46b83e42a5686382cde2d56c72bc7f05d73feaf018cee673197281ed/kcet-sebaantony97-0.0.7.tar.gz"
+    }
+  },
+  "kecleon": {
+    "0.0.1": {
+      "sha256": "2ecbf7a080f0cf4d707ace7c0cd6c2417cb52eee8ba626b2eb53013fc13dba56",
+      "url": "d2/51/e0b7c4390403ff4f269d5f0211cae1a4dfd4e812a19647181e04e11568b5/kecleon-0.0.1.tar.gz"
     }
   },
   "keiko": {
@@ -21645,6 +21655,10 @@
     "0.4.5": {
       "sha256": "bf7f669b7ca9fa48ba30b632c9b5aca0871c4deef744d7fb80e80806e1116484",
       "url": "24/aa/e6e201b93c8cbe24e6cec5c53c4acca4f845a8133c85341b0c5aeb1cda55/raveberry-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "f8f840a676a6bf07a39a464a0bb86ff72abfe03c6cf3095e72532c993eb403fe",
+      "url": "f7/f6/d560dc177839f1deba0481a81c41bff5e81af7075c4711f6234ee9bf2a3c/raveberry-0.4.6.tar.gz"
     }
   },
   "ray-appengine": {
@@ -26913,6 +26927,10 @@
     "0.4.3.dev743": {
       "sha256": "c104bcc490ac148259c51fd4cec7abcfd3b94b362b83a770d3b1d089b0f65c8e",
       "url": "db/c9/d2d4f3f9344f60d279db578dce717c377623b39f27d53dad3449835ddb1c/transiter-0.4.3.dev743.tar.gz"
+    },
+    "0.4.3.dev755": {
+      "sha256": "923b8d2a00717b457c984997dbd5bffda5b8b0ae17222e161fbdcf530d4ddaea",
+      "url": "9c/96/a28e1dd18e16a5f0bb340e7a6f4d712aad1435373785e4525191fdab5884/transiter-0.4.3.dev755.tar.gz"
     }
   },
   "travis-sphinx": {

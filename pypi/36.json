@@ -9805,6 +9805,10 @@
     "1.0.7": {
       "sha256": "ffbe6bcf184eb7590ee12d13c7c421dad6d24068861e03728d41bf654b9cd7b8",
       "url": "9e/b0/0c077391a8d3905b75e614b32bbf1d1949600c8f386b96f6d5bbf8b75e06/makeflaskreact-1.0.7.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "9a6c1bad0cfba37308fdb5706b5889ec181ae6bda35a1a33f38e3839353a15bf",
+      "url": "b3/d1/31a495db8e9bc003b2a3d9ae9e947345446fd6b847d5bea16fdc8f09f73c/makeflaskreact-1.0.8.tar.gz"
     }
   },
   "maketoken": {
@@ -11242,6 +11246,10 @@
       "sha256": "fd30201edd6403c1f531d400a71db6bc7c28c4347c1b761bbfbebf2d4fca2fc5",
       "url": "60/52/bcf17976845ae2eeed9b0e697b914c817599570388d47c9260d18aa0c43b/mypy-boto3-dax-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "4f5980651520363113e8e1e3f45b6028bd298eb26f6a549cee4543047c97697f",
+      "url": "48/ef/0fc93e31c770e4d42554355fde262648f9b7193deb79cea0a1dade5acec8/mypy-boto3-dax-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ba5d1ff1b101a6637a3540a4d3cdc77b09a816aad55ff42a5bd07770d1d57da8",
       "url": "b5/a6/702e73baa475bb5fbfb72921a0bc5430d908f62f3d90bd73adada3a47ea2/mypy-boto3-dax-1.12.5.0.tar.gz"
@@ -11756,6 +11764,10 @@
       "sha256": "5b35e677f9ce2a6828474f7f71969f5a7ff01edf9af9213e60857cba552a8b26",
       "url": "28/a8/3bc0438a4f2e39c8ac3e07aa07929e53cd2bda1a128c78dfeabc1ef38a53/mypy-boto3-qldb-session-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "9e1f04bfa5e7e4945692bff19e4c0690cf4bb4dba53c59763e6064a4c380b218",
+      "url": "20/30/ec91b8410abe3c4d505614ff6d87f883850ce1a13a948c1c53ab949b07d0/mypy-boto3-qldb-session-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "bd50c29c3d539a1c6c12758465cac647cfc7c693bea357c948255c0c1a879105",
       "url": "f6/d8/0cb9183ecf2a0f4223b147eec3633b5e2c95f2ca9fca72d9c0f09679c7d0/mypy-boto3-qldb-session-1.12.5.0.tar.gz"
@@ -12266,6 +12278,10 @@
       "sha256": "6523ee021bafd0aeccbb01d0b4db82a8d9e7b5105b0b9a531299b6cf4127be4c",
       "url": "ef/c7/d3aa3cfb0d847c9546ef2d53c8f3e4f96f468b2dedaa6cc1a01efcb84a19/mypy-boto3-workspaces-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "d5309ae7c5a61dd99c3c44dee95414b0c387d298289679c446c1f911719fe6e4",
+      "url": "8d/55/b9146a3cda2933befe34946d0237a80d1e43470366af022cc0fe6e56d607/mypy-boto3-workspaces-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "383557e97b3e365883616b97016522278419a537559e75d0fee5793b15a67633",
       "url": "ce/22/26d99cb3053b0ab9b3d5e1fcf83529ba4f59227405d7e44147259572c98d/mypy-boto3-workspaces-1.12.5.0.tar.gz"
@@ -12557,6 +12573,14 @@
     "0.0.1": {
       "sha256": "6261e0e6f767da410d2ba93e09bca1415be6872b653767806739b5572d5e63c1",
       "url": "e2/ab/6311f66a57a1d3085791dbfd64c7cadf4ffac28276ba7b17ee12134a1c22/nevermind-contracts-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "fada78aba078fb96aee54e447cce1c7ff52594c64fd7686b53a24a7827b5b0d6",
+      "url": "88/53/7c13792770051cb1953e38e3335af893394e4a751e0ae4f63d5fb16d9165/nevermind-contracts-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "2211bd5f2baa8ba21aa1900a2e63da415964ccd616437c584c428ec7d54d53bd",
+      "url": "40/5a/25f6b88af74ef91b4d52b4f1094d49bf7b7a5b36a9095912162124bed528/nevermind-contracts-0.1.1.tar.gz"
     }
   },
   "nndownload": {
@@ -13489,6 +13513,10 @@
     "0.3.0": {
       "sha256": "c48d6714c898d4b24ebb9fa4bf1911a9650d494d0561438b943bdfc52cdef2ee",
       "url": "44/ec/7bae0f9705a02820142477e071289293ed17eeb5e3ac6c422e62803185ca/pelican-jupyter-reader-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "8feda86b81698fcae652b787c9771087b3488a70488072f5db9b7bf6bada467e",
+      "url": "e7/95/e08b899c02288b75f6f14f690d16baed5d57eae8e470e13834d5c11cd854/pelican-jupyter-reader-0.3.1.tar.gz"
     }
   },
   "pg-es-fdw": {
@@ -19659,6 +19687,10 @@
     "1.0.41": {
       "sha256": "6cf3cbd5dce85758f76f4fea9499d0fd83119ee8d38c5cbd97836c5e70623c74",
       "url": "96/65/cd0c86ff37d361d954bfd8478a03eeeffaa5a632e6a42b5ddd78df390196/uxapi-1.0.41.tar.gz"
+    },
+    "1.0.43": {
+      "sha256": "233b9b5f76756f657dc0895964556134a82fa72705aec794da067a963ad42457",
+      "url": "b6/e1/f1e1f8fd39735990f9d5b639b6f2e5e6cc4edd0269e980ecb9383a8191dc/uxapi-1.0.43.tar.gz"
     },
     "1.0.5": {
       "sha256": "8be47cc0434eff68cc2784abba07ef742823d485738b2d734c967e64b8895f79",

@@ -261,32 +261,6 @@
       "url": "96/5b/f3b4e3d05f31f7735598987325a4be4228a9fef234811668530a4cc6a3d9/addhundred-1.1.0.zip"
     }
   },
-  "agentsmith": {
-    "1.1.1": {
-      "sha256": "63e9398ee3e075bc913842db4d970b5f561ac2f357baef408023006bec8aefb5",
-      "url": "90/98/490a831065a63e98e55867cc0066ea9bad5cdd3a7a350b40cf210ea94ff0/agentsmith-1.1.1.tar.gz"
-    },
-    "1.1.2": {
-      "sha256": "6ad1da16d067527524e4d2172730c2b2e5707ba4d4d92e37a9852caf15ebcdae",
-      "url": "8b/d9/3ead2a24fc4a0f2ea06d58a33a6fb23aa91186b0628905609a864c6748e8/agentsmith-1.1.2.tar.gz"
-    },
-    "1.2.0": {
-      "sha256": "7a2fe0487c1127b5de434615b7f109e7543b676c3bc533eac1625d871c115f0f",
-      "url": "a4/12/7a47d7b543ce20c94fa218e33b56ca981cde924f3b7816905cc5b4700364/agentsmith-1.2.0.tar.gz"
-    },
-    "2.0.0": {
-      "sha256": "39bad72fe8af5c2dc95ad174b4f690807225d10d195ecaf7c1be52168561a6fd",
-      "url": "a7/07/e88b56579a74ae7e78cdf788d2efd7e7eedf3fa93daf2fe2d3a38ee7580a/agentsmith-2.0.0.tar.gz"
-    },
-    "2.0.1": {
-      "sha256": "b5e5fea0d3c423e604f3f6c7220ad6c59f04b01dadcfdd9347c3232dc2fb2e18",
-      "url": "ce/e6/35fa29b2429f86a185159a61dcd5b9b5641a9c46a04fabb416a281a859c1/agentsmith-2.0.1.tar.gz"
-    },
-    "2.0.2": {
-      "sha256": "bbb4366fdee5eb0b0fa94e3caaf1370b00ff6f4233692c12721b1b123d215e1f",
-      "url": "41/8e/7f3188d660f1854318f25b01e3ee95a52f2add59ec3d139aad07f64d7c3a/agentsmith-2.0.2.tar.gz"
-    }
-  },
   "ahlev-django-team": {
     "0.0.1": {
       "sha256": "559bdc2c9745708c9cffd1be49acd1779f43f2a55369c5f1517aad6a346a93ac",
@@ -1009,6 +983,10 @@
     "1.34.0": {
       "sha256": "97089efc85e785fdc36860b5c54560104c8f5af6d82a1b4c1c2de16ba5ab7396",
       "url": "d0/c4/8bd6f67072fd13799e29c701122e72c11dac63fca8b8978a9294494aa379/aws-cdk.aws-stepfunctions-tasks-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "3b69e351dd11d20b9b7935e7a928c068d570798094662c642488001ba59eb848",
+      "url": "44/ae/f2fb3c4663bf23b4d9fc9fd2454a8f20a9a4c9f8c02f572f9e57490f91e3/aws-cdk.aws-stepfunctions-tasks-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "6f2a7b7d8516911da0b8133b05a3394985d3d4fe7291916ea35ca615af6c590c",
@@ -22478,6 +22456,10 @@
       "sha256": "45e69d83f4d881e1ce95aad8e41af4b677bc354f05c7e35962849e5901ac05ee",
       "url": "06/82/1eacf123fc0bbc79b0ff1c03bce33bf996e41912d5783dfefed9726aa082/Products.PloneLanguageTool-3.2.1.zip"
     },
+    "3.2.10": {
+      "sha256": "55d60a64152d3d7f21efea4de4beb2e1742c29aabd2aa503aeb85c0643a5a199",
+      "url": "83/99/bb7b47c7dc619b46e4530ee414bc17b4d24ee82dc63753d3fc6b87fcc186/Products.PloneLanguageTool-3.2.10.tar.gz"
+    },
     "3.2.2": {
       "sha256": "0a3eb1e4536ef4049511956e4df4bfa42f3540ac1f9886e2a0b995862e0fa5bd",
       "url": "3e/99/37e3910b99fd26162589d5fcc1d57bcc816c8ad527807989a75a98d03272/Products.PloneLanguageTool-3.2.2.zip"
@@ -27573,6 +27555,22 @@
     "0.2.2": {
       "sha256": "d905e7f81d187189486777b655975e02ee70f85b4de9bb79abee2700b2d0408c",
       "url": "a3/86/7e667dd6fe9ff429f528a6bfab1a6d4aafb945f36513ff962605f715f0d2/stVAE-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "392109c7cc22557601b8fdb1b448fc12bca0ce001cb373621fe9eb1bba2032d0",
+      "url": "1a/0d/e81817f9c51288d5ec1bfbc9f78f1bbe48f35e33233d34f5a9858986aa4f/stVAE-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "463d656420c59e9316fdcc2ed816375ce274a6ef9e93a684da66fe24f36f5375",
+      "url": "3d/75/1617758e5c3fe320a2c4d08876b4d2744596a530aa6f733d8cad3a705e86/stVAE-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "237de710452255d33b4cb29b0d73763e9e05b2c20a7f9f40882290e8f72bd007",
+      "url": "76/e4/97aaff18436977c02d3882302be2d07f03ef9a849ed9bac41127380c621b/stVAE-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "e7e8760c217b8fd828cf3cf3b794f285ca8444eb18954913d3c95d6714b0d14d",
+      "url": "fa/c3/100352494db41d31a368be4ee89153d2be7eec380cf43314ed113011dfe6/stVAE-0.2.6.tar.gz"
     }
   },
   "supercell-tools": {
@@ -27601,6 +27599,10 @@
     "1.0": {
       "sha256": "30e08f65ba4dc51737b04107e76a9c26adf01d547ca7b793fa780f648d686f8a",
       "url": "7e/52/9b04e347ad7a729029c2e909d22775dbab4e57e3405f3b1dd58cc0a028e0/supernnova-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "066986825e3e295ca6ad37f365d52673e6671ff442f9bcef756ed2c0651f11e3",
+      "url": "2e/27/ae24799d0663b02e8c41fa9f543071e4550f3c594150e3e4045c84be0858/supernnova-1.1.tar.gz"
     }
   },
   "suresms": {
@@ -30729,6 +30731,16 @@
     "1.0.2": {
       "sha256": "9e644ba35ecc9db3b431ddb0e9eb4bb1ee303976fb33dce23d89ee9b5b2dfa69",
       "url": "7d/90/7e627db4cc5614b56adb970d3f0b7c8f59314f111e040fbca17cb72a4710/yasd-1.0.2.tar.gz"
+    }
+  },
+  "yaz-it": {
+    "0.1.0": {
+      "sha256": "6298e32cb39b77b0e6d3e18185491de5fb8ae54b8421f6b7a783772bfbc90990",
+      "url": "c9/02/b57aba7df2968f63d17e10c67512618de978c2875bd408e4eb0f3fea45f0/yaz-it-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "ad143a6bb608a9844e71ccf12ffb99316fce875d34a3258e8636a3cb865e25e6",
+      "url": "08/97/c7a3307736a8a1974d7237b5984fbecc5416f2ea1d1598f339012ee3d4bd/yaz-it-0.2.0.tar.gz"
     }
   },
   "ybai": {

@@ -5026,6 +5026,10 @@
       "sha256": "39e2f42ed45767d5c8201474ce03125ae5fd75f1d17a80c0e0657c1883259189",
       "url": "e3/27/632fd20d294221068c140439300d8819b227229b09eb3e91ba683ee5e13a/diva-boiler-0.1.18.dev4.tar.gz"
     },
+    "0.1.19": {
+      "sha256": "61570a27eb53840d10a8b7e548cd673b46bd1d1f11f7ed9e4c2d7b0710a9012b",
+      "url": "f9/2a/86671c61842d057a410f0ce128ab7c2808ff4a89a2f6e1db9417b3265204/diva-boiler-0.1.19.tar.gz"
+    },
     "0.1.19.dev2": {
       "sha256": "64fdc3ed9ae41bbbb5b664fa9641a5cf71c7850f3d4d196e621e7ee35cdbf222",
       "url": "8c/75/2f32d656b5109fc478ad1d61370c3c2208a5682379e7fb45e5ac40df64be/diva-boiler-0.1.19.dev2.tar.gz"
@@ -14687,6 +14691,10 @@
     "0.1.0": {
       "sha256": "3d640cf3c6f4172a8f6335d344da429624f6f7894069bb4a913b3fe94e7378f7",
       "url": "9a/91/7bb72d00c7ca11f4779e61ef121b8c4bca0cb0dc7d4c391547aa0087aada/nxtomomill-0.1.0.linux-x86_64.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "e7b1fb52844e7082edfe6aa201b35a6ca75c40463f307fd9998f5b947096e72c",
+      "url": "18/5c/29f2912dd73d5c7aa6c0f26659239efe9d433bd001ec338e2e7aa6224b72/nxtomomill-0.2.0.tar.gz"
     }
   },
   "nylon": {
@@ -20302,6 +20310,10 @@
       "sha256": "e546807e154f5937f6ef2621193150314e44ca37bca8ea579808e13e08d59613",
       "url": "56/a6/017ef32d4dcb833d62401e60b47e342f1fe51f1cef95535c19ad9bb9a7b9/star-lord-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "a29a48b54a12406dc9b7605cf601ed30098101d3c86e3330576b81c33e7ed6b2",
+      "url": "09/8f/26f1405724a0fff34cc0c7d04d04f88ed9f335f070145bbc4595d9005556/star-lord-0.0.10.tar.gz"
+    },
     "0.0.2": {
       "sha256": "6f04a08370177dab90ed070a15c7013725cef90e66c8bd288886ef86d7d9350d",
       "url": "0b/36/50d0c5e80079d9383c8529a0af4b25cf713161e250b64f6e55c8744597c4/star-lord-0.0.2.tar.gz"
@@ -20309,6 +20321,30 @@
     "0.0.3": {
       "sha256": "af1914ff94f9e3bc8e6b412d6240be026c4d563a8a43549a299ca5e6bb7b795a",
       "url": "3e/b0/81d310bebf6b54804bb8aba471849e047775a150ab4e060f41b0be5b60a5/star-lord-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "c8b84ea5f9536c04b98f2576b9b50b2fd702b39a8b5d2af0fa03938af8dba4bc",
+      "url": "24/ef/4115828e6c9916dec317f92d829c5c5d339049df8e10e62d9d525e707e08/star-lord-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "b4c069c3049738f8f3837be882f7db3856a593a98019b0f7643120e9fe571155",
+      "url": "db/73/b077cddbdf0bb73cbcdb2329c278c94d889eeeb1492381569afc9cf2034f/star-lord-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "3ad4b946e22946444546166749e9ab7c58c209a25d3c570f3871a7b91ab3935a",
+      "url": "3d/69/0160f8089f7076f0f5c1463e7eecee4b888caa01d92a5a92bd9cb8d5fca1/star-lord-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "8c5df7e1f96974bf56824970d1b48c1860c449810ed0dfda3ce0682d03ffa876",
+      "url": "b7/5b/f08ac7b4e78772c5fdbbd0d8229279ea2f3db889e6e97f70ee3d56eb12c1/star-lord-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "9068c48a73fca71a081bb9da68ef00bc3a745e460bf9df3c573357f725bc541f",
+      "url": "c6/88/d3bc96d9ccc5203060ed506011de9af6911bea1a2d3470758d5e93a4eb8a/star-lord-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "7dd616be1b8221e38335e1b022ed6ccd5ce3784a03a2b5a6e7efeed0b7eabf19",
+      "url": "1b/50/3206cc77c65b0250dec076a6def5e6f941cdb10a3cda1592983547de1ad8/star-lord-0.0.9.tar.gz"
     }
   },
   "stare": {

@@ -3684,6 +3684,10 @@
       "sha256": "3865bffeda7946ea6db6e228b8cb3a2647f2c7302031ec26b972680b26435e7d",
       "url": "2f/ed/6c9bb1e167b940988ef00e42e508fbb3514db432999ce77b35df59055b24/compute-hyperv-1.1.0.tar.gz"
     },
+    "10.0.0.0rc1": {
+      "sha256": "7eddcce989e451ff8eee5fa74993011a3aa73eb64800228221b83fa2e245a43c",
+      "url": "b7/c5/fe3c2ba3f1b308ffc9746caacb343ba652a44e70f4649cc70dd815f6dfc2/compute-hyperv-10.0.0.0rc1.tar.gz"
+    },
     "2.0.0": {
       "sha256": "9a6b5adaf57d3d7178c9d64ca746ff5c28ea4b35773b4e59b6bac1dd42346d13",
       "url": "16/42/efdca6e3d3dd2de5e19a3384d23f7b6112367ef45be4a57982c968dc6d95/compute-hyperv-2.0.0.tar.gz"
@@ -11216,6 +11220,10 @@
       "sha256": "69d9b5a05d7b66a3aaedf19df6ae0d1f9dd4e286331ffb4923ce72b6fe11a2ec",
       "url": "fa/af/3453eb8cbe564a31428bdcbd2dc88377a6ec33fed5cd4e904839ea65e925/listoapi-0.1.56.tar.gz"
     },
+    "0.1.57": {
+      "sha256": "cf7ed62255d0c6feca2a469ce321fe65a9deada41c0893b1f5a144bc48845e76",
+      "url": "a9/39/3b1a4ba8175c0b15e52cb64ee709188dfd4f15a0ffc8ddde35d12d823a01/listoapi-0.1.57.tar.gz"
+    },
     "0.1.6": {
       "sha256": "39956c08b13f0cdc4c64d15030e414251733a34581963e3841d53bb8f378af97",
       "url": "20/71/cd7189a45d38ec89d67a0957411e717a3368f3ee731d3f7dbb4fe8dc5ed3/listoapi-0.1.6.tar.gz"
@@ -12975,6 +12983,10 @@
     "1.12.43.0": {
       "sha256": "11feaf03a38f245e7719563f3206daaf79f01c3b237df6b6ff4883025d1b6876",
       "url": "3c/6b/baad4dd0d7194a112bd3e78e2002589b388783e3062b71171c9b20b72926/mypy-boto3-codepipeline-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "758be0f19505023db37bf53ec2025521c98be8fc831349ebee1aea2486f05a67",
+      "url": "05/de/a1d44c5394a846c8a004e95e64d7ee7198bbf22160b10fb401065e103dbc/mypy-boto3-codepipeline-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "cf814b8f88b48451996134d5426602519939451b7e89617abc69cc8ce577bf06",
@@ -17881,6 +17893,10 @@
     "0.1.0.dev7": {
       "sha256": "3375fb43fde4d0ffcb74d3c36a600bdfa4e66d609419748e4427838d18095db3",
       "url": "9f/86/06910a699017ac37de60ac631b9030e421cfe47cf4b54cafdc90a0ff928d/pytorch-lightning-bolts-0.1.0.dev7.tar.gz"
+    },
+    "0.1.0.dev8": {
+      "sha256": "7f07c171110b33c08f0eceba586c33177974d3d930adfbb09bf42b52e3555037",
+      "url": "d0/13/9364449bb5ce89e9de39d75a432868a5306d6aa43bd25bc0587d74a70d8b/pytorch-lightning-bolts-0.1.0.dev8.tar.gz"
     }
   },
   "pyunits": {
@@ -21113,6 +21129,10 @@
     "12.0.2": {
       "sha256": "e939177e7d16116337202d33190c78382a703589673abb8e32904536d6841b3b",
       "url": "9b/42/3603e04424133bbbafb51dd5adb1570013bc2b15745a653330b1ad3138ba/tendenci-12.0.2.tar.gz"
+    },
+    "12.0.3": {
+      "sha256": "202b42d0f0a9136239c14d0be23ad01ac4df842ca0a64be3bbdda065a91ca3bb",
+      "url": "59/4d/bbe0a5baa6c75d1bd71951cc19516f4c97bc23fb06115c93a88ffec19425/tendenci-12.0.3.tar.gz"
     },
     "5.1.0": {
       "sha256": "d5754af08380c6daa0b0059d4c1eb066c9207fc9a0a7e6396bf2d5ad6b9c485f",

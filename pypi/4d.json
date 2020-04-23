@@ -1556,6 +1556,10 @@
       "sha256": "2e8dc575b5104ee20e46b9f7c38695469c7be0290150ca1fad98d74e2e48e640",
       "url": "46/cf/7b6b1cb072dd96a42733e990a0448777d8a922a110af2181e0258fa9bee1/aws-cdk.aws-inspector-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "e3f217a37c016ad20a00624db147be04fdeb45179dfd4aa921f87c3f16112b90",
+      "url": "d3/55/c1a4ab57ff79df13131a54f8a0ebd04c3ae5603ce925f9a950956b3c152b/aws-cdk.aws-inspector-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "3ddb2e6f2b83286775a05b09a4a73deffbfd2afe051ca54d0ecdfc913e963987",
       "url": "c6/38/86db1ffae946442dca63ec4c601066cc18f9235fb73ee31ebbb70e6dc426/aws-cdk.aws-inspector-1.4.0.tar.gz"
@@ -10061,6 +10065,10 @@
     "0.9.4": {
       "sha256": "19532ee872c586b6dc99e78de013fe825da8fb6a51c3ffb0598d27997e0d1caf",
       "url": "03/22/27fb17d419d301707e3ce033a015d009e02eaa32319ae53ccf0a236ba647/janis-pipelines.templates-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "fc9211aaf0bb98a9cd2739e9abb7b702bbbf775a2550a2a2cd6a008f148f73c6",
+      "url": "5f/06/dc9ce1ca687c42193719673c89cee9967baf4c5b1c96b276dc698b20e7d8/janis-pipelines.templates-0.9.5.tar.gz"
     }
   },
   "jaspor": {
@@ -12575,6 +12583,16 @@
       "url": "8c/34/c58519436752ecfc238fe51cdd40762e47884f27faf6fcf508d48419fe86/mello-0.7.16.tar.gz"
     }
   },
+  "memtorch-cpu": {
+    "1.0": {
+      "sha256": "da4162fb5a45f037a188bcf21a1963a5dfd372f2d0200dde67b1e105367c3124",
+      "url": "6a/57/ee0348be6720f4fd5b05314effa5e777788b7fce947eed8780ddceb4ebb8/memtorch-cpu-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "7680ead861c48a62c804600e37aef7c22ef4fe57203880382c7bd521faccac21",
+      "url": "fc/8b/e80fd744864baeaf5dbcceaaa97aa5315c3f6bfe5732c24b8cf1309b4ac0/memtorch-cpu-1.0.1.tar.gz"
+    }
+  },
   "mercy": {
     "0.1.0a0": {
       "sha256": "e382a3aa8752706e936267a1d3b4f50cb19bdc511d3cbdccc5ae6d5dd1a95d89",
@@ -14058,6 +14076,10 @@
       "sha256": "f68f0702f681bbd67fccbeddcb0ec20f20ae51b059a971e2f0e0f15ae0a49b60",
       "url": "48/27/a02c915be7732a11f53747f07f29dd9503f30669d24c3a3613a5c6d0c422/mypy-boto3-firehose-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "eaa107ed5397b0db531f7bc52706120b2bd6ee00009a295c61e7f6884c421b14",
+      "url": "ae/ef/9abb08b5efe1eeb3cc0a4b00ec8d1bc5b107da300b244087fe4376031e80/mypy-boto3-firehose-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ae1a8b284e5ffa9aa1413470bd291f8ff395274e787292ca639a6cf8623c4a46",
       "url": "12/1c/55463c390e1faed58962809d50834dadd37bc851f235f5bfd407ecee0d92/mypy-boto3-firehose-1.12.5.0.tar.gz"
@@ -14568,6 +14590,10 @@
       "sha256": "46f39b83d2adb287316285911488f3efe1b12214532887f47935f2bfbd7df657",
       "url": "c7/5f/29464d2b9bdce3e4700dd7b66641ae07ea3997bc250e9b28cbe4ba26f88e/mypy-boto3-iot1click-projects-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "377e76f48be8c8b27de4dcea9622a3c3be3df141c377aae7057c7418528cd3b3",
+      "url": "76/a3/9c1896d0f01e7c4f99b12880d7d40523e924fc3cd80ae964bc3102bb3a23/mypy-boto3-iot1click-projects-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "64d534310534df070f21548c63dd92053868ce78c0d299ae4419c895b2e88270",
       "url": "fb/19/d1492c9bc4df3dae3e153cef40ac1a6a156feaa4cb3b9fddcbf3a02becf7/mypy-boto3-iot1click-projects-1.12.5.0.tar.gz"
@@ -15077,6 +15103,10 @@
     "1.12.43.0": {
       "sha256": "410aa2e1a8e2726474bb09821f761551cb679f76c34896fe0c4c6a4347334a47",
       "url": "ee/32/22a5ad15c10ef08373271047343e59d5ef81417844255be2c126b0454ed9/mypy-boto3-support-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "c6af9c7dea9add96cce0a0c3a6b1f53e4ce97e6556a5bdcaf1848704c1b7d5c5",
+      "url": "bc/02/b86aaf474ffa9c8f80cfad4be3baedae94c80387446535cd9951f00c83bc/mypy-boto3-support-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5d95b62e0bcd0a8a2245b87e5813a65f2e03861f4c28397bd7adcf9e15708211",
@@ -20140,9 +20170,17 @@
       "sha256": "b867d1d19a6e74c2b9cb86a09a8576662a3b0bc8150451d2580ddfdefeb793d8",
       "url": "3f/92/f04101886fa3ca10550bd1078d6251d5a3c5f093c87ee2194ad61cb633fb/pymedphys-0.23.0.tar.gz"
     },
+    "0.24.0": {
+      "sha256": "5113bbbf3b5585481b475a1117b3cfdcadaef5b710658782b57ea86d3a0129a2",
+      "url": "4a/ea/7b8454d1c79b5d1f2e6360ad29c37c6559bbb67455539e95fc436b040bc4/pymedphys-0.24.0.tar.gz"
+    },
     "0.24.0.dev0": {
       "sha256": "b1e9d8ad7b3ce64a8a03b88770aa64807af623ce074a9d59cc9e5cd8c86914f9",
       "url": "bd/fb/80a3a83aced9f5c001dcf441be6ea22f49bfa3429f4f24badb02dfadba95/pymedphys-0.24.0.dev0.tar.gz"
+    },
+    "0.24.1": {
+      "sha256": "0a7ea8e1635d3a53790123b8dfd4aae5ad4adde0beccf07f03707c7cfb5eb23a",
+      "url": "f6/5e/650e20f7dced17d20abdb9ff316d3f2d84c78142402dfde31424acfed9ab/pymedphys-0.24.1.tar.gz"
     },
     "0.3.0": {
       "sha256": "bdc8a6383502b825f3abb2e611cf0dda3894a1efc21ad0bee2b5ddb232251604",

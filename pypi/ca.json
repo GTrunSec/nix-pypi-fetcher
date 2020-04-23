@@ -1120,6 +1120,10 @@
       "sha256": "32922df65ab0e6689807f94cd9b57d5d14997b6a85fd8aa452b7183f4d041ef6",
       "url": "f6/fe/fe76c0937f1d70f3b230132c47f7ad7f5e34d43d59866493b112a8c272bc/aws-cdk.aws-iotthingsgraph-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "8aab681f813b00027587f9ba76628e6b7d0794ba81c05ff3ca3a96a088c7fec1",
+      "url": "29/0b/89f8e4a8d3580914b0b71adb1cecfd0eccc0311e78958646c74e0aeb075e/aws-cdk.aws-iotthingsgraph-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "fde769955857e1cf3ea545b382d229425588f170f7649aa6148a69c4bb341266",
       "url": "53/54/b4a43558aa2ab84436fd49782b21519473540393467123e0c2eff6dfc954/aws-cdk.aws-iotthingsgraph-1.4.0.tar.gz"
@@ -1233,6 +1237,10 @@
     "1.34.0": {
       "sha256": "4a8e6edda244547b980ef201f42ef6e868b7ec0929133caa54f38c4538a19080",
       "url": "fa/09/928bd14bde89594bd161ceec22ef4dfc360f84c48c00b52eb3e555c0328c/aws-cdk.aws-wafv2-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "be799ece9f071f3a36ce7c9314a69a9b7a84dc3cf3afe0ae0715bc8ede4e4617",
+      "url": "68/67/f65aa29b9d0ff26639b982a1588ae762e8be2afff86f5e9147bbf0d2327e/aws-cdk.aws-wafv2-1.34.1.tar.gz"
     }
   },
   "aws-hostname": {
@@ -5046,29 +5054,9 @@
     }
   },
   "diagnostics-endpoint": {
-    "0.0.1": {
-      "sha256": "9d9c15e9de3577f402265862e104dafc64d0a636a9118e941e7936da5fcc12b8",
-      "url": "ff/2a/537fd226d896bf67293a11c4d3e9a7ea64f2d0826a21d2ef870a7edf2dd7/diagnostics-endpoint-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "7fd9602f951f8367af16f6a63759b513d7b3a9ab20838268c073dee2e9fb378a",
-      "url": "df/ce/d206c0d24acda7e8e0cd2877af9631e8fe9cd73d143ba64ebc8a6eb7417f/diagnostics-endpoint-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "aca2a367f8893768d947108196eb67de6e7b13c5e6ab69a6778ffe1ee4deff72",
-      "url": "d0/22/3e51fba3b5cd58ee6c64bb00bfe83e3ddf0056ac6a32e84a771448b85f21/diagnostics-endpoint-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "ebab4112d231628f438d5f97482ccf3e6807dff4f5209d80dd5b3c1b9b7b846b",
-      "url": "44/b2/b6bf868a6a86a393231af79279aa597360059149384f31d1fe0573e87a6e/diagnostics-endpoint-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "5a91cfcf246e612bdcc15fec0be1c7c03b7f6f76094e3ba069726174e51b0182",
-      "url": "9c/4f/d46130248c13ff9306263d767e3f611b2ad848568933cf2fddd614ac4be2/diagnostics-endpoint-0.0.5.tar.gz"
-    },
-    "0.0.6": {
-      "sha256": "7dd2b94989548207f0ded4c776920f57a92682c22c53ba59b5333bfbac3bd36d",
-      "url": "a9/74/65f7b28706b40d0c6dcaea9009fb66aab824f3951c0c8e06c5bfd5a025cc/diagnostics-endpoint-0.0.6.tar.gz"
+    "0.0.7": {
+      "sha256": "10989528b422ea313ed9dbc335148d3f640648da5775fb0ca11092989538d8c3",
+      "url": "5a/f0/1d5a543168d3578ce780ced761347207dee6b584daa60364b3c40f4ec29a/diagnostics-endpoint-0.0.7.tar.gz"
     }
   },
   "dist-al": {
@@ -7456,9 +7444,9 @@
     }
   },
   "fanok": {
-    "0.0.1": {
-      "sha256": "160a4a854238414ed04e78896950caf5138850694122f17b63f5032028b57238",
-      "url": "c9/d0/bb4c06e870abc4afee42b2e6219038cf0b3d5f0f5bfe949300a21c3fac07/fanok-0.0.1.tar.gz"
+    "0.0.2": {
+      "sha256": "deb130fa51541194a5fcbbd596693ca9390f71015632c12564d43950b76a8bf8",
+      "url": "03/62/c4438a3c55a5c9d3d7226325e9c725aa63306ae0d5e8901ce1ecd8e0188c/fanok-0.0.2.tar.gz"
     }
   },
   "fastai2": {
@@ -8123,6 +8111,10 @@
     "7.2.0": {
       "sha256": "22c22982f92b3b504aa10633f5b67e79204e41c73dbf74b34da9c396b664b4ee",
       "url": "aa/9b/e6e1b9418511e57d6cfa811b3b2ba2d872477bb9bbef33ea5aac70184b3a/freezer-api-7.2.0.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "a2047d85b00cbfda297a427a1901faf56749344a43ca659c164259c9245ba89b",
+      "url": "60/ae/7a5f984f041bdeae40695068d5bee6d53e1425377a8ab4c23f956e37f65f/freezer-api-8.0.0.0rc1.tar.gz"
     }
   },
   "frigga-snake": {
@@ -9693,6 +9685,10 @@
     "2.2.0": {
       "sha256": "884eab90c7c0e558faf84098e3710cbf48df2352041b5eb75042e53d031a35b9",
       "url": "a7/f4/d67b6cf98b87533b724ca82ffc3f95e2005991dae8bbecbadad520e1c13d/icepap-ipassign-2.2.0.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "25da7fb2b0c17d72fa6b93c942a0ce39cba9526aa50656d3a02d4732d5825270",
+      "url": "b3/d5/20eeaa1c11f83480d373f151a9a614300aa5611e18536cf0daab928b1ad3/icepap-ipassign-2.3.0.tar.gz"
     }
   },
   "ieugwaspy": {
@@ -12493,6 +12489,12 @@
       "url": "8e/a2/35d355e557821e7951f98616b2999e143d8f6fd15a810e06ee5b83ef1789/megrok.z3cform.tabular-0.2.tar.gz"
     }
   },
+  "membrane-toolkit": {
+    "0.0.1": {
+      "sha256": "790d9d18cfedcaf793b14d09b31a282160155226d8847150757ca903285061e3",
+      "url": "65/a5/ad711110bf041abaa1f84f0fa5439239167a6e94f0caaae0f2c78d1653b9/membrane_toolkit-0.0.1.tar.gz"
+    }
+  },
   "metcli": {
     "0.1.0": {
       "sha256": "36b0db60083aca54f3363adb118192275451c1a0d96629cb44e2c3e8b05e9301",
@@ -13797,6 +13799,10 @@
     "1.12.43.0": {
       "sha256": "70c78709325ad81841042ac0293c4df6bf8035cf7d8d84d8e191e7113a9fa4be",
       "url": "da/78/92b2da5232e69eff07e292ca02f4a0c1fb81524bd2e53459ea8bf4454a1b/mypy-boto3-kendra-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "b0a9222053af6677aaec35318e7db11ec475a8fedac319e8a201c4187d0fe66c",
+      "url": "39/17/eeb05f360e2f96493633102c4cd80214af0667448b4b113573a08260933e/mypy-boto3-kendra-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "1931e2b9b495fcdc1c7ccb711393979e99d0e77515c6a3dc0bbd4b7f1b896e94",
@@ -17149,6 +17155,10 @@
     "0.4.0.dev1587399857": {
       "sha256": "54fd6556975a9de000e9a27e12f92cabaa27da244c3166f485a2e4db73f024a9",
       "url": "b1/44/b5c71b8006323b28d6e559da49540539ce9159878baa067bb51bafc17191/pulp_file-client-0.4.0.dev1587399857.tar.gz"
+    },
+    "0.4.0.dev1587573184": {
+      "sha256": "0c7a7a881ec8a3837d3bcf8ec436d8ea89e2ff7708093ecc9fe351667e742047",
+      "url": "d6/e4/67da5d0a1222a13a5190c1c76ad496682eb01dd90734306f4bbe0a158e68/pulp_file-client-0.4.0.dev1587573184.tar.gz"
     }
   },
   "py-agender": {
@@ -19643,6 +19653,14 @@
     "0.1.24": {
       "sha256": "430b22802ff4f1d6b2ae1e3217b2914351fa487d7becec7d4c934447ffa7d963",
       "url": "5e/30/1f380fcffe60b147b387982c0119a2ed19a942b66442123de185799791dd/region_estimators-0.1.24.tar.gz"
+    },
+    "0.1.25": {
+      "sha256": "3d573d2fe0f29a8b538c0229d282f4a409944197eefaf321bf3690a1a14014cd",
+      "url": "ac/2b/e7ff50a68ccbed12d28a82a4ff49f2c65ddaf9d7d94a6c21769780ebf56e/region_estimators-0.1.25.tar.gz"
+    },
+    "0.1.26": {
+      "sha256": "63e7256c122df8fbfee0c7e9a6a5b104c17c746d1d509534c81c69510c1fa570",
+      "url": "dd/0c/15f098df5a960599373d443812ed0ec7650baaa11c307c9b892f27d6ea5c/region_estimators-0.1.26.tar.gz"
     }
   },
   "rels": {

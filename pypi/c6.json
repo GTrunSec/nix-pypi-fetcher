@@ -8917,6 +8917,12 @@
       "url": "45/ab/4f3a1184fe37a288df89bc609882256a47a663190683d70a477b35c90b2d/fmt-0.3.1.tar.gz"
     }
   },
+  "foliantcontrib.dbmldoc": {
+    "0.1": {
+      "sha256": "2407c56a36418d157456df5c83f85ebd78e298ca69226fb09e357e2248c79fc2",
+      "url": "52/1f/0b32931260b35f8dba67d0c1c4bc03f747196064396543ddfe94986d9b73/foliantcontrib.dbmldoc-0.1.tar.gz"
+    }
+  },
   "foreman": {
     "0.9.4": {
       "sha256": "cd8dd2275a5ce17eab60e94c32c560ea8ce4c359ae6fab05cf63acb66436fc6f",
@@ -18029,6 +18035,12 @@
     "1.6.1": {
       "sha256": "bd6c2bf87bf962c142096e99c23a890f0526602c47eed9e3fd7e6777812456cd",
       "url": "a0/41/303a9baa8d143ee09eeb4b02fb2b740eb5c06656d4a78a4c9d16dc208f26/pytopo-1.6.1.tar.gz"
+    }
+  },
+  "pyuhoo": {
+    "0.0.1": {
+      "sha256": "9afa5fca180049754440f59b520e66e92489205221bec7631bf85adb9b181987",
+      "url": "f4/24/be447b680f4ea32393439073378c0a65d0198efbe44e8747380f495eb906/pyuhoo-0.0.1.tar.gz"
     }
   },
   "pyunet": {

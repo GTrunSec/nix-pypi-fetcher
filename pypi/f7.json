@@ -2442,6 +2442,10 @@
       "sha256": "24f8123e81abe9cd200b14fc620199dc44ea657ac7565c9c69f7f8c81096c536",
       "url": "ef/0d/ea639dfe4377e98d6229c315741de606e8369854f1f59843939e9da69da1/aws-cdk.cx-api-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "6abd2a4463b4f1bf4cc9357a33ee7cec26cc9096f64e094ea13c1b9b94aace56",
+      "url": "27/b0/ec7292ca9e783e2849c95f7297f72346db352e1d03a707f0900eaa51b763/aws-cdk.cx-api-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "89d2b6cbd768833b9bec2dee08b411b347f65f5945713530c749aa3501fc397e",
       "url": "3e/17/eb9d8b110b509debd619b5cfd6ee5abd24724427dcb93dbd15d815154713/aws-cdk.cx-api-1.4.0.tar.gz"
@@ -10875,6 +10879,10 @@
     "0.6.2": {
       "sha256": "455d9324784eccb3297cd8b96d21f5b5e609a7efa94f391c1f396f25b6f82e98",
       "url": "ca/c8/dc903f7baf46c9bf15dff6867f7bb8fdc0d045eb0fc748243dae83e08846/hallmonitor-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "eefbe578cddb2d3cb474f161240535a6a3bea8c37d2dcfa18d87418685f1a7dc",
+      "url": "a6/85/a4a4da4fc31c9c6fe920e9c8ee37e53d00ff2e2cec22e476157abf22dffa/hallmonitor-0.6.3.tar.gz"
     }
   },
   "handyspark": {
@@ -11107,6 +11115,10 @@
     "0.9.0b5": {
       "sha256": "9c0478f50d845eb89f1b196a59484ffce9ee3cee40b64bf1a092f1c12778c710",
       "url": "0b/e1/240f6e9ff55b8886768c9aef1a0a193f09c44e3a9f9a61444eae9d1fad2c/hybrid_vector_model-0.9.0b5.tar.gz"
+    },
+    "0.9.0b6": {
+      "sha256": "b00edd44650411dbdce17cb50a4bf342f6e7dc932b930563aa0ec2c0bc5df35f",
+      "url": "6c/6d/f53412feedebf8f746d8ed739509fe68ab2e690bbbe73161ccbc45d46081/hybrid_vector_model-0.9.0b6.tar.gz"
     }
   },
   "i2c-lcd": {
@@ -13689,6 +13701,10 @@
     "0.2.1": {
       "sha256": "906ecd782925c78063db65dc17d30173372708e314e2a10b3c05366f743e9469",
       "url": "dc/68/c95fc5dccccd0e6a9f7c7d58f21435dccb578464663b06f7efc2f690bd11/jupyter_server-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "88d8ac1b399c83d01717bc73002f03999f217df66c09a1c97ef968a994f57e4c",
+      "url": "6a/bd/8e8068e3a6705ade090f538b343894fd1ff86cbe4b5e5612efd10158f1a0/jupyter_server-0.3.0.tar.gz"
     }
   },
   "k2mosaic": {
@@ -15563,6 +15579,10 @@
     "3.63.20108": {
       "sha256": "d4432a9d3b59f9ab7ce148d92b9f019a4158c54829bc4b7290967e104ddcd7c6",
       "url": "aa/ab/0d8f6a8e64326388afa65a95cbe55dfcfbc8637b0ceeedb2370608b84305/mo-times-3.63.20108.tar.gz"
+    },
+    "3.67.20113": {
+      "sha256": "eee007697926aaa97f29c8f568e8fc01fb0a443184b162a2d546fc74d19fabad",
+      "url": "d3/b3/3823a948f72ee5a5cb5d835b4ab035bb228e4a2ca5619e1bad0da98652b9/mo-times-3.67.20113.tar.gz"
     }
   },
   "modelembic": {
@@ -18759,6 +18779,10 @@
     "0.0.94": {
       "sha256": "56825827ecd33c2c8a98f91d92822131b60dcbdde1d938cfcb8c4139bd1d0686",
       "url": "b8/0b/9b5d851bf8c78289d46af30385a545a84c34110e415c93ba8e9a3f588ed7/polar-0.0.94.tar.gz"
+    },
+    "0.0.96": {
+      "sha256": "235b66892a659b45035faed17e7aefa4a5ad2f67628b23e626214e7e750bad74",
+      "url": "f2/2d/a8eda0395115866732a7348c767ea994c6fee2370be84260e6bb33c9bc07/polar-0.0.96.tar.gz"
     }
   },
   "porter": {
@@ -21276,6 +21300,10 @@
       "sha256": "51ec5f14764dfd0d574ddbd8c580f9e737e9a88b8f9ccfe66cea03790a9337e5",
       "url": "93/e5/5dbaaecc31127104c505166924f7b17a9bd8b7265f6576455862615ba6ad/pysisyphus-0.0.9.tar.gz"
     },
+    "0.4": {
+      "sha256": "038928a0835cfdd99254470bd47f40ad18ee0816ea2772d16840ea2bdd67802c",
+      "url": "63/54/d2520a45fd7216ba9ed79f874c8dbb345d2012ae2bb5468fb40546356e41/pysisyphus-0.4.tar.gz"
+    },
     "0.4rc2": {
       "sha256": "876d9d34d90dcb333c313a7fa60128614d17cd6fac8d9d31e7291f9222730b15",
       "url": "5f/dc/643d0d3fec7da4036ce8c24237f3151bdfc9b36adebef6ee84b0404a0c4c/pysisyphus-0.4rc2.tar.gz"
@@ -21291,6 +21319,10 @@
     "0.4rc7": {
       "sha256": "0e5a0b4ce8eabc56deaa5dcd0473e361f96c1ce9d4db4ee0621ecd92c196c034",
       "url": "94/64/72a37f585f7cae623cc27aa359713071b57d4995a135efebbc2cdc695b7e/pysisyphus-0.4rc7.tar.gz"
+    },
+    "0.4rc8": {
+      "sha256": "102d9729ec45af621c8d7b1a8d1d78aa184c779960fcab02157f8b844732f0eb",
+      "url": "33/43/2f0b0a9e7db805c5dbe7984cfb82f9badda6c974e2ef826bbdde7520dbb2/pysisyphus-0.4rc8.tar.gz"
     }
   },
   "pyssim": {
@@ -21961,6 +21993,10 @@
     "3.0.0.0rc1": {
       "sha256": "964240af14a5c19eb902aaceec85db2a4d918bd73cadcf2b077f383aa062752b",
       "url": "96/cb/fef686b648f79e63de7190790695d2401b916088d13de179725e8ffec21d/qinling-3.0.0.0rc1.tar.gz"
+    },
+    "4.0.0.0rc1": {
+      "sha256": "728537fcbb52beb98f97a09faf9c49e5b452fe6459ae24441a8ae60202d8d999",
+      "url": "85/b2/022eb8258c7be24423a2d82ef703077865a2f5fa103692c31e1c21048fe4/qinling-4.0.0.0rc1.tar.gz"
     }
   },
   "qrimg": {
@@ -22993,6 +23029,10 @@
     "0.13": {
       "sha256": "d3abdcda118f0a884e1da776748f5f8f0162f5f18ab7b4cd3a2dc4a92291b116",
       "url": "6d/ad/a6501563846666f2dbffc2b9e042f34b62dc78608f626da82a199f98d156/slapos.recipe.cmmi-0.13.tar.gz"
+    },
+    "0.14": {
+      "sha256": "af8b27c1e3c72ae0e47276758950316f8d2ee740630ae48cdacd01e17c060b8d",
+      "url": "6e/d1/e053ce74591537b180591b23985cc53df41c22ab4ee2a6bfe4c88718b047/slapos.recipe.cmmi-0.14.tar.gz"
     },
     "0.4": {
       "sha256": "931a477f8916a60df1f88ce73286932ca97b78ca922a0179006944f7b519e41c",

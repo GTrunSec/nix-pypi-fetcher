@@ -1341,6 +1341,34 @@
     "0.1.6": {
       "sha256": "61580d66962d08282de327c00518a8196565420041b06f1f87a377d41929a542",
       "url": "91/72/66c3082128d0de06ed92fce11729d64b238e90baf9d2b62c66024b0cd7bd/AutoNode-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "4adf873272311eaf8846f716e7c007e8ce12523b29aa1c1c84fdc344e4dec205",
+      "url": "f2/8d/5022e17a00a8544c0907a9a051664e98c9e2bbbfb517488e195b509b3dab/AutoNode-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "649337b0d407e4440e541f69294e0e9ebff3c51d6a75b76d2d394dadc1442160",
+      "url": "fe/36/4313561f6fac99a1e83b304da8150d760c6ec9454b93d5c93ca46b0b0ce5/AutoNode-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "27557e0a3d0b353cfb773dde1740cbba40414dabeb4c3e633a6021c88f3f6cc3",
+      "url": "04/25/76f3d13179ca0db8a5ae639560e47af3817062859476e623a099ef55e7cd/AutoNode-0.1.9.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "89b9cf9458931f2c0648e701cf4aa9435492a85d87f0920ec6ea97616626dabf",
+      "url": "2f/cc/2a995988a0b5f9a350d0697f5bbcc0ef33f3d6cd0e42d5ad4dd230d875f9/AutoNode-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "0f4d34379ed9f12a4058a8fb6d0e863c8dff90f971c3313a0c3f56c8a1af4607",
+      "url": "9d/1a/15e2c290cc0e51b6c860970a56de0c32ab6de5652833d7f3a5bede867078/AutoNode-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "668e21f2b5f60720bc05dad9a0380aed6eb1dcf4010626ec7f64a6d6ce648a1a",
+      "url": "22/e0/a069b38d997ba4ff9d1d2e435dc2164e512bdd127c4353db89d0808a4610/AutoNode-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "811c1d2e206008288e6d6256fc7a6967a9156a89c00b300ae29913a2724f7fea",
+      "url": "9a/4f/526b23bf1feb371bb51b82b2cd8e2b455051dadce90706ef416ede97412f/AutoNode-0.2.3.tar.gz"
     }
   },
   "autoxinit": {
@@ -1521,6 +1549,10 @@
     "1.34.0": {
       "sha256": "140d168175478e0de3ce73dfa0ec2aeeb1b01b84f28c34c9921a8900c421c952",
       "url": "b5/ac/92dee864609f412530b08a4fbd20093f0b6f121dc9cc2bbcb479ee85c320/aws-cdk.aws-ses-actions-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "fc4ec5bb790082410e11aba45e0964f5fa41bfcef0bf20a6c916ee482d5bf76a",
+      "url": "ca/23/54b18a3ef1f18124f7ccc816dd93c395b0954f2bd4432f0b0cffee1574da/aws-cdk.aws-ses-actions-1.34.1.tar.gz"
     },
     "1.9.0": {
       "sha256": "a84313064b2f1232930c693c21b1efe769f74e5716c9eebb5f299c97bd3cb279",
@@ -12890,6 +12922,10 @@
       "sha256": "9c21a989e4db53dbd2d9b2e97c3884b7d3f1b7111d45e6219d8f25cf387af020",
       "url": "6f/5c/8d893293f0e044e6cf2924150521d3b6c1b1d8c89d3fd0f12e244eea855e/mypy-boto3-storagegateway-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "44f09fab9e70efc89ba1ef90c0cfb887bbcbede1abf547d0011371692788fbf0",
+      "url": "82/77/c5622e14e5f18ca4d36d0efc5ac7e31760b8be8bff916b79ad6fd8b0830d/mypy-boto3-storagegateway-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a51cff4f5ba5d08b3f76d71510269b599b8ac18f10e6cb50412570e6bf1964c5",
       "url": "a5/2f/77dc0c84760d93a61bff0c02017670cd4046feb52ea765e7f0fd441ea9b4/mypy-boto3-storagegateway-1.12.5.0.tar.gz"
@@ -13403,6 +13439,10 @@
     "1.12.43.0": {
       "sha256": "3b71411dfd34e6bf322767f56375f74547359ada5665f014e0a70ef057a979c6",
       "url": "d0/53/3c47522e0666a26c6fa8d980b9f5e50ab6976dd132861d9687bbd0f5655e/mypy-boto3-transcribe-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "80373132a31eae432e777b20bb1b6e078d7035780285ca53d605bbdf6a5cf788",
+      "url": "bc/0f/39ca1008070a85862d9af96b06f3bedfea46b76fe60791adda811dd10d04/mypy-boto3-transcribe-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "b00337bddf6b7931480a68769cb82427a4a3f7b3e93a1a91b1681bbd14695a0d",
@@ -16750,6 +16790,10 @@
       "sha256": "18997929ad792ec7e32576b50d3990e03575c2bde4257663f6b82ef1b5f3bb6d",
       "url": "f5/86/10e47c178697178b194e7c39872ef1f82de1cbc587e9b7a548dad7696f3a/pyiron-0.2.11.post0.dev38.tar.gz"
     },
+    "0.2.11.post0.dev41": {
+      "sha256": "15214aa3f3f87a0ef6f1ff893c166542f123c3f2cf79d1976acdef4bb53a85cd",
+      "url": "f3/53/a9cbcdfecd95f0066fd044215cd34998137a6c725fd16df2ab33afeb9ce8/pyiron-0.2.11.post0.dev41.tar.gz"
+    },
     "0.2.11.post0.dev5": {
       "sha256": "615ce17c0ac0f399c4ad9edad7d8f6db26f875f58eb21acaf497d721f5b6928d",
       "url": "b1/ae/7263efa1819d1c87e320b2ebf9f92261dbbbdb957eb86c31af620be13fa8/pyiron-0.2.11.post0.dev5.tar.gz"
@@ -19651,6 +19695,10 @@
     "0.0.1.dev3": {
       "sha256": "f09644e85960b321319a0efc02f2f7928179e6230dcc8d725ced5938d60509f1",
       "url": "09/16/d440c8cbbe5f3b4e1ff3a5e770a0b4d19876e03e9760d54931b9094b215c/rio-tiler-mosaic-0.0.1.dev3.tar.gz"
+    },
+    "0.0.1.dev4": {
+      "sha256": "60b0fcfa818445fcb9a811d6690b824c4f9d7d504e4dc300dafa76b663de4f81",
+      "url": "ee/f0/1d40882e0611c23165b4ca53dda16577d137eeeaaa38b1590ca8ac469392/rio-tiler-mosaic-0.0.1.dev4.tar.gz"
     }
   },
   "rlbot": {
@@ -20321,6 +20369,10 @@
     "1.4.2": {
       "sha256": "70e7f529025ffe7092d8acaf39d57616298f643773929e67d82e704131dfc55c",
       "url": "e1/dc/c1f5a22309ba71d684d1bbc36aafa89f52dab34374e48d631295d1e06fa4/rlbot-1.4.2.tar.gz"
+    },
+    "1.40.0": {
+      "sha256": "f5ff2f3b4c4baa654fbfff61f2242c88842fd26bc04a4451e222abea5f8c405b",
+      "url": "63/28/99060df4d9ea906a8888c06dde98711667f989d1f8e56a861937f3afcdbd/rlbot-1.40.0.tar.gz"
     },
     "1.5.0": {
       "sha256": "47901e7b3b6cc449ac667e65a2275a269f4a1f3995a076063314017d76c056e8",
@@ -21143,6 +21195,10 @@
     "2.7.10": {
       "sha256": "6b2701e6de9ecaa1545bb58b6fb27eda1b3835c613b971f98370ad281ef2cc03",
       "url": "69/55/35514ee576e9e583c943658b69b379ca14b011656504052f34fd839efd78/satella-2.7.10.linux-x86_64.tar.gz"
+    },
+    "2.7.11": {
+      "sha256": "1b958eb4d0842c86d86f2abad2c194fa0f9c5021e4581374254a2954f870e519",
+      "url": "8b/bc/69430aaa9e8b74f07a0410f3c36164387c3927ce62679573350981371c35/satella-2.7.11.linux-x86_64.tar.gz"
     },
     "2.7.2": {
       "sha256": "44cdfe5a4951740339fc63befdd5c84bbd0d03b09596715a275c4ddbe7e6d880",

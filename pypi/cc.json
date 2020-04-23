@@ -721,6 +721,10 @@
     "1.1.1": {
       "sha256": "361d688155428e21c692f2071011b225487ffbaa7317574c5438e1b9b4f3273d",
       "url": "79/8e/0afa028ea04da97f204c9e5707bc010ba156088953b7af5ec69b37659348/animalai-1.1.1.tar.gz"
+    },
+    "2.0.0b0": {
+      "sha256": "272675fdd24c0829e43b248399f7b1e451ae4990e6a92657b46bcb9e0fa8b14c",
+      "url": "cb/9e/2ad594208060be61b4ed2cb3ecabc5ecca22f8085df7fc31bdc2dc375725/animalai-2.0.0b0.tar.gz"
     }
   },
   "ankisync2": {
@@ -3041,6 +3045,10 @@
     "0.4.0": {
       "sha256": "791c5fb0b2ec1a3bcd873120bcadfadd60dca1c2f75adcba1b2007f977f707cc",
       "url": "72/67/1a627614d62ea8bc3e4d84c558a4be861956db4007b61b98c0bb5bf7ec39/cmaes-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "213d91a41f1d75b8cebca56477b8460da0fc757f9bbd1e5767023ad12711dfb4",
+      "url": "63/5e/986807e309931fb7ec82154d21b024dfa81f3eb5120a834315d06b10f6b0/cmaes-0.5.0.tar.gz"
     }
   },
   "collectionbatchtool": {
@@ -13639,6 +13647,10 @@
     "2.3.0": {
       "sha256": "d69bde2cab67b823f38cae1068969c141807459ac67dddc25681f1f0bb10f865",
       "url": "84/6b/777412699a4b456cd4f1ec7b172e7f87c82fb3823b6c56187bb18dced820/labstep-2.3.0.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "d77a62af9b5fb5fae32eba5f9345a7b73abd6a79d7a98229a9afb1ed8d566df8",
+      "url": "36/e4/e0fcbd1803ebb57827564c910fc49b8feb0f6a9e3dfcc8a6ccc6de5aa47b/labstep-2.3.1.tar.gz"
     }
   },
   "lazylights": {
@@ -15599,6 +15611,10 @@
     "0.0.7": {
       "sha256": "63854d431e33a83731ca388ec9e8f3f7f65a395472091a2f81a7a2711f6c9b96",
       "url": "ba/7f/52dec302e2f1736b56459e085ea6b0cf3008528e5a8a3eca188ea9e142ac/mpymodcore-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "ceb38bafd1e18136099586d8ccda8f598547948b3c7094af25d1463599ea77d6",
+      "url": "66/c8/ea665c82735ca6dd87bf9378376fd7bb8bead9dbc3c63158af2c257cc891/mpymodcore-0.0.8.tar.gz"
     }
   },
   "mqlparser": {
@@ -17869,6 +17885,10 @@
     "0.3.0": {
       "sha256": "876621be78c87e956c48fccba3510f94ba3d686c7782417676886a45dd6bef36",
       "url": "d6/88/0141e245ceb0a88b91c881cebeeb61fbb0e4a9637391ae1bc231ca4eb9f8/purdy-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "55eea386cfc29d8472a44c08803149f450094f903c56e29daedc4c2853baff6c",
+      "url": "02/44/d86fb22e9ea0b1b9b81e2913766d437ab0534bb1a870131410c1383a1299/purdy-0.4.0.tar.gz"
     }
   },
   "puresecvulndep": {
@@ -19461,20 +19481,6 @@
       "url": "05/fc/10471cffec14d15e9e9dad71376ba59303bf8f345460e1524e1af428e86d/queuey-0.8.zip"
     }
   },
-  "quickocr": {
-    "0.0.1": {
-      "sha256": "066b1738de014408b45edfbc9969a65c1d7a59847b6a9c447fad7521e10a9bdb",
-      "url": "77/c3/ea25886eff04ee0bfe0a815940ed6acdbffd15b9eef295a317ff15f7f721/quickocr-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "d87e3af37124f2b5ee0cfbd4d6e49a27583887da38e55114f67dd0a72b7b98a3",
-      "url": "f1/fc/8ddd92998e531beb265163fe72b351654518fe3994dd28b7ae4ea7f3074d/quickocr-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "2f3d49c7ee45317ae46f8457c2c56cfaba05f01c433e1794087540bee48a7b4b",
-      "url": "c7/f9/598106e52fc3029e6997461bdd2b6c315752bb077432d2c625a7daa5098c/quickocr-0.0.3.tar.gz"
-    }
-  },
   "r3d3": {
     "0.1": {
       "sha256": "65e27a774e35e25011810c8317f7046903acbf9967211963de1b6528f7c4d9a0",
@@ -20600,29 +20606,13 @@
     }
   },
   "shutils": {
-    "0.0.1": {
-      "sha256": "568e90830fac51aa7e6fe9a195fe05116e81e2e276424541204eca65277c7f1f",
-      "url": "d1/0c/a99901cea44c490b789e989452ffaeeb988e98e779cdf626c710e5b15136/shutils-0.0.1.tar.gz"
+    "0.0.8": {
+      "sha256": "dfef77643d5e4a253f27da01ac5071d6b7d2516ee6c4da3ce5fda29700fc2a80",
+      "url": "15/53/c0b8e641b96c37d2b99391b51cb89aee80d712d1b154ab7f23ac47907570/shutils-0.0.8.tar.gz"
     },
-    "0.0.2": {
-      "sha256": "975cc8147bac3c877014b01e7745acb89a3146dd96c847445599f933a2e44ba2",
-      "url": "2f/ae/a67a3372565765c6ef3992078d0f310da9a383a681a9d4544977e0cdb319/shutils-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "4b994b2222ebd929642e5fc24d0cd79e8ac2e799ac52776c11aa897030a1b937",
-      "url": "62/27/79efc94c426327d85578d224d0de05f13b67af105a18af775b090f61d825/shutils-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "d5a3ca2c063e90c81a4ff002c08cfc0e204029f77640c7b680b0f1a7b3a00f3b",
-      "url": "70/44/c326ac51141ad1bdc090c286fc194592aaceaa4944ffa6d13c30f59cfa62/shutils-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "a515cfb1a8af8bbbf22e2a9e5da44e599a315e3a6d6ef33fc3bc0eee7b62a530",
-      "url": "9f/1f/fbb0e37d3061ad88110ae1a4df4c709f145017630ebcf4e3e797347a45da/shutils-0.0.5.tar.gz"
-    },
-    "0.0.6": {
-      "sha256": "9a6930f14fa6923c57140293c26ef150555adb7f7a853d731556cafde47b6930",
-      "url": "b5/43/f9c22fecb86f0c6c944225411d6564fe60dfc740ed5bd85de55c6e980a64/shutils-0.0.6.tar.gz"
+    "0.0.9": {
+      "sha256": "bc13a409cb68d4a39acecbe361ba2ca7c68fe34c0f270a8f54e6ad5df7501924",
+      "url": "bc/17/6c6430efdd62a8b0894da14593147a71076dfb0beffb041f6247cafff98b/shutils-0.0.9.tar.gz"
     }
   },
   "siacoin": {

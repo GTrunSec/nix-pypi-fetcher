@@ -509,6 +509,10 @@
     "2.5.1": {
       "sha256": "2d35086e6273d83405f9ee3541c25e5a49ac2de6061e6bce73949420bf0cd1f8",
       "url": "65/6b/f3e13dcf731bf24234d2e3251f9cf66096ebd322c7b486e61cc98ba80ab0/aoa-2.5.1.tar.gz"
+    },
+    "2.5.2": {
+      "sha256": "de605ebc9ecd70b9832b396f37af8af3ef783b179cb8d4f7794062f6094539c4",
+      "url": "f8/ef/b6fd4c28ebe93e4770a3a9787bbf7ffcbd1065dd318422b6f04827142b20/aoa-2.5.2.tar.gz"
     }
   },
   "aptly-uploader": {
@@ -1305,6 +1309,10 @@
     "1.34.0": {
       "sha256": "bde957138b09e48d9d1de16e7959c932b1a5679ec9830e50006ee6aea4e5cee0",
       "url": "3d/0a/2215700c5717014deacb639436ea38a14b9958c8b3ce5223f4cdacdae766/aws-cdk.aws-sam-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "f1bf33ae756386ed5368a185305206c5b2b8acc2fd3bf39c37a413897a1dc7b7",
+      "url": "60/4c/8f2474e80cf7a66052f44f782070bdebdf5cca3ec7a4d3915d77fd00499a/aws-cdk.aws-sam-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "de98f7c83121ae3f58c3cc193b73788869c06274ad7a1dc98a201769b58fc714",
@@ -3355,6 +3363,10 @@
     "0.1.45": {
       "sha256": "ce434f51fb5771640ab21971c487ab2cc88f49cfef87a69f15c72a1e7577a2a2",
       "url": "eb/8a/d42d216a8d06b27c538dacb62b3e3e7395959488166b409fef5806309628/cntkx-0.1.45.tar.gz"
+    },
+    "0.1.46": {
+      "sha256": "a647349f11638da9bd30d081ea5df918fda46913f50950bb12cf95e2d42f6e3d",
+      "url": "21/eb/d18ec38d46599edd72c809a7c067115ec007e6f59d2dc398996994bbbbf5/cntkx-0.1.46.tar.gz"
     },
     "0.1.5": {
       "sha256": "f631ebe761683fd2d3ffd78710fc4afb2f560ea8edd044976128e7296fba0ca9",
@@ -24949,6 +24961,14 @@
     "1.0.1": {
       "sha256": "6e0d239a1922d0fbe1d5da0ddda3f72c75c353a11bb5c26bb0067e04193aca60",
       "url": "be/2c/79af73ee9e09ca9b72bbda2c87608d37aa3fa4b78b3446cc153ed2ebd987/vault-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "1d94732189617760ba5b8edec0449667bfbf4727b64b202b62e121f44470dec5",
+      "url": "42/cf/d07c2312b3a67bd7e9219c74163eb99dc2cc33a184cc46ea304c270eb4f8/vault-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "a68fa96de6d36d7a486e8b2053ddc7216b65a601c3adeea13a1914cb6e2ff694",
+      "url": "09/89/8a155a32959408247f34dfcb21cea008e23be430415e1f1dd865fa8ddcfa/vault-1.0.3.tar.gz"
     }
   },
   "vbcode": {
@@ -26479,6 +26499,10 @@
     "0.5.7": {
       "sha256": "368a75a7bbd890309cd48f4bc87cdc1846cd3c221d02c005ca55bb9742c9c709",
       "url": "fa/c7/9770ea96398ced59c9aa3cfa76a79aa2756fc944cffe9dba38d080e931dd/zygoat-0.5.7.tar.gz"
+    },
+    "0.5.8": {
+      "sha256": "ad4aded12e4d090c8d070864ebba1416d3575880adaaa31130a005986a5d2947",
+      "url": "97/cf/c2df872320bc31d4af481a60b3c493e97082a0ed3789e1e4211cce532a0c/zygoat-0.5.8.tar.gz"
     }
   }
 }

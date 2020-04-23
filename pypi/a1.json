@@ -11417,6 +11417,10 @@
     "0.7.0": {
       "sha256": "032c5a59a27407b33a3405e1da9c8f1a1487e730f31bf97cb84f0ef41a467c9c",
       "url": "77/0c/ff5d6bdcc14375c41cf96846e1d9b44f6c883ace7db00468ff0d74ba2b53/myst-nb-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "b823325cc97aec58f06745f8a49ff301eadc655e68d14968ba74c4f794a3e822",
+      "url": "c9/ff/54c71e247bfd83f33b7215d29cadd8000d7994a970e3b477646f03c81c29/myst-nb-0.8.0.tar.gz"
     }
   },
   "mytestareaexample": {
@@ -13325,6 +13329,10 @@
     "0.1.2": {
       "sha256": "0fc2efe0360774d4046f06dda659a96b2f2d3580c547e5f6c0f2bb4bf407bf40",
       "url": "80/a0/fb227b4e5a1813cf8c4b130278751ef2a17d200729a8dc77b1f60d44364d/piccolo-0.1.2.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "36a9b194ca8419423b4ea93af4b13a5f1ff273d166c07ab55dcb68fa99714751",
+      "url": "50/82/b42ea38b2fc30e755e46757122f751cd02b2f15ff45f3852560655e0c551/piccolo-0.10.0.tar.gz"
     },
     "0.2.0": {
       "sha256": "c0ca4429419cd79e20137e3776b7d292edce18e67b94a9cf1240b2648fcb72de",
@@ -17271,6 +17279,10 @@
     "2.0.2": {
       "sha256": "c42572ca10195e1f7946c3a5d08affb9b959addff75e1bd589e9ccc1abef7d26",
       "url": "e2/32/f58f1e933685895f245eea3fa7a1d4320cd5ee1bfc723592421e152ceaaf/scikit-ued-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "93b785ec98271a9b06aae54caa418cbea412b4b2b8abacf8177273e0e6a18476",
+      "url": "99/c4/35b30d79d6759c556dce58fe0dbc61a0bf3cee92258f9e8c221480f607ec/scikit-ued-2.0.3.tar.gz"
     }
   },
   "scrapy-proxies-tool": {
@@ -18255,6 +18267,10 @@
     "0.3.0": {
       "sha256": "0191fa98940d8505683b68534bde119c6ff676c21f8d5f921d15f422a8247301",
       "url": "c6/ee/6c8c18a3e2dd1dd7231ea77898fbe6d55e21c2119dbb08d87126482c039b/spyder-terminal-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "d08b110ba83130ada87675873e2d8e0f3d91e61c34c25b9340174e121c2fe879",
+      "url": "06/3a/e7555a5a438040977fa692578b7ec6d90da38d1983f036a23c4485d72182/spyder-terminal-0.3.1.tar.gz"
     }
   },
   "spyking-circus": {
@@ -21401,6 +21417,10 @@
     "0.20.0a1": {
       "sha256": "4e38ad7086a023c3254d543228b18259aa10591013b78b0938444b43f8afa849",
       "url": "34/d0/4a2ca5ac407756b44176caa33232fb892101794753c644b5c79a43433353/zigpy-0.20.0a1.tar.gz"
+    },
+    "0.20.1a1": {
+      "sha256": "f0c91da8281e831c547d6e901b3792a38a95499adc541c739f388b0ce3de8ad1",
+      "url": "2d/e3/e3f00ce57df6f591d28df3c8030a71a4b6090f1e20b26dd3ed92c22db987/zigpy-0.20.1a1.tar.gz"
     },
     "0.20a2": {
       "sha256": "e9d34e44441aeebfb1f96558f612f40f9bc9bc6d496ee87e484378ec4ce7edb9",

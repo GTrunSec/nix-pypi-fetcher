@@ -1237,6 +1237,10 @@
     "0.0.2b20200421": {
       "sha256": "9a8cfb3da577a617ada3037712fe4af780a5ba9a3a402e429a3f3295a22532ac",
       "url": "07/23/3b95580bf795ee19897225c99fe24d7cb528f15083bb57e987ab115c7d29/AutoTorch-0.0.2b20200421.tar.gz"
+    },
+    "0.0.2b20200422": {
+      "sha256": "71bd64eea024a6f8522469bb6d35e894d142acbbae9be2a2a7974e1a8e56531e",
+      "url": "e9/85/6073d21b2bb1581788a88c9be5909ff7a23f1eb1d7ba3337e1369da9979c/AutoTorch-0.0.2b20200422.tar.gz"
     }
   },
   "avocentpdu": {
@@ -1465,6 +1469,10 @@
     "1.34.0": {
       "sha256": "fc0916cce0da84e5e0140beeb86491a9be3d954181c0fef10b107710ff63e394",
       "url": "99/f1/811c191a2e01b22867aa747b8ad326f2b88377f3166be16a4d40ff8c3f06/aws-cdk.aws-servicecatalog-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "b4f36cde40a7278e7ccebb30f32eb29c223178a0dc72f02bd4688fa84bc541c8",
+      "url": "94/3b/579defb92349015b78271d93a92d8f3ca3ed2c4db7355cb7d0b746f7e236/aws-cdk.aws-servicecatalog-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "7a1851c1885677379ec12e513cca79a1e4055c9b8f922a8eb1e09c384c904fbe",
@@ -2455,6 +2463,12 @@
     "0.0.2": {
       "sha256": "b1a617acf59c84c0a9523153085e3ba4433e6da7baabcbf2918c83606d11f9cb",
       "url": "1b/02/f7c002813be06cce5d02f20b95f018061b1ce4317d20ca00477a1935b7dd/better_crayons-0.0.2.tar.gz"
+    }
+  },
+  "bigdatacorp-wrapper": {
+    "0.1.0": {
+      "sha256": "2c7fb905ab60f94aca66c18f9cb975d094660b8ea6f0bf9f36cdacc504bd9e51",
+      "url": "cb/38/1308633ac5fb13243bc85270585ce725fedef7f4342a5518cff10c5f2f81/bigdatacorp-wrapper-0.1.0.tar.gz"
     }
   },
   "bison": {
@@ -9161,6 +9175,10 @@
     "7.2.0": {
       "sha256": "b97b42adf9d757f78219c92414145bcffaf7397d7cf3776438109fcaae9c41d4",
       "url": "76/55/3097789272d8d449c54512174bbf0c94fefa213d1d3a0c25364269c3df95/freezer-web-ui-7.2.0.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "f1fcd6621a9ca2e5e7f55671be2dbba04cd659c1d84b0624c8fa040743e8396c",
+      "url": "f1/68/49822e65890ef5bc4f4ea62b8c359ecc7c1b82653a8bf1779180066a387c/freezer-web-ui-8.0.0.0rc1.tar.gz"
     }
   },
   "frozenordereddict": {
@@ -11575,6 +11593,10 @@
     "0.5.1": {
       "sha256": "c370b757bd190fa75a5df67503c08f9c6b093c45a59f07642effa59804ad99ed",
       "url": "1e/a0/0fb190bb14e44a7ffc3fc9e6d73e4eaa408814c6134d52610e588ad0eca2/jupyter-openbis-extension-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "13c95e8439878a2c2abcee7f1600215a17e3e694846896f3fb804b2b086dd4cd",
+      "url": "1b/6b/db90eae687bb077f26cff34414bda19f6bc6c76efcd9e74fac5103c41562/jupyter-openbis-extension-0.5.2.tar.gz"
     }
   },
   "kaiwen": {
@@ -16187,6 +16209,10 @@
     "6.0.2": {
       "sha256": "5d117e76988b306bc9f73207ba97ef620e590a52e3c823c4701fc6529762e3fa",
       "url": "3a/33/c13f25dd4eb84a159693e855fcdfbe645b6814134844545c4ced61fce791/Products.CMFDynamicViewFTI-6.0.2.tar.gz"
+    },
+    "6.0.3": {
+      "sha256": "13eec4e1a12a4ebf76df3825249ff8bdbbdac0e21625504030c542c9fa35cea7",
+      "url": "0f/ff/192448900abb28d0289d79e2dc3fb4964edbb3f2542e5cda1a877b0cd75c/Products.CMFDynamicViewFTI-6.0.3.tar.gz"
     }
   },
   "products.datagridfield": {
@@ -21921,6 +21947,10 @@
     "0.4.1": {
       "sha256": "daba60c8ae906877bb6f2b06b09b14b88cd133c6262900dc27b1e40883b72fb9",
       "url": "a3/fd/1076b8d30a82bae36da8bda441449f9498f86d6aab77423551fe84e638f9/scikit-fem-0.4.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "501712defd7221113bd095a53508fba3548b9e8991a3e9b44060b82d0d76986c",
+      "url": "cf/55/7316aea2a5eccbe733529fe6858932b7ccad1fd11d74a7867382a9f199b1/scikit-fem-1.0.0.tar.gz"
     }
   },
   "scopedlog": {

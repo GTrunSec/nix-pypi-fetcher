@@ -497,6 +497,10 @@
     "1.2.0": {
       "sha256": "f93932fb2f85b179af9e9744882efcec8c3ff0f7af4aefa148cc1f13630fda62",
       "url": "fe/49/513f635b5fb623b1b572839b5932b505813c863691b41765b692da55daec/aiida-core-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "0e58cac7aaf4d69d8c7b99107bec999b7b2c2f99a964e6aa1904a7f6d4148161",
+      "url": "46/95/c884b943c7e9d77949f2f5f95f413bf5254039366ef59a99b8f921809fa6/aiida-core-1.2.1.tar.gz"
     }
   },
   "aio-usb-hotplug": {
@@ -8099,6 +8103,10 @@
     "1.0.5": {
       "sha256": "0ff6f5c41d1748569c6f2417e945de990b83731fa836f2e8cadeca854fc970c9",
       "url": "52/17/3300d7bf78cc211ef3b3d8277d6ce3f87a747de2216285ae02a2dcedc814/covid-shared-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "b3d2da766cf21079575d541ed81d9ffe06f68005c1a8ec429bf174941c23c146",
+      "url": "36/c6/ce32c72348a65eaf8826d81541d923e51cf30c7357c374a85b5036094b80/covid-shared-1.0.6.tar.gz"
     }
   },
   "covid19-stats": {
@@ -13899,84 +13907,6 @@
       "url": "d1/0b/e3d35d870e378f1c2ae103b14bfac040b315e128def18c63e18113e90e83/infdata-1.0.9.tar.gz"
     }
   },
-  "influx-client": {
-    "1.0.0": {
-      "sha256": "190da5d5ced611c44b1f9f0a3f509a81aa9c0725bd30775d79524d2b81f5b041",
-      "url": "6c/a9/035481fcf009c0e7cca6ad1b4038616e1255eb946fd69e89c0427c66f8c5/influx-client-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "f4ab79067bea2e46f3944fc1e62d68e0f99aa39d45d6fa47b3323cdee13506df",
-      "url": "70/ad/1bb0d384a47c6e04c90e1bcc76cd002fb5598c75801b460c8558f4b5ad60/influx-client-1.0.1.tar.gz"
-    },
-    "1.0.2": {
-      "sha256": "bd37df884e80fb813949260b6c9654479c39d22ac1a90979aee1e56ebadbe851",
-      "url": "24/c0/c802960c4ba88d3cd59390d3d716ca4b478be6fd51e8a3a92a10d7f0301e/influx-client-1.0.2.tar.gz"
-    },
-    "1.0.3": {
-      "sha256": "67bc41d6a0a7348a183236fb23dd5c84a6f784abf1ca4e315cde5de80c71ac5b",
-      "url": "14/2d/3d2f106709cf33a7d67a9d78683d476798661301a42a8d1da5d3a3840e4f/influx-client-1.0.3.tar.gz"
-    },
-    "1.0.4": {
-      "sha256": "ff70a874c3af6070e29c1172144164b890a303c02365b711b98a3bc982931a6c",
-      "url": "74/a2/ff905f4307a926fc3f33d966eab74d46547efdd3a821363db5ec64969460/influx-client-1.0.4.tar.gz"
-    },
-    "1.1.0": {
-      "sha256": "0350183136c8040f5b33f91181c286d296b381c50dbb89646f63c1ec4cf7f212",
-      "url": "4a/34/c33cd990c8acbde5bb3dc6aa0f1f6f9238143479e2da8b2294600a75e6e5/influx-client-1.1.0.tar.gz"
-    },
-    "1.1.1": {
-      "sha256": "c77cf0c8f385d52e2985cc1d9bb9b38fbe960ceb185911c1816a17cd933c9cc4",
-      "url": "35/30/495c3228505b1ba55d30490bf08d636da173e90d56b46c549d936250484b/influx-client-1.1.1.tar.gz"
-    },
-    "1.2.0": {
-      "sha256": "ae3567b530bea130dbf8f70b2f5f82aafdc2ff5f36f81b36e6a8117e242b0ea6",
-      "url": "f1/fe/e0e1c1b37625633dbe03e1c4c74c842b34846c63c941534323cf21107361/influx-client-1.2.0.tar.gz"
-    },
-    "1.3.0": {
-      "sha256": "af19244331931f94354041eb7dcfc6e82a9d990c20254fa1a6e2a9fe7b0e1a68",
-      "url": "eb/1b/ae069267efbdd6927bd11a87e147785969a6b89271fab09e1e3bec7256fd/influx-client-1.3.0.tar.gz"
-    },
-    "1.4.0": {
-      "sha256": "c0cb00706711a46f8bce6e926d4a5c430dbc29a5c31b4040c991c6e5561dffbb",
-      "url": "69/8e/ecc49f9beec1fd257fa50a7f899cb885862653cef0380ca712ce87404b24/influx-client-1.4.0.tar.gz"
-    },
-    "1.4.1": {
-      "sha256": "ab7456f768de391a7c75c28762d4226dfc88eebc08b66d92b57269eee2964797",
-      "url": "c6/ad/bac272229274918d65668ddd932d8cfbfcade3e66c4d0448a58397ed6aa8/influx-client-1.4.1.tar.gz"
-    },
-    "1.5.0": {
-      "sha256": "b52d3db4bde11e931e2ebc9083426c5a1bf0867c6b4de0f3f19f6c808f6d4723",
-      "url": "1a/cb/0545c4b0e4bfbf5227e722deb4969bd53f5af39c0fec82b6bc9f7b19fe83/influx-client-1.5.0.tar.gz"
-    },
-    "1.6.0": {
-      "sha256": "6b790ceca3a6cba50f8f1da31fefc867f4f1737eb3d0574fa8fde46cd97b38b0",
-      "url": "c3/ff/25fb4bb1d4e7f844004a8ee015dbaa39f2f82946a508f7e6b14e09db7e7a/influx-client-1.6.0.tar.gz"
-    },
-    "1.7.0": {
-      "sha256": "875a607685163304ea63232b75cbc1b3a9096aad73afbb126ce7a3fb8b0c14bb",
-      "url": "af/dd/305af0c230f707658e1ff24ee08257db6925f64d7294ecf40c6da919bdc0/influx-client-1.7.0.tar.gz"
-    },
-    "1.7.1": {
-      "sha256": "053de38ad62ad554f75492d9db772c83f6956a68fdda7e634860ac518c4164c5",
-      "url": "99/60/69f14df6d8fc72c312dd3cf17c56ffd73dd30e49a4910adaad112a4bb7e1/influx-client-1.7.1.tar.gz"
-    },
-    "1.7.2": {
-      "sha256": "92b5cffdcd4e5502677676b3b229e2e1f6aa5936af824dd67e3e3ed96eb6195d",
-      "url": "de/2f/3bfd94464f838436ef1a9d70b16d5c03bf31bfe13655d0745f6c48c4d754/influx-client-1.7.2.tar.gz"
-    },
-    "1.8.0": {
-      "sha256": "e28b9dbc6ba21ccbfe43d1166a88fd61e74845af55788a98e130d298fcfd6e2f",
-      "url": "2a/25/a64f591e4e1357a412e290b85a7b0c885dff5343683c2afab10e4bce0c36/influx-client-1.8.0.tar.gz"
-    },
-    "1.8.1": {
-      "sha256": "57a6ea738293e92d383b16645b34857459562dec65156ba4d08777ddab0d0009",
-      "url": "c5/d2/48e2580c81fd1f8d2b758fc51a2174e0ca71c818bc880aedeec114241561/influx-client-1.8.1.tar.gz"
-    },
-    "1.9.0": {
-      "sha256": "fab6385492bd20ed68f9a1518f80211a184765b27e11542ac4989a0752e79fd4",
-      "url": "c0/eb/a33576f4d5a3927d98f55710d810719a5e0c1b931175b90c5e34afbab5c1/influx-client-1.9.0.tar.gz"
-    }
-  },
   "inputdev": {
     "0.0.1421587592": {
       "sha256": "5c224fdb5c38bcb047bc2651e5ab7a2df4226bb4f6f61a26ab6fae305e005403",
@@ -14914,6 +14844,10 @@
       "sha256": "d4130958e853148fded57dc69d7ff0c18b32bdbbab245e721039eb0820652529",
       "url": "5a/f9/ce7f21055a6c0fc40b1830bf75aedcd832ac151ff3e27654b127106b6e26/kcalign-0.5.14.tar.gz"
     },
+    "0.5.15": {
+      "sha256": "5b212dd4426443420f633c07d8cdbf0644226c321c3392be13e9844cb4a19844",
+      "url": "0a/85/58ddead14ca73bb02ffed41c7a42c30a3e2172aeb31386f8c932293bfc17/kcalign-0.5.15.tar.gz"
+    },
     "0.5.2": {
       "sha256": "05516fb5623c9c475f888f5d6b904e9d1607cf8ac6264ac65d661ced7733ea32",
       "url": "90/34/b061b1bb50eea36945a11cc882309831c1b59f15518bdc166d0b2b0fb133/kcalign-0.5.2.tar.gz"
@@ -15433,6 +15367,10 @@
     "0.0.4": {
       "sha256": "23d1c85844082ef3730dc703db35792ef901268885af8302092d7f29eb815d57",
       "url": "73/d1/94a53990b2a0c1d58d41764302edbcebc6e9c94ef1798d79b9fb350357f3/LatticeJSON-0.0.4.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "a9325f6c54bfabf828aab865c0e2c8e05d77c696e009bf7a15155d052bea641f",
+      "url": "5d/de/b23b27913f4488e5d82fd96d06f0dcfcadb5acf64e3cf9f7c95ba299c201/LatticeJSON-0.1.0.tar.gz"
     }
   },
   "lbwmath": {
@@ -17907,12 +17845,6 @@
       "url": "9a/a8/e77ba3fb7a76bde46466f21c21fbca8f0a6af501a1db95d1379b1aeebfe4/nc-time-axis-1.2.0.tar.gz"
     }
   },
-  "nch-distributions": {
-    "0.4": {
-      "sha256": "07ae2074230cbe89f2d27ba6d027c8b5533ad13bae60e6c6c310c4be5b947b82",
-      "url": "16/7f/044f9cbeaa990f8f65b8ea1137c07929375594e44f8a0dcec02f36674708/nch_distributions-0.4.tar.gz"
-    }
-  },
   "neb-tasks": {
     "0.3.0": {
       "sha256": "dfbb5517f590519507a7c52af75fde10be2c2dea7c14fc080e737fab75093016",
@@ -18089,6 +18021,10 @@
     "0.4.0": {
       "sha256": "cb52d438fc0f7ffb55c59b79a5f46eeab7e73a5823e918f4b1258e3d0fd56dc7",
       "url": "31/74/19d415d960f9cf07dc62a170dc29cfa4a30d1ca661759f6dde7e90cfa588/nidigital-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "5134e748f8fea3a1d7df90d652a5879672da1d18323e010463a8f2bd7b6ae002",
+      "url": "6e/30/7e0f66b74a5da2c5114f3983d0f4a22703d5e8d76c42d8ec9b3badd21dd6/nidigital-0.5.0.tar.gz"
     }
   },
   "nistbeacon": {

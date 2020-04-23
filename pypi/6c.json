@@ -2170,6 +2170,14 @@
       "sha256": "e220d05143cb48f23563cf733b0133990753f10c809c286ba19c35f352a79fa8",
       "url": "50/00/22eeab8bd553987e0f7288c27cd30d1e14778fee2278f9fc8287cbaa8e48/clubear-0.0.17.tar.gz"
     },
+    "0.0.18": {
+      "sha256": "eff67042d7016264bb8948c0a9fb283ecc4828650ffb7da37d306b57dd7aac0e",
+      "url": "1f/83/645b95471d9433deae6211ce393b6f314e173f338ca3509f70db389285a1/clubear-0.0.18.tar.gz"
+    },
+    "0.0.19": {
+      "sha256": "211cfb00c5716ce30bddb3120415d007a2d22dc352c6e30d764c37ed3a7eb4f9",
+      "url": "b5/73/853f11decc122d576770ea064d210ff766ed1fef4fda76bf43ebc86e248f/clubear-0.0.19.tar.gz"
+    },
     "0.0.2": {
       "sha256": "f4412cf06a3ca28792fa71959fc4c4fa0d72fdcbc1a0504df28fafd34c0e7e14",
       "url": "33/37/02bfc3e6989aa24feaa28e96ef41400b7a5c8754c71260e2cb380f1596cb/clubear-0.0.2.tar.gz"
@@ -7641,6 +7649,10 @@
     "1.1.0": {
       "sha256": "183ec0fc37bcacaefc84fd0314485552c82ec57babff1f3821c7ea7e063c99ab",
       "url": "25/5a/ba44bb2f84fc149176a023e7398dd2d7809da7247d15d9d135bfa6d38b66/incountry-1.1.0.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "48fa449b995b6e68d4148bc78d754e4a0c8cc5defa821c177a4d57bb235a8edb",
+      "url": "c1/51/423ed610d0ae4a337748c653c4e7a5104aa6ce50bfbe3aa120a79de04711/incountry-1.1.2.tar.gz"
     }
   },
   "indicngram": {
@@ -8455,6 +8467,14 @@
     "0.2.1": {
       "sha256": "950467c3fa6b9c3beff9671a7ca83daae657dd79f098389d392f7e7ca02162e7",
       "url": "ae/0a/3bf3f4fb42f3c5f2e186642af4fc70385d2e8646a1d02050e16e1c9d500f/kisters.network_store.model_library.water-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "d9bee3891c499a72991615d37919a3fdebe0d477afac877d29f1ce97a6f3255f",
+      "url": "d2/f8/2b4a99e2265e88a3b7e923df4de987927ec50e061213925740ec10a65520/kisters.network_store.model_library.water-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "1f6a144704ebfdd3002faa2c56b81f2038697aebfdf82a5404348f2470fe47a7",
+      "url": "63/66/ed8abf649e4f9ca2077215bd540c5b12c3179a62aa336d509f4994b95d0c/kisters.network_store.model_library.water-0.2.3.tar.gz"
     }
   },
   "koalafolio": {
@@ -9461,6 +9481,10 @@
     "0.0.1.dev94": {
       "sha256": "16f35811dd4cf6bfdec665fa2f73e81eb8437ae8e1197435ac00b57eae09c40d",
       "url": "5e/64/7f05c5877bd59d13dad3888c7a4451dbd0dd4cb0f3d6eab0db6cd6c0e593/livestyled-0.0.1.dev94.tar.gz"
+    },
+    "0.0.1.dev95": {
+      "sha256": "0c6695324ab0f77db55b2cd0e03834a9689555b004131b54122dcb2c5eaabd4c",
+      "url": "08/2c/aeca463fb11b9aae1e11bfc147d4497070fb9d876c9f462e89879873795a/livestyled-0.0.1.dev95.tar.gz"
     }
   },
   "locusselect": {
@@ -10847,6 +10871,10 @@
     "1.1.0": {
       "sha256": "a77aec6d4ddd673b25b3de44144ab9be8039e6412df82edda2a65e52e9598efd",
       "url": "ac/78/a6f94ecda58e914ecf6c404ffc69247f616350688df16b6a2fb9410e5a88/murano-tempest-plugin-1.1.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "fecbfe837ea44873358e794c8ba0f57f5f0802c4a0b5b21baa059da831baf031",
+      "url": "c0/5c/d4357a6a38393f8869f038ca99140b5fe7de2486912ee7d8316102758f87/murano-tempest-plugin-2.0.0.tar.gz"
     }
   },
   "mycurl": {
@@ -11345,6 +11373,10 @@
     "1.12.43.0": {
       "sha256": "3a163589fb7fb33d0caa330ad2ab0821ca476cb18d8d5c613c3ffc77a055f307",
       "url": "9f/1d/2a9d828de0875238caf34d426fe7a08dd3609e1ac865727c70d6a45644ab/mypy-boto3-macie-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "2b30f8b1c617629b6535f90abc4cb3c3494b3724eba13f7213b9bef1bf9c9854",
+      "url": "5f/58/5ac297d81f398f1546a42883a39c5d5ffe01d1f1bee123d08729c1aad836/mypy-boto3-macie-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "75c1293c6a57f496978dea741e8aa03aca37dfe6e19c371cf08b2d9c3ed5993d",
@@ -19203,6 +19235,12 @@
       "url": "f3/ad/eb8a77f183318f80f5be6beff0ce96518a2d8a09b55c8ee344702baf70b0/tion-0.71.tar.gz"
     }
   },
+  "tkcharacter": {
+    "0.1": {
+      "sha256": "11f5b61c78212f602e475049d81258c94ba4e434e5b95af8a31e80f1b5c8f7a1",
+      "url": "f9/90/ee10fea4c564898c32bc78796d62b0df939a1009ab57dd41934a560a69ec/tkCharacter-0.1.tar.gz"
+    }
+  },
   "toapi": {
     "0.0.1": {
       "sha256": "e192ee2a35dea8e562390b72a964f202b3152b4cfe4641a96bd4a3e8978b4a96",
@@ -21273,6 +21311,14 @@
     "0.0.4": {
       "sha256": "2d35f737a2bfbdecdba00330dd36eaf56e554c9a93690fa2c77e494a28c91f5e",
       "url": "95/ba/7a1707d062f9fdcaec3ae432d22d15d47d7523ba08269c062784cff0064d/web-minify-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "9ae62cdadd7870e74318cfca891fe2d93ec324600b7b25d3e7285e1e3a4a9aaf",
+      "url": "c3/73/78fcf0f7fc01ad09d46ee9748dad8d7d63a27635c35524e1d055751ab85e/web-minify-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "3361d3ac03de26d62e4e427f12c676c14fad67024649d986d5b3c123bd89fb6b",
+      "url": "a3/1c/48817d0ccad715d63c664a3d0c1242c3415267aa8e7fbcbb1187ac692e80/web-minify-0.0.6.tar.gz"
     }
   },
   "webmetrics-api-client": {

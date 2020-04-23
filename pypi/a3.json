@@ -13627,6 +13627,16 @@
       "url": "51/8d/d4542d6accc1dbb6d00aed29c95bed31a041677cf711bdd6c15d55400776/metrics.bumpversion-0.0.1.tar.gz"
     }
   },
+  "mgmail": {
+    "1.0.0": {
+      "sha256": "64133fe11710364266026e90f8fd532fe23523ab629ba9f69b18df9b3a24f929",
+      "url": "5f/c9/30aff32770748a0a412eec36a563762bff5f97b6bbd6de6a2d1db92a9f7f/mgmail-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "ca08dd671857080bd2f1ed0064cb213de30f31306c2381dedbb0ce6af0c9b87c",
+      "url": "98/13/177470fe4ffe30f070c7459f880b369c6bde1d70769da6a9cf99784c567b/mgmail-1.1.0.tar.gz"
+    }
+  },
   "mim-seq": {
     "0.2.1": {
       "sha256": "19ef74ed35eaed8c3ddaf94769b21c2aa253d935997f2c8e0e058620cd009615",
@@ -14447,6 +14457,10 @@
     "1.12.43.0": {
       "sha256": "78ca76798a3c4c1449a9bb186a4105983d6311405ac213be58010974e07addcf",
       "url": "dc/eb/7f51e14bd7db52a43582cfd6a2704403c31ee3564bd42e3def4eb3e45337/mypy-boto3-workdocs-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "2515389ad3bbb0fbefdea50e494bf9109ef90c69ad675d10aa6fcfb2b57f6ee9",
+      "url": "1b/08/0b7d02d0b68d9a978ba3a3a8ad3ddc5b10e5c65db8f04e720ecb907eebca/mypy-boto3-workdocs-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "4ee7a78efdb93d28ec017550aa464faba4bb62612b6fa4eefe1e63ac0edbb551",
@@ -17538,9 +17552,9 @@
       "sha256": "b113f593d34b24f3cd332a5b6142ac6919f83c5a9f5772da4c02af4d8cfbf9a0",
       "url": "70/23/7f98895bba5d21932bb4e9cd840234db5807339707f0be049e29ce3a6ec0/pecrs-0.12.tar.gz"
     },
-    "0.34": {
-      "sha256": "b7e6d08653f25bf0e642066d789c399e7e208f3ab671d5463a5734a2abf6f73c",
-      "url": "a1/6e/db349313872d79a4b83164afdec29b813828240d75d474c35496ea20d3ec/pecrs-0.34.tar.gz"
+    "0.35": {
+      "sha256": "083c69adae35f4f40c0ab78fcd643da9653221de8b2f992e3dec922948c10f5a",
+      "url": "63/0f/7c9878ba9a8c2b6e98b31f111d8a0b2e8344f48d024a8278a20d9a07aece/pecrs-0.35.tar.gz"
     }
   },
   "pelican-xref": {
@@ -17867,6 +17881,10 @@
     "0.1.3": {
       "sha256": "6e4f3b98c2c6f57f7cb0e4541a5c30f5990936201303279e0ff98743c7dce244",
       "url": "b4/69/1f86f12d1cc861ce1157efdb4dfa25ac70ecb672dd5f944b103a36222d40/picaso-0.1.3.tar.gz"
+    },
+    "2.0": {
+      "sha256": "ee37f53699704d7b5cabd084a723a8f1b472210a8a398355da3dacf91e4e499a",
+      "url": "ca/1b/a28ac950a0098f63cce7afd688839525ae202665087294184522ae210f79/picaso-2.0.tar.gz"
     }
   },
   "pigrate": {
@@ -19153,6 +19171,20 @@
     "0.01.28": {
       "sha256": "d3991239efc862fd24b5b899d2ab22b15082dc7b3cea72fa39248dc9888e3c0a",
       "url": "d1/39/75f744e9b38d0b0d6d6517737ae845fa552a126fc9246ab185163f6ddda7/py_knife-0.01.28.tar.gz"
+    }
+  },
+  "py-ml": {
+    "0.1": {
+      "sha256": "ab3f427a35a63cc07ed97c5fe40c2674210190e74ca9f15373d7c13bfdf9eecd",
+      "url": "7f/5c/4907cc76cceed1e96dd597cb1228681fd60462498ef65bcc5820e916d136/py_ml-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "a08559b2c3be00c4411006c9cfd8837e5c3a83f49f68efd865835d36dd9fd9b7",
+      "url": "99/84/9fe476b0955839e05b390a35d4dce97fe8970cbd607ec1aea5d431ab64bb/py_ml-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "117c8db255d59f14b7b7dec7b0e22c768ca1517d4b90385207d461086e07d8a5",
+      "url": "22/8b/d4ae720772c53a6e0368429e303fd408e0b359635d06de60e20e4cdb0287/py_ml-0.3.tar.gz"
     }
   },
   "py-mortgagekit": {

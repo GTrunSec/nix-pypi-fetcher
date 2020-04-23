@@ -3455,6 +3455,20 @@
       "url": "3f/c6/572d57838373bca00939a6abfdbbddffc16fefb68f6d1084b8001bc87bec/craft-text-detection-0.0.2.tar.gz"
     }
   },
+  "crawl-photos": {
+    "0.1.dev0": {
+      "sha256": "8ed2aa9379ad6531ae203eea8ec62ea472c15bcf6860289fca11cae4cbb141f7",
+      "url": "a2/9f/cc4bb96a35148a283093379ca48247b05d84447247cb8d6837703b8e5344/crawl_photos-0.1.dev0.tar.gz"
+    },
+    "0.2.dev0": {
+      "sha256": "3c83305df22e950eeda793018d8fc7139a6474b79ae734e2ad0046977031335f",
+      "url": "f9/f9/054eb5e23e5ea780c9a9af3f408a76b4d367cf027f0b3aaf1238a3cccba1/crawl_photos-0.2.dev0.tar.gz"
+    },
+    "0.3.dev0": {
+      "sha256": "3bf6fbdda4bad752922d952969d1538dc3478c5587dfcdbbab64770b9553f361",
+      "url": "78/9b/66b86fd6c0cd4705f88675a3773ac88b991bcc23ff9a1a7eaad4d8e991cf/crawl_photos-0.3.dev0.tar.gz"
+    }
+  },
   "create-aio-app": {
     "0.0.7": {
       "sha256": "988e6266a6d326083c392543f074ce5f162d03092afbbcd9b8d02962332ce836",
@@ -7578,6 +7592,10 @@
       "sha256": "4af61d1e0a0b627b97c0b9efc7eac8dba067f1f6efa7de863439ed9fb7779617",
       "url": "92/b2/8b241c8a7a0dbfb912766ba82b491574ff3d85816a42428426a0f3533f59/ghtopdep-0.3.11.tar.gz"
     },
+    "0.3.12": {
+      "sha256": "9d4f7bb58aeaf332b0e2ebd0399b84879285b89d7dcc6fa8296a7333d2ffea24",
+      "url": "8a/5e/f4ce68bce8e7f2d11d8bf04d681a7d05e1809a8b5037f17c99e1cd8a38bf/ghtopdep-0.3.12.tar.gz"
+    },
     "0.3.2": {
       "sha256": "8033b539ad454bdd0d3eae15ab680d8a6738d876128261be6ae59ac6b98219cc",
       "url": "fd/67/88ec80bdf9ec9a6a3c4ead105f58702c22a1d150bd3676818b4e2fb28be4/ghtopdep-0.3.2.tar.gz"
@@ -10189,6 +10207,10 @@
     "0.9.0a4": {
       "sha256": "57689710bf7be7223c19d7df679060459d6d586e1ddc1ca08e38fb9789df3755",
       "url": "b6/88/611b0990c032371782a451f459ce305c67487fcc64c0bc30b3e073ca935c/lopaths-0.9.0a4.tar.gz"
+    },
+    "0.9.0a5": {
+      "sha256": "3bd21fabe1720e6e234adac66b06ec5fefee354a3c56be99b8c463c01e7191fd",
+      "url": "fd/bc/f7a33e56720303a75b8df6f429db1145985fb3e2bc8a73d3e0800bc7511a/lopaths-0.9.0a5.tar.gz"
     }
   },
   "lowsenter2txt-wing": {
@@ -12999,6 +13021,10 @@
     "1.12.43.0": {
       "sha256": "8ba4bc11fc3f45b7f02d60535b49586bee2c3c166adac7e1b6520919557eabde",
       "url": "d2/64/355f6303276bdaac3d2ac4f7678829879b95da0f462c8ab4a8240cddacb6/mypy-boto3-ssm-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "e8198d1d29d840ccd574daa52db36b087ad6475b529e23a0570a8796fd6c2d89",
+      "url": "f3/f7/b16917601b10f7d65de835c84f955f56aaf2490cd1a5e3ac52844c5c148e/mypy-boto3-ssm-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c232cc936c40ea0b877b28e1a18c6975d720a432a367fe9ab6dc5c8e0b1ad76f",

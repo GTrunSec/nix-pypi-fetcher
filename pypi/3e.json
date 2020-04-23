@@ -159,6 +159,18 @@
     "0.9.33": {
       "sha256": "2158316bf5048caee59c6f6066829a0377e45991c7a68e9781efa51521f7afd9",
       "url": "35/6f/0003c1ab0ca79da683319c30bfb136c09ffb54212e5a1e0768c916aa590b/AdcircPy-0.9.33.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "09e9d37bc88230be3644c743717ead3a0db92830d0a3eb4f8a333c847da1dd9d",
+      "url": "f6/35/897f76fbc6921ce5c619eef412b2212330c8b7ff56d8ed5c0267b211ebb5/adcircpy-0.9.4.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "7fe5214090be7334bcb744dd036886795767cf23c5fa7c9e5eb5bd555daa07c6",
+      "url": "78/12/bfe9a33a54042cc521f335960ca9094f9eff5cc71108fbc08551a2d8cbfb/adcircpy-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "762a2aa829b42cbaae83cc32f520731ce301df41ef3a1700a81efd975e9bf587",
+      "url": "2c/cf/0957185118f5fd93c77411f410904c4b1f2c7f379109562f68aa40fc1b86/adcircpy-1.0.1.tar.gz"
     }
   },
   "adfdeployer": {
@@ -1343,6 +1355,10 @@
     "1.34.0": {
       "sha256": "e5f6f5e26bfe193763b15d4abe771655338c86d42f5c7ed9f6de27e3540a0e4b",
       "url": "47/c2/bd8fb6a36747cced767f34bd6df031965bafe30aee44e81e423d1788aa47/aws-cdk.aws-acmpca-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "b866ded0c82dc7579eaf8b62424e60372832b3ffc352a7e4c693397f1097655f",
+      "url": "af/7f/36a69e221cf4694164a5d16bba1f4517c6c3928ecb262414e2fc68759f6d/aws-cdk.aws-acmpca-1.34.1.tar.gz"
     }
   },
   "aws-cdk.aws-applicationautoscaling": {
@@ -1565,6 +1581,10 @@
     "1.34.0": {
       "sha256": "bf3f9ae530e500c708eb8e7384a8993b70566eef1a91f401790a13261171768b",
       "url": "23/58/d295cbaa0eb6ec3fb742fdb10f2f4b8e3d2ca117b9aa950298c74c7312e2/aws-cdk.aws-applicationautoscaling-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "b44c3ca9cac123ef466792da0a2fece1ffd13bd02afdc77440f3febb1ee643f2",
+      "url": "4d/2e/d6477eaa7ccf8773aa96be2f09b0d6de7d6c2aa398d0a6d594f5298904bf/aws-cdk.aws-applicationautoscaling-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "212fdbe132887ac090dc6d56ec6e729e1750cc9b439d5f95b41a90f478ffffd2",
@@ -1815,6 +1835,10 @@
     "1.34.0": {
       "sha256": "ad77cf6b405144c2540e877bfaab7ea7c49514632f536bda65204c5b4636955f",
       "url": "a0/5d/0e2ea80612a1f8da55985670472b61c9b0b3b74a7def04cb4a578c39964c/aws-cdk.aws-elasticache-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "fe997559f65f092e4b83ccacb15c23d4dd5a3321feafb6b8ca632ef1c0c18603",
+      "url": "89/29/12a0ac44ef0bac0d0de3a882a13fa91f3b8eb8b8f2d062bbec51a074e77b/aws-cdk.aws-elasticache-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "9add3214f0d1251d02bd45ecf19b5165c9c33040e01596a313ca8d9a27287770",
@@ -4743,6 +4767,10 @@
     "1.7.3": {
       "sha256": "050e90e1e53f7a681eeaacd35595586f4c1ea02f2bf3f7df2c38931aee53b444",
       "url": "97/7f/ad69ab46fa5230ea33ccf9467f2dda0be707a83a7de14395e1fa52a606f4/CodeChat-1.7.3.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "b611c93f62db336b13deb2a23e2fd4714208a413bbb7dee14987008938245113",
+      "url": "3e/c1/0fae21ef9d599c1b346520d04cc447d2b7aaab336abf94c3f0389320b4ee/CodeChat-1.8.0.tar.gz"
     }
   },
   "colabturtle": {
@@ -9146,6 +9174,10 @@
       "sha256": "30ff4b07282e33dc0b0a601e179b29d4a985d9d64450dad717365a3bc8aa1b53",
       "url": "c2/83/3d3ce935032c72db531c7456fffe090dfce1d702aa8123873fdf049f0621/essentia-2.1b6.dev184.tar.gz"
     },
+    "2.1b6.dev234": {
+      "sha256": "3c18d91e21d7bf29aece4f79a4fa25490fd155ce6a8e184c08c50183c6f25a29",
+      "url": "bd/10/57da0f50d2a5e1635a463cc6495089f17ee59508e56d8f7ab4e198f7c08c/essentia-2.1b6.dev234.tar.gz"
+    },
     "2.1b6.dev90": {
       "sha256": "6df6c143813225b6480f8c2cb5ea9e0463caed31d6c706efd9f73f8dc37fa634",
       "url": "84/b8/63aa9413681bf701dd6569a378c63db530a96b99ed5df367255a3a11dc42/essentia-2.1b6.dev90.tar.gz"
@@ -9475,6 +9507,10 @@
     "2.4.0": {
       "sha256": "141da930247fa818a5da489d5f2129cd65f0d95d8e2bb3750bc87a28cc57cd94",
       "url": "14/ba/067a46433aec5f13f2ff8c070eb9a899c6f400a60d18a566eb117cd87474/fedex-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "b21fe0de8ad71e46721765eb2ed174e3eb34b2d89c5349987e52e9037485705b",
+      "url": "5b/71/2114d49134dc07d85f56fdcfa120bd83e9e16bb4b5ea22ef6835ff9fd174/fedex-2.4.1.tar.gz"
     }
   },
   "ffmpeg-bitrate-stats": {
@@ -11761,6 +11797,10 @@
     "2.0.1": {
       "sha256": "0bf84a5746415b3f63fd594aaac21e6f9ae0ff9000db6d5cb6b6012ff2c9b5fd",
       "url": "ae/27/ca5594c1e3e38baf7e704445c2dffefd05c38865ec88d675fa4a657aa1c2/jiwer-2.0.1.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "2b7d6fd28056728d9073898c2ca824e3802afab5ea26f885a269f04813e2c560",
+      "url": "9f/13/f38876c4ed6aa4e44a0ae5eb8335208f93df63eb1be5ff95b6f2dd7c9390/jiwer-2.1.0.tar.gz"
     }
   },
   "jpegthumbnail": {
@@ -20610,6 +20650,10 @@
       "sha256": "3970abd518670276f803a41b04a9313ae3d638c2f846f01fbabe7dd7dcbc7ec4",
       "url": "cb/9a/66ca98d2d5c6fdb669a0076a0bd813ade25d3d40d96dada71b52abf7f0b2/rasa-1.10.0a1.tar.gz"
     },
+    "1.10.0a2": {
+      "sha256": "859ccd3f09ab041ea35748654f12f4de8c3c028d4bed193293ae18d88874b568",
+      "url": "12/fa/dd91f0a952a114922765305708143d5bbfc9239354a82f33795e3855068b/rasa-1.10.0a2.tar.gz"
+    },
     "1.2.0": {
       "sha256": "87af2d3e83e54da1cf69dfec3a3aac022f5b953296b84de6ffbcd4c8a0b4210d",
       "url": "bb/71/b49b9a480d83fe32625094b2f67c08eb3c6a8f818db3a5fb83837434c284/rasa-1.2.0.tar.gz"
@@ -22255,6 +22299,10 @@
     "1.0.16": {
       "sha256": "6edd04253d8b1244e6971a37abeb1e64f560dff6051c02d3b8e412ee2171c19b",
       "url": "54/b3/a2e90fddfa8c76f9312db27166c3ae7e0a5a105d4d355feff2bb4cc11e7e/rh-doozer-1.0.16.tar.gz"
+    },
+    "1.0.17": {
+      "sha256": "c4f37df17147adc54cace1a326263bf015b83ed90c5b220279d6c93d7ad52f56",
+      "url": "92/e4/14604a697e275f177241a5e764a59da36e1209e5382388fe2616a22e6579/rh-doozer-1.0.17.tar.gz"
     },
     "1.0.3": {
       "sha256": "d60e2f46afe0259c6cf6eb29c6a3b53a8ac5a873fa0caf056337a3ee8bc2b700",
@@ -24327,6 +24375,10 @@
     "1.0.0.0a8": {
       "sha256": "4573e2e6f9a2afa4926fc3efabd5b14475f60998d144b0853dc5f657266c1fba",
       "url": "9c/af/f6e321884b0cff55b39a66f0c08856e3ef6b0102c585d3f24bcc1f8a722c/tapis_cli-1.0.0.0a8.tar.gz"
+    },
+    "1.0.0.0a9": {
+      "sha256": "44137d22e0156856c6668968da4d332c72a629a73c43f5d015844e8e87ee2e08",
+      "url": "2d/16/0c2028d78ba079b3ba2d148fd35c8b275e7092027883e0e72342cee1db3d/tapis_cli-1.0.0.0a9.tar.gz"
     }
   },
   "tclab": {

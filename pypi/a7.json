@@ -725,12 +725,6 @@
       "url": "39/df/54b2819ca869d852992bfca094e12a32d5bde5ac9f6d44756e420108af08/au_notebook-0.0.3.tar.gz"
     }
   },
-  "audiospectrum": {
-    "1.0.5": {
-      "sha256": "a9b3fe8432a54953a1946eff047f81a20c29fe1f9e259934b4052ce6f2708e9a",
-      "url": "1c/b8/dff84b8e101b84d64c0e960d088e753ee06b726660d834f44e5b2cd2135e/audioSpectrum-1.0.5.tar.gz"
-    }
-  },
   "authentic2": {
     "1.9.0": {
       "sha256": "7e5879e10cf854502a86297b07f7d274f33bdcd5231edc172c683fa57e685e14",
@@ -13418,6 +13412,10 @@
       "sha256": "447a29025be5bc62e09a9fa818fea07ae350099ed5f95f19593c7277e85c0959",
       "url": "79/74/8832702291318fd256638879b7e9ed0618e28668f3d9189c533c07c42e8f/mypy-boto3-elbv2-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "8cc301cfa1368bfdcf63c48964d4edeab41950e8271267cb5a7c8fe43a56c2d5",
+      "url": "fb/f9/4368a82e8b1ba5dab9eefa7352ac53acaca16c3e35d6d6eb233aba93a81d/mypy-boto3-elbv2-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "2841800c0f5819dbcec454bbe0e5ad723ba885da3d691fb7f2d3d2afdc48006a",
       "url": "84/6e/598f190aa2b9c1627f5ecc1624139240a317f5ee6ca37aa30a77adf2f387/mypy-boto3-elbv2-1.12.5.0.tar.gz"
@@ -16538,6 +16536,10 @@
       "sha256": "425065a62c7b2b1bc0ee2a7233cce7c24677c2b9eb38993989e8f35d26d15bb6",
       "url": "77/9b/32747049aac4e416a596de144b671f9570daeefa4648dcd331752cacbd01/plone.synchronize-1.0.3.tar.gz"
     },
+    "1.0.4": {
+      "sha256": "955be1fb52f0ed1ad132181a7537287940706655d5ad41e9c7aa248246b6fa57",
+      "url": "2c/2c/1dabf7078e57c6ba63822a2497004515c03581a0ad485be63056f1943c10/plone.synchronize-1.0.4.tar.gz"
+    },
     "1.0b1": {
       "sha256": "90560643cdf492d90ba42c979b9f70ea249e09ed8c2a77a43e434e5b4e131edb",
       "url": "fb/9b/774d106b6b1bce78052bbd5a5a5d4afa26bc228578dabbd8b13cc6af1d19/plone.synchronize-1.0b1.tar.gz"
@@ -18115,6 +18117,10 @@
     "1.5.13": {
       "sha256": "0d958fb02e8642417c6e723a1dd12e771dad05b10e121f24171c9bbfd6b63e3c",
       "url": "f3/a1/3002b4b941d7ed04e270d71673b13d6c3f702c931b2bcacf7414171b3014/pyghmi-1.5.13.tar.gz"
+    },
+    "1.5.14": {
+      "sha256": "0ae8e97aa2207f0200a54e6d711ff85be0a3503cb785ad750e24ad3a89a4e9e5",
+      "url": "c9/f1/13bf7e4e24ae3077a32409ad8d64e94d1acf394f75bc532158509d0be05d/pyghmi-1.5.14.tar.gz"
     },
     "1.5.2": {
       "sha256": "d95043c34a428e0ff1bd368089de13c5f3b98dd7cff4e712a2a17803473b9e09",
@@ -19995,16 +20001,6 @@
       "url": "ff/4a/779ff74860a0be45db77654c207019bc7b5b26d5dfb03b1ff723da49f55e/robotframework-reportportal-ng-2.0.0.tar.gz"
     }
   },
-  "rockchisel": {
-    "0.1": {
-      "sha256": "de5f18c71ddda6aa3e61683eeef12a22ab65251ab7acfa76422f05c7279b31e3",
-      "url": "34/95/d91e2099de45b8388a75c3b9c6e137641c885f2428d4d713c3bbe1bb462c/rockchisel-0.1.tar.gz"
-    },
-    "0.4": {
-      "sha256": "66db30975733a728991a7ebd1c5602ffa99e68201a2146cbbeabf7740d07ac55",
-      "url": "cc/42/4ec20cec375a47c6a964ac1aa8866002bc4f183b530e5d598d986ba1cf82/rockchisel-0.4.tar.gz"
-    }
-  },
   "rosreestr2coord": {
     "1.0.2": {
       "sha256": "18e00cbdcc76fd71e4f6fb11e1d0181bc72b7ab222e1f269e5dbaf7a3161bf00",
@@ -21039,6 +21035,14 @@
     "1.0.4": {
       "sha256": "22da9d0cc3b647de30795c44438544d938676d970d8c4ee61382980a6fac13d0",
       "url": "6d/e6/226312f1dd0d68de88c744bf01d11bc04961d8ebd9246efcdf959ddd146a/sparrow-client-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "e69e75d9cda19c42ce0d967317c06910238c51cb97469ba87cac17156e7682a8",
+      "url": "62/0c/869aff8893a5d59ba69145c9330323f935ba98732d5ad74d4b1c5abebbf8/sparrow-client-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "ca8179e6884a22d30aab33db7104ff62bbe98b65e7b399b083040fd207385c19",
+      "url": "32/52/41a58e8e955fb0f958f4341ddfc26706fecfb02b7e7747051ed18321c618/sparrow-client-1.0.6.tar.gz"
     }
   },
   "sparsecomputation": {
@@ -21897,6 +21901,10 @@
     "0.4.1": {
       "sha256": "6a2bbd8e5700c25441e5c922de434f0b753cd9d4eaca1996310cc19b59308dd5",
       "url": "af/80/10af2d009c7144503e0caa4818adaead191b01777b0c551b316a8dd93a0d/syrupy-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "ad721ad61ab0c712be0390d6de7bd727728bc397525a557c5ae3a83e92fe1a24",
+      "url": "54/2d/372e78c178b5e9ff66bd8e6952d1f561dfecf35ff703eb4e17fb2cdf67f8/syrupy-0.4.2.tar.gz"
     }
   },
   "t-datetime": {
@@ -23673,6 +23681,18 @@
     "0.7.0.dev1": {
       "sha256": "8499d74eb4460e7bfd275b41f57a95dbb63d7745fd93a743f03ca3196d3073a8",
       "url": "8a/24/d19b004c047ba0b3c14c940222207e8f90d05266bc0706e660fa5bf97309/vss-cli-0.7.0.dev1.tar.gz"
+    },
+    "0.7.0.dev2": {
+      "sha256": "4c31bec64c432bba17db9621aef817085d96ebc3e95718911da298d8e04334e6",
+      "url": "f6/71/9f945a55077a677b70e0984b1512876fb484be68f4e9934b9aed9e919515/vss-cli-0.7.0.dev2.tar.gz"
+    },
+    "0.7.0.dev3": {
+      "sha256": "438ba403bbd4f9f135d3027a6539bf47bc429b1ffbffbc47ee1d59d11c909013",
+      "url": "67/cb/e8fc2019714dc0718c1c25485922320d359e820f74979a1b2c3c6f229c68/vss-cli-0.7.0.dev3.tar.gz"
+    },
+    "0.7.0.dev4": {
+      "sha256": "efa4f8dc4f3ea1b0bb67bb7dc7215e26b509b32aa994896915228af593f21c53",
+      "url": "c8/df/a3fe67f9e5b4e2fe0de278ea504c892c77b5e0c1b2000218291e5314fc18/vss-cli-0.7.0.dev4.tar.gz"
     }
   },
   "vtorch": {
@@ -24055,6 +24075,10 @@
     "0.1.7": {
       "sha256": "af80d623fd0423adce50cfe9019af2b05280e50fb9957a9a8ddb72e7f2ed6769",
       "url": "0d/ae/f2b17c6f46d34ccedaae2260691f7d350ea69d3225feb277a2e970012d84/wikistream-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "ff9442645ed7ec379810357e5b5537dae3dbee46748db3cd5a257ec7c6b4c7ed",
+      "url": "f4/e2/ec1cfa6eb8dc1ea95d4287d3f7476a711feecb81b8d873e580268f15f9f0/wikistream-0.1.8.tar.gz"
     }
   },
   "wishbone-decode-perfdata": {

@@ -2000,6 +2000,10 @@
       "sha256": "a406fe2cd1e67dff2504a97abe1aa1f4a37259ecff811d25b126603918656c91",
       "url": "87/db/ffa81e9bac415058b03c92dc205896fb95258c1b6d378bb613b8eb5a0086/aws-cdk.aws-appsync-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "8506c7e12f65301c8fcd384c4f18c306f1cb36e592da20011ff2b1eed4340299",
+      "url": "80/92/80e4f4328805f575a3b488f757aef01bbe7a0fcac02147b4152bb1530f11/aws-cdk.aws-appsync-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "6d9dcc0f1d7930291145de0c1e7877b6b7c3073a74960e4ac90afdc6f190b1fe",
       "url": "8d/6f/530ee5750a39625aefdf39261fdb12d39b1810f5a95e099b40263c82506b/aws-cdk.aws-appsync-1.4.0.tar.gz"
@@ -2125,6 +2129,10 @@
     "1.34.0": {
       "sha256": "9a9f6c8eb1ad55ad93ebeb2bc1d8b089202bf904515f72c6019e950f703bbcc3",
       "url": "5a/66/517605c2f7be24ac3b693366c369227ee4af07b561910f88832847a8d34a/aws-cdk.aws-codestarnotifications-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "362af1377ce922a7cb072af89035a673c40b6561ddb906614f2c31a404969efe",
+      "url": "0c/b2/dae89eaab010cda58407c2eb3ce3418f39d4c93faacff411caf78a96b9f2/aws-cdk.aws-codestarnotifications-1.34.1.tar.gz"
     }
   },
   "aws-ecs-service": {
@@ -4766,6 +4774,10 @@
       "sha256": "4e3c12c7c70812350073dfdfcbb4dd45290f0c6afea61b7d4ac3fd0b8c3efb0d",
       "url": "c4/b6/81d5900351892b1a4c00dbc7392c0395cf8d1376f0f256dde440da789735/cdm-connector-0.0.6.43.tar.gz"
     },
+    "0.0.6.44": {
+      "sha256": "e3caa4b7cce69f1ce7a8422a924e94653ee09ff9923a32ededcc23a77681a27e",
+      "url": "12/8b/69266bcf7b37539e37c06a1095c195cab4db2de127fdd36560e60349dc07/cdm-connector-0.0.6.44.tar.gz"
+    },
     "0.0.6.5": {
       "sha256": "f3b279dc3338ca8336e4d0d179a795ef2ee74a3744baa1ab4ed2ca4a937a0adb",
       "url": "21/9f/44b7f703141e0d80027aa97eed4748513fba8ae553dd472688eab84a2e7e/cdm-connector-0.0.6.5.tar.gz"
@@ -6079,6 +6091,10 @@
     "0.1.1": {
       "sha256": "f4b7991907f96561f739fcf6608e03943df95427740f85c9c2d8520dd9d9585f",
       "url": "94/dc/fa764c87fa9349b00d2d61cf2a3e06b640bcb155b3a253963b3bde8ec8d0/compal-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "4d12767dc7284ba1e74d2d3c1b22967c9f61d83f3cc4fca9ae03fa2cd842ce6f",
+      "url": "59/e8/e767319eeb81d6b27a8dd2620f8287f7c23d13ee9851edc9f7a79c4a99b2/compal-0.2.0.tar.gz"
     }
   },
   "compare-with-remote": {
@@ -6107,6 +6123,10 @@
     "1.2.0": {
       "sha256": "e75137b0895a94e70cf52cbde4be2af786d08bad1df22f5d00f142572c6e3a36",
       "url": "3f/f9/1afde16ca67fe13ef652e9e9dac7d6c0cd2bb83178acc06e1cc803a1ccac/concierge-cli-1.2.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "258d25adca125af3dba285e7cc86a03a3b6e8432868a1f22780a96f210c8162a",
+      "url": "73/c7/14988d0e3f152df79a29cd10f2269494726aa885863e3287c4d8aafd62aa/concierge-cli-1.3.0.tar.gz"
     }
   },
   "conda-list-all-envs": {
@@ -9743,6 +9763,10 @@
     "1.0.1": {
       "sha256": "d6bbe85c079c3938e832998e9bf98110faafcdd4614aacf7a97305ebf338a308",
       "url": "c1/5b/d4fdaca320473906f310bddbc722b8f935de5038217d0348ffccdf3e1887/eccsnacks-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "bba5a0e36f5f25efc917da6eb7857d14fb3ef82d24a73c0131a1fbea5bcbe03e",
+      "url": "2c/ca/12a0c5db72229700df78a6cb8c43ba217902a5edcad4ccf5aa4f4ac9e0a7/eccsnacks-1.0.2.tar.gz"
     }
   },
   "ecmtool": {
@@ -14873,6 +14897,10 @@
     "0.9.20": {
       "sha256": "73c146cfaa4cf5e4c23eca3375d79dbcb7a2a3b3ab108a2538054cef47796b37",
       "url": "62/f6/bf4773d355e9ac2dcc61ea6529b9cb623009ca0838c68e644c417ea6afb0/metapack-0.9.20.tar.gz"
+    },
+    "0.9.21": {
+      "sha256": "4675a12aa35300bbfe66372996f3aecd5ea63e26e4b9ba64cb32ff7994e1b0fa",
+      "url": "3a/94/ac9279612e5cc5f2eff949dae34a7c863f10c021f13c5d63e323e005b360/metapack-0.9.21.tar.gz"
     },
     "0.9.3": {
       "sha256": "091634978ee205fa5f9d8a1d58e535028b80591593a09a1c37f23a4e6c782611",
@@ -26577,6 +26605,10 @@
     "0.8.9": {
       "sha256": "5d81b132f429d63bbdee8bb33d96b1b39b7b631894a690bd990deb04b143d200",
       "url": "43/f0/f7ba9501e3b4f6471a7b967f1b462b18ac4973dfb031dda655601a0c00c7/starfish-py-0.8.9.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "8b180ed0bcb962dbfb90ceb63dcdcd924933b445840783be0c054d853f68c342",
+      "url": "a1/99/59767e40aa1f776b3b7cb477d81984961897b1a71e79c09de5459dbf2830/starfish-py-0.9.0.tar.gz"
     }
   },
   "steamfiles": {
@@ -29989,6 +30021,10 @@
     "0.6.0": {
       "sha256": "9000b000573f495c3a4012cb7c312c2e0fbd47500493739af75c372555e9553e",
       "url": "4c/10/fd9e7a40249eca9c09dbfd43088a17fde71d2687cfae52e481addab54f8d/yaqd-core-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "3b173651b44b3d9452389ceac9a5d7669c14f446792ca566b10bbd6a0ffaa1a8",
+      "url": "5a/ff/13d1ea010c38045fb0d5a514214f2b2ecb45db118e396de73e6062469bbe/yaqd-core-0.7.0.tar.gz"
     }
   },
   "youtiao": {

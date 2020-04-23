@@ -435,6 +435,14 @@
     "0.9.6.dev1": {
       "sha256": "a1b40fefd54ab28c3be7c830c42217dd06a4c3c16fec95bb43ad793e30026a1e",
       "url": "64/da/bbeeb71bfb5db0275ee788d07fac2836eb57deec4de975fdcd4c99ed0b36/amphoradata-0.9.6.dev1.tar.gz"
+    },
+    "0.9.7.dev1": {
+      "sha256": "09e2a3f7d48b35a2fed2c878d926662771638dac75963cae172f5b474eaeb790",
+      "url": "16/88/28fb2e1b50c78b361c94f5cd64c4b6d85be9caa1f131055dda0de2a0f53d/amphoradata-0.9.7.dev1.tar.gz"
+    },
+    "0.9.7.dev2": {
+      "sha256": "77778786e568e63ed1b25357eabdd9dc3a65e5767a74fea94b725b4680bc7362",
+      "url": "72/39/a9381b1e45328ff27a2bd4a3f223f8b03989e0ff24fb71c38a3af902ae19/amphoradata-0.9.7.dev2.tar.gz"
     }
   },
   "amuse-phigrape": {
@@ -1207,6 +1215,10 @@
     "1.34.0": {
       "sha256": "53e02b2d717c565e3c6e631cbabdd06c913a5081e08090728537189174ff5295",
       "url": "8c/08/7a02c229244089dd186429cdb7351e09dee93a372d69a8410de687e8ccf2/aws-cdk.aws-autoscaling-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "bb12d4f5c1eed0b7e41dc5f9fa77b22e94ef43771e759ed0f2c0d65cd3e4b7d6",
+      "url": "af/c1/8f8abb8caba754277ab0ebc497ce02f7da682a4d2cd4d56a1260db6a4a21/aws-cdk.aws-autoscaling-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "28a2e4405dea12e66b785e8525f0766340df39dba145204a0ea810c546854ff0",
@@ -2135,6 +2147,10 @@
     "0.2.5": {
       "sha256": "78aa3902cae43e4f32ba4854adf48e0d3d2e29cda9e113772ec64fddad76b16a",
       "url": "18/4a/013554d1de0a185ff3d506a794da3203ee254e554affee49bae6f62c8f73/blanc-contentfiles-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "3628393a4c10f13b7f46695ce7375edfd121fb1d20ff920342373229d31774c2",
+      "url": "71/f3/7c8c4cbf366db9ed6118738a85c71d7b871192669f93a9d577262207a864/blanc-contentfiles-0.2.6.tar.gz"
     }
   },
   "blended-html-comment-box": {
@@ -2415,6 +2431,16 @@
     "0.3.1": {
       "sha256": "7c4689781d364a16440ccc0d727d45ed8241d9e7916556b0105d21b3f79a985a",
       "url": "72/12/680b18607c09d5309841003e58f83557bdd6c938d2c0cd2562f304d3c2ce/buildout.locallib-0.3.1.tar.gz"
+    }
+  },
+  "butterrobot": {
+    "0.0.1": {
+      "sha256": "5bb4a5f9b59da86546cd1e100891bde0a6e6d0a292fc9ffe8975536bf62f9d4a",
+      "url": "b2/9a/bbca91a94542d26635916e61332a9c77ef73af072fb5fa808f96650f5075/butterrobot-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "7aa20d52cf6ac1c7b0685854ff5ce8a5bad3f347163709b04f6d9b48c7dab382",
+      "url": "22/ee/0463b9030ca430b5424534bfdb59a93e0eccf087a12207b338e9e2d9096f/butterrobot-0.0.2.tar.gz"
     }
   },
   "c-to-epl": {
@@ -4431,6 +4457,10 @@
     "2020.4.21": {
       "sha256": "1006fa7f9290618b49dfa1598de33c886b4f2d9ece11ea8b9e24f0d805c0e25b",
       "url": "f4/21/6d5f38a6f3215b0833963a015e0362a50a000593600c86205eb1c189f5ae/dagster-celery-nightly-2020.4.21.tar.gz"
+    },
+    "2020.4.22": {
+      "sha256": "477ba2701e4ba9744974073ea485af16cee4a54bb398ff9a9b639cb598a81fec",
+      "url": "5a/35/2ccc00be11ac916de7e37f17c007c7860a5ffac23c9851e493563b1854f3/dagster-celery-nightly-2020.4.22.tar.gz"
     },
     "2020.4.4": {
       "sha256": "64e0fb307accf7b9c4a9c15834ea4086699c74b696d03137520b839d19d0cb0d",
@@ -8834,6 +8864,10 @@
     }
   },
   "hop-client": {
+    "0.0.4a8": {
+      "sha256": "fe8abb4c0c46c42edbf222319cb8d634639823639849f4652ef118fcffb99a87",
+      "url": "6f/76/181c2f5c7a1ee39f71f396f7c07381804e7c4db65d0f7485f3a83c9f2506/hop-client-0.0.4a8.tar.gz"
+    },
     "0.0.5a1": {
       "sha256": "3b20e029961c3a0e32b526794911e378ee27337997812b4a1cbf3f34ed8a6dbc",
       "url": "bb/5e/37b7f1e644c6779f739e79a09eb7b4e12cec9832972c9e3fe7d120a1a5ab/hop-client-0.0.5a1.tar.gz"
@@ -12082,6 +12116,10 @@
       "sha256": "5d84d89001ee438aa9840e59d6115cbee42823c6b926c52e62386f022af5ffb5",
       "url": "f2/ea/7eb7c0309a8e46ac8ab953c091e2a858ab0b6ad92931304e3d054b38e87f/mypy-boto3-pi-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "b0381bb9a467264dad35b3948b8f297728322a9d59d58a65999694d014f5f50e",
+      "url": "15/ae/3e640525683812c1d52501e769058ab15082ec9b4818c0ba6e04cf11e5f7/mypy-boto3-pi-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c9e9f5b9d3d12db1f944f5568ab9ab1c1fe15fef01040f0fce236a764fa526ea",
       "url": "04/b9/5284fd4c505ed1179a2adcaa2f93c0bdc3a2c2cc71a8e508ffd1da05c22f/mypy-boto3-pi-1.12.5.0.tar.gz"
@@ -13123,6 +13161,10 @@
     "1.1.0.3": {
       "sha256": "1ecd59e99ca0cb7deacc4d8823c01cddd8cacd8b49c75bd90cd627034eb7d4ad",
       "url": "29/d0/3407d63d5e46e7732a8716985c876d3ee7818aed8c29688088823ae21884/neurora-1.1.0.3.tar.gz"
+    },
+    "1.1.0.4": {
+      "sha256": "ab3f3f418f6933cd03aced6c42f7a13085300428e686646e48170d972f184bc7",
+      "url": "62/3f/e5bebce8bb147b6dcec535e3ffbad0e66cfb90533ac5c5c4b66f2747fcf3/neurora-1.1.0.4.tar.gz"
     }
   },
   "neutron-pardnet-lbaas": {
@@ -24329,6 +24371,14 @@
     "9.4.212.dev1": {
       "sha256": "cdd4f62f9ed8e0255d3050f3f6565b7bfa043aa5159f72c6bc2d9f316f076190",
       "url": "e5/60/203113fb4834bfc5e8eab41cc8efe705b11372ea6e143d93225c4934b30a/sickrage-9.4.212.dev1.tar.gz"
+    },
+    "9.4.212.dev2": {
+      "sha256": "0e9143dd7256d5a8b3b6bc3c7970e3640d4ea600867368864798ae8c87b2c1b9",
+      "url": "ad/9f/7bb22dfed68e815388ec16b2e1e30f890592b474f804a593e1f9d168749e/sickrage-9.4.212.dev2.tar.gz"
+    },
+    "9.4.212.dev3": {
+      "sha256": "0075dde9c8ecdbd2e05444c1e26a2734d2907be72442534b15d46a322aee7cc1",
+      "url": "3f/a3/b6de62d08c24d9b652ca7611ee47701b6f91d7fb51d677f606c965ac4ff0/sickrage-9.4.212.dev3.tar.gz"
     },
     "9.4.22": {
       "sha256": "2fbd5533b6b3895844dcc662827a7b3d6cfebe241e58f2410bbdb7c8ffe3a202",

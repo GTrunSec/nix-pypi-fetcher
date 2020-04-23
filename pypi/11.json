@@ -3680,6 +3680,10 @@
       "sha256": "46ab53f26513af2bd201ade843346a565514c0d0bc9e5ed7ef1f5e7f9bc69b15",
       "url": "d7/8e/2f0204a9a32bf642ad4d356cbb1db929474ec8f6c33a38ff583c326ccd29/aws-cdk.aws-cloudwatch-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "6c04ef30de440a7078061fc215da361643685b080f0ceed15e394e34aa58d7df",
+      "url": "d7/90/4755ccee69487424018a85ca2d76dae6bc6e6825f2c17a6c08b2dd32ca58/aws-cdk.aws-cloudwatch-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "581d0cb578132302e0344229464296fca3394a0128730c806ed4feb7306408ee",
       "url": "68/6e/d694b8200662bab522ded4a037aa6a3a3e243f2ea1f09715f0c0bdeb6ddc/aws-cdk.aws-cloudwatch-1.4.0.tar.gz"
@@ -7887,40 +7891,6 @@
       "url": "09/de/0c2b0ea78c954b1b16c7913421b27c140b43f8f62d0b2cda47cf708c8cb8/dafontdownloader-0.2.2.tar.gz"
     }
   },
-  "dans-diffraction": {
-    "1.0.0": {
-      "sha256": "ba7787a1669617f543f38f565c6a577514855b7099a6cf646c5656214616f575",
-      "url": "7a/e2/c6c9d5339b92cb73eac638f707aeddaddc46132619a61211a03c7432c129/Dans_Diffraction-1.0.0.zip"
-    },
-    "1.0.1": {
-      "sha256": "8382d93507fa47f9cddf2ea14202d86b8473677f68e62f38e9123f34f5d36cb1",
-      "url": "09/c4/cf6887df9780863e0e169a61fb2d92afb3a256cf8302e80b3629fccc132d/Dans_Diffraction-1.0.1.zip"
-    },
-    "1.3.0": {
-      "sha256": "47fd008efd15c16d540c9e7f02dfc8e94fe0f5177124d484041ba9dcbdf73622",
-      "url": "05/12/f4d0f84ac14ecf51bf0894cfe7071d59e5d4e9ae79e5ea1b22760a76792c/Dans_Diffraction-1.3.0.tar.gz"
-    },
-    "1.4.0": {
-      "sha256": "f7720876ab63067e687c9176ef8521401500b870ebd8f5764e1ee79f080deb63",
-      "url": "db/f3/a5a4b59ef9379e29b509303e18155f2cc65fac8b9ad4fc22fd0c495bbd7f/Dans_Diffraction-1.4.0.tar.gz"
-    },
-    "1.5.0": {
-      "sha256": "cb9b848996d8d3222b0a538e16075c4c59eaaa2ebd2e9a7242b13be91f7733c2",
-      "url": "55/95/50f75a16c0d9519d1a294cd223351760e61329a1375474c88dd2caa3ebea/Dans_Diffraction-1.5.0.tar.gz"
-    },
-    "1.5.1": {
-      "sha256": "99b585b5561b593dc7460573496805ffe4dabd01c97874c21c772d27b16d74d3",
-      "url": "26/69/c3910ad7cfd6301a6e74d3d99cc1302c2433d7562c73bb63a6aa70521780/Dans_Diffraction-1.5.1.tar.gz"
-    },
-    "1.5.2": {
-      "sha256": "aa8758b0819ea9463fb14c25b3f3fb72228b479f31be4f71181785f6f4f5c6ba",
-      "url": "7a/cd/61ade788532da820534fa7dcdb1a096582db7400bbb487f99f04464317ee/Dans_Diffraction-1.5.2.tar.gz"
-    },
-    "1.7.0": {
-      "sha256": "3f2cf57c59279bb08d0ff8231cde0bd63fd62a43b122c3deb18ec1499d5e59e8",
-      "url": "33/9f/56a8125311ce85974e4cd904b55c466318f4f356d011e7bf35671b3bb895/Dans_Diffraction-1.7.0.tar.gz"
-    }
-  },
   "datastorypatternlibrary": {
     "0.1.4.2": {
       "sha256": "99d26976ec0ea3822adb5cd8d56af4e50054f13454e9abcd83f2b0111a70b24f",
@@ -8181,6 +8151,10 @@
     "0.1.6": {
       "sha256": "29360f2a446132a0693b2c1b9f456f0ee34c0773281b8da366030a140d3dcaa3",
       "url": "e3/df/3c65a8c7d7f4506f3fea95072a5311ac3e5da5c94717256022ae578219bf/deephyper-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "22ed2e12a5473be9ee83adf6dba4d24416180ab43374007c1fd9216fb2919d37",
+      "url": "76/13/6a44db0ebc66bcda0c080963608e29b843a9239c6aa23040166970dfcbb7/deephyper-0.1.7.tar.gz"
     }
   },
   "deet": {
@@ -14909,6 +14883,12 @@
       "url": "65/7b/09bccf0f236b8e02697312cb5523e50aaf469e0d4d1cdab566a9c3ff69bd/m3tior-pyside2-style-test-0.9.3.tar.gz"
     }
   },
+  "m9s-stock-package-shipping-sale-wizard": {
+    "5.2.0": {
+      "sha256": "ca206efaa162ab636406b8409efd954d0809bda57b519fab7759d35bd9595833",
+      "url": "41/ed/de1bda485da664c04accad6291d749208a9c3cb3f1b527a13c006a058d30/m9s_stock_package_shipping_sale_wizard-5.2.0.tar.gz"
+    }
+  },
   "mach.py": {
     "0.1.2": {
       "sha256": "ed2d9bebd1ba1d23a40b4f4b08518c217a0c4707bedba4224f6d17984c4359f4",
@@ -16606,6 +16586,10 @@
       "sha256": "726d5ee5c597ef0347a66b0d25febb7c152c8edc9f36f86620837325fa7fb0d2",
       "url": "36/e5/e1ca074b7f595cadc3ac46960d3dabdca813cc66dbee747fe354a7550bd7/mypy-boto3-iotevents-data-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "1d762afe91dcadb6a5130f51db00fe37b77f7786110dfebd6106854c4270ef00",
+      "url": "60/8b/4e7b488745e341bed3a6b43b9fec63044871831d2921431c6a3b1fa871bb/mypy-boto3-iotevents-data-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "19aad134285d6efce1acfa5df8c355bbc46f7a7a6039891dea0d52d715a95cea",
       "url": "f3/16/ba5415b7e46ca7cb20a501b7866b2ed2732eb47d861ac3ab10ed8e9390d8/mypy-boto3-iotevents-data-1.12.5.0.tar.gz"
@@ -16899,6 +16883,10 @@
     "1.4.0": {
       "sha256": "132d6d8f2f27ee5087851638efad413a41a6bb01bebbad4b5e3a269ca1c7b52c",
       "url": "05/ae/e63af7a207b33d326034a0765cef68bf60b3bc2fb45d576c631ccd165db7/networking-baremetal-1.4.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "8b1426b0cd6e2b290be3eca9c1ecb45d5f166e6dc6a311c1cbea5a9d98a23d7b",
+      "url": "e6/92/27782f47a25f9452c2e42a19f516e466c0283da0e520334c9446791aa8c5/networking-baremetal-2.0.0.tar.gz"
     }
   },
   "networking-nec": {
@@ -25671,6 +25659,14 @@
     "1.0.3": {
       "sha256": "6a7d41f1748a37c31c98f5885b1cad47ea42504af0bf70e19b3a1840ded9e883",
       "url": "02/ba/7951607f247561bbd195495677c2aa7ad40f4ce9341834a96d2fa93d34a3/zeus-mcmc-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "2d5b2cd5c6048424d28dc7632e0e73d85f3a5ebe89f2ea1fbc0a288c626da00a",
+      "url": "51/10/179a5eecb50208e0102f52f8951ffe1e2d3099ace9fd55697a5dcc849406/zeus-mcmc-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "3196bec30eee2fb1cf208d00b42605a410fcb8b5fec1f88e8b713a7d3697d5a5",
+      "url": "12/bb/c49fa98b3cb59f9af3d2103fb4268d4f60ee4fe02d528fa147466c75ab43/zeus-mcmc-1.0.5.tar.gz"
     }
   },
   "zomatopy": {

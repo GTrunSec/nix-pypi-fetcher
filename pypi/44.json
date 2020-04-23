@@ -11174,6 +11174,18 @@
       "sha256": "66d28903e84e8bde12a942f6038056f91c85bde772c8fd6765b749ab297d8ea3",
       "url": "ca/bb/a1c5996a1ea83dffae440208317f4f92204fa1ee2762e89fdc17a613d018/jupyterhubutils-0.16.9.tar.gz"
     },
+    "0.17.0": {
+      "sha256": "68d3bc5b136b426570ed7a52806c47971ebea2d46fd1eafa96dab6d872220b54",
+      "url": "90/10/9ea19b0fcb6de94a60c61b3d61b194359939990982efef249362740be1d2/jupyterhubutils-0.17.0.tar.gz"
+    },
+    "0.17.0.0.dev0": {
+      "sha256": "5bd8d684e506e73102a19022171e68dffb45ed89366076e08de12688fae993da",
+      "url": "5b/d3/92405ab9f48cb274afc7d5bd8e5bf2e09c0d086e401dfa53cc5ba39a8bd2/jupyterhubutils-0.17.0.0.dev0.tar.gz"
+    },
+    "0.17.1": {
+      "sha256": "56be5f4f63cce673d936238b20a4a4f65056680886a0ce7a41b27ae3b7d56562",
+      "url": "f3/80/bae7527060f4624f1e68cd8d5c9744ff55111ea8e24bf6deabddc001f737/jupyterhubutils-0.17.1.tar.gz"
+    },
     "0.2.0": {
       "sha256": "34c2086441a1452fb34b50eef2ad0f4f6aa4d8e581ff6c359d7b9778cb78511a",
       "url": "c0/b5/cf57e444bb4efe6f2dce1ec4f148b4dbe4cd6c5c2d56fa7d7ff97f510e77/jupyterhubutils-0.2.0.tar.gz"
@@ -12955,6 +12967,10 @@
     "1.12.43.0": {
       "sha256": "bddc35d47dd2e82b9b393ab8d0627561cb99dc8a838015ffb10120fbfb1d6afc",
       "url": "bb/4a/820b09bdf0a14dc0e66aa4a780692a8ca72307bc857ce4f40f4373917763/mypy-boto3-schemas-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "7d5a5b902c9dbcb1edf4b04988b7fb2fa461f49c71af69daa818be48cee2ff22",
+      "url": "8b/3e/ecb8a0c2db95afa9a7274f1cc62408bcad7f540f0152c7ee4e0fdc9d3694/mypy-boto3-schemas-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "d92107c9e123006a574769a58ea5f7c0a3ded0aa573bb8ce71259b845e089c96",
@@ -15247,6 +15263,14 @@
     "0.4.0": {
       "sha256": "4dc95a2b042d911a735bff047dc8c4e36f6b4f200d57be54e308a0a3f52a26ae",
       "url": "1b/ec/e219f81105adc00e247ba32709a0d8486c656f740d7a50a6951f9334ff2c/popsynth-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "831f9a88c3ec6579186ae394ce8db1f2a7bd65cb52057691647ef6d7a9d8cf73",
+      "url": "88/cb/403498674015071f51eb9df8e8a12e88a24d4a5b90e04b315d0280ef9579/popsynth-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "d23e197e1da1da118a543d5983c937acb9aef01e7bb142a3b2822a2636cfb87b",
+      "url": "f0/a6/86b050d7332b738c4017e89984278363419c7561abd745eba4633318c895/popsynth-0.4.2.tar.gz"
     }
   },
   "postgis2raster": {
@@ -17987,6 +18011,10 @@
     "0.3.3": {
       "sha256": "c970b2f8109bf329ad8e97f19fe5a718d6d1046097ccfe1eccc3ef9524089320",
       "url": "bc/6c/4d43c0c82ab459909e786f05897933a115a70c78730b3631542aa102b671/python-simpleconf-0.3.3.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "5eaef68143d030c2a1e534808805298a47829d4785a09a56bb9e5fd6f190e3e7",
+      "url": "f4/f2/9d7a372620b401dde2a13ca35c4613bf03a0f3a6c640a9d92b46298d30e7/python-simpleconf-0.4.0.tar.gz"
     }
   },
   "python-snake": {

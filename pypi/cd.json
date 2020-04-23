@@ -4697,88 +4697,6 @@
       "url": "0a/f5/9b11dcac804ce2ad62a59057b8cba06d68a5b9da14a55791f79f84ba933c/django-thema-1.2.8.tar.gz"
     }
   },
-  "django-tokenapi": {
-    "0.1": {
-      "sha256": "9af8390a3516dbb889ce46d311ed059d4a7761e889fc3edfdd6ae1c4e11e5be7",
-      "url": "f9/be/640eecc88c189a2d0757962857df88ef4e4e7836c69ef20f2c223ac122ea/django-tokenapi-0.1.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "14a43bda2d7e4e1c296e5cecff7fcddc3c8370cbab4519a8651bdb50e7674f1c",
-      "url": "7f/0f/c0a43288af07000de3bb00bc032014cda918f7024eda0887dd1af94737ac/django-tokenapi-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "a770d1e285ff01f044434d18d0882b9a6ea51565f7eda7e5f332c6088869f183",
-      "url": "1b/d4/737fb74fb91d02974f7c28312698e8a6ee0d0c62b6a6a9068d33b03cfb18/django-tokenapi-0.1.2.tar.gz"
-    },
-    "0.1.3": {
-      "sha256": "6c9414d777415b04be8b98624a4aab352aaf7493074ab837a245fb902f7068e2",
-      "url": "e8/05/c775a8a5853140c3ad9ce43184c870772e4626244cad15b7941f28998782/django-tokenapi-0.1.3.tar.gz"
-    },
-    "0.1.4": {
-      "sha256": "44e3cc5dcae42decf408fc9d283f76ab59ee790f0983817fc8f4e2fb213ab9dd",
-      "url": "cd/7e/9d01771ec6992097eb61180d4a9f677f4526ec814f0ae0cfca90a4f20aa2/django-tokenapi-0.1.4.tar.gz"
-    },
-    "0.1.5": {
-      "sha256": "0ce581095300c0bbaf1755ca02cb0e9023886602dc2459f1c53aec5263756875",
-      "url": "4f/16/7416f9918e47adb7a69d032c9cb7b5dd64d8baf67fc48aa4c8fe3c74cbf3/django-tokenapi-0.1.5.tar.gz"
-    },
-    "0.1.6": {
-      "sha256": "fe9c0ce66b11018afaf5e49369280f121ed07d18a77ea1f23729f34751093d76",
-      "url": "26/9b/748698b5946ed6be9934ef2d2a5bd20b26b9db264020279bbd4aa545f96c/django-tokenapi-0.1.6.tar.gz"
-    },
-    "0.1.7": {
-      "sha256": "8bb95a6800b661c8ab7af1069b21c1a4f26cd2c8c1f9eb128734cb2d05797bbd",
-      "url": "9a/a9/594f8b61f1f70a2a06084b53bae8fb89f982d50d1084d073fbb19055bfe4/django-tokenapi-0.1.7.tar.gz"
-    },
-    "0.1.8": {
-      "sha256": "bc453c16534f94ae7086e7629a116692731be583e7d8adc3b3bd436ec5c4f4cb",
-      "url": "44/86/f14f8a499404e5f9a979fcba77fbd1505cd92575d81f8772780f417c300d/django-tokenapi-0.1.8.tar.gz"
-    },
-    "0.1.9": {
-      "sha256": "6d2cbc0229cfc77592a0430a1c35fe753e8f058c7ba2cf5a47f891f9e593740d",
-      "url": "87/95/3d5cb354f8de63a3d719206c7e9afbfa15ed5519b13f7628ac10f8b34706/django-tokenapi-0.1.9.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "67ea912c4eed1199c14e89dd98aa2ede0255d488bbbc269abe7afbf678d4f62b",
-      "url": "d8/01/fe22c0cc0f1cbd250682e9e489e99227d003913c61a16835c80b1ff7bb39/django-tokenapi-0.2.0.tar.gz"
-    },
-    "0.2.1": {
-      "sha256": "9e684ad3b219465a8bb9c40a6608448344fb828a02bed8854af43260a93b4093",
-      "url": "80/b3/36d6bf501c5b2afc0f006ce2ef10a1565d7e7ff340531463f1e954ddcefd/django-tokenapi-0.2.1.tar.gz"
-    },
-    "0.2.2": {
-      "sha256": "69b74d168b2d60ca4dfbdf243b92c18442cf1e51e93fd5eed24b137602bbc116",
-      "url": "bc/26/1c7807df0cd85d1b79e809382a2e0b80b4c838264a7ed25eac47a0dd9e1b/django-tokenapi-0.2.2.tar.gz"
-    },
-    "0.2.3": {
-      "sha256": "2f6fa5880947d3f68768ebf2aef848a769565ea87f76b9f478fb83cdcb02f2e7",
-      "url": "1d/c8/a8d8c2dcf7e77b571df1b264147333617cb4dd6f606ebee36178acb795d7/django-tokenapi-0.2.3.tar.gz"
-    },
-    "0.2.4": {
-      "sha256": "9316cd04c96c6695b0a0d44001d935a54ceae101a0f4f55fe24a36317988a6f5",
-      "url": "8a/f4/3ec6348154fddec5d4bb08a2be9a90372db3b43d53ad9f4b7d0415a1eb8a/django-tokenapi-0.2.4.tar.gz"
-    },
-    "0.2.5": {
-      "sha256": "0823830fb88fe02888da3e471cec3c31310924d23f6092fa91b7b06d7d9b9339",
-      "url": "86/db/5cf913231418b2259f2ecc72f8c09053ce986955bb51fc60c1bd165ed87a/django-tokenapi-0.2.5.tar.gz"
-    },
-    "1.0": {
-      "sha256": "8140e0a40baed1c79aa1fc6ebcbef5d32aeba2488695a575f0433b77b0e09862",
-      "url": "c9/d8/379a048d2145455edfe097b5c294f1f213ef01732f24460a982027924a7d/django-tokenapi-1.0.tar.gz"
-    },
-    "1.1": {
-      "sha256": "0effd4dc37feac988ddef39363d929cc921aa32f75b421020de55b3b8b37a115",
-      "url": "7f/80/459dc0de3e3b899ba2c62aad6be5ae71277f830d7f734f550a17b49a2fb1/django-tokenapi-1.1.tar.gz"
-    },
-    "1.2": {
-      "sha256": "2d8d5837803a06aad84ae38856489f08339fb4ec2a822002e6a48d16176c7720",
-      "url": "c9/ff/8bceb3cbacbdeb487ae0d6d9d064f66c5f7181316d0d74cc2259a4115e75/django-tokenapi-1.2.tar.gz"
-    },
-    "1.3": {
-      "sha256": "dc02dbe996fc5060d2ee6c334e2293f444432a902be1ef0e16472ed5cab1e10e",
-      "url": "82/3b/d7f029455b3ac8e7adcc018ef55b91f73c341d3cc17bda2aafe21252342a/django-tokenapi-1.3.tar.gz"
-    }
-  },
   "django-trails": {
     "0.2a0": {
       "sha256": "760204cebababeca0352a28462d202da68dc99cba36866468ce1f789ae4def45",
@@ -8618,6 +8536,10 @@
       "sha256": "a5d1fbfd9a23f646c7e1636264056e447926f5c9bc035236d161be7d073df822",
       "url": "a8/aa/752f58d7d4969db250e1bc01932728e467744cceb318fbc302a6f6a67cf9/grapl_analyzerlib-0.2.36.tar.gz"
     },
+    "0.2.37": {
+      "sha256": "0f5a60918c0eb0b11c8a794f9a81597fb2691b0d83bcb87aba1b6fd6bb0e8a02",
+      "url": "07/5f/90ff9887da19c62708a7aac310c3592855f37cb68e9feaf76288d9ed2cd0/grapl_analyzerlib-0.2.37.tar.gz"
+    },
     "0.2.4": {
       "sha256": "1e03f8bea6313c0eca2fb7db788ee1bff7531489ecba153c2f68d1d62c574b87",
       "url": "9c/d4/10745fa24ab3d047588e983d6ee15da5a675e010468bee544f647f5914c1/grapl_analyzerlib-0.2.4.tar.gz"
@@ -8791,6 +8713,10 @@
     "1.1.0": {
       "sha256": "ffee0895b016c173ad043853a7d5111154f7e04194d2a2bc05a150acf9669f8a",
       "url": "f0/28/78411977ec02799a3a16a08ba9ea036851fd23d26126a583d7a4dbd7e129/gtdbtk-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "b1ee2e8c0a75132b8061b454676f9dd68acfeaf6ee71fab48db005b6eed57263",
+      "url": "68/d0/bcdb38880ed7e0d0ae563c62b1f192b1d77a35a0d00b193f9e5a01817454/gtdbtk-1.1.1.tar.gz"
     }
   },
   "h8mail": {
@@ -14774,6 +14700,10 @@
       "sha256": "58f603aa49b1e22f109d5d80c95f00a41062a37d2d34c8c89c2f6910fdbaeb31",
       "url": "40/ae/b9b3f55d8b0428c39a41e07897b5cf0f32adda371a2e4b9eb072008d62c5/mypy-boto3-greengrass-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "0134da014b4c23dfe05b763f7c4c2da68485c4f1be0c8ea3e49549f5d840e306",
+      "url": "0e/f9/a796f0ffbf6e5c29f59dbf5a6960caea33b502559c05afd6c3e7c72f3930/mypy-boto3-greengrass-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "61c0660c0a319248fe5a46f05f0dc889879578cd615b03ec7662bcbf2dabd05b",
       "url": "68/90/fd7c94d8429d7d3e395d4a89eee07a86fe15b92d63215b3d36104d86793a/mypy-boto3-greengrass-1.12.5.0.tar.gz"
@@ -15787,6 +15717,12 @@
     "0.3.3": {
       "sha256": "852db23b6a68b8e062b8eeb11181281e8c6351fa11f6a48caaae63da6c84a68e",
       "url": "2c/d9/a155145434917cbc296aba0dbd62b095516dce810c81f104a546909961e7/NoseXUnitLite-0.3.3.tar.gz"
+    }
+  },
+  "notti": {
+    "1.0": {
+      "sha256": "d9bcc12f4dc179b853aba8072116be487649e814492709ca3735458c1c0cedaa",
+      "url": "88/3e/46102d61b3689d1eee73f37ef3c94e573c31b4c63fd0db083b891e7f8aa2/notti-1.0.tar.gz"
     }
   },
   "nr.parsing.core": {
@@ -20563,12 +20499,6 @@
     "0.2a1": {
       "sha256": "fb40c53d1de66ea8ce90b2a9c892af9da97d4fc6182b0761d730bc29e14ffad6",
       "url": "4c/34/3ba4355e68dc7cbe8cc371ba31d6dec7d6371cfc306777d4abd2074df67d/riccipy-0.2a1.tar.gz"
-    }
-  },
-  "rinkicalculator": {
-    "1.0.1": {
-      "sha256": "e1ff9c6e23fc72f05b1653319f8d099c7aed73d72f3d800cea4ec7c39481e428",
-      "url": "78/09/476d32007bda05da6ada50efced1cd70e4b15396099b20998b58a211aa4d/rinkicalculator-1.0.1.tar.gz"
     }
   },
   "rm-synthesis": {

@@ -9031,6 +9031,12 @@
       "url": "82/20/d0ed9f9343b9932b7613c59ad2bf4389e439b499127c1b2951198feb9f34/icheckin-1.3.5.tar.gz"
     }
   },
+  "icmplibv2": {
+    "1.0.5": {
+      "sha256": "c48a3b2a652bcc0c66815ab68960b4c57fdc24ec21c7a5d47f6966dbcc927ffa",
+      "url": "78/c1/2c772ccf61eda4be38050561bcdee7ae1a86c4dcd8ad3ee8487ce4452a5f/icmplibv2-1.0.5.tar.gz"
+    }
+  },
   "idem-linux": {
     "0.1": {
       "sha256": "52f76602ac10e7fbc60f48ff63870f81f153d6e3342fc71d1639067ba847e83d",
@@ -9965,6 +9971,10 @@
     "0.2.8": {
       "sha256": "b35eaa82bc3cb4c5ea6f4ec8f022632665fea67b722e9d2d5ffaf69af665a778",
       "url": "16/c0/dd3cf604a0669796b0766e0a6a0da6fb9c3697328713d2b00cb43522b038/kdl-0.2.8.tar.gz"
+    },
+    "0.2.9": {
+      "sha256": "176e14ddfb230551abb98f6396be403004e80bceea570b644545a024ec950fac",
+      "url": "26/a1/038256b4f4701a82a231ec572afd55277575015fcc6c8e9bd6818ee581db/kdl-0.2.9.tar.gz"
     }
   },
   "keras-spatial": {
@@ -17823,6 +17833,10 @@
     "0.0.3b21042020": {
       "sha256": "27358acc42fb36a5a2c99c69429eeac775d4dfc321871b7b6f598556b66e8a93",
       "url": "6d/a8/86e4a0e29198fcd1cc44a034776459fd984a56df351e5713ce5ecb61fc55/resnest-0.0.3b21042020.tar.gz"
+    },
+    "0.0.3b22042020": {
+      "sha256": "283ddfd7a37ab16b5b44934388d556a32633d88aa29f3505ef81c85a3934e761",
+      "url": "68/09/89b4ae14b1eabce14f4676ccefc8ad8080ab3f7ee5415ec77e65299b5301/resnest-0.0.3b22042020.tar.gz"
     }
   },
   "restcountries": {
@@ -19615,6 +19629,10 @@
     "0.0.14": {
       "sha256": "79075d48a4786179c84d95f7f98b0b8a57d8b630d037290f9016655ea2a388dc",
       "url": "49/3f/ea0e322e744df3372ff4e91b4501e7519d374ba92de02c126e60f8222383/swm-0.0.14.tar.gz"
+    },
+    "0.0.15": {
+      "sha256": "987b91ee0a3343c9981ce6f67f6a15d110e88cd452f6c04091dfa11de73063a6",
+      "url": "a1/e3/f752ead975d87be4531f0016675ee625c885a19d8c311699388115319a07/swm-0.0.15.tar.gz"
     },
     "0.0.2": {
       "sha256": "c2f47099c037bae3b2b9829e2c9658fb38120681106433e0cf8150be59bebfc3",

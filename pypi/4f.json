@@ -765,6 +765,10 @@
     "1.2.1": {
       "sha256": "dc2c251a03902dd602c8328e6705bc3fea6e803f7968935ed5435586c91b88e3",
       "url": "45/cb/8cf6701a7e497ff798e167088c5201556efe69d1e24050954f6351eefa92/atlas-metadata-validator-1.2.1.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "f9bb72f2a5befc5ef8f2272764ec99c59cf44d14221e65af6ce0d024b48016c6",
+      "url": "18/c5/132554a780679767f8e4aef171fe56bdde3791edba871547b535a6edbd77/atlas-metadata-validator-1.3.0.tar.gz"
     }
   },
   "atmosphere-cli": {
@@ -845,6 +849,10 @@
     "1.34.0": {
       "sha256": "6042a48a153090756bcbb9e778aea9d0925a6d6c820421415608b8ad946e0d38",
       "url": "ea/a9/4eb412dc3e402416706b7be90c527594b546a2691fc1b66eeb0d19b96fb8/aws-cdk.aws-detective-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "1317fbac25321900e5bd67b451457bd2bf0e1c31a53845a49697b151558d9ca2",
+      "url": "bd/5b/145870d4b5813c3d3555ba3fa96357950cacf8cda64bf459980921db08fd/aws-cdk.aws-detective-1.34.1.tar.gz"
     }
   },
   "awspider": {
@@ -4727,12 +4735,6 @@
     "0.1": {
       "sha256": "75b97adbe82a1db7bd7c25db6fa371b344c5928bee7e648da5c105820002f03e",
       "url": "ed/f8/28d20680220b225b7201b24a0edc60e535f1f4a8965d17488ebcb3ee40d4/d3smush-0.1.tar.gz"
-    }
-  },
-  "dandondata": {
-    "0.0.10": {
-      "sha256": "8e35150975bec35be10b772f0b4c66d736fe9053a0e85cce5611dda8315eb034",
-      "url": "15/b2/8348eed6aa03a6499114004f26d3fc8f6987c90533694aea53022f9c04c1/DanDondata-0.0.10.tar.gz"
     }
   },
   "dap.plugins.compress": {
@@ -8837,6 +8839,10 @@
     "0.7.4": {
       "sha256": "621bd056f623a3443bf53a24d94829f09b0fe09eaed34d014fc4b58cc2bb59e0",
       "url": "d1/16/94983b7949c5a94fffe2e13926cdca3b3c149e5b603cea8ce89925cb59f2/farmfs-0.7.4.tar.gz"
+    },
+    "0.7.5": {
+      "sha256": "e1cd09a982f21369484b4ca8eea8f1800922651927ad35999501aea6cb918cab",
+      "url": "72/fa/0c6c61bee1568401e14551b1af296233753f4985d4b9b2da30d7813aa589/farmfs-0.7.5.tar.gz"
     }
   },
   "faspell": {
@@ -19481,6 +19487,10 @@
     "0.6.35b20200302": {
       "sha256": "fa7817dc7775ec08ad2893d8c402e96d557339db75d394cb6affaf8a040900cb",
       "url": "38/14/4856f22b1620c5f3a99b25787929d61c8d9a3bd2f6434f1382671eb97ebe/rockset_sqlcli-0.6.35b20200302.tar.gz"
+    },
+    "0.7.5b20200422": {
+      "sha256": "8c736df0f0b7ed6ab15ae3a6462d761ceb4da926289f5c13e83eb735cda9f203",
+      "url": "ce/48/5f949e536b75a33ebecc7db57eb8aea0028f345c2cf3dd268476eae1061b/rockset_sqlcli-0.7.5b20200422.tar.gz"
     }
   },
   "romans": {
@@ -20615,6 +20625,10 @@
     "0.0.8": {
       "sha256": "05f7ab4aef90da14a4c5b022cc59747c017419ee934a7d85baae4a2c9232aa56",
       "url": "e8/89/8d081599c9a275ab5eff6945e0b03422ac1a0b1c4cf3cc176443973f1d6f/shore-release-tool-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "85525c74fda8407a730e8254280736ec71027c76d895c2a4993b1604004287b1",
+      "url": "e0/18/f7281eeddfe0a8a7c596b92a68d72752df0e2c28f39f80964ed7510d836f/shore-release-tool-0.0.9.tar.gz"
     }
   },
   "silva.core.interfaces": {
@@ -22387,6 +22401,12 @@
       "url": "83/30/c7489eb9e07f3793a2bca30a5632cfb1b9f5749ee09aa95ec4c19502d5e3/split-query-0.2.2.tar.gz"
     }
   },
+  "spot-check-files": {
+    "0.0.1": {
+      "sha256": "ec0a72475fce12fb03fa581cd401eb90007f3f54cbbd2444ef4367322fd3548d",
+      "url": "b6/9a/1492e59636d4dc51fcc4fcb65772b26e5851ffbdbfddd1b68696c2580aed/spot_check_files-0.0.1.tar.gz"
+    }
+  },
   "spotdl": {
     "0.9.1": {
       "sha256": "6bbcbca246263702141e20dc291cf62353cd928c7519c98bcf1415f4b2752aa0",
@@ -24077,28 +24097,6 @@
     "0.9.0": {
       "sha256": "62e349e0e8bda1b20b1d97173f5da0ff4b25d8aed82ca185eb8b3156dd4a5706",
       "url": "f3/1d/217a43ddef00d9e326f95412d38d9aa738d221a4a2601fdd1c42d703dcdc/tsfresh-0.9.0.tar.gz"
-    }
-  },
-  "ttsdg": {
-    "1.0.0": {
-      "sha256": "b0efe5a561db09070401bf7da95ad97be462e1d5230d2df429c8e8a55066300a",
-      "url": "41/c9/d1e504dca317fd9fab745e5967b553f0a975e57fd43ac301808827c56163/ttsdg-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "fac21b53740050193392fa41220c69c3a35bb976e3de0244564432b8e75ced17",
-      "url": "a2/76/a2dd94cc7bf5de4187a3d9bfb1156143449560ba59db4a1daa1ffcf962d4/ttsdg-1.0.1.tar.gz"
-    },
-    "1.1.0": {
-      "sha256": "9fb81fddcbf1355be4558c862eb3a1e8be8d0a158a43de21bfa921ff317247ff",
-      "url": "de/be/ba50f0cfcbe6d62a55af52079fc6269181aa866ff75bf4ff1b9e96e16912/ttsdg-1.1.0.tar.gz"
-    },
-    "1.1.1": {
-      "sha256": "df69a9c42de535c67aed5e8faa4428bbf1ddd40f6e7d95d5e42c54f85dc666b2",
-      "url": "14/d8/7fa55d9fadd8e148a80441963118ac7a0d9ea452e0b208af20010d856fcf/ttsdg-1.1.1.tar.gz"
-    },
-    "1.1.2": {
-      "sha256": "53c2fcc55f389ffdd56f3dc59915c12f8647eeed41697c6e02077bb88d920d23",
-      "url": "e3/f7/db138ee51af9f92244d952b39dcfe0eb006933c18eda5ab693ed9286fe17/ttsdg-1.1.2.tar.gz"
     }
   },
   "turtl": {

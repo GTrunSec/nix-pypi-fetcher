@@ -1544,6 +1544,10 @@
       "sha256": "fcd9f3d6c90ac9514aaf69dacc434b1a0c4c07dbe719371b2ce7f10cbd85948f",
       "url": "cb/2e/be78cf352d9f244177e4ca9338599323485b3bbf16617c3c214316e7fc37/aws-cdk.aws-batch-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "440e154cb998f4e78690cdf9dc75b4d73cc75f4cb593ff92caa610a6a14da890",
+      "url": "5b/b3/f96b82a1a4d827d2158f83326174f1812d80da0572c472310da145e4d4b3/aws-cdk.aws-batch-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "1047b17df3554ba198ae24f207c9388d98e36338cfcb750af9209f8b0e2bffc0",
       "url": "05/6a/848e7583d1e510c5711860c2352b272cd2fc467e1b2ca8c855ab7e1e35d1/aws-cdk.aws-batch-1.4.0.tar.gz"
@@ -5558,6 +5562,10 @@
       "sha256": "6790a88f74928b698817dfc9bac1b192717a9c951901ff35b7f9eb190b70e321",
       "url": "9b/69/4ce9a5a8c8b2e4762e756f73fa15fc3e2780774fca7bd3b42729c22f9fe6/dremio_client-0.11.1.tar.gz"
     },
+    "0.12.0": {
+      "sha256": "5f8344780230a6ef9367223c6ddb9bc9ade4b61dc94e47ba0740b55597606ed1",
+      "url": "8c/66/13fd565f8c350e3827cbdcbf3416918432430fe7a46deef8cb34dd67a801/dremio_client-0.12.0.tar.gz"
+    },
     "0.8.11": {
       "sha256": "c92e2d5dbd7e51baf0354dc2b38eef3ccc0644dc58de497680c96893b29d8a7e",
       "url": "f0/be/756d12b499f0f281f914a5fd3a798ffc44f8ce60556f4e41af0f0b2ca442/dremio_client-0.8.11.tar.gz"
@@ -7247,6 +7255,10 @@
     "0.6.2": {
       "sha256": "6e230308a0338b91eb3cb09a353822a14299284a51be49d40517598ea9420e11",
       "url": "55/2d/ca08ab3029e7e3a9067248f591278326863225420db16e0b0c69ba8a4ac9/gemd-0.6.2.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "19bf795d267751a9e22b7ba7aad534e697f0fc7a53bb9d651291916c2db4e1cc",
+      "url": "85/72/3f185eb9348822440d2df204db6152d3d53a37032b076d5efbc4b08e6fa9/gemd-0.6.4.tar.gz"
     }
   },
   "geofeather": {
@@ -7469,6 +7481,10 @@
     "20.0.0.0b3": {
       "sha256": "49e98cc7b07a9946828e319018fef29f5fd65e1aa09098c7789c63b896624eb8",
       "url": "69/50/26fde4bb05ef8c403eef6c6ddfd30d49f146979aaa29c6596887f1555108/glance-20.0.0.0b3.tar.gz"
+    },
+    "20.0.0.0rc1": {
+      "sha256": "e716d9ebe34310cff641a2c651390f99bb3e57bb451619dc47e71a79de72cadc",
+      "url": "95/b6/74bd60764b1bbc67c38f735c6694283d8d961aa74dde37cbb9d2fd6da409/glance-20.0.0.0rc1.tar.gz"
     }
   },
   "google-speech": {
@@ -7795,6 +7811,10 @@
     "0.10.2": {
       "sha256": "280032cb8a19c959ebfb2e4ed802364bad40feee2ecf6785b0b31bb7d93ebdcb",
       "url": "44/3a/dc156645f056a994ba8b27c9a9c3c9a0a52db2e2737cf80855ebdc52eff5/great_expectations-0.10.2.tar.gz"
+    },
+    "0.10.3": {
+      "sha256": "20ffcae72f661f48a1fa14f268a5ae657a140cadbbaf13e61ca18c3249a755d1",
+      "url": "b0/3b/588faba0dba1e380880834d909d4eea1f23671df5f0cb763f64933cef62b/great_expectations-0.10.3.tar.gz"
     },
     "0.3.0": {
       "sha256": "a989a5c937cf8ad49fa24342f42dfe3863dcd3ab6b87a3bc862eb77b2e1e25d2",
@@ -13776,6 +13796,10 @@
       "sha256": "6f7e102e7914f6877c5df08c11f2166fcf5be8e07550643d22513eff722da811",
       "url": "b3/4e/3da5ed0ffd87c2800ef16da000ff5d6ac0b0ee4044944d87fe83feb1781d/mypy-boto3-elasticache-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "65456388d671130ace5d49d4dd58b8b52d72795d72c023eebd427f0d639ac1f6",
+      "url": "57/79/d88e70a8c524c2d48c8964c1c71948b8a38800289ddba2d3e1147c25d12f/mypy-boto3-elasticache-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "774e10a7e69fd3344f34e89ea198db09dedf7ce75460e56ab3bb75cbb1908bd0",
       "url": "85/5e/ac0ea6d7f0cf0ef17a65dba27ec28c30941161e583d7e5d5b5eb15336f53/mypy-boto3-elasticache-1.12.5.0.tar.gz"
@@ -14221,6 +14245,10 @@
     "1.12.43.0": {
       "sha256": "2e3096f11dd39aaa1da142fcb63755aa4154330f179abfe0f5dafd577d99bede",
       "url": "0f/06/9673d1dda8ba959e1413023ad3b760f21c4f65e19eaf8feea3330da6c77c/mypy-boto3-kinesis-video-signaling-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "6707a532f6c5a63121af312029dd6050ef0be709fdb255b8b18f150ef30df28c",
+      "url": "4a/10/6731585c5f947e5f4563dc40d86de10f0a22860ecf108e045d7a3c0febe3/mypy-boto3-kinesis-video-signaling-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "079c7a5af4d78d10bb41c5e8faae50bbf9c1f6b78e4fbdab24606026651c254a",

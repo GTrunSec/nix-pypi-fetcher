@@ -1776,6 +1776,30 @@
       "sha256": "9c9a372ee61ffe77a86a1dc1c2da1a301635fcb9b6970db7ac062164852468bf",
       "url": "cc/6c/f9ba46bd8e689240e03a14a55ded2cb32bb03bf8c8518784d2ee8152ddfb/centeridentity-0.13.tar.gz"
     },
+    "0.14": {
+      "sha256": "a320ad7ea718b0f0f497f6eb6043a22a277da192da429200a60bbba37b5536c1",
+      "url": "a4/d4/9a1e95126c31288c49de3f99b5c18605fbd40bf0edf739a9fffdafa4bac5/centeridentity-0.14.tar.gz"
+    },
+    "0.15": {
+      "sha256": "e486da0a64f8bce267a664ff2923f07dcb5eae588e2fa3b8d11a62bc371d5730",
+      "url": "d9/6e/af599cf97b141739115abdc2b960592a8975da5df551adc84a312f5fbc51/centeridentity-0.15.tar.gz"
+    },
+    "0.16": {
+      "sha256": "b264d5336967fbb0190aafd478260ef24ad9b5bcb943c644de08a3545228bedc",
+      "url": "f7/1b/cd819ef940cf9ce2e80da6f65959663d3460648688eb3c1910b927b9d8fa/centeridentity-0.16.tar.gz"
+    },
+    "0.17": {
+      "sha256": "20599a1276700e4a4e9498877f262e4339b9ed2484b41f5d8538e7c56d207cc2",
+      "url": "f8/bc/faf6c7ddc89cd531d62c8777b7f37de4bb4b987d91179681466d3330c56b/centeridentity-0.17.tar.gz"
+    },
+    "0.18": {
+      "sha256": "6cd0255d3824168e0fcbf48b50ea267c2fd106fca76805e5a77209f9fd9c1996",
+      "url": "60/a1/a6831f37e084862b98678dcaa11325883724a5beee002078dd64d591103f/centeridentity-0.18.tar.gz"
+    },
+    "0.19": {
+      "sha256": "1fcfcce74e057a8ad5eaaaa3c18a2e18dbc74afab2a2da3b1f21e59937459fdd",
+      "url": "61/79/56e289bef8efe2faa0bd226c90e0c48909f52f2706a57ebe3d9a93e9701e/centeridentity-0.19.tar.gz"
+    },
     "0.2": {
       "sha256": "0aed5e3ef92fc1156c811d364cc6401454e2940f23997c48bc78cf700f1158df",
       "url": "f7/53/0401102681dd23000fd5acde57412233f80ed65206be543d1bccee1ce491/centeridentity-0.2.tar.gz"
@@ -4320,6 +4344,10 @@
       "sha256": "7024ad9166046f744b588ebab9aa8362e0bfb5a77ff04b86c9ecc719871df909",
       "url": "77/0e/e05f04c35726634b2102873087284e86dc00a09cfac5fa826dd6b30cd5d5/dagster-gcp-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "53c91ff6c386b9e18eaf61d34319811f58b3a516ca2ba1b859c1ed48b50af4ee",
+      "url": "12/b7/23ea3120087ec3e5d5ee848f4e9d7a5b6f2e560ae201b720f237dc78da68/dagster-gcp-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "437fc2cd369398e2b36831d390dfc9635357396873bc0f134dbb6926a4a81a19",
       "url": "72/50/a71e6d47465eb1bff3d4d9f389de94b26a7f54394310adabec3300f0ae54/dagster-gcp-nightly-2020.4.4.tar.gz"
@@ -5029,6 +5057,10 @@
     "3.7.1": {
       "sha256": "05ea915d490562413428e04acb9ecae604c63b8dc5ed9250d0e9437b1314c996",
       "url": "c3/55/bab3217850a3dbed17caf0fac4f9351fc13f25c572534080b7ede78edf5c/django-cms-3.7.1.tar.gz"
+    },
+    "3.7.2": {
+      "sha256": "9e65be1d7797a916fba2c11b034f221567cedff529e352f348e604ac36ea7faf",
+      "url": "80/b3/729d0e6bf61ceaae6c92b25adea7e36cc4544cebd6aa94a7bce1cf485ea0/django-cms-3.7.2.tar.gz"
     }
   },
   "django-cool": {
@@ -7137,6 +7169,10 @@
     "0.3.0": {
       "sha256": "2bb2c7961d591935c774ecaa4414b84d5d55aea51ac880f1c1aa07ca78a7493b",
       "url": "ee/1a/c09f2b53f59a887055008651a7fd4009e76e0d48d05ff6e6f67366ab6dd7/echopype-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "94549f9497ecde61cc51f54afebe9c859f547a0d2dfa4588daaecdcb89510a1c",
+      "url": "5a/fa/4d3f4e9475eeb3517eaccdac91861c82b9f2b18354afc2d70d987f619ea1/echopype-0.3.1.tar.gz"
     }
   },
   "edc-timepoint": {
@@ -22887,6 +22923,10 @@
     "1.0.2": {
       "sha256": "0a2b6eb2e8b8fe2ada5cd15e257ac72fa7eeb32a3a6ae466032733a1da38ef5a",
       "url": "08/f2/f919eb707059283016696f77a9f886920d13e892c1771208cbd44ba18672/wiser-smart-api-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "072ea493d0268ed8c5dec4a7d42cf9615da0c08d53a99f82f20f325073cc711b",
+      "url": "a3/80/5887b413b3b71ad7733d92e2e3447ab39cbb1313a992412e2500208b0305/wiser-smart-api-1.0.3.tar.gz"
     }
   },
   "wishbone-decode-msgpack": {

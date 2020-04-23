@@ -4120,6 +4120,26 @@
       "sha256": "c09b8bf7e8e07aeb19fc8a598cd52ba4dea329d3e7addf7279c44270eb5a7ea5",
       "url": "1d/f6/a1c1ec4f54bce5223526925a79f13fe297276751d81eee4ffbe62bfcd02c/cpgclientlib-0.11.161.tar.gz"
     },
+    "0.11.162": {
+      "sha256": "930809a7caf56bebaf50f9218215b152069a8958d850c8556fbb1d8b980bd74e",
+      "url": "61/e0/ec6cc6152468d43d5820ba0fd4c715286931cd2dd0b780150ebc169b0168/cpgclientlib-0.11.162.tar.gz"
+    },
+    "0.11.163": {
+      "sha256": "eb5cb697a58b51aae22d3087fd86a2bc14870dc100959c12de648344a84486f5",
+      "url": "c5/fc/63a5de48bc94aa38595f49711f13f00cb76918e62fb2c5ed0be85364e34c/cpgclientlib-0.11.163.tar.gz"
+    },
+    "0.11.164": {
+      "sha256": "2ee7d183d7fcf1bade3a4e4c044c88c346b1649cc6855c5be6aab97ef9fdeb14",
+      "url": "7a/83/9201620a52c851a8232b719c6fcc4ba468d1a99789ef8d92002bf121fbce/cpgclientlib-0.11.164.tar.gz"
+    },
+    "0.11.165": {
+      "sha256": "de1142b836fffdd2ded42ebda367f6d21d2457dfedc84f3163016942170f3205",
+      "url": "13/21/7e9ebc176d8ea736ea6c12bbdb665520bf738feafd0809b96f85aa464ec0/cpgclientlib-0.11.165.tar.gz"
+    },
+    "0.11.166": {
+      "sha256": "e345d7509208a25fc233fbf3ec901882be8e6a0e86819f4b4c32eb520c8f2e7f",
+      "url": "58/bc/f23dc48b3f093272401e925454168f4c8564d72c4145df7b510f9e1912cd/cpgclientlib-0.11.166.tar.gz"
+    },
     "0.11.17": {
       "sha256": "302a934870914ce6d8fe40362cd29b5aa655033f1fcc97c5f03a1ab6b8dc5464",
       "url": "5a/47/09860abb0ad51d0a9f3ec093c75fbc7c115d59cc447cf9069aebcdc958fd/cpgclientlib-0.11.17.tar.gz"
@@ -16449,6 +16469,10 @@
     "2.1.0a1587405967": {
       "sha256": "46cf00bf9ac3f6c9e073da626543be88edf070904a6180300a5a7635680dbdb5",
       "url": "e6/ad/130f417164bde6e5f4d07549e43ef58b943fcbece5d8aad941a7da970b2b/pulumi_aws-2.1.0a1587405967.tar.gz"
+    },
+    "2.2.0a1587596443": {
+      "sha256": "2def37a904eb94c12ff6efa98973a6438fe5daed525d5d67df358b90c7da671e",
+      "url": "bc/02/82d3c53a0f4910eba726a37ff26ff508fc1634e2916adb759c1c61ec91e2/pulumi_aws-2.2.0a1587596443.tar.gz"
     }
   },
   "pulumi-pnap": {
@@ -24039,6 +24063,10 @@
     "1.14.13": {
       "sha256": "4e9cb48164dda48e46bbf8e603444aa53c79dc9d502f8a2c5c01e291004c8214",
       "url": "be/36/9643482ac75c06cd4e9b14613d611e00099bff3b4515bcda38ad087f5ab2/streamsx-1.14.13.tar.gz"
+    },
+    "1.14.14": {
+      "sha256": "62f7210a4f8f5a7f469f5f83f7abe002ae9b73cb00ba20fc150f42036add5dc8",
+      "url": "36/f3/1745b6d09a28f27398e47ca5d36e28a8c0e89ec86be6e5125c1d33a198fc/streamsx-1.14.14.tar.gz"
     },
     "1.14.2a0": {
       "sha256": "7da5ce966eba1ec493c9cb25d5fd7668676eb9bea193451bf679e043a5512055",

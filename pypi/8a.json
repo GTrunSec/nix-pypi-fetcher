@@ -4593,6 +4593,14 @@
     "0.0.7": {
       "sha256": "0b0946d28f10bfb5bafe63500a18dec8ceb4a467c8ae32b1ba73628c21f723e7",
       "url": "64/92/badd207ec639f7c9deb1ff741ed14e7c440619252e508fcea781d3643343/deepasr-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "c6ce839ec990b98f0b2d282109072640d11d1be0dd041fd1b33243c5bd8fe4bd",
+      "url": "a5/2a/33cb49dd6206875cde8f476dba820874b75ae9b1a1fc243b9e08767ca013/deepasr-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "a92881c5b7e87f593b8252858910d8e0ef3635a71a8590dff1d70792d5fca5d4",
+      "url": "43/55/fa233877bb2aa0bed773153f1a292b8da486d65bb5df1fdffd737d97e717/deepasr-0.0.9.tar.gz"
     }
   },
   "deepctr-torch": {
@@ -8181,6 +8189,14 @@
     "0.0.4": {
       "sha256": "54028a7106c53a71bd9d6fda50c41c1a04c0b7977a029715978f0ccb0b8c1f3e",
       "url": "3f/28/a1567b0c8c119bfac7f520449cfd6ef0f0a125af05246c1af6f50c55b353/factiva-core-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "3cece14dee6a491205dc49d05442e8eb84a813a87d0bd118b8326c9355f1e4fb",
+      "url": "15/a7/65ea0669bcfa2b560c055264650c69a25b4fcc3fb2178cc05bbd0dff9545/factiva-core-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "d908f5de31040d02d7ed6e1ef60e697572bc4cb6d503f2c4597c09666a5c47d7",
+      "url": "5b/12/813a2708b5bb8a278282a448044b014dd19fe09a7646501cf87faa9dc63b/factiva-core-0.0.6.tar.gz"
     }
   },
   "fake-awsglue": {
@@ -15717,6 +15733,10 @@
     "0.0.5b0": {
       "sha256": "90739a0c9058c725a055dafb425afceaeb5222b2f78b39dfe40541b7c1a188e2",
       "url": "b5/9f/83409ac11103279151bc61902786e8ce2580efb99961ec6bb9e06e86b87f/mongodantic-0.0.5b0.tar.gz"
+    },
+    "0.0.5b1": {
+      "sha256": "e484c705a9213419d39dda8ffdb5c849e43ac082b6bff1f9b7e106b1d7d9482d",
+      "url": "a1/53/e1a7f996b148e06dee0639d0580fe9f413231f0d90fa28f8cde164908d6f/mongodantic-0.0.5b1.tar.gz"
     }
   },
   "mongodec": {
@@ -16833,6 +16853,10 @@
     "0.1.9": {
       "sha256": "b05657bd274a6722862a7320f19e984b0a31b991cdde5f0fc7e33ae146fb731c",
       "url": "8e/31/d20e2c0a4b85d60dea81858373c4c46b1cd118403f9720231e92db798932/NSFopen-0.1.9.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "adbf004ebc68a2f8bc6708c880eaf65eb42256f27e21422b3172ae54fbf19950",
+      "url": "7b/c2/2998fcc2cbd8c82097be60bb11e95c63a8580adb1366e8cf5f0526302ee1/NSFopen-0.2.0.tar.gz"
     }
   },
   "ntlmauth": {
@@ -24239,6 +24263,14 @@
     "0.0.4": {
       "sha256": "13ea7be6f209ca4d099a86df7e7baa3bb3926409a75758a8a3327079d6786486",
       "url": "c9/09/a30aa947131da57cde0b1bec58febf11e379092a893408d5af2fb0822d19/scrapy-pyppeteer-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "cff3aaf906ae352535c01ea1d4ea71a40c81bf5ba9fa78fd07f0ea1187ef1438",
+      "url": "91/49/14a46e3a84a5cbe9a25c286eb6668664eedb6415edb66dd2c39e140ba4f6/scrapy-pyppeteer-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "efb0af9ba458d20167c8fef4ea29307042981e19f0a0d10ac9a1a6eccadd1361",
+      "url": "47/33/bc8d53e5ef95cd3326f18422e7756289f74645d2a4c04aa55a44b0131fd6/scrapy-pyppeteer-0.0.6.tar.gz"
     }
   },
   "screenshotuploader": {
@@ -24939,20 +24971,6 @@
     "0.1": {
       "sha256": "10b65e3d50dcc6ef9a1dd4f78d2b1e5770ed5f92c233a42f80f7acc567b87129",
       "url": "2d/77/0d73a4cca9f4a08d91c1a44669964f6c3bc8a9763a8f6051072e63da6794/smart_importer-0.1.tar.gz"
-    }
-  },
-  "smart-sheet-pp": {
-    "1.0.0": {
-      "sha256": "2c9f345d7336fc9ddaff2346869d0c5f926b21b2d116e9caa8c3bb181a4d0780",
-      "url": "29/ad/4801f440eeb02cd225eece7293b04c9c56fca06f95a03727ad0264870e84/smart-sheet-pp-1.0.0.zip"
-    },
-    "1.0.1": {
-      "sha256": "98db11e834d2e4a489e9de59a62cee011d21572a6bd6979c8df51479e37c0397",
-      "url": "b4/9e/bd5f1b8f7ab69ae04ad27b482e2cb1782f3a0c14cdd173aa2a9e878b4a43/smart-sheet-pp-1.0.1.zip"
-    },
-    "1.0.2": {
-      "sha256": "9da70900afa1a312628617fca65b1a65734fce2b3f682c96053d14126cdd0950",
-      "url": "b3/8e/8f98b20a8bb7404c798b024cf7163ceefd5be36711c4280ffff937d62c14/smart-sheet-pp-1.0.2.zip"
     }
   },
   "smartfeed": {

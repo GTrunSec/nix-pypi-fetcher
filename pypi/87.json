@@ -547,6 +547,12 @@
       "url": "3a/14/e6423d0d83d5c15ef47a0f7876762ba350c7ac4699ea1da437db7b64959f/appfy.recipe.gae-0.9.9.tar.gz"
     }
   },
+  "applemusic": {
+    "0.3": {
+      "sha256": "7546e9d73f12fdf9745cfcb8b613437556c2d56b556263117badf879bc6b1687",
+      "url": "4e/f3/cdaf5e533e24fb508b0ce27ed7224aff4404275ecd2dded9f2cea536e0a0/applemusic-0.3.tar.gz"
+    }
+  },
   "apydia": {
     "0.0.1": {
       "sha256": "1f94756327a050e7de6a608a540a9c27851f656a6b42ee668e760e186ab04ce2",
@@ -1319,6 +1325,10 @@
     "1.34.0": {
       "sha256": "8259238831b0a11a9f355448b132d155a70b87ab519805e0d0f7802daeba904a",
       "url": "3a/5a/54f2c075c7cf50cc357ff867ff4eb7f0dd85c16c2f48405a2ebb0656b192/aws-cdk.aws-glue-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "cb200dd7f722011b854eb4b6cd0e1904431306b1dc6ed7c7f79f17fd046566d0",
+      "url": "ee/62/293a892ad2ccc9644e3ff375ba654081c5704edd1b32e1f3f4cc68d32cc7/aws-cdk.aws-glue-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "63f7dbf158564de731111554368ec6e0dd1b24d80c1389ccfaf615676338f114",
@@ -8603,6 +8613,12 @@
       "url": "ec/72/20f624e4bbd0d2343ded280a6e71fd2388e6ae186db5431baca49d917dc3/eea.sparql-7.4.zip"
     }
   },
+  "elastic-core": {
+    "0": {
+      "sha256": "705dae6b2ec1fd916254df7028f789288156a4b19ca81e87dc94a9c4329d6dee",
+      "url": "be/b4/481be73224c036b4e92b121a9d6431b3bf9ccbe42dab597db66b3b8d6b39/elastic-core-0.tar.gz"
+    }
+  },
   "elasticsearch-raven": {
     "0.1.0": {
       "sha256": "a5d690bfc3f30b08a750923a8c1b1d6283529ebdebd66428b2b5e85b67db9d17",
@@ -12835,6 +12851,10 @@
     "0.6.0": {
       "sha256": "b15bb08ae319427ac9df3e93108535e174c187f0302e39b09733970c49c53687",
       "url": "c7/b6/d385c5624d82e47845d370b74051f95c0942e8a149a83aa496f49e78470c/jsm_user_services-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "6bd80331ca927ce29a53793cc777dadda920df84969de3f152b1992e6b2aeb28",
+      "url": "92/91/04506e980a543d517a1e3ea3f46399bf0dd65f0e00899c672109d7143eaa/jsm_user_services-0.7.0.tar.gz"
     }
   },
   "jsonapp-package": {
@@ -14904,6 +14924,10 @@
       "sha256": "efe9b2e7eee92490605b3e7c13f85bf32ea50a0ccf62f9a62dec81e981ba749b",
       "url": "2c/c9/1f961ddec88b93dc1b258b8bc472f0841acbeea03e4f5f02e03bb0415751/mypy-boto3-compute-optimizer-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "7b72a46a306cef4ce62d58df856cf90db028bb60aba28687a8b99ba877099a4e",
+      "url": "81/c9/0dbf0ea5c4c39c19c911fbcf83abfb608d5468d6f9e8f422bb2534a30ea3/mypy-boto3-compute-optimizer-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "4364d4fe1c354206fb708faea96a49254f5adc7b20793f8fffd926c8fc82b8cb",
       "url": "95/2e/b915a2c0d2db8b002d1d7c02855452e4dce5522f1211380ae23e8745d8d1/mypy-boto3-compute-optimizer-1.12.5.0.tar.gz"
@@ -15414,6 +15438,10 @@
       "sha256": "c5591a8e1f2f4b0f2dc528ef7a572f03f757ce5371efdb33572befd183e84082",
       "url": "99/f6/bbd75c27f16fda18502c7ad1f12e53f85c44aa5253c64c1a743879320168/mypy-boto3-medialive-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "3c56c1841a974ff794f3900c7a2d595a60c8fc2dae5eb9f50ec052480075b352",
+      "url": "4d/3b/78384129a9784dedf9899ff685af3efb0bbd652758e06200f307e326d8dc/mypy-boto3-medialive-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "bb4160a7bb9d1da639a04d710279a7e5ddd56238ba8dbe7331b49d5ba54df070",
       "url": "9a/4b/d9cca5cf65d89cf9b78a6e65afc9ec471bb7a4a5b0d349971e31d1027252/mypy-boto3-medialive-1.12.5.0.tar.gz"
@@ -15923,6 +15951,10 @@
     "1.12.43.0": {
       "sha256": "f32bf216da9b66e163934853bd6cce5d330bb4866aac20aeb0ac63964ed3f6bd",
       "url": "56/89/045fec5e8f652d4308f00826b8613c47106f1799b6e7de608e476e665433/mypy-boto3-robomaker-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "e373cb52447ee45d350399090929b3737208dd5adc214fdbe98cfef731c0baf1",
+      "url": "f4/81/572a24e3e52717a5a5c5e192bf44d714ea55dd61b3012a91762b7b8d40ce/mypy-boto3-robomaker-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "1451cffee640f1703b94ccb25a61d154270b238dfacd16da03fb5836bc8d94da",
@@ -18129,6 +18161,10 @@
     "0.2.9": {
       "sha256": "f7e63141949a531965db1863c31711f30e2cd6063d850f6a4282c1c2e0c424ea",
       "url": "ce/87/b91584e422cfc252ef922388b0ddec660802d7f7ae271f1b05a8c95ca04e/pen-py-0.2.9.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "936b18c3bd5c8aa632d1dd567c5f249a1fb6210a3a07874f2e56ee5f71c2e70c",
+      "url": "e2/99/f499118699bb9be12bc0c51086cc6234c4cca849f7594e4392dde5610d2c/pen-py-0.3.0.tar.gz"
     }
   },
   "perch": {
@@ -24225,6 +24261,12 @@
     "1.1.0": {
       "sha256": "a9b0e8f4a3cec082b017b7a5a9d6615c8104a1b20705cc86885c26d71cc3e14d",
       "url": "4d/6e/7e0043303a3444e1f2c5b9dd277006c972889b43a91c4c0ab413b3f16862/testkey123-1.1.0.tar.gz"
+    }
+  },
+  "tfpy": {
+    "0.1.0": {
+      "sha256": "b09f719dda28ba6c2695f1385f8c368f17534403e81bda258c350342677edd0d",
+      "url": "a1/f2/187b68d835317fc39c8466ac7684d94715d16ba8a70e4d32e09edd939673/tfpy-0.1.0.tar.gz"
     }
   },
   "thermometer": {

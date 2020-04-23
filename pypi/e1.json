@@ -5761,6 +5761,20 @@
       "url": "60/53/524835a15c726bd35300c8bfb366038b94f3ef9bc2836a14f22d6d0a153a/botsociety-client-1.1.0.tar.gz"
     }
   },
+  "boursika-backend-lib": {
+    "0.0.1": {
+      "sha256": "028b1245575122d9f9866adfc8ed6f1b05812226b625a3acbd65a379db108f0a",
+      "url": "a2/39/96bcd7955929ec1f653e7b676d1c942cf35116f521bd8d1afa7b4a9201e3/boursika-backend-lib-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "cded3e8706966e2cdae50e58e506d51a565b69ccd8738ed666c386c0a0facd40",
+      "url": "e3/24/37c45190ff5b654c42e7c5150c5be8f3214f3b89aa637b97beccd74d7153/boursika-backend-lib-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "ad1314e03b08b532cc8b482ce527a35021266b6e691b20c42c60c6aa908bec2d",
+      "url": "bc/01/8f83e8eac376b2fbd208b6bfb6c79ec0d79cc7dd867f9aa249b2dfae5264/boursika-backend-lib-0.0.3.tar.gz"
+    }
+  },
   "bpdiag": {
     "0.1": {
       "sha256": "8d7bdf9c7167f72df15b8c22994701fee6920f03ad0f47bea41e5c1fb8260816",
@@ -9059,6 +9073,10 @@
     "0.1": {
       "sha256": "9b755fb6ee1924076ab701d1837b59dae0535cf7258598759995228e4c9b17f9",
       "url": "b4/c0/ee53d09d741a5f7ec910c9ca8f923d558c8853358824b897f2dd90b3303e/DXC-Industrialized-AI-Starter-0.1.tar.gz"
+    },
+    "1.0": {
+      "sha256": "42c933207149b672ad58bad070cdb5073e18d4b6539098ce885f96058a814dcc",
+      "url": "ef/b1/d174548ef805997a42cce8ecadf68dfacd8ce01c3a3038dcb0dd8c63a4a3/DXC-Industrialized-AI-Starter-1.0.tar.gz"
     }
   },
   "dyspatch-python": {
@@ -11879,6 +11897,14 @@
     "0.3.3": {
       "sha256": "8de0ee61133cf8c425d9ecae17947c220c863dc08260cc694e2671d1b4ad0607",
       "url": "b7/9e/3ea2f8b13e35a45928b05d43b2139cab36b44fefa317667dd43c51b9b311/initgitdoc-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "427870587f4987cb775de3595d523d392da2399bf024df6b01a024608210e522",
+      "url": "4b/99/1612c346febf2b2f61c34390bb718f092091886d0d8d79b9364317e65389/initgitdoc-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "9743a31fd05d1f0696a63be91b0118ac38edb2fdf550b433e50cefd907276d5f",
+      "url": "78/80/9d2312a2a1f2b80d6a6a34b779a559a5e76d8c897d4581e934113b25ead6/initgitdoc-0.3.5.tar.gz"
     }
   },
   "instadb": {
@@ -23215,6 +23241,10 @@
     "0.0.15": {
       "sha256": "c650cd6891bb32546eee64486a2c91ca6262f95f9f61b9e69c045f4f9e99992b",
       "url": "13/ca/fb1489090916cdfc174a9240a96561881a2fffd3e2db292428dfa0c6b4ce/Vega%20API%20client-0.0.15.tar.gz"
+    },
+    "0.0.16": {
+      "sha256": "e44599a983e18b534f3169c96d3bd785cf5cef9e913b04b32c51d97dd25934e5",
+      "url": "02/ad/7fabcbced0584b6bc17ee2c492677108a61c964dc255231c2c88833724df/Vega%20API%20client-0.0.16.tar.gz"
     },
     "0.0.5": {
       "sha256": "6c7e4050fb9a96ce4a6f629b04c49066628e3de6056a0ac47b83d79469fb3515",

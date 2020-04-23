@@ -895,6 +895,10 @@
     "0.4": {
       "sha256": "63db5f25a0c939cf9413d01b2197f5283ccf5fccf6129fd81210feb9fd95e2b5",
       "url": "e4/31/cdbb1b661b7111ed66a11d93991587c3971f13a26133ced3e308e4a292a3/argparse_logging-0.4.tar.gz"
+    },
+    "1.0": {
+      "sha256": "d9cb90fe8071f2cef15efc5f4e6c72bfd1c7cee116614076e8d9add736bd237b",
+      "url": "36/83/f9fd629de850b231a5afdaff5bc258cedf42ed089533088fbe45ddac6c34/argparse_logging-1.0.tar.gz"
     }
   },
   "armmwave": {
@@ -1611,6 +1615,10 @@
     "1.34.0": {
       "sha256": "1452e8b3caed76f4b482249466644dc1ae866449bc85f92bc1973a12b8d298c5",
       "url": "4e/e8/325b462ceeb15f55f5ac9d22ab79ce3adceea80730d94af14c64eadc1c8c/aws-cdk.aws-s3-deployment-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "0275dc10237ae1bcf9c5f731337dab1c6ab511ac8f9ac2028f63d1a87d27be83",
+      "url": "6f/57/25e41921bae24f43117f844ad1073a468aad47b84d9bc8961115bc6a7fa3/aws-cdk.aws-s3-deployment-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "0810b36869006610c344a9baad0c6169d5e27c018e16185b469bb348703e0004",
@@ -10223,6 +10231,14 @@
     "1.0.1": {
       "sha256": "6546fcea340b25c287537edf7a723cd7f89ce856b9c0fc7b596ee63c29138156",
       "url": "99/f4/e632805b7d29d5924531138d13fb29e241288fee95f7b4dab1922c5c0b90/gluettalax-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "fd6d498a1542268db3325358a50daf819da21b500e7be1ce8abeb21e6071cf91",
+      "url": "20/b5/5cdbd2f0021e73702c2426f29a7813687848eabd792fcdbd49effec7a0cd/gluettalax-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "1f705d88ccc71e710cba6d758514761bb378ac73d4e965b9d05de2a1a38d8e1c",
+      "url": "2a/47/f46428e8a8f623febe880e9b05a60ccb394aacd1e03b0c93c991a2d8aa45/gluettalax-1.0.3.tar.gz"
     }
   },
   "gnocis": {
@@ -12887,6 +12903,10 @@
     "0.4.5": {
       "sha256": "7f6d4f3bb49ac00f1047750cd2aaa1aa9c6d097abe98aa72cde519898ee356ea",
       "url": "b9/23/7c34b2d31ad66b8ff1ace19f710a1dd8020a343e07cb17bb281739f2700e/marlowe_ui-0.4.5.zip"
+    },
+    "0.4.7": {
+      "sha256": "456571e4a9bdd0f518d3c5246dcc9da996e607e9a9849b5733ab14d82fa86659",
+      "url": "e8/89/93cff4338976ae616d25bd5d6b3b18dfa17c89ab324160edb5d102d7ab7e/marlowe_ui-0.4.7.tar.gz"
     }
   },
   "maryjane": {
@@ -19473,6 +19493,14 @@
     "0.3": {
       "sha256": "b090b97d53c0cc6634525805dd14f9065ce44c5b603f2ed88de159b2d4e6ba29",
       "url": "90/3a/2aa0cc7a952c408bb6e1352b32b3e576a0e3b5c07260cdcca7e7786bee3a/rightmove_webscraper-0.3.tar.gz"
+    },
+    "1.0": {
+      "sha256": "951be876c5c26c5324877970c65034c6daa3f3298fae3509275979fa07a2fef9",
+      "url": "59/33/724e8457fc6a2d2f1af8cd669586bbaf4ae79513ebfa705e00442c67e6eb/rightmove_webscraper-1.0.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "6ba0530887366beb8d48382c1cb78653bbb63192de6af124c4a239319c9c33d7",
+      "url": "cb/3d/47fd1bc44744dfe793c732433473fc84b150355405f62391a12ec2345941/rightmove_webscraper-1.0.2.tar.gz"
     }
   },
   "rlgarage-tf": {
@@ -19765,6 +19793,10 @@
     "0.9.7": {
       "sha256": "8619b204d567a9099dca1061c9fa56d5797572584ff99c54c2e8cbd5805d2a79",
       "url": "5a/5c/2e4c996d1da0d6c16e39a2a065b047ac3b88d66c77519369681d2854f294/rowgenerators-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "6bc5d91a9d665dfa7fb91b53a4cfaeb719d9d0fb915816a95481f1a3f3f0a8a9",
+      "url": "31/14/8b06090092ffce30ed3f990cf902fba9119292d241788e3f0eff4021dac1/rowgenerators-0.9.8.tar.gz"
     }
   },
   "rpi-metar": {
@@ -22201,6 +22233,10 @@
     "1.0.6": {
       "sha256": "79eab5e8e89d4a376cdc2a7e21eabc12a21363bf8a23e9fde9990530fdf8a56d",
       "url": "e6/66/c4db5682b8c133d04af860af1c68067d889d93b9fa3587ab677b62b2dc6e/tfmake-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "6d6ab51f7089552053412ebd568896fb13f1308421ee902b37933f661c191867",
+      "url": "5a/ee/b2560a13e814a2cd64353ae12856747d9998f6cf7eb6e8e1367913a5c1cd/tfmake-1.0.7.tar.gz"
     }
   },
   "tgbotapi": {

@@ -4348,6 +4348,10 @@
       "sha256": "f5bc53025ece68040dabff2762c669a5dd8cd7fef27c69d1acbbc86d7fb9c08b",
       "url": "54/a2/261b788ebe9419f8ded4a43c678912485a63b4acfa246dc85f6e68105302/awscli-1.18.43.tar.gz"
     },
+    "1.18.44": {
+      "sha256": "2205b5c150afb69e04a6b6af2bca1ec014c84ef36e9a12de144182790f988033",
+      "url": "95/2b/0bdf432479239e69a7dc437fa81927a6a6c86a4cdb6447e5adffc56254bd/awscli-1.18.44.tar.gz"
+    },
     "1.18.5": {
       "sha256": "62dffd77132afb6b74e22668199f9656781a9178991156edd1997a811463d91e",
       "url": "bd/3f/beeb6b65affc744ae81db784a50a5e5a982e99e8dabf010250086a305d18/awscli-1.18.5.tar.gz"
@@ -20510,18 +20514,6 @@
     }
   },
   "pytigon": {
-    "0.93": {
-      "sha256": "2b4ef27b6f740a19863a720cbc3b80a682bab019d1e9959ea61da1f2a8a9143d",
-      "url": "f6/c9/1787dffefe5a3932116fa1a0b8e3a2df028c2bc9931d27e5862b6b504151/pytigon-0.93.tar.gz"
-    },
-    "0.94": {
-      "sha256": "fc8bf6b4c2e60720dd513a96e1ded26ef72ac446ec725171f82b5223a9017a75",
-      "url": "0d/84/b81b3b9451ff49b906160aa9b759eefe0ae8b78ba9878bb0ba010c4ec126/pytigon-0.94.tar.gz"
-    },
-    "0.96": {
-      "sha256": "22af2cb31dfe675cb4500b9f2816023a37e96f5935fee9d2fd0e1022cc0090aa",
-      "url": "ef/9c/67754ee2afdc7fff5f06dec27813af3454756385370652f6236359e2d1b2/pytigon-0.96.tar.gz"
-    },
     "0.97": {
       "sha256": "ab3f2fedca26832e48e4889eb1caab2a3898ef5a91944d58cd2aff7bc2e679fe",
       "url": "37/c1/ae4f23a51494fc5cc1c3fe319a79401c4c0fe2c453a8f28a3f83fcef3bbc/pytigon-0.97.tar.gz"
@@ -20529,6 +20521,10 @@
     "0.98": {
       "sha256": "e0271a056a2cc895626e2fef4a4e11a58d7b273507261c1ad894f129ef2d65c1",
       "url": "16/dc/bad2e0f573c1838ba11cf9bb789359132246c506f79337fe7475fe4671bc/pytigon-0.98.tar.gz"
+    },
+    "0.99": {
+      "sha256": "c544546448e8df0d15338cb921a5be5c6bab5dfe89784f0ffdaa4c0f191a6566",
+      "url": "8d/5e/ddbc2e4f489edeff54003384cf3d907f49785a1583a22ea335f7a9aae301/pytigon-0.99.tar.gz"
     }
   },
   "pywarface": {
@@ -24257,6 +24253,12 @@
       "url": "d5/6c/9e9eedbf9f9b5725aa0fbca2ac38863f10b186b871bf5ecf93f4ad65116a/twitter-banner-switcher-0.1.0.tar.gz"
     }
   },
+  "txppb": {
+    "0.1": {
+      "sha256": "f085346ce36a36a064eb2ca6294e7ba9d83960e8040b10329dee36eee447a532",
+      "url": "ba/57/9caa6d13cde712f3eb88aed1ba720baa3c57cd08db94e9381276df8aac73/txppb-0.1.tar.gz"
+    }
+  },
   "txspinneret": {
     "0.0.1": {
       "sha256": "a0b6e729fcf37eba1c0dd8e1d2ca10775e3a72ed598d2defe5d2d2118fb4e8e5",
@@ -25213,6 +25215,16 @@
       "url": "3a/1a/aab259256be27a1768de7e9f2f460006f1f0980d9e0d35b7c42d251d5b6a/waldur-jira-0.8.3.tar.gz"
     }
   },
+  "wandbox-api": {
+    "0.9.0": {
+      "sha256": "a5564197cf87c2be8b4e8f9d408d9e74f3d95f36ed50d3d1a4678fc49bd3fd66",
+      "url": "37/3f/15672a6756c04c11bc483dbe70483c0f3b4751980b9a9cc2968d57fad671/wandbox-api-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "14519903e936abca80577f5fd5f9bcdc679e1382d37cc139a2854ae6982c4b7a",
+      "url": "d0/19/d8e2e48283bc432d35b56399ff45d2b3583d63b2b54144e56cb4a30218de/wandbox-api-0.9.1.tar.gz"
+    }
+  },
   "waporapi": {
     "0.0.1": {
       "sha256": "28ddfdca6ae10aba1383b1ecc51f9813cf52bc2ea6e13a4b7364669def36606b",
@@ -25979,6 +25991,10 @@
     "2.1.3": {
       "sha256": "e94c23f993b38d4622803f9d513d170139d118b7588d9bce62a8bdafe35ecb12",
       "url": "95/7f/ea15e020d94623ea8ae8cd1dd5f36f3d7e0ebf63ed8ca1040d1149d91663/youtube2zim-2.1.3.tar.gz"
+    },
+    "2.1.4": {
+      "sha256": "9251e73b844422b835f4f872cf104df2a36c484399d374851428e399809aef6c",
+      "url": "5c/ef/7421e13c0d7f285cbcc2e24fafa429776c49873938c59e253161eb0281a4/youtube2zim-2.1.4.tar.gz"
     }
   },
   "za-parliament-scrapers": {

@@ -943,6 +943,12 @@
       "url": "c1/9f/31261f54af7debdb012a8d6a99454fec1dfbd9e946988fd08a9e329ca2b4/amqpclient-0.1.0.tar.gz"
     }
   },
+  "ananke-causal": {
+    "0.1": {
+      "sha256": "26eb75b61a5afd456da35af3d23cada05ce338c067cf22fa6e3f6e999ee608dc",
+      "url": "d4/a6/51b2d35b7d33dee2a01221f963646370c335f733332f1d3029ef8ece70cb/ananke-causal-0.1.tar.gz"
+    }
+  },
   "annict": {
     "0.5.0": {
       "sha256": "2c4ad869ef04110146fbdef14d90703e8b86eb6824b0fb7de44cb727249c2f95",
@@ -6046,6 +6052,10 @@
       "sha256": "4bdaa80b9484836bb9f96b068825e9dac2fd8539a23a1e95b2b05f2c1827e3ac",
       "url": "49/e6/02262d8b6df635ce1dab9020abe54105be2c6b9e2feb0c04bf158706de87/dagster-aws-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "d4101956476a6601dd22e7ec587b8ac1d03251a2045171c718e1589c7b191f3b",
+      "url": "c9/61/acdb6f65c2417772b2d7891de2ac64b37b3945f34876811cb04ea43d6983/dagster-aws-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "95d670b74578cc67d7ab8d8387ed9ea412731b14cc456bf81069e82c8b3f107f",
       "url": "05/32/c5c86cb538a910802a15c1287f73dba7df26b7aea176b10497870ce575e5/dagster-aws-nightly-2020.4.4.tar.gz"
@@ -6581,6 +6591,10 @@
     "0.5.2": {
       "sha256": "a4436258a02fd07270f58dfdb4444875ad49296feab0f95ee808460844283749",
       "url": "0f/5e/121a7c21662c2a06762fc302cabd4289749da3599d5832a3bba02a59aafb/django-addendum-0.5.2.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "40dc89de2ee78e6895b78e11c76e1a8d5d68b9d8412bd2d68efe40b9e92a93be",
+      "url": "99/f0/44fa3fdbb9275aab8fa4933bab571063e47e14607dd95496cf495481d46d/django-addendum-0.6.0.tar.gz"
     }
   },
   "django-auth": {
@@ -8407,6 +8421,10 @@
     "1.1.0": {
       "sha256": "783c0aea25671e14df634838660e53023d6559c66697c9d8d8cfa771842e9ff2",
       "url": "14/7e/bd1c3134c781b921571e8085df5146e65175f896ab27f28427d985763386/djangocms-history-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "364b114c53ce77652d2b39bebebf596eedb9a81cf18ae0ab7bbf75caf6c194dc",
+      "url": "30/7b/7691811d6f509bb72dc6ff81b2ff07dc2bc7230cd2ae6b7673ead15629fa/djangocms-history-1.2.0.tar.gz"
     }
   },
   "djangocms-pai-bootstrap3": {
@@ -16404,6 +16422,10 @@
       "sha256": "858e04b650747a09783313600f568f6461fd86c40af23298f676e9931df8bbe9",
       "url": "5f/7f/91fcca21c475c45810052e7b0c5a312076e323a3f34da2fa0d6043b638a5/mypy-boto3-mediastore-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "94dc7c627ac928cb83825a66ce22d6c19c7e60ac42883bfd45bbb599603a8d41",
+      "url": "75/d0/b66a801a91e795883b1ca886a2b08a49436522998bd4e2844358d34ecc2f/mypy-boto3-mediastore-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "e9c1dc51a372c877959d720bf13f59ad1d3fecf637b8059182979215ffb83101",
       "url": "b8/6e/8e463ac2a1373fc99dc8e91f5611a206973654815a196ad324617a15f1de/mypy-boto3-mediastore-1.12.5.0.tar.gz"
@@ -19014,6 +19036,10 @@
       "sha256": "09d2b88627eda684eca09bb3b61c9a5cbdbf7402e838f0278b66d9b667071795",
       "url": "a1/80/d761453184d7a780c3d77b011822cc1fed28c8ff630a02460254c0abb450/pynrfjprog-10.7.0.zip"
     },
+    "10.8.0": {
+      "sha256": "3585de8320903d7f5b23f4ce18859d9ac848d71ba718a54447dc4f61e00c4334",
+      "url": "af/ba/77226358b7302b280732f6646b324f7b0091828489686bf7350c728b18e4/pynrfjprog-10.8.0.zip"
+    },
     "7.5.1": {
       "sha256": "d477a54b7781811d7565432447a6cc6cd22cee48783cd849e1e8a2346e5bc2e8",
       "url": "f0/ca/4e66be9cc935d3440fa4e4a2974ea9119ebfc6e353f882dbc6681a88c20d/pynrfjprog-7.5.1.zip"
@@ -19695,6 +19721,10 @@
     "1.0.4": {
       "sha256": "937a3777c70dea4447265b6c4290348bd46287b93339c5ea5d24e263da9d3832",
       "url": "00/10/2d2df8ee423a33c279cc9e59783cc966557d014e12835301ca260cfda866/pywe-pay-notify-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "60733247b3c37d9d191bd3484f999b2a9764e70752ffdc65133bce19fb767066",
+      "url": "e8/49/0704928fd31302c3f700a22d980f3eaea0db60cdd57bc57bd2abf5941e9d/pywe-pay-notify-1.0.5.tar.gz"
     }
   },
   "pywin": {

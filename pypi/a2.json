@@ -974,6 +974,10 @@
       "sha256": "53676bca054aa7e1ebc6f6c9bfd2db18f0af41149766eac0a831f5de63af73e6",
       "url": "f8/d7/87999dd89dfc2e6814c8e760034919962babf33ec77345fdf8bc95c4aeb4/aws-cdk.aws-opsworks-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "22f4950ffba7f89008839768abc3a96f736a49f0f39de3faa2d883abcf856e8d",
+      "url": "cf/ad/12eb90ae1d39c58ce8214922db50641002b3a7d97bfed4e6ce6bd3533a2f/aws-cdk.aws-opsworks-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "6055b114060200bf1149c48392be5c9d55d4a532948c1a759ad993d8a852f2ec",
       "url": "78/c6/65f2baf8fab887833abfb2f684c7ab2405953bbfdd7ad49dbe824cb6e51f/aws-cdk.aws-opsworks-1.4.0.tar.gz"
@@ -2893,16 +2897,6 @@
     "1.0.4": {
       "sha256": "a54f9ca0d5ce7c07647a393c00fc522fb5e963e4340f231263be675002ac444f",
       "url": "fa/c4/3faedfa58c47205e6aa1c1ce796c2863b423aa6d35fc8cb76b328599ef0f/coursebin-1.0.4.tar.gz"
-    }
-  },
-  "craftsmen": {
-    "0.1.0": {
-      "sha256": "f8cd3f96cf11bb96ce648e97144a2211c959a689f7deda26075fe0d031aa1464",
-      "url": "30/d1/06a0cedcaeae9d206d62a61ffc2f4f8e71e09cd40ef98d269e62e168abdb/craftsmen-0.1.0.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "e5d53cde645a8933cac5b7970b0df6ab7c64111bb4ed52b3a8bb5bf4d06ba713",
-      "url": "c3/84/034ce8c106b6d0b7dbd432faf8438cb66aa18c40a5948176319d9a3d1e42/craftsmen-0.1.2.tar.gz"
     }
   },
   "crawlib": {
@@ -14242,6 +14236,10 @@
       "sha256": "13c0744992a1f57c5019012d4ecdd8c536d849a094defcfe4195c21f11d63a16",
       "url": "65/75/6ddcd374e6a69a1f2cb59bc32f19767ef559984a2da4f94c20d2521a4a91/mypy-boto3-sqs-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "e4c81408417ff1dae7a65c45485e439ae5e531633247a30da8fb4effd86c0fa6",
+      "url": "f9/e2/538171bddee5fe7160473f9cdc3959a505782ab8beb73a009bf019b79cd7/mypy-boto3-sqs-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "5949bbae3aa07f97fc3d0e4637805c8df46a3a37b31e242652798b79573a61e3",
       "url": "8c/23/fa9f02310ed0786e61a6967584bb560cb4f624a24d2bcbd738e0485a4cf1/mypy-boto3-sqs-1.12.5.0.tar.gz"
@@ -19529,6 +19527,20 @@
       "url": "66/e4/53b13ae3b2f6161989394e2aaddc9d62b01ca087dd3cce58c4de1a541e5f/saudiaddress-0.1.4.tar.gz"
     }
   },
+  "schemahq-migra": {
+    "1.0.0": {
+      "sha256": "0a38b93ab4d5a8f134a5b6caa9a59a9014ba12c98b149894c1c241bbd27be0a4",
+      "url": "b3/eb/ddee46a8a3fe7df0841edb38fa416333a1ba8c77797acddef8e4f5b5e2c8/schemahq-migra-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "17d15ae0316d6fa1d3f68a02feea5663b97d686389437671d6cc9831e6617046",
+      "url": "fd/1d/73884747a3c6f97c727c94dfa0e375c7cf4953cbacaf702240021fea209e/schemahq-migra-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "fa79aff6f62e02f8e6e98f45b43182017dcc48fc15115028906d7eda3eb7c371",
+      "url": "ba/7b/f3751ca6a3dccf5556a7d46a39feaa4628498d71442b435f3b1c016247fc/schemahq-migra-1.0.2.tar.gz"
+    }
+  },
   "schoolutils": {
     "0.1.0": {
       "sha256": "c2497d9e5b78a37906dec43ccd02e58f7b7aa695b253b08bdd47b136dfc9fd1d",
@@ -20589,312 +20601,6 @@
     "1.1.0": {
       "sha256": "81585b0912fec5f93c1ee947034263df9e2c9e727b0a94d728f08067065f30a7",
       "url": "b8/28/43f9eb341143cf0b3e117de93fa0ef732c0efda978493bee9704ea6597e0/steam_community_market-1.1.0.tar.gz"
-    }
-  },
-  "steemax": {
-    "0.1.dev0": {
-      "sha256": "7f520c1adf1a1bb6b278ab9431faa59df58e5447a4c8b9674a7744ffd564a64e",
-      "url": "bb/e9/1e92b22e80e37b50c4b451fc9ed79833eca74633a0156b3d717096944216/SteemAX-0.1.dev0.tar.gz"
-    },
-    "0.1.dev1": {
-      "sha256": "18d7c06eb9d1e41358eb316c1637c903394c6bed67c78ace7fadebc3adb3213e",
-      "url": "ab/b5/36368237ac92ee6af6eadc47dcbfd130ccca6c52ea264c0b9b49f7faedcc/SteemAX-0.1.dev1.tar.gz"
-    },
-    "0.1.dev10": {
-      "sha256": "087eeb7b74ff13f5073e9225fe99c970244aea11c186b741c13cb80f0a7f2b94",
-      "url": "b3/32/39a346738474c8c4dae612cef4de3a15630b9fe5906143867c602a93305d/SteemAX-0.1.dev10.tar.gz"
-    },
-    "0.1.dev2": {
-      "sha256": "9ca2c8a0a865ae0a805f759666b512186a54d260485e0f514adaba5ae4115da7",
-      "url": "33/f3/14ca402aa367526269db07983162aaa78dd2579cadf9cb86ddd1fcc7e4f1/SteemAX-0.1.dev2.tar.gz"
-    },
-    "0.1.dev6": {
-      "sha256": "320d1de732f3dea21d7365bc51965024374c7964aa7805dd3a5f1cc22e450384",
-      "url": "ee/a3/5a1f37fa6cbff717f223ace339dc1b6440623da7844900a1e552183b2760/SteemAX-0.1.dev6.tar.gz"
-    },
-    "0.1.dev7": {
-      "sha256": "8ae878ef5ec1de9c545c4c64b5fbed3b8c9ed52546dd90a46730739804dc0acc",
-      "url": "e1/18/64ee84551458b66f0d1ccc79621406df8a88b052f13aaa65ee996f5368bb/SteemAX-0.1.dev7.tar.gz"
-    },
-    "0.1.dev8": {
-      "sha256": "c88c5201b7334079f3fcdf346ba8935a1a61f1ba42103739be4a897e9655d280",
-      "url": "9f/a8/6fcd0006611e8bd5c586ee68f09cbfea34ec637ddc01029ad3de5e218c56/SteemAX-0.1.dev8.tar.gz"
-    },
-    "0.1.dev9": {
-      "sha256": "57c6e3c2af2c39db0521b084890d17d8698b664b813bedac4a5872eb0a7284cc",
-      "url": "82/cf/026d0d4e43425dce9c640971e7dd0c0f3f3a4b01ea531a0586934e2c7acd/SteemAX-0.1.dev9.tar.gz"
-    },
-    "0.2.dev0": {
-      "sha256": "484c42d723fc23e8425f82b73933ca8c447ae8cfb13c97c4ee5329e2acb2e438",
-      "url": "a8/32/4b3ef12b194a8f49d454d867ebb5a5f039cff2b5cbcef544a1ef0ca5dc5c/SteemAX-0.2.dev0.tar.gz"
-    },
-    "0.3": {
-      "sha256": "9c80639b0ef13be3ce6fe6b4cdb437f606cbe3695e02c2a70ba071d07a38d0d6",
-      "url": "5c/96/56e2001e43a53428a97278ec3176e2ceca98203669352085013f892c8dcd/SteemAX-0.3.tar.gz"
-    },
-    "0.3.1": {
-      "sha256": "3ee8646d1e56180f51f42b632fa2f5354b06d2be6a69d8adca65fb4d7244bb50",
-      "url": "5a/e0/16c061db7c02d166d030d4099b91d051b5119e6c9a7adb118c568e239478/SteemAX-0.3.1.tar.gz"
-    },
-    "0.3.2": {
-      "sha256": "90ce04a04ec07d45a8a6f528868694cb8a8a15e3373e38852cd5589c0008f076",
-      "url": "3c/03/49ebf72e3ab01c1fdf3393ddc13825cf147901b7d13b52c0929a40c6ec80/SteemAX-0.3.2.tar.gz"
-    },
-    "0.3.3": {
-      "sha256": "f103cd7d2c26faca081ba4b8bf1972eff0770106ee4529e1ef88387916b4bba2",
-      "url": "90/27/61bdbee3ffb0b090c60b6241fb8abc11a4cbf00f97c98dc19cd578e49e6a/SteemAX-0.3.3.tar.gz"
-    },
-    "0.3.4": {
-      "sha256": "43fb0ebba4786c56d9e0f0befa7eb9949663e5675ed4e89ec8c889326f445ce8",
-      "url": "16/3d/60971277669e032c6c8e3af2e9008b14bcda60c0585ed642b1e37c2e48f5/SteemAX-0.3.4.tar.gz"
-    },
-    "0.3.5": {
-      "sha256": "1f77cc11f5ad62687ff01c4c8525887c13e480cb12fbb40f1e407e58719582c7",
-      "url": "85/57/6e8873b6d47df3a88fde712b2c64472e8594ecf9518e92d0a9fb2b3eac68/SteemAX-0.3.5.tar.gz"
-    },
-    "0.3.7": {
-      "sha256": "0b23f736bc47a828a9ba8d0527ac25229620b454dab11d84f8121bc31524c765",
-      "url": "5d/6e/a0dedfb8dd496b13762c7429d2b0fc1387ab91b9231743bf00db2789fd00/SteemAX-0.3.7.tar.gz"
-    },
-    "0.3.7.1": {
-      "sha256": "512d3706cd77dd162885a9be4edb0bc5b848d485fd0d8bd3104fa4d30dbc1550",
-      "url": "23/c5/4a049fdc5179c151ef88cb685e55c57456b6c8a4f2ca572ec6ce0f94121b/SteemAX-0.3.7.1.tar.gz"
-    },
-    "0.3.7.2": {
-      "sha256": "570fdeba826611133c14243ff2c244cf93f75f35cbe1697b5698d3d00e0b2c5e",
-      "url": "92/4e/57b0f607c42dc17cd6c76656476a3809d9d6b5aa6968294ee326cd774eb0/SteemAX-0.3.7.2.tar.gz"
-    },
-    "0.3.7.3": {
-      "sha256": "1a2a2bbf495a041669df74b45ec25a355845e9ac4ca031c982dd7c5d9e7f5af9",
-      "url": "36/7d/0a250a3570b72bfe897b2971796837cc4f5a4c49244a8278ecb3f9eaf28a/SteemAX-0.3.7.3.tar.gz"
-    },
-    "0.3.7.4": {
-      "sha256": "5a5f740ad4ae150c2a76469df7944172fc06016812c371189180698dce62ad35",
-      "url": "42/ee/52bc9b0748c9be0b5cc3e2f3f98f47d584d1af9599fa4cad7352a9859322/SteemAX-0.3.7.4.tar.gz"
-    },
-    "0.3.7.5": {
-      "sha256": "9ce9fbf242310ec593708d5366be3f299107866a2a40b476a8dd7f505c6e6c4f",
-      "url": "1a/c2/15e3ee30d47c4c13021a189e320371c1a47fb046d352e75fa6a4eda94a66/SteemAX-0.3.7.5.tar.gz"
-    },
-    "0.3.7.6": {
-      "sha256": "6a679be85d42c5579ef4ed414b7102ed3e575bd7ac69693ed82ab265c89e96b2",
-      "url": "45/86/f6f8f577a09df0f0e2de4da81a6497848c0ffe6fc61dcb6352dc386d611e/SteemAX-0.3.7.6.tar.gz"
-    },
-    "0.5": {
-      "sha256": "9ea5210851fd97330db940f2316ee7da1c8d80ee91cf86842c29fbc52057efa4",
-      "url": "56/fe/385c5a31fb267a7520c7a27414f660fb48f98493b3c12ad9d2aa7080f468/SteemAX-0.5.tar.gz"
-    },
-    "0.5.1": {
-      "sha256": "5e90af1a98e58f7a23054e937415963759f7f33a6f6bd64f4f30fe64ce81698a",
-      "url": "7a/1d/51ca61634593b43453ae0d502ff64206eaff8d3dcf58ca5257f0fe1c3c0d/SteemAX-0.5.1.tar.gz"
-    },
-    "0.5.2": {
-      "sha256": "fa05062d004d71971b0142a039c59dfe2be54ad079205eab91c4b98283bd5a25",
-      "url": "1f/b5/bfc9e86e9bc874a126ac5c6d6e0b0b5c41768441afd7b327acfe8a63c521/SteemAX-0.5.2.tar.gz"
-    },
-    "0.5.4": {
-      "sha256": "370f34c3e37ebef50637ea28b54849392051310682522a2c3f0fd7c00fc0f9b5",
-      "url": "a2/03/e6c0c57f70180e4399b2e96cb54db5dbd309e164bc8601bad383d0af3826/SteemAX-0.5.4.tar.gz"
-    },
-    "0.7": {
-      "sha256": "8b030a448d96f2bd29c6f8c7b20e2b00eac460c5e30b55ee7fda2d4466b0e113",
-      "url": "ba/7b/13403687b4425e21c1a3788b244b87a690ea0351e63db2bbbbb4fcd7e9e5/SteemAX-0.7.tar.gz"
-    },
-    "0.7.1": {
-      "sha256": "e11d79a633828ae86fcba1555a63ac6fa50cedde19fe657b85e71990c376904d",
-      "url": "4f/a3/55f1d21f21b7853a58e99a15a8d304de1066434290e03b2c830799cc8611/SteemAX-0.7.1.tar.gz"
-    },
-    "0.7.10": {
-      "sha256": "037a28d51d63387039a99d5b33b120121515a45e9387c48022844491047888d3",
-      "url": "e4/ce/e516fec26ab230223a0ef5064f68e7b8e0bc9d9e5023dcf51bb0a2bb518a/SteemAX-0.7.10.tar.gz"
-    },
-    "0.7.11": {
-      "sha256": "0f22ae1e4d632429f3c7891c9aca7323482666099bf53a94113edc0cfc717495",
-      "url": "09/d3/d2d57c4d14c74b32a5dc3c8c374675bff55cb4b20dee399b686cc73f8ee3/SteemAX-0.7.11.tar.gz"
-    },
-    "0.7.12": {
-      "sha256": "00c5110fe3720b3bcc3f468615c531f381ef5beabde7444df62a6c05887f54cc",
-      "url": "53/a4/50d4eccc94fd261bddd7a9d29ebb15168fa835f37ff8af026977fef9164b/SteemAX-0.7.12.tar.gz"
-    },
-    "0.7.13": {
-      "sha256": "394ab11f57cc8b0f549f954b1f2d364591332ff961c6a6a754a33167fae9c921",
-      "url": "3d/9f/edd684ef524e6af83b1003af2fbd09276f391ae048842108f110b5da2d2c/SteemAX-0.7.13.tar.gz"
-    },
-    "0.7.14": {
-      "sha256": "89881ce5eb9cb74324187635c95583bde0dde8b91387a1c5c51ef97975c994ac",
-      "url": "58/e8/d0a10c07d3bffff6ba7b0a865d9d278d4732ec43657e3ad1ef9491d279e7/SteemAX-0.7.14.tar.gz"
-    },
-    "0.7.15": {
-      "sha256": "266b8b130bcf4c276bdb7abc09eb7e24793365e16ffc43d639d3f6fabb3ea381",
-      "url": "c6/ad/6dc5a2b621d529e7a4bfd8598f18df1625a77a4ffbe44dc6f1cb7407bdc5/SteemAX-0.7.15.tar.gz"
-    },
-    "0.7.2": {
-      "sha256": "9bf511d7ae3ca1e944a807803a90b6706b1d9cb6112d5804194dd221a9fae55d",
-      "url": "c6/4b/90b26f290f24616229e9397cfb9ead6c3de43c7db9d0ed7edd12d7286bf1/SteemAX-0.7.2.tar.gz"
-    },
-    "0.7.3": {
-      "sha256": "73c8c15217ef2bdcc6b3e03afd5002c32a016b4c1dd855ae83a683cf87496d0c",
-      "url": "33/49/4fd8e8705929a5c1fb4ec06e8d595ebbb3b1fd5b7c4b2c76cddffdb4a9f7/SteemAX-0.7.3.tar.gz"
-    },
-    "0.7.4": {
-      "sha256": "330eb5d39f9a80a794fb4a748a3c8b386f3455f9e68b90d316d4238ae0e42018",
-      "url": "cb/04/638ae648cef80d6cd876226501b854d9227c71dfb4064dfb03c3bac3b399/SteemAX-0.7.4.tar.gz"
-    },
-    "0.7.5": {
-      "sha256": "e116bcc08bb5f89cd283e3e9908caf7bc6896d9dbd5110308bc7d903d476cc1c",
-      "url": "51/0d/9e8d37594fa9a459dd95924fc95ea9149bb0de9a0e547dee3522247a6b86/SteemAX-0.7.5.tar.gz"
-    },
-    "0.7.6": {
-      "sha256": "b0dfc99f9d37777827caa8961f544994e43ff65eab8ec7c2eb7664291af6fcc1",
-      "url": "f8/40/25c1b3848c35c4d2fda8301910f69f09b993679eb58cc3a455984fd58dba/SteemAX-0.7.6.tar.gz"
-    },
-    "0.7.7": {
-      "sha256": "47cff07599b2d351ab6e858c809b1f59e2e92a37406eba93af2398e925dc1c5a",
-      "url": "58/2a/b225c9320ae0408f7d56090734f8da095405839216a1a5e6989d8b18915a/SteemAX-0.7.7.tar.gz"
-    },
-    "0.7.8": {
-      "sha256": "45cba7f236fe53210d5b1365d3f5ad0fc51e4191cc62d581501ef68de4a3bda1",
-      "url": "74/bc/509e894f34cf3b00d11d6e0fbc2b830cec86d3240d2c2f9311ab9d2fc30c/SteemAX-0.7.8.tar.gz"
-    },
-    "0.7.9": {
-      "sha256": "95747055a6dd031fe3633a59ffd86ac132346e8cc1a14c402ce2d006ff188c8a",
-      "url": "33/a6/c8f67efa5c21f3479b14d3f1f7c9796d798705a041795a30a9e825136173/SteemAX-0.7.9.tar.gz"
-    },
-    "0.8": {
-      "sha256": "281013457914b564793e8c1f4bb127770cd0acbb87224e3f925b890411821b13",
-      "url": "f8/2d/1a795a21e5fc981057db49f691b9b596d1fd5b6ac23db398aff21aabcb51/SteemAX-0.8.tar.gz"
-    },
-    "1.0": {
-      "sha256": "8aab11c632fedd746aad4e2bd417199c385bf37e65eb15539421ffaa5f063cd2",
-      "url": "3d/5a/4bf08fbe9b87b0faab30a4d438fd8df461e9c2987b7f38dd4e62fd0fd4f1/SteemAX-1.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "bdbaf5445edcbcfd27a4a8dd2da109999a660224bd352d2d28d1d02ba525927b",
-      "url": "fa/3c/ebf259fd2d226cfa5409b27c9496e706ef7d19f669570b0aa6c7aa86e2d3/SteemAX-1.0.1.tar.gz"
-    },
-    "1.0.10": {
-      "sha256": "a5942bc872c66c671698fc267d6baf5db645e0077cdacf25da256e9795fcb368",
-      "url": "08/98/485b1e8086d892f7a5331d37cd2bd9b7324ed69343abad7123b88456c96e/SteemAX-1.0.10.tar.gz"
-    },
-    "1.0.11": {
-      "sha256": "ef7db8b1f96697bfeca566a531ccd4cb59de1c7ab451a4adbc398a9b6a75c449",
-      "url": "c7/8e/84183be798a45fa8772ac0f9fd3fe1ad2ba090c180df6c42ff3ad3958aa7/SteemAX-1.0.11.tar.gz"
-    },
-    "1.0.12": {
-      "sha256": "c6b38003e4361228e19f9525cf514a294abab6f045b772a4f7284d2e2c5cc9b8",
-      "url": "d2/0b/4d9d24ef377916bff16328eed52cbfe968d7fb8c7d032df37f2f9eaab907/SteemAX-1.0.12.tar.gz"
-    },
-    "1.0.2": {
-      "sha256": "ea6a00708ca00e42e3f75d972f86840102f37d2aa867bf7a81778f4849995d4c",
-      "url": "38/01/9748391c8246f4f3cf678642215cd798ef666476f13b6a3ca46166199117/SteemAX-1.0.2.tar.gz"
-    },
-    "1.0.3": {
-      "sha256": "db10a8264521d67f448725540f34bb00365448c49456a80f778bd8231468fb0a",
-      "url": "33/57/d341bafe37ca1684a996958e3c66f7d9a962e0619f09eceac80d8c6c5e58/SteemAX-1.0.3.tar.gz"
-    },
-    "1.0.4": {
-      "sha256": "b175fd357c59cbd6e12662e8631aa06dbaa0369ca2356b6bdceed7451b7356dd",
-      "url": "8b/39/bddf961423e56335a390d457f2fac3871be7b31c3b0cb8e139c1bad9b4a3/SteemAX-1.0.4.tar.gz"
-    },
-    "1.0.5": {
-      "sha256": "25c30a2dd8cf29f4f7957ab968331667c55208a00bd1ac9b2e7b5a82a652b8eb",
-      "url": "e6/20/4160bbad888ba9e6c51c24bac02bd15b440a2dea990746a36e5f56d7efbe/SteemAX-1.0.5.tar.gz"
-    },
-    "1.0.6": {
-      "sha256": "3f6fd73ec7be976489c80be3635564d5b3eb13a940c1ed7441c9df5f17ae670d",
-      "url": "95/b2/9747b1cc4169a554ba3fbf3a717ddb62104a5ce747a2d5909f4c79a5643f/SteemAX-1.0.6.tar.gz"
-    },
-    "1.0.7": {
-      "sha256": "016bdde7bb38207629fb831fa7314402a109b24ab32480aec1134bf882c74fa7",
-      "url": "c8/1e/dc2dd71c780770567d90d71ea83228597eb1034ef1f69af1668f99f02a52/SteemAX-1.0.7.tar.gz"
-    },
-    "1.0.8": {
-      "sha256": "230a55f17c083f7b46d7be042bd06015c97571c0db7311bab4bf8713bb2997cd",
-      "url": "46/a0/177a11cbb5b0391ed288d70ca0c210357d39f915e3389aefdd544bc83650/SteemAX-1.0.8.tar.gz"
-    },
-    "1.1": {
-      "sha256": "283023418519f567799c4ac75d1a991f30eaf9e232af1aca8da52872d599ab51",
-      "url": "07/5a/9af5807025d25695ef6ff42f0a31e46cf1ec6dec0ffa005cb2679a3c59da/SteemAX-1.1.tar.gz"
-    },
-    "1.1.1": {
-      "sha256": "6556888165b5eeceb93638f9caaa32c10ba4c76cbe2047ba19654129a696b9ee",
-      "url": "c7/11/2a8cb21af3c84ced57b0c81311f8529538f35a1a3bb9bf9eadabfe128ad8/SteemAX-1.1.1.tar.gz"
-    },
-    "1.1.3": {
-      "sha256": "eea838cde964c5cfd100b28c7dee3ac808c638a07ef71de19dfe10e16d3a055d",
-      "url": "77/08/9dab72d51d9920f5996261c7f26a2a3db14a01599abd089669e5fadf97c3/SteemAX-1.1.3.tar.gz"
-    },
-    "1.1.5": {
-      "sha256": "69d57881c3f9c1a340523629301851cba28d54f4dc5fc1b61a4551518f93b598",
-      "url": "42/0e/2674afc0348b03443b3cf705c5be6397ad6d96c9ab345e34f49e3dd62453/SteemAX-1.1.5.tar.gz"
-    },
-    "1.1.6": {
-      "sha256": "77f451e77fc990e6958b072242f11c2df64ba433c8fda27929bd3e23f9c29fef",
-      "url": "de/71/c6c3e84016301c3382e8369304db77fde98c6fb00bae15ce6b16c90a1fc6/SteemAX-1.1.6.tar.gz"
-    },
-    "1.2": {
-      "sha256": "c3ec0c2cde61c751fa63b2ed1521e65ed3ce1ca5060a7234f6886b46f5853b07",
-      "url": "34/82/5d6e7a9f6b32b52875ee6ac956b5807f09f9b7d1afab9e6979d0f842092f/SteemAX-1.2.tar.gz"
-    },
-    "1.2.1": {
-      "sha256": "1d38ab4e019cf4226979c02d08f091f94863662d627d8c0c4cf8d86ebe51f536",
-      "url": "12/77/b98604c768252cae1af56047d878e573cc659f7886006624f9b6b64e0060/SteemAX-1.2.1.tar.gz"
-    },
-    "1.2.2": {
-      "sha256": "0cba452c101a281cb9168151a79139e6184e251b2523c0b952fcb3d962ead6bf",
-      "url": "1b/58/9b7008603ade281e36a7e8d59e0705874edcfb36b9165d42736115ef1fea/SteemAX-1.2.2.tar.gz"
-    },
-    "1.3": {
-      "sha256": "fefb5237686702ea92bbdfbc180b717892b69c081bbe5ccd0203c284fc443c8d",
-      "url": "b9/4c/34757798fc3cb2e8f7d4f0f8d7c2cad5ab62ee50f2f6530c309f8fc8d36f/SteemAX-1.3.tar.gz"
-    },
-    "1.3.1": {
-      "sha256": "6371ca85a892fd1a44861f3f970933635c6249729488af3d8d482934493431f8",
-      "url": "38/ac/5aa305c1b85e92f66d824fc0d0bd6e61ecd181c3290ad64bdc47d5091c4b/SteemAX-1.3.1.tar.gz"
-    },
-    "1.3.2": {
-      "sha256": "9532872d5816fea7777f6f048c05498dea3b61c1a277e2b0f053f33354d0311f",
-      "url": "30/91/68b2aa3f0c5a02cffae637a924a045b86e30dbba4f442e03021fe61876f8/SteemAX-1.3.2.tar.gz"
-    },
-    "1.3.3": {
-      "sha256": "16a9fe7d115838cd27363472fe6e7bbc404aa0a5092962a03ea3b7e1dc141293",
-      "url": "c5/6b/07f095d88a7a264f8ab6cf08bcfef99bf5ce8d83e37341b0c2ed2071e026/SteemAX-1.3.3.tar.gz"
-    },
-    "1.3.4": {
-      "sha256": "e609f9a9ff60a79e8005dc1abf2307c4036cae819cd4d24652af1eb6a721b1c1",
-      "url": "f3/7b/11d7760a87fdbac5cc8b85e8cc435022e08733766d4abf22148d5f4856fa/SteemAX-1.3.4.tar.gz"
-    },
-    "1.3.5": {
-      "sha256": "563898039a40ff7a19afd846eed67143ada63f9638d041db07395261d53445ac",
-      "url": "5e/1f/8861d41cad03705e39a161cd8167703f003060f4cb76467312815c20c9ce/SteemAX-1.3.5.tar.gz"
-    },
-    "1.4.1": {
-      "sha256": "749c0cd1f6c68044c19fc0f9711b0393dd2ba5432bb80561eb7ebd49d1db1012",
-      "url": "45/7e/9997508097d72a475dbc73a79428b003c1a9b9ad4eb65ee2648219bc38d1/SteemAX-1.4.1.tar.gz"
-    },
-    "1.4.2": {
-      "sha256": "412dc731de9cb757729fa22fb953ab87f7b599a14fa9c96c60046750b98ac098",
-      "url": "b2/46/d3faaca1cbc71825514a5a1c80df0328ac23d60c535cba7789cdcc5c5fe0/SteemAX-1.4.2.tar.gz"
-    },
-    "1.5": {
-      "sha256": "2115ed5d4e6b1dd0dd49d93537b5153bb58ef0e3557e5bfa06b1a7ddf6d45002",
-      "url": "80/f7/875ff71571592c4c1e5145d1d4976cd79a5106b6b62e7afa9c047689b109/SteemAX-1.5.tar.gz"
-    },
-    "1.5.1": {
-      "sha256": "c78c410683440472055dd5d22393c0db2692d29606f28b774d8fa9f8a6de4475",
-      "url": "ca/2b/8565e7e707718c5f9eaff0eb2fd1f5e5b0a81e5de07b57c9d2c3e90cff5a/SteemAX-1.5.1.tar.gz"
-    },
-    "1.5.2": {
-      "sha256": "e93de77a48593427f79082e29c7e4e40feddff97fdaea36e195750f1e1ecaaf0",
-      "url": "8d/d0/91743c07e16ec6abd87ffd209884834e6d04e8f1c184dcfc55e70551ce47/SteemAX-1.5.2.tar.gz"
-    },
-    "1.5.3": {
-      "sha256": "1081136c7b1469c0dbdff9b9f1548ea00c9a7686e41b0a6632dcdd3960d086a8",
-      "url": "45/75/5d2098b121dbf5d71479a6bf6fa111d8945698953014c9840422ed9d92db/SteemAX-1.5.3.tar.gz"
-    },
-    "1.5.4": {
-      "sha256": "fab9d14630b2c64b179f096d389057f1977e32caa6d9abaffda45a04a57ce6ff",
-      "url": "39/d7/c270516448784a6d3468746cd597cf819f4806e1e5ddefc5316999e76bc7/SteemAX-1.5.4.tar.gz"
     }
   },
   "steemconnect-auth": {
@@ -22912,6 +22618,10 @@
       "sha256": "22ebea400b667498c6d96b847331950c8c71d1fb66a0aa06c563dc7e2f9de740",
       "url": "89/7d/10a56943490ba9b6ea473c8ddfe41f9fa09c644a6d2793bdfa73262d74b2/torchkge-0.15.3.tar.gz"
     },
+    "0.15.4": {
+      "sha256": "91f0beb594762f41371f94e3e7758645b36fa1f2cd172e08fde07ff2dd4525be",
+      "url": "cd/32/d7de638bed5fd5dcbee05dd8e6faab5985ca48054be750d03a73582ad0c5/torchkge-0.15.4.tar.gz"
+    },
     "0.2.0": {
       "sha256": "880360a28959f4645e948f66453ff86cb12324716a1073935259dc76ec856def",
       "url": "7f/d2/78c93a3d1fffb294cb9cbfb0f763225dcab5644d8ba26f5489275292b486/torchkge-0.2.0.tar.gz"
@@ -23043,6 +22753,10 @@
     "0.1.8": {
       "sha256": "ea3c72d4d7d65bd6b7c566119ad33c364dca810f12ebd62c89559288c7b6be4c",
       "url": "d1/09/a5d6ee023ff6ede934c40690f111495279cff5ecb80caeb6a0b1683d721d/trakt-tools-0.1.8.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "f8fe8e7c2309c254c683ab5779f67a82c176eb8dfcc3b3919232d40a13993b7b",
+      "url": "50/61/4083782fe8e56deebf9a2da8466b7238561d72e4679aaad9ebd0b565e62c/trakt-tools-0.2.1.tar.gz"
     }
   },
   "tree-distance": {
@@ -23505,6 +23219,16 @@
     "0.4dev": {
       "sha256": "9d04bd84bcb1e923f97b755879122f425a92418ff431c85e49de81972bcb7fb4",
       "url": "4e/53/a1f30b8d19e3b1b0ffc8722954124d6406b9f370e27820f57db0fa10b08e/urlshortener-cli-0.4dev.tar.gz"
+    }
+  },
+  "usb-quartermaster-client": {
+    "0.1.0": {
+      "sha256": "dc12bd9e81f47a37a6cb0195750dabab6adc6ed697fe60a2ad239594d1dcf904",
+      "url": "92/40/48991938f30df5edb1514def1e3cd7c7f7f2b0f48a6fbe687a424e37e7f1/USB_Quartermaster_client-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "1f6b9e2b69e6ec20120b536fada45c7c70af624940b1829d9dd0d0e4e3b5a5c2",
+      "url": "a8/db/7209954e9ddf944f0cb1529e3ee2cc368b4e3d24c43308237cbcb665d8e5/USB_Quartermaster_client-0.1.1.tar.gz"
     }
   },
   "utilsfunc": {
@@ -24137,6 +23861,10 @@
     "20200416": {
       "sha256": "9ac334d6961a4609cfbd05fa07197dabe6786c934a9fb009722d797f655a7e1f",
       "url": "aa/df/69bb81c28eaf656d52b28744e6e6b7b31a6eae0dc010adcd3cefed93c072/WorkWeChatSDK-20200416.tar.gz"
+    },
+    "20200422": {
+      "sha256": "1d067861a2560ff9baf8050a74b5797fdd0ae69dc231b004c03fbccc3b2d1b7c",
+      "url": "d4/9c/a9a3002262c23c9e6e14396d107b0e9ca3c829fdec0499c8a220d4f0f855/WorkWeChatSDK-20200422.tar.gz"
     }
   },
   "wotan": {

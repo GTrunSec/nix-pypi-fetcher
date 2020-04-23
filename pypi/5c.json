@@ -201,6 +201,16 @@
       "url": "78/d8/d8bcb81a29f72924a5a0f57e484b2ce6ad4f43137693b037eb67296de037/aiomatrix-0.0.tar.gz"
     }
   },
+  "aiomodbus": {
+    "0.2.2": {
+      "sha256": "3dd417dd527fc5529c43dfc64018602e4a45d6e2342cff941b0997077a5927b5",
+      "url": "d4/59/76560d62e67d39ff5ec7344ffe52d280fe166cc4ddcd2eb845be3707d4c2/aiomodbus-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "9aad77269fe0fb8f4aa43a97510bc1cb04b9e8a005143b18118cb1d434994e9f",
+      "url": "4d/cd/35cca62d2584aa39d37c76c280c53f990ea90136b8cb96cdeea7f6cd62cd/aiomodbus-0.2.3.tar.gz"
+    }
+  },
   "aioworkers-redis": {
     "0.1.0": {
       "sha256": "458337c64e6a0fa443aae531e69b2e7db245a51b3a04cd4077c6e51c31e1acae",
@@ -6327,6 +6337,10 @@
     "0.0.26": {
       "sha256": "bf84272713c612ecd25607049bc2e255a350e80e5b9e2f2e678e1917a2388cc1",
       "url": "23/42/72b35d258352fe775da9bb03eeb8c5f9e967f32f9118d8e8bf2a325d6616/gql_ext-0.0.26.tar.gz"
+    },
+    "0.0.27": {
+      "sha256": "fe61d89e3ef6bc6088fe9ecc5dd7f0a08f1caa9f23f0aea8f3f3e654e973d51f",
+      "url": "32/4b/3c15ca6b6b8e247811140a1170f2ddf698ffcaa87c5be105341c7a09d976/gql_ext-0.0.27.tar.gz"
     }
   },
   "graphcanvas": {
@@ -11042,6 +11056,10 @@
       "sha256": "54cbdcb27f1eeb1f9aab2bd441e620f72dac8b2ce63bab6280535b203e5e7bc3",
       "url": "31/5c/3557931e6ae9006d4be0492f446011762c4cf530984baf47d534817b20e6/mypy-boto3-lex-models-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "be26abd6156497824cd83c1e02e54a95838b4b6e9a73c20985fa9a77bf804cce",
+      "url": "6c/a1/8d329661402e6032799a7052a04226706d3fe9b6a2827e06486f08a0cab6/mypy-boto3-lex-models-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "739a9967527a4c191b89c62dcaefcede7d788edeabee3ff5001b47dd4b044080",
       "url": "70/c7/4e61965ad9dd53a690c83909091a66952a38fffb032f38eac11a9b30b290/mypy-boto3-lex-models-1.12.5.0.tar.gz"
@@ -11217,6 +11235,10 @@
     "1.2.0": {
       "sha256": "ea122f0dee3ddbfa74f80afa60d1b30ac595b2a60c9fb17c61cc425c2ea89c70",
       "url": "aa/3d/04ad514956b777a04598e5a36bdaafdb9c686c5a433e01d0736d52a487f9/nise-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "6f0f3742c6bfae1dd0c218df8d696359e2903a45158cbdd6a3287501c0a2a87f",
+      "url": "a4/f2/c53bc33794bd06e3b5ff6af4b3c7f68727eabc64c995cdbb5a635b4efb5f/nise-1.2.1.tar.gz"
     }
   },
   "nive-markdowntext": {
@@ -14033,6 +14055,10 @@
     "0.12.2": {
       "sha256": "c2a653ff1343ebb328bc78d04b4c37cb153f076b3b89c444ff1753a5c9b36922",
       "url": "64/b0/ccadd46a9c4b123a76dbf81ee6f85ec63877f1cfa685411398d1ae3ef236/py2graphql-0.12.2.tar.gz"
+    },
+    "0.14.0": {
+      "sha256": "9d88487b2e3cc3756c02fe8720423ef645c2693078fb6fdbb610cf6089f56d58",
+      "url": "86/ca/a1525a73dd94e0148f08f8506ec6bb522f4d6fbb7a7492b5de72d2341bc5/py2graphql-0.14.0.tar.gz"
     },
     "0.2.0": {
       "sha256": "0faeb1a54678178f14ef18cf6a3b560e19f1ad171e04dd1fa618f3b976585522",

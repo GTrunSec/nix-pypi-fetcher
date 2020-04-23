@@ -1086,6 +1086,10 @@
       "sha256": "45f3a273090f10b0f8909127602812f8f5b8354a7c30de5a87b56e63acb0223e",
       "url": "20/6c/a23be2f905d89be85ff2f0a70f8205db7c8e6ee58f15e91104bee24f20df/aws-cdk.aws-kinesisanalytics-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "fee5ec8092fe659d89ee13bc508b5a473a38039957e3949978717fc278194d36",
+      "url": "ad/2a/95409433974f4059e4cc3f07f42482321651725142c114cc9498796a2904/aws-cdk.aws-kinesisanalytics-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "e4820f9a7de4bbc6556e766b8eed53eeda39215389da24b64ed190481784372d",
       "url": "59/f9/51d945e97690a3b79de593904936ce9a99132401b56eb809bd8834e9f7ab/aws-cdk.aws-kinesisanalytics-1.4.0.tar.gz"
@@ -3027,6 +3031,10 @@
     "1.13.1": {
       "sha256": "c898c8726ed008615f0b1988b9cd1e1f74fd230e7b24bca53bfd5f96af6e55a1",
       "url": "c1/5a/09dadde97ee6ee7630f99a799ae2f2df7b3cd8b302c00a944591b3d7d0d4/chalice-1.13.1.tar.gz"
+    },
+    "1.14.0": {
+      "sha256": "ea2518e1cf5f26a1fbf1dcb3c84e7409456970d91448dba39f05c57e07050973",
+      "url": "5b/42/f6ad92c8b11babb5008d1d89309b5c2b2ca0d08f1e39a93a29e667d3bfeb/chalice-1.14.0.tar.gz"
     },
     "1.2.0": {
       "sha256": "5900982e47d52527a3df0c9fdfde1eb3f2656d1f679619fb5d7be8b5a31c16f9",
@@ -7411,6 +7419,10 @@
     "0.9": {
       "sha256": "8da11500335ed8a2f95fbe896f3c11eb649d14031a5ca2ff9a8ffc178778b410",
       "url": "dd/95/6e437a5f897dd583b84facb4460710b7cc0c9211603d1cdbbb9b0ed7bcbe/globus-action-provider-tools-0.9.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "e0af75d2e43ec8d314201687d46d8a620aaa6eaf23fba89bebbd7dd4450a1ce9",
+      "url": "76/37/318f0f7c3e204b17345bc0b99d45820182d6d2c170fbcc3c5f178e290201/globus-action-provider-tools-0.9.1.tar.gz"
     }
   },
   "glssm": {
@@ -12258,6 +12270,10 @@
       "sha256": "0277599c16e1dc02e980136b8f678cc094864edcd0c476226a3894ea8e1d5cf8",
       "url": "46/58/0ef25df961edf53e95803407697549073cb96416ebaa18a8289691a9d160/mypy-boto3-iot-data-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "1aabbc4378d97f83c44ea984c0f2998502dabb7ddfd73d8f346941ff607713aa",
+      "url": "05/78/1b99b58faf2128cc9d232770da0c7b0a6b3e87c5e5510f74457b0057d16e/mypy-boto3-iot-data-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "0b2ee6b1f44ed44f2884fd6bbb19a35478f1fcd8d0211a87c48b93d32434a9d5",
       "url": "ba/55/015ded580c0e9e936bc61ceb27cbe86eca14bfba614543d4fd20fd97ce8c/mypy-boto3-iot-data-1.12.5.0.tar.gz"
@@ -13705,6 +13721,10 @@
     "3.0.0": {
       "sha256": "23c860b4682ce78fc703f60e0cc4958fd5cf87b8399119d33f8d25be36cf8cc9",
       "url": "e2/96/d0bd960d4b6b7f4111be8f04a015d271da856f8ecf132e34d3596fc9de2b/plone.reload-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "fadd0166f19ffe891e3b93a9ddcc3016b9d523cd955269b04f5fb46773296e2c",
+      "url": "d4/1e/adad08398de3c352b4c450b21d02d8abb2103167befa51ab02b36d89a702/plone.reload-3.0.1.tar.gz"
     }
   },
   "plonegovmy.policy": {

@@ -1028,6 +1028,22 @@
       "sha256": "46d331256795799b75d8435037cf411c313a2319e47e3d5497af02e072847597",
       "url": "53/d7/568a4c75e9f981a2fbb1c88c1cbf74b88b515a174a551cc4165467cfa246/altimeter-1.0.31.tar.gz"
     },
+    "1.0.32": {
+      "sha256": "404211c73c0c24589323259eb207a5047d71edac7228ad612544e16c9a70c5a7",
+      "url": "3c/74/7d7113a42f7bac649ed9e92efd6ab9b7eef9afffa9af5090e43727decddb/altimeter-1.0.32.tar.gz"
+    },
+    "1.0.33": {
+      "sha256": "37aec8b287b32cf29585074f64992bf67bac5a4e6c49cb387efd517ef8edb6af",
+      "url": "ce/45/7c10beb647c50c36e21510adcdf91c2a8214d3b5eaadcba2a10b8f21c0bf/altimeter-1.0.33.tar.gz"
+    },
+    "1.0.33rc1": {
+      "sha256": "42efd67b77d122bb8a0c294d6d1d8b321c64ce0cdff1d52102739ee3342fe356",
+      "url": "cf/0a/99e30f7eb4405307e009fe56296524977cb41d6bd82f4e0f0e5c3510e747/altimeter-1.0.33rc1.tar.gz"
+    },
+    "1.0.34": {
+      "sha256": "206aaae73b7e92387414607b7dcdc13e5b47f10e7eb895bc6a1836e3c183a2cf",
+      "url": "ed/99/791aab51c1571d7751a2f746e9defa2a8e8bdb9c9ae2fa358426333ed32d/altimeter-1.0.34.tar.gz"
+    },
     "1.0.4": {
       "sha256": "1e70311939ae7d9562e15fa541786f1a68e0d3e3c409e3a292c0ad9f9dce6070",
       "url": "e0/03/902a176b833b17131938627850922b9d3eef66295fb8d2be0f0c3e5eac64/altimeter-1.0.4.tar.gz"
@@ -3321,6 +3337,10 @@
     "1.12.43.0": {
       "sha256": "e147eca15ccc19d714749f9ed1da7f8e3c634e9c9b25f2e1af6cffdd83ff192d",
       "url": "14/4a/4be9951ddcb12362724e90c9d288823606a894eef98d430bc192618ed48e/boto3-stubs-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "e34bf031662059dc59f8a248049b0f10f7a66f1703443944a8c3798e464c5b6d",
+      "url": "69/75/f51f5443edbff2bbe6b73006a349f2efed76a264780e3f581d90162fd984/boto3-stubs-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "31fff92ec748e11ad49e83b3b9a279164ef7f46f265786727f087e6669635694",
@@ -16092,6 +16112,10 @@
       "sha256": "bb696755c4e3477c5a85dab74a6954d3ddbabed649bdd613fa0278dd5c821a04",
       "url": "86/20/8da06cbf469d5ce506de852e91ad5e6b417aa082ea1e6078bcc50d3453de/mypy-boto3-appconfig-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "e8ca5608edb0df6afc886aebdd693e121fabb54ffa18e571896dbaed9ccfb101",
+      "url": "f5/73/829998ea62b6504fb6978b652fbb9bc047623883b97231fd13b617940cdf/mypy-boto3-appconfig-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "420503d7a371c78d26927e28fc8cdd9d62697c1ca9413a450fbe015ba43a47a9",
       "url": "fd/25/7a41278e60258974da2b96eeee0fa187d6f97ebb6293d1c028c0861e4d8f/mypy-boto3-appconfig-1.12.5.0.tar.gz"
@@ -19099,6 +19123,10 @@
     "4.1.1": {
       "sha256": "9e8e6789c816727c0a6902248fd3de98ed8eb2eeeb1c0aeb8a25c232aaa79fed",
       "url": "f5/99/7038e063fd0b095a37854adabbbb84f912ed6f214b2c7fb6fcab9d099207/Products.CMFFormController-4.1.1.tar.gz"
+    },
+    "4.1.2": {
+      "sha256": "0eccf4de2f3e8a751aff365d97c922c6ba293f880b227c5aa9284e09d25bc370",
+      "url": "ab/e1/a333c5b64814e8bb681c5018f9499f4f4562497595415183e6ef07a90de9/Products.CMFFormController-4.1.2.tar.gz"
     }
   },
   "products.cmfquestionnaire": {

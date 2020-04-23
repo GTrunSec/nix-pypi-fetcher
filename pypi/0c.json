@@ -1646,6 +1646,10 @@
       "sha256": "9de3996f6abcc8d1a3376838417e1c5b0c175c50ac8169c5a3835daa91bb9793",
       "url": "6c/98/d1419b1f5fb72686aa131e865bfcf1641034330c2924d01834c443bbca51/aws-cdk.alexa-ask-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "66e4f4b795a9b8ca09dd941295e76ba8d38eae6ce37d0e23049d090cd71cfb01",
+      "url": "78/11/5980f4d0dd0043bfc58ee4f03f87a9b0dfd0a9e828858a3a911820943f26/aws-cdk.alexa-ask-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "42b2ed0c2782acd4d217eee06654916bb378316a24f29e55c254838250824f01",
       "url": "45/0d/1bb58786dd49289446dd3718cf4198aee71936727dacb440279bc4fe6f97/aws-cdk.alexa-ask-1.4.0.tar.gz"
@@ -3494,6 +3498,10 @@
       "sha256": "c093fb4d80f99e4f05c953540cab406a8822dab6210cbf896569d9b527e533e5",
       "url": "67/ac/23b54df18a33cfb1f173bf0ede3cf9378707853e6845742f7f54428ce5de/c2cgeoportal_commons-2.4.1.104.tar.gz"
     },
+    "2.4.1.105": {
+      "sha256": "4703a7c245bff74225a3f98abc2eeae7bd3c5bb1a871d1c791aa889a82ecdf61",
+      "url": "05/ab/909d73b9df189a09acb592dcea178d683625a7ec8c80cd778fcffdea39c1/c2cgeoportal_commons-2.4.1.105.tar.gz"
+    },
     "2.4.1.11": {
       "sha256": "fbd32c659591bb58e53cb24f7f37e0a2bbde3cec2317278897caa5eaf346e27f",
       "url": "70/71/4c4273523ccf6cf204a5018048aee0755fa9a86000edc1cec125804a0109/c2cgeoportal_commons-2.4.1.11.tar.gz"
@@ -4554,6 +4562,10 @@
       "sha256": "2df9069f4c99bfe85ae86bfd7cea1db971e857fad8bf34eda63027f9d8ade4e1",
       "url": "cc/0f/db18af66e8d24402fca7732d2ffab9c78683e356c88ce703fa01f9414252/ceilometer-13.1.0.tar.gz"
     },
+    "14.0.0.0rc1": {
+      "sha256": "871630b351dc120af83892853645cbad487bd710f858fac6412dc441d9bc0436",
+      "url": "94/ac/c8878d55ea281dd6212fe48396b59435aec417012f9d90e43a82e6881145/ceilometer-14.0.0.0rc1.tar.gz"
+    },
     "8.1.5": {
       "sha256": "0971175bc2e9cb4196b8d05a47557fea565be98d1d7c1520b36752063b3db453",
       "url": "87/c0/306851386d291aba674d8b1e9419841e93e7a874ef7cc874a9ce8f24a01e/ceilometer-8.1.5.tar.gz"
@@ -5503,6 +5515,12 @@
     "2.0.7": {
       "sha256": "ab351d308546569146c10b18c9f4ceeb56a75b91b3082ebed2757387841b0fd9",
       "url": "07/c0/f9379680749fe220a98b3099304978df9c721d22cc6f0ad256a1483b2b93/coreapi-devin-2.0.7.tar.gz"
+    }
+  },
+  "coronatank": {
+    "0.1.0": {
+      "sha256": "3bcf3b9dc0a13ac343f406ade20eed4a042aea7080a3e603a589b68eaa764a66",
+      "url": "2b/6d/06a01b71e94a767314e4141e89f3ceff35503e74ddcce2c93272032f6183/coronatank-0.1.0.tar.gz"
     }
   },
   "corredor": {
@@ -6553,6 +6571,12 @@
       "url": "0b/23/7f395b3fcc3132c184fcc9d68c421f8ba4c698c608e2c2297222b322de60/defw-0.0.2.tar.gz"
     }
   },
+  "dego": {
+    "0.0.1": {
+      "sha256": "d03b3eb5cff650854018970e474a64b0c1a9182d7fe2ab16a567cdd68dc71440",
+      "url": "25/46/1548147ff0fce23c7089d0908b1fcebd395263bf0e8039c46fcb52c551d4/dego-0.0.1.tar.gz"
+    }
+  },
   "deltas": {
     "0.0.1": {
       "sha256": "6d04c0db8c6ae2b670ecadc8c827686c2725b1df60b80dfe8308d754a1fe3807",
@@ -6861,6 +6885,10 @@
     "0.4.5": {
       "sha256": "cb070f72fe239ed874051af4b4f6d8b74fb78e89c46918fbeab091b7ddbec964",
       "url": "74/52/ef50099dfb9eb4726df0a748c942368bc9454ab9b31f334ad8aeb02f815c/discoursegraphs-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "589e133af9afbc34b1692713bf8594386d7bcae9bb8aa58bb1b7e997d2546a22",
+      "url": "b3/27/812d3c1883d31d5e4e64a0bb2e50fe73c80de5f1475250f5d2f40b6c03eb/discoursegraphs-0.4.6.tar.gz"
     }
   },
   "discovered": {
@@ -8361,6 +8389,14 @@
     "0.0.13": {
       "sha256": "b8669350b2f178f22a9b3c527ba6d99ef46f1b383c96d7d74e12aabaedfc8d64",
       "url": "b5/ce/e7ee4b90ad4238adad853edc0063e6de9c21800078bfee327585789c46ff/dotted-notation-0.0.13.tar.gz"
+    },
+    "0.0.15": {
+      "sha256": "f8651b1f6602c46004589b002cc4018f1eee9fb7bfd4fa308b855930f1263d50",
+      "url": "19/a9/837165691ac2b13dd8b302493731d8fc97d0606fcdf18335cbc5e986d1d2/dotted-notation-0.0.15.tar.gz"
+    },
+    "0.0.16": {
+      "sha256": "dd6e7cf76559f17c90f8702e3a1be18fd94ee1403b81dbab6d966f3f88518ad9",
+      "url": "e1/50/517d47183c249f3b9c8368f7f52a4da0fa44110fee63bad62f34f560b96c/dotted-notation-0.0.16.tar.gz"
     },
     "0.0.8": {
       "sha256": "209cbb1dc56ad499ff6a06b691f3b3894bf0dcbec566aeaff5978f55a9e09271",
@@ -18716,6 +18752,10 @@
       "sha256": "e04a22f621b6adb5302538df86a08c0c27508465b9cb5c5cae3d5c123f81cbe8",
       "url": "c5/09/e0585bd78f56fdd01111d0139acb3155aaaeb84ccbb87f916cd05080f451/mypy-boto3-mediastore-data-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "a3406126b6b792e7e8400df89dc4603b7b00570e231861c22c7213367ff9884a",
+      "url": "0b/b9/b24b58a3d8a13245b1626115b59459fbcc20a5de46b399a49bcce578f3cd/mypy-boto3-mediastore-data-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a68eb1483469ed14dac3cf17ad070128c2724014cdf12700fb35a3ffdf205ad0",
       "url": "00/92/afa84eba5e49b96fa131d7d2cb7660a20e2adfa94916f15e88b54e5d50f8/mypy-boto3-mediastore-data-1.12.5.0.tar.gz"
@@ -27761,6 +27801,10 @@
     "0.2.0": {
       "sha256": "f5862cddba1591b2b0ec1c33e4237bf4b34383632c402c60e7752cb55d509c8e",
       "url": "b2/11/0168b8dfc4700cdf5b75c62cde3055489a755acb78dab849b4b77ab4334b/starlette_exporter-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "4da9726eac1c9a19efb7fda19d550c3e9e77e7898a9097e40d926d521e74cec5",
+      "url": "49/c6/11eaa670dc40b16810ee0073fe1cb807ef35ff63356c1201832f4e8c772d/starlette_exporter-0.3.0.tar.gz"
     }
   },
   "stopwords": {
@@ -28695,6 +28739,14 @@
     "0.0.7.4": {
       "sha256": "d84c05f004397556d43de37614f2e74ceaae566acf3cc3e44ad2813ecb1b38a3",
       "url": "30/2d/eea2e33ea352c2f79e87b9259b2b7fe8e4cb838e30c3dfb8e5568805c582/tokko_auth-0.0.7.4.tar.gz"
+    },
+    "0.1.7.0": {
+      "sha256": "e912e4f608eed1297e28e029d047ce8dd86f0afa919c029c7766625acba0f8ba",
+      "url": "08/72/715d343441e9f7a3a7994e873a06261936f2843f6029736d2c1226fae79e/tokko_auth-0.1.7.0.tar.gz"
+    },
+    "0.1.7rc0": {
+      "sha256": "584dd9c463cb5e8684dbb6e809e60d82b0e6675fc789234827b9cfe14051f227",
+      "url": "89/91/bbadf888bfc3e70ea39e53d03b685a8bb02eeb7941e3f89f06e8e757174c/tokko_auth-0.1.7rc0.tar.gz"
     }
   },
   "toplines": {

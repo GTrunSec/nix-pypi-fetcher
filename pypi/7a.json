@@ -1814,6 +1814,10 @@
       "sha256": "a8b960b7897bcd1d908d966651ed49d143ec8391c5c95e4278361d394ceb9f9e",
       "url": "a4/cc/d716115efc7688eb750bd8c432c94bffc9b7f0dab88d8195ce28a92f5515/aws-cdk.app-delivery-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "62e9a72d4fbf0110eb4bfebb29934edaba81709b7513b8fe4829a084f5bb0ada",
+      "url": "d7/15/927c15facf755c6d219a56d70b0beb092ed0653338f1a9abf30435297670/aws-cdk.app-delivery-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "1cd174246a8280d81b04a5c2c55a13dc0aa71bbb3bad176481adbd476f8cba7b",
       "url": "f4/bf/6fbe3b0271524715ca78bb0424cbfd8d25ecac57fa3a366730bc25b0c9ec/aws-cdk.app-delivery-1.4.0.tar.gz"
@@ -6423,6 +6427,10 @@
     "0.3.0": {
       "sha256": "8c065746d55570b4566f51197229aabb05618b13f691f10c131586ade6bd4157",
       "url": "d1/c0/93ee286d69742c4895f9b7a3fd79977eb3f43fc79b88b41bc837477aada3/featuretools_tsfresh_primitives-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "dc7553eb2a49842fac248a7c0bc2d148eaf4ae066878c0e03d60de96b8a473fe",
+      "url": "1c/df/2fd3d9c930b20256a17e11ef72167d6af9153c994f31452265ee7acb7a0b/featuretools_tsfresh_primitives-0.4.0.tar.gz"
     }
   },
   "feincms-code": {
@@ -12364,6 +12372,10 @@
       "sha256": "6f5b89f55d2b8cc7ffb1a2660e75adc6c1b9d1a453484fab61dbef608f05a36f",
       "url": "39/a6/374a57dae571ce8640d55f2ed5530f3db542bcf12f8d5a19e0c8b9f9d792/matrix-synapse-1.12.3.tar.gz"
     },
+    "1.12.4rc1": {
+      "sha256": "ac609f03c63abd172ac688f823142d2096510b8987a1dcd6b34e721712d4a54a",
+      "url": "a6/49/e8aa0b060905bcd6a3ce0b9ecd43827e5a2ee81bd38c8594cf6e2551340b/matrix-synapse-1.12.4rc1.tar.gz"
+    },
     "1.2.0": {
       "sha256": "51ffe96855c1fa7760d2d968c07cfd95efbd0043914972366a9faf988ee4a74a",
       "url": "77/15/47d505bf1065b4b63201b1fadcc5fc0b6c1f30218c2a620b3e906b9f9c33/matrix-synapse-1.2.0.tar.gz"
@@ -14157,6 +14169,10 @@
     "1.12.43.0": {
       "sha256": "4697d21fe747af8ebed502d03116404cc4388dff7a9416a66b6b344580c42059",
       "url": "a3/f5/82471d1ee0e3cdc55949b62153f6645a6115d76d575aa6f1df0c889e1793/mypy-boto3-shield-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "d468e1a576120d48d93fe25601cdc430b4e22559225b57c3c0ca52d377f2d4f4",
+      "url": "35/1c/376ef2f5d545dbea542c12e3cd0ec79138c7b762dcb7badffb4309579066/mypy-boto3-shield-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a83665e5e21c2c6824aac9a9ad15a77ad06b3e8278d12ada88b1259f98c87c1e",

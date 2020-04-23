@@ -1903,6 +1903,34 @@
     "0.0.2.20200421.135054a1": {
       "sha256": "7ae998a741ec998e66b34763462f5cd2bbc0fad973aec079751339c35875cb1d",
       "url": "c5/7b/ae0c448c2fd910e6bc5f80a2a470119acc8adf7627f51c5489b6bc000a57/catbuffer-0.0.2.20200421.135054a1.tar.gz"
+    },
+    "0.0.2.20200422.10151a1": {
+      "sha256": "3dfda211dab6897392c2d50ba923c35f3760059ea190ec6e5fe42c68646d5f70",
+      "url": "61/3a/16f3a7f5ea72eb65930edc1417221babd00dab112d1850b47c2393b06426/catbuffer-0.0.2.20200422.10151a1.tar.gz"
+    },
+    "0.0.2.20200422.130215a1": {
+      "sha256": "7c28dfcb7407e9041af7091db839d7dc7211e1a3daa6cbdb36b060df3333694b",
+      "url": "c2/1d/f9b1d8560de15e892abd33e00a15b68f36b4a995eb8592fc0fe9cc344282/catbuffer-0.0.2.20200422.130215a1.tar.gz"
+    },
+    "0.0.2.20200422.23334a1": {
+      "sha256": "885a5bea60ffce853563c2f871e48c6f4c2bed32860b153e8b00dd2a7fcabe25",
+      "url": "1e/c3/b71b7a7542e463d0ffd21a5e23b7b62738008ad5cd13c972286dd0d02fa1/catbuffer-0.0.2.20200422.23334a1.tar.gz"
+    },
+    "0.0.3.20200422.13758a1": {
+      "sha256": "41500c35acc4c57f1a0ccda262e1d617ee80e9b3034728e12a147310fa3798cd",
+      "url": "dd/8a/573febd61a1ef244932428b52b5f62fe416d295e3cf44612ad6b2eff6274/catbuffer-0.0.3.20200422.13758a1.tar.gz"
+    },
+    "0.0.3.20200422.21124a1": {
+      "sha256": "c8de6866191993cd47845a77890df50ce9a886e2be0f31dbb36adfa07c6227e3",
+      "url": "67/93/7f339b3657b980e0f734ffa03433ee8478d97bb1a475395949d0b73a9ce0/catbuffer-0.0.3.20200422.21124a1.tar.gz"
+    },
+    "0.0.3.20200422.55011a1": {
+      "sha256": "32412669ec303e910d640392aeac85a97389a7a03f72172c400f8601e7ff702e",
+      "url": "64/92/9c73304de238f4ac9da010ba225a9401e33aee7db562fff1f953d105d805/catbuffer-0.0.3.20200422.55011a1.tar.gz"
+    },
+    "0.0.3.20200422.55152a1": {
+      "sha256": "c52c93d038160c9a735a8f4bd78c34508667c670b3d5a46dc1a06ab208380470",
+      "url": "02/8c/fb07d173a8996750fb9c2701f4fb07524bbf2ecf53b4a6d812f7e5ae75af/catbuffer-0.0.3.20200422.55152a1.tar.gz"
     }
   },
   "catnap": {
@@ -3779,6 +3807,10 @@
     "141": {
       "sha256": "66a8d066f8f5ac18d02aa5148ada7c6f4ab094cd64d29e72b319c5e7df151fc0",
       "url": "70/fc/13ed6aa8d4abc809e33619eef9b9eff4d52cc0e38b1066a7bdb66584a673/diffoscope-141.tar.gz"
+    },
+    "142": {
+      "sha256": "178ba5597a03ac3c86471cfaea055b7880a7398cc4d238d552c97d14cb32c273",
+      "url": "56/9a/5ca34f381e775de2b5306689e38f849e68cf5c12996eb8833e072d26c491/diffoscope-142.tar.gz"
     },
     "39": {
       "sha256": "aab8c738a211bfefe542b24ce39e8f7122c05b8c4064438b625a03ac141ea912",
@@ -5915,6 +5947,10 @@
     "0.3.0b7": {
       "sha256": "d57d2c7547240025566246ab5705277813544029cae9c8b5e0999a49d290bced",
       "url": "01/8f/b13ed409d60729cf5ef00d97c46b8efc385d9d022470d67810b9da34f11e/equilibrator-cache-0.3.0b7.tar.gz"
+    },
+    "0.3.0rc1": {
+      "sha256": "9554d932b9ea06e02eef119e66ebe82260c853150c9d67e7b9da5cf9f79c672f",
+      "url": "43/0b/30250dcb99ad628e4b08d3470ac5a400de781e46f0a982a222c6280a5196/equilibrator-cache-0.3.0rc1.tar.gz"
     }
   },
   "espnff": {
@@ -6385,6 +6421,10 @@
     "0.0.6": {
       "sha256": "152314d92c7a5cbd3b2aafad07c8d3747847ea12d938897f0b2a39df0eecbd9d",
       "url": "7c/8b/8bbe2a393c685a6f8e700cc4d5f7f3f138b2310ee413e962bd84a7285533/flask_oidc_verifier-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "d7b4ff4e37896de2a9f4ccc93937f7de314c6bf61112178a6a9e05cc350dc612",
+      "url": "33/5a/a8316cf6a3572f488680665dc574e5f8e6c8ace9e6736e12b654db0089c5/flask_oidc_verifier-0.0.7.tar.gz"
     }
   },
   "flask-rrbac": {
@@ -13220,6 +13260,10 @@
       "sha256": "b33c207cbf3395890532c1cf074bbfdc50a97eaed84ef85ab0384ee1fbd5de30",
       "url": "73/8b/ee961d936436c9ca5db2bfc1e39d7b27810bc6ed3e05580b0f2f8b35bbaf/mypy-boto3-appsync-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "81e35e713c00950bf7dd186e3fc42056bb4e4cb00d051f346f046e1954b4379b",
+      "url": "d0/1d/18c65e1829ffcf6b7708d0bc742a041f5ca3da196a025ee54a45b226362f/mypy-boto3-appsync-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "e15b63fb3384bdac7533580f9a776a765eb2782e16c5c42f20027677914d49a4",
       "url": "e0/b7/1e6f21bb7a88843d227dc827abc58dac945b4ca44bcc474da3f1d90af050/mypy-boto3-appsync-1.12.5.0.tar.gz"
@@ -19107,6 +19151,10 @@
     "0.4.0.dev20200421": {
       "sha256": "99f27c6aef7be47924a9b18a1179cea4149387a6a7e74c68d32e46fe70194f3f",
       "url": "b1/9c/fa97223b99a28ae01a31613e60b76c80eabf89d8fffa3157f379f938fcfa/pytorch-ignite-0.4.0.dev20200421.tar.gz"
+    },
+    "0.4.0.dev20200422": {
+      "sha256": "940a272f1a248ee9559cd269c0fbaf016f18716e35d8516eefb042c88b7f795a",
+      "url": "16/6a/ace9a34b7fc288cb77ff2720bfe14223afb2d52e226fa289806f8f813cad/pytorch-ignite-0.4.0.dev20200422.tar.gz"
     }
   },
   "pyturbsim": {
@@ -19639,6 +19687,10 @@
     "1.0.3": {
       "sha256": "a3235f9d8ba3d0b079e95746f4952f7500b57684c3aee1f2008c90d1e37db70f",
       "url": "77/4d/965babd751202056cffae7bfedcc9133231699186982ad34aaa04839f221/realpython-django-receipts-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "6983dadff1c68a1f4b36c48c63803199cae6b58cf1c00350f27e9b4ee978126e",
+      "url": "ea/b1/34292ed92148db8acce54c01aef542346caba27f931af832ddc6f683dd18/realpython-django-receipts-1.0.4.tar.gz"
     }
   },
   "rebooter": {

@@ -2140,6 +2140,10 @@
       "sha256": "720e7be5e3ce63fe1ad68af170f95fae3a25b57cbca1c7ae6b8ce36160775044",
       "url": "36/aa/26a1c60b4b387622630de9dedf59557fe107c6b8fef021adf2c402055aee/aws-cdk.region-info-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "6baed2113df565277b61ac96387e5388bf0fd4a9377e3dcc30bf94a364fdeb81",
+      "url": "ff/bb/80bc5e9b8f30ef3d96d91aaf4825809d65ce3e9b52829eca26d1f64ef604/aws-cdk.region-info-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "4c79a275a9dbd4775e0f99fa92a130fe359d7b7edc9cf09ec030fdb7409c86e2",
       "url": "46/9f/6c2d414849fd0d17cf422389cf2f7290f5a484fd9252e20ba22e3846569d/aws-cdk.region-info-1.4.0.tar.gz"
@@ -3231,6 +3235,14 @@
     "0.0.23": {
       "sha256": "8994f85eb36c791d2b270912bb3c75607faaefbf3446c436b39410976857c172",
       "url": "ac/35/2644bd82b96dd9af8524670c35620ef5dd8fd9585100e352871f43afd930/bitn-0.0.23.tar.gz"
+    },
+    "0.0.25": {
+      "sha256": "2099d9979f2f111a049a121f6b6446e13b4d6e32003cd3a1c1d44174bf07aeec",
+      "url": "01/fb/e3cfe726bcfe63628d7930c64029214d5b270d28197513352e98d72a08ad/bitn-0.0.25.tar.gz"
+    },
+    "0.0.27": {
+      "sha256": "96ded546dadb540a02fb2a953f41ef56d593edd9feba6748ce9bec04b6412600",
+      "url": "83/bf/c83bbf4c7a0e93ab42b975bb9a8d6e83d4f21a1bbe5ad2cd80b490e9069b/bitn-0.0.27.tar.gz"
     },
     "0.0.3": {
       "sha256": "5505379bd86a14d64f16112388b7cecf2b6fc75f569156aa78e0bd42f487a499",
@@ -4427,6 +4439,10 @@
     "0.1.4": {
       "sha256": "2b76c1b4100671a3e9f20561999252bed7a226293e0eaa2ed58ece08274d51f3",
       "url": "4d/84/e781885b1ad598baf0c15461de5045065cd22968f91d9fda158d195d3ffb/cloudformation-cli-go-plugin-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "05528056eb9b5f428827e5a7e8e50c99c1dbddecc62ec4e0cd9805913414bf31",
+      "url": "46/34/ff5e56aea99925abe5462e4df319c54186cc1344d89ea7791fd880614037/cloudformation-cli-go-plugin-0.1.5.tar.gz"
     }
   },
   "cloudianapi": {
@@ -12172,6 +12188,14 @@
       "sha256": "74466208461dadd2b887fdfc070d2fba47f29df0341beb93dedf5ff1cfc5cf97",
       "url": "b0/58/ce019dbacfaaee2c7eafbbc2feb1006fb3796d07dccaa695b612cc921546/JT_Gmail-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "9c38070c5ae67d6fade7a3a5d4290d03ef39cb58a4f58064f13a0f72d6534baf",
+      "url": "29/36/f0b61a8301e381f3e9fe6387be93208445989a906bbe463bb380e744a713/JT_Gmail-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "3f334a609e71f06d05da43163ab2dd5e08110a436ec03fc7fde2f26b65e7b7ec",
+      "url": "61/aa/3c0a89a7ec99267295f7dc03b7ae8b0a2d2c713fef9eee59c75f813158e8/JT_Gmail-0.0.11.tar.gz"
+    },
     "0.0.2": {
       "sha256": "9759b1d4a151aaccf988ba45d1eb533e31e7aa832a8a6ffcbf712cf8add0b73c",
       "url": "3d/66/f58f0511190dddedde6123a1b875e4b96a4720a02f4bbf33a5f86d64c724/JT_Gmail-0.0.2.tar.gz"
@@ -12199,6 +12223,10 @@
     "0.0.8": {
       "sha256": "91c96ab879e24cbb7e39773d6319c792b2e026aebfec17d7fd632a8b1ca8e595",
       "url": "f7/36/2b5c298f304690f50264c1c84f7481962b1b84e05139361a6a72460bd982/JT_Gmail-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "b239a38ccffacb64bcf064f327956314001974e6c5cd4375de62d118765ca8eb",
+      "url": "b2/fb/7ec79cd0bf31c722eaa26ca4a51af243400b46c9238552534f77b38601e0/JT_Gmail-0.0.9.tar.gz"
     }
   },
   "juliet": {
@@ -15173,6 +15201,10 @@
     "1.12.43.0": {
       "sha256": "21fead8eecf6e82ad5fcee286abd724f170bf4a67aa1f32bce5fefbde7c7db6a",
       "url": "97/2f/651199d20de05250f2e070e9cb7ce8fbdc7b956405ab400ea9f316c18e37/mypy-boto3-servicecatalog-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "928b40e270d59d4b8488f5b419874e034089c7803333995f15e6296ed1054773",
+      "url": "ce/81/305b23dc3bbff47156b501bcd83a809be19558d6756de4bc11da2133b453/mypy-boto3-servicecatalog-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "ac98f2d46561c80393845cf7cfd020d8ad2248221b01ce54d3b016c8f510462f",
@@ -23289,6 +23321,12 @@
     "1.2": {
       "sha256": "e94f1a2a3cbafffe1dcd15c1d54e401a1517e052aa64c7d3164f88dc761d7b8a",
       "url": "f2/a6/4588fe0f6c6e3b03ddbfc2bd97227adfcf5ad0f49f79828529ab4d580eeb/sre_yield-1.2.tar.gz"
+    }
+  },
+  "stateestimation": {
+    "0.1": {
+      "sha256": "2af500ee1f2998a0dcc93d09aae0de4290253f7a4b4c56ad8c5a68713e12d3b4",
+      "url": "1f/67/dfdd271aee6a8608a487402c6315a4caf581c9f0536b325183cc475800e3/stateEstimation-0.1.tar.gz"
     }
   },
   "stringbuilder": {

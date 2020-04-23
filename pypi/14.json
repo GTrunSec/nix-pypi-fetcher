@@ -1238,6 +1238,10 @@
       "sha256": "4625539bcd11cb77a90afda4bc1e37ece56ca1092901a825570ba389063d5d06",
       "url": "64/aa/fadd669a1ce45387fa823e13101f72b6aa1f7b17e508e77fab0c187a583f/aqua-0.1.22.tar.gz"
     },
+    "0.1.23": {
+      "sha256": "1ab48747e2052b5a530c227318674834d26ede06608fff3d10a30307bdb675f1",
+      "url": "60/ec/fba72f5efd855df9e28e32a3b7fcc53b767823987995b38c64aa51b62547/aqua-0.1.23.tar.gz"
+    },
     "0.1.3": {
       "sha256": "1a89214d3633f94e6de967da7153fbed503c415b201d9b575be9c2fc304698f4",
       "url": "1e/97/d84f4e38cc7f6d5607483e03374ad1bdc4ef0470712f14f29f32569ef15a/aqua-0.1.3.tar.gz"
@@ -1768,6 +1772,10 @@
       "sha256": "01cda0ee22d442b230134053708f4d556cd9fa6232aa652d39c1079b91359106",
       "url": "6b/c7/08e1131d366cf4091e85876f08d2968b9a3a426d57c8c64d9e3bd6f3d431/aws-cdk.aws-appstream-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "7b593d4ca519cad31a3b4b478aa820e26037a51fecaeb247d86bdbe27390ff4c",
+      "url": "cc/b8/b4a27655e1560a4df5396130e45fa8dea0f63c645c9a49a1e5426132ddb6/aws-cdk.aws-appstream-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "779bc96c99e23f6baa6b4459eec7163b0b6212fc264b4d68635840a26b237178",
       "url": "85/91/dea75ba261e00f40207d1c2f275874e4f6e803846c7c330eb8d5d779cfba/aws-cdk.aws-appstream-1.4.0.tar.gz"
@@ -1809,6 +1817,10 @@
     "1.34.0": {
       "sha256": "fcc2d72bfb37efec8f3779313a81aad4bf4cee3a5f9400c1edffbe6a46f00305",
       "url": "5b/ed/238e548094826ad454a5f69a598fb21bbcc535d6952697c4c5ec8b3a34f0/aws-cdk.cloud-assembly-schema-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "1c2194bf26eca04af8f91071ede391836065a57238a744d7afbc07718fa9858e",
+      "url": "26/b9/0cf945e13d8f66f73617bba52478bb6216e369a0459b6023325652bad396/aws-cdk.cloud-assembly-schema-1.34.1.tar.gz"
     }
   },
   "aws-solutions-konstruk.aws-apigateway-lambda": {
@@ -4469,6 +4481,10 @@
     "1.2.2": {
       "sha256": "2233f9b2d4483d197516f86751506004745e64749bb6df294c26a24efa01d4ec",
       "url": "42/d8/970a093e848f62491494dbfb6b5275073b69530deab3944df74dae921185/danpy-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "4720d5d0f195a4f9b701db7b329c2233867dfdaf3f574364b124a65b2c71e759",
+      "url": "6f/e7/df82409cc93cf016b046e769ad310c3eebde7fe0ac4e70b34b9cb3e192d6/danpy-1.2.3.tar.gz"
     }
   },
   "dash-core-components-ppeterson": {
@@ -4743,6 +4759,10 @@
     "2.1.6.4": {
       "sha256": "f1ee3b8b9f67bea358db877f05dfb18f8b46d012139180b294b90e7233562133",
       "url": "e7/4f/be65df135b60ac785e6b7e50243c4e68da6a3bcf61c69e37e5272d297717/deeplabcut-2.1.6.4.tar.gz"
+    },
+    "2.1.6.5": {
+      "sha256": "480ef459c990483164a12abc87aba716902b5e9d9b6dbd82268d8f15ce2f7c7e",
+      "url": "ae/23/25a10d231b3690fe4f4deec9e474286b2c8d37bdbc979229b850b889bff9/deeplabcut-2.1.6.5.tar.gz"
     }
   },
   "demakein": {
@@ -7045,6 +7065,10 @@
     "3.0.7": {
       "sha256": "04f519817df48eed6ef0c00b6b2214763522e5f1afa182c791cba38849d6411e",
       "url": "95/74/1970fe856649d58302760785555e049d1195a984006688fa76ccbea6f2a2/edx-submissions-3.0.7.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "2e9084ec65850775c3e2a92051814fa507e03977e99ec7fe07962521e12157e8",
+      "url": "0a/c4/116e3c1700d5bc2367a268c3d7f0d188d5f70451bb9cc5ee51ae2e04c9ce/edx-submissions-3.1.0.tar.gz"
     }
   },
   "eea.facetednavigationtaxonomiccheckbox": {
@@ -16576,6 +16600,10 @@
       "sha256": "a56600d5df3b9e13685e56ae9c985064cc72c2132abd0eba42cec733dec8b5bb",
       "url": "e9/63/56207301fd5611421eff5a4cabc486994372cd431476644586316e10b949/mypy-boto3-elastictranscoder-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "042b13579144352209e089a591bb4f43293657446bf532f5bca6a2cad7666f24",
+      "url": "4a/50/b570f81a49f058e849fbff09d09b42fec38be7d19a40664772175cf5f222/mypy-boto3-elastictranscoder-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "1ece7e74b13ee4358848993afbe807d149c1d871c70f1fef4bd3d673a6d5c18f",
       "url": "d1/1c/cd4a94f38ccd0cbc04aa48a0e0a7d58e9c25a4f4369e06ff2a4d9c552c56/mypy-boto3-elastictranscoder-1.12.5.0.tar.gz"
@@ -17501,6 +17529,10 @@
     "1.3.0": {
       "sha256": "d135d9d2900a01b5a66f9ac2841b5529b81a1a11ece94c686f97bd99e08cf136",
       "url": "92/41/dc201af7da1913b8182855ca8eddebaa10224eb96790c5f9b437c778cd09/octavia-tempest-plugin-1.3.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "8aaaf28bcb191227ca31f9d60a6f139a13871d301eb08cbc2de7a6d6a22e9d79",
+      "url": "62/03/cb5614b537c27ff3b48d55d3348fb6f47b5e36bf531407488b8216ae1c85/octavia-tempest-plugin-1.4.0.tar.gz"
     }
   },
   "octomap-python": {
@@ -21689,6 +21721,12 @@
     "0.0.1": {
       "sha256": "64579feafe63565ba850422adff1057d79b06c676b17fef76dcba444e6acab21",
       "url": "eb/f9/a500491af3dd3a7189eb20f1815133a2e7a7daaa5fc1ce28ece1bb9f092a/pystf3d-0.0.1.tar.gz"
+    }
+  },
+  "pysupwsdpocket": {
+    "0.0.7": {
+      "sha256": "e4267d9367d1207112b5c45005be585add986c0e300ae8bb217971c55a7cafc8",
+      "url": "1f/c9/93ac31fd0a3e0e7d5dded4cd335871a2141740cb25b36e9f6b31e1bbdeba/pysupwsdpocket-0.0.7.tar.gz"
     }
   },
   "pytaobao": {

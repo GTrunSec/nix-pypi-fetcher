@@ -2030,6 +2030,10 @@
       "sha256": "d79e6c58d6a881d509a600732ddbfbabc85753df170ade0efb2456426ce0736c",
       "url": "42/f0/c9cabb9fbd7958bbbdf51e16dcab49862ec77c055f72dbc1233f32b89dc5/aws-cdk.aws-cloudformation-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "d625cb7327ba891ccbe5751e79dbe7860589c02b52cad6af739a1b958068c4d8",
+      "url": "71/07/f3336ac1c5852e84d4179b1c9f68886554ac1a4bf21d380201bb762d439b/aws-cdk.aws-cloudformation-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "9f9a7e58f2561c7a9bb1304185acc1713ffec36a38c5e11e8ef04d5f220a58b6",
       "url": "da/c9/2f119a302ee605503e57412eb8b684460c62760ba4d4d13c3445dba98c9b/aws-cdk.aws-cloudformation-1.4.0.tar.gz"
@@ -2279,6 +2283,10 @@
     "1.34.0": {
       "sha256": "4b3b510b8c9b7a988ac7f0d65bbc13d9647b9cbcd663422c087f416495b88077",
       "url": "a5/38/cd32e09b9b366da39ab9a084559aad238f9724d1de77444ca32f5caf9aca/aws-cdk.aws-sns-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "32588ffb7fb62cb5614e650cdcabd6f9c3c1bf3eef279f8727b621ad3ab463e8",
+      "url": "b8/d9/eaba4a47e5cbe3286342ca32f8c53a77bffb1d9198c4e455bed677ef0f4a/aws-cdk.aws-sns-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "a2fe376a0ce5e50a421c079722eb66f0fba4cc3c3613b9a0b734608ebb2138de",
@@ -5255,6 +5263,10 @@
     "2020.4.21": {
       "sha256": "f9785bae1e24ffab31a26c0b80cc61b67342185da275c7659223eac5e8cb0ec2",
       "url": "5f/29/a9739e5b6a21c0ff0cc0f14049c606110470cdc8fc2732f47a70c22442c5/dagster-pyspark-nightly-2020.4.21.tar.gz"
+    },
+    "2020.4.22": {
+      "sha256": "920c76d68ad681466bf83ec58f52156ad1b08408ac0568d678317ea28161bc78",
+      "url": "f1/03/4ed5d9766e2c78a3245eeb97195933831ab0abac9bc6e92b078a1c04d04a/dagster-pyspark-nightly-2020.4.22.tar.gz"
     },
     "2020.4.4": {
       "sha256": "379a6b0e80efdfda5a1c2b9d8bbefb279bcdc022354ee881f0a223244ca640d4",
@@ -12307,6 +12319,10 @@
     "1.2.25": {
       "sha256": "40854b9e683a94cc72d24a30f7406baddf42a77a94d1d9b9b1f10edf44cc8839",
       "url": "91/53/72bab790cf02caabfa2cad799d9a90c871f0093fb5a528fac325b5fa6880/gym_jiminy-1.2.25.tar.gz"
+    },
+    "1.2.26": {
+      "sha256": "2cf7fc5583cf985cbf1055f92b060c0d1997e691a563a33f64266b58bbb5b133",
+      "url": "aa/3c/866632b0d1ec9c7e182faad76a8d17a9ddffe012c760a565052aa082aae0/gym_jiminy-1.2.26.tar.gz"
     }
   },
   "gyroid": {
@@ -13133,6 +13149,10 @@
     "0.1.7": {
       "sha256": "f8e667f41027afaf6c6fb920314d063ea6031e0a180a2339a10af860696f4943",
       "url": "54/38/aebf8ec8085d7010dc1ad73f538cba949e1959fe7baad3fa040e4f046cb9/imagesc-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "959cb72a0f6b735b0849e0f76918c541be3fe3a8d620c981300539f5c549e5dc",
+      "url": "63/53/f46e413d05cda50b987eaa654c42c915b586b4c650044fb3cc5ad66b46bf/imagesc-0.1.8.tar.gz"
     }
   },
   "imgdisplay": {
@@ -14443,6 +14463,10 @@
     "0.0.69": {
       "sha256": "17611d0416af42d034d3532c624fde45677af45a0adc8edb83dd1556979961df",
       "url": "0f/df/3be92fcd397fdd76ac620cd08869def658bf5f99ab92a4fe7e6b51681ec0/klib-0.0.69.tar.gz"
+    },
+    "0.0.70": {
+      "sha256": "acc512d8d33f4d4c3594a1ce45c2e7df6cfd8703132ce3dec378c274522370a1",
+      "url": "b0/2d/658960fa50127c761150e6dbd62fb64b313e4779f58a5fb4f61b0a41aa48/klib-0.0.70.tar.gz"
     }
   },
   "kokomark": {
@@ -16987,6 +17011,10 @@
     "1.12.43.0": {
       "sha256": "5b8f02ae76bea288a4a0fa8eb636e220bddd6572347162006a1220ff434ab9c3",
       "url": "b0/28/3fa0454dd45f875751e869bbf77a32bdb4992d0e002a6d33dfbe25fea1af/mypy-boto3-cloudwatch-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "ab3f8d7785bb3f7d1fc94dfd6b3437042fadf8e76e11674cf1d2b296e9e7e9f9",
+      "url": "d3/c5/6dbf604078678204fa37c49e3a570dfcbfcddabd53f7d314d06186b57f24/mypy-boto3-cloudwatch-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "58d80aac772476882650bdd0e78805eac3197a00c8db2c0b6aaf25339b2c97b8",

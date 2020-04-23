@@ -1896,6 +1896,10 @@
       "sha256": "eac99bbf342f84528ca4d0e3511260563f054c2255e3dbe02441b0cc5292903e",
       "url": "a5/77/e0c26dfca95eccd963733e1d168663399b33a9a718f93ccb4f18ceea752a/aws-cdk.aws-cognito-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "4e0fe542bbfb332695d0ec99d83f403e2fc0e53cd68046f1ad59dde05cd138dd",
+      "url": "80/53/a9baa929b73b7b2b51f2e2a96b2c83423320fa0714ee5caf39a34b5cc032/aws-cdk.aws-cognito-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "21d8e453323930be93b3596e7905c2cb1f479c4e4c26160f4e3c75382afb28d2",
       "url": "fd/65/a84360f385379856fe5ddc196849511508edf087f1c4c47968966b685cad/aws-cdk.aws-cognito-1.4.0.tar.gz"
@@ -5771,6 +5775,10 @@
     "0.2.0": {
       "sha256": "d2801c01de0f31db8e95321af6e31560bf0c5769d1de9fc5cd4f1026a59d176c",
       "url": "25/be/877b445c6d7750dc6521ca824883d4b5b1751371d399a9bcc2768419f621/deepsphere-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "afaafab3e6c04d5550c3eda621b098dc0c53de67c27c026537ef2f38739b5bd7",
+      "url": "87/63/46fd47ea87332de6866dacde0c0940ed0342f51227264b42f210ff4c456c/deepsphere-0.2.1.tar.gz"
     }
   },
   "deftest": {
@@ -14462,6 +14470,10 @@
       "sha256": "ddd0eb68066f63a1e0ebf7599abca3709e699ea5fbfd6d9f25afba21bd2ba1b8",
       "url": "42/a5/7cfd29e8577572f00a37d12e57313b110bc08a7f175ef32283272ed0cc96/mypy-boto3-cognito-idp-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "2b85ed362d00c5a41e81cdb327b03e5b19e0a30b0c9b02a6279761cad7d71543",
+      "url": "f8/6a/8c84d780f15934dad349be19d59091d04a3b06af297ee6ef6e96e1a205c7/mypy-boto3-cognito-idp-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "fc9e0c6cac05a900360d8678a21017fa6be5a058605d843c107722736a0e3b54",
       "url": "6a/ef/f36e0f5955f4fb5d1e510a7316a04e0878ace0d3ff662d58fef70776d4a6/mypy-boto3-cognito-idp-1.12.5.0.tar.gz"
@@ -14819,6 +14831,10 @@
     "0.1.1": {
       "sha256": "4aaf6bf0e5f8d2c898c5f0c298c36e84d1482f8b5cc76d6f2e25f58ecc4e5af5",
       "url": "20/41/4565724330eaeff21c2dbeb829411c21caec41ee4f5df0c2127dca3bf035/nikamap-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "614db2556de7e8c132aeb53d0a1a4d6f6d62f16aa8f5bf2e3b565f6b87fa581e",
+      "url": "86/6d/29deabcd0f23504006d411ed639d8b33579f2814c3412c4928805fadd257/nikamap-0.1.2.tar.gz"
     }
   },
   "nikl": {
@@ -15479,6 +15495,10 @@
     "2.4.4": {
       "sha256": "093cdb603ef7b48db6e510432bb342d0178299665a53e4e58d803cb6ff8df1dc",
       "url": "49/d7/dfab9c783a4aef47d720056222a8479ac9a950c3cb9d7fc36201c2712643/ocrd-2.4.4.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "b7d16ba889bedb7b86921871332a1a4034aa585739cf1fc37c4c5bdb1f4a357b",
+      "url": "37/db/2e2d8efac5d8ed2bda304db8daa9ccbb45b017a41aa95ccd870c303586ff/ocrd-2.5.0.tar.gz"
     }
   },
   "ok-anime": {
@@ -16955,6 +16975,10 @@
     "2.2.0": {
       "sha256": "c0aa11bce04a7b46c5544723aedf4e81a4d5f64ad1205a30a9ea12d5e81969e1",
       "url": "45/f6/2d43d760cc9d229df0502e140519e47739e36ff0d1475a6523b0bd618995/pre_commit-2.2.0.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "f3e85e68c6d1cbe7828d3471896f1b192cfcf1c4d83bf26e26beeb5941855257",
+      "url": "fc/f8/65181de53bf3b2a8a71afb24e1bf50170334c7e362978885900243542320/pre_commit-2.3.0.tar.gz"
     }
   },
   "prefpy": {
@@ -21633,6 +21657,10 @@
     "0.1.2": {
       "sha256": "6edbbd2e43eec31e37993418b7028015db8e27aac2c3f3b4cfebfad6a0f5491a",
       "url": "50/0c/681951f917ef71b215d3e87d9c3dfa11a0251a9c9b55172524687b62c6fb/revolut-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "2465c8eed5da0e5b9d68308b6cb9f4e6d0cf80f008ccb08af1ed877957b24c80",
+      "url": "f6/72/c354563e7560f35b3eb01f858e82df62d9496c7c574389f28a5e08eb8985/revolut-0.1.3.tar.gz"
     }
   },
   "rf-info": {
@@ -22491,6 +22519,10 @@
     "7.0.0.0rc2": {
       "sha256": "b8a54b61e306328ea1161f49d524b2d71210b1454c5202332f25563b2e1491fa",
       "url": "5c/8c/aa49db663489e469d94c6bfe79c1089873a5ae462bf424dbf4ff87d2a94d/searchlight-7.0.0.0rc2.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "2aff6d5bee11d32c3b65a24e6d7621da22e4818605020d52d53d054c0a7af368",
+      "url": "fb/fe/f827ca3ce6863005526e13bfb3ce7cbf993b03ec5ab3c86f07d77dc2fe4e/searchlight-8.0.0.0rc1.tar.gz"
     }
   },
   "seeuletter": {
@@ -23777,6 +23809,10 @@
     "0.2.1": {
       "sha256": "d6edda22d091663522e3bb812768d46f0aa087cc0f83d8e0764ddf1791527f73",
       "url": "bd/97/56140fdae5ace67a881de95e263d458069a10cfed990c3639e266e1d26b5/stoked-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "04ef3f2ff145a696f8cdcb8922f90c26f236c0e92508513a7f474b2f3f1e4d48",
+      "url": "23/d7/4ebaa84d1a80ddec41a3bf31e00cf17fcce242caa85797543c573a0e4b5e/stoked-0.3.0.tar.gz"
     }
   },
   "stopclock": {

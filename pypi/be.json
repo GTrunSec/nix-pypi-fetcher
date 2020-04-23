@@ -1532,6 +1532,10 @@
       "sha256": "c746b5fef65ef79ca9e42ebcb1398bf26d3d37d0473c33650dba3f12abd5cdf7",
       "url": "2a/dd/c926c84abc3374fdf4f05476cc9a4d662f7748ff93aa05888c731fa2e4a9/aws-cdk.aws-eks-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "e79da82824221fb1b5a8bdf541e3143baae3f72eece3447bce402faf0c66134e",
+      "url": "97/16/baacce61cd699140be9c05a64439e64211bdddd415078fe1447085adf8be/aws-cdk.aws-eks-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "461f2e85b3248e1dcffca491145cfe900a540157aa687b0136b779f8c4274c96",
       "url": "c8/25/75623823b18ed91449c1119ce0b35579d5a1ccadee28b66970a9e7694c01/aws-cdk.aws-eks-1.4.0.tar.gz"
@@ -3651,6 +3655,10 @@
     "0.0.18": {
       "sha256": "42211eb7bd679e11ecfe1e91230d97096fc4b021dfb55b46b76e0ae7c3a608a0",
       "url": "6b/0f/481ff5203ce5bf8e7f10dca1f764750365caf582bc8efdfc533f1a338179/dash_mp_components-0.0.18.tar.gz"
+    },
+    "0.0.19": {
+      "sha256": "f845aa43cac98166a318078ca1e85341ff3a4b161eedb9eeb4af128a0a56b8c0",
+      "url": "0b/cc/a75729b492a7ffd2cbc1cdc4ee3cd89ceca66b0c5983eb8a1c9dbd22f3d4/dash_mp_components-0.0.19.tar.gz"
     },
     "0.0.2": {
       "sha256": "05fb1fed5c6bab5ff93f1d50bc48ddd0a8a731aa78f1a3a95f0bd202221c2b07",
@@ -11263,6 +11271,10 @@
     "2.0.4": {
       "sha256": "ce984f2f8f7c5bf4ec8a98f42bdb2f1a9559bddd1db638a4133688a01f46a96b",
       "url": "76/eb/e844e6980b297baa520824dcc795ee2ad0383b794f62fc8ff54ad9598014/isofit-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "0552518985c3f8cdf650b1006c84c989b8ed47b055bf7e3f99745030e7d06fc9",
+      "url": "5d/71/9aac3d5dacb9756f081fcc349044f761bc803cb8dcc83f99bb3754a88355/isofit-2.0.5.tar.gz"
     }
   },
   "iterm2-color-scheme": {
@@ -14778,6 +14790,10 @@
       "sha256": "a5c8b2b2d7b1ef09eaeba11d937dfdb84b5c718337a69db877e2085572df2bdf",
       "url": "8e/47/8d7610b2407be45a04b6476d01e418d94e52f1c423825c496cccd71de8d9/mypy-boto3-docdb-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "3877c7a8629980019d998f1a80726442561fbc95528dc1eb7f0326069e07720d",
+      "url": "44/e2/ed69733b66909db4232e0b763493c44ba08983690b40b10eefde9b76ca23/mypy-boto3-docdb-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ad2b71f9b54c64a816c1cb4385dba01d90a5df794204ff38f9a14625d1443a31",
       "url": "fa/95/f9d87cf5278ca2ae19ea77314b94138be7be17e4c2f29614461396ed6e5c/mypy-boto3-docdb-1.12.5.0.tar.gz"
@@ -15295,6 +15311,10 @@
     "1.12.43.0": {
       "sha256": "b5df9a7bcd993eeccc8b6a052bd07c6409cc807037eb72c1811fc700cf3eb5f2",
       "url": "f6/1d/12c5e39dc27ece9b1252c2ce3ad56eb92f763ecf756a21436f732f2fcdef/mypy-boto3-ec2-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "1ecc1736033f423856aeb9bdfa4e76252b2e76d70a7d834a78cd7c41ec4f4d92",
+      "url": "e3/ca/5b7ce9dc445575c228c8a954089c019b6f7b795df319ca294a9150097562/mypy-boto3-ec2-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c010356f9cae7ddce566d427036dc753cbe070bad4ee97362a403873216a07a8",
@@ -17327,6 +17347,10 @@
     "2.4.2": {
       "sha256": "22edbf19616b9fa3a052e5561534035a2e915a724db4e701b73f37c06104c024",
       "url": "d8/48/016eefa6fe838d18108c35b1781dadfbedfc9b0873c3ea8ba7950301fa86/pheasant-2.4.2.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "e2d10422520a51c200ceb595e76fabadb61d0e3b60672b8bffd8ee825b2d0d19",
+      "url": "e3/19/fb849f73457c947cdc2c9d46584e30b08857fd27c5a28f1010d1c70bba5d/pheasant-2.5.0.tar.gz"
     }
   },
   "philippecantrelle2adataviztest4": {
@@ -19099,6 +19123,10 @@
     "0.0.1": {
       "sha256": "014c40d2805428c34d40011367b367aed165e2243b2ba988bca06ae97371126b",
       "url": "9b/28/7ccd6497c2eeccb65eec39ad3ecd64af6afad3027f29b453b278fddae47f/pypans-0.0.1.tar.gz"
+    },
+    "0.0.10": {
+      "sha256": "d03a59a38c543b8b3a2dadec72297c8885ac7686447432c8240ad65a779f6dd7",
+      "url": "9b/c3/df3730a60907839019d2601d9bc0161fbfd2e882b63ff67e807dccdfc5df/pypans-0.0.10.tar.gz"
     },
     "0.0.2": {
       "sha256": "1a5d4eae8c123167407c0e50fb9f0ce67c647a19579c850c700f9a0e7b728ce1",
@@ -24371,6 +24399,10 @@
     "2.1.1": {
       "sha256": "cb25b0a0fff039b6f2de6e165da42cd888b57205135fc2d879d32fb4fa475c68",
       "url": "a5/05/04e27deeac5fd6e8fcb614d01fe2410ae241ec939b3d698167e5945be3a5/ultimate-hosts-blacklist-input-repo-updater-2.1.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "d096b7524afd9f9a33a1afff67cb58260c06c293ae684b300ea6e8864c2d6f56",
+      "url": "79/9f/a0fd83e79d4fad28cc02e682a8fe9814ed950848c9a2f056daeb7da203c6/ultimate-hosts-blacklist-input-repo-updater-2.2.0.tar.gz"
     }
   },
   "underground": {

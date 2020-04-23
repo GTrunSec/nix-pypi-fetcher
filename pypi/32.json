@@ -942,6 +942,10 @@
       "sha256": "9f694f6ce26ea1f4d624884e87620426f148b158d14f7f1c8ff23e77a592de69",
       "url": "3a/76/c5a1d3b856be1a63320f801d6b6f5138adb166a7dad73fbc21bee727d877/aws-cdk.core-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "526cee4ed7dad144b9eccfe3d982e2fd29c948d5d71aa025ec8bf68e2a54e1f5",
+      "url": "76/bc/219993e2f6de43fea0814399ac61ead6880d6cbe7b28adf73c5edf876038/aws-cdk.core-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "2acec63222f0f7ed2913d5f55cf005354177521478e3f33fbfe293fc0d9f8f6c",
       "url": "24/1d/67a67d5e1a49a9aef52d4f4b9190c515de1fabe3c137d9b4f8c8f9db097a/aws-cdk.core-1.4.0.tar.gz"
@@ -4900,6 +4904,10 @@
       "sha256": "ceb3d6058b79ea29db575c711b080316a4c023c06992a290d651c0fc0cbcdf15",
       "url": "cf/2a/84e9016769cee76f4407c3c4824b2ed97dd35d03d34825ba15554ff04cfb/django-modeltranslation-0.14.4.tar.gz"
     },
+    "0.15": {
+      "sha256": "49b82d864dff18577d455252b9d3290a21809bc09a80844b161cde3448a96d36",
+      "url": "8e/c2/4a86b2cd548e436db3d0fc4999f9c9f53d06eeec41fa1227d572ac183958/django-modeltranslation-0.15.tar.gz"
+    },
     "0.2": {
       "sha256": "9d91d70c48fe887036529a0f8af480885e8c1e01ab2d5ee1c91c4898997f6150",
       "url": "71/83/3391d6a94ca396866aee0a1eb801733108a4af43be73a714c99fea323723/django-modeltranslation-0.2.tar.gz"
@@ -7361,6 +7369,40 @@
     "0.5.3": {
       "sha256": "cca08359c26f8728953ed3a77fca1be88a4ff163c44e878c39652e273d04b43d",
       "url": "09/df/e9c4c914ab7e1077fefe30d6bb29586c0b0cda43aed721b8c1a7fa312925/freeze-requirements-0.5.3.tar.gz"
+    }
+  },
+  "frhd-python": {
+    "0.2": {
+      "sha256": "510adba9175d86348438f31c96cfb176f5f5530ca441f9494994be61b931b676",
+      "url": "c5/24/054780b4bc5229de75c3157e56742cd8a88a9af127d8b29b253d47b70418/frhd-python-0.2.tar.gz"
+    },
+    "0.4": {
+      "sha256": "d5c7a3c7f41dcaffab4607810a0a494c9adaf999c7a8fe1393f34c98e441a369",
+      "url": "3b/d0/05d96d0d7d8f441bfe9350da115bc2043e8c40a548c80cddaf890d864762/frhd-python-0.4.tar.gz"
+    },
+    "1.0": {
+      "sha256": "56343360440a0e17f14370e5e8e7c745aed177470cea77a51a1b250ac69db7f5",
+      "url": "3d/5d/d9c038a1638b4c66e0cb5827a57af4c503fb4c6acc89101cb57b1aa704de/frhd-python-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "002515d305991bd017d6fcfcf190c1f245566230d783f37008cd86fb4175cebb",
+      "url": "e6/db/0fb6f8fbce57f7a46498381771faa945688283bc709110b26025bd5fe7a2/frhd-python-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "24237f92d5d96fcf6a2c063d3814c70e14336a0e67752a4d4f1a53afa26a838a",
+      "url": "e9/01/75bd0c30b5760049cc7fef7fc40feb7afd54bea6be2bd703ef7924463fce/frhd-python-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "0c6c077a04f29632229f20b7a925e73bae7278dbc9d1e2bab85f8440cc276631",
+      "url": "86/a0/cc75a758326355ef10139b701d32d3233637f369024d0f956f7114a9b7e2/frhd-python-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "08c0a0517b9049ec5f3ba9cd9e951a65f3f2f78da3913b98a9fb03fe517cdae1",
+      "url": "4e/e2/e422fb447184b481192da8de5e1192696e8326cfe45f6a9b6ac454409c65/frhd-python-1.4.tar.gz"
+    },
+    "1.5": {
+      "sha256": "863c196c669b3db63553f0d197274c38902774bf3fd43e4feb856883b4e889d1",
+      "url": "24/fd/8a7de806260bc45cfcdf2a3883ed72238cd095ef539864f48054528a58a0/frhd-python-1.5.tar.gz"
     }
   },
   "fsutils": {
@@ -12382,6 +12424,10 @@
       "sha256": "2110ca5bbf801835701e3d944be7fb66d5473ad1e714bb2eeb676da4034c9fe1",
       "url": "00/67/b210849ba334d944fa2c42bf5d58c464aa919bde73669c3e6c303f0a7cd8/mypy-boto3-appmesh-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "02e4dee780f0f4c4cd4c264bb6ccd3aefc411e8cdf88c328ffa98adb66b51e53",
+      "url": "6b/0e/38b5a6967a2773fdf8abbd7889ff9fdb2db6d66458f721441ff6e2cc0e09/mypy-boto3-appmesh-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "8e338705df206cee505edb8ac58bcd60c93171a61484d520591be321c0975412",
       "url": "23/df/2d451028ed613b23df73bd66de4b41b92976b5e2947b4f3a50b97649308e/mypy-boto3-appmesh-1.12.5.0.tar.gz"
@@ -12896,6 +12942,10 @@
       "sha256": "3c9ae932d6c1b495817f07d0ed63f5e7e1873a72498d141b986767cce2296e5e",
       "url": "b8/15/ec2b3ae26598562e228e97eb241d2d5aff7a447e199b5bffb48c25702156/mypy-boto3-ram-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "303aab0f3337e6481e3632014bcd56a4b91bf4c0a7ea9551b509a415c8da7b09",
+      "url": "e1/49/fcd15688f4439b50bdfcfe4bb8809b209b99ce12104c05b80ed9a48199e9/mypy-boto3-ram-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "3bc1bfc61cdbf2a69aca3e1e1f0ef091ab431fad124a1f7c34a618893c8a8a13",
       "url": "4d/f1/dcdf666e0909327b7c75148a49866dd9f2c5c29fede7af94af1829486cb9/mypy-boto3-ram-1.12.5.0.tar.gz"
@@ -13405,6 +13455,10 @@
     "1.12.43.0": {
       "sha256": "52fb632e3f1555103d64ad371cf0f81fcad95132cfbc994c55a113d14988b0ae",
       "url": "c7/49/4d981867870dd8740db26290073e7dcb787f3599f2b8828da438541db4ba/mypy-boto3-ses-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "1c15fe6ab00d36c50c50bf10e3b5ff005d180e5ef085a57032fff4ef106174c2",
+      "url": "1f/dc/5499272847b1949cd58f547f3cf075eea6381c275e5a36809d2fc12c955a/mypy-boto3-ses-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "7a2aa5941a743f85e55cf618e35dae32f0c3fadabc627bfe9b399731c7be0047",
@@ -20521,6 +20575,14 @@
     "0.9.1": {
       "sha256": "d23d54a34dbce43211185c588fd22b7224a2b37e36cda69e2e4daca3d989125b",
       "url": "b3/e7/61f1f5c47c0d2e3efb3cad5c854a6bc9857cbb03e4393c41a3d900dec63c/stepspy-0.9.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "e2db7adb5cdd2b9a702cadb95ee8fe6860cd49bd70a87bf1abcfd4ff6919dbf6",
+      "url": "d2/66/e924279f7b108afc5b3011e95761f5f71a61d2c65a3279501942ce9d01b9/stepspy-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "4ddbf370bdfcdb291cc5dcc9f4057dd4a42023c857082f8555b9707b3be799d4",
+      "url": "ca/cc/912b5cd77ca0f90f5475ae25f0384ef4638ceabc573da437d491cf5226d4/stepspy-1.1.0.tar.gz"
     }
   },
   "streamstats": {

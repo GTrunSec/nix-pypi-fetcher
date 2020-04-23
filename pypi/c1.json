@@ -1979,6 +1979,12 @@
       "url": "2e/ee/4f6878ba6286182e57dc093e248a9aa2bcea84973d7dbd8919a2818cff56/blamf-0.0.14.tar.gz"
     }
   },
+  "bluzelle": {
+    "0.1.0": {
+      "sha256": "bb2a621b88f344ad4ec19069627b1d64475d02e16d15eb973837bfc6222a6cfa",
+      "url": "48/32/db20f9f0e3971f374cc40b5cffd9630afcf5b1f91434d6ff5ff0c4b38963/bluzelle-0.1.0.tar.gz"
+    }
+  },
   "bommel-looplist": {
     "1.0.0": {
       "sha256": "c901f2230d042d142ef135295cbb23a8c262fbb6d5ea1fb3d3dd92e92c679c4e",
@@ -9479,6 +9485,30 @@
     "1.0.0": {
       "sha256": "8081997442b2737697b7988bb8fd063416c12f012bbb56a27c0f31a39eba0cc7",
       "url": "86/bc/4b8a1de509402c030dee3f803224da1b6c8e768a40253fa540ed378acc70/gymgrid-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "bedb021029e8bd783e92c67294024a1fe68bb7d8e84d22d2af93fdd4471b1be0",
+      "url": "40/3d/907b36001df747257c9ae5d79504271b54df51fc391bb237a901f9218481/gymgrid-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "9947633f9445bd5341b67dcbf0bc2fe1b99ee01e281fe9c5ce412317a0a24dd4",
+      "url": "c4/95/04c32fce20a2c9bc692ff2d30f8c3eaa966c043dfc6a2e6085b9d6031ae6/gymgrid-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "5ee25ba4db739ad0b44f3952169961c2f641dd0dbb172157c8b4e353b28c0b05",
+      "url": "93/a1/fb47ac98e93f525cb29c05c00ed25d65137eac13e777d88f52516808fd04/gymgrid-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "d3ed72650ff8d210319e80f6260bef096fac4051fa4624dd3eee66963030b8b0",
+      "url": "6f/8c/10f6809d15b1d554b50530cb84a77fb2a8c8f5c894e20123d24e66cf3e99/gymgrid-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "6b1fd786363dc136a30cfe1e26b14a74be243e6fa9a0606f11f10b3750dcd99b",
+      "url": "77/07/bb6b9744f6c1d732344c5db320d43b300bc4825d4c8e17630968e50ae309/gymgrid-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "7112bda6253bbf4fa8fdfd066d3ac62ddbb3942f555b743471315092ce7e9d58",
+      "url": "f9/9f/86c8c793585611c70c18bb7f1e982bb744fda3d9de22ca94f7d8bce391c2/gymgrid-1.0.6.tar.gz"
     }
   },
   "handroll": {
@@ -19439,20 +19469,6 @@
       "url": "7b/45/e35c3461d5797743d3b4623eaa4181146d1047deb3a5169d24234aab8861/pacer_lib-2.33.tar.gz"
     }
   },
-  "pachyderm-mkdocs-material": {
-    "1.0.1": {
-      "sha256": "b40d9e19a979f1a67dabdd127451eb091df1cec20472955da3c4f91b3cd0a8a1",
-      "url": "6c/0b/a0430267afac67132447b269e34af081f5d71dc71ff43c38c43030adf9ab/pachyderm-mkdocs-material-1.0.1.tar.gz"
-    },
-    "1.0.2": {
-      "sha256": "293b82193831dbd5e7c3dcbb9d1afb963ca550b0bfaeb242d4a2712582d57a54",
-      "url": "04/df/c9ce5d0a16cf9e32a6316b3e40dae2294c5dabe12db5fe92093e79e530d7/pachyderm-mkdocs-material-1.0.2.tar.gz"
-    },
-    "1.0.4": {
-      "sha256": "34a6d85bcb605830e1ed52e75d8ee4a440d68c50c25aa198f37344363abe4993",
-      "url": "2f/ba/503b23e236dfff6ba12f9830a20105efb8771659324bf07a6d9851938256/pachyderm-mkdocs-material-1.0.4.tar.gz"
-    }
-  },
   "packagecore": {
     "0.10.0": {
       "sha256": "fa8a15462ec5d485a3ab725ea70971a19d15067bd4b544c8b56feca3f12e5461",
@@ -25480,6 +25496,14 @@
       "sha256": "6498f3ab5862c0f5d7b2745b2f084bf791aeb19d8aa71d5aff70becb6dbea22c",
       "url": "04/eb/3fc0ccbb8dd56fec51ce738c8cafd1f0e5d39e530b7f0c35db799ba54c69/springer-0.11.0.tar.gz"
     },
+    "0.11.1": {
+      "sha256": "c9997228c0a5f6153326e259ab6e6c71cfc5156bf2e1d2430f8b28fe472e245b",
+      "url": "cb/7c/b368fe8354a03c798adf09435a5bce9924adc9dbaa85c68aa7350a3cfb68/springer-0.11.1.tar.gz"
+    },
+    "0.12.0": {
+      "sha256": "a62da226a7265214fd553b8d40c08712971c564b5b11ed5b396f961cd35faff7",
+      "url": "34/8e/1fe68946bae961c00b0b15403bd30adce78a117d0a413d3a72f846f08526/springer-0.12.0.tar.gz"
+    },
     "0.3.0": {
       "sha256": "c94d27afe6b04b54b02d7b4c5660013eb8fb819878d5aecc903e1039060dd692",
       "url": "af/6b/30e2234e86872028ad2ced03da9d6b1a35c964b5576885dccaf2e6e76e01/springer-0.3.0.tar.gz"
@@ -26063,6 +26087,12 @@
     "0.1.7": {
       "sha256": "3a96b2a144204eaaa2cf108e166a2869e6ca605c13a9e36ca463a01023576c09",
       "url": "82/3c/28456c346574fcfffe4275749a851a1f04123eeb92ebf455f20cca1e7a98/tab2latex-0.1.7.tar.gz"
+    }
+  },
+  "takeaichelper": {
+    "0.0.1": {
+      "sha256": "5084db585d5eaad13dc59e7b565dc778516a44a13b584bf309839e8b3b715443",
+      "url": "ee/6b/7502a6ded67bcdc025112c17dcf534ee44907395c785f2da756ccfb1a1cd/TakeAicHelper-0.0.1.win-amd64.zip"
     }
   },
   "tartube": {
@@ -26973,6 +27003,24 @@
     "3.1.1": {
       "sha256": "de0d52ba6a6b8dc8f5598b7c931719ead03cfb515ea160f6c68befadcab7c315",
       "url": "28/3d/391980411ae8653f5e1bcdbf6c1a9d26d35feb1efa952f7e72c2071658fa/uitestool-3.1.1.tar.gz"
+    }
+  },
+  "uo-vra-netdot-client": {
+    "0.3": {
+      "sha256": "23c4531c4a0ba006db19d34095e5c9a6419002e16eb659db512d2f7d43e025d0",
+      "url": "af/3a/6a5ed35f2eaf1e76ac78d8c80ea1c2100ae46b8a280a4403f914c864c8a8/uo_vra_netdot_client-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "2d185b3984c0fdcae8547cc53aeb1b3dcd8be0f23ed3fdedffdacd04197b3cca",
+      "url": "d9/c5/5d55eac36c95d67a0442b8264cb6bf23979f0b8834c8921fd0c1f384db7c/uo_vra_netdot_client-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "f2d89029ebee901e9ef83ac599f5e521b20b031de78d49b8f2d6973a0c11eac7",
+      "url": "86/0c/f7a7f2e20da774d3256d2162e06992dd47d4359d5486452e13957e777f79/uo_vra_netdot_client-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "ab40694fe4d7418bf4de9e7ac02046f380d7f553c6534f00de3c15d177f3e059",
+      "url": "72/3e/6f11d2a77857f5738148d91a1354d7a0565ad2dc180e76616847fd248cd1/uo_vra_netdot_client-0.6.tar.gz"
     }
   },
   "up2superbed": {
@@ -27957,6 +28005,10 @@
     "0.5.0": {
       "sha256": "76e29bcf20f7a40e986f8d8d0a3d7b25dfcc4bb7f66377aaaa9d8636ad5356e0",
       "url": "bf/63/a07748e642a13697fb5b7f0bf8719c7263bb084f699de7176bcbdeacbe90/yatiml-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "3678bab4af5edad4ea742c024eeb84951c716e49d63a7ceb00ffce6e1beec7b0",
+      "url": "00/c5/0c4369422aad30358ffe71013d2b19cb1e3bc4670e11d4c075d2f8b11218/yatiml-0.5.1.tar.gz"
     }
   },
   "ybc-driver-ocr": {

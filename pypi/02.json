@@ -163,6 +163,10 @@
     "0.0.7": {
       "sha256": "29a09c33aefe25c407e8b9bf6fa38c02b449f83cdb71e99810f22fd24fccb64b",
       "url": "a6/f9/54af1e1034b312616b501fdbf0751ef0c284ec878b73b0df3db260ce6450/akro-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "4fc0dc1acf35db19b39a209e20ce14dc8197723c73d3adf3ba7f8cdc1dbf6e58",
+      "url": "9d/d4/0f6998d4e93cdc75225ad0fd96630b610894bf84bb07eaa78edd4d482944/akro-0.0.8.tar.gz"
     }
   },
   "aliyun-python-sdk-elasticsearch": {
@@ -201,36 +205,6 @@
     "3.0.8": {
       "sha256": "913be2a92c00bd3515afe7db7589d8e34379bcfaab26e9b7b9a1e7c8dfc53c6b",
       "url": "44/24/40bfae48531e777c21676606102355e70e5855a47d648d84b2779639bd2e/aliyun-python-sdk-elasticsearch-3.0.8.tar.gz"
-    }
-  },
-  "alloy-ml": {
-    "0.0.1.dev1": {
-      "sha256": "b664f2ddcce04dffd555a37c13e1d5aff0a65180eea0ad21849e638b365cc78d",
-      "url": "47/e5/cefa9c1fa44ab3e41c108a4b6f948034b2ba06bc0b48f93172ca77a4981e/alloy-ml-0.0.1.dev1.tar.gz"
-    },
-    "0.0.1.dev2": {
-      "sha256": "10a63537f8583fa93f74e8cf45c801bc14c0db6150b6b8e07fc4e379ac6372bf",
-      "url": "de/bd/02266c3214b989dbb35cbf5fdc714bd875f02f45d1b364fad39ca01a8ce9/alloy-ml-0.0.1.dev2.tar.gz"
-    },
-    "0.0.1.dev3": {
-      "sha256": "49cd4a84590304567dd35f772528b93dc61c200c647545da38f5e1fd9e83f597",
-      "url": "5b/ea/f0f14fa75c34ba9f0517f97eac2e6fd9fdc57619e0b4e8c43f32a1bda467/alloy-ml-0.0.1.dev3.tar.gz"
-    },
-    "0.0.1.dev4": {
-      "sha256": "d24d8dab2663b7c2831c323869c9f42c834c9053ecc9fd03255ec014bc3a8b90",
-      "url": "d7/73/1cb18c65c24b12e71a30a43a0745180f4d8d6e1fb6ed992f41de83c5d67c/alloy-ml-0.0.1.dev4.tar.gz"
-    },
-    "0.0.1.dev5": {
-      "sha256": "d13f0dec095909331cb02b7299176bfc7de103e73aa1d02a38503d8abe443a5b",
-      "url": "a8/13/d16188f8abe86fb513016f7a5773e6d94ff88803a26db37e5e60d5ed4a7e/alloy-ml-0.0.1.dev5.tar.gz"
-    },
-    "0.0.1.dev6": {
-      "sha256": "b0d3d358eeca993219bc0b67eadd42a0fe0e75068981ea5548bec3a7a5ce077d",
-      "url": "69/91/b79137603532fc131be44ff6d8f591df62fbc2b35f0fb5f41b04695e6cff/alloy-ml-0.0.1.dev6.tar.gz"
-    },
-    "0.0.1.dev7": {
-      "sha256": "0029e0edbf010068c412267f5c18986f596c9546dbc79d3c91e400e441045b0e",
-      "url": "ce/79/f33ffdc07bdf7f5421f8465908951909628a03b6d3d3a24786d593cbefd0/alloy-ml-0.0.1.dev7.tar.gz"
     }
   },
   "alm.solrindex": {
@@ -11715,6 +11689,10 @@
     "20.4.0": {
       "sha256": "18283d2c5c0bfb25f1e5dcabeaab0784eabc765b32b8b4729ad16103d01bde89",
       "url": "8c/0b/4a9447cfe4692c5e86ef4ef9a5230bae73a6954349f56923d7bb3618163a/madgui-20.4.0.tar.gz"
+    },
+    "20.4.1": {
+      "sha256": "2cdece9841545ed6f36239224a64b8bd0f1a9c9faea20ab1e031f52e5fd810b1",
+      "url": "b5/83/1ded0f2288bebef883c835bf0973ae792766a1766ce7e6ed547b209e53fe/madgui-20.4.1.tar.gz"
     }
   },
   "maflib": {
@@ -15325,6 +15303,18 @@
     "3.7.3": {
       "sha256": "5a57a20cb8900d10674da3c4ecdee0aafa57abe6b1bf33e48244df7b749e63b7",
       "url": "40/a6/dd81ab642909bcf0f9603a59f6e4224861195b215b2550c1eff344dbb2fe/peewee-db-evolve-3.7.3.tar.gz"
+    },
+    "3.7.4": {
+      "sha256": "ff94957bca3ecb6b2ffaf708b0b251c0b5c06dfae00f8b12441061b1ba89cf08",
+      "url": "08/9f/0da9b437d157ce4fc5cbcac6842ba0e0d3ac0fcda6f9641c83260bc19570/peewee-db-evolve-3.7.4.tar.gz"
+    },
+    "3.7.5": {
+      "sha256": "09419509af89cc5d39a8fb60167cb5e7c39c437a1a4370abb60cc94497c54cbd",
+      "url": "87/29/ab19f3ea5b5cc026935301dfa605c6cfe41fe5a5a000bd3979fafdc8ca2d/peewee-db-evolve-3.7.5.tar.gz"
+    },
+    "3.7.6": {
+      "sha256": "b279fc1d317de9f9d204ab85758415bcf1d437515d583d48caaea55346b2271f",
+      "url": "43/b7/5e75c8fb646ce19c0f80658252a4eccb58c24fa3b5ca7b386cf6fe5b3f39/peewee-db-evolve-3.7.6.tar.gz"
     }
   },
   "persian-wordcloud": {
@@ -17437,6 +17427,14 @@
     "0.1.3": {
       "sha256": "eae0c0fb82fb1cef414c76a70697029460f82f8eea5333ebff7b74c1225d0198",
       "url": "55/54/ecd223332080bbca4d4944ca95bd656c3dddecac2045c6f1f6a4545ea178/pyobo-0.1.3.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "1c1ce9d5cf37b9351d5d24b0d9c240a041b1b58420ecebaf86265b1bbd5ec8f5",
+      "url": "a7/60/0ccaa58ebdba394749de119cf995e296338b14e9743d0be670ee7f4ef6fb/pyobo-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "26a6b27e185caa1e5f49f06a30914a5a21060fa987429cecba1fca953f6142e8",
+      "url": "4a/2d/d1418fbea18fba95a005be6aa94b5ad5865d21308df1fa1f69fda80f2624/pyobo-0.2.1.tar.gz"
     }
   },
   "pypeton": {
@@ -23075,12 +23073,6 @@
     "1.2": {
       "sha256": "e08d65c07a00605894f233da25c0fb79d02ba49792eddd1854dbde2ca9da078c",
       "url": "17/11/1b08765fcf0b4f3cb23cc95352709ee1e1dbf5d186f6f6d4e8a7006ea44a/wcpy-1.2.tar.gz"
-    }
-  },
-  "webdavconvert": {
-    "1.0.0": {
-      "sha256": "8acdf756db276f91d3ae87e22927619853cff98fa4cb2170bde0384082db7869",
-      "url": "7e/2f/9f451832f18629ef4922d7b89841453ee95b5a238d994295e8049d9d7f9d/webdavconvert-1.0.0.tar.gz"
     }
   },
   "webstarts": {

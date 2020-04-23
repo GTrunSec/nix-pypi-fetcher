@@ -1927,6 +1927,10 @@
     "1.5.1": {
       "sha256": "c30f8bd8773a095c9f2caf044fec74295439d0ed41c731e537a474504de1c8bb",
       "url": "c2/77/d2a196edd2d97dbadd5f7b026ecaa016f01181d835f7abdb8d211e9ab108/bids-validator-1.5.1.tar.gz"
+    },
+    "1.5.2": {
+      "sha256": "6f3bd0402d41ee9be03637d74f34a7db279d00cb9c6386b0597cbbac16ee8f4e",
+      "url": "a2/54/e5645443b80ea6517b756973b3a7af3d0a910eecf4542ce36baa80a35c7e/bids-validator-1.5.2.tar.gz"
     }
   },
   "bigchaindb-abci": {
@@ -15607,6 +15611,10 @@
     "0.2.0": {
       "sha256": "0f421c6d162e252a4f614b225134097faeb4a01b7c93d5fecbdba30ff2a32b55",
       "url": "b4/7c/861b0650491c52bceda7e83aece27daccfcb17a5516fd796347449c21a33/pymap-admin-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "298b8121c8aaef4831054b0a4fee2e67720bd93bfa34f1fda93fcda0320eb6db",
+      "url": "3b/c7/7e2aca5c954e066bac6391aa7d9739db0786603944cbf8e8a0f5dcf83d78/pymap-admin-0.2.1.tar.gz"
     }
   },
   "pymemorymodule": {
@@ -16847,6 +16855,10 @@
     "0.7.6": {
       "sha256": "3ae05894068f72a9c1b13605d12b19df04d635cd8f99f496b016b58db2115c0c",
       "url": "0c/a8/818e39860c70bcc7f7532dfdf03d5f5637a924205896886f22627d52449c/rawpipe-0.7.6.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "fb4cb07fadbc714854a6b83279eff20cf588bbaf3f72b2e11c1b9d337e5b7c4e",
+      "url": "79/c4/bbf78b28b022601ade187112687740a02844dbad125c3c05e9d12b1be253/rawpipe-0.8.0.tar.gz"
     }
   },
   "ray-peewee": {
@@ -18703,6 +18715,10 @@
     "7.0.0.0rc2": {
       "sha256": "f7057c1054642408e68e41fd2698ac68568a8a647752bc0f844087e56372f5a9",
       "url": "8c/98/78aa20cc8f2826dac4fb01632cdfbd14f25189e2ebd4fa56ce19829832b7/solum-7.0.0.0rc2.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "a088d5049c1e2b9bb7eae5b244ff0c9c9e3d2b6df425c0727778bafcf6c77271",
+      "url": "1c/00/1024c2a75eaa1cb994832cf1406885a1dde304c6d58d8077416c28f97d5e/solum-8.0.0.0rc1.tar.gz"
     }
   },
   "somosmas-common": {
@@ -20203,6 +20219,18 @@
     "0.4.0": {
       "sha256": "f28c9e0cca7216a383971dfbbf47cedd751e1285ef35380938f7575b2aa9015e",
       "url": "f4/75/1ddb22924248a6f7a929e417b0d91c443fb825d705a781f0425fb0d2d2de/twitterhal-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "cada4cdc354789186182937d3ed5887f8e854b9ed2a06e1c2cd5a4944e763385",
+      "url": "ab/f3/0267bd30e468175e8b1af80f5b6598983fc3380e255e6d4da2268644e45a/twitterhal-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "ce14329ebfe78a8c29cfef08073d452c5409eb5b278533d5ff93a54d1b994b63",
+      "url": "50/cf/b6eafeb55a9b70a4ac0dd0ce38715840aa14a25a27738280d3037bf2f889/twitterhal-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "f802aab7340e3e1ffd9200d4bbf728111338d8043f1344eabcceddabf465a84c",
+      "url": "3d/6b/52477f1f0ddf431914a6f89ab8f7a9d221e50d5f5e1d05d8ec9f92ae2915/twitterhal-0.4.3.tar.gz"
     }
   },
   "twyla-chat-templates": {

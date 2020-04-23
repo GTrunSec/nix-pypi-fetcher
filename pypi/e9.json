@@ -1676,6 +1676,10 @@
       "sha256": "e29ca64c2d3c1a744ff58f5b46d16e1e0d22ad51d22d4653bdf01d69beddfc3e",
       "url": "3c/b2/3113f8bba1fe6c2b7bbf46d20c932ff1761fefbd7d971e47de9ce59c705e/aws-cdk.aws-iot-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "b1c23f0c3976f4a785c741970a7b9ff80e114598b71697f663ee1fe3d8facee9",
+      "url": "85/60/f8346c364f87e693112d5b0b6842c4119a30ff14d1395a8e98c90202db04/aws-cdk.aws-iot-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "faa77567968ea472e2f065170651e71a166f07603942e4c788b7c25b1335a8fc",
       "url": "e7/65/efeccd325f1033af70b123789edde23ed942595d09a6f3be50f46f977ddc/aws-cdk.aws-iot-1.4.0.tar.gz"
@@ -13608,6 +13612,10 @@
       "sha256": "eceec1378e67189e3fecee38bea4404f60d64094f1eb212bc2fe85d83d262094",
       "url": "04/97/bc30223bcf0d1e60abf72d768f96ade7236193c700e87b8b96217130a957/mypy-boto3-frauddetector-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "1db0310f4a542764f36bde5e498904257740199c77e4df8c4bf28869179720a0",
+      "url": "6f/05/4f2fef0bc0d0ec87b66a4d0520d5e34e524f8f56f530d54b74e4610c9902/mypy-boto3-frauddetector-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b52cebb7462ae367feb3c389eeca52c87b7054ca386ab100e6d4d4b3d89c2483",
       "url": "6a/56/b21d6e9f220cba9fec7bdec3159c8869abbdaeb70954c2562a4bf18fa748/mypy-boto3-frauddetector-1.12.5.0.tar.gz"
@@ -14121,6 +14129,10 @@
     "1.12.43.0": {
       "sha256": "9254a5d7869d40ca4f1b89d8f42c8563a1ecd04bac190e5efe565d923ad1f305",
       "url": "64/60/ff4ae76015d3bbb859ccf4f30ba4f78450819bb8581ab56e641b03c51042/mypy-boto3-qldb-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "72b370a481790dd3cc13bed53f8c8386e7d05c74b1811ce0494374af3446425a",
+      "url": "73/fe/cdf507faad25d9a4f5ba613faf68b15a3c99e68bdb5a7579ce0b7a801344/mypy-boto3-qldb-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5ef6d300768d51b50bf26d61461fab7c87af26db177450a3ee2f3697860a7867",
@@ -20049,6 +20061,16 @@
     "0.0.1": {
       "sha256": "03d0fef6bc07a14d44ccf2241c425b9cbf2dea63121f57a2c91631dc8c1876bf",
       "url": "59/fd/7f8329fc4821a641e3e5940a5b6a72a4fb00379d055823baffe4036b14b4/seamster-0.0.1.tar.gz"
+    }
+  },
+  "seasor": {
+    "0.1": {
+      "sha256": "3f3dd7a24cc93bf8eb8ac5796c00494bc4daf02a0b2f68cf376ed5dafcc4df7a",
+      "url": "1f/31/6034707e868e0af0f946e63fc0f834a85e1cad493aa5815d9baa726fd28c/SeaSor-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "09ef45a828cf072f829e3168d95c05e5afd82bfc7a98ad8c5c2c0c8e9ce20d45",
+      "url": "1e/b7/7d0fed45276cc59ac3accb69e4dd6916a8b9ad306579d38a259f3289dc36/SeaSor-0.1.1.tar.gz"
     }
   },
   "selectel-dns-api": {
@@ -26109,6 +26131,12 @@
     "0.1.2": {
       "sha256": "02dd418434690e0d34117871d974f838726aa6a51bf12baa8c308ac571511ec7",
       "url": "ec/87/b61b0ee2aaf2f2dddd5e51a08dcb010147ae10611f3a0cc6b4319590bc04/sopel_modules.tableflip-0.1.2.tar.gz"
+    }
+  },
+  "soundswallower": {
+    "0.1.1": {
+      "sha256": "4947f0615ebb751797c9ebc44c21ffbff0e8d87221520ee245da819632409ada",
+      "url": "3e/e3/962b09d5f6b32553b95d803ba85b8ebbf8e2ce20c2c04b2a9995fe1959a8/soundswallower-0.1.1.tar.gz"
     }
   },
   "spas": {

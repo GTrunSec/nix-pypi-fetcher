@@ -12081,6 +12081,10 @@
     "0.0.3": {
       "sha256": "321241381ef1a96096f3156045c8318f15ab555ebf6ba8a01dfc829e701737d2",
       "url": "23/56/560713f7ec0d6435a62cf7272f636f6860400e9e48f511a8a1eb5b516380/keras_dna-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "a532c05a3cf094268c84ea20c6adc4403bf3e07ba22215fc2c6339f87dc986c9",
+      "url": "d1/94/64a384301f98c74d408b1cc2956e09428286ee7807ef394ca8f41db3ec40/keras_dna-0.0.4.tar.gz"
     }
   },
   "kernelml": {
@@ -15608,6 +15612,10 @@
       "sha256": "bc23e8a7b79ee5852b5479260fed0cbecf52eaa7206eb841452fc5f5fe2c54cf",
       "url": "74/86/fc20e081720381ef724cd51197ac1f0b1fbb10fc2edbb620911d4fd64052/ocldev-0.1.56.tar.gz"
     },
+    "0.1.57": {
+      "sha256": "fa82fa935dc44165bab0054a8c4c7824ed71fb1a3c3f49ebd373042794762c4f",
+      "url": "06/8a/55945aee591441131226d432dd91ab8a8bf47bf41adfcd0ab6d0c6dbacc3/ocldev-0.1.57.tar.gz"
+    },
     "0.1.6": {
       "sha256": "8e72cc5a839b3df52771bf2c16098b3993ce8999eebe1093a475f577ddcf81a0",
       "url": "85/32/3e2a500ea106bca49587f1700db0f03fa70e11d72872274c2e043ae6d0ba/ocldev-0.1.6.tar.gz"
@@ -16453,6 +16461,10 @@
     "1.1.3": {
       "sha256": "4cfe30eb6a3967a368d723af86b02112a4ff5fc1c7e2937f651a16c31ed70ec1",
       "url": "1d/9f/703a9b61467b4c5033e4c2194b41d9a4d9017abb748bcb014f4575aa41b4/pippin-wallet-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "ebcfc469ef206315f96611ca3f5da97ce98ad8f121011f7634e7a2c921f16762",
+      "url": "c7/8f/409bf8199660ff81728d29143bedbc15f5ce4d3d123491a0c1907089275f/pippin-wallet-1.1.4.tar.gz"
     }
   },
   "pistack": {
@@ -18143,6 +18155,10 @@
     "2.2.17": {
       "sha256": "2cd905e0719d8f7fdd4d5f61c7e334445f482d321139ed2f22d3ef430b8a5013",
       "url": "e4/b0/f72cce08c79f1dba83a1fa60b2f334bf46fc9f4b22dce473857df4d412df/PyMassSpec-2.2.17.tar.gz"
+    },
+    "2.2.18": {
+      "sha256": "88255a343ce669759e2e26d39ec8ddc4dfceece196635409619ebdf94c873de7",
+      "url": "50/c5/981358cef2f5f9bdd7b2d468d4f5cf660bd159a3ae9867f54760275daa81/PyMassSpec-2.2.18.tar.gz"
     },
     "2.2.3": {
       "sha256": "b137c3d0373139bbd7e499c9bd9f3731358a081ddb4134d38d3b1989ae44e080",

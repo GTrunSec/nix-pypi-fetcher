@@ -5538,6 +5538,10 @@
       "sha256": "7e84375ffb95b8bcf2cd69539994e1e621e8bdd5ae9d611b33ac9b07594848cc",
       "url": "f5/5b/f762e57a37675ffaa0b6b4ab8783a958e3ac33212dd84d768314e0d24772/dagster-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "42908c393852563b328224cfa13f5df3360099d7e52872dc719e74bccaf83b63",
+      "url": "82/2c/a16b2e5fb3d6b28c9cb369bafd6a4607420952e3f2c3c1a18e9556cbc7a6/dagster-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "079ba9b6de36bccefaff5a4f2ea455d7cf2e667c45d232e72f5dd4e075c972ad",
       "url": "e1/99/887f05309fd1146ceee8d5bfb34e0e294ed1e99f23329fed6b83332bd12e/dagster-nightly-2020.4.4.tar.gz"
@@ -9265,6 +9269,10 @@
     "0.3.2": {
       "sha256": "c7df5ee008c2e0275c712ab6a573a1330f2217fee82af12955ff502656e05a38",
       "url": "83/0a/32e769f841ff8b555327178dfdce941e13159c2de8e48bf6b002d6891bf0/flask_shortcut-0.3.2.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "343ffa461e53f7018cc26918e390a38c9a446b80c4cf67ab2970a8e4cec16814",
+      "url": "c7/85/312a93e523e93f2fcce2a53697f14e753824b73d8e766f048f32c5f84e4e/flask_shortcut-0.4.0.tar.gz"
     }
   },
   "flasksqlalchemy": {
@@ -12229,6 +12237,10 @@
     "1.1.5.24": {
       "sha256": "638027c8e87409e0d5222df32f288b000d66f031cb878906980dff65ce8334d1",
       "url": "f7/d5/15446f049f43feb46582d68c5e15c6893eac8654273457b462dd54ca5531/lins_unous-1.1.5.24.tar.gz"
+    },
+    "1.1.6.26": {
+      "sha256": "cadeaece7edf583fec62078d822e3edd3ba053fcc93d9e6479461c59a9765df4",
+      "url": "64/95/10b0cde55019a17454ae41958c84e6e1e2a7885e75ea778d43aadf4d19ea/lins_unous-1.1.6.26.tar.gz"
     }
   },
   "ljw": {
@@ -14068,6 +14080,10 @@
       "sha256": "6f6091284d9ad22522087f722df8cf3e4ca42313c6c3232c363feab16deaccac",
       "url": "95/28/dba2b2f2a2e2fff9e4658758a62dc4345280d61decece4bd9798edd5338e/mypy-boto3-kinesis-video-media-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "9f37822a5396b1e83bbff1d4c8f0ea229cab044bf0b8080ee265e83b98127832",
+      "url": "a1/60/43374b2630d98a1a7ea4c8168211cc66fba9efc1a45e9180ad9f5579bb0c/mypy-boto3-kinesis-video-media-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c16bccc097863029b4adfe513e5d1b27a865181328636e4b570b9f87a4c70bad",
       "url": "db/01/59c9f7adce197640f25e7154037c4ee652cda21a39eed21d7abe53869b59/mypy-boto3-kinesis-video-media-1.12.5.0.tar.gz"
@@ -15531,6 +15547,10 @@
     "0.1.4": {
       "sha256": "4471508ee4361e38462597384f04ce5c464d88d81c796c76feee13f9eb3f14a4",
       "url": "29/a3/0d09efbcf23587a6116ec527fd8054ffd7a96c33efd77d199697213c7fca/osm-road-length-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "8864ea011f39fe11c83651e51a25fdafd956a7b9d755c5fd884bc75d6756d487",
+      "url": "08/35/e253038919beb3e460089e3c146e51918b3973a2d7cf9e049127b71e48e2/osm-road-length-0.1.5.tar.gz"
     }
   },
   "pampy": {
@@ -16801,6 +16821,10 @@
     "6.0.5": {
       "sha256": "2f559a7bd1ee309a4a6445e2f5788e25a5d81508518d846f3ca8656ab307e5ef",
       "url": "44/c5/59e60b571d49bd76cc1355fe8876525d7b3074dcf101190ba2d188f9236e/Products.PlonePAS-6.0.5.tar.gz"
+    },
+    "6.0.6": {
+      "sha256": "949559c476b465e43b46ad70bc6fcb203709cabfa90505cc0a91ea2285ac5a51",
+      "url": "d5/f9/cdd6f777e8042dcd04dfb5bf33a84a033494d377db31cf3ccbb8277fc636/Products.PlonePAS-6.0.6.tar.gz"
     }
   },
   "project-dataset": {
@@ -19035,6 +19059,10 @@
     "0.2.0": {
       "sha256": "236f2436bd85a8eec7841d4b6dc380673b6b82880c89ff33df3779389e1a4e04",
       "url": "42/7d/d946d2a79b8052b636ae46142bc6624684148ab0b2bd089b08c4b73dcc4e/SalesforceEinsteinAnalytics-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "bca77c3e9e144b89b5fa8fe77d146b4c40e3b23cab4d5ca8b4b199a81c2f1c0b",
+      "url": "07/0e/e214ec68dcabf8d16db63f655448f259f9d1c30273be9f03b33b09452d12/SalesforceEinsteinAnalytics-0.2.1.tar.gz"
     }
   },
   "salt-tower": {
@@ -22999,6 +23027,10 @@
     "1.0.7.0": {
       "sha256": "e80ce1e92b47b542fe86987abca7b125fb895147070b5ebb43e5b965c25b978d",
       "url": "f1/2d/6be231a29d2a2a0a06a21d53b61b81a7c62513bf51a537a51f17d5c013d6/XStatic-Graphlib-1.0.7.0.tar.gz"
+    },
+    "2.1.7.0": {
+      "sha256": "f5dac3233511e9860453aafab9c6aaf3392fee1c4167476fa64173a1cc86f59e",
+      "url": "89/c4/8950df55cbf095e51289d714e6e5624341dbfc10bf25b4cc37aa0d11edc9/XStatic-Graphlib-2.1.7.0.tar.gz"
     }
   },
   "yadi2": {

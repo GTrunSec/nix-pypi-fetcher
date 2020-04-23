@@ -413,6 +413,10 @@
     "1.0.0": {
       "sha256": "73e35dd34c4c99b8249a5b4647c4603cf86330af6d534125d05990c4fa480b4f",
       "url": "04/37/e93846c68842f2a4773942156eb14787f8001116b7a52a25acb66fe45861/aliyun-python-sdk-cassandra-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "f4ffb945f4e70a07898bc3e1f61d0b4427b12106471042ded7a1a81bee9813d2",
+      "url": "23/70/20978550b3dd61196102e34999cb015f8515463370a05dd065abc322fedf/aliyun-python-sdk-cassandra-1.0.1.tar.gz"
     }
   },
   "alkali": {
@@ -1029,6 +1033,12 @@
       "url": "1e/8e/44d6d87dcf069677554541d6b1b26e0415830bdb21a29e2f88b80a611399/atproject_1_1.tar.gz"
     }
   },
+  "aum": {
+    "1.0.0": {
+      "sha256": "425ddca41cb40bac729cbcaa3c7b84c1fc2ce4b7becf7c6e7b38b11d3e565a63",
+      "url": "b1/6d/567e4e965bcde79226443eef0a69edda74f218da91491f1333a92c299a59/aum-1.0.0.tar.gz"
+    }
+  },
   "auslfe.formonline.pfgadapter": {
     "0.3.0": {
       "sha256": "1fcfd5748c1bbfe20b3a75aa58c109abd993b7b3a7b488d29558cb8de875453e",
@@ -1291,6 +1301,10 @@
     "1.34.0": {
       "sha256": "4029dc5074f53ef11e3f7ffdee59825c8a89b6fdbe7813d570b9deaff1b8c607",
       "url": "18/e9/3d4f02d4c2ef89699d158e93d0ee7725156b6bd1f77c882c996e77a565b0/aws-cdk.aws-lambda-destinations-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "7e481cbe2700935573e7b233f11447596767c9fe90ded7bcdb8ae9090ab5c988",
+      "url": "bd/b3/f793c57019af32873122a50b12bece4220bd627b6855b9f33ac491bbda6f/aws-cdk.aws-lambda-destinations-1.34.1.tar.gz"
     }
   },
   "aws-cdk.aws-rds": {
@@ -1513,6 +1527,10 @@
     "1.34.0": {
       "sha256": "95c342af32a3b609974bb05f5b23de7f058f6689cc8f28f5f44c84050915111a",
       "url": "8d/3f/fb450427c362148b06a8d6232e8aaa6470c94ef81c285ea8abc3c681c916/aws-cdk.aws-rds-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "954f120525c422160c305aaabbe401a2a13fcc7de5a3e0dca8b524a49f93750c",
+      "url": "da/88/0ea398fae2b4f8258f3ff0874d6c447d0253902eea0d448805f45f5918db/aws-cdk.aws-rds-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "13b7d9f193177299e13271eb455b4e0dca44632d36333079d549ea712f148a11",
@@ -10482,6 +10500,10 @@
       "sha256": "88df0b162e57bc653f26e47e01b8a28f11131a7bacdfabcbcfaa2295d8b9fbb3",
       "url": "5c/af/1336a3728cc1972febcc6d89ccb22d088df5d9367513e394ee2acfd50d92/iotile-build-3.0.13.tar.gz"
     },
+    "3.0.14": {
+      "sha256": "48acc4bf958d8c0bf9f2ba5dde0b04a3c0f1e29519dc371ba5005b8282467d15",
+      "url": "44/17/584d906d4fbb3bad5722c8b38891e49e40efcd8f359246c8075c26e43d88/iotile-build-3.0.14.tar.gz"
+    },
     "3.0.2": {
       "sha256": "789c305baabf1fb7a4bece3f5043a1e2b18a66c60f191fe969ef0d90b5d3771c",
       "url": "d3/2d/9f0e3fe214e43648805c8cc7761bc148528be3276943509a92e042ea0a20/iotile-build-3.0.2.tar.gz"
@@ -10649,6 +10671,10 @@
     "0.5.0b8": {
       "sha256": "a3685b0124401d9ceae7c7dc7b2d3c5a90c10b8383f5ac4e4d7269f515d3268a",
       "url": "9f/a3/2a95dab38bbf2882cfe625a1d762d24a9ccaf2f7b5e0e0c91720e0d18dfc/jadn-0.5.0b8.tar.gz"
+    },
+    "0.5.0b9": {
+      "sha256": "95c90cf158fb3ff3f5d22f1fa883f22a8ef9cffadb26fb135b945c2a1ce8dc77",
+      "url": "e0/85/2e72e478533057887a89e6848047272635aa861d39e2b682d8f4c7b0bda8/jadn-0.5.0b9.tar.gz"
     }
   },
   "jagatest": {
@@ -11023,6 +11049,10 @@
     "3.62.20101": {
       "sha256": "73cec3207fe2739f0829f15ddc8c6f87433aa1627194718477d43f3a87b9591f",
       "url": "4e/c0/4b231e4d89ab806e82e4a0ccf08f4a62998d1d67cb286d7c0053fd66aa87/jx-python-3.62.20101.tar.gz"
+    },
+    "3.67.20113": {
+      "sha256": "52710d344ed10685f22adbbe7500a9b811dfab76627dd5b3717d979b4e411810",
+      "url": "fe/bf/0a7780c5d4a65910914f7d1c2cb9d436ebd13e48d2efb1a34c882e4fd5fc/jx-python-3.67.20113.tar.gz"
     }
   },
   "kash": {
@@ -12371,6 +12401,14 @@
     "2.4.0": {
       "sha256": "88dd2208f6c19ab2119661e820809d4462dc26bf64d31ca264f388f56ea9cdc9",
       "url": "71/78/6ee6abf728c2956c1a7cffbe39885a62fda4d841fc69452c641e3b4f10e2/mezzy-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "5ea70ce93a99da5a3ed94627b313f80ea117ae78d99e316701074f6668982205",
+      "url": "aa/04/1cf293196416d9c5035fe22adf8924da26f0b66fcf8a43033916ec315920/mezzy-2.4.1.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "f02161524a7fa4ce7e2d8cebf119ff709bdaa7763acd753542c9b6127984c02a",
+      "url": "89/78/efc40e7393bb87696ab491cdae8e3989c4b0c9c147b5c14c834fe2f52148/mezzy-3.0.0.tar.gz"
     }
   },
   "microcosm-pubsub": {
@@ -13959,6 +13997,10 @@
     "0.4.0": {
       "sha256": "4b7fa1038041e9e75794b53851fd5091186a7af0b8ddaeecb850c7565fc56938",
       "url": "5c/4b/161c042e82a1da93c62df41bc484fa4d91b542be46384a1a618860af89b9/nojava-ipmi-kvm-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "e7307476e5805fd4ddeb613da4310909a90875b1bb54eca117feda9f4427593e",
+      "url": "f4/e0/c8062dd75f3c6155cae8259873615d7ec544f1484e750a2dc6e26bd2bf3c/nojava-ipmi-kvm-0.5.0.tar.gz"
     }
   },
   "nudged": {
@@ -21579,6 +21621,10 @@
     "0.2.3": {
       "sha256": "2681884f3c9421253eda60d79e3397f3a25ea195e4f460001d6cb23a60f3a1dd",
       "url": "ae/be/537913347d296be740db9ff82f4a0065c1b17589701d2975728229fc8f04/td-ameritrade-python-api-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "15ef0a69219f34a70206eb922d74dc35d6efa9d6cf701c7e02870f538f725d51",
+      "url": "4e/33/e971eb69cfd0e9c44c4d453c0f29518287fa7f9ab5b00afa4b409cd0f7fa/td-ameritrade-python-api-0.2.4.tar.gz"
     }
   },
   "tdexapi": {

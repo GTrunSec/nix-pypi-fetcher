@@ -1690,6 +1690,10 @@
       "sha256": "b0858f5de4b72adcfb88d24f6bb9d82aa2fbc31ebb669de0e3d120b8818d47e4",
       "url": "b0/03/83cd57aeb770a45546f1302cfa2d3e685a9c81d3abb7671907ce90249f75/aws-cdk.aws-codepipeline-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "af3d8261fe75fed6cf5b24f45dbfd32cc2500af243d6f5743951ea577d4b6368",
+      "url": "92/69/17f2d5053de0836b6684bed25c51016b8b25e66fc9e99fc4f8111654084e/aws-cdk.aws-codepipeline-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "4c123a7a8c35c122350c62f4b61ad3d520ed0e9bf54fbd64d66a25d016815064",
       "url": "84/f5/bb7b033bc4a9d25be4f8feb899aa33e34f69c850fe4d465093a3dee52787/aws-cdk.aws-codepipeline-1.4.0.tar.gz"
@@ -1859,6 +1863,10 @@
     "1.34.0": {
       "sha256": "54443ab0a20799981fbd8e2dbd6f17fb2d003e663ec66fb04d24427bdd1301bc",
       "url": "32/ab/4aec69eed8c8987ede8512435c22c8acbe8a3ce7193d636b2dd9b9b9e10c/aws-cdk.aws-elasticloadbalancingv2-targets-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "8dbb2026f2dede549c66d00053c05037b29dd3d12b149151a42d1cc06b4c9334",
+      "url": "d2/e1/e481d4564221b4d9bee2a0937bd8b26d7f2fa0734d74cc94b714e2700ca9/aws-cdk.aws-elasticloadbalancingv2-targets-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "cb2240780a62149dc666a85f3d744f44bcf951210fe93d41d8fc777174307ebb",
@@ -4333,6 +4341,10 @@
     "0.3.2": {
       "sha256": "e829a28228e2dbac0c8849a6980e1567a42a962268d9107e3e9d2d9454b6a404",
       "url": "4b/65/08a3b4315ce789dcd858f326650cd39f75131a76cc74a608043d5aa3d576/coc.py-0.3.2.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "a83e7c7087358f4c5df3fd4a24dc332873ae0688de3341d0b66abefd8d1ad908",
+      "url": "1b/21/61b6fa9b1589a915e90d2fd1d9122ca648977471493df2b6e968908b05f5/coc.py-0.3.4.tar.gz"
     }
   },
   "coderedcms": {
@@ -6873,6 +6885,40 @@
     "0.6.2": {
       "sha256": "10c076436efdd77d0eeeaeb71e4caa6baa13dfecf1abc800c36256b7aab41b33",
       "url": "a9/58/8e2c088a1a077880be17e98481ae79a83a25804cf1053914a927beda2db8/django-telegram-blog-0.6.2.tar.gz"
+    }
+  },
+  "django-tiny-util": {
+    "0.1": {
+      "sha256": "e83bf893376ef218a1eff6897ba998b7af042a75a3e24db6845e28219eb36115",
+      "url": "09/20/edfe7fbef2da0d43c8e660f089ebe4aafa19e123487ca34729ff840a91fb/django-tiny-util-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "c90582140cc56c9f611dc587eb4d4f40e47b17463d4d263499a93f1bcf4a903b",
+      "url": "65/5e/4f6a44bb0291548bd946427c6a7dca4b8a3e5da52cf899b533f58e9e2823/django-tiny-util-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "82c6e5201f41cb3e83adcdde79584a8a15a582db98ceac48c8bf69056c1bf04d",
+      "url": "ea/45/a400f2efcfe39fdf97e6b5d118343246a0810c924bd7c33e0322449c62ac/django-tiny-util-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "29b06fe10f86d9e1b68f226edaad7fa55fe237bedd2537a925236043634d1654",
+      "url": "be/25/2fbbd7aeb1ed2dae69006c5c06daed475e9982d3030d34208a5dcf4da1b0/django-tiny-util-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "3ee6115ffbd6b1963b7f18d5592c4a118e8fe2d17c34bb1eb334764e5d460421",
+      "url": "ae/05/6faa3a0c8c2ba593a5c7ae1a7f4fa632b333298e8468d748964949969c8c/django-tiny-util-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "1c76e9ae55f94da8e40d36a4cbc5477e953072b00e7d46561e962843be320034",
+      "url": "3d/38/569a40d0b14a54272454fa8203a2dae5a3948e99c91e7377a30d3e5d4cb2/django-tiny-util-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "44f453e95f73b5c2b55f05aacae318242df5da38f556cddc079b9c9117eb819b",
+      "url": "fd/17/d7a68a77f4ba450d70ff0f96d34b5f8af8dfbf5278af03ed0e0637ed80f3/django-tiny-util-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "2b964760b4f756f9fdf840bbcb7fad3999e5fd511c5f7c219a9185ecea75cb6a",
+      "url": "08/46/aa4356f0895ec5aa810af08cc508554daa26b29116ea1a907caabeed0dd3/django-tiny-util-0.2.6.tar.gz"
     }
   },
   "django-tsugi": {
@@ -9453,6 +9499,16 @@
     "0.1.4": {
       "sha256": "756919c6cf9520a42287e1c6c5fe687af9bfb0e4d50a8261502670b2bc1c6274",
       "url": "60/06/fa62bde326c0b5d6513f235f80e8de14534fd06bf26aa21d3b9d8538e86f/filer2-0.1.4.tar.gz"
+    }
+  },
+  "find-home": {
+    "0.0.1": {
+      "sha256": "525b06dc54c1d35673c3488bb5b8c4bd9ed8cd1cb361342d0aedc21d72be1e73",
+      "url": "f7/05/3a90a651fe6986d635ff351d3a36a3680bfadea7b5837617e0f467282dd3/find_home-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "c1d456c8435c50e645baa8c65dde3af35a9cc2baf7e9b76d774889994f2ec8ca",
+      "url": "37/7d/2c82447a53291d0d8ea6573d938198d1707a87a81fcf06ce831ed02c2db9/find_home-0.0.2.tar.gz"
     }
   },
   "flasik": {
@@ -13535,6 +13591,22 @@
     "1.0.1.dev71": {
       "sha256": "1814a5848a257ce07732acb06528da470356f944ffb228f75109715e688f154f",
       "url": "d5/f5/b14a705a6ec6202b615aee31ef1271dd59d9ddb6c6000d5e55a7d01af753/hikari-1.0.1.dev71.tar.gz"
+    },
+    "1.0.1.dev72": {
+      "sha256": "781ca339f25c40f5086f66a8310377edc661bc272a08910e8aaf52901dfb8914",
+      "url": "5b/9e/4ed21e3831f473adf60083d2d1cc20152f9b3ab6a9dbeb672bf50713547f/hikari-1.0.1.dev72.tar.gz"
+    },
+    "1.0.1.dev73": {
+      "sha256": "6ee6b4c5e7be3ecdff7a43bf058a8445f3c856a8657196981481485e60ccedbd",
+      "url": "dc/28/2430f9caecf154f278c240a2e882f7e7b150e9221624d2451b78647d8417/hikari-1.0.1.dev73.tar.gz"
+    },
+    "1.0.1.dev74": {
+      "sha256": "783d9f29e4a1c7f0cd93455a1dab1e82383dd694adbab50351ff95d4ea822e14",
+      "url": "88/31/edfb91c75aa18dba58c808fb0ef49426948958b7ba53c8875ef746b03a21/hikari-1.0.1.dev74.tar.gz"
+    },
+    "1.0.1.dev75": {
+      "sha256": "2fa7b19dd72a607f87e9589b979082046c60da384255e0da946834581af02418",
+      "url": "c1/f6/a06e64b02e94474b375e0ac5f17f3ad6d65aa14702e3335920e4c1a48627/hikari-1.0.1.dev75.tar.gz"
     },
     "1.0.1.dev8": {
       "sha256": "3bd691a509b98b9d29fc8167df7c36f3e28bf28c664336648d6849886d79da4a",
@@ -21435,6 +21507,26 @@
     "0.6.3": {
       "sha256": "b31825215c201c97b59339b16aee28fe73368f99d916e29288f9655a7fdc6eaa",
       "url": "4e/36/39ae88ed335b1035b7b8b1dd76929ac1d65ab19d6adaad5ec5dbd43a692a/redpic-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "5cb68fa2df242ed0f122903a54fc42c1e2441321571cd9a83e19836518801e57",
+      "url": "ad/b4/34d3c0e6952b009ac9fc05f08d9b9e9e9f67c3f7e377a1330cdb2e1db6e7/redpic-0.6.4.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "c6c9efffd44d6f9646a03c1b99383de4add1137031e307ca9e53d5161e5e6ca6",
+      "url": "81/97/d0ef263bdb2f9f4b1a48a571806953d13b7e84aeddeeb3f69e3367c1f2cb/redpic-0.6.5.tar.gz"
+    },
+    "0.6.6": {
+      "sha256": "245761e3eceec8b583f5eb8febb62cdfac3feb5421b82f545a0653552ad709ef",
+      "url": "70/ed/751e171a49e8d3f506a77ef2b4299d43c6f9a5774096d1ad8c2e34836f46/redpic-0.6.6.tar.gz"
+    },
+    "0.6.7": {
+      "sha256": "638f86b291994bf4e17a369f5bae5ba1e47650482c9a0a3596d74b109da1ce00",
+      "url": "55/0c/e478160e489bce6fd4a4964155328a23f2129141cfd12f264c056d851f0d/redpic-0.6.7.tar.gz"
+    },
+    "0.6.8": {
+      "sha256": "20570e8dacd0e177846c10d82d0aca279321844f4dac604081da845c94871144",
+      "url": "d4/e0/4b94d986437396b559576b6bd54383fe7ceb795b154b0dbaa168346f2546/redpic-0.6.8.tar.gz"
     }
   },
   "reductio": {
@@ -22561,6 +22653,10 @@
     "4.4": {
       "sha256": "7a9835519e7c1e768d38c496eb77dfea09453d237dacabbc13fe7a75650ac0d1",
       "url": "d8/c2/72bdba8792d966b9359f50a9e7de59f40a7def655d785357caf93600a4a0/slapos.rebootstrap-4.4.tar.gz"
+    },
+    "4.5": {
+      "sha256": "452211b8e8df0e274ae91c8391578fca00e0cbab15a69912158d4c3fdcf7721f",
+      "url": "62/3f/b5435b193e51dd8de89cdd15074543ce1bbceb82711cd60b5c9c0da37af2/slapos.rebootstrap-4.5.tar.gz"
     }
   },
   "smact": {
@@ -25083,6 +25179,10 @@
     "1.0.5": {
       "sha256": "b117d17787ca0f75cc5945127479511c64ce919163d41710f676809d036ccc8d",
       "url": "0c/38/e590f7f2e29cccefe0e1a27d8cfc20c6931d808d095c83447fc3791990c0/tuyaface-1.0.5.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "f2c7ca33cdcef55c5c8efd1c8f407748a6b94896ab7af15a231db28406a380e5",
+      "url": "bf/f8/5076738216dfe7b9f73bbfb4dfbc4371e87f1bd44d3e0d975e1b6f94dabc/tuyaface-1.1.0.tar.gz"
     }
   },
   "tweepymashup": {

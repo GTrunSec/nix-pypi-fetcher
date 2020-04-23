@@ -1618,6 +1618,10 @@
       "sha256": "9d759c470da346adb05c446133ed73147c268aa2a33db8c888d46c2ea3361582",
       "url": "15/24/2c2a08d68783ea8eb1790c1814d1d3ff472c1ce1eecf73908df307b62a8d/aws-cdk.aws-workspaces-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "76a734a8d72ea4b04bc0fecff9b5be2bc2b33a30355df3772bf8a0a1c568625d",
+      "url": "93/59/f8442280bf0a2df1857698f8c8547e7a154635a0a39665c64eccf48fd66b/aws-cdk.aws-workspaces-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "127c4b5c65671c6e70983a18141b800fc3c557a31bf9f9067d33a7ea434a486e",
       "url": "28/a1/e4d04aa589227622655c3562e1752626b78dbf831f7d21425cd36571a71e/aws-cdk.aws-workspaces-1.4.0.tar.gz"
@@ -2591,6 +2595,10 @@
     "2.12.1": {
       "sha256": "e32ea665c4b0ddf1ee730adcf9998a4c6f2156219a33764a5a27eb63f2a17833",
       "url": "f3/07/3719fb2a6c57b0d587f7b50e5473063330b60ba80cc29e6c89bb9226685a/biosteam-2.12.1.tar.gz"
+    },
+    "2.12.10": {
+      "sha256": "fce58afaceae65985e99182a63b01826cf9a349dd180c80461cf3892b9059e28",
+      "url": "c3/e7/d1a89159541cdb4c3944b398563b4e611c8ece8997836981d2ea51ea17ac/biosteam-2.12.10.tar.gz"
     },
     "2.12.2": {
       "sha256": "d40716c9f3666aecad32f38dd336ce1b7d902c8f6d291f8aa598ace4fff30afe",
@@ -4435,6 +4443,10 @@
     "0.2.0": {
       "sha256": "cf6519a44c5730e6704055545744ce3ade781e393a6e3a03adf15408e649e11a",
       "url": "95/d4/1463f1cff18b569bb6a8da151f4217b58dfe1f8a61f17fe81be7a85898f9/cmdy-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "3c371d479c9ba8f85ca666e94ae7c7282f5cfadbda15a0d481d1d9ae934fdd5e",
+      "url": "81/66/0e1d7a25cce68b5dcc59892785a3b9c626ab71eea83d02af5990ce241012/cmdy-0.2.1.tar.gz"
     }
   },
   "cmsplugin-nvd3": {
@@ -6919,6 +6931,14 @@
     "1.1.0": {
       "sha256": "015397a82953ff115c85286c5484a878fafd284c7c00c570bcbe9f8c096b32af",
       "url": "85/ab/a18650a3efb1fa2c4c948a49b4bdd47efbd92d959bcc6512ad496238c19c/djangocms_mediaplayer-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "9d0ede8b38a698483839f64acac8a98a0a0937ff39e6744664ac1fbb4b56807f",
+      "url": "b0/a9/9937efacdf48e9e38624bd09d82d69f527307311c10a00e8967c20821610/djangocms_mediaplayer-1.1.1.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "b4cbe66d87ebb2d9891901eaa23446f5526eefc0e89614f9d8ad808db9646cbf",
+      "url": "5b/4b/10fc30bc995d784462074a5f27cdf6f7033f1aea8bcf085b92b2fa72f8ea/djangocms_mediaplayer-1.2.0.tar.gz"
     }
   },
   "djangocms-plus": {
@@ -6929,6 +6949,10 @@
     "0.1.11": {
       "sha256": "715bcb00bec7d11b0a90de90357fe04a34f3f7d22702cbe42757c1493b8eab4d",
       "url": "cc/0f/428330cf07194941f475c56ec6df015fa86d2e2412011e266f91d62f2cf0/djangocms_plus-0.1.11.tar.gz"
+    },
+    "0.1.12": {
+      "sha256": "d63df4b148d1e8af75e0b344e7b514188dfe1ada0fdcee9fb4d9f61ffe710251",
+      "url": "4b/50/eb91b05e8161b7a770d42a49687c7166b8b81307c39988f0ea0c7c0c1c6d/djangocms_plus-0.1.12.tar.gz"
     },
     "0.1.2": {
       "sha256": "32f88755a32226b1adf481781f7a8ff785f02fce397d5125d1f18b8d7bc5ff61",
@@ -14054,6 +14078,10 @@
       "sha256": "1584d445fb2dcbfa126f05d9c9ff3f19c7b6c8709181460343816e1505388d03",
       "url": "6a/a3/a361489b5ce08ee159edce328f10e2a1841e88fb073b4b8c7ecc9e051262/mypy-boto3-workmailmessageflow-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "865e65e1213104ef694e9dcd08ac88d9c75d910f7ae638556a8b9c375596912f",
+      "url": "a9/e2/082c77754992c97b96981fc6fe6ae99d9bb6a0e1d719738698c67da030c8/mypy-boto3-workmailmessageflow-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "9dcc5ca41f36a522882f5be71143b2fe5ec1a68cf27915eb49257ef55ec58c5c",
       "url": "9d/e6/db38a02460cfc5b778c584211e23f58070ef9b3e68c7f574e55f9d0b3399/mypy-boto3-workmailmessageflow-1.12.5.0.tar.gz"
@@ -16399,6 +16427,10 @@
     "1.2.1": {
       "sha256": "ef3469443e98f3ccf5aecb3f9eed64eef1de55dda43e0561185d7b9c905ddfa5",
       "url": "6c/5a/58c7235ec87d8fe20dde55db0fa3a7777c7c5be59f7b8cf62fee3903106b/py_linq-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "7ea19ed9bd926f2e4cb1009e0a2159e4a164fc9fef5a3fa724645324cf4f38b5",
+      "url": "f7/53/877ef3716044cb4e1339e897bdce3dfda73d9a5a2509b56af7e4fbf7ceb7/py_linq-1.2.2.tar.gz"
     }
   },
   "py-support": {
@@ -21776,9 +21808,17 @@
       "sha256": "a168c16fd443725c80e41279e12e2ab5393dd12640ee6bbf2e3013109fe11b49",
       "url": "4f/1c/b01910d82baeba7405a992249a599f01965f233fe6fbb3200157d37f3bbc/tsforest-0.2.28.tar.gz"
     },
+    "0.2.29": {
+      "sha256": "b926c87a8ef4339c2ae30f5bec8aa9d7e8587f49e8bbbf413beadc6af0750692",
+      "url": "70/d6/5f1060e88957993d844c66daccc1d220873123138d5eb5caaf806f0aacd9/tsforest-0.2.29.tar.gz"
+    },
     "0.2.3": {
       "sha256": "d33d82d56410779a913c64d416ceb7471aa55a8a82801b5f6efdc8a80b5bc064",
       "url": "0d/22/03f30dd784cdd517b87db5cb34cc988de87ff0994a8edef51d186bd2e0fc/tsforest-0.2.3.tar.gz"
+    },
+    "0.2.30": {
+      "sha256": "6625daeb999dcd5aaf841a3946180bf60fdc9f2670b5f4fda988f41ee9e23883",
+      "url": "18/b8/69745a9fef3d39fba4e4bd7bee19fad6c51419f7e30d5958f10c58d8e796/tsforest-0.2.30.tar.gz"
     },
     "0.2.4": {
       "sha256": "0da2308aa0f6abd67b8ee0333e4a4febc6e6a775a240f53abcff27a74a54a1f6",

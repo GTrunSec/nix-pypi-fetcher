@@ -297,6 +297,10 @@
     "0.1.0": {
       "sha256": "27581c90618ff24314b3fb5e132633d58eb046b30613766aacc0d447831c8b6a",
       "url": "e3/d8/68b969c7a35d69af8c419e8cff8f11ca47b87d3c4f1c3b0064a49cb73628/aioguardian-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "8424b2e0e4e4db1ca5958e1f22cfcbea6cd88d8a4cc11312f21321944d9b7d44",
+      "url": "1f/60/ddd5d1c26001be2729790cdb6defb1e3bd1c512b03b6e3211a23ff496b75/aioguardian-0.2.0.tar.gz"
     }
   },
   "airduct": {
@@ -773,6 +777,10 @@
     "1.1.0": {
       "sha256": "b77ffb716eeee0321721f8ec2d5114d7b8979ec3b5320277534c7804de844053",
       "url": "46/42/7ccb46b729df64a59d73742ffd77f798113e9961dbdcdd947d481419884b/artesian-sdk-1.1.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "daef7a121712e8cd2a5bde1ca0f90386dabb48458a50a2fc001104602fac9ac0",
+      "url": "64/e3/9a80ca75bce7439932e9c8751dafcb68e976feb0fba327459522bfcdf2dd/artesian-sdk-2.0.0.tar.gz"
     }
   },
   "aruco": {
@@ -4204,6 +4212,10 @@
       "sha256": "75b4f3f796daf3c5c85e16be28a796e31916e4185bed994e7ad77bd8ea19f5f7",
       "url": "4d/ad/9e948d93c931cea7437c16c2eb1062831a78e8fe5a5b1f327f0474767114/dagster-postgres-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "b10fd6e04d93341b7384a3ec04d193241307b2ffdc0eebd636ae338ee1c1505b",
+      "url": "9f/b6/96aeb83343b72bb7005e79b6ec60f9635927042c7c1462f83ccf7bad0626/dagster-postgres-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "18a2a68978e5d8a3a98e221dee0438ac4f3eade120fc2b1aa7bd1b417a3b0c44",
       "url": "32/1c/b51321cc738709b06ecf1cf642e7f9dd9ba5c033db4e21e9146747d5b9e7/dagster-postgres-nightly-2020.4.4.tar.gz"
@@ -4411,6 +4423,36 @@
       "url": "99/b5/5d7ff6e66244e292d73f8c89a1d011931930f37ca4b32539eca3f2329f9f/db_backup-0.1.3.tar.gz"
     }
   },
+  "dead-simple-framework": {
+    "0.0.2": {
+      "sha256": "9da7aa228520b5091a49634ecff5d0f74dc5f3946214333ffa2af0cf7410ce23",
+      "url": "63/c5/86743e07a6663a7576a0f27ed0a65a37920b54537c52c9e228ab4bfd5c15/dead_simple_framework-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "87aa8a57944fed61b52bd7f0d600598d232b80b268b8f235e5efa2bb506ca0c4",
+      "url": "3c/50/adaf58e4c7566d928e8af576213a302ac39279055f7b81d4a5899c5f5c66/dead_simple_framework-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "ed451811b3a8fea2acab201f62d6caae0965ef77ac2f902c78f94243349c9519",
+      "url": "a3/42/b22c1e9197335f49d058bf23deb925432c1f34935f212dd1d6ad6ca30658/dead_simple_framework-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "35438205ba741c95a9f7dd22d4bf0bef309fed19302a16eaa581158caadd0711",
+      "url": "2e/4e/1e6068cb43ffd57dfd5c35ed2f4c27f3f73773ea97f87dc98b818960574c/dead_simple_framework-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "189ab3005684f9cb546afb6f952c633181caa03bd2e40c6912644efe7153bb10",
+      "url": "05/cb/3514760710c1a5d34b1f8c826df5c5384e3c2f35b634a28c9846acfe364d/dead_simple_framework-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "557cb832406dd4e4f78f2fd6ced09ee795d8fdf8c247bc72a8f600dda2917975",
+      "url": "bd/af/1e7b7e1f26f93c12dc0b01e571b426de6f5adacc3350751ed340274e5ad2/dead_simple_framework-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "91784afde87799404cede1d37c7a7b0c72f36d9618a9b5f743c227e99f6f799b",
+      "url": "d0/52/a90f76e60e8bba62730654ee4f1e8eba5fef80c9a7d527980975fe0f5b17/dead_simple_framework-0.0.8.tar.gz"
+    }
+  },
   "deckz": {
     "0.1.0": {
       "sha256": "00febb510cf3559cdc4285d5ed3d6fdeb483fcae5d56af0ab575ca3e45260885",
@@ -4463,6 +4505,18 @@
     "2.6.0": {
       "sha256": "de7ecaa710eeeabd3863f409c523eea78068f2a0f4c3f7415c85020a3279ce8a",
       "url": "7f/36/79a4ff12ccc02e2708f58ede3c8dfe42a4b797e7c0926cc27e10582c41ff/deckz-2.6.0.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "09086492749107df8ba4d3a89957b9b9b5d827ad70f4e0be0d1c8102fa2b5bef",
+      "url": "ff/bf/d703856112e210ef912ff831713d44d9bf33c3461d849633168df769c787/deckz-3.0.0.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "f8a7b977de35db1737b5988e74815a1e795fbe3a13efc4258062e3f998651fd1",
+      "url": "0f/6c/2260b10e0a6b3d2685850f67e9f9877a376578dc6a5ccb59dd2a08f77f84/deckz-3.1.0.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "86f66009343638317e12ee3c2e0435377c6f3a9deeb88642e5fbde2a1d871094",
+      "url": "84/02/66ce83398c2656bab126818d4e541be0a8b6284dd308c581f9c0311cf59d/deckz-3.1.1.tar.gz"
     }
   },
   "decotrace": {
@@ -13907,6 +13961,14 @@
     "2.1.3": {
       "sha256": "68ed192970b0e75649b5be0263fb29a29f382c4ad4f28880e04daa7b7cb671c7",
       "url": "0d/ee/8dddcdfb91949f1691d3b38a87d5f90e47ae3ae521540f880c4c6974d484/obasparql-2.1.3.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "a11490a8c92483496073e81f8d62587b44ab67ed7f4973a322a8984e97cae470",
+      "url": "dd/3a/958ed18c64f478370692d7c49942f45025ac4a749b84c5f7a7ba6baea921/obasparql-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "1df95b4d30241ab4a68d40285953234e79e9e3754905945cbaf49bb022ff93ed",
+      "url": "21/60/73e3342efa7857b2d198146c981ec5f852025437af0110a3da9ab663a1a6/obasparql-2.2.1.tar.gz"
     }
   },
   "objectio": {
@@ -20005,6 +20067,10 @@
     "0.5.0": {
       "sha256": "0499d338f95a26f4764ce9c37b2ef072bb0d5e22d8ffc6fcbe30313db6cbad8e",
       "url": "64/f5/a9d835791c48b0e03a1b3081daccb45100499471ba5cbca7814ce866e414/SharePlum-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "07a45d48920450092e56c33846fe17768d4611dc83a7314ef0140e57dee52966",
+      "url": "db/86/2152ac9cc7230fa7d5b93b4f9e0776773f4959a4f1a2f9ca4622dae932c8/SharePlum-0.5.1.tar.gz"
     }
   },
   "shears": {
@@ -22971,6 +23037,10 @@
     "1587452684": {
       "sha256": "e7490740732938834b205425004ae38496abc7a4268c7dff6b1a705b15bc19b0",
       "url": "c5/16/b3058e3fae0574c373bbebaa455683b970bf9b22b78a0b9f7265f489e2e2/torchdata-nightly-1587452684.tar.gz"
+    },
+    "1587539085": {
+      "sha256": "6f2c4cac1de3852132c3ba7d18d3406730ee3ac9bc4654d6f6b64a8f5e57d7dc",
+      "url": "a7/be/b183744162b293ba7d3d5dd46f5e82de5225df59ad86f8bf4624bc1ffd17/torchdata-nightly-1587539085.tar.gz"
     }
   },
   "tornado": {
@@ -23679,6 +23749,10 @@
     "0.1.8": {
       "sha256": "fa6f29fc767ec269003986115aa40713bdd5ed5feb5fe974a1c3c33a5f2a925b",
       "url": "cc/57/87d99c7c3da6e25dc7a34b7d305cf5a4f5850b78edd2a5e12de2254a1155/tsne-0.1.8.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "63d2be31543af27e3e916dee709895a28a4e66d158884f06f58b27f50a61f6cc",
+      "url": "9c/93/d38c2cfc41bf948f85ba5362370ccc58180cd8cf1cf4f462fb6e1e5285ed/tsne-0.2.0.tar.gz"
     }
   },
   "tulingxy": {

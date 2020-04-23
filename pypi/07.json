@@ -1760,6 +1760,14 @@
       "sha256": "57cb0d74c5eb535e119ce88860d6ba0a9f42df0751fe2242411855ac74c17042",
       "url": "89/e2/412d3114d4a3a270bd9856dc85857e2981b175ce0b24286637833aa8fab8/akshare-0.4.87.tar.gz"
     },
+    "0.4.88": {
+      "sha256": "8359c3cab10698e7c56a79bcc4c53a813942688b52240f0180ad8ce54c79483b",
+      "url": "bd/b9/255660da1c3c95b7ecd23e0d92ff685990c3936592a0b4329917e10bd600/akshare-0.4.88.tar.gz"
+    },
+    "0.4.89": {
+      "sha256": "aa66170cb01fa54ae52e2c8f5856c924fc3fa783ceb4c62db6db0a6512f60eb7",
+      "url": "00/7b/0afaed5e14672ef9f4b2adc11e1d4454d967925de5ff4e73519e7275ee22/akshare-0.4.89.tar.gz"
+    },
     "0.4.9": {
       "sha256": "bca12716a33777871a3e2e5cb85030de0e0f5fc2b60fb8decfafb080ad099abd",
       "url": "2d/48/4b27814bb2da0f1932baea1af0ecb5dc6cb19837bc6a9ec266fd8b7b105b/akshare-0.4.9.tar.gz"
@@ -9231,6 +9239,20 @@
     "0.3.4": {
       "sha256": "f67c48cb9fdbd4fad30e9ffc434bd278733e52bbfc19c287edab406ac531864b",
       "url": "23/dc/acbcbf0a4f8049ef1571db648ad69da351b1152afd14fb3d257cf977a50a/Flask-Weixin-Pay-0.3.4.tar.gz"
+    }
+  },
+  "flatnest": {
+    "0.0.1": {
+      "sha256": "045837f175234136ff7f1ab5925b69848e8b277e9d63fea3dff4d3350a294885",
+      "url": "15/04/ceb39ca20b217c4dc7a6b58901b7b376ba98a6c8e8af15d2c5f41afbb738/flatnest-0.0.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "6d9373a302d50eaaf9430bd5c430d6ae84955e2ba12a512cb9648e8723a7dacc",
+      "url": "b7/50/83a0b9e070a67137a7fc9b4287aef533fde33998b8bc8576cb4cbebbe133/flatnest-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "55b21106bac39a64bde61808f688337ecef7a9e54c326091e1d03b33b47ec027",
+      "url": "a0/5c/53e8c65c65dd4dbf7ff12bee708ae1ac77feb38b17f4364a91264159c324/flatnest-1.0.1.tar.gz"
     }
   },
   "flowchartpython": {
@@ -17286,6 +17308,10 @@
       "sha256": "bd96b9c374a7192e4787f989e8f911719476c71476466a02312839e8cb6a0d4e",
       "url": "7e/85/d2f45a7f307fea156a022e17f95d2df81d472d86a2de80055734d323679d/pyglet-1.5.3.zip"
     },
+    "1.5.4": {
+      "sha256": "c818459b89c9f71aad495e7875ba6235512972f2f9c29e4ffd71519090cfda9d",
+      "url": "26/5e/44b47b1b586421ff29ae43b7aaa5ce97ee4fc6706cab58b29e5c9d4f9e7c/pyglet-1.5.4.zip"
+    },
     "2.0.dev0": {
       "sha256": "83dbbcd9c7ff0b755a8249bfcb370dd832092f4ee2cc9993dd298f47c18c04eb",
       "url": "aa/f0/2890e4b41e079abee17c36adcb3f1204b4f2b4e8ca52ef46d9d314aacca1/pyglet-2.0.dev0.zip"
@@ -21607,6 +21633,10 @@
     "0.0.7": {
       "sha256": "d50c4b376fb01c258c5f1f5e7d7949f1c01f6035e31e484705179281c9b2204a",
       "url": "33/51/790487f8e941fa06daa6c23c918334bc3acd71b86681616e1a79754543c9/slurmjobs-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "b6d10f7bb0fc6c00f85c11e092abd858081c9b279af54cd94a2d23cd2ac4597b",
+      "url": "29/1f/651cec20ba6b3df6af77d024dceb454164cb0471be0144a4b8919903fa63/slurmjobs-0.0.8.tar.gz"
     }
   },
   "slurmpie": {
@@ -24697,6 +24727,10 @@
     "0.1.4": {
       "sha256": "5b7e35e168c3f0beba0a1df77de9c69947d603539ce3e2429125eb58e63ec7d6",
       "url": "b8/df/fd584720cbb96be87c1caa7fc64ea299cebd820dfb83fca13aceccaa0315/zqy_utils-0.1.4.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "d7c44c5573badd25619429792482de9d3def9e78922a5b1154f0f4aa2ee9435e",
+      "url": "14/b7/91f65c909d62eb94525941904a6be63240c466eef65f5ed03ad5b78f0ed2/zqy_utils-0.1.7.tar.gz"
     }
   },
   "zsh-history-to-fish": {
@@ -24753,6 +24787,10 @@
     "4.0.0.0rc1": {
       "sha256": "94b701184092d2876c3e990990ea7bfea9518412bea5437b893726c8783c1593",
       "url": "94/d4/e1455910e262ee82194a77bdf99ef807b4168a7c3109517be02a03e13d53/zun-4.0.0.0rc1.tar.gz"
+    },
+    "5.0.0.0rc1": {
+      "sha256": "16d66a6df88bb907404f20cf3caa6824d684835b6023191aa55258c147fad66d",
+      "url": "e5/82/fecae5eb786d7880758dfc332e61af774ed97e83837173d483b1c7008a85/zun-5.0.0.0rc1.tar.gz"
     }
   }
 }

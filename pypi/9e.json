@@ -1833,6 +1833,12 @@
       "url": "1a/01/512c6d8c51822c195c37ec728c4c68aac8fd453f3a09acbb8eddb3baddf2/bob.thesis.ichingo2015-0.0.1.zip"
     }
   },
+  "boris-spider": {
+    "0.0.1": {
+      "sha256": "8937b25805cb491a1b7973ba6f46c3fbddd124f30c82d42771f5cf88c41c07e3",
+      "url": "35/8b/043cec4b7449b8e9ff6fc3d2643912e45236f1ef681f4dc4d11ac7d9878d/boris-spider-0.0.1.tar.gz"
+    }
+  },
   "botbuilder-azure": {
     "4.4.0b1": {
       "sha256": "886bf2844d30e7cbd836a3f12e75151015d510e72bfb577758aae164e0380a1a",
@@ -5541,6 +5547,10 @@
     "0.1.4": {
       "sha256": "bce23c2e5fd820c191a4188cd65c40a4a1cede0f3ffe1b0fb16c81ef776ad239",
       "url": "18/af/4d7ad89c17f8b6b4b9981ac8732d0a81f02b3bda18675b0500e04c2118c7/electricpy-0.1.4.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "1c835ac7bf4dbd7208525148eb0f5878a5229bc95b6122f5d204cae971bb94fe",
+      "url": "eb/82/fb46bdb5c9e2188d4722d8426d98df347d9928b17e5bd9b23bef51f52bab/electricpy-0.1.7.tar.gz"
     }
   },
   "elio-liar": {
@@ -11520,6 +11530,10 @@
       "sha256": "afb747b42d938a1c31ce213ee02073836b13eb16f454281bd51772422280efa4",
       "url": "66/83/d986a7bf33a34f7a5983cdb090e1d02e8160bd77282fee0516b3d0ea77af/mypy-boto3-kms-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "978ee2b05bb660b4c539d493fab16252426f201f3f02f89884d53d2d46535aff",
+      "url": "e0/eb/6a08501c5ff9e60973aa30a3b37bda822bdc1da949e54fe8151964b8b296/mypy-boto3-kms-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "66c4700fe13a6334b22f9ce3da3a7fa3c6fec2a134b9d99cf4b34c25f9c94f4e",
       "url": "d3/07/d599539aed9c66e2f9ca843ba296ad32d6471dd02d8b6b5a16f437e782d6/mypy-boto3-kms-1.12.5.0.tar.gz"
@@ -17025,6 +17039,10 @@
     "0.7.6": {
       "sha256": "9216185a3e928ee12fc87f913fb3fee510ed7192239a4e9cf81d0f69186b6977",
       "url": "44/d2/bbb4a2699fcde5f26c7b1706a61fdac13573e85eed9abf9726309cf4afc1/rapidfuzz-0.7.6.tar.gz"
+    },
+    "0.7.7": {
+      "sha256": "80cb1ec0356d8e3a29bf3cd8d8f1f9d42b9ca28abac9c4324209fcafd2769567",
+      "url": "dd/59/9a0716d7ca8a03ae2cae0d922122fb0c730b79d71babd91244e8e4c163d4/rapidfuzz-0.7.7.tar.gz"
     }
   },
   "raptus.navexplorer": {
@@ -20317,6 +20335,10 @@
     "0.2.9": {
       "sha256": "5e72c9f23debac97cbfb8eb7081087602b9bf03c1011046136ab6809da36116f",
       "url": "18/af/1e7ea46b6076e5a0d84053217d960874ef0254904f70787f8145764633ef/sgmarkets_api_auth-0.2.9.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "89d1752e95f4e7125f1c9e4db932a3b5e5905c2691a5f23b8608a48c7d69eba0",
+      "url": "c0/28/6f9d8bfef25a1fe3a3863888248b52cd1fd3b3ea14f257594058dc42b0b2/sgmarkets_api_auth-0.3.0.tar.gz"
     }
   },
   "shattered": {

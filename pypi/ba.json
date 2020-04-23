@@ -1272,6 +1272,10 @@
       "sha256": "da5f103f13f36aec7fe3285c5072a344dc8ec8cfdcee164121cb489bab200b26",
       "url": "35/48/3d58d6af837a4acfae9597c1b07e33669ab0c1e09ef8cd60dbff6899b784/aws-cdk.aws-cloudtrail-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "751bc2f546b1702e1efcbb86bc98b307db091486c7ee7994d06ea215ab9d6f04",
+      "url": "dc/bf/e185612c56b2c296e3a7b1ea6d6b523039b0a9cbb529c83c891b5e74252f/aws-cdk.aws-cloudtrail-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "acf53bf0df186b3ca5a192d9c65df4bfae3929fa1812642fdb24148bbc67d886",
       "url": "4f/e1/fb195b98a13c15370f9daafe7c939ce90a800bce6636ffd8453718b0a7b0/aws-cdk.aws-cloudtrail-1.4.0.tar.gz"
@@ -1521,6 +1525,10 @@
     "1.34.0": {
       "sha256": "547317413dd697d1dd7769632b48d50fcd37689c9863cf51f8e6dee4d60aa1bd",
       "url": "74/68/a24dcff8f1ea16f24a50295e0bbbb31fc72577d02b490d6ff95f7322e9eb/aws-cdk.aws-ecs-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "70caa4f44b61aa4df73cb27cd3d01eee5f7e0cb75d9f3642f7114652e387fe6c",
+      "url": "ab/2e/659248a1e5a6d82249cb7643ab02de6cca22cd13487caaf695743f299c40/aws-cdk.aws-ecs-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "b192f1195590cc5a595d1e3393cce038e8db20cec2844b65f3909346f0e2d067",
@@ -1819,6 +1827,12 @@
     "0.2.6": {
       "sha256": "119603494f27cae26374e3b476872bad5cb09c67967e3878dfd331a49942512d",
       "url": "20/cd/48ec1a14ba40ed6ba35d882aafc66cc9d94b0dab39e2a288336787a1535b/baz-0.2.6.tar.gz"
+    }
+  },
+  "bdtsim": {
+    "0.1.0": {
+      "sha256": "b1bbf435b2d85182eda2e4709f2124f4f00df5977d06d6d45262f29ea5bf4725",
+      "url": "4d/f5/91d2d17e531ed311a9e6d754b39dbcd6937e9444816011bd8a53b42d558f/bdtsim-0.1.0.tar.gz"
     }
   },
   "beatpy": {
@@ -9125,6 +9139,10 @@
     "3.1.0": {
       "sha256": "c7297578d801200a93e4306c746962731131bb828a2041f74575deec7dbffd74",
       "url": "56/f1/736a3d27402cb12719b90d668686e7908a196765db490195395551e82679/green-3.1.0.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "c2759ce0181d0044a229774ca139bad0eeadaa471195b6a7b428aa1b4cfd78e2",
+      "url": "96/c8/623624b2771afeb165fb0b3793a96fe20ccb19c32b947cd8165b2ede0db3/green-3.1.1.tar.gz"
     }
   },
   "gs-export": {
@@ -15444,6 +15462,10 @@
       "sha256": "2418b56e1970f83d656bc70e0abe7a2e9b0243411e3cf82f5221f20647afef96",
       "url": "60/5b/505e3ba67d944110d2073e0634ee5cd4b7859049c2e2895c938a6d65b7f2/mypy-boto3-amplify-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "6788e99119e6670ded2bb3b7bcefb2d85edbeb998118f606a2c37af97f85838e",
+      "url": "81/9b/189fdbadcb1b95cd04e2ba1c3772d9267e44833aac69f6611313ccc47eed/mypy-boto3-amplify-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "8b0191be99335499d585f2c24a93cc5d709c9df85ae02db79e818a44a9675d7e",
       "url": "0d/c6/38a98089526b610385e2a5966344edb51b7ea478f164a26c786339e99fc9/mypy-boto3-amplify-1.12.5.0.tar.gz"
@@ -15954,6 +15976,10 @@
       "sha256": "ef1d64c328a7c4176b4ddd43641780df5b6defb191e8fbb87bcda7a6444280ce",
       "url": "7f/5a/d780d306f1f3ac372012a6158445a504dc3091d45c41b53e98c00b250097/mypy-boto3-elb-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "dba592cac15858d1605a3f2322e5072539dcff282153ab25868718a2f51d2295",
+      "url": "d2/0c/3bdd6e87d2814ee877918eccc97ceefe2e3eeb1a9035d2cdd74bab6166c7/mypy-boto3-elb-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "1faffddbf9d781d8bffb94b52cc8c25a4e50b84b34e12e05529209653824ce88",
       "url": "c6/eb/3d2e214381160dd4b8b824dc6e77074fd021ab9ecc661e9e4d1e3568a044/mypy-boto3-elb-1.12.5.0.tar.gz"
@@ -16463,6 +16489,10 @@
     "1.12.43.0": {
       "sha256": "89574acbad1860525053aa66a9bbe621d7b63bac08649c25013c614a0fdf716f",
       "url": "16/28/38635adc65660410c4b7e6d8d66ee663a313326fba17a4bf4a6bb6ac5d6f/mypy-boto3-meteringmarketplace-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "a6341142c513ed3bc96c1d46c25240149f25222c6e86aa96eae130985d0dcacb",
+      "url": "f7/40/d8e0b7123ca592759948d95b9b8508356ade4cf983df4c63c46b9d4dc04c/mypy-boto3-meteringmarketplace-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "79685e555ff575eaa6b7fd3ddff5e27715081dd92359a4082176cc024085a96e",

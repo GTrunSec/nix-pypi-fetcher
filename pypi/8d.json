@@ -1145,6 +1145,10 @@
     "4.1": {
       "sha256": "3fb044692b8c12668f4349ddb5c09f3381902318b9edaa0b0c5d1a8481c69c9b",
       "url": "58/42/9498ed433f7ce28b625c73879ee13f5e0bf0cbb52337cd9a617db8a02fbc/apollo-4.1.tar.gz"
+    },
+    "4.2": {
+      "sha256": "5733c59672240466270a47cf5f2c5b31f17b537a7d6974195c4702e3260a82dc",
+      "url": "88/f0/850cfcd7ae7fc2141e696bf52cfe8899772d86087ed5d215cea0efaac1e1/apollo-4.2.tar.gz"
     }
   },
   "archetypes.querywidget": {
@@ -9449,6 +9453,10 @@
     "0.21": {
       "sha256": "979c89f425d62a5db80f9d366e4edcadcd4aa25c60ffb03c7c1d293aeab8dc2d",
       "url": "41/18/ff57b3dcfc57d1e17d32798bf6c08f96825c159b23da84f62725f1d61462/dppd-0.21.tar.gz"
+    },
+    "0.22": {
+      "sha256": "128d25d25394d80df16e1a7d2099a7ad55c1ac0776cf70a25a06a62c4f757255",
+      "url": "b0/19/503c22e2ce21cfa0306831f0cbc0b7a87d79a122b5c122f44d72ce41a0ff/dppd-0.22.tar.gz"
     }
   },
   "dpr": {
@@ -13603,6 +13611,20 @@
       "url": "b2/1c/f8cb4c8f5c8bf23a76463e2ff715b563ab4105fcd0e943bd67de30a12fa3/k-load-0.2.6.tar.gz"
     }
   },
+  "kafka-messaging": {
+    "1.0": {
+      "sha256": "09df242e68bf77db37bb388fed6188c9b5f6126804f7e63a852379a271b11bbd",
+      "url": "60/d5/782175712d4c02d819a5886fc6a16941a3ad9c2cda92b2ad3420885bfb13/kafka_messaging-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "877635b85939dfff8b774c2377e34564ddd5c222f7de468519225c75fad0768d",
+      "url": "6c/5a/09a52c248324b55617509ebcf5adaf46aa4a6d67e2206591b9d092198ff3/kafka_messaging-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "72433e535b6f125b9ed15dcef7c390c784ceb0552d8c4b12d65ebc3ac3dc3629",
+      "url": "47/44/0643080d00419e5d2675915281a3ed4738389558d3f6933a86fc50fe3b20/kafka_messaging-1.1.0.tar.gz"
+    }
+  },
   "keios-dynabuffers-sol": {
     "0.1.0": {
       "sha256": "3ee8405713f7a15fbac379c44e363961136a82952db78099f6329784a9dc83b1",
@@ -15907,6 +15929,10 @@
     "0.2.2": {
       "sha256": "2e7abb054a3033de03c88107e00411b240f7e2c35b82c910229d0df953a07e0a",
       "url": "fb/9c/ac7d100ebe3a53214f0a7445211ac353a9d297b17355745a6cbb38224ade/mustache_hic-0.2.2.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "f66d7d2e2fb3c501a390b96001a871276171555c8f6f913382271380fcc4bc25",
+      "url": "5d/ac/653bc9b5fb32b57fb026eff52bc7d2d9d222072cab7a12ce3f8025c0a700/mustache_hic-0.2.4.tar.gz"
     }
   },
   "mutalyzer-hgvs-parser": {
@@ -16409,6 +16435,10 @@
     "1.12.43.0": {
       "sha256": "72bdc7b833a4016101dfb72d6db3726a80ba933b2d33b72d81e8add8c4bbc7d7",
       "url": "be/95/5faa157014ef2718349c9a40e5044b5d0f0241c14c627fb5d93d2f98c15e/mypy-boto3-pricing-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "ee12c183f7fa65559bf239c99e68b864cc903ad844f98d9d6c4dc756375b703f",
+      "url": "c1/da/8a1f98cc6aba5910c9222fcc77b3562c63173290f6bce9c40421ca1edb2e/mypy-boto3-pricing-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "346b089b9bdb46907bed379f0cb91c22e071f5857ab358c34d19105d0a6f4c7d",

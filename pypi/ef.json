@@ -6010,6 +6010,10 @@
       "sha256": "6d431ec5bd2d3fa9a8d018985892d4afe460c35c4a5b3dc765c6f2a8894ed1b5",
       "url": "05/65/78bacba07ca48fa3e902410ab63dd7ede8239edb4168029e7f4fd0a71626/dagstermill-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "039d03fe00671c6c6f48c08fc6e277c0a2b0c7b253d6d0e182bf4e36aa63d230",
+      "url": "70/e7/f6b8525242ec39472f3202b5aeea9521b1a7065cfbde457b204875787fdd/dagstermill-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "90c1945383bafef7676a2477114af6faae2f6369e82a31fb5125531fb1719b2c",
       "url": "93/5b/ba96a0b30502a343abc182ee9d00dc76b038c157399cb75f7595f624342a/dagstermill-nightly-2020.4.4.tar.gz"
@@ -6285,6 +6289,10 @@
     "0.4.8": {
       "sha256": "1ea7a5d946a7fbc6ef821f99f24afd9a18d2fbd4131b27a91e03e540d228c22f",
       "url": "8a/8b/745a788d9a07e21e016de5ddff7c09630723baa861c4eb54691b39734967/datamodel-code-generator-0.4.8.tar.gz"
+    },
+    "0.4.9": {
+      "sha256": "32bd872f261af6ebfe50db5b1e880a19242bdaf2599264391559805bc9022fc1",
+      "url": "26/de/6c3f57a9cae5503df8405ab075f625a1d869c604ac539e3c99366ad175bc/datamodel-code-generator-0.4.9.tar.gz"
     }
   },
   "dbaas-credentials": {
@@ -11165,12 +11173,6 @@
       "url": "3e/8a/ae82d7257352880636c110055fe159106b90c5860b16da21e905f039c495/GWlal-0.0.4.tar.gz"
     }
   },
-  "hamqth": {
-    "0.1.3": {
-      "sha256": "965993560549f1e392760900b6bd264231bcd5621319cb2cf9e2344834554ed4",
-      "url": "e3/de/9bf865f9e2d004b8202bd568f913243ade0f5555ed2f5cfcc1b859006850/hamqth-0.1.3.tar.gz"
-    }
-  },
   "harbis": {
     "2017.0.1.1507220396": {
       "sha256": "9e5bf29fccceceaa9f5124f5b899d0ed4e1551c9ec66ff5fec9489585d4b98ad",
@@ -12853,6 +12855,10 @@
     "0.0.98": {
       "sha256": "3cff4a63232e839992da3c5969ff8944357355516015532648559ef4048759fd",
       "url": "43/29/ae24fb935b8b6359dd28b4ef16caf4e17aa3a924742e6a63e30918b737ce/kaf-pas-0.0.98.tar.gz"
+    },
+    "0.0.99": {
+      "sha256": "baaf28e8bbd84e52fb8d73678bddadd61083fcf7eab4b5518ef313455fafc949",
+      "url": "86/e1/967fcd99d4024e70e4fc17c1da5501a42ffbb53673bda4cb584b2e6ee6e4/kaf-pas-0.0.99.tar.gz"
     }
   },
   "kafka-python": {
@@ -14849,12 +14855,6 @@
       "url": "e7/43/e3dd14eb02c7648d03ea6135978f1ac1878a11cadb9fea46a00534ab5e89/milan-0.1.tar.gz"
     }
   },
-  "min-renovasjon": {
-    "0.1.2": {
-      "sha256": "8580aee2c9c5a417340151c133e24763ba8fa88b2e27670fa974ff57589263ab",
-      "url": "a1/90/882d7bb7136bdade96cd8b78ae0ba509e27fb600956bc6d609d3a23f34b1/min-renovasjon-0.1.2.tar.gz"
-    }
-  },
   "mine-init": {
     "0.0.0": {
       "sha256": "527a7c19ad6e867c14f224464278ecf3d30f52abd1fb14b0a50b680a73022c77",
@@ -15919,388 +15919,6 @@
       "url": "0e/c7/18ca422ea28971d995ab57c3d1005a39d3a796156719c01b02a49662f40a/numerix-0.0.0.tar.gz"
     }
   },
-  "numpy-quaternion": {
-    "2016.08.25.dev221305696": {
-      "sha256": "5b25760cf48d1efffd7456c345da17e9759fd92612bb55fb66f1d0619c9f5204",
-      "url": "f8/55/c02825004be2aa4e670da7cd11713c3fed06243434371fb5f93300bd0254/numpy-quaternion-2016.08.25.dev221305696.tar.gz"
-    },
-    "2016.08.27.dev94615536": {
-      "sha256": "6f25a92569dfffa0a438dce6577d810a2ac8bd8b9d1b94f2b37a6b77f1133efc",
-      "url": "9c/fc/f6ac5c3eb854879a8761fd79682153950e4ffe918f2ac5e2e51c9dc4df50/numpy-quaternion-2016.08.27.dev94615536.tar.gz"
-    },
-    "2016.08.29.dev231774547": {
-      "sha256": "54cb398854348e0e797ad3ec3408173c120316bc6ba42069c5d75a5c762e7705",
-      "url": "79/cf/836c75cb6d5f692135a3a659cfce45e203aa8fc1a02d8615d1c9e813c6d4/numpy-quaternion-2016.08.29.dev231774547.tar.gz"
-    },
-    "2016.08.29.dev258356679": {
-      "sha256": "ffafe7165f76fefc2dc215015c6a807fd501d14e12e145d9e2e996920e3d0987",
-      "url": "e2/37/aef8d449b7b8562ba081749d447e3db86903bcc8e0bd4896e29a7b9b0057/numpy-quaternion-2016.08.29.dev258356679.tar.gz"
-    },
-    "2016.08.30.dev142425726": {
-      "sha256": "0bfe519d8ef887a0f970c3609d66c8938c6a290b4569e0f5c8fe4d26c5c6a3dd",
-      "url": "a1/2a/c5397f551bc0444edfb650a9ab82d2cd43c3112f50cc199c579d3f06a9ee/numpy-quaternion-2016.08.30.dev142425726.tar.gz"
-    },
-    "2016.08.30.dev40560191": {
-      "sha256": "15dabd80a0595d083108d5d2da52a5be01ac56f9bd8739ce8db0a432a8ffcba4",
-      "url": "d5/c1/7513e1d7bbbf849b97eb4be609ca88b87a3e1fc4b8b34f03b4be04498c68/numpy-quaternion-2016.08.30.dev40560191.tar.gz"
-    },
-    "2016.10.12.dev209377407": {
-      "sha256": "d71bb88c93e8397fd28785af3f40535407b8f9b163009fd041453ea546f9daa3",
-      "url": "f5/fb/86fb8359dad7ef34c4674cc435a6e497d1849be1bd44696f05b958969b99/numpy-quaternion-2016.10.12.dev209377407.tar.gz"
-    },
-    "2016.10.12.dev268044850": {
-      "sha256": "4dd5fa8c064bd9970afd842cee1a77f7bc5314b6f331a25daf969846eb080104",
-      "url": "56/21/f67e2e4bd0ccffbd36979112b0a37bb0acbb545df3a60bdd63335a5cdd5a/numpy-quaternion-2016.10.12.dev268044850.tar.gz"
-    },
-    "2016.10.31.dev83815479": {
-      "sha256": "9fcbe06948ba1595799443b86f288d6eae3ef4aecfcd56033118cf5d1a5f945e",
-      "url": "06/5b/dcb0265b87c54108d8643b07fa48d41f55dfe5d7e30719cbb09c7d81a878/numpy-quaternion-2016.10.31.dev83815479.tar.gz"
-    },
-    "2016.11.30.dev101697805": {
-      "sha256": "31cd3e8447c371da646014e3360de7ff32a1d446b90e7eb84c1539a97ea525ea",
-      "url": "94/04/862b22ff45a97582bc395e82c0cf5364fba90a118ccf448f9b97ee95743d/numpy-quaternion-2016.11.30.dev101697805.tar.gz"
-    },
-    "2016.11.30.dev220855819": {
-      "sha256": "20bec8d391d353adfa468c6ffeede1f9a2cdaf72830259ededa95f0b9caa9b32",
-      "url": "89/76/20ec0ceb5f10eb3bc2858238d6c1ded61d6423bfb2afa9006b9837739bc7/numpy-quaternion-2016.11.30.dev220855819.tar.gz"
-    },
-    "2016.11.30.dev43897183": {
-      "sha256": "2d2c7ccb9144cba0052fe7e85eb9c95ab7a85139c74c689283fc7897f9365500",
-      "url": "6a/42/1172e1c48b302ceac0c4c5aac619999ffcc61f50da54cf271df0db2d53b1/numpy-quaternion-2016.11.30.dev43897183.tar.gz"
-    },
-    "2016.11.30.dev51027772": {
-      "sha256": "d2534da84e91c10acbe95a5737e19f3c56b610e250fc5e966865dc86cf91fe23",
-      "url": "91/42/a30384343524213cfce7c21676cbfc5e531be62feb3b72878a0ab2f2df65/numpy-quaternion-2016.11.30.dev51027772.tar.gz"
-    },
-    "2017.01.08.dev232822920": {
-      "sha256": "679536e007b6e6cb2458dfd002b97fd6494317761e29f552950b8afcb460f469",
-      "url": "55/7c/4f59d2bf1bf9166a6a6ba9de5e7b3a9047894076ce56293dcd273db8aefe/numpy-quaternion-2017.01.08.dev232822920.tar.gz"
-    },
-    "2017.02.28.dev21024698": {
-      "sha256": "bb7ea12187c7c13b9da743f7f3e1dcd366ed43a554afa70f14822b76d647c7d0",
-      "url": "23/99/4bb921af8a46209070e65215e5e0d06067a8342dca70466b576273e70325/numpy-quaternion-2017.02.28.dev21024698.tar.gz"
-    },
-    "2017.02.28.dev244535353": {
-      "sha256": "23644c874ec726cca52f981d186c24a6d5a9a093d1168f2afd4643e72c59ea54",
-      "url": "f5/04/06632fedad33bd0a49d09223c4ab0644d685f8a876a7780a75beaf965d35/numpy-quaternion-2017.02.28.dev244535353.tar.gz"
-    },
-    "2017.03.01.14.16.51.dev141622364": {
-      "sha256": "d3f218679c33b039c7931db53649a5cff3c194d81ad83c36936ee31050e508b2",
-      "url": "c3/25/284b9e1efe0515fe53bd2c76cc2a091e1c9b81417c02abf01fffe2f08f2b/numpy-quaternion-2017.03.01.14.16.51.dev141622364.tar.gz"
-    },
-    "2017.03.02.17.14.39.dev234032961": {
-      "sha256": "26ac9e5dea57351d324c629a08c3bad49bdf990630aefdeac90ed7f96018eb8b",
-      "url": "87/7f/25dc98ba649af284831e49a1d645a822bc018b4a63cf45867d102f72a6b2/numpy-quaternion-2017.03.02.17.14.39.dev234032961.tar.gz"
-    },
-    "2017.03.10.04.36.28.dev170668370": {
-      "sha256": "4566d67457b015b601e760e4768dff9ff981dee159e1037b5b8b1ed21a6a0611",
-      "url": "8a/a9/df1426cbd48b5c6ea056bc7063271ef9bf08e246316120d8c3e16254f9e2/numpy-quaternion-2017.03.10.04.36.28.dev170668370.tar.gz"
-    },
-    "2017.03.13.12.04.42.dev87917346": {
-      "sha256": "fa0b1ba5b7cea31d3d15abd3c6827fbf8d0cf136a4ccaddb5814bc0d6269adc2",
-      "url": "7a/70/8326d772aa0f6cb1a0a31a6c14bfe337895516068583c942cad5d25c4f4e/numpy-quaternion-2017.03.13.12.04.42.dev87917346.tar.gz"
-    },
-    "2017.03.13.14.42.16.dev259768242": {
-      "sha256": "7d021f679b9952461865c977c93c0157c06e9d197e96a54d5f3c1811564595cd",
-      "url": "ab/22/d10bd2e43a6629f9901d95851227b1f42c5014bc3faa9301255495d5b862/numpy-quaternion-2017.03.13.14.42.16.dev259768242.tar.gz"
-    },
-    "2017.03.13.14.50.58.dev88917002": {
-      "sha256": "16c10e55aa7badb976438d36ba369f478679ca4a9d94ccb9b686d7d6f387d715",
-      "url": "8a/6b/55aebe721cb2b77b49b10673f1a98c4b8d41adadd2f849ae672567c37b88/numpy-quaternion-2017.03.13.14.50.58.dev88917002.tar.gz"
-    },
-    "2017.03.14.01.52.59.dev139985168": {
-      "sha256": "026d21991d2f2fcf5a4a31d977c8190f23f7cabd4eeff76811c2744f57eb76bc",
-      "url": "30/34/a540702adfdec5a8e6d5718309380ccd98bf110726f7ac754809b3da8913/numpy-quaternion-2017.03.14.01.52.59.dev139985168.tar.gz"
-    },
-    "2017.03.16.21.51.57.dev242408302": {
-      "sha256": "9e45824e46042522534d0186abd50e14f8ee9b2ca5949e8303fe5187a333726d",
-      "url": "50/89/f220dae23b33a4010dab5598df2659edc26b2e170b0ee227bc1db08c7c76/numpy-quaternion-2017.03.16.21.51.57.dev242408302.tar.gz"
-    },
-    "2017.03.29.15.26.47.dev5411921": {
-      "sha256": "cef37b02343eb5d0232a62aabea478ca88fd9432a51adba8becfb8e2bfaddc5b",
-      "url": "5a/e5/fab0fabadf3bcf9249d8035e4be6b9a63135115b14cadd79f7727e24c90c/numpy-quaternion-2017.03.29.15.26.47.dev5411921.tar.gz"
-    },
-    "2017.04.05.14.49.15.dev261789573": {
-      "sha256": "9020765a5c885d62d1c6a79564f65f748e45073fc7ada9580d0646f89bb1acf2",
-      "url": "18/3c/5a0112cfaed8f56d1347d8fe6384895ba3a04a7c418993ef1f63bc713b20/numpy-quaternion-2017.04.05.14.49.15.dev261789573.tar.gz"
-    },
-    "2017.05.08.13.59.46.dev255649235": {
-      "sha256": "e5a65d400cedefdea28346a6c10a1bc06761de357ced3dab0e277dbe8954495d",
-      "url": "fa/d1/e7bcfc4c258693561a1a411ffe5c8acfcbec3bc7cbae333ecfaa11644e42/numpy-quaternion-2017.05.08.13.59.46.dev255649235.tar.gz"
-    },
-    "2017.05.23.14.39.48.dev53804477": {
-      "sha256": "396c9ef58254b084dd209dddad68624f877f4f47c0fc21b0473c7c1b9b5e9b2e",
-      "url": "49/8e/1cdbecc55591899743f922db7b7b581d831413be3a0923d0e22ade45682a/numpy-quaternion-2017.05.23.14.39.48.dev53804477.tar.gz"
-    },
-    "2017.05.24.14.05.54.dev33077846": {
-      "sha256": "931aef9aecab26655c26c1cc03f4269b8647736abd55f51580266f900b4b709d",
-      "url": "85/42/93a5841ef867e1f9028b6d533b5302541b24285e13de2cf3c3ccbf6c6adf/numpy-quaternion-2017.05.24.14.05.54.dev33077846.tar.gz"
-    },
-    "2017.06.02.13.32.11.dev17910925": {
-      "sha256": "a30c1c20cbd905481a2c39ae2adb39a7ddc538f4f80f6f2273147e4d0f93afff",
-      "url": "a0/11/d880d18bb985553c8a5ef11e6f5d71887790afac11e52b2ea6bffcc614a1/numpy-quaternion-2017.06.02.13.32.11.dev17910925.tar.gz"
-    },
-    "2017.06.05.21.14.57.dev19253288": {
-      "sha256": "3bc6c712b4bec17b5b7ae1c44b227f7bae04d44cd371ee3b133389f50e7d3e0e",
-      "url": "4a/a7/fb0b0f870fa69a6f562b361b5c775e19673e622baf8cc8b501f406515a06/numpy-quaternion-2017.06.05.21.14.57.dev19253288.tar.gz"
-    },
-    "2017.06.05.21.19.52.dev20097538": {
-      "sha256": "cca48099be2cda8d1e1ca527850cc622c2c46e07c320942e08c15fb455b75367",
-      "url": "2d/be/903da366382e527cab7fc4c253903c73b62c7406b8d6ebaf3a2a66a7d1af/numpy-quaternion-2017.06.05.21.19.52.dev20097538.tar.gz"
-    },
-    "2017.06.09.12.19.46.dev119623821": {
-      "sha256": "d029e279454f2d07e76937f38aa30846ba7e86e1e35b9a0b6f95770bbb2fbe91",
-      "url": "02/72/e1bdeb68daec57fe7b71c26fa2f60c5988a62024757f55f648a132398c31/numpy-quaternion-2017.06.09.12.19.46.dev119623821.tar.gz"
-    },
-    "2017.06.28.13.11.35.dev177226304": {
-      "sha256": "3252e34c3291bc48d17a932a0f25a5fd3c7173032dfca1b951b4de18e1442a46",
-      "url": "f0/99/f38033e0a90674a7e8a1df5e98d2aa73e73cec8b11955c2ae155d1da9369/numpy-quaternion-2017.06.28.13.11.35.dev177226304.tar.gz"
-    },
-    "2017.07.13.12.09.11.dev31661272": {
-      "sha256": "0f9297a13f1ea729991abd72b410dff0c1be47531d586bc7d27e05650c483dfb",
-      "url": "f0/d9/265ec8c844a5d136cb373d9de50c60c702daf77ef02998d6f273f97d897c/numpy-quaternion-2017.07.13.12.09.11.dev31661272.tar.gz"
-    },
-    "2017.07.13.12.10.29.dev114912538": {
-      "sha256": "a9abe7b95bf48b9e2c4a7a552a5a1cdca723e4d2df2e35ffcb941fa8e0dfcee2",
-      "url": "91/77/c392b7dfa8255db513b162d2b43f67cb2ae0ac9b3ad1d4c65460cde04ed2/numpy-quaternion-2017.07.13.12.10.29.dev114912538.tar.gz"
-    },
-    "2017.10.04.13.50.36.dev52395737": {
-      "sha256": "4ce643988713e6a496c27b64b2fc799332ce6af082932b0b72a63e5a519b9453",
-      "url": "a6/44/4ff18ddb03ba96b526cb5e933cf054973817d4763931f494ab69c789c76f/numpy-quaternion-2017.10.04.13.50.36.dev52395737.tar.gz"
-    },
-    "2017.10.04.16.20.25.dev180388366": {
-      "sha256": "a2abaa934b6db491c4d1a40d04429c43d5efda6362a1207a4660221ad8004d66",
-      "url": "42/32/30d30fe69c6a4ebfa0366a0600c8eba80a745a0ca873dc6cc8810957ef93/numpy-quaternion-2017.10.04.16.20.25.dev180388366.tar.gz"
-    },
-    "2017.10.14.11.11.56": {
-      "sha256": "78e15ef8e7324b5b599ea1ba64eadc2c0197887b9db3aed6c7675de9cf0d64b2",
-      "url": "dc/8c/a6e94e7bae9e0f0f23c8489ed9b27dd6870d6cf9b8adadecc6a0d5630b38/numpy-quaternion-2017.10.14.11.11.56.tar.gz"
-    },
-    "2017.10.14.11.13.13.dev206252663": {
-      "sha256": "17e67549a3a6a70c552435b1eb8d1d01aec9914902a8b4c1e4e02babedc4e5cc",
-      "url": "16/7b/238a1540b9334bbbee89c45f6631fe8856fea6c3d0ea2b0328df831db211/numpy-quaternion-2017.10.14.11.13.13.dev206252663.tar.gz"
-    },
-    "2017.10.19.15.47.40": {
-      "sha256": "0399ff457ca0c5b9b627bf11017895d74ca8627b0cc5bee75fbdd274d490381a",
-      "url": "ee/e8/5521c1c0978e8fbcd28e715bac31731abc06a6774658de41e6ab22e37b42/numpy-quaternion-2017.10.19.15.47.40.tar.gz"
-    },
-    "2017.10.20.10.41.30": {
-      "sha256": "2b41df1df9f1f76f32eec7652fb407c41e50b16903ca508c55457f0e1837cbf5",
-      "url": "87/2a/f17d4ae503506cb634ce93ac34a6acb20c40f2f63e72618a6f71fb6e620d/numpy-quaternion-2017.10.20.10.41.30.tar.gz"
-    },
-    "2017.11.26.19.00.13": {
-      "sha256": "3e3cad8e769934628fae9beefdb19418db9519d9b8a8c5eee7c78778fc492988",
-      "url": "7e/4e/ea5f0cfa242619f6d38ebc9500d26811ed68c1050fe658d0cc6c2b51d29f/numpy-quaternion-2017.11.26.19.00.13.tar.gz"
-    },
-    "2018.02.21.15.41.17": {
-      "sha256": "2bacf476ea3734d55ce6b33e2ed0c350615f37c321036bce56e84f8ccdc09aa1",
-      "url": "a6/ff/adc2832fbe2e94a54ace146897a7205adada41bd007691a68f13fb621ac1/numpy-quaternion-2018.02.21.15.41.17.tar.gz"
-    },
-    "2018.02.22.22.24.39": {
-      "sha256": "be2f224dcc1ab24c23b552a5bc7a97df6aa4f9ff4a79a9826eb117639206d735",
-      "url": "8b/72/5e61aa6a23765c5eed318e26fc151c658fd3225d0022a00b9038e81f8b08/numpy-quaternion-2018.02.22.22.24.39.tar.gz"
-    },
-    "2018.02.24.23.05.39": {
-      "sha256": "d731cd92e95be232572ba700675d547b9ad3d3b369279aa8f8b4bd97b78274cd",
-      "url": "a1/cb/9d8825ecd6a2cecde923e9e84f2e85169fcd4beda93840d14089af968972/numpy-quaternion-2018.02.24.23.05.39.tar.gz"
-    },
-    "2018.03.02.09.28.43": {
-      "sha256": "15c552aee5837521b1f2cef0a3077b7aa549913329e8e5e9c825d8cb2414d189",
-      "url": "44/fb/59cd63e842322068b69205c49ed60a7e342b14def7dff329265772a567f1/numpy-quaternion-2018.03.02.09.28.43.tar.gz"
-    },
-    "2018.03.06.20.03.47": {
-      "sha256": "b82e9c1eade4ae2f769dd6859162b777ae16f1febc59de12017f541c67ebc493",
-      "url": "0e/03/4813b1ac3e3044c1ef888dc4ef3fad6b741c5b7ba41a800b808ab6d99fb0/numpy-quaternion-2018.03.06.20.03.47.tar.gz"
-    },
-    "2018.10.1.15.1.2": {
-      "sha256": "b456ccf0d9de9e2d15f52c0811f5b07240f38b1041a13315d2b9be35107ac813",
-      "url": "41/7a/0719152e9775892798b1cfd6542664bf48d7e4c2ac9ba020901e1cde8a8e/numpy-quaternion-2018.10.1.15.1.2.tar.gz"
-    },
-    "2018.10.1.15.18.24": {
-      "sha256": "7cac506b7203d9858908b1713c3d27278e28d3848c0e89d0c9bcb442e2830251",
-      "url": "f8/96/74881aa0658a87b7da645455201c33d13fafc2bc5fef83dc2bb7842d5199/numpy-quaternion-2018.10.1.15.18.24.tar.gz"
-    },
-    "2018.10.1.15.34.19": {
-      "sha256": "6db424f4758c41382a4bdaf9b58d85ff97cbdd9bc2be82a1292c09ca416f27b3",
-      "url": "91/5f/1ccf613e772c42010851120e528410456c5eb5865023e4dd6a88cc702df4/numpy-quaternion-2018.10.1.15.34.19.tar.gz"
-    },
-    "2018.10.1.15.39.8": {
-      "sha256": "d73477c9a6d8c2dcabb954c853fe7147828ac827c323e634e8f7777a152a6aad",
-      "url": "38/19/b7106a7e3dc0c50b67583937b98db881a71d54b7e7c5e2f30e2507f026b9/numpy-quaternion-2018.10.1.15.39.8.tar.gz"
-    },
-    "2018.10.1.15.59.11": {
-      "sha256": "fe2ccbf5045ffe5fd1167e05211e410bfd5144a1eaf899d109c193c686991728",
-      "url": "a9/c6/a492b1f30e84338e2832d14f8dcd91b7feb2222a4dc4be2378f94c073cba/numpy-quaternion-2018.10.1.15.59.11.tar.gz"
-    },
-    "2018.10.1.16.30.46": {
-      "sha256": "0f5b1ec6669217605737a715dc2576521e9f0c1ce580d4ca1f15e438d14aaf4a",
-      "url": "c4/53/066f61ca207e2baf7d4894b6e6c31b5d46514b0468221f06b9fd445938a2/numpy-quaternion-2018.10.1.16.30.46.tar.gz"
-    },
-    "2018.10.1.17.6.20": {
-      "sha256": "ae7c7310d80e79adb364a527f5f79b9ebf5e7488e12ef561190dd36260dd693e",
-      "url": "d4/0a/a4d3700ecabb9c58b9492744f47131b4a5963098100c1b3a98b51f0fb4a4/numpy-quaternion-2018.10.1.17.6.20.tar.gz"
-    },
-    "2018.10.1.22.5.32": {
-      "sha256": "e2c790d05d0ea786fc2ce3e19c469f660499e87acc0e2ea29f63295e07eb96d2",
-      "url": "46/65/b046c9e7a3cba3a33a56f9aec66366ad2dc4ef64e4dd19d3b318f993d6bb/numpy-quaternion-2018.10.1.22.5.32.tar.gz"
-    },
-    "2018.11.28.14.6.55": {
-      "sha256": "260148252683ac63c419d1bb7e61808ae3aee03c19f1ff8946625e5456e8ab10",
-      "url": "28/1b/cea22375aaade16797707d44772bbfb70c7983d2349c06e29f6fc7c35e60/numpy-quaternion-2018.11.28.14.6.55.tar.gz"
-    },
-    "2018.11.3.1.0.41": {
-      "sha256": "48f11507849c429cc78e30d906ea2adbc3359b46254c94c5a899aa7e6a4d7b38",
-      "url": "3c/5d/e58d67cd579061aa2c392dfeef510ba35b89d208d8ec689b0b0438c3632c/numpy-quaternion-2018.11.3.1.0.41.tar.gz"
-    },
-    "2018.12.24.11.8.55": {
-      "sha256": "a27b86b920680fdf9ece173f6ba8338602bbaa3323bb865a3d1cbbbdc33e3a20",
-      "url": "ef/4f/fa00ba5f2d46704eef9e69406fe13a73c79e988bbe73a1504874242f28b6/numpy-quaternion-2018.12.24.11.8.55.tar.gz"
-    },
-    "2018.4.16.17.4.9": {
-      "sha256": "8d9db4a070cd61a7a37aac48406f4bb6d50cbcfaab19e0b6b8233463583eda6a",
-      "url": "56/05/caa4e0f746b50ac5a0ec887c4232ddbaf77065a6a7d95da63a47b6187cf2/numpy-quaternion-2018.4.16.17.4.9.tar.gz"
-    },
-    "2018.4.18.16.15.4": {
-      "sha256": "8f8c4c118553bfb43956c8274d4561ff31c34104357fe8c1015c5e6b01c6eb2d",
-      "url": "e4/3a/9d094cbebf2f42b497d175592dc071c680f987891bc35b123314fc1d6ef8/numpy-quaternion-2018.4.18.16.15.4.tar.gz"
-    },
-    "2018.4.18.16.18.52": {
-      "sha256": "ac0492de9ab722071dbaf432088841101cb0d186489a42eff63e91a409f89610",
-      "url": "9d/bb/684537640470970f8b9923639f45ccd4e99c6499b74ce798383d1cee1a27/numpy-quaternion-2018.4.18.16.18.52.tar.gz"
-    },
-    "2018.4.26.9.35.2": {
-      "sha256": "ca9892f602d7310494ec592298cfba2bb39b59b81380fc9f853c68a392511da2",
-      "url": "79/85/3d42f09c6a56b0da9d109ec85000050f9f515e3bd9b60ca4f0f75388c703/numpy-quaternion-2018.4.26.9.35.2.tar.gz"
-    },
-    "2018.5.10.13.50.12": {
-      "sha256": "4bc1ad407cfc9a09037f986eaaed4b79269d4a35ed68c6965e2615d4eff4d60d",
-      "url": "f2/15/2fd56a611652de82bcb854920a616f1525034ea3bc2e316c6e04aa3c13e8/numpy-quaternion-2018.5.10.13.50.12.tar.gz"
-    },
-    "2018.5.16.9.16.21": {
-      "sha256": "a4680bdd67c6d49890ad88f2f5b38d507d13c964c18be061b66133b0fd64fa53",
-      "url": "ad/20/9012ee7b2971bf2ae5955bcf8b060cbc1fdd2fa9c8dce382a7f77dfde72a/numpy-quaternion-2018.5.16.9.16.21.tar.gz"
-    },
-    "2018.5.17.10.19.59": {
-      "sha256": "c14d448cb590430a98d1cef8a13b4ac2328653e9f8a20b1f978eef09352ebe26",
-      "url": "9d/7e/d8dfe1a1cda9530da0be75c0b000c2ee1f8f3cb274f42b84f3a5e1ba1aef/numpy-quaternion-2018.5.17.10.19.59.tar.gz"
-    },
-    "2018.5.2.21.39.8": {
-      "sha256": "a306fe739809da164bd4e4cc7e3f268ff2f9fb9314b40cdd4b11fceca4d96890",
-      "url": "4c/6f/4d5c7506a0e30c5fb11fc01d7cb983369f6caff5d7223ed4b2ef0d6bf435/numpy-quaternion-2018.5.2.21.39.8.tar.gz"
-    },
-    "2018.5.31.13.56.17": {
-      "sha256": "6f4e89520034b74ef6d9f76715cfdc7db9b6dbad8ba85a58b4da8f2b52fc7de7",
-      "url": "7b/51/74524c12c2122d23ae689de4fd1ed4c435ce552818294fc31da7d904c1c8/numpy-quaternion-2018.5.31.13.56.17.tar.gz"
-    },
-    "2018.5.31.16.8.42": {
-      "sha256": "0ce982d586b8815de250d59a5f740c965f9f102ff914b48709b18ffc293a8697",
-      "url": "d3/9b/21f12f26efd9b258f0574ed5815de17c3d1d8a046278eb48bcc3fbca086e/numpy-quaternion-2018.5.31.16.8.42.tar.gz"
-    },
-    "2018.5.9.12.22.4": {
-      "sha256": "874b18f3e870d8a1db329952c7db21fcee0097b1950b1bd29b6a17b8e66812f7",
-      "url": "ff/12/38874120e7e0f0046fb3f97c1318ca98a135e7ed0d8f69897baa90023f44/numpy-quaternion-2018.5.9.12.22.4.tar.gz"
-    },
-    "2018.5.9.17.32.22": {
-      "sha256": "fb591f21ab94417ea05a7dffe2e06f48fc17815a80a5f4cd956d05e21afb6a2d",
-      "url": "76/25/652b2344e0c8454958cb1d28ace211baedf20f3c49f04a21d738810107e2/numpy-quaternion-2018.5.9.17.32.22.tar.gz"
-    },
-    "2018.5.9.17.41.0": {
-      "sha256": "ef02a946e7b4ef6c24df267afbf9250005a2dd0ecfa3111315aac27bcc6f9463",
-      "url": "18/71/ad839626ad570c1cb913d44c27cb5dfce287f6f972a9868c92a2cff601af/numpy-quaternion-2018.5.9.17.41.0.tar.gz"
-    },
-    "2018.5.9.20.48.6": {
-      "sha256": "a51ddf661e4b95cef0b4acbd679709b167d9063740ff0ada168ee20f7a07a124",
-      "url": "37/47/60503ca8e99e8367052d770fe0687c8585150fbf3a2eba3b789dceef4887/numpy-quaternion-2018.5.9.20.48.6.tar.gz"
-    },
-    "2018.5.9.21.48.54": {
-      "sha256": "f17dc2178c7fb6fe13db3181e8ebdb7dd690c45a1778391fc93f6c6b99c6ee9c",
-      "url": "20/c5/103eabfe8f2d818f9c4df082c234aa53618b6ed8b605f4c043db0cd7fa2b/numpy-quaternion-2018.5.9.21.48.54.tar.gz"
-    },
-    "2018.6.18.16.33.12": {
-      "sha256": "c965e5745084c35d990893368e996cd215eec6210a2734f2846a9d53f159f756",
-      "url": "d4/92/7221bfa3bf3a922b0ff07c236c1e073f7ec553f502b58a5b1f56d1e2c21b/numpy-quaternion-2018.6.18.16.33.12.tar.gz"
-    },
-    "2018.7.5.21.55.13": {
-      "sha256": "4608b70898433f23b920be1e29a9538d5d624e7825a72fae68f439d842631ce7",
-      "url": "b3/27/4a24bd518a8a85b4a8c7906b80a61972a656cbc9b8f9b738d0f0b0f09410/numpy-quaternion-2018.7.5.21.55.13.tar.gz"
-    },
-    "2018.9.30.22.1.29": {
-      "sha256": "066164f9641f96c28fa147efb049246f9c1b9e8d06eaaca8b345830fb256fd89",
-      "url": "49/ae/dcbf6253b16646af19e504a5ce0f6d179f5a81f95b97e0935d0818dd8e71/numpy-quaternion-2018.9.30.22.1.29.tar.gz"
-    },
-    "2018.9.30.23.2.27": {
-      "sha256": "49dfffc3cda57a4c32d80c93e50787dc82f72e3bfde8195ff1078a1021a687f1",
-      "url": "16/13/a4d3571c533bce29dd9b4f2c88af70a0d32520af65d457fd388a1bf11fb2/numpy-quaternion-2018.9.30.23.2.27.tar.gz"
-    },
-    "2019.10.3.10.26.21": {
-      "sha256": "1be56c6ebab22c55f2f005a62ce098e08a7401783d2fad2efb1ba1dd21f02372",
-      "url": "c3/38/3f425805ae8c20cbaf38b3ca6f13afd62bf069e8b581087e257a2c130f5c/numpy-quaternion-2019.10.3.10.26.21.tar.gz"
-    },
-    "2019.12.11.22.25.52": {
-      "sha256": "21d7bfbc08ad7ba882a05262fc67daf96e9e394fe442d1b62a4b8829259d6688",
-      "url": "a6/1e/62ee5115236aafa3d763226da9ad01abc91b8be9cfb843aa0f709ec38f5d/numpy-quaternion-2019.12.11.22.25.52.tar.gz"
-    },
-    "2019.3.18.14.33.20": {
-      "sha256": "7b8de471861a7977802c0fd0a9f67aece6a5967c398b7e338a44178ecf546aef",
-      "url": "f3/07/6512b870e10c185ae58b5eb90c878dafc09c0d290d77c0c33b6b5c0d6d2f/numpy-quaternion-2019.3.18.14.33.20.tar.gz"
-    },
-    "2019.5.24.11.54.47": {
-      "sha256": "100c99f9a4b9467cd6b2cf9a9e24248e2bad753092a10efd86309c256ee444c8",
-      "url": "f1/6e/498179d00cfe63d397b73299744b006bfb706b35a3d34ff727d33c45bfc4/numpy-quaternion-2019.5.24.11.54.47.tar.gz"
-    },
-    "2019.6.11.17.26.3": {
-      "sha256": "d7278ace6928279990897092904e7f5873b333c899b577605b12551bcca4129f",
-      "url": "e3/36/c4a17998ed49b7d2818c82fcfbf2f2726f7ef4cf76c947834a6759f12993/numpy-quaternion-2019.6.11.17.26.3.tar.gz"
-    },
-    "2019.6.25.22.33.21": {
-      "sha256": "4dc3f29560a1f754dfd153fcda3ee86b0c6fb238719f69bc2779cbb63db596e8",
-      "url": "d5/b6/b6561125801cdf7f2f955b2ede0b3259c4947469beb36907bf5276024c9b/numpy-quaternion-2019.6.25.22.33.21.tar.gz"
-    },
-    "2019.6.25.23.51.47": {
-      "sha256": "51a46cee4dee7b77be00a701febf23576bd700eafc0f253119b576ca75f04dce",
-      "url": "3a/0c/a8e8c843021d41c2fb5c29f01bbcd4fa77ed4f812302b71b1cddfd745768/numpy-quaternion-2019.6.25.23.51.47.tar.gz"
-    },
-    "2019.6.25.23.8.37": {
-      "sha256": "f2d954268966ffc9fa72e4c49e48df3cc81d30ab046559acb9557214cb1ee718",
-      "url": "46/66/8bebe6c0e524b7f89c0ad7155309df66061fdb642d6d4eb885a91566ce99/numpy-quaternion-2019.6.25.23.8.37.tar.gz"
-    },
-    "2019.6.26.0.0.13": {
-      "sha256": "5244e524cd7c13b7bb3f8e35684b5c276672794cadc98866826eb49de4db15c9",
-      "url": "d2/94/86e81260c0098bc03416b68227ebf43635953f3d6ec4971fa934e5c23280/numpy-quaternion-2019.6.26.0.0.13.tar.gz"
-    },
-    "2019.6.26.13.19.17": {
-      "sha256": "63cb05e463c001f9eb8b2d4f37f83431e04033b5c8d950daa277c164109d2f9e",
-      "url": "a9/7a/66ee39f82fb6a1eef150cfaea1d6e63365407da62d29101df7d4bb29a515/numpy-quaternion-2019.6.26.13.19.17.tar.gz"
-    },
-    "2019.6.26.13.52.49": {
-      "sha256": "de9e4c0c8f37b4ff64bdaf13a914bcf2383474352153d3d80acbace2d32fe785",
-      "url": "3b/ae/5512e9092a8e2ab2a9ea19077f088bb79bb3dda667c8f83346ec52db0356/numpy-quaternion-2019.6.26.13.52.49.tar.gz"
-    },
-    "2019.6.26.15.8.24": {
-      "sha256": "5b11f65f3ef6fa0227530d2c587cc0cf57f64a46d5a121e1cf99adc4c2807014",
-      "url": "2e/60/5f944c433e3726a340db9cd0ef24bd4ac34c4d3654ca8dc8f9cc0e21ce78/numpy-quaternion-2019.6.26.15.8.24.tar.gz"
-    },
-    "2019.7.15.12.50.36": {
-      "sha256": "7410612b684faa8f70d01a3d7f75d77307f971ddb72bc6bd00e7d093184cd60b",
-      "url": "54/b5/4a5f654ace2656d301f08629d91eee6475b59bd6d225d51a7068451e4141/numpy-quaternion-2019.7.15.12.50.36.tar.gz"
-    },
-    "2019.7.23.15.26.49": {
-      "sha256": "42289bafc3292959173d93736f9c875b5c69d472934f04a76883b7b185adc42e",
-      "url": "a5/c4/9d54605988a118d72492001ede7b49a57b1b281cb5b9966278d0faab6730/numpy-quaternion-2019.7.23.15.26.49.tar.gz"
-    },
-    "2019.7.3.22.46.7": {
-      "sha256": "f7f3a2fd9e8e6796129f0ca76eed3cbf9ffd22e4dc3fdeb94d8df1119fb674e9",
-      "url": "5e/79/2cbe050deed1cd7976e5cbcbdc15ca67840f7079a044bd082db127db204b/numpy-quaternion-2019.7.3.22.46.7.tar.gz"
-    },
-    "2019.9.30.17.47.33": {
-      "sha256": "4ebc8e419aff57e6146baadc7c8309e2f3558d9f2c36c62a4813bf9905f59279",
-      "url": "98/19/fd182e94a025a57a3f41220852230655150599a49f98f0648294f0a34505/numpy-quaternion-2019.9.30.17.47.33.tar.gz"
-    },
-    "2020.4.21.14.53.58": {
-      "sha256": "4027fda144389be042d55076cdb77e2502eb9418ba7006529455a18d3e4feb6c",
-      "url": "ff/06/02a9e98fcb659953d3b3bb76bc7b19a410c91b61b013c661e29bb053ada7/numpy-quaternion-2020.4.21.14.53.58.tar.gz"
-    }
-  },
   "ofarchiver": {
     "0.42": {
       "sha256": "ab5da68318a8f561d8a3f782e5127415eb30be1cbbf7f970a959040de2eb72a3",
@@ -17031,6 +16649,12 @@
     "0.9.1": {
       "sha256": "3ac9fb0de3033fa915fe8c59df2eeea4fb9e1ff47d5455cefd0cb9219abe3419",
       "url": "e6/b0/705c4f0936fffcd063b16468ecee32c327b3030cba895dfb04f716de45e5/pan-python-0.9.1.tar.gz"
+    }
+  },
+  "panda3d-viewer": {
+    "0.1.dev3": {
+      "sha256": "370b6a8427cd47af969b324a817190ad4394feb72a79b3eb6d69b591f0e24dea",
+      "url": "7a/96/e35a9261cff977d08ee0378e98053ad005259be197e25fa243c2bb395487/panda3d_viewer-0.1.dev3.tar.gz"
     }
   },
   "pandoc-simplecite": {
@@ -18315,6 +17939,10 @@
     "3.3.0": {
       "sha256": "f95e83416adcb53e591276034630b83a7970c5bba079ee86dab9ad246517bacb",
       "url": "e2/f3/4022246e7d13086794f44fa1d45b9c9ab1a42d6769546d7be88fe23435a4/Products.CMFDiffTool-3.3.0.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "82c4075be8339037ff88bafc6d85f56909845ccc4ba79ba6de10ba019b50ed0b",
+      "url": "f1/ba/da265b42c8c4a47f471e4d1e3ca7851deb916fa1b0cd643b62be986ae51c/Products.CMFDiffTool-3.3.1.tar.gz"
     }
   },
   "products.eventregistration": {
@@ -22078,6 +21706,10 @@
       "sha256": "e3e2b83e8a11a1d532234674ecf9a999ba50f02d987225e5eada4dec5ff34b84",
       "url": "84/cd/853ecc32a6ad00483a8bbcf402ea2dc0f0c00ea9324cb70642e1e5739f93/sc2monitor-0.2.36.tar.gz"
     },
+    "0.2.37": {
+      "sha256": "00bd31dbd20cba6a3826016d20932b6f1b1da0b8969e8cf149385ebca0d9002c",
+      "url": "31/65/d302bfe731549aac61de3e87e1e10157cf2fc10fbe4e8c65257482e2cf16/sc2monitor-0.2.37.tar.gz"
+    },
     "0.2.4": {
       "sha256": "5afaa363ecc11c209ddbb2d8ea92fbc21d28533a1f6f28e3d7f2d98f53c1af7c",
       "url": "81/81/f98f466e3d853f60190477f18ac21d5f74fe7e6e8ed719ddd74f337ea43b/sc2monitor-0.2.4.tar.gz"
@@ -22315,6 +21947,10 @@
     "1.2.5": {
       "sha256": "8eb1c849459a1e79bea5a692cc0c9f1c48af50ec3ff82d98f658470925176bdc",
       "url": "2c/79/c7a4fac986c5e00586ed576bcec6ea75d0f58a86837fe00f177087bc2e45/seldom-1.2.5.tar.gz"
+    },
+    "1.2.6": {
+      "sha256": "eeae8a795caaa574d4f08f081e480da4ae2e4ab50cd8c7d4e2dff0d30a1acedd",
+      "url": "24/e1/302aa670896f1549163c0d7266b49d7a4162a63db6a31961fd437557fbb9/seldom-1.2.6.tar.gz"
     }
   },
   "sepy": {

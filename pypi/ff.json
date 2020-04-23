@@ -1095,6 +1095,10 @@
     "2020.3.0": {
       "sha256": "5c8c47189fe2c64d345f3d918c20546a7c122949fabea80704e29185fdf4b8e2",
       "url": "c0/77/2cd9226250b6fb0fd046d35b906e6642789729ac9c518034713d18e52c68/auto_deprecator-2020.3.0.tar.gz"
+    },
+    "2020.4.0": {
+      "sha256": "c798d23c83904788eb5607447285f15cda72dfc07947a6ae67a77d1645e39e41",
+      "url": "af/df/d50e0b6ed1f93b9634df87eba6003c45cd3b131544584ebf7a9c4c7046ae/auto_deprecator-2020.4.0.tar.gz"
     }
   },
   "autopytorch": {
@@ -1323,6 +1327,10 @@
     "1.34.0": {
       "sha256": "aaca1a2fe709a4248281df811a1edda45e90b7618dd6ac8dad7283489a75540b",
       "url": "f5/fe/66ebc11e9a8b4592f826a019edbd4327cdd97528cb29d1d205f283898309/aws-cdk.aws-kinesis-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "9e0bab5dcdafc198c6d9736eaeaeed665a7fb295297023468f50387c98ea07e1",
+      "url": "72/cc/7ee9a083a76e55fe92392bf8ae19bb1d07ce2e1a120ae808e50139c74c85/aws-cdk.aws-kinesis-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "8ac71ce2f926716ca37c1531c2e9efc12733d7ab5da15dd8071c1637085081b0",
@@ -5342,6 +5350,10 @@
       "sha256": "adb966fcc7cf7a54fe421eec795dd1cab6274f19458851ad1082cbb743f8da74",
       "url": "74/14/9d07b5b204222341f1a45e348dd4436027c4733ee29586370b46153c5491/dagster-k8s-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "603080501420388c78890b6aa35f508a96b2eabf9b3114d5263e614d53f9b1af",
+      "url": "56/f3/4b05f16b81a7d0f662cd8e44cd630b33414989706435589b18be681a9952/dagster-k8s-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "7b2a801fb0725f23ef994c534286db68c81d88e7f47df17ee0bb5b2f60ec4517",
       "url": "56/55/0408fc3ab969271c8915872824a1a9660c37e502a8d616999dfe5f88e78e/dagster-k8s-nightly-2020.4.4.tar.gz"
@@ -5383,6 +5395,10 @@
     "0.4.1": {
       "sha256": "1d427f4b6b7c60806385b3d9b5c68cc9821dd639be555bafef2798c40febe989",
       "url": "e9/34/a7727f4bde3499fc9ef2626fc887be43cba99cd9779c495b1a50e375e228/darwin-py-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "5230b20d427c6225c8b4bff32426de4362d191e3112a20b3848fdd8b07adee58",
+      "url": "a1/a2/a65d71a8d42acc6b5bc4cbd242179db88fef389c6fe8233f9882d58db660/darwin-py-0.4.2.tar.gz"
     }
   },
   "data-manipulation": {
@@ -14993,6 +15009,10 @@
     "7.3.1": {
       "sha256": "1386fbca676ba70435ae4f300861945736c337e1d3807cf4058cdbbe93b80663",
       "url": "5b/eb/d55e003e25a9dbd4eaad37d080eec9f1e76ee33d81756bbaa96fbb82fc23/networking-hyperv-7.3.1.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "ed3dde181122256ef68ff160d5288a1e98da098372d8f68598c622d8fb6a4f0d",
+      "url": "94/a6/d10142d2e1bedbb39c4fcb69aa06fb24858e685c58570bb2f1cfde2bcdc4/networking-hyperv-8.0.0.0rc1.tar.gz"
     }
   },
   "newsmodule": {
@@ -18417,6 +18437,10 @@
     "0.6.2": {
       "sha256": "5ac860ff380f4b80c3b6ace310317ed67d5640ea28ae720e2750a00ef897970d",
       "url": "69/83/f622a5043901884271bef4c927a7f9c68bf722ee66b795b1504e706dd39a/pycopy-logging-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "beb8a00a89758ef3be9c9bc1e1124809af6df4cc2f65a9682d18a1a1a1c43c2c",
+      "url": "e3/49/e2b45fabea40a429a13d02fcc11b09c9498451d81306cfdf042f80c30a84/pycopy-logging-0.6.3.tar.gz"
     }
   },
   "pycopy-uasyncio.queues": {
@@ -21241,6 +21265,10 @@
     "3.3.0": {
       "sha256": "5b7e3215277e05d4f718f23249f11f77d1e18544590c3eb02d8549ee669f2769",
       "url": "9a/b1/5d5289a6c5aa99eaa344d9a41a6131dd4b8bbb61b76873ca2ffeb92f4713/quartet_capture-3.3.0.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "ffcb3cfafcd9894c9d8c31ad500793ddb91096d1662b261eb3a7c5071fbfada1",
+      "url": "03/bb/b9003f0e49bcd9c1413153601028a118eef679d57df533fbc94746bd488f/quartet_capture-3.3.1.tar.gz"
     }
   },
   "quaternionarray": {

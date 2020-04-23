@@ -5103,6 +5103,10 @@
     "0.2.2": {
       "sha256": "743052dfea559f84e102c636f9f44774b740f84651a750d2faa7d25d2d7515dd",
       "url": "96/ee/5c9b54a48733a74a7239995b77104894f5691ab46ba3f4f03b98fa068f41/django-scratchy-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "e3553d040dc822a5a16eb5137586d15b276f9fd9992eae82678d70339d202fe1",
+      "url": "e5/84/0bd37b9cc0daf567a8223eb264505ad295c0776805fdc166a211f3f63309/django-scratchy-0.2.3.tar.gz"
     }
   },
   "django-secrets": {
@@ -7507,74 +7511,10 @@
       "url": "fb/b3/c07702ee03b6c1710689836f194819b2eb5697ff908d5e6751d005c8a2b4/flashCardStudy-1.0dev.tar.gz"
     }
   },
-  "flask-pluginkit": {
-    "2.1.0": {
-      "sha256": "3940214512044a4ab115e3230d359cb955fda54a97bd7582fda9431db4195b2c",
-      "url": "4e/1a/329d7d088058fbb59054ad81e870a226807207f40114fbbf04e11d778e01/Flask-PluginKit-2.1.0.tar.gz"
-    },
-    "2.1.1": {
-      "sha256": "8cb1f73b0737dc0f0e1c91bf3e11c7da8c5333b0470af745448e75157e2bc56d",
-      "url": "75/f6/deab4c457b14d8b0aacf54660ccf2f049de421da1dc9aa68ef93a8b6b9b1/Flask-PluginKit-2.1.1.tar.gz"
-    },
-    "2.2.0": {
-      "sha256": "85370fb695afb100b1e119e4b9216719b6c56c8ba3caaf4b64a74b0e49ff6055",
-      "url": "79/16/fdebecdf08f9a922db4f1bebde8bb6c6a9b5e045ad30776d067a2abb22b7/Flask-PluginKit-2.2.0.tar.gz"
-    },
-    "2.3.0": {
-      "sha256": "8e788647f834de9917c30c8601e7bc10ce442581f4a1c1889ed9dff19b3f9f1b",
-      "url": "66/80/ae8ad6726d8c178643c02f8175ece0bab65a69897530b2156decec96e955/Flask-PluginKit-2.3.0.tar.gz"
-    },
-    "2.3.1": {
-      "sha256": "0ce641d3ef377e6da4fca9363c8cec42be3169c8d9d262f9639d0df748a02bd2",
-      "url": "06/b7/00dee1a59f28a46aa6ef35e3ce7a1702caea5e2e8fbefc258702f2cbbdc2/Flask-PluginKit-2.3.1.tar.gz"
-    },
-    "2.3.2": {
-      "sha256": "6be49e706e35abe0e3e981d4ec3436c225ab9964030425f48335c0083d778e94",
-      "url": "49/ef/608a8331beb759c1f890885c5bf5b0cc1b269507827c9d51e276b61aed18/Flask-PluginKit-2.3.2.tar.gz"
-    },
-    "2.4.0": {
-      "sha256": "d6a4558eb732f9b7da214fd9b91d525316970e5bc5dd1b78e841784f8c3ec05b",
-      "url": "27/ec/1b5bac2d7d9efcf8eb5df7362a0cc495f829911aedd6f382d6f64ef61fdb/Flask-PluginKit-2.4.0.tar.gz"
-    },
-    "2.4.1": {
-      "sha256": "d58fd68b157f079d63dd587d743c31509a18ff28e19b45454f39787b660c0939",
-      "url": "f1/95/74d089d9bfb5be84cd9b785179d190cbacccb6531500bad1b62cb03c7666/Flask-PluginKit-2.4.1.tar.gz"
-    },
-    "3.0.0": {
-      "sha256": "ca142b0474c4f69a1365e7acbc5f4f5064ec416a3a5f72e601ac222e3ab1b3aa",
-      "url": "c4/5a/fda8200f0f6fbaf67515ae095a8dca8f95e89bd00f00791abb00c75768e5/Flask-PluginKit-3.0.0.tar.gz"
-    },
-    "3.0.1": {
-      "sha256": "a7ee59c89807480d19e0b9e8624ed7bc81fdf900f6351d40dc0972a5a1ea0660",
-      "url": "02/53/089a0f8b6ed76ce824a68dfffdb2c58e284d485423053520a6a8c4f89ced/Flask-PluginKit-3.0.1.tar.gz"
-    },
-    "3.1.0": {
-      "sha256": "a076af536755d8e04e59c5e404f55e1bbf38520c31a07e26d65fe1febb846cde",
-      "url": "78/95/399fb8dd80f872b279eb645d11cd45e23ab422bc55c14c37e3b15783e27b/Flask-PluginKit-3.1.0.tar.gz"
-    },
-    "3.2.0": {
-      "sha256": "0830f101dfea0f9f4773db4f8d9c1d79f97d20393e4e861ae11445bebf8185ea",
-      "url": "c8/f0/9c71ee69af2a3dceef02470329b928c16f944724f553774f73814c8fed04/Flask-PluginKit-3.2.0.tar.gz"
-    },
-    "3.3.0": {
-      "sha256": "0d0b48ea6649207f952f74c7879311cdd7a01ce895a030b61949b338e2d0fd0a",
-      "url": "b8/ad/a91012f27e778dc2b2abc98c10fdf2e935aebb35fa5b54acfbef9718ba83/Flask-PluginKit-3.3.0.tar.gz"
-    },
-    "3.3.1": {
-      "sha256": "3d6133188c295e9d0200c9e1ecf8205dc3d6662037bec71d466ea108285449db",
-      "url": "1f/13/2b99db63b7aaedc6a0e2e09e4469083a0408fc9224f8b7b612e18f1a0fce/Flask-PluginKit-3.3.1.tar.gz"
-    },
-    "3.4.0": {
-      "sha256": "98d99ab0f70063ac99d8dff1f691103230b5c479de6e407fef69a72883cad79d",
-      "url": "2e/8a/9bc0ef7f72b00cc5b62820db0f93bdf1e0acd1f0ca71163c4e39dfa94490/Flask-PluginKit-3.4.0.tar.gz"
-    },
-    "3.4.1": {
-      "sha256": "5ca3cea44f0c7766a16f5f46eeaac7908c7459409846bb79188faa10341dd6f7",
-      "url": "a6/6b/f60c337f7c666fbdc5251e0577cf23917d29ccd573551134d231f1a79f20/Flask-PluginKit-3.4.1.tar.gz"
-    },
-    "3.5.0": {
-      "sha256": "cc87d83593b7cfe5ddf3396e3087417e7c137f31cdd31cb1cdc51f752f6c14bc",
-      "url": "5f/d6/6479c5d96077c62b20249d2a1871382c2c4d45f8b520e99c0a1dde67174d/Flask-PluginKit-3.5.0.tar.gz"
+  "flask-image-search": {
+    "0.0.5": {
+      "sha256": "b9a40373ec58bbe435b3d9152b029779caee319006eff6a30b503e61eb5e013f",
+      "url": "78/dd/b6eebddcc4b0a36814052af4214503378c67c599780066e9df8eff7923d6/flask_image_search-0.0.5.tar.gz"
     }
   },
   "flocksync": {
@@ -8079,6 +8019,10 @@
     "1.1.0": {
       "sha256": "55671e3169e9b7d53bec5799863347e24fb463947d68f99b325efee26447a0f4",
       "url": "9e/68/bcf37c92c347a0fcd5c98b6ee607686cf2cc82fd7931d66b8c80cda39e85/geoid-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "0bafd84d75271511164e1640802fcb62317107cc3f641f479e5e754bc1d57aa0",
+      "url": "7e/f0/70cdc60fbb6341e6a7bba57b357b135bc304b416e83c8a7c28c1673695e0/geoid-1.1.1.tar.gz"
     }
   },
   "geopatra": {
@@ -9123,6 +9067,10 @@
     "0.2": {
       "sha256": "859ee20a1ade372d18bcac463d167e0e55645d796433086f44c9aa7229c2d75c",
       "url": "8a/81/3e02a4c582c038327011ce41cdd3199c902ec52087fc2cdf1ef5d3c77630/icaapi-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "fb568befca2cc86e89dccfdb0cf6525077b26e47fc1e418c40743076a6c783ba",
+      "url": "7a/6c/ff41743fdfd5e3d814168512d1ee56848faf6222c77f1052bcf62e4d179a/icaapi-0.3.tar.gz"
     }
   },
   "iddmma2": {
@@ -18941,6 +18889,14 @@
     "0.1.3": {
       "sha256": "e3adfff58c8d4d2ca7fc6447864bf34f435beb6e143a7b3e1c30e2cd0a9af0be",
       "url": "37/ac/6137b7f06138e3ad1cf44592d3f0ae73872eb65ec6a9afe352297a45ce73/spongebox-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "f8fb937bc06d7e5e78bb042f91e7b7f92f97dc9cd1672dbec7cab9df9bd165f4",
+      "url": "80/0f/09fa0f607d1a32b5cf1f7fb63c2721bdebed4ac61ebbfacc7244970091cf/spongebox-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "ae1c072d14ac2bb6e244803da30dc59907bd2ec6a5bacd11c6101c93c0a909a6",
+      "url": "67/1c/f28e4c8c51ba56805997d81d9874aa521acecbfa8dd985f0d3d76aee3715/spongebox-0.1.5.tar.gz"
     }
   },
   "spotifylib": {
@@ -19697,6 +19653,10 @@
     "0.2.0": {
       "sha256": "9eca179c669f0046307c5669e55efe86f69c610ba74964c6033f150ddd493c85",
       "url": "4d/09/3372f507a2d3f282059fe4332f7e4c80e2f14dad57f1f493c80bc0a6ecd7/tempest-horizon-0.2.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "55e9a465284c6f7f239e2f762aaa7bf62566535db7bef0b665af05302fe058ad",
+      "url": "7a/8d/e2b9356061dfce1b0e99287e372fcc79932dc3a16282fad263651294c9bb/tempest-horizon-1.0.0.tar.gz"
     }
   },
   "tencentyun": {

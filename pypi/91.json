@@ -17,6 +17,32 @@
       "url": "e1/cf/3ff66f58e11f720915033f2af8983a86d920829d01171cf54f7b88f0937f/1and1-1.8.0.tar.gz"
     }
   },
+  "a10-octavia": {
+    "0.1.0.dev384": {
+      "sha256": "92858d7e6781deb88229c4e8efaf1801389f8afad16f9f00b4a5b71c47ad92d3",
+      "url": "b2/ff/2890a7a3fb932f86fe603a9babe91cd66b10a6353e316f6c34769a112fda/a10-octavia-0.1.0.dev384.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "f9c428b16e21a2aea23e3050577b2eb13c9988b344b4a6a83139701e1b378019",
+      "url": "b8/af/107ee7f82c347070734d4274a671bb4545a454d7f1aa3d0587f34ba4323c/a10-octavia-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "be7ecf0772f6ccc43203b37f35308244d7b3164bf19367a92b6dbfe099373d1d",
+      "url": "1e/c0/c320f0e30e8fb05daccc4198d0e5dfe9dfa6b11688736bb8f513759cc441/a10-octavia-0.1.2.tar.gz"
+    },
+    "0.1.2.0a1": {
+      "sha256": "bbb1b88b375d67c7b746240a4eda3b16c7c3b12ce8ec485a627cf5c318b6d701",
+      "url": "15/fe/27fcd4d037dded434dadb63502cc6dcaabfc91c2a00456b88c582af76521/a10-octavia-0.1.2.0a1.tar.gz"
+    },
+    "0.1.2.0a2": {
+      "sha256": "a5dadc05dbd85ccb366d62f7b188c92da9e9b13343f9dd22b99b27b7bbfeabf8",
+      "url": "9b/d7/e5b4ab93441224af9e638507c5273aee1f5a62d9bce1b4e1b8d182f7fbd4/a10-octavia-0.1.2.0a2.tar.gz"
+    },
+    "0.1.2.0a3": {
+      "sha256": "351baf0b447d424e9efab51fa38b2c60f1578ebcbd5bfb177bc703d63db7f2e6",
+      "url": "ba/ba/9cf2908c59999bca85c4d466144a2ecb45f30e87168b571fe66e02bd0b8f/a10-octavia-0.1.2.0a3.tar.gz"
+    }
+  },
   "aboutn": {
     "0.2": {
       "sha256": "b8e2ccb704fdbaa12cf95ce305ef28c4456813ab640c71efc9ea58256dd70829",
@@ -959,6 +985,10 @@
     "1.3.8": {
       "sha256": "ed3c7982048f13aa3e3c179bddcb3ba0e1befe0bf8e69932fe4f77c51f84617e",
       "url": "6a/96/f481a2288257eaa16cfc6050c1ce25af4ce5e9e2fa5758f02add0fdf79ed/aukit-1.3.8.tar.gz"
+    },
+    "1.3.9": {
+      "sha256": "a00e69e364a1d60f67e2d765f2896790d645eb2e75dd7aa59604b48059daffdb",
+      "url": "11/cd/7fd132c742abcc10bf26d4ff1b9bb298964f34ee3bcd4642133da7e6e680/aukit-1.3.9.tar.gz"
     }
   },
   "authorizenet-numbers": {
@@ -1253,6 +1283,10 @@
     "0.0.3": {
       "sha256": "b36b695c627836670598dda7459f5fd2cebef6815e11f3ce5fd21bd674e3b48a",
       "url": "11/c7/4bcae781edd4a1497d5f84e390655ff4e85ae567d8c8905b0b400a74d7c9/bcst-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "59b70b6ac37bcbddd2e852f091c4713490cc4d02769b204af97ba86944e6e92e",
+      "url": "27/1e/44a6a606141918061b62f2deeb120db3403502ce93f6e620dcb28ffb791a/bcst-0.0.4.tar.gz"
     }
   },
   "bdd-tester": {
@@ -2173,6 +2207,10 @@
     "0.5.20": {
       "sha256": "d94ba5e28247f68d6e2c6dda144c2108cc5043ecf689287a1fef59eb588da214",
       "url": "44/3a/8169f76fa8b043e9a4c11b39419bcce8ddf44d1ac7718dee487df5a68fe0/camphr-0.5.20.tar.gz"
+    },
+    "0.5.21": {
+      "sha256": "ca05bf29c1adaee742bc92607966b9910f49fdab94c4abc7ed18e5bb5f1f63e2",
+      "url": "cd/91/da97174f221b0a7e2728dbd4852bf9e595ee693b348aaa6834707961d9fc/camphr-0.5.21.tar.gz"
     },
     "0.5.3": {
       "sha256": "a90813c33180a86b57ade29fd83f21081f9110a7aedb54f67328645f82428a3f",
@@ -7246,6 +7284,10 @@
       "sha256": "ffff310824dc00c6351c03c2da733535b33af2766893f1a4cac99c253f5ad60c",
       "url": "6c/9b/f365e4f3d40ab6b6f35a5b213fa3df8e1d0540a4fabe1dc8d69d51edf72f/Euphorie-11.1.9.tar.gz"
     },
+    "11.2.0": {
+      "sha256": "e7e72ca62a43306b832d4531da51b73d32e3596781a85a87c3b3f30ec25842df",
+      "url": "a6/a2/5a393606c2dc8bb6beed119a3ca390d382e2c82986572009b7a1db433fad/Euphorie-11.2.0.tar.gz"
+    },
     "2.0": {
       "sha256": "aeb5682f238c780e080a8fc296d5d50c6c23f0d8e667429feb2cffb04bf4a8a3",
       "url": "b7/59/a4dbd8c28b240b88a23f58a8ee619831c6fd1b6c3ee74b6307e5ed402f7f/Euphorie-2.0.tar.gz"
@@ -10525,6 +10567,10 @@
     "1.4": {
       "sha256": "3d7a7a17343157dacd3f654b7f82d1974492209756c4de99332d4f6b375227e6",
       "url": "5a/8f/2a048f2e32d7973a86d152900a8403099434a65cb790ee00d37bb96f38d9/iapws-1.4.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "d65c813bb6b100a8d1ed79e00148832a0321b3063e9632a990344890acb02493",
+      "url": "37/00/e7156feccfe19453c2056bf0f460725e238390a74cc4df2c0a03c66fd914/iapws-1.4.1.tar.gz"
     }
   },
   "ibflex": {
@@ -13619,6 +13665,14 @@
     "0.9.1": {
       "sha256": "094fe7d5796c34c4d7501a566742b8665cdcb1c92003677d7f390244f6e775ef",
       "url": "08/a5/5ee8f8c2eb604c8efeb76c1b08146476a52297ae617e03bd5205c43a1f6f/Mopidy-Sangu-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "063eee322c371f140f45a58538f2179f2fd1ca6422314383d2f68a6c4340292a",
+      "url": "dc/df/5d16f7b06bc5516db72cdee4a8bad2238d7fcc02921eb828c9de66e3702b/Mopidy-Sangu-0.9.2.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "147bc52ef35c2affb4d3cd3cc03681c6e6dae0dc6fa995438b3b72abbcb3ec0f",
+      "url": "4a/47/469637d98902b7995292b2b6ee94a441c10e715c43fbedc75a0072bcefbb/Mopidy-Sangu-0.9.3.tar.gz"
     }
   },
   "motmot.ufmf": {
@@ -14598,6 +14652,10 @@
       "sha256": "5f4a78fc59fbb6182f413c543ad9a8472e5c8e8fbcdce3dd438628a35d74f2b0",
       "url": "c8/1b/0e02f572d1f20e2161a9b6ac0c5c2c9992e080be913e4fcd4ace94801da7/mypy-boto3-logs-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "ff0f0616a8213046582a2dcc21bf8e9ffb1875fb1a6f18c55510f5bd54f92cb4",
+      "url": "d4/03/8747efaf1153830a24f82f8e30a982cda4c52ec931cf4f2dca22060f9d0a/mypy-boto3-logs-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "83f2dc2a7b2e595432789bca2151766bc04021d73e3367963698f90be4b5cd85",
       "url": "f2/39/7deafc2e587784497b90129a5e786c848e8f5151dc82e0ca031e524a4ff6/mypy-boto3-logs-1.12.5.0.tar.gz"
@@ -15108,6 +15166,10 @@
       "sha256": "e71b3703b5d8e874df611ee31b0b286c3deca3dd6c1c2675eef02ed3f2656428",
       "url": "97/cd/5f305fc7fdb69741ce9a9f907dcd09d32959f9ac7aba0db3a41758785e5a/mypy-boto3-s3control-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "3a5950b145d61866b7880fadbd795ac84d23c16b9e21f62417edeb9a2b255b48",
+      "url": "c6/a8/fe34bdc360074423f54ef282d8836c417b83ffd8e4784ee636471d948ed3/mypy-boto3-s3control-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "3d97dff8b2471ab46f016999866de6cff79e27fb1eae68a85d9e00a0be17d3bc",
       "url": "14/0d/23605dbd35d505f0231a9c66044b809b9d54188117c37e6d80591739fd22/mypy-boto3-s3control-1.12.5.0.tar.gz"
@@ -15617,6 +15679,10 @@
     "1.12.43.0": {
       "sha256": "a2ce46f2d8ebfeee28a2e1413963595c34ee0cf96fcbd1c6600873e1d49f7fd0",
       "url": "d5/53/4e55a82f9090429798ec5e99dbfa4a25f1ee594e802786014262436a15af/mypy-boto3-workmail-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "788a070250d658bf1e8ca17a1c22a4a63c5b3fd5317d142c1617e4a895defe69",
+      "url": "45/2b/12a47cd11773026c4a2a1a5dde99c3a5b30c4ede3188e8e65b8902ea5eee/mypy-boto3-workmail-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "79d03f4af71f45eb8779b72253935b69b1bdc7a923390018f098bb8597ea33db",
@@ -20941,6 +21007,10 @@
     "0.6": {
       "sha256": "c70b5fe7f51937f6e1f97c95b318e0a9f8823e42b19d6e83efe51c3c3ed272ec",
       "url": "f9/9f/4b6196d0c313189f78fe854365d95389bfc573479ad2a5b070639be51e09/python-dict-wrapper-0.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "74b74f6d0d524006d68aefc11d5353c110db484fc22d3111fdb7f6a65c383ebe",
+      "url": "24/d3/646dcc22d18b886ee3b8f961f5dace0b833403f39e528e0b246968580183/python-dict-wrapper-0.7.tar.gz"
     }
   },
   "python-evt": {

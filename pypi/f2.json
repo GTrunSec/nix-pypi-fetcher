@@ -979,6 +979,10 @@
     "0.0.3": {
       "sha256": "91e1c679d18073c653567ade5e812d81a91b2213249b0f755bd4dce54eb7939a",
       "url": "da/dc/8024b136fd7c2cf37853ab114348c1bb9c61f8abb830bbb96e1badd55285/async-class-0.0.3.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "7a00bfbe212cb4776055cef56571e62dd7443164d9ea179edf1ea3e9befddcae",
+      "url": "c0/f8/a15490ffdd0fb6f4e41633f7c55fbeaa47efa1dc355541b3f27ab7e3bfdd/async-class-0.1.0.tar.gz"
     }
   },
   "asyncqlio": {
@@ -15347,6 +15351,10 @@
     "0.1.0a1.dev1587433512": {
       "sha256": "e249a596beb4d9fa68a2a4b94f1c626ce827d65d479bcca26c12434b0396d54a",
       "url": "ab/59/34cd67d4b2d9c158ebcdaafde89d2132b9ea3ee2a08e428516bc0933b83b/pulp_npm-client-0.1.0a1.dev1587433512.tar.gz"
+    },
+    "0.1.0a1.dev1587519585": {
+      "sha256": "bd2bcf6e213bcb88309704cb1648419f4f625eca8109cafe18c54cc49bc00af2",
+      "url": "cd/2e/d477ac4fd523ad0a5139b250c4759d5852b74320d6eac8d885d2473e0ef6/pulp_npm-client-0.1.0a1.dev1587519585.tar.gz"
     }
   },
   "pulumi-azuread": {
@@ -16409,6 +16417,10 @@
     "0.4.5": {
       "sha256": "2c3b7b584c9142a85f942d690e25a8fec6c029484ea9c6cfeddf9157e6d867c0",
       "url": "57/87/4d5235688853850ac61d3961d0d7db2acbc0efd7a4358996bbc60c63e32e/pyotr-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "1c13cfd05a68b10dccb5012be0875eada1b0cd3ab44726bd03c8e028bd716877",
+      "url": "97/4d/ab6dfd6deb69f3111a1e92d74f242dc8a7cdac41cd805f8829264697ee1e/pyotr-0.4.6.tar.gz"
     }
   },
   "pypack.skeleton": {
@@ -16735,6 +16747,12 @@
     "0.5": {
       "sha256": "a547880a5d699632f14dfd9109b002ae8f1786ac627a82f9f1980402d90c4dd1",
       "url": "f9/2b/ff745e73a80dad0cb8f16059f13e1dc4036dc9376f0d4859bba93560fd3d/pytally-0.5.tar.gz"
+    }
+  },
+  "pyterum": {
+    "0.1": {
+      "sha256": "1ad13f7aeefe1d10a4ccae7adeb0368d7c9eb5b1faaf761a384a3cf2de6ea852",
+      "url": "d9/95/14db64e99d0cde2904edc6bea910ffbb6b21bf288bb4e258e5cea726f4c5/pyterum-0.1.tar.gz"
     }
   },
   "pytest-curl-report": {
@@ -21039,6 +21057,14 @@
     "0.1.0": {
       "sha256": "c8355a35181de24d7b4aaf4d743e21ea68820d72da85db9751436ced0c707311",
       "url": "70/ff/946a498d9eadec5f6f49b50e9505eb7cde32a7f45f3edc2fd3a13794794f/teny-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "ea320d405cfb3d7cff6aae00cf787efad59641cd2a57e99d27c8f986d6a24ca6",
+      "url": "14/3b/3ebebd6fa453eaf4893c7ee85f7510a6592cbd3264494d47fc8dfc00b89a/teny-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "dbc83639114820c0d219bf87425591ba88fa832d01daf26f244b5b8e4b7d43e6",
+      "url": "b2/6e/9276dd951e86c2c39d3d39d69077a69f34de22227c7e585c0277bc97a782/teny-0.1.2.tar.gz"
     }
   },
   "terraform-cloud-client": {

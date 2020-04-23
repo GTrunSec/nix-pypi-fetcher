@@ -1598,6 +1598,10 @@
       "sha256": "91e5786c3457a54234e791bc31fa47c810ca49f2a00d584cdb177dcd4cfabc81",
       "url": "ab/cd/072d8bbcd04ec96eac8c0d8e0f8bdbae719452d27b0e8d8d2c9e02a284c9/aws-cdk.aws-wafregional-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "6d26d2d0953c3030520c3d07c3186cd5381b0f4f4f324e3e95c1affdae5793ea",
+      "url": "17/01/6ed48085b830488eaf5001e0572e3cde72db0473c514a79334b00e3095d2/aws-cdk.aws-wafregional-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "fa8b63e97b2b104a25080655511e559903b9c1e7c50476ae5d61712dcfccd37f",
       "url": "2f/81/ada7f3d149cda5906b34caf177e624b60f83a329af5623aed18821fb5942/aws-cdk.aws-wafregional-1.4.0.tar.gz"
@@ -1823,6 +1827,10 @@
     "2.0.21": {
       "sha256": "501a1c9f16a0e9b3f0ef4f473cc365f85c7a65b04a9953c92f2597c6111d8e34",
       "url": "a8/b2/9079f7560ddd2174b0faec0131d9a147ba95399edb19cb653bb3820cf56e/badlands-2.0.21.tar.gz"
+    },
+    "2.0.22": {
+      "sha256": "2723ac54c0dec6ff6ffcb050f3e4df3930f427ced9f2d0810599edd7089f3ec5",
+      "url": "6d/f1/360076c74bcc5d7f13d7a1e4d45280b41f4fa6b879933f2afff67d3cc24d/badlands-2.0.22.tar.gz"
     },
     "2.0.6": {
       "sha256": "4b5423417b419ac18f182e1ce35209e0aac6b76e42efd4e285ea94f19f5e0a76",
@@ -13732,6 +13740,10 @@
       "sha256": "10330c08551ccd60843d5725c00c346ba2e0870d53b2c40fea101331bbf46d4f",
       "url": "8b/91/8b2d3237c366200046dda03e9ab0cddabf6ba898d39b72c888adb45f5b02/mypy-boto3-mediapackage-vod-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "d3120c8cb296d4dd48be9aa219569af11c027c6d3ab95812b31f28b5cd9c7723",
+      "url": "8c/65/5180f44c630774deaa79f9b1096502f1843696bcb98913ba9c4fa96a7662/mypy-boto3-mediapackage-vod-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "4e4c7246fca6391c29aed43140e11fc3d6976cd0c2833c28486fb8b4627d3b38",
       "url": "07/17/0535e898f2d3326eb9441e486fae7439ae603ab1c83f98d7bfcbde833508/mypy-boto3-mediapackage-vod-1.12.5.0.tar.gz"
@@ -15081,6 +15093,10 @@
     "0.6.8": {
       "sha256": "6002adf48e9a5be3103dfdf67e48dd3016db8270c16be12bf2bad2285a9bf7a7",
       "url": "e9/18/20d6b9195833fb7d16a7b186301627f91bef441104ecdd63ba5b893bcf05/oda-knowledge-base-0.6.8.tar.gz"
+    },
+    "0.6.9": {
+      "sha256": "7a324d50e3bf6e8f5b9e6a27240a57d28878a64aa8bba1650684b8dd6d4465a9",
+      "url": "cc/e7/eaf56e5ea8a2aa80b1e167713f0b22e4e4e853f6654fb0c5e7c5ffe0e4fc/oda-knowledge-base-0.6.9.tar.gz"
     }
   },
   "omegalines": {
@@ -19783,6 +19799,10 @@
     "3.2.3": {
       "sha256": "590443b914e5c030996b2f33d2ea87ac5d8d015fa70037204b1bbcbc66365347",
       "url": "25/98/e795d4219a0989ba75f485e6fc7031a0dac0f9f1c6ffaf629c1aab54ca61/rer.sitesearch-3.2.3.tar.gz"
+    },
+    "3.2.4": {
+      "sha256": "8dc2682d418e270e4d8ce74e5d88b37b590a268780da4c99b73f22b2262c8cd2",
+      "url": "7e/e5/048406a0dfe347c3dfce5a5f3227da92041089ef578105d51789b984462f/rer.sitesearch-3.2.4.tar.gz"
     }
   },
   "resolv": {
@@ -21881,6 +21901,10 @@
     "0.0.2": {
       "sha256": "d40caaed057ee997df80ded8fb1cf0ce69ef2eed8ccc9c77344d6e6a33f2a1b2",
       "url": "11/9d/fb7cbe6743ceb750cd2165e0de23be72fb0c11476842f7a42a6e8bbd6f47/slovakrailways-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "4956d2bb5a12dca7a91db065bb09e81a58096f3641de54d05f63a70d856b9c88",
+      "url": "21/40/a7a407c5b1bf83174bbab57c227c9069f03c3d802823648735e7fcffdf00/slovakrailways-0.0.3.tar.gz"
     }
   },
   "smartreply": {

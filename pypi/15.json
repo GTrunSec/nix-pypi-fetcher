@@ -4352,6 +4352,10 @@
       "sha256": "f2db0ec0478aa806f8c2f869668e61cfa362c28440cd29d3fed4c731cf57a127",
       "url": "23/8d/e367729ac86df135d2e2c93af1a1ac9e4d928c3454a51032a6bf460a1967/dagster-slack-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "ba7608139c7e09c7b342564de43a87cd4ed644c5baac6afb594cb8c7411b22dc",
+      "url": "32/10/48a70e4faa52b03dc02ce6821b4dc90cf3a8f319038e75b52579515dff3e/dagster-slack-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "24418f7fac43a7b447eec698898f334c920a1f7764d3a6c46067b776df79ec76",
       "url": "d0/ce/8d879cc54172a85496c97cebce81f5758e42ce33aa80c2da8aec5b33558c/dagster-slack-nightly-2020.4.4.tar.gz"
@@ -4759,6 +4763,18 @@
     "2.1.0": {
       "sha256": "0ff0b66e371ea114218efc3088bdf580753858b3012723f5b1bc93d179e31757",
       "url": "8d/38/638a63d81ba6557137235fb086f995c1e80ae5f6e6a257ac5e582afea40d/Dictabase-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "eabc0fdfba7ad4be5bf9984c9f7c2ba006bf23859a23e6c25bb3e3b885fbcfab",
+      "url": "f5/5f/c89cf82ea7fd08a20b285166cc37409b098a238716a1615733381574b56b/Dictabase-2.1.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "d992c5d3fe6d14274affce99e6cb352551e14a9e5b3660d5f6fa09dc04096e14",
+      "url": "d7/fd/aea4e9064b842d0617adc64852f09ac5b62f0c59ac6646a1fbc7ad79c5de/Dictabase-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "ac5a38193204a7ea8c6d0c6a6ffec81397579dd98769a09eddf2dada44ac6e2e",
+      "url": "25/e6/3c182eb864c65590fa7b11ed38f26bac52227a5b1c2de999ab92c85531c3/Dictabase-2.2.1.tar.gz"
     }
   },
   "distributions-exercise1": {
@@ -10703,6 +10719,10 @@
     "1.2.1": {
       "sha256": "8b158e21c5b4b8b27e2dd712dff824b4149a6cd65569af759f2cc2c47fe74e22",
       "url": "7c/a4/652e9541c63142364ddf5a00fff2b719ed02d923a3d28c5c4dce2fa31d0f/gitdir-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "e53954d11d238e06fa3d862b0e6acacb29bfd3ad7c9f56f5ca95303eb67b6815",
+      "url": "9d/9b/b7b6929876b776f62e2c39a9746d98d48730c91bf2a0004ff6714698b9bd/gitdir-1.2.2.tar.gz"
     }
   },
   "gitlabber": {
@@ -15742,6 +15762,10 @@
       "sha256": "e9ff84ae0ee8c13a3b0fe1ad8c1b7c48a64d33f4ce36f48aaaea9e420207ab30",
       "url": "f3/9e/9d239faa4809fbe702529c551872f341fcb4b285c997f397f7751a7450f4/mypy-boto3-resource-groups-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "0a642772757f6f929e3f42bd897dd19cf454fb7b68100c5e770b29dd44b9c19d",
+      "url": "22/84/9e4f22ef6b428249e79f09d9c99765f4465e2d05b3dca399f1e355e71c3c/mypy-boto3-resource-groups-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "0ba5adb32bcb3f18d49b729a4c6bc54f3e4a69c0520643cf32709c158f428beb",
       "url": "c5/8b/0292405942e89934f5d71de65113096351dd37825fd59b0ac05f6f06d2d2/mypy-boto3-resource-groups-1.12.5.0.tar.gz"
@@ -17673,6 +17697,12 @@
       "url": "d7/95/aa46b29d25d640fcb679eafc93acbf9dd43c7d9ea43dac35c0d573db284e/paludis_resolve_summary-0.1.1.tar.gz"
     }
   },
+  "pandas-ddescribe": {
+    "0.0.3": {
+      "sha256": "ed54775fd1003a1584f6195ca6e4db28fc7884bfead116180b5709b45b637c3d",
+      "url": "32/83/ee353cddff76ed56caf71677c54a2c26b2f972fa686bf24982b28bd45dac/pandas-ddescribe-0.0.3.tar.gz"
+    }
+  },
   "pangu": {
     "1.0.0": {
       "sha256": "e6bee3cd18de8e29e316eb0e519109b45c495bf1dd1978b432f3013e0a91dafd",
@@ -18833,6 +18863,14 @@
     "1.2": {
       "sha256": "1d5504ae20d7d0db3058830aa9549810060a87cc747bb7553a4f16e3fb8a106c",
       "url": "27/1a/2dc6b51dbd6789927ac00350e0dcd4e4941eb9475880ca2929d7224e3062/procamora-utils-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "32f053bafdc7a88df3abccd4056c8c7159df0680993b652488dfc95adaccdaff",
+      "url": "0f/86/7edc43956fd7c9ae0ac37d49380bd00f3c1518ba5384f948ff86e750135c/procamora-utils-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "48eca0d90a3985e8ec2108c9b41c50610bb3d9daba0a4acb427e72963030a0bd",
+      "url": "a4/3a/3190123820a41eacaba2033a9592a9e4f4fb58f3b2811c08afced065f1b5/procamora-utils-1.4.tar.gz"
     }
   },
   "products.atbibliostyles": {
@@ -22469,6 +22507,10 @@
     "0.1.2": {
       "sha256": "0742b71fee6572764bcf1519ebe55528d80ec564bafadeb794b3f99f9c156f4f",
       "url": "6b/84/135cfc084bb9c2e8dda3672fb2c5815c23827e8c7556671bbaae3b4bcad8/schemahq-0.1.2.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "ad7c7ee218dcd58dd571007b82f24a1dc2279e3cc440ca4cc63bf28c28ccc66f",
+      "url": "f6/d5/9acea0855354d8a5928cf398871a20fd19f03eeba84497b937d78cddda66/schemahq-0.1.4.tar.gz"
     }
   },
   "scikit-robot": {
@@ -24361,6 +24403,10 @@
     "0.4.6": {
       "sha256": "3a1fa1d08c2dfe51d62f63f65b20e57452ba442a3e8bf77d427bb6c5bbcabac5",
       "url": "7a/a5/4c15cce6ab492ec1409bbec8ebedae49f471d747bde623329b7906bab562/teneto-0.4.6.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "62041cacd9d2ae95258d11a754c8937107c67ef4603f7a702f809337920efa4a",
+      "url": "b2/be/3e2c57be9d1b95f9521e088acc4f9ba133a322e52724d916272056c11de3/teneto-0.5.1.tar.gz"
     }
   },
   "termenu": {
@@ -25707,6 +25753,10 @@
     "0.1.3": {
       "sha256": "95eebb573b4a52c4dfb912b80333a481253a59a8b1ae85a6180b2ebbb620ef06",
       "url": "56/88/addf451d23b9aa0bd98fd8ad3e063bdb4369241d5b730b19c18b5371219a/wagtail-srcset-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "b2f189d8ce202c5687d738dc4455cd9cecbdc320473b8b7526e68eea16df8744",
+      "url": "a5/72/fbe3195bf2a003d456f6d02e13507bc3980a89c282c0739113bac1d31e3e/wagtail-srcset-0.1.4.tar.gz"
     }
   },
   "wapiti3": {

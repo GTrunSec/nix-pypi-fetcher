@@ -2221,6 +2221,10 @@
     "0.6.3": {
       "sha256": "6e6a0f1848c1b38c97c78eea26a36ae7bc4397f72679c3904eabcc01f5df0e61",
       "url": "48/7e/4eeaf0c8a7ff21e08cd687f6ac191b89a880035fbb4bb2fac027bf2b498b/CameraHub-0.6.3.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "150d3c7e8eeed37fea500a0f936b76bc1855d86ff91aae4cde546709d72b2f2c",
+      "url": "4c/07/0cc22e4d3579bbe381995c6325399d27970e34de7084edcd656238dd2cf7/CameraHub-0.7.0.tar.gz"
     }
   },
   "candela": {
@@ -2951,6 +2955,10 @@
     "0.1.1": {
       "sha256": "0cf875a90ccaee7d6690b0d4931172df75da89d12062a928be71a0be88a3d56d",
       "url": "fc/ee/9feaa53f2d27a33cd5ad5c68bd7409528c55dfc71be17212fdaee9fab171/chaostoolkit-wiremock-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "796870fe88b407eabddc4c46170a6b663aabddb740a57cb0d79ab9c019341abc",
+      "url": "b8/fb/128bb4e0b8beb681e1b98a0d38eeab4dd6e684a9054772563e2dbdc26e57/chaostoolkit-wiremock-0.1.2.tar.gz"
     }
   },
   "chaoyi-probability": {
@@ -4015,6 +4023,10 @@
     "0.15.0": {
       "sha256": "78730bbee5e2310ae405a0b4490e78453ee82423b8e53532da9d6d32b9367f90",
       "url": "f3/de/f73773b9ab01f4ffca959b36b3786278ea1619d7ac8106cfc8af9c0dddd9/dcicutils-0.15.0.tar.gz"
+    },
+    "0.17.0b0": {
+      "sha256": "4c8b7275aab59e16ea52aa72f26e4093ecd2d8153129bcf740a885d16c1189e0",
+      "url": "ea/9f/7a3fed2a99cee649b66f60d2841be89dbd39d655c86a96bf4026ecb8e09a/dcicutils-0.17.0b0.tar.gz"
     },
     "0.2.0": {
       "sha256": "339964ba5742ff60bbaf9d74cae714c43dd3700795d14b9c933213faeb53d2ca",
@@ -12349,6 +12361,10 @@
     "8.0.0.0rc1": {
       "sha256": "24ace90dd60f9e56407f339d3f8cc624d28a92609854756ca70e121be4ac1433",
       "url": "97/79/29ebe5ba1b7ba43d4767d8edb03dc998ef2418e71952bf22299fdddc118f/murano-8.0.0.0rc1.tar.gz"
+    },
+    "9.0.0.0rc1": {
+      "sha256": "b6a91367a87153def0d69dd80b999133978ee088fe592b8a0a63826f4350b484",
+      "url": "51/99/f110cc703b658c7bae457288a7f8180b1f31c9b23512e0b30056977a613a/murano-9.0.0.0rc1.tar.gz"
     }
   },
   "mutar": {
@@ -13114,6 +13130,10 @@
       "sha256": "3add4a3868151e4b313976ad0b328bda75f28e315d9903e805598b499688a32c",
       "url": "cf/0c/9ec78a97b9642840d71a3c6a9305346128daee376dd748af71988ce23b9a/mypy-boto3-quicksight-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "3c266e9efe78465d1cf651897e7ba6fa50a679514b8a95b32e7ca6fc1cef2371",
+      "url": "20/38/fc671c4a9ecccd3c3976de0ce245b60466e17ff5552fbe2eda123a9034e5/mypy-boto3-quicksight-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "77a35692bb0e133f85e9a61b581b11f3d3a2add7b5abf0e3cb8ccc74407b8457",
       "url": "f7/4c/b96fec7468bff5998ea85ea53b69a44e1c085b9f3f4ec2cd692112f8a5b4/mypy-boto3-quicksight-1.12.5.0.tar.gz"
@@ -13623,6 +13643,10 @@
     "1.12.43.0": {
       "sha256": "37121248f726fe91d69852cbe040d56cb4495ad5d16bd46c1d96de9ac61d806f",
       "url": "f9/d7/a3ed79da2c2bc05adbc8404c7e4c747b7ed5aa1866c5b373e65dbb19369e/mypy-boto3-serverlessrepo-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "d20974bfdce6956f77edbbd41eb0e15fc17a12e2f9dcafb7de186814f1378815",
+      "url": "b9/41/19b893203da23a81acc640725b8e1046a764a9509f401f1f2240b7277bca/mypy-boto3-serverlessrepo-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "d5664ad65c72d29b5c8b5810813bf6e234acc70eb432173704df40bc8244bae8",
@@ -15233,6 +15257,10 @@
     "2.2.0": {
       "sha256": "371ef06aa325ff11b454461588872c104b52f01a1822c2f55c35b43d05c4c897",
       "url": "75/da/0cc1e70d881a28e6a2777b3c4971712be456a527d6f404d9eef080fbbdef/Products.contentmigration-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "e58f6e51e76adf53fd9296486dc8d4bcd6e33a8b2053921b17ad5934e4b82076",
+      "url": "2b/e3/ec068b98654fa6ed5fc364932c314ce0dddde1af358a42ddec9f502cf50d/Products.contentmigration-2.2.1.tar.gz"
     }
   },
   "protobuf-cloud-datastore-translator": {

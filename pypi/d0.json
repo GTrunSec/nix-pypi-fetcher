@@ -1300,6 +1300,10 @@
       "sha256": "46bbe4863b54641e144a71912adfa46d3288cb729cfba08a16fd1cce45c8d03e",
       "url": "ca/95/0aac3adf3cd73be2bbea76a69f17027065058c3bc21c3ba4cfd874bb75ee/aws-cdk.aws-efs-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "f648002d96076edbb89de02f8f184e3f5131c5518f8f94bec126cb60e60a0f34",
+      "url": "58/a5/947d5a7a8277dd0eb299b9a4c45dc9da79c57ee617d3015406053d6b04f1/aws-cdk.aws-efs-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "3089e7cd15e078b7bfe77daa57ed69eed690871921092093b981fc3118a6a1db",
       "url": "56/41/a9213214c4dbb88c7f80dfccbe26837f0c02fd3fcffea7dc466de62687c8/aws-cdk.aws-efs-1.4.0.tar.gz"
@@ -4657,6 +4661,10 @@
     "0.0.5": {
       "sha256": "d3cdd743ae1ad7ca3648fffa04243a1f9f226811535bba062e2cde665f89e852",
       "url": "12/54/d1c3e3f17097ddc069e760f5cfc42d1eae1f930156ac0ae8dc5481e7ace1/dbmodel-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "9b27aa3d5bad5d9df1e8b1bc45c010ade7aa0fa50340cd85a60f7bf82a144bcd",
+      "url": "54/0a/883f4fc5245cba67ce704590fad0e592136b8030abcd1dc9d205d7d67f48/dbmodel-0.0.6.tar.gz"
     }
   },
   "dbrows": {
@@ -13635,12 +13643,22 @@
     "1.0.9": {
       "sha256": "6a489768471d505ff9da00df72a7ea41653d81fe2c706cad3d1f1135faaf75a8",
       "url": "8f/63/f0777177858aff04d0c569478224100d466e8d083ce28b3e369185c34b49/pyhelpers-1.0.9.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "3a57f2f62ca771e683a76d812a0d5f276c7e35489b9093e7793ec38853b9fb3b",
+      "url": "1c/b8/ab15f701e3f485f31bd44bda38c7c3315f143a4a9f9038fe65aacba9bf37/pyhelpers-1.1.0.tar.gz"
     }
   },
   "pylearnstimate": {
     "0.1": {
       "sha256": "987fbc0f42dc532955a542d6441851edebbcc650bdda579a0770bb290174e82c",
       "url": "8d/fb/4ada7d17ab8c41024cb1ce4873873256478c7528d0fb2319e96406a7520b/pyLearnstimate-0.1.zip"
+    }
+  },
+  "pylibrespot-java": {
+    "0.1.0": {
+      "sha256": "0db28f5b7981e483218f412a2e142967aeb01a33865b185a5ccdfd22390dff20",
+      "url": "5d/c7/72570c098404e6f32e960f6bc6288140e441521b3d910fd84aa2e3537a20/pylibrespot-java-0.1.0.tar.gz"
     }
   },
   "pylibversion": {
@@ -13707,6 +13725,12 @@
     "0.3": {
       "sha256": "94ddf4cc38dcab67f6e114214324b5743f277a6c52b7a00a753bf88b4e710e7e",
       "url": "92/5f/4396524662650d59199aa0c36a3ba1ce9d031bf469cbccbdeec4675102e5/pyopenexrates-0.3.tar.gz"
+    }
+  },
+  "pyqtcmd": {
+    "1.0.0": {
+      "sha256": "9dfde612813883a8233c616073bc8d5b65daa7f1505e0ed49e927559b97580c5",
+      "url": "18/0c/b8fb94eee3744260e06ce935da6edb1afbac5cfef63cbb234c35944c2988/pyqtcmd-1.0.0.tar.gz"
     }
   },
   "pyrailgun": {
@@ -14911,6 +14935,10 @@
     "0.0.8": {
       "sha256": "3397a5c6370f14173f2603da8ab6c10a66773e046b7d1730819c6e92758bf8fb",
       "url": "39/14/b75c58cdda971b193bbee8f24180da5665162cd896691cb7c1859e34431d/quantlwsdk-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "ad1cee6b625054ecb66c278eaab5b4370a7551e25fe69bea56f53a0ea8a6a87d",
+      "url": "a7/a6/98e1005ed9a1f4ea5bb4fed4b26eb52bccac14ffad77645b9fb44bb272a9/quantlwsdk-0.0.9.tar.gz"
     }
   },
   "qubricks": {

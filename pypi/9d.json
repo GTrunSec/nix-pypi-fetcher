@@ -2483,20 +2483,6 @@
       "url": "d4/73/55771bffb273f8235c4bab3cc4213b7e1ced41fa0e463a2699befba7a69a/check-tier-1.0.0.3.tar.gz"
     }
   },
-  "chenlib": {
-    "0.1.0": {
-      "sha256": "880c52632916c3bd1e5275b4f350ff7970d1bf27d3bd96458f963516b9b91f2c",
-      "url": "14/77/41d5c86d781b907f70c89905fec98afba260b0dbca3449c84c20c9150437/chenlib-0.1.0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "92092bf09b5c39d68e420b97e0288c4e63daec0cfebce41cd26d5afdc3937104",
-      "url": "66/55/7420c53e42eb655a81ab1740b318144bbb4b2aa73ce25ea9b257e05c3189/chenlib-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "540b6c7c068157e1e1c5465e2eb4717c0f6d526b16ebac81292fb451bebb82ba",
-      "url": "6e/c9/ca338055c3d40d2c1535d00024d4dd214df9e40f416cc99522e1277922f1/chenlib-0.1.2.tar.gz"
-    }
-  },
   "chgk-rating-client": {
     "1.0.0": {
       "sha256": "cbeb41fc81aa9ef13fb5dc2c8c731d0c560850d070f64a21883fb8c8880b49fd",
@@ -6965,20 +6951,6 @@
       "url": "7f/54/25239b2ee188a77ddb98e7796dd6804abe5d2789e58773c354b205951919/dolmenproject-1.0a3.zip"
     }
   },
-  "domestic-violence-news-classifer-spanish": {
-    "0.0.1": {
-      "sha256": "acd92a1146b3d32839a46a7a67dadae2ac4e73d2bb1b178840b60b1166e6d664",
-      "url": "27/ad/1a046cec20a0c699445b871d87084ac229045ed6a4fec491f62ac6cf7eb6/domestic_violence_news_classifer_spanish-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "5cf70b259a07e8e29e677a10b3f02c7587589a7cccc098b03c9ef96bb6a86302",
-      "url": "0d/9e/9cdc73e1d490bb4fef47ce728f65b8aac4473cbb60908d4d41ad41e9f99c/domestic_violence_news_classifer_spanish-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "799fa02411d296831f797a5eaade21407a5e203c397995d984c152dabf4e0ff9",
-      "url": "4c/dd/f150b7d8ae75727cd9486431c9bf36b518cb8f5685c2783b4b9c8fb14ea9/domestic_violence_news_classifer_spanish-0.0.3.tar.gz"
-    }
-  },
   "doxybook": {
     "2.1.3": {
       "sha256": "459b733cc90e8d72f11276679c66b4c53e244ebd1ce8e6904c27effbd438be0a",
@@ -7659,6 +7631,10 @@
     "0.3.0b4": {
       "sha256": "0f15d1bcae7a0d4f36d25bd7b3f1b947f19c722636252dd6faf769380715371a",
       "url": "32/3b/95fd3d5c2ec1c2fae6bdcb25fadee3e1ec4fc2184cfe43814517b483b4f2/equilibrator-api-0.3.0b4.tar.gz"
+    },
+    "0.3.0rc1": {
+      "sha256": "bfc4ec3322485ad1dd0411db822155e6dbf80a067d85b91d45d94e9c1e37ad14",
+      "url": "0b/13/9b119d9790fa57da7a33aef769d079bd97c9c0f36a49e2e2ef7dc8f5dfc9/equilibrator-api-0.3.0rc1.tar.gz"
     }
   },
   "erddapy": {
@@ -10637,16 +10613,6 @@
       "url": "49/b9/6a24be03564392d6e752760900a6fdffc2012be4e632ba399a8ca5a68433/jackbox.py-0.1.0.tar.gz"
     }
   },
-  "jacobs-jinja-too": {
-    "0.0.2": {
-      "sha256": "2dbc078e82a0f5396c80a125de2dff1a063c3dd4623ac9389fb91f1fa5a2147b",
-      "url": "fd/b3/b45b28eb869e51db1b75105438e64f719a6a4fea85f3a0059036a2ae4fcb/jacobs-jinja-too-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "ce479970c435b9a20a423bfac0766929964ecf300ef7b15669a2adf5e7223105",
-      "url": "d7/d9/fdc29d7d835034e8421beca88e81ec21fed97b6fae70016ed6747705af59/jacobs-jinja-too-0.0.3.tar.gz"
-    }
-  },
   "jarvis-helper": {
     "1.0.1": {
       "sha256": "173ed106eda35794574873c20ee83af2c06e14838da90817ebd930319b4beab3",
@@ -12314,6 +12280,14 @@
       "sha256": "8498040e0d36bffb1fb99af17a2e21a4b9d625712f0f574a5b969f5ffe5fcd55",
       "url": "c4/4f/48a44c8e4994421a6dcbfaa7ec6230439674c0b955b396b4c022c2062590/lume-0.2.1.tar.gz"
     },
+    "0.2.10": {
+      "sha256": "fb2ea035b6fd2e01bae3b9655acdbcdf81e5bb20e319b8c4ca9a1496928e0746",
+      "url": "1d/d4/583425aedeaaf07dcd6fa3dc1ffc24d2f9675f7d921636411251c564394c/lume-0.2.10.tar.gz"
+    },
+    "0.2.11": {
+      "sha256": "e9e96258f02448442488b5200a28a80129d6a1362ec2c9e3f659d92b241b670c",
+      "url": "fe/27/5e698cc698f648dcb793e4b3a82dd09ec10305f53236c228fe768ad10153/lume-0.2.11.tar.gz"
+    },
     "0.2.2": {
       "sha256": "c42c3040a913759e4434f87ac7ff6d589ca093b1869906b214a35baf9279b6c0",
       "url": "2f/0d/e52fff7883c8a2c1e53ab802611610639db00254a04e274ac893bcdd03ad/lume-0.2.2.tar.gz"
@@ -12933,6 +12907,10 @@
     "3.57.20089": {
       "sha256": "755b79d13c66710e8bc31306e970ddd83a7b35d57e01f585e6badc6f2af22ea2",
       "url": "9b/1b/549c241119678bbb39879d3b53b4a23a59583977a5503db1550fd8f24771/mo-http-3.57.20089.tar.gz"
+    },
+    "3.67.20113": {
+      "sha256": "1ef7a135ac47c7d0125d7040add13cd4e396541333bf2b3c8d025be6d796935d",
+      "url": "55/bc/6ae2c2da18466996515c68e36cf69bc1423ff2d8776800b18b8b9d7090c9/mo-http-3.67.20113.tar.gz"
     }
   },
   "modissuite": {
@@ -13778,6 +13756,10 @@
       "sha256": "076f9877edd47349b9fb2ad67dcea78e53e2ecbab6bde72a9d8536583fa9ca67",
       "url": "ac/5c/f0fd50dbf9602224d9ee061f5883df1f459e0be29cf85e41b95332bcaa43/mypy-boto3-apigatewaymanagementapi-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "028ea819fc94358254c95cf75d81c666f997796ab95d17745875d5ce2ffcbdc5",
+      "url": "a3/5a/7212fe7208b721d5ca06e6a35568689cffc51beb008e7d3859e4b63ecb92/mypy-boto3-apigatewaymanagementapi-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7ca0302d662ad68aaef2dfae0c3385d4c1ae8f3f158d7e694626044a76eda0c0",
       "url": "e5/19/95f41e1aeb8321577b9b610ea8da27fd801eae99de756c18859b4c5ebf6e/mypy-boto3-apigatewaymanagementapi-1.12.5.0.tar.gz"
@@ -14287,6 +14269,10 @@
     "1.12.43.0": {
       "sha256": "3758b727b235f3240a4784a1babd784e87b1a8e9478fb0542a90fafdca2ccc93",
       "url": "f0/d4/fb7db9b3ac96ecddf4d1a612f99334bc44b7b545879d23312c66f19b68eb/mypy-boto3-sns-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "395a4d7a2c76b4a3e97bea55bad93356dfa51719cac8cbaa9f60ebbfa4151b3c",
+      "url": "2c/bd/7cc78bd0911a2a2e1edb386202f66857af3c1c22e32ce1926a0993f09e65/mypy-boto3-sns-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "623f6ee60756caaa70b9e7764723a90219e7bd8377638b7d97f6908b47d85e4f",
@@ -16925,6 +16911,10 @@
     "5.0.4": {
       "sha256": "a172a1226804bf3a33a833852628c2d3e38000049ea12b6e65a9cc20f28d29f0",
       "url": "e0/f5/8e2b812fdb0f6e44972078569269b95568bd433cb6702e57ad4635ca9c1d/Products.statusmessages-5.0.4.tar.gz"
+    },
+    "5.0.5": {
+      "sha256": "a42494d2d6ef44a37034569830c0d2f5255fdeaf228191c75b6558bc4116f215",
+      "url": "32/85/10152bb865031a318b95ae0b2249fbe86f07cd3ea7955022c80c3921c4e1/Products.statusmessages-5.0.5.tar.gz"
     }
   },
   "protean-flask": {
@@ -18952,6 +18942,10 @@
       "sha256": "8a98ee9fbf7d9d70452c395993ecbb35c2e9d937cda23850fcfc95b00d7a5f5f",
       "url": "aa/fc/b77575b6f13bff68a1e4c348513a6305e94fe7dc46beb97ed1e10bb36c86/rivalcfg-3.1.0.tar.gz"
     },
+    "3.10.0": {
+      "sha256": "2bd023d4e0dad8ba7f5286551c67e259d92a602391bba92836489ee2856b3f91",
+      "url": "7a/22/918102f4f72c96dc144b7eb9c10e12fb28518fc03a154ada5a31c8d2d629/rivalcfg-3.10.0.tar.gz"
+    },
     "3.3.0": {
       "sha256": "7012c6f09c3746db4ef002f36aa76365ad438e50286875599a5231aea1eded18",
       "url": "ed/5d/006051fc475fc5048b63ac0f3ecc45c7f7d574c7dff6a7e07f352ce9cdf4/rivalcfg-3.3.0.tar.gz"
@@ -20231,6 +20225,10 @@
     "3.0.0.0rc2": {
       "sha256": "368272a448a2548b191a3529b5a49fe771f656c85180bd4e73542c4be1968a4d",
       "url": "d4/e1/b2be1c0624d95cd2fc201620fc6fb34111da63c20760f93d367fb879a2ba/solum-dashboard-3.0.0.0rc2.tar.gz"
+    },
+    "4.0.0.0rc1": {
+      "sha256": "e804873f2d1a177bf7fe3900d18ec5b58cb9df6528fca94c99679790926bddbb",
+      "url": "8a/6e/ff9189b35e065cb8a3f4565b164389b168bd9d0e51ed6e42bb42e996634d/solum-dashboard-4.0.0.0rc1.tar.gz"
     }
   },
   "spcxbutcher": {
@@ -20289,40 +20287,6 @@
     "0.0.1": {
       "sha256": "1322603ee4d80d0826d7c5a3eacf477a39c6a4cb38b9c8c79c85fb2a0002a29b",
       "url": "f0/58/2e92474986293007e318146e5f77f14725cf82de3f66fc5e2fd92b4a477c/Spleen-0.0.1.tar.gz"
-    }
-  },
-  "spleeter-gpu": {
-    "1.4.4": {
-      "sha256": "49e776f26c561357eb9608a459030ab46cfe11edf21fb17470630a0d3777d453",
-      "url": "d9/08/d42ba42d10a8662eaead091cff9da028386030ec57853a0eaff30034deab/spleeter-gpu-1.4.4.tar.gz"
-    },
-    "1.4.5": {
-      "sha256": "4ca8805a5bf4961dbde3a690ec94fad536182687bc1f2141540929f507581be2",
-      "url": "f3/b2/99ee2ef3367912aa27e09e12f70315bc2bab3bf2abbb7955a7969e0ed423/spleeter-gpu-1.4.5.tar.gz"
-    },
-    "1.4.6": {
-      "sha256": "c93a2e4f6242b19e55d5463cffbd20455063060938641283949024fce371aecf",
-      "url": "44/c7/597af6023bf3097889c67b08d1d1a781bbe938fd7c30a8efc79bc02438a2/spleeter-gpu-1.4.6.tar.gz"
-    },
-    "1.4.7": {
-      "sha256": "3a8d275085d73584ff6116d4b76210fa667ea96361d08c22986a81a222840cc0",
-      "url": "7b/74/81bdf2704714bb8965140329ad77d1102a168b0546c324673f1a6b1f916f/spleeter-gpu-1.4.7.tar.gz"
-    },
-    "1.4.8": {
-      "sha256": "66ce14b260b0118a953937bcab7665b8950ba1d65cb3cbfd49b34756d623607d",
-      "url": "55/9f/3cc954bc0526585821988d892122d555c1e5f9f4ac0e5d29b2b64573e277/spleeter-gpu-1.4.8.tar.gz"
-    },
-    "1.4.9": {
-      "sha256": "6294ab301ebdb3eea0d002b3c42c18492f0356adf01a317b93edd720eb51aada",
-      "url": "37/9b/adb16ca709bb372a05a7c07236fdcb6a25030c19f18b086a57e0921757d8/spleeter-gpu-1.4.9.tar.gz"
-    },
-    "1.5.0": {
-      "sha256": "ee7c797a7bf7a957f6175012bdacc0a3eb0052b1ac7d2857aba16dde6a8d36fd",
-      "url": "07/6c/9274e075b8de0fa2aab65d11c840bd79c4381550a8fcf83f4fbf3534c385/spleeter-gpu-1.5.0.tar.gz"
-    },
-    "1.5.1": {
-      "sha256": "a496255d3e0998196c3d8bc193c33f3c2ca8e58de92272d5df92328a8e7ecb08",
-      "url": "f1/a0/8d6f3745e32140cc6d635246b60f2f66bd0f8293899b621366cfee403da4/spleeter-gpu-1.5.1.tar.gz"
     }
   },
   "spot-sdk": {
@@ -23069,6 +23033,20 @@
     "0.5": {
       "sha256": "e1eb0c66d021d10e8c43e361e89854c4efc9912547480d805155ced265636559",
       "url": "90/da/f95bb4d82de2a10ee656cdd66dea977c9e6861fd15fdafb3446a22de96df/zensols.clojure-0.5.tar.gz"
+    }
+  },
+  "zettlekasten": {
+    "0.0.0": {
+      "sha256": "5f351956751528d6633dda325a11e1052811b818388682afcdd471097d02ff59",
+      "url": "57/11/012c6725e760bb835814268bc0891e880d0460423d808ca210620560c777/zettlekasten-0.0.0.tar.gz"
+    },
+    "0.0.1": {
+      "sha256": "f8257fcdae494397db3a70e7b65596f4c1ed6ffc1ce43eea130af316c99fd7e8",
+      "url": "eb/d0/eb0a72b281bd2d364b3d348714f888b5c633da71c93499007dfc53d729cf/zettlekasten-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "64c284b6607b0f91615da66ff6f44fdf41343cfe930d6cdcf8e9eb68bed02752",
+      "url": "1f/f2/bd2be5cd5343f8de124f989d255af2b8414883c0716b3dadad77ec7a2273/zettlekasten-0.0.2.tar.gz"
     }
   },
   "zev": {

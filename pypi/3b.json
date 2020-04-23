@@ -4194,6 +4194,10 @@
       "sha256": "089b99a9cea3aa062849c51321b162dd2a8d4da861d7f94454d01295a2324cc4",
       "url": "7a/6d/7b5f3a7e4a1f9c2a4a6cf80be4c719a5e527ad96300e023b6359fae67fa5/dagster-papertrail-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "7a5b75bb12f9a9159f397bfae338458757f3283550a7a497fbab1e4dac0127e1",
+      "url": "b5/34/0821bde2f247bf74bdba54bcdcba7eff871ffdbe691ee5e365061743766e/dagster-papertrail-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "7e0c61b86a9501d93670eb37a605d060742c659ec2ff067d6417abde8cb033e1",
       "url": "ad/b0/5c73d3146c7bb089b2ed762a9ade4db7f9e3e743f76827994593220ecda4/dagster-papertrail-nightly-2020.4.4.tar.gz"
@@ -4723,6 +4727,14 @@
     "0.8.3": {
       "sha256": "4bf810b0b3cfe52c8771e18b980d4ee63d717285655d113b69de8134ba4ac67a",
       "url": "c0/ea/5b3b489b29fa3c54ade4b3c86b528dad56f6c631bfe8c6abd4e74315baea/demyst-analytics-0.8.3.tar.gz"
+    },
+    "0.8.30a1": {
+      "sha256": "615428bdc1352e4dcec071ced69ede24c6066fbfe657899298777a16ba039398",
+      "url": "13/45/fb75678280c4605e9725bb5a5a68fe83eac9efb0e4c8a33f19ebb0a04384/demyst-analytics-0.8.30a1.tar.gz"
+    },
+    "0.8.30a2": {
+      "sha256": "3e325f3fc81e2dab97bff8f8f6bccbbecec43c57b0533d72295b3cb268835b35",
+      "url": "bf/87/ec6f289824c06cf4ac0037649018e7ef31c91a28357a2890411e2bbf740a/demyst-analytics-0.8.30a2.tar.gz"
     },
     "0.8.4": {
       "sha256": "c2f6e8938c3fc62a8f1ba7b390afc6a0885542269b780cba966db4b3304e1967",
@@ -12353,6 +12365,12 @@
       "url": "42/4e/a961573bea79283a7e9e10e74a8c700a856135f0414079d94fe353c8ab6c/ise.pfgfieldpermission-1.0.tar.gz"
     }
   },
+  "islatu": {
+    "0.0.1": {
+      "sha256": "d60a851622c4585cae4bdf8889130160604b1199a0c3af3e850df70cd67b84f0",
+      "url": "05/ce/eca1a5d53346b4b4079e8e74d06c4bca47c0a23885d0fdbe40b80644170f/islatu-0.0.1.tar.gz"
+    }
+  },
   "isotope": {
     "0.0.1a0": {
       "sha256": "5cf8551a976fee993c702ede40db33eb028857056118c63e09db613bb7b435ac",
@@ -15246,6 +15264,10 @@
       "sha256": "8010f394dd10da0dc7b5432d02d33330032e50f85fcb510e0a345de52bb0c2f6",
       "url": "15/7d/7941ab0afb4180763bb7f85d75cc3b14ca5b266acf48188e65848e04f9bc/mypy-boto3-codestar-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "6b410edbbe7b4f42da2ffbc930056d9d7e00b7bbe8b7bbd776a326cc87152058",
+      "url": "ab/2c/887cb1cdc30509384f25d7df163e7385ff8be77bdc0f06d445f107f7c5c6/mypy-boto3-codestar-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "cef59f8b45c735f65ba16dd7be31eaf00869b48d2895e7f1c0b4aaf74390f445",
       "url": "dd/f4/9530f1bfee2a04872293d947851c834caed38d8f3d2256a627abd81311a2/mypy-boto3-codestar-1.12.5.0.tar.gz"
@@ -16361,6 +16383,10 @@
     "0.3": {
       "sha256": "184e22c7faa50abe2f82f98715600a41a8f2c9d6a99f92af76016760b1d4435c",
       "url": "79/0f/333787a06b4358dff4e826689aa7611c3af698d54d58058b8556428ac277/parkrun-to-sqlite-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "43ac00b3839b36a79d7ebb30748a29f46d424263b67c96b644979c9d90c70ef0",
+      "url": "c3/cb/41ee9b566653b852f593c74ee2cb3f7bbaa8e1a385793471c851da47e2a3/parkrun-to-sqlite-0.4.tar.gz"
     }
   },
   "partitura": {
@@ -19111,6 +19137,10 @@
     "0.8.1": {
       "sha256": "e47b1323c5481cc24fce61fc5e4e57c99860d5bf16cf4ee9b58a0d50568bf2c8",
       "url": "85/77/c9feba4f291e1b87fddeef54a2fda265b19f95c285e63a4f7be2f04a2e27/python-quickbooks-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "7841d8ad1402e8ec69bb7168675504ee4caa3b0466f6a984aff5b288c89fe0f5",
+      "url": "7a/78/119eec93b3550b862ab5573706e5d9b9347868685801cd5601d1030e84e2/python-quickbooks-0.8.2.tar.gz"
     }
   },
   "python-struct": {

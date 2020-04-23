@@ -6337,6 +6337,24 @@
       "url": "ec/7f/ea5d1d999555dec890fd7146023ab5591703e7bb301be78f2a36f5d9fe2e/feast-0.4.7.tar.gz"
     }
   },
+  "feedforwardnet-shine7": {
+    "0.0.1": {
+      "sha256": "09eadeb3301ad017ca1aede2225fbfa1d5e941569cd67a400d3b09d5dfab6f35",
+      "url": "86/0b/57a2eae60ff22235b558ff2908c7920948f682510a1c4bac62d081d8c4f1/feedforwardnet-shine7-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "8e6c6d0a98c83e3fec50e03910e00ff8893c84fc82c25bcac63e92e1481c220e",
+      "url": "5d/73/2eda1ebd261ba37c7352c166bb27a6746652b818269cd3d2e24cb9f9a920/feedforwardnet-shine7-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "06e3253fc7852456e1e3e47f49eb23f9172bf8d7ded196181527670613942551",
+      "url": "ed/70/2fd65d715caec5b20900641feeb9853bd9503be3452762b25d800aaf242d/feedforwardnet-shine7-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "7cc6d3d887810aca4fed18d0a9debee2d184a873c91e88c0088e440ad398050b",
+      "url": "78/c8/181009a93b845d92c472648ac51119e43c8774c0abe2a6595af0bc1c5213/feedforwardnet-shine7-0.0.4.tar.gz"
+    }
+  },
   "feiyan-py3": {
     "1.0.0": {
       "sha256": "f54853da52d3009049671d3fdb4aa01595356ccdcedf9e7af2c58afd03ad63c1",
@@ -12934,6 +12952,10 @@
       "sha256": "002f86d23e3a2416dee6b4e0928a4a99c128046e32bccaa27fab0ee98a4ef345",
       "url": "0a/5d/3c44cf9e82c59170e6d854845cbd94b30b63fb5429cbe996cff3ea1ae24c/mypy-boto3-autoscaling-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "11503bf9ab9dd524deac57578865c3c3b2d848e1d2a4709c8363534a8ea73833",
+      "url": "19/ae/e369db511a6e5212986f439692a1851fa17c44f10b9c80e896f9876536a3/mypy-boto3-autoscaling-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ba2228ccf9b4df1451e95ca8462a1fede2a999d7388d08c91a053bb490567fb6",
       "url": "0f/6d/89b9ae81ffeec38a3008cd4d531db4a13600c746d76842af19ffc703f3ac/mypy-boto3-autoscaling-1.12.5.0.tar.gz"
@@ -13443,6 +13465,10 @@
     "1.12.43.0": {
       "sha256": "5e289ca5baa1a03039dd2d88c834dac73c15e21724b931d9156f426d5a661c9c",
       "url": "5f/f0/11f57d243fe629800023764146e36949eb182bdb03e77680249e135a2fa7/mypy-boto3-iotthingsgraph-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "911192920a0d94c7c6a42efdab0bd72eaa9cc2cf57fe0b81a3f5f7e7621b6850",
+      "url": "62/41/9c6d38c5e2f6856c43af8f61aea2f241319488365127fbe1032cebea0106/mypy-boto3-iotthingsgraph-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "3d1ac9e665cd1b187a4f5cf82e1e1463a47f37a10c2d24ff2076a7de4f33428e",
@@ -14063,6 +14089,10 @@
     "4.0.0.0rc2": {
       "sha256": "5fabfd33e7a600900a40b0f435072cab751db9995e694a276daa45d90197a6b2",
       "url": "58/5f/99f5e9ac9a4f9a6e92835a059513cc38edc6d447a38c5a054590773ab5e4/octavia-dashboard-4.0.0.0rc2.tar.gz"
+    },
+    "5.0.0.0rc1": {
+      "sha256": "e07850a7a883c7db1cf28aaaf144b6551b08c0d8f1f9126255988a77ec02a988",
+      "url": "3e/e4/a1064f0a0484379c81399817d7a2363a41ed4788f657bebda8e933e2e320/octavia-dashboard-5.0.0.0rc1.tar.gz"
     }
   },
   "ogame": {
@@ -15847,6 +15877,10 @@
     "1.1.5": {
       "sha256": "eb8b3ffd2455c81ba939407092a1ad5b39cde67c102aa957714c15aba9fea922",
       "url": "7c/12/630c4f6dc6982707da617252f89697ab604fb8996a63cd8d5ee407ec73fb/plone.registry-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "8359e9b8aa95806197fdac41d830f4b9012fd9138e6dfd712da0638f1ec85d2e",
+      "url": "90/c3/0deb858443654e2f358ded33973a313f7cdcd5e0e43ef89e0f332d347c73/plone.registry-1.1.6.tar.gz"
     }
   },
   "plonetheme.future-imperfect": {

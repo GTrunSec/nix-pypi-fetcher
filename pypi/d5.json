@@ -14868,6 +14868,10 @@
       "sha256": "7651e8e937dbecd14a58ac71aa2caf3ba782ac9ae0a5b8a531ff516001a96d42",
       "url": "e9/b0/01f949b2c6bd84c7153263be0c8eed5f81db08a981e237b515df9817d671/mypy-boto3-elasticbeanstalk-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "b9d77b94e3b7a63125ae4c7ca3e61395c91a56404d6c64ed57b9a29ec60b9f5a",
+      "url": "f0/16/80aa187d5f5985ce5eb5cc964a7b616b2abcceb7ee3f2151f4c852e8226b/mypy-boto3-elasticbeanstalk-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "656a991e3ee3888a40be95b05c50cf235cac8f97870919cbbc7d9d9f0ae4b5e8",
       "url": "ad/13/29c9a1cf7c7f6386659181daa5233ac66a8d23f613d4d338cd435549237e/mypy-boto3-elasticbeanstalk-1.12.5.0.tar.gz"
@@ -15377,6 +15381,10 @@
     "1.12.43.0": {
       "sha256": "c3e1f82758c276ddd2ecab19923a75d07620f30ce6bb583ab1350678c0a8e4c7",
       "url": "12/cb/4ad61aa2f19939cb5e92015e039feb43e391325ee37e1397bd8247fbaa77/mypy-boto3-savingsplans-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "ced34f2607034ac65d3986fd00fc16d238817bf9a3af6f4ad587019e07492764",
+      "url": "b3/ae/a810a31e4c5b0e2c74696ec6f0dd292bf59bbc23a9f313aeaa44719baaa8/mypy-boto3-savingsplans-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5a510f6663825f1c6329ee8c5dac1057fd8f27b8ee64c11c3a6e5699e17bcef6",
@@ -25191,6 +25199,20 @@
     "0.1.5": {
       "sha256": "158f98a5b39fb5cb72969a723a58e255317516392c49cd249928f5b67ca9ccc3",
       "url": "c5/66/74e1972f2957e6e87c5e0a2cf6bc5839d350eef54b8a31a9546dadcda2ec/wadebug-0.1.5.tar.gz"
+    }
+  },
+  "wargstools": {
+    "0.0.6": {
+      "sha256": "a2a2afcba0b61b6e7359e64220b538285f9953e322fffcecd08fb83e00c7865b",
+      "url": "fd/71/a9bf9db31452ef2046078db9aae2d140ec5550169321320ea721c2124aea/wArgsTools-0.0.6.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "dd60b6bf4c9514bfcaa71bf1389800b071f69d279f16d5fb300246328f411be3",
+      "url": "d9/19/984e3bf8601d686b66c80d5a507dad9994c6209d507805f3ddf9bb02fff1/wArgsTools-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "482ff4e9ce1651df201dad5c43266771d536a5a5fb69a36c21ce7b68c8651910",
+      "url": "49/34/82ba5fa6684d5b6cf79c1e7da37352e493aabefd9484ba0eb02e4e7fce18/wArgsTools-0.0.9.tar.gz"
     }
   },
   "watson-tts-py": {

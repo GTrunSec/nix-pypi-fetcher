@@ -2659,6 +2659,16 @@
       "url": "8a/ae/ebe747039b04d0800e9403f74b58ff3a7481abccdbebe093350bb365d88b/atreal.richfile.image-1.0.0rc1.tar.gz"
     }
   },
+  "aurorasolarclient": {
+    "1.0.0": {
+      "sha256": "b6523f5cfb58d64f38bf509d70e41f161c0d98f23e0c810d50ddb0122c44219b",
+      "url": "de/db/b3969471391d2e21cc34c1bad49a7535a7986a270a1f546d3e343a2df976/AuroraSolarClient-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "f9f3ee91627703350d9fe7289dee94586d799818855e15b9bfb794bf18b00efe",
+      "url": "4f/71/afa53e5afdf5f294962470870a08b96a7de6d80db325f0a3eefa87c4936a/AuroraSolarClient-1.0.1.tar.gz"
+    }
+  },
   "autodecrypt": {
     "2.0.1": {
       "sha256": "7fc85d350bd8788c65c53b5c217b1a227b9647ee387677d44a9639dcafbea41a",
@@ -2991,6 +3001,10 @@
     "1.34.0": {
       "sha256": "1f258b6d9f3172772f5e6e90f003802194cc95a70ded45662170c33ac9fd7828",
       "url": "6d/21/1ba3ea060de867aae4a04830da3fdef6e3b439aaf1476ca833c6b660cea2/aws-cdk.aws-dynamodb-global-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "75c19b9877c6c812a7a5c64b222aeba5ce604007f377ccf73e28439f25e51e16",
+      "url": "3e/44/c77a98d9741e945557ccee6ecdeb1534bbc02a4ae4d75c3ae054947a5cee/aws-cdk.aws-dynamodb-global-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "7bd3d09b5a5bb4778ba80a27df7a68e52ca1ebf7d954edd2ff29c58065393098",
@@ -4463,6 +4477,10 @@
     "0.2.5": {
       "sha256": "23c25cd76310d324594ffe3a726cac076e88281121717bf3276529681e094510",
       "url": "c7/2d/6edbfe5964a0eb5538210415765474eba2f1b5ecd8f47279f7b2342cd173/contextualbandits-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "e224bdf03d19b0853986a89fd52f6d04b7db38cc7c3ff7b4ce3165f1cb5da2b8",
+      "url": "80/94/8cb84ced99b2fda167f6fb068882ab25791773d77867ba50d9cc260c487a/contextualbandits-0.2.6.tar.gz"
     }
   },
   "contracts": {
@@ -11325,6 +11343,10 @@
     "0.5.2": {
       "sha256": "b78b27c17d524da8dc15d28277d9ab073e25eb5fc0866cbc31635f7a1d6fc88a",
       "url": "14/74/949fc4e2c42b41f32c0270f1ce11e987d5022fa7f798af2c533fe3634ad5/gwosc-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "456f537528d1cb685b845502777d377f050399d7e5d6ce3d2c951d1e8de04ada",
+      "url": "22/a6/66b035c95638a8321fd2634aba48d135207a6ba6ef47e4822d618a8a1849/gwosc-0.5.3.tar.gz"
     }
   },
   "gym-duckietown-agent": {
@@ -20573,6 +20595,36 @@
     "0.0.4": {
       "sha256": "563688e6b9d816f79093cc296b66242222d9a0ac19ce83a71709efadd2c7758f",
       "url": "38/21/745cf8e13afe3968bf2a460139c94878ca5a4cedf7cd9fdccdabd7298bf1/schedule_jobs-0.0.4.tar.gz"
+    }
+  },
+  "schemahq-schemainspect": {
+    "1.0.0": {
+      "sha256": "fe70c7444faa20478996f11cbcd748392818870ec8dc3a172c16aca3a827e98f",
+      "url": "31/5b/7486e76cd9a4b68257fbf989108b6a07ad6386ea781261908054708ba8a7/schemahq-schemainspect-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "1b25b36f8feff26fe5e1041d2ca33ceaa8f4507673c3709a2c9f3dcf04ab2cb9",
+      "url": "f8/2d/9979ab457d1fe98c3b101b15c4a17ec67544f7303c24fad12e756d47218b/schemahq-schemainspect-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "e5612d4605efd9665b0e7f27483d1fb4183bcb193061bc7dad4faf3487b0c52e",
+      "url": "e3/7c/2376010434cfdba3a310b4c9b106d28f9ccf1e8992098051fd710fe8a00c/schemahq-schemainspect-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "74b5841581d21d2ecf4b6baa58a6df831e960d3d2d0641ff537f7b75363adf19",
+      "url": "8b/56/5334be08beb9d8a3c865a0a85912d15c6b922fd0e8c88ebdec23e59ebed7/schemahq-schemainspect-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "50c0e629929e94825079a15e258ee24c7fd6fd44a199df7b51187b3cda073cde",
+      "url": "3f/6c/8f953dc647756ab8d7ed4e3d6102ae2312968ee893289a5c07a619e9d673/schemahq-schemainspect-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "4b21c0c9dacf53538c10f30355cfe13c470c103f2bc045b2bd13688275e8b433",
+      "url": "88/ad/6e920b296dd6bd4c36b18833d06b16ec775e167ca0cb746a81d675bd6c30/schemahq-schemainspect-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "a2645ce5cf3808195c5c944d50d8adc49fe4972886c1f81e992f3308812fc5c3",
+      "url": "51/64/1f2d48f51b5357361b37c73bb0e11c53c87b097d307390c8583d1f90f48e/schemahq-schemainspect-1.0.6.tar.gz"
     }
   },
   "scikit-gpuppy": {

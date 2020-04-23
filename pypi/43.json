@@ -22294,6 +22294,10 @@
       "sha256": "affe30741fbcd0440f8dc9831ea8157f08f1fb1e03bb8dedb23588d3c1618c66",
       "url": "2c/88/ada3944b69a647812e5f4bc22f6dbc1c504cc41feff80ef2433d7c5acfb6/sgt-1.0.0.tar.gz"
     },
+    "2.0.0": {
+      "sha256": "4e8dc4d6179cf0df8ba4d82aeb9f790bf5c28b8a862b53fa30d6f78dd6696591",
+      "url": "88/21/88cf624171dfe962e93da77465a36920b35da8cc342a8c098d1ba681fcd8/sgt-2.0.0.tar.gz"
+    },
     "2.0.0b1": {
       "sha256": "9873226332aef863ebf7d4c9c14b0eae77cc47fe03edca7429ec8c1f3f1893dd",
       "url": "db/dd/b3adf4c27c6f2055ac6fa3fae36af22e839c29e2fac20acdbcd79846ff38/sgt-2.0.0b1.tar.gz"

@@ -8415,6 +8415,14 @@
     "1.0.0a20200419011902": {
       "sha256": "94a19b13bc94bca1f6f0f994a59c3cf131bae4af20dd343df6ec08ff64c153b6",
       "url": "95/2e/7dede0daacaf381e2c7d51383afb1d159c0d4a15e6344b3dd85a1b11e75e/ff-client-1.0.0a20200419011902.tar.gz"
+    },
+    "1.0.0a20200422145801": {
+      "sha256": "6cdfa7ed3104a8bb279e040cda0fd7c7f056ff367613a2b5ec459511b57aecf2",
+      "url": "ef/66/f318cded5ca77bee85b1f8fc88b9e70fea2e8a6468db73ecda4108ef91f6/ff-client-1.0.0a20200422145801.tar.gz"
+    },
+    "1.0.0a20200422145840": {
+      "sha256": "80a9d4d71e5e565428c7e925f4c9c02d9f51505682d4f2671b37a3251c83c425",
+      "url": "67/c3/346966419ebd524f18aab40ac12ea84f6eccb47dbab66966773daf463f50/ff-client-1.0.0a20200422145840.tar.gz"
     }
   },
   "ffx": {
@@ -14745,6 +14753,10 @@
     "0.8.3": {
       "sha256": "d924a5b39ada9346ce97116c5f9786dc305e8db50585823eb95c0336ab4b2680",
       "url": "2b/ea/38bc02b8394dec4bf70383483c8b0d0a62cdd3b5952b590153b6f477cdab/metawards-0.8.3.tar.gz"
+    },
+    "0.8.5": {
+      "sha256": "a5907549e437dc9301e80276c362dca7d27ad8f3ad7b1cdd06d4a9f802be32af",
+      "url": "be/02/1bddc3e29ee24a90fda60df98a2971c9959e26f12bea8f97195c5d2497e1/metawards-0.8.5.tar.gz"
     }
   },
   "meteorpi-model": {
@@ -15387,6 +15399,10 @@
     "8.0.0.0rc2": {
       "sha256": "3ee8e5f91798464448635ea59905eb6f6ff873849fe419f5d021fafc26acca43",
       "url": "5a/9a/62f101e3cca9f10a8775d1a4d74250c590e5276a848c8a115cf5a711ca8c/murano-dashboard-8.0.0.0rc2.tar.gz"
+    },
+    "9.0.0.0rc1": {
+      "sha256": "d7a34ce77e69f93034b3a4abfa8721d2d792688e2c5e419e669c8631abedc02d",
+      "url": "9e/b9/be20e040bb365f0619580700d8931b1a11965b5ca5f70ee72850e38781cf/murano-dashboard-9.0.0.0rc1.tar.gz"
     }
   },
   "my-awesome-helloworld-script-20170222": {
@@ -15885,6 +15901,10 @@
     "1.12.43.0": {
       "sha256": "fa8b4bc7178ab0b826faf12827f072c885ce446b8599ceffeb2685364d2388e2",
       "url": "71/b7/dc04da6c5ef2fe589cd138356cf91ab10f46aee4f010b1b047d742e775cf/mypy-boto3-neptune-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "70483e055d8e33843e9406fbeaa574df93f7692b4314c54e3e6826e9879e0a70",
+      "url": "7f/8a/a30693247349eb2549c842bad99871528be1c6ee41d1364e61e3cfb3da12/mypy-boto3-neptune-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a16015e737f6835cacfa9e60fc60ddbaf56b08889994d74b1d1ccf479a6ad7d1",
@@ -26186,6 +26206,10 @@
       "sha256": "1d7832d3cec6a9ec0f249e4e558b397b042c4db3dbbe06acda3c7923ad46b2d4",
       "url": "f9/96/2f82d9b3a60e532e32e619b4f69b880bb84c8433bfe8bc1d12fa5c7497fc/timemory-3.1.0.dev10.tar.gz"
     },
+    "3.1.0.dev11": {
+      "sha256": "d0fbdc5c76f279d684ddd1f37434861027f6af9f47537ccb022b37b44ac41622",
+      "url": "53/55/187ed90e18c575bf94367883a930abf4eb214d1ab13f9555bdee4a5ab9ab/timemory-3.1.0.dev11.tar.gz"
+    },
     "3.1.0.dev2": {
       "sha256": "ec67e93e7b8dac71c68e23573d54145d76d4a3a331962025e2c92b19724addb7",
       "url": "35/9f/30f584fb12bdafd4eedec2ee0ef4818ff5a936027737f35318b65fb50775/timemory-3.1.0.dev2.tar.gz"
@@ -26399,6 +26423,10 @@
     "2.0.0b0": {
       "sha256": "35083864a62e130b410b68924b1b0cfa607f6081017f5f478da6214c4f47f774",
       "url": "d5/11/026d2f5c9daff1b14e61229ca164259575457480bc9832e77a2f7993942c/truffleHog3-2.0.0b0.tar.gz"
+    },
+    "2.0.0b3": {
+      "sha256": "5d8ba51759472bb45401dce2f2cd7f0fb9b4a3a201bed6c46a8c93da0c286ac7",
+      "url": "61/19/1c616060937c6ae32293e38c8512c08bb7f63b74913d223a4c011058e17c/truffleHog3-2.0.0b3.tar.gz"
     }
   },
   "trw": {

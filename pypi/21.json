@@ -11342,6 +11342,10 @@
       "sha256": "5f075f0c447731f96d72c9fffe06497a01f3a8bb14fd472999be685580e1412f",
       "url": "fe/89/ed6963ebd6191b3b866bbf9e2b8efb215c6f74937e36d49f09b60446ca03/mypy-boto3-apigatewayv2-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "a669475f3993af55420bd3ff8ea292553fca6f046b68941245114be9f8105864",
+      "url": "11/22/c5831580c6df0df390ba86752760f69475bc426b9906fcc9aa4e5a50edfa/mypy-boto3-apigatewayv2-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "539edcde8a6fea9b299af3bd528c656d1ddc56a1f6fc468ab03eed4b6fa8d332",
       "url": "07/36/61872cc5871fcb174eff3fafaa09e2e73b4e4391fefed7225860d72cafe9/mypy-boto3-apigatewayv2-1.12.5.0.tar.gz"
@@ -11852,6 +11856,10 @@
       "sha256": "cbfdc9ddc1fcedbad973a79af9e95c3a4c6c296f76d09b3b00373149186c2a82",
       "url": "c6/a5/a1a64cc0974d20583a6e0b5838aca9aac02332f4f1d50747aa3d7a722858/mypy-boto3-fsx-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "1bf39ca8143a31232b3be309fc907e33972b7750ac01079a614eaae9389ac8fc",
+      "url": "63/7b/d9a9f6142cf95a434a6011a9a211d878dfa9d5209cbccbe2c845f24789f5/mypy-boto3-fsx-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "1d6eeab23714e6911cf6523473ca240854d8fdd767fe557697607c6a0ddffc67",
       "url": "a2/1c/72ad457be05e54a0f2babaed19287378a0fb1dffab90dbb0008a368adf51/mypy-boto3-fsx-1.12.5.0.tar.gz"
@@ -12129,6 +12137,10 @@
     "12.0.0.0b1": {
       "sha256": "e08d9ef5c4e60289ed24afdb3927ba8811172674226d7d7dccfb036e158bd19a",
       "url": "de/9a/4ec24999dd182e4592c1c966394e01f057be2eee7367d2fa4853680feed4/networking-bagpipe-12.0.0.0b1.tar.gz"
+    },
+    "12.0.0.0rc1": {
+      "sha256": "3f4c5ecc28bc9a3b91583ba717cdcd7d953c491749db2c0ee95ad16594a17874",
+      "url": "a6/97/eaa120a54d4c92ad5e1c7e5655281fa280bdf6bef5051910611bf70ed4fd/networking-bagpipe-12.0.0.0rc1.tar.gz"
     },
     "4.0.0": {
       "sha256": "9f7d7c0ef7735912d9712f5da3021e515201f07df166aee7ef19ff5013cdd3ab",

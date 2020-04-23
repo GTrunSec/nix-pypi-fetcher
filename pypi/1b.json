@@ -533,6 +533,10 @@
     "1.5.2.7": {
       "sha256": "7abe75cff36c7490a3dbc19a100545a67c73ccc8fb44fd5660ec4ddb7eb521ff",
       "url": "01/77/5da753d649bac86e480e6641bcc60eb39bc2926bce63bd1273e9eaf86881/altunityrunnerfc-1.5.2.7.tar.gz"
+    },
+    "1.5.2.8": {
+      "sha256": "a8b0bdf1afc8607ac179b0ee23f9456324347cf4e1ddea22b3887ce79ed08af1",
+      "url": "f7/b8/a67f05573edc1457853c8baba21c09775d7bb802b12d41ed89b33be2128f/altunityrunnerfc-1.5.2.8.tar.gz"
     }
   },
   "ambiance": {
@@ -1281,6 +1285,10 @@
     "1.34.0": {
       "sha256": "799102e28bb83becc1779e9ada47a703b2ee1208c9d4585f292bea97c49b461a",
       "url": "49/59/d4edaaeede1594451393793717c4ccfc7895bc11082d0b575f55b5331e58/aws-cdk.aws-budgets-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "5ceabd717db6665032fdd452efe0d11fb51a45842a926bea497040199db3d609",
+      "url": "0c/13/3dbe644f9ebad339a23c87fa3c6528ab670d9cc9fa56a16061b5d03b79c9/aws-cdk.aws-budgets-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "e705f16a52f46c70a86af1f4124307221101f9b19ebb1eac34a81be7b74c07ff",
@@ -2691,6 +2699,12 @@
     "1.0.0": {
       "sha256": "8c88190ff0e645fa0b488548cd65385c75e124fbefc298686ce660578a00f0b4",
       "url": "7e/e2/9a32c5ba9890602912b06b23a67e8227a053a8082239f24870118b3b1dc6/chapter7-1.0.0.tar.gz"
+    }
+  },
+  "chertoganov": {
+    "0.1.0": {
+      "sha256": "b9ac9312ad9141311bc93d3d6c73107a9582ce31522de79a042473fd85013584",
+      "url": "3e/0b/4a5389e1e88187a3a9b585a4216450f25e2c66768f3916e8c53cffe4f100/Chertoganov-0.1.0.tar.gz"
     }
   },
   "chexutil": {
@@ -7201,6 +7215,10 @@
     "2.0.0": {
       "sha256": "27d3f6f80546b0a12bb09db4f15c5e924f2397c0393913a7548ea9e96d6f2dac",
       "url": "c7/1a/9cb157a96fc6f72eeb396db90722d5a2e89e13366e44a4e614727148bfec/fmrib-unpack-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "b0e9e20a41837bbfa4102da6bae47b06712b322251f9aed401edd3b64312d473",
+      "url": "d3/c3/3b39e41fee874ee598043432a2bba351cce6e0421f16f79906a8ac138410/fmrib-unpack-2.1.0.tar.gz"
     }
   },
   "fmridata": {
@@ -14600,6 +14618,10 @@
       "sha256": "8e2272f42cf8e77b016adc601eb3738dada1cd6c3fdb497124ed680656dce8aa",
       "url": "78/ba/a81dc6a2d156d92e59cc356b2db2d5260f27cdb625b90fe81aaa3408ae00/mypy-boto3-forecastquery-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "c851b5dc1a190126dfa1faa860eb82972c1d132f8530047b183de57520d48e46",
+      "url": "db/ec/251beebf33c231c2b46ac95bc1ba236b29eaec37c56fbe1be696c1c16885/mypy-boto3-forecastquery-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "9fe3574763cb582642a9e648424fa1b042ddfe08f046bc8212cc56e8a5ae0d0f",
       "url": "44/cd/adb6d6b7240e16f6c49599564af1c68e7b590a193cd57d788ec849f44895/mypy-boto3-forecastquery-1.12.5.0.tar.gz"
@@ -16675,6 +16697,14 @@
     "4.0": {
       "sha256": "9b8a643807ba23e43732c8b6d348ee1dffbf22378bc4fc7af87846d55966b1ea",
       "url": "ae/f5/68bd41b788d970205fcbf3dc8300b2b0c8a1080900b83cebaafc7298119f/platon-4.0.tar.gz"
+    },
+    "5.1": {
+      "sha256": "37af4f69381447a528b5d90dc6c7eeee7538cdd0d6a7c3ab197b9ed472af215f",
+      "url": "0b/31/2f920a3e5a9d9eb26d06ca16e8859102b7d234c104a64a3367c8e1ec1f17/platon-5.1.tar.gz"
+    },
+    "5.1.1": {
+      "sha256": "b459253ee0fbc863d2ea96b88f6c296292c852c722a8663d44c4b1b0763adee3",
+      "url": "b8/f3/2c3c6ed543dfb64e4d8c074054ba14bf3f8b8e53460a276df446dba0ec90/platon-5.1.1.tar.gz"
     }
   },
   "plonetheme.labs": {
@@ -16935,6 +16965,10 @@
     "0.5.4": {
       "sha256": "6505e2d9bf595be76705825693a4c35d48ce75a9fcbe04cb00ab2d7cba23f0c9",
       "url": "e0/41/6a99e7401e0c3ff4b971e28ac4859e3a4ec8d6518644d0c4d0f1abd9b17c/postoffice_django-0.5.4.tar.gz"
+    },
+    "0.5.5": {
+      "sha256": "54d6b86a669e23f36b112976b222b4ae96c1db4f3f7f57b1670d6c52d817bfa4",
+      "url": "18/a1/0f6d00a89a6ae284ccda816a794ff776fa1ad553257fc7816b27bbf0396a/postoffice_django-0.5.5.tar.gz"
     }
   },
   "pretix-pages": {

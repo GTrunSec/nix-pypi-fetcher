@@ -1600,6 +1600,10 @@
       "sha256": "f5c9a2cdec24a610fb8f5c724d70057715a42931bc353683a3ecbe2452533e41",
       "url": "52/d0/95a5bc354b7d78f3ab3d619f16bf1fc118dce14f305671074de24aaec08b/aws-cdk.aws-ecr-assets-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "791ec0d0bf9eb45c5087d32d5ed851e57751343a6af7e93ffd8a77b502660679",
+      "url": "66/13/52dd1f39c1731ae3d53fd687ce07014b2cdf7bd47e180931b5ffd2f3bef2/aws-cdk.aws-ecr-assets-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "c67cf010a80812dc97f7ef979f54ec31fc4efa93c136cc48cb83274fe4328328",
       "url": "be/d3/3f8d12941e2722d4c9331b73f88c6c5f476322ff96a903f5e004a3c6dd50/aws-cdk.aws-ecr-assets-1.4.0.tar.gz"
@@ -1690,13 +1694,13 @@
     }
   },
   "azotea": {
-    "0.3.1": {
-      "sha256": "bc49ab519147c33122a6e4b49c80b627beba0f7a6cad0dcb6603ecc6fe317019",
-      "url": "7f/10/624e3dc34cb03c6b43147b1b64da2424ac29fcba24171b6dce8be28fb7ef/azotea-0.3.1.tar.gz"
+    "0.3.5": {
+      "sha256": "d63793532a6d10441ad3e66117810b842e55346dcdc8ba971f155d55c162c218",
+      "url": "64/67/13549fea8161e7c22c0e746d0e44c8504b3acb53bd45606ae96ab09921d6/azotea-0.3.5.tar.gz"
     },
-    "0.3.2": {
-      "sha256": "ec216cb407613714d24ab01e2c72e530093d3c27b66715a9887a3448d7fd930d",
-      "url": "31/ee/35234303ebde7273e26cc018d99b410db9fdf09ec3ba7ad6e1e2414be227/azotea-0.3.2.tar.gz"
+    "0.3.6": {
+      "sha256": "79a4ca1562ee44daebe4853542e798afe499f2dfa77cc591f02d1fd618b08729",
+      "url": "82/32/8e6f2aaaf14dbaa9c57e2ae782ff33362fe148bd644fd9bc036e1b5b4918/azotea-0.3.6.tar.gz"
     }
   },
   "azureclikeyvault": {
@@ -6528,9 +6532,17 @@
       "sha256": "3119e47b0553fa24d72bfefbb6d16d8f65bc588e96ac1a6b7b8ebac742c9bfe6",
       "url": "e9/49/c58dbefd8aa1c650c1d0a25654398c03ddb4ec30c670bab60a24fbaea594/django-thwterm-1.0.1.tar.gz"
     },
+    "1.0.2": {
+      "sha256": "b45a5b403a69bb83356b5cfec583e72c267d447b1e94a8fde3aaa0e2c02f7daa",
+      "url": "c7/cd/04734f6af509c63ee700c014a239b566377b0028cc6864963d07fea2463c/django-thwterm-1.0.2.tar.gz"
+    },
     "2.0.1": {
       "sha256": "6a6931d710d882f45b0294f1cbfcddd8efbe84c95386984533376353734317d7",
       "url": "11/38/78e28fe7dc75841bedbe8fe908b9861352b8e81dbf6fb226c24b77f0ae50/django-thwterm-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "2731c71921203abb615219ee24d5c4b30d962937897e19f75d39514b79c861ce",
+      "url": "4d/4f/4c53cf7373f1c100af0cfea2e6e899b04422e311478b147cac71a7200047/django-thwterm-2.0.2.tar.gz"
     }
   },
   "django-userprofile": {
@@ -9755,6 +9767,14 @@
     "1.0.5": {
       "sha256": "ac6d0be24695574afbd18be7446d37449a01adc5f085b7d037363c4baac78b0c",
       "url": "c2/9c/3f6d086c43d9a8fef6a05713b203b78da0832386be3a37bf08cf0b51225e/imdb_series_scraper-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "4ee86bb9d44f1b51bd0c455719facc25080d34bacf9a1e17a01d4229c70df665",
+      "url": "32/5b/2d1014455bb9e2245b5e7ef43e791eed2174381a02f7c79949bae1ff96c3/imdb_series_scraper-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "68f399c65d7234cf25dd2aba9347e90464d281636a225d51836e78077857699d",
+      "url": "9e/c5/57f41a0144846c9760c590d72fc1a5f3cb7048917efc8f2c260b5e13b245/imdb_series_scraper-1.0.7.tar.gz"
     }
   },
   "importmagic": {
@@ -21870,6 +21890,30 @@
       "sha256": "2ee2f2241c9dcb503ea164bc5ae340c670c074efbe79e634652550cf91f2d43d",
       "url": "f0/ce/b33765b5f1690b799d008f7e3b9d70c8d339bdf2d570cdf8c79a24d7429b/threefive-2.0.7.tar.gz"
     },
+    "2.0.71": {
+      "sha256": "1bab02b802e69b0f0dea7e1669cd08c360c3d885c33613cbc9f86a99e51d277c",
+      "url": "e0/bc/69b538036dae4ea41dd392a90423980d2f1fc2b2f4d78bef3f09165188fb/threefive-2.0.71.tar.gz"
+    },
+    "2.0.73": {
+      "sha256": "2d40acac7ba4b602a16a24ef77cd71790947d10f25baf52aff1277a7fdf91ece",
+      "url": "fc/d8/34b8cd85be85628aeca0aa194144c86513e9e44444a44ac8016bc23dca3f/threefive-2.0.73.tar.gz"
+    },
+    "2.0.75": {
+      "sha256": "df5df51fd651f9fb7b28242216bfeee4270061dee6d44d2069cbb52086105152",
+      "url": "93/90/545637b99a29f5b4bb2f5d43934037be5c26af8e7e6147a3d89ae67bf651/threefive-2.0.75.tar.gz"
+    },
+    "2.0.77": {
+      "sha256": "7f6320137539d8eef243912d7eeedfadc220e816f2798a87aaca9e053d4f6873",
+      "url": "d8/d9/3e0b23f9f2553ad197d0d63fcb0adc02ef1051c55d8bb92625853175ca98/threefive-2.0.77.tar.gz"
+    },
+    "2.0.79": {
+      "sha256": "c7110cba10b95bb692a60a9c61f884ddef23fea87f53b082598c1d469fb1808b",
+      "url": "d5/9e/444385ec701a7890405197e7543baa1fc136c415eefb0a5fd52083ef3f52/threefive-2.0.79.tar.gz"
+    },
+    "2.0.81": {
+      "sha256": "b9c1ad827bd1e5c5e8a6d5f62b1cd289ea60f52f1952761e5ba3ab284023ecc1",
+      "url": "e4/50/acd51f816d230cfea648fb87269edb212c5db1137f1fa98510e725eda3a4/threefive-2.0.81.tar.gz"
+    },
     "2.0.9": {
       "sha256": "bc1cfd40930ee7c5683206d37dd4bede806eee59af992d55154acc682e5e0ccb",
       "url": "3f/98/7070ef2d8c3c6084cd8de31533211e5db029e50a33d899ed5c5bf5e1531c/threefive-2.0.9.tar.gz"
@@ -22583,6 +22627,10 @@
     "1.0b2": {
       "sha256": "2fb847d5ab72e8dee3a4092975bd25ff011943439f341b4f1ac1c5042b8453b7",
       "url": "b4/79/a3973555765e4f62cedefe426a33089f3e3137872a0593cb88dc8f79004c/twilioSMS-1.0b2.tar.gz"
+    },
+    "1.1b1": {
+      "sha256": "ac2ecd7566528bbd6f78bada038a908288cf87ccbb702c9f590aa8ee9d0545a8",
+      "url": "8f/6a/e6663c40de42dc055f66685e2874adac0c709a93c613966cb636933bfa42/twilioSMS-1.1b1.tar.gz"
     }
   },
   "twistedsnmp-working": {
@@ -24407,6 +24455,10 @@
     "3.1.0": {
       "sha256": "c77d38337cd52a134c1c1129621f302eef350cbdd9a51d59d70fcd0b2a69b011",
       "url": "60/61/e1494647d08858597daee2260a5304ec564d98fe306a81471f3096273ca6/zun-tempest-plugin-3.1.0.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "9086b7e94587ac86a9abb8599e5016fd9f060c2c971db0325366d5989e93a1ed",
+      "url": "d7/aa/83534c39d4eb906ff1dddbacec2e2b206ccfa19e9435c60dfa7c7a92dea5/zun-tempest-plugin-4.0.0.tar.gz"
     }
   },
   "zxtools": {

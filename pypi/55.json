@@ -1544,6 +1544,10 @@
       "sha256": "f00d3d0b2cf8bc5893472f4528127a8372a80049a5c3da54ded451edae4c0fb4",
       "url": "2c/ae/3018dda2419828646ec40c7918642da151253e9292f6aee683568eb6ebfe/Automunge-3.8.tar.gz"
     },
+    "3.80": {
+      "sha256": "bd10064ef9d3b40957ac5cf6d608cb8dfa347580fdc9232c38b7aa25f11fb7c7",
+      "url": "10/d0/9740190c69bc0747700c31dd5fb66aa70ab467260ff92f9503776d908bdc/Automunge-3.80.tar.gz"
+    },
     "3.9": {
       "sha256": "7dc9a35ebe1f1be83ceef7118fe1d663899d57e861900aa9cbc676273486558a",
       "url": "85/0d/5edac5ba64c19f21e5ad294c22df515aa3de266a8803b457f1cc8fc492e4/Automunge-3.9.tar.gz"
@@ -11847,6 +11851,18 @@
     "1.7.0": {
       "sha256": "81d5e6ee72af674d6ebb68484480e69895a09c8d9ebd4a3cc82eadc569d90306",
       "url": "25/29/daf11909980454c0802b225abf9d9b8d0d40768b9d1658559814d88b7867/Mopidy-Mopify-1.7.0.tar.gz"
+    },
+    "1.7.1": {
+      "sha256": "fde50f29d85b098a4898840575226f91febb35d4b4c3d5fbba2f7c7a51434708",
+      "url": "b8/8d/2c57c52d2d56557ccecec87a82857fe2aa6ac36cbaf6912747741240978e/Mopidy-Mopify-1.7.1.tar.gz"
+    },
+    "1.7.2": {
+      "sha256": "44de75459c1f4498d64b7ab5a685a4d90d485d52c7298636ba17d9282e27360e",
+      "url": "e6/51/912d5730f67824874ca544d9c58a4971e56bdb1d5c8642e52617051f57d3/Mopidy-Mopify-1.7.2.tar.gz"
+    },
+    "1.7.3": {
+      "sha256": "465082fb7f730be2de03f40358f1d8c794eb1303a056b9ef707d57835daa48b1",
+      "url": "87/1b/85a6c097ddf1f2839ba34515517caa8ee1b6e153c84c3cb40b0ceaf2bcc7/Mopidy-Mopify-1.7.3.tar.gz"
     }
   },
   "more.transaction": {

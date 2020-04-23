@@ -1332,6 +1332,10 @@
       "sha256": "2616d26ceb2523ab439237b82ef4bcf0192c5614ba77778a029713778de3f553",
       "url": "a2/1a/cec9c7609609e100542c73268ca9ceacb6e86c7ebc1800d291a18007cfa7/aws-cdk.aws-dynamodb-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "6df0701be1f4c93903daacc26f042d87497b69b563e43fcdc51cc50a77a3a392",
+      "url": "c0/05/6852766629e52fab2858d6e77196cb9b2072a9d1a9dc2fbab3ed3d7a8bbd/aws-cdk.aws-dynamodb-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "8fe46c20ce5b23d011afd823f2b1ea6957ea59b869f5adfe4f3d644696fb34db",
       "url": "e0/36/0faf7d2ecce6d102d5fbe1c96c3b5b7370951b3e64fadb0af9e22e62c8be/aws-cdk.aws-dynamodb-1.4.0.tar.gz"
@@ -4601,6 +4605,14 @@
     "0.8.29a1": {
       "sha256": "5976cf59788fc33e936f4b40ea54646ccaf9e9ce4eacfb71e25d09463d8bb857",
       "url": "1a/fd/a325bc92ca2ede8897f800e55021e2b23d787835c4630f624f62fc6684cd/demyst-report-0.8.29a1.tar.gz"
+    },
+    "0.8.30a1": {
+      "sha256": "9463e2f9f3c8285102f0d0725d87cb4795b4b149749514fc50e6abfea9d86c6a",
+      "url": "f4/50/2c9e355a49bd8926ae7918fe099af9fea930fe482375dce8dd33fddf2df1/demyst-report-0.8.30a1.tar.gz"
+    },
+    "0.8.30a2": {
+      "sha256": "7bf91e09617b43cae09fabe95ba5d50dac4c98cddab0853aec3d4ce077588792",
+      "url": "11/22/73aefb11da9d14e545389bcdbe2881aa76cc81397ad385f91dba8a7bd154/demyst-report-0.8.30a2.tar.gz"
     }
   },
   "dhcpcanon": {
@@ -7417,6 +7429,12 @@
     "0.13.9": {
       "sha256": "db19cefdefbd86a35a476391ffa19d705ae7582b0d9832a0e33247932adb3936",
       "url": "bc/36/00b396afcced7038202a1fc49f4f09864ec18843dd0f06b09c8b1c81d660/egenix-pyopenssl-0.13.9.zip"
+    }
+  },
+  "elasticsearch8": {
+    "0": {
+      "sha256": "022262f1bf90efd4cf1347503188ae3034a3ecc389bde3e5216b4a7345664b6a",
+      "url": "fb/52/bd54fdcbbdf2de4706716dc9a48006018a0befed196fa5a38b6ba25ef412/elasticsearch8-0.tar.gz"
     }
   },
   "elderscrollslegendssdk": {
@@ -12455,6 +12473,10 @@
     "0.3.3.0": {
       "sha256": "963a14257d319836b17a0493d46f9233b005334502fcaeb9018412a249e2a323",
       "url": "02/7d/30815f2ba8dd550dd1206ba151600ea94204bb0717e6076391feec788bb2/medcat-0.3.3.0.tar.gz"
+    },
+    "0.3.3.1": {
+      "sha256": "e3ce43e699fbdac8b1fa646126dfb498e30ea99e14e9e97d52cad44b31747bc3",
+      "url": "80/43/21a2327ffd9a7a3575d77495212c0866a119aea7511c3f315cf5492d7f61/medcat-0.3.3.1.tar.gz"
     }
   },
   "mercilessming": {
@@ -13589,6 +13611,10 @@
     "16.0.0.0b1": {
       "sha256": "9d5bc87f047e93c510a67cb4788bce698cf4f961e39f8a3dda487f14f8ad7d2c",
       "url": "a4/79/8975b1e6f515a96d4cea2f6241a89012ce508b8cccb7f4cebc52c1301675/neutron-dynamic-routing-16.0.0.0b1.tar.gz"
+    },
+    "16.0.0.0rc1": {
+      "sha256": "a0be748ff3cfea41905ba777e216fe5494bfb9d9099c82ff63b5a9fc4ecf4756",
+      "url": "07/09/d10fe5caf8f319e6fc5bf2e98935fbfcd4f464400fda7ccc42b7e74eb259/neutron-dynamic-routing-16.0.0.0rc1.tar.gz"
     }
   },
   "newton": {
@@ -13641,6 +13667,10 @@
     "1.0.0": {
       "sha256": "b4dc13dde4fbad8c760416dee0af3f45881a71dc679b6fcfef7e2a7fd3d37ed5",
       "url": "19/fb/f8bf7d969e7b92f950974b456b27201aab5d37ec794449f1dcf2443a55fc/nitclk-1.0.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "ad9fc674d4dbe93d96535dd2776cc2ee0c29b594834fdbdff4ead554c8430711",
+      "url": "95/55/9123ee26c6603983d7115d6443f402954f89911d6ca84f95370da7f1c005/nitclk-1.2.1.tar.gz"
     }
   },
   "niteoweb.windmill": {
@@ -14691,6 +14721,14 @@
     "0.5.6": {
       "sha256": "43d5259b6b6424f3f15fff297445fbc493a4672bd978d4ec5ef5229a6784218c",
       "url": "28/8e/2b1b40ceaadb5c66c974bb5d5465091b209000b72b5f7715961ef93d24b6/pcg_gazebo-0.5.6.tar.gz"
+    },
+    "0.5.7": {
+      "sha256": "d1007c468860943c745e103a66022f6e0ad0e2133c71f5061e7c3d37c7c445d9",
+      "url": "f4/14/d041acc3cb9ec6ba577107b55d10477c8b5abb7f8cec41a95694c5864ce4/pcg_gazebo-0.5.7.tar.gz"
+    },
+    "0.5.8": {
+      "sha256": "185d643ecae6f6213c16c5cf132adbdecad9be158f30cc2d48651a30d42930a5",
+      "url": "b9/83/39c89a68db863e410e882a1697eaffbf1d967c4f422e77aca25df663103c/pcg_gazebo-0.5.8.tar.gz"
     }
   },
   "pdbfairy": {
@@ -15839,12 +15877,6 @@
     "0.0.0": {
       "sha256": "23703495bfedfe9609a5d44cc598d4092836ebaabecbdf1bf2524a872014cb8d",
       "url": "eb/f7/2109d85206c8729bbce4bbec41d132a5df7ee6d22b68454c2e7966ddce63/pulumi_github-0.0.0.tar.gz"
-    }
-  },
-  "punctuation-oxford": {
-    "0.0.2": {
-      "sha256": "10bbcf682e8e050be33a24b322dbce7412969a3a7e7dfc3c723422fe40302778",
-      "url": "52/bb/670481ffaa7a94f1a26ad41f135408629ae36a190545cdabcd5ea74c7f1a/punctuation_oxford-0.0.2.tar.gz"
     }
   },
   "puq": {

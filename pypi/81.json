@@ -1380,6 +1380,18 @@
       "sha256": "39cb722938c94613bdb15520a30f720ad930253946206d00956c9b51a19def05",
       "url": "47/00/83baa9107301cc94c8afd45a3692c24062928b830604ed0373e79f1cf3bd/annofabcli-1.27.1.tar.gz"
     },
+    "1.27.10": {
+      "sha256": "c9d5279c89fe45002cdba00c0a563a0b0ed1148dadcb70801faa84fc1d0917f1",
+      "url": "e0/d1/d6431f0ae15f7d4c94947d96f02380eec4e3992c01f4f035866ee5b7288a/annofabcli-1.27.10.tar.gz"
+    },
+    "1.27.11": {
+      "sha256": "18cc0dc7f091425b3d65c82420e8d33c3f9c6665d9e21ae6b455f4aaeb82dbff",
+      "url": "0b/59/dabdbb8bdd8995ff6a102b4a7c88f5dd2e3dda091e8720f290c10e459119/annofabcli-1.27.11.tar.gz"
+    },
+    "1.27.12": {
+      "sha256": "43644af343d10522ffb7f209e5d0254f9cd3f35b00c54762143e9f2c3fa613d3",
+      "url": "e3/49/391e0a1452e61a7702a4073161cf78d27059d22662782b6dedc2950271c1/annofabcli-1.27.12.tar.gz"
+    },
     "1.27.2": {
       "sha256": "c7e509cc7973dc23d3e16f6bccdd2694a4b8a6e839f7ee732d7079021bd2bba2",
       "url": "92/0c/909e362a271f96aeb5c8b0e2c06e95ff834620481780441f70e3f04deb66/annofabcli-1.27.2.tar.gz"
@@ -1407,6 +1419,10 @@
     "1.27.8": {
       "sha256": "882c2cd13c4b625955d5a3d9250c6ba84a16927e6ec834cace7eb74167f287e0",
       "url": "39/53/1487033d9cf2285dbfcb809df3dc9c59a8dea163b55d5df046666b8a35e1/annofabcli-1.27.8.tar.gz"
+    },
+    "1.27.9": {
+      "sha256": "d6c2d53e0e4339cf8dbac5111dbb6e195a5f1d28f150fa16b88dbea7a4b79872",
+      "url": "cd/09/d5f36f1da94636baf1c3b1faaf69039191b24b6137f59c096634ba8bb21a/annofabcli-1.27.9.tar.gz"
     },
     "1.3.0": {
       "sha256": "d30ff7aa84cc6732d53dd62c313124ff1c7b74c961a701cce9d2c089d56e5430",
@@ -9315,6 +9331,10 @@
     "0.1.3": {
       "sha256": "6f7d33c940567bf4b75eb3420b78d68ef00e2c4c8a04a57dc37ec549cf2d9673",
       "url": "25/9a/7ee24667a8663278d46549445593a83047201c2f6fc6cf9c46867252368c/hhpy-0.1.3.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "e60e6ebd24f18c03201c4609092b235173e13b28e2a7596a316f961db5b95209",
+      "url": "a5/a4/44bdac7b6e11fa2a159cd9dcc5c1d843020af0d75efd8b41c95b6afa7755/hhpy-0.1.6.tar.gz"
     }
   },
   "hiq-circuit": {
@@ -9527,6 +9547,16 @@
     "0.7.2": {
       "sha256": "7178bd3ab611a1d308c46e4446b5e3bb091a2f955fc9f36839bb173fe65732e2",
       "url": "61/86/3b83eec6fb1c7923fabd69ecafb3a333ac2cb89391dc7d8730ea1b71bcdf/icinga2apic-0.7.2.tar.gz"
+    }
+  },
+  "im-trying-to-test-some-pypi-features": {
+    "0.2": {
+      "sha256": "bd66b320815401e8a791481501187230b344808b5fc73e15e9820be6c768e2f5",
+      "url": "0d/99/997b1d5ced15a0612ca52278d7ebe162f374379a7892c67e48941ddbed98/im_trying_to_test_some_pypi_features-0.2.tar.gz"
+    },
+    "0.34": {
+      "sha256": "2c7a47ecc2dbc1fd940ffd886bae419dcbc6fa7a3455f5492f525be78323a319",
+      "url": "0c/f1/cca03354392f65bd30722c8a789c4e358d97f64def60aa506ed2099c7054/im_trying_to_test_some_pypi_features-0.34.tar.gz"
     }
   },
   "interpret-community": {
@@ -13719,6 +13749,10 @@
     "0.2.3": {
       "sha256": "1c999d6be170a964d12521d26c5e14cd6eeef76be4e02c44e25e81f836165fda",
       "url": "71/51/90eb284f96b8555c4a32b143955edc2a9ed06ad3be3eecafc825ee6b2660/oschmod-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "7e6bd35aad4827bd6146651feff42c43ca2876f8b58d46f47a58aa298b76bb38",
+      "url": "6d/f3/380d1c535225c47981892fc7fa7a1fdc2456d609bc8a6b588a1f42922627/oschmod-0.2.4.tar.gz"
     }
   },
   "oslo.vmware": {
@@ -16050,6 +16084,10 @@
       "sha256": "e69fd2f529b3350bd46aac2cd14490fabd9600c30ab843d444380c9b6e7d6c2d",
       "url": "86/d5/6a135eca1f60aebd1c45a1148d4b8d037af02d9a5b1f5c4c0d92c89ddc99/pyatag-0.2.17.tar.gz"
     },
+    "0.2.18": {
+      "sha256": "7da2c07a984b56fd9bb3d996cde35dff884aea4544318fe4ecc04854fcdeb4b2",
+      "url": "5a/a6/4ae8c4b4b2e7d522faf8a2cfdd10b5ff48c863aa6d2ab3d6f7349b62e417/pyatag-0.2.18.tar.gz"
+    },
     "0.2.2": {
       "sha256": "cd271b1d54cfef099a6a9e2c4e2d21ff5ac0687ab8a32b1e1b193f18bbab99a9",
       "url": "5c/8b/13f383555d4ba88e5ff3908f5d218a2ffea57a1b384c62fc51a2789b43eb/pyatag-0.2.2.tar.gz"
@@ -18087,6 +18125,12 @@
     "0.0.1": {
       "sha256": "b32e16fcec6e3492d28ce752708998b94334cd9f0670adad404d3abeabf58fb2",
       "url": "24/63/9229755cb46fdc813e2f6c39b6008fa55d58a2b8a5b2ab9890386dcbbbf3/qcloud-0.0.1.tar.gz"
+    }
+  },
+  "qcrop": {
+    "0.0.0": {
+      "sha256": "0e27ebbed9e8299e68149077cb7c80fd3a4b86097bf4276f2a06df7f65e30dc9",
+      "url": "2d/a3/335c3ece92453d924eddd0dfb603056ca34b65eb6c46025cb4391457b430/qcrop-0.0.0.tar.gz"
     }
   },
   "qlutils": {
@@ -21831,6 +21875,10 @@
     "3.0.163.1": {
       "sha256": "215508880fee45082ef6e2622b13aa0c6d4c915ce365d4cfacabb373549c198d",
       "url": "ba/72/ea6bab615f66ee71c49ca5064e6756b37adb49013f7386276ae271683876/tccli-3.0.163.1.tar.gz"
+    },
+    "3.0.164.1": {
+      "sha256": "d12ac36f9e583b72459fc355e1bba3a57d920a224c0845385bb8e6a3c890b14f",
+      "url": "5a/d1/8060cd9f7b9bfc73cf4d9e0b391aba1f3406690ed9f4d4eb76ee2c4a8e25/tccli-3.0.164.1.tar.gz"
     },
     "3.0.17.1": {
       "sha256": "55a0ceff468bc6cfd10a14c6df0a3650bebcfbcd9d414f2c9bf425a46b83df56",

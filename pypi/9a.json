@@ -3975,6 +3975,10 @@
     "0.1.8": {
       "sha256": "77350b8806d6ea34818aaf45330c8eab776fb4a4180255b4e1f372d3c71edf63",
       "url": "ad/7f/0e59413b3cc560110704c8506041a89c4d96900c4f7b3ee0e344444e7128/craft-text-detector-0.1.8.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "f1fbd3ac3425e6e5ee6f6e04e4e148d5c4db08617b0e9e91711fad82f993a7a3",
+      "url": "83/e2/89b95f2313b9437012823dd77403631f8376778beee2438d20b2f627516d/craft-text-detector-0.2.0.tar.gz"
     }
   },
   "crossbar": {
@@ -4599,6 +4603,18 @@
     "0.0.2.1291": {
       "sha256": "8366019f2d7c6395b1bd98acdda304689c0f1f3c79af59b2753b7736d0c7ea32",
       "url": "68/19/ebdd288829d541592802118b8b8781acad0efa9bdbbd28ed152b0e9685c9/cs18-api-client-0.0.2.1291.tar.gz"
+    },
+    "0.0.2.1292": {
+      "sha256": "62c7b3dbfa12aa1bcc84af934aaa0f27dce3d3a43fdfd64a548a1adc341e9985",
+      "url": "38/14/c927a16c0d85c9c40205aac669a70c929ca0d7551c324150a9119c47119a/cs18-api-client-0.0.2.1292.tar.gz"
+    },
+    "0.0.2.1293": {
+      "sha256": "3a47d25245cdad24dbbee5aa6c1f6768cfea569788f919ea6ab4a2a2d6a6345c",
+      "url": "e8/c1/3088129b08c82b4605d770a2bbefe6c5d2fd8f7f82e06d7f12eb0b60917b/cs18-api-client-0.0.2.1293.tar.gz"
+    },
+    "0.0.2.1294": {
+      "sha256": "a0121dfd90591ff5f09b525531c4633d474fa6c78862e42269613de5ddda407e",
+      "url": "c3/90/6e562abab739c93cf2bcba18f1ed66cbc7b8461d7f820784bb38c3a82820/cs18-api-client-0.0.2.1294.tar.gz"
     }
   },
   "cskipdict": {
@@ -8873,6 +8889,22 @@
     "0.2.5": {
       "sha256": "20d656ad25102020435887001ba584b622043059f0f287be32e90640b7b3af69",
       "url": "e3/19/c3890a3249a3819d91ef4265e97ac4dff05ecf46a163d3c1f1e302c8a53c/GeoFuns-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "8d8a09b722192de29fe63563c6686731a4f694fa2efec28b2a3f4963ba4041d8",
+      "url": "c0/58/9fc17d772223b397a5e7c3c6011e0921aca969578a80d2490bdf978594c3/GeoFuns-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "21b0cab345dbc7c53aba20a2fdec73e891a4fa1eb76f5826ba91fa94f09f05db",
+      "url": "02/b2/f41e86ced278f6506f7258a0e1006d3fcfe5e937df99fcd4a6bd81a4731b/GeoFuns-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "d54b1725d94be6d1f676d86dab302b6b664c74eefd425b5572be020c82559f94",
+      "url": "4c/e0/de5e014278bd498b4148558d2cdddd77876690d1e1125ac3be47f7795621/GeoFuns-0.2.8.tar.gz"
+    },
+    "0.2.9": {
+      "sha256": "ecb484bd189fd7d639af0356916465bb5c4ac2dd22de39c024689728645ea51d",
+      "url": "d7/06/25ddcf5f67e4fc38231899d8b4a82650505092d0641a223084b9124f79ad/GeoFuns-0.2.9.tar.gz"
     }
   },
   "geomloss": {
@@ -11619,6 +11651,12 @@
       "url": "21/36/f9cdfea39db10fb2dd0ed1bdc705e54382ab8d2e943340599d4d75471b9c/lxxl-0.0.3.tar.gz"
     }
   },
+  "m9s-stock-package-shipping-label-filestore": {
+    "5.2.0": {
+      "sha256": "7658704a360ccc47d091c180e7f0f4389b3faee4a6a037523e8174cd19694645",
+      "url": "e7/ae/b00f3881ab2d88b78c4593f9ee5f4d0f19cdbb9502f949aa5f4d1e46d9fd/m9s_stock_package_shipping_label_filestore-5.2.0.tar.gz"
+    }
+  },
   "macmusicbox": {
     "0.2.5.4": {
       "sha256": "8813221a6faf2f8d34826edef620c951bc972e1dc5c941f0fd1c30b4d57e6dbb",
@@ -13204,6 +13242,10 @@
       "sha256": "56cec9888f500dd124dd0d60de412b28d6a8093984beaa5f2b3178284693056c",
       "url": "40/af/9e2dba1d990aa93a21b6a2d572838d77b924b022f93ff3440f04ab37ac1d/PartSeg-0.10.7.tar.gz"
     },
+    "0.10.8": {
+      "sha256": "90ccd996c5e14cb77f911c513db08b666c1f5d9e48f1ed9ffdc4eb063b63b862",
+      "url": "85/d1/c4c6e236796c709215007d68d940e965f00950c83bab6ff3395846d61d07/PartSeg-0.10.8.tar.gz"
+    },
     "0.8.2": {
       "sha256": "2881d66ce16b646da07c7d38f57b7730e0f2f4e4e687e93994c4572d3cb593ac",
       "url": "2e/d4/500bd8e7bd93996f7596a5f3172a3fa1aa4da12cb23ccf339c7f83133c16/PartSeg-0.8.2.tar.gz"
@@ -13309,6 +13351,10 @@
     "0.2": {
       "sha256": "07af546738628d4ac2341dc3e7737ac9bf0ab2cba400e786f2db7db16d0dfe8d",
       "url": "ea/0f/603c70db4976758261f82a7ebfd0c609cb8fd61ca800eda110d01d8006b6/pdsys-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "09cc83ae590376c850e6acd0416abfb022bf2065cbcc04b2d9f82f43ade1453e",
+      "url": "aa/8c/17047f304181737103304b1035b1fcf5b5c35c35ba234657ba1cd35ff714/pdsys-0.3.tar.gz"
     }
   },
   "peewee-migrate-dev": {
@@ -17605,6 +17651,14 @@
     "10.7.2": {
       "sha256": "5211ce2a7eb85da533982bb5082eeb1deea86b8a495d12bf015abdb43ab83263",
       "url": "ee/29/45b8c4435f48d3bcbdc95e4ab24857d68c031e4d1937dbbcfbd07123f736/salure_helpers-10.7.2.tar.gz"
+    },
+    "10.7.3": {
+      "sha256": "9ba49028685485f2b272f435ad4320a1dfe13c63fbf930170173e504abfe6a1d",
+      "url": "93/fa/e9e010926802150658e020b433f41bbf24cfb741a39b5c6d17a2cb722729/salure_helpers-10.7.3.tar.gz"
+    },
+    "10.7.4": {
+      "sha256": "1965dd107af51c34aa125fd18b14fc35badd1d41b30188263f20514bce40f982",
+      "url": "b8/cc/05b3e7b25feaacaaf72405314700375b7313226e1b39ce83cf1925ad69b9/salure_helpers-10.7.4.tar.gz"
     },
     "2.0.0": {
       "sha256": "4bc877aab453426f3ae95fa7077adc4c46230c799f7ecc5b87a6e043027d6b73",

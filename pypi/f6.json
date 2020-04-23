@@ -1399,6 +1399,10 @@
     "0.0.2": {
       "sha256": "25972b95f5bae4cbe0480bd5b95c3cf6b6b176df445f288e69892d1e57a44aeb",
       "url": "ec/ce/14cb18e206d997420dfe4dec8948f0015dcbf315b9f1b8e259acad5b9c3c/beets-yearfixer-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "b22601ea6b515ba0426ee692a98ba08d8b656c68041637dac28b31a68a0d968a",
+      "url": "0b/ae/c650f16eb317a24ebf53283048b4d8478a6d082a4efa2131f6e6435fbc34/beets-yearfixer-0.0.3.tar.gz"
     }
   },
   "bell": {
@@ -6537,6 +6541,12 @@
       "url": "70/cf/4b75e544eb02c6095d26c78e4a6fe0cc6b84c534050da3e2577e7b67d753/efb-wechat-basic-slave-0.0.2.tar.gz"
     }
   },
+  "elastic-kibana": {
+    "0": {
+      "sha256": "9edbe26e37d6d7c4e8373f30675ddd726268fd0a7bd1f5dd6724ae85f014d070",
+      "url": "02/2f/a839dc64ce733ea02b224c4a65de396c5ab58acbb9e027db77eda6832690/elastic-kibana-0.tar.gz"
+    }
+  },
   "elasticsearch1": {
     "1.10.0": {
       "sha256": "224e05c437df7bdf31241225f58c64cd505345acd9efb509c5fc97360921093d",
@@ -10001,6 +10011,16 @@
       "url": "5d/64/1b71828643ee0f1229236ca53870ae8cfee57b901f1ee0108c456ecb5fbb/ipinfopy-1.0.0.tar.gz"
     }
   },
+  "ipymagic": {
+    "0.1": {
+      "sha256": "369b8313a5bd16f7943078d890d98b0ccf934703940d90b5f1425972d126d73e",
+      "url": "a7/d0/8069bb7d55bdadd6aa2e246787853a81c5090fb936e471f872d4bacab089/ipymagic-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "6107abb1188e2372f83b285b7c47087bebebd9fe3594f9b5717bc3e45c37e444",
+      "url": "55/ac/e1bdbd9e7e500744fe33eec46f32a1a288d6ef7f9170d9c702a0f5c76cfb/ipymagic-0.2.tar.gz"
+    }
+  },
   "irdap": {
     "0.1.2": {
       "sha256": "76a1243e9c2c688161033365f56a3ade4d53c495f95d83bf9f7c497f5057eda2",
@@ -10514,6 +10534,14 @@
       "sha256": "a7c3756b1d08681c1207ace0ff52f0c08c0c31f4ff8da821da037a734b6d4efb",
       "url": "1e/7b/2c8ab91cb8ab7fc1e99c0479ac0ece31ca4ac9e3e4da11a4a88476aef2cb/karp-backend-5-5.24.1.tar.gz"
     },
+    "5.24.10": {
+      "sha256": "6ea92dcdf5f194ce0db32d4fc8d6bcd7b8ab188e5f51020a835fbae7c7eaa4c4",
+      "url": "3f/97/a537fa907eb18ca3839e00377b72231ead59724d944a7ade6bb477bace79/karp-backend-5-5.24.10.tar.gz"
+    },
+    "5.24.11": {
+      "sha256": "15adb1947ff8456145b2e1dee94bf6fa7d085b9146f8a5ac4c5bc8e8f0194083",
+      "url": "98/d4/3df0a5b092d9a73c2698493661902b1c172f0b608f565add64a8f6af8272/karp-backend-5-5.24.11.tar.gz"
+    },
     "5.24.2": {
       "sha256": "9827ab8314747308d6ae14af3b13d8cad4070e412812d2b64c3400055dc4d872",
       "url": "9e/f5/5adcbdf533dec4263179c632b4bdbc90c485994ba352281d65c35b288146/karp-backend-5-5.24.2.tar.gz"
@@ -10537,6 +10565,10 @@
     "5.24.8": {
       "sha256": "59726a7d635f116494fb7c6137b982321c3af4f5f481a06b5295ee1e2a25beaa",
       "url": "f4/b7/4f7bf555aa6acf6f6853ac859a12b88a8eaeb5c78c4b813032b4ad84cad9/karp-backend-5-5.24.8.tar.gz"
+    },
+    "5.24.9": {
+      "sha256": "865f995f28e339640c3d9404a4b5ce1c7d3d71680e847a2092c43b68d934cb05",
+      "url": "e4/57/9514b15a1746be73c64cff6cb04f5b719dddffb7675ea7707a818d41b4d9/karp-backend-5-5.24.9.tar.gz"
     }
   },
   "kazy": {
@@ -13564,6 +13596,10 @@
       "sha256": "745c6ad511f0bcdcd103e33940da813d69fb50dff85c7496bffdee6c8abbde2f",
       "url": "c5/d6/bf0baf3413b32c6d8159e5e356924f2ea55e38ec5da28c0c19bcb4cce3cb/mypy-boto3-personalize-events-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "c707763347c35f89d2c67e8302263a6e92d227b2da541e32867e7847fdb01d68",
+      "url": "5d/1d/f2c790e5162393ff40e58ea4a04be62b6f6f6494dc557d3c7412fec23b48/mypy-boto3-personalize-events-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ea1f2aa6aa3d39e742667b26a3ab70566671d3da1a5e1b038cf0ecb4f13527fd",
       "url": "aa/b7/848fc10a3931d7bee1e8412fb9ac129ff219824349b7dde6e2a4fff4cfc4/mypy-boto3-personalize-events-1.12.5.0.tar.gz"
@@ -16377,6 +16413,10 @@
     "1.14.1": {
       "sha256": "2860683827bfca2543fd3261af9cf4510ad8c48f62a53b78ea4e334f6e445596",
       "url": "ac/f7/bb7d4bad733a9096580557128303fde0ec28c21fce3161bb2c58b2dd8621/PyBIS-1.14.1.tar.gz"
+    },
+    "1.14.2": {
+      "sha256": "acf0e0dafe31a4e00e5e0d6eecebffe33bd0971e06f5fab278f2be19590fa921",
+      "url": "54/73/1578c475f744c837dd500ffe8bfdcb9f0b0aa5f7fcac7ac493ab0115ecbb/PyBIS-1.14.2.tar.gz"
     },
     "1.2.0": {
       "sha256": "24b114cf2002a9ffcb55ae3e68a3d0ec26d2fb009e1b04e557f7bd76c8ba2043",
@@ -20403,6 +20443,10 @@
     "1.1.0": {
       "sha256": "d01baaf9fc898fdb39228fcdeea1e3394fa79ac475812d3806226b6f71371be4",
       "url": "55/98/769ef5151018bd773c3992e74d94cac6ba70bf550d59ab48c6876ff49cb0/solum-tempest-plugin-1.1.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "87a9db93e7b71c7cc3df09015e54e0519a111d0d8a5c49e18367ad26b4b29181",
+      "url": "97/30/2c7a7cb508d0599644397746dcbce27eb4af2e9ed692d3a79dd6e3e48bbb/solum-tempest-plugin-2.0.0.tar.gz"
     }
   },
   "soracom": {

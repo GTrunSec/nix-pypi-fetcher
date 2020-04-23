@@ -5059,6 +5059,10 @@
     "2.9.1": {
       "sha256": "ce0bd68b4b946bd4bcebc3d4d1325bf0e938e445ae18cedddd60e33dd85a368e",
       "url": "f7/0b/dc724c3e1025b7b61aed8071b551286415dade6861170695293899263d68/cryptography-2.9.1.tar.gz"
+    },
+    "2.9.2": {
+      "sha256": "a0c30272fb4ddda5f5ffc1089d7405b7a71b0b0f51993cb4e5dbb4590b2fc229",
+      "url": "56/3b/78c6816918fdf2405d62c98e48589112669f36711e50158a0c15d804c30d/cryptography-2.9.2.tar.gz"
     }
   },
   "cubicweb-preview": {
@@ -5827,6 +5831,10 @@
     "2020.4.21": {
       "sha256": "b6f03ca4faaa1db419c75e3db0e225a2d3310e67cf1ec4fe99e21cd376a2faa5",
       "url": "76/68/c74f4fc13495edab03aa02ce57fe9ead1428efbaf9a3443aab946cee7ab6/dagster-prometheus-nightly-2020.4.21.tar.gz"
+    },
+    "2020.4.22": {
+      "sha256": "2d2860542f19ab77cb4f68c0848d377a3ff627e88220d57cb547cbc941ece4cf",
+      "url": "a4/19/2ce4ce81324d5028c608882c95674fccea99df6cf4bc5914e8b841e7d288/dagster-prometheus-nightly-2020.4.22.tar.gz"
     },
     "2020.4.4": {
       "sha256": "49f3c48738d56643463718fc67629c87d505666e312176ad996031d0a116defb",
@@ -10392,9 +10400,9 @@
     }
   },
   "gravity-simulation": {
-    "1.0.0": {
-      "sha256": "3d2a9779f88618ede40e8ec07a6a09ceeca2e86da939081a05c88afc58b85351",
-      "url": "e4/36/6bcd1c23bc3da899d651f19703907f974b97553fe79baf95f4056a892eca/gravity-simulation-1.0.0.tar.gz"
+    "2.0.1": {
+      "sha256": "c3dcd6247af26059aa61b88fd2b83df4b6f3cf3dfa4fd9febd5d25bca7ff702d",
+      "url": "1b/d3/a0fd9688da4e69135304babcff181d142cdb242f36e50a69b850bca42a1c/gravity-simulation-2.0.1.tar.gz"
     }
   },
   "guniflask-cli": {
@@ -13355,6 +13363,10 @@
     "1.9.3": {
       "sha256": "f1855aaf94e974952dcff41aced5e3553ade9ebde4253604893ae20f130228fc",
       "url": "6c/8b/a89587a6fb6b5ffedc8448a685ca6c84aeb69225104b638615997ac4a5c9/lpack-1.9.3.tar.gz"
+    },
+    "1.9.4": {
+      "sha256": "cbc0a846f829116d4a901a172a3a1de1183463b679e0162a5f69b76eb135c44f",
+      "url": "c0/51/e2477c2bde13fd7cb98ac45663df191ad20a5baf374ab2768abe8fcfbeeb/lpack-1.9.4.tar.gz"
     }
   },
   "lrange": {
@@ -15207,6 +15219,12 @@
       "url": "5d/e1/43b98c242ce342d30fd574751513dbb6f75137503893e30813abec278ae5/news-corpus-builder-0.1.5.zip"
     }
   },
+  "newtools": {
+    "1.0.9.9": {
+      "sha256": "2d05448670b20b01f1964fcbbee01aa5aebbfb75d8956f692d9fde68ab69fadc",
+      "url": "f9/2c/708ba42a6c07c2afdd184f817d837fd11faef48bc5c88b519f74b668bab2/newtools-1.0.9.9.tar.gz"
+    }
+  },
   "nft-sdk": {
     "1.0.0.222": {
       "sha256": "5169da040ce75533e0f083d028992d537e867abc4bf7cc36dde771b4208f1802",
@@ -15359,6 +15377,12 @@
     "1.0.0": {
       "sha256": "5ead8dbd033c1f1c304315d07111200dc12f4b504560a0fd51fcb24c3621af2c",
       "url": "2d/8d/86046e90c4029878edfd0250d1c6a5a02d648c73f0baf8121a0d11468c30/nix1947-1.0.0.zip"
+    }
+  },
+  "njsscan": {
+    "0.0.1": {
+      "sha256": "559af9f5282bc3fa46ed0a18ff4e2138a7d7d123f88088ddf980b721e85b2c24",
+      "url": "10/4a/37daaffb2c17dbf0dc3f497ea13a4986624cfaf76eaf93c4ccbfdfcef332/njsscan-0.0.1.tar.gz"
     }
   },
   "nnetsauce": {
@@ -16951,6 +16975,12 @@
     "0.20181031": {
       "sha256": "811a0abfb11307867c23b833275d5469e195cdad44a0ca4e2af8c6011aefa0f9",
       "url": "d7/d7/7df8dd7ebdab854c8e123c255c28962de8dc3e067b860ae545fd9ae4b6ae/prego3-0.20181031.tar.gz"
+    }
+  },
+  "pretalx-public-voting": {
+    "0.1.0": {
+      "sha256": "9daaadd0fe6b32e93c4cb902dc3079befc6fcef7ee173376c73324242a8cc314",
+      "url": "90/90/2a404d357ced2f94e2f06318a4917c874f4e9d8eb77b79cf62a1c3167f3b/pretalx-public-voting-0.1.0.tar.gz"
     }
   },
   "pringles-devs": {
@@ -20959,6 +20989,10 @@
     "1.1.0": {
       "sha256": "2b86b8379fb3122383b55fb26ada7e2b5f5ae81d06f2fb05a8d9d4743b22219e",
       "url": "cc/a5/e5d5fd3494fd5cee385d8cbc3149e501b3b45b667c16fc6b54971624028c/sendbee_api-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "81af108ee04eaeb862f04490789536617606b76283a092dba4df7045aacb1950",
+      "url": "84/76/928dae108a9bf8c60875c2421bf27b1b6bae960124adb95b92d70e2c2e10/sendbee_api-1.2.0.tar.gz"
     }
   },
   "sensiml-dev": {
@@ -22774,6 +22808,10 @@
       "sha256": "489fa2d12d48a742d5ff6a5ed7d905703de78ebe6b86757b13ddcab032133b16",
       "url": "6a/bb/9483724d52b60a2ebcbfb50c36f977ba291999280d76705a4efa20326744/threeML-1.0.6.tar.gz"
     },
+    "1.0.7": {
+      "sha256": "dc270fa045bda0282ea9d31b297e9cfac1c3011a314869f66a02c41464a64653",
+      "url": "aa/4d/7c797266d28aa012ee2677fb09549635fdcdaccbb6c9b07398d1cb195f21/threeML-1.0.7.tar.gz"
+    },
     "v0.0.5": {
       "sha256": "e771fddbfca388314adbc92ebfdecf9db13ff1e953db56678716be57a62062df",
       "url": "26/a4/14c2e0323b2c0e17483343496033a0df487d90b5b95b9468ba8288857d54/threeML-v0.0.5.tar.gz"
@@ -24323,6 +24361,18 @@
     "0.0.6": {
       "sha256": "0439ec3b0f211493880c974c0b3cee94f78f4b924c23fa5fdf06a00f47ef83fe",
       "url": "98/57/dfde22a63ddd1f97439a06d478913dd93853cb7b08c11caaefff1ec3162b/znuidocs-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "4138426eaf64b5b95ae01186cf6339607a37885e1cc947f2e223c4f946da5b5d",
+      "url": "46/10/989bca20468cf0dc56b3c0c0121f5d7c69f5211c5920c77399d523e6cadc/znuidocs-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "847795de395a74e21303236ae6ea54553f52955ce078b5b47c92bcc796339102",
+      "url": "b1/90/acc3082c47be6b650c4d8f2ed84860f18509f19b203a4dc7cbf180f356d7/znuidocs-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "8f2f9f3b9602dedb26d8dad1ab7a0236f3fca135d750ad691eda1fd5d2d214ee",
+      "url": "28/f8/5470ebae0182c42ff35e03197b8076de44b5a91bc0c4170b7858d3d608b9/znuidocs-0.0.9.tar.gz"
     }
   },
   "zoey-nester": {

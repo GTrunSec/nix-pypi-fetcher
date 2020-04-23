@@ -761,6 +761,10 @@
     "0.0.5": {
       "sha256": "7d63e8c98e2a29cf5e3946b1c2594289cb95db3e33de5de864f7b296c99b496c",
       "url": "43/84/cc1a53fe2de633d2eb58f1c08fb7bca0d5db235accbb39703be5b2792ad4/anti_sybil-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "c3ad43ec31a995c66be22ef9e9dd2aeb0ce08956de14b1b6393b99a0a9337584",
+      "url": "3f/52/a93ae357a640abedfadea8ef3d3715e552375a9382d0f1e035e52f90b356/anti_sybil-0.0.6.tar.gz"
     }
   },
   "appupup": {
@@ -4923,6 +4927,10 @@
     "1.0.6": {
       "sha256": "6f30c0dc6f0d9864536133e5e77b275408f215951bb4de47529d47c399dcb915",
       "url": "ec/a0/3d8725d8c15389555cdc784ad4c4844f612345877d2b0da36ee45b08bc28/disc-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "761db6f73d5e8cecb8d6e4da94455c7893f5e46edd9a2630f33e904f28a2d787",
+      "url": "7c/d7/c45dc05873231e872189ef5c84ad08982d30a4ddacf8ff64b79f01e6ddc4/disc-1.0.7.tar.gz"
     }
   },
   "discovery-behavioral-utils": {
@@ -5322,9 +5330,29 @@
       "sha256": "74d9e569fe920b81662780d4a80e21e24f2e312465747b6958d60376e4f58e3b",
       "url": "f5/75/bbb3a58da20aaf5341b50bfa9785aaeb38998ea54ce3d9a8b5cead5184c2/discovery-behavioral-utils-2.2.36.tar.gz"
     },
+    "2.2.37": {
+      "sha256": "4523525f7d2bbaea0bba06644f2a08e13fe4bbdc5d0c6b25bb41126d307a82f1",
+      "url": "68/de/f4d94b0e577ba90d5740e8517dcb0c1fe477221ad1a23f8637b9f4ee19df/discovery-behavioral-utils-2.2.37.tar.gz"
+    },
+    "2.2.38": {
+      "sha256": "d852271fcdd0ed2e13319cea22375913f045cd44a2a5449aa7f23c04508ce4f6",
+      "url": "95/c3/b3839836d3664fa42cb41b22cae1b5088e70e590b614f7b8211f8364ffe7/discovery-behavioral-utils-2.2.38.tar.gz"
+    },
+    "2.2.39": {
+      "sha256": "47f518aba25a78685ca5f9c8d86dc6a4057e1de5bcee43d892478dc41f18c683",
+      "url": "13/96/2bd08c1c35576c56c9346aae44e91aa7b6dcb32c1113cbcbd8e858729767/discovery-behavioral-utils-2.2.39.tar.gz"
+    },
     "2.2.4": {
       "sha256": "b314f8226080d39f9f142b7cd0edec4a1d05245b18adb7558fb9bd76a1dd3328",
       "url": "cc/75/f301cba9b49bc6812fd453c81dd31b93dacb6d28bbd613d4364f69f7a296/discovery-behavioral-utils-2.2.4.tar.gz"
+    },
+    "2.2.40": {
+      "sha256": "d40388d233bfff7f3528f39161a8f6cd40c3993ca1eb24b8e62a05bdfc397471",
+      "url": "79/62/ac9d747f6503cc440c5d92f8c1b5623e21ac4e230abd0e42f75fbc9ed805/discovery-behavioral-utils-2.2.40.tar.gz"
+    },
+    "2.2.41": {
+      "sha256": "017305f0aa0e7739d6f5ca50af5fdf3e60dc6741eaad41249ba37910db568ffd",
+      "url": "a9/36/892bb96953c29f7b45b147cc8dae24f0c15a8363564b909e3772bb3a3ea8/discovery-behavioral-utils-2.2.41.tar.gz"
     },
     "2.2.5": {
       "sha256": "3b24c32773ea9c7ebfc64846bf228be3ff32b3c55780245cd98bd587b9f755fc",
@@ -14309,6 +14337,18 @@
     "1.4.0": {
       "sha256": "0190af77e0e24482742b634d120ac9b52135716bbbc93929bf688313f63e4a59",
       "url": "d2/7d/8f6c7c977288ed554723c003a885c118889c3bf76ac343961a84d330f85e/pele_platform-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "2f5327616aeff5be40d54b2771fd43b8cdb75086944c11800339bd44e0866c01",
+      "url": "ed/11/ff7cdcb7a17869082a94fc4c066a8bc6407a07f7c542c1dbc4919b1e091a/pele_platform-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "c1092fb5c5cdb38736f621c434ff3112ea1cd1abc94d0bfe03ea7044b6e06612",
+      "url": "4b/4f/fec23d74e8b1474fe25234fd34972a427234307dc9f7908f916e50036d81/pele_platform-1.4.2.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "e491ac06c05301a846084e07ab709abf4b0507768710256443b6523b25339c40",
+      "url": "7a/b3/8eeb8c773a4fbf6561a929b8bab563f31384a0512a4708b4d0249ebc8c24/pele_platform-1.4.3.tar.gz"
     }
   },
   "pemako": {
@@ -23679,6 +23719,14 @@
     "3.3": {
       "sha256": "8c95d23961e09e612645177e4ee0e4bde1c2e7227109f6212b4139d95b6ee944",
       "url": "56/3e/74fc8c5c1398c5ae8e9be1ac0c8b5844330da03af1ec361a1ecb6e9ac847/vra8testlib-3.3.tar.gz"
+    },
+    "3.9": {
+      "sha256": "e13d9dcac2ed7aaf1c01a8a800715e7ac890d3862b7fad7ce18d8791fdde169d",
+      "url": "3f/41/0d86907653ce9e3591ff3cfbfb28c76b467d43b68e5d207a128dde9ffe94/vra8testlib-3.9.tar.gz"
+    },
+    "4.0": {
+      "sha256": "4c091e96c609a3fe3d00b8966da62a743186398eed49c3b7848cd162a9dce29d",
+      "url": "b4/b1/04fe806fe1ca452a0a1c06dd55255562143c6eca9ab0d2c1030275bfb7bd/vra8testlib-4.0.tar.gz"
     }
   },
   "vtfunc": {

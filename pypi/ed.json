@@ -1073,6 +1073,10 @@
     "3.1.2": {
       "sha256": "838a47abeece32bbd504a92ef1018ed16a7112705c3cdbff7c5a17176ab8d21c",
       "url": "d6/59/df031468ae757ceebc163b9c383f4b60cc907d69f71589f4411bf8857059/aristotle-metadata-registry-3.1.2.tar.gz"
+    },
+    "3.1.3": {
+      "sha256": "79006ef038b1089e7168648a3f7ae628b0509763c14e3b88f0e10e5f25558cab",
+      "url": "2d/3b/f93c05a2ad55c95de9e0d795dc56427d3a4293a1737c16e76379d001dade/aristotle-metadata-registry-3.1.3.tar.gz"
     }
   },
   "articlemetaapi": {
@@ -1740,6 +1744,10 @@
       "sha256": "c6450d5b29b4e3ae0a0b42a1a6541d0b783fcae1836cf99bd836eb0400d165f2",
       "url": "cb/45/c4c8b2f321a46ab39233a05571b0234f4fc3209ed89629cafaa9a7b095fe/aws-cdk.aws-config-1.34.0.tar.gz"
     },
+    "1.34.1": {
+      "sha256": "8216b5f86c01eb95a027c8f163b918dad90858090ef83afa5de2b78d936d22cc",
+      "url": "83/be/352bd396def7d52168e785952891adfe33ec7f629b7e023a6e27cb16b839/aws-cdk.aws-config-1.34.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "7697e72f9b6b1685d391e500689f81fdfead82a99531457530abb9641d313c2e",
       "url": "e4/e2/604d061950fc8774adfd7ee6d6e8bd0d374f0e5cf87379e5f9842a24a384/aws-cdk.aws-config-1.4.0.tar.gz"
@@ -1989,6 +1997,10 @@
     "1.34.0": {
       "sha256": "92cef658fbfe62876528fcae2e0858beb83532080a4cf63f62f37cb52eef24a2",
       "url": "6d/7f/9b759d88d592d65868516037999d06326b9e0ad7840845a9fdbdfe6dd931/aws-cdk.aws-elasticbeanstalk-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "5f046350f5266fd22ab81111896aab328dc1883eaad80cdae00d5e1995173da7",
+      "url": "cc/ae/5ddc71b822a8a7ae31d43176699f6e4537bf9265eafa56315af8b0ad5355/aws-cdk.aws-elasticbeanstalk-1.34.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "387ef695f12de6a50cde39e97917b7f7136033a8784764453d5b613625558a4a",
@@ -5266,6 +5278,10 @@
       "sha256": "3e19f7460188f7016cb27bb92e40a91bd6526276bde8e4964322933e768b2a79",
       "url": "02/2c/6351318ea13957dcce84b3acb8b036ae4233c4be2f955d47b8bf4e26eedb/dagster-twilio-nightly-2020.4.21.tar.gz"
     },
+    "2020.4.22": {
+      "sha256": "a0557383562e79d92f7d238e91991d1e6053e61ab17b8cbc535d92bfa5fe762d",
+      "url": "b2/1a/f1362a496f729bac5d5a1a33d6a0f25661d1f2ebbd617a4c2a5d3c8922cb/dagster-twilio-nightly-2020.4.22.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "6ec8bfe142a716a94dc700e56f1abf8c654da10c16bbd9b371e02923da92cdcf",
       "url": "29/21/5b13e96bceb4b971dd882400beeb6a40117c5199fbfc0fcb92a433a835ae/dagster-twilio-nightly-2020.4.4.tar.gz"
@@ -7975,6 +7991,10 @@
     "0.2.3": {
       "sha256": "ce86129db22dbd018e8d870b51b5dcab88d713fad21c344c748230ab6c8cc346",
       "url": "c4/d7/3d1ccaae9c86bd3ff954b834b9320bf33997697f23d1d72fd46ea7f8c942/django-obm-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "d8698098534056dbc2f2834ae6c04f2f665210c106f32422ab102a62c4d762ac",
+      "url": "c6/8b/a8f9fd45be573d143447bbe92b926f90dd24d6d100aa0a65df33fd606a16/django-obm-0.2.4.tar.gz"
     }
   },
   "django-pell": {
@@ -12827,6 +12847,14 @@
     "0.2.9.1": {
       "sha256": "cd2d7842971e0aeb6d1c0f03bc5be1ac6d08b928ecfe84d26baffb7d4c2064d1",
       "url": "74/3b/a9bbbc2b4714988620380fff751d1b2a018c1c4f07369d4a63d2cb60ef13/hipims_io-0.2.9.1.tar.gz"
+    },
+    "0.2.9.3": {
+      "sha256": "a3d3780337a3dee536901cc6f35992e85d39bfb4a59532b3a588947dc4ae840c",
+      "url": "80/23/71fba077fc4621ee2a1e682cf36a1788dac65fab3a1fc587b70680f1c6c2/hipims_io-0.2.9.3.tar.gz"
+    },
+    "0.2.9.4": {
+      "sha256": "0f02ac27b6ba5c6e644e0467b37eb56d69b4b2162df1c69cbb4e8351b199423f",
+      "url": "fc/05/58555d2811952364a4a66eab2bacdbe2628e71d61b723cf1ee70e4b7ae21/hipims_io-0.2.9.4.tar.gz"
     }
   },
   "hotfix": {
@@ -16442,6 +16470,10 @@
       "sha256": "f713e13257c1c36bfe56e78ef59ed006e75ec4f5346d4a61283c0d60d24e1558",
       "url": "82/a7/af33a3a3196d1a6de7d4b8d94a777c9a773ef927c122f75c1be5c0b98ae3/mypy-boto3-dataexchange-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "711bf6a9c5ed6de7d1ab732c1ad4c0bd1d6ce96b517944ee23f842d725036d24",
+      "url": "f2/2c/c2ac65b80beb70de53fe2e15b07b12cfc06f138da62b8f31242322c3ed3d/mypy-boto3-dataexchange-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "e54405557fba72423815223a01c7341531f055ef97c858704272391b74388dc0",
       "url": "46/e7/eb7214f1487e383bbf641ed23dc7be6fbdd4192acf2486659fd5337f40f6/mypy-boto3-dataexchange-1.12.5.0.tar.gz"
@@ -16951,6 +16983,10 @@
     "1.12.43.0": {
       "sha256": "4d1add1a06aaf9b54f529b3b45f5c1f18e0930bfffc9beec9a417a25bb25ef31",
       "url": "a6/f8/969e201d5d2291aebaf649d521664751616b44e1c38a6dd04841e3c031a3/mypy-boto3-fms-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "e2a38f006a40df1dab23a8060c58324fb8ed703eb8065bf86257f76679d94025",
+      "url": "a9/21/a8d513fbe44831756f4949e1b58046243476af84d3933747332bd0be4f93/mypy-boto3-fms-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "b041d2e807f8a9d87f2f63a3e89e87017fd7ecd5dc983d5a92e373651b7dd8ab",
@@ -25421,6 +25457,10 @@
     "0.0.4": {
       "sha256": "b383fedd9830bae475e5763afa744cb8b357df2a0add1de3109c6e7cfe8e0710",
       "url": "79/bd/57591e8f3d8540c1a537fc714ef9a2f53d2ae4e690d050dafaf539a2b722/ttcore-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "dda74f15a505bf9af755c09e70c0536c68bae0c66807ba433f442807e137414e",
+      "url": "bb/12/86001d9d3cfd247c0b811a2db158e1671e327336aeec19c20c1cc452b488/ttcore-0.0.5.tar.gz"
     }
   },
   "tupledict": {
@@ -25609,6 +25649,12 @@
     "0.0.0": {
       "sha256": "f4b69541d12838dcfa609f08c78c06a753cd30bb94fc3f898d23746b5f0c736b",
       "url": "4b/b4/4964f4e14e9caa1a4e86708ab9c08c9d22dc57acda95da051c726f23803d/uranus-0.0.0.tar.gz"
+    }
+  },
+  "usb-quartermaster-ssh": {
+    "0.1.0": {
+      "sha256": "0a157ccf32435169301711a3af34a6e81f6ad30b4672e47b50ed7f8d6ffaa3c4",
+      "url": "ef/ea/1c67e8ba486ae7b4e35dad1652f4740153c76c6b99d0a0ccc71944f0e194/USB_Quartermaster_SSH-0.1.0.tar.gz"
     }
   },
   "utf9": {

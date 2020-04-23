@@ -3635,6 +3635,12 @@
       "url": "e3/0b/4f1da87c5a2501cf12cb651c5bd66d1ac604c677ce0c508ddc9ecba699c6/deepfree-0.3.0.tar.gz"
     }
   },
+  "denv-creator": {
+    "0.0.1": {
+      "sha256": "46d06e1ffe7315e3ddf484ef9dce5baf6fd6c49a16623b97eee90833c202a2e8",
+      "url": "18/ea/6edf020155560d2a1e89c523af21da42f54af6675d3c9362e4302f62e1f4/denv-creator-0.0.1.tar.gz"
+    }
+  },
   "dependy": {
     "0.0.0": {
       "sha256": "9c11c8672f5a7937ff2d16404b3bb576fffe59d6aa784eb1c924abdbc191ac1a",
@@ -13186,6 +13192,10 @@
       "sha256": "8c298f3d4015b65c3c86461dc77bdfc80940daa94264dd444b36e4255ccd10f3",
       "url": "f8/2c/34144758fa63632a2dd98f7d38fed786bbc0fac6c6bf4969e1a195502ed4/mypy-boto3-opsworks-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "eaafceb70839c9b3da0f4bdb5bee994db50c5517157f016012d1129f2f61760f",
+      "url": "d6/de/5c41ce652efb6721fae21328d6e58d2940491203979d07df82e749583f0d/mypy-boto3-opsworks-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7e87667e5b9a577057d6d185e54bc9caf81ee8a9e2923933dc0ef7a19f22cd6c",
       "url": "f1/53/b45b147ae401a85d5bbc2b2e7a6793eef4f70491782e9c259fd5a593bddc/mypy-boto3-opsworks-1.12.5.0.tar.gz"
@@ -15587,6 +15597,10 @@
     "0.6.1": {
       "sha256": "0b85b1e916c15887f5b001dc806baf3ca23520393b5f170b3e292878e78130a6",
       "url": "0e/52/0eeda595f55db44bc149212122a33629e6bd5fdafb0a5c46c638d0ff1df2/piccolo_api-0.6.1.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "fad85b110767a9611117fbcf062f8af7058b0d47162572b13ce940bad3fdf4e5",
+      "url": "36/0f/cf3bb70807706dbcde80bdc056fe32e2fa8392c437141912453acdbf1333/piccolo_api-0.7.0.tar.gz"
     }
   },
   "pickupline": {
@@ -23251,6 +23265,10 @@
     "0.15.1": {
       "sha256": "235520badc468109b8933eeb5b0c755a7d9b0dc5484469eaba2fa053aadce908",
       "url": "cf/96/307be890788282b4c97bc2848e61a26d0be3ffe4b2f6dc68fb1fc5ca8808/vortexasdk-0.15.1.tar.gz"
+    },
+    "0.15.2": {
+      "sha256": "0ff29c51fe51b2249dd0389dd7722732ceedb4ca01ab4096f860d5540981d0a8",
+      "url": "9e/d7/2400ca210d21a4ba7d35ac74e7792c1f549ae5d0005f31802eb04310922b/vortexasdk-0.15.2.tar.gz"
     },
     "0.2.0": {
       "sha256": "fe2542c760d588eb264a80371a15a2ef5df96d6fa93144e2f4715b772485ea33",

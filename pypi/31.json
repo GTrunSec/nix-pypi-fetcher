@@ -7376,6 +7376,10 @@
       "sha256": "8e1d8c3e23d2bbf660e120c4cd176d0920c880d0cce9d3230a6ad7fe2ee7c321",
       "url": "c0/26/4bfd0fa1d85e75caa73985abef9cbecc3f4dc93e30f575b2ea0ffe3b9728/GFPy-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "6ed6fdb1f2e162432f1355982e72ef507a2e1ae359792698f72386f85801fb09",
+      "url": "b7/ed/ca907de081cfddeeadbb1389ccb082ead7892d92d76fc49730787afd4ca7/GFPy-0.0.10.tar.gz"
+    },
     "0.0.2": {
       "sha256": "d9243299de8607f617feb3bc04765626bb59f752f7094d96d13f9faea2f82af5",
       "url": "9c/67/3d3117edbe230980edf9328803ef31b2dfb7ef4bbd7edfbd8dadd74dd9a1/GFPy-0.0.2.tar.gz"
@@ -10419,6 +10423,14 @@
     "20.4.1": {
       "sha256": "9b41ce295043847384f3ccc8fd7d08998d8b5291c597262ac11586f95506c137",
       "url": "2e/92/10ca4afb4747962b31a7a6b626632dd43aaee55f9eb7db98339041a11e8b/lino_react-20.4.1.tar.gz"
+    },
+    "20.4.22": {
+      "sha256": "2d7d6a3a497693a9afb9ac557acb3c6bf845a37b8b8870cb8eafef2850ef55c7",
+      "url": "bc/72/400e788589d91b782924fe4068417a4ea3f7f43708c49e18fd5dcaa3ec2b/lino_react-20.4.22.tar.gz"
+    },
+    "20.4.22.1": {
+      "sha256": "296d2ad5969b76b2a9955dd00a9a0ed09c1605303cd8da979f2ad0e933aa5e13",
+      "url": "f5/25/5b040b0c580ffffe7de0ccc3cd1aa6761610cd65aa1585cafd314bc9c414/lino_react-20.4.22.1.tar.gz"
     }
   },
   "little-brother-taskbar": {
@@ -11647,6 +11659,12 @@
     "0.0.2.1": {
       "sha256": "e07605db4729ed19079e323b353a963efa2656c6a603baf7a3a81a23435c47f9",
       "url": "c2/5e/4edbbc2b7c358d54879538e4c8a1b117d4996eb2740c7f91673f6f8e75df/mLab-WalkSpeed-Radar-Tool-0.0.2.1.tar.gz"
+    }
+  },
+  "mm-cli": {
+    "0.0.1": {
+      "sha256": "2e49511baf7c4430d0e6bdcac12f401ff869360b7e6e407cef320c6424aaaf34",
+      "url": "3a/bb/738b27d0a1561e8476f9426a6c436c1826cd7ba3fc87b743c01c7521a3ed/mm-cli-0.0.1.tar.gz"
     }
   },
   "mo-kwargs": {
@@ -21115,6 +21133,10 @@
     "1.4.2": {
       "sha256": "f4c4a3d3e55ee1fc7d73e7734c1aecfa7ba487edab4abffc256781283e31e0ec",
       "url": "ff/32/23c87fae6d3e2d097e4318f6608d5d4da5630602feb9fd21f6987afdd11a/typed-argument-parser-1.4.2.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "ae2bb35ddf506c137d2d14a0fe391b087a47a336dc627e7ca16f5d101377ab95",
+      "url": "28/55/6c502d8dd957c279335bcea30b182cdc0417c1c689d71e0708ce034754eb/typed-argument-parser-1.4.3.tar.gz"
     }
   },
   "ucnum": {

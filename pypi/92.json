@@ -1357,6 +1357,12 @@
       "url": "59/14/219c002dafbf51386f8ce80ead4b766a941ebf7fe2fe61035b5fbf343c8b/autogenes-1.0.3.tar.gz"
     }
   },
+  "automated-stock-rl": {
+    "1.0": {
+      "sha256": "13b426942246f163d0e49d2a233d9f861cc93060c7497bde1634d3b3dfbff433",
+      "url": "ad/21/24314e1e2277650bfd3e09d46e149809c62a72ae0feb547a5e07f5a611ca/automated_stock_rl-1.0.tar.gz"
+    }
+  },
   "avatar-utils": {
     "1.0.1": {
       "sha256": "601a25e3f5e0b0565d74954d7a956a35b783958d6130a818886fb6cdaaf02e0d",
@@ -4749,6 +4755,10 @@
     "2020.4.21": {
       "sha256": "ad02fd4d020a4e3e18eec8601e8d3c2422cefcc9d7a41f221bf3413815c2b697",
       "url": "1b/e6/56f4ce331dda2611845531f5668ac16e123b9829f761837273d72fa243f3/dagster-pandas-nightly-2020.4.21.tar.gz"
+    },
+    "2020.4.22": {
+      "sha256": "109be43c57b3cae9ef8103d1eac98eb71e575b765720bf6026d282396e5ae15e",
+      "url": "a4/3e/874c3a96b6747ac8eb328cf2a4878441f0730ce91a6e42a4a26887686f8a/dagster-pandas-nightly-2020.4.22.tar.gz"
     },
     "2020.4.4": {
       "sha256": "7d9a5bb0e89f1684c1018658d30c642281a73949ce3bfc9a18559f045bd75953",
@@ -15318,6 +15328,10 @@
       "sha256": "20041d26ab0b422e24e650c63ea1bd1a7ecde01f223854513d39acec9fdebd66",
       "url": "e2/c4/ed31e7cf28369891db0df49c701561735af7c7706640ea47e9b482fe3914/mypy-boto3-importexport-1.12.43.0.tar.gz"
     },
+    "1.12.44.0": {
+      "sha256": "a4cf7f6476e794f77617ff7108c3a7af5b3ea11ddfdf28fa3b102b1d9e1bd81b",
+      "url": "9c/3b/415b8650dd6f8476b78c0a17dfe0967bc589a49fb050aa0c9d658233b171/mypy-boto3-importexport-1.12.44.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ea9e2c3993329db1059897fc0781a0e33e5cd53b6e62ea9bc8ab070889a784ed",
       "url": "c0/d6/77c35423ec205c37314b24a0d1aa40d5ead4e803069910683168d1f05189/mypy-boto3-importexport-1.12.5.0.tar.gz"
@@ -15827,6 +15841,10 @@
     "1.12.43.0": {
       "sha256": "952a27adc74b018eff6340aeb8c241ee87aab6766b8148f5e9b54a7a6d4773f1",
       "url": "c8/62/e55e2be9aef1e126da2fb53f1e5400ab2eeaa1e1579f8b85f049a8ff1567/mypy-boto3-organizations-1.12.43.0.tar.gz"
+    },
+    "1.12.44.0": {
+      "sha256": "50594ea92f4ab39c33d92e4f91f7f4bc9742f56e06421583420f21cdf8fad652",
+      "url": "d9/2e/3cbf8801cf4c3a1c126f9194cb8b2b264466a6be50c7f76b4b2088f55d7e/mypy-boto3-organizations-1.12.44.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "e64b9c31d520fbd4e286638b0a8c979d044ab9454b24a2eddedad502b8173c8e",
@@ -16789,6 +16807,12 @@
     "0.4.0": {
       "sha256": "f1bcbe1b93f619679cb2c2578cdc9fe1ebb12afbbce3e3b7bb57a20038f46aae",
       "url": "1c/5e/78504027f8c0507dce5601412446a0927128e89e459f1881b59bde4c0ffe/nutai-0.4.0.tar.gz"
+    }
+  },
+  "objecttracer": {
+    "1.1.0": {
+      "sha256": "7e4c12e26181f17272eb8a2f7251332a5e3a0ca7ff12cd9da59c73fe8336e947",
+      "url": "a1/f6/c79ea7d041ad0c513af5c7a1aacc53877b79f3e0643407c28388b6de6c36/objecttracer-1.1.0.tar.gz"
     }
   },
   "obs-tools": {
@@ -19065,6 +19089,12 @@
     "0.0.1": {
       "sha256": "4c775a8f44bc5dd9026b10b54bc392f98bb451a33382205e4545cfccd2754b9c",
       "url": "6a/28/fc4e172aa671f263eafa76b1695b5d0b4f5afb5f01a7e083e87dc9ae92a3/project2-101703386-0.0.1.tar.gz"
+    }
+  },
+  "provbook": {
+    "1.0.0": {
+      "sha256": "bc1e2e2f28ef481105f491b11514a77c3ada7de27ea05575d20bef2dec810dda",
+      "url": "59/a7/f093670d14b6ba9920f18dfc22ea2c0daa95b25bc521f7fcc1132544627a/provbook-1.0.0.tar.gz"
     }
   },
   "prueba2": {
