@@ -87,6 +87,10 @@
     "0.1.7": {
       "sha256": "40cc1292df6f76c1460cb14fddf3e6a160f58a6a939021af51cabe913d75a23b",
       "url": "01/b1/ad4db4ac65345aff926fe67a19ae169680e19fd7ddf0d20bcfe9d6e4b535/accountant-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "94adee7bd940c3cf42ad58504a788b5c899f8b52ab8e1c5496115fc4d00735a9",
+      "url": "56/05/a477cffc7768313232856014d6bfa93e43322a225539417c24630c9a424c/accountant-0.1.8.tar.gz"
     }
   },
   "accumulation-tree": {
@@ -5917,6 +5921,10 @@
     "1.0.7": {
       "sha256": "be617c19e52420986b6c7e65b85209ba0ef0785498f06e266baa219638c8f050",
       "url": "59/c4/087ec17ddb8a1eeeae2698a8fd0f2b3f010c78a83945b54e857d494a16cb/ebel_rest-1.0.7.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "caecc0dd3836674693dd3e2a8e44b2650ffdcbce4a1ea96bd53f4322cccaeabd",
+      "url": "78/21/11226f02d7cfa12ad0a22392d8dd25870c32f60db2c0cfa48fdd1b4978cb/ebel_rest-1.0.8.tar.gz"
     }
   },
   "ecological": {
@@ -9256,6 +9264,14 @@
     }
   },
   "hacktools": {
+    "0.10.0": {
+      "sha256": "5d1eca79bf6ed32b46e2e9a01b0c219668f053c27dcd49f282967b5b7755ab9d",
+      "url": "3d/83/7858b95168abb3564d02b901c8b9f479daa55d08c3678b29e633bc83ac91/hacktools-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "2704864903f1b154d91af0fd41d8a9fd83457b7b79a00ac01ce109116f3e28d4",
+      "url": "c8/4b/936420762cfedac85905fb9d90224f9992615777747b68269f661d531781/hacktools-0.10.1.tar.gz"
+    },
     "0.8.0": {
       "sha256": "a1383deb926853908b00cea8a618c6295944124b7091b307e40683ca8ccc2716",
       "url": "33/bc/62e113dc569a7d85a7e2f6aa44f838b4921c220d3c31c602576125f756a1/hacktools-0.8.0.tar.gz"
@@ -10891,6 +10907,10 @@
     "0.0.20": {
       "sha256": "7a38f5de9df1aace0514759620e1709719aa302866781777bd81b69d36bfba24",
       "url": "28/80/9fabf90aaf621eff9fd986a0a316e4c018f715cc76f91581a252e31d6c61/imlib-0.0.20.tar.gz"
+    },
+    "0.0.21": {
+      "sha256": "fa06e93149b0f19e19c90ce45c9cf5a0925d4933c438028df107e90ddd08abd1",
+      "url": "4c/2c/6eef71bc15275150a767c2ae6a028a163ba9b409fdc433b42f366f2159a5/imlib-0.0.21.tar.gz"
     },
     "0.0.3": {
       "sha256": "cc0796b6c601d203a5816fbf14d4532039bc3c6e81d631d3c001e5608bfb56db",

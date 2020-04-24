@@ -481,6 +481,10 @@
     "0.1.1": {
       "sha256": "8b8fd8ca0fb42cc95a6906843376f908e7e8bc7615b05b300961dd58cf0814b4",
       "url": "45/8a/dffe8f447b74473c6c56f8ab6092f2c438da1e11bc60e8c3b7ce2ab45630/aiomirai-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "e7f4817e5f1550a74708cc269252fad7a55a508a85321d532f588e150fee64b6",
+      "url": "2a/e8/bf71555a7dfc781228a0e12359a8dd95659a27ff29d92ecac4860a65f581/aiomirai-0.2.0.tar.gz"
     }
   },
   "aioodbc": {
@@ -12700,6 +12704,10 @@
       "sha256": "f37b5c90e2922b4d2a129690ee11735f94bd714ec13b5ee2ae2317c5a3304735",
       "url": "1a/f8/e91e6fcf59fe0b8e6d1ab29fa3fade613917c8794ffb960b56a76d85c6a9/hypothesis-5.10.3.tar.gz"
     },
+    "5.10.4": {
+      "sha256": "080837935f774765c792b44c9c37d6299776029d05642b5fa29d983c307d861f",
+      "url": "bb/8b/25349d61a1f45c1fb867ea99e0e2b2ab5a46002efb1426ba341263683ae0/hypothesis-5.10.4.tar.gz"
+    },
     "5.2.0": {
       "sha256": "768da57c005b686111c4a69def6938c7f51c26e7998c39fbd979156279f3a106",
       "url": "4f/39/972ae61748429d0a2a5289c88571e0fda50a80e3d36853d8a28d84bf5b2b/hypothesis-5.2.0.tar.gz"
@@ -16469,6 +16477,10 @@
     "0.1.0": {
       "sha256": "93a859039d17d81518750782064187f53becdc98a2a4d7c7d0166ce35042adf0",
       "url": "08/9e/5d02d07a8393690cf08f8f6ed9bcdc5f93bb727106ce8faa6383133d2f60/open-link-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "a3a614e866b3197e1b823803997e91ffa8d1eba6fd831641cc0e91b82b783e69",
+      "url": "7f/ac/f84782d0ee8f7673d76a64a43d007a2aadc04edf757f16a9f89ae0f5e70f/open-link-0.1.1.tar.gz"
     }
   },
   "open3spn2": {
@@ -18609,6 +18621,10 @@
     "1.0.0a5": {
       "sha256": "afac65874baf2030328f43df840cec2b5a17bcdad0a04c55b0f830e444ef1120",
       "url": "b7/70/5c287bd1e7c8c86a318755514e02c6d431335de541c43eef65d0fb5af955/poetry-core-1.0.0a5.tar.gz"
+    },
+    "1.0.0a6": {
+      "sha256": "965869ce488869e473f5afb96e6155724fce9ce8ed2ef71c7e47a900c6159ea8",
+      "url": "7b/c9/f6acb3b355be9cebb7c9e40c5db24f1da6592fe16754de0472c8659cef77/poetry-core-1.0.0a6.tar.gz"
     }
   },
   "poetry-hello-world": {
@@ -20875,6 +20891,10 @@
     "0.6.0": {
       "sha256": "f77da604931ca8d7f01b24432bbeff47d11b55e15719c0913b802cc9c678d893",
       "url": "48/8b/54ed10ab7eba3b346688701877dfb056022b97c99574bcb2181089f37eac/rainy-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "b5235ba3d9308a8f5ca99b764ca41f17aa95cb22051572246610313ccc41096c",
+      "url": "22/81/dda594e1b9f3c3b0f8bef4e064ad6f3187f44f0611fbf52c52d45299ac37/rainy-0.7.0.tar.gz"
     }
   },
   "rapidfire": {
@@ -21935,6 +21955,12 @@
     "0.1.3": {
       "sha256": "958a3085b5539d9d0a38307ac47635e9b8f7ffcb0a0144ce5ed14b906be7a9c6",
       "url": "56/e4/9de1648dcb93d4fabdd599886ad8c9ae897ab1538101983236b40caa7849/scrapyapperyio-0.1.3.tar.gz"
+    }
+  },
+  "screenrecorder": {
+    "1.0": {
+      "sha256": "359b51e73e8785708614feea88d2ee1560e1b1d775b0a5177c06a09e77b3f4b0",
+      "url": "f1/04/7d767c8ce02d0d479d0cf1de650fc793af318d060716269e57969d3a9d0c/ScreenRecorder-1.0.tar.gz"
     }
   },
   "scylla-client": {
@@ -25319,6 +25345,10 @@
     "1587447737": {
       "sha256": "74de6e06124f8f8096515b4b13586c959d93baf3af6f1449954fea48864807bb",
       "url": "a8/fa/fe5047ff96a5672a221e8916358f947dbbefb75b49a2d3f80e8c71d118e2/torchlambda-1587447737.tar.gz"
+    },
+    "1587706841": {
+      "sha256": "cef4d4c19ef8a048364dead3c498f39a2162e2f429adac9861e3a86e4f245456",
+      "url": "3d/71/263c41a618eac95689982347f46032af27d5524c5ed056b0410517109581/torchlambda-1587706841.tar.gz"
     }
   },
   "totem": {

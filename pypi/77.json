@@ -187,6 +187,10 @@
     "0.3.0": {
       "sha256": "740877172692992d27ee0ef17265d9a3527ebf5bfafffdf4d2987d3d5430556f",
       "url": "90/00/0245a2c5aa346c522df8c54f17951541e1ce669444d04a227fe71c9ca2fb/activejson-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "d9c04393c5e4d219e4a6c730a51e134933022cb9d984f443c5ea753ac66c815e",
+      "url": "67/6e/bf55cbfdfb313e766e2d50c78978ce9e371f649bc10b48f87963ef9158f3/activejson-0.4.0.tar.gz"
     }
   },
   "adafruit-circuitpython-pn532": {
@@ -22717,6 +22721,16 @@
       "url": "4c/2f/af3190969ad3ba7d74cf48bca1b64647f24aecf9132c18e59b913ed4b562/ScreenAmbience-1.0.6.tar.gz"
     }
   },
+  "sdc-helpers": {
+    "0.3": {
+      "sha256": "080983308864ad0afafbb113e0bd46a41e47889026f4a813e1e8fe79f4b750ba",
+      "url": "87/e3/c16000552817397e3210d47919230d791273b89f71228f9ac1eb3678ca4a/sdc-helpers-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "2c461eaf95a48b0fc603a6a834e5d543d9a0508164c4a6a72a33136d04b4e04f",
+      "url": "a7/1e/3516a9066e55c54da09fdd19213a54fd25edfd47c86dd932a8fdd9fcacb1/sdc-helpers-0.4.tar.gz"
+    }
+  },
   "sdog": {
     "0.0": {
       "sha256": "32bfb7ce8d8c244abe791bc70381b6b8802f327ac28494b776221502167245ca",
@@ -24475,6 +24489,20 @@
     "1.0.9": {
       "sha256": "6401d4ec1c4211298f2685130e927cfa77c5b3d724922d19cef7e79d640038a2",
       "url": "a2/4b/b79b3c53393afd3110e7a32d3dcf3dd12dfcd5444ada44cdd05760a0ff66/tangos-1.0.9.tar.gz"
+    }
+  },
+  "tapdance": {
+    "0.1.0.4": {
+      "sha256": "94fbd134e8b8cce3b57258a6fd026126a7fef85f2627d7143c34e5e52c87acfe",
+      "url": "6c/b9/b64f3303c2784c2a238952475420bd2fdb644a7c6778cd6225c2719f3b97/tapdance-0.1.0.4.tar.gz"
+    },
+    "0.1.0.5": {
+      "sha256": "9340b0f5fb83a007be1c2af647569f443f93a567213eb215dad519fd979d5070",
+      "url": "7d/f2/d73100051333615b98e8391208ef37ec65a645a46b3c694a9f5335a5671f/tapdance-0.1.0.5.tar.gz"
+    },
+    "0.1.0.6": {
+      "sha256": "9c8eac731aa6255e3dfd4e4ecd41dce2f947d6be2051ecaa6538522c0dcda8a6",
+      "url": "b6/32/f99bfdbb3afe49346f404b10181ccfd617577c42dededaa67823a9ed319d/tapdance-0.1.0.6.tar.gz"
     }
   },
   "tcpping": {

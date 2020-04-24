@@ -22667,6 +22667,18 @@
     "0.1.7": {
       "sha256": "05640f69200872a3dec51bfe20ac7595b26b968b9fbcbbf778ea494046933cfd",
       "url": "f8/5c/f20ea4e56a7b9d2d406f11ff80514c6309a780b50bccade9bf933e07dc5c/tfduck-bsd-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "05c7365b291542279b9ae730101b2c33a5a528090478ae29c6f7607bc070b057",
+      "url": "01/0d/a525fdff7dc43c7171383553f714bf7c6e229e1ee7fe4bd2910cdd6713fd/tfduck-bsd-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "9c70a2311c8550d95c924e88012ee664b76a68946fed7e3a48071983bd887942",
+      "url": "81/f1/598cfbb995f9dbabd472576490083df08eb57019eeb118c67194bec2d579/tfduck-bsd-0.1.9.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "d16902135a9a8dec8535947859cf51d976b018729864173f31d085a1a246223b",
+      "url": "3d/4d/7928b7d1ca9896563a85186bfab478665432490638ea4c429c97aea7dd62/tfduck-bsd-0.2.0.tar.gz"
     }
   },
   "tgintegration": {

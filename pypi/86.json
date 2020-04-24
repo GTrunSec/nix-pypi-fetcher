@@ -1297,6 +1297,10 @@
     "0.1.4.6.post2": {
       "sha256": "9d749f2c73b6f109f152b31fa4a893addbff6b960ae3dc7d8a80b57c12c6b4fa",
       "url": "8d/a8/261ac0f2a7072f734eb5a36d09d782f6667dde2eb206ab7184377985a560/bbrc-bx-0.1.4.6.post2.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "e9cd8011e9f0c6b252018854d1b101b22ffbbbf52b41a7156174a0ddbe6a1c27",
+      "url": "0f/7b/13b1597397b9d207792cbfd12483c8c3ceb915c69d6daef61d0b7e61a12f/bbrc-bx-0.1.5.tar.gz"
     }
   },
   "bc-first-pypi-pkg": {
@@ -11227,6 +11231,112 @@
       "url": "64/32/8bf568531342f7693e923a23b41861049a2d8cef59553d2b3b914405a3be/ip6words-1.1.5.zip"
     }
   },
+  "irctokens": {
+    "0.1.0": {
+      "sha256": "46b45984934f6770ea8906cb8f7ab36bea9aa7eca5f507a661a1c00240bfc7c6",
+      "url": "f8/97/6aaeba5e23ae265b422de2e04657c0a53845caf6c5e425a3c9fb0a761f13/irctokens-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "50e3dc3c61eca7c81b36412eb2ed3f984e3df6f8611ab2781b9955a36db3215c",
+      "url": "da/5e/1982d406859b38147ad25b218f0ce51938c8bc1e739eb7faf05a5c87ead0/irctokens-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "81e8dc300fee4a460f9c3e48f606cb67a1b841d936722e660fe119d9582163c4",
+      "url": "d3/e8/644d30358b461b902d9b478fff3f642c357ef0d667434f9432ab9cc9ef2e/irctokens-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "bca3778f4d3ba9ac3a690072712a1b7a72a86cd1132f7c7193d4d5e8a940dcda",
+      "url": "76/e6/6031127524745411448e628dd082bcb55660428d8087710b406ae51608eb/irctokens-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "33456bda65af7063f930e2e662f3eacf80411e18a417cd58af32bfe500634d9f",
+      "url": "ed/e2/2cb3748abb49d7f82da25aa229e685c0deda7bf2676b5e4115e84d4843d2/irctokens-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "66a5de0846575bd36c35e53e9fb62c4e602dcbdfe2467b01dbfb18bf29e5d643",
+      "url": "81/05/02f5e9119221adbaf3aa368dc5096e88294367f13145660d5b8781637d6b/irctokens-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "c56db3b68d8dc4b26650771bfd2c23093a77a95c5941526bbaed5cc034584a55",
+      "url": "44/47/60c9674c8be11cfff71fcb117054636ea120da6de14bfb4e9725d3ec68a6/irctokens-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "bc57eb9e889f0b6e0946d4b689030fa1fed7ee3886feed33aaa04b611cfbebd8",
+      "url": "98/78/262ffebcb1b45fb7f7f5fc3ba6df9c2f37e24706f5aa80f00fb5fb5bba43/irctokens-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "007485f6cd3055b5208f906bba41ae45626690d107d449661de8a27946e1ec4f",
+      "url": "3c/e3/fb0ab930481e47e86e38a208da2d02104bffbab0dc8245d2355434c965a2/irctokens-0.4.3.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "15b2fd970d774a30d59b9997d55f3ee16ff7cf4a2727ee824e4301a2e370c287",
+      "url": "8a/85/eae659ad03ec0cbb0fa9914c006cc74626f1bab19cab7696ea3bba64f704/irctokens-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "0f0c907d476518883429d04c7421e5e2b9b22e62227baa2b072f1b329080cf9a",
+      "url": "7e/65/663046dee8e894299808e02814d84ebaee22e655becea7eec85b165016d3/irctokens-0.5.1.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "f6976bfba4cb47c6985ca2bd53a69b5ef19d29922d91d73064a6ce2fa6d1ec1c",
+      "url": "27/8d/1298d50c6ec6dafd81314d0874f961848157950da217721015d6cf1d1c18/irctokens-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "4595ba7d1a2b212b9ec0f80e670ba89c47a31a11325d654dcaa265174dc26140",
+      "url": "9a/66/8522c85d290f31f819d764daa84a2903c79eb08c002eb0122ecb8aa93547/irctokens-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "c5ba2a719b4eb3dac2341844de6b90de470f5ddce3c135b28857710c67bdae0b",
+      "url": "4b/12/adcda53e9eb71028d70a74cc7b622795a9feb25c63e6e6cfbf19b528d946/irctokens-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "3d35e2da95bb23f29c2b75278c928ad8bd76b348fca37c0b9849e199f055c0e9",
+      "url": "38/33/6270dc87c2e8dc72b909fb340ad76699909dc51b3bc1baad1d7d1c59d7b9/irctokens-0.6.3.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "63ffb736c1968369bbb2d516881a85e3ff788522b51d96fbe9597f704960377f",
+      "url": "b0/f1/75b298048926d2c278a60428580745cf5879893b8ab8e13d406339013503/irctokens-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "c7a8783a631d6e8806bae07f54aa29fabbf732ae68dc069e8259fcfa69e2e697",
+      "url": "2f/69/308eba3e46571bd8792e9351bc69ddceb0c5005c3aa19df4738acc876804/irctokens-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "634dc825a9a5d84ac74a3da96e6d03adbc0d668f7515e29670a5c798e02e1749",
+      "url": "ba/5f/e60cf9e2a3b28e012c9f421e090f86d5a3580f9e9ef403d18b7ac9179811/irctokens-0.7.2.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "2c117bb960072550c1a04456595c639831d9b124d5c5cae2f49a67083a72b828",
+      "url": "53/46/6cd2e6a149d316f5175e8cac20c68d74fa81fb1bdbc0a714e6a2a9f77758/irctokens-0.8.0.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "17fc5c8d652ce925e3580fea2ee572bef81dbbce5985036706cc6890ac46b0ce",
+      "url": "29/3e/200e495986d6136b1724e644790fd9ca964dbeed2b083cb879e1b3af2f03/irctokens-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "83b2aa10b71e616a01f2f21f6cd463b37f68fdaae3313d57ad522b3accc3ef86",
+      "url": "a6/ad/481f5a02eda38582048db3f4e42a9f702ffc346221a98bc4adb5709cb84c/irctokens-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "f9a603b352b0c064797220571adef4d8af97a5bd7568e63071e509141cf93e8f",
+      "url": "65/7b/fce69f89df76fe9ab4cc98bbe7a57b8b0dc1689e893a23c8ef8e2badca44/irctokens-0.9.2.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "f452989eab651cc24d6458584b002a64153b2fc150ab229ffeaf86e21fcb59f5",
+      "url": "5a/c5/21f5e5c3b5866b36f41c425701ec2986d76f1741ecbc38e3e1455047af26/irctokens-0.9.3.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "3fc006038f514b04b96c664fac233786b26513983be5f52465b8eafb935a9619",
+      "url": "72/94/c9f44a268cecae71e2b44de5b950de3fc9b4f813993810a17a69da2e2a3e/irctokens-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "ab394891e47aedd6195be1279db67c219098f25ec561e1654e287c04359b2a1e",
+      "url": "a0/8a/909f41f5192113fd853e2776bac2294890c565fa159087fef737e213c5f4/irctokens-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "82c5d793d3de8cdd3d2c9a87eece89adb230fff54993e4bf8ac97426ea16f988",
+      "url": "54/a1/989becbb3766c36dcc4c671bba120be5879cf775eb71f933287fc4620705/irctokens-0.9.6.tar.gz"
+    }
+  },
   "ironic-oneviewd": {
     "0.0.1": {
       "sha256": "16bd0b08bc1b9947987826c188720820f90b21ebcb606f9649e6a6994d45cefa",
@@ -15947,6 +16057,10 @@
     "0.9": {
       "sha256": "c545d31268df3e20407891c3a757e5dccab230d1f93bf6b710afc3bbcd3909cd",
       "url": "d2/0f/c92ecf37b809388c44d730461c60ffa0b57cffc77a195de8c4127c2913f6/onelab-0.9.tar.gz"
+    },
+    "1.0": {
+      "sha256": "ef0802882b8ebd477c62de04046900d15027ad565582626003b5d55a6fda87f9",
+      "url": "ea/a8/a3c97b3788c2491a9e1145311f20dc95b148871ca80dafde23c0b3bca1fb/onelab-1.0.tar.gz"
     }
   },
   "openerp-portal-stock": {
@@ -15967,6 +16081,104 @@
     "7.0.406": {
       "sha256": "26d11a58b6ded0e5cf46f43020d8500123202fe429de8d21f8069a653255eda3",
       "url": "a6/79/2767cd2af510e50d1216344d283734b9a62b4986a64afc2b3c74dbf371be/openerp-web-api-7.0.406.tar.gz"
+    }
+  },
+  "openqa-review": {
+    "1.10.0": {
+      "sha256": "31fc48573f3b3c049d41c3234b8f372539a061f7a3f7b3963b24443629d1c423",
+      "url": "c4/2a/8fbc4853d80daa1ce456fb48ad3005d4d903b9abdc57c7b986365c53a52b/openqa_review-1.10.0.tar.gz"
+    },
+    "1.10.1": {
+      "sha256": "d29921bf201dd2f39212bc41140994f26a76569c11f20ea8186078b05413b711",
+      "url": "44/04/8562ceb0dba916df34b94794ba400742d7d76df73b573f91d0f1fda0ba1c/openqa_review-1.10.1.tar.gz"
+    },
+    "1.11.0": {
+      "sha256": "29e27016a2bcd9a5da6e2a4746d67a82c6727a9c74280ae8a0ac2312cb700727",
+      "url": "f8/c3/0e187165606c1ab5292fe8ce9914ed4e66163c09d7090ae3c072cfd4f9b4/openqa_review-1.11.0.tar.gz"
+    },
+    "1.13.0": {
+      "sha256": "a0ca13021f798cd83616267c84a5314c78c68a7b5392133a8800a68b2e6d8ac7",
+      "url": "ee/48/83df0a834915bbd369c463b43962bb905e2dee0932f39f7ec38d0b73c81b/openqa_review-1.13.0.tar.gz"
+    },
+    "1.13.1": {
+      "sha256": "90b53faf643dbfa873744d2ff722f62092c042694ae97cb5bcd99d39839dfb56",
+      "url": "f9/6f/0a640ed4b221e8e56ee4725a25f91ba8ebe7a27cc513b30add0bd2c96239/openqa_review-1.13.1.tar.gz"
+    },
+    "1.13.2": {
+      "sha256": "3633762d5835169a794e3b33ffcd072b342a04deddf47493aaaceeef948f6bbe",
+      "url": "47/37/b96d979ac6a7bb59e8d5d04fb10b3d4d5e80fc681f878d9688d369103d11/openqa_review-1.13.2.tar.gz"
+    },
+    "1.14.1": {
+      "sha256": "01c2fad541c22b642e78255dbef9623a4f6a22f743cea821fe8a41b297825a50",
+      "url": "0c/f4/c24dff48c777823c39f72b4fcdad3a7156246d90ecf22f2c6f628ef2ead6/openqa_review-1.14.1.tar.gz"
+    },
+    "1.15.0": {
+      "sha256": "f351f7cc1ef88941c43c6ebed8f845ddf96edfb7c3ce195ea3372299a7b7656f",
+      "url": "04/36/0669b0b8ed4724ca7a8b30aa2e9c9a05a5d737cb35050034bfa3d0ab23b0/openqa_review-1.15.0.tar.gz"
+    },
+    "1.16.0": {
+      "sha256": "cc82e536ccc95f30072c2f88237eab04023f5747a2ab9ff6a6db7a34dccc7c24",
+      "url": "59/73/1ddc33b3848d9dab62f11929d1d74ea7c56dc491bffc656747a3bc29a159/openqa_review-1.16.0.tar.gz"
+    },
+    "1.17.0": {
+      "sha256": "6b9baa61aa38ee450f4ee20917f8f1cb3527b818f43db3efd2883e14cdcfddb8",
+      "url": "9c/40/9053a608ac3941983c592c62b7c1469f68631c17eb9dcd5a73c11a0f535d/openqa_review-1.17.0.tar.gz"
+    },
+    "1.18.0": {
+      "sha256": "254ddd1bb7dbd93229afd53316c6235cc8cc7098dbe83392ddad6b0d7af55b8f",
+      "url": "8d/7e/5244fa8eaec23021a869c419510014712af5bdc2c3a0804ba9dd5dda2995/openqa_review-1.18.0.tar.gz"
+    },
+    "1.6.7": {
+      "sha256": "14bff6ee05efae9031143ff1fcc2dbdcaf5cfbd55eeb8e3e57eab188ca597339",
+      "url": "13/82/720bc4ea8c12360b1e988409315c6ded380c41910481dcddc8ee970ad0ab/openqa_review-1.6.7.tar.gz"
+    },
+    "1.6.8": {
+      "sha256": "9f6ee464f1de81a0ec73223939e1f2f52297ab0f686887980cf362cfbf2240bf",
+      "url": "c4/3f/e63670d4d193336ba6ff927407a8fc3644c78c924c4f5e8c7959289dbbb6/openqa_review-1.6.8.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "eac9aca3112cfd4f5cf3e7f823a9a175e5f3912e11590fba96548042802004e9",
+      "url": "f4/85/88fa94fe83160b54a76e305c4c724e6ac7261b783297b6a8375e9f474652/openqa_review-1.7.0.tar.gz"
+    },
+    "1.7.1": {
+      "sha256": "5e6d9d53074e20c61b0cb2435281abd365677b80057f12a47797c00c10750daa",
+      "url": "3f/1d/bc22dc4220dd2c9f1b82a4f0579b12b3670085b2c7b3aca0d07960c34fcb/openqa_review-1.7.1.tar.gz"
+    },
+    "1.7.2": {
+      "sha256": "782afa13f887ece619464f3b330a7160b5347e2aecfd4c821098c64ee72761cd",
+      "url": "59/ab/09b91dd1f0cad146c19304ddee6c44c6e1fdc3cefcf3b294bf2ea8829d78/openqa_review-1.7.2.tar.gz"
+    },
+    "1.7.3": {
+      "sha256": "5542a87d8f0d07b1e1dde23164573809eb4c945f9096d5828e73f32062d53641",
+      "url": "68/e6/40f19e138d36aaf5aa7afdd9c4c5a8cdc9b6ef763bdd5c925b4c961d9000/openqa_review-1.7.3.tar.gz"
+    },
+    "1.7.4": {
+      "sha256": "5c3cc20ce99180dc716a2c16b7c5b03a66cc5308c281c30fc055e260e2bfb3ac",
+      "url": "48/e6/2dd7df9b3c7e91e8b1a721f151b9dc3f55d887d5ccedb08a2419fb30ac40/openqa_review-1.7.4.tar.gz"
+    },
+    "1.7.5": {
+      "sha256": "ab82adfec1ba161c4d208d06ed0221ce4a845eaedadf642af070daed449323a1",
+      "url": "69/29/67a49cd550dd76db0ea269ec0a0d31723ec19f994e80a92a47314610e377/openqa_review-1.7.5.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "a65bc23185ee82cbd2bb0f5b16331b54a742eef8e5aaff5bb8d81fae6ff12e0c",
+      "url": "19/1f/c4422831c31caaa31f1f0a7efb524df1f6f5394d76002224356ce4e73793/openqa_review-1.8.0.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "f97aa9b9ebaac743beaeb5e61311db89e763a907ba0a193f87233aad9c124ca2",
+      "url": "18/94/966854d46c16bd6e764113f7f7a5ae94af955e21c5d7f3cdb35851a7b4dc/openqa_review-1.8.1.tar.gz"
+    },
+    "1.8.2": {
+      "sha256": "ee90b8d00ea5d4ede853ade61d6b1c96a4a89d01d00dd03b01f3dae2466ae861",
+      "url": "30/d3/0819bf5f53f32d5c8982dae1c22c1647e49e42b957b7cf00d7db4d671cbf/openqa_review-1.8.2.tar.gz"
+    },
+    "1.8.3": {
+      "sha256": "78016ac6ba4b259f45b3bc171a0e01b6cca4cc3c346b49024ea9d4be93b861b6",
+      "url": "d5/69/30a546e4d0649600be5f975cfadf38bbe6a6a18f6ecdd94efaf14d2b799b/openqa_review-1.8.3.tar.gz"
+    },
+    "1.9.0": {
+      "sha256": "7e79073fb32114d08981f0cab3e5a4a42b72cddd02574d6bda3762f49c3c3619",
+      "url": "da/00/76338eee2c96b22e12ea45abbb5f70d7b1d852b4a7216bd0996d81dc7068/openqa_review-1.9.0.tar.gz"
     }
   },
   "opensrs": {
@@ -25451,6 +25663,10 @@
     "1.0.2": {
       "sha256": "77e8d8c0c93c957a36ac38d95700cacccf259d5c6f7e19379598c1548db6e954",
       "url": "76/1d/e7fca18e8a80aafa2535a1c845f4304170bd87d166f305852143b4cb4e35/toma-1.0.2.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "d4b7d04d3c8a5b4ce4fee30a92282e29e95f4b641db20d1c6f458d13e8793b7a",
+      "url": "4f/d1/74aad779150b03b6237de39f9d7a0e48d6a1ef2ff59d7501f683a8aa5a8a/toma-1.1.0.tar.gz"
     }
   },
   "torcms": {

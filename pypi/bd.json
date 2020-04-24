@@ -18519,6 +18519,16 @@
       "url": "30/65/1e641f90d932df6f598823d2f914085647573bbaee40df75cc6531229eea/pyfwf-0.1.4.tar.gz"
     }
   },
+  "pygaopt": {
+    "1.0.0": {
+      "sha256": "5bb0ecb7aea15362f27244b151cbfb6aea9f1e658de475e95423b09ab3403711",
+      "url": "f8/f9/10f9e0f9fbe79b955a9c5287719be768e39f513526314ad1883fd522b514/PyGAopt-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "8f575bfbeb67cfe82e2b97d70fa7abe19d9d66e0b155ed66bb84ed6699ebba77",
+      "url": "e0/d2/970a368b4285bdacceba09c967e68b98a7ca47a1d9703d87efb61ef47878/PyGAopt-1.0.1.tar.gz"
+    }
+  },
   "pygeode": {
     "1.3.0": {
       "sha256": "c9ba4e40eba85986fdd4d4b44292d8dd701971ac719a7106baeb0d3c2021dc09",
@@ -21897,12 +21907,6 @@
     "0.811": {
       "sha256": "e485f5a84942b6fcb4723a8c2c68f39eec976393059e896f50704f4bded1e0da",
       "url": "26/63/46aa83801ab7209cf9b3b74575f172d5b5ca3a6a700cf9eacc5e35c88c20/simple_rl-0.811.tar.gz"
-    }
-  },
-  "simpleshark": {
-    "0.0.2": {
-      "sha256": "75722ae03c1021d9faac70aeca10e624ae09dd4b0b59bb66b5a4905c6f9270ea",
-      "url": "2c/16/e601fbd0ccf17869339ea780b779d3566d8959c35ce48f4bc46be1201799/simpleshark-0.0.2.tar.gz"
     }
   },
   "simplesteem": {

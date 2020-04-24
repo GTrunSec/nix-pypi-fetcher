@@ -3821,6 +3821,14 @@
     "0.7.7rc0": {
       "sha256": "edcb021571c20f6c6ac1b990c9607b15d1b79f81a8c548b5627bbf477781cc0d",
       "url": "b0/a4/cc09d2cb503f1a822ded840e3920a993f37c0856eda58d3fbb21aea1447e/dagster-bash-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "febe8bbfbe339b1f7fc373f290931a8bf3920bf8b457634d6a4687fd1480416b",
+      "url": "35/77/6d520eb43550f2b4b9d870dfc066479101c2db9d1b4c4f525296059399e2/dagster-bash-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "fbc479bc255a63e63553d5c727b60c376daa26f79bfd2e7176061a1cd17641d8",
+      "url": "18/43/60a2429e0723b7ced175c5249e3fcaf07d2180b974dde27f0460dfcad81d/dagster-bash-0.7.8rc0.tar.gz"
     }
   },
   "dash-admin": {
@@ -21691,6 +21699,10 @@
     "3.0.15": {
       "sha256": "b07ed56791bcef379c7838d0ebb73e7ec77236a01359437bc0c373df87364caf",
       "url": "ea/e0/8b437aa9253c0ff50d6619f84d98fc79eff58675bb2757c13271f0729541/PyFunceble-dev-3.0.15.tar.gz"
+    },
+    "3.0.16": {
+      "sha256": "79c01d5c4b1eb4040c2dbbf16386ca7a9b66c37bb381ceaefc6150b92d86a08c",
+      "url": "f7/b2/d2d383fc9dd5cd59bc922939d58a1b85f6ab3c6092d5b3f68625739aebb6/PyFunceble-dev-3.0.16.tar.gz"
     },
     "3.0.2": {
       "sha256": "2544f7b94255f7b81c8830ca5974938afad01f5cd561fa8ec42e5b572141642b",

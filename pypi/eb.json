@@ -11185,6 +11185,10 @@
     "1.614.0": {
       "sha256": "2cce2ad4e9cab7e92d9f7977f65a30f644cc8e7065c7bb120e30647ae12dfe1f",
       "url": "28/e5/eca2ee8fc5934cfc5cf1f95a46a957294cc227c217722610a33c166ddb04/gardener-cicd-whd-1.614.0.tar.gz"
+    },
+    "1.615.0": {
+      "sha256": "706308bc2fc772f613bcdb87a3ec873f3ff444eeafa8e9cbf8ef09b7917283df",
+      "url": "eb/96/2e90ffc826922a6e52b86d6b095286110ab06f8ef04eea47249a85fb6ec1/gardener-cicd-whd-1.615.0.tar.gz"
     }
   },
   "gateway-acl": {
@@ -12145,6 +12149,10 @@
     "0.2.3": {
       "sha256": "df450eadfc9541086921bf863a5842e7009faef472b08630fd2cab13cdcfe0e6",
       "url": "93/85/7d2f72a84dbcd7babcac313073cf6b2fdd78b6bacb296c0c7dacd1bb021a/hyperopt-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "6e72089a42eb70cf84b0567d4552a908adff7cfc5cf6b1c38add41adc775d9c6",
+      "url": "b0/69/ee6a5596e925778e5aaaaf2eda3c07ac362aaad43ff66a75bef02b9f6bf6/hyperopt-0.2.4.tar.gz"
     }
   },
   "hypster": {

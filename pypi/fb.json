@@ -12453,6 +12453,10 @@
     "0.8.0": {
       "sha256": "2d32501d979e1f84e29a63c98c66b3144150aef7d4759c40967c9bf5a3419899",
       "url": "d2/a7/f1f93cfafb2b77274ec33b99a2b04061d2d248dbf78fbe0e92f6592ca47f/iuliia-0.8.0.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "8d225c4177bf91e3612bfdc0b268becf60da25cd3c5efbbbbe76ace88f5901ea",
+      "url": "31/21/fc94fe939dde3db6deeed96eaf9e2bd04d9c3b340768cfb68c109ca7bf0f/iuliia-0.9.0.tar.gz"
     }
   },
   "janetlist": {
@@ -16609,6 +16613,10 @@
     "0.0.132": {
       "sha256": "71b2cd0bce7b4da79436db81ece8d101433f279e22c571705bdc016650fdd08d",
       "url": "19/88/728e059f444df4cb14b8e3d99692329f616d51cd3a8e4de083b117300321/nozomi-0.0.132.tar.gz"
+    },
+    "0.0.133": {
+      "sha256": "58923615db0a3e84731580533a02c311fef6a756bbbdb9a0925fd4444a2c120f",
+      "url": "6f/48/521d2dbfa6c367eb135c82ea2ec9e118fc4e1102454112f6604dedfddf5a/nozomi-0.0.133.tar.gz"
     },
     "0.0.14": {
       "sha256": "1eb576674ee34a482ed60d54b569d47c5f18c39cc01a3bf2259fb58d369c4480",

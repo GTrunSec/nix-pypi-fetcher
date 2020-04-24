@@ -9481,6 +9481,10 @@
     "0.1.5.3": {
       "sha256": "c80d7c120f0d1de5cc2afe046acca9dce988f6177444807685ded9ece4364b49",
       "url": "fe/31/b55775fdf9ccdeb624d4c7df3cc427bd239169910814b0373e4a41203b33/GeodisTK-0.1.5.3.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "7ff92180e2f53df70c47e6d7ffd07e51c28cf4e730b2a5012d552d18056be4dd",
+      "url": "75/1a/8c69c595ba9205afd321a02df7e4f99efb5f53881f5a38a66e25d4f21b2c/GeodisTK-0.1.6.tar.gz"
     }
   },
   "geopython": {
@@ -26491,6 +26495,10 @@
     "0.0.1": {
       "sha256": "593431e83993a7329cfe61a56691027f09337f39c3d79fae8bc92e684175932c",
       "url": "c6/25/f9a9c4a33e34e94cc329f4c50c3d0212e64b2dbbbef948c03b6b61aa4508/wikt-cli-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "1854908bbd29d9ca02395e8d13034a42289a4dfcd97eea0e04f41f0386a45283",
+      "url": "49/7b/0114940fd3e2bed333b5500c3c00a6a70cdc0eb3af95a5fe981679fb4ffd/wikt-cli-0.0.2.tar.gz"
     }
   },
   "winpcapy": {
@@ -26717,6 +26725,10 @@
     "1.0.0": {
       "sha256": "6ebbc79c78e547fcaca9715f8a4111a490e66b13661cdd5a10bbeace03ab63c0",
       "url": "98/da/9158647c8c54fb0c58cda8362a0f7fda3242f1f70700325347e353ccd00b/youandme-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "99cd1b48ffb9bb53554f388998733256f92a32651e2ddf41af34f13f987b8642",
+      "url": "00/f2/42ec57b957de0bda6d7bb213ed1dd2bde0afe20a418a577191d68b8cf74f/youandme-1.1.0.tar.gz"
     }
   },
   "yoyo-indexima": {

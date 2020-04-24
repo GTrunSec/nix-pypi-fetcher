@@ -2212,6 +2212,10 @@
       "sha256": "ca05bf29c1adaee742bc92607966b9910f49fdab94c4abc7ed18e5bb5f1f63e2",
       "url": "cd/91/da97174f221b0a7e2728dbd4852bf9e595ee693b348aaa6834707961d9fc/camphr-0.5.21.tar.gz"
     },
+    "0.5.22": {
+      "sha256": "4106abd8d7aa9127c6bc3b163bff1cc7031bab91f7491da40894a4b7fac2b24b",
+      "url": "ce/33/cacb81df64fd0421f6a6705a6bdd53a33ed5631b8d8bad4c7c8d1447c241/camphr-0.5.22.tar.gz"
+    },
     "0.5.3": {
       "sha256": "a90813c33180a86b57ade29fd83f21081f9110a7aedb54f67328645f82428a3f",
       "url": "83/e3/35ea06eb76a68222656e0d852ff4698b5fd3cf17314f408232537a00addd/camphr-0.5.3.tar.gz"
@@ -4593,6 +4597,10 @@
     "0.0.8": {
       "sha256": "f549999661f27aa2c425b000d9e573a535f2062cc73f4b3886b222f466bdf831",
       "url": "c9/bc/958458b169125587da4ab62e7c4cb0d8a371b4d7a94801dc3a3d521d562e/dblue-mlwatch-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "dccb2052e2d4c2112925ea9a08be34db66d9d043e1788dfdd07f3dc3a1c5b966",
+      "url": "08/a1/39c6c535789ee2040b3e9f0f1697466b8e5c8115337bfca49ca57824f5b0/dblue-mlwatch-0.0.9.tar.gz"
     }
   },
   "debfolder": {
@@ -24083,6 +24091,10 @@
     "0.5.3": {
       "sha256": "e4019469076e53f1c26831a4233618235064d476bfd72858dd25d59770959bad",
       "url": "5d/9f/6e7b5d6693847ec9278ed7f4f0aa21f5dbb76170df4d183eedb8449a0904/sphinxcontrib-needs-0.5.3.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "0ae3d4c0686ec28b3a39587d7b9b7f921de690c98bbfc18a8c47edb07a0bf4e6",
+      "url": "1a/9e/231875c7e7b72a2cec89d53a6ad481a317ba5d85a76fc8a212cd34c1340d/sphinxcontrib-needs-0.5.4.tar.gz"
     }
   },
   "spikingflow": {

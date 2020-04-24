@@ -773,6 +773,12 @@
       "url": "bd/d7/cac25809f1bec33cb3c4a76b6f9c9f3a8ad03598f1768f0ec9c888c21e88/astroimtools-0.2.tar.gz"
     }
   },
+  "audit-ai": {
+    "0.0.6": {
+      "sha256": "1b3ed9e77cf98f3cd1e502bdc5b439d1705b9af2f29f7cb3f93a90969de303e1",
+      "url": "e6/fc/f18a11a0194620d88a42dc0076c753ab8f404bbb0423044b8a6685c7430d/audit-AI-0.0.6.tar.gz"
+    }
+  },
   "av1an": {
     "1.7.0": {
       "sha256": "89bd86a79db66ba04a490260e34f7e0a9f5ebc889c575d2b77fe03dde0e221e8",

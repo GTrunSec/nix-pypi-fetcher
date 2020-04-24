@@ -1055,6 +1055,12 @@
       "url": "c9/5b/d5b99e0d3c60ac5b8422467dadae35479dc2b11b302c3c01b547ccbdf0f7/aliyun-python-sdk-uis-inner-1.0.0.tar.gz"
     }
   },
+  "aliyun-python-sdk-waf-openapi": {
+    "1.0.0": {
+      "sha256": "42aedfbf61b227d3f73b932b8926c171ccd2386848d7b2e8abf8c7a09a129d6b",
+      "url": "00/8b/c8b8375f156169d234d4f6dcdde5e816f14c9dfa88c3f89a56363f07b616/aliyun-python-sdk-waf-openapi-1.0.0.tar.gz"
+    }
+  },
   "allesfitter": {
     "0.8.0": {
       "sha256": "d1111badf0458906af914acee7d2632b03063d48c3ba251fb743689311c37877",
@@ -4511,6 +4517,14 @@
     "0.7.7rc0": {
       "sha256": "a54498c257043ca5a69eb242b1ae99735f183bdab36bf02056c51bbce3001ceb",
       "url": "be/c6/0a19cd59b18f5a4663b898a8d142ef170cb459cbdc3c35597588628e4fde/dagster-github-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "0b1733170dbfbe6d23710629f3e81c406c3c56258aea4e75e71024dc685cf7d3",
+      "url": "84/d4/4bbe12b1cc3fa58e660dffb28d5cdce7c4a8c675e56eed3312b4b92073d2/dagster-github-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "9642a40b6fe41c4bc9a88f8e053fdcf28fa8c9f3c080271a869e500fd7259118",
+      "url": "11/de/03c78812a2b55f2c7314d346b0e9417717f792177112a42d86f980ea7169/dagster-github-0.7.8rc0.tar.gz"
     }
   },
   "daisychain": {
@@ -6701,6 +6715,16 @@
     "0.1.1": {
       "sha256": "4a2c1c435fb1cc1cff958bea61ffb59aa25e14393d728aa55a394ea82bc970eb",
       "url": "8d/c7/fc4bd049e12da8889c35df1b1f46ba25ca37195236701345a2f71e2ae98c/dpyi-0.1.1.tar.gz"
+    }
+  },
+  "draftquality": {
+    "0.0.1": {
+      "sha256": "a8382de562394cc24ef405c347ce97e52c8a6b6cbb7bec137cbd938454430315",
+      "url": "34/50/f477141e79964194f353e88ee58eee821f33cbece9fa6e9e39cab7ee756b/draftquality-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "47063b1f2cc6f488a57b1d44ebb78ce5ab129c4e02822ee30fdcd109c5ce2871",
+      "url": "5a/a3/b34991dfbdaedbad92230d6668d2774ff1611efff42732a40d2d6d6c0726/draftquality-0.0.2.tar.gz"
     }
   },
   "dragongrad": {

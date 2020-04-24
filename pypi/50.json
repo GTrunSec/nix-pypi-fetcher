@@ -14907,6 +14907,12 @@
       "url": "5e/11/cafd4f19030d0207dce36c7482f1d35749c4bba48f6240602a930d1717ff/pcu_nlp-1.2.tar.gz"
     }
   },
+  "pdesolverbydeeplearning": {
+    "2.1.2": {
+      "sha256": "0f976c244953212e9170714f53b74d7699a73d8e6195838da87e770e65cda2f6",
+      "url": "57/5c/2c7f07ec448f3d309877b7bc63b7cd05829aa1d871fa17ab34e8f8abf627/PDESolverByDeepLearning-2.1.2.tar.gz"
+    }
+  },
   "pdfconduit-api": {
     "0.1.1": {
       "sha256": "d22745cc6172fc33feb9d7eb326bdd6d905c6a8fcff4bc60f488bb8139c06a86",

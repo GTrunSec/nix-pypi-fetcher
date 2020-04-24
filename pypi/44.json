@@ -2173,6 +2173,14 @@
     "2.9.1": {
       "sha256": "bdcbc50c0d8cacf03daa569bddf1706c96305e301d72a6f7c0cfb827b6518b9b",
       "url": "e9/60/fc5b161f488920c3e0f134cdb9810aa97cc3a272bacfd921a5680f7da5b1/biorefineries-2.9.1.tar.gz"
+    },
+    "2.9.2": {
+      "sha256": "3a80bf14e301100b7c453f09830d3caf935b2fbf91489a10b424f4248fd5219a",
+      "url": "52/7d/b442d37b8d4e97b3bbd72c300c1b7d91f60614222148b307f16c9db5d2a6/biorefineries-2.9.2.tar.gz"
+    },
+    "2.9.3": {
+      "sha256": "324957296a1d2fc06e0c5347111a9bdc3c0ea35ed9a12ae986a6987f2fcb331b",
+      "url": "3e/d9/8d9d1fd176a8d3985f895fee346a389f6c40a8d2849893955385aa3062e5/biorefineries-2.9.3.tar.gz"
     }
   },
   "biowardrobe-airflow-analysis": {
@@ -6421,6 +6429,12 @@
       "url": "9c/de/5870fd78df82196d6479ed318b6440cc37653bee28952d6d9d4966f88b72/djangospam-1.1.4a0.zip"
     }
   },
+  "dlflow": {
+    "1.0.0": {
+      "sha256": "1cdfc025d3d9327ef77553fefedbb93baaf4d884991a232997246a98ee6a7903",
+      "url": "65/2a/a4005b0e8bcafeea11bda5d24cbf71bde31752c2bebda83d65301ac0a098/dlflow-1.0.0.tar.gz"
+    }
+  },
   "dlib": {
     "18.17.100": {
       "sha256": "cf73a059caee158f1b1cb18c1a21020bea19311afc6dbacb2417b05ff4bf89d5",
@@ -8101,6 +8115,12 @@
     "0.0.1": {
       "sha256": "7f1f8a36e1c62901dec1b4952c4c980669aa3c25d1b9cc32138057053994a644",
       "url": "2a/ae/84b69d64ca8275f1c21c4073d460530e6a0fe431a017aae2a328261e172a/gensend-0.0.1.tar.gz"
+    }
+  },
+  "get-free-proxy": {
+    "0.0.1": {
+      "sha256": "655021f8a8f4a15eb4dfef928afadbaa127ecdd9141caf33231d209f9f9ec3e8",
+      "url": "f5/5b/e597bf7f842adb326cf2d88af5e6316f7fdd2411ff4e843d37ea5b8d4f08/get_free_proxy-0.0.1.tar.gz"
     }
   },
   "getl": {

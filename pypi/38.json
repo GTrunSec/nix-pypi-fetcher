@@ -381,6 +381,12 @@
       "url": "ae/37/56f2000c4e5c0483ecd1cff4704a3ead45c7bd7d478a7d6e17623229e691/ansible_taskrunner-1.4.0.tar.gz"
     }
   },
+  "apychal": {
+    "1.9.6": {
+      "sha256": "423ca64a8c5e0a5fdcfbb2419ef79aab3374f3181c88ad6b250c157f85d96518",
+      "url": "22/42/74f3cb24af2cfc113bd0e786a5be8e2841cbc572ab37e27a12dfccf28fd8/apychal-1.9.6.tar.gz"
+    }
+  },
   "archspec": {
     "0.1.0": {
       "sha256": "a4431d0bbe9c9dd7b293c39d8e7590034d512ce5f5a1278a6cbdf61b33f7202d",
@@ -27615,6 +27621,10 @@
     "3.2.8a1": {
       "sha256": "29a8654a3495279f06dff3e99f8dc348e1761efd47d68b9a30e34ff3ef3d8584",
       "url": "7f/95/44cf325849c8fd67e78c22185cfd01a34a6391b84c0d1a376dfdd5602062/python-opensesame-3.2.8a1.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "13f068f6a61f1c60cb3c44bdb613e1d8d2fb39a908ff8caf79d8c114e877cd1c",
+      "url": "74/4d/b445efa828b8edfcc4196a429219a5bef6a547939db9a5ce0cf44a98abfe/python-opensesame-3.3.0.tar.gz"
     },
     "3.3.0a10": {
       "sha256": "bc69a63cdacda0f2603612cc1dd0d74289a678b806175a713c2e4b116a430d39",

@@ -8492,6 +8492,18 @@
       "sha256": "423324baefc544c8fb88522e4a8e806bd2a7b0abd1ec12531e2e843ad3fb0c4e",
       "url": "ee/c1/8d763138e12d624954f612bdb7eef5864e66a1a681689ae931962f27dcfa/gw-md-lib-0.10.50.tar.gz"
     },
+    "0.10.51": {
+      "sha256": "a18523c2760c20b942f059161020eba1878471c8f5fa9b10ba6aefd84a9d7361",
+      "url": "64/8e/96c2ee5061a631ddf7413b70c9e6ec511e9afafd5d084586af7106c6cc3c/gw-md-lib-0.10.51.tar.gz"
+    },
+    "0.10.52": {
+      "sha256": "d14eddd28a8aa641ebf76c246cec019e326c931e76b16f17a318e4629ed55f94",
+      "url": "bd/4d/20559f1fb3b142e43d31cd37d552f94c103bfaa44d482ceded14fe225d56/gw-md-lib-0.10.52.tar.gz"
+    },
+    "0.10.53": {
+      "sha256": "71dbac60b5e9d1974b5f71141aff9ee8177dea3c934c172605489f9f3d588929",
+      "url": "28/50/b0ec1345dc8bdeb7fd4ced1af82cf0ca168aefe92bd1fbd0bca721efbcd0/gw-md-lib-0.10.53.tar.gz"
+    },
     "0.10.6": {
       "sha256": "74b51505e73dfd000fb60ad350294898521109bf61dd73b7dc6778d8517fa6b3",
       "url": "20/5c/df7c5ad94e55e6420c4a5809564fe931d1326f5b96c63328866319395f3a/gw-md-lib-0.10.6.tar.gz"

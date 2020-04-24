@@ -469,56 +469,6 @@
       "url": "5c/e2/55f2cee72e37e60482d67cc0e097b9f0e8ab751ca68c622b206dbe3c95db/aidungeon-1.0.0.tar.gz"
     }
   },
-  "aiidalab-widgets-base": {
-    "0.3.0b1": {
-      "sha256": "f6b063baec7b3b5d7579a9d4d3f71a572f576868d6e330d6dca1c53fd6dd5e19",
-      "url": "4f/08/5f755bb2250fb1cdc437e4f74ec373641a79c9a1d7cd0b738b8ea4b7dd7a/aiidalab-widgets-base-0.3.0b1.tar.gz"
-    },
-    "0.4.0b2": {
-      "sha256": "a43f0a5a03cb77c4cc6465c26150445534624e2be66e2df41b0c4fca5323fde0",
-      "url": "20/32/bfbc0880413bc18747e82c2bad7a31e06fc528c8e450973180fed5d2ebe3/aiidalab-widgets-base-0.4.0b2.tar.gz"
-    },
-    "1.0.0a2": {
-      "sha256": "f880932ee4a1b772d401ec5bd843d4af75a5aaa47187db2e0274573325aec706",
-      "url": "4a/25/a99fbbf53886eb7463a7a4892a20e10b72d932ec6370b043806748801a04/aiidalab-widgets-base-1.0.0a2.tar.gz"
-    },
-    "1.0.0a4": {
-      "sha256": "b1bde1ceaa3181eaeaefb4cc30e0f7ebc39f014d85e9744786df4fa5c4d4abe0",
-      "url": "b4/fb/e0aa05778fc941c21828a01d92007b909351e8be7ad896a30a561b7fae83/aiidalab-widgets-base-1.0.0a4.tar.gz"
-    },
-    "1.0.0a5": {
-      "sha256": "1bc3506e604617171f5e672772e16f8b00e248537898bca4ad840efbc3a1526d",
-      "url": "29/3a/7235ec72310053f40fa102fc03e91188fbaf19776830eb4e1ce309fb48d9/aiidalab-widgets-base-1.0.0a5.tar.gz"
-    },
-    "1.0.0a6": {
-      "sha256": "eb27c32f8444d95b6ca65f1b3038c43c33f37a45148689279fdb38e3b2f4ae60",
-      "url": "bd/82/54c051bde0da9d931787c0e3c832e9152dd5b2ed15bc58e6501074d22382/aiidalab-widgets-base-1.0.0a6.tar.gz"
-    },
-    "1.0.0a7": {
-      "sha256": "d0865219281085f98f312cd6ebfc3661bad0d32658e7b6c9982dcc3540bb7758",
-      "url": "de/80/5c9c2c2e63fea7a5cac1ab38495af485459d9164dba10e6f6772d1c764e8/aiidalab-widgets-base-1.0.0a7.tar.gz"
-    },
-    "1.0.0a8": {
-      "sha256": "8efb1816d05e719acecd8f4911b5585a226cce0d202a8d100e81aa3b4622ccaa",
-      "url": "18/95/c5326925a8f5c9f0d4bf3dce530638a26d0a17568fb22148a508516e4c14/aiidalab-widgets-base-1.0.0a8.tar.gz"
-    },
-    "1.0.0b1": {
-      "sha256": "b42fe7d37b3aa45c91b5eebc54080358feccb57d5499ad51e855d53dda29432f",
-      "url": "57/ab/0fe3cd859182f0cf551465de0ae11f1c8be17fe895eb9d3147ba95159380/aiidalab-widgets-base-1.0.0b1.tar.gz"
-    },
-    "1.0.0b2": {
-      "sha256": "a3fbadec2623ada120aa5e8f6f62fdf4b5c3f0ee5fd60365bc0dece57ebedaea",
-      "url": "ac/95/12e0c435210e6640fc383d7f1d4c52a6696a2b503e526200632a254f9226/aiidalab-widgets-base-1.0.0b2.tar.gz"
-    },
-    "1.0.0b3": {
-      "sha256": "65ed81fecd1cbd7f4b3a12cd8dc63f9175836f1ff50f372360d8868f26c0221d",
-      "url": "9e/d5/d70df4709e1bed0f1670a916f032d8b201f3be4ea5c1fecd9c68d9cd82b4/aiidalab-widgets-base-1.0.0b3.tar.gz"
-    },
-    "1.0.0b4": {
-      "sha256": "d08ffc16827f257dea92a8365a8e1bb6908a3f3f83c9f72da339480bd3cdc989",
-      "url": "a4/af/06bffa29a90168c98d2d6485103ccc69d91c354a060219caaac31e99ae63/aiidalab-widgets-base-1.0.0b4.tar.gz"
-    }
-  },
   "aiodl": {
     "0.4.7": {
       "sha256": "f906e39baf8eb5a9a3dbace2ef2885ba47370c70c2ae14831b49611a09d9ce89",
@@ -1860,9 +1810,17 @@
       "sha256": "529b96fae7f17cf0740e979e88923b7a5aef02e3c04df43193f0dfd8a1fc8c49",
       "url": "53/aa/c0641e4d143069685e0b7d6b05186e44123e8403d1023c152a4ddd4b6b33/blspy-0.1.16.tar.gz"
     },
+    "0.1.19": {
+      "sha256": "3a15034aa89d4993ab1c2425147fbeef5f02205ea95025e9a542a8e6597baeb0",
+      "url": "59/d9/bee8c585bd1e972bad59ad968ac761c2d62df71fe64b7403ce97c16b7f29/blspy-0.1.19.tar.gz"
+    },
     "0.1.2": {
       "sha256": "17b6b430da6e6509e1490b06e0f5e73dcdffc8ce07735eb7c57f8ca5524d052a",
       "url": "f8/09/d340b1e9e1c3aab01c3658bcbafd332caea85a7d0ec88c6c33afcd95c270/blspy-0.1.2.tar.gz"
+    },
+    "0.1.20": {
+      "sha256": "c7b0a64896cb3867890e5b85da17fc3bb55fa20ffdbdbcb5000b10ce7310c9fd",
+      "url": "28/c8/ba06504110c81fdd3d056c39fedf1ca0645219fcde38815a15e6d1347a7e/blspy-0.1.20.tar.gz"
     },
     "0.1.3": {
       "sha256": "d82b625ca5a2399cf4c4d79beee6d991f9a994e82f1fabde916a57f3963be58e",
@@ -3653,6 +3611,14 @@
     "0.7.7rc0": {
       "sha256": "6e236dc56eb7cc305b7114a96545a2ac980da2dfe6e2530cac50adfbc2e47abd",
       "url": "a3/35/4aa2a6d2d9c8fcb2a2b250f4a3a9a3b4fbf12d982ab023e5504f2774d9f5/dagster-ssh-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "352a03ab6d8f241840b07c25eb43213cbcaf160ff8d2a1973aeb764cda08e7a7",
+      "url": "2f/68/1090fbcb145f933f0bfea52db33bb87adc1749acb504438c47d6d2f4df34/dagster-ssh-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "f9453994d0d879341e5512a3091b50ff5dc59243ae3440611373bf58da0b7bee",
+      "url": "dd/d8/5112562b46ec2fb0cb9269c5c1cb6bad7dedb8aeb243b8daf6f4f50e773e/dagster-ssh-0.7.8rc0.tar.gz"
     }
   },
   "daot": {
@@ -10499,6 +10465,10 @@
     "0.12.1": {
       "sha256": "aa1fa676d88315a3f992955441208398cd34dfac946b054b0a63b2c0366149b4",
       "url": "dc/1a/dfac7dcad26f9d26ccfb0d74d2863870e059108f520a99e35527b3aa290a/ll-la-0.12.1.zip"
+    },
+    "0.12.3": {
+      "sha256": "3f0f8c6fa730a9d90af4b34c7888fc88cf04448c413c929649a48bb00a96d5d2",
+      "url": "6d/11/d0edfca1eef03a76a6e26a6ba3187e4b2845689a1e9adce50f05330a468c/ll-la-0.12.3.tar.gz"
     },
     "0.9": {
       "sha256": "9947f67b5c237804c6db3bfbf0bb181d4a2ae00fdfbbac470e280121e83b1428",

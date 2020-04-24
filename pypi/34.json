@@ -1260,6 +1260,22 @@
       "sha256": "2a07cdae399e6f283c41b2171f79def489ac33a4f2c8610959a18a0ad09724dd",
       "url": "a2/5c/b46b72d8d6f3dc10fb241d1fd9520f0eac3e5c26299cca7f2a779c83a4bb/apigeecli-0.36.2.tar.gz"
     },
+    "0.37.0": {
+      "sha256": "9f0746f79c60ade0631ddaeaf1295fbb8675cc2a4ad607a4c9c6c89a3f70837d",
+      "url": "71/5c/5b9957021e10575b77b769a78825db2610c80c2fae1b236d5c3c5abf74d6/apigeecli-0.37.0.tar.gz"
+    },
+    "0.37.1": {
+      "sha256": "c82ecc5556608c804c84709a2c7fa6ba5ca7762663ea2fd9a3490837a5f0c724",
+      "url": "5b/76/d1b5948f4d91175b62b2f2e4a8628c3953b0f6549686955f99c842f67bc0/apigeecli-0.37.1.tar.gz"
+    },
+    "0.37.2": {
+      "sha256": "261e9750d26889472bd1a74054fd8ba0daf2e63851e3db0bde4827663befc9af",
+      "url": "5d/b5/baffbfce933be1b5ce9106115ba1199214b9bf9a208da0b6d6cfa2240781/apigeecli-0.37.2.tar.gz"
+    },
+    "0.37.3": {
+      "sha256": "a180110ea80baaa17d68b31342f124661ee73fb7a3aa5cc5f0df386ddaa5f986",
+      "url": "8c/60/27566ffd8023533bc1919a0efd4a63faa42fcc12d54c9debeb79fe6edd78/apigeecli-0.37.3.tar.gz"
+    },
     "0.4.0": {
       "sha256": "425afdcb698d04e9cb5e79e9748eb1be1b1432d5ac853fb85f4a5607afbe6a3a",
       "url": "c9/a3/3320e78e22f161be36f2ca5eb30581af550ba9d3162f45d603e16ba7f88b/apigeecli-0.4.0.tar.gz"
@@ -13060,6 +13076,10 @@
       "sha256": "d29c8e94edef1ebc0a240dd8034429e23fe244d495fe7c283e79a3b3db33cc1c",
       "url": "fc/21/4053a2257fd5c4dc08e526a04f3765681f526309bdee16e0b4be42360c00/magma-lang-2.0.44.tar.gz"
     },
+    "2.0.46": {
+      "sha256": "8ff6fdeeb99004160fcffcfa77420b8658914ee9a793a421ac4a4ed350f5e1c5",
+      "url": "c9/65/2f9fdcfa546da89b3f8d0dcefd7f208e65cf19c7ea5e838be0d7fdb21af4/magma-lang-2.0.46.tar.gz"
+    },
     "2.0.5": {
       "sha256": "60d29fc6909024dfbd26c7a60f8cef73bbcf2e390440402c56391c2b97df3e27",
       "url": "0a/e0/0fcfcddd253ce8529133ac66e46a8cbc9d9a1604c480f3f5c2e53ee4f5d5/magma-lang-2.0.5.tar.gz"
@@ -23397,6 +23417,10 @@
     "0.0.3.7": {
       "sha256": "0fdd120c7274a37b0fa74855fdc186bf02dde3f2ef85009e63aa04e266d3881c",
       "url": "d3/2e/cf7142fd85389f4203b6c9f7b152f3b4dcc20253d56f71fb0cf0a17e71e8/silverpeak-0.0.3.7.tar.gz"
+    },
+    "0.0.3.8": {
+      "sha256": "3cc5ce15c3a43cc93c1d9d68ac5c210878b8f4299eeb8249d1823014108234f6",
+      "url": "d6/1f/623bf8b644c35b0fa26b2dd3d9731b3c9f85d60d2acb4d7655cd56986b62/silverpeak-0.0.3.8.tar.gz"
     }
   },
   "simples3backup": {

@@ -4945,12 +4945,6 @@
       "url": "b6/8a/eb66db557e081a20f444d55dea7efc335f636f32bb4a8d35c56f5eec5333/django_mail_admin-0.1.4.tar.gz"
     }
   },
-  "django-migrations-diff": {
-    "2.0.1": {
-      "sha256": "80501d1a130b8f5e3e0b6b7bff0da7494644a397a53ea6e078c437194838b9fe",
-      "url": "e4/f3/20705abe290d009692bfd999ca7b71fb81ae5d20ba35742f106a5ed4f200/django-migrations-diff-2.0.1.tar.gz"
-    }
-  },
   "django-model-changes": {
     "0.1": {
       "sha256": "61cbaf3fb41508942cc83c33a1de22211946e0f76c81bae1f41dd86af1c589e2",

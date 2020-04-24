@@ -1298,6 +1298,10 @@
       "sha256": "e8583b20a9657ff49270183d8f6dd25bfd106c56d607a702690b1c7eacdab29b",
       "url": "bb/fe/34e0f3e0c590c25531c4e674b51f50565decfce4080278e1b6100ad5ceaf/aws-cdk.aws-robomaker-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "590cc047837d42006af586c3b506cb472d4f928ef77996a08935d6a18dec0942",
+      "url": "38/f1/c3e305836267c2ab0edf6985eafcb2bc60a90cd4e7d8d4d4de362030f0d1/aws-cdk.aws-robomaker-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "1a59579475bcdfec968cff399df8686db9cd12a234d2b833303e1b7a654ad6c1",
       "url": "46/f4/41b5dc3f01f127350df0f1dc1851c6e4f8ad4c2cde1dc643e1dafaf013ea/aws-cdk.aws-robomaker-1.4.0.tar.gz"
@@ -14489,6 +14493,20 @@
       "url": "b8/f7/eb108f39ffcbebd6a1cc1030b912640fc28edb0146e8658b6a1aa60f1060/purl-1.5.tar.gz"
     }
   },
+  "pushurls": {
+    "0.0.1": {
+      "sha256": "c9b4cca66e9769d0316bffd3fef8a0f724ce5fceab7068d8ed11411cbf19be98",
+      "url": "16/6f/126e28d18f8e44d0a9036df4ee5fcaf26b962c512eb535fbe1f075f9abf5/pushurls-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "9754cbc8f479d3e2690a847ebb9eac838ce1b44dc95edc5a69d6f6dca1eeb925",
+      "url": "6b/05/9db3e958ef8b39762c8594a242d33f6db1f1c0f8acbf7141bb1a00330b9a/pushurls-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "e93e475a083f338c64e533d956f92aeb3b3cb6018d5ddab30daf5ffcdadafda6",
+      "url": "27/9b/d32f5e758b9dcd8ff3340551e7eb82deb259a6fe02ee8a1d8c9968d43306/pushurls-0.0.3.tar.gz"
+    }
+  },
   "py-3parencryptor": {
     "1.0.4": {
       "sha256": "5447ed48b6bbb7078ac66d8f38617cebea2166a728f36319cd83a10394b89d95",
@@ -16717,6 +16735,10 @@
     "0.1.2": {
       "sha256": "5c7110cbc6cfe078cedd40f1ee8b2a0cfda46d05691bc189a2bb38b04783db73",
       "url": "53/26/5e9f7b97af11b06158a822847dc22f7e4bd8e26d84c6ea6ab96201dacfa5/redshift-upload-0.1.2.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "12064a1f63581bc7321312c1de04afd487eee1e3953d4250486eed39425645f7",
+      "url": "c7/79/3faa07a809842f653c0391f5cb1d4511541764807ff233fd0eba209a8f0c/redshift-upload-1.0.0.tar.gz"
     }
   },
   "redshiftsql": {

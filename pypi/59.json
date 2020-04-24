@@ -2538,6 +2538,10 @@
       "sha256": "c1f762f8df6ae098042eb66ce80008cb720f4a1119a9b8d47c8b41e6fe178297",
       "url": "51/4d/1d84227c7ee1c66ca08128dc15e37ac935c20128e6aee92ed5f1888c0ae4/chuchuro-profilelib-0.0.6.tar.gz"
     },
+    "0.0.66": {
+      "sha256": "162216dfb8c1fc683768ec0a83387d7c17ac046b196fbea4f64586a99dc03d1c",
+      "url": "a4/21/4b9f83e5cd35fc3acd301204cd6c164a9317ad5eb28ac65cf2a01a08bfd3/chuchuro-profilelib-0.0.66.tar.gz"
+    },
     "0.0.7": {
       "sha256": "cdcfb947a1aa7db0193a942cfcf4d197c54ea78cf6cf1f6286c9c5cd2cd4343e",
       "url": "a1/8b/449453fcb1c7917fc5f6caaa283b61aba5d9b6f6ff4b02cc1e3d482bd361/chuchuro-profilelib-0.0.7.tar.gz"
@@ -5059,6 +5063,10 @@
     "0.3.0": {
       "sha256": "c182688ac509da6e05d7cdc62e5811d63decc4291588a067d5b15c702c979b43",
       "url": "a7/73/fd92867c46312ad7c4aa24a168bc93a194819191cd15905e41554aeb7af1/django-datadog-logger-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "a5741ea491a7f3e3491a67ff22e82b66e4ef2913ea2c12ebf9b99e6282ef4761",
+      "url": "d7/2b/443badb11c0caa19eaf6e8102c14322a2bbe863188620fcd39a5465bc9d8/django-datadog-logger-0.3.1.tar.gz"
     }
   },
   "django-default-dont-cache": {
@@ -14399,12 +14407,6 @@
       "url": "46/43/ea2528837fab9e23c54b4feab531422909dc2b3fdc283350f667d88ed95d/pacifica-policy-0.8.2.tar.gz"
     }
   },
-  "package-checker": {
-    "0.0.1": {
-      "sha256": "7f65a34d87551065e6a219302a22be0951d906b3b975b2e2d1b0ef14c17cec49",
-      "url": "7e/64/9a1274e09e8b757fccf997f81aaf43812ca177b2ebfe8d7a6cd30d6677a5/package_checker-0.0.1.zip"
-    }
-  },
   "pagseguro-xml": {
     "0.0.1": {
       "sha256": "a6fdb600e888e14f81206f1455bdac249f617c5f37379cd279f0ef235325b0c4",
@@ -19567,12 +19569,6 @@
       "url": "ce/9c/4864ca5008c45565850fc71df02ce66c381875cf7e5f45029d9363c6cf81/script_benchmark_tools-0.6.8.tar.gz"
     }
   },
-  "sdc-helpers-package": {
-    "0.1": {
-      "sha256": "28753c22ed1ff61a142ed9f74721b14cff4c6596643abd429080968576408dba",
-      "url": "55/5e/fedd07c68aba6dc96ff0fb06c6aef01e1628513b321df821b3526167bd92/SDC%20Helpers%20Package-0.1.tar.gz"
-    }
-  },
   "seafile-api": {
     "0.1.2": {
       "sha256": "425adccb6eba947120572046f6d66efb000261142a2efaed2af770a15e68f4c6",
@@ -19677,6 +19673,14 @@
     "1.9.5": {
       "sha256": "55fdd5a84015233bf92eee459af44d11f0f6f85cd936730f95b46642805c93b1",
       "url": "da/90/6bad190a33830e4789b0b75a4e86cbec46a054234ed950a536c3e5e832e7/seekpath-1.9.5.tar.gz"
+    },
+    "1.9.6": {
+      "sha256": "0171420e00b43664fda173130d49fbfec44db4ff652290997d54af64ab162bfd",
+      "url": "24/64/ef988dad378ed66ed0eb40f4ec308e9b38542cc681a970e7286e79500e96/seekpath-1.9.6.tar.gz"
+    },
+    "1.9.7": {
+      "sha256": "b83ea23b54209b7f34f3fcabe7248cebbcc3cc164c394f1659b35942edaedb1c",
+      "url": "e0/43/7c480a2bedff1496b1523506775e5f53289f52f1379de7ee9dc55cb1a13e/seekpath-1.9.7.tar.gz"
     }
   },
   "selsunpool": {
@@ -22199,6 +22203,10 @@
     "0.1.0": {
       "sha256": "a69b1aebf749b0327dc91eaf123f16b0452587a6ff793579ab512122cf000686",
       "url": "01/af/b5c4a707f03d344c033c90ef736f7e8320ede412b29d174ac6eb4963dc79/text2qti-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "4a8a6e6bac0ad037a2c5fc7bdc511ab88336c0bed165467f99d99225ad0b429b",
+      "url": "53/a4/00115725b0d4bd41e1d9266f0dd44e6228c6e5519edb6a83492c3b5a9b3e/text2qti-0.2.0.tar.gz"
     }
   },
   "textnormaliser": {

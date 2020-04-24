@@ -636,6 +636,10 @@
       "sha256": "1cbb3ac4b88d42499f88a22e2a02083ae74c4526a64f7fbffe173d5f37182e92",
       "url": "7f/7c/c320d3c795f2fc32e7187f62e2f7c7ab56eda6a61e39d2d5889c96e31cae/ais-dom-0.108.8b0.tar.gz"
     },
+    "0.108.8b1": {
+      "sha256": "f670ff7497d48b7368925e357a81b202a89c7b67b9ecfed028d505aeb6e9703c",
+      "url": "ae/b0/6c2bf47ad3ebc247ec22e6202cac3afcd54db38dac22bfdf06ffd6cd7840/ais-dom-0.108.8b1.tar.gz"
+    },
     "0.70.0": {
       "sha256": "59380783824672027bcec7fd3fd03031f30a93fd55340d3edd7e84d8b87a1037",
       "url": "f7/b4/b4c28371e71b0d0fe06dfc72113847dde635c8a0d9428e2b9d473954edf4/ais-dom-0.70.0.tar.gz"
@@ -8055,6 +8059,10 @@
     "0.1.7": {
       "sha256": "c54df09fa30ccab7f314f9955bc9fff834ed78f4fee89010a2801cd9aad3c639",
       "url": "1a/4a/915113d49e8b2fb536392ae84c2da501be134e3261e401fc91eb5ed7707d/embl_tools_jl-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "4db2f6884293e84fb361d9fdd9d38b55e9e6f057e0339dc0fa1b024600dce902",
+      "url": "8d/c8/5337f23e9939c8ea8f8ca1bc2fd9c35c32aa39e0085252965a64b6c26bfc/embl_tools_jl-0.1.8.tar.gz"
     }
   },
   "empugn": {
@@ -13611,6 +13619,10 @@
     "0.20.4": {
       "sha256": "1e185354755a9653267513670fbee08320a498524a7187341e0198ab15117828",
       "url": "a1/a0/a6888509f0ae84ea2616d290e7923245224404f1f6a8c3b8addf9c45436a/motorcortex-python-0.20.4.tar.gz"
+    },
+    "0.20.5": {
+      "sha256": "9343b6aba2fd5a5dbfe03ccbb0a1d057ee265376fdee26c76874c4fc8bcaf6c8",
+      "url": "39/ee/e7df4b0c4e7ce03f26acafde05ca5b87fd86fbcb74e07f91df1df2df2d2e/motorcortex-python-0.20.5.tar.gz"
     },
     "0.9.15": {
       "sha256": "2cca8d53bddec9192dabf706bd6f7dc57ef33f5b4b12217d467fc38ed2c38f30",
@@ -22621,6 +22633,18 @@
     "0.1": {
       "sha256": "6b15e54ccd7ddc57fef708268d10e00a21329a8ab5350fe53c42175c0ebe676e",
       "url": "5d/8c/62588977b1d232a60a8c13f8c4c880b774ea343c7ce30ce465ed19de41af/umr-extensions-demo-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "9df08375e7ca91772bb33033c838cbc10d9e20ddaa8c88925ecc2cb5418fa0ed",
+      "url": "64/3d/096b1ba77d1d868ca9b303d58640ca0dbc65d6f72a6f719ee808d4aeb505/umr-extensions-demo-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "079b00eb5957002c818ef00bba99266f818744c467ca276d51bc0a99c5fb0f9e",
+      "url": "78/d6/522fe1e9dd842676e693c6bad3a6ec1712886931d12925b8243e81598b63/umr-extensions-demo-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "4a6fdd50cacb53aaf51c443bb8bcc644b64273adfb8a6f0004d98a60d28e2749",
+      "url": "b4/b1/96cb4c0d8e0b41c40d2d35c7aa7cac715be8b01103e94ece5840ee011d5d/umr-extensions-demo-0.1.3.tar.gz"
     }
   },
   "unice.portlet.evenementiels": {

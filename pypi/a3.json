@@ -4391,12 +4391,6 @@
       "url": "da/8e/28159a349bd8a437760e261e91c5d91f309da53e08fbaddbc79745b0986a/dcworker-0.2.8.tar.gz"
     }
   },
-  "ddb-cython36": {
-    "1.4.255": {
-      "sha256": "15d8921f72b3fca1aa578c2905ba2f1384b0adf82957dd0cdc1c20592c68830d",
-      "url": "e9/04/740e49fcc3ef492ab5f53709b8e35a13e2c9b2a6fb8cb2783875449e6b5b/ddb-cython36-1.4.255.tar.gz"
-    }
-  },
   "decorouter": {
     "0.0.1": {
       "sha256": "d65a3220195c30d768e97f1c79b3970517fe7b4bb8ca36e86b28c455bdaa4a39",
@@ -19213,6 +19207,14 @@
     "0.3": {
       "sha256": "117c8db255d59f14b7b7dec7b0e22c768ca1517d4b90385207d461086e07d8a5",
       "url": "22/8b/d4ae720772c53a6e0368429e303fd408e0b359635d06de60e20e4cdb0287/py_ml-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "1c6b8fc3defe2479ba92ade503891972e7d9644c1b8624f55234dd9c80dff3e0",
+      "url": "27/41/d474c80149358ecfa2ee5b11f01501b5de0e2ff3a11208d01186fc398074/py_ml-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "506142309bc46e1db6e2e764cdd78a9c6ed63bf337977b4f4feb5ae636ad553c",
+      "url": "21/af/7bf8c5cc2cc8403402fb8f20b3c38de9ac9216233f3a548a0b115ca29f7e/py_ml-0.5.tar.gz"
     }
   },
   "py-mortgagekit": {
@@ -24251,6 +24253,10 @@
     "1.34": {
       "sha256": "ca567e77185a2fc0ec282b006e425fcdb43fa300bb6a4734bbe60b954789c8e8",
       "url": "bf/f2/d891c625e49dc2b087a9449c91add69af8b68793f863de33b622553911ab/sprites-1.34.tar.gz"
+    },
+    "1.35": {
+      "sha256": "60cf176f507f9ffac12b0ee2a56cc46a88df5a223d7698829367ef377842b43e",
+      "url": "98/69/db27da7bb5c54a1944810e1994e88379e414e447820d89c3aa590ab60f3e/sprites-1.35.tar.gz"
     }
   },
   "spws-2010": {
@@ -25753,6 +25759,10 @@
     "6.1.3": {
       "sha256": "48381763b181efc58eaf288431d1d92d028d0d97dfdd33eba7809aae8aef814f",
       "url": "c1/75/8704b48d3368b746b6148dde8921826e5e029e29d035cec9bf9681dd89b7/traitsui-6.1.3.tar.gz"
+    },
+    "7.0.0": {
+      "sha256": "e569f359a58e4567b14265abe89b3de4b0f95bbbf8f491a9a7d45219628735ec",
+      "url": "b7/da/2e6aec52445be572943d89cfe37473cd976170d895eb83a14f92c739ab41/traitsui-7.0.0.tar.gz"
     }
   },
   "transpopy": {
@@ -26847,6 +26857,10 @@
     "1.1.7": {
       "sha256": "c5773e402cefcd7a065a0944149e8eed478c0c6ebb6b6efeb8bcd9ea58a9337e",
       "url": "62/25/d808e6c0ef13c33aa4b4c7914d8b27104be20c1a7b4a5136d6647ab3a39a/vaknl-gcp-1.1.7.tar.gz"
+    },
+    "1.1.9": {
+      "sha256": "52a19c0840a921a99da4aa5515ed3a8ccfc9f51e6304a45b8ce64efeb815a503",
+      "url": "e5/4c/a28a4299370e720ac47e8c270b3ed8df6033ffff5961addfef57ce7fb1f5/vaknl-gcp-1.1.9.tar.gz"
     }
   },
   "valbot": {

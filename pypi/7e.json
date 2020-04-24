@@ -12192,9 +12192,29 @@
       "sha256": "71d5a6c423656363dbb1894544ebb03230bcadebc18dd2ffcbcf57167d077860",
       "url": "52/a2/d77d9e5965c3038ed59e84b70f87beaa8818d8c01f0976f1ddf021ac0667/kerasy-0.0.0.tar.gz"
     },
-    "0.0.1": {
-      "sha256": "5f5a5058801dae1ab7eb7c9b60e1582f4c58df6b5cbe7d03448a678a14c533df",
-      "url": "7a/01/d92beabbada313a47baed5079b20e931c94365949c49ad092455181ebfd0/kerasy-0.0.1.tar.gz"
+    "0.0.2": {
+      "sha256": "66c7a854d58071778d5aff9ef61d4faf3fc5326c87709dbdcaf72a49aa78bdb6",
+      "url": "d6/d6/a0e46a625c601b59505ba18c9ae42773a0f9fb25dcc7a2a4b7b43bdca31e/kerasy-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "3114d47d41f2670a8fe7d81aafa2c0dcc5428d4a18a70dad0561d105edd86e49",
+      "url": "36/ab/346d75b4c2a88402f30e3a4e76b55443d6fdf8deb7b0c61fca9dacd3433d/kerasy-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "01c863dd67be941de61e82fe478c4c272b639cfe59c0bc53c5ae3a92f178d6bb",
+      "url": "3d/0f/93d36bafd4b44e67445178c61a9e9c985f8ea552ff96262933dc39a20a19/kerasy-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "14141dfba389706e82ec3f47df1d4100e65e48011e9866b2e7bcf2e76585bdbd",
+      "url": "f1/a8/2a21fc567eac35f377b3a1a9af0129a3efa06746e3292ddba9fe2013aa47/kerasy-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "63c684c64af3573dc179eb6199d3b80bb0be5b0d36cfb1ab46471ce61cd1b86f",
+      "url": "92/44/76ed4d5714ea42ad28f241893d2956490f01d8b0f3c17998bbb8f4bf99ba/kerasy-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "e4099804e069f8bf8c5a179de6c4d23faecec3cf1d058da747fd131907faf1e5",
+      "url": "5d/43/38df048d258cf9798f81bba5aa0cdb0b7b5cd92e190edce77871426e8447/kerasy-0.0.7.tar.gz"
     }
   },
   "kiwi-structlog-config": {
@@ -14424,6 +14444,10 @@
       "sha256": "57a28312dcd93a834777aeb3e37cc10379bac78347164b68d18a55c8dbdd1644",
       "url": "b3/1e/1fc8ef7cd8eff951362cb06b912a3c7b67206bccbe17eeb9d7f278a0a29a/mysqldb-rich-3.7.tar.gz"
     },
+    "3.7.1": {
+      "sha256": "fec3b1abaf88012792eae32cd33c0f6a6b0de68e3a16408b058f4328292050a9",
+      "url": "71/ef/0c53192830ba66b308d335b6c21f3b4bfb4a046378e7517f76efbf4d3ca7/mysqldb-rich-3.7.1.tar.gz"
+    },
     "4.2.4": {
       "sha256": "90b25d80f1518103b2a3420bc2437959c9a82408b0fd572007e00c625c61c4cd",
       "url": "ed/a5/452278e8217397f6110c98d40ff08ec3d56227a7b8b00771399bf25f2da6/mysqldb-rich-4.2.4.tar.gz"
@@ -16569,6 +16593,10 @@
     "2.8.0": {
       "sha256": "95a4a3d12dfacd4efbeea182227a2b133767d5ea58d70b0affced0a6dc561966",
       "url": "6a/0c/3f074fed98b67bb25a50a6e10144232ded17717cd623a4e16923ac46829b/paramiko-ng-2.8.0.tar.gz"
+    },
+    "2.8.2": {
+      "sha256": "eb6902f1096dfcdd420b132bf1f1dd195ebc33f446d0979d165786cb7cdd8551",
+      "url": "dd/c4/7d7466cc64c80d82485dc29f3a7db182750061edf2a668199007f686ca3c/paramiko-ng-2.8.2.tar.gz"
     }
   },
   "park-nyc": {
@@ -17351,6 +17379,10 @@
     "3.13.2": {
       "sha256": "85f6696b6691a315646047e0b19e9a28258b35612b7121bc4eb1b61ff53c760a",
       "url": "07/5f/a0813e99eacab8029b8bbe8c77b357934e55dd08a09e6f36ff77d89d943e/peewee-3.13.2.tar.gz"
+    },
+    "3.13.3": {
+      "sha256": "1269a9736865512bd4056298003aab190957afe07d2616cf22eaf56cb6398369",
+      "url": "e1/3e/a21e7268fa39756cdbd6d86af78ff1c0a92b84d6dbfadff431e9e3b9e1d3/peewee-3.13.3.tar.gz"
     },
     "3.2.0": {
       "sha256": "34000900eedfcce5a38eb84d8d197f41a537e10a36419aba0c407215dd87afeb",

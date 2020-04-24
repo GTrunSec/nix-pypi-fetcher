@@ -3322,6 +3322,10 @@
       "sha256": "5a2e65402a00d769b4616001b92a0bd7216e1c1bd5554d97104333bfe7ccea80",
       "url": "98/34/c2d5fbc6fcf5de213e1a534fa9007914fd9cdaf139edd795184293fc657c/chiavdf-0.12.7.tar.gz"
     },
+    "0.12.8": {
+      "sha256": "5d4e7ff7ea856df23b852750b7746ec4ef1feb416fb5f0968ed093ec46e0c089",
+      "url": "d0/53/0aca9342d210e0e0c4ae4cb91bb24ec7e75b5eae5e52c458333129dd0aac/chiavdf-0.12.8.tar.gz"
+    },
     "0.2b1": {
       "sha256": "c017e062db06eb4e3c2834f99a43957ad6c1de1c6ec8c996a360a633d3f32945",
       "url": "77/a1/a8e2f4dffc65e8c0c267a6935cb2d71b8c110b4e0ef1a496b1e17e09f8bc/chiavdf-0.2b1.tar.gz"
@@ -4265,6 +4269,14 @@
     "0.7.7rc0": {
       "sha256": "7757d970afbc5c16584e52c2fb890fc8e7d3e3d7f80484ee877659fef9aeed2b",
       "url": "f2/92/b456022b160a8a3bfd1b8f44df56737011fe0eb356495b5e417dc6f7cd90/dagster-gcp-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "e3f581e0a70a06805203c4fa021e893174bf6d0aecc61f6c154fbe60510355dc",
+      "url": "67/b6/997c71dc6f020c7e5ef30ef9694ecab2a23ef7f0092f4632ffe545816907/dagster-gcp-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "4995e6220fe17c98aff0eef1732693822872da4ade2a88fd3f448e67660061b1",
+      "url": "96/c3/06cb0e647dd397eb18ca11ba09a646a331f4f81e6f4f0e6c709afac39f4f/dagster-gcp-0.7.8rc0.tar.gz"
     }
   },
   "dailytrends": {
@@ -10415,6 +10427,18 @@
     "4.4.5": {
       "sha256": "9de38e88864cf928f6567d7212d3f573b23f46dd30686f7a7b4c656cf79a1889",
       "url": "9f/09/222f57b0dacb8959e6a833c5407d210d13a3dbc27239bd4dcd23514d6ef9/hdx-python-api-4.4.5.tar.gz"
+    },
+    "4.4.6": {
+      "sha256": "1dba195980b569af605cc05a4e3dc879c69a10cb9f89ffd2113dd40e4a113335",
+      "url": "cb/53/56e9c7d9a07dcf95e9848d928e4b122d4925f646db5ddb2e1e6f961ddd4a/hdx-python-api-4.4.6.tar.gz"
+    },
+    "4.4.7": {
+      "sha256": "987927c03169a291c556ad1d4beb0621094570387128f62460276c0dcb715e6b",
+      "url": "6e/e6/dbf60802f504b38d74b56fb0ae38035c85e8988444469d5b99be8563f18a/hdx-python-api-4.4.7.tar.gz"
+    },
+    "4.4.8": {
+      "sha256": "a28b23eceb26c763c366b9e7229f427f124a7b33acfdd695f8fa8eaa2151c8fb",
+      "url": "4e/1f/5b47b95c805ac7b0d2aa7ecc32c3d0e434e315b0e403f4f5bc4083ed5a1e/hdx-python-api-4.4.8.tar.gz"
     }
   },
   "helloaaron": {

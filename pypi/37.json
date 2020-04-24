@@ -2205,6 +2205,12 @@
       "url": "70/a0/8750d7737f1f149071bfb24cd5970f8d6a8c26a3e1a0d304706d97eea34b/blessedblocks-0.0.9.tar.gz"
     }
   },
+  "blokus-gym": {
+    "2.0": {
+      "sha256": "3040977999086f80c5dbf95afa2ac3b29e9eafa15b723ee161e7d9f55d9127cb",
+      "url": "f6/94/baabba5e425f95032cc5b0a76d3acb9a30464765f6589404d687e3a88ec9/blokus-gym-2.0.tar.gz"
+    }
+  },
   "bob.ip.annotator": {
     "1.0.0": {
       "sha256": "a93f3cae80204651eb9d3c45bce8f0ab1186d4a67da226db566976804400cae0",
@@ -21939,6 +21945,10 @@
     "6.1.0": {
       "sha256": "bdcbb18012d3b1baedaa29e3379f2e95e4bfbba3ccf13a7ff1212daf6871f7a9",
       "url": "35/24/530b0da6c57bb5bdf5580234e1f49b158b99033d89edeb5b414aca571619/pygmsh-6.1.0.tar.gz"
+    },
+    "6.1.1": {
+      "sha256": "c07e3a7313b7f5658c1b8329cc9f1aadcbd81db1d962acaeb874dca357478876",
+      "url": "dc/ce/ce7b208dcbd367633d562efc7f5b8312ade23b34a033cb187e75860fbdea/pygmsh-6.1.1.tar.gz"
     }
   },
   "pygpseq": {
@@ -27179,6 +27189,10 @@
     "1.2.1": {
       "sha256": "834cb4e3564bf053c315d965cba15659b7871a228425d5e82a92adcbc1e8275c",
       "url": "30/21/adbf669ed857c8bafd97063f97c2fcde8876d5b545b001bfa81a7099ba94/streamsx.toolkits-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "ea642bab0d4f90ea0780c53bdee6929ec054dcefb92d27fd897360bc5c9b6899",
+      "url": "2a/27/768580a5b6300edcd0e3a9fc26274ae9b8a5a0a0225e9007ba8f27841acc/streamsx.toolkits-1.2.2.tar.gz"
     }
   },
   "structlog-extensions-nralbers": {

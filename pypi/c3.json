@@ -15078,6 +15078,10 @@
       "sha256": "7898ccf8f344b0542b0448c49c2b8d4aaed7c9063e1f591bee11858c1f27617a",
       "url": "2f/08/e5ccdebd7302d35619bcd64fa5301e0e49b26c207e7658fb28bdebb644a2/oda-knowledge-base-0.6.1.tar.gz"
     },
+    "0.6.10": {
+      "sha256": "0330cf8f2556882cdab6bb9df8816eee9bf706d45d454540019725d8635d8d8c",
+      "url": "5d/07/d2b75c4b9c00376166e3a0c6f72a1848b7f8efda5a543bc137d306d8efb2/oda-knowledge-base-0.6.10.tar.gz"
+    },
     "0.6.2": {
       "sha256": "5c7832c9db509a6f058cd483f7606f8d33a29363c9198aaebefd0a85414028d5",
       "url": "18/f7/3848d9871c9e24cdd821caedf3bedd8b1e55f64b90f7a1ad84161a4c378a/oda-knowledge-base-0.6.2.tar.gz"
@@ -23807,6 +23811,10 @@
     "1.1.5": {
       "sha256": "a054b1875cea19a72368cba04d5502fd7f77479ab825793fe099b59544b705fd",
       "url": "10/a6/05cbb617f42880a03995e2b98d1a2a299dea3a41ffd0c6f94ae5ddf8c92c/torch-summary-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "9e2705719c0e11a93aaabde8c2c923f92ee08f1a86e35cc87a2f65f1333d1244",
+      "url": "81/00/78f0d1932f4caf37fc0252f012ff9c26acb5b0db3929c269f61f0da49346/torch-summary-1.1.6.tar.gz"
     }
   },
   "tornadoist2": {

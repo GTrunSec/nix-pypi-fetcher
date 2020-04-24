@@ -7541,6 +7541,10 @@
     "2.4.2": {
       "sha256": "744c80e60893f6d80bf3347eded5036e9c6e0b83cc97bf5ad7e5b435fcfc6a32",
       "url": "1d/be/17ff4719c8b8d34470a6129a1840b4a77e94533ebd8f20c6aeb6f1ac1916/guet-2.4.2.tar.gz"
+    },
+    "2.4.3": {
+      "sha256": "4c7f424a76530d2133a43f7a197cb32c3e6b4541ddaa101a0efcc43c01e6a025",
+      "url": "9f/82/843ff64d29906c8fdc40ec98f0e0eb2534c370cc0f876e8fd67cab8de0c3/guet-2.4.3.tar.gz"
     }
   },
   "hddm": {
@@ -19809,6 +19813,10 @@
     "0.3.4": {
       "sha256": "a9bdb42ae0c5142b5cab5fa775f02552aa1345f816a80c8dbc79cc303f689c73",
       "url": "0d/39/e77af78b23edf0ee403508e3e7cf63024f561b8930a26dbd10217f966b64/sanic-motor-0.3.4.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "8b6c8b0bf2d0b911cf7913c1ceea1eb253fd8c6073099e6ed604039152144aa2",
+      "url": "3e/eb/a79b0b55d01387cab5f86a02ee607c75beeeaec4a0ad3bd0e5e31644ee86/sanic-motor-0.4.0.tar.gz"
     }
   },
   "santander-cobranca-xml": {

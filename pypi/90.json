@@ -6699,6 +6699,10 @@
     "1.0.7": {
       "sha256": "7565869223f28a31dc573f52bb6949f96226c42c5656eb3cab25c2d750db5d96",
       "url": "ef/8d/0fe288ceec7d864ac85eccfd12110ef4b16b1743ea4af1e62a7ea8ba1782/dwarf_debugger-1.0.7.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "da9600538005fa271b3a84f8971ddc5946ec5f4629e3b49da43ff1e4d521c6c2",
+      "url": "12/2b/c214acb1479eca8aa8930ca49ff30c92c2afac78138d4957bffe0bbe41ff/dwarf_debugger-1.0.8.tar.gz"
     }
   },
   "dydx-python": {
@@ -22709,24 +22713,6 @@
     "0.3": {
       "sha256": "33ebc0d76457672a67e12ec5746459632ea9655e0a53efc053f23f85369f686c",
       "url": "aa/8d/fb61916732e3915554c422f6c4928d7f69422577d1941ef8ba0fb17887c9/slc.quickchangenote-0.3.zip"
-    }
-  },
-  "smaca": {
-    "1.0": {
-      "sha256": "1e02a748d3d5f9da13e4a01ad61add1d048ed51fb51909ec2ca07ac2186fe4fa",
-      "url": "ce/53/ac48dfa80cba475aa990dd0483a24379004684366f984f731fd6a7b8e24f/smaca-1.0.tar.gz"
-    },
-    "1.2.1": {
-      "sha256": "1c59fb239890f59fc19ac4cd6bb3c84ac01a91e46b7d7b4af8b0e72a5ecfa76f",
-      "url": "6f/40/c8d81624bc6a9829e9b5020b3345f04f609f72edbcf9e5999d950cf486c7/smaca-1.2.1.tar.gz"
-    },
-    "1.2.2": {
-      "sha256": "39ef2bcffaadfbf5982b0c2689b0cf0ac6754d2f554feec28eaf9711850da5b1",
-      "url": "42/51/436f42fe66d82c4cd41a839f5cba51852a95c8246c49791f993d8b29f872/smaca-1.2.2.tar.gz"
-    },
-    "1.2.3": {
-      "sha256": "1a0750ef2c58aeb997806be2c5f5c6952d8c13f95b4f4fff880e184a4fab2d43",
-      "url": "93/84/bc14e90d4165edc2b8a684ca9f34adb6e8099e5340c53fdccb5fb34544b1/smaca-1.2.3.tar.gz"
     }
   },
   "snakestorm": {

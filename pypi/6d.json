@@ -7563,6 +7563,16 @@
       "url": "eb/42/3cc1fb51039e890c2a3e436402fff6a92a8c98822a811a76bab37d4ed4c8/flyingrat-0.1.0.tar.gz"
     }
   },
+  "flytesagemakerplugin": {
+    "0.0.2": {
+      "sha256": "1715a6b75624253b0669e201175dfce0ae6c669bb0012b29692f54d0d11e753b",
+      "url": "5e/f9/337d1ec95712f2e7cc5e438665f1602b248f973352b62420ec1d1a004a78/flytesagemakerplugin-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "4943bccb05e27e33fd3b134cda07cf049a371337280d32fa798019e978c23019",
+      "url": "8e/f9/a6dbefee2ba6b2ade7f570a6d852d5c14faaabd58e3a69c243ae41b3c3c1/flytesagemakerplugin-0.0.3.tar.gz"
+    }
+  },
   "forpay-client": {
     "1.0.19": {
       "sha256": "870e5aee8563e9a8a1a6af996c40f70a91d3cbcc24557f0c85b57a02cf62f7a4",
@@ -17409,6 +17419,12 @@
     "0.114": {
       "sha256": "08322b0280924737a6b402e9542668f8b566b86c0a658414285a55cc61d87acc",
       "url": "e8/1c/6659cc625912f7b3a65fdb3fc04180d1ca61b990393c1d6be0dfd84a00dd/pydato-0.114.tar.gz"
+    }
+  },
+  "pydegensac": {
+    "0.1": {
+      "sha256": "b2a6881febc0d94dc2180cf050f99b10c0f5a31e6a9306609524cc5ccfa08269",
+      "url": "df/21/768507065d15faebcb4a4fcced30ecc51065315a956d1704a7e41d871fd0/pydegensac-0.1.tar.gz"
     }
   },
   "pydgets": {

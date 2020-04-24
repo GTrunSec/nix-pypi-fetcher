@@ -7816,6 +7816,10 @@
       "sha256": "20ffcae72f661f48a1fa14f268a5ae657a140cadbbaf13e61ca18c3249a755d1",
       "url": "b0/3b/588faba0dba1e380880834d909d4eea1f23671df5f0cb763f64933cef62b/great_expectations-0.10.3.tar.gz"
     },
+    "0.10.4": {
+      "sha256": "3cbe9fd7b3e0554b8a93ba5a197deb3b253846a95f4be7fbdbfeaa4477e2283e",
+      "url": "1f/ff/5a526fbf8b90916fb4b66cf53f7ce60eecc55a49870be30ad962c09112c1/great_expectations-0.10.4.tar.gz"
+    },
     "0.3.0": {
       "sha256": "a989a5c937cf8ad49fa24342f42dfe3863dcd3ab6b87a3bc862eb77b2e1e25d2",
       "url": "a5/eb/b640f74c1da1de145d6da30bf4add8c2a26d25c7ec6772eeda966190f125/great_expectations-0.3.0.tar.gz"
@@ -16697,6 +16701,40 @@
     "4.0.0b7": {
       "sha256": "54de82c4be6f6669354fe2d191cebcc94bc5dabc5cb66f3496ef8f93470e971a",
       "url": "45/e6/78a7738b191b698f8c0e41549438a4a8943f2f3ab42c7d9e1ba664e8b891/pulp-docker-4.0.0b7.tar.gz"
+    }
+  },
+  "pulumi-scaleway": {
+    "0.0.1": {
+      "sha256": "4e236fd94a5fb7d7eedc1f9a9a776893cd2585aa21369bdc774335cf639c40d6",
+      "url": "47/52/614b3cb8b84d87384980c77ad333f383a50f16081a2f001c38b81b7c0c13/pulumi_scaleway-0.0.1.tar.gz"
+    },
+    "0.0.1.dev1587698294": {
+      "sha256": "d075bc81c1713476d7e90c436ff14ac2ac32fd04074f579699eb5c4149fa47fd",
+      "url": "33/d9/cead9a030688778827ac80cf1b2b57152de992a9bc4a6d644bf9503712f7/pulumi_scaleway-0.0.1.dev1587698294.tar.gz"
+    },
+    "0.0.1.dev1587698863": {
+      "sha256": "aa9017db2f168dde782d55756416e93f2a80df6a92aae3221c58260fb28968b8",
+      "url": "49/b4/6d7b4474b1efc26c2def59b6b80bef8b33d6e719763981ca6a724db70449/pulumi_scaleway-0.0.1.dev1587698863.tar.gz"
+    },
+    "0.0.1.dev1587699404": {
+      "sha256": "9cd4ad1d692095c0c1fb39bde5b1c787c4c374851bff2c7d01d7b94d42795775",
+      "url": "2f/2e/060e8c2feb2925d8a80414671119a3ed7552975fa96a2c1f9f9d706b572d/pulumi_scaleway-0.0.1.dev1587699404.tar.gz"
+    },
+    "0.0.1.dev1587700082": {
+      "sha256": "dd469a5a711626e65263b7bfb569c8d543e9feb98bba342fdc6cded81b1ca315",
+      "url": "bc/bb/bc80026716fd2e898bc8194c9240121e6abbe806727bce36fa27b41f0a8d/pulumi_scaleway-0.0.1.dev1587700082.tar.gz"
+    },
+    "0.0.1.dev1587701648": {
+      "sha256": "f9d1d6b7ddc2bba380d3f17f828ac6490861bedaf311afb989b53e1f8f35baf8",
+      "url": "69/3c/103f4bf555ba42226e099e03ef0ff05253425c39ff920837b42eb6610e04/pulumi_scaleway-0.0.1.dev1587701648.tar.gz"
+    },
+    "0.0.1.dev1587702691": {
+      "sha256": "041c01e49459b1de8ce57241bc9844cbca16dffc1ea85c165af0419e12d7e987",
+      "url": "05/6b/0ed83d13cace7ce9526453c42972ac0a819d2478a6560b354eccd02872a0/pulumi_scaleway-0.0.1.dev1587702691.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "43bb1ed7ccc0aef6a73729085173165eb778ad11fb167fce9ed9de2335491d1b",
+      "url": "dc/c0/21792a60955b03c18e7c8f69903bcc490e053a72145ad4a56ab445e76bc5/pulumi_scaleway-0.0.2.tar.gz"
     }
   },
   "puzcw": {

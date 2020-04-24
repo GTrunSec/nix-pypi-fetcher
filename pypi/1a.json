@@ -8177,6 +8177,34 @@
     "1.1.1": {
       "sha256": "25e7a7fc6b8500dbe7dfd8f64ccea1146c13363d18df8a70e02ddde71846ba50",
       "url": "b6/7a/351a54f97bee4107e97a95370ef7eb863b958d0e7ee79b928f2d97833aba/ForMark-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "2045367c221078aaa2706ee2cfaad7f2c57f0eca124804463233d82123bcb4b9",
+      "url": "e3/ab/c948864b2e28c06096778d1d7129855c7957cc46d8eb64dbf29ee7540fa7/ForMark-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "587896a7c9c655ef1b0eb306a97abf8f0329c8c0ed0d727322793d9e64774840",
+      "url": "ee/7a/972f333094cdcfef6e1f337df336bcb93772ecc86e5379b78bcee8e818a9/ForMark-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "b75895d8d0e9811e85750ba0a23c229e337b9ee898f5ea98510106e3adac95a2",
+      "url": "38/e8/d9aa337c99055ff3701d023527df56c7f8a48fbbc4358ea1c7bfaffff3de/ForMark-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "767d4605c3816561ba2626fce72a9813b1c3273ad9e20655892b685e14d04d3d",
+      "url": "91/b2/c424b53556dea68270345d8e31fb6084348abc8a6ed125c03944d107510f/ForMark-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "0fd4a3681380cd70a1a8ebc6d267a072ce77b4b9ef0d234c3f348105d579ce3d",
+      "url": "63/cf/75de9928f1a6b89bf5c1158938801a603f97ffce6ca3e0eabc85c9c3a0ca/ForMark-1.1.6.tar.gz"
+    },
+    "1.1.7": {
+      "sha256": "891fc7d1f36bf1943e2567af791bfaf0d0e3cc214df9c5921491478e8e2e8e70",
+      "url": "a2/87/2771062177c3543e194dc6c5347a70e727a54b5d25c97a2907791fbb1e22/ForMark-1.1.7.tar.gz"
+    },
+    "1.1.8": {
+      "sha256": "d863f968022645623eedd055d18ab15a0a7421df2ac41352e5d8f020a5c6d009",
+      "url": "4e/1c/2720ca4af9543157b6b9be9b9a9df81119f5607c365d716c568460833cac/ForMark-1.1.8.tar.gz"
     }
   },
   "four-color": {
@@ -22389,6 +22417,10 @@
     "1.2.0": {
       "sha256": "78c3bb365fd79fbde3c2ba8b987acdc0e1757dedd22c8414f2878c8f1c75c3b8",
       "url": "b5/fb/171f6c3d3265e499bbc1b382d99153268376999eba170dc4444c4a216248/vaknl-image-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "8357ddac0a3d8872aa9cff0698436a25ffb3324215d665729c207dda463dee17",
+      "url": "70/ba/bbd4843cba634115433769fa3336d37b0f654d0d812465784768815148f3/vaknl-image-1.2.1.tar.gz"
     }
   },
   "valgrind-parser": {
@@ -22665,6 +22697,10 @@
     "0.0.1": {
       "sha256": "7f9cd9c9a9a13abd1ce6a94ad5d51fca6de56860cced78b065fac2d4b4d530de",
       "url": "52/93/d706a674c8f4503d4e6c094f18ef1c23f839834df990f6e18822044c8b64/WellKnownHandler-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "249e201c5a48580b274a013ee697873fb6dbf863a20ef4c8e187fd009cfc157b",
+      "url": "62/56/e5f83dfbbf5171a224971b3dfa84d829d48323811b42a34d8b6afb487af9/WellKnownHandler-0.1.0.tar.gz"
     }
   },
   "wfdload": {

@@ -4427,6 +4427,12 @@
       "url": "be/fb/e16f5ea45d336d610bf5ee9a942d494b43e4e7d6835cb0cdaa844d01efb7/derlite-0.2.1.tar.gz"
     }
   },
+  "dffml-operations-binsec": {
+    "0.0.1": {
+      "sha256": "10cbbe169880cc0e96b222fb6c54ab7ddf4f85666281a11ef4681c139b3cab78",
+      "url": "d1/bc/9a733c6a8fa42af61f9eefc57186b1a4e0168d4b169e3b6714e4a484b556/dffml_operations_binsec-0.0.1.tar.gz"
+    }
+  },
   "dh-scikit-optimize": {
     "0.8.dev0": {
       "sha256": "a50b551528025ae5cde07b86d866da757bfa7c068d9a1c12f876443434dce651",
@@ -8145,6 +8151,10 @@
     "0.0.8": {
       "sha256": "e10e6546bedf9e3f0209620f20013b2e3b90edcb5e58e5f0c2495557e8fae315",
       "url": "e0/32/66d0b7919648332ac9cacec6ec13f7d7a68b9f270733e521cf3bcdae5cb4/file_split_merge-0.0.8.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "c4d0d551cbb2a3068306fd6e8b6ee878c97f1346e210bde5335e10d2ad9e0937",
+      "url": "bc/19/b3d8b4ed9a0a0181903cd37c6f229999b08de16511da0125269b5db7e9dd/file_split_merge-1.0.0.tar.gz"
     }
   },
   "filecmp2": {

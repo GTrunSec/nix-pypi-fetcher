@@ -1415,6 +1415,10 @@
     "0.0.24b20200423": {
       "sha256": "010ac4fe1386f3ea352259fd2e93e3521d445a789818af296c6c53a6f4eeae63",
       "url": "7f/64/48373be0e6f154eb936bd2a89b6fc7fb0352bc714665d2c1b9c7fea23a97/autorch_sphinx_theme-0.0.24b20200423.tar.gz"
+    },
+    "0.0.24b20200424": {
+      "sha256": "8641d8654edd30e8782282f66f1ce6bbce4203571da92be97775baff2c4f3202",
+      "url": "65/68/ec905da61dc628d4529a80ba262162ad1a57e188712a8abbaf5849b4bab6/autorch_sphinx_theme-0.0.24b20200424.tar.gz"
     }
   },
   "autowebgl": {
@@ -9309,6 +9313,10 @@
     "0.9.15": {
       "sha256": "4af887bc4c4edfe56d800870a4d7bec80eba2eefc7d010f662e819f7f1a3e50c",
       "url": "2b/ec/fefc6b6e24853718db7b993343c80ba808b5d7f2c10871f676b9df463fcc/janis-pipelines.runner-0.9.15.tar.gz"
+    },
+    "0.9.16": {
+      "sha256": "dba5e8e98cce1b17b4370c3a11071c6e3f1933fada8df69b44d6863c4b479de3",
+      "url": "61/22/3553a3109cea0d70e6cddcefb868dc8515baab8a224ec8ffbe57fb79ba24/janis-pipelines.runner-0.9.16.tar.gz"
     },
     "0.9.2": {
       "sha256": "7ceac18a372f4f57cd3d884dd81fd5c56e582e14c721d67b1f4730a17eb14a81",
@@ -17284,6 +17292,10 @@
       "sha256": "29176c2ca8f8af24028abab19c5757eecf3c969c3fc8e66a08460f0bafcfd08d",
       "url": "06/b4/7f69211e1f1faa11d0d4be3e89814ad4188a1723ba5e445cdd58e9c08ea1/pytest-splunk-addon-1.0.6a1.tar.gz"
     },
+    "1.0.6a10": {
+      "sha256": "820d153c4bcb452aebc03739cdae160f3a8c4484735c072da2c342b7c99c3caa",
+      "url": "11/7e/a65318e105b1d168ece2c0cd1e5ee64948492aa928a928139a341dfe4e77/pytest-splunk-addon-1.0.6a10.tar.gz"
+    },
     "1.0.6a5": {
       "sha256": "c73c416c655fe92a8ee2ecda8697374375f5e2c069073b6898e4ddfec7c6a4d6",
       "url": "74/16/e23206b5c828dac128600c28e546b632cfc4212dd6e821bbd32e03e84229/pytest-splunk-addon-1.0.6a5.tar.gz"
@@ -17299,6 +17311,10 @@
     "1.0.6a8": {
       "sha256": "da03622e03d2944e8d8144c1befff3d2219879cfb2facdb5d8cef364199b6cb0",
       "url": "e1/7e/8c58a538b49075ce98bc8348e1804c26cb9a367a9b6977dd90df9424d693/pytest-splunk-addon-1.0.6a8.tar.gz"
+    },
+    "1.0.6a9": {
+      "sha256": "c5619757ac219beae90027f67fdd46793e64513bd141057707e8d8ffbd6473d3",
+      "url": "9c/fe/a148e09baef19ddf5576728ea5ed90cc2f7d2583c350dcdae8b0d96e77e5/pytest-splunk-addon-1.0.6a9.tar.gz"
     }
   },
   "pytest-twisted": {
@@ -22651,6 +22667,10 @@
     "7.4.0": {
       "sha256": "0a724c66e2fd8918e160414f043e5c1a033d639fb3ee3637d228ae63fff5175e",
       "url": "59/9e/054559925f4442872f42fc2f5e7d803bab8e65ef0f9d55ad65cedfd366cb/tri.form-7.4.0.tar.gz"
+    },
+    "7.5.0": {
+      "sha256": "6db9e431fa59303d645387cfafd06e9a781b4e6bfdebbd4d10fffc1f3b7f2b15",
+      "url": "cf/09/fa79ec3d8d2f2ed050f1d6e93209cafbc331a473d02aff674a8f155b9ac0/tri.form-7.5.0.tar.gz"
     }
   },
   "ttooongli-nester": {

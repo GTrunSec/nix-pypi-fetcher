@@ -1864,6 +1864,10 @@
       "sha256": "8cbc477e22d177f4568e653292b72b3fa9058b47b2aec7a5cf5327e8bd418c03",
       "url": "d1/fb/d55c11995ce26b2cf56836891e32ad6cf1f52418a3dfbecbe9fbbe768e98/aws-cdk.aws-fsx-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "e73e2618b3354c86852e2c371c086663e802df348b33eac4ecf53ce4fa3d2a71",
+      "url": "c3/34/27d92c716605f9b8bdb2f7f50a53b793e1e4d309ef07e9bdf77ecc95db41/aws-cdk.aws-fsx-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "5453920b1d0f5025c9eee1f3cfa33220a8d609f754ec1c53861fff7ff4b1b3c8",
       "url": "94/10/3b35eb73042d3a944d49f6d4f3dfc5e6b69c7ce055350da1b26214082085/aws-cdk.aws-fsx-1.4.0.tar.gz"
@@ -4247,6 +4251,10 @@
     "1.2.2": {
       "sha256": "854ab41c36c2cccf9dddeb925c72784798864ebf8d18a89c311c212fc8e5df79",
       "url": "30/46/ace79114945bd6ba754c8d17b22b0e7af02fd9747c48c825c9b65d5932ac/ConfigArgParse-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "edd17be986d5c1ba2e307150b8e5f5107aba125f3574dddd02c85d5cdcfd37dc",
+      "url": "bb/79/3045743bb26ca2e44a1d317c37395462bfed82dbbd38e69a3280b63696ce/ConfigArgParse-1.2.3.tar.gz"
     }
   },
   "configy": {
@@ -8659,6 +8667,12 @@
     "2020.3": {
       "sha256": "4a614101c4285d3d7360fbaf4efb57b1f332873f6fd39fd16481cc281d7e582d",
       "url": "fb/8d/47c25cb18923852f907b18316e13c63b90eef96550eead9bdcd6a069c53c/goomba-2020.3.tar.gz"
+    }
+  },
+  "gopro2gpx": {
+    "0.1": {
+      "sha256": "73007e9be1e9837617304cc6ab8a1c777d377c0ec3518fdf1e71e056a5d1830c",
+      "url": "aa/9f/26bb7475f8b29c192b051eb146b52656fe62060f71e468ab3cd468236d4e/gopro2gpx-0.1.tar.gz"
     }
   },
   "gqutil": {
@@ -17281,6 +17295,10 @@
     "4.4.0": {
       "sha256": "a51f37b7aa1266135efb9f70264c1a54561cec898cb33406105312e20486665e",
       "url": "45/a7/3e5a6566b6351e8f8ca38ea8e5bc25a116e9a1b236c0b83a1fa3d87c0ba3/qctrl-open-controls-4.4.0.tar.gz"
+    },
+    "4.4.1": {
+      "sha256": "46a3f9e26fd29039e595186b4c192ac58257ba40d62a32b03cd3ff23ff1c4e4f",
+      "url": "5c/f2/b74565372826892c8e78575b330d78c9e8dad3801527582cc876340f4862/qctrl-open-controls-4.4.1.tar.gz"
     }
   },
   "qrconsole": {

@@ -3345,6 +3345,10 @@
     "0.0.3": {
       "sha256": "73f2b143412f37286f384dfc5955cfed52cf94aac8187765551f6c325ecf43f0",
       "url": "9e/f2/5a0dd42b545cddeff1381fcfd76a567235ba2b79ffcc93a9d271e92d3bd3/catsndogs-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "e7b4cd7e37468e077f40c3604d4b90cd4460756b56af0406d0be858d8a77e73a",
+      "url": "c2/8b/448c8e9d70051025487d0f5007f67b4f75d0a2bcfab1f0b3d0d555e9919b/catsndogs-0.0.4.tar.gz"
     }
   },
   "cc-plugin-ugrid": {
@@ -12587,6 +12591,12 @@
     "1.1.0": {
       "sha256": "af94e350c9b3a5b45717533a4b513bd8380d662505f6c05e8a02181e56581ea2",
       "url": "b0/e9/501a285c227f674f1c7aa424fbd6b039dd7afd3310ce0cd840c37d34b645/nr.date-1.1.0.tar.gz"
+    }
+  },
+  "nsi-bertrand": {
+    "0.1": {
+      "sha256": "4c5d420e7d3d825d3309b6f8d62a8072786400752989376cfbcc89e5e7f74ec0",
+      "url": "7b/33/a68f4cfd394d69425c21b7e12a2e5b8a942875f079e675c6102395a84d2d/NSI_Bertrand-0.1.tar.gz"
     }
   },
   "ntc-templates": {
@@ -26109,6 +26119,10 @@
     "3.3.4": {
       "sha256": "be893c18d72c33f4474d82e2bcb4e0d22e7cace547b47d4d708eb466872ea552",
       "url": "7b/f4/ceba2b223f07fdb6e6b606540120b75953f381f051a83fdc564e7255a4ef/voltha-protos-3.3.4.tar.gz"
+    },
+    "3.3.5": {
+      "sha256": "a348669ad1628c8ea568babddd46f97e524355634ebe8f0437ef59676187c848",
+      "url": "5d/17/488e4fa7f109985da06319ba1eec33cfb5e7ab23723e3ce439cd1add9982/voltha-protos-3.3.5.tar.gz"
     }
   },
   "vyper-debug": {

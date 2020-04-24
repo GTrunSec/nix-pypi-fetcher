@@ -6376,6 +6376,10 @@
       "sha256": "c28e5d6a1be4ae9b5693ef371828ac2c82b433d279221d12b27808c542c14aea",
       "url": "88/a9/64d2efb12179c3952dde34f6abb8d8a5f2d350df251c273214d7a6fbbc56/DTP_Emulator-0.0.16.tar.gz"
     },
+    "0.0.17": {
+      "sha256": "d1b39d58ebd3e3f051a02f6c844cd77063b3ee77380f6a13f77b97db1cbd7c34",
+      "url": "83/d6/5324e0c94ea2da6fffcb6600062983a4ef3cf90509bf782fcfda84e21478/DTP_Emulator-0.0.17.tar.gz"
+    },
     "0.0.6": {
       "sha256": "7cac66ee2c4ffa320924b8aebc1328a69ffef3b45d666fce9bc9640fc5dfbe06",
       "url": "d3/22/ce5733a000b0589039243d4f9b050903e5b780f2471ed2f6653cb4ce760c/DTP_Emulator-0.0.6.tar.gz"
@@ -9017,12 +9021,6 @@
     "0.2.3": {
       "sha256": "3ed62f11ec8fc525686135d55a117e317b62ee8a612b4415436b6fb03d9724ea",
       "url": "12/4f/c1c0d702e3b467cae212d92f747591b429185e9c5824f607bed231dc64f6/import_relative-0.2.3.tar.gz"
-    }
-  },
-  "infi.django-http-hooks": {
-    "0.2.5": {
-      "sha256": "f32ee50b1973664d16104656c4bf5a19a2e637646a367bcddc518bc92139a769",
-      "url": "59/a8/cf6d58e004c54dbb1ae5bef4ee1911f084ff068966bfc870d6fc6ed83098/infi.django_http_hooks-0.2.5.tar.gz"
     }
   },
   "infi.rdc": {

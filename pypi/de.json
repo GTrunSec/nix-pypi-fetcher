@@ -9624,6 +9624,10 @@
       "sha256": "0b48f5828f0601d6929c135ce007369bdfe724931c7684220b90522f62831e1b",
       "url": "73/c7/463e423ed50f377909dac9602e485dc2a89a736e7ace077bac621e2a33dc/genutility-0.0.28.tar.gz"
     },
+    "0.0.29": {
+      "sha256": "57a4eb1d45115e431b3e77e68ab4aa6cb30f1d013f866156b12ae5ad242349be",
+      "url": "7f/e0/8b36c379d0df3fc114894393e8ee620d86127a132915173986952fc02b59/genutility-0.0.29.tar.gz"
+    },
     "0.0.3": {
       "sha256": "1a70d1d812f1e69eeadf039cd9931747de202025cd3c315b9d069272e2eac6b7",
       "url": "a2/3c/b51346508fca0208630f01e0e40405f7b94b8fd6b87e43792f3bcedf97a3/genutility-0.0.3.tar.gz"
@@ -17483,6 +17487,10 @@
     "0.3.40": {
       "sha256": "4af1214056611c38badfb614e1061ebd9b7c72175afc671981b231ef0c0c7ced",
       "url": "67/eb/f6185b291d6d383dbc589aaa64a6323734a109bb8b60617678213fedaf99/photo_grid-0.3.40.tar.gz"
+    },
+    "0.3.41": {
+      "sha256": "23f7526346291b8df87998d85fe839d7566f0dafd01d6fe8d96b4f67c6fd39f0",
+      "url": "94/af/ad002b2b4b70de82a9a0e29b3cbb16e8d6b451e8eb075f5c9044cb795fa2/photo_grid-0.3.41.tar.gz"
     }
   },
   "phreak": {

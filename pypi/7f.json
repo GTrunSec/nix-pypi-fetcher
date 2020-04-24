@@ -6531,6 +6531,10 @@
     "0.4.0": {
       "sha256": "d64f31c98c52961436ade5ee2c237c6598b9a3c8d751022af0cbb83996e15e6d",
       "url": "c2/82/28ab59962eeadacf38de22744d96cf3dfc63f701126ea897b561386eab90/chibi_requests-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "a07be59b8333a056b3a5ea4b6fab5c9e49de4ebb8b3cdaede26f551c393b7294",
+      "url": "2f/12/f04a753bb56be62eb7464e488d08fedaa1b39d77e78eba33d6160d6b12fb/chibi_requests-0.5.0.tar.gz"
     }
   },
   "cidr-list": {
@@ -12825,6 +12829,20 @@
       "url": "90/ff/a03a3b4b2d0111bb2c4076442eaf4862d5e251cbb4ca4052ab386e22c0db/ievm-0.0.1.tar.gz"
     }
   },
+  "ikl": {
+    "1.0": {
+      "sha256": "42e8db7b5211be8a445e2a61b4da489a4d738fa74cf6d15884a6d8fec43e0da6",
+      "url": "7c/33/a55b757600eb4e5a5b99f82891bcb5d71bd411cf90e5db52d834c54cff23/ikl-1.0.tar.gz"
+    },
+    "1.2": {
+      "sha256": "f57adc1af93a1214c1981e1652d7d08f6ac21982b7b3cb80b483d79950fc2b86",
+      "url": "c2/43/22b1dd780f107477a57bfaf7065b92c842404a600cddf26de2495a64e3d5/ikl-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "47b958114629b1d46de0fc2b0df58935ebfd27a0c1e0306b6139fc31c5d1690c",
+      "url": "20/71/5ce8b22d212d992dde008ab2fb463ff824b636d6fdc0a09dd3026c2d2de6/ikl-1.3.tar.gz"
+    }
+  },
   "imagine": {
     "1.1.0": {
       "sha256": "6f2609fee9d56d7e57ebbd0090ac41bb8c5ccd698283090429a728b6f040344a",
@@ -13635,6 +13653,12 @@
       "url": "76/20/0cb56ae71bf28bb8d920fd14ee14397bed4517c41973f89dce3dad38ca09/kagiso_search-3.1.0.tar.gz"
     }
   },
+  "kanji": {
+    "0.0.0": {
+      "sha256": "fc2e189cc2eaa967043e7e73d3cc02cd63dd12f464ec143b483fa159c4c90b8f",
+      "url": "02/2a/fdc5a98aa073e0b8bf4effa4ee89d7a79f6cf64eb90c15c9f241a5220dc4/kanji-0.0.0.tar.gz"
+    }
+  },
   "kc-sanitize": {
     "1.0.0": {
       "sha256": "df5e0610c7f56428f9099534aea35a7b876828e776a71e2b420e83f7387c28e9",
@@ -13786,9 +13810,9 @@
     }
   },
   "kucoin-python": {
-    "0.1.0": {
-      "sha256": "e4eecfe570718a1a778803f42ffa2cb06a26b9df5104990fd0b677becd9eca70",
-      "url": "5c/6a/8e57deb36d66b1f82d05e2d396c84741231a5168befb4a47b1df3e0447ef/kucoin-python-0.1.0.tar.gz"
+    "0.1.1": {
+      "sha256": "ef0fec9274793f17e3f7c09a95b2c1b21b8372b8ece4f1907eef235517a029d2",
+      "url": "c8/5a/54371a3fdc71ef19f0e6deefcae54c96a31df96b7d32384cbdca29a32dcf/kucoin-python-0.1.1.tar.gz"
     }
   },
   "kutils": {
@@ -16719,6 +16743,10 @@
     "1.0.1": {
       "sha256": "f7a0c59bc8e577f1b8a8d2422cb0a2dbead0e04ce741eaa22f6c12b87641fb76",
       "url": "bd/b6/6c0534b1539c7a722ad1600c113abdb1a2af3b3bbed7b4b865b2a48274f3/nussl-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "b493494b2e155bcdc87995620e3d1ecd2633fff2543ea6fc69bb1f122566fddb",
+      "url": "ce/a4/097b27d65fdef485e8365e9a72bbb1718a7b45771d99adea2dd2abf3e189/nussl-1.1.0.tar.gz"
     }
   },
   "oasys-widget-core": {
@@ -20275,6 +20303,12 @@
       "url": "36/26/885cdf49081c0a60e39f4172c61b239bb8b144bf64ec0a43edb73fc2cde0/python-aggcat-0.9.tar.gz"
     }
   },
+  "python-anodot": {
+    "1.0.0": {
+      "sha256": "d0bd9614968eba52c12d41dead361594b4a8c2ca6d92a4f4f1b3b4058bab13d8",
+      "url": "25/b3/7eead2b039e8c5ccd4479292caa29e998ef74f6c713f2d663064abf462c6/python-anodot-1.0.0.tar.gz"
+    }
+  },
   "python-easy-math": {
     "0.1.0": {
       "sha256": "8812752e0d43f1f9f2ed7a6070ec2b7bd42beef6b1ecd7ee0e6aa40ba56934e4",
@@ -21397,6 +21431,10 @@
     "1.4.3": {
       "sha256": "8f04aa6201bacda0567e7ac7f677f1499b0fc76b22140c54bc06edf1ba92e2fa",
       "url": "a0/f9/8c1712aea1b70c6a77db322bb18610a078ba8f44876e95289137953db30d/requests-file-1.4.3.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "b9e9fb30cbd888c9c253b03610b3c0a6e191f802a42cbdaeba86c60e17ad912f",
+      "url": "3d/44/8893d0e790a16a1e45c246420e5da997947cbc8ae49229f9e7be8c793a2f/requests-file-1.5.0.tar.gz"
     }
   },
   "requests-random-user-agent": {

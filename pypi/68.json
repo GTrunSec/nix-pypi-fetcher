@@ -1245,6 +1245,10 @@
     "0.0.2b20200423": {
       "sha256": "9911969ca18eefb6ea237d2b99da763e6e2757d3d123c411502eb22532faa0b6",
       "url": "73/9b/53762bd48ca39e35fa0028019ff9d93c45e662b9986a8295f11b5cdc65fd/AutoTorch-0.0.2b20200423.tar.gz"
+    },
+    "0.0.2b20200424": {
+      "sha256": "ec1811a2565cd39bf588d8f864dc95c6c34b1f4f081f42d6bd99b4f62fa53a28",
+      "url": "3b/be/819a73693945e4d48a267bbe9e29a544f4527974cdef2367da93b03119e0/AutoTorch-0.0.2b20200424.tar.gz"
     }
   },
   "avocentpdu": {
@@ -9915,6 +9919,10 @@
     "0.2.5": {
       "sha256": "56fab62d24c5793cd81a4d15ca6bb33163aec41a47acc6f46c1aa249dbd54892",
       "url": "6c/2f/de517d859037d73711b43edbd1af936cdb36b58ee520d2340fd8dc6b890a/gitlab-registry-usage-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "0039b59b4565a445afd20177123ff4ab60b15470d183d4b3dde6e9dacf5fff7d",
+      "url": "2b/e8/498bf1e7269f5e26e020804b29461e05b0e97c6e2160c24c80a2ca729a9b/gitlab-registry-usage-0.2.6.tar.gz"
     }
   },
   "glrparser": {
@@ -22141,6 +22149,10 @@
     "0.6.5": {
       "sha256": "5c5b54f04a8ec90b6794861cea10d55b171854ed9bd2418f158f6e4577541976",
       "url": "16/dc/f2359e13f1e9ae71a4807dcc77968801c6a267b5ba0773159e72218a187b/scrapydd-0.6.5.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "064a37563f392d33b9d4aa1becd59e0c65c31b70a3d68346dd8120e05e7b10d7",
+      "url": "21/c5/c345c0bb3c3c5f7a03e47a99caa378cb6b6c29891208d9000c148958a77b/scrapydd-0.7.2.tar.gz"
     }
   },
   "sean-nester": {

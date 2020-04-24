@@ -5143,6 +5143,14 @@
     "0.7.7rc0": {
       "sha256": "236bfff02ffb53171696f7ada36b8cd7a06d2fcaff3be58f14c03b5b199b1de2",
       "url": "c5/83/01fee10a90dca71589259cbc2abfebc0edea8f713fbfa93a8e7661c6138a/dagster-dbt-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "467a59a7c25365420d91a2cd05fdd48ee3e4bf9d7a81b6e571ae03fcedebd219",
+      "url": "b0/bf/91d0664770550eb00558be698025e6e34ca9b5586069fde0df2969b2ddc8/dagster-dbt-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "c1cca4886a63f545b4cdaab8e6e0d15288e614ea377f2be4cca3caf91bd6af88",
+      "url": "7b/1b/1c09dfe7f9ec5f04426567fc52e28bc2308bd2176a59e9468edfcf7a1afa/dagster-dbt-0.7.8rc0.tar.gz"
     }
   },
   "dartcms": {
@@ -15125,6 +15133,14 @@
     "0.6.1": {
       "sha256": "3789a0116ea9e30e9cc49663c8a78b04a55436a9f6d2f1fead0e06904e2cf53e",
       "url": "c2/f1/bafedc98994297fce659f82b4e93a5892a99ebee112ef2e5061246da181e/mcthings-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "7b043bc13bdedb54427108b9ed6ace896b9bce24ee5f8f183c04d25f4f13c5f3",
+      "url": "87/ad/4f5be0dd872f0a750bc674e01bd9be6a95193803399a63a5c6ae43b896e0/mcthings-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "296b13ca13eb7d7ccd6ead5db3ff175456731d6754cfd9435e94794ee85212e3",
+      "url": "26/ae/aaa323c06d1afc2af6dd52e9a05004d638e496d7ed84f15c954be8b85435/mcthings-0.6.3.tar.gz"
     }
   },
   "mdptoolbox-hiive": {

@@ -25043,6 +25043,10 @@
     "0.1.15": {
       "sha256": "b73fed365555d1026e8606a9968618d29296f71626e7be91cd79f8f682756239",
       "url": "04/ac/0d01631251b10313d126308305f6e716c693d94f9eb18a9ac8e066e6d4f1/testcloud-0.1.15.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "ddac770e8e9f81c32b087fa7d683276fc1b5ac9b759ae8dcab1ace3251ff38d7",
+      "url": "4e/24/96475ccd391cc7a9477e2925b42ce345a1617e61fe42389da46d21daf739/testcloud-0.3.2.tar.gz"
     }
   },
   "textmetrics": {

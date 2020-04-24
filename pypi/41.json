@@ -1942,6 +1942,10 @@
       "sha256": "9e6688748fd7c25f794fbd460b8912ec6dc65e379faad144760b1c881e9b10b0",
       "url": "16/96/e065d7f3a6bf5a6809395ddb171e5d6b7e59720f7a84853f4248f58f79c0/aws-cdk.aws-route53resolver-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "0a1467e049fa5d08b77915b98c174987e7cf6bd7564aa8e1c1da2a454dd929a3",
+      "url": "fe/f8/bc43d7a6be3f2b910e172a866bead230cccf41aa7d708de83204702c5237/aws-cdk.aws-route53resolver-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "04fc4cf325c40a3cec837f8ca491e51aec83c5ad5711f3fb673501e95315dfa0",
       "url": "c1/21/8f8f2787ea8f8ef2ad4c1ed73165196f0bf1572e24b15096bced312c00e3/aws-cdk.aws-route53resolver-1.4.0.tar.gz"
@@ -2327,6 +2331,10 @@
     "0.19.7": {
       "sha256": "f898e991530ed4758970d0fe69dbcecca48edc4c8efcad109406835c1ce61f63",
       "url": "3d/30/fc64c27c3a65ac895aa028662b223786e4e518f42b599d687199b76d1847/batchgenerators-0.19.7.tar.gz"
+    },
+    "0.20.0": {
+      "sha256": "9fb8080a3dd8a2df9a8b1c5a26809bf98e5cc658b5718d787727ed93a1501a84",
+      "url": "46/b4/99f320214ec2d4af8a924c51c21c080092eb5515e163f0a50ea9a4d35446/batchgenerators-0.20.0.tar.gz"
     }
   },
   "baton": {
@@ -3403,6 +3411,10 @@
     "242": {
       "sha256": "376b4a71c1c293cdbc62e481299c5061649ba512afa2b3f0d2fecfc3213d7e47",
       "url": "7d/0a/7c155f23838bf2017c9b08eb565d294cd275078894c12a979fac9fdffb86/cdflow-242.tar.gz"
+    },
+    "243": {
+      "sha256": "f63e52404b82f1054980c13117d0014ab312b56cee205e01ad2c14f5bd9bda88",
+      "url": "92/f0/ce5b928d17e88ace1ba72dac0b8f4b99a1ebab1c8a731e41da5faf7bd77d/cdflow-243.tar.gz"
     }
   },
   "cexbot": {
@@ -5271,48 +5283,6 @@
     "0.0.3": {
       "sha256": "454690cb85d5d9c3fceeab0a8bd375c9302b573873ca8b4364b67badbad7083e",
       "url": "fe/83/0d336c293638ff26b7b2c72ceb468a58144eb83cdf9d0fb8271feaeea76d/dash_toggle-0.0.3.tar.gz"
-    }
-  },
-  "datalab": {
-    "0.1.1701291453": {
-      "sha256": "b6351c819e1ccab45bab417e41537226a0af6d7c419a4041347f86820a21613b",
-      "url": "05/64/c0c20ce07d685af6b182fee380a7d5034ad12b54fe9f94898174a332178f/datalab-0.1.1701291453.tar.gz"
-    },
-    "0.1.1701301349": {
-      "sha256": "7785f62f078e46c6676d3e29a34aae7ea697aacae958a22841daa37329d9dc98",
-      "url": "d8/51/9bf3378959bb8d41076a0a1e15ca90b0c961380839c7ff24938cb85b7bf1/datalab-0.1.1701301349.tar.gz"
-    },
-    "1.0.0": {
-      "sha256": "26dddaa9eb0581c792c001ff6c647b14e6bf8050a996ea1173f7dd73144fee14",
-      "url": "57/7a/32bfb734d7796a9560236e39adb716235a58ca1751c31efdf6c93c5cdc7b/datalab-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "6657e24538788537b6fb56bd1cbec5641e546098b7d3c9d09890df9855468a0e",
-      "url": "61/f3/52b42216ddcf896353e65caf8b932a0f3de953ff66477a749b4ab1358da6/datalab-1.0.1.tar.gz"
-    },
-    "1.1.0": {
-      "sha256": "365beba8b444910453932975630a900096e966b3dd5bf368f53407f1ae09b961",
-      "url": "37/3b/38bd8e6093cdee6b4a343f3170523da19a3d2d22aedd7d9538a43905f02d/datalab-1.1.0.tar.gz"
-    },
-    "1.1.2": {
-      "sha256": "fbd772cb5beec10dc2fe67220a25dc7c2f2a5db397fc401053e19bf20b92a793",
-      "url": "fa/a4/00201f476a360979bf81c895acf51c64602016a502da9688b35151e75fcd/datalab-1.1.2.tar.gz"
-    },
-    "1.1.3": {
-      "sha256": "c15a02e84ca2e720bd60cf2ee3c3bc0274256b658d0f4a2f6675e5be7cdfa9d3",
-      "url": "9d/57/87da90dc6f629ff05a6d0ab2d3d567e4413b66cedf34d0750aa98a14966d/datalab-1.1.3.tar.gz"
-    },
-    "1.1.4": {
-      "sha256": "faf84703a5a37e658279210d630b8397d8f1d0011b983db968c81d86f1035d3e",
-      "url": "34/20/3b4963045b1f5ebb79253a2b22225530faecf563f293a19acbbbbc097ddf/datalab-1.1.4.tar.gz"
-    },
-    "1.1.5": {
-      "sha256": "a69543be58221240c94ad38ee4431794959cd5f887382abe799b55d5548c0c0f",
-      "url": "98/fb/959e3759f9985d2c4cb048eb808d45cd94c16ac6a1d148e7ba1028fa0ee5/datalab-1.1.5.tar.gz"
-    },
-    "1.2.0": {
-      "sha256": "8dd612d0820bcbe5e16a5459967c61077df68cffa197fbc81050287c3bed758c",
-      "url": "08/2f/c9c7a2aa0c7d53947ef6809d6e9ee3bcb553c92da694d39a810f48899f47/datalab-1.2.0.tar.gz"
     }
   },
   "dataland": {
@@ -11581,6 +11551,16 @@
       "url": "a0/a6/d127a32c533bcd8263319208ee0034783d5216ab20703b5c610e7ddbc60d/ibmos2spark-1.0.1.tar.gz"
     }
   },
+  "icecoal": {
+    "1.0.1": {
+      "sha256": "0b5c974780fd5897e4eb8abe7bb8d6a4de360d6e12ea0ed35bf8ed47017f5047",
+      "url": "0b/84/ce9f4c8e7d6c56056bfb929a1077d7c7e5074eaeb7afd7ff1d2e2d6c8201/icecoal-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "8644092264cbde0792b98cd4e87a40d1b70f8a33aaae0be7782390fe590802d3",
+      "url": "74/22/1adb520381a4f75102f643eed6240453211c89713b16f1cf075c3f1d4824/icecoal-1.0.2.tar.gz"
+    }
+  },
   "iconf": {
     "0.0.1": {
       "sha256": "d90e9121d9bbdbdd43209b2c5842fd5ff7e426e85d726e998bfa0fab0d84b3a4",
@@ -13667,12 +13647,6 @@
       "url": "4c/50/3e8de7262e4e3eea79717281c0a8cb2603bdb52294d1ede459a7097b1f3e/MetaMindApi-1.2.3.tar.gz"
     }
   },
-  "mfexapiclient": {
-    "0.0.1": {
-      "sha256": "c5c50e2d8faadd2a64f7d6c1f51e7b5aa3a82e741a332dbc669fdadd7068694d",
-      "url": "72/8f/4dd83bc2943143f436ea3dc7a748bd36954e51f6e742b07b588a6fc95d14/mfexapiclient-0.0.1.tar.gz"
-    }
-  },
   "micropython-getopt": {
     "0.5": {
       "sha256": "f17c9cd6c1abe9fe55fd4b7b855e48d09fa7caa7f617e3dd62872c67fd6c4ee7",
@@ -14331,6 +14305,12 @@
     "0.5.4": {
       "sha256": "0848842ede5ccc115b7f193240899eefe9aa16cdb337feffca37dffe3ad17428",
       "url": "9d/2d/f76f7d86e559b38d82b475dd0a2d7b19174c032a54f66f2828944cc30878/monet.calendar.event-0.5.4.zip"
+    }
+  },
+  "moneyforward-ex": {
+    "1.0.0": {
+      "sha256": "91d315d7ea7d4561eb9a6cc6bffe8cdb0c80695f1aa2a2b276e45f689519f8fa",
+      "url": "00/7f/f357b7d9f898abf5c9ce5c5c174b08a207f41beca14a54dcfab26fa5ce98/moneyforward-ex-1.0.0.tar.gz"
     }
   },
   "mongodbrdg": {
@@ -21091,6 +21071,14 @@
     "1.0.0": {
       "sha256": "20f40bae56e823306db73404eeed359f8a298d63e22c0d1d668dabde78406093",
       "url": "1c/5f/1e9ef16a98ea2d50bd96e16f1b367a0b3c098db445d6c7394fccac3110db/pwh_permissions-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "60e9549fa8f9911c27792408105a804dd83802fe789a162bae2bcd52508714f8",
+      "url": "35/79/dd16c21b5919718f06a8097ae7b744ca8ca32ed6f720dd4913bd90c90450/pwh_permissions-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "9d4b20f6d1ece445e93c60f16ff924b0c94b196bfa71c1c12b195d627c4c0193",
+      "url": "05/2a/42d8c111f2e4d332f595c9bb79640a45168a06f2d8ec5b9438f008d0941f/pwh_permissions-1.2.0.tar.gz"
     }
   },
   "py-cmd-app": {
@@ -22433,6 +22421,12 @@
     "2019.12.09": {
       "sha256": "43c04c839b064361c4126a97a12dc2f79f554f7bb5d3e454d57a9f7115056950",
       "url": "54/48/1cb85a97728c8ac7414ebad879962ed971a15588b6e490af3f922dc8c788/python3-timbl-2019.12.09.tar.gz"
+    }
+  },
+  "pythononswrapper": {
+    "0.0.1": {
+      "sha256": "3888b08a0d801997f267b02a727f0af195ddb2e279cff122e51acd33822646b1",
+      "url": "b6/6a/0d35badc4a0ed0e1877c946c1cef8c2b50722edac4bee114362775fcb478/pythonONSWrapper-0.0.1.tar.gz"
     }
   },
   "pythonsched": {

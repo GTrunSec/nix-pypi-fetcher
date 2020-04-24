@@ -3195,12 +3195,6 @@
       "url": "5b/4b/9cff5438a7c21ebeae24abb75ed62b9961c98dd1e75099c5e993f35f4aeb/dbtools-0.4.0.tar.gz"
     }
   },
-  "ddb-python26": {
-    "1.4.255": {
-      "sha256": "31ef3bb1acfbe9004c95536a200547fbef232df6869e8e89fbbb0137f7e80dba",
-      "url": "73/4d/1bce792d9cf87381570797b6afd85659b30a1828d4ac3c021afc372a58d4/ddb-python26-1.4.255.tar.gz"
-    }
-  },
   "decimalfp": {
     "0.10.0": {
       "sha256": "9cbbaf187954f3b1d03b8c58a1d4ad7f14654ec9b47a9613dada2c5332fb1703",
@@ -13585,6 +13579,10 @@
     "1.0.1": {
       "sha256": "ac4dbfb602a8f12a3e8e01172dfe4f63371901cb9fc601cdde235c08c312a05f",
       "url": "d3/4a/80ffa38b8d16d0a28f7200386406cf74661a58e7776b7dfc598a2a9a782f/ndstextgen-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "4edb5a7a7399087923f5b73ac2574d69f5c0a593be4b7daf0574f2fcb501f33d",
+      "url": "f8/ae/e64dfe98d3ebcf807e898c6a9b0a74b68b1e95b71a222d40f871fe074277/ndstextgen-1.1.0.tar.gz"
     }
   },
   "needinit": {
@@ -18581,6 +18579,10 @@
     "0.3.3": {
       "sha256": "18b95170802776a6cbba8be227f4740774cd6249eae42686cb13886ff7050223",
       "url": "f5/d7/ce285eda1e1aa779ba7b76dc2b81bfc52d9a26bebfbbbeba884e6c71c0ba/pynetworks-0.3.3.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "69318fffac24d7e71dcba413c1c71b5f958857dacef7b9a117409557622d1122",
+      "url": "f4/6d/a9b4e8f01d4774fab12fe1fe4aa012a227790ca14b2b8d77de1ebd27bd8a/pynetworks-0.4.0.tar.gz"
     }
   },
   "pyneutralnews": {
@@ -18611,6 +18613,10 @@
     "0.8": {
       "sha256": "1718d83bac97f11f84230e8fbb5def07ccb94d520f38fa52573acb06a8064dcf",
       "url": "b8/f9/5c1c1661499a093cfd4ba34d0b7f8afe63adf0cad4acfee13ce1ade78787/PyNeutralNews-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "9ae4b950c7a91a0dfe3632059f8c733755d9dba785610a06b77b0505280c6f55",
+      "url": "c5/83/35fb713befa1ed5adcfbbde5196b0722478d5331ecc62fe72ac289c7a2a9/PyNeutralNews-0.9.tar.gz"
     }
   },
   "pyoa": {
@@ -24069,6 +24075,14 @@
     "0.2.5": {
       "sha256": "23e5a09cd3e640bfdfac1e278f4c47897851e728c9d9f7b471699004d15e26ba",
       "url": "ae/ee/5b1d5b6d87c9f32d0e43a33865233caeb394a2ff71b9bf25290d56558667/vtorch-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "6d0a866e6f0e5bf4736be24b1e444aa11942a20e42fae9ad956e956a46c44f0a",
+      "url": "20/b4/dccd1dd54fd153af0874aa7062c1441d92b5cf43a2be18435ec6e57bb42a/vtorch-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "b7f0be44c627641b300173b9c87699084a571b27032bef7390d5fdcc5ed04cd2",
+      "url": "e9/5e/eba9354c87f2c56f6d8ddf2d087739ced04b32a45dffdd496a998cce4ce8/vtorch-0.2.7.tar.gz"
     }
   },
   "watch-rsync": {

@@ -19275,6 +19275,10 @@
     "2.1.0": {
       "sha256": "3d69d6aa372072dc2ce18c7b802abf835d127637e4b0afe7f19c337f884a39c5",
       "url": "92/cc/772448fd6c19b1998663ea8d15750ce1fc089ed530408c2eb1ea95685e02/qctrl-visualizer-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "179569fa01c7189eeb77576e65e759ee62efe0d49a1621f2a49ed7c6629be3d9",
+      "url": "f3/47/5eda453a053be9bcc869c34b8e0e79e8bd62576a6043e901c7025e27e3ce/qctrl-visualizer-2.1.1.tar.gz"
     }
   },
   "qfmath": {

@@ -1459,6 +1459,10 @@
     "1.0.5": {
       "sha256": "5c5bf6a29e2e21f0056cf82d6c47a3f1f7980c7e0b81c5f41707f992345dd8aa",
       "url": "48/e3/53079a1cde4ae5c84e6f34b3cf67b02f15dd4d2cd98825db035d15651229/azurlane-1.0.5.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "aefc9ba4bc8cf95e681fa5845fe6bd0496306354ce318d75eb92b2648592db48",
+      "url": "6d/a1/27333f988fa3772231e062e9918acdfb296441bf2c656af1aa54c97b6c18/azurlane-1.1.0.tar.gz"
     }
   },
   "back-pubg-python": {
@@ -8773,6 +8777,12 @@
     "0.2.1": {
       "sha256": "66e0e813e9dae8a4ad234d9d5fb98269f26057f7232ef7179f3d10ae3f133290",
       "url": "ee/47/cd82861205f23d9e11759f997acb86ad5f65bf74f3289c4bcfdc84f1a389/itsalive-0.2.1.tar.gz"
+    }
+  },
+  "iva-applications": {
+    "6.1.12": {
+      "sha256": "0ebfbb3e2abd8366d3139ce445f5cdc20efb641130437aa95013a6261ebd400c",
+      "url": "c8/bc/61dd0c64f37f5a7a7a640807e111f84bb90d9fc4eebeb2855abf45f353ea/iva_applications-6.1.12.tar.gz"
     }
   },
   "jaraco.xkcd": {
@@ -22213,6 +22223,10 @@
     "3.0b17": {
       "sha256": "9b3f58f905fee9ebf313d204fbaeba98a77dcdced015c08f6d949f495990a331",
       "url": "ae/be/3847a30d296d22a85aa00eaf97ff639db31903023fff2093539ec0f061f5/threedi_api_client-3.0b17.tar.gz"
+    },
+    "3.0b18": {
+      "sha256": "12917c752a622d939e318c6fec60abb0a7d937d8c4472c39fa65463e98f9367f",
+      "url": "a0/7a/e225b615fe2f0029ab5763f723561cdd1a0b10ef5180bd9cd0f6ba2bbe52/threedi_api_client-3.0b18.tar.gz"
     },
     "3.0b2": {
       "sha256": "645935d93ff446c57d595f8edd353205b6754980c9ed4d3aa4743b8ed6b39927",

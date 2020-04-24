@@ -8127,6 +8127,10 @@
     "1.614.0": {
       "sha256": "eaf7ecab8704d9563f44054cd510e30e52fa1f61e89443d2e696d0346ccc37df",
       "url": "64/92/cb3b0ef7876d56e96927b831b091902394a9c9b21a114bf989535a759547/gardener-cicd-cli-1.614.0.tar.gz"
+    },
+    "1.615.0": {
+      "sha256": "2856292e6d6b6ef57419ee11bf3a21c1ab3e7053f4a1af4ceea7e0286f8f11bc",
+      "url": "6b/6d/743c23d7ae6c3b019d75d0b95a25e7d1bf604d2925750964dd1b9cddb4a0/gardener-cicd-cli-1.615.0.tar.gz"
     }
   },
   "gaus-bi-distrib": {
@@ -24007,6 +24011,12 @@
       "url": "97/82/7c732eb2d2354f8f9cf23cf7000e87a7328cecbcb2ed1ba087f1bfac9c81/uri_handler-0.0.2.tar.gz"
     }
   },
+  "urllib-ext": {
+    "0.1.0": {
+      "sha256": "706b2a46c0d06af84ef40c5a727edb3976c201d18b10eeac77fb86184165c265",
+      "url": "44/15/ec8793890c1df74c2dc0f9745514a951a769f179f1bd0a475abe0341c691/urllib_ext-0.1.0.tar.gz"
+    }
+  },
   "usury": {
     "0.1.0": {
       "sha256": "e3da40d1fa29ffc42e29d4ffc44be58a3a8d02e5732589da863647b9023f103a",
@@ -24991,6 +25001,10 @@
     "4.4.0": {
       "sha256": "ee12eb0e6f7dfc1aed1a5fc1f0e1aafc47aec76edef320f2f9626b6270396b3a",
       "url": "f8/b5/1b70909444a0aefb73d82984968f927beb23ae036910d56c30f14e434e03/xdis-4.4.0.tar.gz"
+    },
+    "4.5.0": {
+      "sha256": "5569e6d8e05b535ac96081240cece856edb511c9150d511ca9dc0480cd74c86e",
+      "url": "10/47/6df65c83eba4cf4c12cc63676759d506e2de0a1885fd16d669bd6d479a5c/xdis-4.5.0.tar.gz"
     }
   },
   "xively-python": {

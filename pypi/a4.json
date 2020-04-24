@@ -17737,6 +17737,10 @@
     "3.0.0.0rc1": {
       "sha256": "95c2e809b14ce62951acbf26318beedd9c881516da6b0fc2892a0d0ba56ba467",
       "url": "00/f3/891dedb11b79643ad61cef616002e5aacb3a6ac61f4c3391824fed31cd07/openstack-cyborg-3.0.0.0rc1.tar.gz"
+    },
+    "4.0.0.0rc1": {
+      "sha256": "ce72fd8b2383aa780c25fdd7f891dad6e87a210839e12aa819b1a3822173472f",
+      "url": "d1/a1/438c72152889a1e8af6dce9bdad50d497ee2122c59141e08b38b7993e871/openstack-cyborg-4.0.0.0rc1.tar.gz"
     }
   },
   "openwisp-utils": {
@@ -23109,6 +23113,10 @@
     "1.0.2": {
       "sha256": "c39cbc7818f96792a03f97a95fa3b67c19fe692a0df4066ed2ca13bbef3eed79",
       "url": "32/91/19865a4f58e40c9c02cfe895d87af6f32098b3b6969bc57a7076811966c6/seqpylogger-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "b0291670d509dad330024eb555da493c77d4f989519c925eb89f658a177584a6",
+      "url": "d5/f2/c97b79f308c0470a5f215fc292eee6f4128193970e5f2308765c91e91481/seqpylogger-1.0.3.tar.gz"
     }
   },
   "setupjavax": {

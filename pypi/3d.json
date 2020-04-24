@@ -10682,6 +10682,10 @@
       "sha256": "d60f773995d086456a1551de41a8f1ad74976a4efbd15a335667c20dea530281",
       "url": "b6/1d/12ff148c6777edd4390667f08122014a7a57cabbf2cfdeac6477b6262a79/justbases-0.13.tar.gz"
     },
+    "0.14": {
+      "sha256": "b15aa1e15a9b2403e66a0dc8fd81d9230cde6fd3548c6b4cfa114f321c79d0b0",
+      "url": "2c/41/4f236bb4cb1b82282a76cd9a1b6e69453049422d2ab9ee80a2b4eb62daf7/justbases-0.14.tar.gz"
+    },
     "0.2": {
       "sha256": "f55faf2c865fa48218f6c82e5e6df1fa489f0fc161c207c0807461413edc8cf5",
       "url": "e9/ce/75593fa7c071b8910d692eeaf9c82af66a22200da9ccad6a9dee58b37904/justbases-0.2.tar.gz"
@@ -13496,9 +13500,77 @@
       "sha256": "6fd6c07d29ef0850a654cc184481be4bf3bdf99240b7f867a81c229f5cd635ec",
       "url": "5c/71/32960476de2fd3898c6033ae389df194c76d9ba3c68ee73ccf817c44a813/mlbench_core-2.4.0.dev60.tar.gz"
     },
+    "2.4.0.dev61": {
+      "sha256": "3d516d3784301ad06999fcf6d94db280d073d7903609fd21eccfef83c70b6113",
+      "url": "b8/e3/bc9cc408074af35a82302272c27547bbf0a2580c5e606a51ff881d0c428a/mlbench_core-2.4.0.dev61.tar.gz"
+    },
+    "2.4.0.dev62": {
+      "sha256": "d6382f591d76ded24c720613636e334ba5000a0fa55aa257e95a9b06d7e8e0b2",
+      "url": "ec/75/09060520c6be3433c15acbb1496214ee8073f9b2cf20c4985633f8805262/mlbench_core-2.4.0.dev62.tar.gz"
+    },
+    "2.4.0.dev63": {
+      "sha256": "68b503c5da38f410989f7fa0c577a8519ab19060daa00233c3500e654835355c",
+      "url": "0e/cb/89b4af0f216f4cbe039c9e6cc21d85e0d815ce2d6dbe028db12dd1ab8dd2/mlbench_core-2.4.0.dev63.tar.gz"
+    },
+    "2.4.0.dev64": {
+      "sha256": "0893bb6198f507436cf25de47cc8b4af1acda61c1b216655e228115a7c5c6962",
+      "url": "b7/6e/9130111bd009d9efe0e46e27b9d4b012925c19c3db3e36497d6963ffdcd2/mlbench_core-2.4.0.dev64.tar.gz"
+    },
+    "2.4.0.dev65": {
+      "sha256": "8aa27035ba44f996255d282169b047d80488329371001d130654a742cbc52e3f",
+      "url": "87/84/48b7468f0b22a63f4e860deb9c97cf8c87918ea4e05af4bfb8500e3af9a2/mlbench_core-2.4.0.dev65.tar.gz"
+    },
+    "2.4.0.dev66": {
+      "sha256": "836b8d6f658d0a8a8ca7d376f7d89d272f1286b6a821d42d4291871f2cfa43b0",
+      "url": "89/29/2c8fdc684f9b7d3db21f2ab5d16f4eb9488ddbabcfed20c21d9940b82cfd/mlbench_core-2.4.0.dev66.tar.gz"
+    },
+    "2.4.0.dev67": {
+      "sha256": "cf7461eae82816ce3ea553dc80893e89aa6c77551c5e2a50fd2507086877a8d2",
+      "url": "04/ab/c219cc22320398c4aa2bf0487e0bc7201fe57e105308da05e560679e7c6d/mlbench_core-2.4.0.dev67.tar.gz"
+    },
+    "2.4.0.dev68": {
+      "sha256": "6f06fb5714b4fe1de3201263080461df9b16803ccb9c75fd2fd7811c2534c9a3",
+      "url": "80/84/c7785f833892cdd0e562fefadea6dcb73140dd0dd207868068f3b9752b9f/mlbench_core-2.4.0.dev68.tar.gz"
+    },
+    "2.4.0.dev69": {
+      "sha256": "87907cafda82d83faa1ce54a30c55885c36a1681a36c9461a9e6b232b76f4eb2",
+      "url": "d6/81/0407ca2eb1e7d31301f7e4157019ec4d4eb2d78f6e86b22a480578c5b5ae/mlbench_core-2.4.0.dev69.tar.gz"
+    },
     "2.4.0.dev7": {
       "sha256": "7f608003e796cbe07049e4b18246f4b3b99b7f3cc4e86c3d9d64548c9d0527f0",
       "url": "f3/38/75b58a7a3e0a1a01048ca5329acc1c1d7545d38795da75c62c8e9b9a61e7/mlbench_core-2.4.0.dev7.tar.gz"
+    },
+    "2.4.0.dev70": {
+      "sha256": "f13b6c696fadf12de356fb1013a32585b1021a047a936d4e237f9c0af1d9d0f8",
+      "url": "10/2d/55c2fe6954abb97a6e959a515db7756a6147fc66353895f14d20a5f8623d/mlbench_core-2.4.0.dev70.tar.gz"
+    },
+    "2.4.0.dev71": {
+      "sha256": "1d66298c825f50ba3d59f8d2e72ababcd471aa33ffba3421283535cbd90d2ebf",
+      "url": "3f/38/63412a7d7996e050b3701e5e2d85cc5b05672eb42eb8fd9819bf277f8de4/mlbench_core-2.4.0.dev71.tar.gz"
+    },
+    "2.4.0.dev72": {
+      "sha256": "89c80fe120b460711dbc2335cf6cb6c438db23b39cb50a23f42ffb98f6dc369e",
+      "url": "4a/78/48c945ad629d9c0a6b1f14a1cb60e6af418ef93d04f29918b1eeec690725/mlbench_core-2.4.0.dev72.tar.gz"
+    },
+    "2.4.0.dev73": {
+      "sha256": "17013c90a04b47317fe7223eab84853904fef2c4ce67a85d578c525121be0a53",
+      "url": "35/b4/797e59a49cca93a1ac4616988051b67d67ac6b8ccaaa1092bd8b9f9c209f/mlbench_core-2.4.0.dev73.tar.gz"
+    },
+    "2.4.0.dev74": {
+      "sha256": "168893209556dc6fcb5e6fa4f142f72a06d6a6fbbddabdf5138c5d0e328a9ac9",
+      "url": "d0/52/a6d05d7ba7fd56d29bc0ef7415983d056779ea2c2c29beb929c3194467fc/mlbench_core-2.4.0.dev74.tar.gz"
+    },
+    "2.4.0.dev75": {
+      "sha256": "94a305e510d3028e6b84cc7e94b583159d106cd5162bbc1a1e17f056dee9e166",
+      "url": "a1/f1/8df5ccf42016367e9a1aba2a49cf07249fcc2d5a4de4e58bf28d1e09c6aa/mlbench_core-2.4.0.dev75.tar.gz"
+    },
+    "2.4.0.dev76": {
+      "sha256": "1c585fe7a121b50464a648124506e5243cb806ed1b732ceeaf2085760913b1b1",
+      "url": "09/71/78e28c55bd6e749d54871d04c01fa2fe49a2d581608c937c4a40f050d277/mlbench_core-2.4.0.dev76.tar.gz"
+    },
+    "2.4.0.dev77": {
+      "sha256": "e6b1224fd416648dc8ed86b108a0eec0e864b283bfae9c0a295cd81a6c720e6b",
+      "url": "d5/7b/630a29095020c2032ea74092a21e367f294d9afe7eba4691ed86af21c51c/mlbench_core-2.4.0.dev77.tar.gz"
     },
     "2.4.0.dev8": {
       "sha256": "3027d0ecae588da1dedd59fbf38187931e3cc026756032b2cbf2a3d6d6848076",
@@ -13821,6 +13893,10 @@
     "2.1.2": {
       "sha256": "6930f966a07a7459bcdb15b36dbcb615a791853d79965897cedb1047d5beeecb",
       "url": "38/48/40a5391de17b90b12c566cd778e572c47b22666b23e7f7735f3117a0b737/MutatorMath-2.1.2.zip"
+    },
+    "3.0.1": {
+      "sha256": "8127c1ffad1646f11a953752296c43f5d88cbd5293fff03f093d916b0bc13864",
+      "url": "44/02/d1ddbbc5698db8ad2a0d1f8a23d52305e66166b6fea5ada5e146dd3a709a/MutatorMath-3.0.1.zip"
     }
   },
   "my-first-bot": {
@@ -20326,6 +20402,10 @@
     }
   },
   "reachy": {
+    "1.0.0": {
+      "sha256": "74b668cd831d3b8c1fd3a9cc3ba9b43fe1365dee975cbc4a70a966898c46eae0",
+      "url": "47/6c/d940444a200a7daee098b3b0417543ad42add8ecad6dc10d5cb76a3d73bb/reachy-1.0.0.tar.gz"
+    },
     "1.0.0a1": {
       "sha256": "d727086b386ddea63d5c339ad906e5c26a971ffeaf16c7c0e26c8a9a741b28c1",
       "url": "d8/ae/0c1695a532419493f9c9a6d2671306007988b49d115e927dbfb72d3b7706/reachy-1.0.0a1.tar.gz"

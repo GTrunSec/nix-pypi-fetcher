@@ -4339,12 +4339,6 @@
       "url": "fa/12/a7f64a49e243c86ff53859f444b7788ebbbe0d78b333673d6324f0b060ff/dd-aliyun-python-sdk-cms-6.0.7.tar.gz"
     }
   },
-  "ddb-python24": {
-    "1.4.255": {
-      "sha256": "803c5ad25d39e264cbf92ad2a643962e7f019ffb0a4ef41c190fa8dd1010a508",
-      "url": "4b/71/8c006d0a3d37dfb2d2f6ba73b8234b4d8863994e415ff89c00cfa2d29df1/ddb-python24-1.4.255.tar.gz"
-    }
-  },
   "deadjson": {
     "1.0.2": {
       "sha256": "e271f16b0639ad65bfff115ff2aa6d9da3f078731de68cd6845a04d928569ced",
@@ -6945,6 +6939,14 @@
     "0.0.5": {
       "sha256": "4442d8364c09837d8b6725f92cd7e2b6acf28c5db8dd5488e9d0fd2741a32a3a",
       "url": "37/87/577b68a554e3da813698b30946d93f4aa7c08690253e6b7b3bfbbc9aa9dd/edge_gravity-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "1ac2e67ee8e3e47976f8b591bc5b880daf72cd6b340c2689818c736d8bf06c6d",
+      "url": "8e/5d/5cb8978a1d6d1dba370a27af0d754419c139adf55d576cab1f186a448c91/edge_gravity-0.0.6.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "9385c28feda84c51c2133d3ebfb05e398202bce092ee1d9d1dd0e03a171534d1",
+      "url": "a8/08/42592a15a14e81d1fcb510a484f58051709c647753d8815021544ea1d845/edge_gravity-0.1.0.tar.gz"
     }
   },
   "edge-impulse-sdk": {
@@ -18789,6 +18791,14 @@
     "0.6.11": {
       "sha256": "11255ad897560d85829f9087e0d3e4e0bbf71df55a2de002bf1c9acd47c90082",
       "url": "8f/61/89e52b4a9aa9515cd1330783dfd8255fdb9bbfcc0396c773f28b7f3041bf/python-mirai-core-0.6.11.tar.gz"
+    },
+    "0.6.12": {
+      "sha256": "c2089ec6b421b4c08c6050ef9bc35f14f19c4f95853e60206527a20a045b0f2a",
+      "url": "9e/3e/3cd7dd2d10e1e49d354836532d0e3bc6ad0a5b84718b52c99584e887cd3f/python-mirai-core-0.6.12.tar.gz"
+    },
+    "0.6.13": {
+      "sha256": "bf0a2979fb055d2bd8404e3888ac6bfcb34b5c135506217d89b78e1d40b24a66",
+      "url": "98/da/b0c494ed4091693e805786af61f6ec91134c9bac17736396a3a768b9ce75/python-mirai-core-0.6.13.tar.gz"
     },
     "0.6.2": {
       "sha256": "6df3ebb37f36c2ee828b6cf2b6b852a698fae1798bf73b4260a98c53f784db22",

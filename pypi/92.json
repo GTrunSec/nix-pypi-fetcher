@@ -4405,6 +4405,14 @@
     "0.7.7rc0": {
       "sha256": "306e4baaa9512689e5e8252863cdd6de2286b4517629c4ddfd4c08ef45d3d59a",
       "url": "0f/15/f46a73717f86b374648e8f8b2797338497ffb86b7874d1dcf1d4bd864af1/dagster-airflow-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "61070e1d0b4b1f4e9d411bd8fc5d9e9accdff20a9fd3d3bf5861aa7abadea227",
+      "url": "1c/0d/e19d72ad2787f6d8df9706298f85738f96efed86e7a92d82d392657ee595/dagster-airflow-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "e0de87dc8c8a4a36cf89fbec234d657c1dc5e34fd7bd273fa9e803589e405038",
+      "url": "bd/fd/a44381efda11c1bcba7645b52152eefa1763965ab532418f0e3498d98cd5/dagster-airflow-0.7.8rc0.tar.gz"
     }
   },
   "dagster-pandas-nightly": {
@@ -5697,6 +5705,14 @@
     "0.6.0.dev9": {
       "sha256": "441a3c7e157de84975f50b676b9ab3b9873f10cb9fc2994d0a91c048ac7dcb41",
       "url": "52/9b/54cfe4665f282a0f1a0233d1d2abdc3d493bd7cfc70e8d10db01f70b266a/ddadevops-0.6.0.dev9.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "b25ac5b92aab15497bf191f8ad763558dec1940df8edc96c9fec9f1eeb540079",
+      "url": "c6/d9/10f3e1d1c2760cc2cc82c9cf8ceb775abc2815220feeefa6a573205c3c9b/ddadevops-0.6.1.tar.gz"
+    },
+    "0.6.1.dev0": {
+      "sha256": "ffe01f6a92f4cd82bcb5f761153934f61116afde89231f91133eb75c6bff0815",
+      "url": "e5/1e/57ce4d83359b1da50ee43dd452710915fa7b3c801ca4a8e687679db34d2f/ddadevops-0.6.1.dev0.tar.gz"
     }
   },
   "ddd-base": {
@@ -6097,6 +6113,10 @@
     "0.4.2": {
       "sha256": "d6416dded7cc0e3acd4a0a7cdfa651a508fdbe956825457ecdaa9ecb4fdae2ed",
       "url": "8d/d3/eba3ef0e55d91d25535e6af941b0ba06ea1af86d87d9479162100cd629fe/dimsdk-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "28177fa1658344950f9bb4e7096aa3c418cb21ef7c13eaa8502538339956bf3e",
+      "url": "7d/d7/d53b263d538ac7e4b44a96683db731533cfa7ebeeb87cf0e89ea97e0c07c/dimsdk-0.4.3.tar.gz"
     }
   },
   "distributed-schedule-py": {
@@ -9831,88 +9851,6 @@
     "0.3.0": {
       "sha256": "358dfa5fbe651b4a5b23f4c1584f6bb42da25ab17339de508987853d45984977",
       "url": "79/48/4068affd7e2dee407139b895e97b3ca2567a5ddb5b059eab7de82aef0784/fritm-0.3.0.tar.gz"
-    }
-  },
-  "fruit": {
-    "0.1.1": {
-      "sha256": "f52e60cd63952ab7f42d4d29d59ddb34b94ea4bf70788bddbd1b6e3b0feda65f",
-      "url": "a6/21/429b0d1e23b2447380c34471675ee3202f8c14ff2f9061eb2fc37d0b5615/fruit-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "ae8c345a7c9d502cbc42b93069825d819cfe56902be4fa54e6e9111510d8da3b",
-      "url": "41/04/560ec3be1e660f92bf5a2d635b13079074c94552ec9cab603c1f7523608d/fruit-0.1.2.tar.gz"
-    },
-    "0.1.3": {
-      "sha256": "e2108d5df4ba2897d77c8c651417d9ebe3ae7f4059852e24826ac52c6cbea57a",
-      "url": "77/b2/28991c3d47dbd6f7446842b4fb55bd428be12a1ef95eda9fef6b4839443e/fruit-0.1.3.tar.gz"
-    },
-    "0.1.4": {
-      "sha256": "2de5180131fdfe417850038fc79e45cdf8e0b01c1d378c1dc9fee3022c990f9c",
-      "url": "b7/c2/44a6f4a791ddc42ee06dcbed023c4700143c21802a95e754a7d01ec87f6f/fruit-0.1.4.tar.gz"
-    },
-    "0.1.5": {
-      "sha256": "88074fdc4851391ac79561b2a708dc6121d70b64c6ddaadfadef7fd24549ba97",
-      "url": "79/9e/0e2394e299c07e612ec9f4ff52668e31f04d3942ebbe6b4ffb8bc7475ab3/fruit-0.1.5.tar.gz"
-    },
-    "0.1.6": {
-      "sha256": "cad643399656801f5a49db66b83700760431956e905a328fe44d71ca40ff0ab9",
-      "url": "a5/9e/7140add667eecbde7ba3137dde8e5af8e61dfda89fcbdc3cf6d2e847a481/fruit-0.1.6.tar.gz"
-    },
-    "0.1.7": {
-      "sha256": "ca17cbd16db6571d6e19aafdd02d57bac6f80f640f21b27644b82be1f66eb92c",
-      "url": "6e/51/105fe9b85c8131a575a3957b18cf06ad33d19a9c1b5210949028c801c409/fruit-0.1.7.tar.gz"
-    },
-    "0.1.8": {
-      "sha256": "f912b5b10cbec789ef7b8eb9a4684fbf77a5e91549c9979ed39b31df9afd535d",
-      "url": "6d/69/e0f805f44b26d4ad091d1c6338af84f5bf89ab6d0e846e73ae01e1c5440a/fruit-0.1.8.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "ee1a9009c147bfe9e6df83bbe565984edb6ff7837611d777c1988d491ee5f552",
-      "url": "31/3e/c541e31798f90a0ec755e3838db3af990522705f70e51e452ae4194d369e/fruit-0.2.0.tar.gz"
-    },
-    "0.2.1": {
-      "sha256": "71ce087c56071d4649c43877df6771e69505fc74ad908106e0e04a7dc332d10f",
-      "url": "17/d2/c32346c74f9c3e070f365fc4c3c617cda2d30a679b42c5ee20404f0a2c4d/fruit-0.2.1.tar.gz"
-    },
-    "0.2.2": {
-      "sha256": "7f873bb69871fc6fedb6845915d4bfc35b292b6d8e8c93a8d67d3a3048b3104a",
-      "url": "1c/1a/d382838be15e093f294da3f3668498f77cdd9815ba4746b86aa342996d69/fruit-0.2.2.tar.gz"
-    },
-    "0.2.3": {
-      "sha256": "6259842416007e48977d237c515e016affe175338f5e1321e3f18b3eacd69ee0",
-      "url": "1e/26/b379818ee8f7d25df0ebc15da475beeca37ad4f17ca77e67d3680d147764/fruit-0.2.3.tar.gz"
-    },
-    "0.2.4": {
-      "sha256": "15728b8aba5074192ec3319cfd8d523e4dee6860c3cb99e0121eaa173a865dc5",
-      "url": "a1/ff/04dfa146131d94085e509c37cd1a529d26bfd5042a7d8b98ccb8b9a70c1c/fruit-0.2.4.tar.gz"
-    },
-    "0.2.5": {
-      "sha256": "97ef069c99b4effe179d084ed0357aae5d6701bfadfa1a6dbdc32693c27d6292",
-      "url": "b3/b2/2e2400b87659610c4156e35ec96a9a85216194bda5f913e4cce200df40f9/fruit-0.2.5.tar.gz"
-    },
-    "0.2.6": {
-      "sha256": "a816bf0a1f8fed21b1bc42d554529720d970740094a4981b1c19579a4ac4b125",
-      "url": "af/14/92fb5b32917b47e5072c9810f4a17505b6dcca2c5e229de68654ba0b80a9/fruit-0.2.6.tar.gz"
-    },
-    "0.2.7": {
-      "sha256": "55a385b5daedf1b9f9afef0195548c67243b4f329430c832d91c5c7459000ea3",
-      "url": "1b/e7/9efa5d1343de042ac04195cfb11e60d4590980ec36ffafa44854a0e2ad11/fruit-0.2.7.tar.gz"
-    },
-    "0.3.0": {
-      "sha256": "a4b238a9ce4ed043ab39deca48906927ba79b678bb0be071d280ada3edaa02e1",
-      "url": "fe/c6/96cd79451a1e7b924ac8eeae1cb16cd077937f8152c8bf2b278f706229ff/fruit-0.3.0.tar.gz"
-    },
-    "0.3.1": {
-      "sha256": "d2ed65bf596dd65cb9abf7b201b2b0fdcd7f8d83050be6c0861c3419d5c921f0",
-      "url": "6f/03/fbd24f9e41be89a7db57a3cf338f9e9acf552bda20d0dba4d9e5754c31fa/fruit-0.3.1.tar.gz"
-    },
-    "0.3.2": {
-      "sha256": "223677126f4429e660c7b6d3fe36b60723577d251071daefd6a9840e40d281ae",
-      "url": "6f/a1/0df1556f2774ad1abd3e90dba942a9050b04a0c848769da60523d1fa33b0/fruit-0.3.2.tar.gz"
-    },
-    "0.3.3": {
-      "sha256": "06eb0601e78733e8a0466738f5df0bf59f119c9a7bef6638f558da32307c0843",
-      "url": "78/75/166fe1822115159e59cc70e0f09bbef0eee8baf61a62b16d8bd1334434cc/fruit-0.3.3.tar.gz"
     }
   },
   "fs.archive": {

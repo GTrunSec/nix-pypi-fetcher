@@ -16211,6 +16211,14 @@
     "0.2.6": {
       "sha256": "77422273bfa0c380a51aaef48541417c7724049de2ad109da54bd107887e2ae3",
       "url": "e0/7c/f8efb7fddb356b65d27d9ff38042a5cfe46e97b8192c7a97a7acd9859ff2/pydantic-gen-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "833dd513f7d86115ef2b40a46cc2fb68ab121a58ec5c53283ad417f09b269375",
+      "url": "10/c9/e19c953546423fa4a7058a946eaad1a11f46989227c428a6f324470292b6/pydantic-gen-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "6b9cecda6fece6b86f274ba3aebe66ff3296ddccc4bdb6b9a5d77acda50a3b9c",
+      "url": "cb/9f/f5bfe43f5402d47e1853f4bbfda4e3b65585973ef734f06a129025f9d109/pydantic-gen-0.2.8.tar.gz"
     }
   },
   "pydataflow": {
@@ -21665,6 +21673,10 @@
     "1.2.0b20200423": {
       "sha256": "0d44d83811c20fe0bd0965d5e224615e161baaebf7a3e026c9a0b6324d8eb1cc",
       "url": "09/bc/12dc362b4557dd5b6db5d65598964b329a8eaaa402b9c2384983a0a81894/torch-encoding-1.2.0b20200423.tar.gz"
+    },
+    "1.2.0b20200424": {
+      "sha256": "1fe2b4604836bdb8ec59163935a28c9f57de6ee1e671b6f6e21bef6c33e448e3",
+      "url": "a6/48/698649cfc1c7c0b3928009968e5dbbca4e75ba9463fb2b57151ceb6180a5/torch-encoding-1.2.0b20200424.tar.gz"
     }
   },
   "torrentstream": {

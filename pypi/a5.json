@@ -20205,6 +20205,10 @@
     "0.1.6": {
       "sha256": "b9c2f4c6a7edb8a1b53102eca8e5c0fcfa08f76490b700b37942494d99001284",
       "url": "1c/d1/ccdce16ff6e44d8173e652d66cb92f3bb2386eac5c0f891b06d2806267e0/rabbitmq-rpc-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "da83e0efd909923c1fc8de80b01e4cc08dbe5ce45a5dcd2ffed95a30a75581b9",
+      "url": "03/2f/8f3450930ca84522b251100f185373a0b8cde230a5dca614b5aebf7c0133/rabbitmq-rpc-0.1.7.tar.gz"
     }
   },
   "radcalnet": {
@@ -21415,6 +21419,10 @@
     "22.0.0a4": {
       "sha256": "c9aed77a36ad86cc01cf5bd10d8df4bbc2ef905a22e208116d0c6ff2c610eacb",
       "url": "b0/a5/68a437b6cf18b28e83f97f4bd0bedbc02ba5c0c4ef834cf763b18b2a7822/resolwe-22.0.0a4.tar.gz"
+    },
+    "22.0.0a5": {
+      "sha256": "3023640172dbe520f41d3522210deb04e1e69be53815bd16ad16b98eb8c018c1",
+      "url": "77/36/1cd998d1e9d5876fd6fd64eb4d52acaad9f9b2fd97328a5fce267ee6d9e9/resolwe-22.0.0a5.tar.gz"
     },
     "3.0.0": {
       "sha256": "0859d01ceaedbc63a71fb2a646f1da68f00bd3f8169bdcf7f6724ff32eb532c2",

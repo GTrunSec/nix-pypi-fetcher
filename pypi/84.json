@@ -13539,6 +13539,10 @@
     "1.2.0rc2": {
       "sha256": "e11a6de54dad4095c275d900bb33a735c019845e69b71cdb78243159ca3fe0e6",
       "url": "07/7d/84fad37721d886ebac6d7ae9d72b789afc3d45404ce529c5a7fb3d8fd0b5/odahu-flow-cli-1.2.0rc2.tar.gz"
+    },
+    "1.2.0rc3": {
+      "sha256": "420d1472b19be77b0edc7750730cb93818a8b848f7824cf183263f942dd8b783",
+      "url": "c3/39/69ffa93ab307d977d60b87be0cc40c2f784b9f83d71c08c485bf7af5b389/odahu-flow-cli-1.2.0rc3.tar.gz"
     }
   },
   "odooit": {

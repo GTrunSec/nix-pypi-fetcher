@@ -6984,6 +6984,14 @@
       "sha256": "230132e6b0117fac630a52c4fe2c192f335ab3e8d8ffdf8b42891ba1befc7ec1",
       "url": "90/66/37f9cef7d3113658e55690f70d86cba3314f2f0e8a795e02c7b8a8373305/django-apar-1.1.6.43.tar.gz"
     },
+    "1.1.6.44": {
+      "sha256": "007ff95c7a6bf2c98fe057451fceec5f4101b2742102d895f42dc8392a6ee177",
+      "url": "d4/62/134c0f056a1d775f8ada284acf2ac6551e152c9d099de35376f61a28029a/django-apar-1.1.6.44.tar.gz"
+    },
+    "1.1.6.45": {
+      "sha256": "fa67db254514f9ed4719035a0b496ee96586ade96a4d7dcdeffa869535b0f1dc",
+      "url": "3b/d6/dc7c8541bb7f04cef8180fb6926ab836e2a548ea1197950cff3c5caa783e/django-apar-1.1.6.45.tar.gz"
+    },
     "1.1.6.5": {
       "sha256": "b7fac65ec567aa416abcd94714d8305d28b8a0ef4bd2f4e6072fc8c59d04d13a",
       "url": "bb/33/a50d605a1a127a6e040c0bee7260d1a5958e9e74d25127678d627df06a34/django-apar-1.1.6.5.tar.gz"
@@ -11235,6 +11243,10 @@
     "0.4.7": {
       "sha256": "f9c295c73677e879772ae88c465cdf80b43e3c5cd2ddc99a25792ea3cbca2363",
       "url": "76/19/6a6cf91bcd394b6ba460a6e18a1c740a5f593965ef3ddd0d7847354b8461/igeCore-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "3446ae320576221b5af9ee0d3d6d940733749fa28fa0ae933a62d4316015d3ae",
+      "url": "2d/c8/77ac7203cb36f380e88a77cbf581fbee8b5d525f47db141da62966c99e38/igeCore-0.4.8.tar.gz"
     }
   },
   "ilo-utils": {

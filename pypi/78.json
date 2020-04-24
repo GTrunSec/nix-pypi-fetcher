@@ -4577,6 +4577,12 @@
       "url": "90/0a/91066c13afa45550913d506f0fe47fbf89463dae8156fbe55ce459ec525f/coordencode-0.0.1.tar.gz"
     }
   },
+  "corn-virt": {
+    "1": {
+      "sha256": "b322ce7a81c557e87ba6ed8430f6f34057a6eeb2d79864f710c0240e916c362d",
+      "url": "7a/07/eeb35592dd19a10318d87f08d75407894f3cf7374434b80ce06256b353c9/corn_virt-1.tar.gz"
+    }
+  },
   "corneti.recipes.codeintel": {
     "0.1": {
       "sha256": "551b5ba4bace731acaf773019cc0cf215585f0a029774ca8c48b34c98266baf4",
@@ -6421,6 +6427,10 @@
     "1.0.1": {
       "sha256": "be7b026e1afb92b484248ed8fbc0e62d24776b87cbe7abdcb41696d32fcfa3a0",
       "url": "86/01/28e37561e3e16ace55d49d32b93d7981b64a79f1a4f9956a64a490a83373/django-swagger-tester-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "2aa74c2836032429d5fccfd2f195abed6cb71c82a6bc335d5c4becff45e94e43",
+      "url": "f7/61/7d488dfa55773d7d5a57213ead13ffa85f38368261391783305d49aecbfa/django-swagger-tester-1.0.2.tar.gz"
     }
   },
   "django-timelimit": {
@@ -11995,6 +12005,10 @@
     "0.8.0b20200423": {
       "sha256": "23a43b706633327d505e55effc8d580ca91371c3a01d205337046f90fa2b5e9e",
       "url": "40/c4/253e87f275ba6e9fb6a16468110f1a6447c77e15d4f59b9db1c7a5643e3f/gluoncv-0.8.0b20200423.tar.gz"
+    },
+    "0.8.0b20200424": {
+      "sha256": "e92fd6a497676df8b69d9968c41172654a700f31202a2ab41133094e6e654235",
+      "url": "bb/21/9eda95a7b20b2adbed25f67a1fb0cc91ce28aeb28c2d4aa6850d5358cee0/gluoncv-0.8.0b20200424.tar.gz"
     }
   },
   "godnames": {
@@ -13373,6 +13387,10 @@
     "0.1.0": {
       "sha256": "885933e35bfd0980950038b0b9ee2da2f43a306a7f6d8524827416b59614ed0a",
       "url": "b0/bc/280dea7c6d997cc5323773f576a2ff404aa59b77e32ec79dcf842aaf9278/itsim_project_creation_library-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "6ac083580fddf8b2db6b32792292c319f15b127121028a598453bd874fdb5f55",
+      "url": "40/e8/bbf53886ecca8f7b0e924141168945ef70931a96cc3b20eff396a52d8b66/itsim_project_creation_library-0.2.0.tar.gz"
     }
   },
   "ityou.astream": {

@@ -1694,25 +1694,9 @@
     }
   },
   "azotea": {
-    "0.3.5": {
-      "sha256": "d63793532a6d10441ad3e66117810b842e55346dcdc8ba971f155d55c162c218",
-      "url": "64/67/13549fea8161e7c22c0e746d0e44c8504b3acb53bd45606ae96ab09921d6/azotea-0.3.5.tar.gz"
-    },
-    "0.3.6": {
-      "sha256": "79a4ca1562ee44daebe4853542e798afe499f2dfa77cc591f02d1fd618b08729",
-      "url": "82/32/8e6f2aaaf14dbaa9c57e2ae782ff33362fe148bd644fd9bc036e1b5b4918/azotea-0.3.6.tar.gz"
-    },
-    "0.3.7": {
-      "sha256": "3391b2e0c780e20350d6f2b520812abfab5df59cdeb0a82f1872cbf0ba14e957",
-      "url": "66/76/7fe4be8332b74bf4889de7707792a019b0ad0bf67225dd0e940bdd38bf88/azotea-0.3.7.tar.gz"
-    },
-    "0.3.8": {
-      "sha256": "ed86f8b25b8a93e390580ba10d8b7ce99f965eeaf864959ccaa1d6693e8419cc",
-      "url": "cd/bc/c98941c2cd8c712177bcad4d643afc8da720cd17e477d2ae6d1514eb8371/azotea-0.3.8.tar.gz"
-    },
-    "0.3.9": {
-      "sha256": "75e7f7c9a43cfd32ebfbea496b991d540ce5a569f073d2ed36d9dad868c52b70",
-      "url": "b2/d6/bd5aed8f0ee4c1d155aecc80996139bfdf08ad1372b5169405abfa53bf09/azotea-0.3.9.tar.gz"
+    "0.3.11": {
+      "sha256": "ae5fc3b8773c4dc41f2179c84b0c9556e13544d73dd2d34534d867d3680e906a",
+      "url": "97/6d/25ec09e29511a60b9d1acd1a764eedb4f704c33eb4c3d29e302b6f0a078d/azotea-0.3.11.tar.gz"
     }
   },
   "azureclikeyvault": {
@@ -3625,6 +3609,10 @@
     "0.4.1": {
       "sha256": "36a7b49a9b251a24bd4c594fd3c64c448d6559873a870511b4c0f8852fa795ba",
       "url": "66/49/b7d8f7cdd6e32234be0cfa8d4be35ae78bc7e773502feea5292fe04aba8f/cloud_ml_sdk-0.4.1.tar.gz"
+    },
+    "0.4.10": {
+      "sha256": "e4e6d116b9bfb7faade11a046fc77d04bf5a600ab9d351732db1542bf63da4f2",
+      "url": "31/0c/9e4624d3c853a970509b02413cf7e03f2754b19d094e3fe3bb53d67a10ec/cloud_ml_sdk-0.4.10.tar.gz"
     },
     "0.4.10rc1": {
       "sha256": "9ea9be744f7ea0f699b65fb76ab8ea925ecfb2aaaf7b5de7b6ba43460d107a51",
@@ -17053,6 +17041,10 @@
     "1.1.5": {
       "sha256": "9e44b3df4ff4d9d4cfbec35e5f8f46df9af0fb890799f179bb9274e14bfe4b00",
       "url": "98/c2/cfde74604f2d2642a9cd533ddd43e3f2ca88375cebd0dd4f8dce5163336b/pythondi-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "e20b921483af7f02925982f1661a3a395986b7af734b56dd95500ca3cbdb1db5",
+      "url": "b4/3a/ab16b15b9cf686c72aad78afd0e432fb314ec10342c3151d7a00782e31f5/pythondi-1.1.6.tar.gz"
     }
   },
   "pythonipsum": {
@@ -22273,6 +22265,10 @@
     "0.0.6": {
       "sha256": "37af41c32168f6b485e571d1cfaf126525acc6ed1172a487d6474bc3a7608b51",
       "url": "af/cc/04849ecd82c79b8bb1c92882252960ee75e552c9bed0fb917e340b98a595/tsai-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "15ee0b5023bf709bcf0b5abcc3bc9df98ba8dbec2d3926a21452a077cb34214b",
+      "url": "f6/40/a2ecaec37b855afc8ff52b39bc45cb0b5c248e91457f56fd6698ef895a3c/tsai-0.0.7.tar.gz"
     }
   },
   "tssim": {

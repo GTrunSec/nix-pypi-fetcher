@@ -8233,6 +8233,10 @@
     "0.2.14": {
       "sha256": "371d4fb880b46e0f85486770f3b5ae4183c96721c5c78f399f3f18094c58e81a",
       "url": "3a/50/0c2ee423e2d072db2d92195ba36bcf835bb4579b402e3f1641540bb3cbcd/curveball-0.2.14.tar.gz"
+    },
+    "0.2.15": {
+      "sha256": "1162155ac541dd372590affcfcbfe60f1f451e32db5b5983d81b7b3cb343fa2a",
+      "url": "26/17/da22e01314c77c352a52cdeffc7d55dc15b9122b435f32e5c2febaa69219/curveball-0.2.15.tar.gz"
     }
   },
   "cxor": {
@@ -13674,6 +13678,14 @@
       "sha256": "b1f0d348911a55dd009417fd124d685d802ca8744064659a981e390b0db6c7d6",
       "url": "5e/3a/9e76b1a234026b304daf1013958db5dfc2aed31c4682a6f8e00237005bc3/hjn-0.1.32.tar.gz"
     },
+    "0.1.33": {
+      "sha256": "816656e95564a359ef70a76c42578b5d2229fb82674850d297e5252b5ec4735e",
+      "url": "16/37/0363d446c6e8d768c8ec5a9c111dbde2aa9f014edadc69bb806544b1a8d5/hjn-0.1.33.tar.gz"
+    },
+    "0.1.34": {
+      "sha256": "0e6a1f28856212063fd94b37b3439c2d1a120b34c282198c7cfa7b2f60e5a807",
+      "url": "6e/af/84b61b66f92fd8bfc7998bb2f310d711d50240d17964ea2b682000f06063/hjn-0.1.34.tar.gz"
+    },
     "0.1.5": {
       "sha256": "b7f65c65bb220be0d4b3c226fda5940a700839a48ae90a2a278ba51d9d64c990",
       "url": "63/41/5353684af7a81c935a02680a1804a2de58f44b4b1de90e073f7729d705cd/hjn-0.1.5.tar.gz"
@@ -17827,6 +17839,64 @@
       "url": "96/e5/b2819296477f3b526814942d52c0a58d273107085cda53136daca4994514/nagaram-0.3.8.tar.gz"
     }
   },
+  "nameko-odoo": {
+    "1.0.0": {
+      "sha256": "b5c3f07541c3e4482acd9586640a1ea8446f429a49cae28a9fa6922ece853aef",
+      "url": "af/3e/b450633be3f57b8440027b092ff9bd5f5b97f2dfd6fb4e0a17b224db1d1a/nameko-odoo-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "12e89e0ca89be7a95167293603fc2c395cd1b156b095bc4b51789a3462c88e77",
+      "url": "e8/d8/bd0d991f0fc9ce50ff3f29f3f7df1f5f79e0caaaa95ad5359463cd2f2480/nameko-odoo-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "09d8a547cda61fa670ed4a434bd1d505896070d6738d25294b200093861d89ea",
+      "url": "73/c4/525081dea66a19d7e06de2db5ab1a8d3c1113fcff45686c502091f44a851/nameko-odoo-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "dadc03b515ae9a89744f71e4deae48f74b7112b05235ef09c6e399d577e1b161",
+      "url": "f9/58/2337a312c7c6e2d568649369983deb608ff344ca1b3bfc315326163a2001/nameko-odoo-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "48b7927b352d5f0420110063a93f0e0ba68102476f101b8c04b79e88e6073613",
+      "url": "8e/4d/67eb52182805662e2f4a05f47ee76f6d326604d46f0e04ab3c4d9fae0f1d/nameko-odoo-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "3b16014e4ae87de719a38ce060d1b753bb44e62de0e8f2c668615605b6352693",
+      "url": "b5/5e/41b6b1b8e04ccf642d34161e517d84e24b3eca333061f332c433c5c1b816/nameko-odoo-1.0.5.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "3cbb33316ce68f246ccbb2c853c1ab855eeec0a5d94873f8ff88f175937c100a",
+      "url": "59/98/572143c58dc5ec86f5f5a3e1cb1a4f5cb9d9d95ff850f69aebdbaf0b80b5/nameko-odoo-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "a1358765ca78cd423db0662db076b925bc230709491f5937243c8d485248dd68",
+      "url": "14/52/5ae9f3e085531eb523bd4413ded2a64f6643c1a2de29b8d6d19beb960fdd/nameko-odoo-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "3d8090f969394e29b5740aebdea30886da1eb1ef0268e61821851d2cd2063c1d",
+      "url": "00/5f/af2a0f9216d6a7849b51f6ae2561df1391d0dee02993dcca9a846acfd4a9/nameko-odoo-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "360ac49011bd7415c29e79eb11c45aa926936773e9dc998834bb05091d625327",
+      "url": "ec/ae/e551913a0aaf146c35fb9edbc774c5976f6ebf45108df6156be890d7244a/nameko-odoo-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "49057382a996c07bf4a9e5471ce2f7d9da579346fd821c2b85ebd9d0bdc92fed",
+      "url": "bd/a6/6fbf3a4ca6de316244deb198d1b1eec0783089166590214f205ee1e714dc/nameko-odoo-2.0.5.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "9200bc7158f22b5f74e9ce5a83056ce01ec69a97037179f5063c2c307c40a148",
+      "url": "8f/79/dec2a5d157ea1d405a7b1a32473330615f4716bbda71ac8575f6b1823bf1/nameko-odoo-2.0.6.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "4aa8eb5c0a2059475e1285a32e9e2542b3f05f03b06ecb357f15f1686e264a5b",
+      "url": "be/84/a084d858c5f807bb05da99b4f3cbfcbb71d0de33f7ae9836b74f8c79fe5e/nameko-odoo-2.0.7.tar.gz"
+    },
+    "2.0.8": {
+      "sha256": "f5d180041cca2fcf913e4e1dd3b481a71aed0a1f3c74f40092c16226d1c9581b",
+      "url": "ba/18/93d3503c2f0442849fbf317048fe412e1f8268d09e25284c7c1de7215d0a/nameko-odoo-2.0.8.tar.gz"
+    }
+  },
   "namesake": {
     "0.1": {
       "sha256": "7fa6b4ac587312aeabba88643e8c54eb70c74a80c5df32674ea91a0863a8ba4f",
@@ -18377,6 +18447,10 @@
     "1.2.0rc2": {
       "sha256": "b9c43c8b31cc4c79300652105e404f3f7c59a9f631f8e2d7ea3593e8cffd0414",
       "url": "7c/c0/f29ff292383bb1c6b15903e8a69fd9956fde2aac53d39d60d14fbdf1693a/odahu-flow-sdk-1.2.0rc2.tar.gz"
+    },
+    "1.2.0rc3": {
+      "sha256": "655cf37ecbfeabc529c878537fb3f50f6e0703e07f10893efd20e9446d7585b1",
+      "url": "94/30/9577037334b4c68f80d03ad5c82aba2e18d5cafca1be58ae05cf593595cb/odahu-flow-sdk-1.2.0rc3.tar.gz"
     }
   },
   "oderapdf": {
@@ -23483,6 +23557,16 @@
       "url": "09/c7/b544a513073beccb2b48945ff73cbb0ef4ef76b0447200b5d8c2f51dcf35/runjenkins-2018.5.4.47356.tar.gz"
     }
   },
+  "runnow": {
+    "0.1.0.1": {
+      "sha256": "142dbbedddd0427d8855cc6b3d5fca93b89e5f269ec838ab35ebabb6fa159990",
+      "url": "c5/aa/bce715e3b54993d63e7722f0fa51f9d65221f8e50608346632d6b46ef02c/runnow-0.1.0.1.tar.gz"
+    },
+    "0.1.0.2": {
+      "sha256": "ebe3ee9ac1ddffaf9001fd49d6e3404c3f81cfc4cc23078eaeef82006b6454cb",
+      "url": "84/10/6e88554543e5092d7325f055853f4710e480eb564f92ddfa9749e8a04902/runnow-0.1.0.2.tar.gz"
+    }
+  },
   "ryanair": {
     "1.0": {
       "sha256": "32c70c09936cfc54736edc83df5ce9d4e95842cd1f0d1034cb531ffec6630ef6",
@@ -23829,6 +23913,10 @@
     "1.0.8": {
       "sha256": "f612b3daddaebc37c6d12044e2db8a7c232cbf398fc2c26db7722ed05ac786ec",
       "url": "01/7a/c95e8141ead470171c5df9069aed1a67df3528c07082874059a52fb448bd/scleaner-1.0.8.tar.gz"
+    },
+    "1.0.9": {
+      "sha256": "fc4019edcaa4b71c7b65c2d0f98a1d7f1c05776909af4ac94f6024d00d4e65ed",
+      "url": "20/d1/7b79f7586170c6ee0ed55672fbc91b31f15ce5222a64b823d808035b9044/scleaner-1.0.9.tar.gz"
     }
   },
   "screenplay-pdf-to-fountain": {

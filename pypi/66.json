@@ -4455,6 +4455,10 @@
     "4.0.0": {
       "sha256": "62aff395964fad25426c4b5a15d64c41df3ee12dd424d96cc210000bf43042b3",
       "url": "b9/c9/4d7d1f33276ccaba1ab0249df6cae377ea29fc209554c02c3b135be4fb84/devpi-builder-4.0.0.tar.gz"
+    },
+    "5.0.0": {
+      "sha256": "8fd92e52becef8136eac522745d13b2eca1602fb128a21531d36f3a565da18e7",
+      "url": "64/86/1f4bb21d51969c00479c196af6aac003752e8d3ad46fcbb40a7c155e2dea/devpi-builder-5.0.0.tar.gz"
     }
   },
   "dexy-rdw": {
@@ -5935,6 +5939,10 @@
     "2.1.8": {
       "sha256": "587760c901f9b0f251306fe99f185b524b696452bab00fd8fd248d4706d94f5d",
       "url": "e0/99/6963cae66d907d1e2d8d604112219aa5244116e122cd992b76a5b096d723/etk-2.1.8.tar.gz"
+    },
+    "2.1.9": {
+      "sha256": "9be37f498453eb761e3bac36b1ce4bb85fda927f0600cdafe168db0814d413bc",
+      "url": "ef/d3/b5430643091b16c7308c96fd5b7d3d2089b40f9727c1f09119c89df70a85/etk-2.1.9.tar.gz"
     }
   },
   "evamap": {

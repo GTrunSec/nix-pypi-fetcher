@@ -3993,6 +3993,14 @@
     "0.7.7rc0": {
       "sha256": "735e06fa2fab05de2e941435f9aed07834a6afef6dcc03ec1cd7e165218047ce",
       "url": "6d/3f/b54265ab23fdfff73e5b54f02fc6d7151527567a2ac0cb6602f0290d7f61/dagster-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "8181eb4e42843bb96c3ef52784dad18fa0548dc41cff82de5049062a3b4723db",
+      "url": "71/58/d4224a5b080d137308cbff2892a3424882a057a0766b2960b5974e2ec5a0/dagster-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "988968c80487b3c669e8eee2e38d70cef79dfefe715803f58d1e4947d5929102",
+      "url": "3b/be/a940fbf744b80a134980866cce846c9fd01c280c56e6971ecb9408f4c786/dagster-0.7.8rc0.tar.gz"
     }
   },
   "dal-admin-filters": {
@@ -20505,12 +20513,6 @@
     "1.0.0": {
       "sha256": "af04accdcc6aaa16f98d010fbfdbd3fdb52367fcf95ebbaf05a9964c33845982",
       "url": "1d/62/55b894913ebba079b9337b3fe285ad377858e58c43c33826f12e6bec97a6/sauceclient-1.0.0.tar.gz"
-    }
-  },
-  "say13": {
-    "0.1": {
-      "sha256": "28b0ad74de4e41dd6e301f284f7aa7ab2c782be8382ad47ceaa3da7145abc4d8",
-      "url": "8e/66/fd5282fc3c18a49047e7c58855f78dfa3c22b3d0f265aadc1a15bbe3529d/say13-0.1.tar.gz"
     }
   },
   "schematics-xml": {

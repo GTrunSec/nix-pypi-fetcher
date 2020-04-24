@@ -5651,6 +5651,14 @@
     "0.7.7rc0": {
       "sha256": "d0714540a95313ff9c732fac6deda584bf6f310284d11f3fd2579b3fa40a60ab",
       "url": "7c/b0/8344f294a5ab78e4fda094061fd03434415a3daff057f8232333ec6914f0/dagster-k8s-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "be37574cb94aeb79148993f0aaa4afc0a451010002459557421db5e0b5c1864e",
+      "url": "a9/8f/cf548a6aaac58e3f5717098d5217ae88fc1cb1342e55cb55709a3ded09c1/dagster-k8s-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "bc5ea9cad48cf82b716790629502616478839f3b02d9a5bd539be1c77d0fb844",
+      "url": "8c/a7/4508608b4ed487d17fd43db1d1600d9bb697f57edc43417df0495a8ab14c/dagster-k8s-0.7.8rc0.tar.gz"
     }
   },
   "dagstermill-nightly": {
@@ -9786,6 +9794,10 @@
       "sha256": "11d92bdab262a1c1a279995ff092946e5ce1061f996dff2e6a9b28b7f3ba4f5d",
       "url": "1c/0c/88a856527bba4be6bc7706e8d80303e5c6b9452828b25d1bac30a0b23a15/ftw.simplelayout-2.5.11.tar.gz"
     },
+    "2.5.12": {
+      "sha256": "d33442d4406d941fff31329b2815f4b958ef18e4b682d6623228e0b4c2378381",
+      "url": "46/1e/ba58b609891e1b74da741ec63e8c2234c030ec8da4b328899fe91ea72a5c/ftw.simplelayout-2.5.12.tar.gz"
+    },
     "2.5.2": {
       "sha256": "e6242ccd7c17a5dbb918ebcc166bb4c6178fd2fddcbee2774eb308eaf2070aef",
       "url": "98/ed/28dd5ae234039c5a8f1ab65bb37f802d5a53a1efb8b19a29f069bddb114d/ftw.simplelayout-2.5.2.tar.gz"
@@ -12657,6 +12669,10 @@
     "0.0.100": {
       "sha256": "f3774ba9e86d3dafe84db0a870bdaee257654a9e37ac440ba6ffb896fcf1f1a9",
       "url": "5e/90/57893a7ae39f033518a4597753e12d7c9376422c0e10439a0eea8154e06b/kaf-pas-0.0.100.tar.gz"
+    },
+    "0.0.101": {
+      "sha256": "af9fd135d77891e71f3200665987f2bb4e882544e1c7dbed4285cddefd657da2",
+      "url": "05/5b/fe9b5e335ba2f3a5c584b09027ff39a415d4a2f76a28db48222dfb98f677/kaf-pas-0.0.101.tar.gz"
     },
     "0.0.40": {
       "sha256": "cf79e8244c4792ebfe40ad829e2f29f1269dbaeedc1837b2b14160793df25c27",

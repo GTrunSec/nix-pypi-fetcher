@@ -13834,6 +13834,10 @@
       "sha256": "1c90d809d76bec3a15cfc008e6f1883e2367cd3cf19545285d27dbe9ac9f8960",
       "url": "30/57/8b890b0f950cd3857c58060e5fca4e2492930ca24f4f547ac6a2591b4abc/myoperator_py-0.2.6.tar.gz"
     },
+    "0.2.7": {
+      "sha256": "cf6100981e31d72ef45200c6c677f36c3a67cae8b81d0e8153256fe566fb1efa",
+      "url": "07/d8/af5bf0042a4cde0a38a9a0d7ce510fcf8d426821ed6834b83de2c036b2a4/myoperator_py-0.2.7.tar.gz"
+    },
     "1.0.1": {
       "sha256": "3a65fda56aa99639398c7c436e5189ce195c0721fd3ce9f19171e395823e12a6",
       "url": "06/a1/776580b67e471e7504ff5f327c226f2fe1ee2cd5f782b0b09eff5a7a5c3a/myoperator_py-1.0.1.tar.gz"
@@ -16331,6 +16335,10 @@
     "5.3.4": {
       "sha256": "e2877b13a400dd03fd404582136314de77797432b713d2a93fe985ac9eb97d7b",
       "url": "1e/ac/167f789296c9ffe11665b0c026ea54f3185d1bc266f521613ac4250706bc/ocdeployer-5.3.4.tar.gz"
+    },
+    "5.3.5": {
+      "sha256": "a97fae118b981a4721122b2eab98a68f57045cb7e3dc0cf4e95449a767d5830d",
+      "url": "9e/6b/ed0dc293e0f6e612c607fbb69ddd12c8b2aecc014f68c07e1617177e5283/ocdeployer-5.3.5.tar.gz"
     }
   },
   "odoo12-addon-easy-my-coop-fr": {
@@ -20039,6 +20047,18 @@
     "3.19": {
       "sha256": "177a31354ec61fbdb561257c73ffa13832644e0aa8a7f43af8b6aca623a5fc4d",
       "url": "aa/e9/216f0e398e39daf8fae914b3a1194baa5989d3ccb3355c421f33556d646f/pysimporter-3.19.tar.gz"
+    },
+    "3.2": {
+      "sha256": "c7216d946667089c28e12a0ac497f82e9f1fbf8eb628d3927cea9555796495f3",
+      "url": "bd/e8/27f87a7f016f4c9490de623ce7d3322696e5ed1b2e9ad3fc16f571eb24d6/pysimporter-3.2.tar.gz"
+    },
+    "3.3": {
+      "sha256": "78d740d63e0db9e7ab432e7e514e589e149e867047908d30371c20569462a919",
+      "url": "f7/c2/9488e65bdb87336a4a9cd0a518b234e6f868712447ced47b56bcb6cb71ce/pysimporter-3.3.tar.gz"
+    },
+    "4": {
+      "sha256": "81e3b03f3f7fab41e465d9032b56a88e080813f16669905a88c851773f58ead3",
+      "url": "07/de/f91314177a5848278bab9fa47831bf48c477039d37d31f0bd716be9d6be8/pysimporter-4.tar.gz"
     }
   },
   "pysoap": {
@@ -22215,6 +22235,10 @@
     "0.0.1": {
       "sha256": "f79a7e41f6f592c002d8a20813c801fb1ecae4c03be55522565d0a45588763ea",
       "url": "7e/5a/4207299766d9d6e7dc25b9bb53b65d169980dbf9e2aa0396f028cd5078ee/scikit-surgerycalibration-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "980c388c76c6382d7e38c85b49116b0552be96b94804f9d6af28db9b804cae8c",
+      "url": "96/e6/998258195b2bd5faaa1ee8fc7285e70a28af5c958052d1e1b4d192ab4d09/scikit-surgerycalibration-0.0.2.tar.gz"
     }
   },
   "score.session": {
@@ -22599,6 +22623,10 @@
     "2.0.1": {
       "sha256": "85581a01f4160a103ca9906ffa4e44474f4ecd1685f0934728892c58ebf111f6",
       "url": "b6/d4/67a6dd9d222221397488d740a7f86a4e02d7b18a6e57b9561c5f2c87ace3/Scrapy-2.0.1.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "640aea0f9be9b055f5cfec5ab78ee88bb37a5be3809b138329bd2af51392ec7f",
+      "url": "9e/e3/aded66769624565ceea5de5344d18bbc6eff196ee58ba125fa86921795fb/Scrapy-2.1.0.tar.gz"
     }
   },
   "scrapy-gui": {
@@ -22711,6 +22739,14 @@
     "2.0.4": {
       "sha256": "2d91cbef867220293b009ca954cdfa0e3f96092c70fa4101a7422cff78349f16",
       "url": "86/86/894027ec76e1a5cf262542a395338f425d20c5ebf5d3ee8798b39389c918/sedge-2.0.4.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "d56588db359af5aba2b845c833ec40f64c2b7bdbda4b2c42ae76d839500dd470",
+      "url": "30/2a/3c0177b634302ce5ac490f46de5d791aebcb4e0a731af67ddcd4f525360d/sedge-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "9ee81880d8fbdabee6cedc47ac3da5b6dac61f125e7add255b8194c2263dd2e7",
+      "url": "a1/fc/637ce74ad36bdd414d2797783c8567cdc9051b3e5ef745b23779e2f733b2/sedge-2.1.1.tar.gz"
     }
   },
   "seiscm": {
@@ -24679,6 +24715,10 @@
     "2.5.0": {
       "sha256": "d75801ea0c00fc8d66dcd94ce9ab8777cce394736e0c8ed0885e3c04ac7bf028",
       "url": "74/cf/89960e93a3c2e3cd407b04740c7085e35d3e3fe476a853f82bb996d3476c/things3-api-2.5.0.tar.gz"
+    },
+    "2.5.2": {
+      "sha256": "cabdf58a25d5e874b419043ad4d6fa7e88b6e8eb5bb29a3cfbf7248481e9ad47",
+      "url": "43/16/2d09cbad88af5cb71bf0311cfb8a7301af3ef59d98c02fb50cf2ed6a2aed/things3-api-2.5.2.tar.gz"
     }
   },
   "thorsonwiki": {

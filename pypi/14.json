@@ -4493,6 +4493,18 @@
     "1.3.1": {
       "sha256": "cb2497306aeb160a6a312a40124b5b3f45d3b69752e6e74474876b71b6fa3683",
       "url": "f1/55/6e7880ae807f9aa7b80e9c73ef2aac3faa659e181f160d2d370668b669bb/danpy-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "ce91937f4fd3f470e4edeff4e03422c0b81e06a55189fbf60b66cf3d5bb64dd6",
+      "url": "67/99/5433f6e2c64a4de128a8fffadfe875ecd662cc2d40ff9aca4e5e5305bcd8/danpy-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "96f2e7e57044bbe509ed7e54d8e6c8fd543907282def794545d7f004bd616759",
+      "url": "79/4d/a0b26d5eb4e0026b360336bd73046aa20017eb268cdfd754b398c65e5012/danpy-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "3e1e64b556610f97c045df08880afd61318959dec1303c6c86799b7257874f00",
+      "url": "10/86/43c98a1a4b7feb674e101f7fad20872a717b1307a4c6261125547d54ebb2/danpy-1.3.4.tar.gz"
     }
   },
   "dash-core-components-ppeterson": {
@@ -13101,6 +13113,10 @@
     "0.1.3": {
       "sha256": "45eb1aa6884191cf779768256e9d05fe29b0518ff53c7c1d789f1feed1f4b791",
       "url": "3c/46/24860533ff2984ccadd01b26fed9f09b166503fc1f7bd06d2e0b971174c2/iservscrapping-0.1.3.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "04fad8d4259bb5e66d5ed29319b30fe0eb0e9289af1a30843dc1414c1201aafd",
+      "url": "f8/be/2e0ce301e95baadec68612a52095304d8684e1f8eb7c0dca21c4daf2cb83/iservscrapping-1.0.0.tar.gz"
     }
   },
   "ispublicdomain": {
@@ -26519,6 +26535,10 @@
     "8.3.0": {
       "sha256": "376d0047237aa42651b92150d40ba4951207740038b5a1f1c46df51b7f47e880",
       "url": "0a/ea/2167738c76bf1fd9da316ce61bb05aa14cb578fdbeea25e11e72dda8e802/tri.table-8.3.0.tar.gz"
+    },
+    "8.4.0": {
+      "sha256": "d01a29df9f882cef6f28d289c949bc0a3ae0036d53a1506b8b02413db052cf47",
+      "url": "05/2e/039d80da5187b1b273dac3f383c3fe2298d4ec6726a534fad20c650094f0/tri.table-8.4.0.tar.gz"
     }
   },
   "trufflehogregexes": {

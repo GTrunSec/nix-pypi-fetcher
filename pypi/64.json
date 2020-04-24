@@ -4315,330 +4315,326 @@
       "url": "d1/30/d0322306a06c5a5a071795e4dda9a0d82e9a281abd07f8fe137a59c3b353/dagger-1.3.0.tar.gz"
     }
   },
-  "dagster-cron-nightly": {
+  "dagster-spark-nightly": {
     "2019.12.10": {
-      "sha256": "0cef2de13ad3fa3cfb8a81972bf33737bce399464eadb5d54f81936d35bad501",
-      "url": "5d/f0/519f5098cd7836c48b707b5c392bdf860b041111452561730064e14081c2/dagster-cron-nightly-2019.12.10.tar.gz"
+      "sha256": "c01724148a4a07177ca83f7525e9fbe51a57c230ff016150ea61798cf8c460bd",
+      "url": "ae/c6/8e3f18b3014a0b0cfc83742213de4c88ea984492c90366ade0d9d4caec64/dagster-spark-nightly-2019.12.10.tar.gz"
     },
     "2019.12.11": {
-      "sha256": "28569161a4ef0ac79036f1db5801a305a6ecdf627f55b2160e871b8f7f04171c",
-      "url": "8f/22/c0c0762f7a52e20e135427be063a10c277e31926ad50e9514839b236607e/dagster-cron-nightly-2019.12.11.tar.gz"
+      "sha256": "ce140dfa061540f703f01e00a82e351d9b453cda6e84a4f5b8e7e3c43f4c1180",
+      "url": "dc/04/8ba2271fe86b992daf5b8252b37455d209820d8e3c3b9fceadf4af820f7c/dagster-spark-nightly-2019.12.11.tar.gz"
     },
     "2019.12.12": {
-      "sha256": "f8845c94caf6a462ddf6f7c4bb4c1374aee1a653ec2202179dedf823b797b83f",
-      "url": "5f/2b/b80ff97333e2266d6da192eca0f5e4cc2465dd8800fdcfeb816e8413dbb8/dagster-cron-nightly-2019.12.12.tar.gz"
+      "sha256": "f89656221db968d3026e972def35aa4424a2aa2c90851b98b480a0bdafd71807",
+      "url": "38/4c/219efe64b7da773a310e79503d201d92f87cbc489e869c0fc1d341f2d09a/dagster-spark-nightly-2019.12.12.tar.gz"
     },
     "2019.12.20": {
-      "sha256": "c4d3b4583070bd32e7bfecc072cdfd84dff1714fd76044fb61961db22ab38cf4",
-      "url": "aa/b4/79bcbf245daa76df725029495dc42e07f8573afbc59a4de74ac9a61be68c/dagster-cron-nightly-2019.12.20.tar.gz"
+      "sha256": "6f9bc021c10eca3cd4aceb19bfe4ce1ded440d497d4bc7109b26b1a39c6c7f60",
+      "url": "12/f9/ea3b5b4b2dcefe8b4a7821c9b5e01d71b32c9d32ada07d1fb3c52514a131/dagster-spark-nightly-2019.12.20.tar.gz"
     },
     "2019.12.24": {
-      "sha256": "466cf3c9240e34a50de7b2b6462d58086889903da5af57bf9c3273f10b04db45",
-      "url": "74/be/45d762491d540ac7145b73890bd6734d6c14c4b743d260ab6df60718af3b/dagster-cron-nightly-2019.12.24.tar.gz"
+      "sha256": "564a75680dab4d83535f8410376b9e7b44f61851a0d4e0f043162fd140683518",
+      "url": "15/38/556937a47b4143c67d54763ed3b195d022289751a331986d3a1e8d34903f/dagster-spark-nightly-2019.12.24.tar.gz"
     },
     "2019.12.25": {
-      "sha256": "e4a1189b0fc1192fc8c8951482669cf1a5fb0936b5dc13fecb871e2f4fa5bc6c",
-      "url": "db/03/28832600ccaccc46a9bb2be4db28549b52c7dfcbc9d37bc55aadc48bd01f/dagster-cron-nightly-2019.12.25.tar.gz"
+      "sha256": "71fb2a5787348067264364f1f13a985cec8897a7c9b6291f1124a772b8d19e4a",
+      "url": "03/78/5555046ca71b9b3cbdb7d6a4effd694f3847821774a728ce82d5d24b4849/dagster-spark-nightly-2019.12.25.tar.gz"
     },
     "2019.12.26": {
-      "sha256": "9edfe5132bc8ac0d6157a3cb71666158163521a17e09469e208753c76b22ce2b",
-      "url": "34/11/cfdf838ffd7c167b173819f6ca73c467adab40acf1a4b9116f613dbd2e30/dagster-cron-nightly-2019.12.26.tar.gz"
+      "sha256": "438ac9151232681a71db82b0826be08b106cc4a1bb8d7eca7999a2b8e3be2430",
+      "url": "76/0e/6d07e0661d8da2deb4d44e2cf751a7dea5632963fa257efe14fc7abb9e3d/dagster-spark-nightly-2019.12.26.tar.gz"
     },
     "2019.12.27": {
-      "sha256": "f9fdbf205e5726fe750ee9bfa0c2efe361b21a0d5a882bc1943576fc2f557b18",
-      "url": "c3/4d/f3feab200e21d8cb6fcb0d4fa793ba02d911f8b3dec832fbed6d8b073d75/dagster-cron-nightly-2019.12.27.tar.gz"
+      "sha256": "3142f4ffe0f3dcac173cd0bcaf1965244f7c3739f44ffd862b6f575be0105585",
+      "url": "0e/f1/4ccc4754cb9701a039cb503a54345f11304df2cdf1654c25928e33600a48/dagster-spark-nightly-2019.12.27.tar.gz"
     },
     "2019.12.30": {
-      "sha256": "498ce7fa0dc7452deb6fbe415c5ec4f0f1cf68ffbd412a0be06ffb686e69fb9d",
-      "url": "f2/e2/a0e742dda3a852fc0e9228e92412b9317e3b861658cd8dacc9c3d4e67a86/dagster-cron-nightly-2019.12.30.tar.gz"
+      "sha256": "90975570307603c0654884578bd002171394398581682788dc8e71698cc68649",
+      "url": "02/40/a61f927b0d1d29178acf8b8fb5873d67ebe21e7568f0310400c04e501265/dagster-spark-nightly-2019.12.30.tar.gz"
     },
     "2019.12.31": {
-      "sha256": "a8f6b586b5dd15c24b61ebaf41f74eb35eceb9f751d6f2a83937ea35367bf322",
-      "url": "b0/59/992c366c2118ba670f32e6dcfe8d6da3accc4a64ac46d9a0002b90aba405/dagster-cron-nightly-2019.12.31.tar.gz"
-    },
-    "2019.12.9": {
-      "sha256": "816bc95263fb3f007938feef215553c186ab9b7a7565e9e3ec8174e5baf27e45",
-      "url": "3e/7d/56fd47a49fbef1667ad97832e9bee214c398495a6ae32d04a0e69293529f/dagster-cron-nightly-2019.12.9.tar.gz"
+      "sha256": "581789f58fbf1286dfe51bf2f4cb51575be3af369d5b1f1efc0750c5caf1dfc4",
+      "url": "64/f5/cdf2eaa2215c7e14304dd7be192dc0f71bad97533633381088354f9178a8/dagster-spark-nightly-2019.12.31.tar.gz"
     },
     "2020.1.1": {
-      "sha256": "044fb79b85a7307e8ba0a96f1af3d7168ea0e2557381c5ba4bebd270564e1e60",
-      "url": "aa/c9/b285dfbbfff83de79a752f584b8d8673b7479bfb7e80e232d3829bb9f3cc/dagster-cron-nightly-2020.1.1.tar.gz"
+      "sha256": "239b0e6040ae8d728a28d975221c823a577796378d1243d7e67c68998337fa4c",
+      "url": "ef/d9/a02b26d1204d13f162ace1222c7a1aa2e5cb348051f6be12f42e294aff29/dagster-spark-nightly-2020.1.1.tar.gz"
     },
     "2020.1.10": {
-      "sha256": "612afb85478f3d3ea280ee50f2043afd4c9d561be9ef0cfb9b1d10249eb703ce",
-      "url": "ef/0b/4c777e02ebdc5f0a3317116831507cbb30a9c75020bf8b1ac21095afa781/dagster-cron-nightly-2020.1.10.tar.gz"
+      "sha256": "aaf7b4fc376eb642190887290c6c1297227834d751109ff8a414f7aeffeedf0b",
+      "url": "9e/ba/775e7998947752a2099ed2775df3b24cbc9eb07a584e8b0daefd594640c8/dagster-spark-nightly-2020.1.10.tar.gz"
     },
     "2020.1.13": {
-      "sha256": "08b6ac3861314090896ec2485fec234c7501085d70fc03414a8fa2ae074b38b4",
-      "url": "94/55/e4550929b902d40fbe80e290aff0332a647379a8934e016f9053027e723f/dagster-cron-nightly-2020.1.13.tar.gz"
+      "sha256": "1cc2953b7b1e395429a3594778bc0c2aa54f09cad0b3244f364aa807a5340be1",
+      "url": "9c/b8/d970b8446e4f77aa37c77a56f2f3c3b8027585ccbef2ab30adc8c6fc632e/dagster-spark-nightly-2020.1.13.tar.gz"
     },
     "2020.1.14": {
-      "sha256": "c315eff3f91d8ffe55247e6853f653a4e2a8e1a85bdd80261c74aeaef69fe399",
-      "url": "f0/3f/4a04def75d797f4eb81e386e82ad203f7ac2c523a3455a03eed8b380cb32/dagster-cron-nightly-2020.1.14.tar.gz"
+      "sha256": "f2220d314aaadbe10675e87c03d5350ff6f72e21303702617f20e68819b124c4",
+      "url": "a6/05/f6ed40151728baa7f15212fcf513d130600319e5a8f16b560a7cfc4b41a0/dagster-spark-nightly-2020.1.14.tar.gz"
     },
     "2020.1.15": {
-      "sha256": "3cea4e713c9fc3a3c928aa8b3da52ded9dc51005c8646eb61dbbf09bd0b2ab8e",
-      "url": "1b/53/0e87d236916fc78c17623c381feb40c82059c4cf8ed1867dca8b0544e438/dagster-cron-nightly-2020.1.15.tar.gz"
+      "sha256": "8ecd62018e40fc35cf632510608239964ca5b520c88009ec0ca1680c7deb4c4e",
+      "url": "17/49/e4b441272d6decc35674139d872fc3337a5b6c130ef6f7437e4d905cc5de/dagster-spark-nightly-2020.1.15.tar.gz"
     },
     "2020.1.2": {
-      "sha256": "9c04235755d2fd4c3ab0f291458f7a0b32385e93574ce05cac913624f6d58992",
-      "url": "cd/6b/0ac46099a782c9d0dd50b48070ed2627531d836bc5bd4e21ce82237f3051/dagster-cron-nightly-2020.1.2.tar.gz"
+      "sha256": "a19242fe40b6b2861ed5fd25785a6e72f30c1c26a74a665158a7bb13178a77d9",
+      "url": "81/67/9db61b86074acb0229140f541d3799e59bba713fc1e6be0262edbb781e84/dagster-spark-nightly-2020.1.2.tar.gz"
     },
     "2020.1.23": {
-      "sha256": "b9e5c338b6d3958362b0399097eb190f8c6766dc1f5f319f9f25e61dc8f1bf9d",
-      "url": "df/04/8b663cae4d3e099bb0eaf743b39942ea570f0e844f5dfeef02095ccba280/dagster-cron-nightly-2020.1.23.tar.gz"
+      "sha256": "2f5d239bef16b9ecd3cdd23eab1f0dd44fbe6b0bae2f5350a2bd1aef4d492445",
+      "url": "ba/bb/4d6aac2f91ad4aa7510371ba227ab5dcec69dcd5483f5634dbb6d7dc45bd/dagster-spark-nightly-2020.1.23.tar.gz"
     },
     "2020.1.27": {
-      "sha256": "549deeeee755ff9a68b76902c2efdd19c40634bba4c9ea1ed2b44d031a4c1df0",
-      "url": "11/02/fcde5610cb42aa03a2f4f012db4eebe6f748d644b6a4d7259c556b67e52e/dagster-cron-nightly-2020.1.27.tar.gz"
+      "sha256": "4f410deec095c7030e20fddd5b264ff5311acf0b662b5a40b2a7e83e63b88249",
+      "url": "e6/78/504233762a17ea96d80dffb6bbc7f8359355f847eda8d6f4f2279a2d8fac/dagster-spark-nightly-2020.1.27.tar.gz"
     },
     "2020.1.28": {
-      "sha256": "113a5bf145859db5a0acb38d96c15db01e11c2cba7901dcdb5e2a15669c8b838",
-      "url": "6e/10/08dab19008baebf4e17cdc3ae3c079c306121e55a06f3f1089b49e526884/dagster-cron-nightly-2020.1.28.tar.gz"
+      "sha256": "45b69eba14b144e8eb2454edb75896ecf8a11201f849a0fc458624a61726ec2e",
+      "url": "68/85/59315f5857ba8163250d5ede130139a59e3bea9bc00e0f311a739ebeb87f/dagster-spark-nightly-2020.1.28.tar.gz"
     },
     "2020.1.29": {
-      "sha256": "2f3bd15b8926bf8a186912feb436bd3b37068334ef46d4508089ca56c6d95a9c",
-      "url": "f1/15/ae565406a79ffa30c2350047f88706bc025b0db60880b8e6fdff6cbd8482/dagster-cron-nightly-2020.1.29.tar.gz"
+      "sha256": "3f3655fe16cd5cbcc1c9193d484e98bcb82125df91d5307b800bd75a74a2a448",
+      "url": "d7/44/313df8b5e06fb6abd1a2bd529c064e3878d5e2afca7d76329163646b268e/dagster-spark-nightly-2020.1.29.tar.gz"
     },
     "2020.1.3": {
-      "sha256": "3824bd53283db4563e87b2b49af234a3d6d94c67634955203a85e4c55d36b918",
-      "url": "17/37/62b9a187a4a6deb0613a546ac4d34a96fbcb8476c93cf7c9d0f124addf9a/dagster-cron-nightly-2020.1.3.tar.gz"
+      "sha256": "c2f7e952321dccf80f42dc4894179f273a3ec1826d0de789f1df7bd6717664a6",
+      "url": "a3/fc/7c1de821767bb67ac2e3057f0d719d0509b9a52d9e70d7f324011621c1c7/dagster-spark-nightly-2020.1.3.tar.gz"
     },
     "2020.1.30": {
-      "sha256": "b97b6047e6c33aabe368886fd0cb3c862f854f6fa5235e217cf29148570bfe7d",
-      "url": "e7/43/6c67308f1fe645a1d26f0b5552ce95cea68ef74ee0666c51096859e7d44f/dagster-cron-nightly-2020.1.30.tar.gz"
+      "sha256": "730758e16b14a7d2bd4fb9e48af6b6e51bc451bb8d8857c708d4b7ba3ed5cb75",
+      "url": "58/1a/bcccbe4ec04d5ff4e3f3520fa14112d079095ef355c7f0b9a56d33252571/dagster-spark-nightly-2020.1.30.tar.gz"
     },
     "2020.1.31": {
-      "sha256": "5342727248c9814fc52c37799cb3d8ef55c3f0303ce295b50e471231994bfca1",
-      "url": "a8/51/bf31d9e4530f97ff6b3fec601402943fd857f0c044487a1fea5d15969e89/dagster-cron-nightly-2020.1.31.tar.gz"
+      "sha256": "1afa21e1348b1daa76350e0786997b4724f11ee769d997ad5a9037036a22f3c7",
+      "url": "af/f7/be379552613190bb16fce2acc31e8f48d0b39f23e79308d5e04daba39e24/dagster-spark-nightly-2020.1.31.tar.gz"
     },
     "2020.1.6": {
-      "sha256": "94b7254a3162cc29e4455fbc0e46e418cb2f6700042db7a826a8fcf26acebee6",
-      "url": "9a/2a/1492af06d811de106ef5306e3ab4d1152aeb2ca06576395f043e1ac542cf/dagster-cron-nightly-2020.1.6.tar.gz"
+      "sha256": "4323b14452b08df7f405ed389480d11eab0d5d00edeb9e6a0fa1e9ffcb4277b8",
+      "url": "53/4d/80b39a838e36da6c3a00b43479358b16e592004f3fdb090b7ef1e291b5b5/dagster-spark-nightly-2020.1.6.tar.gz"
     },
     "2020.1.7": {
-      "sha256": "afe5fca5c1842cea6bcac57dee1cd19879be378354e0b41783e6ed748f49bb46",
-      "url": "80/17/dec9e0b520d5c90a9d9bfcceea45320fff849cff5c06a76cea381b45342e/dagster-cron-nightly-2020.1.7.tar.gz"
+      "sha256": "8d3fd280735218ff7c60fc400ad650743c4b144b1fcfa3d8f269b54467030c2f",
+      "url": "81/aa/34cd3779b6d318085a07d4f2ecd1fa3572f9ced48fd5604a797eae5c7112/dagster-spark-nightly-2020.1.7.tar.gz"
     },
     "2020.1.8": {
-      "sha256": "1e595e6a97a5a4bf32cff7aef56f7cf2afede5c2e7de14644375fa04fe5c612b",
-      "url": "5a/ec/4d70f8bd316e3fb05275f615ba584788d5b19d46cd10b2bdfe324eae9e9e/dagster-cron-nightly-2020.1.8.tar.gz"
+      "sha256": "ff2251527288c14a347c1e3853a78af8e403e57950ed15888ed8644597bec38d",
+      "url": "fc/7e/04d34f8fd2bbde8ceec7b31667463c895495c2741e78daf54ad408bdff61/dagster-spark-nightly-2020.1.8.tar.gz"
     },
     "2020.1.9": {
-      "sha256": "e605eb72915f55dd089905d82c58a70e7e8ade153850df4fb0a746e7d6cb7ba6",
-      "url": "80/45/cdcf32c9f17c42a6130b9a115b18a42984b18ad8fef60eaaa8209472ed09/dagster-cron-nightly-2020.1.9.tar.gz"
+      "sha256": "97cc5855701bfd790fdda60952708c153aebc226acbb1c52bf43085ad79da420",
+      "url": "6f/d6/e6d3177a0a06e4b04eb68abad8f63ccd1ca78bae0d747afa46f2b0405753/dagster-spark-nightly-2020.1.9.tar.gz"
     },
     "2020.2.10": {
-      "sha256": "8a0460fabe3d6949b76fe342e0bd4698082211ec3b710a055af8046ba4f9c4c4",
-      "url": "e0/59/cd223ac2a560108ab614e1bcfe541498f3c20aab8bee5c9f18f8318112c4/dagster-cron-nightly-2020.2.10.tar.gz"
+      "sha256": "5520c6bbbe6f6a0e56b6be5f23612527af62bb2e98b3833df97c06727f793b97",
+      "url": "b3/fb/295188dd71e8afd93cad4ae3e57b8736dd4d8df1bfa48f2e5aabb417836e/dagster-spark-nightly-2020.2.10.tar.gz"
     },
     "2020.2.11": {
-      "sha256": "a119c6ca10219288238d69ea76acd83d95b96c98abc60edb0af27bc3df0fc909",
-      "url": "1f/fd/a69a7e983374c31199efadd896d7251ac5d60b53d89132856e77cfe13ba0/dagster-cron-nightly-2020.2.11.tar.gz"
+      "sha256": "e76c33049a207ed9ec4534abf556b7ad103ce37e4e7cd2fe1b8d42e7540f2d73",
+      "url": "06/19/44ad70efbf3b2ab812846c7af72ee213826ab03f78d863b6c29c705429ca/dagster-spark-nightly-2020.2.11.tar.gz"
     },
     "2020.2.12": {
-      "sha256": "a0585e4231e2aeb0f344e06dad4be53b41b23f7f41451cb1cb521e2e7b4d7838",
-      "url": "6d/68/faa6f088bab9915e47f517b2c77874266888f2a58596eefe83d9e8d09751/dagster-cron-nightly-2020.2.12.tar.gz"
+      "sha256": "d1abb41391a7471df8574421511803ec23f3f52a757f86299fe5d832ba5db2f9",
+      "url": "75/b8/48ab87b22c7c7525a00ce1e1e28a8670a99c2d10d4dd6ef62ee883a1f344/dagster-spark-nightly-2020.2.12.tar.gz"
     },
     "2020.2.14": {
-      "sha256": "f537c1fee413f61fde9a1229b85016388bfeedfd380d70b06e2762cff54e5752",
-      "url": "c5/a4/16e2c95ec1afdb67344d86c713afb8c241f7e0669517196df19f5082c39f/dagster-cron-nightly-2020.2.14.tar.gz"
+      "sha256": "8aa70ef8e396daf9bf7519324df8148b4d0de1e62672abd2e629eae66f88ee72",
+      "url": "44/d4/8cd3d6161fff1d29262e6ff9bc7aeb05db63109f69023f6d9cad156d9e16/dagster-spark-nightly-2020.2.14.tar.gz"
     },
     "2020.2.17": {
-      "sha256": "a611db9eb4b6e0b44a89d8d743cd9da969518be0a4965d6f49abe128a6c10333",
-      "url": "dd/0f/cbc243d8964c37eb9c0c65eb914f6e81af2d8b61a4661c920c08a2f9c6cf/dagster-cron-nightly-2020.2.17.tar.gz"
+      "sha256": "18a23649edc1e55f6c4e257d3dfa0af03b5c97eb4e44e45d17f5e691fecff368",
+      "url": "94/3f/bc54e0d3c3be34cede572661cb9942e4585e350ccd224a26d95957ce376e/dagster-spark-nightly-2020.2.17.tar.gz"
     },
     "2020.2.18": {
-      "sha256": "c1da4cc9e487c1d119d7543834d35ac63bb36e0c03101f0ea6d1997e1806be3d",
-      "url": "ed/e4/8c2c7be4ddd45bebccfa589b7a61cfdc63d09eebc7f3035252a81305e9cc/dagster-cron-nightly-2020.2.18.tar.gz"
+      "sha256": "0c56d3a25784d65ba084f15b3b8fb237ecbbe99aeae1a5a95188a5bea8a9ad0f",
+      "url": "3d/6d/3dd1740e7f33183f31f4360fdbcf2f1112c23e51cbf7ca17bf78e3c56c0f/dagster-spark-nightly-2020.2.18.tar.gz"
     },
     "2020.2.19": {
-      "sha256": "55df64ebe92e8218f1c7f4f366e0174d4c5cd89ccdae557136ce8a8bcb11811b",
-      "url": "83/ea/8b6f16ae6744187f428bc2ba84fe9d7b16e4d3f599a66ad79441e859057e/dagster-cron-nightly-2020.2.19.tar.gz"
+      "sha256": "74c724e36b01358211c4688508fc8f7c9b27ae15e966e6a1040a4d3894dfd9bd",
+      "url": "48/ef/f70de83fdeaacf1dd2f4467b45c700d385471e2c487228ef3029a3aa5605/dagster-spark-nightly-2020.2.19.tar.gz"
     },
     "2020.2.20": {
-      "sha256": "24681c3b8dc74ba8bf11a2bf3ebf12844595f922014940deb354b825474c2176",
-      "url": "b4/16/5a35b533b5a64fc86eaab8e3281c7838c8bc4bcb81896d2ada505a08f73b/dagster-cron-nightly-2020.2.20.tar.gz"
+      "sha256": "5f4fe7fa5bb88d6102b5e0578f44f917cb3b80c5e8add502f29a243a6f56bfe3",
+      "url": "66/91/969ae665c6bfb13aefddb0e2d1cee9531d774a786f17ac5bca0448aed257/dagster-spark-nightly-2020.2.20.tar.gz"
     },
     "2020.2.21": {
-      "sha256": "11a2f7160d52a34ccdc5dee725305c0c328264c1aaf243224d1bdab044cf41ef",
-      "url": "94/66/b4c4c85b5409ac18daa9851afabf1182d9fa261b2de5b785b53bc20aa588/dagster-cron-nightly-2020.2.21.tar.gz"
+      "sha256": "52a1e363e9f9178311a9aeb4755a2f80f0d3bbe9deff3abd90f85f18009a0226",
+      "url": "6e/35/67ac17feeb96895126cf0ae55cbe011bf22d9d3f14828005690bf08d426e/dagster-spark-nightly-2020.2.21.tar.gz"
     },
     "2020.2.3": {
-      "sha256": "6c7b7d28fe43f269e80593f0714ef50dc74d491d6173c9e856f1204bc0fc2e1a",
-      "url": "7e/4a/63f0ac1e04b5b78716be350d6feac0cf28d824b27e32285cebbaeea278e3/dagster-cron-nightly-2020.2.3.tar.gz"
+      "sha256": "8e1972fb010520ad89bca423e37af9fe102ae6f3d02f2d0bc3085eda073ef297",
+      "url": "23/f3/b63b008fc14a86ad82996234d036603d05b34fcb9630c9fed58f622295d7/dagster-spark-nightly-2020.2.3.tar.gz"
     },
     "2020.2.4": {
-      "sha256": "a121a743bde445009ac29ea2a55242634a216964d5fabf4841891102d7713697",
-      "url": "53/fd/62a8b065fe5665a3fa0bf54583191718d3ecebdc2d190f8b61fbd78defd9/dagster-cron-nightly-2020.2.4.tar.gz"
+      "sha256": "df0571c30c4423cf5016eaac04a9eb39ab3aa4b5b0c9f6e3eadd94f696c39760",
+      "url": "82/98/d06a0116c6d43882e0f5a749e17f8a9bf89794e3c3eb95cedf6b8ed4dc8f/dagster-spark-nightly-2020.2.4.tar.gz"
     },
     "2020.2.5": {
-      "sha256": "fa84b99e60e9e33ada6e1106b1a10e4b4e940c20b84021954c423208d915b257",
-      "url": "8c/9b/fb1d7bea27c0f410a7f6ea6637aa1bdc857934ee615fc147a832b32f8118/dagster-cron-nightly-2020.2.5.tar.gz"
+      "sha256": "4a9e5a2d85a5cf2879fff569f7c8fe3b79f5ce8be96a7471a98c5f9ec285d2e9",
+      "url": "50/6c/97712f4a228c6c57f539e6b2cc80461d053ea67db9e66a445ff23e630650/dagster-spark-nightly-2020.2.5.tar.gz"
     },
     "2020.2.6": {
-      "sha256": "c02c767d81794d1965b6fa3552f620d91b8ad914b1781a2846e986475f585880",
-      "url": "3c/e3/eb0abd97f0ed88ec5c0e35a2719ccee0beb820c7159d8a29628109906bef/dagster-cron-nightly-2020.2.6.tar.gz"
+      "sha256": "41538a5a08feb1470410e6c0055654f9d13de9fd26d92240693bad0c15f164b3",
+      "url": "cd/cf/d4853e0b34aa86231474cac6c2915c6172977c94941fb086c115584e66c8/dagster-spark-nightly-2020.2.6.tar.gz"
     },
     "2020.2.7": {
-      "sha256": "b1fd551790eab16741507b8f95ab5b5dc910edee7da1913e2b1b4fddcf43f115",
-      "url": "bc/65/e70816fab184e861f9c68415a481766441b0460c1dbc1bc5a63417304a7a/dagster-cron-nightly-2020.2.7.tar.gz"
+      "sha256": "32b031b0bcc6910b664dafc6fbd7b2cfbb9e924cbd5b7660b0b1f225a9a883d5",
+      "url": "db/18/01eddf6151e8deb4f4e53298ee2931b0427ef22d5d8306fd834f326c71e5/dagster-spark-nightly-2020.2.7.tar.gz"
     },
     "2020.3.10": {
-      "sha256": "5bc64cb0eba5595ebfe3905b3c2f4fa3731770ea1476cad891385c5193a0b502",
-      "url": "46/18/b38f176a7a20db59665c4426746629f32deecddba702132c836499de3e43/dagster-cron-nightly-2020.3.10.tar.gz"
+      "sha256": "0f99419456fefcf395ca06d75934ee3b2b8aac887e1b211914e9c2d88ad022ff",
+      "url": "f9/bc/c4ce3bdb6b5de31cd067b62519777c74a97dbd039a3b14e31d10ee4a933a/dagster-spark-nightly-2020.3.10.tar.gz"
     },
     "2020.3.11": {
-      "sha256": "d7ba0360b510f7803852ccdb561a174a2b212cc769687d2c2ced82d0c5c6230d",
-      "url": "01/73/6aba9bfbb9c7b74f5db91c663cfedcf11ef6b920b7135e7130ad1411ce88/dagster-cron-nightly-2020.3.11.tar.gz"
+      "sha256": "4b67d8a187423e15772e652da53ff2a7e8305e8f90b85ad0b4bf39a51bf923e4",
+      "url": "04/fc/ba3726d6656b90ae52c94e919a0fd73dc377a5561c8e5d7d6ef9c20c2ddd/dagster-spark-nightly-2020.3.11.tar.gz"
     },
     "2020.3.12": {
-      "sha256": "95828ea48bede7126dbd4e8664725b80b542a6817e2885e0e30f31a005aee92e",
-      "url": "01/2f/cb17b0ea72c367262eb859fedb23ab1943d0928fd4fafe33c3d9cb334f9a/dagster-cron-nightly-2020.3.12.tar.gz"
+      "sha256": "fd3ae5d221f5c1a5edf7cfdd68c470f76bcc0a89600c926b7cd12dfeae91d5c4",
+      "url": "55/b3/b102790b3c86b2130b6734832c17a7fb245f98ce16dc04942412403fb8b2/dagster-spark-nightly-2020.3.12.tar.gz"
     },
     "2020.3.13": {
-      "sha256": "48353d43f9610a3f92151eb73ae3d309ee1e37e564d8240ba989755a5d7a7c86",
-      "url": "35/85/f72b3701a1508ac6007ade4b9409dd3c03a64bdcbd742eb500bf40fcd32e/dagster-cron-nightly-2020.3.13.tar.gz"
+      "sha256": "6640e8ed15eb4ad913ce4ff9783f849aa644e88cfe64baf480597156f2f88276",
+      "url": "af/bf/ef244142b13a0d017f0b2b1131905f8f2e4d75ffc620280d87570b05c72d/dagster-spark-nightly-2020.3.13.tar.gz"
     },
     "2020.3.16": {
-      "sha256": "1bcdc2360d331082fe8ba72514bc88cf90ab2e1758ec9eb944135d43cf0f3326",
-      "url": "40/ea/d7c96660c75334fcb97d0667c429630399f2861bababc14f9f5f40360dac/dagster-cron-nightly-2020.3.16.tar.gz"
+      "sha256": "fcea9f0df90eb0d5069081d3e26fc5ad4856e6a14e4870c5b3543d82c3ea10c2",
+      "url": "b9/a7/f6c74dcf0ac7916a687a32212bb8747ff8cb489d161c1287e11a45574742/dagster-spark-nightly-2020.3.16.tar.gz"
     },
     "2020.3.17": {
-      "sha256": "d04ecdd0310a2eabb15def18703171851b7f8c647d89f4d3f033579b9502d5ac",
-      "url": "a4/96/355b9001b936b80dec0daf287bf523430ac949535264fbc5a2e1a64327d1/dagster-cron-nightly-2020.3.17.tar.gz"
+      "sha256": "b6c1e108463f145e76d3aea6b829391a2385318b366eb7c3d8ba5f2e1c7273ff",
+      "url": "20/14/6dffae40c0ff6edc62168571f79486f65ccc23b79e1eb67d5b75742a172b/dagster-spark-nightly-2020.3.17.tar.gz"
     },
     "2020.3.18": {
-      "sha256": "4d193b5d23b392b95c4625fa36bbf9195a11031a8511aef099dd7da3824ee486",
-      "url": "04/7d/397fed85ecd24665b4c6132b7e058e235567c1a5486c83c0fb6c59fa54c0/dagster-cron-nightly-2020.3.18.tar.gz"
+      "sha256": "7ebcc5e0fab106814cfa6c1dce25240c1e866b24c6fd7d0002c62d8121777951",
+      "url": "3e/ac/6f398940dfe2327c1a90b4b0e2a959c0cdc7ec26a3555378d276c5d7b1f1/dagster-spark-nightly-2020.3.18.tar.gz"
     },
     "2020.3.19": {
-      "sha256": "96c0c99e9a55aafa26baff898f3dc3c09f06cefd6cca1c71ff751558d94aabb8",
-      "url": "93/7a/6ff95682a3fe66e4fdd17a8edd9a0f411d7c132b72cff157b710fdfb090e/dagster-cron-nightly-2020.3.19.tar.gz"
+      "sha256": "1c638a2a69e8c29cc8c2f7f92b2e60176b5c16932fbbb9b5c6e7b7a4c5b3d1fb",
+      "url": "8e/94/0f1c69e1e588e02f0b74ba3c2bf9cb90ea989bd3b208104ce6387c80297c/dagster-spark-nightly-2020.3.19.tar.gz"
     },
     "2020.3.20": {
-      "sha256": "c5533e7a433bcfa304db5d384d6a7afffb4d7dde63a9e9b44b03f87067dc470b",
-      "url": "64/73/fcfe75ae86f97e5acf0f33ba093a42d8cf54c6678474bded1ce234e8a803/dagster-cron-nightly-2020.3.20.tar.gz"
+      "sha256": "0320ad39b818667a8ec646c47798f30eee05f6d50160268a77cc71e0f1c361d0",
+      "url": "1f/32/7d7fe063fd2c18668635af62b44dd450686a9aaa804103c021b4b02f08c0/dagster-spark-nightly-2020.3.20.tar.gz"
     },
     "2020.3.23": {
-      "sha256": "0dc4398e544aecd895e180dfc7f6f1ae3209cae9c6be9c8e97c155ad7b82f500",
-      "url": "44/2b/f595afe675ee118cd5e3fa2138cdea271d981e8300ea3b45d073a3ceb80b/dagster-cron-nightly-2020.3.23.tar.gz"
+      "sha256": "4f8d86e9ed78ea43abd350ad0fc37894d7ec1c27630d93ae3ba154063912eee1",
+      "url": "dd/5b/a5d32f1b9b26ee9511445abd4b61205575956f6e4d157b8b89d292950dd1/dagster-spark-nightly-2020.3.23.tar.gz"
     },
     "2020.3.24": {
-      "sha256": "dbffb456947080d218be7219770fce2815c81e5d09434c10063ab602a9f94fec",
-      "url": "e4/2c/06c2a2c7242ef6c333d24ddc52a7b463235ca423a457ee3826cf76f25b5f/dagster-cron-nightly-2020.3.24.tar.gz"
+      "sha256": "4a8b0ade3fe456515aadb0418c77108603a8d554df58869fc1395cfe8186e908",
+      "url": "a3/29/5f015fbc716d6d611cda6af94388fe00bf1537568ea0b3e79d53caa5488a/dagster-spark-nightly-2020.3.24.tar.gz"
     },
     "2020.3.25": {
-      "sha256": "ce22b89a6dfa2cca15c23d0f965bec85c75de8eeed5dec0cc21a58b96679c9dc",
-      "url": "e9/f0/6d4607014c2559bab50bd94126a471bdbff65907da5ed60fcc676483570b/dagster-cron-nightly-2020.3.25.tar.gz"
+      "sha256": "c88f14b64e8177b59ae77fce1fe10bf92eee45882eccce5776ea0742006906c4",
+      "url": "ee/4b/917fb4b3334da5107065e2a97ebbe4f3e904aa22f54a7d9521dea36d8866/dagster-spark-nightly-2020.3.25.tar.gz"
     },
     "2020.3.27": {
-      "sha256": "83f7255822cbd40d4c8a00f31aeec455a597114da8a12c3fc74b23caeb7d2ab4",
-      "url": "c2/30/a345eec019caa4599575f151f1f5d0984be0fc3a756c6af0f875be68f97b/dagster-cron-nightly-2020.3.27.tar.gz"
+      "sha256": "d9d0626e2fcd476c56357840d886a2679186cf54f0ce67a91a325f2cd1619860",
+      "url": "ae/94/8c285f99361eee0c5322a7182ee1498091e8f3082141af86b33109d7f4c0/dagster-spark-nightly-2020.3.27.tar.gz"
     },
     "2020.3.29": {
-      "sha256": "1b490495a1b1eb4aa97d73819002ec07a84e29ba5afc98dbb7ff94b132e83f3a",
-      "url": "f5/a3/e764f5a8c3ecdea13420ae9addcefd622a6f95d92bd216d57c4c054395ee/dagster-cron-nightly-2020.3.29.tar.gz"
+      "sha256": "6a641a67ad659f01510b2c33ff539d479731c2207b167b557740eaeba578f8f0",
+      "url": "be/b8/3ca8ffa0bec2d1ff2e5c357254f391117b527a8167a2127ea47f78c85ca3/dagster-spark-nightly-2020.3.29.tar.gz"
     },
     "2020.3.30": {
-      "sha256": "68ef3cf3886fb3a2fe26a4658473c28aff170f21b1bd9a165d5c7d37ddec695f",
-      "url": "e4/da/db8e0db4e050c02595eb95b792d4caf034bfe0d65d714fc33b92dd37c514/dagster-cron-nightly-2020.3.30.tar.gz"
+      "sha256": "19d3a73e2bfa124ee266d6c90b5d00bc4671f4ef6b3e0efb0fc2b3638163b4f4",
+      "url": "d5/f0/d722c135d11e3d8b842fb2a8fad92c57624a519f72063b24df469f87378e/dagster-spark-nightly-2020.3.30.tar.gz"
     },
     "2020.3.31": {
-      "sha256": "14cbffab89b0f841a86a277930a629313bc4493c446a34ee22bbf0e507a6d7b5",
-      "url": "87/da/d11f1d0fdaaa4ffe48cd409f314fdebc010d87a3ba7bd2cece06bb17fbe1/dagster-cron-nightly-2020.3.31.tar.gz"
+      "sha256": "86a3ae2569d7ea401d8993841c93fca579c5cdd1ba3b63af631658b84c3929ff",
+      "url": "37/e8/29736df6a3ee0b9aad4a3ec8318c847d514d40c24594d9748e1923873ceb/dagster-spark-nightly-2020.3.31.tar.gz"
     },
     "2020.3.6": {
-      "sha256": "caf4f8eb48e0b44b593589861d0cae04b3d977d24703fcdccf7a6e2186968ade",
-      "url": "0c/be/0b49dcdb23a7da1676605d39f100c11f584435d12a541607f172b41a33a3/dagster-cron-nightly-2020.3.6.tar.gz"
+      "sha256": "659a49b3f5c10a841f043bc9d4e6cc3713d98c73a34ba3d9aeda2994ed9bb686",
+      "url": "2e/92/22ab8c070f9562c5a749f6b4661204b8ea538cae813157adb0faf50c2dd2/dagster-spark-nightly-2020.3.6.tar.gz"
     },
     "2020.3.9": {
-      "sha256": "73c03694622f9f8aa5c980594c6560eec23e55405b8be9ff331ab1e5bc74f229",
-      "url": "d2/1a/5ed93c8b4d9ed510eb1b5716f6201bc2b7981cb55063ccd35c66387f049f/dagster-cron-nightly-2020.3.9.tar.gz"
+      "sha256": "777ff083221ccd836ed2de2daea4847418b08f32c19a6c36f25e34e75d0018c2",
+      "url": "fd/02/1bff3059aed293bdf9e129381ccd6f200c62552dee355faf5e24afb65d5a/dagster-spark-nightly-2020.3.9.tar.gz"
     },
     "2020.4.1": {
-      "sha256": "bd7a8c6c13c019047c5a2868ffffc37c5a92483c551fec0a201ec803080325ec",
-      "url": "9a/25/3c268e1fa40591d592e2f7a73580cb974a737e9335ccf39ecf685f18a267/dagster-cron-nightly-2020.4.1.tar.gz"
+      "sha256": "ac3a970fee2686e493eadd76ec6000c285e56f50a87128649404aa1246e83885",
+      "url": "88/70/f09288b30c78060c912be52c07719918fe7519422457c3976935e8d2fbca/dagster-spark-nightly-2020.4.1.tar.gz"
     },
     "2020.4.10": {
-      "sha256": "95355c9e7a39430fb3e8fb9b1f823294c082e1715061d7ad5345a9aa4b74cb6f",
-      "url": "0b/01/d7528b39eadab6d1de7aefc4c0a8cb7b0b3e6a19963c03c8a8823c773f75/dagster-cron-nightly-2020.4.10.tar.gz"
+      "sha256": "27e1974fbf1dff846235155c7b7c384410481d13375d60d0abd660339ebd3acc",
+      "url": "0c/34/d747925decbd4c67d46c92495d1a6e1a504c3c3f621b7961b3c152f27e79/dagster-spark-nightly-2020.4.10.tar.gz"
     },
     "2020.4.11": {
-      "sha256": "bc236e55bbf7ab7088db2492ae563cbbcb1541c46bab7cdc27393a00f04aa30b",
-      "url": "0d/98/8a1d8313aa7fc356621c0e9eb5f4fd31abee6ce30583bf082e025754ec59/dagster-cron-nightly-2020.4.11.tar.gz"
+      "sha256": "b6f9d4e4ca91865b5aba20011b109815b4b1e1fb39aef96027d6ae772c3ad2b9",
+      "url": "a3/9d/0278a9f4c6eae1575450f372bc8d70ceae777b636d9e8c2bc1aedc668c6a/dagster-spark-nightly-2020.4.11.tar.gz"
     },
     "2020.4.12": {
-      "sha256": "e2a9066d927c78edb6aec73a9f09cda2a5eb1a673dc2b3b998330e12acf72026",
-      "url": "ac/fb/8a1af4a5c457e8f8e07f6f4e4b27cd37f454c7eb627288721f800daaa5a0/dagster-cron-nightly-2020.4.12.tar.gz"
+      "sha256": "aaede9346a6824168841df374c22f9cd141bccfd3c9cb90e574ed5c780e1b13f",
+      "url": "a4/86/26738995a8847b0f0333e377369933c1b3ac31f6b4559f5255a3b7e84563/dagster-spark-nightly-2020.4.12.tar.gz"
     },
     "2020.4.13": {
-      "sha256": "40aa694a1b347bed740aa1be38f2876bbaa5f84262004b21151b7ba66c984def",
-      "url": "ba/b0/03c4e8512f4be849196afa52d840919020e77049bd0ffc6c0b23d4b98311/dagster-cron-nightly-2020.4.13.tar.gz"
+      "sha256": "c4d743147809fb64a71f92ddffd4d033282d140b20ceb96850201cfc565de827",
+      "url": "69/84/1382955c06b3aecc748e99d0c152f7f7e4f696c81ccc5da0982a463e8432/dagster-spark-nightly-2020.4.13.tar.gz"
     },
     "2020.4.14": {
-      "sha256": "02771edbef42592c7ec62b98b3560185a564137909e97cf25f1b827113a3198f",
-      "url": "fb/ad/0bc8fdb08eb2f1789f1854f5717ff026044dcaaee57093d49a5f12a76497/dagster-cron-nightly-2020.4.14.tar.gz"
+      "sha256": "736b436bcfaf030aba8b74e647ee2d8697d55b863b8cf8fab1966f39218ac550",
+      "url": "68/06/edb327f11ee2898cbec12dbdc4886b14a0054a9021a685022c9fcc19dba1/dagster-spark-nightly-2020.4.14.tar.gz"
     },
     "2020.4.15": {
-      "sha256": "4d4aae808199b40ab063207954194e933b04b2dc7da6ca1bc06f1892140b5099",
-      "url": "e1/a4/a5b575c3af26326359e87497c86357d4e6c9476d341633eee330a883e317/dagster-cron-nightly-2020.4.15.tar.gz"
+      "sha256": "0de268fc6b4041ef63e1ae34890ac4f2c07d3cd2a68423cf63ed8eeaa81d69d8",
+      "url": "05/89/06b004e77bb839ffbe30a3b30b7c59690da9095de35e39d9bf0f56e7b8e6/dagster-spark-nightly-2020.4.15.tar.gz"
     },
     "2020.4.16": {
-      "sha256": "5b5fd775cfa32b071fbac0937cd37a3d0722a7a32d1dbce6e43f1b4372ae8a69",
-      "url": "6f/4b/94e2c04f9119fb5db54c11ac3f67eb6b928f657a9a35e42569e61c5e0c25/dagster-cron-nightly-2020.4.16.tar.gz"
+      "sha256": "fa524eff2a824f218ec0f02720d495e521c38ceb818c49184e3ba8e7c7734c4a",
+      "url": "79/c9/81cb212fbb9550d234d74af746a21de09e539cfd75033a876579b38c4145/dagster-spark-nightly-2020.4.16.tar.gz"
     },
     "2020.4.18": {
-      "sha256": "39ea73d02044893c15670e8db8c464cd6038687a2158257d0f8711e6422e8174",
-      "url": "79/1e/37cac66ecde57bb67f75fdef3a0dbee0e047cee1504c57ce92a5ae179db3/dagster-cron-nightly-2020.4.18.tar.gz"
+      "sha256": "3c7cdbed223f9d2594717dacd5e23d292fd621b3098c2ce8ae548986bb0fe44b",
+      "url": "9e/a3/7366da3d7f2bd94ad495902013242f4111cceb6c816666e2d7fe839d325b/dagster-spark-nightly-2020.4.18.tar.gz"
     },
     "2020.4.19": {
-      "sha256": "51c2866680ee231f4c8c3f88b766360ecad4d09f38c6de2305a9cc64df34b397",
-      "url": "dc/f2/77b6edbd562e3e512fbc37719575694ef080f7ed63ad3e836c8d0757c471/dagster-cron-nightly-2020.4.19.tar.gz"
+      "sha256": "37631671b0ff827de1151b353604fda7d348cf0f6514e4e0d4e5671fb368f220",
+      "url": "2e/04/8a18fd8410d88e8f2eb9df5798fef1ccdbe0922d70710e5ddda1f7d9a29b/dagster-spark-nightly-2020.4.19.tar.gz"
     },
     "2020.4.2": {
-      "sha256": "be2a5d2241039d88ec856c4a2893548cfdb4a42cd084939977834af58e838c3b",
-      "url": "81/66/0791117a801d37efb9304ff708db7ecd509b78a7019f8cbb2c8644a98dcf/dagster-cron-nightly-2020.4.2.tar.gz"
+      "sha256": "3e35cbf1ec7e7dfbae51ecdabaee29d5f839174bde17a8f9d5296409fb53f725",
+      "url": "27/d8/571a9d498f9cd09e7cdf92ec422e42f36df5da2cfd9977c53e00787ece60/dagster-spark-nightly-2020.4.2.tar.gz"
     },
     "2020.4.20": {
-      "sha256": "dd539f090430610a6dbcbcefefe583c8ff513232d12ca79c99426865baa0fd28",
-      "url": "c3/e6/6f809a0d50218a7b62ecbfcd9ee3a86f9cd202e28673b4f84f45bb81d9f7/dagster-cron-nightly-2020.4.20.tar.gz"
+      "sha256": "44cd2921636bb5a12335a0eccc411f78ad60eea353d36911156957fdb1498ee5",
+      "url": "78/36/3d0db0fcdf91b31a090a7c4a5c377eaf996f0e94a6ebb512addb3e57d0f9/dagster-spark-nightly-2020.4.20.tar.gz"
     },
     "2020.4.21": {
-      "sha256": "260c37ec36bfb8a16a4d6c3b153ebc6255660d53cfc3f4371c092ff162f5d51b",
-      "url": "03/60/a4e1c22cd308fc089c62291e141f6a0c7517154b9595fa065237f433fc32/dagster-cron-nightly-2020.4.21.tar.gz"
+      "sha256": "ea03e5e74f5cae3dd9305e7133f88cf79e112fa639156d1e6bd3e96f9234600f",
+      "url": "03/a7/ed74830bda9a37648ab2d062b93f0808589a72a745e717a86d7ffe64417e/dagster-spark-nightly-2020.4.21.tar.gz"
     },
     "2020.4.22": {
-      "sha256": "48f7e90da947c140c47d7ea6b83454959bc49deed77b832559f00440ce0836fe",
-      "url": "fe/5c/395e98a38ba1c717a4beedb0c6e3eefcdfe450a0314d5cbb1d372e64d26c/dagster-cron-nightly-2020.4.22.tar.gz"
+      "sha256": "b724f43683c4248509a5a12e29917dd75421ee9f55a4e1ecf0e4a9200654a978",
+      "url": "51/e4/03163880e2dacecbfe8bcc3c70519b376f3a3e79bc6dc3612802dbc5565e/dagster-spark-nightly-2020.4.22.tar.gz"
     },
     "2020.4.23": {
-      "sha256": "227af173bfb8939c80e209657d20daee0d2a98f17ff764446ba029e64b273d13",
-      "url": "69/e5/89022aece314a4ffc312426d22d18120af20d91fb153de698c09ce39f6f2/dagster-cron-nightly-2020.4.23.tar.gz"
+      "sha256": "17af3f73235239c156ebc6947926d79812a46ba105819715fba9b32f5edf3e4b",
+      "url": "5e/22/2078b9b9683fefa6763e58ace8f4d8ab8fda482b9b96c43a1d727e2612e5/dagster-spark-nightly-2020.4.23.tar.gz"
     },
     "2020.4.4": {
-      "sha256": "b47a932d34842e16cec737b6925e3b857e6e7e1e4ff179ecc662824ce242c99b",
-      "url": "a7/8a/79aabac0789a21db2fb686ee0176e4e5a1c6738c83d2464510c5a4ce5529/dagster-cron-nightly-2020.4.4.tar.gz"
+      "sha256": "b6a5df621caf3aa3d1c4ca333aacde709abbba560526e3a33b8100cf386780a5",
+      "url": "92/0c/234474210e69129226043d719b776dd81523ee6e10cdbc9d4204022b5b82/dagster-spark-nightly-2020.4.4.tar.gz"
     },
     "2020.4.5": {
-      "sha256": "8097ec456e891e2fed603a263ebd7df7861a32e5c4ec7742cb06084b6c2aa643",
-      "url": "d4/25/4d33e5058b9c3ede0e1af7e9be01e732f481e20fe11ef08b49a62c1fcab2/dagster-cron-nightly-2020.4.5.tar.gz"
+      "sha256": "d7731cb5e0da3e2d38736264796fa5108f224eb8194196c9c419d30e545dfa77",
+      "url": "56/0c/45a08fbd5e81cebde6c142759d1906beecfc9bde1c089a8e403b009ef6ba/dagster-spark-nightly-2020.4.5.tar.gz"
     },
     "2020.4.6": {
-      "sha256": "0c4558b44b45c175b6ac24ba5d05eb9994605ceb6e391eb7c78e6d428a0790ae",
-      "url": "b2/01/b50a7de0952aaab9272cd9e6288872faa9f833140bc925ae7870c7507840/dagster-cron-nightly-2020.4.6.tar.gz"
+      "sha256": "b284ce4d2b8b1e623c10ca51e02b10b08653267e28517697bcaf16965da0648d",
+      "url": "00/ff/f57b74830a70980880250c90bcf925ee87120f4784b5fb85173da892a797/dagster-spark-nightly-2020.4.6.tar.gz"
     },
     "2020.4.7": {
-      "sha256": "5ff402fe639e54bc1fba377f6caa5289036f5c8daa089da7d2bc597faf6478ca",
-      "url": "b5/a6/67d3e6eeb130dfd7430868d768d3931e4b0578eba550707749c6dc1887f0/dagster-cron-nightly-2020.4.7.tar.gz"
+      "sha256": "f3eecc0eb67ad336fd82afcd6b4f0dbbf1e5f8cb16c642d8952edc528ad778ba",
+      "url": "a0/82/283a3a4bea74e7c674f4aae456838c1701c6bb16184393e6163e5f6b981b/dagster-spark-nightly-2020.4.7.tar.gz"
     },
     "2020.4.8": {
-      "sha256": "20fd14e0e6f6dd64dd765eb4b1bccf4a0f7ab849d16d276e6e2b2fc1d6a7db9f",
-      "url": "4f/25/53bea3bb4c7ed2e06a5d6bdc9681476ac6f883ecf331f5e70797d45143dd/dagster-cron-nightly-2020.4.8.tar.gz"
+      "sha256": "73444b5ef30cd95dd7fb6c79927fcf98d1275bd296f81fd46a1a80c82c72d3ff",
+      "url": "e4/8d/2e4dbc883c76f5bc9715fe74c0faf133153e96294dec3cdeb9ac27d329ce/dagster-spark-nightly-2020.4.8.tar.gz"
     },
     "2020.4.9": {
-      "sha256": "2e7fc38daaa0057b32a15ebb0743468e0efc6a983adffa25b09f87558c26e27e",
-      "url": "18/ba/7e2c0f26356e46bbce3541fc7478e51e615394b055ca89f390e7a8344469/dagster-cron-nightly-2020.4.9.tar.gz"
+      "sha256": "faa478285c87be26a927920735db402d21db9907b29640f68e6fc10e8e6d7641",
+      "url": "8c/e4/3f117df3c4e96d23d7bf024e2f5ec85b865f063ae011d5c57ddb899c1c93/dagster-spark-nightly-2020.4.9.tar.gz"
     }
   },
   "damo-plane-wars": {
@@ -10135,6 +10131,10 @@
     "0.2.4": {
       "sha256": "c8c5bc67a4b10af4c1805f866fd7ea4ff256fe0e778c2bb853a4eee9dd276b57",
       "url": "71/ff/9855deb5f1e2f2b066753298edb231b284b96e2dcfa309c6762da7de27aa/gcapi-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "fb2580d55d2d15df5e6aa1e5344e4d37fe2aa6a296c6690f432c17a99a3a5a7c",
+      "url": "3e/19/b6f232dec64a7ce22c04b524126ca6c5ade77cd7a433ae634101b6a16496/gcapi-0.2.5.tar.gz"
     }
   },
   "gelf-formatter": {
@@ -14325,12 +14325,6 @@
       "url": "28/66/cb577b1faa323e7b1cbd4024c4e9c5115457b89b7b9eea637b085ae54150/loggerly-0.0.2.tar.gz"
     }
   },
-  "logstashpy": {
-    "0.0.1": {
-      "sha256": "d79208c806f209b804c32f894cba82f46bc0b811348faff08bedc7fcf3b0f520",
-      "url": "bf/07/738eea977c38bb3efd7162b3521d1577ad13b7795cad0165d529b1e08a70/logstashpy-0.0.1.tar.gz"
-    }
-  },
   "longan-sqlite": {
     "1.1": {
       "sha256": "ae5c636f9a7f78ffe57d36ee4f1c574f319de0ae582c9c8658725038dda54ce8",
@@ -15935,6 +15929,12 @@
     "0.9.3": {
       "sha256": "d83cb48b4b0b90541d822f4a40c1f8f99a26c6de462b93481c0da8bf90dd7a67",
       "url": "5c/6f/ed442b018129f288bf2d18d4dc4c4784b423c6bb42059635eaf427e96667/mygrations-0.9.3.tar.gz"
+    }
+  },
+  "mysql2md": {
+    "0.1.1": {
+      "sha256": "69722958fba2a3cff7e41e9e41e34a3202ee2f65ede74912c0d60c585cb0683d",
+      "url": "08/33/f8760326edf7a184c142d3ca54956faf3363a847949577ad724361cabf6c/mysql2md-0.1.1.tar.gz"
     }
   },
   "mysqldiff": {

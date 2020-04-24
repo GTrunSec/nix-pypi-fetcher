@@ -1771,6 +1771,10 @@
     "0.4.9": {
       "sha256": "bca12716a33777871a3e2e5cb85030de0e0f5fc2b60fb8decfafb080ad099abd",
       "url": "2d/48/4b27814bb2da0f1932baea1af0ecb5dc6cb19837bc6a9ec266fd8b7b105b/akshare-0.4.9.tar.gz"
+    },
+    "0.4.90": {
+      "sha256": "0bc7d79c3b261949ef77d03ba8b73b8f7f47ee3d66a2f99f0c89d3a00334e160",
+      "url": "d5/69/432b6c3c375e6d52c40871ba660417f57732c5133f38f5091089d4bf95b0/akshare-0.4.90.tar.gz"
     }
   },
   "alfrodull": {
@@ -9261,6 +9265,14 @@
     "1.0.3": {
       "sha256": "72a05cdbab66f87154cc93dab6b98a13d38135b657b4cbba1699a48d03e5f45c",
       "url": "ee/06/9087d199621be196ec759cad1dd5ee1fceaefbe2d60c20a1721642114419/flatnest-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "45212ba04941eaba511e91eed05ca7c8206bdac22c36bae8697d4768ad54f83f",
+      "url": "ee/e1/05ab8910551f1f826c27c12416b671b2b42096feedea30af2d71abaaf4d1/flatnest-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "5de70daf33f34ccd8f033c43d54a943c16066538d10663ddc41f40fe4f75a6d5",
+      "url": "67/ec/5930be95a20101cbb609cdd9c7552192b06f2302b9ad77f118532b68857c/flatnest-1.0.5.tar.gz"
     }
   },
   "flowchartpython": {
@@ -20577,6 +20589,10 @@
     "0.4.0": {
       "sha256": "b6d2d901fe002d8f3b4b680437e7d6c617f7caa960b526d9d6fcfb1c50a16a9d",
       "url": "32/b2/f10aa1baf48f44031b996544219149288ec15bbdadc5e063bb5b6455734b/rtfd-0.4.0.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "34d8e74a5788ce069f5071b4d5b7da9671ae1e28e0b4f6393db17b2fafdd2eb3",
+      "url": "c0/07/8c095df3d40ba0fae7955f7ab91b1bc8586d40c72f55899995883b3e8101/rtfd-0.4.2.tar.gz"
     }
   },
   "ruiyun-flask-interceptor": {

@@ -5635,6 +5635,10 @@
     "0.0.1": {
       "sha256": "429c4d78d6183edd927935f2f661c6e078461cbb4816ecbdf9cfa4645a76ec2b",
       "url": "e2/b4/148acbf47d4d82be511cee2a84e069e6fea88fe4fd84d50bb7ee2f8c07ac/epsound-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "e60b7b5fe82b9fde6f1f5d5947f2646831c157371f2310f86881724426f3edd6",
+      "url": "0b/a5/3ebc4ab8ee972d978a1a210a660ff38d36f081227ca2dc785685a14a6fec/epsound-0.0.2.tar.gz"
     }
   },
   "err": {
@@ -7263,6 +7267,10 @@
     "0.4.1": {
       "sha256": "80090700f4302589c7b7966032006d1ea2057b42b78b3279d3e4bd9f50be0c3d",
       "url": "33/1b/ed43e0b52bf71490fb3487960de2beed4560f60ef708a8c088f46a1179aa/ginsim-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "9705130bb11d3fc61112322a71f0d3866df18882ea31a3e53831b8f2ce54e6a9",
+      "url": "84/4d/11fd9b1170cd5fc3dc4dc5906f9ac3b5abafc87bba6ed25d8a50a0888f83/ginsim-0.4.2.tar.gz"
     }
   },
   "gipc": {

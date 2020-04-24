@@ -11155,6 +11155,10 @@
     "0.5.3": {
       "sha256": "c7ee64243005f5aa8a0d5f1266380102f9c64b02c0a2676e8e6ef4d9be3edf0a",
       "url": "1b/a5/7d72ec92502542022faa35b6a6d983169291804ab648ca934183cf28fd1d/invokable-py-0.5.3.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "3d0aeaffc785745e1335340d9fa29ecda6c6a562a3dc9b09c182f9a490f1f8e4",
+      "url": "a2/f0/5c7ba4dd1812d7da9d4471bdd7c3560b34a9dea0d9a6a2ce0617c4a5e726/invokable-py-0.5.4.tar.gz"
     }
   },
   "iotlab-radio-test": {
@@ -16061,6 +16065,10 @@
     "2.0.0rc26": {
       "sha256": "b62ad9288272c601a5a6a31f7de0efbc26568ec6a42ecd485b0320fd913b8953",
       "url": "1a/6e/545eae01e715d9f5444907b0768beb0400cdbcc20a5ccb57159ec9626f42/omegaconf-2.0.0rc26.tar.gz"
+    },
+    "2.0.0rc27": {
+      "sha256": "a85d2a42c0c388cfd6e764c7d70242ee9389fa02280651a49bf295455f807184",
+      "url": "33/11/db7b071e6b88fe2455d35723814085db0b33b13f9fefb19c87cf3a2628ed/omegaconf-2.0.0rc27.tar.gz"
     },
     "2.0.0rc3": {
       "sha256": "3d7ef1142f51291f35279d14c24cf9337142008794c9d3f2e711d533265ce726",

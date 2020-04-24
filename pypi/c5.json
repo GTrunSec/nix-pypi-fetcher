@@ -984,6 +984,10 @@
       "sha256": "dd9d3a660628915cc1ace7e860836c96f102d827d25eb6c0d77cd51d4edd8471",
       "url": "c6/ed/a8cf3627f879ddeaeda85f05d900f2363ef73abe748391b2770fe1ae3e15/autogluon-0.0.7b23042020.tar.gz"
     },
+    "0.0.7b24042020": {
+      "sha256": "9ef68d94554ffa6eb37cbb8b1c8bdf7c93d4561c4f5ec01a1da32f3287942655",
+      "url": "b1/2a/6fc260c1df0a588e195a569bf48e94008f1a47e5208a804715c428fc535f/autogluon-0.0.7b24042020.tar.gz"
+    },
     "0.0.7b4042020": {
       "sha256": "a435e4546772405f1e5e97dec049e81ad1b9fa17d89841b405e249eb95d30ab7",
       "url": "38/dc/c69bd78aad8e37458d49269dcfa36fa95005102396e840f54aa71de1c626/autogluon-0.0.7b4042020.tar.gz"
@@ -9193,6 +9197,10 @@
     "0.4.3": {
       "sha256": "6bdafd6b0260dc8d11a67aabf91cfd584b172fcb18b5db124b853dae6cee99d9",
       "url": "73/59/54882d4c9e04dcfac0141fecb10135045522e89a508b897c73fa667e6cb2/hlso-0.4.3.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "8cfda457e2f2512ce7d7baeba05ab9807266c8efcff93d6ff009550bba290ca8",
+      "url": "9e/b0/d60b67e60386806ce414f5fbd888b70747cc76c7e3d70f311e2f646fadbd/hlso-0.4.4.tar.gz"
     }
   },
   "hooktest": {

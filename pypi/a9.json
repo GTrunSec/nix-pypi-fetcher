@@ -2077,6 +2077,10 @@
     "3.0.1": {
       "sha256": "8c8464a29826023bd4733b614f8d9d5f614e3304810fb984be54c7aa94a0ca30",
       "url": "09/3b/4f8f54761c05dabf52c41cc7bcf554d54d1cc354530ec414422877d2322d/axonius_api_client-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "5d4f9032b0a6eee5f896ce7a0b55a6907b6414e5ed6359de2bfa0df7a1505773",
+      "url": "09/8c/dd589fb58158220866b04c3343f247da462506476788d46d8e29e3fe2129/axonius_api_client-3.0.2.tar.gz"
     }
   },
   "azure-mgmt-loganalytics": {
@@ -6179,6 +6183,12 @@
     "0.5.0": {
       "sha256": "32fcb042b57bf247378b3d5c9882febd2c65683cba957b9de888e6dea3224eb4",
       "url": "34/7e/e2135a3ac472d377da04c60270d3c6c4e542b3782cd4f54236b56cb4d982/debugging-0.5.0.tar.gz"
+    }
+  },
+  "defang-api": {
+    "0.0.1": {
+      "sha256": "23c5eebb1e96d6de2b8328fa4dda74e430eddb2c2cc69608b98f81d09cdf0612",
+      "url": "2a/5c/85438d8f43ee5cce9d2f3e0e0f9ecbda047ec0f767b17fce280a2f1a0a7d/defang_api-0.0.1.tar.gz"
     }
   },
   "delayed-assert": {
@@ -11407,6 +11417,10 @@
     "0.4.0": {
       "sha256": "c52f7b8eb6c3c0c67f9ec59f139d6891fc7d0920322d2bc2c14f660daa5a2da6",
       "url": "a0/3d/b870add4df03e1c584dc21331658deea233f506a05ad413e9037ba11e97f/gsheets-db-connector-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "72c5886bd9f7537f84a68615ba976fa39949295a2f8a1a5e253beb3b821dd93e",
+      "url": "5a/7c/6b6bd01dbb71079463e0e9ad5e3562d0d0c63c82ae14dad847533342f570/gsheets-db-connector-0.4.1.tar.gz"
     }
   },
   "gsm0338": {
@@ -21227,6 +21241,12 @@
     "0.4.0": {
       "sha256": "fd42e14fca5f346e36b6a8e984f0798f02f38e5eb1b4868424b1480293baacb1",
       "url": "43/79/3bf793efcf94e730bf324b726b3ae551f9438869bb8995600784bdb17693/python-libmagic-0.4.0.tar.gz"
+    }
+  },
+  "python-lru": {
+    "0.2.0": {
+      "sha256": "0672e8ee787983a3b32075e76527ab0abbdbac0fa810096bc0211cf4651d268e",
+      "url": "3d/cc/f3aeac6b77e93a1ece2109a03726d47a951db326117f2cd270824e9eb1e8/python-lru-0.2.0.tar.gz"
     }
   },
   "python-lyric": {

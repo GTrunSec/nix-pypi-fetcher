@@ -11346,6 +11346,10 @@
       "sha256": "c03c65ce50927398d62486fa2d46de18b3612491dd06a87f4a147f8b95863d52",
       "url": "20/9d/4f95bc4fb304ac33ca9be58d8d4e0b4d440cf395bad4f8ae1c3880c30eb7/goodtables-2.4.13.tar.gz"
     },
+    "2.4.14": {
+      "sha256": "0170a685145e7d5b2699e756ebcdcc7571455678e688bc52fd145b2e8964b6e2",
+      "url": "cd/db/0407fb5cba2ec1fa7afcae2de9096d9082f4982cd2f7262f072b1c8e119a/goodtables-2.4.14.tar.gz"
+    },
     "2.4.2": {
       "sha256": "be35977664fd8f1132ea2c92f33ca46f0b9fa48f80831bae3f5edb9075733fda",
       "url": "5f/21/d35cd41307a70d266cc949b19de187b36e189a056adc442a5d21a0c11f8b/goodtables-2.4.2.tar.gz"
@@ -13829,6 +13833,20 @@
     "0.0.5": {
       "sha256": "2a3ae3b7e8774f7b72f8dde61741b16730e1bf072cb3ad264a88be52e42a4c03",
       "url": "fb/84/34d103092d46df31239812274d03f2c7e68f68b0c4b833596399ce433449/log2web-0.0.5.tar.gz"
+    }
+  },
+  "logless": {
+    "0.1.0.10": {
+      "sha256": "b8a2478be01cd580675d92b1bf6b754dcc741fe89c2ba64e035598c33f518874",
+      "url": "92/da/6f078365b0fd56bbe8cc1375e3bf712f5b139487c460751550350ba043c1/logless-0.1.0.10.tar.gz"
+    },
+    "0.1.0.11": {
+      "sha256": "24dd0dcf110e2491d8684dfde606a441be76e62800118fcdec64ed9503e93737",
+      "url": "7f/fe/854d80872140bf2ed0b04919d2f78a95bd4f987ccb4fb9a15c73d72ef80c/logless-0.1.0.11.tar.gz"
+    },
+    "0.1.0.9": {
+      "sha256": "3f57c5c93b35edf0711ec0b20e746756a3e55f08cc7fa75cbb8706291ffa12c9",
+      "url": "98/ae/d998a7105f5377a3c142f2c1f02c14ad47a6d81e7ded0bdafaf49a69f453/logless-0.1.0.9.tar.gz"
     }
   },
   "loud": {

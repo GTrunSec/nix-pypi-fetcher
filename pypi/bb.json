@@ -7615,6 +7615,18 @@
     "0.1.0": {
       "sha256": "e34b7b3c791d71d5fb6d2656d7c079ea4bf4c3fbec16221f09a9bc305de0fa82",
       "url": "98/ae/86440657140deb8248a24e8726e5ef38c0850fb62940747dc36e1d0a9c3c/django-slick-reporting-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "5c4f13f5dcdfc364f9d9951e9dd0d4494207b574a8c838b437aa50357a092a7c",
+      "url": "d8/83/d2a001f785e40af75b6be2b77f46bfa285c88f626a040bc633d924ef89c2/django-slick-reporting-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "a9e169f17ecfaafcdef91de208db66555efa5f4826a06d090fe08529a93d66fa",
+      "url": "d2/01/e7f445dac096d61a6c9eab1a4ebc5b1166e3339dcf1feefa10073edf294c/django-slick-reporting-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "5180b9b44a4bf15a2dd82af381e02f9bf016e835a3af741392c9d391349a0b88",
+      "url": "32/41/59e4395a5b95881ec048c5494d739d9a4f0d4047ed733f6dc8056fec4d13/django-slick-reporting-0.1.3.tar.gz"
     }
   },
   "django-social-auth": {
@@ -9285,6 +9297,10 @@
     "2.4.3": {
       "sha256": "53ebe01a83fb47892e4584a60a9ff417e4b51adff442f2f375734de18329fb7c",
       "url": "a9/62/b83e6628425f676c5b0c2a337ab0463034dedb7d72fb1c3511fd19df2091/enecodhutils-2.4.3.tar.gz"
+    },
+    "2.4.4": {
+      "sha256": "510dd6edf1c0df9bff2946bc91ba698dcad91a358c78540be8397a2034c638f1",
+      "url": "6f/7e/0bb47bba988dcd7eb32f4e9b33cc96c6b7bf89d1b30e944581f6bebd2e17/enecodhutils-2.4.4.tar.gz"
     }
   },
   "ensenso-nxlib": {
@@ -24989,6 +25005,10 @@
     "0.1.8": {
       "sha256": "2d728cb327403023f64c6d2261283e5d99b5efbf22db9a12ca41c3abf0d2e1e1",
       "url": "d3/fa/a15d2c7350dcdd40a90f4688e0d171439ed09158ef5e4a61ce8c43994dec/smokeur%20cli-0.1.8.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "6bc0f2cf1117f20abf644fc67b5987cb3b7114df1f7d952d50ad1ba368b40a4a",
+      "url": "70/ad/83968339328ddc275f4f03b7199ba11a59a2a2853efa7f05d71af37c4bc2/smokeur%20cli-1.0.0.tar.gz"
     }
   },
   "snaketools": {

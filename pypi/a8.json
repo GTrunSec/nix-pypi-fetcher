@@ -893,6 +893,10 @@
     "1.34.1": {
       "sha256": "0e9cc5bad15e9787964d16369be95bbd3ab74fb888a78cf640f0f44aac402a7a",
       "url": "e7/ed/71828d9fc72fb99ddae5389a059c90a0b971a8e2c51e24ce747996a7ff4c/aws-cdk.aws-appconfig-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "2822803a3a74a0ec7b608391aaf1f224baed8796f4951688c0901965339cfdf5",
+      "url": "86/7a/9e076417fb9469c3f061b980f9ee8a20453f0757330bccd04ff62f1ab0e9/aws-cdk.aws-appconfig-1.35.0.tar.gz"
     }
   },
   "aws-helpers": {
@@ -5299,6 +5303,10 @@
     "0.1.4": {
       "sha256": "93a10892813dbe48a55fc20a57b0ad999099ed71713cf04cc9c353be2e66324c",
       "url": "88/3c/f17e995c38a504ca6b06c56b6a48705c27c60f9848b30b11eac23b687915/digicubes-server-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "3f8e76e14af017935f4840c659a85927e71ab0b757011614a303f7b930500687",
+      "url": "0e/2d/29db8003373092323c293d84757308499be8ff40faf8cd588d6dafd261d6/digicubes-server-0.1.5.tar.gz"
     }
   },
   "directnet": {
@@ -12247,6 +12255,10 @@
     "0.12": {
       "sha256": "8b4eb8dacee7f76be45de7ebe46322108f6fb2b7def4196d36b49917d64fb89f",
       "url": "0e/c9/2705dac7977e8933df70ba9791fb861905cf1a7750d3c183d139c14e3bc8/justbytes-0.12.tar.gz"
+    },
+    "0.14": {
+      "sha256": "ddbc21a90eeb115e213f1289f50f20aeeb8cae442166d445dae54f42f2d8b242",
+      "url": "6e/1c/2007508f2ce0617b48680b1e9e3cb88187a22cf8382cd95f214ae6f9a095/justbytes-0.14.tar.gz"
     },
     "0.4": {
       "sha256": "e66a785348e93780de4545fc1c4d0e6372efe44f518cdf2d284870d440d17b46",

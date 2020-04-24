@@ -17903,6 +17903,10 @@
     "1.2.0rc2": {
       "sha256": "b350dc3a31122354bab0e1fd3eac55c1655943a849a72677607a406f4382b053",
       "url": "5e/7b/2af906dc6a106fd85acf8c3869040d9999a851b64345393360bdaf56ff84/odahu-flow-jupyterlab-plugin-1.2.0rc2.tar.gz"
+    },
+    "1.2.0rc3": {
+      "sha256": "c9d4074fca97f009344a6100fc3734a82928e3fd363fc1b8dc630b83186238f7",
+      "url": "bb/e5/5c8485fc50a3b50d06d66f6e6e087350af95b1a30f904b7278b0e11359c3/odahu-flow-jupyterlab-plugin-1.2.0rc3.tar.gz"
     }
   },
   "oll-sc": {

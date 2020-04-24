@@ -3304,6 +3304,10 @@
       "sha256": "60469e4c070e62f54141c80879d3d88681418ba9fda194d1711b65eac3940513",
       "url": "09/ec/0924b8460469f47db60796570210a396a2aa5739488572f89905b6b5b580/coreir-2.0.70.tar.gz"
     },
+    "2.0.71": {
+      "sha256": "ebfb9c007c2dc34db8036e285722279c57a85a66669cf8c4b078171b96ce72e6",
+      "url": "43/5a/eb743e219a6f59ca03429ce6c9ace7eadf5e86d18d232a7f1b652ba1440e/coreir-2.0.71.tar.gz"
+    },
     "2.0.8": {
       "sha256": "c2bf33486f9f1db71b0b40e23a82eed0a5dd21614a4b764e9160807170e493e0",
       "url": "38/ec/582869fad6f8f182b1485260865c77b0cfcb54c3ff441ba25c4bf7b14f03/coreir-2.0.8.tar.gz"
@@ -3977,6 +3981,14 @@
     "0.7.7rc0": {
       "sha256": "6b502220453c05dc8d46486ecf28e110f7580b563bc116b1d2d29ef541d4f6d5",
       "url": "ad/09/9702bbbb10b171fa28de275e55ff6d319d0b5c021d845d9e6deaec54bf1b/dagster-pagerduty-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "47e474ef8f604f972321d543d39b948f53574d204e34b01ab6d1ae102d76f5ad",
+      "url": "f4/7c/ec4ea3b1208199c150c3aee3c8eb4eec5b24ecc376ff52ac96531a92e79a/dagster-pagerduty-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "eb60ef1da3d22b22e4f9c97ce5c0237185f1d16d237691d2b63640416681f3bd",
+      "url": "f0/ac/544e8ba3888c49a9ab2a6b8e0555e2078a118ada3c4c9142a7f065f05958/dagster-pagerduty-0.7.8rc0.tar.gz"
     },
     "2019.6.2": {
       "sha256": "8c3ed6d90ed7ee97cee28c8950f539bb1ea6eb50fdc4a3c93699b462fd0fdcc0",
@@ -5305,6 +5317,10 @@
     "6.3.3": {
       "sha256": "277fd95ea8dc6bee0b0eee7057cd2dae74868353746abe274993f53738edb178",
       "url": "6a/ec/fd7ff6cfd39d209b322aa92e7724748740dab583b7c4d3f5ab6966c953dc/django-report-builder-rq0-6.3.3.tar.gz"
+    },
+    "6.3.3.1": {
+      "sha256": "25f5d15429e1fde938c1a61d6aa0326fed758c361133a97799af8557311cf2b0",
+      "url": "1d/de/1dd8d6743e86805bb56c758dc8e18f834c98d41517870b41ede964bc2a78/django-report-builder-rq0-6.3.3.1.tar.gz"
     }
   },
   "django-resto": {
@@ -7627,6 +7643,14 @@
     "0.0.1.dev5": {
       "sha256": "663ee79993b82f131f02ae05d8e8a13ca3bd0a223f0b2a52dba06acbd621d05a",
       "url": "73/8a/534a6295e69db31781991d0e734667f026440180217ebecbe1722389fc72/gino_admin-0.0.1.dev5.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "d76f24e8e799c33a3ca488aed6a4b8e0f4c8024ba56e974385585f0eab2b3af6",
+      "url": "d3/7a/6034d5bb9bd1363092cc09e22b676171a46815f0b1f1afdf0a784530a621/gino_admin-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "2a629ff830da45cba0165f5993f6b66567e0bb1fcf8bcf2b0e7844e05bc46a93",
+      "url": "a7/17/2e275faa64aa1fc9aceb2d8281b2a3ebe081a8baca405203699e993f5584/gino_admin-0.0.3.tar.gz"
     }
   },
   "gists.cli.py3": {

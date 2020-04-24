@@ -4807,6 +4807,10 @@
     "0.28.1": {
       "sha256": "c3bbef7c682e6d6fd0d84462b53f6634594a67860b0ddcf79af27f74512d26df",
       "url": "fd/2e/914d537538319a58fe77c82a03cf6e34a07a0063dbca23f93a074bd1d156/covasim-0.28.1.tar.gz"
+    },
+    "0.28.6": {
+      "sha256": "7b06b566bddc78f9f170c5b2b7460ceb26bfd320898c5f80e7acdd4360be5dff",
+      "url": "5c/ef/8421ae6ca2bc16abbbc87ffa406e417624f7cbdc0c2eaddda82e4ff68ee1/covasim-0.28.6.tar.gz"
     }
   },
   "csdn": {
@@ -14666,9 +14670,9 @@
     }
   },
   "pivotpy": {
-    "0.0.2": {
-      "sha256": "1e6e9ff7fb9a89ac5ba5385bcc24460a2c8e7be1f7847fc9e939add2182d3b7d",
-      "url": "1b/b0/3541fcacc77d01865d32b5b669968c966fd06f90a37dcb2f6adf910adba9/pivotpy-0.0.2.tar.gz"
+    "0.0.5": {
+      "sha256": "672525a7de8cbd0820b94bad0a6099b65295f8b0bd08935c1dacfb8bf61f698d",
+      "url": "1d/29/d1e3a48305cee8d4bece8e861e3e8baa714e8c23c29956bdef69e177c72c/pivotpy-0.0.5.tar.gz"
     }
   },
   "plone.app.theming": {
@@ -15433,6 +15437,18 @@
     "1.0.7": {
       "sha256": "b8880fa0a27f7274b7e76a02979342f870600d05eacd9f1df83ee7460a335191",
       "url": "88/fd/a876bd8d8e90a55e7babc9c1e545371fdf733b729ae5cf9d9f825857bccb/py-deezer-1.0.7.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "15621fb7d9ff3bb0689c5ccad8e8460417642f52f362d75c40ad09e97badec8c",
+      "url": "7e/e9/0eb6938935fdfa26673bcf3388c95900fbfd59064daf82cc6fb707280a68/py-deezer-1.0.8.tar.gz"
+    },
+    "1.0.9": {
+      "sha256": "2dfbd6dab4f4ad0aa608b79947efc6885cfd4fdc2152545ea0fb648947d098ae",
+      "url": "f1/33/32506020726c40467e7706dc1e7670fd92af507607de57b7972e251b569a/py-deezer-1.0.9.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "9f1514f6ac5b501aa4f0361e8c1a1fc0d479b48f305d1ca6d07b9d43fccf5a5b",
+      "url": "b6/7b/001754a243ebd95a69b8d1801ef912034b5800d5721ba8e51eb3dd95f87b/py-deezer-1.1.0.tar.gz"
     }
   },
   "py-espeak-ng": {
@@ -17111,6 +17127,12 @@
     "0.1.0": {
       "sha256": "989fe4df75e0183402926af174362b291ccc7f73b4db3a41b3d01d4d86deb0f7",
       "url": "89/66/538f1ae0c01df798bdff00cd57415dfad5a776483fe7d94c4d6344dbabb2/pythoncn-0.1.0.tar.gz"
+    }
+  },
+  "pythonhelperpackage": {
+    "0.0.1": {
+      "sha256": "2d0999f68f329f9ade6326a8dc435390464f67c3378bb38f71cd5cf7a2ede0f9",
+      "url": "72/68/d4d95908b25f62a4cb210460b8a1099fd6cfc56e4db7d231f10faa98d353/PythonHelperPackage-0.0.1.tar.gz"
     }
   },
   "pythonlogbook": {
@@ -22361,6 +22383,10 @@
     "12.0.0.0rc2": {
       "sha256": "9aec9504cf958fde583f104fa49a9b9f9db6fbfe5f62a247e4d7ab5435b3fc39",
       "url": "b6/f1/0e62c9cd2fbe28913ea9f93454b14e7c1b0e742672d22347a5fd115731b7/trove-12.0.0.0rc2.tar.gz"
+    },
+    "13.0.0.0rc1": {
+      "sha256": "2ce1fc939e6780a751f55e5c06a114be2f015a727cd5d1d4508aeff51d437c7d",
+      "url": "ba/77/6b505f8c07bb8ff209b4d252388f35920b2e0164ccf5dc1c5914cef3973f/trove-13.0.0.0rc1.tar.gz"
     },
     "8.0.1": {
       "sha256": "6e9b3df0e9904bf89446560738561084fa41dfabc638bef2c3239940264a3666",

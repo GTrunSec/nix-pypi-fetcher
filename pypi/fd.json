@@ -14070,6 +14070,10 @@
       "sha256": "e46fd9a403232c975ab0071cb6acc8f116e6126d9444cacb24a4852656528ad7",
       "url": "c1/29/6691112b77137c2faf8364cfbad5a797b3dd891e32f0b7cf526cab3f1831/osm2geojson-0.1.20.tar.gz"
     },
+    "0.1.21": {
+      "sha256": "388025d8b9f2ed368ca9a0c04bced0cc46107314ce003b8046e2cfddffd8f793",
+      "url": "2f/57/962e202aae82599afee075d8d8d356a9566a58df7231c608bbb235ffbd03/osm2geojson-0.1.21.tar.gz"
+    },
     "0.1.3": {
       "sha256": "f0b563adbd2b862cb24dae79163b598f81c0b6e0067a326ed3190f4bb3c686b9",
       "url": "3f/da/29c9a8ab7b3fc20eabf3614018f2f7c26b0058938c27a9c2a075a50f1ea4/osm2geojson-0.1.3.tar.gz"

@@ -2111,6 +2111,18 @@
     "0.1.4": {
       "sha256": "530684a3b876d7ff9afb8f3eeecff9b63c32bd4d3a93525002143ad1b88e30be",
       "url": "f2/52/bd85d6d5e2dc7eb1ff4cc22276bfd38706265d47460397b2c2342a8349dd/bone-pytex-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "a0c969d47ac5c9e37356ef2d0ee1a56241ba0c06aeb1fdc98480ba45cd76283e",
+      "url": "e8/99/a4aa00bafcaee3841da9e19665d11a63f0c4abe664069afa4d299233637a/bone-pytex-0.1.5.tar.gz"
+    },
+    "0.1.5a0": {
+      "sha256": "6cb8d4100b672d2a7e46d1a19f00878af37e8ceb61da7def2af82d26e78c3d44",
+      "url": "92/b0/a27b1e438856931c32d7c8404f9891542c754bbe09d97fd4742a0e60eb23/bone-pytex-0.1.5a0.tar.gz"
+    },
+    "0.1.5b0": {
+      "sha256": "107a30622409d9fe2bcc9976afa8526e64b6fd7358c0b52f6538b1af4d9373eb",
+      "url": "22/58/44fe54a212d13932f412b42688af281f408e72c0c867ef305fa34bed7fa7/bone-pytex-0.1.5b0.tar.gz"
     }
   },
   "boto3-batch-utils": {
@@ -16307,6 +16319,10 @@
     "0.0.8rc3": {
       "sha256": "7fc2f347521e85a92d32fbdf4c7c80ecbbf45e391b8dc52e419468e553f161ae",
       "url": "56/0e/178d82e4debade8dd06ac360a7a264d1fe59bdfd5de21ba14cdb3e21ec36/neuro-0.0.8rc3.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "640c3c7e17b3cc6375d0d90ef67cd6ab27c1febaf63b4cf90aa088614983243d",
+      "url": "ad/ce/3202fdb1d0c464d5f73dc1de7b48eda84b6d594017fbec1c6d2f88096d35/neuro-0.0.9.tar.gz"
     }
   },
   "neverbounce": {
@@ -19059,6 +19075,10 @@
     "1.29": {
       "sha256": "f55f06b46408d20a3e89ac106f54ceaf3ebb133881a12dd2835586c76886b4ee",
       "url": "de/e5/dcb9877dc78b28d11924450224d77ba737c34229507f154b98776700453e/predictit-1.29.tar.gz"
+    },
+    "1.31": {
+      "sha256": "8ec62693fd908a0064bb14170a68277e8651df859f1af15e18d6dfbcbe187990",
+      "url": "2e/b4/a961f1b1b042a96195c3fb3efee440c26a02c0121843f677c4b7859c56d6/predictit-1.31.tar.gz"
     }
   },
   "prestify": {

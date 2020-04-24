@@ -487,6 +487,10 @@
     "0.1.6": {
       "sha256": "73b759c3f3c5a0f7ed82cc5dfed4b022b8f043158cc47004d2ae671fa813a7cf",
       "url": "e5/b9/14dfe5ef503226d6a2c37a0ebbc75c39f6eea4b1ba68a7cf5c2d3f8c301a/alembic_utils-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "70f6392339e251318c1fc60fd6a50b14d09cfa33c8a6238794b00ddd7999d58d",
+      "url": "b2/f9/92d22aff52a721e0fcb3e28ade5b7c9d9a37b7e9af712ac2a8d1662d960f/alembic_utils-0.1.7.tar.gz"
     }
   },
   "alexafsm": {
@@ -1311,6 +1315,14 @@
     "0.1.13": {
       "sha256": "0343e26f01f2596a37ec8c5d967a88c2a3e727f3ffd88f651409f8835ba686f4",
       "url": "67/6f/2e4d6a209121ba419db60b8d99f9c689336334682029894aace26c7e1dae/azdev-0.1.13.tar.gz"
+    },
+    "0.1.14": {
+      "sha256": "672df76ce3bb40fa7bc58e80700e9c4d6c6d5d454f077eac0e80bd1cf9dc4f9d",
+      "url": "60/cc/61518bee63d7e9c482f32c3dc3a701265b92553d4167e49cf5346ab98262/azdev-0.1.14.tar.gz"
+    },
+    "0.1.15": {
+      "sha256": "4f98bc1c7953a93d9a370173d14aca2ab61663a711599a516997071322745a99",
+      "url": "39/bb/a4554214dc49099c6f96566371c53e1862be3b004e7c6ea64206c283bb91/azdev-0.1.15.tar.gz"
     },
     "0.1.2": {
       "sha256": "3ccf335ef7bfa322a3144c31283554babc2b46bb6a6788e296714d1bda6358f6",
@@ -3117,6 +3129,10 @@
     "0.1.1": {
       "sha256": "b96b94716d0fab260f3b59fc6e126137e26f3aea9a14f92acbd20af8260ef83a",
       "url": "21/f0/a128c0850029c87ffe4875906bef8650d32d2fc81640b1d197693d521ccc/datetransform-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "76ddc7b8d760f61320426994a4fcef6e7b94589f762582cf39d5eb838d280ea0",
+      "url": "29/b8/41748fc3abbf0f0766cedca8d55a243b8f829518441e8e8c75509b12ec76/datetransform-0.2.0.tar.gz"
     }
   },
   "dd-aliyun-python-sdk-slb": {
@@ -5791,6 +5807,10 @@
     "0.8.7": {
       "sha256": "bde59f5d5e99f3269b1191f69f53229df3917a339812875953840544ceb00a0f",
       "url": "12/84/dbb7f56e97bda07819b09efbda074e17e618443b5f448a04c58c53d0a9e5/eql-0.8.7.tar.gz"
+    },
+    "0.8.8": {
+      "sha256": "8b5611b05504362caaa5ded9e4cc68373cb8e65cefe5360aede9045b980cd91c",
+      "url": "3d/d6/4e1afd27b88cf2c020fdc7ad1fad05c385e2991dfee471ca6be1fcad5a83/eql-0.8.8.tar.gz"
     }
   },
   "ergonomics-metrics": {
@@ -14415,6 +14435,12 @@
     "0.5.0": {
       "sha256": "dd303e55bbcec3a1363ab6603f8e681524eb57a667d0d149126f0263d6298369",
       "url": "02/7e/be4a0dd966b41628640bcbafb8aff2fb52c652af31c5da6d5aabb71d9e7c/polyaxon-k8s-0.5.0.tar.gz"
+    }
+  },
+  "pomodorino": {
+    "0.1.0b1": {
+      "sha256": "dce664d453ed3cc8bdfc7703dfe48078283978c3c29d7476f1d688df93bc9140",
+      "url": "1f/4f/93fe8904f443de77b5b6a98102be34889dae43966d07e8ac4efa90446996/pomodorino-0.1.0b1.tar.gz"
     }
   },
   "pork": {

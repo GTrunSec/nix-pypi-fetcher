@@ -690,6 +690,10 @@
       "sha256": "82a0116ffb2f1c87ca207b633f02be9172e3ddf811de01a580b2588880969c46",
       "url": "9e/0d/5138910f5b0da19e3fdca8585d83869517d26ee59cfca74b7c50f0c96c0c/aegea-3.6.1.tar.gz"
     },
+    "3.6.10": {
+      "sha256": "238d478d30c336db48ec18719b6c049cf7b64137ab67ae38e4d7573bfee552b9",
+      "url": "70/ad/450cf6149da77160b47a9b60a3164ea9b463eafc2766d15d71712533a947/aegea-3.6.10.tar.gz"
+    },
     "3.6.2": {
       "sha256": "0e5bcaca6552d244d3cc75c920c1334ff1a6fd175622e6dc0ef6d14acf6eef35",
       "url": "46/a6/5d62edbff48b6347f3ef72367bb82341d86b8eeef23a051168bd4c047b33/aegea-3.6.2.tar.gz"
@@ -717,6 +721,10 @@
     "3.6.8": {
       "sha256": "c67234731688b49a227ee44a14bbe53c87ebea2111b269222836519bc9490b59",
       "url": "e6/55/acf6d1ed3b4466732e3b1ee70aa5405666480884268e2c35d0a9ac01bbfa/aegea-3.6.8.tar.gz"
+    },
+    "3.6.9": {
+      "sha256": "f166e05ae39d6d7554ae20e6892fa7c4bdad4d5dbecb9f01085b36432ba14925",
+      "url": "5d/24/5777bf46b0d2c493214f08e3165aa8eee58cc09782a6e9d893c0d8c520f7/aegea-3.6.9.tar.gz"
     }
   },
   "aeutils": {
@@ -7639,48 +7647,6 @@
     "1.2": {
       "sha256": "f09d1040e61fab567cc6fd56d1751ab6584fc0a0237ffc5d4a5265b0ea36d47e",
       "url": "ee/0d/99be7cda5ecad111ee3eb8c9467569631d7c11aaa392584f40f8a41e953a/django-oscar-worldpay-1.2.tar.gz"
-    }
-  },
-  "django-osm-field": {
-    "0.1.0": {
-      "sha256": "3573325e21c84f705e95f378e377f19858153d5dbe1ded1fbee96b6d37045b5e",
-      "url": "7d/30/08addbdbb376f31c4bf9909ea578b86a46427bc6ea3b54aca1e8787b495b/django-osm-field-0.1.0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "ae82d9ef7b33998cce8908fd04c0a276678b2619efeff4aa7a6048ef78d4968f",
-      "url": "72/b1/38701c627898fa6ceb8fea9fe09a3b1eea3609c3964c5082dc0b30d7f318/django-osm-field-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "edca8ab3e29c0f018e48831f70defbff60d15f5b1e207645c432f4075c4dd802",
-      "url": "e6/ef/f5e383c21c9adedb44f66c933b1006080e4208bfab0eeeeda546f3fc10fb/django-osm-field-0.1.2.tar.gz"
-    },
-    "0.1.3": {
-      "sha256": "1b52d8af7c3c76f57bcb6bb64f4d952793c8dc32ba08e49fd20e329211b62cd9",
-      "url": "95/27/ef9b9526dcce32ff653e032ccf582059d2221aad4bfe5404177a27f0f997/django-osm-field-0.1.3.tar.gz"
-    },
-    "0.1.4": {
-      "sha256": "4825d63ceef4ffa326a13c1a278414b59ae11b0e507f0d20dfdb1deec0cd5464",
-      "url": "db/cf/ba44c3fee16a32a4d17a8495ed30278a79d1afefcb2f9d3b3028738d0da7/django-osm-field-0.1.4.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "fb2b6eaeb3f6db77a1f1318bf7c85ee909181ddc37d64ca751982de86aa3d6a3",
-      "url": "8f/9c/9c7658e5cf30a2de1fea337f4aba3319ce7a2b25dfe6a85c1d0ce5d07a06/django-osm-field-0.2.0.tar.gz"
-    },
-    "0.3.0": {
-      "sha256": "ee0abd6db67259cd16c1bab3d155a970c72ecef38f377e9c30929cddcf9f11fd",
-      "url": "f5/17/bf2e7ddf37985f9d0610e7da42b8bd4af8edec7e36325310fb1f8f1e1862/django-osm-field-0.3.0.tar.gz"
-    },
-    "0.3.1": {
-      "sha256": "8135018862d57648576717dafab5e028587a70301d602c3f1c869e1d7916e26b",
-      "url": "4b/19/c6efbce7ff0859f45fd27d2fe3223924139218317804f50274d34957ae9a/django-osm-field-0.3.1.tar.gz"
-    },
-    "0.4.0": {
-      "sha256": "a837ba96f441fc32ed8e4a01ec61e679d1e22f367e7264e592d9ac2eb0c7b070",
-      "url": "a5/a1/5d2471dd7f6e3cd1d49afc7ab5bad1410ae9b3b1bb440e69618245477a49/django-osm-field-0.4.0.tar.gz"
-    },
-    "0.4.1": {
-      "sha256": "a19f330058cf1bfe36ffb55c0a9a451059c2a3bb5fcf363ed02f0366116e66cc",
-      "url": "7c/44/bce48dd7c4165809a033093a537d30efdc66723eca1eb1ff8f7153e674d3/django-osm-field-0.4.1.tar.gz"
     }
   },
   "django-payzen": {
@@ -21858,6 +21824,10 @@
       "sha256": "7a89a1c6dc9341d3b690e63b4f7d4592beae2da7bf743a2e839bd5eeb71a049d",
       "url": "fb/9a/bef0f66f55fc7be6d4705e848b8d2586ed09198d70c5fcc224fb2a4d1837/re_common-0.0.34.tar.gz"
     },
+    "0.0.35": {
+      "sha256": "e84c3fdca9ca92d8a4fa6bb533f74db8e63ce8755b9689faae9791cd5e572284",
+      "url": "a2/66/f1242bfa2036e1313ea1f37b7143b7c093385543f67b8a0d17d6d4530c01/re_common-0.0.35.tar.gz"
+    },
     "0.0.4": {
       "sha256": "01123ccde770e3071a089098cc49fc364d06a7b9e80a719bbe7986237d566e1f",
       "url": "bc/05/61454f8dff7d2ca385d61d2e958718b7ba702fa5db6783e56a15b0c9fcbe/re_common-0.0.4.tar.gz"
@@ -23867,6 +23837,14 @@
     "0.0.1": {
       "sha256": "73a361b9410f105537c853f452a45511fd59c0afc228871967e2060ce3cac26b",
       "url": "71/92/63018f588da56949ba67f859888bd2e62cf3db8b25f172e523e1355e4604/spark_tensorflow_distributor-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "08f34ace5dd5107de924b8cbbfbb37fad8e98edec30d1e550d6c9d9b001f6ce8",
+      "url": "ce/2b/c99f9cee88b83ef6b5e4d28d8581fce6a87381deb41bdc947c20255f7db4/spark_tensorflow_distributor-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "50434b9705f3e52817dda64d9f648869ef8f602f55c6d8ba083899e280d44368",
+      "url": "fc/22/fe3ec5196b2d9a2c51841844266bfd866dbe89f2afdf723de8f94447807b/spark_tensorflow_distributor-0.0.3.tar.gz"
     }
   },
   "sparkworksws": {

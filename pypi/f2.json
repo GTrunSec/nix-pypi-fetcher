@@ -15275,6 +15275,10 @@
     "0.1.0a1.dev1587606102": {
       "sha256": "ff94c8fc1fe1c25aa8cc9d4396899e94c35564ca2c646fa5cc28c39861238e24",
       "url": "b4/76/544b1573b3c6d50dd10da82b5ca1a1e2274adae96433ad0af9585ddf4b53/pulp_npm-client-0.1.0a1.dev1587606102.tar.gz"
+    },
+    "0.1.0a1.dev1587692680": {
+      "sha256": "5ef414123684f620836859d6eddcbe904c294f96932ffa07f6ad86e272765838",
+      "url": "96/84/a43b2e0401421064e40e48d7ceb0191cddf4e2f52313c42bd4cea10b6c7c/pulp_npm-client-0.1.0a1.dev1587692680.tar.gz"
     }
   },
   "pulumi-azuread": {
@@ -18913,6 +18917,10 @@
     "2.6.0": {
       "sha256": "e4097f288955e22c3e6a5f27e247450d83b12ed89ee7e77fc23e946c361808f4",
       "url": "79/14/f9a3fa2bacfaaf6ab37526897a65b17ef1bd75cb68c4231da92df49023a1/scuba-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "5918a80b9cdd5b888a2e11fe4015f5eeac2634b40c1e7f313a047eb9982ce9ef",
+      "url": "16/94/cc135cac3ffb42596961f92845b87ced0f369dd556a6b65e7caa853ac3a6/scuba-2.6.1.tar.gz"
     }
   },
   "secure-markdown": {

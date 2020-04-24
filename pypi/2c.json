@@ -5549,6 +5549,10 @@
     "2.0.0": {
       "sha256": "626f6a504b21f63a997a808c22250629a0caf1a8703a52f8ba36da9ebfaea7ce",
       "url": "c4/bd/54a3056307bf89b41d0a8543db669c709132119559698e5bbdb52949a7b9/dedupe-2.0.0.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "e8dd267c21dfa15906f7c178e6fe6930b9dc87e02fd38b306a7757a7d5ea0dc5",
+      "url": "b6/1d/f79ba57b35e4dc2f3cfff7a45bda8dfe3db38e90f1961dbecdf7b16a2e5b/dedupe-2.0.2.tar.gz"
     }
   },
   "delira": {
@@ -14463,6 +14467,18 @@
     "0.0.1": {
       "sha256": "9d7efde8a36357a6964059b2b27ae1f89e7c87c32a2ec47121ea342ff949c7d6",
       "url": "d4/ca/3685b8eec3d023fb460de9f0c3291835ecf462202a1498083287e3fb9379/LbCondaWrappers-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "26285eb961570ad567c5122bcaa1896303512380904872e434e7380e7c7e1eeb",
+      "url": "a4/ac/c1770c9d42288a0fcdd09e844bb301ccb8f585a721c964727e1b8d1f32d4/LbCondaWrappers-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "6adfb1ae613402e3955925a994a75bc92c97054d0f882e34757fa76d1512ce1d",
+      "url": "3e/89/15766ad39a371923b74b76822e9f92fda58a26cbe1b6388b6cfba1b01483/LbCondaWrappers-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "b37c07c313671ae9d4e6e9c08d88abee0d1e9dab53ed9a650cafa2a5bab9f52d",
+      "url": "fd/4a/a4642de70efb12fca7144a30d96c14cd8c6ba0e91e27a5319a0f35430041/LbCondaWrappers-0.0.4.tar.gz"
     }
   },
   "leancloud-sdk": {
@@ -22293,6 +22309,10 @@
     "2020.4.1": {
       "sha256": "25634491d978fa9eab27c6e9d51e1480d28222cb2e034af04651f6b371d50278",
       "url": "d0/d6/0ac1ecdb4ae27db9f3c57dbd42575d687b1e260df28c03828d04319ea59d/redash-stmo-2020.4.1.tar.gz"
+    },
+    "2020.4.2": {
+      "sha256": "45e1a55e53d6fd0ba916e78878963a786f704da8eae2f85aeccc86e8110699ed",
+      "url": "b6/69/5a9af1fa2c935ad57017fecc702453519d2fbeffd01765986b4ea633dfe8/redash-stmo-2020.4.2.tar.gz"
     }
   },
   "redis-py-cloud": {

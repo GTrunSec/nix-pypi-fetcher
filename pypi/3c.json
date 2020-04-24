@@ -8904,6 +8904,10 @@
       "sha256": "19fcb21dcf35c8a27ec36f18280b7e91a93c9591de3cb2b53ac334fa6d741dab",
       "url": "38/bf/b229be97938889a18e0f232ec421e4ec66dcfa4747cf76d5fa89e2141151/firex_flame_ui-0.25.17.tar.gz"
     },
+    "0.25.18": {
+      "sha256": "d1ed27563f5ef2327c7f2cedd3fb342d9ac39c1f56ef597f567cb49d578ae386",
+      "url": "e1/6d/633355c579a294d03f83a0dbdb0049aef2cd4700ad1fd014787db25ddeb9/firex_flame_ui-0.25.18.tar.gz"
+    },
     "0.25.2": {
       "sha256": "89864ddbca2cabd8948999662e1ac64dea0d05b53b68a2db4f2985b5f55445ed",
       "url": "bd/59/e90d8e5e472f098e34d1681eab866ab2e22202294c9de2f20f61f27bd1da/firex_flame_ui-0.25.2.tar.gz"
@@ -19968,6 +19972,10 @@
       "sha256": "390109dc141f3498a9e97ea2e9525845caab65c6df9e8c79a0542cec2352feb1",
       "url": "9c/57/71ce92c8a7e138669f0b98694d279352665048c4191ae7e49ad95b6898cd/pybel-0.14.7.tar.gz"
     },
+    "0.14.8": {
+      "sha256": "d35df841b1497416bcf0d4fd91622be66f029e35270107bca5a0e44d38620bdd",
+      "url": "48/10/6d98e6204b6f3dd712b7e27b69bffeeea3fb18c371fb6e78a4985d44e2bb/pybel-0.14.8.tar.gz"
+    },
     "0.2.0": {
       "sha256": "1b36226bedcf65ec48e493171bfb4a8fda4d0481af1ae6de54ae19e4d1f550b7",
       "url": "81/86/7e6afcc88d3423ea2a1ba883ea67bc689128bd5290b87eedc46b86f93b57/PyBEL-0.2.0.tar.gz"
@@ -20187,20 +20195,6 @@
       "url": "6e/a1/405e88b333969cd107c6902ea4542e938e46ccbd7e94a65a8cd9c5c1be3c/pybothub-1.0.0.tar.gz"
     }
   },
-  "pyciosa": {
-    "0.0.2": {
-      "sha256": "5292b0a63a05a8462f50606ed7fb8dd475c63b785ff551e6498bc659c3861c99",
-      "url": "1e/da/b136d90001591cbacbcbf81503fec2d1f9ab9e5c8c0ad840033d1f365fb0/pyciosa-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "aad531c75adbcc41391ecc35317b8040d7a099b513dd73237ac155aa1756589a",
-      "url": "7e/64/000978b7870ea041b06db0de616c50cd179cafb1130755560352b1de0620/pyciosa-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "ad77dc8753e06981a466ba729742b8433e5d357c578feb8b0f6c4e68bce0ee83",
-      "url": "ed/ec/329bb3a6d83382900ef2bb6d1ccb926fa7c3e99ceb3abe8a788003d2c708/pyciosa-0.0.4.tar.gz"
-    }
-  },
   "pycmus": {
     "0.0.1": {
       "sha256": "7840b689178ad24a43cde0721b76b5f322a5c22fed2d3f2be1b984f8170d2bc7",
@@ -20415,6 +20409,10 @@
     "6.1.2": {
       "sha256": "7c2ac3d5cbec85e8504b3b0b63e9307be12c6d710b46bae372ce6562d41f4fbc",
       "url": "71/0b/6410ff300b614d1f25f045a99cde27ff40e5ffa6ec5e95860c0fbce80faf/pyface-6.1.2.tar.gz"
+    },
+    "7.0.0": {
+      "sha256": "9e00aba15de9c0e553dfcc7b346c3541c54f35054dd05b72a9e2343e340adf6f",
+      "url": "b4/8f/d0078bb63e0a695182f20c47103b830feb5c4b81a48d1f04a687c4eae8c5/pyface-7.0.0.tar.gz"
     }
   },
   "pygcards-pygdev": {
@@ -21641,12 +21639,6 @@
     "0.1.2": {
       "sha256": "5e4f86441b1c657b97b53e1398f3dd466d1281086c0911924ff1ac291217dbc8",
       "url": "4c/63/eadbcfc393779ce4af6bac906dfc6e7b82ecd46afbcc4fa658b74c26539f/python-kzt-exchangerates-0.1.2.tar.gz"
-    }
-  },
-  "python-netcash": {
-    "0.0.1": {
-      "sha256": "d4ccc371430dcc4d0179802463569409c1b6ae5f6a5ac556649f8aecedd07750",
-      "url": "14/54/9efc1e0f0f6963b9e78344ed3a162e74887da82c0deaea49aa1e09966cbd/python-netcash-0.0.1.tar.gz"
     }
   },
   "python-ovmclient": {
@@ -26679,6 +26671,10 @@
     "0.3.3": {
       "sha256": "371fd29466af010545b341f3041fe865f175de0c537bbe88e0bdb231146c3587",
       "url": "6e/38/3bb478f240ef72a49cba1d1565f24464cafe42b0b657934758ffbd33de1c/txhttputil-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "da2433140f73afa76f955ad9ce8ae4656fdd95a169e8dc10b9604d2c28cff117",
+      "url": "1b/c1/159580eb3368f8e6f24bc2bbedacc5f2142e81c920c0ec6bf4149e2de511/txhttputil-0.3.4.tar.gz"
     }
   },
   "txlogstash": {

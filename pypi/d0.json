@@ -13449,6 +13449,12 @@
       "url": "e2/1e/308ba98d7bbf2462150b0a1598db8b036d9994c2553582e266fd029dde8d/pyDots-1.1.17017.zip"
     }
   },
+  "pyemit": {
+    "0.2.0": {
+      "sha256": "3ccf02b2b62d823095bec5d9a373cecb97937bfebcb3e1733c113dcbb9e81560",
+      "url": "8e/00/640d9e6ef7da175cab87c236a271ef07b50f5f3e24a8d6c078513f46a757/pyemit-0.2.0.tar.gz"
+    }
+  },
   "pyexcel-handsontable": {
     "0.0.1": {
       "sha256": "5d86cdcce942b8a351b6b147d312d54deb07a0e63b33275fa20de72efde75362",

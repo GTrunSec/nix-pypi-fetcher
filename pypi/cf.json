@@ -2442,6 +2442,10 @@
       "sha256": "b89fd1ca34d032b7b8c171b50abb440c46843d3ce3b5edc7d15cf0cf29266294",
       "url": "21/fb/0424ba7cbde3b2b68e4bab5a436dff5c0247fa359eff21ef4dd8e75220b0/cellfinder-0.3.10.tar.gz"
     },
+    "0.3.11": {
+      "sha256": "1c916422bfa398caf03ef6bf01bfbe1b018a6174e3dc7ebf8e4866049d0b89ca",
+      "url": "86/bb/0393d233ac36b649710f5c52932ea084141078c23f8f818b367f01213ef1/cellfinder-0.3.11.tar.gz"
+    },
     "0.3.3": {
       "sha256": "04c05cea19878a72ee4b5a2a22adb5556628babe50fdbca99801d064f6c47f68",
       "url": "04/62/34017dd0683dab1ff0c31413b3dc8688fb1b31a1d45218026f78666f5123/cellfinder-0.3.3.tar.gz"
@@ -4949,6 +4953,14 @@
     "0.7.7rc0": {
       "sha256": "2e44c4c7897f4c53f4553916f752465f5b4297aef2a0a87dfb3ae9a2997f3ba9",
       "url": "2c/bf/c83b2e91cecbcffc49d926a9770e7f0cd8718482fdf0ff1ed748080acbcc/dagit-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "fbc7a7eb170b83f42721b0b6a8a43c6a77392460b55c46276fe254d69ee25f28",
+      "url": "f1/aa/f2fcbbf1ba02f423ac62bb542aba6da4aa366152b62ef19169f4efedf322/dagit-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "99f7bcd005e750c69082110c1267d913f755beff4c4be920b6a47673289da9e3",
+      "url": "bd/74/51d9f24dd12ddb3e446318866e976b57bdbc886b5f2eaf3abaf971344d19/dagit-0.7.8rc0.tar.gz"
     }
   },
   "dalongrong-cythoncli": {
@@ -13239,6 +13251,10 @@
     "0.10.1323": {
       "sha256": "79dc9f1a47f823a4d3fe72c72030278753d14ef35748f6bbe0d1d714a21ff0ca",
       "url": "11/a9/174299d3c3d2259e4751a7a81b1e0285d86fafc796b1555f1b7a7fdd3a97/lusid-sdk-preview-0.10.1323.tar.gz"
+    },
+    "0.10.1324": {
+      "sha256": "c84d80dcd1e09f382464c16d4f78d1ad7349e662fac4fed00e72c4ec736acc31",
+      "url": "1d/e6/3e50cc0714c637a20d47215907b22fa52cfff2fd92ce589147f7f6887301/lusid-sdk-preview-0.10.1324.tar.gz"
     },
     "0.10.178": {
       "sha256": "a27bc6b85bb8ae25fe42b83aa192c14de208149a82d3241fb96e65b1d1600242",

@@ -17039,6 +17039,10 @@
     "0.0.3": {
       "sha256": "8cbbd8c17d517e556d4076466b74c8dce486aa024fff2f2c717f0fc8483f9178",
       "url": "03/9f/b461ad62557a8d174da7f8bcd2b7d464dfc114c54f9023e3f70c97cc3339/magic-admin-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "1773e934dbbf8cfecd4f1c9e8338ecd4d7bf322a70745c94f3044a1ff588192c",
+      "url": "ff/93/f76dc565cdc5e52f34b59fd3297b1a730e08442f7dc1b346512bc5057d11/magic-admin-0.0.4.tar.gz"
     }
   },
   "mahdiyeh-mbca": {
@@ -17483,6 +17487,10 @@
     "0.10.2": {
       "sha256": "42ff7b0c64018a39822588ecedcb715a4bdbeda3700ef39d158a0ebe042879ac",
       "url": "8c/12/7470e673d64465a729f82e6f6cfcefbefc9593b1d06d3fd1f9acd93dcdf6/mkdocs-jupyter-0.10.2.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "42a922b594c52ed396f4f82077e9f414f6af28920e812208240f6d903e7395fe",
+      "url": "b2/17/1b14a07924bc7b4a68acecfbf5509649b7210a3f489bb5ffad44d0ce2047/mkdocs-jupyter-0.11.0.tar.gz"
     },
     "0.9.0": {
       "sha256": "f2d5eb917e2aa3504995333b8abf07e0350c5b67823598f9d6f55dfb5fbf450f",
@@ -29355,6 +29363,10 @@
     "0.0.21": {
       "sha256": "5e284865beaf0efad38c75a28bcede254dbbefed2eb4eea14613eaf6ae7dd34b",
       "url": "69/7e/38f43c881d02816ebaa67e1309f7160035025ec0a1194c71a317fe86edaa/utils4py-0.0.21.tar.gz"
+    },
+    "0.0.22": {
+      "sha256": "c9612778e21744b1007a02ea1eaa7ca5e5e4d85530668b2d89ca04d67f46b5bd",
+      "url": "33/22/a69f58bbdf77b8efcb98373e255b29500d6cf55f40af3b0de635569c8724/utils4py-0.0.22.tar.gz"
     },
     "0.0.3": {
       "sha256": "cb7a5d8ac71e49140cab4639f80c1fd0fa6a47f32f0c3ca2989d03d8e51fd612",

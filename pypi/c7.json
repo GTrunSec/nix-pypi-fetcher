@@ -1547,6 +1547,10 @@
     "0.4.77": {
       "sha256": "3e2fc98110ae459c74848a5f7ccfdc834bffbd39565feb9173a7d20a0e9ec1c7",
       "url": "6c/00/3014b89dcd3144f12073e4c00ef23232df0800cd85f30adf8908e5ceca90/bqtools-json-0.4.77.tar.gz"
+    },
+    "0.4.78": {
+      "sha256": "5d534a6a6f227237cf458b79ec64e68bd38d7f373b8db7265ca2f4452d800df0",
+      "url": "d9/6f/2a6e61fa4258309825cc20b6fc4e689adee7c95148791beb5f22cd4ca165/bqtools-json-0.4.78.tar.gz"
     }
   },
   "brick": {
@@ -5508,6 +5512,10 @@
       "sha256": "23883bfaf9106d3dad0282654f3be3f4f87b1f474f2fb9057e9ec151e1b4f92b",
       "url": "ce/6e/091793815f05ef6cd2d2c0edf7aed14c814064a92388efa08459867e917a/django-terra-geocrud-0.3.38.tar.gz"
     },
+    "0.3.38.1": {
+      "sha256": "660b53216e7b4b616004f318c5b2bbd78506151ad25bf5dc38b758bc98fea637",
+      "url": "0f/9b/bd3f16f74e02cc9334366c60f8b54d010f7825e19f9d4bd4a5027adcbd20/django-terra-geocrud-0.3.38.1.tar.gz"
+    },
     "0.3.4": {
       "sha256": "7527c6f739717066dad5b897318d26c213c5c1465368eb214802a86e9ec7f79a",
       "url": "c2/1d/c32a9ac86edbb925d9fada3e91828522d8fc2e2eee802062c494fbe58025/django-terra-geocrud-0.3.4.tar.gz"
@@ -7989,6 +7997,10 @@
     "0.3.2": {
       "sha256": "477dd3ebe57bdaf6d79a9dcebac2ba9c5af0d086500f4f180f1f3a3e0922b05d",
       "url": "c6/e2/f21a4cf274c854ff7d298f6a5d9d4ac7cc754659d5384098b0f425478e8c/finstmt-0.3.2.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "f1e221bc48f3335a78918927073df0ac0f102baa9ce898357f8e1a83c6e25020",
+      "url": "d7/26/0d3ba9a6555da7189f29cfc7d31d539152dd8d02654c908c1eb329dc71b7/finstmt-0.4.0.tar.gz"
     }
   },
   "firebase-data-converter": {
@@ -17867,6 +17879,10 @@
     "6.0.0": {
       "sha256": "754b63f25f572b446925250c65665936281ff27baf5163cb611ba6991f4b55b6",
       "url": "f8/fe/a23e5ac74e9780502451d1b97ff1e7cd856607a70a84f7b9c49b71200b13/qctrl-6.0.0.tar.gz"
+    },
+    "6.0.1": {
+      "sha256": "61856d1f61febbd5abe280ac6075d5c9e1bf1eda7bf2102f5b9ea6e71c6872bc",
+      "url": "b9/80/cb21add6e528f193e1bec7c27c728130af142a2e51d72fa1f21de43751d9/qctrl-6.0.1.tar.gz"
     }
   },
   "qiniu4blog": {
@@ -19177,6 +19193,10 @@
     "0.2.0rc3": {
       "sha256": "2a53104cda5885e18c9bb22dd0508ed8279ccfbd2a638faa077830b58a69a30a",
       "url": "54/58/05eac1ac3e7a1216a92c55b15c062ae12e99ff2f72dce2e51e1b724a93e7/sdap_ingest_manager-0.2.0rc3.tar.gz"
+    },
+    "0.3.0rc1": {
+      "sha256": "e60a3df52a5bd033c7fa326849d59b31591f0796ccbaaafebbcfaf9719ef02fd",
+      "url": "c8/6b/4ba4a35913ccaebc7de41980fcf46646355c5eb0f2ea1f28aab97db284f6/sdap_ingest_manager-0.3.0rc1.tar.gz"
     }
   },
   "selector": {

@@ -12401,6 +12401,12 @@
       "url": "cb/10/d6a3f7e00096e4611f78fcc0bdc0a8d6af4e96a42cc11c1cd7a4a8c365ff/Gerador_ficticia-1.0.4.zip"
     }
   },
+  "ghj": {
+    "1.0": {
+      "sha256": "40a075dd684933c273cddaadefa8e5d2e1e96845172d129e6dec047fb655eeab",
+      "url": "4b/af/d7b554a88e73e4984eb1d7378c2a41de4c762781c8bd2c3756a8ed7a257e/ghj-1.0.tar.gz"
+    }
+  },
   "giki": {
     "0.1pre": {
       "sha256": "63b1fbddcde6030d2d1fd12e71bec934b0ef84834502de2adf30723a03160170",
@@ -26323,6 +26329,10 @@
     "0.2.1": {
       "sha256": "32abaaa0d9ff71e682751ac680273e16b368797ef32b21a7e5d1185760c2305a",
       "url": "fa/66/ed553cfa8a4c8c0d086df31eb5fe432015f962a99f26d03bf09b8a9ebdbd/zcbe-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "c9bf67a239e792310c62565380a44cd748bdc34cc9420417d47964587c5f7b37",
+      "url": "64/f8/cc494d03cac290593be008e3bcde81f4719ff3ba48cee161c4942d3e07cc/zcbe-0.2.2.tar.gz"
     }
   },
   "ze2nb-cli": {

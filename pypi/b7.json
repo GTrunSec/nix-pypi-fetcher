@@ -3617,6 +3617,14 @@
     "0.7.7rc0": {
       "sha256": "598dc667d23a65081cd9c473e65d514e72792585964b4b1980f9f000e1d8d469",
       "url": "f9/c3/397e87f7e4d405ca027cfff03a6cd44d4bff55499ee6729d3a072905ff13/dagstermill-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "b8c85473e2b287744d3c8298bbdd295446edae7ac3cea92dc65b0dc2b9fe4b17",
+      "url": "53/6f/ea63871531ce949cf05b6ed3c6798d4444103c55eeabd7e13a510880e82e/dagstermill-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "084a33a5f3f0d97ab5316b6dd494a932e890fee3d0743c0e31bd083e65c9c5fa",
+      "url": "58/07/7c83448840f8208762567a91fd17b6f4007195ddd005f90fad25f8a3688d/dagstermill-0.7.8rc0.tar.gz"
     }
   },
   "dankerize": {

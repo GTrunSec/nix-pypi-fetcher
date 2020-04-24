@@ -15065,6 +15065,10 @@
     "1.2.0rc2": {
       "sha256": "7c5b7c2ee9c66452293e7f070e0b3845135b206d7a836e04f94155a95474be8d",
       "url": "09/9e/cdab46ca8d4e066d225d905e3397b8a6bf6b449ec6d529d7ac15e9ce30bc/odahu-flow-airflow-plugin-1.2.0rc2.tar.gz"
+    },
+    "1.2.0rc3": {
+      "sha256": "5656f3ae69fc967af0812ec470bea8fe743a2c3583d74d535cee6b84fe5d3f50",
+      "url": "84/7a/591b7f6b71e789b25c529c34dc4bdbe4ca810fe908df16b58ed7ff2fa5f7/odahu-flow-airflow-plugin-1.2.0rc3.tar.gz"
     }
   },
   "odmltools": {
@@ -24223,6 +24227,10 @@
     "1587625402": {
       "sha256": "93d90fe3a8691d9732e8e2674245e2aa0ad9a69f8a5d6c6f2bbe8764338a3b56",
       "url": "5d/52/29e1aff9e4d14467765fa0ff307d6f0d6b572515cc11719ce9ccd66602ed/torchfunc-nightly-1587625402.tar.gz"
+    },
+    "1587711809": {
+      "sha256": "5ec096936e01996d5b979ad57b964a20c454ab753b1ab590e03146f707934976",
+      "url": "b2/18/92c575d402433e585a0f83541fc50eb949946dd163fb0b09b7d8f57131d6/torchfunc-nightly-1587711809.tar.gz"
     }
   },
   "torchtricks": {

@@ -2509,6 +2509,14 @@
     "0.1.4": {
       "sha256": "0caeab74bbfa2f0b6335d44d5a112be1ab0f1f4df70454720a4cc6a5f1331195",
       "url": "37/97/299fa3ce9633e50798d9a2f2349d9f3f100bcdbf645e14e9d58a36c36d3f/chenlib-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "d6c431ed87f748ce6e2870cecdecb2fc14fe64246be9bb83c61329bb805932ad",
+      "url": "50/50/31d8261853611cccb877f6d985a116a0cd0ea2b513c3bae21a7e7fa0fdd0/chenlib-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "7ffd3b45c4b400d6e9964bfb4d313cd2cec3c56bd4d5240869703ac22d3220d5",
+      "url": "f5/a9/b8b2f998adac79462af800eb1759fb1c9bbc2874d0e6965e8a36a0b5cee0/chenlib-0.1.6.tar.gz"
     }
   },
   "chgk-rating-client": {
@@ -4083,6 +4091,14 @@
     "0.7.7rc0": {
       "sha256": "954103c9d99e5409f0a4410442d97424e174ebde6ebf77d824c349a5e6bb7d75",
       "url": "04/85/1fa297c4b53a4f222ce0ff042fc48c8079f0c01da4e909d97125cdc7144d/dagster-postgres-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "135a0a3cadec3b6b23c997014b0f580a179f8e9d4586d71aa31ee027b4c6a76d",
+      "url": "86/f6/60251177b9d78dd86e9b02ec03765efc0ab4530e22d659605f6198c8a11e/dagster-postgres-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "a01aef765a6e8eb904228aee13d872b4070beee47194b96d9985c431d34dab33",
+      "url": "1c/05/d05cbe60caf1a676d0e5f2f8c9344e08ea18e0ce06a99642de0527fd0955/dagster-postgres-0.7.8rc0.tar.gz"
     }
   },
   "dakshi": {
@@ -20361,6 +20377,10 @@
     "0.1.2": {
       "sha256": "b223f8194de10b8c845d18377ebe3a429529adb05b5635b56edc7091d2e030bc",
       "url": "7b/54/86344474cf50dd1d5823ea7b04dc4563b5f8cc99fae3dea0ff756f35fbc3/sphinxcontrib-traceability-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "033909d36eb17a5efd7938a1a5118646eecd3280bd19748743b6dd30000824ec",
+      "url": "9c/7b/63816cdac788de02df7286c4e4b42d93782393fdec1db7a9859abd1fe45a/sphinxcontrib-traceability-0.1.3.tar.gz"
     }
   },
   "spleen": {

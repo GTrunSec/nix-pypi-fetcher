@@ -1993,6 +1993,10 @@
     "0.0.0": {
       "sha256": "6345ea2bd2d3ce01f2ba1ba1762fb21128641e3068519c2190d9b6a6311e45ec",
       "url": "5e/1f/6d55fa000e1586ec5551d1abf1af044c59070d3a24056a8fad1c6ce37bf1/capture-the-flag-0.0.0.tar.gz"
+    },
+    "0.0.1": {
+      "sha256": "a81e414d339bd324492e3b245a2bd3946cbb3ce50f1b7bab76f7933d501e8137",
+      "url": "4a/1f/3289f7ce10bad56f8c824b707f51915ddf6a58d1b883c95257c631971c10/capture-the-flag-0.0.1.tar.gz"
     }
   },
   "cards": {
@@ -14153,6 +14157,10 @@
     "0.1.0": {
       "sha256": "b8f83cb3f9a76096503ab4ee24bf52a979977847d5e551508bce75e6097de58c",
       "url": "e1/6c/61c1a4db891ec510e7a5a2b28a005b21ff018c9d54f2fc0de2efb780bb79/nenucal-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "3c906c4fb6f95ffea5017b4f7de0aaa1597a9beb0497a4410d50d6644d9cb82d",
+      "url": "25/5e/5c90e057803f559004bb54e15a41998753292bc877d5348030ae8c04fcac/nenucal-0.1.1.tar.gz"
     }
   },
   "neo4j-decorators": {

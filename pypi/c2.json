@@ -4147,6 +4147,10 @@
     "0.1.2": {
       "sha256": "b940f59f91c24bc0eb0fbeeac4b3863bd8f284c44f3b024366c7beeb40ae272e",
       "url": "2c/43/ba8c2fe4162c13ad1a24eab0a22a9c15021ebcd817a24b895b6975441100/comparxiv-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "874d1c2513cf43e4a2cb37810118de0986332474e951e7db1546a38410b5d405",
+      "url": "f6/88/6a0d98d9ad6c9de5123449300d53f6eb48e6e7bc6de2ce96a80965f9c1f3/comparxiv-0.1.3.tar.gz"
     }
   },
   "conanutils": {
@@ -5364,6 +5368,10 @@
       "sha256": "c8f80424a5a6f826824b0f094237c840586ccb1ed7e73f7833ed7fa390e97fa7",
       "url": "09/ee/5f5bf016cb10a991cada781b04b7bd7c9e8783b0c1b94c0668f59818cdbb/dcyd-0.0.22.tar.gz"
     },
+    "0.0.23": {
+      "sha256": "b652f8600f34f91db37197dd0db92ddf1362481854ca9a400662f0a19560f4d6",
+      "url": "2e/7b/6bce0be641ff46c3098a50c07cc4f3d388762143ed8c6f641201f6c56cad/dcyd-0.0.23.tar.gz"
+    },
     "0.0.3": {
       "sha256": "93eadded2c4a1b4f355d76132ea7c0cd85ad8e58a8342c977cc5b2d8edcedc3e",
       "url": "7f/99/93a89a933f94047b6b290f5f286ee1b4620a3f1a7571943bb9b1a72bdecd/dcyd-0.0.3.tar.gz"
@@ -5823,6 +5831,10 @@
     "1.43.0": {
       "sha256": "a445ea2d02bceefaf1ee63ddf7c09ea97bafa8615ebd71c6e3d0573a1f36e6e9",
       "url": "9c/67/6560f0bdc3311ded2d72dc944243c92a0b395c849f8caf0dafd642160b56/dialog-api-1.43.0.tar.gz"
+    },
+    "1.44.0": {
+      "sha256": "458f1bc2b4d65e6fa519d2b161279015b575e25b249003a6cdc30c1fe42e6f64",
+      "url": "7c/04/49f899ca21381f6e4e84fb43bfe3c3287753d8eb044fecc39102e40877bc/dialog-api-1.44.0.tar.gz"
     },
     "1.5.0": {
       "sha256": "88ac4a17a6e0961d7a3e5764452287244a28e8076144d25b181f68c91022fa02",
@@ -8061,6 +8073,26 @@
     "0.1.1rc83": {
       "sha256": "d5655a75baf6a29d9f5bc8d3c5b599fbfbff1b239120bbdd12febac94ab08033",
       "url": "a4/36/a17d2e183c48426febe7693b0ded91df880805203cf9efaa8e1d6f1e734c/enspara-0.1.1rc83.tar.gz"
+    },
+    "0.1.1rc84": {
+      "sha256": "7aa64ecbf6c128246930ab20a32602ba7b109a34a1e2e3f5faf7245060115fa4",
+      "url": "ea/2e/83dbdc45d8db7c0e7c4d2e5555414bc016c0bcf863d9cae22d90ddc7e3c4/enspara-0.1.1rc84.tar.gz"
+    },
+    "0.1.1rc85": {
+      "sha256": "7d9c5f07c7f7426652c19f8869957da78e08687ab08748151209fd55ad43be69",
+      "url": "46/4e/cab4573625bfffbb736240047796527edad74cc6f1f17a2f8c721bd3632f/enspara-0.1.1rc85.tar.gz"
+    },
+    "0.1.1rc86": {
+      "sha256": "3a7d51fb6dd4194e0e5b906f8dbbfd40039519a4b0ba927e24b2500f4186e356",
+      "url": "4a/1b/4dda4c15289cbf79daced5adfbdcf5b07207ea32d3978f5540bb706aa626/enspara-0.1.1rc86.tar.gz"
+    },
+    "0.1.1rc87": {
+      "sha256": "9084189a3a934e4680d300e127c645846303cd110c6cfd343502de1cdc1f8e47",
+      "url": "58/d5/0b46b361e3bd9183305af58a848c7264a8a4391127549716870e956c0de7/enspara-0.1.1rc87.tar.gz"
+    },
+    "0.1.1rc88": {
+      "sha256": "4cb17ff053cbe9f766fc634ee283c8bd577861a17279a747afe90d8a01d25a25",
+      "url": "98/78/ddf189201df9f4a877780d4a110c2e2c271821b89854846c50be581221ae/enspara-0.1.1rc88.tar.gz"
     }
   },
   "enumit": {
@@ -10969,6 +11001,10 @@
     "2020.4.23": {
       "sha256": "8adbee91298236fcd564242663d44bcdcccd520068852024b91d9c00abc3187f",
       "url": "93/bb/d2236343ee733654480659652dde7365ab0ec6b5d44fa4ef0bff240e5e2b/hstspreload-2020.4.23.tar.gz"
+    },
+    "2020.4.24": {
+      "sha256": "c945cbe179138c8a55ed58b673e4a87cdd00d97b4330cb8f1c845e237e36a66c",
+      "url": "42/25/5d99f8a3d672f436cd53e5d1f8caacfe61c1d86292be7da73b14b4f96c84/hstspreload-2020.4.24.tar.gz"
     },
     "2020.4.7": {
       "sha256": "3e952e761ea9c43ccf1c61c2b1962da63c66c85469b18608228f95fcae6535ee",
@@ -18126,6 +18162,14 @@
       "sha256": "2eede195fe4669379658d0a563b468152936125746414c829745505a17ae5f55",
       "url": "24/96/66f46cdd1c7a966e2db4b66bfaba8974c6e96e3d10edabdc2ffc33c3f8c8/penn-chime-0.0.1.tar.gz"
     },
+    "0.0.2": {
+      "sha256": "f9fcdbcc089d4842882e4916edf7c18f924b41c9eb28073878b8518a791793bf",
+      "url": "54/fe/2300ab6f14266324e84b2cecef4e0a6d3e9e05fba3df851f6d0835356b31/penn-chime-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "8a7e0a3e38dffe44cb3248dfe69d4cd9dc5edd33f1719a8bd9de651669cd7366",
+      "url": "e0/87/731d8616b5742194c961892936af613a05aab28c9e2fd4151f76ee2da4ca/penn-chime-0.0.3.tar.gz"
+    },
     "1.1.3": {
       "sha256": "d556fd27a76988b841cabedaf4bb5fd164b512320b9d7d8f4e4c12818050f810",
       "url": "1a/af/6de8d12ad47abd4a058df755bd167c419ee843d5b838b0401e06ff8e8cf9/penn-chime-1.1.3.tar.gz"
@@ -20699,6 +20743,10 @@
     "0.1.4": {
       "sha256": "8c6a99366efef825f327acd7394937b001204ad570603cf214acd79ac591da3f",
       "url": "a3/05/81b7fcc17698043197d656aaea02bc7b67f054d2caa25b60922582394342/pyshuttle-0.1.4.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "5d70fc76f4419a0524e8a4cce906302d45eb6aaadd9c4fbca5206259f0a67de4",
+      "url": "eb/f9/e17a39d9f6fad7a23938e18e079b7a004eed55c1a05cb9dffbb7a2f9e962/pyshuttle-0.2.0.tar.gz"
     },
     "0.2.0a1": {
       "sha256": "a19ff134ddf0d97644ed992b60a5e37edb10e98ec366f17c36c5ebfd09c1ef4b",
@@ -25533,6 +25581,10 @@
     "2020.4.dev26": {
       "sha256": "11168a8d1806819821e57c2a3b9748890267052454ae97d25c1aff4b50806a57",
       "url": "30/65/ec99691173d973fb9271a1e5b6351cfb6cb718fc4c32552d8dae8d8df64d/trood-2020.4.dev26.tar.gz"
+    },
+    "2020.4.dev27": {
+      "sha256": "bae2d933d291650cc60f2659bd84f4676fabefea365b4cf000304287eed4da4e",
+      "url": "2b/53/a05f3f77671259c59a5ab18570244359ba7a88020b163f145c9ba188d3bc/trood-2020.4.dev27.tar.gz"
     }
   },
   "trytonar-cooperative-ar": {

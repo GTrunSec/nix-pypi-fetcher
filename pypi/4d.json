@@ -1560,6 +1560,10 @@
       "sha256": "e3f217a37c016ad20a00624db147be04fdeb45179dfd4aa921f87c3f16112b90",
       "url": "d3/55/c1a4ab57ff79df13131a54f8a0ebd04c3ae5603ce925f9a950956b3c152b/aws-cdk.aws-inspector-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "678459c4637e966e04000c9e24666ef8bb59924f761941d192b69ea4be65817d",
+      "url": "80/d6/79ba0302afb2c78d24971303a8760706a7317593c4bba4cd1a0e7754db16/aws-cdk.aws-inspector-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "3ddb2e6f2b83286775a05b09a4a73deffbfd2afe051ca54d0ecdfc913e963987",
       "url": "c6/38/86db1ffae946442dca63ec4c601066cc18f9235fb73ee31ebbb70e6dc426/aws-cdk.aws-inspector-1.4.0.tar.gz"
@@ -3011,6 +3015,10 @@
     "0.12": {
       "sha256": "a90973d87862e9a4e4e49db0fad8a9fb41f89cc25988580798e04b85404b7465",
       "url": "c9/4a/4a4d48bed05e1ddb138dba8c8013c3d4afe2b9e50ea49ccc529a9892eb63/chiabip158-0.12.tar.gz"
+    },
+    "0.14": {
+      "sha256": "4fd9ebdabc3f330356fe2a48d902f4d03331bbb9fff1566c017c439c5a17b445",
+      "url": "94/47/d9fd8756fb6bf84b4ce07371a012df7c321237ff3da9741fdb08a7d1286e/chiabip158-0.14.tar.gz"
     }
   },
   "chimney": {

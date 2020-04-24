@@ -2274,6 +2274,10 @@
       "sha256": "ca3f337c51715d10770ed6e2509ec5ccdcf488d9680ce6302dd90516b34e6683",
       "url": "2b/0f/bad84cd6c20f46b1492f92bc3a0378f820576f407d96e3117a6375e31743/bs_ds-0.11.0.tar.gz"
     },
+    "0.11.1": {
+      "sha256": "6fc907b2813f8f2348ef78af434d7da9d0ef63e308a1b0d2d911b10b7d14e6e7",
+      "url": "b2/9c/fb3748c45865a39d073e512722799d583feb3c241e25797a4e2b7d3ac357/bs_ds-0.11.1.tar.gz"
+    },
     "0.2.0": {
       "sha256": "b7da7ee869db023c6980fb0545df9aabaf92acad1cd94114a98a408e60321586",
       "url": "c8/8d/560a3800b53da9bc0c43ed05eaf1750474f75af83e1705ff3a85233fefa5/bs_ds-0.2.0.tar.gz"
@@ -14279,6 +14283,10 @@
     "0.8.1": {
       "sha256": "0dc667240bfbd4a834abdd318bc253d1d78cce842049a1c13dbc583cfd491604",
       "url": "3d/9d/f6b2358c627ef6f2f626794b2134fda80578615a783434026a52aab2428f/mlxtk-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "0078f8309989c10c5d3bef1b3cebd8ed353dd3049683a4c811ec189e7ff4ec1d",
+      "url": "c6/2f/04cdb857357571467c7e227fb97547c95f1d1c97334aa0d7622092acef6d/mlxtk-0.8.2.tar.gz"
     }
   },
   "mnist-data-processor": {

@@ -9199,6 +9199,18 @@
     "0.1.5": {
       "sha256": "2c3fdba73f22d86ff9dd6265100ecfede7f2552bca7e65cb561d51d6bd69eb46",
       "url": "4b/c0/838a5d13e206cb765169e7d94916f84e7bad6c3e0a457f5c71a68bab6b65/ezsmdeploy-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "a4fe5b4ac9952665a53f552123de228159a31e91336e2f853e573f8d654686df",
+      "url": "4d/48/6068ef20d40b71a139943ca289a3cdce7896d23f76c8908e7bb8a1d6806a/ezsmdeploy-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "f8cdb762483417c711d387c1c1a1d578a1984cf80ea2adeaea6f2b64761f9d44",
+      "url": "ed/76/23a07c49d6098518113317ac87b82e8c75195d309af3c7218ccdee9b67df/ezsmdeploy-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "02d52b7210d71852a1b556f89d5a0de0dd7d568e9591ba6740b198fb1cb705a7",
+      "url": "4f/d2/7cf8733cb1653c50fd874a6c6fc41f30111702f55261562ea14e9a4916ca/ezsmdeploy-0.1.8.tar.gz"
     }
   },
   "eztest": {

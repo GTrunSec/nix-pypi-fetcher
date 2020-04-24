@@ -5339,6 +5339,10 @@
     "1.4.1": {
       "sha256": "d6f06264de54bf5a39312b33391539337800b6d271c169195097f9012fceac00",
       "url": "6a/f2/3b44b162f4f3e9472beca95ad741e059d1ada577a42d99820255ca2caf1a/codext-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "26974ca8d38b2336dcbcd8f7ffac49d94b7e8890ec8dcf98e438e8845d5627a0",
+      "url": "1c/20/6167d256fd0e4c7d8a7aee21d90a4bd082190c1aeda05190ed715bf544b2/codext-1.4.2.tar.gz"
     }
   },
   "collective.pathtouid": {
@@ -11447,6 +11451,14 @@
     "2.3.1": {
       "sha256": "6aceb21ddcfb7ea44f0d0bc763895f949f0a8077739f6b2cfc9280b6939c0d9a",
       "url": "31/ce/a7116b8bc3b3d9bea597684d5066ad021ceeebadd570a26d82254c298f47/hdx-python-utilities-2.3.1.tar.gz"
+    },
+    "2.3.2": {
+      "sha256": "870444e1451a76f1ed22ce6cb2f349ad71505c4ef146cc664efa13a5012b94e8",
+      "url": "9f/76/941e297e4775f83c7fdf3b7ebd567e388093ede6b95b9bf1c1e20226857e/hdx-python-utilities-2.3.2.tar.gz"
+    },
+    "2.3.3": {
+      "sha256": "593978ff95e76116af298075ba5e5da2b117091cad14fdd39d7094601ca81094",
+      "url": "31/34/54b885bb1bcd8cb1f34b186511318403efe5b8549c804f0b9427e75dd791/hdx-python-utilities-2.3.3.tar.gz"
     }
   },
   "heartwave": {
@@ -24487,6 +24499,14 @@
     "0.4.2": {
       "sha256": "b0950d0dd84fc0fa09d53bc53452a9b2f2913bd2597331457a9acf86c43aae1d",
       "url": "63/d2/7260f3ea1a7295535d06a06d6769fd511c4731756643d7eb1f2aa4ed9d6e/upsetjs_jupyter_widget-0.4.2.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "236f04de833a8dfbc9bb8ee94e29b4edbe5db38f67042c3b7aa89ec003362241",
+      "url": "17/0c/98a50f92da0eb77b82e72f89fe45efab49b23eb5bb8ce542864e2baa0b68/upsetjs_jupyter_widget-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "83a6e622596cadb3984cb109fa059fd71e577fa5f46da0cfbefeabc94b658845",
+      "url": "67/c5/08167927b9aac1e1ac5bb2cd94ffd9c504d92324e1223778713b048a6995/upsetjs_jupyter_widget-0.5.1.tar.gz"
     }
   },
   "uricore": {

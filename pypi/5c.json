@@ -6345,6 +6345,14 @@
     "0.0.27": {
       "sha256": "fe61d89e3ef6bc6088fe9ecc5dd7f0a08f1caa9f23f0aea8f3f3e654e973d51f",
       "url": "32/4b/3c15ca6b6b8e247811140a1170f2ddf698ffcaa87c5be105341c7a09d976/gql_ext-0.0.27.tar.gz"
+    },
+    "0.0.28": {
+      "sha256": "1ddc7f8f7956f6e0537bcda37e7000eb779e2842ff81515f5472a4789111c154",
+      "url": "7e/6d/60462db1235211400c5a72f2af75876f01f419ccb4af6bb25238a7f73548/gql_ext-0.0.28.tar.gz"
+    },
+    "0.0.29": {
+      "sha256": "f6498d53c9375e920622eaf5c2bce7e1899d11e1ee2a447451cc45bf0473c286",
+      "url": "42/b6/4a00cc0a5a95d5d53cbe893954a02311188467d30c7eb2b28a0fb2658ee4/gql_ext-0.0.29.tar.gz"
     }
   },
   "graphcanvas": {
@@ -7159,6 +7167,10 @@
     "0.2.0": {
       "sha256": "2828c8b2ce4d9580075ef08612fe32360a3e369d53aab2663b3fcb24c32c1d34",
       "url": "08/25/77c72614e495f01a60df9ca1e1d5e431fda4c13f74191034b247b5680dd4/invest-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "2ab3cb41a917fa1bfba960be41f73a9eb37d2f7e91e546ce96853c2c2b9dd411",
+      "url": "f5/fa/f8da94fe14091ad4537d74126ad7278420de13bfe74aa8f266df8aa5c84c/invest-0.2.1.tar.gz"
     }
   },
   "iotile-support-firm-gpiopipe-1": {

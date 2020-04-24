@@ -29755,6 +29755,22 @@
     "0.0.4": {
       "sha256": "5f6b6ce50be92e561aec732129a8f4af6896c0865087268b80f74f67f6f19c0f",
       "url": "fb/3f/7bcdb0b6844a395ce70689c2500e76704193f0140f6a6216cce751d08918/trik-0.0.4.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "623a1bd0d3411a65ea11cea99a214dcfbacb77ad5bcfe340f346f39537886ae9",
+      "url": "b0/d5/ef5dc89d60d24a1550c75cfe066e81bce71de6d84fe201cbbf8d4be96c63/trik-0.0.8.tar.gz"
+    },
+    "0.1.10": {
+      "sha256": "905cc6bbc896d76df6c6964fb6896abb1fb08522668119992886a0b5349f5f18",
+      "url": "0c/f1/e8ca2e9bbb0b979fbda68fe6c56a167a39674b417aba0fc25a2d4df7b394/trik-0.1.10.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "2dd6ffcbaadfc2c4dd6127d34ef8245ddb1c95e493ed6197e5ebb2af06b128e1",
+      "url": "7a/2a/c3c1dc435044021c527b30fdda0097a2299ec02971a6bc51f503fd88a258/trik-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "d4e140dd307e5e2cae0a46833cf55c7aaf132ac259e16c39fc0968531b3d0ced",
+      "url": "9c/35/79bfb18a8ccc115bb2bf7faf2423f59399126c4778355f7df317d9713e21/trik-0.1.9.tar.gz"
     }
   },
   "trtools": {

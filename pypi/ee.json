@@ -1646,6 +1646,10 @@
       "sha256": "5807e57e82a31cf5ed24d9d9c8cfc7c427d11385d747a83f8c1a3fdb48caa5f5",
       "url": "56/84/3e1260799917ad20c78b90d6f64651233542710cbb4c8ffc3b6f166419d4/aws-cdk.aws-greengrass-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "e74b03928bed42ae97f928772c99209fc7a386835470035e131e8e68731e8f51",
+      "url": "6b/b2/c6c98766517a32454a00fb799b6ef6c1577ba9ad7c7fab87a9610c79ec6c/aws-cdk.aws-greengrass-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "4ae784bc61f02ef64966ba938767298446e07cfbdd07fd5f5d7f9dc619ac9575",
       "url": "a8/68/5c2e5911a1a2289f8bd022d38ba62ce27e6825c74fdf8dfa65d985359d7e/aws-cdk.aws-greengrass-1.4.0.tar.gz"
@@ -11731,6 +11735,10 @@
     "2020.3.4.14.21.43": {
       "sha256": "2e330d1e53b2b96e4d2a4cc041976a42199b5daf972a938e68a81ed503800028",
       "url": "cf/91/04a60e3d5c90e15dbc347c947f6cd7ed4b804aaaf196304d4421f801b3a5/mi-2020.3.4.14.21.43.tar.gz"
+    },
+    "2020.4.24.16.57.3": {
+      "sha256": "e9ed3f5043873d1fd9cb6cc00d9631a687c2d6d2f76cc261406469dca6da0e77",
+      "url": "34/3d/269b7052607b9beaa0457c26cb7257585144632f7efc3782d94e3ded223a/mi-2020.4.24.16.57.3.tar.gz"
     },
     "2020.4.8.21.5.14": {
       "sha256": "4004b0c61a206298d7ea5ad8b8c790eb729a5cf30903ef9770d37da8faabe680",

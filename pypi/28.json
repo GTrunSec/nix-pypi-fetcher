@@ -2121,6 +2121,30 @@
     "1.6.8": {
       "sha256": "6e59399c27e23ae71b924ff7ca6a0b22fc941ab95df488570a9585edc0d00db9",
       "url": "93/b2/8c53c680b0193ddeb6922e31c98cb5b36fca80d9a84e1c7c177557daa45a/bio-pyvol-1.6.8.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "b1cf9504385750665952d3d54185f67173c88510aee5a2a617754834973789ee",
+      "url": "ac/94/986e19c7382e5fd2486d494864596689d1fcba24557c841020c4fcf999a2/bio-pyvol-1.7.0.tar.gz"
+    },
+    "1.7.1": {
+      "sha256": "f9356f96a102c658e2d851cbdae4c40adbefb644e5156ad0299ac6553d1655c2",
+      "url": "db/6d/a060c15c89993d39e3acd0ea304177fd54f8be6d0dcc94c27f8dc82fca6e/bio-pyvol-1.7.1.tar.gz"
+    },
+    "1.7.2": {
+      "sha256": "ca06674fe558df911655d3a2d48faf03123439131e959c79fd6a22bf18d969ef",
+      "url": "37/30/66bdc53f9464286a77ae3c852904c872b0121d60a9f0a77d9b8b32818489/bio-pyvol-1.7.2.tar.gz"
+    },
+    "1.7.3": {
+      "sha256": "a1e5ad6bc3621d1721ca35cb6b31454e85d379a124b67c06cd81419e3fabf518",
+      "url": "15/55/2148ffe4ecb25bbe36d98f39bb6278181d67657a6d94d9c67e79d22f63d4/bio-pyvol-1.7.3.tar.gz"
+    },
+    "1.7.5": {
+      "sha256": "3a1827f9f5f853010d3857390ecbbd825b18e315f92b6d4523a40241b250b586",
+      "url": "6e/c0/3f3f7463b3d1d2a31120d5be38de2a5c2fda3540f1f6e8152bb4bcec31f8/bio-pyvol-1.7.5.tar.gz"
+    },
+    "1.7.6": {
+      "sha256": "0d2bb9a4909fcc5c7f88f009441be645696a973f3ea5fb87499623874e30e5d3",
+      "url": "9a/e2/df7a77f63338111071fe1dc561cdc8594ecec38e6ccc86ea000bf7c89f15/bio-pyvol-1.7.6.tar.gz"
     }
   },
   "birdvoxdetect": {
@@ -5213,12 +5237,6 @@
     "0.3.0": {
       "sha256": "101c30f355d62ca15512be01964123b5f0a7b034e4b108f140756952a50bbd02",
       "url": "47/dd/a06ac7b680259019d7aba36a3b977244c0487c42a983bfd38d0b28b65612/datalad_neuroimaging-0.3.0.tar.gz"
-    }
-  },
-  "ddb-cython27": {
-    "1.4.255": {
-      "sha256": "f8dfe303066fe5097d102416a677ae280e10411e1ce3a1227692d8dd4579597f",
-      "url": "11/fc/78950dd96350d41cdf8141a51b27ebad1cf756d909b4533566369f53a572/ddb-cython27-1.4.255.tar.gz"
     }
   },
   "dead": {
@@ -8457,6 +8475,36 @@
     "0.1.0": {
       "sha256": "bec7750203a78389f6ea31959c03fe1c2ebfc678593606dac02d792afcbf27ce",
       "url": "09/db/c76b81cd64a229b05ba91004dddef8259ca231d4e032b92b61cd7e7a529c/garbagetruck-0.1.0.tar.gz"
+    }
+  },
+  "geektime-dl": {
+    "0.2.1": {
+      "sha256": "429b5444750f5fcb1a696babe4e83a265d97134ab166cb112116204d7335c550",
+      "url": "ff/15/00f6672c22a7fc02301f9414712952509c059c287f639da2658d904beaca/geektime_dl-0.2.1.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "b4e80f3f8ae427d962801f760d399e407abe6c9ef51698604e7d4fa950d4ea7a",
+      "url": "95/2e/0d2ba514f70f14efba9f791df8f41375b440aa3893217ccaba85968dcaab/geektime_dl-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "71fa82a227866c2884c4d1146d95d2a1d2bb7bfb7830355321e0fb5613866f75",
+      "url": "8e/01/3f105f9ed5f19b6f7955509a879b36b4a1c0571e11c2acab6d2458ea4d84/geektime_dl-0.3.4.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "4af6acddc49b558c0478139baada907853660bf86210b770d7518dc9a48f47a1",
+      "url": "8f/b3/8c6a8ed332134fea25f08655d76e36e2761a586dca3348487ed34c1acc36/geektime_dl-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "7b2d5b995ebdfa34dbab31575191e1789caf1584927dd943cc42bb6ea100a0db",
+      "url": "d6/30/cef333fb1f85b20e28d782138c2589ac44a09e6ec464070e938e66bf6a6a/geektime_dl-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "baa4afcbeca5084a25b096a4d69371bc6c7fb3d1ce89996b85311b273dbfb71c",
+      "url": "d2/bf/596c6b835843d887840e0ccc3f004132ac2d8d6a60dd042104463c36ee68/geektime_dl-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "7bdc995b4c12406c8626d0436324ba74a697aa4f128d13e666cc1ca272f8dd40",
+      "url": "81/aa/1c8e163e2377232fe8ad342d9a9c55eb34dbbac9820160819cc734af9926/geektime_dl-1.1.2.tar.gz"
     }
   },
   "gelid": {
@@ -15177,6 +15225,10 @@
     "2.3": {
       "sha256": "e00320e712d7b597575d293fc199739247b738ab874895a77820579884180942",
       "url": "79/f5/bafedc6e7425d0b46a89309475776ae3b6404cbbf9b9899389305f37f7dc/pop-build-2.3.tar.gz"
+    },
+    "3": {
+      "sha256": "c7964373ce49652bce6ecd0e64256b46be07c0b08db65235f52466bd985fa1c0",
+      "url": "7c/1f/eb187ea5439fc06b75aa6b9e7c161318ca4db3394ba34e6b7150c237fef3/pop-build-3.tar.gz"
     }
   },
   "power-index-calculator": {

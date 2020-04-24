@@ -4581,6 +4581,14 @@
     "0.7.7rc0": {
       "sha256": "30cc61c3b5dedde8edeb25d6d8362f567210f7099b7e01af940ef98aba789afb",
       "url": "13/c0/63ed20666738d0eaf654f8859830e316bf403abf812f1291c35260e1cf4f/dagster-slack-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "2d445709fb23d891b11a935a66ae59608a02373fe4d2048b88fc7804b372c735",
+      "url": "ea/65/525cc9aed4bc310321a9bfe9af0e18706a0da13824e41e90c6b5e88a713d/dagster-slack-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "80fcbe195b23240fc8513bdf957dd81f7d24f295e51c63d14a33d433e18cdc56",
+      "url": "f1/9f/5d55ef2466d7f67ea12698890e85a2e3388da041ba4be8f2080a775204c3/dagster-slack-0.7.8rc0.tar.gz"
     }
   },
   "dane-server": {
@@ -11667,6 +11675,12 @@
       "url": "0c/a5/16a967f3f10bb7d3254bbb224804ebdd9772ad7f990db336fef474f1ccb0/jcal-0.0.9.tar.gz"
     }
   },
+  "job-offer-classifier": {
+    "0.0.1": {
+      "sha256": "6e98c373f885d4d045adc6f51d53d72cfc32dd3969f44f9c781bab7bc5c0daad",
+      "url": "3a/fd/75bae9538ae1709e0a61459a05db7fa3f9762f38ffada4c3feb7cf9b65d8/job_offer_classifier-0.0.1.tar.gz"
+    }
+  },
   "joinpython": {
     "1.0.1": {
       "sha256": "35b35c715780a5c45e07945199f62db9345fc53cbc892211909c5b8efabd170b",
@@ -16083,6 +16097,16 @@
     "1.5.0": {
       "sha256": "1efe08b22490c2fb815be0e29f35e56956772750f649e3df6abe292cc56d82ab",
       "url": "08/e0/3ff7c32ab9a8966e83c1b19a4dc914eb90b1a12f56ce2cf61e689608d228/nitdms-1.5.0.tar.gz"
+    }
+  },
+  "njserial": {
+    "1.0.0": {
+      "sha256": "539780e8e3fc081026e350bb3a9e1195c9395bf997dc2da35fe47e44a917fe13",
+      "url": "c6/05/0cd50ee3b61b215f7db2fb79bf9775edde34e5b8c9ca849a884edf79fd89/njserial-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "4715dad28c078483bd72d0c18f678aaa046246f392d5865b589c278bb506875d",
+      "url": "8f/9e/a2f260ee2e1a5105be2f8822559749ad30fdd06827eefd5d32f611185e13/njserial-1.0.1.tar.gz"
     }
   },
   "nlptoolkit-namedentityrecognition": {
@@ -24459,6 +24483,24 @@
     "1.0rc2": {
       "sha256": "64d1b56e07ebe962aaf78005cc84637df02cd6538b5888e5597030e175aeece5",
       "url": "ba/e9/f0b22ed0538e953e3067e97ac9641936fbcd061a984f40bee2e7cfc8633c/rio-color-1.0rc2.tar.gz"
+    }
+  },
+  "robotframework-jsonlibrary": {
+    "0.1": {
+      "sha256": "f3dd33ad945a6b6f6c00ee094ba6f3bab0aa019dcc809e1512c21e46ebe23a05",
+      "url": "d9/17/7c372a5195392b62944ea9d28d66c1c5a14ca3474e2725750329fa71ad7c/robotframework-jsonlibrary-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "b7414d3489412e6c499e1b488c62337d8422b0f0923eea5054dd111778951d39",
+      "url": "e0/3c/609d90b967905c0b5c90f736666531e025756e71f3d538546cabff61ef3e/robotframework-jsonlibrary-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "d9d1b9b35d1d48aeeec5b6a9614f92ebcdd0828ececf99935030c128f2ccc645",
+      "url": "91/05/bc535d666491d0856516cb6efed2736a5242bd70555c4f80df89755cc69b/robotframework-jsonlibrary-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "2582f6e1f7b04666cc2e73e00f1d50563ce7c018803ddead8dab5bfc79466ed8",
+      "url": "35/34/9cd0fc7074a88ce5f81912a4a6b8f844a0ef61d3c548144540939413f191/robotframework-jsonlibrary-0.3.1.tar.gz"
     }
   },
   "robotframework-ride-tortoisesvn": {

@@ -1214,6 +1214,10 @@
       "sha256": "295070eadc3d2bdd0d19fa6c53bf544dcdb016a0a3d9ccd8fcd8eec1596a4175",
       "url": "cd/bc/53f037bf0da026cb75ddf9548196ad715c87526b0ae476933d079bbcd852/asciichartpy-1.5.16.tar.gz"
     },
+    "1.5.17": {
+      "sha256": "2d3fa3ff4c83546fed9e13be29996c6bda3622dfc645813b50c33609692b32eb",
+      "url": "57/c3/795da92b19681b32c0c9bbd5d48d781ec2eea27debc604caa3bef3504793/asciichartpy-1.5.17.tar.gz"
+    },
     "1.5.3": {
       "sha256": "d5523db90876f3511a123d0b9387a56c6db286b0f7077454884012012df70272",
       "url": "9f/03/1cfb5c96a871694ce43c8d6def39b3f80b4624c985b8a0795916c2bd84b2/asciichartpy-1.5.3.tar.gz"
@@ -9543,6 +9547,10 @@
     "0.3": {
       "sha256": "8ce3e112575607108c702e53077fca32aea44474cf8520f981365691e8d929e8",
       "url": "8c/99/1d0151df7cf4f8cebb9dfe69bab968549c1122e8073945714fa8e31d8c93/ip2geo-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "97c9ec0742d7a6d1e81e42b26fbbd88c51e733f2f7783420914641393da73c67",
+      "url": "5c/f2/ba0e277aba8b03479a6243e6abba03638a9735fbd1fa99af773a6e9cec0e/ip2geo-0.4.tar.gz"
     }
   },
   "iperf-graphite": {
@@ -21421,6 +21429,12 @@
     "1.0.6": {
       "sha256": "a09e5b062a2755090f86f4225cf49b08fede068317fddd6100c7214154efabad",
       "url": "c4/90/d06c8da94b568acde2cccd4ad16e9383415f1757d76792b8d1d8e1b7a920/synthaser-1.0.6.tar.gz"
+    }
+  },
+  "t0b1-distributions": {
+    "0.1": {
+      "sha256": "3eceb7e90fbfb29b5f295c1fcd7a8d642f26c1cf46a9207b7034103b57d9f053",
+      "url": "bc/99/9c1ddad72e064cae7b06ef14b66c3304bdb6108ed545a00c1af29de106c9/t0b1_distributions-0.1.tar.gz"
     }
   },
   "tablereader": {

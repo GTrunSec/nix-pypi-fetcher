@@ -16257,12 +16257,6 @@
       "url": "e2/9c/7c8028ab6521bb21dd32d7f27e5218b6feb0aaf02621d110ce38e369e708/py2loggly-1.1.2.tar.gz"
     }
   },
-  "py3helper": {
-    "0.0.2": {
-      "sha256": "8dd2f746b3c4044a4d70b8f40ec1ed630d93e43b0e9d3238c23d46f42a0c7cae",
-      "url": "6d/4b/e27dc42dc970715ba0584ec25088e9ab7cbd699bd2239d235afdc9b8e621/py3helper-0.0.2.tar.gz"
-    }
-  },
   "py3t": {
     "0.1": {
       "sha256": "6482dccaa2234cb21a6d48fe635392b65f1a4247f6539cdaf867e80dfde03815",

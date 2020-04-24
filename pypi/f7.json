@@ -1679,6 +1679,184 @@
       "url": "06/28/3b38d92c8de995d55405b50ba54157005a1590d58efe8076671891d373e1/arcapi-1.0.0.tar.gz"
     }
   },
+  "argh": {
+    "0.1.0": {
+      "sha256": "38cfb093f1bd4640ac45e2446a74a185cdc928d4c334be4350cec1dc96c5547d",
+      "url": "be/28/be0930b1a6d6e7bdebe4cc19e6b51d715d68612a58ca385bf3e24e54df66/argh-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "3a25b40680f58f789a0bc6d8d01ba98a28a4435ad58c025412497b5d60fb94e7",
+      "url": "67/98/cdc2878e45ddacbf82a3ab03f586098e306bc29ac4d1ca136ca1b56a55f6/argh-0.1.1.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "e2d1d3b2f035978594070623877122bf610dcb4505863243f922edf29c4b28ee",
+      "url": "0b/ab/6e576cfbfe6a58f65558c94b8fdbb0152687cdcb99727309dc2ffa6817b4/argh-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "b6b8db39cc6c5e89e177e0d21c9ad9ad0b2ae5dfe582ca0e9ece70324c5cf2b7",
+      "url": "46/70/2461d857b2b894bbdd5321811afec20dda4ec62bac23b3d695c5319d85b0/argh-0.10.1.tar.gz"
+    },
+    "0.10.2": {
+      "sha256": "292936fae4c11abee73a4d329c80d5d94ead6fd049f426930cbc108372da4ab8",
+      "url": "8c/a5/5701c445b4242373636a7f7487d8a6fbcf8f00cdeb5eeb93ce53b9227aa4/argh-0.10.2.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "8d044fa6dd612201384be11f8ced7505576de8b9916f76cb953da297fae56b9d",
+      "url": "ac/5f/f69e7aae649b295fe49e15f5fa0ddf0ee6c32f75dbae33c2d9152f6fe060/argh-0.11.0.tar.gz"
+    },
+    "0.12.0": {
+      "sha256": "2115cfde5278a4336c742afc2ad13f5307250d3d96196861eddd62c0db433d19",
+      "url": "3e/67/edcb0dbc960533a4c9f1099176b859976628aa726813fb107dae35c73621/argh-0.12.0.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "5c11268e0f539ecfd54da1966ca7815c2c35e28b13a417e8508e9c5f6a4019ce",
+      "url": "a7/63/7efb5c7095c8eb919a206b586c18d67aba154b4f9d16a20be200825841d0/argh-0.13.0.tar.gz"
+    },
+    "0.14.0": {
+      "sha256": "2ba8b236a45d029ba6e4ed032cc6543103da07babd4702f44fbeabedf179142d",
+      "url": "62/28/fdf473e6379b6425e2392544d1729df281d95962cb254021331a3b5fb762/argh-0.14.0.tar.gz"
+    },
+    "0.14.1": {
+      "sha256": "8ba311c98469e8e37c758bdd66a9ac64c5c25a33e700d97ccb3c6df1e876d590",
+      "url": "3e/7a/f2ea9e201f5dd20748b88fb8b12f8fa86133e4f63093a74c7955467ebd35/argh-0.14.1.tar.gz"
+    },
+    "0.14.2": {
+      "sha256": "d103847e93693de6f76c4bb5741e20ac9639adc6565ff97078e658e17b598440",
+      "url": "d6/88/8f690ca9ed5d352d4425833c3aac9003a2750755d0469202ff5e49fc206b/argh-0.14.2.tar.gz"
+    },
+    "0.15.0": {
+      "sha256": "d51abf9034ff5c7d9b76603fa06ac098c009520e9b9fa8d57bb45fc159b4723e",
+      "url": "bf/9b/a2e9e141d7bafcabd3f0cbe634f4036ab5692989064976c8aaba7bd52368/argh-0.15.0.tar.gz"
+    },
+    "0.15.1": {
+      "sha256": "8cca1201af8c15b7e77577ecddbca7cc867f943cb0bd2fb5c38461662b1aa80b",
+      "url": "b5/cd/791a863ef32df45bb0978699091cfd2217580ece7004344b5951864e9e4a/argh-0.15.1.tar.gz"
+    },
+    "0.16.0": {
+      "sha256": "97588a444b2a44a48e6d37b98850bb1a86f9597d2a355f4bd4b89e6107f4b43f",
+      "url": "9e/c2/35e8a695afe6b6679afbf0498cdb817b4fec0fc14eeef2c57cf59840fcd1/argh-0.16.0.tar.gz"
+    },
+    "0.17.0": {
+      "sha256": "4bc98ebf84d098254c428c2488c68b69062c15e60635f2f96fb7ac69b68f5b64",
+      "url": "74/54/8de0b3e6464004548b1c7f563f55805b6ef352f7b328bc6b0179d0fb0fff/argh-0.17.0.tar.gz"
+    },
+    "0.17.1": {
+      "sha256": "a986df3d68887195eb749fd0176c51f06927fe98e2a74ca4f46c5f3feb9e5e01",
+      "url": "b5/73/c61719943be862d0cc90d1cd6f8aeb0d84a582241e1b8d28ae59329e9eb2/argh-0.17.1.tar.gz"
+    },
+    "0.17.2": {
+      "sha256": "bcc8f0b7b2173abaa8558746a71910de2c718ef758f7f17742e884482ad436cf",
+      "url": "55/5b/8a4af5b9d37ac4cc0358522bb90fda909940c12e303af489ac47fd72c5f5/argh-0.17.2.tar.gz"
+    },
+    "0.18.0": {
+      "sha256": "ea1100b156a30a475c61396f865aa42d9d73f8774eaf549d1cc50d97f32ecd38",
+      "url": "23/a2/aec5f0afe10bf96b42d30138943abf998052f74566eb609a45529fa5106b/argh-0.18.0.tar.gz"
+    },
+    "0.19.0": {
+      "sha256": "c8ec632a474a2da5520512a094fcf18bf21f81258ece9b9112f74ebf3c667966",
+      "url": "06/89/ed132ab64b3d5d212784fa74e66062d472fd8cf20b085005f189487415af/argh-0.19.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "bb20b3ba93731fddab8295afd2bf51d20e5144449e5869ab548fc692ac0f1dbd",
+      "url": "7e/ee/932087bceaa5b7309ce23c123aa42136f4d067362fca5f4a1773372fd0be/argh-0.2.0.tar.gz"
+    },
+    "0.20.0": {
+      "sha256": "fdb6d71c950ffad6fd55f881b1bf18c40e5d944516d3cbebf83ae918158cf1c2",
+      "url": "c4/b7/643b91e5470db194aece60e912dc873fd2eb81b3a6cf71c44ac227244428/argh-0.20.0.tar.gz"
+    },
+    "0.21.0": {
+      "sha256": "4fa89191de9a288b366127d6a741d72cdc34e1d4799c00e0f3abc2bda937b008",
+      "url": "eb/87/f44a874742712f5dcac0a07a0d4433ceeac143a36744c7a400b2b318adb9/argh-0.21.0.tar.gz"
+    },
+    "0.21.1": {
+      "sha256": "e3500eb98e971c0b830930ac4fa2780bde6aa45e489bbf450cd4382e20c1b6e0",
+      "url": "4a/60/978afcb3cde0865cfb8b8e606196fd72e20db066bc01aeede9cc10ebf025/argh-0.21.1.tar.gz"
+    },
+    "0.21.2": {
+      "sha256": "8b63a96c7c281eb29921e3c112735b16ca7efa9f4b574e90cf5a54190a02e86d",
+      "url": "8e/38/e46e82b2910008637d1ea3ad7a36abfb5c7375ec8d392c32b4d6a8c4ec59/argh-0.21.2.tar.gz"
+    },
+    "0.22.0": {
+      "sha256": "ec529c44892a0aa180b2a820e643ae4d9d0a649f11991a14026b25df89cfcf7a",
+      "url": "a9/56/d14fc22faea43c5cd2e64365b5989bf007fd85f52835a89f2b1d1558cac9/argh-0.22.0.tar.gz"
+    },
+    "0.23.0": {
+      "sha256": "16fd55b9ad6f7ede93c266d70772b7fd04c60fad1deb6e897a25ef86278ef176",
+      "url": "72/d5/a90822fb6a0dcea521e3a98799b2a2b82381033159d301b14bee3f0497f0/argh-0.23.0.tar.gz"
+    },
+    "0.23.1": {
+      "sha256": "319f323f6e0a37206fc161b915c40820c74f08ae77e4721de5911d16e54ef8c9",
+      "url": "27/40/3d52868081902a3d6771d51911a8ac1397069d806ea821a4817ea9eb2d8b/argh-0.23.1.tar.gz"
+    },
+    "0.23.2": {
+      "sha256": "7e7b41f7d6156da42e9643deea78fff09adb80672cd4d7e3da6d12a27d94407b",
+      "url": "94/7d/aa2a9e329e6f842702021549bf263ae8756015f03325ff9960774f057104/argh-0.23.2.tar.gz"
+    },
+    "0.23.3": {
+      "sha256": "076f27ed25f64339186810075c9eb2aa5121bd330851d42639abde17a9b9774b",
+      "url": "1e/cf/c3d7d4508d67303bd25d81360fb798d2cf4aafc3d0c78cb419dd8fa8d8ad/argh-0.23.3.tar.gz"
+    },
+    "0.24.0": {
+      "sha256": "0355c715915b66740a53a8ff687f4b36d7ebaff1460cf861333ce2690682adb7",
+      "url": "de/24/34cdb5ac902e9597b2d485a48d90fc8fca6a206cbc1d20c20aeca45149c5/argh-0.24.0.tar.gz"
+    },
+    "0.24.1": {
+      "sha256": "4980eb11339c9954885b8e44a1e39a4a1c114b738a7d8942c08494f4902f82a9",
+      "url": "f9/73/4b8596f132b7454316549cf48d703ac62d7530944934019420dacb495b44/argh-0.24.1.tar.gz"
+    },
+    "0.25.0": {
+      "sha256": "f55f004a9077db0abc50e8ef5c0e0d0e3573b4a1c8365439c8186ca69197ff33",
+      "url": "52/e8/4c92778a604cd0cb4fe7e5498c46bf0402e4df2a83d75a8539df1e461cf1/argh-0.25.0.tar.gz"
+    },
+    "0.26.0": {
+      "sha256": "3417619f76d18cbb2d19fae4ad27a8ecf1432b22fdf8834df77cf1a1c86716a4",
+      "url": "61/49/03372baf7524699234c82207906d1f069beffaaeefb45e2fc41655de7cd4/argh-0.26.0.tar.gz"
+    },
+    "0.26.0-dev": {
+      "sha256": "0db59da20a3f6076a37b1543627f365dbbfbff0a8b193130b77f7eb8552df62f",
+      "url": "c3/f7/54e01e3820c4a69b8e781ff98ec7ebe7add960a39a56ff39a1ff0e4b7b56/argh-0.26.0-dev.tar.gz"
+    },
+    "0.26.1": {
+      "sha256": "06a7442cb9130fb8806fe336000fcf20edf1f2f8ad205e7b62cec118505510db",
+      "url": "14/7f/794a7f4a48cba505a4b4c714f81fed844a3a5f7340b171f448711439b09e/argh-0.26.1.tar.gz"
+    },
+    "0.26.2": {
+      "sha256": "e9535b8c84dc9571a48999094fda7f33e63c3f1b74f3e5f3ac0105a58405bb65",
+      "url": "e3/75/1183b5d1663a66aebb2c184e0398724b624cecd4f4b679cb6e25de97ed15/argh-0.26.2.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "2bb544e0d6c229584d1f3aa6ce138d9a76991035d4df695b6d2f3bece52fd05f",
+      "url": "42/8e/c55b4e23f5947fcaafcd4278c93deceb37dd416e6dd28059fa18693488d6/argh-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "aeaa02b7deb267f5f5974d72acdd91139986aef5a3a73152d626f85116f7de00",
+      "url": "ae/93/f54eba26c8da8bfd46cf03f4e8718b7c85201bf4ec4d0c2cf4c563b1fbd5/argh-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "faaf90bffac7c66fae3f48a262bd9f6dc372a16609192504181206e99469427a",
+      "url": "20/e1/34530e4d3ff7cd477028bee56d486abfa20cb0fa3a5cce111b1853100cf3/argh-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "efbb0fd59f888437523b66ddcb8909c0e7efbdce9f47aa84ec4cb14af56c9d49",
+      "url": "3e/0b/a6478acd7122c6a8e7edfe48ef14c6be12deb4d9a04c8f8e1d743ae85079/argh-0.5.2.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "945ef72aed6612644ac33a74bb4ee758398af5996f2c162220740e9cec0e9e6d",
+      "url": "94/48/adae66ac425ab49b3874de7db76f4b417f11f9a5605ec8e1fbccb9f0e5d7/argh-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "48c9ae3ccd03e0cfd61d1b113a8268b2119cf0a4526421e5b8096d1442c354f0",
+      "url": "3f/3c/3999bd29ae4c1a7216a26505a236282dfce6c26eae539e77eb15b5b15025/argh-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "8c9c579440bdf0942428728631b8d821b6bcfbb9bdd7bde172d524d7f88be243",
+      "url": "dc/7c/4de4254f4b3e1972ea5775219ce052fd25261fb068628f46ffa5939897ba/argh-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "c3bdcd2afe2fed181b64175efa89a41996892dd367bb48bafed0aaa107f7f63c",
+      "url": "ef/5a/b1e18a8b168654466a0de59210f7cb32dfa0945d645500abd3920bf7daf5/argh-0.8.1.tar.gz"
+    }
+  },
   "arrowai": {
     "0.1": {
       "sha256": "96e6868793f8c9eb92203e810b658385ea22175f4a08503f8b1b09948583273e",
@@ -2267,6 +2445,10 @@
     "1.34.1": {
       "sha256": "6abd2a4463b4f1bf4cc9357a33ee7cec26cc9096f64e094ea13c1b9b94aace56",
       "url": "27/b0/ec7292ca9e783e2849c95f7297f72346db352e1d03a707f0900eaa51b763/aws-cdk.cx-api-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "b5524f125ab358a8d58885aa382063d701ee33356357aef78d4e52875fc6af80",
+      "url": "e6/43/c3d81e05dba2d8ee3d0defabedc0560c8a26780ec8a0c7042804cbb6655b/aws-cdk.cx-api-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "89d2b6cbd768833b9bec2dee08b411b347f65f5945713530c749aa3501fc397e",
@@ -4867,6 +5049,10 @@
     "0.0.1.2": {
       "sha256": "e5b85ca0f85cd2f841b4ac720e0b6f8fd5c4b87e223f26c60a6a5c66f7f47d8e",
       "url": "34/a2/22fd85dd105361a38eb755beafb976fc3452537cfc5035d1b536e6411715/custom_color_palette-0.0.1.2.tar.gz"
+    },
+    "0.0.1.3": {
+      "sha256": "fdd546ad62a977bb12720785fe49efad1ba0285c6f151d40fbd20dc91d5878f4",
+      "url": "67/f1/e87f045552f3340d61566920fb4089c1c3f8a0dcfb17c988f0e6732cdc4f/custom_color_palette-0.0.1.3.tar.gz"
     }
   },
   "custom-git": {
@@ -5165,6 +5351,10 @@
     "0.3.0a0": {
       "sha256": "7ae7f283f9455839da7e4b52863caa8ba439c00d4c2f6b1c1ac412183e63eb7d",
       "url": "09/07/67f5868bdf39bf0ea49b3d9fe80b5b74d06c857e6026f5cde8f8de5ef127/dart-fss-0.3.0a0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "380529b76820703d9b1a91578c65dff6e16cfd34e28db05ca6ac11fbf22dbd0b",
+      "url": "be/42/b4132f0112ece07b8a2c0d996b86d3e3dfea8435f8822078c327db502ccb/dart-fss-0.3.1.tar.gz"
     }
   },
   "dash-html-components": {
@@ -19589,6 +19779,32 @@
     "0.2.0": {
       "sha256": "11a7bea924146954a9836f0bce7f41b6580c19657ed273c1ffcf2c2fcf1eebff",
       "url": "c7/e8/86c768fa558661d05f91841b97bbc60dfd24d56e9b6af5ebf85c75db1bd4/pwh_pyramid_session-0.2.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "f9263c551b0ab84e3c778241f4f91864788b913411e6deeadf1a96ca963cdacf",
+      "url": "a2/75/c24d9b90caa9b257475a6cc6d94f26142ab45cb5687d2ae36d566b18fffe/pwh_pyramid_session-1.0.0.tar.gz"
+    }
+  },
+  "py-hangul-checker": {
+    "0.1.0": {
+      "sha256": "976501d1226d507b313183cf2374c82ebb2e01e70492e56a73ba00971e8daca7",
+      "url": "c7/c0/52a58c09ff18ed89bef79d020db6dd6fe503101fa214790e25f051af93ba/py-hangul-checker-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "a2bc824441622b036ca77c9fdedfe9d1cc61b0fd012571880d802dea1e3721dc",
+      "url": "fe/db/7d2667a88216309d8cc7ff5cdc8fc4204ea23d975888230c310653e268c3/py-hangul-checker-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "390b78d66ae606eba41c1c6cd6311b90f5849aa57d8c37ae2e6fbe16014497d4",
+      "url": "3b/91/fc0fe2b4d988c7e728add5f2fba1816fe23275df3b71ab04752ca7ec0f8d/py-hangul-checker-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "6035202162a40dbaf3358aad1b032e7a3f45a8f055fcc8ccfac45eb13f9dacc9",
+      "url": "fc/5f/61fd3ccca4b387116db4750ef933f8da99c5f8af58d70f7fad5ca6540700/py-hangul-checker-0.1.3.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "7155c5978158474c71e4b58411a691e4a5a7614c15e69a2fcc2f678a4b4e47b5",
+      "url": "5d/13/fa9abfc53a548d36624e8b355448ca0eb87d1eb7aaf8cbb2f5f9c19cd493/py-hangul-checker-0.2.0.tar.gz"
     }
   },
   "py-jack": {

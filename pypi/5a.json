@@ -2404,21 +2404,9 @@
     }
   },
   "cengine": {
-    "0.0.1": {
-      "sha256": "573d9dc86189f3b61e2393be697ab62af4e3b5eb15fc59933c7773f4d5683a60",
-      "url": "ca/7f/bc76a0a8cdb917d587bf2d7d991e33f5fcf0d73c7bb1e6ae05cf9da5b171/cengine-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "71cfa6fda21d9a377fbd47b170c3a9f9e74cb3aaa8db7af5d9ab0a98d1bb0645",
-      "url": "72/db/86dd680a9cf944f9aef372478553b16393e6a91796d639b3d5eb7b552e34/cengine-0.0.2.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "e7e57ce6eb86c480ce8b7597c9f69d71333f15ce275218374117f06c26046705",
-      "url": "24/09/71ad0d0c9479dedb808e14ed9def252a4b35beff52a7241ae14c0d71fb37/cengine-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "932652ccb2c6590e674f1c0c3c82fd6b37fd91ffa58356ad6be8f6634c27758b",
-      "url": "bb/49/77772e66ad8b3cfbe678f2d54497bd05088b396aeaefbc360635e0210c02/cengine-0.0.5.tar.gz"
+    "0.0.11": {
+      "sha256": "570602f4ad5af68109ae487ed0426a2625b96e21ae0e25943155812373724470",
+      "url": "c3/bc/08b51b4d89aaea268ca3925c6d2936b07f309a653765c582e719abd2606a/cengine-0.0.11.tar.gz"
     }
   },
   "chainer-watchdog": {

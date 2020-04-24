@@ -3127,6 +3127,12 @@
       "url": "c5/7f/33858be8415afdda144479faae76e91e12880bcee5792f383c218ee613a6/clyngor-with-clingo-5.3.post1.tar.gz"
     }
   },
+  "cm107-test-pkg": {
+    "0.2.post0": {
+      "sha256": "e58b47121aa956917e11830dda2d060eb18dcf0189f1a1866b330f1e914f1e15",
+      "url": "2d/81/ae3f691ad40e8c2700921b5a42112a5895483f04e5f8b094619c92460e28/cm107_test_pkg-0.2.post0.tar.gz"
+    }
+  },
   "cn-treasury-curve": {
     "0.1": {
       "sha256": "50a94169059aa6c27cdc4a4e617b6276fd0bf2c9aebf52824a6793db6a31b2a3",

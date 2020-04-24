@@ -12702,9 +12702,9 @@
     }
   },
   "musicpy": {
-    "0.1": {
-      "sha256": "b2d6e97092ef9af8e4f02bc174cca999cc7bcf6c0b6d23472de28a9465ee9e65",
-      "url": "b8/7b/12c981578f141c96a321d4e0d0dd1140d7376411c8d322e54076f4b00d94/musicpy-0.1.tar.gz"
+    "0.17": {
+      "sha256": "7a83f7b667fc040416770d671b9dc0fb2f81809c227711014ad9eecf4703f616",
+      "url": "f5/40/a360a3a9c6826eebfb27bce5bd42903d26b05fa98dd4226e8b3793494dd6/musicpy-0.17.tar.gz"
     }
   },
   "myorg.mypackage": {

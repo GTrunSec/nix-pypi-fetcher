@@ -15513,6 +15513,16 @@
       "url": "75/61/2b960d309157857e564e7eb305af6e851d080e253dc1405f437b0c1d75ae/intellilog-0.0.9.tar.gz"
     }
   },
+  "interrogate": {
+    "1.0.0": {
+      "sha256": "36bae3dfc32ca7ab02496e005eca68bc1cabd6be8025d75f404923d50133f744",
+      "url": "7b/d0/1ad882c2e611fcb809cc2624454f2488f7758c2b4ce7ca8a8df1a6e796dd/interrogate-1.0.0.tar.gz"
+    },
+    "1.0.0.post1": {
+      "sha256": "a2961ac59f9f68db9c66a82b59807ebdcc1ba9f36648854ea2f981c8f1025238",
+      "url": "7e/d7/cd9899dcb6ca643fc209ccaa84a99ea95a52a897a8602c52e8c96d054800/interrogate-1.0.0.post1.tar.gz"
+    }
+  },
   "invogen": {
     "0.1.1": {
       "sha256": "27a4d1d1a84ed067babe06deff3b13298457113c9a59188c56b4d298b438ce80",
@@ -22703,6 +22713,10 @@
     "0.7.0": {
       "sha256": "a3fb5725fa700515dde5d4659bdfe693eaca7037fdf41c9038c6fcfb76a076dc",
       "url": "35/25/a94cd0c11fb8371b35c3c899eec9f5e640f278dc2e401378c7855138ba5e/ps_eor-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "2d741ee81c05e26cd30863a44ae50465892b59a43f2a41a0d1d3c27ca985423e",
+      "url": "2a/96/84fab5bcc5f188b6adcd319450f8193d75daab3fe310219e91d929b54379/ps_eor-0.7.1.tar.gz"
     }
   },
   "psltdsim": {

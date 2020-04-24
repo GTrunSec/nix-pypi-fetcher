@@ -10515,6 +10515,10 @@
     "4.2.0": {
       "sha256": "511b2c20842d812d4fa03d70e4264147dd7fd6b88ee0819e502934329c4ac454",
       "url": "56/ed/aac1e3c8f7dc3339912cc893465b9277370b4d23d87095b8d6317f9a4fb0/googlemaps-4.2.0.tar.gz"
+    },
+    "4.2.1": {
+      "sha256": "a5885c219158a15e4ca67e08807a32713953e0471762e2d1e6ddcdaabae7df47",
+      "url": "11/1e/577a8df481894d5ed944dbc3a99d07639254457e0ef0d30a9ffef810bbe5/googlemaps-4.2.1.tar.gz"
     }
   },
   "gopass": {
@@ -25917,6 +25921,10 @@
     "0.16.2": {
       "sha256": "ae2136c7c945e7abb32b587c94b9414acc3a1dc340639e93013a82c33feefbd4",
       "url": "5d/18/b9132167384e06a9761077c125783c8931051c826a28b378d6e92fcda638/torchio-0.16.2.tar.gz"
+    },
+    "0.16.3": {
+      "sha256": "2a02f595ef262f6cc7e9a3dfc6b1aad0f14f26fb94661bad05c669516335c184",
+      "url": "dd/3b/b55e280053d0ac16ef962bfb6427c90475857f0c2dcddfe51acd150dae8c/torchio-0.16.3.tar.gz"
     },
     "0.3.0": {
       "sha256": "96a7bf1c2735bf37b49c789250799b9be37fcd2956491fcf8aa1af40f7ade10c",

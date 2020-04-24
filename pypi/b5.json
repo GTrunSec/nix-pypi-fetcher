@@ -8976,14 +8976,6 @@
     }
   },
   "fcmaker": {
-    "0.2.0": {
-      "sha256": "c68becca3fedd292e0f3175e044b34186d71d50d1735d4b4569fe5cc81dddbd6",
-      "url": "08/64/3e07d5dcd69fd73d9b4180e66fef931cb058d6260f14ead12e1ff09aa2fe/fcmaker-0.2.0.tar.gz"
-    },
-    "0.2.1": {
-      "sha256": "1fa94a5cc3b8f435287af3422e1b2c48dda1516423c00287903cca22cb16beed",
-      "url": "9f/19/c52060ea78a9ff29f539f741e96f0c98a0f6923c08247011930e2f2d7708/fcmaker-0.2.1.tar.gz"
-    },
     "0.3.1": {
       "sha256": "420e414f8c80c860b7c8b425b9c8e59bf98c792188c5a6c4131b474d77febfb6",
       "url": "09/54/8db052f39148a0b2fd9784263a3971cfc3fc5cc4f9cc5e76f3375d80f0b6/fcmaker-0.3.1.tar.gz"
@@ -9031,6 +9023,10 @@
     "104.0.0": {
       "sha256": "10751f8f29df1f08a5dade5e1a1f047bac332da7ef44092cc3035366a622ca35",
       "url": "3f/a1/80d74691081120ec85e210e47c94fead5430e10fb35854081a3d6b7850de/fcmaker-104.0.0.tar.gz"
+    },
+    "105.0.0": {
+      "sha256": "986488e0f15dc202da23f36e6c9faafb0af6fd249af64fcd8779684c8accd3da",
+      "url": "59/86/fa30c5407b6286e213d5dc5cd6c69c63fccc76e6f5d65160e5c96dc81dde/fcmaker-105.0.0.tar.gz"
     }
   },
   "fcmcmp": {
@@ -11347,6 +11343,12 @@
     "0.1.1.dev0": {
       "sha256": "65bc06e8791f69b80798e11307ddfa4724d03ededc8dac81ae9c6000b34bb44c",
       "url": "6e/21/9ec0e80c1df9125a4fd9d66cdbbf043268f968b9981d73eb9b2a79dcd7c2/ipy-distbuilder-0.1.1.dev0.tar.gz"
+    }
+  },
+  "isbesttool": {
+    "1.0": {
+      "sha256": "7a1111face4c669c17d8999eaf638416ebb6acbee298a6642974f2e371bc28b1",
+      "url": "40/c4/d4f8bdc9ab8bfc0128627fde616f2cfc77dfe00a7d13892960d78174b017/isBestTool-1.0.tar.gz"
     }
   },
   "isclassmethod": {
@@ -21401,6 +21403,10 @@
     "0.1.1": {
       "sha256": "48a8a0b183a44b3989a3e9aa06e132966850cb3cb2536a44a5c56ccecc8b4783",
       "url": "db/94/5f54ebd098835ad8c380b8dc470df476c25b6a7ede8c018b5bfc68f7110f/spamdetector-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "c8086352931d0a9c8d1f45c193b5c31543b01329f86265b879b9d441c12cb4a3",
+      "url": "3c/48/1d0656112f6c5c1659324b525d68a2d4449ae19d2dfab504137ca4989228/spamdetector-0.1.2.tar.gz"
     }
   },
   "sparki-learning": {

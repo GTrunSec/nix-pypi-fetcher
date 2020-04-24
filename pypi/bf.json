@@ -1389,6 +1389,10 @@
     "1.34.1": {
       "sha256": "0f838af024994b48c002eb1e7d74f9ccc14ba910d3556f55c7753580a6fe9fe9",
       "url": "ee/f1/02bc46627bc12e9d721667113a14a72dbfe4ef13d6bf34569a86d0b5fe7b/aws-cdk.aws-apigatewayv2-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "b4bb27fa440af7598d7797e86352433175b0db64a39f1bbff3f8f6823d486c20",
+      "url": "0c/28/56eaa9322ffcb606efb591148052f02b734286c5639d4e3ef7d2f52787c2/aws-cdk.aws-apigatewayv2-1.35.0.tar.gz"
     }
   },
   "azcat": {
@@ -11515,6 +11519,10 @@
     "3.0.1.1": {
       "sha256": "e2ef014c3240981effe5cc3939434d3121b66f7886e30839aa0deecef229c61d",
       "url": "10/9e/3f3cf20b7fc2ab1e3d45fd31347271bd79346c188a72f23f91202a2820e3/httprunner-3.0.1.1.tar.gz"
+    },
+    "3.0.1.2": {
+      "sha256": "2b7f908a8c297f213f1b3747701af24d14cf0c0a78331fb8df02a1c5f6ce1d5b",
+      "url": "f9/21/8d0155da23b1f4bbf9b13dbb4d47f0ca02651c79579739dba9491484b3be/httprunner-3.0.1.2.tar.gz"
     }
   },
   "hy-nester": {
@@ -13283,6 +13291,12 @@
     "0.4.0": {
       "sha256": "ac4397565111460b43746745a9ddef2b81046fc73313b5c70e0a8111db84b4af",
       "url": "f1/f8/6b78e3f3c63fef49c5c3e4c0d2f2304e7ad7ceef11aa92888a96a9a9d9f7/macrel-0.4.0.tar.gz"
+    }
+  },
+  "madblocks": {
+    "0.1": {
+      "sha256": "886d640252b5007e87aa35eda43b34d243d65fdde79d0ba22a4b3bef39f5976a",
+      "url": "d6/02/5a0b8bda30a2f8a4a1f2b588405f57f69784a313b47ced6bd243095d86a8/madblocks-0.1.tar.gz"
     }
   },
   "mapmatching-benchmark": {

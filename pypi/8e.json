@@ -6017,6 +6017,12 @@
       "url": "e8/18/5c60074b9f516507dc86f3094f046b8c23ad260e2115eaa209bf8cad80ee/DcPython-1.0.0.zip"
     }
   },
+  "ddb3cython": {
+    "1.4.255": {
+      "sha256": "82f98dec90737b26215bf2d211c75911c944761f16de02338ed090d3bfdcf45a",
+      "url": "db/de/dedf474940c64f83211d6333afced7792fa82f74642317d191d40912a8dc/ddb3cython-1.4.255.tar.gz"
+    }
+  },
   "ddt-envelope": {
     "0.0.2": {
       "sha256": "9f6284ccaa863d65fe4d41603182cd5c5e8ffd0ec107f6911f0857bc7f8cd4e8",
@@ -9789,6 +9795,12 @@
     "0.0.2": {
       "sha256": "68cf4b14912efdf9ab462f715460e11118ba21bcbfd2a2a77a8d2e85b396002c",
       "url": "b3/4b/51503c9cc7b6a01fe47bd59c270beadf993e90c911a89039a7061272f8ca/fenixapi-0.0.2.tar.gz"
+    }
+  },
+  "fetchhtml": {
+    "0.1": {
+      "sha256": "1b67be01f21cefe77d0f8e1b99b8adbece516e7c017f858693cb0dc0a2b7c4d3",
+      "url": "ef/3c/b6894630d52e976a71a40c9a8e8c30978813c1599eb377f5a6da96a2f8bf/fetchhtml-0.1.tar.gz"
     }
   },
   "fibratus": {
@@ -19811,6 +19823,24 @@
       "url": "0a/7b/8dfbdfa84c96c767878770a615d11e254c8c63c1da50306bf7f964bf0aad/orion.algo.skopt-0.1.2.tar.gz"
     }
   },
+  "os-scrapy-cookiecutter": {
+    "0.0.1": {
+      "sha256": "79e34db51cce05d5bf61cbb802a5506fa48454434d496efdcad78db794eb009f",
+      "url": "07/ce/eb7f89e34d968d5f0c20805dd98cf371bc0f37a41a129cd8ed097d99fe55/os-scrapy-cookiecutter-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "107f8665f2489aa9f480c3c5f237207624d54dda249b3c86d62c77c6d0e59782",
+      "url": "10/99/deaf80182b3824102fbf94c301f9fdd9eb37e8315baf7dd9e1d20585e298/os-scrapy-cookiecutter-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "b2c065b24c8853d2d033cd9a92a1299669b7eb0da1d56b33ee55e90cb5c905f0",
+      "url": "22/8f/b16d61b739c6a73f7f7b90d75533eac0393bffbaf2ef0eb3bbbea5cab4eb/os-scrapy-cookiecutter-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "fe52d65e89784d0f96fa4442f27043c7957ed4e9188fb5c207e17441737cfae4",
+      "url": "4a/92/12eff8eb75313ce17ff451ab8a30863c4c610b0b34bc47490505c1c88c1d/os-scrapy-cookiecutter-0.0.4.tar.gz"
+    }
+  },
   "oscar.flag": {
     "0.0.1": {
       "sha256": "6d627f1811eddfd02f81c1aade444b1c713496197e9c75e99842af56c42c1dd4",
@@ -22731,6 +22761,10 @@
     "1.6.6": {
       "sha256": "3ab5afa3934410fa79e0f20bc1ed62bb2432f05ce7d4435c474f8738e5bc2eb2",
       "url": "4e/ad/f11a034a420211e8aa5c0ed96f9db7b7b4bcf979d217bdf7a189c132172d/QiDataProcessing-1.6.6.tar.gz"
+    },
+    "1.6.7": {
+      "sha256": "db025c8849e09f69e20c13b715d838c6cd1f1c16afa3680bc869eda13258a100",
+      "url": "ec/75/82564a0d931748b38bca568444b58c2bae7c54401c6cc97bbed92326f2a6/QiDataProcessing-1.6.7.tar.gz"
     }
   },
   "qiniu-ufop": {
@@ -27456,6 +27490,10 @@
       "sha256": "24725d9234419fc89b1beb459308e63abb24809d4f600f659ba2e27ec1ce7327",
       "url": "ee/17/7ad236d8328f6cf663b57939818b586ebd096ad7800278a25e72d61cb53c/ubc-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "6cd2ad11302d79cbb36b7f889e2acf7e93f5c9e15aa202cec6d456477f821e5e",
+      "url": "55/fa/19e3c69e88dc8de1043f89937a667dd510ed09aad7711f0921854d732de9/ubc-0.0.10.tar.gz"
+    },
     "0.0.2": {
       "sha256": "5eeb82c427f040885a4e67a21b54e043c36e3ee5cd77813bca6996843ae4216c",
       "url": "6c/ae/8c244dd29239db14cea18f2114af9556f18c3ca174cac5789caae2590206/ubc-0.0.2.tar.gz"
@@ -27479,6 +27517,14 @@
     "0.0.7": {
       "sha256": "dc4ee18d51862b07fea53219d1d3b7aa1243fe55383abc07f03fb7c610695fd9",
       "url": "10/07/d94216493d039053628e0d123c51171eacc0ef1461dd94252578fc4b1212/ubc-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "203e3e7db900397cbe344136f59bbda1db2b7b2fe2bb81461fddf27e030666a1",
+      "url": "a1/ad/54f28c45d0aff9ae255dc2ab021399e8c416682fdbce7e32f2e80c1addc4/ubc-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "e5e39ef5b142310ae8188d4e9ed7fa616532be988b6da16f41dd33dc15f56a93",
+      "url": "7d/42/71a51dc08cb566934e9178d6f1b9da5adc7c72beec3252bb0dae22a65f2a/ubc-0.0.9.tar.gz"
     }
   },
   "ugmark1": {

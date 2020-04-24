@@ -5547,6 +5547,14 @@
     "0.7.7rc0": {
       "sha256": "d9bba32160408d611c7d93c3144fdf5bf644256e8c0ffd27d261bc49a055ba68",
       "url": "99/6a/c905ab210883381906a062503dc8540c9da1fd678ef7d88f0f147c82300d/dagster-dask-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "eb076d90ee6ca9f1869ece4941392eaacc2c6f6d26287c82bdaeab3141e717c2",
+      "url": "37/28/97357c32a5df9cf6caaff7e1d8d58833be104418c03f7f2826af81e33133/dagster-dask-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "5b5534358fafd514ff5930061989d7f15a68f1a3110bd9ba0e1b0a5d7fdb6088",
+      "url": "cf/53/d0d1b9f255ca3ddf6ff12d09e4f2e618c88510ef45b2877f609b643112dc/dagster-dask-0.7.8rc0.tar.gz"
     }
   },
   "dagster-prometheus-nightly": {
@@ -10445,12 +10453,6 @@
       "url": "6b/7b/9bba3f8890d0eb41cc02a6221b01ba058a908eca3a8d6bc58e76986c3b00/graphite_beacon_opsgenie_v2-0.27.3.tar.gz"
     }
   },
-  "gravity-simulation": {
-    "2.0.1": {
-      "sha256": "c3dcd6247af26059aa61b88fd2b83df4b6f3cf3dfa4fd9febd5d25bca7ff702d",
-      "url": "1b/d3/a0fd9688da4e69135304babcff181d142cdb242f36e50a69b850bca42a1c/gravity-simulation-2.0.1.tar.gz"
-    }
-  },
   "guniflask-cli": {
     "0.1.0": {
       "sha256": "0a6eaf4bd618fe6c51bc4ebef0e616ed2f96b7d2cd792f76dff6a9c9b6f2625a",
@@ -11283,6 +11285,10 @@
     "1.0.1": {
       "sha256": "5345523ef9aae9e39c002455ecc16de9b6e09f42f81369b1e4b267d7c917dbc1",
       "url": "2d/aa/59b993b2e2c438f235dc09f157f7528c314cd4ddb683d895f7df96ff90e8/InvoiceGenerator-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "6e3c08a70912246b602c2056604c6c62e1292dd2635b31a825706197ff5fd764",
+      "url": "0f/d6/5bc21a11e649db54304d22c8b7c3c6496d9c5e59da22ef3d39d977790bbc/InvoiceGenerator-1.1.0.tar.gz"
     }
   },
   "iodata": {
@@ -15279,6 +15285,10 @@
     "1.0.9.9": {
       "sha256": "2d05448670b20b01f1964fcbbee01aa5aebbfb75d8956f692d9fde68ab69fadc",
       "url": "f9/2c/708ba42a6c07c2afdd184f817d837fd11faef48bc5c88b519f74b668bab2/newtools-1.0.9.9.tar.gz"
+    },
+    "1.1.19": {
+      "sha256": "dc8d84c3ae297f3dc8bd64c968160c3ffddf38055e31c412754e28e0a6beae6f",
+      "url": "95/15/434677a42ab52faa3ed0ea688e6b14b63e267c3bb295d8b025bfe34bcba1/newtools-1.1.19.tar.gz"
     }
   },
   "nft-sdk": {
@@ -15433,6 +15443,12 @@
     "1.0.0": {
       "sha256": "5ead8dbd033c1f1c304315d07111200dc12f4b504560a0fd51fcb24c3621af2c",
       "url": "2d/8d/86046e90c4029878edfd0250d1c6a5a02d648c73f0baf8121a0d11468c30/nix1947-1.0.0.zip"
+    }
+  },
+  "njsscan": {
+    "0.0.1": {
+      "sha256": "559af9f5282bc3fa46ed0a18ff4e2138a7d7d123f88088ddf980b721e85b2c24",
+      "url": "10/4a/37daaffb2c17dbf0dc3f497ea13a4986624cfaf76eaf93c4ccbfdfcef332/njsscan-0.0.1.tar.gz"
     }
   },
   "nnetsauce": {
@@ -19735,6 +19751,16 @@
     "2019.12.0": {
       "sha256": "440a410a20eafeb6539885f0d26debee6dbf1c39178669476c6cae3787abd45c",
       "url": "2d/2b/5aaa5c49581b38b4939b76ce97221ff2f6e83079bed90e60c691d4e83de2/pyWireGuard-devel-2019.12.0.tar.gz"
+    }
+  },
+  "pyytdata": {
+    "0.0.1": {
+      "sha256": "feba0431e99cedffee1de601674e3380ecac41bf02b91b6b3e9c7f43c7072dbd",
+      "url": "3f/b7/486538b2673c2b34f46e645a32d7651e1ea56933e9ffa879bb54d7e3acee/pyytdata-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "9066117b820343149802ce0f979bcec9b8d49e81640e55ec67bfc61452039b77",
+      "url": "4f/1c/b5194cecfe5a2b63e1a6dc0678894fabdbc399a543f38a5a40bc5ff3be81/pyytdata-0.0.2.tar.gz"
     }
   },
   "pyzmq-ctypes": {

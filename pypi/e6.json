@@ -20667,6 +20667,10 @@
     "2.3.9.0": {
       "sha256": "bffe75116ae15abd0e0b6418acc027cb15977d7d8d1051f445dce24d70eefadc",
       "url": "ef/1a/48f2f852ab18802ae6e4ac2b7a1ee4c7dd8a9e291369d285dd6430e8533f/reqman-2.3.9.0.tar.gz"
+    },
+    "2.4.0.0": {
+      "sha256": "d20fde07ea394c3ce28dae0d12b97767e6c89c182fc7071d59b9722348976248",
+      "url": "fc/27/cff43d052d2a0d4e4693ce2b26989020c6ecbe8c1712bad51b4a4e221af6/reqman-2.4.0.0.tar.gz"
     }
   },
   "rfive": {

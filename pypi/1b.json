@@ -24661,6 +24661,14 @@
     "0.0.89": {
       "sha256": "34f3f864ebd6e3fb67279edad5f02a97d3f00e3219293de06bb9aaebc33d80ef",
       "url": "41/12/3dfbea1313c018ed3044c6a604914b98b2206b19086c1ff33975dcc13785/tableau_api_lib-0.0.89.tar.gz"
+    },
+    "0.0.90": {
+      "sha256": "d8d8c0230141623f8da2dcb2b460c76e0abbedf61a5d8b775d8961f6d9e61b94",
+      "url": "ec/91/eb5fc2caf0e79af7b4cf8db79519fe7dbbde3918c93392fa409d2a526de5/tableau_api_lib-0.0.90.tar.gz"
+    },
+    "0.0.91": {
+      "sha256": "72b7108790e76628898551d2d3f5cff640c6104a3421568c109ebbf52b53a64d",
+      "url": "0e/75/2a02b072b95204dcd508a2d04b67b7684826ef773bdb460d168f0b0cb2fb/tableau_api_lib-0.0.91.tar.gz"
     }
   },
   "tailon": {

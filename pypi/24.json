@@ -1658,6 +1658,10 @@
       "sha256": "cbe7f7cb3d61594fce0a2965af8e33a3696efa7417b5cf4453e035e84a45ca1f",
       "url": "bd/2d/143642af208f7760a6575bf7a43a331331be0ff1c85ef9be30b374dce13e/asreview-covid19-0.8.tar.gz"
     },
+    "0.8.2": {
+      "sha256": "3a468248b3afe8ca9da9fc5e4d33587827e90ebbf31a75c78a62a0ddfa84923e",
+      "url": "70/2d/550f18072d6fca536060036ac2aea93c4c4d2806a06a8930dd6001705952/asreview-covid19-0.8.2.tar.gz"
+    },
     "0.8rc0": {
       "sha256": "3384fc3cc24e6082ea36ddd17a7454f65752e535e310f78c512b184d1b7621ef",
       "url": "e1/ff/061ace79c4fa9df5e6c89e3fd729968b96e08a1ed6d1799aa19e9fb4e5de/asreview-covid19-0.8rc0.tar.gz"

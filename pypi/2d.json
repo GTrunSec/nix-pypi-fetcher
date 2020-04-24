@@ -5107,6 +5107,10 @@
     "0.2.3": {
       "sha256": "e3553d040dc822a5a16eb5137586d15b276f9fd9992eae82678d70339d202fe1",
       "url": "e5/84/0bd37b9cc0daf567a8223eb264505ad295c0776805fdc166a211f3f63309/django-scratchy-0.2.3.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "0f920e3c6dfb40aa7f8f60ae3a1bc67ae6d264eeea1a7cd53552f819fad03f14",
+      "url": "94/e2/7df96fa13d719ca4ad228ff75be3bcaf4ffca147e42cf5685d0c917b055a/django-scratchy-0.3.0.tar.gz"
     }
   },
   "django-secrets": {
@@ -9127,6 +9131,10 @@
     "1.1": {
       "sha256": "fbe593a7c8aa34df7d7bbb7994bae82c22af60d617e23be7dedc8276d7138edb",
       "url": "dd/4a/433acd3d22e65baa39373db95716bb1ed3d45444d44ebbffcdeb610c1792/i3-agenda-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "a587a893280d8bd074c77331203015958bb137e1f85c8a3f37631f4d16f95347",
+      "url": "3c/c7/d05522be2248dcf4358975b6284e5470f42022487eee15b21883400617f6/i3-agenda-1.2.tar.gz"
     }
   },
   "icaapi": {
@@ -14367,6 +14375,10 @@
     "1.0.0": {
       "sha256": "48f241a0c12d3e46978ad05244203d9fb7dbce25c0d0c2c7643b29a49b1c0aa9",
       "url": "75/c0/264ca4aaf5dd9b159a7b824c243c96b8d019357091860263fb3a7f354f22/py3dbp-1.0.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "422c22c8ea85ba51361c0017ddee599c5eaf91b2208a87ad23bb8f018a3fcda5",
+      "url": "44/b8/c0f92f2ddb891b1efd64d6490df23555b97facea29b8e4524254b552e2c4/py3dbp-1.1.tar.gz"
     }
   },
   "pyaescrypt": {

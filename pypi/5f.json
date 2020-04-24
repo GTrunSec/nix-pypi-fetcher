@@ -359,6 +359,10 @@
     "0.3.4": {
       "sha256": "8727691a5c568dd877cdd0ccf68b17abbd93c04528099c8944479ef3fbdd2f93",
       "url": "0c/fe/b0b13626c14673b125883b7a062b707d495beff424089c1f61f937c8c7ce/ai-harness-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "17a78700f665d1102d0954317df30e57f29e82b8bb562e94c1ded70bf75a6807",
+      "url": "bc/81/c564ae7004c4107d0fb0cfa1c20cf4804ff996f5dbafee40fd11c70d6efe/ai-harness-0.3.5.tar.gz"
     }
   },
   "aido-analyze-daffy-aido4": {
@@ -1737,6 +1741,10 @@
     "0.1.606": {
       "sha256": "3ce0860a07c1a8f6206974085009bc59ee2ea2fb48a0d09db540f6eec163bfa7",
       "url": "12/20/0a4343b52042c7e5019713c049b1785abd27288d433be5e9947934d62a2c/autoviml-0.1.606.tar.gz"
+    },
+    "0.1.607": {
+      "sha256": "218550b82da5bb208eeae7154eda0d56752f846bce6b1f57131dd77b6beb7007",
+      "url": "8e/e4/e134a7c6b4b4898c77fee7b0f1eeca6a9a704f77045f587b75dac6da259d/autoviml-0.1.607.tar.gz"
     }
   },
   "avi2mkv": {
@@ -3817,6 +3825,12 @@
       "url": "57/97/0c24134f6cb908f7c9fe6925256067ee7ee836e43f427c76c0c251cba5a7/borgmatic-1.5.1.tar.gz"
     }
   },
+  "bpasslh": {
+    "2.1.0": {
+      "sha256": "d3754c623b52cc85c3ce9879ecc7da4363777f40a813ea5d29609196dc822776",
+      "url": "5d/4d/4b679c1efdf67d94d8ea03c6ad4a4353feeec623a0f9cd4fe82b6efb210c/bpasslh-2.1.0.tar.gz"
+    }
+  },
   "bracon": {
     "0.0.1": {
       "sha256": "ac7ac0c840670fa957c374a5a077616190c0e71d9fdb5c85b4d07a76871126be",
@@ -5779,6 +5793,14 @@
     "0.7.7rc0": {
       "sha256": "1f1e17ea6310c85142a6d400307e5dfb71dd374f026c28815201751dd2ba6281",
       "url": "0b/aa/28d21cdfda3178c20115e3b2baa386604fec80dca236262c611e637c8221/dagster-snowflake-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "d6ff2f4c4844a5e43460889cce66da3cb6b72aa3e5be56301d65d6873b5f705f",
+      "url": "12/d4/9226234a866a063a648e794d947e5a3a895f2c764c59d47668b9ae5bc0d3/dagster-snowflake-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "21928a3a6252f3a6bd2d99c13901974fb075b8f85f2119f1291b8195c8cabb94",
+      "url": "a7/39/f027734e6ef86c58c6b28f5124a6df9a0b45d1dd46091fe5e19a0c4cd57a/dagster-snowflake-0.7.8rc0.tar.gz"
     }
   },
   "daijunester": {
@@ -7975,12 +7997,6 @@
     "0.7": {
       "sha256": "d2fab77a8e1b1fe5b8d808a14f310a044cc77a54bd603543f63157757f52aeb9",
       "url": "af/cd/68df48cf2750a265f8f47c9c01d53066db29ce615ce772661b1fa603d703/elasticity-0.7.tar.gz"
-    }
-  },
-  "elefthpdf": {
-    "1.0": {
-      "sha256": "fbbb7c97b218b9f3e9bbabf8a43b121756bb338859dd266b7037bffb8ddf5b6d",
-      "url": "9a/ba/cbd0952ecf5748e555153ec98919ad2c1766cf2d9252fc46f104a41651da/elefthPdf-1.0.tar.gz"
     }
   },
   "emsapi": {
@@ -25795,6 +25811,20 @@
       "url": "e9/be/baebc8071399b6a65c3a31fd9f9d8164c3aa0b88d10727e899a83f3e991f/testtools1-1.0.4.tar.gz"
     }
   },
+  "testwise": {
+    "0.0.1": {
+      "sha256": "e69f41f7e0c0de3dbda7e1774a3d60b974354dee84a3aaac0d067b1bd9fcae69",
+      "url": "84/25/4079c0a7a137d029b7395644369ef188228caa7129133dd3f275ae41db3b/testwise-0.0.1.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "f9dd0dfe329ad524f8a0d73812e3407bbf25e36308c68c5f193440369e9c2373",
+      "url": "c7/79/beef9dd6463cd1e5355a437461b2c9528dd49d1d25d124371be95e59d504/testwise-0.0.4.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "31749700b19df406b27a9f0acf21ad45c6adea4a2241e7e58cc449ce34566ace",
+      "url": "7f/0e/30cfa6167731c1ddc970676b7c26ff3ca0331876e5f2e4e05bee12183379/testwise-0.0.6.tar.gz"
+    }
+  },
   "textpreprocessor": {
     "0.0.1": {
       "sha256": "fe0686db3d215ae128fd4e1bcc55acfe5c8373d7d3e548a7c80e8fe4f964e8a3",
@@ -26283,6 +26313,10 @@
     "0.4.7": {
       "sha256": "dec2437db092733f41e79ad531cf555afa447f1adda72b1fa01d1b51048b28fd",
       "url": "f1/39/bfb933a9ec6a95f9d9f5368920537ac22e0ac50a3f5cd625688407e4fcd7/tqp-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "3586ae415543830bd34a9dd40771f570207185ef98a9a363ac3c2f6e55416ea3",
+      "url": "ed/e1/6609d3ff397383db2d37f1e60b9d65317e26a1710924c9b867187a619f5d/tqp-0.4.8.tar.gz"
     }
   },
   "tracmytickets": {
@@ -27885,12 +27919,6 @@
     "1.0.1": {
       "sha256": "12113425acbfe8b289f581a0f7a64c838656be671fee2e14d34ff162f525054c",
       "url": "2a/6f/9e34a5cb293619fc37911d62208bccc592804b8ce989b804468bde398309/zfun-1.0.1.tar.gz"
-    }
-  },
-  "zhuhegege": {
-    "0.2": {
-      "sha256": "907af0577958517e6944002539fac15a482e8f2030be5667ec5d5ff466815b70",
-      "url": "58/a6/62f311d025b559b543cfdfcc2ad0ef08fbfa1ea211732ebf8a9c6475ee9f/zhuhegege-0.2.tar.gz"
     }
   },
   "zipeggs": {

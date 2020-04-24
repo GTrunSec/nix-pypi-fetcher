@@ -11113,6 +11113,10 @@
     "0.3.1": {
       "sha256": "9d4251db6368397a51a3741563c9eb45f7f12a6dbad9444f61077318b06008a7",
       "url": "a8/3a/fa9525edb76265dd8d1beca35626dc9a90040c327b9c974a6bc13b1a4768/lm-scorer-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "9ab270b4dc70bbceefd03c3bde29d873bf45369136d9713f6ccf9bfde181dffd",
+      "url": "71/8e/e40f43d637b7ee0d602a3b16b2ae3a2c6d07aecc85f9a23cb2115f0a641c/lm-scorer-0.3.2.tar.gz"
     }
   },
   "locks": {
@@ -11627,6 +11631,10 @@
     "0.5.0": {
       "sha256": "890b1792b2acac9e322659d45630f14719993f5ae170429bbbfbaf4dd168e8ae",
       "url": "28/97/4563dbb3690749686b0561f64524ddc311e8129b5aecc4cab381be4d29b9/methylcheck-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "23c42da604ee83b74c236db446361722ea41c409356310220ee5cf9ce20f9b47",
+      "url": "1b/0d/eadb43d824a6011dac7ac42541ae1b96f6ddbb6b5bebbd76edc6c76078cb/methylcheck-0.5.1.tar.gz"
     }
   },
   "mgvestruc": {
@@ -14775,6 +14783,10 @@
     "0.20.0": {
       "sha256": "bf72d90805d4cc63a973581c6f41cb6e57398374ad88775d5b2844a934b6dd21",
       "url": "b7/45/b34134d31ca444286dcca6eaa9b29fcb7c98c0927cdf9742fd9aaf114d09/pygrappa-0.20.0.tar.gz"
+    },
+    "0.20.1": {
+      "sha256": "d03a44a809bd35bece6f4d06c98d0db5b852409cdfb8f71e256b0e94a25bc479",
+      "url": "23/48/c7cc2a5bec1e8acc7846f008c77abd510c3030df252337ab39aeccc6b7a6/pygrappa-0.20.1.tar.gz"
     },
     "0.3.1": {
       "sha256": "578a2dd8c3cf16887fb515a1f4b9b3e9d38e7f236c2152644028a21f7e5f3834",

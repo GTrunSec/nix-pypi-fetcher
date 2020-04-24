@@ -6673,6 +6673,14 @@
     "0.1.6": {
       "sha256": "79da68538255d0db2365537bf01eb3325a26a389cc20e9ab07fca0d38ab82867",
       "url": "b7/37/edbca90523180cf7de43fcc2cb956e34cd8bca40e106f63618f50d745453/django-handy-0.1.6.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "06002662eabd8e5097cc382e70087877d206ff6dba0542fc2b9f99764f3c0d3f",
+      "url": "25/14/00995fd013bddb70b031fe1d070515a6b3f3bbb6a3968ea3bc98e2bfd0cc/django-handy-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "d047f4921361acb659787e6fc33986e9e453b98fb88b8cdad710227ca9715fac",
+      "url": "79/d6/0faeccd9fc72a7a741ad53d73a61f2e2ee014394223a7fb7d4eb77e57b60/django-handy-1.0.1.tar.gz"
     }
   },
   "django-hero-slider": {
@@ -9471,6 +9479,36 @@
       "url": "4e/49/c45dd025cd77aa7c0a446f479bbb2060e99b3621d954d01a62fe8b41d212/Flask-Googletrans-0.9.tar.gz"
     }
   },
+  "flask-gopher": {
+    "0.0.1": {
+      "sha256": "8316f8d149cd5dca81ac024b7cb7cdf927fe960935c9f1a96893d10bdb09c56b",
+      "url": "df/7c/e1a540d6492c483a76f87c1a28339c24cc681eb687f807264b45f6e93187/Flask-Gopher-0.0.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "99f1002771fc62f9df9b79e038c3dabcbd1b2841665ec0686df6d3d3a5facef1",
+      "url": "d2/1e/7ef541a88176a95e6040bd1b73e0fa04bb1dbf5f85e3e213326a61757793/Flask-Gopher-1.0.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "310397e95d70ff47ab21624f4823ce2e1440200748969255c88a55223688256f",
+      "url": "52/04/c55b120d28d4885a73f3096725d9f33510877c7da57e29a259f90f10f8a2/Flask-Gopher-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "6d1c47803343f51edbd6696ccb452a7320fc6320ebaf118a5ef822a3cb55efea",
+      "url": "33/54/aacd51c0804f087c2268fbd05bb5236f00802a09a1c29393a446ffaac4d1/Flask-Gopher-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "68c85b951a5edc441bc1d98a1da034dca57df8af0b8486dea7c28a09ccb66eae",
+      "url": "20/6c/40a5d8981ca4db4e10edc83b4e927692b882b5007217176b18f06ba7dcb3/Flask-Gopher-2.1.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "23a1c692133c695ca82da1043ab39b78470d756f5d9d500e9a911dfe757b2b93",
+      "url": "be/62/379d442d1df7fcf3bab7ccd164a285ef757f78c82ae6be1958b08a899cb3/Flask-Gopher-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "b66842a912fc70c727a62f881f19626f7d067f04cf62c676a74387fd243b05bf",
+      "url": "c3/94/ab292d9fc3bc70ff2e46eef3c892b86d3e826725c4a609924d11f6ea9a15/Flask-Gopher-2.2.1.tar.gz"
+    }
+  },
   "flask-kale": {
     "0.1": {
       "sha256": "26f9d6bf885aa4d5a65d29ce2bc6de0d389972586e0d5f55c61655ea5dc358ef",
@@ -10211,6 +10249,10 @@
     "7.2.0": {
       "sha256": "ffa8ba2c0f1c8e8a21367e6f65cb8eeef2c3a6cf49b115cf25c5d92a9947cb66",
       "url": "ba/07/baa9124b365d69d3e9e0e099dc996f4a7fb7d66e01327a70133cb5d64373/frida-tools-7.2.0.tar.gz"
+    },
+    "7.2.1": {
+      "sha256": "db3a54cca9e2b3aff9187417251dc6f662ee4861e4b1432e1e6e745308e49dce",
+      "url": "52/4e/b5e53097b1c5a42c1d1116939f148ddcee18579ee2e41369106c75391102/frida-tools-7.2.1.tar.gz"
     }
   },
   "fs-manager": {
@@ -24239,6 +24281,10 @@
     "0.8": {
       "sha256": "474ef4a4c734f9b2a3100df8940979fa62f2ebf2ed0946372a5616e042bf88db",
       "url": "c6/26/bed5585e8308ecaef82fb077c311ddbda074393ab3c4a13fc6be27b53865/trivup-0.8.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "3a41ae82f2c38b176dbc05e2b16b3f901ab1ab47a5198f5ca963f8af1414e6b1",
+      "url": "8d/a5/946505469c145805cf6b83b7472556c96617722aa5490866a9eb1253bbcf/trivup-0.8.1.tar.gz"
     }
   },
   "tronapi": {

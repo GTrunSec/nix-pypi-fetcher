@@ -24421,6 +24421,10 @@
     "0.1.3": {
       "sha256": "a4cd9dc5744603786a04f386243dc23cdfc4ce01ed11ec96a529f30a66567b7f",
       "url": "57/be/ef882753c82079e58ff2b4ec4448632021a06ad0363ab5b2b6530a2e1403/veritas-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "f82008bc6e9a7a4bafdf58c684894a09f425352060cdf009827ebea384cfabcf",
+      "url": "7c/63/693f960e6a381f70a691479a326540a66706798af843033caed11c6f066f/veritas-0.1.4.tar.gz"
     }
   },
   "veriteos": {
@@ -24801,6 +24805,10 @@
     "1.2.7": {
       "sha256": "345b842268b48e4411dfb941b6387282c013730231d3ccd54b04030f93c4118f",
       "url": "a7/66/3bd231369ca661e76fa863546c2d7d8c73fd214fc018dcee37ff32a368d8/webtech-1.2.7.tar.gz"
+    },
+    "1.2.8": {
+      "sha256": "6d12bf9fcb2048984f825d6db8f7f1f1494e9a6c8de1ab33375f80e3cf1d2ba4",
+      "url": "76/eb/2066535250c39460b151865b35f62ca7d96f2adf0c99ae4a5d6e83f45f3c/webtech-1.2.8.tar.gz"
     }
   },
   "wemooagent": {

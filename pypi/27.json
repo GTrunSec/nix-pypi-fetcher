@@ -14175,6 +14175,10 @@
     "0.0.1": {
       "sha256": "21345cab4af725b1ed259a8c96a904a5c08c0b15fea18af6924dc9732fb240d0",
       "url": "28/15/07895178e66241def6880b9bc78bc5e62f1e29f0928aa30703674376e2b0/os-scrapy-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "117d2aefec4eb21f8ccda0077920b7614e072cec0b71476ccebda18262ab7c1b",
+      "url": "28/0c/d1b101c5adbb059cee09e24aa3a02dd78aed2cb2137a6efbf8e658268b61/os-scrapy-0.0.2.tar.gz"
     }
   },
   "osmapi": {

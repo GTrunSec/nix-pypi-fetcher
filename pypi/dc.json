@@ -4725,6 +4725,10 @@
     "1.7.0": {
       "sha256": "e2748a4dce3d600e803a804a1b5129ca87c04732074a93674e655b6e3ef65e00",
       "url": "bf/67/180063d23030570cb33ad85948264ffabec2bde0c10e3faad02670eec94e/cuitools-1.7.0.tar.gz"
+    },
+    "1.7.0.1": {
+      "sha256": "d9bd7cd5c6356865dbff69f3ea4cc835e675200923f1a57d873c418466d4e209",
+      "url": "4b/44/3b3219bd63a62df8bd9cf899ed98d9ac5e075dc22b85dd078e6d5031c45c/cuitools-1.7.0.1.tar.gz"
     }
   },
   "curatedmetagenomicdataloader": {
@@ -16893,6 +16897,10 @@
     "0.2.2": {
       "sha256": "c074a9308be3fe05d25e63070766a213850aeef0709a4624b2bcb61b69a63f42",
       "url": "b0/52/945d8eb3fa04964c4f59eea7d4408714dbe816843d8d86302f26394f9694/polymath-substrate-interface-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "e2bc24325674154f35614795c82892804cafd841ae0ad4fa7cfb752ec5de44b6",
+      "url": "0c/a1/d0c9cd0f94032d4c01caa8aa3eac0749b356e59f668c3e97b7c723a6349c/polymath-substrate-interface-0.3.0.tar.gz"
     }
   },
   "polypaths-planar-override": {
@@ -18583,6 +18591,10 @@
     "0.1.8": {
       "sha256": "7b9977df12d723b06eae7f406bf502e4239a96260371225a5c5dcd57aee5e634",
       "url": "46/24/20857ef4d90b108c28fb763ac64510b048f45c5689d3062a9e6d79317e55/pylogstash-context-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "31a7f313424924818658f726bed8b3cfab05dda36307909daaa6e3f6b34f61cd",
+      "url": "28/19/9656c966e62cd6429c413106ec84fcfa1402e9e4f724e84d160a8ec4493e/pylogstash-context-0.1.9.tar.gz"
     }
   },
   "pymatched": {
@@ -19423,6 +19435,10 @@
     "1.4.1": {
       "sha256": "9b64c5956789f4cac9e8ea2e0de6763dea1cecde1a20ae50a4b4dc5ab0ab6e42",
       "url": "60/0c/44b66c8e6bb4171eb5eda98cf5c7d43c14c0ad49c95245e2227db18af5d6/python3-nmap-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "c8e6ecf00162a8128f46acb2ef7ea7035fa6ee7acddd3558e878933af17a37c5",
+      "url": "21/33/ac8ee88f69ec99f2545bbf3f37bc6b7638e9e4e4d9e5654cb6cfac34d6ca/python3-nmap-1.4.2.tar.gz"
     }
   },
   "pythonanywhere-test-package": {
@@ -22639,6 +22655,14 @@
     "1.4.7": {
       "sha256": "b818e4d6866f190734cc67b82deb4bcfa0ae358d9272e6822564508845bc6857",
       "url": "3d/38/5af5f037ecf3876428763ea517aee74ba90193044279d6742e16bcaaae73/suite-py-1.4.7.tar.gz"
+    },
+    "1.4.8": {
+      "sha256": "5df0344fb1b3ced62e9ddaf87008af8f2f49917b267f07c3e3312d0b1e53ddbb",
+      "url": "fd/09/c1383bbe4117924b87489dfefae247b59ec4e52dbaaa0fe115ae42d70ccd/suite-py-1.4.8.tar.gz"
+    },
+    "1.4.9": {
+      "sha256": "0e47b12b12b0cc340041f3111bd3f71d13cc0b2a404ebdd43be8375661055b33",
+      "url": "91/69/dfb9f225d8272f207f21b773df08598db252e578f74062fd500a75661d08/suite-py-1.4.9.tar.gz"
     }
   },
   "supercog": {

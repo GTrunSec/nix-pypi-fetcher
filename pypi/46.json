@@ -17549,6 +17549,10 @@
     "2.0.1": {
       "sha256": "7e1544cb964f6ccf2b30f94519307f9db6476d4659bee6d3bbcf2bc169ba39a5",
       "url": "7b/d6/73d6a1a8841828207de22de95c1e41c1c89c175e8ac7f62415a2aa983d8f/phylonetwork-2.0.1.tar.gz"
+    },
+    "2.1": {
+      "sha256": "6b59d74b40b4fe8a8d71a508a7d60d10b8e1ae4262a89ab55bfb67b4e833c1ad",
+      "url": "10/bd/82efb601d7b243a2403c7b8e0f5802fbb047791db18c4914ba43405ef692/phylonetwork-2.1.tar.gz"
     }
   },
   "physalia": {

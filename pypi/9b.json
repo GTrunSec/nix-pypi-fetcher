@@ -1250,6 +1250,10 @@
       "sha256": "0eb4e706e137d5bec9a0e13b51433008ecbebaec5b760dcda9063166dd302598",
       "url": "ce/99/35c98b6f20efed22cf780d35dd273be09f4326779ed1cf4602e9fbd8361b/aws-service-catalog-factory-0.41.0.tar.gz"
     },
+    "0.42.0": {
+      "sha256": "7235aa00c0f1d17b8464fb3d58f21807636b8e8aae3d35fd37f4bd48ea55b810",
+      "url": "00/3b/985c6bb3ced7351dc147998c2cec708f3c27ecdea71b12d375a05f2406b5/aws-service-catalog-factory-0.42.0.tar.gz"
+    },
     "0.5.1": {
       "sha256": "71ee6fd87f69adc99712dc0df542cc9412c73debc1e9c811d0506a89d839d145",
       "url": "f1/b2/9af402af2257338fd567fb93ebb0524cf7dfbc2fcdcce6ce128b6fb8c1a1/aws-service-catalog-factory-0.5.1.tar.gz"
@@ -10323,6 +10327,10 @@
     "0.2": {
       "sha256": "ad28a1226501aa530620e66c597ec87c9742651c8bc3a7506b5a794346109701",
       "url": "22/1c/e6300f3fb1f241437548dc8cb7bd900e8421139012f7c271f8fb9d05d1f3/jcu-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "76d6890c234e14e10bae7a472a07fdbb0da7fa68b00801af99664a8bcecb4522",
+      "url": "94/28/c05ae502988d5b27a8385425b28afa47f317755eadb2e05abee3628190e3/jcu-0.3.tar.gz"
     }
   },
   "jet-bridge-base": {
@@ -20009,6 +20017,10 @@
     "0.1.1": {
       "sha256": "7eb7d9a72c453f5229fa2a06c57000433ef42939ff06effce6444485b6c12a60",
       "url": "d5/8b/c6fd36554297058ce2ab68c00dbc69f5271c9cb56dada4055cff3433c1de/sclblpy-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "3ab8b305bc13a709064c24751a29b9472fb57a333b6905f1395e50a71b8b32b5",
+      "url": "7e/cc/6572a50da3b15ea8cceed9ac28b6e1bc0d0a36352b1df685a02a0669fbf3/sclblpy-0.1.2.tar.gz"
     }
   },
   "sdataflow": {
@@ -21359,6 +21371,10 @@
     "2020.4.23.1": {
       "sha256": "156697e9c1d8d0237a7728fa0dda5eb639a226118bc74421fa5da043ce83b593",
       "url": "4d/2b/a8822df96e6d9aaa4fd6c7e077aa0ceea5652f56b579622420ffec2621b2/stk-2020.4.23.1.tar.gz"
+    },
+    "2020.4.24.0": {
+      "sha256": "705e933446c37b088eae136b37a8c83d8fcf2c00ad531df1beef82524960b9de",
+      "url": "b3/86/82361354f2bb82f1813d9f0efc7cdc5d8938f5199836f8c0946695a6a24d/stk-2020.4.24.0.tar.gz"
     }
   },
   "stochasticprocess": {

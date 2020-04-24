@@ -1316,6 +1316,10 @@
       "sha256": "d03cf400ad2d88fe6c516525a0ea9f9ca6d8d879d012801389d9c4af0a374d7d",
       "url": "2e/a6/0c4df80899515b4a0d39fbd04326b286473881df939133f5334e30ef0763/aws-cdk.aws-logs-destinations-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "e6bf180fc485928a0854780ef3e81d1f29d03677533118cb4c4ef67dc0194f1d",
+      "url": "15/23/fe6fb87a4e2e6e68a689d2c713870d59d28f767c258ab425a2809c88253b/aws-cdk.aws-logs-destinations-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "0d1d0b06b5cba7901059e9aa4d0135d8c09c981f513e5248de989a48af601af8",
       "url": "0d/5e/1a42fbdf445f04405d00402cd48b6077a71b33d78f23c640778d2da04966/aws-cdk.aws-logs-destinations-1.4.0.tar.gz"
@@ -11071,44 +11075,6 @@
       "url": "a2/59/e65baa0ba6aaa15ae882e050acc85c89e8e6416af539cf732932f6d879c3/h2o_kernel-1.0.3.tar.gz"
     }
   },
-  "hachoir-parser": {
-    "1.0": {
-      "sha256": "d5b21efcc0948f69e1c1a95e194c55974f51c9ee3bc5618cace8b2d735be91a8",
-      "url": "73/93/4f0cec070355a0c2c57b612817fe7911f2ccabbf0b07b828695624bc951a/hachoir-parser-1.0.tar.gz"
-    },
-    "1.1": {
-      "sha256": "a01b4717c4eb6df3ed0227cd59cdeaa530abc82811a6d0794790da15efc2e1a7",
-      "url": "3b/03/33f0a4bda7a03bec5fe201976928ebad8857dd73d194d8ae0932cae7f9ce/hachoir-parser-1.1.tar.gz"
-    },
-    "1.2": {
-      "sha256": "1ffea1589d01968579b4458a1677ad7367626aded717a5dab1ebe0d053cc1aca",
-      "url": "c3/89/7b9051087457f7a48fe72d78aacd9b4866db665fc515fbcbb70d7b424116/hachoir-parser-1.2.tar.gz"
-    },
-    "1.2.1": {
-      "sha256": "982c81f8bfbe2dc47b917ee959e017c236e73d2379f06030e34099c464cb9526",
-      "url": "a9/8b/32a7b43fc42a8bf852aa7cab0863153f53a9f06e9263affb86d66591562d/hachoir-parser-1.2.1.tar.gz"
-    },
-    "1.3": {
-      "sha256": "31c1afe635e5d7c6348fa43fc1241bdd1f47113b3e34f207bf10245c9d96d1bb",
-      "url": "b4/d5/836450fda226fef9e1a68983cbc2210f43f612147fbede23bab037679ebf/hachoir-parser-1.3.tar.gz"
-    },
-    "1.3.1": {
-      "sha256": "a3454ca6754354052e93d54db470ab6835d67eae254650dddd4c567e5f8bfd28",
-      "url": "0c/f8/3d6592713f8dfbf5fafabd88c5479077ebfe370c312a705a13e6eabff830/hachoir-parser-1.3.1.tar.gz"
-    },
-    "1.3.2": {
-      "sha256": "1cb7f137dedfceebf4f701da46b305fc9cf5a64e4d78264756c89e15847b6630",
-      "url": "7a/6c/821dc8d98fa153567249c34f1f41f197336eba25a80340b4b4620e8a1939/hachoir-parser-1.3.2.tar.gz"
-    },
-    "1.3.3": {
-      "sha256": "3f7dd23dcf785400c6f39d63012862755b22cac7586a8e206046fb20beee2941",
-      "url": "b9/a4/ae1d33b5015b5f1d3b139a9f810300a2f71a793b67bd7abfd27cbf6d711f/hachoir-parser-1.3.3.tar.gz"
-    },
-    "1.3.4": {
-      "sha256": "775be5e10d72c6122b1ba3202dfce153c09ebcb60080d8edbd51aa89aa4e6b3f",
-      "url": "6a/ad/037c6b8a614c7f8d4eeb2993bf19ad4ea19a9506d268f808e10644081286/hachoir-parser-1.3.4.tar.gz"
-    }
-  },
   "hackinfo": {
     "1.0.0": {
       "sha256": "1a5f23e90a463efc135365cba944fa04742ecad0ff0d8db4605a7b335ab7dccd",
@@ -20101,6 +20067,10 @@
     "0.0.7": {
       "sha256": "08f1df8a22f55202e745588a99ab15e7316a1adede5c8e14684a6d2bc73a354f",
       "url": "d7/37/bef816151e6062af697e4a299e25c8f09c542db594f8515efce0f2c9ad8e/pygame-widgets-0.0.7.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "e1133c81fbab9d3b8098f9ded47c64ead05074f7c744858c66394bdb2077a794",
+      "url": "80/e3/e4d493314e0e0250956b7e2f175cd798587a5c3d9597a9a8b70f0f3e6bb9/pygame-widgets-0.1.0.tar.gz"
     }
   },
   "pygdrive3fixed": {
@@ -21431,6 +21401,10 @@
     "0.7.4rc5": {
       "sha256": "c8a790810122d8ec93bd09a21bb50134898aa60c93d36679053fd85e08077b13",
       "url": "c3/53/34834570f9c94071d9b3de9d8e28ef13ee870680caa41b0feb813d2c54ea/pytorch-lightning-0.7.4rc5.tar.gz"
+    },
+    "0.7.4rc6": {
+      "sha256": "aeaef79e63aceb104cd3f5c83487726e902d2569add16d13fb3c065c8a3f1721",
+      "url": "9e/f7/68490f0f30e56938687826d74352b75668bfac519d7b620384a38db5fd6b/pytorch-lightning-0.7.4rc6.tar.gz"
     }
   },
   "pytreelib": {
@@ -23129,6 +23103,32 @@
     "0.1.0": {
       "sha256": "51c02d0ff29727713efb60d2782f3dc5b4fd58bdedbe4926d70277654ea7bda5",
       "url": "55/af/60a767689b98d23edf1b963fd89234175a5b18c001438cd44f01a9e022a5/sciurus-0.1.0.tar.gz"
+    }
+  },
+  "scons-tool-clangpp": {
+    "0.2.10": {
+      "sha256": "f9df621707f1fa498886f733d273b293665983af20f175926a2972f2a77fbfec",
+      "url": "51/ba/e37e703da0ab58edb93b366385ba72713a25cc648c5894cbf09df707e6e1/scons-tool-clangpp-0.2.10.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "db7d601cc3a4bbe13f7505390fc46eae9b72118a97e5347dfe5159736bcda130",
+      "url": "9d/03/33c762c9357b7daada5566a37f573a85936d5b34f7bfe363a4b7bebdbd3f/scons-tool-clangpp-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "e03d3d10543c305c4bed7394109a041ce59f259cbd085ab668a151ea1f8e7eb8",
+      "url": "8d/8a/b0ee661a4d827e9d85f8177605de36527a6f3ee81a123a54d900d5491f06/scons-tool-clangpp-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "65002876d489557167f4529f015cc7985c752af97ab694781437f7990fb3b9cd",
+      "url": "89/6b/db1c8d32a41efa4ed34e3f442880216b52653e03e403229377cdd5d6e298/scons-tool-clangpp-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "d52af37e8855a0bc71bf067e38940cded1f31fee18e54081241874f759d438c3",
+      "url": "b3/93/128cf110ec497078019c1a8d765de18088a2d33cf261d5fdd022d3fe93f1/scons-tool-clangpp-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "9b265121c09484dce99c45d64f6283a380009a0b87b17ac11457129869dfcbdc",
+      "url": "d6/72/987d27dfc707d05a06d1c47e5dfa7160dbb678a747c93f74e8a9930d4add/scons-tool-clangpp-0.2.8.tar.gz"
     }
   },
   "seqlogo": {
@@ -27811,6 +27811,10 @@
     "3.0.0.dev202004230105": {
       "sha256": "6caeed71ba602d67320e5f7fa8ef24e413998457c3c8885773df1e3cfec811a8",
       "url": "8e/c5/a66b068926bf534f4fa70369a438bf7170da44777f85eb2be6cd3134ab8a/tfds-nightly-3.0.0.dev202004230105.tar.gz"
+    },
+    "3.0.0.dev202004240105": {
+      "sha256": "b9c819d15daf1de17212ec29bd2747822a2c3f6b2cb5aff8d516c9d018a569e6",
+      "url": "1d/8b/e8ce0a685e936ab2f45e8365a1f9ca578c11be00ea5ab60c02bfb7b883fa/tfds-nightly-3.0.0.dev202004240105.tar.gz"
     }
   },
   "tg-nester": {

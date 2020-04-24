@@ -20235,12 +20235,6 @@
       "url": "7d/40/9048059be4d85d23ac67275c7f7201c7d8008801e9a2f2a5c2179af78edc/pytorchtools-0.0.2.tar.gz"
     }
   },
-  "pytse-client": {
-    "0.1.0": {
-      "sha256": "23828347956708fdb8f92dc640a0c5649ecbf238c2545a96e255aeb4bc91d92c",
-      "url": "ed/d8/04b1e3bc87088e1f6d13e90acacd9c43a81d34c11b7ee5648326d8d6d989/pytse-client-0.1.0.tar.gz"
-    }
-  },
   "pytunol": {
     "0.1.0": {
       "sha256": "ed4e302b3bac08be12b44e394038b171dfb8502d0d2080a50e72f2ef1ff9ba8c",

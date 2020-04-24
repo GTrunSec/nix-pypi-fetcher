@@ -15,6 +15,14 @@
     "0.3.7": {
       "sha256": "f2b35a50eec4788a1499d6813c3b19fd9a8abc869cd94e2cde0ee920e7122c1d",
       "url": "74/5f/58148e4e6016fa40acac4c848b012cd32213b3897216b804cead01c76665/2Keys-0.3.7.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "51f05540e8838dd5d3b706bf3790e0d02b2ea07959c34d8dbe94e19094591fc9",
+      "url": "e4/9e/7dc2c1a0c0d4c6b2d4b79ae359959ae587ed58f5a3ee9d2c41ce702905d5/2Keys-0.5.0.linux-armv7l.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "c33be5cfbacd5d6391143f3d5e15fd20eb3183396a6c91cbb12ed4d149a7c6e6",
+      "url": "cb/6e/ab56fdb1addd3cff4bddbca9a125582ed16e1d8403080e7b5d8cdc349c34/2Keys-0.5.1.tar.gz"
     }
   },
   "abjad-ext-cli": {
@@ -375,6 +383,14 @@
     "0.1.16": {
       "sha256": "1e6f2136d82ab5f9d3ae4ec8916f867ae755662159c246685041085dcc16d8aa",
       "url": "96/c3/3cee80f3aa8f2c229305686fdd9dea51a16479dd6516f6761db86a1a95ae/amap-0.1.16.tar.gz"
+    },
+    "0.1.17": {
+      "sha256": "86a7531f8a7f76839b81fa55ff49a45ff2822297a0920f259664c6db3480ffd4",
+      "url": "9e/a0/f7dba90ce80af4d5f4dcb2f11f072f3e897e9c07902bc1d76e1ee9f5fa46/amap-0.1.17.tar.gz"
+    },
+    "0.1.18": {
+      "sha256": "e26e8d7f1f7e983565a6414b4747e3c494ebd65bea51d92677b34e7dffe8a5b4",
+      "url": "b0/27/de15f019875e33717466cabc09bb91aa152a798552e8247658f11d9f7ea8/amap-0.1.18.tar.gz"
     },
     "0.1.5": {
       "sha256": "75822910f66f10fa19efb827c2c4cc9a0428fb792a61843ea9b52af81e832953",
@@ -965,6 +981,10 @@
     "1.9.2": {
       "sha256": "76c18408afbabe1c1903a8c84f6f67c032f7ce2df4353d9c77f526ff5face975",
       "url": "d7/d4/ee61e98449c7ccd8a2235b7f31aa3f1e3ba15e7c1c3d7d66f12391c250a5/apache-flink-1.9.2.tar.gz"
+    },
+    "1.9.3": {
+      "sha256": "65ad0188a6a028265add28f45680cd89ab6928ea7f34dcaaa4cb9fa878de3cd3",
+      "url": "66/d6/0795a8bedeb0b5154b334cb6a50b1bea8963eef5613fd1f667537aecdf47/apache-flink-1.9.3.tar.gz"
     }
   },
   "apeiron": {
@@ -1765,6 +1785,10 @@
     "1.34.1": {
       "sha256": "beaa1548af3712c577b0dcbc07ac33f960ce20f217d85222c3ce532582a0c1a5",
       "url": "37/bf/8fa7d6343c9ae4b92729e4adb1a911ebd5539c4ab45eead73fa15ae90c02/aws-cdk.aws-codecommit-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "57a4199992f8786ab5cc6b77af5be3e6d2865b6eef202cb182927acd0942a6c0",
+      "url": "10/ed/8cf13249dc6a7fa69a0ce9499ab8b630d8eab2133e54bfef6da58d68c02d/aws-cdk.aws-codecommit-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "2b62081b8b80ae84be10e2bb9542b71bb43fc3f9a486c4e6c6a6775e3fe36e58",
@@ -4745,6 +4769,14 @@
     "0.7.7rc0": {
       "sha256": "a9a595153c7094bcb9164a18a5e74d4b6456051d571be9ba3b9d5a830691c12b",
       "url": "9d/eb/573b44a6f4942ed13dac4e27388c269f5d59e998934bfda8140d715b76a2/dagster-twilio-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "4be89e2cf408e4b2d82500fd07c889747e46b29fcf0aeab3cc022e0da9a48ccf",
+      "url": "f2/7b/9c4d19ee44824bc810421de0dac65874f0b16b41fbf6099539ed2c4c6087/dagster-twilio-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "fa4010b3eb721b7631f7806a5efb11b4a9c7090bb82e88ff28426d08c70a3d35",
+      "url": "2a/c7/e61cf9f6c0ab6a37d3b862903311ab4286b14f55e93fba046888c96940b6/dagster-twilio-0.7.8rc0.tar.gz"
     }
   },
   "darkig": {
@@ -7087,6 +7119,10 @@
     "0.4.0": {
       "sha256": "1184d85b093efbc49bf3d9bba902370cda7130d348ad1fcac91b28b60d18ca92",
       "url": "7c/6f/a9af45126f80b16f3c7accdda05c15b3b003c75427642a6bdb5d2a88f9a2/dockerblade-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "cf422ab9c26005aa4856ed74aebc5fb1b90bc13b92c07ce2d1af69eeff4efce1",
+      "url": "06/62/f8c61b7d565c40a4b8ca6c406e26d51c31e238e64036c6590cb6feb90338/dockerblade-0.4.1.tar.gz"
     }
   },
   "dognames": {
@@ -19799,6 +19835,10 @@
     "0.0.6": {
       "sha256": "625a16a86c8c0af4bc4f2181f4871586f8fd0ab1a9b87bae3a5b787af089bd64",
       "url": "46/8b/16ddcab6121f446a48ce911937dafe528ebd8022b296a1a40bca7c66a847/pyverless-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "8fa41bea18ef37e948653a101a5e082ac1f392cdbbe850b982324f0915e06d6b",
+      "url": "31/08/16d824de4eb8ed174b5569907e291944340c68110906dfb89da6b02dc5c9/pyverless-0.0.7.tar.gz"
     }
   },
   "qip": {
@@ -24535,6 +24575,24 @@
     "1.0": {
       "sha256": "3542c6dc2667481041926a797a9869d55c68890ce9ab2cd06907eee9345e5715",
       "url": "87/a0/7a0af2b4221cc76d9a23db620f8b99dd8803ecbb0442c3d09efd90f96331/visual-logging-1.0.tar.gz"
+    }
+  },
+  "vsc-utils": {
+    "1.10.4": {
+      "sha256": "4480bbbfe7104803a0e0791b35628ff4fd5ddf567e091dd70962463e054e7a6a",
+      "url": "27/cd/53a740783e4d26a85c87de7317e63d4eb8326f27a4a372b24b3f62a3a4e9/vsc-utils-1.10.4.tar.gz"
+    },
+    "1.8.5": {
+      "sha256": "044898a2808459acd78c3b24626ca4ab46a61e68033d1b4219769c389325f999",
+      "url": "74/a0/3139f47f12ceecc67e4d3420931eef7a1c8f0816f611a0cd143034dd7a5d/vsc-utils-1.8.5.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "c21ee5f86133bf135a1c4f13ad925140855eef4baa04da1b78d6e0850ee47f93",
+      "url": "2f/cf/dce194232e3ab3dd56f9cd69a476fd6a0f061fe9e73f9b76407cfca9ecd5/vsc-utils-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "c084b84f3b7acb4e93124993dd0569ec6d96a3f2db255376099ecd13b2648def",
+      "url": "0b/5c/3db002bb0b557d640558d0a6a0f5fbe3cbf408c4246fa05a422fccddb973/vsc-utils-2.0.1.tar.gz"
     }
   },
   "vyked-orm": {

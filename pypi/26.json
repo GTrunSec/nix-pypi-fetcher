@@ -2636,6 +2636,14 @@
       "sha256": "a130aa8f47dc6df52f068c98d19cb0f87f65a237506fa1a0b88c974cd7d72eb5",
       "url": "bf/8f/62c75c92dc4f2814a3ceb3402587e3e3107024e24c932769a7b5d00e3919/biosteam-2.12.9.tar.gz"
     },
+    "2.13.0": {
+      "sha256": "047d95760d24d53027fb954269c27fd5af9fda75da0a90c56033342d9cbc69d3",
+      "url": "76/9a/27afff247794e734468b4ec5b1552dfc413deb84e8a48acf0e9e828ecc9e/biosteam-2.13.0.tar.gz"
+    },
+    "2.13.1": {
+      "sha256": "6840745913aa2467732ed8fcc5c9e78ab0770d3fdcfde301f5cd2f51ce8c29d5",
+      "url": "03/7b/1fe84e4fb4bb223c13d9c90ba39776cd2922e7d91550289af7c7d7fe6b05/biosteam-2.13.1.tar.gz"
+    },
     "2.2.0": {
       "sha256": "fed52dadd2ac8c5161e080d768152ff1836fccd0636cc9bd9458a4b113fcceaa",
       "url": "f8/26/ae79625265227b6099589fc4e3e65ff8910c321ba030861c5e1bbaa98cac/biosteam-2.2.0.tar.gz"
@@ -11348,6 +11356,10 @@
       "sha256": "dab59542e89f16632eec2c607d9cd75063b56334dee93cc5242445c24e75b0a2",
       "url": "4f/3c/be636fdf076577af3e565151990007b38b779d11aba0daa47cf114a3ddff/jupyterlab-1.2.11.tar.gz"
     },
+    "1.2.12": {
+      "sha256": "ff466f8d9e0cf6e6a504acad011614147bbf272e1cc2a9a4d996787d7a2a43ab",
+      "url": "90/27/066a92855e2f9efc6a3bd4408d6b70b069b2d0b99199b208dbc17ae1a445/jupyterlab-1.2.12.tar.gz"
+    },
     "1.2.2": {
       "sha256": "96d3146eb09ffa0a198f31b36706859dadd4a59ed184aa9329a9c12733e6af0b",
       "url": "73/cc/0ffeba8570958ce000a7657347906b45ca0fc320bad423e3503025013435/jupyterlab-1.2.2.tar.gz"
@@ -11451,6 +11463,10 @@
     "2.1.0rc0": {
       "sha256": "761fd4fd958d1c9f8bb162bd0eca4692ff7f865086d65e1f9c0172ffbba9e635",
       "url": "fb/9e/f867e0c2409c8c19bb7a2df1583e92fd49d1f4cd2dbc3cdc257b3ddf7767/jupyterlab-2.1.0rc0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "2dec7e509ffa3892c67d9ac7c89d7c6a860c151d969d89420d9e20e753b2fb29",
+      "url": "7c/33/4464c4966b2e4c164ff56302e66f82cf0b75ce955d8bb10b315104a03a77/jupyterlab-2.1.1.tar.gz"
     }
   },
   "jupyterlab-thredds": {
@@ -17441,6 +17457,10 @@
     "1.0": {
       "sha256": "375e0ba94c0748f7f0605d097ff97d97d31ea73a7c07f97d829b259ffb3cb758",
       "url": "c8/41/3cd8555daaeb9884a1f8cca52deaec8a9c99502f4bc9bf1b6f5c5f4d12c9/pyrtition-1.0.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "cfface67cd77efceea4dfb153004db227f37b49d1130c9127315ec62a0aef2cb",
+      "url": "81/e8/5d372d621125adb97ca4e36e174eb1e1fd511b9e4958681f13f83794887c/pyrtition-1.0.2.tar.gz"
     }
   },
   "pyrutracker": {

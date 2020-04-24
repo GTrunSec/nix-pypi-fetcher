@@ -4395,6 +4395,10 @@
     "0.14.0a200423": {
       "sha256": "284754b636aad7991a832136fbfb43ea7c2c1838d37858bda78a04b32fe9a405",
       "url": "47/53/af958d86a2352a5e66b93f874a5a0adbfdef6131d8e6b3fd53bcd7b46313/dask-cuda-0.14.0a200423.tar.gz"
+    },
+    "0.14.0a200424": {
+      "sha256": "b695334f57102f71e6fb4a9eebf8fa9de70120242dacd07deb5ab476ccb37749",
+      "url": "d2/d0/84445627fd9dbffae288e0cb0c538a6626b8265133b13d3314220217e244/dask-cuda-0.14.0a200424.tar.gz"
     }
   },
   "data-science": {
@@ -18357,6 +18361,12 @@
     "1.0.4": {
       "sha256": "2bc25b2b7e18c397de3e110a00ce04b1e081a9777e1db9b4bbb0a1de31d2f05a",
       "url": "49/48/17b1e33a778500fa22242d75a261ded9b3b173ee00b1b0b64fe8fad05746/SetupDocs-1.0.4.tar.gz"
+    }
+  },
+  "setuptools-cmd-deps": {
+    "1.0.0": {
+      "sha256": "41bd0894dd61fdd3dafecde07c24e7e2813f66505f020dc5258c1095878de769",
+      "url": "d7/be/440b9d49f7f452d1a0e6b18a59dbffbe874ac5f3dbe924291941fec6d9c2/setuptools-cmd-deps-1.0.0.tar.gz"
     }
   },
   "shreqt": {

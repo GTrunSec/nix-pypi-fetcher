@@ -12052,6 +12052,10 @@
       "sha256": "33f949c5e6675bdb02d16e404b3f6f32113795ebed24724fe8f353b1b38b8085",
       "url": "f7/55/efdf977a67e3c970b2ea0558a17b24c414be8092d010e6fdfb2742eec944/lusid-sdk-0.10.1321.tar.gz"
     },
+    "0.10.1323": {
+      "sha256": "5756ad8490563b70b9acd971f0c3e22d9a09e75d27b56d1fc9d9a82b279f78c7",
+      "url": "16/07/ad32983027893c810511bf96c37a9e80ded4da43f612df5122797f074ada/lusid-sdk-0.10.1323.tar.gz"
+    },
     "0.10.14": {
       "sha256": "1fd5268db4a7505645b5b0240303bfa39e54cb8b09c407279fc4ac9ab8cb61fb",
       "url": "9d/02/2636b5179688215bbde45482eeb6295ea1f6d89f5efb8b48e791f5292103/lusid-sdk-0.10.14.tar.gz"
@@ -27951,6 +27955,10 @@
     "1.0.0": {
       "sha256": "ae73a10e95a01107f959063f5f3fbe987bc3594249c28f0930abea3e93bbe25f",
       "url": "c7/6b/b0264a3f59e89c86f37e7ba375d94a9a2abc28e000d82dd1510c3b6d15c4/wonderbitscloud-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "cd6f75f74963e7b267456fbd0d46b525c9b7197e32c18e90330d7a3c88142e9d",
+      "url": "be/59/00568a8416af355dfd5f891c58d89aa04be8c2980edfe029366f8cfa244b/wonderbitscloud-1.0.1.tar.gz"
     }
   },
   "word2vec": {

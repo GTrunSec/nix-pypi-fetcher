@@ -9956,6 +9956,14 @@
       "sha256": "259a0b567a534ac1a62873add0d4fce923c79c6ce03567732495cb3688442c48",
       "url": "37/8b/40155ac5985cd5c0f78d74f961a11e716267ace846b9dcb8e89b06f2e153/kdl-0.2.1.tar.gz"
     },
+    "0.2.10": {
+      "sha256": "95d882e7f214a9ba6b0d571b1659571465370909c3e190ffbf667b577a6c9fa0",
+      "url": "44/3f/e675e23f3f800fc64e61953e001452568b4fa5de7fa86c2621448c133f7b/kdl-0.2.10.tar.gz"
+    },
+    "0.2.11": {
+      "sha256": "fb3957f2d802cb05c076523886287004c9e2794d141c324ad8badf6f3d18d22c",
+      "url": "79/ee/fcd552093bd77735c28ff78e249f33b8c539668fabbf6f42cb0a7cfdfe50/kdl-0.2.11.tar.gz"
+    },
     "0.2.2": {
       "sha256": "c01dc24a6dc1483629e0b9e188e32b06ef6054906280870d5dc8a50ccbd2925e",
       "url": "39/78/fcd0de8cd116badadff97da9c0647ce42d605cc843164ea729f7a345370c/kdl-0.2.2.tar.gz"
@@ -17863,6 +17871,10 @@
     "0.0.3b23042020": {
       "sha256": "d54e170e09ec5277416221cd0766469ff6e03247dc4d7930398566219a8c3660",
       "url": "3a/d3/ae268f955ef999ebf15ef20d80e8562f6571d7be11efcdc16edcb8600e0d/resnest-0.0.3b23042020.tar.gz"
+    },
+    "0.0.3b24042020": {
+      "sha256": "d33d95f52ae8179797537522dd4f10f3cdb2afaebd6010c6f47e968c74f149a8",
+      "url": "cc/6b/18b4f31e973f014c8d41afa0d191eaccd3cca7a3b16f0cfd25212a974bfe/resnest-0.0.3b24042020.tar.gz"
     }
   },
   "restcountries": {

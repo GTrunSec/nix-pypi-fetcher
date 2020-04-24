@@ -157,6 +157,10 @@
     "1.2.7.post1": {
       "sha256": "61b1992239da5289769556dd47aee660fc1b5d0bcb10efca5a9c9d13e1af0a4f",
       "url": "df/f4/7f5f85fdb9ad46c3cd896c581fcf3bf1e16bd476afe5ddea06600113c777/accsyn-python-api-1.2.7.post1.tar.gz"
+    },
+    "1.3.1.post1": {
+      "sha256": "30903cdeead274f2a096bc05bcd6a2c7870b6b8b1922a2d8803d272aa5bd9687",
+      "url": "b7/42/49cf36154fc2975dca761a8115ad61755e0ab8c1f308a24a09043efd2b26/accsyn-python-api-1.3.1.post1.tar.gz"
     }
   },
   "acme-tiny": {
@@ -12511,6 +12515,10 @@
     "0.0.4": {
       "sha256": "51c2f09361e5689e774d83fc3010088dc97459d05078b0a474ca0cae416ee24b",
       "url": "54/96/8a6214c97ddf8b19336929b04b10600e51f9b127c57b2804f24f1fbff8c2/gym_electric_motor-0.0.4.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "5be4599274806cedcf36fefc2746592d6ea0fb03558a6ba8fdc9315a0de996b9",
+      "url": "1d/89/63c16d44bbc1f040160200b06433385d384d81a8356888fddfd76adb879c/gym_electric_motor-0.1.0.tar.gz"
     }
   },
   "h5pickle": {
@@ -17448,9 +17456,9 @@
     }
   },
   "numpy-demo": {
-    "1.22.0": {
-      "sha256": "2891abdae7dd5f6c4a0808bb1c17bcae65a70731271cd00ea1e30b3b3deec906",
-      "url": "28/d6/faa06cb0d5a061512465e7efb66e07c228a645438f2e1667f052b288eecf/numpy_demo-1.22.0.tar.gz"
+    "1.23.0": {
+      "sha256": "e638afacc053105293b64bf20c2696f793c16866ff726849bc9ec8c01afc4d70",
+      "url": "88/a4/3b70be309f197816ccb783aa72f631a9270861b7ce069d0c50d1a4e7e99b/numpy_demo-1.23.0.tar.gz"
     }
   },
   "nuphy": {
@@ -21727,6 +21735,12 @@
     "0.9.6": {
       "sha256": "6c9e6ff917344fbeaf678e2bccb511e088e90a11f10a2a93dc87ba10f1ea376f",
       "url": "95/41/2b7b9055a16e4bb3522d3551618da68f5974b9a2f8c901a87ecb270cff11/RPIO-0.9.6.tar.gz"
+    }
+  },
+  "rq-exporter": {
+    "1.0.0": {
+      "sha256": "6fb69e5f8212c0a852ee1862de132d13637d337eea34d594c1696c2e6e3e55e0",
+      "url": "6a/88/181247f381c192c11efc62e84a0d9331a27a5eb8fa3e289da735638fca0e/rq-exporter-1.0.0.tar.gz"
     }
   },
   "rssnoticiasecuador": {

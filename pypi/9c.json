@@ -11835,6 +11835,12 @@
       "url": "39/eb/a4b0bf56b226355ca5fdaf2cb84ed3886852086b70c4ec9466299bddd357/LanguageID-1.0.tar.gz"
     }
   },
+  "layg": {
+    "0.0.1.dev0": {
+      "sha256": "8f46b2307fe0b060693114d06778c515ee7a79b9723b848d294acc4c1295ec05",
+      "url": "14/68/dab66201ad41c8f2789fb9b9b3e2b77e79eaf1304478f0786b9ea1b70c5a/layg-0.0.1.dev0.tar.gz"
+    }
+  },
   "ldapfind": {
     "0.1.1": {
       "sha256": "14e007b97c320dc062f114ff68bd87bc7751e2620564daa1baa133821958ce51",
@@ -23455,6 +23461,16 @@
     "2.4.8": {
       "sha256": "c625e35ae4926773fd993bad8042348a1bc5a6d28c69c5e22908db6c2a77267a",
       "url": "82/c5/d548ed764760e8e2f37ebabe88a787f7b50ed7804b89cb94e3b4e1ce10d6/yuicompressor-2.4.8.tar.gz"
+    }
+  },
+  "zbs.zest": {
+    "0.0.1": {
+      "sha256": "64214dc7cd16149c7e4f6d93e0d9d36411685cfe543c4444b67b755ddd938bb8",
+      "url": "91/17/d2807b4e793be0fcc47f9d36be0cb2e9d2e401a868a8804e241d8dac4149/zbs.zest-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "f9c6e7fded2abc72103bb7291021e917c5c8bf8777aa3fd18bbff12aa2472786",
+      "url": "1c/42/c6d4c6d476f52b6d94ca340ce13d3eeb008e51f06264dbb80a0dfd465e95/zbs.zest-0.0.2.tar.gz"
     }
   },
   "zenduty-api": {

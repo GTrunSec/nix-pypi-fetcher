@@ -5492,6 +5492,10 @@
       "sha256": "d24ff93e570e9a736322e90ce829cc2f48cba73b57d056e73a05e7a0b33ad654",
       "url": "68/b5/9c889f1176f099340c5efd27a1bc28d70888adf4b27a7246c7ad85d470b2/django-bom-1.168.tar.gz"
     },
+    "1.169": {
+      "sha256": "6ac83595de28c8cadc4d555d4edcc80550aaeaf5b26a9b5f82e38e0930ca77c3",
+      "url": "44/47/1fdc0b051d79d746690a16fe1064fe75bc76966890248834aa6bf1b9033c/django-bom-1.169.tar.gz"
+    },
     "1.17": {
       "sha256": "d0fedd5d0df6d6dfac4d48ce8ba2e9fbf45c0f960abbb3ca09eabeb9ef16e862",
       "url": "68/9d/20b3006c4c5760fa3b0f2bfddf8e75d02ed2b4cc0cdb9fa89215e075f69f/django-bom-1.17.tar.gz"
@@ -13925,6 +13929,10 @@
     "0.4.1019": {
       "sha256": "396a69ddac5a32833a3f3a21bfed10201b127cdf08d072f53c02d3b92f86d6c5",
       "url": "ca/cf/55021bc5329ce971c42dca63d74f9f60648b57682e83e6f8eb27d6e7ed8f/mlc-tools-0.4.1019.tar.gz"
+    },
+    "0.4.1020": {
+      "sha256": "1a64d97fc7324274b1129e067712c47d1f707c884d4c92ecde2a3e5a3677b5f6",
+      "url": "ce/9a/94bcae667fadddc5f3e36fac330df26c9f6bfca696df04fb8589fb049e48/mlc-tools-0.4.1020.tar.gz"
     },
     "0.4.632": {
       "sha256": "3df46621ceb00ccd59fa8ae1c49be0518336db46451de78c85407ba9f5243dca",

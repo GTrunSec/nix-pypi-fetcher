@@ -2157,6 +2157,10 @@
     "0.3.0": {
       "sha256": "6d3279d3f849c18c91c98e6944ba35c79c848431b2818ef23f4341e52b5d37a3",
       "url": "50/95/d3a2e95d841768072d27a0b39312a2418e9eb0221becebeaf20ed51745cc/blazar_tempest_plugin-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "29dd845b6868b70e5619b7a0d9d2d83d86f82b602499992502d468094a560453",
+      "url": "78/68/1de6291b13d07724e611c74a842b97018ec662bac574627e31e2f2c4568a/blazar_tempest_plugin-0.4.0.tar.gz"
     }
   },
   "blended-facebook-cards": {
@@ -15543,6 +15547,10 @@
     "0.2.2": {
       "sha256": "9429807c8ae6fced9066e65c9a437d0420bcb9017f60e4d65ee284c676c6ff19",
       "url": "21/af/0814ade39810eb8a01dc62561877f7f583c7317a226002d520501cf657af/polymath-scalecodec-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "d069d3e6535075a342962245a40ab368a5d134fc72ca537a29f3e43424ef5142",
+      "url": "0b/db/abfa54f4d64c8d0f9eb7d26a7865b867dbe6eed7ee34c10bd533215d3679/polymath-scalecodec-0.3.0.tar.gz"
     }
   },
   "pom3": {
@@ -18371,6 +18379,10 @@
     "0.26.0": {
       "sha256": "7cbca19d6d48fd0051145817507e334a94b04cd9f3bd867db9288a582675d90f",
       "url": "61/27/2e1c47082ff8a235917d8a2971ee4bafdeb54a90548d5fa715f2fccb98a8/ql-cq-0.26.0.tar.gz"
+    },
+    "0.27.0": {
+      "sha256": "9fbb23518de51d17e819f89046bc6a7ae526fef06d4342ec6ffd9f4e07ea025e",
+      "url": "cf/a7/9d25c91414d2ff4a37205b4842ab2d244aa777d168d6a1cea381d9bc16c7/ql-cq-0.27.0.tar.gz"
     }
   },
   "quickdictionary": {

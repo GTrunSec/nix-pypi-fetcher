@@ -659,6 +659,32 @@
       "url": "85/bd/284603c5e5d2c5b336877b42ef1bfb313be4807f94ebd20dd9455c89995d/aliqat-0.0.1.tar.gz"
     }
   },
+  "aliyun-python-sdk-ccc": {
+    "1.0.0": {
+      "sha256": "e26d05277904aa032bcb844954beca45ba4a83531b4dba72f7aabccb53271d90",
+      "url": "13/a3/b860b9f05fc4b6fd8952d28e3bb5d7874e4f491145b4a65cadd3deb0d9f4/aliyun-python-sdk-ccc-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "929aefb2c010da7ef91c7edb36f7f634ae063d90eb46c8000ab36525606a8f50",
+      "url": "9b/7c/db74f1b6a9b45dccacc47e33a5a65b3ac79c43070defc41e0d75f32a1ba0/aliyun-python-sdk-ccc-1.0.1.tar.gz"
+    },
+    "1.0.19": {
+      "sha256": "71ca59877a80e8fb2952bedac376afc941d628fb1ec7c4b4172175bfaaa45ee9",
+      "url": "75/73/d1d3f2c407366b453d9bc4eedba5e928fa12214b5f5f659be07df30c0f5a/aliyun-python-sdk-ccc-1.0.19.tar.gz"
+    },
+    "1.0.21": {
+      "sha256": "2a787fd27b4ee8345d97214b72a2cad7c80deb53f5ec1339677fce364e57f26e",
+      "url": "70/bc/082777f19cc51636a4c3398db9f5b6c9fa6ec78259f9bafe0fbf1ad5737e/aliyun-python-sdk-ccc-1.0.21.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "cb31382a9ecf561a7f2ee98ecfa2673e47af45b530358a022ff2ac11dd01793c",
+      "url": "2c/dc/45a191133a610e93e767ca131c683f0b41fde1b717a234fad9158e98fce7/aliyun-python-sdk-ccc-1.0.5.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "9afff7fa8502213b1bc2e0aa1aea6faac05919c8c7566058eb0477b931c12762",
+      "url": "2d/2e/7928d824e0ed15c12dbe4f1053de1272b681f2ea4ad1ff98a5dfe7e60111/aliyun-python-sdk-ccc-1.0.8.tar.gz"
+    }
+  },
   "aliyun-python-sdk-live": {
     "2.0.1": {
       "sha256": "5ac321e09a7e43794c4070678bd1727ea5679338d4feb0975b12eecca0242720",
@@ -10427,6 +10453,10 @@
     "0.11.0": {
       "sha256": "4de41d2e1b9e8763f3b666b7a484552cefde3d843ccc03b945dbf46acd000f2c",
       "url": "fc/9e/187ec684030cd869fe0981cea5eacadd64d862ea0c2e26758708fa39ec75/libcoveweb-0.11.0.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "6ddaf0c90eff705eb053a0c05a1cf1f6c1931a0daa2cd855ced689e3f15f8195",
+      "url": "8f/c5/17950cbf0c2ac75f4281b9a71ca1dbe76acbb52b1f4220490f44825814d9/libcoveweb-0.13.0.tar.gz"
     }
   },
   "libmoji": {
@@ -15741,6 +15771,10 @@
     "2.1.0a1587386928": {
       "sha256": "5a4603b956f80648fce8f126ca87afdd8af465406b47e6b9fe16f2820e36c06e",
       "url": "6d/6c/b184ea4bd8d81db577176aa08221a48d917c51b803c51d031793a9f2a27e/pulumi_vsphere-2.1.0a1587386928.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "2c394f2016c5f519f8e7e5ed287233c5128ebaeca2f75627be32ea4c1e79d439",
+      "url": "00/e1/0d302796e941da81039c44e65ddcd49d0c955bae5974d97c29d860871215/pulumi_vsphere-2.1.1.tar.gz"
     },
     "2.2.0a1587685675": {
       "sha256": "4f39fe82d1e1f57a53437d9012da1baf2c8e5056519fa816f69f5ec7ca3a9316",
@@ -21653,6 +21687,10 @@
     "0.8.2": {
       "sha256": "6c970aa76cdd16a6df828272a73cf21a1236c307b2ba2e1ff3f23ccb1b8303ae",
       "url": "52/e8/294666e5ae408f9ebae163ba88c16abed3e8ebf65025938f0523055e6a0a/trompy-0.8.2.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "9a38a58b5fb4fb0d29d9e63eb55e5282c4dd34e4cc2512ea868a49087c32d1d7",
+      "url": "58/6d/3afe6eec6119a5a230ae343aa59ab68d3e6d752b314e9cad20f130a21a42/trompy-0.9.0.tar.gz"
     }
   },
   "trytonar-account-invoice-ar": {

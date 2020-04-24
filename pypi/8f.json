@@ -2355,6 +2355,12 @@
       "url": "a8/79/0fef298999dc84bbb835db1c23383de0bb393ffb03e0afc0b4e601466a5f/bp.rename-0.1.1.tar.gz"
     }
   },
+  "bpaingest": {
+    "6.4.2": {
+      "sha256": "04bc1d7d2e994808e3b5bd0c3f00cdc5ce81ec14a2d39dbbbb0a4c76b4d62ee4",
+      "url": "79/85/5a8553f7f7eff7347ff1ffe03a3c7e80e50a0bc91231e93110852daaa529/bpaingest-6.4.2.tar.gz"
+    }
+  },
   "bracketmaker": {
     "0.1.0": {
       "sha256": "29c4ebc901fa65a75e0d97539b8b2c97c2c2edb83489a655d48ae9b8743b3a28",
@@ -12220,6 +12226,10 @@
       "sha256": "736f2c682a1c3974982dc886da8798893e207e6ef4e88854843a6aa374455bb2",
       "url": "be/8d/18431ea07dab739e71412757a747137a9edeb8f0a38a0fd5e4f48cdb32c4/neuromation-20.3.23.tar.gz"
     },
+    "20.4.15": {
+      "sha256": "4b9ee22bf88e1369e63ddd80940a2470112bde128641fe6e14ec7e323f72da6c",
+      "url": "f8/cc/6906c33eade15636c8b1b535f64ebe9840ab8cb6d06214fd3a5cb77e2849/neuromation-20.4.15.tar.gz"
+    },
     "20.4.6": {
       "sha256": "ddd06ff37766f9cb11136dbc816771848b36419601f74cd032f044501137c70d",
       "url": "33/50/dd5c7f14e0a6f8b847cf91e4298aa32f3abb0ed8edfd02bc7fb2d7d4e4dc/neuromation-20.4.6.tar.gz"
@@ -16623,6 +16633,10 @@
     "1.1.3": {
       "sha256": "61244925c7b01ea7c23bd3474dc110e756092cc6a880e9969557e3316bb32045",
       "url": "f6/33/7a7b862a98e887a6c8e6156a97f8b7ce46c0f1814886ab98fd8a59167801/qe-tools-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "0082990a233a5a525652f0862bf0e56797825498ecd86b8cc99af3dc96ce2766",
+      "url": "7c/ea/d45f396bfb7a1b63bfdeab2633844d2bc69477168eb35ec9965e04035bff/qe-tools-1.1.4.tar.gz"
     }
   },
   "qstem-ase": {

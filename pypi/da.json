@@ -4709,6 +4709,14 @@
     "0.7.7rc0": {
       "sha256": "57e7d3141bff1346042603f47ae183c2ded3def91bdbe45ca05a2327e86a4fba",
       "url": "e3/05/f8a4cc39a5b7f83ac9b899f298b9d029a5bdf53250f8d1a4b8846c69e38f/dagster-papertrail-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "453af78e32e854f66103f40e2f412eba1c91bd856da4785f67b311fe477761d1",
+      "url": "4b/52/55cb3e077de9fbf963c62302ca485ed89f39677bbf9acbe32613c67eb6f6/dagster-papertrail-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "2fa026ea1d7fc958fc647dfae9138026b0beb97aad047b837d90f6bbeb40385c",
+      "url": "df/67/21b8a0b1f66ff7ca19109d0f96cc476959756efa78ddaae379ff6675cec7/dagster-papertrail-0.7.8rc0.tar.gz"
     }
   },
   "dask-cloudprovider": {
@@ -7553,6 +7561,10 @@
     "0.1.2": {
       "sha256": "5af2a91a770347da694ac95af31a4a6b4851486a9546e027d212e29b0f9f33e9",
       "url": "ee/28/16425e21f91c8103da7cbe889f7cc335fa1f3522b7b82db07abe569326f6/germanetpy-0.1.2.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "b477514842b4f6600a49c754d62e71d92130629b50d65b9bae38137c8a5acafb",
+      "url": "72/dc/7af58165308c0e9dab887d461110ba086cc9f5ce230afda024db5a2008e6/germanetpy-0.2.0.tar.gz"
     }
   },
   "gg1122": {
@@ -15611,6 +15623,28 @@
       "url": "cd/0b/162d837ab833b524e76e5c86aedd77687f6e272874bf57c5c9b4a5d20313/pyitm-0.2.tar.gz"
     }
   },
+  "pyjobana": {
+    "0.0.1": {
+      "sha256": "9c70db7b2db7def6de643df63710262ef17884198a9add0fd4123fd6043c9a04",
+      "url": "0b/65/4fcb4bd4ee0653b2953e6fcbd27d998004a61f4666df96e983c44bbf6ab6/pyjobana-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "a50735e0ea3a6d8031dbca193582bdcd3cce32329eda961dec50a76a1f31f745",
+      "url": "19/2c/e2e2a67f7e82457cda15815edeaff44422b7be2f900661d764ec0531cd4b/pyjobana-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "cdbe3906072e2ffea1f4005022ed1bc6728e41b7a591b76e79f52720d5449de1",
+      "url": "ef/9e/fc01b5f534ab105f33a878a4b5d0fdaf5cc9404364b4a575249c20eacab2/pyjobana-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "f68249028aaf03598942cca987ed1441c49a312751fc953924c7ff4529d7ca2c",
+      "url": "9a/49/6dd146af90948f69aafc502afeb4346191248280341c7f86940f0a6ce918/pyjobana-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "210b19fdd96abebe1de625fc2f8acf2af3209dca735a0e05ad56ba89809837f8",
+      "url": "6a/79/98a9728e389e76aee7c6ad9eec0cc6c09de6c4cda7619b60fc5d1e803637/pyjobana-0.0.5.tar.gz"
+    }
+  },
   "pylastic-peshane": {
     "0.0.1": {
       "sha256": "0eac3b9b56c914d26358c3639526b388278ecdbefe062dd6c1503fd65db8690b",
@@ -20910,6 +20944,10 @@
       "sha256": "48c3342167e18d59f749fda34165c00cf58abcba8da4c8c4596eea9eb7c9ff79",
       "url": "62/2b/170877597d735260f2ef5d5a4307af7e25da8d36439536a5397b9bbf28ca/transmission-clutch-2.0.dev0.tar.gz"
     },
+    "3.0.0": {
+      "sha256": "166f9d0d7bed6f245baeacc327f113d0d2bb0a3a99258405e5211fac58bfdef6",
+      "url": "40/a9/e7e91eecbce10186efb5b1fab15d09ad6cb1d4860313672e8602c676965a/transmission-clutch-3.0.0.tar.gz"
+    },
     "3.0.0.dev0": {
       "sha256": "4e9613ee545198159d722ed2aa99deeee09b3dbd5c79b02ffc0d27543a587edb",
       "url": "42/cf/fc49e63d0e68efc25f006cb92cd42c5b9c1769eb906d48985ddedbe47e0a/transmission-clutch-3.0.0.dev0.tar.gz"
@@ -20933,6 +20971,10 @@
     "3.0.0.dev5": {
       "sha256": "6ab321d0a5652572e7cbd65b74016737986f26ec0440e0086b0137bbc8e75193",
       "url": "05/dd/36673dbfecfd0e1a4c2070b32d27712f4977390d3dd3c929d47b5be52e08/transmission-clutch-3.0.0.dev5.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "18050a9ca600b1f6b0d6207b9ada2fc69b92a2756c490aaf050d61785b6cea68",
+      "url": "e7/e2/5fd771e49e9e3e30cab71e4a1623fed75cc40914295d3604af2a980a0756/transmission-clutch-3.1.0.tar.gz"
     }
   },
   "treecl": {

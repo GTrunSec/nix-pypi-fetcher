@@ -2065,6 +2065,10 @@
     "0.6.0": {
       "sha256": "f9649381c228b212f776e0110f703862a1f7d5926638d26faa32581438155bac",
       "url": "58/60/066996780ce69a027c0236a2621b8eeb4b77fe2db08bb205758f0ff04db6/bulkdata-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "c9003592474e409ab69099734e8ccbb83d19f05bce043d9cd77d4990e00de7ca",
+      "url": "20/ec/7448821478224cce48c60a2e2fe3377a2f35bf3c5805a2b5ac321e5339b4/bulkdata-0.6.1.tar.gz"
     }
   },
   "burnlight": {
@@ -6451,6 +6455,10 @@
     "1.0.2": {
       "sha256": "3ba341b32898fa152e70154d83e3a03072fbb694e3c30bada4ca8d394d97ee95",
       "url": "4c/d0/94e428fe0e551f90188f65bffb2e59556ef8274bcec1dec93dd379dfa9a6/eib-aws-utils-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "b11949ad10ed0bcdb2bc562c405d72db03392264821270b97854337b976dcc92",
+      "url": "5c/3a/ab0a05faa7a253d50e50bdaf5dce8a26f0e0d80f6a18d66b48e4b9853aeb/eib-aws-utils-1.0.3.tar.gz"
     }
   },
   "elasticsearch-prometheus": {
@@ -6561,12 +6569,6 @@
     "0.3.0": {
       "sha256": "b89d8b7658f205721ca04732a089b8d6dfa5667fb3a58e82e6e215e69649cd49",
       "url": "a9/a6/1f99a0c4039f1ef1d93cd01728c287c44ed9194bea4064ca2dbcbc798984/envvars-0.3.0.tar.gz"
-    }
-  },
-  "escapetheforest-v1": {
-    "0.0.1": {
-      "sha256": "1ea8ae9f97155a44cffd2c5da469c52d8697e8f3e3adbec18fe80ab5abf66faa",
-      "url": "87/b9/e32e8e79c257ddfe0cb3f6e0270ce6b2c2fe47ded9061923fa2f142a758a/EscapeTheForest_v1-0.0.1.tar.gz"
     }
   },
   "estimatecharm": {
@@ -8145,6 +8147,16 @@
       "url": "01/5b/fae57ef7287a257bd0afd64e34aece245e01b67e7a0257c4c784f0cd08df/GroupLasso-0.2.0.tar.gz"
     }
   },
+  "gsc": {
+    "0.0.1": {
+      "sha256": "220651fa23cf38b94b63f1806de750004456391893c035b87697eb36240ad49a",
+      "url": "e0/fe/2fa7d9c6c04c0681f500a1d8b5ccbbe40593792ed5ea28c3cebd5149b335/gsc-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "49ecb1179ac689f66588b9ad7e45d29767aab66516d2483619702a82e5ada7ed",
+      "url": "97/1a/165b4df040086a72b944bc29bdeff8f9ac6197a11385b38305c3f64d3c57/gsc-0.0.2.tar.gz"
+    }
+  },
   "gspread-public": {
     "0.3.0": {
       "sha256": "214afbd2395a1187b5515a106cc9455333fdbf0602d2abfcf80e76519ecef6bd",
@@ -9719,18 +9731,16 @@
     "2.0.0a1": {
       "sha256": "3fa49ceb6d034b8b589be86cc9eb281f95b66f3ac4904939209ee0a37566c940",
       "url": "e4/f1/73985652eeb6f341fbd35e7fa0979bf067d132225b242859c4809be98b37/izitest-2.0.0a1.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "ae05d710319518d03e09ad86fcec35414a1f3b94e2c9e6a6d691bdee39cf4e00",
+      "url": "b7/01/052fa4413c2a370d6eb397c3e085a1d4290d04436a33d1072eb6f4134beb/izitest-2.0.1.tar.gz"
     }
   },
   "jefe": {
     "1.0": {
       "sha256": "d74b4070fdc4509b63e7f98e0af7373e25601a007a9aeaa4c20cdab39dd58ab6",
       "url": "f1/ac/814a872b99fa0d645be691d9417dbb2d64ecaddb9ed89dea52fb2c4c07bb/jefe-1.0.tar.gz"
-    }
-  },
-  "jia02": {
-    "0.0.3": {
-      "sha256": "fc88f137f14b7e07959f1e28b698abcf6b817672b3ccd0fc72485a409d70bf28",
-      "url": "71/bd/723133ffc5d4935ab2201b2381667958521ae78d979e75d39cb95f91d105/jia02-0.0.3.tar.gz"
     }
   },
   "jirator": {

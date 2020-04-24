@@ -2186,6 +2186,10 @@
       "sha256": "77e4434e6dc5d52a6c4cac31c069820927aa026a735ffe95d66448e6772593a2",
       "url": "73/47/d055be2724b73345e5e77b79c8f5d27d6965140db91a4658bb2cb990ab9a/clubear-0.0.20.tar.gz"
     },
+    "0.0.21": {
+      "sha256": "e267f80f49b7e9370bab556151b2958a5f571ad5149c4b1b8d0001a9f43f4a5b",
+      "url": "40/42/55e90e1976573ef165527e705ec81487ca861a2953765f69eaa7f99458d9/clubear-0.0.21.tar.gz"
+    },
     "0.0.3": {
       "sha256": "3acb7bba2cb395e7e77dc855906ecf6fa060ecbe99df635ad14dde2dd46d5f19",
       "url": "09/84/5acfc5afa62da0338e2bde73814f07bf1c7dd3b3a77454cbd18e91031776/clubear-0.0.3.tar.gz"
@@ -6594,6 +6598,10 @@
       "sha256": "96e61ea89161c75894d0bf5f8cdd8517f67c91dd9368491dab684226d5e86db8",
       "url": "87/25/8f602c514efaee747a27500d8ba92b49be8b2dbbefea9c2961265b1caac1/fp23dpy-0.3.1.tar.gz"
     },
+    "0.3.10": {
+      "sha256": "c21c3302f40186fd722d3b8808cb5aa476c1b39b2d9833e11280b64b3705f9b5",
+      "url": "e7/9f/11b344787b42575f4678c2ccb3fc51eb4e9ba59d48f8d43767221b9f6b94/fp23dpy-0.3.10.tar.gz"
+    },
     "0.3.2": {
       "sha256": "994e5bdf8592ffd5022993db1c37af74b1b84d4914a4d3e8b746f04aa9b5010e",
       "url": "82/20/f05224e065613476f25fb99d01cca50862854fe069930a7091cd5fd5dcdf/fp23dpy-0.3.2.tar.gz"
@@ -6621,6 +6629,10 @@
     "0.3.8": {
       "sha256": "6ccd63ed4dbbfd2b57ce74b30fcd4e57a9076948127e2e016aaa4344354ab087",
       "url": "d8/d6/bacabc70b9ec906b82c77f0ac681719d4e351e6122c6b4f6db5b1e49eada/fp23dpy-0.3.8.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "e786ab02ae03c88b3d79057cb4cbb425bf5b5101ddd1179005b8f60a1c83257b",
+      "url": "cb/30/3a4583d9e636410e31624a47fe6d61b094feb130298d0f33892dd8d9b920/fp23dpy-0.3.9.tar.gz"
     }
   },
   "freshpaper": {

@@ -12875,6 +12875,10 @@
     "0.2.9.4": {
       "sha256": "0f02ac27b6ba5c6e644e0467b37eb56d69b4b2162df1c69cbb4e8351b199423f",
       "url": "fc/05/58555d2811952364a4a66eab2bacdbe2628e71d61b723cf1ee70e4b7ae21/hipims_io-0.2.9.4.tar.gz"
+    },
+    "0.2.9.5": {
+      "sha256": "e3b12fcbe5aec6daeb740eeef885336112da6fe3ba14a6a440ded07cd9bed45e",
+      "url": "95/14/c2093ee7abf4f5e5e6f946bf4bad4bb68f85075113eea1f6d9c1dd07a35b/hipims_io-0.2.9.5.tar.gz"
     }
   },
   "hotfix": {
@@ -15295,6 +15299,10 @@
     "0.12.2.dev412": {
       "sha256": "f757d2056e543fc9529d4b2c0f81ad2d0c45c74bbdb2c379ee1a0ec4af3d685f",
       "url": "af/28/c52148936c55eeb66803ec0735dfa0f65a571cbc1a86fc659aea699b371d/mapactionpy_controller-0.12.2.dev412.tar.gz"
+    },
+    "0.12.3.dev427": {
+      "sha256": "d4e022212f6605f7304db8253e9741054e435e84f34f6f62a152c3469f4982cd",
+      "url": "99/3a/7e1b7272e34001d40c23340c7d0d981cd7f086b305a85639c1d4b997489f/mapactionpy_controller-0.12.3.dev427.tar.gz"
     },
     "0.12.dev341": {
       "sha256": "bf12ec13d4470be13a1ebf981f35c0bbf861acf66d8dbfa3ec13250138e3f919",
@@ -20279,6 +20287,10 @@
     "2020.4.14": {
       "sha256": "01854b8d28c7c9ff3e8c9d6d5d5fb4b40504010c9a0301ec90f7f09ba3d3dbe8",
       "url": "4a/2c/ec1067af0e3c2dbf416ece2c6e4d822ea77750709bbb98baf981b1ed8b3f/pyleap-2020.4.14.tar.gz"
+    },
+    "2020.4.24": {
+      "sha256": "013116bf65d1168ca2f6592f13a9a9b892e92b9b3d50608b04d6c9237903e018",
+      "url": "36/02/baa10ec1d86dddbcaffee816e123bafefdb1ddb4180db09013a7145eaa19/pyleap-2020.4.24.tar.gz"
     }
   },
   "pymedphys-base": {
@@ -23587,6 +23599,10 @@
     "1.0": {
       "sha256": "322bc140a1ded028a776e03f0c43ee4cb0683ceb5d1313307afe22e0d99791ea",
       "url": "72/83/721400d224b1e6f068fd69f30fe6d7a9da419414f21575950bc6c41ba3ff/super_sweetest-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "95b41e054fe6f164dcfade15ad64d3675963dce6e1270021e04656bdc4429483",
+      "url": "85/4c/18bffbdd338536919387d8e60aa7b7f5d8fb4314ec083dcca734a2125f83/super_sweetest-1.0.1.tar.gz"
     }
   },
   "supercollider": {

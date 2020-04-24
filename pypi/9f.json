@@ -3417,6 +3417,14 @@
     "0.7.7rc0": {
       "sha256": "6d1ac7921d6849a75aacd0ef6086b330d8612f9bba0fec3deb71c095c66a7f6f",
       "url": "18/d6/274f4919a8ae5a65a252a77d01f4217532b62f10b8043bb654057407e745/dagster-cron-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "bafca7b433868f3ed33e57c9b1222a0c5ca7f9bb8f5ed070afd8897b93b12102",
+      "url": "17/84/7bdaf6fbcb168e83274b70a10b5c78dc1d35b455ee461ffe1768bb099d99/dagster-cron-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "937029fd5cb122a1d34af6980faa678961c0eff2c2042d4a05564e1af0280375",
+      "url": "17/08/af2e9c0ae69e40d62fb7d2ae3d8996f51c9940cabdde76062c1d32475bc0/dagster-cron-0.7.8rc0.tar.gz"
     }
   },
   "dahi": {
@@ -18325,28 +18333,6 @@
     "0.1": {
       "sha256": "18fdd3700d1aa00d6a1e6205adbd00efdb26246953254bad8986af06e46dc311",
       "url": "0c/c8/e93b396b31297d900441087f2dafafb76040f8f87652a18be2eb73010edc/my-helloworld-script-0.1.tar.gz"
-    }
-  },
-  "my-repo-calexandru2018": {
-    "0.0.1": {
-      "sha256": "7e2a378906ca802136996c156518ce65560e791937c296aba930ce0fb52102fd",
-      "url": "25/ba/8b3c3476c129bd77dcf045c819e89ba4c658b04bdd4b0ea806b0734ef73d/my-repo-calexandru2018-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "210bd972cb3a7f5cd4c7a1aa9ab83c023a36d0d417216d915426e28d80277124",
-      "url": "03/bb/66fdf4f8d695e9d995437822b02d3521fff42ebc501b8e49326719c5132c/my-repo-calexandru2018-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "1ce980a15729409c8067c91f7be2e5d0e0f8241f6aebee54eb1ae57c7d89f240",
-      "url": "82/cc/ffaad06483095b4eee3ffb6e6a8bcfdf33388d67a5994917be44e3a3cd95/my-repo-calexandru2018-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "b40ff193624ff38b382b8e4b456f1c6608a1e0f4d4967b9713df0d4052680f91",
-      "url": "b0/16/4d40db71fa6dde04abf40ff9cdcaacd7bebd36fdc0e63f355ecabb76a9b2/my-repo-calexandru2018-0.0.4.tar.gz"
-    },
-    "0.1.3": {
-      "sha256": "5ddb7156bd6b6a692299a79530ebb136d4bd7f7b70a97cbc47d003c54c2c57f4",
-      "url": "b5/e7/47d370033b0388f2ece704f1e5ea4d40c07a8596191b361e728da3eab00f/my-repo-calexandru2018-0.1.3.tar.gz"
     }
   },
   "mysecondvenv": {

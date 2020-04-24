@@ -6107,6 +6107,10 @@
     "0.1.5": {
       "sha256": "7b771954258354994f0a8b66eed45e376d104003f33fe585de6fa63fb0b3413a",
       "url": "a6/1d/a9dd46fead69eb64637e0ce27731d7f10984ea42b739253ad6ba53fa5446/dict-typer-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "73338159a26751ebec7877b3e35008605da1ea112f512671ecbe73c74b9e33c1",
+      "url": "46/c1/3a2a9ce06c10f2cf423c9db25d6787e18c45139da8a30443feeb71046762/dict-typer-0.1.6.tar.gz"
     }
   },
   "disc-solver": {
@@ -10353,6 +10357,10 @@
     "1.614.0": {
       "sha256": "61979fd87f63d4d8764f3c435fdd9a711c8fc18d8e8919bea782b7524524ac1f",
       "url": "bf/de/ab550e6969fb2be112fab6f1a991cd7b74a49f417af351a2fb81b9749f1e/gardenlinux-1.614.0.tar.gz"
+    },
+    "1.615.0": {
+      "sha256": "ff16f257c580084c6b86791962d3c62b911bc1a9365a271295f398b999d4ec14",
+      "url": "ef/34/c707d9b9da5999f7fe8ffb59f2db77be92cba36e82f76734355cc704fd43/gardenlinux-1.615.0.tar.gz"
     }
   },
   "garland": {
@@ -25961,6 +25969,10 @@
     "2020.4.19": {
       "sha256": "c6816f0c8cf053a2ca50ede7aec0eebe2ea50d1bc1f74e91c526db94f6f345aa",
       "url": "5e/cd/94115f92fc6202cc2491469e0d04d7ae3927b8628d4c8dcd81f1c6355c5a/youtube_sm-2020.4.19.tar.gz"
+    },
+    "2020.4.24": {
+      "sha256": "1eaabf4d961cb073120ef313a89c4092a6e99d9a44f55430ea60f51872170181",
+      "url": "49/63/f4718b5ac3d2aa44176f442aa8ef0b51ac3794fcc5e1011f37c77b201c29/youtube_sm-2020.4.24.tar.gz"
     }
   },
   "zfec": {

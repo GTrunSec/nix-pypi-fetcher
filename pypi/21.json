@@ -11971,6 +11971,12 @@
       "url": "fe/87/a021a6fffe63442c6a46eb5934a6c362afd211b255f4e426d3b8b3475859/nano-degree-MLE-dist-2-0.1.tar.gz"
     }
   },
+  "nasfilesystem": {
+    "1.2.1": {
+      "sha256": "444a0212f20cf3e3b370595ca98d847242c84acee3512593c22fbf4f2bf58d33",
+      "url": "a9/ec/d4217728fa0b07a1d1e042c660fd5e07f352703fcf30786efe4d8222b659/NASFileSystem-1.2.1.tar.gz"
+    }
+  },
   "navi": {
     "0.1.0a17": {
       "sha256": "a73356a16df5ddca6b21eb871a6e3952fe579c880ba660edeb068b95832f74ed",
@@ -16177,6 +16183,16 @@
     "1.0.1.dev2": {
       "sha256": "94bca6a4a58f51dd373c842b422e664ee0f2e7f41c8060fc41984b019846cd08",
       "url": "95/68/5ddf8f3a37723d0c545b38b0dbbfcd81147783c2c21b5d5830b87f668ec0/random_password-1.0.1.dev2.tar.gz"
+    }
+  },
+  "random-scraper": {
+    "0.0.1": {
+      "sha256": "fd45849196675ccf822ecdc08adbea85b779b87e5708e5d07c5bb790c8effb86",
+      "url": "60/7c/16cefcd0743713a32e94145ce1a018f261413104f7e38bbadacbdf96b386/random_scraper-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "0498038e9ec0e35f541f9e2551d163e78575f75db8e57cc3776d6c7f76034110",
+      "url": "2e/a9/47330ac0da5bfad324cc3b66c0870249e939168a19d54c1cfc6fb9910bf5/random_scraper-0.0.2.tar.gz"
     }
   },
   "random-timestamp": {
@@ -22751,6 +22767,10 @@
     "2020042101": {
       "sha256": "37cf98f51833ed24be80ab388035b12685f81342368a057001b095b2ceea093a",
       "url": "ba/5c/8786c0adbee43e12e3e0bb3615fb5e00b8b5eaf084c8d92556c4396589a8/tlds-2020042101.tar.gz"
+    },
+    "2020042300": {
+      "sha256": "1713879c2e9d88609cd616ba887b6614edec704da22fc8dd798075185cd4baca",
+      "url": "b6/1f/98aa945d5a4b7e46061ba93f3f00f815c8195815288713036af3eaf37fe3/tlds-2020042300.tar.gz"
     }
   },
   "tnefparse": {

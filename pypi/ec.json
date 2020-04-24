@@ -2434,10 +2434,6 @@
     }
   },
   "butterrobot": {
-    "0.0.1a1": {
-      "sha256": "a2ee509a1a040564efc606ec35a8ad57671df200e461b80f7bb615f0486b595d",
-      "url": "84/b8/e7834bfebc9a1eb85184fc95ba8a863212645d02d4764c9bfb5bfcfcada9/butterrobot-0.0.1a1.tar.gz"
-    },
     "0.1.0a1": {
       "sha256": "28accd4eb79d6b358eedd14eb29cf5271115ea3980e052ef287be18ce5ace0d2",
       "url": "d3/37/c87e4e92afb975cb8204acc4ce5ab1f259e152c6e24667af4bd90ccec601/butterrobot-0.1.0a1.tar.gz"
@@ -5947,6 +5943,10 @@
     "0.4.9": {
       "sha256": "e90d9e0f9c6507e154ae0458a2ae481ef5935b14eb5a46d104cb81bd3bbb8790",
       "url": "04/3d/9db487bdf3a34497c7204a2be964960962739e78b944903a63f86201df6f/dosk-0.4.9.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "874124b994e66ba43b1058126bbac71270e08b99b28f20424b9e45f3a6091fa4",
+      "url": "7e/73/40f68b283d97707592367fb002b2e4c76891c09034159667be39e905e9c1/dosk-0.5.0.tar.gz"
     }
   },
   "doth-dns": {
@@ -17763,6 +17763,10 @@
     "2.4.1": {
       "sha256": "2366c7aa373118315de7c082401907bacd28e8b1e4e0a6d702334d17b89e71aa",
       "url": "09/b1/31d3ccf2ad3d4f7727b325ad7ea77d042e1939c5cacbf1d7478e391cca51/python-crontab-2.4.1.tar.gz"
+    },
+    "2.4.2": {
+      "sha256": "ed9583cff430715d9560cbad28309429ac13f3fdb13051ac2288050e05abc392",
+      "url": "d1/c2/e92e801a0c504e62899d574a6d281d6e598861797c6798a664556d2bca8c/python-crontab-2.4.2.tar.gz"
     }
   },
   "python-gamelocker": {
@@ -24411,6 +24415,10 @@
     "9.4.212.dev5": {
       "sha256": "7bca4be9e546a9c87fb55b84cfd28b340dd3f57e6321a598f889b8aabafc9220",
       "url": "0c/d7/a8941e5995c346cde21a188c0a98186c43c3fc9ee047ae0c965613399c0d/sickrage-9.4.212.dev5.tar.gz"
+    },
+    "9.4.212.dev6": {
+      "sha256": "62182e324b00ef82433d32ce57cc58f5f787a700fefc1a4663ca627180929576",
+      "url": "a9/c0/e73228c2e81a261b795efcceb34e9d380af85b22628ba28bd2019a208ffb/sickrage-9.4.212.dev6.tar.gz"
     },
     "9.4.22": {
       "sha256": "2fbd5533b6b3895844dcc662827a7b3d6cfebe241e58f2410bbdb7c8ffe3a202",

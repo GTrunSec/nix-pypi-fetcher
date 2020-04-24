@@ -8546,6 +8546,10 @@
       "sha256": "eb1986dbbf2053c3fc7de203afcf0e8d8c0926a13567f3eb01de315824c3ceda",
       "url": "48/80/7bb6195ba7a3d81729c1f452350a4668b37c309d5b2d1ccca2a508fa7a39/dpu_utils-0.2.13.tar.gz"
     },
+    "0.2.14": {
+      "sha256": "c498c70786ccd66ac9820f2007ce2f23a5d7811d8dc090ee4b35b46c1f2e961f",
+      "url": "5f/db/4928e502a47bf294f301607d6c589345d86dabb6f58457bd80128970b561/dpu_utils-0.2.14.tar.gz"
+    },
     "0.2.2": {
       "sha256": "382a6551390f1f1afa86d7e2906c2ec87c6474f89311f0a4b6343901199dc355",
       "url": "0d/33/25e9822d6b56dfc0295a17ab87764157ef072b8db23dc05ee3dec33c93ae/dpu_utils-0.2.2.tar.gz"
@@ -9933,6 +9937,10 @@
     "3.0.3": {
       "sha256": "906f7a44243fe2f5fce315046155087c0b317c0766a3df3946bbd9a1fcd1e99f",
       "url": "a9/9f/1e102be55ff5dcc73d69c4494efb1c9e61b922123e38d244520340567eee/FicusFramework-3.0.3.tar.gz"
+    },
+    "3.0.3.post1": {
+      "sha256": "12d9f5f4c6cbf0daee39e97a95b9d4ca3d927982107b3826fe843fa5d1436b78",
+      "url": "2a/85/ea8b5875dfe220baf88aeb3ac6e3ec4bf064eae2ddc753460861db5826af/FicusFramework-3.0.3.post1.tar.gz"
     }
   },
   "fixnames": {

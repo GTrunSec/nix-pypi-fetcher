@@ -21667,6 +21667,10 @@
     "0.4.7": {
       "sha256": "7c7f4e0a092ee09eeede5620b69ef2bacce294a5b380ece2d8e0abbea395d07b",
       "url": "b5/5c/4540a966fdf84d5a12d5292cf9152f1857be770c4988a705bae868fb57c0/raveberry-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "77fc855d77a15ca8baa7f8db21a9240f7ececd298851eb7e23f9518d371023cf",
+      "url": "c5/27/dd10d4b73cd0106f9572a3918f0bc1ca1cae0827a9a9c74d59d88c307fad/raveberry-0.4.8.tar.gz"
     }
   },
   "ray-appengine": {

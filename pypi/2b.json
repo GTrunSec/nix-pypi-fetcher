@@ -5531,6 +5531,10 @@
     "2.0": {
       "sha256": "02a99ce84245abfd1a233650be13b0b8e67a235f11f1922a067cbc144dd328f1",
       "url": "8a/61/821c66f0e0612141fd3af1e0bbf4e3717bc909b5dfd3d86ca359b148c493/django-oscar-stores-2.0.tar.gz"
+    },
+    "2.1": {
+      "sha256": "af5b8371ede96cdbf1bb17c890a080e7351fd24a00372824b3c784acfb7d29a3",
+      "url": "2b/a5/ea32d178da66032b82b996f09b8fc883882246bdd0a5c3b516751dcf9992/django-oscar-stores-2.1.tar.gz"
     }
   },
   "django-paging": {
@@ -8885,6 +8889,10 @@
     "0.1.dev200420": {
       "sha256": "10b72e75f9487ae52d4b55eaa237008609c1f97faa36ba5d4e9bbad78a2ec5ba",
       "url": "3f/e2/390ccba84f2f9e6650e9d73099d312820fc5de807cdbc310fccdde5a28ee/fvcore-0.1.dev200420.tar.gz"
+    },
+    "0.1.dev200424": {
+      "sha256": "fca380a50a523709eaa9137f722a5541a9dda060400960146a41979431180261",
+      "url": "be/09/7565b3c7782d916907d881fda1ba52a074ef9c8cf921cc437fa2c076bb3b/fvcore-0.1.dev200424.tar.gz"
     }
   },
   "galapagos": {
@@ -15912,9 +15920,9 @@
       "sha256": "a33e75e5cea5e7a44df0b7338e3b044b8a1c252c3856ade657300b04d5c6cb37",
       "url": "c2/b1/2a59d3967f39646aa66aaaae65ad5b347c0a5604910f2cbd0f06f9d140d5/pspipe-0.1.1.tar.gz"
     },
-    "0.1.2": {
-      "sha256": "41b7c2494745a820c4baeec6d94a1b1ebe82c4b355280b318405af9e57b9a2fa",
-      "url": "78/5f/152a7e9199c050161b9d26aeddf4ba97db749397bd7ba3bb17e6e2ec1a4d/pspipe-0.1.2.tar.gz"
+    "0.1.3": {
+      "sha256": "bf99b08be8aa945dc80e83c065fc377d3d94d44cf6e00cdcbe856d8f46ebe53b",
+      "url": "f2/9c/c0237cf5c8c807c3edc5643576374c32dd9fbaed9ebce3619955703cb409/pspipe-0.1.3.tar.gz"
     }
   },
   "psquery": {
@@ -21947,6 +21955,10 @@
     "2.4.5": {
       "sha256": "1e8f83e8adf71ef0b092ad00717b6dc5c1ad679c1ac44639c0ffa8119adf8974",
       "url": "ba/21/b2d65cc85cfe30940922c47e8069510ccec448d484ce9d2afdd6a1e273af/pytezos-2.4.5.tar.gz"
+    },
+    "2.4.6": {
+      "sha256": "e9d79efe0e2d2411b010dd250adf582681b83b7bf27116fee05e6d049666c3e3",
+      "url": "8e/7e/3dde977ac385f58f9872bf3387058327bf39d0cebadf1dcf5ae6e65f6b46/pytezos-2.4.6.tar.gz"
     }
   },
   "python-configuration": {
@@ -27677,6 +27689,24 @@
       "url": "32/82/2f6ac2b2f01f0ea203b0afcfd896ad7b2b1e87e2640f29a6ffa50ccbce93/tirsvadcms_packagemanager-0.1.0b0.tar.gz"
     }
   },
+  "tkinterx": {
+    "0.0.1": {
+      "sha256": "f3c7d4c4e65bb6a1d17d211ee934f603931873f95febc05d89658453f913a96a",
+      "url": "74/2d/65a58738c7acf16c5fa25827fdf55236412d91adf80899af6b911fc60ee6/tkinterx-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "8a1689c1d23ec60b4b41e87fcca2556d6069e8846a251f367033b2dc50e916a2",
+      "url": "dc/4f/442a7b40dedf10fc9464b8c94f8ec11cc310a875f420438356017d9bf69e/tkinterx-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "942b9c1a46e3299a53b561757a897dd8cabe163f168f53d2a9f8d2f3c825bee0",
+      "url": "cf/f2/1d1a1175a12947f84a09e757a165e1aade96d229eaf50dedf2505862d377/tkinterx-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "179ceb0133a98da4be42c3fdff25b3aed8806cf48674cdff26d42031957495fe",
+      "url": "01/9e/8592e20ceba29354d3eba6fd7f7d95a5c94289825e2a08b6a339f12d26d1/tkinterx-0.0.4.tar.gz"
+    }
+  },
   "tocka-django-unslashed": {
     "0.4.0": {
       "sha256": "d14878b579c721fcb9504f9fe773e5e6638368d236ca086402152fbe5fa3868c",
@@ -27871,6 +27901,10 @@
     "1.1.0": {
       "sha256": "aa248191c2464c6f9587b32e52c2bbb16cadefbdee56c0809a6b9c6dc95e1e40",
       "url": "54/77/d8d1bc047fa140a82e8727012441fa950be1a40bcc3bfc17e9e9f7aab702/tri.named-struct-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "5737bc7d104b485f6ac0c33afb23e36048d3f7b73c5d5988026a34f21f83dd1e",
+      "url": "c1/8c/03b678ca460a82f9271deae384a406739ebc69b4e0425e2652621c694608/tri.named-struct-1.2.0.tar.gz"
     }
   },
   "trixi": {

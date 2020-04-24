@@ -2003,6 +2003,12 @@
       "url": "5e/ef/4dea1e783b59e64179a54de09e35bd66c388b5f1901bd59ffe47e00e315d/app_lara-0.1.tar.gz"
     }
   },
+  "app-store-connect-client": {
+    "0.1.1": {
+      "sha256": "f1c1b27a1af2715b4495c3e59893ea843b08e98e12104df556e6e2bec9503545",
+      "url": "5c/13/57e236916bc8ca1efc3ffc02a6dd8fb7def2717468fdc5bcba481d5e2942/app-store-connect-client-0.1.1.tar.gz"
+    }
+  },
   "apyref-ca": {
     "0.1.1": {
       "sha256": "302e09eef632320d702244d31ca6921cff4e0c4829adeb6f5eb4fbd7a93ad1f8",
@@ -10161,6 +10167,10 @@
     "0.5.7": {
       "sha256": "441391ed7d5f880a7a6e482b5771a032a4b959f583571ba7e37d8212903c4455",
       "url": "db/a0/f2fa155418f5656f732ed256a3eadc7fb720418444e74d63e2d5b055a3ec/guy-0.5.7.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "c6fd4797bc10406323f7143dedaa50f6c86bd0b726e5b174cb7ee07327eb8df4",
+      "url": "19/12/f4334f6f778015ee30f619f0b500c23e966bc5adef531869f4620191a85d/guy-0.6.0.tar.gz"
     }
   },
   "gwmt-dl": {
@@ -13999,6 +14009,10 @@
     "1.0.9": {
       "sha256": "2fd6f7c5edc92c06b8820e0cbd38b73990ddbc2dde921eb44ae4935e25c7ed36",
       "url": "91/37/fe528de5810a6a4be893f347c0b01ef49684ad679c228cadf8fba7d7c10e/mypassgen-1.0.9.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "627e87befed9396da132d5387706fb7f20f9dba7118314c9a28d08150affef7f",
+      "url": "ed/b1/f7fe1a6b0fbd5c485595fb9f686c305c1f282a904dc3afbd24396dc66070/mypassgen-1.1.0.tar.gz"
     }
   },
   "mypy-boto3-acm-pca": {
@@ -20803,6 +20817,10 @@
     "0.0.7": {
       "sha256": "94155b761ab67fdaa28f6125eaf6e56f8bf4a23de1f560d1912d50ddc0affe85",
       "url": "3a/56/75ca9e3d15cbdfc8afc0f6773bc9bdaaf0e85e8ef840124e52d710cd030c/rio-viz-0.0.7.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "91044cd3e583fc3e7bc5297320f17a630286f52ef85159ffdaac9c05445e3fae",
+      "url": "97/b7/3f130419a2561a177aa4e7437bba907581ce9facfa3cc18872fe09bfb5fe/rio-viz-0.1.0.tar.gz"
     }
   },
   "rioh": {

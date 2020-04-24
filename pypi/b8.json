@@ -3199,6 +3199,10 @@
     "0.2.0": {
       "sha256": "041160471aa22693d0d0b49ca8d646e16ec32acb77813410a25375f4bd81ffe3",
       "url": "2f/08/65ca1206d82352c95ec31a8a260eb38459524516477ee633cdf0a785c6a7/catd-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "b5359319fb8b861b619b2f1238dde42e097f69be4e1c606b01d728c68e0fe23e",
+      "url": "09/a0/e4e2bd5f7bda23b25d9ed1fb6bc0bcee2c029b1d3cd4d9364bb17246bd5c/catd-0.3.0.tar.gz"
     }
   },
   "cave": {
@@ -16481,6 +16485,10 @@
     "0.1.7.1": {
       "sha256": "90056910a2e4241841e9f0826303f83b668bdf61125ebd678597e510e4fcf1e1",
       "url": "76/fd/fb831a149bc4a07942c443d73b6009f360654c756d1a3bfa660e20f471ef/pydevice-0.1.7.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "40f33e1d202c5a5ac5728337eb1c360f7f1f6c625d37e5ce1f190fd07debb18a",
+      "url": "c6/02/63a30ae9ad0615c55820f6d26669ae48be1d213b0474614a9b1725ceaa94/pydevice-0.2.tar.gz"
     }
   },
   "pydigger": {

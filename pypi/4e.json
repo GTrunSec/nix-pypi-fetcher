@@ -259,6 +259,10 @@
     "2.7.0": {
       "sha256": "aff8e74901e9a33c98a677b30075325494a7bb173b519e79b7db5c77d8b1e265",
       "url": "19/9a/3384ffb12f794ee0a1d07435bc89a255364cb6bf73fb3a3045a962b6b597/Adafruit-PlatformDetect-2.7.0.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "95077db903b5bc6449cf844077e5109a8c496c8d67641b31b2767f157f6668ba",
+      "url": "7b/c5/084a8f68b95a88dd4e6d7c5cc0cac3978f454870991485fff497ad85dec5/Adafruit-PlatformDetect-2.8.0.tar.gz"
     }
   },
   "adapy": {

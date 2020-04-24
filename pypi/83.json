@@ -1505,6 +1505,12 @@
       "url": "26/5b/2ab5bd1fb00855207d1ebee34e6c6b58a35f4e38c267d10b322a59236cf5/bilbo-0.6.1.tar.gz"
     }
   },
+  "billing-2": {
+    "0.0.2": {
+      "sha256": "5dcc1e884a4ee10b943b66a49fc3d0ae28fac840364f9aa6024e0d889641365b",
+      "url": "eb/e5/d11d108a3571a491d2b6e9356ee72e837a091ec1859bec4cd037537e549b/billing_2-0.0.2.tar.gz"
+    }
+  },
   "bioshadock-biotools": {
     "1.0.1": {
       "sha256": "c57f301fdd57eec5a2af22fa7de2e8c158e6a7d4edeb50004a33674eec3b1cd7",
@@ -3915,6 +3921,14 @@
     "0.7.7rc0": {
       "sha256": "3d8d549007a6846864f2feadac485b903005d43415803d28a16378c93fe5a6bf",
       "url": "86/8c/c9214473cdea8df2a0a130457d4589c02d134da71c4a69ef7b4d647cf6d5/dagster-graphql-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "06ed1b77ad6a704cd5c051fb09ecf812d64b66e6725029931f3bf2a4afdfc29b",
+      "url": "d8/ba/eed7d8d99d9740972e52a81ce2f34b6120837626ef08efe9d1d743e86dd1/dagster-graphql-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "b997b75755c6f7df9feac00b37ebf7b8e7d9238940942da01859b3132ba77309",
+      "url": "71/e4/d0b5976ae305635c0f397625147a4563edeee769ef95e381b9c573628ce3/dagster-graphql-0.7.8rc0.tar.gz"
     }
   },
   "dagster-postgres-nightly": {
@@ -4423,6 +4437,36 @@
     "0.1.3": {
       "sha256": "f423c734d5e7b00cc875c36f3233b9ef01da6caea966dd8086776c7ff19a1253",
       "url": "99/b5/5d7ff6e66244e292d73f8c89a1d011931930f37ca4b32539eca3f2329f9f/db_backup-0.1.3.tar.gz"
+    }
+  },
+  "dead-simple-framework": {
+    "0.0.2": {
+      "sha256": "9da7aa228520b5091a49634ecff5d0f74dc5f3946214333ffa2af0cf7410ce23",
+      "url": "63/c5/86743e07a6663a7576a0f27ed0a65a37920b54537c52c9e228ab4bfd5c15/dead_simple_framework-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "87aa8a57944fed61b52bd7f0d600598d232b80b268b8f235e5efa2bb506ca0c4",
+      "url": "3c/50/adaf58e4c7566d928e8af576213a302ac39279055f7b81d4a5899c5f5c66/dead_simple_framework-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "ed451811b3a8fea2acab201f62d6caae0965ef77ac2f902c78f94243349c9519",
+      "url": "a3/42/b22c1e9197335f49d058bf23deb925432c1f34935f212dd1d6ad6ca30658/dead_simple_framework-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "35438205ba741c95a9f7dd22d4bf0bef309fed19302a16eaa581158caadd0711",
+      "url": "2e/4e/1e6068cb43ffd57dfd5c35ed2f4c27f3f73773ea97f87dc98b818960574c/dead_simple_framework-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "189ab3005684f9cb546afb6f952c633181caa03bd2e40c6912644efe7153bb10",
+      "url": "05/cb/3514760710c1a5d34b1f8c826df5c5384e3c2f35b634a28c9846acfe364d/dead_simple_framework-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "557cb832406dd4e4f78f2fd6ced09ee795d8fdf8c247bc72a8f600dda2917975",
+      "url": "bd/af/1e7b7e1f26f93c12dc0b01e571b426de6f5adacc3350751ed340274e5ad2/dead_simple_framework-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "91784afde87799404cede1d37c7a7b0c72f36d9618a9b5f743c227e99f6f799b",
+      "url": "d0/52/a90f76e60e8bba62730654ee4f1e8eba5fef80c9a7d527980975fe0f5b17/dead_simple_framework-0.0.8.tar.gz"
     }
   },
   "deckz": {
@@ -5527,6 +5571,12 @@
     "1.9.0": {
       "sha256": "a15a323fc772b066626d73361dae2bfb1ad5a6b4f6e7e4817a395bfd93e058d4",
       "url": "57/4f/09091750d8da804994a91ada4e05c6ff2352c49090cf76b3f47a69c85cbb/django-hordak-1.9.0.tar.gz"
+    }
+  },
+  "django-ibm-cloud-storage": {
+    "0.0.1": {
+      "sha256": "fcfa77a54609168c49e1a77b6ecc8e7b636d3db1e5dbdc3655b52e599f90eaad",
+      "url": "90/85/6431d2f50fbe929efd987acc0a06c3769ed21dd9995d64fc592ec1582a1f/django-ibm-cloud-storage-0.0.1.tar.gz"
     }
   },
   "django-identity-external": {
@@ -16553,6 +16603,12 @@
       "url": "6d/1c/cfcd32099261efd5e49c55127ca077639df93b807daad8a165fb48717c5c/pumpkin_instrument-0.0.3.tar.gz"
     }
   },
+  "pwh-pyramid-routes": {
+    "1.0.0": {
+      "sha256": "7cb0138449bc7867c133fe71434a82074cbba85fbde5c58efd83341e7762e359",
+      "url": "d7/91/fb6f05690942baf8a75a12bd2e295264e27098e51220ac2838e725f95c4e/pwh_pyramid_routes-1.0.0.tar.gz"
+    }
+  },
   "pwuvzifqnb": {
     "1.1": {
       "sha256": "738cba12a1ae416b58c2e50126e0fa36e16c03f9642df2da06e6d8169f80b14b",
@@ -21660,6 +21716,14 @@
       "sha256": "89d09a18c1bb95f6dccb2ec4d7b90cbb2a58bdd6939c156d6e7051d89256d541",
       "url": "1d/29/30a3078e39e0ef636dd6edf7dad2d411444fdaa276245cf16f7c45aab2f1/tableschema-1.16.0.tar.gz"
     },
+    "1.16.1": {
+      "sha256": "76df2b9d20293bb33af81f096bd2c4ae09890b74bfaf1cb565d42d7facb3e3e5",
+      "url": "b3/6a/8100f84b2cf74e00c69f60c985cabc6a3f06443458bffcf24df36a2722f7/tableschema-1.16.1.tar.gz"
+    },
+    "1.16.2": {
+      "sha256": "c5666ea60c922714f6aaef40a5df9aef47f49a7f0c192e029da49a7d77ad4a8e",
+      "url": "55/ef/fd5ccff63f42dedd90803d1af3d39e6a5061121fa9537d8337d666174de7/tableschema-1.16.2.tar.gz"
+    },
     "1.2.0": {
       "sha256": "e53d850a9655d8320393ba6ccef18cf293e89860cc65988bdf8abb2ba2a1de80",
       "url": "aa/4f/2dcfda2f7ad2b5cc2a2d8b44b699157e41aa889e3a46b1fc894dd9e6ec90/tableschema-1.2.0.tar.gz"
@@ -23045,6 +23109,10 @@
     "1587625496": {
       "sha256": "07aadee764fc1603f5fa46f4844946bd8947e2ecd4f214a248997d426fa32d88",
       "url": "12/97/390e6ef62c9d8dae9d81abf52c5505718923bc392c7f61d200cb9a1d566e/torchdata-nightly-1587625496.tar.gz"
+    },
+    "1587711904": {
+      "sha256": "9ed4d6ca2598ef7d3454032327ac596d5fb63f08ab160c3ade06e754b4c35964",
+      "url": "1e/e7/4dd57ca13eccc30e5f77d48547391c1675aa3ef2b0f1c724985f3233f7b5/torchdata-nightly-1587711904.tar.gz"
     }
   },
   "tornado": {

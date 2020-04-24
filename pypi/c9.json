@@ -786,6 +786,10 @@
       "sha256": "3fe2906672effeca92c154bb50ed99d4bb78df4e316632cbd2e6d29fb989f4f5",
       "url": "4a/ca/90e58ef4f616254e3a53ce1aaf9686a11a191d0aa31e26519fb36f7ca418/allennlp-1.0.0.dev20200420.tar.gz"
     },
+    "1.0.0.dev20200424": {
+      "sha256": "373ed5d5b3498d6a1efabcc20b2f48793eeb55db6d0cd2e554e7b6b6b5ab71d9",
+      "url": "7c/d1/220ec3c6ebbfc5cbbc650e3bce6369cfab0b149d1693dd77ffdf0e6fc889/allennlp-1.0.0.dev20200424.tar.gz"
+    },
     "1.0.0rc1": {
       "sha256": "cfe353008c944a314fdb4558e95cf798a1d12c0c3ebb6f4e1ab38d6f5286ee02",
       "url": "3e/70/7a3bd32edf2c824b66960a953e91fdbe4a0da9438b90a156ba63e5a61bcf/allennlp-1.0.0rc1.tar.gz"

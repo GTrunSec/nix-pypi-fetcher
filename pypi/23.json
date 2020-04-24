@@ -1947,6 +1947,16 @@
       "url": "32/ab/0b18d02d36492d91b9767663b4a7cab9252e54ba403ad11568397b6cdd3a/begin2018-0.0.2.tar.gz"
     }
   },
+  "bert-text-summarizer": {
+    "0.0.1": {
+      "sha256": "d006fc1c8046c24176aaadb948ca20a76823220b709a7e45306374c32388068f",
+      "url": "ca/02/24549a21ba0cbd5a6b2484d4e050a7465064272869c9544f670e42631708/bert-text-summarizer-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "c26cf1d8517c35e92d5bb22eb495e4d8136a73addb51735a1cb48b8758effa78",
+      "url": "e6/bf/9d90c9c4445f9a67547dd4e74ef3784bbc2974cbbdee094c3f5d9ca59b10/bert-text-summarizer-0.0.2.tar.gz"
+    }
+  },
   "bgapi": {
     "0.1": {
       "sha256": "5709ea3aff4efadfcb0150bccaf70f15b1ed4d1a438b9decaa0c0baf1d6a1336",
@@ -2640,6 +2650,10 @@
       "sha256": "e43fe5aa22f11df512e8bc7a37a28dc6d1e1dcf46083be2c55441090117a3e16",
       "url": "93/c5/29a2719a7cd7617bbf1c872068b6e6e7e5bd8b121be190536c49922d128c/burlap-0.9.75.tar.gz"
     },
+    "0.9.76": {
+      "sha256": "45dd052d1c039aa8aea60b09eaa1112cc551227033ba28a44d9aea127ed9b06b",
+      "url": "0d/13/df62d123dfa27b9eda6b27e768846b990ef91b03efe8efbbb9f50a29ee17/burlap-0.9.76.tar.gz"
+    },
     "0.9.9": {
       "sha256": "9c1309efc00ad4f9cdd3a078ea20c402cc7c396d26d1b39f4e95bc6887f73c40",
       "url": "ad/cf/4d5db2bed992775f1857c6cb49584c4456af7836405dc183c4b36ffc4139/burlap-0.9.9.tar.gz"
@@ -2893,6 +2907,26 @@
     "0.0.1": {
       "sha256": "e37b6cb1e82957f046371a49b95484d60e672223a01283789a747872a54c891b",
       "url": "b8/92/a515751c153014986bb3eb8e78fa195171e9ef8f9cc67533160aa34214b2/chuchuro-email-template-lib-0.0.1.tar.gz"
+    },
+    "0.0.10": {
+      "sha256": "b37322430210fd6cbf62f267fc4e9f7bc0b30961c76808d2c95a4ff0cebe1c1c",
+      "url": "e6/f6/4b036a12482025a26399c07a03f8465cef28e2c85583a7713d242273d7b8/chuchuro-email-template-lib-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "f6e7ba68babd37d8dbdf447b28a48ed4144702eb2216fbdfdf2970d27da19150",
+      "url": "bd/c8/daa54e96b06b3277d4ce5e4e3fd6803a614e893acb51fdb6db9def41cfa5/chuchuro-email-template-lib-0.0.11.tar.gz"
+    },
+    "0.0.12": {
+      "sha256": "2f4f7f3a89d5993abfdaf5ed900bfb2605d1ca9d487ad151a17a5b47080753dd",
+      "url": "2f/6f/043cc689eb061634e6819cb77b320a65eb67240ad305a2bad5f1ca824222/chuchuro-email-template-lib-0.0.12.tar.gz"
+    },
+    "0.0.13": {
+      "sha256": "00e9c74e0b74350563077cd67bad3f29be9a06b4e3eb177ad50eae8925589674",
+      "url": "f9/41/db91c6610098e528446ceca97ca0899679e3d4169c263b60808a002669e4/chuchuro-email-template-lib-0.0.13.tar.gz"
+    },
+    "0.0.14": {
+      "sha256": "8231e9ba8587136814a17fec451e6b998f21f60e97f014ce05bb6f2bf45a742d",
+      "url": "8f/e5/ac2356d500f342409ce90a10335997156323b1843c3be0ad82249bcb2d88/chuchuro-email-template-lib-0.0.14.tar.gz"
     },
     "0.0.2": {
       "sha256": "a34d0b66bd419c1643369fc81bc6e01a8a2e87696657043f9049064cd1cadd6a",
@@ -6785,6 +6819,10 @@
     "0.1": {
       "sha256": "36d0e22b1c96e3c2a591a4400a2dc0d3a5c4aba8e388afa45a05f9eca522e242",
       "url": "41/cc/91f5e7f0e4e4812333e11799059ae68a61d26dd44f34bab4021455853def/fews-3di-0.1.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "1d0381e571b46ed9b0bed0b5cb29f7969f5bddc4b85dbe58767d8f7ca35b070a",
+      "url": "aa/f1/fc4213666b4bab80911a7757da61a65a5aed63e9738144b33e0967ae595b/fews-3di-0.3.3.tar.gz"
     }
   },
   "fifostr": {
@@ -21459,24 +21497,6 @@
     "0.0.1a0": {
       "sha256": "3e1b9c262aebc8b3655a68658f6a7155044bb7bd1b851c73a24cfb0f00f9cbd5",
       "url": "02/b1/406c62276bef19ae5aab6b6244f0bfcfe5c497483c0b1703ee14a3d571a3/spill-0.0.1a0.tar.gz"
-    }
-  },
-  "spor": {
-    "1.1.0": {
-      "sha256": "602a528e6a9ca4ddd8b35ffdaed66595524f9ebdc7bc3af73ec3b3bcd4dbeebb",
-      "url": "11/cc/48276c9af692be0608ca7071c2d5bf3aaca2f70beede1bcc56fdbf59d16f/spor-1.1.0.tar.gz"
-    },
-    "1.1.1": {
-      "sha256": "5804462c58ef94ddf158359439f4058b99988fd21c34621ff4c8f3bdb1d92b46",
-      "url": "01/82/118d35d6c8004a2e3017b4ae2a4e266ed19b3eeca0fcd6be0de80864dff2/spor-1.1.1.tar.gz"
-    },
-    "1.1.2": {
-      "sha256": "2184e084afe464ef0527663df10a901d3cf808f00c87831d7e5579c9f604d6b5",
-      "url": "b3/f2/3678daf3416ea2f60fd5b4bb428e430d7f4b0d384fe138c9727950a6f27a/spor-1.1.2.tar.gz"
-    },
-    "1.1.3": {
-      "sha256": "2537e45e1d3713bacdb49b98be6a1884799337efe04e199703b1b061b87605ff",
-      "url": "25/e4/3ad704ce60e601e6f7818852ed1527a710204cfba99f000eea3fb5f4edbd/spor-1.1.3.tar.gz"
     }
   },
   "spruce-project": {

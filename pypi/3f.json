@@ -4148,9 +4148,17 @@
       "sha256": "c58cf4c98150d44736d15f30729fd76e399521facd458d77cc8b51f09604a0df",
       "url": "04/f7/e414f8aa89d9d3d493e81367a52f5950c1a9a292d82b950bc75e4f4d885f/cpgclientlib-0.11.168.tar.gz"
     },
+    "0.11.169": {
+      "sha256": "dfec86ba8dc3085965911c119fbefc9b97349460800b241d3d0a77086ca214bc",
+      "url": "f8/3d/2cb295ffb920617d0804b5088beb1b741197aabc7c2368ce6d0a39b2a764/cpgclientlib-0.11.169.tar.gz"
+    },
     "0.11.17": {
       "sha256": "302a934870914ce6d8fe40362cd29b5aa655033f1fcc97c5f03a1ab6b8dc5464",
       "url": "5a/47/09860abb0ad51d0a9f3ec093c75fbc7c115d59cc447cf9069aebcdc958fd/cpgclientlib-0.11.17.tar.gz"
+    },
+    "0.11.170": {
+      "sha256": "e1d1b839a898255b151cdb94d2ec7b0936385c9c5ca6246303cdceab8e12128b",
+      "url": "24/74/f379067c24a9c71b0a64d358b2e83f5879068109b93e29910fa1c16b2fb2/cpgclientlib-0.11.170.tar.gz"
     },
     "0.11.18": {
       "sha256": "3c2e702ce1450acf3e2cdc97978f6b12d795f456c304c0b121baab562c2f1b9e",
@@ -26725,6 +26733,10 @@
     "1.0.2": {
       "sha256": "ac5b744fa6d3b8307f8bf08a0dcfd574af76a073121c01752c8b6f34735e59ba",
       "url": "45/7e/de29fd068509decb2da80b0fae73fb15bed23eeacf35addde0fe312800e7/word-vectors-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "826f36d1ae8c67d479d4bd34a9a64d3b49a4d65b7fddb2672ed8a375c34065dd",
+      "url": "4b/d8/71ef8541f38022d5c56a6820bcfbfcc9ea0cb0e90d06aef0467af5e57550/word-vectors-1.0.3.tar.gz"
     }
   },
   "wrlc": {

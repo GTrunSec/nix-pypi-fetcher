@@ -12817,6 +12817,18 @@
     "2020.2": {
       "sha256": "ca931e56257106fe184269321eba9ab92f1a5316f519e4b5146ef8c178e044a0",
       "url": "cf/22/a69f2ef2523c138b8fc54c77d20b796736db67600e8320345a282123285f/layeredimage-2020.2.tar.gz"
+    },
+    "2020.2.1": {
+      "sha256": "a3689ef03f14cf7e699d161e2f80a7f6dfe104ac2607222527fcef3abd17eec6",
+      "url": "1d/ee/a6b5d7204a2dddcd76e59e2d6b50c92340e1bc9f9f49c62d4bff1a8c7842/layeredimage-2020.2.1.tar.gz"
+    },
+    "2020.3.1": {
+      "sha256": "d9cb9c66e1775c31e3ffb9d885d7d2c7d182868b87cd8124f9758349970c6e97",
+      "url": "9a/ce/f35dbfaa8f2c904526dc606429da3932b9f72435b4aebfd3607d27f9e1a1/layeredimage-2020.3.1.tar.gz"
+    },
+    "2020.3.2": {
+      "sha256": "16899da111303e468d5c289a99ceb439e5cd7e64c30ec29e7194a8f9c91c8f77",
+      "url": "2d/a1/bf0c82e87853e2dcb7713aff621dc8d13bbcd75394452bb16c1bc3cb82a8/layeredimage-2020.3.2.tar.gz"
     }
   },
   "lc-py": {

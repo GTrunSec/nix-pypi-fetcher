@@ -16403,6 +16403,10 @@
     "0.0.6": {
       "sha256": "89343e547ba56d4ae6ac5d8cef0661851c6c07bd5450bf43416a2b0c854f5f06",
       "url": "d5/54/8c8a6ecdc7649d85de478ae89c432eeb3219f2cad5e6215cc7d9d90b49da/openiti-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "357eb3e00055c1984a130784d19b3d43759047b9875151623fa11a76f8b897d9",
+      "url": "fc/15/66d31ffcdd18aaaa064b161c144acc366da37f6d46dee63ed1f8ce5a8a7a/openiti-0.0.7.tar.gz"
     }
   },
   "openlmi-scripts-logicalfile": {
@@ -16611,6 +16615,10 @@
     "2.6.5": {
       "sha256": "89c853658e3dab6e553205159c809f84fd8a69886fe0ef7e4e5eeac407254926",
       "url": "e0/a0/1d9fd173e1c23f21f2eb6a15ed0abf3787b3433e57c2f51e102d078f6f93/orjson-2.6.5.tar.gz"
+    },
+    "2.6.6": {
+      "sha256": "910796567d46223a7f4eaea0cc2cb4d3d3adb7a6bccc5ffa8fa2f95b4296d8d9",
+      "url": "7e/c4/720e951165265b69d4af648378facccd4ce10b459a7052958488d8e5ab52/orjson-2.6.6.tar.gz"
     }
   },
   "osol.extremum": {
@@ -19841,6 +19849,10 @@
     "2.1.3": {
       "sha256": "1aa2ab6a125f3fcf8b18cbedb8c4c1049af5dcee67b942737bd9787557abb28a",
       "url": "1c/21/2670fe3002c53b7479c8aa6e1d10d595ebabb39e846cc4e239c48367b76f/pyngrok-2.1.3.tar.gz"
+    },
+    "2.1.4": {
+      "sha256": "cceccd687739052ce64388650a8a6986c7cfa599a3d10048a0e9e010badaf0a2",
+      "url": "d4/26/16f6dc4ec14135e4ca880e5bbd34e8f476a9ffb86ec829ac6ee016a81f2b/pyngrok-2.1.4.tar.gz"
     }
   },
   "pyobjc-framework-avfoundation": {

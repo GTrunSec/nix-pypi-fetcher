@@ -8171,6 +8171,10 @@
     "2.5.4": {
       "sha256": "1c56e5eee4c4ce74f3a660aa2f89ee6638d89d58b0df7c092095e8a7b94c3429",
       "url": "6e/90/cbb12616777506742fb15af9989747e6d51208ef4a69edb043bc5edc3a81/hdx-python-country-2.5.4.tar.gz"
+    },
+    "2.5.5": {
+      "sha256": "ea8be269cd70cd09ced651d04ab55cf5c27b6c6c0f2713922884c2acb7002763",
+      "url": "5c/21/f2c5932ffb7d2bed330b0ab3e47612224c1a73c75d79f86d6c5f02af1563/hdx-python-country-2.5.5.tar.gz"
     }
   },
   "helper-funcs": {
@@ -10317,6 +10321,10 @@
     "1.18": {
       "sha256": "1997d728bec019d798167a945572c8e6708847c4024bcd217e39c7a1e74bd5e4",
       "url": "89/3c/ffb356394ac02cddf176057305449df55df431ec804d0d2852361358f0ae/manga_py-1.18.tar.gz"
+    },
+    "1.18.1": {
+      "sha256": "a39e9636f47a4be52f6d4d34854980b1b1054d5cfafea7d7e825f1013887afa0",
+      "url": "e8/b5/f46591ae0e5deda90e3303343393e2179e14c355bf3afd0151e4861f1a07/manga_py-1.18.1.tar.gz"
     },
     "1.18b0": {
       "sha256": "e8ab15eab92aa69b494b9e3b1305dfbc2142af5f653c42559a3bbb1e0e6e7809",
@@ -20307,6 +20315,24 @@
     "0.9.0.1": {
       "sha256": "7da00a8109e725ebeb1c510322aa24ffe47cb672745f368ccb4d1629324c19d3",
       "url": "91/c4/7b79779ad96d6dab2546afe3fc9512b6834a90d1490fa4d5b61c67352800/ucscsdk-0.9.0.1.tar.gz"
+    }
+  },
+  "uio": {
+    "0.1.0.3": {
+      "sha256": "1a1ccec3d11c54dd5df89409935963f42f2cbf0c3e33c53f56e538e71d4263eb",
+      "url": "e5/55/4fb3555567c63801799e1bffcb06da07e41a8084e51de6acfa7be606703d/uio-0.1.0.3.tar.gz"
+    },
+    "0.1.0.4": {
+      "sha256": "2e3e22335980d29bc0fbbc188336004a0b787971903f750e81279eed193509c3",
+      "url": "1b/0a/86a87b464b49d6c4c88e678898dff76b5015e3398533bb8dbf6eda51b5ec/uio-0.1.0.4.tar.gz"
+    },
+    "0.1.0.5": {
+      "sha256": "cafa75bb88cc8078545eaf89bd710db5b3ceb81677fb04403a089c5067c245dc",
+      "url": "c1/15/14bb1cdff04bb3370b5758cbd6e5854a3adab58a76c33a62918bbbdd05aa/uio-0.1.0.5.tar.gz"
+    },
+    "0.1.0.6": {
+      "sha256": "2d96437f8ed3435f839f2a7e88af37c9bfb9f8d32e83cb9feb670e54716e76c3",
+      "url": "2d/63/fc04d0bd354068c13cba918ea4cb4fe58b8b58074d48533e129c7dfd6a09/uio-0.1.0.6.tar.gz"
     }
   },
   "unach-photo": {

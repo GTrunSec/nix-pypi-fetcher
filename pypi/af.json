@@ -5379,6 +5379,14 @@
     "0.7.7rc0": {
       "sha256": "f7353f96f6093cbe2384acf3dcb060a4daa811308e465f83e9442dddb8073f47",
       "url": "59/03/2a1c06b0c07fb654fc9025df1fd8304cf6b762c0914535f19a341f71a6f0/dagster-aws-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "f33bd4289d4816de8e5135929e37ab2200465ac49e7734bbf842193180957617",
+      "url": "95/b9/9a11148811459d385d32cfb1bc9736b7353bf26eac94558fc26cabd795b3/dagster-aws-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "ff7f73c7b6e8ce13303820c053127e63f32ea22308136663f7227c8bd26cf09f",
+      "url": "e8/46/9a91acc9885e7a49511729f4a2696021d5727b71249c0d2e35df9e889b3f/dagster-aws-0.7.8rc0.tar.gz"
     }
   },
   "daiquiri": {

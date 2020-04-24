@@ -6835,6 +6835,10 @@
     "0.1.4": {
       "sha256": "106ee99f18f87fc9909a5f03712c829bbbadbe92b997ea5b7f01d2c26f809c9a",
       "url": "f9/54/404e03c0ec45ed661f4000ef39ccfdd28274ff4d65c981029745eaa17000/etl-pbshop-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "da85a4f4c8f312c79605bc0d1ec7ff6d67709c114567607d6762176da10fa2b1",
+      "url": "0b/2e/6eba3d08402e0332fdae659c02c0621864bc2f318850ec7836824c4f9ea3/etl-pbshop-0.1.5.tar.gz"
     }
   },
   "eurotools": {
@@ -20145,6 +20149,10 @@
     "0.1.3.4": {
       "sha256": "4d4b5c260b29d8797563a586e43b05d67fd512e8d94445ef17ff41a1ef42fa29",
       "url": "b4/51/7c3290fb7370e0ad84de311582b0065d74a309b9f5068ae6df12d729731e/SeaSor-0.1.3.4.tar.gz"
+    },
+    "0.1.3.5": {
+      "sha256": "2664c0b52673e5b96c9967cf0ef13580c7ac0d7083961301c233182b38932d3f",
+      "url": "b3/6e/d7bcb7c0c2e2cc5e1e319b6162a9eef0e9fa1c0410921566c1969592608b/SeaSor-0.1.3.5.tar.gz"
     }
   },
   "selectel-dns-api": {

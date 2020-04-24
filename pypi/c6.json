@@ -15905,6 +15905,10 @@
     "1.0.1": {
       "sha256": "7fc9f2906b1d2a57ede7d5127d1062e8c30bd9dc1d0954df1cfa492df9789f58",
       "url": "3e/22/29a70110768c100cae8942491252372a1ad9f0d0924361ca688d154de923/pulumi_rke-1.0.1.tar.gz"
+    },
+    "1.1.0a1587669586": {
+      "sha256": "20091dfc16c38e9639efd69935ef21272993d26545ced9e6e73fa2074a36e953",
+      "url": "60/89/1e4edd60325db227010bea1c5579d5b529ae37bc89a7d68f1643dd3a24f2/pulumi_rke-1.1.0a1587669586.tar.gz"
     }
   },
   "pumpkinlb": {

@@ -19275,6 +19275,12 @@
       "url": "52/d8/e2c93193885172d55bccf34d34efab94464971142d74dbe296f17a53af4e/rlcluster-0.0.3.tar.gz"
     }
   },
+  "robopom": {
+    "0.1.0": {
+      "sha256": "a8dc7aeb00a090f25bd7bba227ebfda8878969bf1912dd8eda50ca4a6edb3181",
+      "url": "b8/79/40209814538977d04c7b9fc47bd9c1a30b2c1a2c5f681dedb67fd6ed3282/robopom-0.1.0.tar.gz"
+    }
+  },
   "robotframework-imaplibrary2": {
     "0.3.0": {
       "sha256": "a39cf7daabc0ea92eab4add870794dda57d80938b2b26c0b365170df95f3d7b5",

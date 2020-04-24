@@ -4119,6 +4119,10 @@
     "1.7.8": {
       "sha256": "fe694f09010769956e1968195860f55cdf4bceb4584e81c57b617d796cd3e77e",
       "url": "fc/90/cf44560cf43b65ff53209f90e4e729b1d45b83bca4775a01311d6e7f07cd/cos-python-sdk-v5-1.7.8.tar.gz"
+    },
+    "1.7.9": {
+      "sha256": "4ff12b2948fd43c90817eb3d5adb63f77e173fb7312b9fcb537d466dbf545231",
+      "url": "88/c8/b806757064f22ca21b6d692e04bd9ca8028de338fd977afa0e38a302a9fb/cos-python-sdk-v5-1.7.9.tar.gz"
     }
   },
   "cppumockify": {
@@ -11683,6 +11687,12 @@
     "0.0.1": {
       "sha256": "9da24464e3b6afe041d07962536237ad64e0429adc700409b79a329266ca31c0",
       "url": "e6/44/a2adfab26b46db4397b5898c97ede47c1fbbf2fead74b5ea79595ca749ad/livecheck-0.0.1.tar.gz"
+    }
+  },
+  "locus": {
+    "0.0.0": {
+      "sha256": "0baaf4be17e6bba812d65a3f483afd643cd54985215f39061e430d40ff9176e4",
+      "url": "85/0c/e5f8d3918902614105524ad3bc6edfb659da1db81c5547864e5ec11b3bc3/locus-0.0.0.tar.gz"
     }
   },
   "logging-spinner": {

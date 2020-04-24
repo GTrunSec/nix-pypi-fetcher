@@ -1014,6 +1014,10 @@
       "sha256": "3b69e351dd11d20b9b7935e7a928c068d570798094662c642488001ba59eb848",
       "url": "44/ae/f2fb3c4663bf23b4d9fc9fd2454a8f20a9a4c9f8c02f572f9e57490f91e3/aws-cdk.aws-stepfunctions-tasks-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "b0d8ac1648f9b36cf924f0c2355a0b36e9ce2f876dfd227971fb807651477678",
+      "url": "d9/be/702c1bb936715f0d5cce86509f97db6ba05956d03b72a08a3135badebec1/aws-cdk.aws-stepfunctions-tasks-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "6f2a7b7d8516911da0b8133b05a3394985d3d4fe7291916ea35ca615af6c590c",
       "url": "8f/b7/372954790d79c0755e371393f7d6bfc87853666f5a12a5f3ca842fc8e327/aws-cdk.aws-stepfunctions-tasks-1.4.0.tar.gz"
@@ -1801,6 +1805,10 @@
     "0.3.1": {
       "sha256": "93d2420d44b5016706f162fd219b1761f02f52ab919cfa9884b5b785bb95a5ac",
       "url": "ea/38/cda514d4e1040aad07a28aafa3808295690604ba07394e3ee224d04217fe/cache-alchemy-0.3.1.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "9c48957819cc7ebd6b07a028456463b6a14e7ba879079ace487d4ccffa6ad73b",
+      "url": "8e/41/4f6b3ea4d35c54daf71f99ae28c85f79afe94f0991485cab0e50aa23017d/cache-alchemy-0.4.0.tar.gz"
     }
   },
   "callgraph": {
@@ -29959,6 +29967,10 @@
     "0.1.0": {
       "sha256": "82afbf89c42f1fc94ad6d41ca7b3e90d6bc96d4b383aeae7d37bb0d39a5e0290",
       "url": "11/96/f8b8970a808d2d70acbb1f301e8fb78668fc4a69e7e345426a3527ebe375/ustorage-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "aa8b5077b42acf672d54febacf965036789b1e48fb55156fedd5061d6bab86e5",
+      "url": "4d/40/5ff4976e28a92f8ee47d6e1f61504582f3b5d4165534f601eded4a00721d/ustorage-0.1.1.tar.gz"
     }
   },
   "validata-ui": {

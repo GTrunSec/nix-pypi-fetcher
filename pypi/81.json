@@ -4457,6 +4457,10 @@
     "19.0": {
       "sha256": "b90283546e987a9436d09f8026b16cf9a518ddd91f11e21a0c22ffe1df69bdb4",
       "url": "ef/ea/d55111bec8619e93c7fd40557c002171c13c8998b049332eecb9cee8e037/connect-sdk-19.0.tar.gz"
+    },
+    "19.1": {
+      "sha256": "de1fcd456b21997dba90fdb8a0d5c36858d2ca37d336840f2caed86ec6a0a885",
+      "url": "b1/0a/a95d1ed6b148e9717f3ece8a1da5865183836202eec2b2d6497d56d8506f/connect-sdk-19.1.tar.gz"
     }
   },
   "contextlib-ext": {
@@ -19019,6 +19023,10 @@
     "0.1.0": {
       "sha256": "c28ad219a872350b1dd7bb5229673e67deef03edf846ddf907cd6f9044735d28",
       "url": "d6/bb/26e24710855f9f7e496c6036655975fe2b2e2e7e76a76cd43345fb6c21ce/robo-gym-server-modules-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "d219199d538df1847142b372883a8f9bbd115d71754c992c001534853c379fb2",
+      "url": "1e/13/ea996b94e7e0ec70c9ca90038803e53ac325438ab272ee703bc248f1db3c/robo-gym-server-modules-0.1.1.tar.gz"
     }
   },
   "robokop-interfaces": {
@@ -21903,6 +21911,10 @@
     "3.0.165.1": {
       "sha256": "dd4fb49f225ae39ce261b578bf4a616bb380bb90729307d7fc7e121335ef8c63",
       "url": "0e/3d/f275fa18cc912cdf226fb6c949486ff878b5d5b5bb149c95507839387cce/tccli-3.0.165.1.tar.gz"
+    },
+    "3.0.166.1": {
+      "sha256": "7d6ed445b9d122fd12f4d4b7220e075485a48ebd3720f4de2d93c023b39fe6e7",
+      "url": "9f/c3/b523ae4d4909555e071531adb1d70c473d2ff769b48ad0ce2b97af040258/tccli-3.0.166.1.tar.gz"
     },
     "3.0.17.1": {
       "sha256": "55a0ceff468bc6cfd10a14c6df0a3650bebcfbcd9d414f2c9bf425a46b83df56",

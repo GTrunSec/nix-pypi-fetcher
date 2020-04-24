@@ -932,6 +932,10 @@
       "sha256": "787475d1397055ea20d66ddd18a0164cf3ffc7f8eb829826418b911e9e43b48a",
       "url": "49/cd/575a86b6b1599c4113c444e89d0083e601b6e5991a8fc7e1246952e880b9/astroquery-0.4.1.dev6114.tar.gz"
     },
+    "0.4.1.dev6116": {
+      "sha256": "51526f76be20ddf6bcccf5b37993329c2dc5e7dd6b0287bb061ed86d337467cb",
+      "url": "73/cb/40a118b8b75600ebe9a3d6b0bc68cf3f2587209a93e2f67ce7c7f0d3ec6a/astroquery-0.4.1.dev6116.tar.gz"
+    },
     "0.4.dev5744": {
       "sha256": "22676d2fe5c186026ee77b67360c313204ddbf9d61fcfedbaa061aea63d7ce6e",
       "url": "80/fc/4ad0567df9f9283caa586681c54894ec9c6f6eb53e17e70998cd1530f071/astroquery-0.4.dev5744.tar.gz"
@@ -9233,6 +9237,12 @@
     "0.1.0": {
       "sha256": "07f3abccc6e85d919a56fe95a3511d5835fb5bb71e57ebfaad0e3b3f2d267fd9",
       "url": "84/3b/d32b2ece5203e1978df6ba82dad198773f2c38916f8f2ff38606ab668f4e/importceptor-0.1.0.tar.gz"
+    }
+  },
+  "inaccel-keras": {
+    "2.3.1.0": {
+      "sha256": "a91d670bcc8455fe0b8d911ee1a51bda5fbde0fe2f0a87112b5a03cd82641dbf",
+      "url": "66/c5/36c1f8a2af95bf5d794a3580802ec361fbb560ed88fdc1b4d511ee0efd4d/inaccel-keras-2.3.1.0.tar.gz"
     }
   },
   "inapp-purchases": {
@@ -20855,6 +20865,18 @@
     "0.2.7.dev20200423234802": {
       "sha256": "4104994530ec020cbaef3bbf375d2f4462c13e50f51e6799ca023edead271aa2",
       "url": "74/e9/6618885529d06a391cc15e4fe0473d0e73aababe40911b56936f10980966/timecast-nightly-0.2.7.dev20200423234802.tar.gz"
+    },
+    "0.2.7.dev20200424005326": {
+      "sha256": "0db0cf89fbf2e13fac1db293985e96d2d31aaa30957fc699837e987b0f1fd658",
+      "url": "ed/33/f754b93d386baec9f6996d4335eed6839e4cb94118820f00d9bf551c1d1f/timecast-nightly-0.2.7.dev20200424005326.tar.gz"
+    },
+    "0.2.7.dev20200424023454": {
+      "sha256": "76552844d80ad06f9aba8ff98206bff73e16b21f5ca34a0e0144439bb4a1a42f",
+      "url": "1e/e8/b36986dbdb5f9255ca90965c54d2b03d7f59b60b55569d14521c840928e4/timecast-nightly-0.2.7.dev20200424023454.tar.gz"
+    },
+    "0.2.7.dev20200424032524": {
+      "sha256": "9de1041471879e1b12b73cd8546d0be24f7579ea1604b36e49b9a676e6eaf4b5",
+      "url": "0e/da/b4af0f8ab035c8169522a8c07ccd49806bca13e2b4fa9436bdb2f6d544b7/timecast-nightly-0.2.7.dev20200424032524.tar.gz"
     }
   },
   "tmx2dataframe": {
@@ -22119,6 +22141,14 @@
     "0.0.7": {
       "sha256": "bc5ed651d43035da46793cdf1133523b46ad6ee7c1b2934109fea40358e389b3",
       "url": "f2/51/928805496caaafbcdba9433a3b9f282156d7f5bc23853c1081ed88e0579c/YTchannel-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "e744cd61634788c845b826418cd10418a18f6496502adf90b294cd46ebc72f37",
+      "url": "82/94/a461645cc3c2e95a3124a0bb19b7bedb1c6107433481d9d6181aa72ab05b/YTchannel-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "fa6b0d6c0cf346bb27e06c6cfdea1a113ce6cd1c8c8c9dd3b3713c9d100f4505",
+      "url": "1d/2e/14d99d380470a08e36c44a2d7863be940c89f2621e54f706ad1903e380c0/YTchannel-0.0.9.tar.gz"
     }
   },
   "zdb-analysis": {

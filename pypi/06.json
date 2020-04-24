@@ -4715,6 +4715,14 @@
     "0.7.7rc0": {
       "sha256": "4ca7c76789fc6e01b7a7220f7bbd6ba9e9d9d035e200aaac621d57d8fec3ab36",
       "url": "91/b8/332e960f23d1a782f1bc54acf72d6163963077f6e73a634033aba4f301dd/dagster-prometheus-0.7.7rc0.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "1f4f651c715e2df52f30506387fda58019d2cad5c36b6e05b20c89f674893585",
+      "url": "30/72/9de08bce549c67a8cce908dff0a84c490a5724cde39913a4223d61114d42/dagster-prometheus-0.7.8.tar.gz"
+    },
+    "0.7.8rc0": {
+      "sha256": "2e152ee1a7e43703f9df8109887a03f52f5dc39d48a018febdcaa62926976bfa",
+      "url": "e3/92/88d0199b31ba8a013a627de5c0544dfd182e037f882fbe45ad72525ae4df/dagster-prometheus-0.7.8rc0.tar.gz"
     }
   },
   "dallinger": {
@@ -9167,44 +9175,6 @@
     "0.2": {
       "sha256": "ab9022f8c76de46fc9c11568be5061c0ce4b2e2b53eeeb86a2ec1fcf97cf4334",
       "url": "ad/9d/3752dadf82c38d36d916e50bda934e0d06ddba03e4e1a4999fe9b855a244/h2bb2h-0.2.tar.gz"
-    }
-  },
-  "hachoir-metadata": {
-    "1.0": {
-      "sha256": "6257a68c7f6e1a4d7cb0248a9c5ffe9eb299981dae7302b3b5fc5597db2b5f4e",
-      "url": "1c/49/1bc67b26febeab2302223d8f9d886499f97741dc5d790006eb639f35f9f8/hachoir-metadata-1.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "42740ca61d9fb00155458188ad9020034b028ad3bbee8b03d038f80e3a173ff5",
-      "url": "65/ca/0427971be7225fa8109a8b4048449ad2bc266dca6457fc7f1fab9cf1ab95/hachoir-metadata-1.0.1.tar.gz"
-    },
-    "1.1": {
-      "sha256": "95a8834a654732a215ace8dfff44358272af958a6dc7d19fb0b705e856910a9f",
-      "url": "c6/65/c0e6404ccb51f8aa75955e43db1edf31d20f9690296df2f265fbedca3ea1/hachoir-metadata-1.1.tar.gz"
-    },
-    "1.2": {
-      "sha256": "bcda483b55131b4a651a01e8c35e19dc4a9ad947f62cd7953ef5bde76c7451d6",
-      "url": "01/14/07b7c2b9b6b198588b822dcf159714e8fc261e0b5a294e831a23378a3ad9/hachoir-metadata-1.2.tar.gz"
-    },
-    "1.2.1": {
-      "sha256": "7862c538ae13f5ea71d413f66bfe6570cdd82414588b296321daf62ee1b7acd8",
-      "url": "5d/bc/ddd19439b6da9eeb936567874963371737b20bfe4b1dbd94359d0c877b50/hachoir-metadata-1.2.1.tar.gz"
-    },
-    "1.3": {
-      "sha256": "1161d58992f07e0f2bb64c269ffc90d34a506477cfe9338accb160e945c304ed",
-      "url": "2d/ca/841e24da03025d718f6c2d220c3d51c813833d83eae75ac657d520cbb980/hachoir-metadata-1.3.tar.gz"
-    },
-    "1.3.1": {
-      "sha256": "a3fb61af1cf7d8048d36820ea0a953cbc89491e8b7ff5660dc0fa503ebdfd584",
-      "url": "65/f4/b7ccb4458c5fe6fc86e89a6afeaee4c098c59e25ec527741f0b33d047410/hachoir-metadata-1.3.1.tar.gz"
-    },
-    "1.3.2": {
-      "sha256": "f13aa356b78aa0d7497588be604e4fa6b5e9b4dc950fac67d6079bad5e19530a",
-      "url": "f3/b1/191fc418c0dff97c975971652a035fa64e3d664fa8abcadaaf2edf653785/hachoir-metadata-1.3.2.tar.gz"
-    },
-    "1.3.3": {
-      "sha256": "ec403f13a44e2cf3d26001f8f440cdc4329a316a4c971035944bfadacc90eb3c",
-      "url": "98/89/f31ba1431ed7627032338cd009eaeb65dfad1311fa1437107c406fcb025e/hachoir-metadata-1.3.3.tar.gz"
     }
   },
   "hamster-rc": {

@@ -8719,6 +8719,10 @@
     "0.9.3": {
       "sha256": "2b7b0b3de80b1466c023720172798b139e38380ed1d3cd3fb40963c4a1d798db",
       "url": "61/a3/8e78996350aeab43431d872914f2098446f83bae3de0917f6bff5e965f02/gbmgeometry-0.9.3.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "f0645c04db9ddf5d6e6b9623ebb77117463a493db5eebffbcbaba7a845fdf1e0",
+      "url": "7e/f5/6bfb1637894aca78bb322c23a483f06c3bf7c7a211a334c18c7347631d7b/gbmgeometry-0.9.4.tar.gz"
     }
   },
   "gdf-formatter": {
@@ -14615,6 +14619,10 @@
     "1.5.0": {
       "sha256": "6cf47501f465727ecb262497ae432f7ac375415ed0dd6032eb5de0bcafdb3e6f",
       "url": "40/6f/da128bb8915d609c9220c097290771d57880b5f940a953f244f1fc5e46f1/nonebot-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "0453f3a002faf8fd145d3328f0b8a0229b6e6341dbf4dcd63c16dc16e3eb0b5b",
+      "url": "ca/71/8a67542884d270922ddc7b48ca818b1e806011bcdd8172287560657f5cf0/nonebot-1.6.0.tar.gz"
     }
   },
   "northstar": {
@@ -22233,6 +22241,10 @@
     "2.2.0a20200423": {
       "sha256": "d3a5137b24d765171ea25c33edee99472c245936b913731dbd829f3494f9b050",
       "url": "32/7b/09a22aa9ed71e5d9754276a3a11a21cb027b746d04c94aed534d90a593b8/tbp-nightly-2.2.0a20200423.tar.gz"
+    },
+    "2.2.0a20200424": {
+      "sha256": "a66abc3a5b7b287e4df5eb3fbcf618f3a507097d8717a45ab8e986e64ba03376",
+      "url": "28/df/611ad842273364eceaf252641e40a64b6b39227088ed45e56f0487b88c40/tbp-nightly-2.2.0a20200424.tar.gz"
     }
   },
   "tddmon": {
@@ -22961,6 +22973,10 @@
     "0.1.2": {
       "sha256": "ccac168192ab5910c68cc8039f02090a93bfa9842f6ddb3f1af84ac58e7d9cbe",
       "url": "68/02/3be6d2bd3f6653e56a82f06ff0c5d71a4fcf2491810c76d8e5ba41acda23/typenv-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "be17756c6481e34b5902e0397d2d357739abade329dcc5da055d1f36ef9690d4",
+      "url": "e7/33/e65400366967e1dca62efa25c8c9a903dcb5552a86ede0376a2541784cab/typenv-0.1.3.tar.gz"
     }
   },
   "typus": {

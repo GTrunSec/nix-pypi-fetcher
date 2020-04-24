@@ -11439,6 +11439,10 @@
     "0.2.6": {
       "sha256": "cdff1e12851944139fb14748e2043778f1d68cabfae90d2e5277d1571dfed021",
       "url": "b2/aa/6df3a083ece95f8cbab0f74cd9404066afcd3a182647e80b4812eefb22bf/higgsboom-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "9412fa83761be3ef0ac84859031116edfe1ad1d3e33de129ddaba912991851b7",
+      "url": "bb/df/30373ea1cdca7894246839a7a0ffe7d78b4969370208f71c2b5be93c5058/higgsboom-0.2.7.tar.gz"
     }
   },
   "hivfacts": {
