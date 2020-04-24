@@ -381,6 +381,12 @@
       "url": "e6/08/3c4d37bf2e271ee00729b1e09803ebf6c07d6388adf1537f5bbad555f089/airget-1.0.tar.gz"
     }
   },
+  "algotype": {
+    "0.2.39": {
+      "sha256": "62e9c1a1884862c348aaee577d44cbce938fa1eabf03e2a2de2b996210fcdcf0",
+      "url": "11/1f/58ba24bcfe410ff1323aa919d7e3edb1f468cdcdc066b9b9ce406fa2cf8b/algotype-0.2.39.tar.gz"
+    }
+  },
   "ampoule": {
     "0.0.1": {
       "sha256": "dca941d71aa5f3b8a5946501ed8397573a8687d9d6c3519022a885dc82505aba",
@@ -901,6 +907,12 @@
     "0.4": {
       "sha256": "6c6861b38dc13ae26e4765ea5339e28d9a07da750ce8c0fd616c7607ce9b6c8d",
       "url": "12/01/7eb656465de09423b59028004c9a48ed96aa59355b9c3c7a00319e682107/aws4o-0.4.tar.gz"
+    }
+  },
+  "azure-ai-formrecognizer": {
+    "1.0.0b1": {
+      "sha256": "cce1ceecd041b498b9e7a33618482834e2658e467dd405f9bc89b60c042c09dc",
+      "url": "2f/a2/8851a5a71d14be8f959853dcd84ac23b41f4c639cdd6da0e54a33f1191d3/azure-ai-formrecognizer-1.0.0b1.zip"
     }
   },
   "azure-cli-sqlvirtualmachine": {
@@ -10212,6 +10224,10 @@
       "sha256": "0309e3942c51dcb6d0a81b1d951b2c5cf25e6a4cceed652fd908f6e1ccba31d8",
       "url": "c4/03/2fdab414021d635d79829c482c024cf547640ceb1b5c1c2b41a2fd748b86/insightconnect_integrations_validators-2.22.0.tar.gz"
     },
+    "2.22.1": {
+      "sha256": "6c743a78cadb9d953e98320bc6b7881d856bd2b68e983d839686cdff43232504",
+      "url": "f3/cd/39b646e70eca53681c3b3adede93b06139280d056003949c546dc2897fac/insightconnect_integrations_validators-2.22.1.tar.gz"
+    },
     "2.3.0": {
       "sha256": "2f3646b553207aee1615e3df1fb2ffe447c8e16a16e3a46af40548617b432032",
       "url": "f9/6e/03cdf8ec56cdb62deefc9eafa436ceb331a647ec654adb43a216b7c6318c/insightconnect_integrations_validators-2.3.0.tar.gz"
@@ -12029,6 +12045,12 @@
     "0.0.9": {
       "sha256": "cfbfa8dc4b2860dfa118103300079156113833ddb0cbee144541f70ba42471fe",
       "url": "16/d4/7e04a2419cdce364b656e9f5e6571cd7426439f2637e7bcadd1c142ab16a/lrng-0.0.9.tar.gz"
+    }
+  },
+  "lsqfitgp": {
+    "0.0.1": {
+      "sha256": "72760e1d9e4581f2f725fe16be7853b122bbe441f235a102f3eb0ee026fc18fc",
+      "url": "ac/1f/4d460f61dea2181509a1e8e4c68fb6f270cefa17c77c35815bb54352c0e5/lsqfitgp-0.0.1.tar.gz"
     }
   },
   "lut": {
@@ -14447,6 +14469,10 @@
     "1.12.44.0": {
       "sha256": "462b36f3c82f6417224c77048b9b0109334ed183be88eb26cf2d8972858cc1e6",
       "url": "0c/d8/bf5988cdd14257990d27b7b0f02f4374ae81a378b5f5ee40b9828a8c166a/mypy-boto3-xray-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "37afda2c7e64234f0472a725ffaef58aa9f4bdc2cb6097559c855c43f5983141",
+      "url": "ea/bd/53e87d5c2087beeea5bdcff49d61d7297ee40045c39a9f201296e6710f54/mypy-boto3-xray-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "bbbe70f7eaca947018d4363db070f9274c5b9b7766c44d94fdaab44bc2692858",
@@ -25163,6 +25189,10 @@
     "1.1.1": {
       "sha256": "54cf3a4db2626ceee2102c0c577985cc703c9a4f439f8ce5f246d7ffeb466e55",
       "url": "98/f4/93b9edbf79aa61d0ebdc28c5e604d5453a8117f102cfb8067d2d1f8cdbd3/zssh-1.1.1.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "acb9c869680b839dedd714ffe456dcbee6859af4214d762aad3f2e2f47f6bed7",
+      "url": "fd/c9/a1d75e37efbc2628b24b0f226d93e2d91e108f742472daa036a9106ce0f0/zssh-1.2.0.tar.gz"
     }
   }
 }

@@ -16871,6 +16871,10 @@
     "1.4.0": {
       "sha256": "256b4def9f0b1dc884645100571c01ac67b8609dfe0086e381a6a5ab42c313eb",
       "url": "6e/ae/656a60de6094fe9b923e1b4dc07b9dd964c133ec13a1146c9924e81e6ebb/gramfuzz-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "886eba81eebeebbe8ff4b5661bcd5e36d57e384118e574fd8fd5a8d23ad4c421",
+      "url": "48/8a/58cde98bc65b4845212b5a27902d9fd797f5a51a9953fba6514572844fd8/gramfuzz-1.4.1.tar.gz"
     }
   },
   "grampg": {
@@ -17085,6 +17089,10 @@
     "0.12.0rc6": {
       "sha256": "b3265424ed512ffba733d40b211ecdcac719331435a9725f68d4a21632531950",
       "url": "79/3c/e98ff887a84eb9843d8cee9e5608873cb1f6ca3f1cb7e4739c4e6977b0d5/heptapod-0.12.0rc6.tar.gz"
+    },
+    "0.12.1": {
+      "sha256": "add94ad272b2cbd413d6712b091d459bed3ad635059fbe9bb5a75d722a8f0e12",
+      "url": "9b/d9/0ef1fc389327bf694695767706b261a6216fbd0b06cbc2565a04802f8579/heptapod-0.12.1.tar.gz"
     }
   },
   "hetio": {
@@ -21666,6 +21674,10 @@
       "sha256": "7b8148db3386d0a8d87f4afb9647ffc2540983c4b8e1bb72ea9720c13de0551f",
       "url": "7b/21/1f2aed82b4e0fea9480c0121848baf7e87c471714275452b88e78d04d246/mypy-boto3-sagemaker-runtime-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "12eb873f1b840c384da906f595240be414595f5bbb7d1dc5e982a996e897aed4",
+      "url": "6e/d8/b39f38a4f15ad769db966828e5b0fd335d758a1e5fd745abcbd291e03a81/mypy-boto3-sagemaker-runtime-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7f9238c421b7562edd11b566b2e1c23800a11c29bb820d028a3797eb971a9dfc",
       "url": "d4/4c/9b5477cab0924849180271371cbdf34951c229cfc7ab483759dad7216b7c/mypy-boto3-sagemaker-runtime-1.12.5.0.tar.gz"
@@ -22183,6 +22195,10 @@
     "1.12.44.0": {
       "sha256": "06d9690d2926b3dab7db12a2cf7be5cd41f7d0a72dc67c7fe95d9fed55512453",
       "url": "47/f2/59221b889b44cfea0e54bf86240de823aca0b60eaa4a61bbd88d1bf55fff/mypy-boto3-waf-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "5285b0412116d076e1108f99ed61ab64d28e06df46676c9d5851eb2e8b058db3",
+      "url": "f9/17/01108d8a59a335ba2f91d24c56e9cc25db68f210632f4330cbecdc4982db/mypy-boto3-waf-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "290ae6c23ce47901830f530ab1209fb1f3c5b6251b80fb930894c344573e5991",

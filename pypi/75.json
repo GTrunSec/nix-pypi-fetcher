@@ -1559,56 +1559,6 @@
       "url": "77/a3/ae833f640ef4f38ae5eea762925f0f6c58c45f0af14a035ae685bdf3abcf/bcdp-0.1.5.tar.gz"
     }
   },
-  "bibleorgsys": {
-    "0.0.1": {
-      "sha256": "fcb348dedf7186df529c6433574b0699e5032ab9c09775d1ad7104ba1dcf8dd1",
-      "url": "99/0b/8e0d54a49f53ab3e216c3468828e921f172d53210db7c8279c780c7ec844/BibleOrgSys-0.0.1.tar.gz"
-    },
-    "0.0.10": {
-      "sha256": "c195bfc968e1cec6a74472067c43d87cd0eb0c9633108526f247c57052323b40",
-      "url": "6b/62/15d62bb145c53f7182b95f96d13ab0dbefebaa482362a39f27a023fe42c4/BibleOrgSys-0.0.10.tar.gz"
-    },
-    "0.0.11": {
-      "sha256": "7571878eed16863a7b9e4235cb835ec1439a7a503720ef9a3ee5b7d607510580",
-      "url": "64/51/b458bd4ab478394819694be114714b7a1e9e9240de32b0c320b6a36f3de8/BibleOrgSys-0.0.11.tar.gz"
-    },
-    "0.0.12": {
-      "sha256": "1ce5c546a74c3039b7e67b68d3cd89467f5d989db0c869e842413d6f62a1f97b",
-      "url": "cb/c1/1475d601acd63bf292a1b23457cd6c2e9285943dd25e9f66f08dda2e04ca/BibleOrgSys-0.0.12.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "f0b62e0f2725ddb6ccfabd0e6687203e855f523a2e3afd530a30a9911a79a08a",
-      "url": "11/bb/7bd6388356dc78dccbce11f833ae2e298ecd344f1f6647a0baa938ac04ea/BibleOrgSys-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "18440ef3a8942ae63d59a5b90033567e4bc2ff782eb9dbe462269f8f1ccfe0f2",
-      "url": "be/e5/7b6f109dcc1dc79d24f45f3ff47e1f3f9e90c689eb4f6c645b585c05e04a/BibleOrgSys-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "7d78ead2292143005937780b086b2a025eaa34992fb712ca34afd0676ab96067",
-      "url": "30/ac/9d110fb770d44de864745d971f1228c0ffd92fb25d482aaf1a29a2afb361/BibleOrgSys-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "3340d3deeb59f8066220b467efbd4690f9d3feec51b6f6f03c0f00f02a456606",
-      "url": "d4/ac/c092ec8fcb94817b4632b0ba4ff7a3cbbdeb29863e7deb603b9d2e904781/BibleOrgSys-0.0.5.tar.gz"
-    },
-    "0.0.6": {
-      "sha256": "53af4e0bbfbc673bb70ae1dac4afba413e2b286d1bc7e22c15b98dd1733e9414",
-      "url": "05/1c/953ec7c405b082ebd41c69b71ecddb15fe126bd919f0a10f7458f9dbeac1/BibleOrgSys-0.0.6.tar.gz"
-    },
-    "0.0.7": {
-      "sha256": "c5e87880286ada4562752dc78f0b67ed3c20bc745dbd9ffce8a8699ae226aee4",
-      "url": "ec/4c/6c1931d054b2be14bb86a9cc205f007df75bbbc9548ebf67643dd75ef0a0/BibleOrgSys-0.0.7.tar.gz"
-    },
-    "0.0.8": {
-      "sha256": "e7996727d027cd574878f90e549aa881cfb4c4407f26fadec1085cda31c59418",
-      "url": "a1/98/55ed79a6b77a74bd7ccb2cb2b9378531cb42d9e6ecdf5650aad463a7d6c9/BibleOrgSys-0.0.8.tar.gz"
-    },
-    "0.0.9": {
-      "sha256": "fb71ed072811d294d5216b4e4405d61a8aba76018d688a27f77f5a57dadeb4a8",
-      "url": "fd/20/b803b37c013173fe64602e33c2bf2aea1a9917404f2996491f470a823b83/BibleOrgSys-0.0.9.tar.gz"
-    }
-  },
   "bibolamazi-gui": {
     "3.0beta3": {
       "sha256": "b71789fd981267a6506057166b06e2957579a8d3f3f6e0b99b3db8a5233cf0ad",
@@ -3935,6 +3885,10 @@
     "1.4.1": {
       "sha256": "1ad44424b0cf11d5e6546f637a901386acb8e16b24b1b559b6f6109467efa6f5",
       "url": "e6/fa/78722ee0ba110079c78471da5d30955cb0b073244d8b1062315acc372b64/cvapianalyser-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "3e4041e0c5ee6d670566fb8fea672c2f7c35324173e9731aec5e5a3253c935dc",
+      "url": "0b/28/20e5c0941178bb923ba5e2f9042b1fd9096cbf33fca01179d2902a7e557c/cvapianalyser-1.4.2.tar.gz"
     }
   },
   "cvxgraphalgs": {
@@ -4715,6 +4669,10 @@
     "0.9.1": {
       "sha256": "7e84f7439a832018fa01375addd0d3082c2c8066197de196f67f0d76da254e9b",
       "url": "f6/c3/70d5499c06ca64aff575a6c099701e6095b81f280e313f2f74325b267ec2/descarteslabs-0.9.1.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "496b338d07c3b9e20f97483efdf628261c5f3c28f1a126887c735a78c6885f96",
+      "url": "af/85/bf5cdcabd295206f56df5b16eb9c3d11ad62f568573aeb08b9ba12a18b04/descarteslabs-1.2.0.tar.gz"
     }
   },
   "desconto": {
@@ -6037,6 +5995,10 @@
     "0.1.5": {
       "sha256": "2a0531e9ea8544a9d5972f8867f3aaa1540c20ac289997eba9fffa0ea83f7a9c",
       "url": "75/cd/f7ddb9c5af38b5127de9cc8ffc25d32fd7bd425601d2771be911271cfba9/djangoldp_profile-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "33fc193fd602757d588e2b130d36389948b76f17af6fc232a62e1bf580bc9bda",
+      "url": "fd/aa/83be3bda147500abcba7d866a709fa89883e8d51149066c7a8f5bb4ccca4/djangoldp_profile-0.1.6.tar.gz"
     }
   },
   "djangorestframework-jwt": {
@@ -8681,6 +8643,10 @@
     "1.0.13.dev20200422": {
       "sha256": "2b2784e185f6fdb0eee1afaf53506202baef226c753ea23a5ed615ff582d9cb9",
       "url": "b5/0a/d1cfca39fc1f134181ccd7356b9da8d01675383a623b9b1f22c692a60600/getitfixed-1.0.13.dev20200422.tar.gz"
+    },
+    "1.0.13.dev20200423": {
+      "sha256": "0db4c89031b083bb39da2ad8dbb4d6ad4a1bd72cd76d1e2aeed7d9752a9ae61b",
+      "url": "98/f4/deba022e4f3d7652f910f99bfbcd2c4ae2b17f7ddf683e1c3916a74e5554/getitfixed-1.0.13.dev20200423.tar.gz"
     },
     "1.0.2": {
       "sha256": "de1a532ba325d315017d0b78c312163c23f48381091b93e1e51318612e12c5a7",
@@ -12085,6 +12051,10 @@
     "8.0.0.0rc1": {
       "sha256": "c6ed687b903180b31e36b00175ee52acf346f742542db959948590e8db2640cb",
       "url": "77/70/63a2c8c1512a04818eb4719b73d6e4013c274e0185740c86e10486c0476d/masakari-monitors-8.0.0.0rc1.tar.gz"
+    },
+    "9.0.0.0rc1": {
+      "sha256": "497f49e5ffcaada11300adffa160018cd918773da1d1eb8717b143468ebfd3dd",
+      "url": "f1/76/a8b3300a1e5737bc02f55e068b455d90711ec8f5a191482be5a73b110136/masakari-monitors-9.0.0.0rc1.tar.gz"
     }
   },
   "mat4py": {
@@ -14074,6 +14044,10 @@
       "sha256": "a6806c7961331e37d8127687cab612969c3a4073aea3fd64f94c23dfa0ad359c",
       "url": "85/f0/53f1330ead23b3cf7399c1bf92c9cd476da7b5e4f7fc7436f9277663d16a/mypy-boto3-snowball-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "be124c61ce6b5af674d940f6c25ab63763d22bc35d3dc5a16c609ffdbcb62ace",
+      "url": "66/a1/1adf61245a1221f0d0956ef56d29a737bab2f3ec98ddf7a924acfc8df696/mypy-boto3-snowball-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c0975175e3af2cbbf9ef839ae067c726af5a68d011fa632803ad2079d9050b45",
       "url": "7f/54/68ec4cfe7fef994eeb5a7552948204b36acbfc13c2befe2b0a1a50025392/mypy-boto3-snowball-1.12.5.0.tar.gz"
@@ -15641,6 +15615,10 @@
     "4.3.3": {
       "sha256": "d0de9447fd66805d7def86159aa633a2af82e3e07873d623b2210d7a3ecbe743",
       "url": "28/eb/6ccef9afd320f7e0657af3b03e2c4a18bb12ad3e00c655d6794f46e42c9f/ovirt-engine-sdk-python-4.3.3.tar.gz"
+    },
+    "4.3.4": {
+      "sha256": "1c2f791e6af665f209df169c3ffcea2525a356c280f1a096ce0c0da3dde9b1c8",
+      "url": "7c/a6/21b8535eaf8e22d106d57a6f3041563299cd771b2f6cb1e400beac4bb308/ovirt-engine-sdk-python-4.3.4.tar.gz"
     },
     "4.4.0": {
       "sha256": "65beaf9206983899686654c873e077aeb4f6e1a9170d7aa28e39c24a89fbb282",
@@ -19578,6 +19556,10 @@
     }
   },
   "sdss-access": {
+    "0.2.10": {
+      "sha256": "8e9fcc675f07067849e8b4c7fc909497271470f2763ea018fc42a45f0ed731a8",
+      "url": "3b/85/41893dfd949a74565cbe1be20bcb32a6921211979d6fe32ab65b5129dbdd/sdss-access-0.2.10.tar.gz"
+    },
     "0.2.3": {
       "sha256": "70ceb7e868c1253d32a08ae686364bfeb30b69e277d7649f860717ee8dac8a9d",
       "url": "94/eb/6ad92757009fe3e4def7e290a8ab3c8b95f75720548499be84a10906afab/sdss-access-0.2.3.tar.gz"

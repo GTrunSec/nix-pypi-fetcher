@@ -325,6 +325,10 @@
     "0.1.5": {
       "sha256": "32e2cc027cb5f79967893bdfc994292a455bb1a28537c47725aa9e77169cd59d",
       "url": "34/b3/d2968a1d657d4597d4ac486514684890ac6072615378da45c5ac01272dd2/aiowebthing-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "014e97617e10d73b00ba219696d9fe3f3947b9b216c3ba35e5ce5268172f2617",
+      "url": "8f/75/c6dc1f784665dffabf3c989bfde11d7776c277699eebe88d1f13906c67db/aiowebthing-0.1.6.tar.gz"
     }
   },
   "aistlab-novel-downloader": {
@@ -11563,6 +11567,10 @@
     "0.9.7": {
       "sha256": "ae783f0c8b6f69971244a1465846b0a14443c0ebcf8b323b43599e78cdca6ae7",
       "url": "6b/63/7fe568329542d8e06d525f7ed0c6f543b9233db0128b479e3bf473eba29e/kafka_client_decorators-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "a43b9ad28ad15c264dc163706f837e63c4fddf2958a7a723e3f6a9dae98bca06",
+      "url": "56/ce/de7f431506d65f221b99c6927d23d8e50bfd1d62a224be837620db3cfe1d/kafka_client_decorators-0.9.8.tar.gz"
     }
   },
   "keras-lr-multiplier": {
@@ -14857,6 +14865,10 @@
     "1.0.0b1": {
       "sha256": "5ba0124d40dad827e8e5f68a711fd746b3f4aaa0c384cd45d71a82af352a6766",
       "url": "ad/9b/4c22aade365e8a9fe2f35aae074f80183c1ea08192b4fe7ad0dd3d889fec/nplus1loader-1.0.0b1.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "27f240f493130044e12aca42ff1bdd80b66035a04a3368fb1c3ad9c43124adb1",
+      "url": "76/26/fcecd2a18d7f28c0bbae24f4f2268d6dd74e4ab13223e96009e707334d7d/nplus1loader-1.0.1.tar.gz"
     }
   },
   "numpy-financial": {
@@ -20867,6 +20879,10 @@
     "0.7.5b20200422": {
       "sha256": "5828744d394a51a4b5cd6b162e6a7fbf11552ace987faf6712bac1366b89e201",
       "url": "97/6c/a744bd45f9014078e10947500b5adc52529a297a04b2c227920fe5c7eb2e/rockset-0.7.5b20200422.tar.gz"
+    },
+    "0.7.6b20200423": {
+      "sha256": "0a3032492ccc14d8792981a0223a9fe49bc423eb2cfb3ed3e596d2a1d0700f98",
+      "url": "5b/89/42ca3611851586c52a64ae57c8423d69fe8ad7b9fd43d77b58817bac22a7/rockset-0.7.6b20200423.tar.gz"
     }
   },
   "rokuscan": {
@@ -23079,18 +23095,6 @@
     "5.0.0": {
       "sha256": "b603bf25db98a6c5f13660c4197e73fa29722c6551bdf054f6eeadf8ef81541a",
       "url": "df/56/a558a82fe91749c5682ab33fb1e17b8cbbec96fb254d03cc38527c790bd2/testinfra-5.0.0.tar.gz"
-    }
-  },
-  "testsimplecalculator": {
-    "0.0.1": {
-      "sha256": "0b263aa036aaeb6e6c0a8bab12f454f503d2076a6409027a95b1248a37a6b73e",
-      "url": "ab/c6/597e8259b24d7eb069a40c0e46b97c05016cd6c489f3da05794421894e38/TestSimpleCalculator-0.0.1.tar.gz"
-    }
-  },
-  "testsimplecalculatoretienneengel": {
-    "0.0.1": {
-      "sha256": "90f3b6da63bc27c59f72d6aa580925e4c0b7afeacd56c2aff07dc0e3b615d6b1",
-      "url": "f9/21/a713545d4616aab85b20acce85900c644f16200aace8e4ed64ad6b7638b0/TestSimpleCalculatorEtienneEngel-0.0.1.tar.gz"
     }
   },
   "testudacitydt": {

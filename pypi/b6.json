@@ -15896,6 +15896,10 @@
       "sha256": "534a974ab236731ac03f36ecd57d2d424c12a2bc627607bb392aa5c49b2d9a79",
       "url": "0f/64/da056b05296bbe4191da3d18e9c0d8aa366f10d5f0b414a4c0ec45793b1c/meltano-1.30.0.tar.gz"
     },
+    "1.30.1": {
+      "sha256": "5cc9907e24574ffeeb5b7226bd448d6ca3e0746918679d3a4e20d00188fc5cce",
+      "url": "1d/f1/2e3a78d11a8a7760263acd2fbaaa5e84f38e2da6ba3b7b7835b957ff9d68/meltano-1.30.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "1f217753348ab97aad9c04686d2ef18010550b28bc7a30fb851b816de3d66806",
       "url": "81/91/863dda20577cc64d8c46c74980ff621cb3783b9f0527029609f47a750b68/meltano-1.4.0.tar.gz"
@@ -17431,6 +17435,10 @@
     "1.12.44.0": {
       "sha256": "e6863ba6d4e7bd53576a30ee205c83938ff999224f1d6f5ff4f290c018f71229",
       "url": "68/28/7700cedf10d8c4439f9e98b3e1cafccab0db87358883c22c9b341be58bd2/mypy-boto3-swf-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "fc97c917edc4aeac318ca7d2c6fbe49c16d92c0e11e590741dc4dea35ad59a91",
+      "url": "b9/9d/141897f4680c17abb33d3aac263229ad97177a77e2f2e82603b78e1d3e51/mypy-boto3-swf-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "aa1d21597c5279ee9274012ffc467954a34e258a193b1b1982b55f05ae528a4b",
@@ -19741,6 +19749,12 @@
       "url": "f1/09/a8b94a63edc27639c2b3386e430ebee2eea6afda532cd5ef850e9e81290a/planterbox-webdriver-0.4.0.tar.gz"
     }
   },
+  "plogchain": {
+    "0.0.1": {
+      "sha256": "0ff96d8d3614a7c2605803b939d3e0b28800586d107a8ec32b0c9ac287156fb3",
+      "url": "03/d4/24a2fb45877769df8bd5d6195ea7a940b5fe97147f3cd277dfbbbd47300f/plogchain-0.0.1.tar.gz"
+    }
+  },
   "plotje": {
     "1.1": {
       "sha256": "82a6782ed1c0d59394d6dc703b12991302c672837b63b5cfa489b6361051c9e7",
@@ -20984,6 +20998,14 @@
     }
   },
   "ps2-census": {
+    "0.10.0": {
+      "sha256": "5c0568e4fb1faed40bb6a0e172b3cf7ae74d88879a87dc882143d9cd2f3ea5ae",
+      "url": "18/15/cd52ee708af2e322a1d8e06ea13f3c6eaa72e7912f339fb145a3c6f99fef/ps2_census-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "cf38a1499a35d4975276ee757be3891b63dc2428a31876d74cb36fd106ea4f80",
+      "url": "83/ff/419a0fe3fe377b76369edbd032d4d62e6dd017ef83c8d5f3e1a24d94cb7f/ps2_census-0.10.1.tar.gz"
+    },
     "0.5.0": {
       "sha256": "0988fbfe3df1ed674fa8cf7c0b4eb1f58b4d3220210865c79569ca5c44397855",
       "url": "39/39/52c6e48b374a8f7b937f21efb4f0e1ba7a890fcdc41636f16c5c324f9f62/ps2_census-0.5.0.tar.gz"
@@ -21003,6 +21025,10 @@
     "0.8.2": {
       "sha256": "6a31b0380eda35c8c14c611e658f5342f8d3941623e007771f95cc525c953404",
       "url": "fc/a6/61136dbaace1d195d6b4d9101fd7d2a1cd170e4b9ffea92f5469d011d9a2/ps2_census-0.8.2.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "74cdb50e31f8c9e37b109e5e723c777be638afb3d10973de7a5de8148079acf6",
+      "url": "d6/4f/17c09f94ec237486f1c1aa8189e373f61bd9f8c2fbdfcb03af7d0b4e728c/ps2_census-0.9.0.tar.gz"
     }
   },
   "psy-reg": {

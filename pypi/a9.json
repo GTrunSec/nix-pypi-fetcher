@@ -6266,6 +6266,10 @@
       "sha256": "6e60fe5422c3ff33e3cd0847524020a51621d9499b1ca95bcae52e2d20a690a2",
       "url": "fb/8a/4d5826c1b75d319c65bfe7f8ee7373a5658f77fc542a8d1da4c1b1b4f36a/dial-core-0.15a0.tar.gz"
     },
+    "0.16a0": {
+      "sha256": "81deca3621352757c907a7bf7708d1b19c138af5dfba542d58199c9e35fab994",
+      "url": "d0/48/7680063ee8466e58d1292b868929c39cf6cd164c13988f8f1409c5850b46/dial-core-0.16a0.tar.gz"
+    },
     "0.4a0": {
       "sha256": "f6eda4d063d2256a088368352e2d17ec2c93e046931e5e5ae1300c8f3b3de820",
       "url": "bb/07/cc72b4504a93185c386cd54fe6df38913ee34cf3e15abff07f8cfa34a011/dial-core-0.4a0.linux-x86_64.tar.gz"
@@ -13988,6 +13992,10 @@
       "sha256": "2dea1dc960207548cd1dc871cfce858f084525a884f0b499feac8f168822e56f",
       "url": "51/51/5e3e1809a74ccb93c944e16ddd5f8499d94174a0805af443084dc43d3c49/load_feature_pipeline-0.16.tar.gz"
     },
+    "0.17": {
+      "sha256": "1378f3822fdc19c7d24a9b5bff0084a9f5968dfa669f97e1794c8d5f15a02bae",
+      "url": "8c/e0/d77b08046eab80c8a822c42c7dec24e0e269514e331c911033b730add33d/load_feature_pipeline-0.17.tar.gz"
+    },
     "0.2": {
       "sha256": "008ad85cf8c3d81d2724ccac1793efc13a85de41a6d799f172d68d3389fa66e2",
       "url": "16/16/0995463a66e9e1d30ec4f9ba5f6f17c283faad95151295c491552908a9dc/load_feature_pipeline-0.2.tar.gz"
@@ -14419,6 +14427,10 @@
     "0.1.8": {
       "sha256": "7565594f805c80a40ebb3f8c02c5dc2790d7878944705b20eab8879315be5e55",
       "url": "c1/af/5d8c3983fe5179dc7f93d85d57e2309e66eace0a5e3d7cd41d066bffe40b/macrobot-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "0f9bebe4ec3751674882a7608ed789c406e80c3e7540308f84d2c1e826b15b69",
+      "url": "d2/3b/af50d8bd0b1aca855032ef548e9b8c996d8e5cdeb92522721519e45ddb7f/macrobot-0.1.9.tar.gz"
     }
   },
   "magestore-abp": {
@@ -16490,6 +16502,10 @@
       "sha256": "1edca082a2cb57c587c3afab596326a6b2ae4470da1db4512f07ed02bf4b2080",
       "url": "13/a5/a6b426d1ae049690ea28614b740cc819274b41735307b6b33c105e572e50/mypy-boto3-budgets-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "95598d1136290fe5157e4c13899ec7a2e7872a40aca9f4af00cf66a24e4625a7",
+      "url": "f0/52/ea1f9870569d42a2d50440124e85ec1eda8dd207a05193bb0c63a4c20dd7/mypy-boto3-budgets-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "9f953d5a19d1c192065b2f4347473a6e2c1f374fb09566e83484c30927766ede",
       "url": "e1/e3/a8c179454dfb1da85fd3c861da0516ec5bbbea1fcb23f4a865a0e5fbdfdc/mypy-boto3-budgets-1.12.5.0.tar.gz"
@@ -17283,6 +17299,10 @@
     "0.11.15.dev2": {
       "sha256": "993b84256be0879fe3032d39bc34b288fccba0c6c5de6ee3703a9473909cb6fb",
       "url": "ba/4c/6b84a7a35cf22c1bc037ade8efeb00455cf215ed7858ff8de311b29cfb50/NucDetect-0.11.15.dev2.tar.gz"
+    },
+    "0.11.21": {
+      "sha256": "de78094add564f1124a3f6c1774c433a3eb8c428143986cde090148d7df54950",
+      "url": "65/e8/b5446e3b2ccc7ab520ff1e741cb9cc98e7c7999037aeda296e00da484201/NucDetect-0.11.21.tar.gz"
     },
     "0.11.9": {
       "sha256": "da731c7beff419b279fea347205fb9b7ff81f5b27a833c87caaa65c09211c49a",
@@ -19121,6 +19141,10 @@
     "0.1.0": {
       "sha256": "344c9d5440113ccec07b9f4cc67cc3b1726655113cb2a154f4032b7fff9c1f75",
       "url": "19/c1/df667b1b9fddb422a270ef5321b9a84f1a0779629eed7c3e59ecc8b165b8/pornhub-api-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "4cb605a23ed79bbab5bf47d9df7578b7b017cfae782199368a3f47d54ad929b3",
+      "url": "fb/62/d63888f03322e11c2ccc0d96782beaf4be85f06dbf2717d8aa57d1ee0c87/pornhub-api-0.2.0.tar.gz"
     }
   },
   "postgres": {
@@ -22592,6 +22616,22 @@
       "sha256": "9baebadbd08f619b70079fc7a1975ae088a4d14a5cbed38ceb076ac354850b23",
       "url": "27/e5/bf2b82e2f2e619aa8dacc89c60719c47ffefd4721e0bd3e2c4186e7a3b6a/RnDPackage-0.1.tar.gz"
     },
+    "0.10": {
+      "sha256": "4a034780816721e4697d1e676e5125b98ace87258473e880596c25e52d136f4a",
+      "url": "3d/09/d36d03c626d342f4b66dd903072db504cd73745ffa5e3c8ae8d65cf2222f/RnDPackage-0.10.tar.gz"
+    },
+    "0.11": {
+      "sha256": "48d8ba7ea2c111051f564dc2b7c9a5b93e79e4798e9ac9c663633302c308b5c1",
+      "url": "0e/b8/8c2c7d136060d20607c112cc0a50da33c2f632cae6d4caec38e1215bc619/RnDPackage-0.11.tar.gz"
+    },
+    "0.12": {
+      "sha256": "ae16f805f6cbf35db1b935979d24a50377ff2e52c1a4ccf63ba6cbb192369ab5",
+      "url": "1f/78/f00d97d48d7b8db6d1625a680a4136c063ba39c36d9c5196b02c64e3ad62/RnDPackage-0.12.tar.gz"
+    },
+    "0.13": {
+      "sha256": "1d7aaa93cd2aec6c560682d4510b7287e766c1f2dcc27a1c83579bd0dbd23fdb",
+      "url": "5a/d7/0f2ccbe0e389a1a8d07ad3c039390efaf90956a4b9269bf12db41e5c7346/RnDPackage-0.13.tar.gz"
+    },
     "0.2": {
       "sha256": "b67f7a6ff7bdc6ed42fef4e327c5e3cd9f7f8a6380b2ee5c1d40c2995b93398a",
       "url": "1b/8e/d2cef08106256ae7f1e030af43bd122d90eb6ef956390ae05e1108847eb8/RnDPackage-0.2.tar.gz"
@@ -22619,6 +22659,10 @@
     "0.8": {
       "sha256": "6b97c91e0fdf535eb22b8c9f379d23110081de16900429df724977559e878b13",
       "url": "1a/0a/04141df0fb33048afeb6f8b504f088094d70170148269f5648504fa3f7ba/RnDPackage-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "8bffc0efc732c788bf640eb40dad4135514653b7c0feb75aa9a20c0fd9ce8f8c",
+      "url": "4f/72/028ec43c539a8d92f7ddfbce5590d21fc2c56ea4506813a9600e950f439d/RnDPackage-0.9.tar.gz"
     }
   },
   "robonodejsscan": {

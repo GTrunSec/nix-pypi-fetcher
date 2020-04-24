@@ -4068,6 +4068,10 @@
       "sha256": "f82f80c4bc3d24778ac4fb6ad698b024a47f7cbff0e3b25a26d47292f667efaf",
       "url": "78/a0/e7fc261b22467ca68ecaa047efda9ef487ca942ca4faa2babc16a0d2b8cb/davtelepot-2.4.23.tar.gz"
     },
+    "2.4.24": {
+      "sha256": "d7e7b5578558c6825edf2bb21cc1aaae290d14e2e5452b0ad8e573bc52b766cd",
+      "url": "a8/dd/9ff836302e1604984a2a1553058af95cbae9eca55d69f58f28707666726e/davtelepot-2.4.24.tar.gz"
+    },
     "2.4.3": {
       "sha256": "842a468dde3a55417adaf2193f805e24129c9d9f9908c0749c0903e5dfee46f9",
       "url": "df/80/597b5d463aa190d93c731fa6de2b197156bea769f9c386c84243d7d6b8c8/davtelepot-2.4.3.tar.gz"
@@ -4217,6 +4221,10 @@
     "0.26.3": {
       "sha256": "eb4633d43778b7630f260a05c6239499b6670de2aff508e19696aa6b98b757f4",
       "url": "48/c4/11818a28ea5b0fb80cb37350191c46d841f694203cfc731c47cc03b4e3ac/dbnd-airflow-export-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "f30b687586b71a962ffedae14d848ef73fa128fe274e9e1c68100a7a76c5de36",
+      "url": "37/d2/59d80aa9798616ae1d65056c4c468a9d44de661a5d0b306489ae55eacca9/dbnd-airflow-export-0.26.4.tar.gz"
     }
   },
   "dcb": {
@@ -17723,6 +17731,10 @@
     "1.0.3": {
       "sha256": "d757e99c6f5f4edec1ae18159c30ac72fa1b30a330c8487fc981f9c967654677",
       "url": "46/67/9529d3b20248d3724aa2ae027b1a013a36c7e33bb51de875eb665aa26016/mesher-1.0.3.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "5b8b5a1d755ca9b742ab8a985f648b8bc5f307e6d14424f5aa3bd59c3668ce9d",
+      "url": "f6/da/2a639605e1ef22a6bbd0846cf8382d9aca3c1819b92472122094ca7727ac/mesher-1.1.0.tar.gz"
     }
   },
   "metanetx-sdk": {
@@ -26831,6 +26843,10 @@
     "0.0.5": {
       "sha256": "06dd2ecef5cc0d40fbdc34d6a17a725eae0be03f017b354847c221d815a9bacf",
       "url": "0b/83/cf98d890c9c092726a0e6c501d81e794c76046cdd2c9a93343621ce8921f/sightingdb-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "481290f8cefcc778a0e3da9be1f0048d85fb5ffad0d783d5a9c1fd824e6c26b5",
+      "url": "b3/e5/16881a010e31a591680e3ad63f960937173c361e013017aba8374d829dd3/sightingdb-0.0.6.tar.gz"
     }
   },
   "simplestruct": {

@@ -5915,6 +5915,12 @@
       "url": "9d/ae/29113111a87e8d5cb7c0000551b25a3cadf98320437d6b7f8127385c3c26/echoplot-0.1.1.tar.gz"
     }
   },
+  "eclipse-zenoh": {
+    "0.4.2.dev3": {
+      "sha256": "9d8b25e04d6a27bcf1daa6fdcc9cba74b638886b0c2612ee359cbbf790864553",
+      "url": "33/98/67d0b3313b5755ce4824eca2a5eb90188e3435cbab87b3f3dc21f4dcb27e/eclipse-zenoh-0.4.2.dev3.tar.gz"
+    }
+  },
   "edc-fabric": {
     "0.1.5a1": {
       "sha256": "ea6d63901b0fff64dea236c527d5d513d18a286f0db0b9b02f3fb02354aad91b",
@@ -10314,6 +10320,14 @@
       "sha256": "980d684487ff3db8ebd7098088c58621737ce978dea271b0285621a52ecce2cf",
       "url": "23/f9/345e5682aff80a26b920c10dee48f63ffc16d417f8c026621323c3ad5be5/Kqlmagic-0.1.111.post13.tar.gz"
     },
+    "0.1.111.post14": {
+      "sha256": "3ae1f380938cda3db5d2de2f2d006ef090709273b66d248f9fbbff059290873a",
+      "url": "63/56/9c0edd1792c416b621c5e953f4136f2c92d28a80ac5236061f882668c02f/Kqlmagic-0.1.111.post14.tar.gz"
+    },
+    "0.1.111.post15": {
+      "sha256": "f92e87c0498028a15e446c0ba2286673b34a8ec2cf1b82cc445ac2e330111674",
+      "url": "2a/04/d71721a53f707edfc89f1707d2b916c9b04649a382c1245bf1dd376271ec/Kqlmagic-0.1.111.post15.tar.gz"
+    },
     "0.1.111.post2": {
       "sha256": "edec067710aeb7fdfe9f95542679dfa901da6b4b8c7e37116576e4383a4c87c6",
       "url": "96/38/0f01b90d8038e05e8d9370cf7e9025076b18e2626cbe10458e4b9f41994f/Kqlmagic-0.1.111.post2.tar.gz"
@@ -12033,6 +12047,10 @@
     "0.10.1320": {
       "sha256": "0ee47b072805b2fce90ac31943d76ef8b4bd982083cc23462a4b301fd352300c",
       "url": "f2/13/f9ab90cd393a2e420cee6aedfe7cbc1877a4c0351169b0b0e40e5dce3ba4/lusid-sdk-0.10.1320.tar.gz"
+    },
+    "0.10.1321": {
+      "sha256": "33f949c5e6675bdb02d16e404b3f6f32113795ebed24724fe8f353b1b38b8085",
+      "url": "f7/55/efdf977a67e3c970b2ea0558a17b24c414be8092d010e6fdfb2742eec944/lusid-sdk-0.10.1321.tar.gz"
     },
     "0.10.14": {
       "sha256": "1fd5268db4a7505645b5b0240303bfa39e54cb8b09c407279fc4ac9ab8cb61fb",
@@ -16694,6 +16712,10 @@
       "sha256": "afe7e56b3b788b63fe6d7acb367a26c9671ccb2cbe39dd9970d33374443bc547",
       "url": "2f/63/8faff70918e4030fe7ad9de2c41615600731fb458f848be6789bdd682c53/mypy-boto3-comprehendmedical-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "44fed3eda3d73ecc2d130c75932c32a8c17260b789debbc818abddddc13d06c7",
+      "url": "14/9e/3b6c992b8d7c8522082eef8c090482b0dfdb18cbec42f08af00729587e39/mypy-boto3-comprehendmedical-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "e014f2fc0f31d75f0ce9016b0006d647150980bb6c67741b997788dbfb0a9fbb",
       "url": "af/43/b3f2a8090c10306b1953f932c74a7c60712c5d00d4ab3d7627171eee92dc/mypy-boto3-comprehendmedical-1.12.5.0.tar.gz"
@@ -17208,6 +17230,10 @@
       "sha256": "ebdbff81c5a6c09e35ba2e04387b132deaa1c2778d7f364a292b0d3e6ebb49a9",
       "url": "3f/5e/ace9ca24b01d0cd9d3b17c0713f5524c7889c79643bb0133a2637f14f299/mypy-boto3-dlm-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "72ae3b879809b094051c79f555d35896041229b7b1bc8a5119d359df41bcb11e",
+      "url": "56/0c/c6fadd2fbdf0c93e442fbe79f1f5a5b44a0edbf430cf861e5b16e80fe298/mypy-boto3-dlm-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "86883b2510f5f7f5c37ba13d4d54b59943f4d25dc0a8f27f0ec2d2e99ed43c9c",
       "url": "25/39/bdbadc854f74b73c6e51e27e96ec77135cba0446570701b3b7e8b9959b31/mypy-boto3-dlm-1.12.5.0.tar.gz"
@@ -17721,6 +17747,10 @@
     "1.12.44.0": {
       "sha256": "0b7d5848e78ce6609eb2a4b35c24d64d00f25dba439de420afbe78e59a4fcc58",
       "url": "68/f3/264a4aa8b7e822ef5a9d3c9018aac5f0584d86e1bf706edb303ef5d1d336/mypy-boto3-kinesisvideo-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "9a20ad6b9ff4595fcbcbfc2a95eb42a34a7232dd3aa03f4c3d85b33845511983",
+      "url": "7a/a9/4ef034e91dbdee27c44eaf43ad931e44dc76781a00126b0956457d25e6a7/mypy-boto3-kinesisvideo-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "90ab47005cc340a292e4e424e9adf2c1fd95e8c6bc0376b35163c6d5cf46a9bd",
@@ -27496,6 +27526,10 @@
       "sha256": "dfa16a4d07355819e532403a22a52dae93f98f7b36e4eb9f8284a4a0d4957df0",
       "url": "19/29/033938d775943eda44daee69bdf6ed018b99dd94e82719b02de2fb56cc9d/web_2_album-0.0.23.tar.gz"
     },
+    "0.0.24": {
+      "sha256": "1e89ca5679b100fd972dba54cbc3fa1a378ac61c334f5d380487c6efbbf7bca9",
+      "url": "7b/03/25d045efde171e1f1fca3c13b5786f9a3fc4c6a79f90c876ae6c5a55f155/web_2_album-0.0.24.tar.gz"
+    },
     "0.0.3": {
       "sha256": "3c1375c110654870039e93cae45886d040db39faa2bb934facd44ddcb4897529",
       "url": "8b/04/c6a9c24a62f26e7b4ed3797dffac74cf230c30162ff1ee2ea191adf0d769/web_2_album-0.0.3.tar.gz"
@@ -28685,6 +28719,10 @@
     "0.1.25": {
       "sha256": "7d042017439f027b0215271cc0338aca110e5acabdf3ff339001db42f10ffaad",
       "url": "59/04/45962eb271154a24a03f33fd9a5abac2f47643ebbe95c74f5b3dc83fe23d/zqpy-0.1.25.tar.gz"
+    },
+    "0.1.26": {
+      "sha256": "d90df00989d2e2502a5105ca8f0ad47b337353d6410803de1ba55b6299422bf6",
+      "url": "83/1c/ac96dfb5b46fdd8fa73cfc7de9cfd29f571dad9cb38ae3dae4363e2c3d40/zqpy-0.1.26.tar.gz"
     },
     "0.1.5": {
       "sha256": "612cbc540b1a3f54e9c55517bf2def86382f368ee6b674106fecca036e298d51",

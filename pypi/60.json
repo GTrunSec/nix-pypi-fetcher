@@ -8515,6 +8515,10 @@
     "1.613.0": {
       "sha256": "4efcc65c8109ef3b90530f7c22211d888f345b21829870f800d7e01ff662b9e7",
       "url": "86/72/fac9796b439614a1c2ff6753faf9eabce274368e5a408f486f21cd207f15/gardener-cicd-libs-1.613.0.tar.gz"
+    },
+    "1.614.0": {
+      "sha256": "447815dbb9128f68fb212ceb6a7a41db45ff8fd983937fcf6e0ec927a758fe9d",
+      "url": "8b/6f/5e4a4da0138219fba1d58528638f0d0f2f3485e45f52dc0db433d8a45018/gardener-cicd-libs-1.614.0.tar.gz"
     }
   },
   "gcredstash": {
@@ -14199,6 +14203,10 @@
     "1.1.17": {
       "sha256": "9eafc250dbe9a088a49bf8d8384e859f39f81ae8c7cfd73c343e0c6355477f1f",
       "url": "68/7f/6663f165b6ab2f514774c343deeeeedfcf3bc163be362dfb9a24083eeeaa/mdml_client-1.1.17.tar.gz"
+    },
+    "1.1.18": {
+      "sha256": "ed0629edb3b71acd0abce54e4c1aa122738374e2d5aac0dc925ad39f90887fe1",
+      "url": "6d/a5/c05031a6dceb3f7e7fc84450a37148873cede4e74abd338df3323dff2a07/mdml_client-1.1.18.tar.gz"
     },
     "1.1.2": {
       "sha256": "d1ba1d78c5f9ea47e9748077b5b62493fd416b947dbb972318894fa4f203d8c1",

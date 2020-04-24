@@ -7359,44 +7359,6 @@
       "url": "d4/23/75f72b2ffffa025ab6f399f6e1d6a88de218d6cdf5c419556c8ee1bf69f4/dsymForUUID-0.1.0.tar.gz"
     }
   },
-  "dumpster-truck": {
-    "0.0.0": {
-      "sha256": "be287da41bd1120f2281fa88d047286c4be90e8ef4c9aa1dd31b15e9953b897b",
-      "url": "d0/bf/1cc661244bd057347995269e2651c6e05f0e3fae58dfb124c5c46be2787e/dumpster-truck-0.0.0.tar.gz"
-    },
-    "0.0.1": {
-      "sha256": "13d4b9affbbc9e50f0e5b1d742bed85eb899416959090e797af290b8e64a5925",
-      "url": "61/ed/7519c446901884f9df6de67f2c25e69f74bccacbcb2683e3f43cc846ed15/dumpster-truck-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "9c9d3aa54be32a55fe1489b2430b13d859c2a90a134db5cf727bcfd6cf8449ba",
-      "url": "e8/56/0731568f9b1dd1b527a3eea6465b0079728d1951e7092e58b40f905d6a92/dumpster-truck-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "d0a25b6b9817e794e62c44e36d69122fd61da326c3b826b1ae17cb6bcb78bd33",
-      "url": "ff/ae/478458f0b5c366d7a80bbe3eb10a2ac87eb76f64d67b1abd88b21772f04e/dumpster-truck-0.0.3.tar.gz"
-    },
-    "0.1.0": {
-      "sha256": "36345f09c01d81dcc503d2593c2cc4522b2b32a405b9a97036b5173ffbef17db",
-      "url": "13/8d/0567b3aa3a4b01efd2024ef369d97c28ef563638f52dd56b34b14ec6ea39/dumpster-truck-0.1.0.tar.gz"
-    },
-    "0.1.0a0": {
-      "sha256": "ef1a969805a0fefbf2e9aa18a3f4f2d11136aa88ce5a11c6399c1eebb5d1f39c",
-      "url": "cd/b9/db95b208fc05bb9a6afa879e007b623c76612f0722d8c05482ff02286aea/dumpster-truck-0.1.0a0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "9c869216bf29f885a1ce03cfea09279d03bd19ee2023b0ae3250db48ebe96581",
-      "url": "8f/95/7105b8922733dd0a9dcdf2feb91452369c0ad6790250ffccc75b73d9e816/dumpster-truck-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "5de2aea28e69d5e6ea5e2dcfcbe6821e6da8053ca8cd2368d94731f1e0cc2d05",
-      "url": "82/34/9d87a32665405b2c9d53e5c18dc354be2e8839cb8a2aac2a24dac56ca307/dumpster-truck-0.1.2.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "0b299241aa830e0a8b1a10b309b288262888e4366e11de2cb2d7526d7008d0ff",
-      "url": "8e/48/40854bc384c60a64b69697f056e83fd72a121407cf7c33a00284ca834f4f/dumpster-truck-0.2.0.tar.gz"
-    }
-  },
   "dynamic-dynamodb": {
     "0.3.0": {
       "sha256": "6f919f0cd3021964fe4752b0fd224cbc8c21882ef341336e7c5e5e481962f106",
@@ -14431,6 +14393,10 @@
     "1.1.0": {
       "sha256": "3ac765ba154453132defedc42660b4017b74d4a9e5517c5f7f77dc8a888388d8",
       "url": "25/99/0c88bc40bceb5ee2b35e721318591fbe6ea9d89305d5bc4fb7dd475aeebd/monasca-tempest-plugin-1.1.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "88a4f5da118240971f6190f46e3a953579aadf5c3d2848feaccd7f457dba9c47",
+      "url": "ed/83/4a9e981d686bfdf027d35ec8acedbb4e1eb2199607817a944e7dc82336a0/monasca-tempest-plugin-2.0.0.tar.gz"
     }
   },
   "mongobackup": {
@@ -15458,6 +15424,10 @@
       "sha256": "8a0620d5ff7f5b6d61f1e975cbe9823b0b8478175f61fbeff9a9c529abe1a142",
       "url": "92/c1/e92ddf79276159bcd14f9c3a2d39e45beb4e75dc5a30b41e967c1f0fb136/mypy-boto3-dynamodb-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "8dfa52e9031201e67d1ef03c16f2235b73e67a1de062bc07f5db3a5005173a69",
+      "url": "b7/67/831b59227abff6511f2d22e240a4d30e72cb4dc20261a94f099afe872cc2/mypy-boto3-dynamodb-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "6f0ff6b1684ec79050a890166ebf3218096ae903eb3ef1475f5826d990296542",
       "url": "dd/ff/638bb072de5c4b7ef53201822f9a09c1ad7905e40458f12512e1c9fbe23c/mypy-boto3-dynamodb-1.12.5.0.tar.gz"
@@ -15972,6 +15942,10 @@
       "sha256": "6b9f8669b61a13a8514ea6503b9123597a9435e7a52bf2ca0316e45e15a62434",
       "url": "7f/18/cab060878e4db3ced3cf56c24e7ed36a8fab0bde10267d95b17e35f7154a/mypy-boto3-service-quotas-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "65e7cd6ad174682c457262d56f0fe97b663f640c75e1a71b4b30775538e62328",
+      "url": "ca/83/2ba1ba4818403dbf1330f12cd613c5d19b063c5a7d2dca8406a5bfa45127/mypy-boto3-service-quotas-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "5a8de6516936436b3ae511c647ce46ccd435e147d2ab8a074c0d54a6c8c98f90",
       "url": "df/a4/889472ac21c824fbcbef8eddfa113d72d32637f0dc19fca194f377886e32/mypy-boto3-service-quotas-1.12.5.0.tar.gz"
@@ -16485,6 +16459,10 @@
     "1.12.44.0": {
       "sha256": "ba0cd11f5364f66f1ae708303f9e4cce34a3f74a1f71c90fbf91d6af3cebb82e",
       "url": "11/84/74aff670a141c6b1c1e81cd76226169854f07155aa9aa0e73373c189f919/mypy-boto3-stepfunctions-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "702da18e6ba11de262013d580e8b2a53efc8aeb1fe536b7364ce1e983a5f6c0b",
+      "url": "3d/ee/f4b64af16eedb85e3cfe354ca222906f2c963a43ee6dd188cab1d9673b05/mypy-boto3-stepfunctions-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "37b33dae631f8ba0d6234d002ce953032cbbdfd9cf50ebc1b91c92477ee78524",
@@ -19759,6 +19737,10 @@
     "0.7.3": {
       "sha256": "93171252b09df6ab19ca09be3a364a2492f5164ca1925662c4b0b43cc464cac3",
       "url": "43/a4/d055582f102fe5b902f2f9a68bd9496132652c6dccad50c39ae9be9237ed/pycheops-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "4f4f69b7221d2cf71ea290a42160987723c6fde34dc06c6ac6b362a2ed2a5ee7",
+      "url": "78/ec/27811cac9fad0c986079644d3986974da45af1e7b570b74f3b07edc3bcae/pycheops-0.7.4.tar.gz"
     }
   },
   "pychievements": {

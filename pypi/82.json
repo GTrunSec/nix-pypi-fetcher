@@ -12085,6 +12085,10 @@
     "0.0.4": {
       "sha256": "a532c05a3cf094268c84ea20c6adc4403bf3e07ba22215fc2c6339f87dc986c9",
       "url": "d1/94/64a384301f98c74d408b1cc2956e09428286ee7807ef394ca8f41db3ec40/keras_dna-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "c114fbc616b7489b3e2162bad2de693ff7c5361fb893eecd345662125c756ed2",
+      "url": "9d/1e/5b3b97ed0a8221895b87fce865df88a73be0ff65dcedf11a19d285e2a8bf/keras_dna-0.0.5.tar.gz"
     }
   },
   "kernelml": {
@@ -12907,6 +12911,10 @@
     "2.1.7": {
       "sha256": "4651fab0c800b124d27b438ca5be471f547fabc765243adf1fc9f23c4cc6c89a",
       "url": "e2/84/8de0afa3d6a969c170c7bafb91d3bd19b29b67c35e4ba53ccf275440f8be/krypy-2.1.7.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "957ae3e0076d73e3ca7c23dcc375b0485b3ff71127673be2160c5f560b9c2925",
+      "url": "7f/f0/40ddca159f312b86435c4d96469844d5b0228fff5b8839c00829317465f3/krypy-2.2.0.tar.gz"
     }
   },
   "ks-django-response": {

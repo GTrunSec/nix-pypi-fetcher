@@ -12639,6 +12639,28 @@
       "url": "8f/e5/e842692a96795739b1138d8069f40a2df9ba635e769b5664cf85bac0c37e/IP-package-0.0.5.tar.gz"
     }
   },
+  "ip2asn": {
+    "0.5": {
+      "sha256": "d937ae7d45d616b85ec368ae92977ed2d2b67f193ac0baff045e191bfb514f3d",
+      "url": "18/ab/0fcc9de7c33b8f3e4caab317485b41a17db9eb90f2dcdb02c5e180bcd5c6/ip2asn-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "6fc7736633aaf5c388942942b18ba00150b687272761f162dab5f9c724486910",
+      "url": "70/28/80adb861e129dfb7d3196ae184fd07a835695360fbb654861863b853802c/ip2asn-0.5.1.tar.gz"
+    },
+    "0.9": {
+      "sha256": "6ee001e5f9dc36e74bac96ce800ae84a6b6bc32d78db96f1212226ffa0b47679",
+      "url": "19/10/ffdba8daa2a63ae798f19d5d4aa8321f0acd947edcb777ba256b5081529d/ip2asn-0.9.tar.gz"
+    },
+    "1.0": {
+      "sha256": "1e57812635b781686e2084dddae5175f533410cfd5d7f93f7f1f75683b9fe287",
+      "url": "14/ad/acc2ec118536a1bb585b66394bdc93ea2fd557e38aff233e47af8043bc61/ip2asn-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "5b7375e36afca5f8f1c6d1c25a082d5a9a52ef96ca956d015440c4eac9d0ac6e",
+      "url": "d6/16/db092335e31cf31e520df19787b3e96c774eeabcea74291bf832798175b0/ip2asn-1.0.1.tar.gz"
+    }
+  },
   "iputils": {
     "0.3": {
       "sha256": "0be078edbe68219cb7e763f0a47d29931675c6e7d55073c9dc47fc81973cb2e5",
@@ -22301,6 +22323,10 @@
     "0.9.33": {
       "sha256": "7bb8cd2db8d096b7c024e7386afc50a4f2cec88a052929e586cd37324fd7aa74",
       "url": "f6/70/fd9a52bfc1549622c01f1e2ceb36062f82be2eac788632a1f66dbf31315e/scalecodec-0.9.33.tar.gz"
+    },
+    "0.9.34": {
+      "sha256": "6ab41d297f2318ec2422a6efb206b8ce904d88e490c8e717eeec2207b13f328e",
+      "url": "2b/6a/6a667252a21c7564bc449cbf376686fa82bd9d97ff20f9588c48ca4db66c/scalecodec-0.9.34.tar.gz"
     },
     "0.9.4": {
       "sha256": "a95d4b7c51f2a2dea2314069283e4c6207c004cef226dbc0db88d2babed530c2",

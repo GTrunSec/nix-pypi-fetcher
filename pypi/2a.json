@@ -4141,6 +4141,18 @@
     "2.1": {
       "sha256": "8a5028a9535bb29912662d59e3496d9cea04d9a4e40e7ff3fcca0171106f1644",
       "url": "14/c0/9084166bb6a9db3ce237032059e29d443ba53f5305ef70217fdf96aa7d06/dashcord-2.1.tar.gz"
+    },
+    "3.0": {
+      "sha256": "68dba8dcb5f34e70c82e56f28a48cc8cdd738ee7d5f9f3f6d4d5114d99a8cbf0",
+      "url": "d0/ae/c782fd0c57c7d98a6d4b7b94e92a2f81333adb1ae8c83bd57a3b3b772ddb/dashcord-3.0.tar.gz"
+    },
+    "3.1": {
+      "sha256": "a68a6569c86e3c744006ef9c75284af63e0d6b084aa6366b0d2ceb8c201f97af",
+      "url": "74/57/fdb8a325dd3196eccedfb514217e5cb439f59d82ebb02b44948180915b0a/dashcord-3.1.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "4b878e260f05ec6678062031b61a084ec4c17798897be3ed1655aca9e1ff8a85",
+      "url": "3d/a9/b6c02cf2cffb90771adf2c2566a5956a52f838138e56729b283ffd002519/dashcord-3.1.1.tar.gz"
     }
   },
   "dask-cassandra-loader": {
@@ -20815,6 +20827,10 @@
     "0.18.0": {
       "sha256": "cd730096737e4ab3be741d415e0b7064f85242613f62f342fa1430e26c30bb35",
       "url": "50/9c/7034253897ccd321944d816e0df5285f239faddcc10174665855221812ec/sermos-utils-0.18.0.tar.gz"
+    },
+    "0.18.1": {
+      "sha256": "cc3fd22fa9f365cbb83ae8870f70224802052fbe83ab2f94624f9274685f9921",
+      "url": "f5/c2/deed2a5cc593d267444932fbc9d68de9c37436782996cadb79130449bdc0/sermos-utils-0.18.1.tar.gz"
     },
     "0.2.0": {
       "sha256": "1988fda11069f4815386d70b516c002fe3c9ecc645f01dd9528ea8329798952a",

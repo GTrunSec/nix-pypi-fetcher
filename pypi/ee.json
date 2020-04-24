@@ -767,6 +767,12 @@
       "url": "9f/99/15d472d242a106c95c2b672f1592a0a5a7ef9dd3890d4eca94b647d336c5/aioevent-1.4.0.tar.gz"
     }
   },
+  "aiogram-cli": {
+    "0.0.1a0": {
+      "sha256": "d0c888793bf0ecd30ab4a18e340e4488af7a2c57fa4714822c9505a757becc37",
+      "url": "b2/bc/e22f5565855ded5fb429074f77354e725b12e4066c0263ff16665e16aa86/aiogram-cli-0.0.1a0.tar.gz"
+    }
+  },
   "aiopolly": {
     "0.1.0": {
       "sha256": "5ad7697268c6b0cdcfb84124bcae07c34ca2b6eda0228ee9d3f1994341291be2",
@@ -24441,6 +24447,10 @@
     "1.3.3": {
       "sha256": "76ee2f7a46fc2da53c2eac0391a490b76d518ee61af0034e9be73a84fc788064",
       "url": "70/31/89e85cc4c9ab9da7e3c6df1542a773364e359ba174343337df81eb73ac91/weppy-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "67353e42bcd6dfccaf0537ba787dde3237c0c3fd0f37a463300583233badeb0e",
+      "url": "6c/fa/7227b05d80ead01fbe552d8ac72d3bfab13809b6affdc5483f1444c82c1a/weppy-1.3.4.tar.gz"
     }
   },
   "whats": {
@@ -25405,6 +25415,12 @@
     "2.1.0": {
       "sha256": "e732f5016c20a7abd56f8d93aa2c268f01b2d0876b3c3fec754007dddaa661ca",
       "url": "ab/b0/53f20df40afedf5b4470908c4be1abafda5a471f2f383c42c63d7fc8a057/zc.ngi-2.1.0.tar.gz"
+    }
+  },
+  "zenghui": {
+    "2.1": {
+      "sha256": "3141a4b3dddec9a481867527581c40ecd215295dc3fdab45a63713c7807a3d97",
+      "url": "a4/eb/e2ea6301a1247dce909f17aa00dac2869fa0948fa5b20909e8345c74d065/Zenghui-2.1.tar.gz"
     }
   },
   "zest": {

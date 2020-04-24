@@ -3365,6 +3365,10 @@
     "2.0.1": {
       "sha256": "cfba4dd831514921e16480457ff31782223a2f95ae09d4ad3632a1fc775b8c2d",
       "url": "6e/87/6c304232161fa8103bb95a3c4161b8276bb316724ed4629ed3e8694c070e/Ciw-2.0.1.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "5413ccd6cfb14ddd82fd0af58621ff2ff8360267c394048dad4c3ea934e39e69",
+      "url": "b7/28/1b231367b479bb2d3395a4c1340c985175e2284d50ca388da4b60f362757/Ciw-2.1.0.tar.gz"
     }
   },
   "clast": {
@@ -12372,6 +12376,10 @@
       "sha256": "6f5b89f55d2b8cc7ffb1a2660e75adc6c1b9d1a453484fab61dbef608f05a36f",
       "url": "39/a6/374a57dae571ce8640d55f2ed5530f3db542bcf12f8d5a19e0c8b9f9d792/matrix-synapse-1.12.3.tar.gz"
     },
+    "1.12.4": {
+      "sha256": "068ccca9f1227fb778d7fdcad3738277a2e6121e72a537444aaa0a12d509595f",
+      "url": "75/36/d6fecd22bc00524f248dc4086ed9dee2787e542f60b222ee7dc07681dc33/matrix-synapse-1.12.4.tar.gz"
+    },
     "1.12.4rc1": {
       "sha256": "ac609f03c63abd172ac688f823142d2096510b8987a1dcd6b34e721712d4a54a",
       "url": "a6/49/e8aa0b060905bcd6a3ce0b9ecd43827e5a2ee81bd38c8594cf6e2551340b/matrix-synapse-1.12.4rc1.tar.gz"
@@ -14173,6 +14181,10 @@
     "1.12.44.0": {
       "sha256": "d468e1a576120d48d93fe25601cdc430b4e22559225b57c3c0ca52d377f2d4f4",
       "url": "35/1c/376ef2f5d545dbea542c12e3cd0ec79138c7b762dcb7badffb4309579066/mypy-boto3-shield-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "d7347c45f3a7691661f5ac00685ae5b992d88357c7cffc3e7817f3f67a0024b1",
+      "url": "c4/9e/49c87c362746c7733d9c4d4574a1c212016f9442effd2975590ce448232e/mypy-boto3-shield-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a83665e5e21c2c6824aac9a9ad15a77ad06b3e8278d12ada88b1259f98c87c1e",
@@ -16855,6 +16867,10 @@
     "0.11.20200401": {
       "sha256": "104ec518972f6b12099d4ec2595094a069a3d49ab2d8ac7bf0435ef15bae6c51",
       "url": "e0/30/b8b150dfa94e20d670d7e86bb317ff0ef7030d36875848a8247167a2b9f1/promnesia-0.11.20200401.tar.gz"
+    },
+    "0.11.20200423": {
+      "sha256": "5e6714798e12c68b4708e422d4aa137ef2e6de5a5bf2e68bb486ff45d2795780",
+      "url": "d8/fe/2116f021d086e2044d59dcf0a80b3e9aa40e2a1b94ecc241a082143d4ace/promnesia-0.11.20200423.tar.gz"
     },
     "0.11.4": {
       "sha256": "8ab8013dd4fc3021f391b94572675b873e7ba1c1a222e74d3f337938e2f0a54c",

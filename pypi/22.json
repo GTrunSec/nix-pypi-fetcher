@@ -12813,6 +12813,10 @@
     "2020.1.1": {
       "sha256": "a1b755259ee0f05074857082d185c9066057532509519c63264c72f81177ef34",
       "url": "d1/c1/3735fcf8b8410f2256fa72c89cbcfac6c13e84218c3fdab9248da23498a4/layeredimage-2020.1.1.tar.gz"
+    },
+    "2020.2": {
+      "sha256": "ca931e56257106fe184269321eba9ab92f1a5316f519e4b5146ef8c178e044a0",
+      "url": "cf/22/a69f2ef2523c138b8fc54c77d20b796736db67600e8320345a282123285f/layeredimage-2020.2.tar.gz"
     }
   },
   "lc-py": {
@@ -19981,6 +19985,10 @@
     "0.2.0": {
       "sha256": "c2a5fea263a9abd5708a72faf132fe4c2f39fe48c0dbad69e3903c80841bacc1",
       "url": "45/43/297dfc943ede199fa041c1ce3c10d9038f655ddc75184ea215e06f34d8d4/pystoned-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "fada52ab9e5b42b0d90fc9e51d8fbf6f1fa4869a6f00d12b6f31ce1e2461cb4f",
+      "url": "6e/45/7cf56235ff338790cbe1e588e3f0e64220363bc2bd04693bc2bf83ef7592/pystoned-0.2.1.tar.gz"
     }
   },
   "pytc-fitter": {

@@ -4569,6 +4569,10 @@
     "0.26.3": {
       "sha256": "97e37b028b536548e42034f34cff589b711562fa81d9b06fe020fb406aadbc92",
       "url": "69/be/a58742f5cb42d34a147f4d1c6f69b918d62cb95743b6780e64641993de38/dbnd-docker-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "3d210bbff601d65f1a93408a705d05b0c8e2cc5f2d7b75f08d61b96191431c0f",
+      "url": "23/87/fcb84af83f25c99416b63fb57d4b6a1e0c4a450b547917703349743ca4d6/dbnd-docker-0.26.4.tar.gz"
     }
   },
   "deep-mapper1": {
@@ -14659,6 +14663,10 @@
     "1.12.44.0": {
       "sha256": "8e446f720f3e74f6400852b13e2bad8e9b702c7eccf7d7d8cf091b74048c5a14",
       "url": "a6/91/f73fb40437d3d436748d6553f710c9794d6fbb91c0447316af8b6785478d/mypy-boto3-cognito-sync-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "a1d9e78ba24a3ac125e6a89695a59e0b60b32c496b87ad6582874217cdc4b81b",
+      "url": "54/ce/4652a3cc1b4b988cec4ca0ec2eeab89fb3bfc506cc28ffb0967ae410caf4/mypy-boto3-cognito-sync-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "1cfd2e4d4b18a2e498e6d889c7bcc662242741accfbfff64ae0531140642475f",

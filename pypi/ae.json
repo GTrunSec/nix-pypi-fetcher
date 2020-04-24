@@ -2267,6 +2267,12 @@
       "url": "61/e3/630d7f6a6a7d616bf588a0b2a39264d67e128056cdf2f5fb5688d5e2b100/bits-mssql-1.0.1.tar.gz"
     }
   },
+  "blackfortpay": {
+    "0.0.1": {
+      "sha256": "7ddde94f9ef617fa25b5f377218e39a0a48b2aebf6e123309ea0abe5ab5f865b",
+      "url": "85/ae/51c4cd68e1492ac3d5a4da2550e7ee5eed67d12a91fde7be1864190c1c5e/blackfortpay-0.0.1.tar.gz"
+    }
+  },
   "blizzard-api": {
     "0.1.0": {
       "sha256": "f3f501e7999a1f6f8a09a20c0b9042453a7a77695e88a052b02baf667207f759",
@@ -4839,6 +4845,10 @@
     "1.15.44": {
       "sha256": "fcb84381f6fa2d8f96e2647bc059790b1a5a9ce0d00a5296ffe0946bdee15802",
       "url": "e2/b1/c04ca6cc006949534a65883eddbdd93cdac9c1fae56cae7c66d679eb6069/botocore-1.15.44.tar.gz"
+    },
+    "1.15.45": {
+      "sha256": "036183d917429a7145b031c55e7c1b9ea24f0d034fc612669963e8a78e662d74",
+      "url": "a4/ea/d29f946e24cf2a8b5bee75ecacb79e30fb7b51f4a78d2965c6b9a23417c3/botocore-1.15.45.tar.gz"
     },
     "1.15.5": {
       "sha256": "9de7885e9e9d6dbc30b9846d7edd8f98251db7f00395a6f4cfd765efc7098bdb",
@@ -13417,6 +13427,10 @@
     "3.4": {
       "sha256": "1894d754923e21734606b3f3f93e202a05fcb2eb9c886e7ebd4a7a931ed3b310",
       "url": "0a/87/64c96f546a27bababf12d84fd209c1dcd07288388205cf151d50061c842f/getan-3.4.tar.gz"
+    },
+    "3.5": {
+      "sha256": "68f667f8e5b897c3389e4cf532de6c6e8b8ab849c333b458116fac3283c12baa",
+      "url": "00/69/8c504812d8ca276eba47e5044dbd9773745bf1b061c0242dfba34ea29a1d/getan-3.5.tar.gz"
     }
   },
   "getmovie": {
@@ -29759,6 +29773,10 @@
     "2.0.4": {
       "sha256": "93722d2f6b5a937e024fa718b74ae3182ad07ba9bc492c65a6a87346425c085b",
       "url": "1c/43/ffa868b6fd05bcd3b81339d68ba6d806e26d9b5ebe6e3421474b2f1f9f61/trtools-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "4eb312d963157ecfd12d7ec84426e92908dea9d8b0d57679d17f66f1937ffdcf",
+      "url": "ce/31/29d3d50bd01711693b7b309084df47107aa87c075022f1bef1f8e642c25c/trtools-2.0.5.tar.gz"
     }
   },
   "trytond-health-inpatient": {
@@ -30203,6 +30221,40 @@
       "url": "70/bb/ea007eddc55c83cb0126558f5520c2c6775e7fed7492b255f7ada9fb5330/ufal.morphodita-1.9.2.3.tar.gz"
     }
   },
+  "ufonormalizer": {
+    "0.3.2": {
+      "sha256": "907b32271561ae23fe1fa1235e0e05d687a10b8104f87917b57a1a57da947d5c",
+      "url": "1e/89/63ff0764b3d93cbe9e4e7a475e6013f345723c7fa112a09a7b8dcdf43dc7/ufonormalizer-0.3.2.zip"
+    },
+    "0.3.2.dev0": {
+      "sha256": "dfba7d9a4e5cbf2cd35a635e2d07414244195b9e13b16429bf65147d9e520716",
+      "url": "da/49/8a28fdf29de653044bfd05500d1d0e4dc522fad70c75899bc847776491c0/ufonormalizer-0.3.2.dev0.zip"
+    },
+    "0.3.3": {
+      "sha256": "d1f303fa822c2273779dac489387ed3ff0fe7a4d31bc297bcb78731857387455",
+      "url": "b6/4b/46c5be17dc660e412c1a761e888773474899b54569bda133ff96b7aabb27/ufonormalizer-0.3.3.zip"
+    },
+    "0.3.4": {
+      "sha256": "9c6b41771b3907d50b7b6195aa07d986744a235f5a34180eb7bd4b4eac30685c",
+      "url": "30/45/21919783b5e71213ac6efe3157cfa6109f346a34c1ec08e4d457a085c22e/ufonormalizer-0.3.4.zip"
+    },
+    "0.3.5": {
+      "sha256": "634d49e647f562fb4b07ac38b902a92aacd215929c157d3eef2d78f39fb335fe",
+      "url": "3b/78/a4045238bd89ea9e4362de370bff374583f1d7f30f71a4d1845babb24357/ufonormalizer-0.3.5.zip"
+    },
+    "0.3.6": {
+      "sha256": "e41978fa581feb31ff9aec10f6e52aff27ccdd1ce242529cbc51bfe862687acf",
+      "url": "d7/a7/7b6ab8b83c16cf5da2776bb3631194ef4e9e54fabbe435f34763eca43d63/ufonormalizer-0.3.6.zip"
+    },
+    "0.4.0": {
+      "sha256": "457dff74dfde2a9733b4e90fa7f012990bee1b39d5b76ffe99fe29e222a3a13b",
+      "url": "14/b0/c6167af0c567231655c704be9115627d6cc3dc3bb50ac6edd001abdbaba2/ufonormalizer-0.4.0.zip"
+    },
+    "0.4.1": {
+      "sha256": "44d7367fc639dcbee24393f07925955f2e9347d23a4de73f2fcaeb434f07685b",
+      "url": "d5/1a/09441971eb061596b3ae77531c4b7858162ccd3c24706704651806617156/ufonormalizer-0.4.1.zip"
+    }
+  },
   "uhome": {
     "0.1.5": {
       "sha256": "ec571a035123ba452cf176d70531b23d384979a63fbe44e5190dcf717bb54234",
@@ -30405,6 +30457,10 @@
     "0.3.0": {
       "sha256": "0ca9927f072c1b2cdf3ba1d2be58b66dc708ca12bc78812c7e2f04d71eff235b",
       "url": "45/00/5ff2c87ab59d31f4ff98c05ae2b9f08cc3b720e0588fefdae86168c53237/upydev-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "6b69f6bc6b5e2dc2b021f1d58ef80919c5ffe8cda303aa03b3f5f9226029a6f8",
+      "url": "32/b5/9ed48ee58f4daf9680c2c9ad9b9d5e49f6f19088589aea31103d7bfdfce6/upydev-0.3.1.tar.gz"
     }
   },
   "usejenkins": {

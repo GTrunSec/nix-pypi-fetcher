@@ -11521,6 +11521,12 @@
       "url": "38/ad/29fee4b9a66d946d23efe70105f18d5783bc3db4d82c13603794246480d6/http_request_response-0.0.4.tar.gz"
     }
   },
+  "humann": {
+    "3.0.0a0": {
+      "sha256": "f9963be4fd19b3db032a9b33029b35a37735591f0f3f7ef197f15115f23bb33f",
+      "url": "40/10/bbf6ea17bc4174c59102edca90c1fb0644342ba25cfbabbdfc96012bc35d/humann-3.0.0alpha0.tar.gz"
+    }
+  },
   "humu1us-cipher": {
     "1.0.0": {
       "sha256": "e98b9c084c5ad44ea23b4b2c469db2524f4f3cf5af4b1eb196ca4441c0bb5e1e",
@@ -12105,6 +12111,10 @@
     "5.7.1": {
       "sha256": "366d48b94379b40b5b70a5898598ef459643934e66fc8a5fe5a7c10675f51486",
       "url": "0c/d6/e1bf69af8c3d917008e77d8919f79bcf2855c9fa08f4f28ceb443b2b4097/ikabot-5.7.1.tar.gz"
+    },
+    "5.7.10": {
+      "sha256": "aab57925f4fe6d9443cbda95b1833b35c8158461cef6abe592520004550fd1a7",
+      "url": "af/92/022a4e977ac67625b98564ea2eda9f72a318da689cac93c7455d49fb24e7/ikabot-5.7.10.tar.gz"
     },
     "5.7.2": {
       "sha256": "a0fed8cfb23f1cce3688c6b49872ee90968dae3dd0755c6340f8ef9d7532ca83",
@@ -16208,6 +16218,10 @@
       "sha256": "ec9a456f717d683aae3734b8e10616dcd66275090782ea883fbb4c2cd1538cac",
       "url": "79/54/4a6a1bef6b0a6ede1cc305e79b02ced975eaed934186fa6be7ee3962adb8/mypy-boto3-cur-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "af571f207c3f893e7883090f6372084740660d5f7addf299d2bd8fee1a9f2391",
+      "url": "b7/05/e35fc03536cfb554109907989f7c32cbe49b9ebf9517316f2c54f35794a7/mypy-boto3-cur-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ab65b8f635fd9eb8df2dd3093e8c75dc4ad300e98f60a118c2bb300e2078e3dd",
       "url": "c3/b3/a0084661a4d5ec482bb2305779e0c44745e151d090b241f649999ac65096/mypy-boto3-cur-1.12.5.0.tar.gz"
@@ -16721,6 +16735,10 @@
     "1.12.44.0": {
       "sha256": "a4055d463c90c26159ea724024bf4b1cd54f171f6bc2128204003c9f06164de5",
       "url": "c0/56/f51dc8b993cd2fc8ef567c212171f61b9f6930e485cae19a55843875bfe6/mypy-boto3-polly-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "911f3671447addc8858489b0f7bff1766d1cab10bb23ebc64572ef9c14c271d3",
+      "url": "dd/35/1942791dfb8ecf2659658870ceedbaca20633e0d4d762a6f5009c2ddc7ef/mypy-boto3-polly-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "145f666e3e89e3e5da0fb39528a015eb6cf2e565a97748e5aabd68f9324566a5",
@@ -21201,6 +21219,220 @@
       "url": "3e/b0/8fc644512461ccd40b8ccb767fe00cd0933bf634067249c9c1dd173d743a/pythonrv-0.1.3.tar.gz"
     }
   },
+  "pytorch-lightning": {
+    "0.0.2": {
+      "sha256": "081ae80b7e6f1f2a9a8188f1310092229396d7475752c9fc4b642ccb6d6e9eda",
+      "url": "7e/3e/599dfe7b8c35ef9c72df4825d876c023fafe5e2618483ee3f3f2f4cdc3a9/pytorch-lightning-0.0.2.tar.gz"
+    },
+    "0.2": {
+      "sha256": "ecfcc673801acebf5f00425589be5835ccb10de1797e4af2a0ace789e9a93a82",
+      "url": "1f/20/1dba0d674537646550ec94ce6f68658045c1e087761a0d6b08fe12d2fb86/pytorch-lightning-0.2.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "6a2b6ec744bfa3ae0f3fda92871af2358e4d8293f90ebeb9ace749d20ba8939e",
+      "url": "50/b2/28bb99ab0a4dd642349556dd3fee7eba718586023b4adac0acebb1e1879c/pytorch-lightning-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "86005acee0a1730d34ce0e23fe414476f0741cc341ffef0f52082ed276477754",
+      "url": "48/d2/f20d75b6d4e3cfd2abca344d71ecbb32d0c7b352aee9dadb6f8c48021b56/pytorch-lightning-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "8119e099203796189ffdf898a2bc874a46e4ed3a816097231d72810d9e30646b",
+      "url": "82/dd/a6a95a7dcb44e9d085b9ca52222adf900266d2e9da47785272192cc38e32/pytorch-lightning-0.2.4.tar.gz"
+    },
+    "0.2.4.1": {
+      "sha256": "d8d7f87c7d9ac14feefa8563e6f4c504e910cb31fb3753765790ab1667f51692",
+      "url": "db/1d/06a95a1a3ba5206f9cfb94bb887e7d370d921970b303953fa680f3c83ccd/pytorch-lightning-0.2.4.1.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "0b81d90dd06a8f708830d2ee3ba931b6c70172a55501ac76c8d07ab28917a925",
+      "url": "3f/98/0bd4825b9ab444c75cc4cf5abce2c768bb4f7bd52b266ae6627c738ab59a/pytorch-lightning-0.2.5.tar.gz"
+    },
+    "0.2.5.1": {
+      "sha256": "bca45b037db043f33b06595301311e94da64848afae5edfa875f26f33eb036ff",
+      "url": "57/a7/cca6ed828bd91806bcb653f176ba196f5de6abece64829a9a19eafc90f5f/pytorch-lightning-0.2.5.1.tar.gz"
+    },
+    "0.2.5.2": {
+      "sha256": "b44e21430027cf97a7fb575ce26edc7c6360d309d70d6fceb23fc6b2b311d898",
+      "url": "63/c0/9e734cea3b858a00463e73d870843b43111dceff90de7a04c6ff8709276d/pytorch-lightning-0.2.5.2.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "e22c55ca0799b294d72f0e49e8fdc83beacbb759ba7a0d135d3074a4948944ed",
+      "url": "70/46/8359e1bc622fbd6c22bb2ccdf39b3154480e60435af8c68ec135960351e0/pytorch-lightning-0.2.6.tar.gz"
+    },
+    "0.3": {
+      "sha256": "c33e7873b5d97f03dd6fb0b45687e5d97a7a1866ffdfc970c9e404ebe69291d3",
+      "url": "de/fd/b19d4d53dda9b61b9c044eaa07700fb17daea0efe5e1c74abeb2ff78937b/pytorch-lightning-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "35ce4e5d9321a07f4a20d92a85792f852380d5dba0d46f57c7b49f02ae04b1c1",
+      "url": "c6/2b/3366606cff8f8a9cb8f6ee0bd2e4207a0a3c22f7296f5f8a6e08233c6878/pytorch-lightning-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "b876c690d4c26987192e4ec6158f6bc5c0b8003c081dff87ca4b0bc49018ec12",
+      "url": "24/dc/0b56ab4c9c218286dfca4a2d15262d4e2fb25b52f014ef294aa55afef8d2/pytorch-lightning-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "1071175eea19f78241c5325020ab0ee7e14c8cfc06650729871ca04cffe9b9e2",
+      "url": "4c/6f/d6efd9ba13f2614c3763bef6670acf00ecf3aa0189c09e3fee03087a08a4/pytorch-lightning-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "ec79925bf4cb3fdc5961b41b52a8b692ef6758bcbdaa87a6601d2a696fb0f9ae",
+      "url": "eb/a3/bb96755d88a7d0e3f692466badb9a90081ed6c33ecd02fca0f8838ad7d59/pytorch-lightning-0.3.4.tar.gz"
+    },
+    "0.3.4.1": {
+      "sha256": "1cc10dcd5d036e5adf5970ea29933b7d86ceb4b494f2228b7f404b82a2a4cec0",
+      "url": "92/8b/b8c2cdecb43162809645a953c9c045a4434aa05ecda61010d77786b948db/pytorch-lightning-0.3.4.1.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "fbe652e06ee7f95994807011e840ad050c8685480aaca8ddb9c716209154044c",
+      "url": "4a/c3/e57b804d590ba8c74c408fc17eb598ede3bcc8afb235646adbae9b8f93a1/pytorch-lightning-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "980c886da6f90d5b8cea7ceaa1fe811743c761840b7d37568f86204c8a84f39d",
+      "url": "3e/2a/9880ebb038b064b322b7778b2a99143cabcb4eb4aa1a93b7273b66b6e083/pytorch-lightning-0.3.6.tar.gz"
+    },
+    "0.3.6.1": {
+      "sha256": "58a9b8a209f46eeb32665df04f58d1b0761ae9357980c8d0687cb7607a7bfd28",
+      "url": "8d/ac/58e9bf7b9d79c79d16bb3f1178d1dcfb15c5f6554b1f84104da9a26589e7/pytorch-lightning-0.3.6.1.tar.gz"
+    },
+    "0.3.6.3": {
+      "sha256": "ba983d40a206743613b57b5f8d05f646e6964c0ad1d7dac8d45b9e4088f86f47",
+      "url": "38/b2/d608c27e9a84ac35bd1245f900738907a3a6fcba14da7ba54ce266b43e03/pytorch-lightning-0.3.6.3.tar.gz"
+    },
+    "0.3.6.4": {
+      "sha256": "faa243c6399429c1758f4476aa4e681ba056d53738d463c9af3777a325b64a85",
+      "url": "62/55/d7cd98f303c172770deffcd363e0ff8540f1f83850b7c82e9a0e7a1a41a8/pytorch-lightning-0.3.6.4.tar.gz"
+    },
+    "0.3.6.5": {
+      "sha256": "1504a0272c5d3bc5fa778419c24c8a8455b2beeeb4c0d00b0c7b51d3e1d5eb30",
+      "url": "65/32/18d38cd36d826e599c2180c26e6dfaf2b15b62a761e96dffc13cc8fd6ca1/pytorch-lightning-0.3.6.5.tar.gz"
+    },
+    "0.3.6.6": {
+      "sha256": "23a47d63f4113edb59167b2ac0912a7181cd7f35ea4dbdbf4db57f6e6e95b6f7",
+      "url": "d8/5c/d2b53f91d260d888cca50a61ed23f62b5724daa0f1d8895cfb3eac6f5353/pytorch-lightning-0.3.6.6.tar.gz"
+    },
+    "0.3.6.7": {
+      "sha256": "a3c9930a2793f97315b401ab659feb5d93aebe45ea9cf099618ecffafd0f51b7",
+      "url": "b2/73/06e752e1dfa4625d5bf8733ebba850d02b29c2179483d4cff165015b4b77/pytorch-lightning-0.3.6.7.tar.gz"
+    },
+    "0.3.6.8": {
+      "sha256": "1103192ae7c9e4a6cd55a73521433876ba0210264664e72907419bd75b2946b5",
+      "url": "9f/2c/4a8ca61dc50feac591727728fd57c7902b4b9c0a0fa3303e66fef5fcfca5/pytorch-lightning-0.3.6.8.tar.gz"
+    },
+    "0.3.6.9": {
+      "sha256": "91995f8059a54bd83bd70a7d3c1cfd81f20a2318e601775731c22dfcca96737a",
+      "url": "d9/44/c04c6ae64b4ea2585e24418dd0e78077d81bd2240a4ce1bf2afec349b3a9/pytorch-lightning-0.3.6.9.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "b1134f3564392e0a70a5bf1c671c4490aa161d92cbf781ac822a446045adc0ad",
+      "url": "57/02/938bd94e9e2fd096b67d29c5317b83101a82aa3e1049642fe5c44768914d/pytorch-lightning-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "6dad309c5250f57e1b87305237e77d07005f22de605263d5d9580e65e6faf98a",
+      "url": "23/33/fd00feabb358a47326db53ae9dcb29fb3f48e3297eff83eebd8781e49a7d/pytorch-lightning-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "c8e80f6bf14a216cc217e46c09415bd00fbcc2dc7ca864c446165abf21a49f32",
+      "url": "21/6a/5d9289f1b3d8c831c29948dbb421bff7a2c99944cbc8037423ff6ef702f2/pytorch-lightning-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "8b66d07ae8f510e94a5ca87899d74184104a998263548574b364f0b9b3b006c3",
+      "url": "d8/94/a1c3ea7a84993f5bebb854535d6bb30fe69339db2e7fa1f01c6ad448b13d/pytorch-lightning-0.4.3.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "d6fb0d5b363230ffd509875fe6893760d7dfe1e7b039cd26ffffafb24bc0d993",
+      "url": "41/09/4ba4f91b76c739e8d284b08370cb6d0f94dc3a93553b380c0b9c94344125/pytorch-lightning-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "db0f0d16b6dc350e605d6fec83b6781eb17b9e80bdddf795df1a4e3099774b7e",
+      "url": "bb/9d/4ad2a8866ce525522a260f9115a8bf6a4f014ce953fc5b0e06c6f23cb29c/pytorch-lightning-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "3de7882d6a059ab86a5e200f15b97825d4943df844fd73d727f0306d563bed52",
+      "url": "79/e8/1921c7a20239ef1d06cc4db08f7a18e22dddebca341771fb0ab84d2b3e5e/pytorch-lightning-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "ffae42f77be65cde5904225266bdd26b5230ea5454ffeaac0a254a2b3c12ef9b",
+      "url": "c8/5e/5aaa6b149c4df6a59897348b0725bafa0a09dd7950e69e36f8815ef7008a/pytorch-lightning-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "6c379dbd78698db9938044cbf57959aabf47c3f53d7a0891e0f7b84e6c795f15",
+      "url": "a7/f8/69614df76721d2e450b260d47e2dca8a2c3aea44353e9a41045762441e65/pytorch-lightning-0.4.8.tar.gz"
+    },
+    "0.4.9": {
+      "sha256": "b51ffde7e62f38458e5ac6960b1bb12e97b04cbf81406dcbc05e1cee11ac19d5",
+      "url": "93/09/facded7d18227c3930c6839505258460069f4127a96585c96bcddd4764e4/pytorch-lightning-0.4.9.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "4b5d1ad1d528a6c43af443eeaf89e99abcbf43176bca8583263f690351762769",
+      "url": "a2/34/ba56756a4cc25e0159e1f993cac135f788a74a4db79facb624e054b6e382/pytorch-lightning-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "575944b63c61f50260f6f53b28a3225bb8e8507eba0f724f64a3ce8f4b51dfdd",
+      "url": "eb/80/ef0ad3a8bf046bf846df3e81cf4a4f6279b8cb204a62d2e3ddf94d19a3b4/pytorch-lightning-0.5.1.tar.gz"
+    },
+    "0.5.1.2": {
+      "sha256": "9b2c38081c95e35aa504cc83967b4dce63a094775e78a5f0e6e9298474d7baa2",
+      "url": "90/7b/e85fbea6032c47bc21eba4a15afaa5c06e66b735f2ae29ccf958b8bddf2f/pytorch-lightning-0.5.1.2.tar.gz"
+    },
+    "0.5.1.3": {
+      "sha256": "f944d5681a1708c91a636385e317528bf319fd354760e2a4ca7fc0b924b97439",
+      "url": "7e/37/a67458ab1018c0bef4d769ea7f2292f882aa547df2d50bd8371725379951/pytorch-lightning-0.5.1.3.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "0d4bec1f4796e90441cc7aca47b06aff91d89e7ebb5c2e1cc01687c15e46889d",
+      "url": "18/09/3c83a7c514f9b1bb77a118c616f64495cca4f969a0fb0e7b89141568ae7d/pytorch-lightning-0.5.2.tar.gz"
+    },
+    "0.5.2.1": {
+      "sha256": "718884a147b52d20ae5cb31c5886f21cd03eaea93c43f063035821a64b248957",
+      "url": "7f/8d/ce296589f61ad8f1014e0aa4b8a66d7623f7ddca779cb7941fdfd8848fd9/pytorch-lightning-0.5.2.1.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "962ec7d5bbeeb638d3b1729506ca883e7a8a79cba5a750dc1eeabbf5195fa0b5",
+      "url": "2d/2e/ef5bedf1bb7f2f786d42f5af71ad5d7383416efec86098372d8016f5305d/pytorch-lightning-0.5.3.tar.gz"
+    },
+    "0.5.3.1": {
+      "sha256": "e76dea0ef7765a6d2fe1c40f591247aa8000f3cc02d7ad53a6e2856bdbee42b4",
+      "url": "7b/39/ec22cf5675473b7ea496e5fd64df49dc3122f1cfe3646d72c84f0e7fe74a/pytorch-lightning-0.5.3.1.tar.gz"
+    },
+    "0.5.3.2": {
+      "sha256": "ec37adfcc5065c7f8ffbf406bf42695238eafa418b7f3f22efbf91a30a11589c",
+      "url": "98/3e/271adc302dc7cc1afeaf4f22fe28af1afecccb3b9bbd7eec45ac7b7eb2f5/pytorch-lightning-0.5.3.2.tar.gz"
+    },
+    "0.5.3.3": {
+      "sha256": "e3e76d101184eed99d0939368003341514f904cb00451f425545833ef69c7ff4",
+      "url": "50/c5/fb9b406b243c7df5b32936d93473606f114a79b8c19ee688702c3418e8dc/pytorch-lightning-0.5.3.3.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "4a41816818e514844fe633c3015c6c24aaf2b3e959a185d07f38c219ae0f7a1f",
+      "url": "26/3f/6190e07b23dc92e55b99c1f5cb9484845fa476c0fd1bc8e97fd303959293/pytorch-lightning-0.6.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "d1848e0170b2eb88e25a6bc011bbecbbc0e1fcd47edb2d2b26070e36755f5b57",
+      "url": "61/9e/db4e1e3036e045a25d5c37617ded31a673a61f4befc62c5231818810b3a7/pytorch-lightning-0.7.1.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "516a90e1620f37995f72a17aa163dba3af51551719c9bdbaf47e61e049acd71b",
+      "url": "cd/a1/8d76139165a6a9eb0c63081e042c26ace8f633763904463d000b5b43c3e0/pytorch-lightning-0.7.3.tar.gz"
+    },
+    "0.7.4rc1": {
+      "sha256": "caceb62eb8171609bf79edf2f08df4979b191730d8fa142b6e13431da578ec0c",
+      "url": "9b/64/525aa44e880de59fdc34b2c4007bf3d53fcc3f92af59d0a8be8d27456c1b/pytorch-lightning-0.7.4rc1.tar.gz"
+    },
+    "0.7.4rc2": {
+      "sha256": "c17728e8eb75354ca12fac50c3abcaede853103acefe224edcae0a43506e2925",
+      "url": "94/34/5f175c738bf5c5b7dbfb30b475983602905a3637d6f790a48a61b19bcc6a/pytorch-lightning-0.7.4rc2.tar.gz"
+    },
+    "0.7.4rc3": {
+      "sha256": "e83f3205ddbe315b26f38ce1c6278df0025f8594e44762185407b4d0e88cfebf",
+      "url": "3b/f9/974e82cb6087d790347162a85932c76699951d4a631c4c8cc2df47636541/pytorch-lightning-0.7.4rc3.tar.gz"
+    },
+    "0.7.4rc5": {
+      "sha256": "c8a790810122d8ec93bd09a21bb50134898aa60c93d36679053fd85e08077b13",
+      "url": "c3/53/34834570f9c94071d9b3de9d8e28ef13ee870680caa41b0feb813d2c54ea/pytorch-lightning-0.7.4rc5.tar.gz"
+    }
+  },
   "pytreelib": {
     "0.1.1": {
       "sha256": "5222fe4a2aea4c76d24af809bc2d95b7e83e403687232ad89a50eb80404c6efd",
@@ -22897,32 +23129,6 @@
     "0.1.0": {
       "sha256": "51c02d0ff29727713efb60d2782f3dc5b4fd58bdedbe4926d70277654ea7bda5",
       "url": "55/af/60a767689b98d23edf1b963fd89234175a5b18c001438cd44f01a9e022a5/sciurus-0.1.0.tar.gz"
-    }
-  },
-  "scons-tool-clangpp": {
-    "0.2.10": {
-      "sha256": "f9df621707f1fa498886f733d273b293665983af20f175926a2972f2a77fbfec",
-      "url": "51/ba/e37e703da0ab58edb93b366385ba72713a25cc648c5894cbf09df707e6e1/scons-tool-clangpp-0.2.10.tar.gz"
-    },
-    "0.2.4": {
-      "sha256": "db7d601cc3a4bbe13f7505390fc46eae9b72118a97e5347dfe5159736bcda130",
-      "url": "9d/03/33c762c9357b7daada5566a37f573a85936d5b34f7bfe363a4b7bebdbd3f/scons-tool-clangpp-0.2.4.tar.gz"
-    },
-    "0.2.5": {
-      "sha256": "e03d3d10543c305c4bed7394109a041ce59f259cbd085ab668a151ea1f8e7eb8",
-      "url": "8d/8a/b0ee661a4d827e9d85f8177605de36527a6f3ee81a123a54d900d5491f06/scons-tool-clangpp-0.2.5.tar.gz"
-    },
-    "0.2.6": {
-      "sha256": "65002876d489557167f4529f015cc7985c752af97ab694781437f7990fb3b9cd",
-      "url": "89/6b/db1c8d32a41efa4ed34e3f442880216b52653e03e403229377cdd5d6e298/scons-tool-clangpp-0.2.6.tar.gz"
-    },
-    "0.2.7": {
-      "sha256": "d52af37e8855a0bc71bf067e38940cded1f31fee18e54081241874f759d438c3",
-      "url": "b3/93/128cf110ec497078019c1a8d765de18088a2d33cf261d5fdd022d3fe93f1/scons-tool-clangpp-0.2.7.tar.gz"
-    },
-    "0.2.8": {
-      "sha256": "9b265121c09484dce99c45d64f6283a380009a0b87b17ac11457129869dfcbdc",
-      "url": "d6/72/987d27dfc707d05a06d1c47e5dfa7160dbb678a747c93f74e8a9930d4add/scons-tool-clangpp-0.2.8.tar.gz"
     }
   },
   "seqlogo": {

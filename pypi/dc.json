@@ -14544,6 +14544,10 @@
       "sha256": "b221b27e84d4a01e42418904eaab9995dbb65455893baa81b532f0cdd72d57ed",
       "url": "2d/4f/4bef22c8ad46f3e34f1529f68c8ad90a1d92ac1d5e1010491e71b26478c2/mypy-boto3-pinpoint-email-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "2ea7397b92772dd67804dc66087e71e024a196cca5ebfbb2022121d49ec11381",
+      "url": "f7/46/bbf6bf50f87a1aef02011f3728ef1c97a9d524e3d3d9131eadd8b8ee1251/mypy-boto3-pinpoint-email-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "fc5de3c1c7c24b33f7e85ab60487f006cde5d78d52a2222c43030e848bc614cf",
       "url": "65/d7/d0c9ba7baec04f445c98e781c40ba522c9ceb88bfe9c45f2d0aab4453cbb/mypy-boto3-pinpoint-email-1.12.5.0.tar.gz"
@@ -20223,6 +20227,10 @@
     "0.1.0a0": {
       "sha256": "258212c129d7ca5d81cf9d51ccb926d7a49eedc91bab8803df6b431995d03153",
       "url": "c4/ca/6fa667d1f61b094ae12d6b32c4a5aae89db2bf2d7beedb283889de496913/quickselect-0.1.0a0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "b52968eab5c4faca9a5f95d4bb9381216736f334dd8671bc043bb9211517b1b7",
+      "url": "f6/d7/2a825f53d5f13a4117e88ea0976ee6bdaa15d941dc277350a8c3dfba11c4/quickselect-0.2.0.tar.gz"
     },
     "0.2.0a0": {
       "sha256": "07f7d3e42ad8e32add1b6924b081d774da2ddbe41ebea10482cc1eeb7916cb27",

@@ -353,6 +353,10 @@
     "2.0.0b1": {
       "sha256": "b10078348b945772c653a48087e9c0e1a73de04beb54a4f58acc3e9c49640618",
       "url": "90/8f/4d24b709acf5e8d2455cd28077c5579389587a03c1b6e086d335d4da5934/aiida_codtools-2.0.0b1.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "7563b78dc460d86c9d7a6ac5e3ef99094623d655ee2b93690b2cf005b4316ee7",
+      "url": "c7/e1/974a0d0c37721d8a5d68bb65ad2494af413f0a9b2199035e769629ccf7ee/aiida_codtools-2.1.0.tar.gz"
     }
   },
   "aiocrawler": {
@@ -7134,6 +7138,10 @@
       "sha256": "d50b813c44e54a3a13921b879c23fd1ec299ef8fef571de1f46d749526b6ce6a",
       "url": "a1/b4/b359eb4ee6b12c5009dbb1251c97cb798ae0427368569c77f7d46f3e06ca/DuctApe-0.17.17.tar.gz"
     },
+    "0.17.18": {
+      "sha256": "d5663da746572924b4dd02787aeb86e1ace7ba556fee92900c3b06f4fe93526c",
+      "url": "a9/09/f1f6988a65e01d55ffa9da5451ccf68f642752046d68685a9cac8533f294/DuctApe-0.17.18.tar.gz"
+    },
     "0.17.2": {
       "sha256": "b5891a3c04ab957fad481cb034990d14d6087b34a3cf5ce4e98e29ff6716386d",
       "url": "e2/bb/54e8eabcddd5c60acf6830f816054f0c8d95ae13e4e0b6b5f60725495384/DuctApe-0.17.2.tar.gz"
@@ -11334,6 +11342,10 @@
       "sha256": "e74c8c2b7c41b7fc62daf2ca0a084ea5c0bc5e2723c6f95004bc536bdfbc90c0",
       "url": "3d/78/eb865edb2cca13d6609f52d6f4f2691fdb96391ff14761ab03fdfa9325b9/goodtables-2.4.12.tar.gz"
     },
+    "2.4.13": {
+      "sha256": "c03c65ce50927398d62486fa2d46de18b3612491dd06a87f4a147f8b95863d52",
+      "url": "20/9d/4f95bc4fb304ac33ca9be58d8d4e0b4d440cf395bad4f8ae1c3880c30eb7/goodtables-2.4.13.tar.gz"
+    },
     "2.4.2": {
       "sha256": "be35977664fd8f1132ea2c92f33ca46f0b9fa48f80831bae3f5edb9075733fda",
       "url": "5f/21/d35cd41307a70d266cc949b19de187b36e189a056adc442a5d21a0c11f8b/goodtables-2.4.2.tar.gz"
@@ -14107,6 +14119,10 @@
     "1.0.0.0rc1": {
       "sha256": "92de6718f2d370e39317acc5f817e9e07d21a02cfa6563d9721b0339be44b8ed",
       "url": "58/41/f9fce4fb6923e2747c6e160fc9d5768f83ea531580c83ab97780199ff1db/masakari-dashboard-1.0.0.0rc1.tar.gz"
+    },
+    "2.0.0.0rc1": {
+      "sha256": "38aab7fb12ef65308925da83ea7346312ae2c55942a50923808c57cea789f84f",
+      "url": "ba/5f/045c87bc73a41ff9bddd2932bb34c41a18666ac89ac2f60fa94b31c004e2/masakari-dashboard-2.0.0.0rc1.tar.gz"
     }
   },
   "masonite-notifications": {

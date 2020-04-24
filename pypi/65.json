@@ -13828,6 +13828,10 @@
       "sha256": "43e77d8e72d7e010ea5372bbb122368b802588461cf349fd93e1136fb0781c47",
       "url": "1d/3e/af59b383d6310b91f573fee348ddc4c290b17054f16401da70c01d881b86/miscnn-0.3.tar.gz"
     },
+    "0.30": {
+      "sha256": "e86d9aa657954e2a6212d4d73b9cb8a5da1e7668481b7f5b1880e705f05f6236",
+      "url": "00/d0/05645e5a50835a81be627b21c49a368093b96797ca7d1840b90e147e9c29/miscnn-0.30.tar.gz"
+    },
     "0.4": {
       "sha256": "beb7b4359c12ef061f9858d73a14b8c89f802d9350d2289c0f70e3a50a72656b",
       "url": "3b/be/b3f159869fd0c1741479a136665e5d35081277e02a4c2a5502ec77d67497/miscnn-0.4.tar.gz"
@@ -14713,6 +14717,10 @@
     "1.12.44.0": {
       "sha256": "d6b0b15113a4924c27ca911addaae30cde755920aaa28698425749ab7fac6c57",
       "url": "92/b1/49886e6fd55b5af5df1a348c5bc628cc970aa7b7f1d7b2b9e1dc26cec85a/mypy-boto3-lakeformation-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "c79e919a3c3db5a47ac3dd54a447c2028b82acc814b1a790aabd3a7a47f5fa6a",
+      "url": "54/e9/f3593fa0d270f6cd46a71c5dfa74c4cfd760b61355907e56d450a670c17a/mypy-boto3-lakeformation-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "904afde808065f49889aa2b7d1b695aad3cab27135e6775f27e09b3a990e6730",

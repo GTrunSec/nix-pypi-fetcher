@@ -7759,6 +7759,10 @@
     "0.3.4": {
       "sha256": "c7022eca9bb997c6df959a23a4db91354cb7d9a2bdd40bfb95e25754aac5926d",
       "url": "8c/6b/f583d9a7ae2acf3a715a7441d58ebc6a040e82a4fd144f7009fb36c72056/download-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "884a885475b3cdbec0aa277e41643995c3394a1e064a0816f53fffae4a382130",
+      "url": "3c/6e/1fd2e220b42858e2fb0e5fe870404210d003f151930e62b58675223444d0/download-0.3.5.tar.gz"
     }
   },
   "drapion": {

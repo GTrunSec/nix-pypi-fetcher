@@ -1472,6 +1472,10 @@
       "sha256": "e9ef8534d81360a6419df0d18dc2ef008c8137c4967d6982e50606dd60969ef9",
       "url": "12/14/2214a34fd65c8668e17a81cf5e4a281b9e63e855b03c53db582bc93ca60d/cf_text_embeddings-0.1.15.tar.gz"
     },
+    "0.1.16": {
+      "sha256": "27ce0999e34582e0557f9c78a8a095004d3987e9a44df785f3a94694378e4287",
+      "url": "be/77/75d9265442ecbca6c190a536d09f4b3b49f0f8664df960ea8889a2b6b205/cf_text_embeddings-0.1.16.tar.gz"
+    },
     "0.1.2": {
       "sha256": "d8b47582a96ff07409863c9a5b42e88eee972406e5cc71fb2fdf346ef86c5f64",
       "url": "c4/70/43098bacafffc570af0e5e9507a8bee9732e94aa163c34e1142baf6df184/cf_text_embeddings-0.1.2.tar.gz"
@@ -9807,6 +9811,10 @@
     "0.1.0a6": {
       "sha256": "d01c171bf084c586960c4a3bc1a3a6e73c5cde1031ad0349ca3d3e2fc96f1291",
       "url": "d6/0a/5af26ac7181fd97f7e59dd6c09e17905e12f2e6cad28363250602ac62514/kfx-0.1.0a6.tar.gz"
+    },
+    "0.1.0a7": {
+      "sha256": "2f7f3e0c946e703cad5c0742f3376fe4162102ed5faf90c1aadd191bae2f9727",
+      "url": "fe/10/3dc8b2ed72f13e44dcfb9a008644f1fdbd25cb98fbbe8d7f0478a5b5a1f3/kfx-0.1.0a7.tar.gz"
     }
   },
   "kismetdb": {

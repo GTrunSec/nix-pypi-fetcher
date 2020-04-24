@@ -8155,6 +8155,10 @@
     "0.1.0.dev2": {
       "sha256": "af13d7f09e0b6005eef134a000bf0afae75c103c0f3efc536d56d15024c9ad44",
       "url": "56/53/c2d03ca31a96c01b175c22333222319a6b948c191a0e72a1ec1af18ef22d/Flask-Filter-0.1.0.dev2.tar.gz"
+    },
+    "0.1.0.dev3": {
+      "sha256": "00e35b380ee3784795bc7c9e7d1c8d97cd22bafca29515cb0c6c89fea7fa2a4d",
+      "url": "04/15/b1d905032d845cb9f6ceca809c4f62c46cb15a7e4802d54761cc5111e5d9/Flask-Filter-0.1.0.dev3.tar.gz"
     }
   },
   "flask-hooks": {
@@ -14789,6 +14793,16 @@
       "url": "8e/3a/64b37225a77c2724f5c96cc9c659e7ce38f06648b65bf99a4ffee30b69ee/oneline-0.6.4-alpha.tar.gz"
     }
   },
+  "oop-guessing-game": {
+    "0.1": {
+      "sha256": "2aa9216c971d21cffc6c073117f460d5274b79423f294b1cbfdd8097cfc09aa3",
+      "url": "1f/6b/e8795d8e38d6626bdc102dc535f6198c4e70e8b5f7ce1fc312efa3c46ba0/oop_guessing_game-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "2f7e31c09a1e940e64aac7ee802c435d9950e7f06807869de15040b3a16fd1fe",
+      "url": "10/bc/0fdc723184407c6b3c97f472b9623caa6a6818cc7012ef2f4a20c637d38f/oop_guessing_game-0.2.tar.gz"
+    }
+  },
   "ooquery": {
     "0.1.0": {
       "sha256": "f6f6cde07b5284e55f0ec9d0581854569e851f85d969162099d26b909ad23b2c",
@@ -17996,6 +18010,10 @@
       "sha256": "2768595c27155b7dcd1b7917a16ef94b129ec9d63f6cf7a521a38c4fc65694a9",
       "url": "d9/b6/3246c4b51eeec30ad829a6ff50fd7ec5a1381e49861f852d91705b099ab3/pulp_container-client-1.2.0.dev1583432349.tar.gz"
     },
+    "1.3.0": {
+      "sha256": "93a1f646d3d1fdaa335ea08d5e42b37ecb8c6efa20dafa6b65513a175829d03f",
+      "url": "46/b2/e67fc08a01cd92e254bd54955704a7fc6121cd502af98db8a0a094f11ecd/pulp_container-client-1.3.0.tar.gz"
+    },
     "1.3.0.dev1583518741": {
       "sha256": "b47f4bc0554c227c76c431cd1ec2eddadb5959e11b16df675ab525a6d754d24d",
       "url": "c1/94/a810039d3afde545dfc8b9fb0676a7ea4ffcf09ed720006f397b08cb4d2c/pulp_container-client-1.3.0.dev1583518741.tar.gz"
@@ -18131,6 +18149,10 @@
     "1.3.0.dev1587576809": {
       "sha256": "81f2684fc6534fea6c3fc9821b91e042edcd5e870ce4cfd54731d153b1c296ad",
       "url": "39/81/11d9c0f4bf5b2df2e36a13577a1209aaef004b105978918274eed3367e8a/pulp_container-client-1.3.0.dev1587576809.tar.gz"
+    },
+    "1.4.0.dev1587662872": {
+      "sha256": "cb6f451062c0f38bd5ff036bd06bd1f1c11f643269f1daeca2c7c9fcf4bb1fd1",
+      "url": "07/6c/2bedc0188291cdfa323a7bc05e6ecf916e6273d6df6f3fc122d5383b0a3d/pulp_container-client-1.4.0.dev1587662872.tar.gz"
     }
   },
   "pulpcore-common": {
@@ -20736,6 +20758,18 @@
     }
   },
   "regapp-tools": {
+    "0.1.10": {
+      "sha256": "65b23f226791a81bc48f87db0546972e4814d83e27a25fac3bfadbbb4c6cc2be",
+      "url": "0e/e5/7c098bc9d100dfd3b09a70b932467133607b262c57e90fdcf8683d86d333/regapp-tools-0.1.10.tar.gz"
+    },
+    "0.1.11": {
+      "sha256": "ad6557c3ebe2cc59afd50a8e82a6cb66fd8de4539ebc544a2f680678ffecf143",
+      "url": "6b/ce/7698499a5c9afe06d88f6154564fcf543fdfd5a2e022ce08d1f28bdae054/regapp-tools-0.1.11.tar.gz"
+    },
+    "0.1.12": {
+      "sha256": "55e6310d7449dd7e93184fd8eb6ae293876b66465943ac65a7da4e4f2cf44588",
+      "url": "4c/fe/121d6886ffe64c7354c9292b8941c9a64ba8f888e72e597e83055d059275/regapp-tools-0.1.12.tar.gz"
+    },
     "0.1.7": {
       "sha256": "ccf12d45b20ab6ce8687c9f91cc28d31006962d0fd28177b673f77cf2138cff7",
       "url": "16/a3/e14a7064d27d3e2c35aae4471d5865f9f999cb4d4f86d2383729af2dcc8f/regapp-tools-0.1.7.tar.gz"
@@ -20743,10 +20777,6 @@
     "0.1.8": {
       "sha256": "961deeb0ed685f22832ccd09bc38583c0026e1e9bdc75f669f490710118e756e",
       "url": "af/9c/34a146e0a737c446294cba7a2a53a01fdd54692f0fa784ae16f713a060ad/regapp-tools-0.1.8.tar.gz"
-    },
-    "0.1.9": {
-      "sha256": "9d8f344c922d69b53cfecd3d7c8ae5975cc1b806a80bc0f774fe69f72595ea41",
-      "url": "ea/0d/e339f969c6bf97179cdcc7f3eb22d5bb254ebee9c3383798d18ab25e2811/regapp-tools-0.1.9.tar.gz"
     }
   },
   "removemedia": {
@@ -23745,12 +23775,6 @@
     "1.0.4": {
       "sha256": "b4432cceb3dcdc14bf253ea2ed89b1237ec6860a6428d674a01691679e58151d",
       "url": "7f/9d/91222889ecf831e003f7eef5f3ebe81c35f3335357e13c1ea1d070c9768b/teletype-1.0.4.tar.gz"
-    }
-  },
-  "templategithub": {
-    "0.0.1": {
-      "sha256": "8e215e4d2780c98b8a44d8e6db437451fe8a44c7fa76fd8c76fdd51337d61bb0",
-      "url": "0d/1a/b02496d615bb03f9d160772e5f737a5b368a4d57fe10cdfbe94ac94a25a9/TemplateGitHub-0.0.1.tar.gz"
     }
   },
   "tendril-utils-pdf": {

@@ -1623,6 +1623,14 @@
     "0.2.4": {
       "sha256": "22655331f6ecac8f4418302e95fd9436c134e99c5dec8a513fb3dd05be3939b4",
       "url": "a9/94/0241aa1fb93b144aeb3ebfcb064f65ccf0bdedcd4752d8d4810de95c78d0/atspy-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "13ab0c3f62c4fc3ccc9c665640d8eb0b46889060d8b4db29fc36cf18f26d444f",
+      "url": "d6/0a/eb8b49a263de9a51fe3633794ea2fe097864426936c1ef1a3a5319c4dedf/atspy-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "c42a179306b6ee09fa97c42a0b379c877f78da76dea8a5a71aefbe6ba90a1c54",
+      "url": "4c/55/1be550a239fd16ffc4208679a5672d37e8e64de514d644f531ae20d4bde9/atspy-0.2.6.tar.gz"
     }
   },
   "audio-slackbot": {
@@ -12663,6 +12671,10 @@
     "1.12.44.0": {
       "sha256": "7aae48b829c8dc26ca9e651cfe17fc375e8570a8e41721de28751272f9996256",
       "url": "de/eb/0b14af15e7357663682d56a943fa14f0086c5a69aaffb1d1c0bee0076ea4/mypy-boto3-batch-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "402229a5414615865c07ccfb0a7518623b868bd1fac882fdeec314a4d5ef6bed",
+      "url": "45/dd/1986379aa671200781e6032519d4b45eeff9538344bb54d06e9a84419602/mypy-boto3-batch-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "e07d214c2c9bcdc841cbdfb1c22b13b04a1a1fa5a73b2e95e735bb4f6acf5c48",

@@ -1059,6 +1059,14 @@
     "0.1a0": {
       "sha256": "c573bdb6ef8ebfff7bbf09cdfd4a30d04d7082f6e78298d6afc7dc6ff166ca77",
       "url": "f1/75/dd397f89e5ecb24c519b7f023836dc7fe26b7d741022f0c7fd944e6c3209/Archippe-0.1a0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "11e48878e13c47c3e0b55e735b80075c371ab9c9a50f0f1d089da479370d5955",
+      "url": "ed/b6/1b3c794f5d1d143957e87ce5c1aeaa128551073337b9952236c5f045cb66/Archippe-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "c1951cab9a485c42d5c69b4e9f48a40f28e6bb701f189fe346a14836cc6ef0ec",
+      "url": "61/a9/581e2eb17373d46279e20e6d7f70dfeea51ea98c9f241fdaa7611f91a2e1/Archippe-0.2.1.tar.gz"
     }
   },
   "argcompd": {
@@ -3127,6 +3135,14 @@
     "3.1.0b1": {
       "sha256": "6c46b57b3af718b15036bcc3f88eece0c5ac1949e85aa5b4b103e8f91e74af30",
       "url": "75/1a/3d36a11d1a5cefb8e9120e6f7817ffe3009a112a93e8d106d32fec52440e/bridges-3.1.0b1.tar.gz"
+    },
+    "3.1.0b2": {
+      "sha256": "4ea1e6574b06cca95b1eb18b03a2d58468e798cf4db64d5a817830f6a944f0e8",
+      "url": "b2/20/39c6568d681faa2c8bc49ae255d07705dc1185ea17296930a9f7fc1dc3c3/bridges-3.1.0b2.tar.gz"
+    },
+    "3.1.1.dev1": {
+      "sha256": "5bf7f1cbf6767124b8f8eae1bd30b36967327acf4ca5e71d74dd1fd59b808eea",
+      "url": "11/f1/de3aaae0232c6a3efeced4025f3a1d6f3486bf001b0b346ff1fafaff7700/bridges-3.1.1.dev1.tar.gz"
     }
   },
   "buzz-python-client": {
@@ -9715,6 +9731,10 @@
     "1.1.14": {
       "sha256": "1f10189baf5d98f859ee428566cdeb58a7f9ede97dc64d74344e9e1e403645c6",
       "url": "78/e7/a016256997683d881a5ea0f6708a4a9dd58d57d55b364c3e6a43359609a7/docassemble.base-1.1.14.tar.gz"
+    },
+    "1.1.15": {
+      "sha256": "600c9e471aeb0c57a28cd664fffefd4dd8989844a4c4f86ca8020716f2da4323",
+      "url": "7a/61/59ba215d58a4a70f66d65a688ba88071ec9c3081a781495872084aa1510f/docassemble.base-1.1.15.tar.gz"
     },
     "1.1.2": {
       "sha256": "3b0bc7184fec134db89ab21f175101ba493228a761afbb56a9ab6fb87ead4211",
@@ -17023,6 +17043,10 @@
     "1.12.44.0": {
       "sha256": "ab3f8d7785bb3f7d1fc94dfd6b3437042fadf8e76e11674cf1d2b296e9e7e9f9",
       "url": "d3/c5/6dbf604078678204fa37c49e3a570dfcbfcddabd53f7d314d06186b57f24/mypy-boto3-cloudwatch-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "e7d6ad2e851e5148418ef366a044fb31b16238807c1dae49e4a3c1fcf208ebfb",
+      "url": "90/eb/b2299b30fc9dbff257c17ee65bd40ef1af049dacb8ee61da4cbfbba18d41/mypy-boto3-cloudwatch-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "58d80aac772476882650bdd0e78805eac3197a00c8db2c0b6aaf25339b2c97b8",
@@ -26155,6 +26179,10 @@
     "3.0.2.1": {
       "sha256": "75b2b184faeda8cd8b0f2903881c2300327aff25a268b489fcb9dbcbeb4d17d0",
       "url": "d7/1e/fb9b1033fb5c890a6ae6ddf8b3d86792d47e2571d90b3ba63c9eceef455e/tccli-intl-en-3.0.2.1.tar.gz"
+    },
+    "3.0.20.1": {
+      "sha256": "4d0bda50cc80a24e84b00b228d65b851ce9d66710d4b85ded09782f7c19678b6",
+      "url": "21/40/1acac4ffc04550b7cb03e38b89413066a9a27026d2b1626c65b17adb5e7d/tccli-intl-en-3.0.20.1.tar.gz"
     },
     "3.0.4.1": {
       "sha256": "c8afc2b6853be8970cc37f3f5dd1469a7d437917dbfd1ac973aff7a0268aacaa",

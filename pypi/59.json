@@ -4459,6 +4459,12 @@
       "url": "8a/8f/2d8ea35c5e86668bacd131201ec0667cca5df11793e84db3475323dabe77/devpi-jenkins-2.0.0.tar.gz"
     }
   },
+  "dhanes-probability": {
+    "0.1": {
+      "sha256": "3d3bd7bcbba0b7c67e4b27fa694725f149ca76d2c21f5216ded4a0e91dd6126b",
+      "url": "06/99/807fc804ca2c23234ddedf03914cfde7fba95ef348a64157fb2929e7b71c/dhanes_probability-0.1.tar.gz"
+    }
+  },
   "diablo-python": {
     "0.0.1": {
       "sha256": "2b8bd5764a6abde54102d84b73e4f19cd53729dec706021c0c1308e53cd5e58b",
@@ -5891,6 +5897,10 @@
     "2.8.0": {
       "sha256": "831cfc3f1164627428be3cd38fb7268eb7a979f97f11018e55813a3ce23b1173",
       "url": "3f/6a/dd7a1e70e0f3994388f100f60162d58e4af21199ecf8cc05b734a158d16e/django-simple-history-2.8.0.tar.gz"
+    },
+    "2.9.0": {
+      "sha256": "181c3eb6d13438acfecb4cf5351c367e850a90d34f6535b92b838ce9f56b6321",
+      "url": "6b/ce/3cefbfb669fc4735b7a66f29ff2a4396aae22097af10ead0d986e9f3a10f/django-simple-history-2.9.0.tar.gz"
     }
   },
   "django-simplecrud": {
@@ -7209,6 +7219,10 @@
     "0.5.0": {
       "sha256": "778f8e806702cd9e86241793501e0bbbe0db23468c9511498902b3a80b00a7a0",
       "url": "86/59/d477cd91c23820e0fea7308570cc2db65bd1b95c3ea975690db132da431e/expandvars-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "f86e28d76b29dd3a5f129e781da1dae091487b342738c57b7df80691e4115923",
+      "url": "b7/45/cb6831f582cdcfc171a8d3ccc6d47d7e60afa78d0ede691b4207ace18785/expandvars-0.5.1.tar.gz"
     }
   },
   "extproc": {
@@ -7249,6 +7263,10 @@
     "1.0.2": {
       "sha256": "1394217525cf1287be2381fc0b89bcc9f85860badc1ae6700a3ad555e340fe7f",
       "url": "81/30/05b24dac46580733ef639da2560b86cc9d7a1e35d38c4ee5e5b3a081af4b/FaBo9Axis_MPU9250_Python3-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "6dee0d2d7e52e8fd1ef3dc22600952e6eb08cb0179f2728df69fb656c003bb35",
+      "url": "79/c4/22699a087766dc3835860cb647633f2e8d6c7610c3a5c918dc5457ddf885/FaBo9Axis_MPU9250_Python3-1.0.3.tar.gz"
     }
   },
   "fabuloso": {
@@ -11177,6 +11195,16 @@
       "url": "3f/bf/bdd58bea6298d2d4b3b5b4aa13aed1c9b90ec28545022413bf76219d7a21/llxist-0.1.1.tar.gz"
     }
   },
+  "lshlink-ffghcv": {
+    "0.1": {
+      "sha256": "39a8492cfedfaa22c38ac24e34cab8d5b2f17ad09c4bfd2fddbef26e6cccd9a2",
+      "url": "83/94/1251edb2479ea17ff2d4ed8f04a9793ec77469cbc8bca501d9d9f75b79e2/LSHlink-ffghcv-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "f41d851a95a18504628f244c310a6495fd928e046f5d7b0623cebff6872c5d87",
+      "url": "51/00/e0a94d984e493e503f25c1b1cd7946fe007228762349f85a9d90f3d6f68b/LSHlink-ffghcv-0.2.tar.gz"
+    }
+  },
   "lstpy": {
     "0.0.1": {
       "sha256": "12968e90831d9be94dec992e0eee8dec10022ce01b02f4b6ba4cf41d4049be72",
@@ -12937,6 +12965,10 @@
     "1.12.44.0": {
       "sha256": "4ebd97ed6f2573b110c47dd3061ad37320bf8583c71efdcd684ca92bec4738c8",
       "url": "20/c6/6005accd4bbf9a90fd4514fcb23f8ffaa8fb4e0180ab2ebe80b01d78f528/mypy-boto3-inspector-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "7909288e2863de1dd1a5755b3193c15779f1f308689287f821773543c40b296e",
+      "url": "54/1a/663a70eb4922f6838b6e242a137c2a9b1936f8dc17b9f5e8b33c37a80d32/mypy-boto3-inspector-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "03584df0145969d1576658dcfc94142bd7268645201b7061d2a90d5dcb74b347",
@@ -16695,6 +16727,14 @@
     "0.4.1": {
       "sha256": "82e720aff70ff058a73c38a9309ef8e8f894308c5afc01fa2648bd521e409ede",
       "url": "c5/60/b561e43f5156c72517493c2d4a80833f86a44ab4f90839ece1f2eadb70e0/pyproffit-0.4.1.linux-x86_64.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "3c1fcfff29e069372c2530e1cdfd04ce732f25b2c539ffade3c1375cecae102f",
+      "url": "31/a1/fa041c94c74b1592f150c9ebcacb5b3db06ef9fd6565b5247b7ddfccaec1/pyproffit-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "f1e31224ba06af544113eec155435ee3e3991b15e8101bbcf7ffab69e55ab5a6",
+      "url": "ff/96/2897e99395451701dccd65c15c613b738a3ac2faea63526799d0a85fb114/pyproffit-0.4.3.tar.gz"
     }
   },
   "pyreadablediff": {
@@ -19525,6 +19565,12 @@
     "0.6.8": {
       "sha256": "697d531dd131d21449bc9212de33425dc7ea8a77dd57a6830724698c8d3ddf1a",
       "url": "ce/9c/4864ca5008c45565850fc71df02ce66c381875cf7e5f45029d9363c6cf81/script_benchmark_tools-0.6.8.tar.gz"
+    }
+  },
+  "sdc-helpers-package": {
+    "0.1": {
+      "sha256": "28753c22ed1ff61a142ed9f74721b14cff4c6596643abd429080968576408dba",
+      "url": "55/5e/fedd07c68aba6dc96ff0fb06c6aef01e1628513b321df821b3526167bd92/SDC%20Helpers%20Package-0.1.tar.gz"
     }
   },
   "seafile-api": {
@@ -22601,6 +22647,10 @@
     "0.4": {
       "sha256": "9e126d47766eec4a7f510cbb25635f97aa38ae968ee8cbf7c97a95bea6801282",
       "url": "f5/23/2949b2d7369aa3e666ae6045a33577d33d03192ee8cba22349c69af16046/trafilatura-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "5524284582622c21edb2ea6f6f089e9d3b0e821bd770ab63797ad5c15b3e7a99",
+      "url": "22/43/0c24a3affeb93569358944640bb44470daef91237522f8150e9f515a0980/trafilatura-0.4.1.tar.gz"
     }
   },
   "traptor": {
@@ -24109,6 +24159,10 @@
     "0.4.0": {
       "sha256": "e4158f678a73a57cd248dd97bbc69d3dd4c4d394f1d43e66d5bf61bf26e6532b",
       "url": "80/0a/c1f4c4a6b219d9cfa682b6b38f08fab17044d308caf6ceb9f58222401334/zenoh-0.4.0.tar.gz"
+    },
+    "0.4.2.dev3": {
+      "sha256": "b08a4eb28e8b4c228b851abd39a175c02a92890a53fc94f7559e5a6ff0446ffe",
+      "url": "3e/34/caaa9f1811aded2839f2350a5bd96d6aeb8d2f9ad5aa269235e662207bd0/zenoh-0.4.2.dev3.tar.gz"
     }
   },
   "zmcat": {

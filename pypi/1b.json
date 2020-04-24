@@ -6219,6 +6219,10 @@
     "0.0.1.dev13": {
       "sha256": "3558ede772cd8984eecd2bbb79add722c740b679cb139ffa049d2e3eef04c9d3",
       "url": "e7/9e/6923a1a1a8352461906a4099dbdbd4f08ea8d958b56a728164cb1dc5ac8d/faasprocessing-0.0.1.dev13.tar.gz"
+    },
+    "0.0.1.dev14": {
+      "sha256": "2ef7183eb6ad451cde790db9dc3de474070cfedd2e544503a6036db2d6071c1b",
+      "url": "dd/f7/b6a47b309cd50755a9e621de9eb23af1d72ccad9c580ff698a052b380f10/faasprocessing-0.0.1.dev14.tar.gz"
     }
   },
   "fairensics": {
@@ -8867,6 +8871,10 @@
     "1.2.1": {
       "sha256": "04b989dfc08b86f1f7638ee3c2377540f74f3293a2b83a8a30b2dd18a4e47e90",
       "url": "0d/6a/4a3afce0b7ac44c3c2df52c70070bff33c6b2dfd8703e5504cff29f8ed71/hynet-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "9e985546784a46f9d6480f16799dbf9db5aaa6d100386dc8d9b2c3235ab85848",
+      "url": "1c/6f/94bfec8fc593be354b8f1a6e782ddb60b63afb55c5179b444452a89454aa/hynet-1.2.2.tar.gz"
     }
   },
   "hyperdiary": {
@@ -12801,6 +12809,10 @@
     "0.0.2": {
       "sha256": "c96328a87efbaa6066c5a751bbd9bcf1c2d61331ef0e8bd9e912eae846a4ebce",
       "url": "44/34/6f4eb1e5f2befd50f45f33cf1fe69174f2074219875d22964194c8476a19/mergemypdf-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "0e81b3be80b3431ede2483f1f611121f547f0b6bb3a987403636fe573308a7e7",
+      "url": "a9/fa/33e0ce33db804daa59184d74b47da2ec4d2f74b9d1bbbbeb9789cef0b4f9/mergemypdf-0.0.3.tar.gz"
     }
   },
   "meshrender": {
@@ -14621,6 +14633,10 @@
     "1.12.44.0": {
       "sha256": "c851b5dc1a190126dfa1faa860eb82972c1d132f8530047b183de57520d48e46",
       "url": "db/ec/251beebf33c231c2b46ac95bc1ba236b29eaec37c56fbe1be696c1c16885/mypy-boto3-forecastquery-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "aee53eba81f81900b1237a5253242de5f6a2447bce845d6bf7e9e0586b0c5b54",
+      "url": "7a/21/661ce19e016976c645cc0d7ab0b3f7c389cac705d168b8fbac51b6836e08/mypy-boto3-forecastquery-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9fe3574763cb582642a9e648424fa1b042ddfe08f046bc8212cc56e8a5ae0d0f",
@@ -24885,6 +24901,40 @@
       "url": "8e/c2/b6df8c197d32ee3d5127490828d3679397c28c8506c402db9155da79a22d/tcpping2-0.1.6.tar.gz"
     }
   },
+  "techind": {
+    "0.0.1": {
+      "sha256": "82249ce7c7412f02449d0451ee55322136b3b4cf0e9476212de1593729c44b3d",
+      "url": "fb/85/597cf66a85fd0b6ac290f0d3ed58585d3d929d76f81b83685b2fb3df85ae/techind-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "1c00f6b8543456249247fa1043f6576ee5449c9e649a97b26267dcafe823fc3b",
+      "url": "42/24/4d08312c67f6076e31fd36e225aa5d33f71019d301790d4156e145f5681b/techind-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "2901d2fc76533c5cba5729a94bb502c2210d6b575910c0f3cd4153ca47b78b52",
+      "url": "7b/9d/9085c765107900dda39b6d92bcd6376813670c9afbc75ac232ca26a6a6c4/techind-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "6436c83b8f65a9b83f6bbc0ce630fadc53120d549b8a5da1d8c92ba5582c570e",
+      "url": "8c/6d/9201171b5b766befeb4bd3c2fe7d08253a7ea59989d098b940014b432ab9/techind-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "68613e315d4ccccba5f3c402cb3c2078e4e69db4ed4ebcdb36e16e0ea36370c0",
+      "url": "ef/15/70df2140ac8bd2e0402046fee143496bb07e2b2271a24d666c298f769cee/techind-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "a1fe785b1ca01384f25e8c8714d8bc0ef2aadce49c52656a43c5523c740da747",
+      "url": "67/57/c3f59c5d05dcd52529734d4231270bad32a2b90c23bce1c1ab00b8bfe437/techind-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "06208d6f0f7532ae4bff6acbff830365b1c75a999e77fa2617f0a8d85b0b7a89",
+      "url": "4c/32/033a0010226bf4d03f1321fd7f7797984eeb8f19d42d65850bda91d95e19/techind-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "e07c425cda36e6c25b6b8f9e3aeadfd609f0466172d8e7f15fa454746b713c7e",
+      "url": "ef/c9/9de8dbcc0936c73d707cf8a365631f910073055990f0e5a48eacab626f68/techind-0.0.8.tar.gz"
+    }
+  },
   "teloclip": {
     "0.0.2": {
       "sha256": "bee069ec44dec8fd0aff171ddfa146da66a750dea8fa41903cd846f2bdab3ebb",
@@ -25965,6 +26015,10 @@
     "0.2.967": {
       "sha256": "8e9bea97b4e1e9c59d6196af359025d356eb4079403ab0e7b8b39ababc2ef01e",
       "url": "ac/d7/91fe442ad344b437444147239bec11498c0124340c5e28e0696c61f91beb/tradingeconomics-0.2.967.tar.gz"
+    },
+    "0.2.968": {
+      "sha256": "12c31df8e29ca6d221f5ce180058782910fcf8ae6c98e23e40bc82f6f5ae22aa",
+      "url": "0e/1b/eb256a9aee0fd72c653bae9882cd024646ad8fda6047b19e9d87c8a69261/tradingeconomics-0.2.968.tar.gz"
     }
   },
   "trawsate": {
@@ -27237,6 +27291,16 @@
     "2.6.8": {
       "sha256": "78895e3e12028092609b6146b1a8f553542e15c54c933e5ac5d34e77f9ecf771",
       "url": "9b/87/dc90df3978a1869db382274418fc237acda666b58a314345892c4c7ae2ca/voodoo-cli-2.6.8.tar.gz"
+    }
+  },
+  "vspoetry": {
+    "0.1.0": {
+      "sha256": "371b9eca27b66a6dc644b6a4b70e86fb6eecb8f073c31734cc61168c823cf4ab",
+      "url": "34/99/5435455cff4a25fb3052c8997d785af313a583e30e5e829089aab6c3352d/vspoetry-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "3890a0316e28a183d7faa15d7e1dda050c64806299157e1dfa79a06911512981",
+      "url": "1f/81/7635bbb50e20d63b9c0bdc0a59a4deedc8865341a5c009aa082394b5c3d4/vspoetry-0.2.0.tar.gz"
     }
   },
   "wagtail-links": {

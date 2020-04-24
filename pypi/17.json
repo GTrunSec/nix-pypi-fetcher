@@ -732,6 +732,10 @@
       "sha256": "7c3558ef9834483e9331b51e891b1804110c56b1c821e99f26f27c258da6ddd7",
       "url": "11/7e/3cce1517aa18f214754e48eeb1f13318f42c9e81b27081629eee02185d19/amplify_aws_utils-0.3.1.tar.gz"
     },
+    "0.3.10": {
+      "sha256": "f4814dac6fca3fc790150d48e5e13c88575d372ed2c13b8deb4d8b59e54f9f2a",
+      "url": "88/52/b4d469a3abdc709c2bf09c7cd2ae7b6918fc51671ad3d3cf5a3cb2131c1a/amplify_aws_utils-0.3.10.tar.gz"
+    },
     "0.3.2": {
       "sha256": "c8b1a6525225dc8c2d86d62a71174dcc2ef0e7fad3157367d7e4206f8f25cbbf",
       "url": "ec/48/79ca51a996d2aeb1fb48581139f442418ece98ee95ed0873cbecd8751e43/amplify_aws_utils-0.3.2.tar.gz"
@@ -6577,6 +6581,10 @@
     "0.1.4": {
       "sha256": "013fc2150123d1a3da476350a97bb920da9cbea44830f2b29a2113ecde00fa35",
       "url": "60/3d/c106a335bc85c0c9412ad951e84821bd03db75f12fbad3fbb2d5d9652e4d/e3smlab-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "a30413da3a0380bc4a020c7a29167db7fbe18a8f6ce8ee29380cf33e91db9c16",
+      "url": "72/e3/2eac38eb3914f807f2e198222d4b2db84c55597e2ff11a448c9259f92801/e3smlab-0.1.5.tar.gz"
     }
   },
   "eachprint": {
@@ -8395,6 +8403,10 @@
     "1.0.5": {
       "sha256": "ba6f4ae0d2e82e02e1477d8b817dbf9bc0aac5d3b309dac282c8c756fa978de7",
       "url": "1a/b5/bf741abb3042a81443fc1899c2002d814f3b56bda9e4639598632baf3f13/general-conversors-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "e63df7f0be52e60c9c929e11b59d624abc8543e5afa6f6a12dc0636f0094abe3",
+      "url": "de/6b/b58caae7319e63983fb8fcd06a5569b414b6bfbc51d2a9f721edccfee395/general-conversors-1.0.6.tar.gz"
     }
   },
   "geodesiclm": {
@@ -25323,6 +25335,10 @@
     "0.1.4": {
       "sha256": "b47061666e6e394b0f6003ff871e3244b1b23e536b28d2caf38f878cabc7caf8",
       "url": "44/f7/28c79aad7079d248e3382a5f029444e10710ec03c6e5ed313f08c78caf3f/zpl-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "4b8205c0fe5984834d1930874c741696b782fe10704df59e442464acacbcd93e",
+      "url": "4f/2d/cd848e8892169b6c725aa5c6c7cb47a7340921482c09dce1d588e8df9d04/zpl-0.1.5.tar.gz"
     }
   },
   "ztfy.beaker": {

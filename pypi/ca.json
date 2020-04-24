@@ -5061,6 +5061,10 @@
     "0.0.7": {
       "sha256": "10989528b422ea313ed9dbc335148d3f640648da5775fb0ca11092989538d8c3",
       "url": "5a/f0/1d5a543168d3578ce780ced761347207dee6b584daa60364b3c40f4ec29a/diagnostics-endpoint-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "1509f7019affc2241724ee304c7f0e37928b3b29bbde8431cdb3c9ebfe4ddf9f",
+      "url": "d0/55/b4ef29f8d36f37a7a52e8f4a01e5d045ced78ee680989c5ddaf4eeca4b9f/diagnostics-endpoint-0.0.8.tar.gz"
     }
   },
   "dist-al": {
@@ -13808,6 +13812,10 @@
       "sha256": "b0a9222053af6677aaec35318e7db11ec475a8fedac319e8a201c4187d0fe66c",
       "url": "39/17/eeb05f360e2f96493633102c4cd80214af0667448b4b113573a08260933e/mypy-boto3-kendra-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "d813d4388d60e4a39c4132a922a4e606b3e59308c15c7f844471842b3b6e9dd0",
+      "url": "b6/b1/94031443a7ea87f71b11475ac6b379427cc16c1d754698b8beb51ba7c0e3/mypy-boto3-kendra-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "1931e2b9b495fcdc1c7ccb711393979e99d0e77515c6a3dc0bbd4b7f1b896e94",
       "url": "5d/14/08134cac795717bf7e676f06fb71860f8f8125852687d82b63defcf35dc8/mypy-boto3-kendra-1.12.5.0.tar.gz"
@@ -19665,6 +19673,18 @@
     "0.1.26": {
       "sha256": "63e7256c122df8fbfee0c7e9a6a5b104c17c746d1d509534c81c69510c1fa570",
       "url": "dd/0c/15f098df5a960599373d443812ed0ec7650baaa11c307c9b892f27d6ea5c/region_estimators-0.1.26.tar.gz"
+    },
+    "0.1.27": {
+      "sha256": "add0bf9de86f8295f11d9e274ce8bb89b5e6c0e517ed670bec8f9abd8210f4b1",
+      "url": "ac/bc/9f7225e390924eb4c0edee85f71e1449865720d2011085f3f5cce567195d/region_estimators-0.1.27.tar.gz"
+    },
+    "0.1.28": {
+      "sha256": "7bac90cb5147aff6dd398a7a6d30f520214c1a7ead27cab41609a240e9e8d07e",
+      "url": "a8/2b/e3c6bfb50d860250560c06b81023824212c9f8fad1fcd882125e596533b1/region_estimators-0.1.28.tar.gz"
+    },
+    "0.1.29": {
+      "sha256": "e52c1e78f7b5b33e2970a3b248561370abea7fb0e96d7bf5b509e82fc8da8b72",
+      "url": "f1/42/c1ab9079b0fc1f94f70fa898ab14dd5ab7928a2be4664a33e629b022727a/region_estimators-0.1.29.tar.gz"
     }
   },
   "rels": {

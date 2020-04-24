@@ -14210,6 +14210,10 @@
       "sha256": "49b889b98ff04478f92bb43dd642114bece020302e24967a2ac27a50bad184ff",
       "url": "5e/5f/473830bb48ec11e7f5153335c99011cb041be6b78a709e4c88d61937e007/mypy-boto3-cloudtrail-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "03a01d9823aa27f3e8834d1a8743206eeba6b6b00172d2727c018fe73514072d",
+      "url": "6e/d4/3e94515840df84d9675afb28a7c3938d13c8f4f31fb383b40d3eed7c9513/mypy-boto3-cloudtrail-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "12a7718459ac920f6c4eed61fc6fe2e0a93c912df3187f58df0b0a40e4b7db31",
       "url": "6e/fd/42b9fec88680fa56267ef03bd8eaf30fd5a485bd659b67efea49920f7b87/mypy-boto3-cloudtrail-1.12.5.0.tar.gz"
@@ -14723,6 +14727,10 @@
     "1.12.44.0": {
       "sha256": "0ccde6d216f4921bdc1eb240aa08a32b698f75ebd038abd01fd1ad5dc4c8ef41",
       "url": "63/24/53805ef497c72b2c969ab8b9631b3fa2b534a2a8033dd316292330fca68d/mypy-boto3-marketplacecommerceanalytics-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "d721ebc31e4ea2705c6863baa476c3d7910aef3e148bdab659d0e06718c941b7",
+      "url": "cf/f7/157fcff91221cb5ee863f7e6ac8ed6619de120f6f0ea72ca5b6ba37b384d/mypy-boto3-marketplacecommerceanalytics-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "41ad8725662e7af55b61099c79fe7f8e61996768880ed43b93c351cafbec2762",
@@ -15238,6 +15246,10 @@
       "sha256": "409f14bb0a5dc0d71b97c4c2967b39e5b1b3b126952ce30a9e6bb1588d03d7a5",
       "url": "76/9b/a057ad500f4299ef4fa894a3e2465df2d8f41f818d2ec60cd1a062775394/mypy-boto3-mediapackage-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "3274c697d5b9cf7e9694279e6433f024a88683451d63b865581dfe26cf4ec0ca",
+      "url": "ad/ff/d8a3232a148540072b157f5aae6310311c7652c8f0f998fc9e750216c603/mypy-boto3-mediapackage-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "f8e8997d3acdcada67839bc0f01bae1cc8143a1d2a7ce5828a21803b9a890b01",
       "url": "c9/52/f6dfc85b4367d38e3c04e3b463b7d280f4e2f8cf405e5b208788bff1c754/mypy-boto3-mediapackage-1.12.5.0.tar.gz"
@@ -15752,6 +15764,10 @@
       "sha256": "6ecb768b822d7dcf2d1e3bb9e7b62414c7ce1fadf5211e58ad459d9e5db638d9",
       "url": "4f/d3/ec03459a3aa543aff5c28aa237820a259cf42815c8fcdb521de9d1056a5e/mypy-boto3-opsworkscm-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "98ce508d2cd1624e31908a1c708fc49f67a897204295fd752b7eb1839396637a",
+      "url": "21/4a/d4db8f584515fbf28d6fe05352841ec15f7fe66c3c70ecc98912134e0b2e/mypy-boto3-opsworkscm-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "4f12c030f7d7e95da716f4674eac64465584bda68b7832f0b54f34d1430f1fc2",
       "url": "3b/90/f6b2c5ef6c17ec86685e379cd4e27fc0c96b0df8a1a5bf8056cf59c52f8b/mypy-boto3-opsworkscm-1.12.5.0.tar.gz"
@@ -16067,16 +16083,6 @@
     "1.5.0": {
       "sha256": "1efe08b22490c2fb815be0e29f35e56956772750f649e3df6abe292cc56d82ab",
       "url": "08/e0/3ff7c32ab9a8966e83c1b19a4dc914eb90b1a12f56ce2cf61e689608d228/nitdms-1.5.0.tar.gz"
-    }
-  },
-  "njserial": {
-    "1.0.0": {
-      "sha256": "539780e8e3fc081026e350bb3a9e1195c9395bf997dc2da35fe47e44a917fe13",
-      "url": "c6/05/0cd50ee3b61b215f7db2fb79bf9775edde34e5b8c9ca849a884edf79fd89/njserial-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "4715dad28c078483bd72d0c18f678aaa046246f392d5865b589c278bb506875d",
-      "url": "8f/9e/a2f260ee2e1a5105be2f8822559749ad30fdd06827eefd5d32f611185e13/njserial-1.0.1.tar.gz"
     }
   },
   "nlptoolkit-namedentityrecognition": {
@@ -24453,24 +24459,6 @@
     "1.0rc2": {
       "sha256": "64d1b56e07ebe962aaf78005cc84637df02cd6538b5888e5597030e175aeece5",
       "url": "ba/e9/f0b22ed0538e953e3067e97ac9641936fbcd061a984f40bee2e7cfc8633c/rio-color-1.0rc2.tar.gz"
-    }
-  },
-  "robotframework-jsonlibrary": {
-    "0.1": {
-      "sha256": "f3dd33ad945a6b6f6c00ee094ba6f3bab0aa019dcc809e1512c21e46ebe23a05",
-      "url": "d9/17/7c372a5195392b62944ea9d28d66c1c5a14ca3474e2725750329fa71ad7c/robotframework-jsonlibrary-0.1.tar.gz"
-    },
-    "0.2": {
-      "sha256": "b7414d3489412e6c499e1b488c62337d8422b0f0923eea5054dd111778951d39",
-      "url": "e0/3c/609d90b967905c0b5c90f736666531e025756e71f3d538546cabff61ef3e/robotframework-jsonlibrary-0.2.tar.gz"
-    },
-    "0.3": {
-      "sha256": "d9d1b9b35d1d48aeeec5b6a9614f92ebcdd0828ececf99935030c128f2ccc645",
-      "url": "91/05/bc535d666491d0856516cb6efed2736a5242bd70555c4f80df89755cc69b/robotframework-jsonlibrary-0.3.tar.gz"
-    },
-    "0.3.1": {
-      "sha256": "2582f6e1f7b04666cc2e73e00f1d50563ce7c018803ddead8dab5bfc79466ed8",
-      "url": "35/34/9cd0fc7074a88ce5f81912a4a6b8f844a0ef61d3c548144540939413f191/robotframework-jsonlibrary-0.3.1.tar.gz"
     }
   },
   "robotframework-ride-tortoisesvn": {

@@ -5079,6 +5079,10 @@
     "0.26.3": {
       "sha256": "f5fbfa7fdbda53e168b94c2bce4861497ac43a67f9318eaf8fab2ba56a8c4d49",
       "url": "9f/9d/e639d391484dc6c9c6737a8d9a3f8eb5b4610a79b284b7318b8048098635/dbnd-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "a64749551dfc6457231098d832fd55502077c6af87390b76bb3a15c317be3201",
+      "url": "24/d3/826b165deb6df60e08e88d15027b49b67fda3fa17272f764d4b12126dc13/dbnd-0.26.4.tar.gz"
     }
   },
   "ddup": {
@@ -7375,6 +7379,12 @@
     "0.2.1": {
       "sha256": "ab4fa093c42d8f75d46a1bb6f3fe131ade3e5040ba54bda4d5444b1c38f73ed9",
       "url": "7b/eb/9f97e2af0f0b949c01f73512175bc9f2c8b382e28056bcb14f72a86fe9a0/eventmagic-0.2.1.tar.gz"
+    }
+  },
+  "example-pkg-unis": {
+    "0.0.1": {
+      "sha256": "6b341a44e3d1aae1fb93c176ba3baf317484ad61ff17f06c9e8e315b693ac6cf",
+      "url": "88/a0/2c647e6a96e9ba270a728188dc1e6815d3bbb1294353a4b3281925122fcf/example-pkg-unis-0.0.1.tar.gz"
     }
   },
   "exp": {

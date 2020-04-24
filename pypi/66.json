@@ -8300,6 +8300,10 @@
       "sha256": "27696a3d6519b2b89a262d4275688fba185100f33103ec0d0eed7a197d50fca6",
       "url": "ac/90/7351cd336e0a3169bbfcf0bb3d029446d42b36002628ba77a621c6f9b549/intxr-0.10.2.tar.gz"
     },
+    "0.12.0": {
+      "sha256": "6b8c0c230260d97eaac3e5a77dc79ecf1efebf096bd4d2ceace4eb12f32db8cb",
+      "url": "26/44/80b66f87cb0cd7242436ef4d001d42b666e28a3204641c1e85c863420c96/intxr-0.12.0.tar.gz"
+    },
     "0.2.0": {
       "sha256": "cfc4dee0ab3e152843237afe02f1dc7e3f28cc89bdb45369644ad15e5dbfb6ea",
       "url": "9d/a5/d09b4154a522d61b7d2399bc45453a8654f2f1eb2eafb0d5d90a8f1cf578/intxr-0.2.0.tar.gz"
@@ -14253,6 +14257,10 @@
     "1.7.2": {
       "sha256": "5c0d0b47607c4ecdf22a81242af8369fc3b99249da0e23e25e9e7ac554d9adcc",
       "url": "5f/7e/c795a9c75436ae50b537d02f70793c6a6129d7f7f8e3f50e9163063d2501/Py6S-1.7.2.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "256162d2f1f558e601d4f79022c037a0051838ba307b9f4d1f5fcf0b46a0c277",
+      "url": "99/9c/87ed66cfe2bf44be4dfae3cfde4946b91deb9a745e2b5e941690395d5696/Py6S-1.8.0.tar.gz"
     }
   },
   "pyafm": {

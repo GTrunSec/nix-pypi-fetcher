@@ -17422,6 +17422,10 @@
       "sha256": "788c1ef68c529a8083f6ba5fa3bc7d13008e63bd360534606d8fd488827ecb2a",
       "url": "95/99/cfa2b992c69541c6ae34b708f90b5a4ae7fb761b61578796fb3482dd93a9/mypy-boto3-emr-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "fa08055ff608aa3b67c6cb9cfee5cff7fc4f6e2ab5357a78d2fb4fea613e83ea",
+      "url": "8f/7c/fe1700b010c660bc855691ef0e17ad7a02b55dd73d5ede955dd42d8029e7/mypy-boto3-emr-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d028d92c1c255eaf85f9ee3856f8032b00e246f73953cd224a1bb48d440a053d",
       "url": "cd/fc/f6f4143fd210c1458c41d3fece4953a4e96bc5d3261cd5c7e4435df369a3/mypy-boto3-emr-1.12.5.0.tar.gz"
@@ -20191,6 +20195,10 @@
     "0.0.3": {
       "sha256": "aad531c75adbcc41391ecc35317b8040d7a099b513dd73237ac155aa1756589a",
       "url": "7e/64/000978b7870ea041b06db0de616c50cd179cafb1130755560352b1de0620/pyciosa-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "ad77dc8753e06981a466ba729742b8433e5d357c578feb8b0f6c4e68bce0ee83",
+      "url": "ed/ec/329bb3a6d83382900ef2bb6d1ccb926fa7c3e99ceb3abe8a788003d2c708/pyciosa-0.0.4.tar.gz"
     }
   },
   "pycmus": {

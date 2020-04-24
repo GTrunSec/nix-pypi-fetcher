@@ -12248,14 +12248,6 @@
     }
   },
   "markdown-katex": {
-    "201905.2a0": {
-      "sha256": "4faf7f458483b6c470a79ae132b9e91d70386ce7b2b215ca21fb3fc86eb2daa0",
-      "url": "7b/2a/1d44373adb6a096ae847b65e21d28470b0f720174e493eabb24649db61a1/markdown-katex-201905.2a0.tar.gz"
-    },
-    "201905.4b0": {
-      "sha256": "e587e62a29644261948f75ed7d515aebacd958a39d4b770394feb808afabe082",
-      "url": "24/a1/4d35d38489320e810c0bd7a2eaaf2693172b30b239d36222020200264825/markdown-katex-201905.4b0.tar.gz"
-    },
     "201905.7b0": {
       "sha256": "9613c27528e4b4a99bf5f1d15c1539171d231d74c48cc62bd7111b5547e5e1e0",
       "url": "51/b3/741c419b8445ced0a9ef30861273f087187501d015d34166b9f08f4e6277/markdown-katex-201905.7b0.tar.gz"
@@ -14123,6 +14115,10 @@
     "1.12.44.0": {
       "sha256": "779833d90317de4d4ce64fe2915030adedf983f667f99ec25e820dafeddb9eb7",
       "url": "e4/6e/04f83c60891a8183f07800da84cfbcf16e034848d30d8776322209f27670/mypy-boto3-personalize-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "69d77473412a4148aca8e58115f8cc07d1478ef5a053531499913520b5d45d1f",
+      "url": "c2/c5/0df330e9026d988e4ef0f18421d1122eafbd05d0f4f99301b3b9fb7809b7/mypy-boto3-personalize-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "f885389e89f3b09038e3131c6f9dbba0fc40c88a16d8671c36b4b43071cd075e",

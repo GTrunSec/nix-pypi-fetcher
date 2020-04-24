@@ -8899,6 +8899,10 @@
     "0.3.0": {
       "sha256": "1aea0ff9ddc5caeb11082aaaef678bf4089598079013e56e1c9812a7401801db",
       "url": "ee/55/a6b5d44820cec8e972aaa20c9bfba94a6fac29fac8169d7f0577e7ab76eb/keystone_tempest_plugin-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "2840cb898c05a2f79592dbcada95389321d703619ec9bdebe9f56d88a540a6b1",
+      "url": "c9/5a/5c3459c04986c868ddf9b4ea460d9d628a7054c2ce5c58e4dbfdf878f6fc/keystone_tempest_plugin-0.4.0.tar.gz"
     }
   },
   "kisscache": {
@@ -10876,6 +10880,10 @@
       "sha256": "d2f9718de38a2dfa85045bc595028a6f30cc189b969d0fa901ecab87c25ee2c8",
       "url": "4c/6e/05f62e3f8a309385e488706c4b18780548d8fe1c593f6301e7b631975490/mypy-boto3-discovery-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "eeeec9f33f79ad0d6fb2ab5e087169a84202cb9ba041f0d7067bfd3dc805b119",
+      "url": "be/37/f00d05db3ce7d451eb08b4eedffcb1ad4d5401619b9de98dd358286250bc/mypy-boto3-discovery-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c41e9a95c4e57009020ac7e673cfdb1b4c5d1b3d85ae51bbcd89529f8210a40e",
       "url": "27/3b/b0f063d7fc9094237503ffa7f6e15d4f981ebee1ee091955211d3993bce2/mypy-boto3-discovery-1.12.5.0.tar.gz"
@@ -11390,6 +11398,10 @@
       "sha256": "cc7d0fe35386c55b2d1670a250a520e17b20e5906a4d50f0320a7ed6ed60627d",
       "url": "17/71/5383ce05d365336e92b09ea02adbb564b9528bc618facdaa082793adfabf/mypy-boto3-health-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "26ce667602755651d77cfb9bdfde9b2ca85b5dbd1c10ea411e00ac4938a27e34",
+      "url": "c0/8d/8c76218703e6cded964eac4a5832b7d704b92fdecce0cebac6888fac149a/mypy-boto3-health-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d01e9cf061cf11ce1f4cb0a730a08706a1960d781020e18789b24f1686f6c4d1",
       "url": "67/37/0e94f7d673b1303bdf3c39d7e9e6af3c313c183f871ff87b35b3da292c1a/mypy-boto3-health-1.12.5.0.tar.gz"
@@ -11903,6 +11915,10 @@
     "1.12.44.0": {
       "sha256": "768f95d96cc70c152b0fb2802d254166e2f8853adc8b0b00aa6a02496c07ec7b",
       "url": "3e/61/57a911b7f28c79f3f2ae5b18cc9a4f0537115587816c388009d684303f34/mypy-boto3-lex-runtime-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "d44e9b2331465058dc729ea207d47f06e6f66acbe0b6eabf49c2d55ef31e2e21",
+      "url": "d3/84/ac5aa644d4bbd47f7da8f91488117b4820fd2147e86446672d17b4b92699/mypy-boto3-lex-runtime-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "f7a3ed012beeda31c3bfd99d09e56761d1c05f14d725c18627921031fb4e8164",

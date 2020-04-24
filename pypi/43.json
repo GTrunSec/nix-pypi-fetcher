@@ -5327,6 +5327,18 @@
     "1.2.3": {
       "sha256": "9ddb85ea63ad0241b8107f18502d22fbb2063842301d2e2421e9216016f4aecb",
       "url": "d8/35/1a3519b5b1e20af67b4604e829701e884777aae5302278d360b79cd71ecf/codext-1.2.3.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "63293cee7c2591e3e92e80397930c3111162012b91a3383ea4debd5324e97fe3",
+      "url": "00/bc/5bfdc4518444bce2860d4d5777394a1663debe9b2a68daefb4ce7d8b832f/codext-1.3.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "5f7b85f493fefdfe9b8d2834b4de94e2f39d490428c1775a770fc38d852fa44c",
+      "url": "35/ed/0ebf5be17724cddae6467d1a9023ea2df14784d6f3465d717e762bb060de/codext-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "d6f06264de54bf5a39312b33391539337800b6d271c169195097f9012fceac00",
+      "url": "6a/f2/3b44b162f4f3e9472beca95ad741e059d1ada577a42d99820255ca2caf1a/codext-1.4.1.tar.gz"
     }
   },
   "collective.pathtouid": {
@@ -19539,6 +19551,10 @@
     "0.1.1": {
       "sha256": "ea8191f9d71d61347e50082a4d1d392bb81f7d4cdc817f0af74f5143cc266eff",
       "url": "19/33/ff715335c90f2d9e7f0fa48393ec45cd64c7971baaf5707fed9102955ff8/pymol-labimm-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "c8f1b9eb252d3d0e7a7c923fef3aa846a66e75a053ae595c032a7fbe0eeed95b",
+      "url": "81/1f/d2eb02203e351dda093e9dcbf3a9da583a607671acd191b1ef7e51ad64d0/pymol-labimm-0.2.0.tar.gz"
     }
   },
   "pymontecarlo-casino2-gui": {
@@ -20902,6 +20918,22 @@
     }
   },
   "queue-util": {
+    "0.0.10": {
+      "sha256": "30bb155ff4e9d4363e198b1cc470902d6a7b269db212014374dd7e3d66bcca1e",
+      "url": "a8/d8/d066514dcf3c8e5212f1bb083ee2000f596e6816dc4f8a66053a515d4fac/queue_util-0.0.10.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "4c1d2a2e5ec615e30e1e732c546e5168aec14661a87bef013b6bebbd562ab67b",
+      "url": "a8/b6/fe2a48c853528a26853c3632a918081512e3ad3c673abd7cc83cffab6ddd/queue_util-0.0.6.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "024b66408c7fc0dee368c841c6b715f09b813b6b91f2921ea4b8f959134c7ff4",
+      "url": "02/38/f7e510e538318456b7aa9b8ef1af5aee1671019553ff2d34742c1c542ad0/queue_util-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "81bfa6bd7fe903745614f8e3e2a3da6dd9e5cd407f5edea43337b0b560e8b13a",
+      "url": "b0/af/46ab5494336abcd56b4bfb15b56a4ff9b956b48dd66c5e2a35383af0cd69/queue_util-0.0.9.tar.gz"
+    },
     "1.0.0": {
       "sha256": "60f8e29868aa1cb4d85dc42535611697a706cfef98b545b0c0311e257370d2ce",
       "url": "73/88/a1893ffa13984f300d10ed3b53152a6d2135044d5ffbe3c26fda036644eb/queue_util-1.0.0.tar.gz"
@@ -22373,6 +22405,18 @@
     "2.0.0b9": {
       "sha256": "90b8da8d60034e5a49ad4fa048671b0290b96d0d3b174dc94b41b3c51b3897b0",
       "url": "6f/07/019ccb2cea1af5b3fe681da13fd4ada62a1b8a8eb188936ed3d5bbec44c3/sgt-2.0.0b9.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "415b4b5384eb808554ad50442db34d645e7e5c710aa0e15ba0847c097896e784",
+      "url": "99/77/36a4b3757f879af85c3ea1e5813d4845609d9ec6a6d32cdd188b7b9a63c3/sgt-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "1c92fdce6e776e7fc0f695c22986f9d9f364fedee1b81318271d54a1356e5be8",
+      "url": "17/7d/204ac0722ea5040e9292a85bb0d4660531ed00f3eea76ee959e26dbe9582/sgt-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "169e7ee86998f53c27d47c6c2845c769a4eb5576dc3377acab362b5d452a45a1",
+      "url": "c5/82/8886147eb181c91d477e4322ccce4a415af28c7186318338e8151d068ea9/sgt-2.0.3.tar.gz"
     }
   },
   "shellrunner": {

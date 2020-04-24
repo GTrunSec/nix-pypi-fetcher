@@ -9459,6 +9459,10 @@
     "4.0.0": {
       "sha256": "1ccac8251873f3c7053f605b181e00d2b7663c06057df544c3c926b67d4e005c",
       "url": "ad/76/50df74009e0736d582098590054fbd918e67ecd8502fd09389d13a11e484/gtfs_kit-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "63193ff4983941e557037ff09dfe7b671ad442c15cb2f2700d2de6d819575099",
+      "url": "85/18/198e8828b533e69e82e6db8fdde4ff10037a5c9adcb48e9567fa86dd3544/gtfs_kit-4.0.1.tar.gz"
     }
   },
   "gurumate": {
@@ -17053,6 +17057,14 @@
     "2.3.0": {
       "sha256": "93c0b63c5644fd23a54b53f14643ffe643f5cb5702f3d095b93ba3b9f51975b6",
       "url": "7a/d5/7acb1d169f338dca2f4c2758f2bcb385b53f71c1e85ba47eb369d752f541/pymap3d-2.3.0.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "1ec8592d2208f995cb960dba4c6b88d33fed23a2194f0c453848d63b61bb7365",
+      "url": "ab/d4/92d422da016a9f51c593904ac504268df6f719f8d8819b2617fe792b24ff/pymap3d-2.3.1.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "ee946ee2ca2c8952c99a891d6785d552288d0e7cb7a3ed6c8b6598b83d019f7f",
+      "url": "38/6d/ebb17c48f1977e10c8c061aef3d15a187861b8d0935874035147273c3461/pymap3d-2.4.0.tar.gz"
     }
   },
   "pymarho": {
@@ -19263,6 +19275,10 @@
     "1.0.1": {
       "sha256": "fd6a1f77f0fe0fca4fe4e1d9b141592513255fb10f5c77d4fe479e253eadbf78",
       "url": "ac/d6/4642b8af96917fd4a586d28f12bc10d2b978aa9fe5b384c6988eb2c37c0d/robotframework-remoterunner-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "4b163abbbf50502b63514a25e589f37c11610de94548b1b8fc5405458922ca5c",
+      "url": "b4/70/33f9e5bf6cdaffb06918c68ce06f33f2ec1b0ad4a7a1b56dbf5ec77e33cb/robotframework-remoterunner-1.1.0.tar.gz"
     }
   },
   "robotlogger3": {

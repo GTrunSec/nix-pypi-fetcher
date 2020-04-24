@@ -329,6 +329,10 @@
     "1.0.0rc1": {
       "sha256": "1c4f4056f7bbfc1ed1de77ed8dd69dd74e71c2d223e3f050486a3cd8d4d661d2",
       "url": "6b/8e/6502bd5ac56a45387ccc6d580fc8308842bba82f571735135eea860bda04/allennlp_models-1.0.0rc1.tar.gz"
+    },
+    "1.0.0rc2": {
+      "sha256": "6e4380fd61d223d659d57319c6892f48d10131b2a5eca58cff5d41a134e57f3a",
+      "url": "1f/a3/4a769abd08842a7c92a6abd3c77f4c94d6f0646fc841cc8fdd1a3808ba60/allennlp_models-1.0.0rc2.tar.gz"
     }
   },
   "altair-widgets": {
@@ -1211,12 +1215,6 @@
     "1.10-783": {
       "sha256": "fe2b882288e7492660d24010db9791d6597ce30aae37ac40f7a74e99a425762c",
       "url": "71/9c/4d84ae74b146067558e84a2da64d98c303faf27ba98589081298fb3edbe3/bombardier_client-1.10-783.tar.gz"
-    }
-  },
-  "booklet": {
-    "0.0.1": {
-      "sha256": "a1b509f7e73f35cfcc597c7266f4f6589e69f79457f05b3b00d74ab51a480c3f",
-      "url": "8f/d7/893da4ed91c065bd9b53bd7ab67a7aad8f4d07b5be3c8f8448ddc1d92f34/booklet-0.0.1.tar.gz"
     }
   },
   "boto3-extensions": {
@@ -14510,6 +14508,10 @@
       "sha256": "18a20f915f587062d4443a8fa1d4dc616c67ded7ba2459fe202f7268b1b1cb35",
       "url": "03/c1/7d195146558f220dbe364684de29b67816b6bae7ebb0850908f5e6d16bf7/mypy-boto3-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "66369e176cba0a01b52a52e8e2a4bb9691abe8c8c321df2aa55296f9b5c3efaa",
+      "url": "df/94/2271732452b891559de88ab2ff54b62b4932f97c0e695d238b52a4754524/mypy-boto3-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c1f4b73ff715c0b26678f16e99abd9d5da1b0b1d6ec852a6aed8b9177b930100",
       "url": "98/7a/64f26a7d6a6cc15acaa83fd361acfb79457c8767528b3f1a56ce18dd6dd0/mypy-boto3-1.12.5.0.tar.gz"
@@ -15032,6 +15034,10 @@
       "sha256": "3fa501589b225f9b1fdd28121974a67c6a61cf1090647f062ff032eb1abc59a6",
       "url": "cc/30/6c649ac6694cf2f5dd58bf0941cb7566ca8c173e6b7c5def21a9fdcf58b9/mypy-boto3-autoscaling-plans-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "015d3f19701ed358e839904217b94490644984393868ac6e3d4935cf354eac8f",
+      "url": "89/26/105bb58f50d758b5ab3e15dcb8b3f1143e9893d85706745e7b993ed9fb54/mypy-boto3-autoscaling-plans-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a63bbcda3315f4dbef22965156cde00c48ec4806f733d0ef6befadc66acac68f",
       "url": "9a/cf/d817497cfdcb486d7a5d8a59f45529d49cffba78680dda47cb71250a9718/mypy-boto3-autoscaling-plans-1.12.5.0.tar.gz"
@@ -15553,6 +15559,10 @@
     "1.12.44.0": {
       "sha256": "478869bc745fdbe2c0d98e8d8af09e67239d67481bb1e127687c396a6020225d",
       "url": "ca/7e/233a172cf996df43168d9cb84e6b403606082fc3a2f8c44b7848537297b4/mypy-boto3-ce-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "8c29775361673fc03f6606b306712cea0868d860263699408a1a68ef9e432b8c",
+      "url": "41/cf/aa27bdfe6cd8b7278e0ce98ffb8ec5586e9df82e5c57fe3e518ac4306e60/mypy-boto3-ce-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "14c1cb232e031148f9d7b0fa3c1567584fd24df11acb8134cdf903fec268d2f5",
@@ -20869,6 +20879,10 @@
     "0.0.3": {
       "sha256": "f0b2e8174de4bb519d8ddeaa0ccb27b3582e9a3291f29eff8169f46f4d584fb3",
       "url": "60/2a/1acbe5e5696cc229a8d66a8ff1000b7c9a30ed41b1aea74998da7bbf7cf8/sdrf-pipelines-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "da5dedf1d3d20c71d9e89895ff8caf53c57c2bc44584a3d2dcf9c73064444aae",
+      "url": "60/61/7711b13200fd88bdfd3eceae3ee69b0a29b8180a8086dbe07d6fda303613/sdrf-pipelines-0.0.4.tar.gz"
     }
   },
   "seantis.dir.facility": {
@@ -24825,6 +24839,10 @@
     "1.0.1": {
       "sha256": "432904c65679f8b1da7ae275c41c221391276262a3aa355bb59be068ffcfd32c",
       "url": "0b/76/9c27fcffc005c0e13ec7f99aaca17e87cee457ae2e67c185c8b4181212a4/texthero-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "f584d9181fdbdd2e699cda512822d154ea208d2b7cd1454fa135e8f7aba19fc9",
+      "url": "9d/b7/1da24602007d70701638607a31088f0e9b0716a53be7fb4394a6c0bb9c1a/texthero-1.0.2.tar.gz"
     }
   },
   "tf-enhance": {

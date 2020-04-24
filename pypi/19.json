@@ -10457,6 +10457,14 @@
     "0.11.14": {
       "sha256": "6bac8654bc2efaef73eaa61d2540e9da6f2ff552decb6682f216ed1d859972c4",
       "url": "31/3c/1d5109821381fdafa2794b14639cbd799ba0097732837af66ee0ed4c8970/halo_aws-0.11.14.tar.gz"
+    },
+    "0.11.15": {
+      "sha256": "d898594564b7555b0eefa9a408b605c31eab0fb42ecd44587542c1b24f815fb8",
+      "url": "db/0c/83bc60b6f722c4fc3262025697a62e92d79b526a6bb605e963bbeb423f77/halo_aws-0.11.15.tar.gz"
+    },
+    "0.11.16": {
+      "sha256": "531ab21bbbff58efcedda2315e140734a2b7b93e276ff7ff5f8e16a1df32b35e",
+      "url": "1f/03/c261a79d64824b7d3655e6e639f3484b6e254e5b7bb1b69846aadbef1dd4/halo_aws-0.11.16.tar.gz"
     }
   },
   "har-work": {
@@ -15137,6 +15145,10 @@
     "20.2.0": {
       "sha256": "6c42e17d4997e4e2c08b95b82d6fbd99f3adbae934b26f56b15677be2c68c503",
       "url": "67/06/9f7f38a2131ce5d28a31457ed2b619134be72f709e47b8951baedf547e6f/nova-20.2.0.tar.gz"
+    },
+    "21.0.0.0rc1": {
+      "sha256": "33d0a78d97f393a2a07ce5934c3eb6afae2113ba96bcd19445ceb5216451f89f",
+      "url": "bf/b0/71e853e69fad000c07e0dbe6e4347d0067b192b9fe17c244bb2ee369d10a/nova-21.0.0.0rc1.tar.gz"
     }
   },
   "nr-merkletree": {
@@ -17821,6 +17833,10 @@
     "3.4.0.dev1587502562": {
       "sha256": "c167dcecb997c333d30b54567704be01de22edcd49b7b0da121e8d427456d784",
       "url": "02/39/584d875026cdc5440509f11a268f1c54fa2d2c0607d74aae40ccc1e16064/pulpcore-client-3.4.0.dev1587502562.tar.gz"
+    },
+    "3.4.0.dev1587675558": {
+      "sha256": "9debf712d9a831b45cea1c774b78cc40e5777d05457f0ea13c550f5481a8b455",
+      "url": "17/43/1f4353c69ce0a49bfb8a6cc062f5f64b41792a52f377f32d38962e315c28/pulpcore-client-3.4.0.dev1587675558.tar.gz"
     }
   },
   "pushwoosh": {
@@ -20257,6 +20273,16 @@
     "35.0.203": {
       "sha256": "865bb874447805109bc46d6a09f3cba3a22137979a464ffc3847c2ed8003dffe",
       "url": "bd/b2/c87e218ac9f939cd9a0df14cba236a6c3ca75e09a80005f3348c72b11439/resilient-35.0.203.tar.gz"
+    },
+    "36.2.209.dev0": {
+      "sha256": "16f47d729e81a7f774ce42783090625a8e29cb067cf55167c3efd7bcfee74dd7",
+      "url": "f3/ed/cd97340b584d744bea3e24efb286dfa7de81465cd97116d3218a55188bb2/resilient-36.2.209.dev0.tar.gz"
+    }
+  },
+  "resilient-sdk": {
+    "36.2.209.dev0": {
+      "sha256": "ea6b4c358b24c8d1fe442e1ad90104693b20874dcd8305de5e41d3576e1f9675",
+      "url": "d7/b8/370746e2db518de8d5faf8b6ef6774d141ba007b2075ceff1a24cef151b6/resilient_sdk-36.2.209.dev0.tar.gz"
     }
   },
   "retroarcher": {
@@ -23155,6 +23181,10 @@
     "1.0.0": {
       "sha256": "5954a6587d153dff0be5bc9ddacf2213b73d80cc71245fdf749e7e4292de8565",
       "url": "03/d0/21be8bb3b7f648bc005d7cddc2bb53490a1966b9dae7f41bfb40f0c4c3c4/TLV493D-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "3f93a58f8fd4eb90518d4676ec637675ea9000f133ed4873fdd2338469f849c0",
+      "url": "1b/d9/e8c5b62efb15e7160ebff6b006d86395f7bd1e21f223cb7aa919c00d384b/TLV493D-1.0.1.tar.gz"
     }
   },
   "toil-nanopore": {
@@ -23655,6 +23685,10 @@
     "1.1": {
       "sha256": "b3a88105d17a92ee22507bbc5372a8a40848ae25efc892925d15dcd287773313",
       "url": "b0/f6/5ca5736f5a40bef98e1ee50922683a8d4852445759119f252d8715413c13/treedb-1.1.zip"
+    },
+    "1.2": {
+      "sha256": "1e17c805ac5f1aa2fe870784f06e01c47367abfe9057280532734e4fbb8d91fb",
+      "url": "2a/ff/6389b73bd337d34075539cb426fc84e078075c010daf4230a740489c7e64/treedb-1.2.zip"
     }
   },
   "trek": {
@@ -24501,24 +24535,6 @@
     "1.0": {
       "sha256": "3542c6dc2667481041926a797a9869d55c68890ce9ab2cd06907eee9345e5715",
       "url": "87/a0/7a0af2b4221cc76d9a23db620f8b99dd8803ecbb0442c3d09efd90f96331/visual-logging-1.0.tar.gz"
-    }
-  },
-  "vsc-utils": {
-    "1.10.4": {
-      "sha256": "4480bbbfe7104803a0e0791b35628ff4fd5ddf567e091dd70962463e054e7a6a",
-      "url": "27/cd/53a740783e4d26a85c87de7317e63d4eb8326f27a4a372b24b3f62a3a4e9/vsc-utils-1.10.4.tar.gz"
-    },
-    "1.8.5": {
-      "sha256": "044898a2808459acd78c3b24626ca4ab46a61e68033d1b4219769c389325f999",
-      "url": "74/a0/3139f47f12ceecc67e4d3420931eef7a1c8f0816f611a0cd143034dd7a5d/vsc-utils-1.8.5.tar.gz"
-    },
-    "2.0.0": {
-      "sha256": "c21ee5f86133bf135a1c4f13ad925140855eef4baa04da1b78d6e0850ee47f93",
-      "url": "2f/cf/dce194232e3ab3dd56f9cd69a476fd6a0f061fe9e73f9b76407cfca9ecd5/vsc-utils-2.0.0.tar.gz"
-    },
-    "2.0.1": {
-      "sha256": "c084b84f3b7acb4e93124993dd0569ec6d96a3f2db255376099ecd13b2648def",
-      "url": "0b/5c/3db002bb0b557d640558d0a6a0f5fbe3cbf408c4246fa05a422fccddb973/vsc-utils-2.0.1.tar.gz"
     }
   },
   "vyked-orm": {

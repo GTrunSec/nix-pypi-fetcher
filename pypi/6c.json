@@ -8483,6 +8483,10 @@
     "0.2.4": {
       "sha256": "4be0e35673bf29f03d971a02f7664dd706fe9957a16c8dbc28993a9f0fc0bb30",
       "url": "82/7b/ef47643fae37e818137c470189b5633fd0acf70fb2db3afb93a58a503922/kisters.network_store.model_library.water-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "6ac0d7e8d6686da46837032a8ef9e183008183a8608f837dfb53c16165a87339",
+      "url": "96/e0/8a4835f1c4d4e01980a65cc91a61d92231b770a28b07686fa4a565ca00cc/kisters.network_store.model_library.water-0.2.5.tar.gz"
     }
   },
   "koalafolio": {
@@ -9129,6 +9133,26 @@
     "0.0.1.dev101": {
       "sha256": "d9e610f2e5a0a1f3adcd24e891f68332f940d225b60f199f8b0488693067ad88",
       "url": "7e/0b/cc57e8b6e80cf6bb5f475b891155b415e6b505946ed1411977f155496e7d/livestyled-0.0.1.dev101.tar.gz"
+    },
+    "0.0.1.dev102": {
+      "sha256": "c28c76f0609ec28e239a369f2a6a3c49d2c7b1a95a633dc5a4d086d924e73408",
+      "url": "c2/58/4a144d1822ecd28c88cb64c99acc06bfe7b65105ecacc1d5f276d9ca261d/livestyled-0.0.1.dev102.tar.gz"
+    },
+    "0.0.1.dev103": {
+      "sha256": "45b4d0423d19919a2f29cd868c3cbd217fe849ebf081780223178a89809e3747",
+      "url": "d4/f2/4a291d673d1c459bec3fd3c3ae72d8715cb23543fcd8bca88a9bf4354b28/livestyled-0.0.1.dev103.tar.gz"
+    },
+    "0.0.1.dev104": {
+      "sha256": "c0583532c70ad08591c00d95c9adec888337cd2ccc0c0472d73371be4bc015c0",
+      "url": "25/f6/64db7e5c333a814bf38b4331812912c229ce808af5b228fa470cd3266088/livestyled-0.0.1.dev104.tar.gz"
+    },
+    "0.0.1.dev105": {
+      "sha256": "9c4b0376aa35898e8aa06da855fdb646119cd7cb375c3f6000e26945a1b1d7cb",
+      "url": "23/80/704e8ef12bd7033c9091b5ee5eac889ccc49d61c1726ddbcfb3576eeae1a/livestyled-0.0.1.dev105.tar.gz"
+    },
+    "0.0.1.dev106": {
+      "sha256": "8c9e0ea55ce90fb4e4833d6f5cdd631ff950fd70630eb5da0f0b538207a06d06",
+      "url": "70/8d/6773cfb9dd434c8a1e8ebb165718a316c2804bac13142d921c1714091168/livestyled-0.0.1.dev106.tar.gz"
     },
     "0.0.1.dev11": {
       "sha256": "95384bc37bebd18cb3296655d80b863dcad9469447f8b9db3c79928595f45dac",
@@ -10514,6 +10538,10 @@
       "sha256": "4cc4f300e7b399ad5b3f331dbff2ffb4e96a498a3b0ef0f41468ba7e08a29401",
       "url": "9d/1c/c817ee99b672885a52d41b019faa4bd73a624f8c06627b83e322b9457c9f/monasca-persister-1.9.0.tar.gz"
     },
+    "2.0.0.0rc1": {
+      "sha256": "dbf588abfa362bfc41354b04a08d2cddde24c6f4ecfa82f2b72d0388388752b2",
+      "url": "29/95/59efeb367559c138d6346228fe330cfa919d491c95ed277f1d45b1530777/monasca-persister-2.0.0.0rc1.tar.gz"
+    },
     "ddf3f1b": {
       "sha256": "2861e5502e28e5b3957798c5a3b04be1a1ba6d28d371feed16136dc527762007",
       "url": "16/84/8a5afc9adeb540acc05eb0a6acd880c75d5b2dc6a016d1183735d7fcb291/monasca-persister-ddf3f1b.tar.gz"
@@ -11409,6 +11437,10 @@
     "1.12.44.0": {
       "sha256": "2b30f8b1c617629b6535f90abc4cb3c3494b3724eba13f7213b9bef1bf9c9854",
       "url": "5f/58/5ac297d81f398f1546a42883a39c5d5ffe01d1f1bee123d08729c1aad836/mypy-boto3-macie-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "d96cec5050e99f10014f6aad76f9af2fb132cbe4ee9fbd5e42ac27c1d1796e73",
+      "url": "a1/38/5b71f988f4ef23d52b1c4a635d0a97b7cf851e2b76754bfcb25111ac948a/mypy-boto3-macie-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "75c1293c6a57f496978dea741e8aa03aca37dfe6e19c371cf08b2d9c3ed5993d",
@@ -21351,6 +21383,14 @@
     "0.0.6": {
       "sha256": "3361d3ac03de26d62e4e427f12c676c14fad67024649d986d5b3c123bd89fb6b",
       "url": "a3/1c/48817d0ccad715d63c664a3d0c1242c3415267aa8e7fbcbb1187ac692e80/web-minify-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "9372fb0c7fe8cc7a37d4b21c01f2bbf992170c691758ed1db4d59b862fa272ed",
+      "url": "9e/60/4074b5ee1ace0357511394cdb9edd927a4b67e85a09a5047bb35657e29b0/web-minify-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "b504f94b4038b945a63eb2d9eef4d025fde65bff2a185a1b2ce371eb1e606cb9",
+      "url": "39/5c/1d72b348c4da4ba44278dad0c8ef32bf596551394ada397a7ab516186ed9/web-minify-0.0.8.tar.gz"
     }
   },
   "webmetrics-api-client": {

@@ -10937,32 +10937,6 @@
       "url": "3b/16/8257f13fe4e8e84232333ca33248825ab5b259691fd07154363442981bfb/lumigo_tracer-1.1.1.tar.gz"
     }
   },
-  "mahts": {
-    "0.0.1": {
-      "sha256": "87a166e0f7e2134ef4c070b9f14eb0d0d70dfa8afcea830c3a37e55e450e67c4",
-      "url": "de/f2/b0d2b5a680367cab68dc204212a0655eaa5922207e6a46e9206024e56659/mahts-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "f2b5fd18ab89f28093ae1a5233f5060a95b5b9395456b69b22218e16458858b6",
-      "url": "f0/10/504bff5836178e2f364ab5fa9b6a0da7d46c3472099033b08f4053217f19/mahts-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "0e1720e437de198bd170ab7541111406308102ac25870b83dc959b6f203691e1",
-      "url": "30/04/8edc8dae6d29176598f9f8fa9b675b34e9ef57c88017b2a3dba5e7c246d1/mahts-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "197c470404c905f0047faabd1109c14323f7919daebc5861403adec0a37fbf52",
-      "url": "5b/3c/519e0179fd9a13e214a25f2676e234f2d1de61518d9d2bc423c7d46e639c/mahts-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "38af59bf4dba415ba8da80b60d73dd306077d510b31455f6cb0c4def9fe309bf",
-      "url": "a2/c3/0fa32fccb1c6aec15788617a00d4af768027b928a4735941939d833928e7/mahts-0.0.5.tar.gz"
-    },
-    "0.0.6": {
-      "sha256": "a8b88f0f333814be0b24bc83c675082a63d63ad81fa15d11c78cbbd866dff5ce",
-      "url": "55/6e/464da74cebd9c93212d45340d04116066a599de2ef8e16242c0fee0a4482/mahts-0.0.6.tar.gz"
-    }
-  },
   "maildaemon": {
     "0.1.0.dev1": {
       "sha256": "e1265529faaa9754dee84fcfb8a061e1f84dd3fa6493ca57896730ca079ffa13",
@@ -12944,6 +12918,10 @@
       "sha256": "05a4898241550b80f45b3413035b7a4ed9cb259a53fd41cbed39dfa9bd51d370",
       "url": "a5/c5/64b7356c29f848c31d7cd3f5d62dd46be5ff197bfbca62853ef6c4167bbd/mypy-boto3-application-autoscaling-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "be85d61736e03939b3af8a5564fe3ee5b8124f19c38ecce427038a45dacfa60d",
+      "url": "ad/b1/ec5f8c59523959b1cfe1478edcd5fe56efc63f913df40c57201007a99dfe/mypy-boto3-application-autoscaling-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "71cc3e6c31e0f781346adcd81c607ad8e0ab87194e26eeecf35ba907f7909f19",
       "url": "3a/18/862a1eb324cb2672abc1f90b8dc3aa31436971697f3bb597daa6043b142a/mypy-boto3-application-autoscaling-1.12.5.0.tar.gz"
@@ -13462,6 +13440,10 @@
       "sha256": "ab31a29b83a723c404f93ea933d5e91925a539e4b2e5f56f25fe22d7297fd8ac",
       "url": "1a/7c/ea1f91ba0229c0d34e725c53d4e8a85a1d662feeeb2f4f8bfc063fdd4135/mypy-boto3-backup-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "18d35f1c720a96b8bf9904a05d7d95849666886a896aeb063f800023b95469ce",
+      "url": "9b/b2/2074a2db2e841dd00cb07a3fb792618fd32cc7df5c6dde705423fab015d9/mypy-boto3-backup-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "5cc1a7dca2e004d73b103c1b8e4373b81dca83f5a9722329d0e9aef5d69e2c4a",
       "url": "b6/7e/de8e36008cc1083ad2db992de59f757201c66ce26beacd3483880151c151/mypy-boto3-backup-1.12.5.0.tar.gz"
@@ -13911,6 +13893,10 @@
     "1.12.44.0": {
       "sha256": "57b2d71c67be4e77b212ec9170fcb16645e317bf3bcbe5fb298d2f96c6459804",
       "url": "16/52/1535f31f832b0fca4b899ce70b3d859d7d28c9a1f8d0526ea853e8f0aac2/mypy-boto3-codeguruprofiler-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "26b608d2ff2024e4be8042aed5d2292e09e68ace931cd7d551b64c7a560cc5f6",
+      "url": "fa/55/31dde8705c6c982b359b41ea312281eac4d331741a8572392d6a5d0ad76e/mypy-boto3-codeguruprofiler-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "0df0659ce2ee21734e4aec1bc2e0c01a52ce7b1fa6dac73a8926ddb71e728a56",
@@ -21693,6 +21679,12 @@
     "0.0.4": {
       "sha256": "c6a9c87835ce6ffac65dad5d72f4f1181d84230579d605a1be8e5bcf19a7c34d",
       "url": "4e/06/399f310efa196209572750dd8727b1dc37f392927b0c52391eae9b521e33/silota-0.0.4.tar.gz"
+    }
+  },
+  "simpletexting": {
+    "0.0.1": {
+      "sha256": "8cd8b66bbf19ee5bfad883b8f8b10feb18a9d13a614f81bede05827808eff84b",
+      "url": "29/c7/e536b49b14da17492bbceb950c1c43eef5e4f64ca8a9db46e24aaea4c623/simpletexting-0.0.1.tar.gz"
     }
   },
   "simpli": {

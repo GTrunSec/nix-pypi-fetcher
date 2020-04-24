@@ -11971,6 +11971,10 @@
     "0.5.0": {
       "sha256": "310fff1b263111dbe8ecfb829960f556904d8c5350a4322bb299a8fa9dd5d0ab",
       "url": "69/98/6f3ef7da8f88148e770633a8b2f5cdda6a1d5170dbdf2861691713771315/json-schema-for-humans-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "7c224f1f4b551a9a1373631898c156aa8462da7bf019aec324b91acdc14b6cfb",
+      "url": "84/44/378ecbcf5b81e4a77c4e0749886a870476483dd86c697c5fc6c3a0b302ab/json-schema-for-humans-0.5.1.tar.gz"
     }
   },
   "jsonschema2popo2": {
@@ -16079,6 +16083,10 @@
     "1.12.44.0": {
       "sha256": "ceeec3e6acc35f83fa2f052147379039383c36b22868793f4664200a501adf07",
       "url": "e4/e1/3e832faaceda7a2980c43fa272baa3c4f09632bb692b465536984930bbe4/mypy-boto3-glacier-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "7b9ce3efdeef32381d527d23dfa1402fb04134e89de89137428802507c791ad6",
+      "url": "30/ef/5fca4695daa1ed7b446287ce68ac0f2f0b6c979f066f07eec89196b27a85/mypy-boto3-glacier-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "39d9524bc652225e846e69fae01de84e00002fa172d20c89c0ae246b73a6f05d",

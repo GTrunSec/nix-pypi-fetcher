@@ -2147,6 +2147,10 @@
     "1.1.0": {
       "sha256": "50c09e8f44e4167d0731ad9e35152a7e9a4c7bba7d1ed86f9ae25b2cae351f40",
       "url": "d9/ca/8be1086bf5aa7405b94ffe59460a7610f918172094d6be21108755c0d6c0/batterytender-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "ce813d02a42c4233eb78c7411b8ab72fe675ba8e838fbf6b3b726547700d0735",
+      "url": "de/22/7a00dc5630cc0a4e083859d6d44a9921dedc8751dafbe3a1f00f5fabdbd1/batterytender-1.2.0.tar.gz"
     }
   },
   "battlesim": {
@@ -10977,6 +10981,12 @@
       "url": "21/11/4a30d22208c7da1e73d56d0573907362c4e4e919962be7dc84170665478c/imgviz-0.9.0.tar.gz"
     }
   },
+  "imputena": {
+    "0.2": {
+      "sha256": "88cecfc7ba6b03eed7a123419313ec23534f1700d42fa969e74ef8d1deb7fa5f",
+      "url": "d8/31/bf0a780a5d156783384e2b4d21ef357b1033a107e84b096a4a1289d0c133/imputena-0.2.tar.gz"
+    }
+  },
   "imreg": {
     "2019.1.1": {
       "sha256": "1540631775f503eb511a15190ad93e1fe75b262266e3bef63098653cffdf23ca",
@@ -14094,6 +14104,10 @@
       "sha256": "9f37822a5396b1e83bbff1d4c8f0ea229cab044bf0b8080ee265e83b98127832",
       "url": "a1/60/43374b2630d98a1a7ea4c8168211cc66fba9efc1a45e9180ad9f5579bb0c/mypy-boto3-kinesis-video-media-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "345c903a78dab8fe6fd6762337a804929f442c590a610cd0ba150632bbe95a60",
+      "url": "b3/2d/978c14904074663f6564e302d407697e8e3eaa507181b367ba5a4a2b4c78/mypy-boto3-kinesis-video-media-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c16bccc097863029b4adfe513e5d1b27a865181328636e4b570b9f87a4c70bad",
       "url": "db/01/59c9f7adce197640f25e7154037c4ee652cda21a39eed21d7abe53869b59/mypy-boto3-kinesis-video-media-1.12.5.0.tar.gz"
@@ -15317,6 +15331,34 @@
     "0.0.13": {
       "sha256": "d115757e1a6d2e24210bb28531d661b175f1a6bf3561c8038df64ad0f028388d",
       "url": "e5/10/abd99f17efbff7e4b424a161bb60cffa908f5f0dd53a9135e665ca9c2811/nr.shore-0.0.13.tar.gz"
+    },
+    "0.0.14": {
+      "sha256": "4f11a4e281bf010792b03bd7aeee80a2671558f08059f5d11e6f2517a2abfc09",
+      "url": "6a/73/9007c51f06163c3e389aa5f57eac1f55d8495e0a6908789332979a7e0c0b/nr.shore-0.0.14.tar.gz"
+    },
+    "0.0.15": {
+      "sha256": "e4cb4eac5452243d5596c1102188bfc75184dd08e1d4ff874dbb52c71f06b80d",
+      "url": "8d/54/682f5d00d692b43e054d7ffa3c9d6aaa232f9742f62707d8942ec8d76755/nr.shore-0.0.15.tar.gz"
+    },
+    "0.0.16": {
+      "sha256": "b2c5f01948731b76f37fa90983e7397f31ce6f6dd8c21c105ed7996db591c7aa",
+      "url": "f1/0a/a4379f0635bea0e32fee4d0f6e7e1f5b074cd505606304e8b5043f07dc8a/nr.shore-0.0.16.tar.gz"
+    },
+    "0.0.17": {
+      "sha256": "504615a422e821ff89b3b9340c703edd8961499546fdcf6bb84eca355e01486d",
+      "url": "cb/52/67e2f5598e22a32d5b38955873113c2614945b89a21c9ec3d6a24a3ca5a3/nr.shore-0.0.17.tar.gz"
+    },
+    "0.0.18": {
+      "sha256": "b1054b365699e74f9260846a02b1175dfda66e28f63c856965e6fb6b5b87f855",
+      "url": "c7/8a/e03eeebd93ec0e08e884464bf9195c23532e809d3d5ad4cf6b15b37cd1a4/nr.shore-0.0.18.tar.gz"
+    },
+    "0.0.19": {
+      "sha256": "0c3cedb93cde639bff43f8cda6f4e47d0582b68f8733aace086607dee7586010",
+      "url": "53/6d/f7e9f267b8454a7bcffbb89a720032ea700bb8d10dc956cb33f6d354eafd/nr.shore-0.0.19.tar.gz"
+    },
+    "0.0.20": {
+      "sha256": "446cbfacbc0b9e0573b6cde78ef2e6b3d793a349afe6bf4375879baea9f8c76f",
+      "url": "31/8f/f2db70683f41f1aafb32b3b377b0d794eb5c97c52824844b322907e996a3/nr.shore-0.0.20.tar.gz"
     }
   },
   "nti.contentfragments": {
@@ -21059,12 +21101,6 @@
     "1.0.3": {
       "sha256": "119d7df90d04cbfe030c2d9de730f486a73b52caa727c7de70181cc3944f3c03",
       "url": "b6/be/7bc01416ce47612069cbf5ff6f4d3c523ef8c4420a5893560e288f3981cf/temprint-1.0.3.tar.gz"
-    }
-  },
-  "testsimplecalculator2": {
-    "0.0.1": {
-      "sha256": "8200210deee0c940b43c65e6def96e4a0d60b8366d67df0ddb194011fddfcb6d",
-      "url": "a3/8d/c93325a824ca762e2c1acf49630ed9d870985cfce6434d772de4647ab4e9/TestSimpleCalculator2-0.0.1.tar.gz"
     }
   },
   "the-devops": {

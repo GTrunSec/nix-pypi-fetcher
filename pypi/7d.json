@@ -11017,6 +11017,12 @@
       "url": "b3/87/77859dd5eb829a24f7a277136d5c32ddcf89fa22e1fd05a36b2a60b5d1ee/ldiflathe-0.1.1.tar.gz"
     }
   },
+  "lemmagen3": {
+    "3.2.3": {
+      "sha256": "4b6d2b592abb796e9c0abfe7e62f4a1cb7c81536b259bb06052320fae82ebd36",
+      "url": "ad/4a/4144ba57c3291d8941b663779487b2084f2bb8a054b7503f05d7d8945765/lemmagen3-3.2.3.tar.gz"
+    }
+  },
   "lenticrypt": {
     "0.3.1": {
       "sha256": "1f01b47a905c7e1ab2f910718d3cf58006f4e914e5c20a5f2f02e6c69712800f",
@@ -14548,6 +14554,10 @@
       "sha256": "b33ce2c4c8a157218cf13fc32ea9bbf8e0d13ab190edf4bfcceabad8b327fb80",
       "url": "da/0c/8de4169acc6197128f335fe5385767dd56b891229395914830a542ab9a97/moto-1.3.15.dev665.tar.gz"
     },
+    "1.3.15.dev668": {
+      "sha256": "81105417f377bc59308fa5a4fdb1ee818bb50c486efb61a2644961da45cd7948",
+      "url": "3b/19/af2dfac2069d0d0ab9f58946130a48d849c9533021ed1fbd8b38dce4ad3f/moto-1.3.15.dev668.tar.gz"
+    },
     "1.3.15.dev70": {
       "sha256": "3ce780afdeef3d9a7ee1aa4c093a696e4b8643e12c464ca3d49539b9500ad4ad",
       "url": "b3/fb/49708e75d15c15ba8f6a55a4ca7186f8673f833823c5f581c5494b1699fe/moto-1.3.15.dev70.tar.gz"
@@ -14709,6 +14719,12 @@
     "1.0": {
       "sha256": "db69ab0d494a288eee4b98efcbc4b21d522041c708f7fb575be138659495cfa3",
       "url": "1a/99/8e95f0b1439ff9496d00eac598fe5383d23c2d5ba18e997237ecc19b7686/mp_utils-1.0.tar.gz"
+    }
+  },
+  "msgapi": {
+    "1.0.0": {
+      "sha256": "fa4936698585f229c4e8530e7a997e3ea671650db56f1f1415028fda30230c20",
+      "url": "cd/e6/d271e873b6f1f654930c94d03e4328a2be80910f7fd8b2204ebb9797447b/msgapi-1.0.0.tar.gz"
     }
   },
   "mt4-hst": {
@@ -15243,6 +15259,10 @@
     "1.12.44.0": {
       "sha256": "66ef2cc9fa096b188517c18d2d16701e0d53ecd91619d145b28bca96b0e1c844",
       "url": "be/65/d420b0b6719f17f0f3be34acdc88d4e4acbafbdabea0e9408a367bf72357/mypy-boto3-iot-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "5fbc89bf1adfd0f98aa162ded24bdcb3fab06d18a71dfbc558aab55631ebf2b2",
+      "url": "35/fe/1a155403c6357465bdcc924770300ea947fd02ac892befc2e1acd31ef507/mypy-boto3-iot-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "dbdf1626d1d940a1e96ea0096fbb91edd77b37babc74928e9f19e8bd79caaa94",
@@ -21629,6 +21649,10 @@
     "0.5.2": {
       "sha256": "7b1586217bfa854fcef93362e284a3a693382b8cc673b45c4c96ac19050dd508",
       "url": "e9/85/b8fe193e168122e599b2fcfa8bb8ef5385f39f093681d38f360ead706252/remt-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "de207d1fd54ee35edd78235505ced0f8e790c4957292937b9a4f7ae5840ff2d4",
+      "url": "77/bf/4318dda89392e01de05268a91c30b5a84a9f6ca814f0135fec6c38e351dd/remt-0.5.3.tar.gz"
     }
   },
   "repoze.what.plugins.ini": {
@@ -23665,6 +23689,24 @@
     "1.0": {
       "sha256": "88b27e1ec459dd14fd99b91c04705d95c55af91fc6bf1c69d53c2198e40fdd17",
       "url": "36/37/b3b55762d8803aa70e477ef84a359328b8563d7a2382cf1a830aa4a11ab7/taar_loader-1.0.macosx-10.13-x86_64.tar.gz"
+    }
+  },
+  "takagiabm": {
+    "0.1": {
+      "sha256": "1372b614c3a88a76c6e67e31c522aaa8b38d37e190d056f3d55440af38432ddf",
+      "url": "ac/8a/74fafd9f40ddc61eed7fa2b901f02e4e4181f80fe403ed85ee0f3dce210d/takagiabm-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "6636ad4cffe928835fc950a720d0bf85b371dfeacd5c09e551a515afb2dc46e2",
+      "url": "af/82/dc921b0784218787421c26e9d05aaa34cafd89813d69b392c521bd8ac3b5/takagiabm-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "33e4cd36e6bf92f5299448a78bf0dfbfa72bb586d0ef72c724668b2d85fbb70d",
+      "url": "87/5b/e1ff6d7dcf31ff7e7ac0802b6725e9495e55b9e323508905fe1cf92ca133/takagiabm-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "271ff806556372832b3856b82601307125437dfbfc1f4a46750a71f99bf0f127",
+      "url": "57/f3/6d21fb23d57b2d02bfee89bd3a300590713bc94d115ea0f2b38c1688b15b/takagiabm-0.1.3.tar.gz"
     }
   },
   "talisestools": {

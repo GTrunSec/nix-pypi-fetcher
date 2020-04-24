@@ -1595,6 +1595,10 @@
     "1.8.0": {
       "sha256": "9fcd9ef9ff9f176dd7b5cffe88fc034b6707101b8bc59f54b1c93b52134e9e71",
       "url": "5f/75/a48db652c3e02ac87e5d7ab765627d7228c8d1cc7d6b13fff8bc64da8d00/aliyun-python-sdk-dms-enterprise-1.8.0.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "b837507a36e627aecb461df50d43bb30f8754c669dc58791841c6d09db67b59e",
+      "url": "e9/0e/cc33345f33fd2060514b36001a119546260044795ae49fdf813af3054969/aliyun-python-sdk-dms-enterprise-1.8.1.tar.gz"
     }
   },
   "aliyunswarm": {
@@ -9751,6 +9755,14 @@
     "0.2.1": {
       "sha256": "0a9819870187001e387a8b3a6f38e66c456311bf83dc28ad3ac966c2e87831d6",
       "url": "ef/6e/354e70b688aa422002406dabb18f837a053f9f863efffed817f517555c31/flask-restful-hal-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "d0c353564d36a7a676d25ae13f08d9ec88a4d634776f1e51a4c970c1f0cd835f",
+      "url": "51/03/bef678546a47ed5b73b5f2789357270aa4c19526cf934309bb62a13ffaf2/flask-restful-hal-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "3abffdf99b2b4af85c8ee268c6410b34da7b51bd315732bf7c139be1f07f0cf4",
+      "url": "64/ed/aad2558c3fb019bfc952e55d33c81a83f2317263469455bfd8bdf5d8676e/flask-restful-hal-0.2.3.tar.gz"
     }
   },
   "flask-sessions": {
@@ -12771,6 +12783,14 @@
     "1.0.6": {
       "sha256": "a219809df4ca3905f8c8e4ad6914ad3fdb7a4cea9a2c0cf95b2fe2aaeb975426",
       "url": "bc/5d/09750ea95d91793b1a8c0e32b943e397a08145913820eafd7ac2adca0b51/keras_mixed_sequence-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "971412e3b97f181edc876982acefd7d54c3446495df920a1de6e29d6c5aaa9b3",
+      "url": "b7/a6/3a3e1495cf6536c9a69eb6343581f1fe70bf5a298ce8a2efdcfc17238fa9/keras_mixed_sequence-1.0.7.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "6e69ec23bea2e912515dedcdc879ae389cce9870868530153dead07ef973f8e8",
+      "url": "35/86/f943d1289374f7770fae2a2093cac714df68ad19e9f9428f8291118fe59f/keras_mixed_sequence-1.0.8.tar.gz"
     }
   },
   "kfactor": {
@@ -15555,6 +15575,10 @@
     "1.12.44.0": {
       "sha256": "9d78988c0c1367b8e1dafce0847bbb94dcac16f0f8e02d6e14a7a29d0e3aa824",
       "url": "e4/d8/8d4a36f51535ef4193c9ca820adeea772fdc91f9be181fa2d988700f769a/mypy-boto3-cloud9-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "466847acc61a5e7f653584aa183ceaab58ec3d7657471951a8ea530885db4911",
+      "url": "c5/78/61ddcfdd1ce5aa15df77e927498db7142c5d091e99f1d17b81ab975e84ac/mypy-boto3-cloud9-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "b8dece3785425ff268b39d9866a79802dfe60a0d26ef6ab6d91e8b3831165040",

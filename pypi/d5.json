@@ -7160,6 +7160,10 @@
       "sha256": "bdf817ebce623b0968b6a3f267550b460a7c63e819932a2819c74613533d95c3",
       "url": "be/dc/7bb3df61235c2525a4d6e5aedd6719e0821ed1e251dc51ecb5a6f15ac2c9/docassemble-1.1.14.tar.gz"
     },
+    "1.1.15": {
+      "sha256": "3b435ab46be867494a8877e8c73344c0b16f696b274e1e569045334664beee43",
+      "url": "27/c8/ae9bb788843ccbe98fe9eea339b8808ccafc53d4ce4f8b63ad9f20358a25/docassemble-1.1.15.tar.gz"
+    },
     "1.1.2": {
       "sha256": "02a22ab02403eecf93b7955a5443d8ca8b0f54debd50d63dc0b9c997b25b6b39",
       "url": "a5/57/e8ce06cd8a4ddaf0eff22fc402d7577990780adb9becd7f9505ab4eb4bfc/docassemble-1.1.2.tar.gz"
@@ -12295,12 +12299,6 @@
       "url": "36/38/129677be032a2ff4b9e48c697b8c13082cdd7f266e5d6a744d84f05f111e/jldaws-0.4.9.tar.gz"
     }
   },
-  "joshbasiccalculator": {
-    "0.0.1": {
-      "sha256": "fdfe4701c6e326fdb0ed361f87ad8408e417dfc4460a43cf3cd7cb3919fae86c",
-      "url": "f5/a4/53fca09bca94c2a54de9de381ce05d5dca392e84bf86df15b8b492787edc/joshbasiccalculator-0.0.1.tar.gz"
-    }
-  },
   "js.angular": {
     "1.0.1": {
       "sha256": "7757d5a41d792466a345153ba7da8e31d03527f588e2a354a47c49808bafd7de",
@@ -14876,6 +14874,10 @@
       "sha256": "b9d77b94e3b7a63125ae4c7ca3e61395c91a56404d6c64ed57b9a29ec60b9f5a",
       "url": "f0/16/80aa187d5f5985ce5eb5cc964a7b616b2abcceb7ee3f2151f4c852e8226b/mypy-boto3-elasticbeanstalk-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "d26285c4851a336194a1349f9d519aedf8b96d7aa52a486317e170ebe7ba4424",
+      "url": "9a/99/0fbf8dc3ddbbd09edbafbff71c159751323adf2151ba40267256b8367b16/mypy-boto3-elasticbeanstalk-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "656a991e3ee3888a40be95b05c50cf235cac8f97870919cbbc7d9d9f0ae4b5e8",
       "url": "ad/13/29c9a1cf7c7f6386659181daa5233ac66a8d23f613d4d338cd435549237e/mypy-boto3-elasticbeanstalk-1.12.5.0.tar.gz"
@@ -15389,6 +15391,10 @@
     "1.12.44.0": {
       "sha256": "ced34f2607034ac65d3986fd00fc16d238817bf9a3af6f4ad587019e07492764",
       "url": "b3/ae/a810a31e4c5b0e2c74696ec6f0dd292bf59bbc23a9f313aeaa44719baaa8/mypy-boto3-savingsplans-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "55afb1023ea09f29ba4c9f6ea5656a15ff16481fe9c930d8a44e1b21ea12cca5",
+      "url": "8b/3a/fe58d8d6b8acc7a0449dff3c6f640221cbc54d820dd813555c831d0884a4/mypy-boto3-savingsplans-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5a510f6663825f1c6329ee8c5dac1057fd8f27b8ee64c11c3a6e5699e17bcef6",
@@ -19753,6 +19759,10 @@
     "0.0.1.dev31": {
       "sha256": "133520a1e9f879bc8c45c6103083baf99fa0426c40af52c983f1a2222074df7c",
       "url": "ba/14/8cafe8c8d0a4215de3f09da7939f07c7c136f22be9e666eea302f46b7280/redpatch-0.0.1.dev31.tar.gz"
+    },
+    "0.0.1.dev32": {
+      "sha256": "c1e5fc673257529736d06ccb0a4e4e45c1e4de575e1075ae6f152e2d17bb8593",
+      "url": "45/6f/78b6145a1407f7bc3584fe49fb9a5a6ab56d245a5a9811771941e49a9bbf/redpatch-0.0.1.dev32.tar.gz"
     },
     "0.0.1.dev6": {
       "sha256": "95909a1dface7f58db5628baba7511c5b8853d87a5dfd4ecfd9a82079421a92f",

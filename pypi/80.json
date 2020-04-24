@@ -1441,6 +1441,10 @@
     "2.6.4": {
       "sha256": "c167c1f9866103f417469ba61704dc60aa31f80ae868355685039d9eba76787a",
       "url": "93/56/89acfd52ae4015387971e1c98b50f45f3ac926419fe51a0c532bf8d14fce/autosubmitAPIwu-2.6.4.tar.gz"
+    },
+    "2.6.5": {
+      "sha256": "6bed6178dc89db12d19f87cf20dc41efdf67500454e54cf81370bbb2c7f0550c",
+      "url": "9f/7f/909e78725c85368391f4ab54f3662e1fbc7ece39fe7075de47b9047cfb8d/autosubmitAPIwu-2.6.5.tar.gz"
     }
   },
   "avasdk": {
@@ -12172,6 +12176,10 @@
       "sha256": "d83336b780f0719d57b2c79105843a60a280b91308069281b5cea7da0b98ee94",
       "url": "2d/ac/23701117b25487050886f69fa9559a6c21588ae0f46de325075c135f0cdd/mypy-boto3-es-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "cd43f74a01b73f2f20b24ed87659208aeaca8d5f049c70924ba063cac70326e0",
+      "url": "37/5b/6141ef3074233690947c7a61294dab6ec6e85a9af1b0e6aa0be591d3e94b/mypy-boto3-es-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "27c28e89d6a93fda74b99325bd7a639d1b1747aceef3004256a71c7097efa5cf",
       "url": "61/5b/51c590adf7e88dbe5acb7bb6299a0c543a0b0f96a76e870cebd5262436e8/mypy-boto3-es-1.12.5.0.tar.gz"
@@ -12983,6 +12991,10 @@
     "0.0.15": {
       "sha256": "bb0160d7af5c009fe92cd0857d33e7ef63c3536e2ab21f8dcd5a8346c18499ca",
       "url": "2d/ef/4727471eae147c76b6d5951c7ebe7c921acebebad9d6da976b9c9c6fee9a/obm-0.0.15.tar.gz"
+    },
+    "0.0.16": {
+      "sha256": "35791c7a9cf3fcd942390c4c1e01b52a52164f7a3167bfc5f6221b9e52913f2c",
+      "url": "11/ae/ae6d32ba87805f6e15eb7ae0940c5f07782d1c968655b858e2540b26ff21/obm-0.0.16.tar.gz"
     },
     "0.0.6": {
       "sha256": "d59fea87f922827b55efea7d974f98b20f8a228b21b4f34bd00bf2e4779b936a",

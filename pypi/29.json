@@ -1673,6 +1673,12 @@
       "url": "3c/02/ef931b2c3f83116ce34bee8b13391614f7365fa01d057d36e206ae2168e3/BioSignalML-0.6.0b.tar.gz"
     }
   },
+  "biosimulations-utils": {
+    "0.1.0": {
+      "sha256": "f72469c2946d5e9dbbc202b7fa98b05b574d1e94c9b4f248a2a3e4a0b4f359df",
+      "url": "b0/87/a718342838382bf7b5404601855a3933fa1e86ac26901bc6eaad1f8a99e1/Biosimulations_utils-0.1.0.tar.gz"
+    }
+  },
   "bis-common-py": {
     "0.0.1.1": {
       "sha256": "9e96f9b9ae54739b7ac32c6c601ef95d0f191ceb0fdbf8859efd4b7da2e1d0f1",
@@ -9281,6 +9287,10 @@
     "0.8.7": {
       "sha256": "90cccc3833834ff23c40249436aca79b3f03a41712a7000d0ae23d38ee18503d",
       "url": "e4/c3/3c280c8e98e8d2851ec6e26962dd71a2e982b607a801367380dffe1b9104/hacktools-0.8.7.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "0e38a29d47c56415a5c7b74472d21d9ef3dd8bb810aafd3e3b629594b76a8599",
+      "url": "b6/83/60990d272c11fd6564f42220419d25ec97bfa5d49fa5a5885d2ebd116f4b/hacktools-0.9.0.tar.gz"
     }
   },
   "hand-env": {
@@ -14679,6 +14689,10 @@
     "1.12.44.0": {
       "sha256": "4000343638ba2d7edc49492301d4ba99a687d353969e05cd31ed5c6f38b581dc",
       "url": "b5/15/36567333a14c9bd471410677adc4c82d449f3c40686e72f67b3b86e90876/mypy-boto3-cloudfront-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "6391715d87daaf28c5b0f81f4dbdf33c0058d9efee56fe497c145bb8fe161076",
+      "url": "9f/90/5d9911f1a0735329a93bed4fd2b9727117ee351db5ca6c5ce553719e65b0/mypy-boto3-cloudfront-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c6199382df022306dac5b08b42b218ea93fcb89a0942ea6caa2a189fe2ebbdc8",

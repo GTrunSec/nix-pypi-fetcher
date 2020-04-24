@@ -7403,6 +7403,10 @@
     "1.5": {
       "sha256": "863c196c669b3db63553f0d197274c38902774bf3fd43e4feb856883b4e889d1",
       "url": "24/fd/8a7de806260bc45cfcdf2a3883ed72238cd095ef539864f48054528a58a0/frhd-python-1.5.tar.gz"
+    },
+    "1.7": {
+      "sha256": "acc0980e8bdea8e02737704f264d7a0d4a27385c29a8f93d3d779ad8e1329747",
+      "url": "1f/90/544535ee3b8f8bed795bda751b233762d35a4303a16a9ca540edb9c8c1c7/frhd-python-1.7.tar.gz"
     }
   },
   "fsutils": {
@@ -8611,6 +8615,24 @@
     "0.1.4": {
       "sha256": "d4586e7fc3ea6316befe704fe28c7039761881bb15c2fb24a58dd0f5c8b1b567",
       "url": "6d/ea/fa279a2cb79b48d3d84a43419af6167da6a75cf37972accbab05c9dcb946/horse-nonsense-0.1.4.tar.gz"
+    }
+  },
+  "hosting-benchmark": {
+    "0.0.1": {
+      "sha256": "09b9fe4aebac3d319923db3225e04d65e6552f80d4aa03704cd19b5f85072db4",
+      "url": "07/ce/ac5676d853b6f11994e13ab994a93fbdde2efdbe5b56d1bd683d12c567f9/hosting-benchmark-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "ebc654e250c41f8959ac7a5766f5d20d629f6af016c532b5797eba91b197ff25",
+      "url": "18/2a/6ecec0f34d555a659c485f94620a16290d787986f4eb8b544532e30d02c1/hosting-benchmark-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "046ddbb02842341b2779e623c6cee8133926cffca0fbff9d5878d88a952e6ef3",
+      "url": "e5/1a/3a50dd010e490fcdf1025c394eef5ce3c898dd379754adb741f2a4028200/hosting-benchmark-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "6665e211e33ce4fe53a0ddf16679020f1c3a9d5175a3931cae1a5bdad9400df1",
+      "url": "2e/b6/ce1b52b995d51166cad7d5d9b366a39bf4ee209890489200861e57325a6c/hosting-benchmark-0.0.4.tar.gz"
     }
   },
   "httpparser": {
@@ -12428,6 +12450,10 @@
       "sha256": "02e4dee780f0f4c4cd4c264bb6ccd3aefc411e8cdf88c328ffa98adb66b51e53",
       "url": "6b/0e/38b5a6967a2773fdf8abbd7889ff9fdb2db6d66458f721441ff6e2cc0e09/mypy-boto3-appmesh-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "949dd80914bfdb75b9197f41824ead508419b8cec4db3e50d09e80bb748ff73e",
+      "url": "f5/19/f21b5cf8779ac29b18ded90dbbf2a6d9f0e2b2d4a0afc7400d643bb24f8c/mypy-boto3-appmesh-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "8e338705df206cee505edb8ac58bcd60c93171a61484d520591be321c0975412",
       "url": "23/df/2d451028ed613b23df73bd66de4b41b92976b5e2947b4f3a50b97649308e/mypy-boto3-appmesh-1.12.5.0.tar.gz"
@@ -12946,6 +12972,10 @@
       "sha256": "303aab0f3337e6481e3632014bcd56a4b91bf4c0a7ea9551b509a415c8da7b09",
       "url": "e1/49/fcd15688f4439b50bdfcfe4bb8809b209b99ce12104c05b80ed9a48199e9/mypy-boto3-ram-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "b026e999b4b5f319121f4fe600fa0bbf729e35562a725ccdba3b715cc351b788",
+      "url": "a6/43/9acb7323ff4a7b7b8ff7361ae07c649727edb654596d51c055be6a50b25d/mypy-boto3-ram-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "3bc1bfc61cdbf2a69aca3e1e1f0ef091ab431fad124a1f7c34a618893c8a8a13",
       "url": "4d/f1/dcdf666e0909327b7c75148a49866dd9f2c5c29fede7af94af1829486cb9/mypy-boto3-ram-1.12.5.0.tar.gz"
@@ -13459,6 +13489,10 @@
     "1.12.44.0": {
       "sha256": "1c15fe6ab00d36c50c50bf10e3b5ff005d180e5ef085a57032fff4ef106174c2",
       "url": "1f/dc/5499272847b1949cd58f547f3cf075eea6381c275e5a36809d2fc12c955a/mypy-boto3-ses-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "4f19c5589f3291dd08fe734a1b8cd50826893c334faa1016c0c89740b3506c0b",
+      "url": "12/09/78fe219d69e7bb9cd5e649b5ce0485bc5f827ce7ed0d8c7b72ff50fcbce1/mypy-boto3-ses-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "7a2aa5941a743f85e55cf618e35dae32f0c3fadabc627bfe9b399731c7be0047",
@@ -18031,6 +18065,10 @@
     "1.0.0": {
       "sha256": "d3e2361c89c22584a72eec6e8b6af16545dec30bc5dbc28fdeedd52ccd3190f7",
       "url": "2f/28/eaa19ddfbc26a9e9c9bcf20887c17ca4fd2817aba3bb7315ba33739164de/roswire-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "32d304e78c7697d19ee70357a33659ef32ab93214a350f7c63ac77d774763d04",
+      "url": "a0/42/d7baee1eb31a84531d6f882a85a0392b25216b05eeb5ba82a5c6ecf956e3/roswire-1.1.0.tar.gz"
     }
   },
   "rpi-featureselection-tools": {
@@ -22994,6 +23032,10 @@
     }
   },
   "xwavecal": {
+    "0.1.10": {
+      "sha256": "13cdb43c7e7df75e2da3cafdee367022236e1da5715d1aa913ee9daf705118bc",
+      "url": "38/96/75b28ba48bab891ebd52551403afd3aa84641bd44cd5dd66a8d7921740e3/xwavecal-0.1.10.tar.gz"
+    },
     "0.1.7": {
       "sha256": "79c11ed7653792dbfdb97ced1289a342364befbb2e853466a89a4e617a85df8d",
       "url": "76/39/2e023aa70b95aa9af847052a92f07b17754556f852106928e20cef7ab209/xwavecal-0.1.7.tar.gz"
@@ -23001,6 +23043,10 @@
     "0.1.8": {
       "sha256": "c08c2aa31c61a1a41d0a19fad73cf4f65c268c5a27f90fed7906bef9debd8441",
       "url": "37/f1/3cc1bfa05f68828dc03c3f2e020e32d9ea5c89691b3009d885238cf248d1/xwavecal-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "af42bcbafb5ca524f2068af86693d82e88d0a93bcaa36004e225cfd1d13d98ae",
+      "url": "aa/ee/f2ae814c176ffb3067990ca6f220d20a73d96950fd87ef46ee6af5908b92/xwavecal-0.1.9.tar.gz"
     }
   },
   "xwklwwltestpackage": {

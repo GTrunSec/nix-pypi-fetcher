@@ -2679,6 +2679,18 @@
     "1.0.3": {
       "sha256": "f7c89a4a6c2bba6ae4593185c9574e1e65a4f266b14e17078ffd87bba637ee52",
       "url": "40/c0/02cd1bccea09c08b43fa5c293ae58c792c3b63b3f063fe97544b7d4c3d3e/AuroraSolarClient-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "4cf4c8dd7c7b56ecf97eedaf3f13f87c0c97bb44b77dad1cf35c8e88fb07058d",
+      "url": "03/1d/f78c4a370503bc5623131675cfedbd9ed54ec233c3da1276f8d3b621fcc9/AuroraSolarClient-1.0.4.tar.gz"
+    },
+    "1.0.4a1": {
+      "sha256": "7643414fc75c4728e1346611c08189a19fa6b211a259f9732c43af5c3ef5a44b",
+      "url": "2b/39/1cfb51d58b28744ba16cfc798718aff9eebb70820bc6ad87be3f6de961f2/AuroraSolarClient-1.0.4a1.tar.gz"
+    },
+    "1.0.4a2": {
+      "sha256": "425190a8d427b66f8abd1ec69787e188233309fe1cf0f308bb6fe1a7ab1cccc1",
+      "url": "d5/0e/eb5c50327a487dbcc84b487ccf215b7d16a568fff28a2efb610a719a5d6c/AuroraSolarClient-1.0.4a2.tar.gz"
     }
   },
   "autodecrypt": {
@@ -16713,6 +16725,10 @@
     "2.1.0": {
       "sha256": "1ff390a2bea5ea1538c1fcb5e2abb08c2a261d4427286905bc803416c72c26b0",
       "url": "db/40/05461ddc42db48b1da1f294b892b4a022f704e3b85c5858298583bfd2cac/papermill-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "5e599992317f761c5e0543430402b24faac89292d7770c3e20b520fa2a25f75a",
+      "url": "29/e1/1547bf62716abadfc5eec2c2b67b0bb26fdf7d7f8ce766b9912be5e0df28/papermill-2.1.1.tar.gz"
     }
   },
   "papertrade": {
@@ -20649,6 +20665,10 @@
     "1.0.7": {
       "sha256": "a24aac45619c7a54919bef075efc045dac14c0d0a1ddc7d482c92eee7e1772f1",
       "url": "07/47/0561549b81b472fa743126521e36330e663cf7f61ea1c2343edd4e9e7157/schemahq-schemainspect-1.0.7.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "782036c34cadc65c4c58ac7bdb4837e52d842c3081a543a64b1fad2d906c70fa",
+      "url": "56/f6/41e22144f54920fbcedbff7e9c976f1b36ce4e53852a1169bdffbfa60a09/schemahq-schemainspect-1.0.8.tar.gz"
     }
   },
   "scikit-gpuppy": {
@@ -23996,9 +24016,9 @@
     }
   },
   "tyled": {
-    "0.1.dev2": {
-      "sha256": "8145b44aced33b2b5a948bf6387a16a8a8a5842da7caf3375b06dde190b56b33",
-      "url": "95/1b/c96ab5965dbf1ec79f972cf885cc0138dc6ef9126fe2ff9ddd10fc088083/tyled-0.1.dev2.tar.gz"
+    "0.1.dev5": {
+      "sha256": "b1c7c917045bf44566c4a4aca270f9cf52731dbab715300bd0e05c8426bda17c",
+      "url": "fe/e1/50833976d2eabc4710b2efd64c7920c4889e02a6707650718b97b9cdc9f3/tyled-0.1.dev5.tar.gz"
     }
   },
   "type-check": {
@@ -24397,6 +24417,10 @@
     "0.1.2": {
       "sha256": "788a6e22eb0f7975ead38557b568a282a2dbac663b13d9778ea5e4d5f1d256f2",
       "url": "b6/f9/19f4a05647e991fbc605dea8d7dff56462c1189d2fba1e640ad9b5e3dc16/veritas-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "a4cd9dc5744603786a04f386243dc23cdfc4ce01ed11ec96a529f30a66567b7f",
+      "url": "57/be/ef882753c82079e58ff2b4ec4448632021a06ad0363ab5b2b6530a2e1403/veritas-0.1.3.tar.gz"
     }
   },
   "veriteos": {

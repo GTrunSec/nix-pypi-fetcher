@@ -6099,6 +6099,10 @@
     "2.1.0": {
       "sha256": "ad9a25ef6f04099aa452ad114f48649689c40668b571839af1929a369d73398c",
       "url": "7c/cf/2ee494a82891a0ee7d26ab560fa68c20e00f6c492da5dc9d25d6df8bcab8/django-ssl-auth-2.1.0.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "a06cc247bfc4511e9850fc0d198e356f1460a533a187f7052df28dc1f8d02ace",
+      "url": "9d/a2/5c8b6aaf5553c0f3b865709cbfd8cbdc9f02e1973cca3983db370615b77d/django-ssl-auth-2.2.0.tar.gz"
     }
   },
   "django-swappable-tasks": {
@@ -8649,6 +8653,10 @@
     "2.94": {
       "sha256": "1657ba4b22c04389a455af465fd95191b01fca2f86232a4f5a5d3010e6d75349",
       "url": "22/38/ad723c67ff3731eb87c862759360a24972f76cd20d65d74044873f2a3e02/es_logger-2.94.tar.gz"
+    },
+    "2.97": {
+      "sha256": "d008c15d20fa85a21d99aa5147177f1fb87c36f39bd3cfdc62880f7ef7e4e716",
+      "url": "01/53/296db0fed043ff494e2385cb27bab94ef10e03dd9d0e782f11a514ad973a/es_logger-2.97.tar.gz"
     }
   },
   "esper-tool": {

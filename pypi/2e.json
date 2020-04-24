@@ -1699,6 +1699,10 @@
     "0.4.1": {
       "sha256": "dcd97d6f0af61f6fb27230604f40d7d789ad88bbc94fc53a88fb279ab4f04e63",
       "url": "9f/38/f4f11a3ded7170066af18902737d821830dfb066b1e0d19c0fbd362bb5b1/bbaug-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "81ced310e347803d820bc165930e1e0205fe49644b43bd87a5be80607f7f18cf",
+      "url": "8d/ed/1b4dc32f79b47cd5fafff485499bff83b6f6d30c9cc81ba6ce02efecb857/bbaug-0.4.2.tar.gz"
     }
   },
   "bcloud": {
@@ -1771,6 +1775,10 @@
     "0.2.8": {
       "sha256": "54c8488e917cd5f270742b64b4ebd7234ffe8954d16fe54bdf837735e2b4cc5a",
       "url": "d7/4a/b3f36869c32919ff128f0540107ad0194e655c5a28b331942a0ecbf8bd14/bfsplate2d-0.2.8.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "a94854fdd747545e430929eface98680afe658fbdc4ec60e63c42657410bbcb6",
+      "url": "52/55/a674606e34ec7a599e4cb79c156090c47a62a0cd0a8c13cc0feeef340b98/bfsplate2d-0.3.0.tar.gz"
     }
   },
   "bindings.cpp": {
@@ -11154,6 +11162,10 @@
       "sha256": "fcfa8fc42a09e8e9cb71a06500c37a1e37dabf0b8ca9affed750ee68700e073a",
       "url": "57/f6/70e2cf21cfb825163e5204e4f5dd788bbdfcff3dbbf618405ef1b8176c03/krcg-0.22.tar.gz"
     },
+    "0.23": {
+      "sha256": "87c7f541d3d8640c3bf71906da0aaac5ed74667934dd0dd0256e3835f8c1924c",
+      "url": "85/93/518aa27433a17e2eb62c945b35f2e6b0c670a8263d9bf45d76a7c3061cfc/krcg-0.23.tar.gz"
+    },
     "0.3": {
       "sha256": "87517eb40869b57a56e19a89a247949317a73c4f195ba0f51d271237707c8d85",
       "url": "49/71/aa44ed83438aecd63aa31415fa5d7bc9c8e0b83973aae57c446d34cfaeaa/krcg-0.3.tar.gz"
@@ -14951,6 +14963,10 @@
     "2.5.0": {
       "sha256": "fd45144d6a7dbc09f7556aab1ad08814160e6368b02e9b38ee5c7bd5a3f8601c",
       "url": "f3/58/45c925f1d9b6ed64ee1ab0dc0ff9c8fe9abd5cd24dc8dc43da392e71cd43/ocrd_modelfactory-2.5.0.tar.gz"
+    },
+    "2.5.1": {
+      "sha256": "d71175591d6c91c13c86cd2a177a5c86477f05ef034e8d7e48ff0294de045b4f",
+      "url": "cb/fb/eaeafec90e55c2c871ff082f7431f1f7606c493e6b3fab21b66498acc5b5/ocrd_modelfactory-2.5.1.tar.gz"
     }
   },
   "odetoolbox": {
@@ -20149,6 +20165,10 @@
     "2.0.0.0rc2": {
       "sha256": "1f352dddbd3db65a8aeb71221c558748d77288bce7a1260cbe6fae369d1feac4",
       "url": "15/90/72331b1facbb0b38eca35dcd47b4da8e02f1093cad36bb488ac1af3332e0/sahara-plugin-ambari-2.0.0.0rc2.tar.gz"
+    },
+    "3.0.0.0rc1": {
+      "sha256": "7dc9ec980532bac452f9256325c9134ac74ae8d3ac0217447dfa29007b1ea486",
+      "url": "96/98/fc61d1a761517500d1d91ca7d7562d537b58d19d0fbbe678fb55ec989093/sahara-plugin-ambari-3.0.0.0rc1.tar.gz"
     }
   },
   "sample-test-101": {
@@ -21011,6 +21031,10 @@
     "0.3.0": {
       "sha256": "fa6dfaab6dddfaae3f35f964d9216bb8574fdca8cc32f3ae5bb220657713272e",
       "url": "4d/38/2f197c074e9a2e9e8dc13688a45f3fa44ea78a1b33812cc56808cb779ab2/SmartPipeline-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "c535cb468ded8db22dcedea86f7db865bf75e86062666eb8c637a1522a86a9f0",
+      "url": "33/66/1b7bd1759d4ca0fdc2d0a3681321634d274f65a6f4f640db1abddb0c399a/SmartPipeline-0.3.1.tar.gz"
     }
   },
   "smtpemail": {

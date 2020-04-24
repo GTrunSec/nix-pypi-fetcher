@@ -15358,6 +15358,10 @@
       "sha256": "08604222432c1a62a52e338f892c18ae6ec3ac33590ae12ce2ac28901d67789d",
       "url": "a4/4e/9172fe44d73b72333ecc0f6edbd67f7326f9b26d214779cdcb0cd48d8b46/mypy-boto3-sagemaker-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "f27bf552adef55acdbc33a83af816f0c353ac2cadf2d36cbaac5e4ba39a34fc0",
+      "url": "b0/d3/b6db92f014e2a871f20056895ba470891f4a6524f067f4b8458db5dc75d8/mypy-boto3-sagemaker-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "1674af02940855a3d2603803ea4ef9727425a8399a1a0aa23580c4b239c879ec",
       "url": "35/d5/6774d7651bc547d13fcba06fb67cb2fffc8d1a06a1ae40d91d679880766d/mypy-boto3-sagemaker-1.12.5.0.tar.gz"
@@ -15871,6 +15875,10 @@
     "1.12.44.0": {
       "sha256": "505ca5decd5609017c38521d94e72c7454fc9a81c5faa74e7222919009f922b5",
       "url": "db/0e/c7b9db75a11d10551893fed182622a70e8d0530c2c07ef94f62303dd69bb/mypy-boto3-sts-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "514f346ab56a38c2d9ce1f23fae8c84a46e5375e5490046f725b0c29c5cfcc05",
+      "url": "8d/ca/5447de9ae7d8731757ccd2c7e3a3085c4d7ce31b3838463338be8450e207/mypy-boto3-sts-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a51452bcadce3b4b112b73581972660ba21c3743096deddf868a2301a8f7263d",
@@ -21709,6 +21717,16 @@
       "url": "22/19/6f4bfeaa980bee385a4f694689c1c56c73c98ed5e6dbecfef3d829064e35/red-connector-http-1.0.tar.gz"
     }
   },
+  "redbanjo": {
+    "0.1": {
+      "sha256": "d90a73313287f96c3a328e5e0ae57cc243bd92e7b1ef0bd4743fc2fa3588cd44",
+      "url": "fe/11/46822d099c691ea63fe0894da9575a17565b6d5cde2a34446235ebc5e3ba/redbanjo-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "be8f4e60b2327db975a4afd194e8b71f98826a6dc8f7f34ac4a1902a9c3ff45f",
+      "url": "b3/c6/130ccd42310136579085e044a3d832c733baae4fbe5b5378fc189568ad61/redbanjo-0.1.1.tar.gz"
+    }
+  },
   "redis-file": {
     "0.0.1": {
       "sha256": "2d456b84cc8aba867fa82a02c5c8b46541a010e74847d80d28e8911afa977073",
@@ -24507,6 +24525,10 @@
     "0.2.0": {
       "sha256": "564a61a2337c3594a5fef0d0ea71af06561bcd1c38039143a56dfc4c9a9afaa8",
       "url": "2f/a1/d468e9c9d48e9862c3e53ed04c1f2ec6a97645e15bf19e9975c562c817cd/tagup-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "979690fa0c3eaeca1f5b5512f197e298add6f2869840c7f50d55460d057f60df",
+      "url": "15/6a/042b44357d09b2c7fd2a8272087623183a5855783a51c290d280b7bfc61e/tagup-0.2.1.tar.gz"
     }
   },
   "takeaway": {

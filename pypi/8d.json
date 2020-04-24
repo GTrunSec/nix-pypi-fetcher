@@ -1149,6 +1149,10 @@
     "4.2": {
       "sha256": "5733c59672240466270a47cf5f2c5b31f17b537a7d6974195c4702e3260a82dc",
       "url": "88/f0/850cfcd7ae7fc2141e696bf52cfe8899772d86087ed5d215cea0efaac1e1/apollo-4.2.tar.gz"
+    },
+    "4.2.1": {
+      "sha256": "860f6be3c01ed56cc1c81ac90ebeecb2d469d88da51c43039348b5f387378ade",
+      "url": "74/8d/cbd465adad329f88c03ffbf1d079146a9939bf1fcfa8ddc676949b83b3d3/apollo-4.2.1.tar.gz"
     }
   },
   "archetypes.querywidget": {
@@ -16466,6 +16470,10 @@
       "sha256": "ee12c183f7fa65559bf239c99e68b864cc903ad844f98d9d6c4dc756375b703f",
       "url": "c1/da/8a1f98cc6aba5910c9222fcc77b3562c63173290f6bce9c40421ca1edb2e/mypy-boto3-pricing-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "42507dfb953d12bdccfae3bcfc36a01c927d57c19fd3acb4519457942d302179",
+      "url": "11/06/dc87594990416af2d7debce75f6fa81aa06f68c85c49f1f714641112adb4/mypy-boto3-pricing-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "346b089b9bdb46907bed379f0cb91c22e071f5857ab358c34d19105d0a6f4c7d",
       "url": "6f/e8/6c53ca0b4ca4dc0000125a0cbf717fefa3f3c62e61eb6e6291450d97c915/mypy-boto3-pricing-1.12.5.0.tar.gz"
@@ -16621,6 +16629,10 @@
     "0.2.5": {
       "sha256": "979e96a192d2f9cf3a6e1f28faf2048f22ee0f223b749fb7ff2f6ec6e02bf1e2",
       "url": "72/3d/291b953f12b9f0cacb39290f50885b4fd8a93e47e1655f1df4ea7915361c/nautilus_open_any_terminal-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "5be2aa68d60bf2bd74f0270b3378dcd0dd4d62c10eb2d5d19a891b0823478927",
+      "url": "1c/77/5b97fc92ebb01e90830a38aa0874f7e262f4a3912f33105f923f9504482a/nautilus_open_any_terminal-0.2.6.tar.gz"
     }
   },
   "nbencdec": {

@@ -1673,6 +1673,24 @@
       "url": "13/aa/0ece977d856d7744250d942cb7ac65c303d8e523eb544c1e555a0ce9a54d/campaign-monitor-api-2.1.tar.gz"
     }
   },
+  "cansi": {
+    "0.0.1": {
+      "sha256": "5f2eb11ba5e5762be27860f9d7eb34a6e90a2286662a1ddc8faec79855902f94",
+      "url": "cb/95/3e56df529b2f964db477b5cb3e7a40dace0f57a0e2529bfe962743d7a1f6/cansi-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "78e334f46bc1cd8bc2753259ace1a370eb9330d207f140ffd992a16a7c586fac",
+      "url": "b2/87/629aa0e421f9cec23bb670127fcf98eaf0236dbc5b3b9d63bb41b73a129a/cansi-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "0ef1c7455064c3992f7820f39bc49d218fd4b0326174887dffe16f858296a024",
+      "url": "15/24/6884abb78826a96c161e0f1913d53d35e771a20c2f0d664af245988ac181/cansi-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "4c1d70583c9042944614d79b5555b921d3f4f0bcc8c79e068b19336b458f811d",
+      "url": "02/bd/6096cf365593a821664ab843a753a8e343777f9e45549df375ff5c2a9515/cansi-0.0.4.tar.gz"
+    }
+  },
   "caoliu": {
     "0.0.1": {
       "sha256": "166d3b872114b75f615cda13640eada981e18cf6a7f894d9e1eedda93fbc609a",
@@ -6651,6 +6669,10 @@
     "0.1.5": {
       "sha256": "1b5ffad17c6ea310325804ba2547c38cf4f5f6d9d09fdc71a36c0ced45fb31eb",
       "url": "3d/1a/dbf1f3bd80f1457ed5c99502e539df9733f7a2ec34ddee427676769325d3/django-handy-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "79da68538255d0db2365537bf01eb3325a26a389cc20e9ab07fca0d38ab82867",
+      "url": "b7/37/edbca90523180cf7de43fcc2cb956e34cd8bca40e106f63618f50d745453/django-handy-0.1.6.tar.gz"
     }
   },
   "django-hero-slider": {
@@ -15224,6 +15246,10 @@
       "sha256": "6b410edbbe7b4f42da2ffbc930056d9d7e00b7bbe8b7bbd776a326cc87152058",
       "url": "ab/2c/887cb1cdc30509384f25d7df163e7385ff8be77bdc0f06d445f107f7c5c6/mypy-boto3-codestar-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "a6e5d51e5a93ac263bf763a95f60a290e88f1ab9d717f857b8ece4e522b8ee84",
+      "url": "af/c0/7cb5c652d156ebfb8bfa72fb5592ab0c87a8b06be20c72a7431ff5a3d6fe/mypy-boto3-codestar-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "cef59f8b45c735f65ba16dd7be31eaf00869b48d2895e7f1c0b4aaf74390f445",
       "url": "dd/f4/9530f1bfee2a04872293d947851c834caed38d8f3d2256a627abd81311a2/mypy-boto3-codestar-1.12.5.0.tar.gz"
@@ -15991,6 +16017,12 @@
     "0.0.3a1": {
       "sha256": "c459192f3314c9cd51231b74398de893f8a68c5900e81165338b5837334d2e60",
       "url": "c5/7e/32ffc3c8998e23c8844f6969d3715a67ccad4236eead8518d610815d4bef/okta_api-0.0.3a1.tar.gz"
+    }
+  },
+  "omamer": {
+    "0.0.1": {
+      "sha256": "57f9778e9dcc051e0d61f4a8d73f86a85e8e091c8ca84ba5db1817621206c38f",
+      "url": "a8/9d/d734f5c32d1739c566cc381c95eac30910ebe1efdc219d441822c53b4c21/omamer-0.0.1.tar.gz"
     }
   },
   "oneshot": {
@@ -17613,6 +17645,16 @@
     "0.1.1": {
       "sha256": "949767eba161361ada9b3b6037a5bb150c3507f37843913cd90ec93b573f6f1f",
       "url": "92/c9/179d15e28780762069744a4ee998508ac84ded871cdc51719487d32cf71d/psaudit-0.1.1.tar.gz"
+    }
+  },
+  "psu-upload": {
+    "0.0.1": {
+      "sha256": "6469e958d8bd84f6b9d60d3327c19e257783716184b7248b71251662b5c58f7b",
+      "url": "14/86/7c707a3bf2ea0247db114cecfa3c693ba0f9b01514a0236dd0733b54e0f1/psu-upload-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "773eda28fc650cc7b3f9fdfa4fd2642ba16cfaa8a923afc75cdda1dcffdd07bf",
+      "url": "6b/08/d644b9929218aad3f6f425ebd9c49caf334bbc340ccf2982f742fcc3da4b/psu-upload-0.0.2.tar.gz"
     }
   },
   "ptestcase": {
@@ -20575,6 +20617,10 @@
     "11.0.0.0rc2": {
       "sha256": "8fbce409371825bb24af0a49cc98dc7f4277ae699478b3849c9d6ca964ac93f6",
       "url": "bc/25/0d275edcc457e9e7cf56c9816cb6d2d4e08b5a4854474cecbcd59ef8ff8f/sahara-11.0.0.0rc2.tar.gz"
+    },
+    "12.0.0.0rc1": {
+      "sha256": "cc8165d06b53b73d3ef2c2ffae952a3a8beab75524be288a769a50d373ad5570",
+      "url": "13/8f/7a400e51fa20172340cbbbc34bd27b773c5799ab10848adb6dc46ca30879/sahara-12.0.0.0rc1.tar.gz"
     },
     "7.0.3": {
       "sha256": "5165399157344ae407ab069248255e196fe3c06e48c74e907f22c7cd39e189cb",

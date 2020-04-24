@@ -107,6 +107,10 @@
     "2.1.2": {
       "sha256": "34e5efe90e4c0d8eae11ad4116fe254025d9045688bc1a975e203b825187f204",
       "url": "7e/e2/aaa589cceff8349bc9f4324db5e1a4d0c768afd63a1fa7a295286e176c51/adafruit-circuitpython-lis2mdl-2.1.2.tar.gz"
+    },
+    "2.1.3": {
+      "sha256": "3e7fbe283361d0e18c93ef81c24e84902199b998c34acfff488b0e6c340301d5",
+      "url": "73/1b/61c9d208e685bea915af9f6ce2c9c11c8e757a3e367acb616e3454f784b0/adafruit-circuitpython-lis2mdl-2.1.3.tar.gz"
     }
   },
   "adafruit-circuitpython-rtttl": {
@@ -14060,6 +14064,10 @@
       "sha256": "1ae282c1df7e29c7146178782f2a35dcb8c301d52d34a90aa1f4c4d8f2d1b609",
       "url": "1f/d8/c93ab67e12413a9470c3eb7a33fe95e4ec2982f4d7af89103d3f6af5e58d/mistral-10.0.0.0b3.tar.gz"
     },
+    "10.0.0.0rc1": {
+      "sha256": "5306048bb9f43f1247a171a28bd0d189d059e5769037a6ab25094e8083c73380",
+      "url": "0d/d9/35d351385d0ad0ad0b8184985ff2525cd6203ad6ef1c692f3fd07812e570/mistral-10.0.0.0rc1.tar.gz"
+    },
     "2.0.0": {
       "sha256": "133b53a1d6ea0693521091033dd5b0dc07852cf27d8c7342e14016f3d46d1462",
       "url": "8b/c4/53e3ae76bacadeae74fb2996d9d7b376dbbeaf0d1686e17825c843ba0658/mistral-2.0.0.tar.gz"
@@ -15340,6 +15348,10 @@
       "sha256": "a4cf7f6476e794f77617ff7108c3a7af5b3ea11ddfdf28fa3b102b1d9e1bd81b",
       "url": "9c/3b/415b8650dd6f8476b78c0a17dfe0967bc589a49fb050aa0c9d658233b171/mypy-boto3-importexport-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "06d6115714aca547b50a9e939adc007c7565f107bbee85665f8d2d1fedaa36e7",
+      "url": "21/aa/fb38712057cb27882c7702bdc732b681ecb093613902fbe7f94f3e225a18/mypy-boto3-importexport-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ea9e2c3993329db1059897fc0781a0e33e5cd53b6e62ea9bc8ab070889a784ed",
       "url": "c0/d6/77c35423ec205c37314b24a0d1aa40d5ead4e803069910683168d1f05189/mypy-boto3-importexport-1.12.5.0.tar.gz"
@@ -15853,6 +15865,10 @@
     "1.12.44.0": {
       "sha256": "50594ea92f4ab39c33d92e4f91f7f4bc9742f56e06421583420f21cdf8fad652",
       "url": "d9/2e/3cbf8801cf4c3a1c126f9194cb8b2b264466a6be50c7f76b4b2088f55d7e/mypy-boto3-organizations-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "a911f8596984647e5418bf9e3b35193f2585508d2356ce12ee6ee5817edec815",
+      "url": "4e/0e/5bcb4fe1c307248c0f24a6db78fb68a62a55299032352dc4f10f75f54b1d/mypy-boto3-organizations-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "e64b9c31d520fbd4e286638b0a8c979d044ab9454b24a2eddedad502b8173c8e",

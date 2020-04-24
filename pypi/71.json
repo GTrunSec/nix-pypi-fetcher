@@ -1427,6 +1427,10 @@
     "0.2.2": {
       "sha256": "30eecc85b797225e1a842dbfe901931a532c5533b4a144584c85f72288ddb385",
       "url": "dd/65/f69f3a3eef5ffd9e8e1159f3ad95d1391e77ecdeeeb4b9b7256e16cf838f/bgzip-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "7e45a6cfab8d860af3d7f3a3df36d27e0aa0724f1a5eb9b44464b9408e2ba19b",
+      "url": "60/8f/7178c73a962a9dce2901d9b4f0063579418a1ce9197be517a0576a03f73d/bgzip-0.3.0.tar.gz"
     }
   },
   "bibbreviate": {
@@ -13749,6 +13753,16 @@
       "url": "a7/c3/d7439c74a14bd5334afb10601a5738ea70a75fae3f4b385ef4dd203e2a11/passogva-1.0.tar.gz"
     }
   },
+  "pcrglobwb-utils": {
+    "0.1.0": {
+      "sha256": "d186c02df300cde211b641bfb7d51b291658908d27966a9d1867a3e4f99e86d6",
+      "url": "06/ae/ccc3e94bb35a5e469079f117abb857d19ef3887c9ce21daf1acb5e3c6ad4/pcrglobwb_utils-0.1.0.tar.gz"
+    },
+    "0.1.2.1": {
+      "sha256": "d8698061ff9d964a6dffaff4fae9d958436c6d57f279c2eb56b809cf1a36c51e",
+      "url": "e6/1b/03541c48b3fc7b9f8805a7bf8a5c8b6b3737a917df0904fed51ca5e3f108/pcrglobwb_utils-0.1.2.1.tar.gz"
+    }
+  },
   "pdbreak": {
     "0.1": {
       "sha256": "70aaef4b26b68e7704c33adc69c9d2986649b9f32833a94cf200db425d29d15e",
@@ -19645,6 +19659,14 @@
     "0.0.15": {
       "sha256": "987b91ee0a3343c9981ce6f67f6a15d110e88cd452f6c04091dfa11de73063a6",
       "url": "a1/e3/f752ead975d87be4531f0016675ee625c885a19d8c311699388115319a07/swm-0.0.15.tar.gz"
+    },
+    "0.0.16": {
+      "sha256": "7720718d55cdc55c8073b2af7021fed037296b169965c4143fbc65a8f4d5a4ef",
+      "url": "10/ef/ea3f815f98a550f0b665aececeec9146d026d84931961fc0ec9ea53c3c77/swm-0.0.16.tar.gz"
+    },
+    "0.0.17": {
+      "sha256": "391f12a165dd140c2d5c5f2069430018b49a9c2b3fbf99197839df78f3c847af",
+      "url": "ac/12/1275ca03ab92d1cda9a84f52d2beec75b733caac259a2a7094525d3751ae/swm-0.0.17.tar.gz"
     },
     "0.0.2": {
       "sha256": "c2f47099c037bae3b2b9829e2c9658fb38120681106433e0cf8150be59bebfc3",

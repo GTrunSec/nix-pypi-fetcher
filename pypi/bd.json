@@ -475,6 +475,10 @@
     "0.9.5": {
       "sha256": "52dc3c1780057b472d2f4826c9168809cd67290dce1a2be573a3f8127862f32f",
       "url": "6e/84/8029afdd2828a8a9481df25a7970138c6e3809b78d4f556e79e71a8b585a/annotell-kpi-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "35629418c0e4850cfd2d6e6523547f5fceda5252e17f2574437577380557722e",
+      "url": "7c/11/da7ab99b98fbc6de815305ee0ee9f987961d3263fa6923ad6fcd79685a56/annotell-kpi-0.9.6.tar.gz"
     }
   },
   "ansiformat": {
@@ -8613,6 +8617,20 @@
       "url": "42/68/3711e82ff846a53297e86549221eccb01d6754817fc380eeff44540e9ca9/expectly-0.1.8.tar.gz"
     }
   },
+  "ezexif": {
+    "0.0.1": {
+      "sha256": "e15af0b91657681b0aba8a96aec12d9ad05311139af52d109cb9e93be25f5f49",
+      "url": "5c/08/35a9c8d47e6a8052492a7556d7c48e2fc99491e3e4114611a5c1d891f640/ezexif-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "1bcde38f6f827fe1d0d9b3ec8727a84b25b381588a1348ab457a43a20f29655c",
+      "url": "b1/46/3bd20f0b7f1d692ee4b56d6af37288ae071b3f41380ef997da76c9b1f553/ezexif-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "a59f47bd95c12cdc13daf1920cc036d628f61bf8153dc9fd44351e96b961c2cf",
+      "url": "a0/e0/cc012fab534454737a46c1fbe4233778a1fe6416ecfbcec215ceac722398/ezexif-0.0.3.tar.gz"
+    }
+  },
   "ezvis3d": {
     "0.1": {
       "sha256": "e6bf164a23e96de1967cb0dd6be327716c54e35b6d97f8621f9865562a2d5293",
@@ -14288,6 +14306,10 @@
       "sha256": "13722641310562ad1ca6a225d65cfdad6554831b5e17dc1101ac66be35d0dbe5",
       "url": "0c/aa/95b9b94c5d26d26c71fa255a64a2dca71cf5656b91fb0c727e6a131a965f/mkdocstrings-0.10.3.tar.gz"
     },
+    "0.11.0": {
+      "sha256": "144da162dde45d8245f4d68e919951ff3e4a2f1c5d0dedf458db40f23878fc8a",
+      "url": "33/31/c4b9127f296eaefc2c26cb32720781245c45aec2b6e229edebda2f2c8020/mkdocstrings-0.11.0.tar.gz"
+    },
     "0.2.0": {
       "sha256": "8027b82a04d5bacc561c34e9cc96568d7b7936bea970f38c3fcdc1ff6266e92f",
       "url": "cf/e5/e48721da64f9257f64372ca94ed9e0ea858e64e6c7940f0949403c542fb8/mkdocstrings-0.2.0.tar.gz"
@@ -15202,6 +15224,10 @@
       "sha256": "928b40e270d59d4b8488f5b419874e034089c7803333995f15e6296ed1054773",
       "url": "ce/81/305b23dc3bbff47156b501bcd83a809be19558d6756de4bc11da2133b453/mypy-boto3-servicecatalog-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "410806ecbe9430e01d3a8b5f006b345e342474a85d94c30d88638ed09ee7e72e",
+      "url": "f0/26/75d13f7f26ae3725a14bba72f4bbf29c777910d56c422f5a2265b965970a/mypy-boto3-servicecatalog-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ac98f2d46561c80393845cf7cfd020d8ad2248221b01ce54d3b016c8f510462f",
       "url": "dd/99/a2c6ecc264ae5a0ac488822296a3837fa46de18c09b02c80dad3c18b44cc/mypy-boto3-servicecatalog-1.12.5.0.tar.gz"
@@ -15979,6 +16005,10 @@
     "0.0.15": {
       "sha256": "9dba37c989acb98ceef0fd71bd26f63ce3a486780179e198512d470fb436ab84",
       "url": "06/a5/543fa1e9b1d70f529d3a2f99307c27b8485f2d318869be1cd5c8411bf7d5/nextstep-0.0.15.tar.gz"
+    },
+    "0.0.17": {
+      "sha256": "09aedb9405d028b48fe0089891e1baebe736292be88b9aa63107cf28016b1761",
+      "url": "ad/90/f05dff9ba2365530fecfac8ab1c4df449a6fe7c7f32cc643255fdeaff01d/nextstep-0.0.17.tar.gz"
     },
     "0.0.2": {
       "sha256": "f43ccb8e6b115733ea1a31e08e24d04df497a9ea3f1b484f9708d05246482dac",
@@ -18245,6 +18275,10 @@
     "2.5.1": {
       "sha256": "fb0d1b8cdd8127aeaf5d8a1d702f99a32692c81c75bd1e6dfaab9582a177907c",
       "url": "d5/06/01a067216ff5f4d92cfc287d8d024ee2b7a2ae066fe29302aee274ccba30/py-ms-2.5.1.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "b9953859e785db4f8b3e15873fa5ca568c14ebd19bc9169578c9e568ed4f62bc",
+      "url": "94/a7/b89ec7e7116d4b7d0eae9c8fe7a82b0d4457c7f8e4271362d3cda7ee326a/py-ms-2.6.0.tar.gz"
     }
   },
   "pybpod-gui-plugin-timeline": {
@@ -18497,6 +18531,92 @@
     "1.3.0rc2": {
       "sha256": "c1ac75fa222d5e377b7244becc035aa0e7424a46e788fff5e8c8647c0aa1bca4",
       "url": "bf/d0/1d611e38bec9594e5592892c02ade064194051053fa3b3a1836800c38f4e/pygeode-1.3.0rc2.zip"
+    }
+  },
+  "pyglottolog": {
+    "0.1": {
+      "sha256": "eeef66d38d6a7887a8b3ec0b80d9186ffd3f3888cd06bc2375861ed7e0d2738e",
+      "url": "cb/49/ab4dce435d9be7e9221b5f097bb0ff3f8d426935ff7dd7c957adfb7fd33a/pyglottolog-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "38468505761d585312f22fdce3ef9602273d2f6e2d0d890611d8b3e1dba4ad4d",
+      "url": "51/b7/5bf6456acdee11b7e5e903d53392f0abe5980927a5629c5fc3f280e51d24/pyglottolog-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "dfb4acf2e6e601c0152bdc2b87e2141b6771bbfd6f9b7bd05b5b9caf1c5128aa",
+      "url": "85/a4/c259da52c9100e9195b0f3bc4c631c73d4fa23af94445f7734dd2cac168b/pyglottolog-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "cd16721371abb7f9414fc228b8f9104108411bdb83bc9836174e9e20900ad2af",
+      "url": "bc/2b/2cb2a3fe31e2084c9b2aecdf6c3b230f3ba14040fda008063bb0b5c6b3c3/pyglottolog-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "b5f31688c3bfc14d8ba67fc5c3a1663be4e2acf9e8b6f89bbc05fa80f6707c6e",
+      "url": "bb/3b/57fcfc318df4460d53ae2802aa079d3d1b99dd460406a5c09f5b118bfa5b/pyglottolog-0.3.2.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "7da6c0d0fc5a0695f526bd2a86c3c654ec0adf2c599b356ef58398599b5e56c2",
+      "url": "9f/bb/b53f7fe83ccc97251462ead5a3f888189ac243dac7b15784d2fccec6fcae/pyglottolog-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "d15b848f2db575f226cc69d1216f2611c632e0efed79c4f21233017dfb40d9a4",
+      "url": "24/52/338ab25a1d3055e61715aa550255182a5aa7718568e60d5b971c4df7c36f/pyglottolog-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "c0d485b9d09c540079b2e147f38c875d298babb05d517adeac0a6a81096d209a",
+      "url": "14/13/d093793d412a3d5f1554b93c19ed81caaac55c8a8dff41faf519422c3eb2/pyglottolog-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "db32374205bf8681e2c61857da2309b1fef2e4fa535a66aa02dbe346af344267",
+      "url": "a3/68/d44fb2805a4d22651a8704e7838a84dd3c5a815f0b4ce2ac7bbbc18d1d46/pyglottolog-1.2.1.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "ade548fbd36b8a6bf1896e2ef75fe5ffb93cdf1535b547f6a9c1c6599df47003",
+      "url": "d2/71/d77ba6f3e59d55f2ffa34587ecce8bb4835508e53ce4652659232846d4df/pyglottolog-1.3.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "32be243d2f60006b64994b822c2b62627d5eb6382a290185d20e68e13a2c0430",
+      "url": "80/c9/317b8414f695194ad4165ecd259e1dcf00f0af99dbf1f452b9fd00ebc091/pyglottolog-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "8ab1f1c287f4ca8b0345e7d68bfb31ee425034e8a8498618c2546f180282e3c8",
+      "url": "c5/1f/130f490590522097704bb3533690a8f21d447a9bc2d71c32b1b7de06d805/pyglottolog-1.5.0.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "f8aae18b63d15612fe6e8c4e6fc6245967e2380f2004bea2eee72dc1b4fb4d87",
+      "url": "58/da/42c4adb18132a7a462c1617ca00dfac6a1b012da73bbb32d3ac8df3ecb30/pyglottolog-1.5.1.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "d8216db4a05dfa81ff33ded48fdafa0d8fffa00e31fcb165495af252f5670e30",
+      "url": "d8/d8/cd59ac1502402b777682f704670451fddd9b2ddcebe77fc14f974df16ca7/pyglottolog-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "9cb44b356a1acc3a4461c0ce01aec91104787db2bfaa6bef99bb9b7422297125",
+      "url": "7f/19/0dbfb9a824b09979c6a61e111f78051530246bc756b7a882440e0bc81fec/pyglottolog-2.1.0.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "24f26d57118e79e4e2ca1693e52c0f3dd3ef40de2c6c97be50f14a5224c9dc10",
+      "url": "9f/13/58e331c5c155f826cc50d399cf2f0cd5fa19180af233c7ae4f7b3f4b7652/pyglottolog-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "364dc586e38951de5e32e0b82716f5cdc057e023bb347ec313e107ae4cc81cad",
+      "url": "ba/c9/80242ad1945153f46a07b4200a506be5bc481070bca76715e5c2f2767da6/pyglottolog-2.2.1.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "6a2086560e97bd4d8da09d7c93ef407dc0bab08461416d0aa946cd44586eb977",
+      "url": "d0/d5/3aca43ecf102d88474df28fb2c6e47ae6bd6f4582a240d270a99b298c5f8/pyglottolog-3.0.0.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "1f3500f45aa7b33c636ca465ca5d50bc586ae79ea766e4c8084a098ae6a1a3e3",
+      "url": "c4/08/96d65a325891c649dcb1a419f08cead3e1d503895617772bc4b26d9aef2e/pyglottolog-3.1.0.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "665287dd132911a863219d2e80b2a1d3e83bf81a721d6c1e8b3f42e7c10ef541",
+      "url": "e0/21/a0593a529d03d57611cdee5a51a46b13a0dd0ce3753a8ae88d648a8b2d73/pyglottolog-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "236d1123484bd3d9ad1b4fb1281003421f63d0b2f3e9bfe88f291efe5589fae4",
+      "url": "cc/bd/4de4dfc969ffe3bfc3ea7b778a3009bf694737c4e4e848c8cb9c72be4568/pyglottolog-3.2.1.tar.gz"
     }
   },
   "pygrouplib": {
@@ -21779,6 +21899,12 @@
       "url": "26/63/46aa83801ab7209cf9b3b74575f172d5b5ca3a6a700cf9eacc5e35c88c20/simple_rl-0.811.tar.gz"
     }
   },
+  "simpleshark": {
+    "0.0.2": {
+      "sha256": "75722ae03c1021d9faac70aeca10e624ae09dd4b0b59bb66b5a4905c6f9270ea",
+      "url": "2c/16/e601fbd0ccf17869339ea780b779d3566d8959c35ce48f4bc46be1201799/simpleshark-0.0.2.tar.gz"
+    }
+  },
   "simplesteem": {
     "0.1": {
       "sha256": "70cc766bdffbdaf3682bf8cc411ddf6e275b4daa14ae9d9164b26bcd6a10810a",
@@ -22881,6 +23007,10 @@
     "3.4.dev9": {
       "sha256": "6485fb3b8ce4c717d7d2598e49bdaf7cd4ab0a835bacafe9fcee89e033e91513",
       "url": "df/bf/e9cef98bf39422ddbf2175496c521c43ae4c82f90ca28fedc7099674fcae/skale.py-3.4.dev9.tar.gz"
+    },
+    "3.5.dev0": {
+      "sha256": "319c007336aa2f994a13643116e4dab0107d3f56e8a3a6891cad5a3b91d7f859",
+      "url": "af/18/3f6921acb72af795cf4acdc49b859db49b9ffd90a5925a579579e249df76/skale.py-3.5.dev0.tar.gz"
     }
   },
   "slimmyorm": {

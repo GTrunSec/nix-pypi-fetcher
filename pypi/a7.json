@@ -3195,6 +3195,12 @@
       "url": "5b/4b/9cff5438a7c21ebeae24abb75ed62b9961c98dd1e75099c5e993f35f4aeb/dbtools-0.4.0.tar.gz"
     }
   },
+  "ddb-python26": {
+    "1.4.255": {
+      "sha256": "31ef3bb1acfbe9004c95536a200547fbef232df6869e8e89fbbb0137f7e80dba",
+      "url": "73/4d/1bce792d9cf87381570797b6afd85659b30a1828d4ac3c021afc372a58d4/ddb-python26-1.4.255.tar.gz"
+    }
+  },
   "decimalfp": {
     "0.10.0": {
       "sha256": "9cbbaf187954f3b1d03b8c58a1d4ad7f14654ec9b47a9613dada2c5332fb1703",
@@ -10665,6 +10671,10 @@
     "0.4": {
       "sha256": "38878b62e3ea1076579cb42a2d3ceeacddc5de5181f296db76e5f9e18cde7223",
       "url": "83/86/7e678a0a33d8c7b33fb771c178cd29adf194b31ff096293ecbc036cd2ade/lazo-index-service-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "88378ac213f6ccd63ef5620685490baffc877164dd60bcd190fa08d2dbc1c522",
+      "url": "be/63/6fffa0bc4950c8b990428b67cfad8060d26e5d460ebbd64b3d8aa34e28bb/lazo-index-service-0.5.tar.gz"
     }
   },
   "lbdrabbit": {
@@ -13430,6 +13440,10 @@
       "sha256": "8cc301cfa1368bfdcf63c48964d4edeab41950e8271267cb5a7c8fe43a56c2d5",
       "url": "fb/f9/4368a82e8b1ba5dab9eefa7352ac53acaca16c3e35d6d6eb233aba93a81d/mypy-boto3-elbv2-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "35ef29730ceed71463185fdfd9c9a847b1566f255757dacc6997c1e4718753d1",
+      "url": "a2/1e/4987cede3338a39d449ad186c15bc3d3a2fead9bbd2254be2da741b12d2b/mypy-boto3-elbv2-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "2841800c0f5819dbcec454bbe0e5ad723ba885da3d691fb7f2d3d2afdc48006a",
       "url": "84/6e/598f190aa2b9c1627f5ecc1624139240a317f5ee6ca37aa30a77adf2f387/mypy-boto3-elbv2-1.12.5.0.tar.gz"
@@ -13561,6 +13575,16 @@
     "0.1.1": {
       "sha256": "1ca49b0c5413ac38b4b606c2960943e9cf2129adcae41f44609732340e0ed6a5",
       "url": "5e/29/1ceff4ba2ad2163aa93c1a4df51ded6cfecc03ed0675ca01b5a627608009/ndex_webapp_python_exporters-0.1.1.tar.gz"
+    }
+  },
+  "ndstextgen": {
+    "1.0.0": {
+      "sha256": "be7f8a889aa2ea349b5de4db6e116e266f8adc94c1f9ebc69fa73c3d3fa9bbe8",
+      "url": "fc/1c/6120ceab9c54445b5d5c0b0d65c41047f53f2591327c7c9f5a6929154576/ndstextgen-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "ac4dbfb602a8f12a3e8e01172dfe4f63371901cb9fc601cdde235c08c312a05f",
+      "url": "d3/4a/80ffa38b8d16d0a28f7200386406cf74661a58e7776b7dfc598a2a9a782f/ndstextgen-1.0.1.tar.gz"
     }
   },
   "needinit": {
@@ -17195,6 +17219,10 @@
     "0.1.1": {
       "sha256": "82ec78a413631b67c9b84ce6311e95472ce60b0b46175d03949b6c9c0ae48dde",
       "url": "1f/be/f5f0f6267b4b46d83b008cb2f510ae67bb8b4b5f3b390c27fd9858c9cc59/py_address_parser-0.1.1.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "a8dd5f5fb01c8b71bcfa688e6c9ee728404c3a2d194cb923e056bf572b0f8387",
+      "url": "32/41/ab3be1ec8b4669bf15a8c5ac64698e0f5d8f1172f21e9ff8a60e2dd18eff/py_address_parser-0.2.1.tar.gz"
     }
   },
   "py-aiger-coins": {
@@ -18443,6 +18471,10 @@
     "0.2.0": {
       "sha256": "fb4116ea0ca520e0dc7667b087c0f1fe660bf15addd6cd0d3fcb00714fb2d437",
       "url": "c3/f5/ff80c45438b1167822e5ca9bc0b3537fe792c137100c6fdffb8fb159f89b/pylabeador-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "f13f73c5bff9d94816a7c82949e4239fbce78491b681cfa87dc6bda89cd3bf23",
+      "url": "f8/33/3c278bd48097a00bc7a35f0c2b995dae492bdd21d19e73d2d5950e194b58/pylabeador-0.3.0.tar.gz"
     }
   },
   "pylermo": {
@@ -23731,6 +23763,10 @@
     "0.7.0.dev4": {
       "sha256": "efa4f8dc4f3ea1b0bb67bb7dc7215e26b509b32aa994896915228af593f21c53",
       "url": "c8/df/a3fe67f9e5b4e2fe0de278ea504c892c77b5e0c1b2000218291e5314fc18/vss-cli-0.7.0.dev4.tar.gz"
+    },
+    "0.7.0.dev5": {
+      "sha256": "e19f156c25058ed39ab81ae20a68f06d58be1c2c68f3089d9b67d6c07e5ad0ec",
+      "url": "b7/17/f1db38769a081bd78f81fe7cc737d34bc928663e690bd2879810587a81a5/vss-cli-0.7.0.dev5.tar.gz"
     }
   },
   "vtorch": {

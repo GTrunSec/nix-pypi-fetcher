@@ -16729,6 +16729,10 @@
     "35.0.203": {
       "sha256": "97b9f43ac794aaac270cc1acfaef5c3bb1e000498d11bd60488e4ab24c66d88e",
       "url": "c9/74/c76fe79ad7d7d770691273dfd932871d068baad51d456fcbbdf2a5b697bd/resilient_circuits-35.0.203.tar.gz"
+    },
+    "36.2.209.dev0": {
+      "sha256": "cf52063792579c9c9216721ca5b75911e08443f681cfdac1976cc1050f093a65",
+      "url": "24/b2/978f79aa4c5bf5695ad8afd3db214f9eea3f40d198fd42f6fb03882afc0a/resilient_circuits-36.2.209.dev0.tar.gz"
     }
   },
   "restylinchpin": {
@@ -18005,6 +18009,10 @@
     "0.24.9": {
       "sha256": "0e2285eb86fe7ce8e0f64f964877b8ec0a4423a9fa705ee569e0ac374a65c604",
       "url": "ca/b4/fde4ece5cf9124f9e534da511b30ea9055d3cbb12da9d874894b2a81e4b7/simpletransformers-0.24.9.tar.gz"
+    },
+    "0.25.0": {
+      "sha256": "94965eb5fc63007b993fae1c9aa15cad7399e40afb2f18b5a2b6b197602939b2",
+      "url": "30/fa/cd1caca5f3b437dd99295ea8991842b0af5bca04cb2a2e709c6df9183a50/simpletransformers-0.25.0.tar.gz"
     },
     "0.3.0": {
       "sha256": "cb26922567c79519130d9481ae05e8e6f5ff9a797c51702c548f99e3508fdba5",

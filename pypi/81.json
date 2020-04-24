@@ -3303,6 +3303,14 @@
     "1.1.3": {
       "sha256": "8b546e4f4ce42fcf09dd66638aae8236fb4e6818c9df2acecacd00e0197742c3",
       "url": "33/1e/1b1096534dd77e6e540e9b50fc23eaa3f1647d3b8f350d5c99fb57ccde80/ccvs-api-client-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "94af524a0f145fd4df72f8769115bed3c9bdb229fa7c5173b94edb0a55ccae5b",
+      "url": "6c/24/c1b365246410fb19dd7a3125785c5eaaabc93a5b237f9fa17522d8d8aaf4/ccvs-api-client-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "d6669266c228edbb14b2d71d28c0f6ae5650bc5bca285a2e8c9d02458c2e362d",
+      "url": "32/90/e1c291c9683c22439ddbeb28908ed77fe5b063906dff2dbbd0b6ef669807/ccvs-api-client-1.1.5.tar.gz"
     }
   },
   "cdflib": {
@@ -9055,6 +9063,10 @@
     "0.8.118": {
       "sha256": "4b111f9d8d415754475533e24f8d161cd1cb875aeabc4743739161631eea6197",
       "url": "d9/42/f8a6c2f52f195a001daac6e17c9329f9616beefe738f550a00bca3caf487/gs_quant-0.8.118.tar.gz"
+    },
+    "0.8.121": {
+      "sha256": "cd0e1a39300074e43127cd2677a9aaf08e15ed1ab9b8a920acfc9310d83c2893",
+      "url": "7a/1c/4f62c7cafbebfd6b332aa48921d334bc34fddd56d368d4db6651d258c149/gs_quant-0.8.121.tar.gz"
     },
     "0.8.73": {
       "sha256": "7e1edf27d745cda4001e6d62c6324127fc7b8d9b5d1d53997632408a11a89a7e",
@@ -18135,6 +18147,10 @@
     "0.0.0": {
       "sha256": "0e27ebbed9e8299e68149077cb7c80fd3a4b86097bf4276f2a06df7f65e30dc9",
       "url": "2d/a3/335c3ece92453d924eddd0dfb603056ca34b65eb6c46025cb4391457b430/qcrop-0.0.0.tar.gz"
+    },
+    "0.0.1": {
+      "sha256": "5f72344ba37222ef6fdb5a771d3eef648f45128a440261d6694151b01c932e5c",
+      "url": "78/e3/5ce68f2542fae9bda9cb855c53d4cb2a23f3850d8ce1cc26c656dd5ba5a1/qcrop-0.0.1.tar.gz"
     }
   },
   "qlutils": {
@@ -23835,6 +23851,10 @@
     "0.1.4": {
       "sha256": "8329faef69f5638fc641813f13a2fdec3156d754e1fa484bb4ddf6cd28f2feef",
       "url": "c3/27/976e1a3bbf9721619a06304b8db7ab9c40207ab29e7e0ba84bbe3ff28ad0/torch-lr-finder-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "3ef483580661f8926cbff4189ae4be16b9142aadb6a7dddb4d1e00e5b2e34369",
+      "url": "ff/64/176f98c19dc8bc35f785a28b88b6f5bb86e0abdb6388c51ec2cd193a0f97/torch-lr-finder-0.1.5.tar.gz"
     }
   },
   "torch-scope": {

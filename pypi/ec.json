@@ -8001,6 +8001,10 @@
     "0.2.3": {
       "sha256": "e16446ec477300915f3d3ee8b1c97624288ec25109768f4992ebf81c9f6f13ed",
       "url": "1b/ca/f63b623816a11966b33b55ff021efdaa5b183977f8fb14a4164b2bc05636/git-clog-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "1d498cffac89ca53b0f6381cd96955a5270b77c559927c68c832392671e80db8",
+      "url": "bc/cd/a2dcff39a77401eeff058f2b2cdcf74e96da61af77cc2267260851041817/git-clog-0.2.4.tar.gz"
     }
   },
   "gitlab-freak": {
@@ -10249,6 +10253,10 @@
     "0.4": {
       "sha256": "8c3479136f2791c4da0cf557a11859f8834bfe97c504565d183b33ec3e29e636",
       "url": "6f/47/314c1f66831490057413e17f58d6fb57b746f55c5f1735d113ea24673154/lazy_streams-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "b1c39fa145d651d13938934abbcad51cd244b805916e13bcbde5078b1f6ae1db",
+      "url": "d7/02/32e06978ff31f6061295b7ae944df95edec77726e670684cb7d8902696c9/lazy_streams-0.5.tar.gz"
     }
   },
   "leb128": {
@@ -12124,6 +12132,10 @@
       "sha256": "b0381bb9a467264dad35b3948b8f297728322a9d59d58a65999694d014f5f50e",
       "url": "15/ae/3e640525683812c1d52501e769058ab15082ec9b4818c0ba6e04cf11e5f7/mypy-boto3-pi-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "3977e047e6ddf88bc38cf233eb6f9f532c9a22c2ed4feaf664435d98c62273f8",
+      "url": "de/56/bad6e62b80db76a626b6ad597ed2068af35c01a5af2e76f8ca27154d9d0f/mypy-boto3-pi-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c9e9f5b9d3d12db1f944f5568ab9ab1c1fe15fef01040f0fce236a764fa526ea",
       "url": "04/b9/5284fd4c505ed1179a2adcaa2f93c0bdc3a2c2cc71a8e508ffd1da05c22f/mypy-boto3-pi-1.12.5.0.tar.gz"
@@ -12285,6 +12297,10 @@
     "1.0.0.dev1": {
       "sha256": "0d88743c2e9115d2ab1f32b93b9a81c893a620bba6eb507fb19d117e177b2201",
       "url": "37/75/ab52e7da43140278d21a758b9f5450757f879359cb73af5a30315f5e325f/nbautoeval-1.0.0.dev1.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "15c49ef9541f4e2c942798d7a945a7e023b8209bd5b099fc73e1f42d9ced4df4",
+      "url": "ed/f7/3e4f03a65994f9eec20ef4818bd6aefb7075176d74a338b0e9dfc02237dd/nbautoeval-1.0.1.tar.gz"
     }
   },
   "nbtschematic": {
@@ -24387,6 +24403,14 @@
     "9.4.212.dev3": {
       "sha256": "0075dde9c8ecdbd2e05444c1e26a2734d2907be72442534b15d46a322aee7cc1",
       "url": "3f/a3/b6de62d08c24d9b652ca7611ee47701b6f91d7fb51d677f606c965ac4ff0/sickrage-9.4.212.dev3.tar.gz"
+    },
+    "9.4.212.dev4": {
+      "sha256": "12fa013aecc68feadff7aabf12bc8d18caadb3d6d8d80e5686898d0e2a252710",
+      "url": "a1/b9/9fb3e06d8e7ae8290b573fdc76a4a89825d96e989318235411b958c6376d/sickrage-9.4.212.dev4.tar.gz"
+    },
+    "9.4.212.dev5": {
+      "sha256": "7bca4be9e546a9c87fb55b84cfd28b340dd3f57e6321a598f889b8aabafc9220",
+      "url": "0c/d7/a8941e5995c346cde21a188c0a98186c43c3fc9ee047ae0c965613399c0d/sickrage-9.4.212.dev5.tar.gz"
     },
     "9.4.22": {
       "sha256": "2fbd5533b6b3895844dcc662827a7b3d6cfebe241e58f2410bbdb7c8ffe3a202",

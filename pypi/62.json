@@ -6867,6 +6867,10 @@
     "0.2.0": {
       "sha256": "41123e599ddf7d501e50d2a506944634a315deaedbe8681fc0f81c9029c6e6a0",
       "url": "98/ce/76c81cab7a9aa7dfe59588e3fa83efe5dea1b8d8825ce04b34d9781b09a6/djangocms-modules-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "cec7e86a4f3098d2a07cef79751e7e8568a9105b98633d443c53cbb1d5c88571",
+      "url": "39/83/26774894bf063e1fcd75489b78c820c997ed2ef89dcf134744f69cfe1c7a/djangocms-modules-0.3.0.tar.gz"
     }
   },
   "djangopackage-v0.1.0": {

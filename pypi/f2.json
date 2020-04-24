@@ -9932,6 +9932,10 @@
       "sha256": "a23d27bed4886bd577151df9b02d97504aba2e56a35b832e27499564dd708ed9",
       "url": "61/f8/2739897c754e2d3b54f4d71893c79a03abc4dde33aa4d7ea66dbc0f43cc1/halo_flask-0.15.56.tar.gz"
     },
+    "0.15.57": {
+      "sha256": "a61a390808be9b704f4edea188d03343545d6d9fcee089e6f33d31f96131f567",
+      "url": "2e/fb/13af848284194dda19b797de1bbc99dc2fa8471cea3dd9fbc2f29c53fbd5/halo_flask-0.15.57.tar.gz"
+    },
     "0.15.6": {
       "sha256": "7ffa0f3ec9a0a8e65395f37ead17bbd42eb30aa0bf00f13b495149475bb4c2a1",
       "url": "ae/be/299245f72eff2896370ccba8bfce2bd0dee9319d0b66ac98066beed97165/halo_flask-0.15.6.tar.gz"
@@ -12495,6 +12499,10 @@
     "0.3.4.3": {
       "sha256": "8cc5fd0dd14713ca93e477e27b5c806e762a72cb943ced8e3bcf62c9f14b422f",
       "url": "51/6a/e1ae69d407ed895e693de76a979a8bf09f50772dc78bedaa279ede6d70aa/meross_iot-0.3.4.3.tar.gz"
+    },
+    "0.3.4.4": {
+      "sha256": "ef7fb7b4d8d4cb337cbcf271b7f2429576a32a17d0345616f426cc74846b0e91",
+      "url": "6d/fb/3853bf80769423aac6e2b7ef39a49bba7f10da9d905e9271a1fbc0490459/meross_iot-0.3.4.4.tar.gz"
     }
   },
   "mesopy": {

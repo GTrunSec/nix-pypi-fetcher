@@ -4135,6 +4135,20 @@
       "url": "25/32/bc02c75b0263260ca8ed879222cb6d96a09edecc49440555b8a02a60c432/commoncodes-1.0.3.tar.gz"
     }
   },
+  "comparxiv": {
+    "0.1.0": {
+      "sha256": "c877876c54610a1940816d1b7520d35a06a7d0ac4657b4a45f5766b4855a7399",
+      "url": "2c/c8/e15a0724f88cdbb0af6672ab643ffa7ed01819ce5c046a8abff1c0bf712a/comparxiv-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "4c3a42bd5fffffa7d383b44a9df498e2bf8de5f645d72aa97561ba1c1b3a5834",
+      "url": "d7/a5/613d88dbf6b76492fd87fba0d97861b00cef65147476b99d19e6e6716c59/comparxiv-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "b940f59f91c24bc0eb0fbeeac4b3863bd8f284c44f3b024366c7beeb40ae272e",
+      "url": "2c/43/ba8c2fe4162c13ad1a24eab0a22a9c15021ebcd817a24b895b6975441100/comparxiv-0.1.2.tar.gz"
+    }
+  },
   "conanutils": {
     "0.1.0": {
       "sha256": "db6196e9cc9bf7490781279069b381b79f251275b2643b7aab115d01ae451509",
@@ -8520,6 +8534,10 @@
       "sha256": "76622ce9e18cf3d466589ca514779b54046a55cd627ea4b04ecc7fca2f1a8b62",
       "url": "fa/24/28a21e5a652a14209923b2478fa109eb7e5593673f2c7254ce5f317ebd55/filecheck-0.0.13.tar.gz"
     },
+    "0.0.14": {
+      "sha256": "4f09205996bdff112fca524b4b7114ab65b7b3af583c352174996305e89bbf6e",
+      "url": "26/57/24b8f29bfdf7c772d04d7cc91e5bbae1e7df2dfae8d7112cafbbb7d5c4a9/filecheck-0.0.14.tar.gz"
+    },
     "0.0.2": {
       "sha256": "a25effb056893d817bfc9f9a17bd06fbdf728e4c6d6696d7c139d82ef2d67691",
       "url": "34/09/15f74a44445e4c4e4e9657ba3d30f5b85fe07cd0b0c49d95fc685b2db76f/filecheck-0.0.2.tar.gz"
@@ -12839,6 +12857,10 @@
     "0.1.0": {
       "sha256": "31deda75bd11b014190764c79f6199aa04ef2d4cf35c1c94270fc2e19c23a5c5",
       "url": "d6/21/2ecb0220a13d316d20e43dd7017d2c03e945c0d6a20fbda97e310a473c58/jupyterlab_pygments-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "19a0ccde7daddec638363cd3d60b63a4f6544c9181d65253317b2fb492a797b9",
+      "url": "90/ee/b03c496e016d4edb1dd8a0370f511422403a46285206eb7c163f546fa5d9/jupyterlab_pygments-0.1.1.tar.gz"
     }
   },
   "kavenegar": {
@@ -16128,6 +16150,10 @@
       "sha256": "f363183f4912b704f483f8f8fefc13c6f28a3c54452cd08e8d7a3c80a609f5a9",
       "url": "a2/22/2bc340fb293ec17dfc77d446e95380768d1a008c67ec6ecffab073b8bf5e/mypy-boto3-iotsecuretunneling-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "6ca5d5778bcb2b3dbe84fb6417cee0081eff5d4eb0689b9f5ec040f2481dbec2",
+      "url": "9e/6b/bc10916731e80402c16cfdc7fef79b71e74aaef12c1f1980aa4219fbbe75/mypy-boto3-iotsecuretunneling-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d5e272db6c1be6c79f60e40ff537f510e7acacf17fcd0c6ce286bd27ee796244",
       "url": "92/9a/174ec8fa62987507a671668679e46dd258ac96727036409f15b338e69ebf/mypy-boto3-iotsecuretunneling-1.12.5.0.tar.gz"
@@ -18093,6 +18119,16 @@
     "2.1.7": {
       "sha256": "4f6d68c26233fa644b3fdb4f5dc042710030bd1c10f789257eedd564fbe0546e",
       "url": "88/36/6e158fb12570cdc3d93d444228c7e2cfef1f8a8ddc00f57396823180da86/peek-plugin-branch-2.1.7.tar.gz"
+    }
+  },
+  "penn-chime": {
+    "0.0.1": {
+      "sha256": "2eede195fe4669379658d0a563b468152936125746414c829745505a17ae5f55",
+      "url": "24/96/66f46cdd1c7a966e2db4b66bfaba8974c6e96e3d10edabdc2ffc33c3f8c8/penn-chime-0.0.1.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "d556fd27a76988b841cabedaf4bb5fd164b512320b9d7d8f4e4c12818050f810",
+      "url": "1a/af/6de8d12ad47abd4a058df755bd167c419ee843d5b838b0401e06ff8e8cf9/penn-chime-1.1.3.tar.gz"
     }
   },
   "pepipostapiv10lib": {

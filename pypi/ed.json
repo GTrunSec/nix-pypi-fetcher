@@ -3601,6 +3601,12 @@
       "url": "25/5d/96ab62dcb62300da647acec26a2c91c832644a6e534478aeaeb7155215a8/choraoipsum-0.0.1.tar.gz"
     }
   },
+  "cidan": {
+    "0.1.4": {
+      "sha256": "da97645178e55a22d3ee40d28d9449daa368f61f1cdaa6ea1b57b5d00ff1699d",
+      "url": "85/56/fec8358adcdc16d3ac29387a5874376f9bf61e24aff36909ac86d44f284b/CIDAN-0.1.4.tar.gz"
+    }
+  },
   "cingta-django-sso": {
     "0.0.1": {
       "sha256": "2b7fc3c59f6874c40f5bd8fa56d55b27f02cb737c1a491cbf6d674bd7ab7235f",
@@ -15961,6 +15967,12 @@
       "url": "2c/6e/52e50336a8e16e42bc185eb313d8d748afef8b06c0784d5842a6a0dc0ce2/mojapi-0.1.1.tar.gz"
     }
   },
+  "momotor-django": {
+    "1.3.0": {
+      "sha256": "542ad1f06edaef2fe2de6d8b8bc3e7cc3cdb520be8ed9271e4c925383615b684",
+      "url": "75/e1/5f65e9a284ac07f1dbbd93888f4e73f61b7c6c5d047ef6d63976128444ab/momotor-django-1.3.0.tar.gz"
+    }
+  },
   "mopidy-touchscreen": {
     "0.2.0": {
       "sha256": "1c6874254dad6e9116886c01bd0dd93374289af378505b16625b4cf2b35fd06b",
@@ -16488,6 +16500,10 @@
       "sha256": "711bf6a9c5ed6de7d1ab732c1ad4c0bd1d6ce96b517944ee23f842d725036d24",
       "url": "f2/2c/c2ac65b80beb70de53fe2e15b07b12cfc06f138da62b8f31242322c3ed3d/mypy-boto3-dataexchange-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "6d4f81b5bddf16ff13d5f6368e8a81f37bce730c60a37a1f9f3960c82e5e5072",
+      "url": "df/bf/b0578df95c1e0ccd3933173d69b8bf8a181a15fbcb1dde8d4ae04f546653/mypy-boto3-dataexchange-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "e54405557fba72423815223a01c7341531f055ef97c858704272391b74388dc0",
       "url": "46/e7/eb7214f1487e383bbf641ed23dc7be6fbdd4192acf2486659fd5337f40f6/mypy-boto3-dataexchange-1.12.5.0.tar.gz"
@@ -17001,6 +17017,10 @@
     "1.12.44.0": {
       "sha256": "e2a38f006a40df1dab23a8060c58324fb8ed703eb8065bf86257f76679d94025",
       "url": "a9/21/a8d513fbe44831756f4949e1b58046243476af84d3933747332bd0be4f93/mypy-boto3-fms-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "d649942be918fbd7e9304d7cab700bcd1d2a40886441c027c78cfa18ed1b38b0",
+      "url": "e2/08/66540ee29b0e3a648b5de38b8d1b8fe29ab152d6fce9f3e9d70b8c577919/mypy-boto3-fms-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "b041d2e807f8a9d87f2f63a3e89e87017fd7ecd5dc983d5a92e373651b7dd8ab",
@@ -20845,6 +20865,10 @@
     "0.1.2": {
       "sha256": "c5c6868670b7b7f9d3428c28ef5d00479ea955dfef1b2f2d1aa63a58faffed49",
       "url": "39/cc/93b51c850b555cea43e9fd1cb817bf4800c6792dfb896c75d16f56709a88/pyserialem-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "dcd7f46ab4f8b7ca09bf9c5df67b681b4e5739c9ab1ba42ac027a71bd3be4481",
+      "url": "1e/51/98d30a1e1483d7a5e754c2212d8df595ef422deb73fd789cd5692fac856c/pyserialem-0.1.3.tar.gz"
     }
   },
   "pystun": {

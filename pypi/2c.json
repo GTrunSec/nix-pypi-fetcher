@@ -4669,6 +4669,10 @@
     "0.26.3": {
       "sha256": "a2da38f1ff947733cb930fee611281db15ba2c9d674121d8eedaeef2fe840248",
       "url": "18/c2/d2478b7f6d9ab660ffd33eacccfa9b5b52445ccf59344bb2ca14b0f6eaa7/dbnd-qubole-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "8188784c298eea90496f9860de0176ec8da18418db38221f213f567286fbbf34",
+      "url": "c8/64/c441dc67eeb6f744dff6056ec3ca0213b9f8d7b613abfe2e7978c0ff6217/dbnd-qubole-0.26.4.tar.gz"
     }
   },
   "ddtrace": {
@@ -17252,6 +17256,10 @@
       "sha256": "b6ddf79a4fae75da5a6d0e74630b9e3b5299d24e0eeb3e39620b81c00f161e70",
       "url": "ba/34/be43d7e93ab88aa16bbe56a3ac37be85b5382437f9b803a278e5ecd01d86/mypy-boto3-dms-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "2001784f249811e6d1f4c7ea315c413f2e62d96d98663bb0014861aa42d7d4f9",
+      "url": "d9/f7/42096ce0cca877af49e104a6f3a40f370a91c9416a6b34e8526627f7fece/mypy-boto3-dms-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d425d0b753feffc7165aa66dd39d6bfea27cda9a40fe0f57eab33f1f65beaab8",
       "url": "70/5f/613de6a2f45fa9c7ea227b497d497138f0abb1852c6d07d043169cf652cd/mypy-boto3-dms-1.12.5.0.tar.gz"
@@ -17769,6 +17777,10 @@
     "1.12.44.0": {
       "sha256": "afe8407a8279e31f090b200a1f27ab01a809e02e11cba501aca52ef235780a40",
       "url": "de/f3/7879e84499bb0b317a844ce5d82629d9bd480bdf97541d5625c547da037b/mypy-boto3-transfer-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "92d60182501d581305d577bd5136e1ecad4c68ab22e0a65934a867a5849ac579",
+      "url": "57/45/7546c201d6599942bcd0c79abfa6fa23dd458820ad324f419682f7d38033/mypy-boto3-transfer-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "ab8b6b8044b768d630ff0a59e70967c414cfeca66fddaba2658fa57b038e96bb",
@@ -26247,6 +26259,10 @@
     "0.34.6": {
       "sha256": "4e7a0525a830129c1647f087d69fe387138ec65900fbe147a50590e5595d981e",
       "url": "ae/2b/4ce810d70b7efab31c90d8e38399cd618fccbdc9618423e9b9a5fa92af5f/ttoolly-0.34.6.tar.gz"
+    },
+    "0.34.7": {
+      "sha256": "e5a8fa12819f578f4991339574c553b58d1e83da3de78c6807f4399ca9add42f",
+      "url": "48/23/447291630ef93fe1258c75f43d5bc490afb301e489c1f19f03729a9a6a27/ttoolly-0.34.7.tar.gz"
     }
   },
   "tunl": {

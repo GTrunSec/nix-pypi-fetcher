@@ -16213,6 +16213,10 @@
     "1.8.1": {
       "sha256": "6b4e43f8cc63c66683b7ce4c4f233af80f114ba4860c1657ad20ca4e72fed651",
       "url": "65/16/16daaf3a20fdaf06f8faa55e0ac11717b67ab1c5fdcce2be78c35bc5c4f6/monasca-ui-1.8.1.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "cb3981768b25160e51ca5c9faee8ce86938a36a96a9ae02e579aa2354ef9de73",
+      "url": "41/55/3da2f14ab0b5c3a133eaadb69f373decb6c8cc4f2737423e301f422c55a3/monasca-ui-2.0.0.tar.gz"
     }
   },
   "moogsilent": {
@@ -16886,6 +16890,10 @@
       "sha256": "e65c27c511f3f77b3b1e4b81589599fc930e6a9f247547c80b8b48f37f9133fa",
       "url": "36/e6/11866e6179576faba49ca57e87278ec27fa8e7d7fc66fc06b54ca1b62d2c/mypy-boto3-apigateway-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "aff47a7ff78aa538dff621cb8bcc0238a8e99c4f6976ffd7c6523387edad5a70",
+      "url": "27/32/ad1f7d6b2b8d14f27fbd4702bab974c3aaf2cb5fb27c8f560237748ee67d/mypy-boto3-apigateway-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "6b9ec9e4ff39fe89998af3439e4b2efd55357c5f3edd5b95fcd02dd19190d710",
       "url": "a8/48/5fe79b0f6ef3d2e1e0fa4912be6d1165997dee4c2138c39fccb3f030ce9e/mypy-boto3-apigateway-1.12.5.0.tar.gz"
@@ -17399,6 +17407,10 @@
     "1.12.44.0": {
       "sha256": "c4b711c2b15bbc9b1acb48c3c668641660db653fb684024cedaba59c2397ce3b",
       "url": "58/4a/1dee3c2b14c71ec7d0ae88916749766fc70926f617007ee3a34f650a1bf1/mypy-boto3-pinpoint-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "86622388f3b6d6bd674194e7177e7d77605bb9bd8bfc0e92da9517c1d5a95715",
+      "url": "8d/d9/5ab2bc812967e29a9349abbcd695970ca63a225247d6aa238b41bceb797d/mypy-boto3-pinpoint-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "85d9a4a74f0a86579ba2cbed437966ece70ce74c7df4262dad7e0dd572749dc5",
@@ -20157,6 +20169,12 @@
       "url": "09/85/3b9928e2bfa38d4645c231dfc99c483af0a9e0da353af2cfd464645244f8/plyr-1.0.2.tar.gz"
     }
   },
+  "pngcoder": {
+    "1.1": {
+      "sha256": "7273723fbf0feecf43156bcd63dac9887e4366db19883aa7df3e9a9a6ee63077",
+      "url": "29/dd/c7225214ce864e23c5f0ca5a9315aefa5c16ae869845207191d0a8d0265f/pngcoder-1.1.tar.gz"
+    }
+  },
   "po-yayapf": {
     "0.0.2": {
       "sha256": "6242a9e3446ce63eccb5cb06c650d7a41f1b8f6e67755394b522264f7a4f76ed",
@@ -21207,6 +21225,10 @@
     "2.3.0b1.dev1587575970": {
       "sha256": "5f1140835f95c7e5fbd3ebdeec85875ffdc51c150755aa5f92f4e1b124bf5f93",
       "url": "dc/76/cccb3c1ebe8eef5ba8c5253b94b634881d78c80e053de7788f1ce3e50b73/pulp_deb-client-2.3.0b1.dev1587575970.tar.gz"
+    },
+    "2.3.0b1.dev1587662466": {
+      "sha256": "c6c0d8fe563c79727aa5fe4f4c9bae41645f7534c5195ac2f6c49f6c668dfb65",
+      "url": "84/f8/4693172de5d9040fd0248b30d8a911c021e073a2c16fc99d872d2fb28a2f/pulp_deb-client-2.3.0b1.dev1587662466.tar.gz"
     }
   },
   "puremagic": {
@@ -24519,6 +24541,10 @@
     "0.1.0": {
       "sha256": "f9ac9283a05217b80c3514d32c0eb0e9cba651745a1096809c4e5804dd1cea47",
       "url": "69/0b/8e1261b0d9106732c53a2a149d4f55e3da140f1a2d308385d428607fa341/sahara-tests-0.1.0.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "e281600265b1fbb8caae396b803928de85992c52a90808c50811cba4c21eecc2",
+      "url": "52/5c/642c1da042868669dedb60712ac20e5bc198d661676f39e2c3f3c82106da/sahara-tests-0.10.0.tar.gz"
     },
     "0.2.0": {
       "sha256": "048a1e4f94bec8f1e2d609b42a37054a05872fde90a90744982cba5d458e4d6d",

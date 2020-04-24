@@ -5243,6 +5243,10 @@
     "0.26.3": {
       "sha256": "9ca30ebb5612be46e5782fdae629d87891bc80cbeda0a9e552a2c15e592cf6da",
       "url": "38/9f/e879e8e145e4fc2f782b5d14d4bc69cf177212d8126272ce2e0af33d164d/dbnd-hdfs-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "8ecfb270600fb287075f614a3ad2e202ad7c449b523900042d21a1d15ee924a1",
+      "url": "fe/b6/79600eaee298987c3f89d0631e4d51be1d11ec03bb29b584726449c9486e/dbnd-hdfs-0.26.4.tar.gz"
     }
   },
   "deepex": {
@@ -13688,6 +13692,10 @@
       "sha256": "4c3f3f4f097cc849faa9e278298824cbc855d9ee6841d957d7b150631a6fef86",
       "url": "00/31/86f405f259264994ed03a741b05d9a1eeaadc2481b258ea1b1a27ec11332/mypy-boto3-cognito-identity-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "64733c338a0a97ea1518111187b6822237bec2e251a7002282461cb4bc3f1440",
+      "url": "f0/2a/401eb83157d0feb08b513a37c41fa99baf15562cb6ffc9adda8e6c4a7b4a/mypy-boto3-cognito-identity-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b215683d208c7b739c4466dd7b079016537d8be996d2c68f6c52a3f81c16d189",
       "url": "10/3e/9c41882b71d38b4b1305b8a31a63d41e3f2cebc05fcd19f8373fc1b0204c/mypy-boto3-cognito-identity-1.12.5.0.tar.gz"
@@ -14201,6 +14209,10 @@
     "1.12.44.0": {
       "sha256": "faca0a5c158a6b54d4620ed655bd5906cd64f8993582709b97fc97bf5e1c0554",
       "url": "74/1c/5af50eb1bbfb12b5e22181c835a8bc5b466ac2e8b67f0d088c455c241394/mypy-boto3-kafka-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "e4dbe16a63388972b4aaaef19817b00882e4bd20723d794387efc37c47d7db05",
+      "url": "70/c6/b2fbca765c175e380130b915e30b0e35cc7b02f45af4c4941c745acfbe1c/mypy-boto3-kafka-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a6d4960f1fa0599e6e2250de149fa993335a0e54ce694ce03ee53485b524d0aa",
@@ -17438,6 +17450,10 @@
       "sha256": "8575a17283079ec2095511fc2daa863e654e917ccd25b972778570af0482f317",
       "url": "f4/f9/cec0c87c492287388e1cc3de5f5e5c12ecce5de26ee68cbe17d2c967a806/pulumi_signalfx-2.1.0a1587386376.tar.gz"
     },
+    "2.1.1": {
+      "sha256": "9588e7d638b5b9ca930098ef1f9ef6e8ebd2c36f0c4f649385658bb819cb68d0",
+      "url": "83/22/b37a6e93e0c8cd85ae95863252eeda583308b9aba339dd4772adaf1f2f52/pulumi_signalfx-2.1.1.tar.gz"
+    },
     "2.2.0a1587646370": {
       "sha256": "aedd38d15251b98416f0fc8cbc1ff1d1910e88a37c8c1dabd98fb059233d06f4",
       "url": "3d/af/fb390f767d4dba2d84f056d87b39de7e4f084a2e94fbbfb215d860e1ed1e/pulumi_signalfx-2.2.0a1587646370.tar.gz"
@@ -17781,6 +17797,10 @@
     "3.2.1.20200421.2": {
       "sha256": "a80b071abc9058a1edf7ebff6628047063ee1ce311edff4782cd0dcb01ebcdc4",
       "url": "0a/81/f60cf49abf2b54e6576898b5524c2dc796ec32e3af2bd8f10ede29e10334/PyBoolector-3.2.1.20200421.2.tar.gz"
+    },
+    "3.2.1.20200423.1": {
+      "sha256": "0bbdf59efc2639195750deb915bee688c9c702ad02f18c12799acbd39d211cb7",
+      "url": "38/0d/ecf58b161dc4ddb48d928b0f050681fe0469fc3a840f52f6bcdcf41c6583/PyBoolector-3.2.1.20200423.1.tar.gz"
     }
   },
   "pybtree": {
@@ -25029,6 +25049,10 @@
     "1.3.1": {
       "sha256": "7819a8931acc5b071f5e19c62e76b93fcff49e3a88eaad8f1c30abd8711c7c24",
       "url": "74/cb/844151777ec728692b71bced33db355d6f889cf612f949325b2d2b62657c/tinytag-1.3.1.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "feee3442c3253c7747f87e3048af3a09de928da39eac2419ff24d65c2df05290",
+      "url": "fc/08/c04669f54472a49cc941819655808cde083f47b3db48e904a7c2f04fc85e/tinytag-1.4.0.tar.gz"
     }
   },
   "tipy": {
@@ -25329,6 +25353,10 @@
     "1587600281": {
       "sha256": "1807c3827f035ae057e552804eed5a8c8314152c79020835dca43ac77934007c",
       "url": "45/e5/889b8d9f3231279bdde5fc4b1819cfb66c1f8e3ed0e143286dd2a140aa3d/torchlayers-nightly-1587600281.tar.gz"
+    },
+    "1587686685": {
+      "sha256": "7e66e0aa4b91c190633e3f0a420f9a703b4395eccb4886339a3423ded7d31d22",
+      "url": "41/1c/ce595ec22b33f48ff331d3a03826191ddcb5ac7e2de93df2429a8034f264/torchlayers-nightly-1587686685.tar.gz"
     }
   },
   "toxicbuild": {

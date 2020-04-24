@@ -5621,6 +5621,10 @@
     "1.0.4": {
       "sha256": "d782b883f317968de463529df82e2a6f637bec3020009be48882bd283c308742",
       "url": "5b/68/f2f32ed812ce07b6e9123e9504f0719b2f462c2ec6c5d9819b9d3585933f/csip-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "df29b5055b9e8665a0334ba02541dca2aad64fd95413c1f6a8bfa558289ea5d5",
+      "url": "4e/8b/f8be8dea74d82460fd3223d1d9279825f2a1124588bd106356140f87d66e/csip-1.0.5.tar.gz"
     }
   },
   "csmdirsearch": {
@@ -27467,6 +27471,14 @@
     "0.0.5": {
       "sha256": "09496aa7914c469a937f5cad99e5c07e105c567efb4aafea29873a086c102e5f",
       "url": "68/6f/1f57153cd1e2f85c14f05d6cff674bdda24dea1f0ac60980d152efa53603/ubc-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "169d366d07c8b6ffd5d95c18e741fd065d6eb4f3a722eef3b19937a418c0eb09",
+      "url": "e4/a4/cf0230de4aa37503087cfe5a08caa7fb65900991f091cd5f9a5122305af0/ubc-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "dc4ee18d51862b07fea53219d1d3b7aa1243fe55383abc07f03fb7c610695fd9",
+      "url": "10/07/d94216493d039053628e0d123c51171eacc0ef1461dd94252578fc4b1212/ubc-0.0.7.tar.gz"
     }
   },
   "ugmark1": {
@@ -27733,6 +27745,10 @@
     "0.9.0a4": {
       "sha256": "45e6d2141c9206f245eb444cf1763e3e9a1255a0668f5dfc4f1264fa48a089ee",
       "url": "8d/60/acecad7aef365be98af1a41acc7871d45432be608c17a8889027bb9333a4/vemomoto_core_tools-0.9.0a4.tar.gz"
+    },
+    "0.9.0b1": {
+      "sha256": "3c13c6cb8bcd80c18f9e347afa16c770d5c45bde04f7f744f380a51f3004a65d",
+      "url": "cd/d5/a7d36a5adf05d5d4350343c48b908d45f6422d0830a0474cac6862519f1d/vemomoto_core_tools-0.9.0b1.tar.gz"
     }
   },
   "versioning": {

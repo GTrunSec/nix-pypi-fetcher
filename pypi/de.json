@@ -14716,6 +14716,10 @@
       "sha256": "e28e07d9c7bef83bc88044fcb6c4145513e5a51231050f6155d33587b6d8d5ad",
       "url": "71/3f/e452e58347e5957fd6512c14dabe4196136be95d3ae195f90a563f10bd80/mypy-boto3-rekognition-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "c6d272f4619eb990a2d71dea16d4ae3e3123810834a842629c1f1b628688bf04",
+      "url": "8c/0d/ebe0ccfabedf2fabc5fdad1a8edcc88e746fd3b0ca3f44ded6d08cc0a10a/mypy-boto3-rekognition-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b1b54d4c5179ee9aaba788770bc3019b9b85b440f1156568901decca1e79881f",
       "url": "a3/91/10334735483f76cd4fc6b3102c315974fe8b460ea6a9b6248ba0ccdc65ba/mypy-boto3-rekognition-1.12.5.0.tar.gz"
@@ -15229,6 +15233,10 @@
     "1.12.44.0": {
       "sha256": "081df9b336aa7bfb8d9b6058dc6659117e65bbbd5fa5722cb369b5fd53d5931c",
       "url": "9b/87/b19589293cf1f246e3e406a30943aa80fe4f5459066b6904218ac89c8d84/mypy-boto3-route53resolver-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "2ec565849517f594c3097170ee61d08abb10ed349104c9fde12cea8fc9ea6da9",
+      "url": "fc/30/ce6c9c1218e4b2557fa8dbd884a19bc24eb9c0e9b4f5b57bc420859cdc85/mypy-boto3-route53resolver-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "d51c44aa3a2c310bbb9a5a022bd0cd85b24741575e86b2f7ea2d6d45d19a9c1b",

@@ -13720,6 +13720,10 @@
       "sha256": "0af6b8318205af0a9c09cac42aee9b58e594eb32aafd1d32e637926110f2a75e",
       "url": "c6/a8/36f298827f511b515c6cdf8a495f4c975c54b534e31b5f0aca2f84d7a0ec/mypy-boto3-detective-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "d98a71db89804cc6eed740581b44d16c54e1d1f58f871d6ea79355c1313196a1",
+      "url": "1e/ff/b064c2b5f8e1adf267feb2a0f30ab734afea886390bab19e0a303fb3ca31/mypy-boto3-detective-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "054accf3c6adc1eb845fbeff7561b7bba4ee80f9310a839133c4de76f41be0ea",
       "url": "95/97/5d5cdb07f5e844f56892cd57e8b62dd7f6c6645b45455dad3bff0b81415e/mypy-boto3-detective-1.12.5.0.tar.gz"
@@ -14233,6 +14237,10 @@
     "1.12.44.0": {
       "sha256": "9ba92673e69bef897cc050e29bee9f27db3938e5e21e1e7826b19fa229bb1319",
       "url": "e6/e3/7cb6c5afc2630e942a4a6499a1608aac044cc887355ce6f594cc67dc09d9/mypy-boto3-iam-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "5e35456622e4637ab06fccd58f0b379c7e72f7be4066bd0db1dd250ee212a311",
+      "url": "6d/28/e0382458bcd1c033581a838f3ac57e7cf4d4255dda947042c60144928ccd/mypy-boto3-iam-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "59ccd8d263818286339cb11de3f510b28e868c82e99d185e94a23f9813c7e56e",
@@ -18976,6 +18984,10 @@
       "sha256": "4233822f06c31ede70cba33006444a0a49a546a241cd36c46f79274055c573fe",
       "url": "3e/64/009b113f806dbb0e009ae1d2b6c52e788bfe503a2cf5fb05395e45ad6131/qiskit-0.18.1.tar.gz"
     },
+    "0.18.2": {
+      "sha256": "86463d8e1c83e677d77e78f770db7df44ed4e38873933b16a4f8d941996961fd",
+      "url": "3a/15/85541c94e7fcbfbb23d6c5f66aac199c0bb09bb3e6b0d3a76969d81212fb/qiskit-0.18.2.tar.gz"
+    },
     "0.3.10": {
       "sha256": "89cd404a9121055caaf312f1eaaa72bae0fa8ea88dd8e5ebff105d8c299310f4",
       "url": "28/66/3f2b537ad01f8449f117d012bd2d2abf7d328b6825cf2307c7b4e265af89/qiskit-0.3.10.tar.gz"
@@ -22577,12 +22589,6 @@
     "3.11.27.1": {
       "sha256": "19f81ab72330cc92a63996dcd5fb6e4b919a1254508046dd9ba9efa739f903de",
       "url": "e3/cf/d927b4e79b1e1c3b957320309a27aeb34a4d425073f58dc7ac0d196e4a64/TestLazynight-3.11.27.1.tar.gz"
-    }
-  },
-  "testsimplecalculator1": {
-    "0.0.1": {
-      "sha256": "a1f6b8f5e55c37da87d6c1089cf2958ad6c0b14fed4a186aa15981dafd875651",
-      "url": "a8/66/af3ea5c59627a96dd041fef4f393abc0f79123ff8356133399ff313b30c5/TestSimpleCalculator1-0.0.1.tar.gz"
     }
   },
   "texta-tools": {

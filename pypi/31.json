@@ -3921,6 +3921,10 @@
     "0.26.3": {
       "sha256": "42494b812ab276f817c3483600d799d86b87849efd09a5c3d77d062c333df269",
       "url": "11/68/1efc587a602e619688ba9d27a62d30988976a237bddbc9235923d42f59e5/dbnd-databricks-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "1f24cd2dd9cecfc74eeb35238bfe22901f6ce6dc11efb8107411ceec8abaf351",
+      "url": "a2/c8/dd05910bc5db076a34af14cdba5ab408bc355febea95ccf163e475894e40/dbnd-databricks-0.26.4.tar.gz"
     }
   },
   "dc-django-base": {
@@ -4106,6 +4110,10 @@
     }
   },
   "designate-dashboard": {
+    "10.0.0.0rc1": {
+      "sha256": "3d9f6dd2b14e07f63e71093937eb68e0e514ed4b5b6395b89f6ca71e14efd4e1",
+      "url": "8b/90/6a95edb60f4757a353c5a8548a0fe3cda8eb98ffe4ad29930eefbb17219d/designate-dashboard-10.0.0.0rc1.tar.gz"
+    },
     "5.0.1": {
       "sha256": "7b4adf773524e1d5363cfa926051c711a6d5158f360c3425c56436abff39cbc8",
       "url": "8d/0e/a4b1e6f3b433ea055854375fd5561f058f81b8a2b71c629fdcf56af57fdf/designate-dashboard-5.0.1.tar.gz"
@@ -11959,6 +11967,10 @@
     "0.9.0": {
       "sha256": "56acbf7786b3cd7c7c3fa21cc49f020c0a92362257ee8af192500b8f3cebb252",
       "url": "42/1b/de269bbab18e2c630c08d9c205b264fadb48ef99e00788104e1b9e09cebe/monasca_transform-0.9.0.tar.gz"
+    },
+    "1.0.0.0rc1": {
+      "sha256": "b7e3a051df37851460b74a17ea9fdc318dbc65141f45213c4da4fb1d9ac95f0c",
+      "url": "13/e9/769d13588192384db8877ace4950223c37e389e54ca9b433f231c6c20544/monasca_transform-1.0.0.0rc1.tar.gz"
     }
   },
   "mongopersist": {

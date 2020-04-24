@@ -5122,6 +5122,10 @@
       "sha256": "4f1468f28edfb2c9d9c141aefae8615e1e105fb9ad8721cd99b09edcbabecada",
       "url": "30/3f/824a0a9175168e90305058f379940281d982dd5a041d4b45460a36067f71/collective.documentgenerator-3.13.tar.gz"
     },
+    "3.14": {
+      "sha256": "2c8a544072da9166d1e783ebf5ef1d65798a591e43361c20ec53b049acf53df4",
+      "url": "00/d0/e7b173c66f349d029bdb0c8479685e8f62995cec9d35cbdbe478edf85424/collective.documentgenerator-3.14.tar.gz"
+    },
     "3.2": {
       "sha256": "141091b4bfa65f55e414d68edc1b8af40b5a52a076133b0deabbf8c2069e5a52",
       "url": "4b/e4/b42d0369cafe21763f6b96494ab76e92fd03d132b2267a293c49e080cd9b/collective.documentgenerator-3.2.tar.gz"
@@ -17994,6 +17998,10 @@
       "sha256": "4e686f0ffacb7dce649cf2ae9ceb50f5a8c9f0068f186d69075c2404214215e8",
       "url": "be/52/88e5ef47752ccf0aca88f014416727f9794878e76bd3fe4337cac43defb3/mypy-boto3-mediaconnect-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "19d4bf3849a4d59b4675102ac74a685fc2c04a74eda404971046846721037a81",
+      "url": "32/96/efdbcae9e9be7da60a50449095e2a85f89cbdc3d908fd5bd98cdc689e8fa/mypy-boto3-mediaconnect-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "820783629c7c5cb2cb40a4451d49090cbc6ab739a72021dcff7d13489431eb6b",
       "url": "5c/2d/adb323ec67e120a8e1138419e8952a847f999fda523f00cb90a044096134/mypy-boto3-mediaconnect-1.12.5.0.tar.gz"
@@ -18443,6 +18451,10 @@
     "1.12.44.0": {
       "sha256": "0652e48451f2194f595f9d822c4c2bb0405adcc9c1dee2cca03bbd4b4fce1bcb",
       "url": "cb/14/02c5d314e6a255b6a790568b1ff1c3c930f89ce38d421583b76fc0f07999/mypy-boto3-sso-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "4590f2fdea64e3456b8877f50c75af6dc7b8e4e4078c25c112ee3f0def85fa09",
+      "url": "b0/99/b1fbd301b7aa1bcdfb22e5da9e3d7e79b5e82152b9f9f6022c2382f86542/mypy-boto3-sso-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9326354bb633eca129650ec82c78f61df92fd93d048504c5a186b1b8edd10618",
@@ -22477,6 +22489,10 @@
     "0.2.0b1.dev1587496612": {
       "sha256": "7ab0f2e15057bb75a5f26b51ca73607ae3976ea9c5ba145b89ecd67479c6c75c",
       "url": "b8/d0/65419985d8e8171d640e4fca14e3af63fe77b37f6c5d843bb3076491682a/pulp_maven-client-0.2.0b1.dev1587496612.tar.gz"
+    },
+    "0.2.0b1.dev1587669401": {
+      "sha256": "45727f44c443dc2ad47457a5b0529963e5bb7c210ea912e10f15cd101888cf30",
+      "url": "81/c7/37aa492ca50cc2a2ec24a9a9c851ccde59327484c056ef2e9e2ebe36f258/pulp_maven-client-0.2.0b1.dev1587669401.tar.gz"
     }
   },
   "putiosync": {
@@ -26843,6 +26859,10 @@
     "0.0.5": {
       "sha256": "a4d203c2a681a49b4c5ef143a714b3f0c63350ad9fdb2ba32488582db51c2f1a",
       "url": "34/36/a285b63d184dd91ed240bf953ee00bfc492f8e48d042ef242f2f5baecd14/ruppell-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "4b2c1a0c15262b500aeea025d453c4dd9260100a971ffa8a04cb3858269ed3b9",
+      "url": "ab/12/0cb2b242f9f8358a2202d59346ef1e7ec3bfaea2e24505ea4896e7fe1092/ruppell-0.0.6.tar.gz"
     }
   },
   "s3-streaming": {
@@ -27077,6 +27097,10 @@
     "0.51.1": {
       "sha256": "3d35b13e3aa4ba5b69535a5334ce24401a7c64cdada2ccfd9b8ddbddd4951e55",
       "url": "61/0f/2fc9a4d741b4d7d6662e34ba78400564bce485d29745df012f8e5c7aa0db/sakia-0.51.1.tar.gz"
+    },
+    "0.52.0": {
+      "sha256": "91cab57409bbbf936e144a3b6f447b8ee0c5f80f22d1bd38bfedeb628f71bfee",
+      "url": "2d/20/c62e3024b993cc9a7b5493e1853fc1d68e790c2d789897c2046ab3dce20e/sakia-0.52.0.tar.gz"
     }
   },
   "sbml-vis": {

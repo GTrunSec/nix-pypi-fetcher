@@ -14046,6 +14046,10 @@
       "sha256": "dff02f7f5ae45d0d7f0dec37ed76cfb91a400ff02c9c70103ea155a3d4d378a3",
       "url": "a9/f6/c2d62800e75c401b0a18ecc34a59416cc55988d83a5477b339ab462782d3/mypy-boto3-eks-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "cd40eb068960db0ee962f6981c2b4ac282dcbeae887a297c9e9f87fcfdf162d0",
+      "url": "b6/ed/67b71d6ca95a5deaa8edf04554d1849861c09158a10a18002077c946ce96/mypy-boto3-eks-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "f2c749d955a17d41ebb61a28506e256cd5235b3b9da1089f1e273aedc133e3a0",
       "url": "a8/71/78ba9726d46644d0b4193517bb8206a3d97dfcdd8a74de7cae35197e433a/mypy-boto3-eks-1.12.5.0.tar.gz"
@@ -16481,6 +16485,10 @@
     "1.5": {
       "sha256": "446ce773a552a2cb90065d4aa645e16fa7494369b5f0d199e4d41a992a98204d",
       "url": "9a/7a/6c53215e544c3732b19f0fbde476639ff37a9618fca8f134055246aaaba9/pydantic-1.5.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "f0018613c7a0d19df3240c2a913849786f21b6539b9f23d85ce4067489dfacfa",
+      "url": "97/24/f8e05f16433b3b5332b3e2cf9b4625692c09432c7a18aa1d735fecb80904/pydantic-1.5.1.tar.gz"
     }
   },
   "pydap.wsgi.ssf": {

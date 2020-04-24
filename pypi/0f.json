@@ -9612,6 +9612,10 @@
       "sha256": "faffea0fd8ec86bb146ac538ac350ed0c73908326426d387eded0bcc9d077522",
       "url": "c9/ef/0ce93e7a448c2d5173ebc8fd9fbbe47bccf28399c81d907afe7f53fe1e91/identify-1.4.14.tar.gz"
     },
+    "1.4.15": {
+      "sha256": "23c18d97bb50e05be1a54917ee45cc61d57cb96aedc06aabb2b02331edf0dbf0",
+      "url": "13/1f/b3b54c63b24aea84bc70c4fbab80f61f93384517bb867831e643402d0bbf/identify-1.4.15.tar.gz"
+    },
     "1.4.2": {
       "sha256": "443f419ca6160773cbaf22dbb302b1e436a386f23129dbb5482b68a147c2eca9",
       "url": "ba/45/fad2b54bd485944332a7e4ca8c602d56fad9cc43380d8330dc7e4260c848/identify-1.4.2.tar.gz"
@@ -10108,6 +10112,10 @@
       "sha256": "2bb8b00b5e6ddf6429908f92c70a8712310d6731b24d6f98d9fa1d452f91c472",
       "url": "b6/24/84968365c8c0b93c5df1820f63b2ee5ce6811b93fd29636a5890391620ef/insights-core-3.0.160.tar.gz"
     },
+    "3.0.161": {
+      "sha256": "19ff98af46816879e59d4bfc1fd91f22f2df412977c8209ac897dd1317bf051d",
+      "url": "2e/45/ee23af3d6c8878269a02454de6ed2272e86dc31aa142143d8e8263bf41aa/insights-core-3.0.161.tar.gz"
+    },
     "3.0.23": {
       "sha256": "d1a1f636575ebe8f386217e9a253de3c715015f42ac8139431bf3cc07b117676",
       "url": "1c/21/05af83afda586c909f6d5a220f348087375ebd3231dd05533f352342ffd3/insights-core-3.0.23.tar.gz"
@@ -10507,6 +10515,10 @@
     "3.0.14": {
       "sha256": "48acc4bf958d8c0bf9f2ba5dde0b04a3c0f1e29519dc371ba5005b8282467d15",
       "url": "44/17/584d906d4fbb3bad5722c8b38891e49e40efcd8f359246c8075c26e43d88/iotile-build-3.0.14.tar.gz"
+    },
+    "3.0.15": {
+      "sha256": "0b172240acff48ac62a2930f5edb1dc0b55c555e063a5ed1ab0678c065f0ed57",
+      "url": "d8/5b/bb21180539cbb53b8db993e881cab6da346fc957e96eefcef28e7e311e91/iotile-build-3.0.15.tar.gz"
     },
     "3.0.2": {
       "sha256": "789c305baabf1fb7a4bece3f5043a1e2b18a66c60f191fe969ef0d90b5d3771c",
@@ -14005,6 +14017,14 @@
     "0.5.0": {
       "sha256": "e7307476e5805fd4ddeb613da4310909a90875b1bb54eca117feda9f4427593e",
       "url": "f4/e0/c8062dd75f3c6155cae8259873615d7ec544f1484e750a2dc6e26bd2bf3c/nojava-ipmi-kvm-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "1f8d322dd4c31c8a05ac7dff36ccd4144ddfce50c932fc41548603688adf240e",
+      "url": "4a/28/63b7b5c956b53ec4ef3536ea9e14613801286f590a925f4d66dbf0fb23a2/nojava-ipmi-kvm-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "8637a9e477246c0bba02b38888925f2244a4916233a1eee152a575a96556bd41",
+      "url": "90/83/3b3df8fdaea28de1f3dfb2d7480da00a13edef9de37ec2c395a3339b5803/nojava-ipmi-kvm-0.6.1.tar.gz"
     }
   },
   "nudged": {
@@ -21629,6 +21649,10 @@
     "0.2.4": {
       "sha256": "15ef0a69219f34a70206eb922d74dc35d6efa9d6cf701c7e02870f538f725d51",
       "url": "4e/33/e971eb69cfd0e9c44c4d453c0f29518287fa7f9ab5b00afa4b409cd0f7fa/td-ameritrade-python-api-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "2258f9acf0494cdbe118ece18d47d88cccf05888c426b7f3d4e1f4faddcfeb70",
+      "url": "c2/07/27a7da5afc49d726b6a67fd5f07dac6b137abcd2120d2be0b54979a660b6/td-ameritrade-python-api-0.2.5.tar.gz"
     }
   },
   "tdexapi": {

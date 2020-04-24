@@ -11109,6 +11109,10 @@
     "0.5.0": {
       "sha256": "4e5a20fd4bd09f2c1f5db2b431633999932785f76b3b41b8bffba91685a6130b",
       "url": "9d/32/387d2857d4f93b6fa1605f88fc138090bdbb636ee30abd6e061a3e9e4ac2/hyper-kube-config-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "a5974204409d7d344ec21de727391af2696f37d4a015a8f079b196a8f2096b10",
+      "url": "b3/1f/6816b146d96229a17472d98d7b2727632413e40e4485b13700f32d96bbac/hyper-kube-config-0.5.1.tar.gz"
     }
   },
   "hypothesis-ros": {
@@ -13159,6 +13163,10 @@
     "0.2.4": {
       "sha256": "5759066cbcabed6153ebd6220f07b4837891ef14c7c6f1d5b3cbe06f9ba383fa",
       "url": "5a/4a/89a6ec624b43082953f08cc88ed4e70079c9b15018bdbfa608812cd0b19e/kimai-python-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "b3ecfacda84d2791c8baa8bf10cb0b4a616d7e9ca3c67aeb57953fea0220b3e4",
+      "url": "c7/2a/b5c24e2558375475630ad9edaa3fc84ac67859f76df033f080643931a801/kimai-python-0.2.5.tar.gz"
     }
   },
   "kitconcept.voltodemo": {
@@ -13705,6 +13713,10 @@
     "0.0.5.post2": {
       "sha256": "22651114ccac00474d8012923d159d71dcd865d20dee194e9c3dfcc4aa3c6f7a",
       "url": "e9/85/7fe337ae613705b6503b1ee2e90e8bde0470421beb170cbe8df048096d85/libcolgraph-0.0.5.post2.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "24f7c2456f3c10cd2faaae099aea59b87c7ce3eecc4a08c06bcbd4f1906037d1",
+      "url": "2a/64/abc6dc635217f916669fd6135906e2e691d1e8b38ce75df2ca47f041cc22/libcolgraph-0.0.6.tar.gz"
     }
   },
   "libpolarbytebot": {
@@ -15909,6 +15921,10 @@
     "1.12.44.0": {
       "sha256": "70483e055d8e33843e9406fbeaa574df93f7692b4314c54e3e6826e9879e0a70",
       "url": "7f/8a/a30693247349eb2549c842bad99871528be1c6ee41d1364e61e3cfb3da12/mypy-boto3-neptune-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "778c168818e44521a1f3baf74c0acfd6cc6c75f5b72bf10f05d104951187a78f",
+      "url": "36/9c/179aa7304470ae1500e19f407c2c27bc75d0476a0a7f97dd2c1bf09dc5a2/mypy-boto3-neptune-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a16015e737f6835cacfa9e60fc60ddbaf56b08889994d74b1d1ccf479a6ad7d1",
@@ -23622,6 +23638,10 @@
       "sha256": "ed85102a27ef37036ead86e37c706645d62d4b6c4b98bbbf4b8d76e40e1e8078",
       "url": "e8/be/db6486d3043e697fedd185f67b3bebbd136bf6779d762549bda55ddaa8a1/sahara-dashboard-11.0.0.0rc1.tar.gz"
     },
+    "12.0.0.0rc1": {
+      "sha256": "823b1d4ba20304e2f2abfa0a4bc76bb019736a06c37e8e783197a71804b5c1f9",
+      "url": "be/34/f222c030b0ea3777160a7ba81505a86aaab43d88e3ad570fc3dc3f09b8b8/sahara-dashboard-12.0.0.0rc1.tar.gz"
+    },
     "4.0.0": {
       "sha256": "ef3eba107a24d52274d645951010a59203a5b7d7b8fc3f93815de16b4b41f373",
       "url": "a8/e6/7257187c042b53abe73308a7ecc1b8060043d1f1c734177ee3e251a944b9/sahara-dashboard-4.0.0.tar.gz"
@@ -26687,6 +26707,12 @@
     "0.1.0": {
       "sha256": "5e26c4ad8f8a2168494ade312a732425d60007a48ae20ae4f0d3f2748f43734a",
       "url": "83/c8/6fcc2eb88131cb9f4845996e421c95ec1331979e76594ff8d731126bb8b0/vmjuggler-0.1.0.tar.gz"
+    }
+  },
+  "vsc-tools-lib-gjbex": {
+    "0.9": {
+      "sha256": "b4e763ff47a4b10bd11951b66b190aa413ddf7fc32306c9dc4109f5aafe46504",
+      "url": "19/cf/2acc4a4d602be7eaf99f82fd9ad4a08566ec922e463d8ceb102932299ed8/vsc-tools-lib-gjbex-0.9.tar.gz"
     }
   },
   "wagtail-nesting-box": {

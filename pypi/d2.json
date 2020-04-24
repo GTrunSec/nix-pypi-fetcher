@@ -1453,6 +1453,14 @@
     "0.1.0a2": {
       "sha256": "bcaca2df9d3a28a1c78d97a445343aa8b383967f10cc2181bf8672dffd438ab3",
       "url": "32/79/23f2a2ed5cbe152d1f2283a08d322a31f7e03da41a655678019f2e648a6c/arcade_gui-0.1.0a2.tar.gz"
+    },
+    "0.1.0a3": {
+      "sha256": "8e896766cff89a18da7ef0545ae6924db23d15045e18a702f3bf3f2e7046b329",
+      "url": "04/04/5bb247ceb139cdb749e1d3cc7fbf04a36ec184db5ea5a9fe61709f215471/arcade_gui-0.1.0a3.tar.gz"
+    },
+    "0.1.0a4": {
+      "sha256": "3a03a3eb8cae4b43858e219ee2b9fbefe338e6279480eb1f5543584a3b031e3e",
+      "url": "c0/9c/fc6f89b3553e84c37f72e8b13b95e4dfe8e09dce0f67f496de994564ca3a/arcade_gui-0.1.0a4.tar.gz"
     }
   },
   "ari": {
@@ -10077,6 +10085,10 @@
     "0.1.49": {
       "sha256": "072791e74e898df2cf46c39d6d28aaf001472ae29ba7ee82b60d55dc2de3f830",
       "url": "ef/3f/683ab795ee6a06e4dc200624e53474a3c2f361e351617461a7a65607b417/imjoy-elfinder-0.1.49.tar.gz"
+    },
+    "0.1.50": {
+      "sha256": "6fb32f45e2e2666852e0715f411d67a09dd13d4bb0da47682ccd78bea1f5128b",
+      "url": "da/cd/e7855185ad8e576f1dfa518e849e5ba161f58f66daa9e620c9324a6d3d18/imjoy-elfinder-0.1.50.tar.gz"
     }
   },
   "import-expression": {
@@ -10677,6 +10689,10 @@
     "2.0.0": {
       "sha256": "dff65981297751a392149edc8f676fe4b5e9a6d2a98f806add7ae935f3903487",
       "url": "20/dc/8cc5f29dfb961f02a1678cf324aa2848812a3c24f07a297380dc6b9da68e/khoros-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "25be45dd37c235ec74610f227ef5b4ec54d16dea16be1cf1bc98151fa70c2b3d",
+      "url": "89/97/fdd2878ceeb3ae35c642494461a52ceecd1cd8f4a39e02688663404a6de8/khoros-2.1.0.tar.gz"
     }
   },
   "kickscore": {
@@ -12847,6 +12863,12 @@
     "1.4.1": {
       "sha256": "d399a3fc0dcd512b11d76d3095bc44728231bc5b929997358df7382f8b9318e7",
       "url": "8f/b2/a9de843ea81703a76bc94ed0cea2693a6f2783c8e3714b0f1bd218dbe29d/monashspa-1.4.1.tar.gz"
+    }
+  },
+  "monetdbe": {
+    "0.1": {
+      "sha256": "044b6274ef36d90372b3172f93b93f266475fea386ca2c31c731808bc739b643",
+      "url": "23/3e/77c35bd823ea9c7f7a17de95cf2dfda67b6d99065c72e2fb077ba11b51b8/monetdbe-0.1.tar.gz"
     }
   },
   "mongoengine-extras": {
@@ -18575,6 +18597,10 @@
     "1.0.9": {
       "sha256": "41b73ebb3d680f66b6044cff7b5f764c3ad0213a562b8b479f40b574ea01f734",
       "url": "87/64/7d43540b65538ee0c25ab8785baccbcbc5c233340f106d34a189b691f334/perfectoactions-1.0.9.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "41f8b00ee56a7a364014a7daec5f88ab6c415d6a98c0b7fea3f51e41cd92e5a0",
+      "url": "8d/48/0ce47be73c632f0ae98eb9f932c408e9e4be1e2a6b114c8e533708ec3033/perfectoactions-2.0.0.tar.gz"
     }
   },
   "personalcapital": {

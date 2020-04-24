@@ -1147,6 +1147,96 @@
       "url": "0c/fe/715024a49a42d1fa26d2b7194277358ba6e89246e51bf288527e39e6d37c/appdeps-1.1.0.tar.gz"
     }
   },
+  "appy": {
+    "0.8.2": {
+      "sha256": "88713c9547610aa3191d018b0555171ec7bae9b558655a3c1ccc6b3f13b797a3",
+      "url": "15/38/2924527ac65c11c75d7bea65c5c1d1b19fad48bc4017c0e086a65ada5b8e/appy-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "96b2700b88f0286c17d1a51542e98a6ee8a794c8a4404c25a88c471fd9ffc45c",
+      "url": "a4/8b/2c1319f11492ddd25986b0364e35a0afef736e51e1c6096048c92313a9e3/appy-0.8.3.tar.gz"
+    },
+    "0.8.4": {
+      "sha256": "56e7ef197ea483d64a42ae7083d9f491946e0482ad667c1b6895c7cde5afb0e4",
+      "url": "e3/d1/1644535a5fc6c7c0e7abd62af6ea68d1bc414ee86666156f1059bf3a9ac3/appy-0.8.4.tar.gz"
+    },
+    "0.8.5": {
+      "sha256": "8aa2d7a807ce76fb4377a4428c2d3311d4ff4c4298675c5427c9503bba3f814c",
+      "url": "e3/87/ee4f118652f833e92931fcdb69b7988cec6ceb477700c3d7f3ca65c004d1/appy-0.8.5.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "17cdac82ebd911764f16cd28ec874714aa130920142cb2f994cc52810dc5c115",
+      "url": "e8/c6/d5eaf12236a2f7dbeac1a75337017c2de8622b760ffc0509cde2841d38e0/appy-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "d29e764ace24147332fa5c70b6df6a33fe46fe579d939c1e442d6ea0b6afdfcd",
+      "url": "3a/6f/4be596f56c7f578d43e256f921927ad97a2059a61567b72b618d9ea6985c/appy-0.9.1.tar.gz"
+    },
+    "0.9.10": {
+      "sha256": "a6114e3b9845f4ac9158620b286ae8fa855e8e7a256ea1ad853ed02dcec05277",
+      "url": "78/0e/18227139efeec06690a334ac13acf99acc45433eca989cc5d643e5de4759/appy-0.9.10.tar.gz"
+    },
+    "0.9.11": {
+      "sha256": "5dc6f3e73886b43b49a132a3c47fcb7ddc29f9d231b7828a26d32f54bdca7b4b",
+      "url": "b6/7b/e7ed7fc8d598bef39eed995898a7647ce7194dc54369a30399516c85a316/appy-0.9.11.tar.gz"
+    },
+    "0.9.12": {
+      "sha256": "40ee13794d3608a9e42aafacb3f01cbca645f7d081c35ca97bd442c6c36e29ef",
+      "url": "70/14/c2154a0e9f1c5b90632dc0c03e7d123fab8310c25d8e1252e957794e610e/appy-0.9.12.tar.gz"
+    },
+    "0.9.13": {
+      "sha256": "e2787c8fcd0b3c0d05c6c4ad63509fe6c3064edf2af09b36225c0578772870c5",
+      "url": "fe/c3/ddf2d7c3332ecb2ec4c450b803192dcc810766b52523cb90f0cf6876ddc9/appy-0.9.13.tar.gz"
+    },
+    "0.9.14": {
+      "sha256": "6ed3a5256771c5a3a09d8c16245aad19d2d68de2e2724141b87c689ffec3a3cc",
+      "url": "e8/73/dd118fbdb2951b7257261bf7e74cf342ce1688349ce8d645280991336a25/appy-0.9.14.tar.gz"
+    },
+    "0.9.15": {
+      "sha256": "d7b4b15af2f69469c5e126e6ceed35cad3ef18592db9f51224490f8a08c4a47e",
+      "url": "8a/90/71df452da20170643989b9e2aa6fa69b18d67c083d1e4db2f538a3a21e79/appy-0.9.15.tar.gz"
+    },
+    "0.9.16": {
+      "sha256": "ccb4969c15aa85fe3b9811db06ee79bcb970e9af0fddee5f09fe1879419d726d",
+      "url": "cf/16/7591b0dac20eda08843df2339543d0299a8f328073b3c2da367efa026400/appy-0.9.16.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "db5fc70b5b7cfc7141bd3b93070114810e32b0e472d5de620a7435d15886a3a4",
+      "url": "ae/5a/81a36f681e0818d3e3b1be61d653bbf72013f4927f904aafd3f1221e75df/appy-0.9.2.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "869c371bd1fef5a4d017781215414c87a2fce1f7f934082687e4fc99d895e958",
+      "url": "b2/2d/f1d99867a1ec33c7ae3e8547ee1eff3091146c843394212e7502806d677a/appy-0.9.3.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "2d6258c9b86a9c501107c5ac45fcc747e6f1feb8a2edee442cc21bfd5b232857",
+      "url": "b2/76/89a2b5c900abd029d7b44e8488602d34d74c0289aa40b7eeac0b29e6f783/appy-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "2d52827e871cbafa124fe1d57213b14500040d1760a895ddb87bc6e2660d0a05",
+      "url": "62/d5/f1ec8973a7aab41feee0e62a0cf08c7fd528707670e3d94fc949d944becd/appy-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "7c6d10c68ff5c41416eb19a14c2f37a4da30156ddd4ce0beb3c43a83041f4459",
+      "url": "a3/ef/2d163cafb55a802f1b0ed054abd62d47d40f1fe2447f7c15efe5a8986bf5/appy-0.9.6.tar.gz"
+    },
+    "0.9.7": {
+      "sha256": "53efa0b0d2a7f2bb9bdf0e4a6ac71638ada5ad6c8bb6a3cbab50dc53bc0a7293",
+      "url": "a7/e0/a65bc39df9234abdf7527d929ae627018f35a0f78f65ac10b633cdf1ca4f/appy-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "e5ce911a9a7b696c37da67073f287365081d4805f6d64def0404ce29768dd550",
+      "url": "7e/6b/54577416c31661ee45a0a8e31ed9f8b8e83493484224c4e91cdc635469bb/appy-0.9.8.tar.gz"
+    },
+    "0.9.9": {
+      "sha256": "132ebec9790c1f8f8a6562021319967f68149c9de5e0a1bcde59726104f6ed08",
+      "url": "b9/df/557c3acc1fd43258cc0ddd9fd2f3ceafacb9ca16b6c9b91092328066315d/appy-0.9.9.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "745ca9e566660aaa9275f5025fb944292b49cbeace4070aa20f54758494d0861",
+      "url": "0c/41/2992693c729fcd245beec8eb686a0bf15d54bae08c8f828d87afe92a786a/appy-1.0.2.tar.gz"
+    }
+  },
   "archetypes.schemaextender": {
     "1.0": {
       "sha256": "8f95090744b3fc4fe86702d76f86397611651eebffc3979d53c83fb2fff7177a",
@@ -7885,6 +7975,10 @@
     "0.4": {
       "sha256": "c87b694d848adeea37a78a516e5939a7a3b4a1f4df6bf5529cafbec9ab27ba34",
       "url": "b1/8f/f5bd52771cf118681bcf52feaaf5e3f0a4a1ad6058eefb42ec8889e8cd56/django-polls02-0.4.tar.gz"
+    },
+    "0.6": {
+      "sha256": "353cdcaaed17b8284baa8a9de71a1bbe5e06bc2a5671efef66aaf2c7ed86ac62",
+      "url": "ca/ac/917946a24fff8ea3489400b0478cf723f38c2f08bfb58b983d348d473741/django-polls02-0.6.tar.gz"
     }
   },
   "django-processedfilefield": {
@@ -9915,6 +10009,24 @@
       "url": "c2/2e/27136616836b6f2f471d87991b3d4555f92b12e6ad472f34310efd1f1d99/flutes-0.2.0.post0.tar.gz"
     }
   },
+  "fprettify": {
+    "0.3.1": {
+      "sha256": "8a6452fad3ee4520cefe936cfadb762fe9e53aabead7896889eac4fedf173cc3",
+      "url": "08/9f/ac5475e675ae8f15327f7b3edf435bf3d3a216b971f8347895fb961e36df/fprettify-0.3.1.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "0b68d8e85ddb49be8e1580f6de4ada4dc65b71e11fea611eecd77f3154868154",
+      "url": "30/b6/730b808098b66cfdd7363add63eb824a04a0ac511fe4892e2af55560ae4c/fprettify-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "a5a8741f9e732ced9f5a326a880f4005501a732578322bba1a541db64e165533",
+      "url": "f3/2d/0441a4220acb4657ae9f23d1964eebf27bd2bf7a64b873e2e18bf2a73e7c/fprettify-0.3.4.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "5ee954763eba2bc54ee7444c1f592944f1c1933223bb0c07957d60d44f7f0b75",
+      "url": "22/bc/28a0c7414d65b3200b4d793e0f7e4319902f6f083d850c025b73b563e00d/fprettify-0.3.6.tar.gz"
+    }
+  },
   "ftapi": {
     "1.1": {
       "sha256": "6f45b7b91029de373f2a881d375a9843c41f4bd11a44d9de9e2264f982c856d2",
@@ -11633,6 +11745,20 @@
     "0.0.1": {
       "sha256": "4d7f4809ac2ef42d9a035ad31ca35c122f3db74c5f5332310fd8b0f54ad00fda",
       "url": "a1/2d/f91298037f17c8130751d766a990681647708b995c303aaf35a12ad427f6/helloworld-serhii73-0.0.1.tar.gz"
+    }
+  },
+  "helpertools": {
+    "0.0.0": {
+      "sha256": "051f662cc752ad69b6c9b92c7ac986d248ef054da09e80c58a10f3821beab209",
+      "url": "29/57/2798c5c231a2fa251e6bd414f257aea68857df3c52c9165bdaf608dc526e/helpertools-0.0.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "6f6f2facd80726ead2d524e65898d92c9a9d3b0a4596a41cd1008076419a6ab3",
+      "url": "72/1e/8a945a401df1b2248a4cd3768b38e618c68b4a45f2a69963ac60a02a0395/helpertools-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "5f6f86179d384330bc0caeccf5194f708172df272d96fcceb8136c0f4d8c21d2",
+      "url": "38/0f/c7e341482c6fc57dbd94c56f70375c88c2a9f10dd38e5bc364ca3de93c95/helpertools-1.0.1.tar.gz"
     }
   },
   "hibachi": {
@@ -15773,6 +15899,10 @@
     "2.5.0": {
       "sha256": "1accf34d9d131d06f9ef8d833203f8a68ed16b72dc6e203e8d660fa281517738",
       "url": "30/3d/f32356b13ac552face3ffcc22eb5228847905eaed91b09bb41163c2665f7/ocrd_utils-2.5.0.tar.gz"
+    },
+    "2.5.1": {
+      "sha256": "f0ed99ce538ca2717f74f1b2bf08c36e16bb04d8787fd7ce6d0038d18dd570e3",
+      "url": "26/0a/1c4b26c7eb0ebe57b74e1817aea35db4517d78536004b8973c0637a8f78f/ocrd_utils-2.5.1.tar.gz"
     }
   },
   "okta-jwt": {
@@ -18077,6 +18207,10 @@
     "0.1.1": {
       "sha256": "b40677ece49f05693438c5c73e8e858fb5dfee49777cc6cd2dd875585c7d8eb3",
       "url": "1d/b2/e1fdc17590efb8f88fc1cdc3b406c159f3ee7760d2b7ca2e06222a2fe85c/pydbml-0.1.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "d3ce2cc523f4280bcce78b6915166481029e1b6af7529096cd81c44cba2c35ed",
+      "url": "2a/78/b0aff14cb4c3943557357c351665ddd588443366d2ad596485e49b2daa7f/pydbml-0.2.tar.gz"
     }
   },
   "pydetector-bblfsh": {
@@ -18911,6 +19045,212 @@
     "0.0.1": {
       "sha256": "7796c5574aa40ce616b2a069d144d4873cfd580ce2649877f81713ca90b77b82",
       "url": "de/6c/5a33351598582ee0237c9aeb19779103379351fe81e89411d67cd8ae8856/pymlslecture-0.0.1.tar.gz"
+    }
+  },
+  "pymod2pkg": {
+    "0.10.0": {
+      "sha256": "d4f1c19c766e2d5c3e0a0c659c187682fb9cc04a68807baaea53dfcf92d35b2a",
+      "url": "74/bf/17e42c5515ec29bb4e16fa71e096b5bf0a6c4e3ba96707b4374611da7f99/pymod2pkg-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "046a7fc582c6ece99aa89de2bcfff1d9467fa431c26d5a5d05e82dc85650ef34",
+      "url": "71/52/cea71756159dcc90d38c1dac2e4d4dbc754e608d8de1f50cb301cd2280a3/pymod2pkg-0.10.1.tar.gz"
+    },
+    "0.10.2": {
+      "sha256": "d647d1795af262dda0bde93f32dee1c1f1ffe78b45e531359c5c53287357aa93",
+      "url": "45/bd/d8c889eeca3e1ac73bc1a6c132e16111cbdfcea380ceb587398dc685a747/pymod2pkg-0.10.2.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "cd8ca1acf97792a2df30d6d07b6e3860b7164b329bb5a097ca98b2fce7e7b70b",
+      "url": "33/a1/4d37cc9fb2d34d762b849636ed2c90a439f3a313d620165471524aba12c5/pymod2pkg-0.11.0.tar.gz"
+    },
+    "0.12.0": {
+      "sha256": "6bca5539a9240b2d7f1a2d0039923b924658528a371b3d0c8a72d8b39cd34f52",
+      "url": "9a/9a/fb3bc079b77b5bb6eec2bd587ae6b9fde0f13e0ce71020a23eb9736481c5/pymod2pkg-0.12.0.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "204c9f1ea09a991c5fead9b01bbc1e032eec1c42cd626be3e301dcaa5c76aeb6",
+      "url": "ce/ad/c8035e50e84049ee554f58bdde281673c4bae2745599b213437c84b47ada/pymod2pkg-0.13.0.tar.gz"
+    },
+    "0.13.1": {
+      "sha256": "69ee2421c295384b7146a7f74c0efd2f79d930b40b4de9590763d8263d548e07",
+      "url": "96/32/fda353c0b9fb13625ccfb4c81028f0f1216107beef85ed7e403e3e85c070/pymod2pkg-0.13.1.tar.gz"
+    },
+    "0.13.2": {
+      "sha256": "5fd2e7bab1b65c502e926666eee97816f8a540b5af2dc6a46888343d27f04238",
+      "url": "45/b1/1f303f67206039970573d7e7997715458a11bf72613a7d7d029be7ee9ec1/pymod2pkg-0.13.2.tar.gz"
+    },
+    "0.13.3": {
+      "sha256": "811f7161c0e310c6b4ce6a207733305ffc13f73b9f791800616c2c2d7ee3c216",
+      "url": "64/17/5e6866da721c652172b2e0ad6323960215b74e74798159964065c91ba4ce/pymod2pkg-0.13.3.tar.gz"
+    },
+    "0.14.0": {
+      "sha256": "930ab4d62102aca36202fda3380b42867085e762425857fcb668de697b454fc8",
+      "url": "75/c0/95b47d0204577289419a8a2e142f8cd51abe18afe4ee2a4121028c6ffc55/pymod2pkg-0.14.0.tar.gz"
+    },
+    "0.15.0": {
+      "sha256": "c78cde91e00c2172ae265d7092306b685cdc201840fc98ac45ca4883897ac0a2",
+      "url": "60/fe/2b5e576a56028d424d604c1e6ab0a8776b24979d7e8504d52e3899641c51/pymod2pkg-0.15.0.tar.gz"
+    },
+    "0.16.0": {
+      "sha256": "673d76b0322774b4d3860524aed1d8eabc2a5e5f7e59f901bb0a0870fa6ad1b7",
+      "url": "f5/5f/86a93e1100c0758139d074bf3c23ab75f6123dbc19a99554a991a6b65af6/pymod2pkg-0.16.0.tar.gz"
+    },
+    "0.17.0": {
+      "sha256": "bfc7dffacc25c6e8919c79f6972aa305a24013c0ce19f42bd26ecfbf80f5af0e",
+      "url": "93/1a/5fc7f9c192196db1ea0d0db5388b2fcd8fef348c6d4b4d884b2e5687f246/pymod2pkg-0.17.0.tar.gz"
+    },
+    "0.17.1": {
+      "sha256": "939837a8fbb08af59d60a0e6d377d228be5dd7afe563d8664ab19b9e13138d9f",
+      "url": "5d/c0/5dd31afd08722bf8a754519845ff8d53daae370b7e3b66ebe33215f844a1/pymod2pkg-0.17.1.tar.gz"
+    },
+    "0.17.2": {
+      "sha256": "0c7fb57c50f2be284771281bebf70bb15e93f4a04e621068f74e5f96ec47da54",
+      "url": "ac/ae/52db0cba611ada30d9195b87ae79634ccbc2fdd95fd252868ba4f148d0c9/pymod2pkg-0.17.2.tar.gz"
+    },
+    "0.18.0": {
+      "sha256": "37df878185870a22e63fd0bc5fcd96cbba603e4c93181468f9bd8141801791ed",
+      "url": "57/af/adda90be909e14e629ec651a2bf003e0c06250089956706c4c9e9b1d3417/pymod2pkg-0.18.0.tar.gz"
+    },
+    "0.19.0": {
+      "sha256": "028c121af4660216f8872440eaf3377d398e41cff3d136cf0698a36fc3e3f014",
+      "url": "44/0f/6a70ef49dbf9703ffbcfefe6f7aa038fcbc59479f2d5dfca2882baeb2fcd/pymod2pkg-0.19.0.tar.gz"
+    },
+    "0.2": {
+      "sha256": "612049f5a8aa16661ce8f4ccf7c9281591b1fb179237a3d5a152c907bbe0698b",
+      "url": "ca/33/3fec58a8152f2671927a0b4913081a6a59b78588d23b1d1b5e2781e2f7f2/pymod2pkg-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "0328e7def872fe253f87b96fdcb65277ebda2dcb8b5dc222cfe069a9316f3500",
+      "url": "84/25/27fbcacbef0f10be042d5a4cf3c3944c0fdf118fa88cf08525f8c21cd8b0/pymod2pkg-0.2.1.tar.gz"
+    },
+    "0.20.0": {
+      "sha256": "d5ccf7db40a2510f7f7638b0cb64dee4025922b7b2d59befe905c7e71e8dbfaf",
+      "url": "d7/1c/3ac97067ec6e7c5a2a61ec8fc01118cb996e75d4b15149d47124f91fc598/pymod2pkg-0.20.0.tar.gz"
+    },
+    "0.20.1": {
+      "sha256": "15656cf0b727dab005e7bec18ccdc3ee0c819940ed53dacc9a1465ec72282c0b",
+      "url": "92/8e/258c4f794a470c8a86562499cb437e726157b0eebbf4876b4cacf1b15f23/pymod2pkg-0.20.1.tar.gz"
+    },
+    "0.21.0": {
+      "sha256": "1d1f9fb29b62893070bc793a8e0ea53ae1c6201b96ff92a9084acd6d5dde81e4",
+      "url": "63/72/092456b82322a82b2b64dc0db2d4c6165aaa587cebac507acf7846961ffe/pymod2pkg-0.21.0.tar.gz"
+    },
+    "0.21.1": {
+      "sha256": "327dc0ce37a8da90681129746b0b98a23e0624606581673136e8b5354b530738",
+      "url": "27/e2/48843dcbade2eca8700c0fe23b5129807120007c67112c46fb3b47667c54/pymod2pkg-0.21.1.tar.gz"
+    },
+    "0.22.0": {
+      "sha256": "3a91459c3f43cd156b553bc3c6b931d30a3314d5d162527db84beb156a4a1a47",
+      "url": "4e/89/91d6f7e93d53c1ac71004c508d709c4593e8e2cd6a8d6f8a97c40dd7e018/pymod2pkg-0.22.0.tar.gz"
+    },
+    "0.22.1": {
+      "sha256": "472c434153707e10daebfa26dd3359971183ac412d6637a42ec64adadd30863c",
+      "url": "5d/5c/9ffcb6679a88d011937ece101dfcdc7b622ec0e7fd7ee0ed9e3f72499099/pymod2pkg-0.22.1.tar.gz"
+    },
+    "0.22.2": {
+      "sha256": "ca97ca45c0d251361d168375e538a25c5da0dcf78f748974f36cccc3bab8f64a",
+      "url": "ee/33/f5be93ee01b15b9bd061c20c4e48445b9163a5d5a06f1e2faef23eaa11b3/pymod2pkg-0.22.2.tar.gz"
+    },
+    "0.23.0": {
+      "sha256": "32a8b14b0da696982bb62ebac9a69fc3b2b85af3abe0e8d5dc108d99b9a36177",
+      "url": "fd/20/06bb1fb1b01fb13d14f8af82192b7d64de91295f16b9a5bf413ee91a95a4/pymod2pkg-0.23.0.tar.gz"
+    },
+    "0.3": {
+      "sha256": "0dd9f0e35fd2d94f60d0c77a4188e0a8804d0205f484b551b6d72be5f4a9c361",
+      "url": "21/c7/d7265d62d743da8fda92ad8902373765c932b1410029911ba05a4145f9b9/pymod2pkg-0.3.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "3acaf0a00a93e842de3c838540ce9a910b6ba244d9152c322b94d001dbd43242",
+      "url": "06/da/48826e59b04958f20079b84eabf1d123e49585d2b1a36cad1076f8e175f1/pymod2pkg-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "f4da108228799c11132120e299f2e6c63540c362962dc38274619d59c3698e38",
+      "url": "55/70/51af5c1f8e00c198070196d0786c900d7c522d8de78b0067794611f7f4d9/pymod2pkg-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "2738766da1c1d1fa2ef20b56a393a114f18a51175fce4829a64af67d308d9f00",
+      "url": "c9/55/d243126c21730998096d7543fdc52cf5533e65dc6d9e4d78603e88b42604/pymod2pkg-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "1ce6c0f809b5e74553fbb29570209b94468f288ae50d4aedf76b9d9e584d0deb",
+      "url": "e9/e3/d9adf9ede70a3fd743087cac2b12ed116b343a6cc1ebd6d95bf06d2a1688/pymod2pkg-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "8c5c340b6b630b502b51807d53c7bdee749c831c49df17e093a40dfbba1366a9",
+      "url": "1b/f2/1fb68a9939654425740499e700703cc5c5cfb209e1be77726f2e2c3b7e05/pymod2pkg-0.5.3.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "259b40940e44e482c3bbc13fb58149227fc18c3e1bc186e2c6496ba8fb2a353f",
+      "url": "69/ed/41c6aa56823c5ed131aea91ffa45e37c989d6843c5b6fa4292edf16bdd15/pymod2pkg-0.5.4.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "7f982907ffbf167ce46c8dd83fa52b96fb981c27e01e91c8ee7180b9514da398",
+      "url": "67/a5/e229eca74b46126845a39f9be7695613b10adf79172c9d3879e0e737f02b/pymod2pkg-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "db5dfa1850d6064966eb17560812d911b5e73ab360adf2636bd194d34561992f",
+      "url": "d0/bb/d2df57f3e2e93b6535c434c203aba68d7861867e442ec377474809c0f98e/pymod2pkg-0.6.1.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "87aa45273366c3ec1c06509ad03570f079f598bac73f9f1ec4e7f6fba01d08b8",
+      "url": "72/05/5b27f767537e9cfe5225b78ac1fd617cf0dbff5efabc49eaa0fd0aa130cd/pymod2pkg-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "adaf0c4a68e1bd982b5508049b0f2b27a88ac5cde83c3a8f591dcca4a7ecfbb6",
+      "url": "e9/ff/633bac3575a20b6de845c60f725b5fd2999dfc961683986a53815412d366/pymod2pkg-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "679438cc41c0c16188587c05b45d3be246017208556e41fb6abfc62f39a5405f",
+      "url": "cd/39/75ca13cfe1acc9c53f9f0cf4377c664997c7d48de50cd1c7ac825ed2ded0/pymod2pkg-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "119b8cab62abdad139c15b6d2f31befddb1329880417ba8526c62f7d9151c0ac",
+      "url": "d8/a9/0e3b7b3d5db4eb42f5816c340694749150e8b52f43727c9cec8eb57d1915/pymod2pkg-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "984479cd6e1ce9d1308b70aeb89aebecde475c55a2edb1eccfe8b7ef83e5843b",
+      "url": "d0/a3/6cfbf3ba674b2dcdfb0589ad0c41934d84e79ae9b4ad7cd32193f4c00cfe/pymod2pkg-0.7.4.tar.gz"
+    },
+    "0.7.5": {
+      "sha256": "08239c03cee25d9db28f96966f11c555e0d271dc749338f456dd82b34a341221",
+      "url": "5c/96/35ad5bf40a4f844e6f2ebaea0904c4a0e4eddc65712f6bd7be41b8f24ff7/pymod2pkg-0.7.5.tar.gz"
+    },
+    "0.7.6": {
+      "sha256": "c592796f473abf459d32a0d5e6c2dda4a19d17cf0d7ecf23150e9230e74bf955",
+      "url": "61/6d/235ea563909076a63b5a65e117e76e8ae4fa0b168ae82da3418d9bc2ecc5/pymod2pkg-0.7.6.tar.gz"
+    },
+    "0.7.7": {
+      "sha256": "2d9f76dac6570bde18bfd7fa776359e38d27cb9bcb18dde7a0bbf770db3ffbd0",
+      "url": "b1/e7/cc137a7aadd7870e9d0d286fd832bde1eea845bc5ebba7d95d6b5a0fab78/pymod2pkg-0.7.7.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "cdb6891409bc2dcffe5f86e69f7b16f0e2da6925adfde9dd86d6a9f69a2cf7ec",
+      "url": "d9/15/df97418d3dadde7adab6efbbf034a703521845bb4c637bec07e25c7cf5f3/pymod2pkg-0.7.8.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "9464c6509c9e6fb1b39d2bfe49cf8ea834645701b91ab37b6e2194e68c7ee24b",
+      "url": "ed/15/50f6aed3b89839192fe6659e6d448deb4e04a5c1d43603fa878999aa5d1c/pymod2pkg-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "44b8f5f8e22a6d0cd8eaf01fc95b63a3dce74c0bb38f738dc1947d94e0845bc6",
+      "url": "63/c6/e70b63f96452b9f2c6a8c6a638559dac0c8e4b17323bb116e1559cd3c5c2/pymod2pkg-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "82d5b7a2966f7d271f3c3ca80fb25a29a3c7d44cfe6a61b82c0910f5d85cf36d",
+      "url": "7b/d2/5c0ed9b1ee920438e8471e13c266fcb34bc46aa473313556105996cf941f/pymod2pkg-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "fde87ba7a53195d626c69fa19691f0a2f25db4aac4cc4ec9f886b39fa1970265",
+      "url": "81/d9/82e93e802b5ca7fa939f967b7cd2e78873a40ac01b76f4d78bf44d55ab48/pymod2pkg-0.8.3.tar.gz"
+    },
+    "0.8.4": {
+      "sha256": "1a2e6ce9c1b1f7cded507c9cd4e5e33b35174b722e33c90af7d034d7fc1bb21a",
+      "url": "5e/ed/c9f9838664cb1a6e8cec4602109f140e9e3c5f3845e779e5f835b30e8d92/pymod2pkg-0.8.4.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "4862d02d29af8677bf38681d47a6db36f140d9f331f677873660ebf700fe74d9",
+      "url": "a9/01/3b0ad5c7a7866874f4db9a1b7c103a89ab43701385a1647cdbe4ba07a24c/pymod2pkg-0.9.0.tar.gz"
     }
   },
   "pymusician": {

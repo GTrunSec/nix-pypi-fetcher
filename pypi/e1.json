@@ -18265,12 +18265,6 @@
       "url": "b5/00/bac68283baf44b604e0b7210392513a34198b0b910061bd4171babdfe615/pysqldict-0.1.1.tar.gz"
     }
   },
-  "pystat3": {
-    "1.0.0": {
-      "sha256": "429c46686b0acd91631ae1d7cf01f26d953e5be4e301ca877522a2fdb7f29eae",
-      "url": "87/ae/d1a099a6fe5cbf575577837815ee3e61063c2e4cd81b96a35457111d4f9d/pystat3-1.0.0.tar.gz"
-    }
-  },
   "pystorm": {
     "1.0.0": {
       "sha256": "3c0ce02b06ebb013ec8ef743551b385d7ad0285eb496e248168ad74ebf0c61ed",

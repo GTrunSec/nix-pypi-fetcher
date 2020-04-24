@@ -14250,6 +14250,10 @@
       "sha256": "e4c81408417ff1dae7a65c45485e439ae5e531633247a30da8fb4effd86c0fa6",
       "url": "f9/e2/538171bddee5fe7160473f9cdc3959a505782ab8beb73a009bf019b79cd7/mypy-boto3-sqs-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "07305b3ec9a8836e0528b799bc7c406c7ef38cd70c6470cfa1d05c090684a156",
+      "url": "b7/9c/117c2780575e8cfc8aa9c42c0c2a7bafe087caac816c73fc5fbef8167046/mypy-boto3-sqs-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "5949bbae3aa07f97fc3d0e4637805c8df46a3a37b31e242652798b79573a61e3",
       "url": "8c/23/fa9f02310ed0786e61a6967584bb560cb4f624a24d2bcbd738e0485a4cf1/mypy-boto3-sqs-1.12.5.0.tar.gz"
@@ -19323,6 +19327,10 @@
     "0.8.1": {
       "sha256": "66b2436cfca71fafb16637aaf55b48522b1af609b11f1efa97cb8ad4f7f90a3a",
       "url": "60/99/042b3f408de4f87a64eb4b89a996ef8818a562ae9d5954a38ae65a7004f8/root_optimize-0.8.1.macosx-10.12-x86_64.tar.gz"
+    },
+    "0.8.4": {
+      "sha256": "a677ad10f6db81e4fc526dff5a81f2b903e2cf6c62e1207ce9a847ce500a2392",
+      "url": "6e/6d/32534d21841b559cdba487eec0992f510a280f8e64932ee3ecbb0d1f02a8/root_optimize-0.8.4.tar.gz"
     }
   },
   "routesetter": {
@@ -19561,6 +19569,10 @@
     "1.0.5": {
       "sha256": "0ab53335d44e956e18bd8690c49031241cebb042c681a1ce1eb4a63f66f67384",
       "url": "89/65/ca25a56439be342a142457e31cab2893397af61378177fc0fa50fc7ff775/schemahq-migra-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "7662596dca69c0428790e7cb75ca848a0cd2a2b71441705afee3004a56adf7d5",
+      "url": "fb/1c/06cf18805adccb3214e0c064a0ef18669545ac26945c2643c4a0495f9f80/schemahq-migra-1.0.6.tar.gz"
     }
   },
   "schoolutils": {
@@ -20623,6 +20635,10 @@
     "1.1.0": {
       "sha256": "81585b0912fec5f93c1ee947034263df9e2c9e727b0a94d728f08067065f30a7",
       "url": "b8/28/43f9eb341143cf0b3e117de93fa0ef732c0efda978493bee9704ea6597e0/steam_community_market-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "3e75dcbf694c2a1232f99999ea4e399b37aee9778fe9bf70aa2558d05370c432",
+      "url": "ad/14/8e513849d569d0ebbb52ce5694f5f51f0a6e0b4dff50651068e603c0181b/steam_community_market-1.2.0.tar.gz"
     }
   },
   "steemax": {
@@ -22955,6 +22971,10 @@
     "0.15.4": {
       "sha256": "91f0beb594762f41371f94e3e7758645b36fa1f2cd172e08fde07ff2dd4525be",
       "url": "cd/32/d7de638bed5fd5dcbee05dd8e6faab5985ca48054be750d03a73582ad0c5/torchkge-0.15.4.tar.gz"
+    },
+    "0.15.5": {
+      "sha256": "e97abc50306a291f343ad6ea30f1c228f5e74b6c13cfdadde7b19179211f094b",
+      "url": "b7/b3/d0113c2a7bfde48d39d4361caeb8aa2f44d8fa9b0d26db29399b4d0b7b50/torchkge-0.15.5.tar.gz"
     },
     "0.2.0": {
       "sha256": "880360a28959f4645e948f66453ff86cb12324716a1073935259dc76ec856def",

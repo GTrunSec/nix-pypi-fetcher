@@ -263,6 +263,10 @@
     "2.1.2": {
       "sha256": "45c1f5861e1d8289c32c052235d7259309f8962da7ffb42a2f4717f52c5b82a5",
       "url": "c2/d2/4e7f62b4c1145353f50705f3414696f7ebb745c08548469336161c55a540/adafruit-circuitpython-lsm6ds-2.1.2.tar.gz"
+    },
+    "2.1.3": {
+      "sha256": "376e9206a3bdc092a918682f312a26071c90bba1ae81dbf4e3e3f74463ef2bd6",
+      "url": "31/a2/a0b72ea61237fc861cd98e447309a5b130dadc98776981b1c1804edd5a37/adafruit-circuitpython-lsm6ds-2.1.3.tar.gz"
     }
   },
   "addsshkeys": {
@@ -10185,6 +10189,12 @@
       "url": "42/12/62b13ab5a191b2f2c0e771ad3bea33aa65ac9deddada4d3ba9a00dafb3e2/ficloud-docker-utils-0.1.2.tar.gz"
     }
   },
+  "findimport": {
+    "0.1": {
+      "sha256": "8fe7a0810feb02929154a373939f11d6a02414158245a1994d68d5149eff0aea",
+      "url": "d1/ff/015ce1a289cfb711ee0d7955e8fdc74694a2ae8630bdd73aaf813dd4c0a1/findimport-0.1.tar.gz"
+    }
+  },
   "fishpy": {
     "1.2": {
       "sha256": "02ec24513a7c930dbc420741d4c20a7ff93382a83118c2e9dbe42670949488dc",
@@ -14968,13 +14978,9 @@
     }
   },
   "microbit-wings": {
-    "0.2.4": {
-      "sha256": "6323215cc9def5f2158ec66d159c40cd7e02177f62ab51868e83b740163fa6e1",
-      "url": "04/83/a8d1516a1d97a6ce1bd808c14a6dc0d697f8fc883c2b263d432be7a872db/microbit_wings-0.2.4.tar.gz"
-    },
-    "0.2.5": {
-      "sha256": "569b3eada374922facd9053b39f442a4c3e07ffa6b9f28ab6da4767c6cb4a595",
-      "url": "88/0b/b234f4124c8ed992ccf327aa4f414e52343c0bb2272c5170eddff7d9caac/microbit_wings-0.2.5.tar.gz"
+    "0.2.9": {
+      "sha256": "a21235a7bb93a132f1922e9ab8615427a547ab20855142026cdde2cc8354441d",
+      "url": "60/eb/0bafa2b363277ebc927e97e65ed7bcb5cfba20a4f67c17f735056b045283/microbit_wings-0.2.9.tar.gz"
     }
   },
   "micropython-collections.abc": {

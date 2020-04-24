@@ -5107,6 +5107,10 @@
     "1.1.4": {
       "sha256": "a6fdbc274e891d13df29e09ee6da797658625cc657852b70cf6db831152fb515",
       "url": "ff/16/f5094c852235763fad6d87da5bff9926bea7a495bdc8fef93cb7e9720946/deadlock-cli-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "9dc222d7ba2a662026411977d0acf48561f1dfefbc102c8e886c0a5170b8967d",
+      "url": "64/53/18d9c2f3e27c835c4c26219d4c04a934e41b74506dc9bfd1c793f888bdf5/deadlock-cli-1.1.5.tar.gz"
     }
   },
   "decoupage": {
@@ -22525,6 +22529,10 @@
     "2.0.0.0rc2": {
       "sha256": "461b169472c3d68e62a4597954ebe3b189d73d98962a8e777bc04712a29ceb40",
       "url": "4b/f8/027e2f8cf8e357c54c3e0217772204991203641cd115627e4710dc09a903/sahara-plugin-cdh-2.0.0.0rc2.tar.gz"
+    },
+    "3.0.0.0rc1": {
+      "sha256": "dceeb8c3e35e9c907202011426aff26994ba11885213a2795f5e5deb1192a1e6",
+      "url": "b6/6f/2c208604958a070f605c6f9dda0e70ce5ccc7c0f5284117eda6dc2407db9/sahara-plugin-cdh-3.0.0.0rc1.tar.gz"
     }
   },
   "sailunester": {

@@ -3517,6 +3517,10 @@
     "0.1.0": {
       "sha256": "1bf93cd257d6b721e15fb7990c5dc49edae038fa2e34b823458940ce194a0394",
       "url": "d6/75/9c4e47501fa98a2c29b0250076999df718920af49c6d90b79acde3765ec8/cyborg-tempest-plugin-0.1.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "d68c363087ae4404a2df24a399e1ff6beaa4d3f43493c2afc519361a9e5b231a",
+      "url": "8e/12/5ff36ca4ade1be4a866c0f0105132ad8f191f33d1d9ce914b4b12d200c86/cyborg-tempest-plugin-1.0.0.tar.gz"
     }
   },
   "cyp-nester": {
@@ -11610,6 +11614,10 @@
       "sha256": "350b22ef5f58367f39a5fdb3d1804e81e589fa6fb0b2a2ad061e18ec38f1e5ad",
       "url": "d5/4b/ff8ace6654ae59bd6a237cb8ad74b13995cacfa04aa89092a4bf65eb6cc3/meg_runtime-0.0.15.tar.gz"
     },
+    "0.0.16": {
+      "sha256": "20cdd2195e138515b3f4effdf465fc95fa99ab723614eeb33fdaef1e05c1a99c",
+      "url": "a7/c5/f0ffdf44ae3f0b193cfa0a561e526f33097608beef148650e609528a8825/meg_runtime-0.0.16.tar.gz"
+    },
     "0.0.1a0": {
       "sha256": "cc22f1c110ae07a8f05d204a84862ce929917b85e70e5a6b890aa6c484c6d1d0",
       "url": "60/99/ac0ff31c97e56a805940841fdd71bce9755591847a8695b7c40f96359a6b/meg_runtime-0.0.1a0.tar.gz"
@@ -13158,6 +13166,10 @@
       "sha256": "8d33db675aed42ef534acb16a219c6ea4693275b03856d3fcc1d5a7d932d44ed",
       "url": "a4/b1/fdcc9faddaf349858633a2a63c19dc57a58857c1b8f700369a95c397db7f/mypy-boto3-alexaforbusiness-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "e008781d92df9eb4f54cc77d89adb77c4ac9a50cc5ebc5bccb8fcb2700c1236e",
+      "url": "65/de/2bb889128606867f3278603da5606447770e4cd276e990f09ec80caefefb/mypy-boto3-alexaforbusiness-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c7df305332b162a87506ba6183f13813cd84ee778c96ff36a8ec50a76aed0f58",
       "url": "40/e4/7c74618dd048991d548283d89d384d0101aaf5791b5bd9799e606b67e343/mypy-boto3-alexaforbusiness-1.12.5.0.tar.gz"
@@ -13671,6 +13683,10 @@
     "1.12.44.0": {
       "sha256": "24f3794de36c3f1e44a61c41c6bce67143a598acb560dd2ad8a39b9c01a414c9",
       "url": "18/f2/a6502e13a78e7d3737cfcba0392a3fd38f122f2cb1b44e417350decd2309/mypy-boto3-config-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "cd43374f3e97aababea81de514cff2255c0125a3fcb7be08f4d2a72a0a5f39a2",
+      "url": "fd/1f/6e1cde19a75806e16a6ac91f424bc8c876ddd83a0d4571ab8a21a2b80319/mypy-boto3-config-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "6d177d300edd6086a81f1292d800478774c8953176882bbd16e03b0d1eacd513",
@@ -20263,6 +20279,10 @@
     "11.0.0.0rc1": {
       "sha256": "21209dd484a014d4399a963c742ae6f9fa97a140a0372b871eb5a9fb64f1d298",
       "url": "32/f6/b8a91c4dbdd7874502f693502deb1aacb7f5ca65c186b5f54f029a820f1a/sahara-image-elements-11.0.0.0rc1.tar.gz"
+    },
+    "12.0.0.0rc1": {
+      "sha256": "34cf15ef7e4abe4a0fe859a5ac86613dd48490e1268b85d1b1a8b30a28c59752",
+      "url": "1b/8f/914c62e3912f1dbe2d9a239f1e268e580a48bab3476b6ee2381240289c99/sahara-image-elements-12.0.0.0rc1.tar.gz"
     },
     "3.0.2": {
       "sha256": "5c4dd7b864c026665f0d4f02780da303497d7d06e32b0c419d94d145ee988839",

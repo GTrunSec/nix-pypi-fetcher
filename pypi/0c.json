@@ -6425,6 +6425,10 @@
     "0.26.3": {
       "sha256": "78412d437049910a81ec1f77a445bff1e30b25b8a5815690fdfe88bad256ed12",
       "url": "5e/5a/886e6e6251f4f9e33dd4cba6ce98a5c10936c669865a26394fb8c0f5de23/dbnd-spark-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "517ed0122db52f690333f87e4a1cbc8e179472c0913f96366075eb3c55b074b0",
+      "url": "a1/b3/8ea9da840412db0795f452027466a4be8a219c583a4b7db48ff22d86df3b/dbnd-spark-0.26.4.tar.gz"
     }
   },
   "dc-electricity": {
@@ -6889,6 +6893,10 @@
     "0.4.6": {
       "sha256": "589e133af9afbc34b1692713bf8594386d7bcae9bb8aa58bb1b7e997d2546a22",
       "url": "b3/27/812d3c1883d31d5e4e64a0bb2e50fe73c80de5f1475250f5d2f40b6c03eb/discoursegraphs-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "0dea2fa98534c7b8d41f2fc449b4209b032c75282876f7d6c05585adfab83cee",
+      "url": "dd/5b/2e26e218a5201133bd01473d868335fd809127abce9927bbb3287f43b3c1/discoursegraphs-0.4.7.tar.gz"
     }
   },
   "discovered": {
@@ -18760,6 +18768,10 @@
       "sha256": "a3406126b6b792e7e8400df89dc4603b7b00570e231861c22c7213367ff9884a",
       "url": "0b/b9/b24b58a3d8a13245b1626115b59459fbcc20a5de46b399a49bcce578f3cd/mypy-boto3-mediastore-data-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "a696c4a56e4d63ea26f7990a7234726f56ef895d409bdcd0d0c159a7a16f99b2",
+      "url": "08/11/5e34c51f0492cb63ed4c252b2494bb26df6efef4b5cc8873c5bbedb9b94d/mypy-boto3-mediastore-data-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a68eb1483469ed14dac3cf17ad070128c2724014cdf12700fb35a3ffdf205ad0",
       "url": "00/92/afa84eba5e49b96fa131d7d2cb7660a20e2adfa94916f15e88b54e5d50f8/mypy-boto3-mediastore-data-1.12.5.0.tar.gz"
@@ -28751,6 +28763,10 @@
     "0.1.7rc0": {
       "sha256": "584dd9c463cb5e8684dbb6e809e60d82b0e6675fc789234827b9cfe14051f227",
       "url": "89/91/bbadf888bfc3e70ea39e53d03b685a8bb02eeb7941e3f89f06e8e757174c/tokko_auth-0.1.7rc0.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "929f199cc307166f0d6f62f9b0faae349193cdbd780fab21afa7d4b89fd1a60a",
+      "url": "90/99/e1f3724992f9c9d457d2541ef62caf2982363df2d43a29601002b013e203/tokko_auth-0.1.9.tar.gz"
     }
   },
   "toplines": {

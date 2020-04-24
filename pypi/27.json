@@ -12143,6 +12143,10 @@
     "0.1.1": {
       "sha256": "9c1cb4c61e7a3fd41aa012baceda78768b6a5e100c8561a89937caff60174bfa",
       "url": "a4/48/f03e0c90998ead47ac3c132d537b6d6d43eb0c15b8c14370e4d03944a0a6/lst-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "39a14307e3ec080f77d362a1a2af03bb69f131e8a0ab062fa1aeba1a89e28c51",
+      "url": "d0/58/14fb9eae14c893ce9d348db5575ec6c90dff1a45adb75bfb4256a67ecf59/lst-0.1.2.tar.gz"
     }
   },
   "luh3417": {
@@ -13460,6 +13464,14 @@
       "sha256": "df27bb5de5393c9c59e1b8bab3980443b05599e15028bf41d117b19024c44ef8",
       "url": "75/9e/7fd0f2842b011d45e338b16a73c321f1177d6930683060ee821243c0f8b4/neox-5.0.36.tar.gz"
     },
+    "5.0.37": {
+      "sha256": "1ce20ab919343bd6c9c2a8aabd4e52d6b774b10d4fb0b32a18afed479155596a",
+      "url": "0e/a4/36b53f1239916cbfaed33d3904e5f66b11ef2616f1d1bffc22b103049305/neox-5.0.37.tar.gz"
+    },
+    "5.0.38": {
+      "sha256": "a883fe236ff3a8df9fd79995aec19ca345e6323ddea91b61e26a98280e14bdba",
+      "url": "2e/9f/afce276fae052fe9e83e73df80ed93e54a401ce0216eb2c914bcf17b18ee/neox-5.0.38.tar.gz"
+    },
     "5.0.4": {
       "sha256": "8ec55141778d8443e6814fb3fee01bbd49c99524be2d5d19a55384b6a6c5113a",
       "url": "91/fa/ebe9d6b8c6a65374bce68165025437edc21171cc5eb73c3d7856de9cc76a/neox-5.0.4.tar.gz"
@@ -13613,6 +13625,10 @@
     "1.4.0": {
       "sha256": "8b49598b43378f48d06e8fb82a1a8b34c4f321826cc79aafddcbe403b9fb988c",
       "url": "87/56/7e4326efeadcaca5f9bc7c94cf5cc4b59e03bc3da029d85ae5b03f8de905/nextion-1.4.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "26de9a3ae078e73312175d4616f3d11a6ea2213aadf4f49639ab6cee9ad36a53",
+      "url": "d6/f0/c4ee9e52a932cb5fb0970c5ba71f41fcc7a2e96e4915589d698131f874c8/nextion-1.6.0.tar.gz"
     }
   },
   "nmap-query-tool": {

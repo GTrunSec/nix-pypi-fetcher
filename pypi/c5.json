@@ -1471,6 +1471,10 @@
     "0.5.0": {
       "sha256": "8f92259f5799a5a097b5e7640b788d4081b3b7ad845e2e94bcfe2aa334ae1d39",
       "url": "cc/24/9d107a0bad9e8f5735ab341032dd7ce7f47a79cfabdecc97b8e489cce58c/bionorm-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "51af94f52091651d98a2f329994ceaa4f661f0646c8b16f6e65f7cb652ee663b",
+      "url": "a4/55/fc7bb19baffec7804c035caa7976d0fd4b30e8a259f3497ad354e1b1603e/bionorm-0.5.1.tar.gz"
     }
   },
   "bip32utils": {
@@ -3931,6 +3935,10 @@
     "0.26.3": {
       "sha256": "c8738abccf0ebe5b2bb7ca57d48406439b1dc71264feee7dd0acb05bea762847",
       "url": "00/1c/551faa6852ca01252f7371ac2db9a3fb111d0ac6b0e2aa538addd8411ae7/dbnd-mlflow-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "f97867ca0547ad1c16a476da988df2628ba6674d15af833a69aec561e489c05f",
+      "url": "d5/1c/594dee021694ccbfbb251d0acd850a1fcb2ab390e995a2a9ea9c2419faa7/dbnd-mlflow-0.26.4.tar.gz"
     }
   },
   "ddemblem": {
@@ -13613,6 +13621,10 @@
     "1.12.44.0": {
       "sha256": "04d27f374f698b53ec3c14e81f696524b51c1bdc23402ef4e6c4faee1c33f6f3",
       "url": "f1/a3/d79b4fe7b6c58d80c6e955c362bdf1ad0a51a9f63cdaf41e0c4a724b3ea0/mypy-boto3-datasync-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "d0cea5b3edbd7be01e4ff40e1c59afdcf1490457c8eb5224865088ca41935270",
+      "url": "44/59/bfa1af76b9c5e134effc0849641218bfc03de760f29c10d6da1e3db82af2/mypy-boto3-datasync-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "49e7d067a535f22f5aae0c11aad3377bb72f1312fabeeb676693418fb535d00f",

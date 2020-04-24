@@ -8419,6 +8419,10 @@
     "0.2.1": {
       "sha256": "3610a2903d22158e0bebf9e7aa53d1eb8286d3f2cef67ca0cdb59a09f0c7f6d0",
       "url": "c1/f0/b998e3c6876f91785a28ff46c5d445fa5493f8f3a0ed013bf2d8aece614e/ipylab-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "fe1061db965544c0eb02c75b7f14434b752c02220b116e8add5b67b0a3f93421",
+      "url": "0c/76/0e2c9e9b99f01e4e2c45d1fe915fc518b78d53ab433dced0d08a9230b343/ipylab-0.3.0.tar.gz"
     }
   },
   "ipylogue": {
@@ -11741,6 +11745,10 @@
     "1.12.44.0": {
       "sha256": "e33ccd56f60906c825f5cf90f940b99e4e914f59c2b30d055b326dbc18837bed",
       "url": "b4/06/144486f520d2dabb6d2747c189f8fc781f8510491c2abd3ba444e824ae67/mypy-boto3-wafv2-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "95ecf631a996438019379a25fe37aaad2c3f1aa690e1fb3ef60f06ef288a2563",
+      "url": "d8/d4/4c5ee0ec347cae913c9fef206433e3d34e8e4ac5899856ba1cd6fd84392d/mypy-boto3-wafv2-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "0cabed07b854834a84a4a17d9b9b124bd1d7c25fc517be706a391273f88681b5",

@@ -12191,6 +12191,10 @@
     "0.0.0": {
       "sha256": "71d5a6c423656363dbb1894544ebb03230bcadebc18dd2ffcbcf57167d077860",
       "url": "52/a2/d77d9e5965c3038ed59e84b70f87beaa8818d8c01f0976f1ddf021ac0667/kerasy-0.0.0.tar.gz"
+    },
+    "0.0.1": {
+      "sha256": "5f5a5058801dae1ab7eb7c9b60e1582f4c58df6b5cbe7d03448a678a14c533df",
+      "url": "7a/01/d92beabbada313a47baed5079b20e931c94365949c49ad092455181ebfd0/kerasy-0.0.1.tar.gz"
     }
   },
   "kiwi-structlog-config": {
@@ -13038,6 +13042,10 @@
     }
   },
   "manila": {
+    "10.0.0.0rc1": {
+      "sha256": "b3663d7ab03c784b10aedb9b27df2f782344161645c9d795f249fcf68920bc98",
+      "url": "e7/a2/edb1fe12807553186c7103512eb334ccbe7d9e0753cf31e34e074942b9f6/manila-10.0.0.0rc1.tar.gz"
+    },
     "4.0.2": {
       "sha256": "ef6c2615f068fd0ba0eadb6b26d28d0f2377f371f301e4be8c156d63776e0f28",
       "url": "f4/59/45c90ed962fe2efa832bc4e8938f4252dd9dc5aaf1d11df20a4b98441a5c/manila-4.0.2.tar.gz"
@@ -14241,6 +14249,10 @@
     "1.12.44.0": {
       "sha256": "a84f7af209a24e46f6e9a1154d3d004c4e0b6329dd3e91ed8bd87f4ecfeb0201",
       "url": "e6/59/ad7850d1cfa0f206669d9f1a89c8e1a950bbd63d94a194143a425023231c/mypy-boto3-events-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "f48eb0316ba93a0b01d5893f29750900c6f332df0931e9c7ebfdfaf7ab46147a",
+      "url": "5a/59/cc2893a5ecf1450cbf4aebeecc9734438b55be71a97309e81dd1f00c9687/mypy-boto3-events-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c41b9dc79482a49dc547801bfe54e13443561fe149fc2955140cc4cc88741d47",
@@ -16645,6 +16657,10 @@
     "0.4.11": {
       "sha256": "7482a89229df76571eada81ed84c29db7f473515c6976e054349d8a9bc51487a",
       "url": "3e/1c/8598bce1c3a29d59991adad545af8e31950437f5edd14ed4c2a13dbc9744/parliament-0.4.11.tar.gz"
+    },
+    "0.4.12": {
+      "sha256": "5f3639ccd7022b880bc4247a9f13b1e9d8a8a289e9289780a848a6880cbdfb35",
+      "url": "26/6e/fcdd825b3bf5f1921594fe68260885888d20c7c8d55645b2a4a120d1c712/parliament-0.4.12.tar.gz"
     },
     "0.4.2": {
       "sha256": "f1b0ac3210461e19c2836afc13fe917e8e9efd0cef2807add736e4fb6038bc1e",

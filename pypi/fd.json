@@ -6575,6 +6575,10 @@
     "3.1.0": {
       "sha256": "5737494d9bace87d4032b1517f29afece6d5fb256926997dc8490703ed87f6ea",
       "url": "d9/4f/d705f46efca896f6b4c77055c1bb8a4d829391cb0240500820a45ce5a2d5/django-tequila-3.1.0.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "09736f016b0e0a4cb4a10ba03bb17c8be6e8f18fc98f2f5dfd7bfa40c35498f7",
+      "url": "6a/ed/58dc079088b64e980b7afcdee75fa1fca23f6013f46a3fd848d8b4198787/django-tequila-3.2.0.tar.gz"
     }
   },
   "django-testproject-gito": {
@@ -15861,6 +15865,10 @@
     "2.0.6": {
       "sha256": "2e872220c0dede65bb7da8190902e2fa335d2383420ed9eb077cd85cd1ee860e",
       "url": "cb/a1/7f05fa05fc4649f568bf84bafa4cfaf9cb4cc354d2d18fcb918ff25090c9/protonvpn-linux-gui-calexandru2018-2.0.6.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "7baeaf94b063b9ce13fdeb05a42487d3dd0e90167ceb5c8b66b5ae2cf4fc763e",
+      "url": "94/21/839c71c291c80220efd1520a1b8ca5ecec786b70f07f817653bd71000d52/protonvpn-linux-gui-calexandru2018-2.0.7.tar.gz"
     }
   },
   "psatools": {
@@ -18251,6 +18259,10 @@
     "35.0.203": {
       "sha256": "c3fb50ebf9fe00728299d566882bb5f704a7683c024b02fc1aa4b7099591654d",
       "url": "a8/6b/5d9c55fd080f9b7a7628976cf90c154a77d8a94fac2a9a62c9160a4c067e/rc-webserver-35.0.203.tar.gz"
+    },
+    "36.2.209.dev0": {
+      "sha256": "9dc27539eb8bf93ce7c4c3912e69254fdfe40df0231fe52fdf00cd1a43b352f8",
+      "url": "38/e5/b1f70d2d0b98631dbb898e8ed5734ca823b0c638823c6d6fcc772b5c69cf/rc-webserver-36.2.209.dev0.tar.gz"
     }
   },
   "reactomepy": {

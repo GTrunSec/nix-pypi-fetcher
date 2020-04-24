@@ -10165,6 +10165,10 @@
     "0.1.4": {
       "sha256": "fb6b9eea0ffa381ddd424c8509a9e302888cbe10a70ee8dea26aa23c8ed59b85",
       "url": "57/c5/7947076cb895d63baf2cb8fc947eb624cd9edfe19e556a65cbfc1822911c/hookt-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "e9e54b0ebbd2f65311865a1157aebf6ac4cfed76378b48a731aff5506d9a69ef",
+      "url": "5f/03/da54e8cf4df903ab27e6031a0ef0f4054b7ec60982872139dcf398ffad61/hookt-0.1.5.tar.gz"
     }
   },
   "horoscopegenerator": {
@@ -13052,6 +13056,10 @@
       "sha256": "9e533d48d19fa24e7f7341f2323cc3ac19833a7f11dde71ed56a5bd71c97b081",
       "url": "fd/02/267a8a6358d104d5fcb28a92fa53e0edcbb53386acb0fac3ae1185785330/magma-lang-2.0.43.tar.gz"
     },
+    "2.0.44": {
+      "sha256": "d29c8e94edef1ebc0a240dd8034429e23fe244d495fe7c283e79a3b3db33cc1c",
+      "url": "fc/21/4053a2257fd5c4dc08e526a04f3765681f526309bdee16e0b4be42360c00/magma-lang-2.0.44.tar.gz"
+    },
     "2.0.5": {
       "sha256": "60d29fc6909024dfbd26c7a60f8cef73bbcf2e390440402c56391c2b97df3e27",
       "url": "0a/e0/0fcfcddd253ce8529133ac66e46a8cbc9d9a1604c480f3f5c2e53ee4f5d5/magma-lang-2.0.5.tar.gz"
@@ -15066,6 +15074,10 @@
       "sha256": "66361255a73e04583a1a8bbd622d9d3e5df89c72cd2d9ba3ee89f92d702da614",
       "url": "9d/c6/f6727e23ca1c64c62ade06067b4100b960c112a5012d1523b79cbf735416/mypy-boto3-glue-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "77223a40f88234cdda3771c2ed75b55b04658dde156a0efbead22b3f05c5c0c7",
+      "url": "99/ca/ad354a9c961bd4a007d0fdb07f971117f7eaacb2c136bda8bfc0ec101717/mypy-boto3-glue-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "0ea990ca05488fcd0477beef93300eb9c1e7988ce7d01e206c513e459d7798b8",
       "url": "5c/31/9157c4cc087d454f3e2be376407eae74c02dd3c5a1b506bf2c6c33b85d03/mypy-boto3-glue-1.12.5.0.tar.gz"
@@ -15579,6 +15591,10 @@
     "1.12.44.0": {
       "sha256": "97ff2eeb71467984ad0dc235ea29d9e04025e953868d26707237a8df506b04f5",
       "url": "eb/7b/427951f71188652c84709009e019d59da99ce80f92417cd887af5b65745a/mypy-boto3-machinelearning-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "f01cdeba8e6504246c29a469e8301bd949ec72ef692576b94cdab58b85afe35c",
+      "url": "f6/74/11fd90b7c8e30898267c069425af4cf31a8eba1f971c20cfe06db71a996e/mypy-boto3-machinelearning-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "f419de301411425abafa8140b5096719d6945ba093b0ee7a23b13224a9e6ab9f",
@@ -16517,6 +16533,10 @@
     "0.2.6": {
       "sha256": "7049fa66924e7d34f454421144fc6ffdcbc61de7b319797d2a6ddd86cc4a9f8e",
       "url": "2d/ce/ac76842eeb73ecd5a5d605dbeff23660986ab844e9035b9fb9f4fd4e331c/ocdskit-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "e785cd6b53e32a48b39ee04d6c29e5acb3d654ab51921c598bb5a3cc23295021",
+      "url": "11/85/532e2f78e216d6ed5799fad66d7b9c81deae91d5e260022ab1abf9e18b3e/ocdskit-0.2.7.tar.gz"
     }
   },
   "octobot-notifications": {
@@ -23837,6 +23857,14 @@
     "0.2.2": {
       "sha256": "562cdf46ecfe9681eef5a03c2bb32528b87d891985b104190f1dd8f895d0deb4",
       "url": "56/ca/8265157666f185774e9bf6f2e94645e66f702f77fb18d5114daa06301090/sse-starlette-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "2a672fb07c27485b869ad0b5f8e3978ddf9bac798784edbf322be78e54527b6f",
+      "url": "c4/d5/6b18ed32881f31d0bdbeeb4bdaf2cb54e88299a23cdbb733a901ed9a48b3/sse-starlette-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "c7d43dd9093c5613b1de3b87c307e066a3ab1e173e21dae470fc1de1e31dbbf6",
+      "url": "dc/37/37843218ae6838a1f9d1f813188c635cb041d3203b3bf43eb08e19c0cb46/sse-starlette-0.3.1.tar.gz"
     }
   },
   "stack-dumpper": {

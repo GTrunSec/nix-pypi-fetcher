@@ -12449,6 +12449,10 @@
     "0.7.0": {
       "sha256": "f8efec7243df1657a92b9d5233c371a9717cfa94852b2e971554a8cba60be35b",
       "url": "24/20/d49c7830e685bdb7f7437e63a6feb6e521027f585c1497cf1d61f2568db8/iuliia-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "2d32501d979e1f84e29a63c98c66b3144150aef7d4759c40967c9bf5a3419899",
+      "url": "d2/a7/f1f93cfafb2b77274ec33b99a2b04061d2d248dbf78fbe0e92f6592ca47f/iuliia-0.8.0.tar.gz"
     }
   },
   "janetlist": {
@@ -15971,6 +15975,10 @@
     "1.12.44.0": {
       "sha256": "39db3db0bf7d91ee75d7a73d0b2278e07cb833e2585a1702bbe706cb9d887397",
       "url": "a0/15/b0fea9e6f127fed301038e4b80157e60cf72a4915e87284e5dbd0c31a67f/mypy-boto3-chime-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "264cdc703937684e0fb91b122f73809abd6035f244d7adbb47dd2e7068d2442c",
+      "url": "08/cf/655d8aa1553aadf0423a462b0ef8f35c5ce7b08017b85ba85c29225af9de/mypy-boto3-chime-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "fc0b310c508ffee77f462fe5d2ea20f210367246a6312ab4d138e1fdcbd9b43f",
@@ -23809,6 +23817,10 @@
     "0.1.0": {
       "sha256": "76bd6b1317df0426728860dad9b08543446ec3bf8668d7654752cf6f93925231",
       "url": "88/cb/90780ba06692e79bc2ad4bebc30d3ff37afb41147e39f4e1b7da27176f6e/rnr-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "9f752f0482e2e3c2ca541359e48fb08004928a6e1af7292e76c7767373210be8",
+      "url": "32/13/7992bdd63b833a84177cedb1e37604ca1a3b60e69516601177a8dae813f4/rnr-0.2.0.tar.gz"
     }
   },
   "ro.bdb.cmmi": {

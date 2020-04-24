@@ -3928,9 +3928,17 @@
       "sha256": "acb571db3f3394a55b0e27e4effcf43edac8abde2d5e1f6173e3729576db2209",
       "url": "d5/fe/8f67782c37246c7ea4bc9295aef67ca5bb8c98554846dc12b4288c339377/discovery-transition-ds-2.7.68.tar.gz"
     },
+    "2.7.69": {
+      "sha256": "148d638b2e7af4cb4a352ce6d1a16b0a7314aa33be1fab4a525493e38d8cdf6b",
+      "url": "6e/63/4c787619f6f5bbf8c7bf350c35d52727c299115047348aa48534a3c696c1/discovery-transition-ds-2.7.69.tar.gz"
+    },
     "2.7.7": {
       "sha256": "e3bc1e1cf28a0a96741fbb645d9527dbd70aceecdcee506cc874283c55609fee",
       "url": "58/81/9025352ab8193900ef8f760ca1146de6035a884ea0d51ba2843676c4f2f5/discovery-transition-ds-2.7.7.tar.gz"
+    },
+    "2.7.71": {
+      "sha256": "a26e2f52f55bdd4ea4e59ed0aea9edcbfb95322872e396a449f4b91a959ae6ad",
+      "url": "cd/8a/1b005f63f2050c2d41adf6a73713f58295e5eb3e64f6a89aae5b6e960be4/discovery-transition-ds-2.7.71.tar.gz"
     },
     "2.7.9": {
       "sha256": "f77b3befb2c9ac9aaf02e7a8f01df1a58e028d1055ecb985d0a76b12195331ff",
@@ -13553,6 +13561,10 @@
     "2.35.20": {
       "sha256": "c1e0c805be3faffc61a7f04bb1bd7e55e8bdc0b72c8dd7faafe89f0430522556",
       "url": "6f/7e/0a1b57efcd3a24226e9393dae8ef7b31d27cc03ebaeb9a2795dd5d9839a8/generateDS-2.35.20.tar.gz"
+    },
+    "2.35.21": {
+      "sha256": "9ca8df9e451a9d411fb7af1e6df7ce68fda2a828a1dd33d857cf8bb5c110f9ab",
+      "url": "a5/1f/966c36a64057ae1bc7058b3722fea7eb609fb2c09963aa50d0727dcec952/generateDS-2.35.21.tar.gz"
     },
     "2.35.4": {
       "sha256": "ddbd3b833c4cd3a71b98acab8b0dd817c44be11642b448ae07aea35b197a13f5",
@@ -27643,6 +27655,10 @@
     "1.1": {
       "sha256": "066986825e3e295ca6ad37f365d52673e6671ff442f9bcef756ed2c0651f11e3",
       "url": "2e/27/ae24799d0663b02e8c41fa9f543071e4550f3c594150e3e4045c84be0858/supernnova-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "1fe490d2ef745d5c0dcf6928d37a002654fd8b7b4e694d5abb8d2d229170b57d",
+      "url": "6e/65/419e90a358d07ce9492d2570367168aac6d6b6d982841355d86a122723d0/supernnova-1.2.tar.gz"
     }
   },
   "suresms": {
@@ -30743,6 +30759,10 @@
     "0.3.2": {
       "sha256": "93322401f8edb3718d1085b44aa6e68c802f6a3b97e3a5c870d16c17af56ec72",
       "url": "a9/9c/471b0b3a57bdc02f21c955c7093aebfd2a0113e3f30ed81c103692be5b7a/yacl-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "dd41fe5f0d9be1a2b0a580c16682a8dcdace6a36bfbd1fa051b0b75358afef00",
+      "url": "36/06/fbb6674a8adb9cf321983a1f77190463320b389683504b4afd3b7edec820/yacl-0.3.3.tar.gz"
     }
   },
   "yarc": {

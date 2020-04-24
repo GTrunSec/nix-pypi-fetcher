@@ -1277,6 +1277,10 @@
     "0.1.4": {
       "sha256": "a81e2998783002b6f714902e8cd2f83fab8d463bd37b4d9a8c04716c3032c380",
       "url": "a4/59/97870c2510e9c2fa94bf24784b8ed2ab83d85516fd2d8ec508019b3c3efb/boba-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "fde285777270d0196e9727fa8696387b21eedffbfb69b8be19c08a6b0fb6a7f6",
+      "url": "5f/4a/d8d1cde2bfc9dcd1b6e19410ea726bc4ca37dc6d75afb7b380dc7499306c/boba-0.1.5.tar.gz"
     }
   },
   "bom-open": {
@@ -5500,6 +5504,10 @@
       "sha256": "10a1404218825c438c2aac607c97f91ef3ae1f30bcc8941acd8bb1901a658c2f",
       "url": "4b/61/7ead7119cf1bf5f622d785baaad4a959c673dd96a0e236594a1c097ba3d3/django-terra-geocrud-0.3.37.tar.gz"
     },
+    "0.3.38": {
+      "sha256": "23883bfaf9106d3dad0282654f3be3f4f87b1f474f2fb9057e9ec151e1b4f92b",
+      "url": "ce/6e/091793815f05ef6cd2d2c0edf7aed14c814064a92388efa08459867e917a/django-terra-geocrud-0.3.38.tar.gz"
+    },
     "0.3.4": {
       "sha256": "7527c6f739717066dad5b897318d26c213c5c1465368eb214802a86e9ec7f79a",
       "url": "c2/1d/c32a9ac86edbb925d9fada3e91828522d8fc2e2eee802062c494fbe58025/django-terra-geocrud-0.3.4.tar.gz"
@@ -8451,6 +8459,10 @@
     "0.1.12": {
       "sha256": "0dd2af097ae6f9886a24b958bba8661ae4d35d6cec001cca285439d9a12fff73",
       "url": "61/bd/ee9e57efe058d6c6c16506e146fae32f77825b9b9330897766dfd965ed3f/fss3wrap-0.1.12.tar.gz"
+    },
+    "0.1.13": {
+      "sha256": "99c385336a83e981aa1f78938c866b2f672f83f36d37e966eca38fe12f8f6e39",
+      "url": "bf/58/6ed97117e99e9cb18a4f13eb5b24756846b2ff9839d8e8050334f2fb9ef5/fss3wrap-0.1.13.tar.gz"
     },
     "0.1.2": {
       "sha256": "cd0d10eb0e3b62a9ae75527e9defb26c126fc71dded0389262a00b9d6e00fbab",
@@ -13247,6 +13259,10 @@
     "1.12.44.0": {
       "sha256": "58e0faaadd85a1d0323771cb4c3329d6a04233a76ab320dc29c4b9eebd4b10c6",
       "url": "e7/f1/17f19ec400a73e05773f7367663e445302300e0b0318bcf9ca278ad8d037/mypy-boto3-redshift-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "0f311d45dd9ccee450781389f5343f65e4f883ec88057370f6d9f3372bb4df24",
+      "url": "9b/fd/1e8323c7b2b0ca01623613a9322e6111efc2e6d86e4043a55aba6718d570/mypy-boto3-redshift-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "435673568be59d23613661f309cc76bd0d54bfca809fb4a3dece4ad86210cbaf",

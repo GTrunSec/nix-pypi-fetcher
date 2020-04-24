@@ -13606,6 +13606,14 @@
     }
   },
   "mopidy-sangu": {
+    "0.10.0": {
+      "sha256": "71977f3c17615418b726f249d27b416ba3facf49137db3370bdbfcea5b8eb6a7",
+      "url": "79/5e/85cf414b080f9d6fa309b805aeb3cec1ad72a1e83b8690075247dc0fda30/Mopidy-Sangu-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "24bac433edef83494ca8f51587030753b07f16b52be9de8c6ce7ef3e8c1b1c75",
+      "url": "2b/22/6e295cefb94d5ebe8629f867c736ba73ad0e75ef1ce3d0b8d0f949ca54e7/Mopidy-Sangu-0.10.1.tar.gz"
+    },
     "0.4.5": {
       "sha256": "45f3182cf72e0cbf1e2bf1ab1cc03052fe91699a03e8df810b3f46c690f14c24",
       "url": "6a/44/a9ce8fc073fef59d978fa9e4006466c8c53e45b2792d7e93c0ed4163359d/Mopidy-Sangu-0.4.5.tar.gz"
@@ -14656,6 +14664,10 @@
       "sha256": "ff0f0616a8213046582a2dcc21bf8e9ffb1875fb1a6f18c55510f5bd54f92cb4",
       "url": "d4/03/8747efaf1153830a24f82f8e30a982cda4c52ec931cf4f2dca22060f9d0a/mypy-boto3-logs-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "ca8a9a58246b8d025d43a86dc7afc6100b4e2830cc4e02eac61aebd421b2fd20",
+      "url": "50/94/95bd65fdd61d745fee9d0f38142b109da715811ae2c656a9c2d17adb2f58/mypy-boto3-logs-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "83f2dc2a7b2e595432789bca2151766bc04021d73e3367963698f90be4b5cd85",
       "url": "f2/39/7deafc2e587784497b90129a5e786c848e8f5151dc82e0ca031e524a4ff6/mypy-boto3-logs-1.12.5.0.tar.gz"
@@ -15170,6 +15182,10 @@
       "sha256": "3a5950b145d61866b7880fadbd795ac84d23c16b9e21f62417edeb9a2b255b48",
       "url": "c6/a8/fe34bdc360074423f54ef282d8836c417b83ffd8e4784ee636471d948ed3/mypy-boto3-s3control-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "a553c749919bb6a20571eebec91545cb94df860df76e8c75a695b54bf1ed92a8",
+      "url": "aa/3c/6e8bba1b394d8f1deda9f2e30fdc7c92702bea921e19e069e6991460c5f7/mypy-boto3-s3control-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "3d97dff8b2471ab46f016999866de6cff79e27fb1eae68a85d9e00a0be17d3bc",
       "url": "14/0d/23605dbd35d505f0231a9c66044b809b9d54188117c37e6d80591739fd22/mypy-boto3-s3control-1.12.5.0.tar.gz"
@@ -15683,6 +15699,10 @@
     "1.12.44.0": {
       "sha256": "788a070250d658bf1e8ca17a1c22a4a63c5b3fd5317d142c1617e4a895defe69",
       "url": "45/2b/12a47cd11773026c4a2a1a5dde99c3a5b30c4ede3188e8e65b8902ea5eee/mypy-boto3-workmail-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "8f393b14d87aac460f0e59c1875977d65ffca3a9183f8a88d43e44f7dce0ed3d",
+      "url": "96/2c/19320685bcbeb91423edef7c92443c7ea0d7fc4cc66c0d0312a633384694/mypy-boto3-workmail-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "79d03f4af71f45eb8779b72253935b69b1bdc7a923390018f098bb8597ea33db",
@@ -25281,6 +25301,10 @@
     "0.1.2": {
       "sha256": "3ea94bb7425bd7969723dafc2808ab9ba46071dca287eb75ca8f8a19c853517b",
       "url": "96/0a/1e4759914afc329254bae7f5ccbbcbb24b10db1b2b613dc1d704709d8a74/tinkoff_voicekit_client-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "b993204419bf7a593f25c2e3909697bd6ca531bd1b4de8c44b4f5d7c22b09ec0",
+      "url": "92/b8/1c1e9f41239358a1fb99d663fb920f113e658fd585d1852683ea5ee64c57/tinkoff_voicekit_client-0.1.3.tar.gz"
     }
   },
   "tiobeindexpy": {
@@ -26009,6 +26033,10 @@
     "0.2.3": {
       "sha256": "c736a24a5acddc2eb75f73b35e16c258baa3950998df116819263e205b0daf6d",
       "url": "88/4b/ad9bb5cceb4512e21aaf1db50684a4ea338adfbfe93164e0fb6a658f4a96/vimtips-0.2.3.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "e4139152407b4f148a8d2e2d8143c2eee1198fc98c2e2a270bcb3e3d55be0ea2",
+      "url": "bb/a2/119b2a4635d6705ada7291ef2fcd30e7cc22a29f44bbf1343f8125403dd1/vimtips-0.2.5.tar.gz"
     }
   },
   "virtex": {

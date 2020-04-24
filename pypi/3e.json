@@ -3165,6 +3165,10 @@
     "0.1.1-alpha": {
       "sha256": "0cdb65494baf608d8490289d7f72f9bc2830f8db643f37cea926898b141677d8",
       "url": "8e/dd/f316f12e7bba977b38dfdc8ad561de32417b6337157d6dd7acaff0224984/catapi.py-0.1.1-alpha.tar.gz"
+    },
+    "0.2.0-a": {
+      "sha256": "a2e69d2c6f55206284c01e3b93bd7eff8bdb5cc6c20279c5c6f93f37e5e9f0dc",
+      "url": "cd/2c/f4538e0de7f5345df1a35db7a23e4c2de8d4749e8f43b11f7789970e7692/catapi.py-0.2.0-a.tar.gz"
     }
   },
   "cathub": {
@@ -8891,6 +8895,10 @@
     "0.0.6": {
       "sha256": "f7ca40adb1228799c11407da08212beb851d1c4c2767a3a0b9b47639cbeb902b",
       "url": "a5/c9/90db0ebcdac64000c458909a8b1aa9315ad26bf27931b68a08600bd7d8e0/enforce-pep8-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "f0543874668720fa741bc5cb66d4657c907eec8add707c4513b28478969c44ee",
+      "url": "57/59/840c728781c6e264959f955a40bc641e39d6678b5d6bede94e82026917f2/enforce-pep8-0.0.7.tar.gz"
     }
   },
   "epl.geometry": {
@@ -20955,6 +20963,10 @@
     "1.9.6": {
       "sha256": "51c0f02732a732ebf33595d358200622b475435f1ae6e3d3509a42478a9d41ba",
       "url": "df/a3/facfb0509c791c6a8a8516c55f7501081ec0d2ead96421f1020611c5a4aa/rasa-1.9.6.tar.gz"
+    },
+    "1.9.7": {
+      "sha256": "701ee1c181310ff12fb0eb24e9c313fa1eecb51674d19dccb33843d4af9da382",
+      "url": "94/99/19e7e679ad3a29f2ccf8147fb6916b905ad767932de108d20b66002b3c70/rasa-1.9.7.tar.gz"
     }
   },
   "rastercarve": {
@@ -24095,6 +24107,10 @@
     "0.0.92": {
       "sha256": "1673c02f3fc60fb0f75465d33ea2524b41ea240730c9351752aeea10bd42fbd7",
       "url": "5c/d5/955754b6f3a3019249df6ad78c466f2abf888d39bd37317445d3e280943e/swh.loader.core-0.0.92.tar.gz"
+    },
+    "0.0.93": {
+      "sha256": "f34b37d0cbd4382c0df251dc89b20083bed3a53f293d01d0beb3f8e9dbce22c8",
+      "url": "9f/f4/395829782b3d9fe3e20a0ff0bb72ba021b4aafba5724b824b05e74455a28/swh.loader.core-0.0.93.tar.gz"
     }
   },
   "switchyard": {

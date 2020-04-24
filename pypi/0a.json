@@ -4983,6 +4983,14 @@
     "0.8.0": {
       "sha256": "83f5a6c55421a5d2d6c8a7b6d9d49b765a08729dd03a071e7df0bed40465fa82",
       "url": "d6/88/a19e7a37fc265156b9da5c08d9e5d136649ccadccbc9c79ad7fe940e4c13/django-helcim-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "e7c7dedd5068db80992e0cf14b8a01fa45f18f648d957a2588d84178ab3a222e",
+      "url": "c5/45/9caac4f006221dbe349de9a37bc86c15dd3017d6b59006b58413c4e136db/django-helcim-0.8.1.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "511656cac97d104cac3f5cf4a8b88f8b661ad18d495963fed2cf5b74ab852562",
+      "url": "b2/6c/78b501307ae15a1ea6b0faefc4a85c3458e6c79ac6768b2c5adeddc6db91/django-helcim-0.9.0.tar.gz"
     }
   },
   "django-hidefield": {
@@ -5531,6 +5539,10 @@
     "0.0.5": {
       "sha256": "ab7f1f71b5d89b28346421aeb862e6045b2ca27ca29e4aa3b596794f412b1043",
       "url": "f5/55/012ebc2590a039a1e000cae6a50731c9539e634c7c703ad2560cf6b3152a/django-simple-account-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "b9e65a0117a4dd5f2f21ce422e191a169435758fc952e164fd972b4acf20cc43",
+      "url": "68/8a/121bbb7c7054254fde2870e7a770d5f3d6a4b17f0a9cda947ecd84438e78/django-simple-account-0.0.6.tar.gz"
     }
   },
   "django-simpletwitchauth": {
@@ -12888,6 +12900,10 @@
       "sha256": "aabf7412232f1ab05aed8196d63650e7e683d4d97622e1bb05d753ac53325606",
       "url": "97/26/376a22c3130ccd929730ca1d0229ea7e7b36d2784050501b5600b06a7a7f/mypy-boto3-networkmanager-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "67ff9c28581a2d521c3e61b0d117480cab93cffa5dc14e317ee06ed69bc19726",
+      "url": "2d/8f/d4d0b748dfca0d6d42c964a0af04005451257aba1265f2d18be800fbe1c0/mypy-boto3-networkmanager-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "0ce24b8ea77cfb093bee195fb90ddea13dbe2a8c9c2ec3d4544cca03593f8173",
       "url": "6d/c6/27d9997c7e7afaacaa70626d4157a34641b17040a25369111e838be0763c/mypy-boto3-networkmanager-1.12.5.0.tar.gz"
@@ -18933,6 +18949,14 @@
     "0.0.2": {
       "sha256": "2ae9e2d7571f39890cc428f5b727ff11af067eeee9d26dbe4cd58147871b75b4",
       "url": "a6/e5/8734427e7c7d06aa5b9f8cddd18f27177d742519abb639248348aee98c0f/scraparser-0.0.2.tar.gz"
+    },
+    "0.2.1.post0.dev20200423171934": {
+      "sha256": "7dbd61ab8b48ceb7c05c018c8fb863d48e4df49e21ccef3e001065c7972c7abd",
+      "url": "f1/07/7af1f6fadf1e3b95ae389c56aa4f39f1097b4d40cb171772aa706e4b53b7/scraparser-0.2.1.post0.dev20200423171934.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "db5a45117566678a2be0fcb7463f98d9fb82ac5c134f2afaa8ef84238d55e28f",
+      "url": "08/7a/b62a9d02e4a65bd2d46cb3fda2890c2f1938c0b0b1d33f04d3e1da856010/scraparser-0.2.3.tar.gz"
     }
   },
   "scrapesy": {
@@ -19819,6 +19843,10 @@
     "0.4.2": {
       "sha256": "77ac1bbc2827552b23f65ecbaf55b8ba279ecf5eb6dab9e8414807dfe6d13561",
       "url": "70/2c/75b4d9110cee8a78c66eb2406e8d1d7b6d5df411da30c9758640abbec17f/simple-term-menu-0.4.2.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "6b1339d23afe7f501d5af8c22e2c8c6d9549fc466095d393cfd4a65701b909fe",
+      "url": "c9/39/e2c04a2d807fd8e7069018bf9d141295389ddea3e61d4e0896c0d2a48a8e/simple-term-menu-0.4.4.tar.gz"
     }
   },
   "simplegeneric": {
@@ -23154,9 +23182,17 @@
       "sha256": "055d5dda6f944a5dafdca17741137f05309cc392b87a8d54aeab8501d05855a0",
       "url": "b5/54/9d57015b62e5c9ea68cadf83cc1c8effb123edd6c6ca2bcd08e4842dd58f/wangticketyes24-0.0.40.tar.gz"
     },
+    "0.0.45": {
+      "sha256": "ab5266cd02c09f02cdfcbfd33d553b72c189a698b273d6da044bc1869aa6edd6",
+      "url": "d4/ab/6b8873fee4dcb52a7bf90005a30af1f43185b9aed62f0eebe8f0c69e54b3/wangticketyes24-0.0.45.tar.gz"
+    },
     "0.0.5": {
       "sha256": "cb0a8ba344332f1f1b04662e96c07bb4210a1547b8cc6dc9b6c5402c87b3915a",
       "url": "e0/6d/0665120058df77535725e5f3753456556c63501d5f677489f9dde0d4ee69/wangticketyes24-0.0.5.tar.gz"
+    },
+    "0.0.50": {
+      "sha256": "5916ba95951d95f2d8f775b51af7160ad70c2497d98ec8b9861fc970c65b33a4",
+      "url": "0a/3c/58f6f81ff41727252bb397337b0d5933fbcad2ee243ddcb048a5bbc3e8c2/wangticketyes24-0.0.50.tar.gz"
     },
     "0.0.6": {
       "sha256": "a9a819332ed3cbf1906bfd32693cf410a7edc139d4f74a98660a33b78d32d479",

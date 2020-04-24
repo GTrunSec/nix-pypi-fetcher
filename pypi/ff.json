@@ -5073,212 +5073,6 @@
       "url": "95/c7/c1d4ac512f3092ddd756f950165de58d1674cfd199a0394dcb2624d2dffd/dadan-0.2.2.tar.gz"
     }
   },
-  "dagster-k8s-nightly": {
-    "2020.2.10": {
-      "sha256": "ad53e98ffa2b135ecb5c8a8f147970e56a16d7a7cab0c9c336c8ee0603ab983d",
-      "url": "f6/9f/eb673e9687caa782182f9de638cf6236237ebdc9215f942f6c91700e44cc/dagster-k8s-nightly-2020.2.10.tar.gz"
-    },
-    "2020.2.11": {
-      "sha256": "e5e475150831a84d8c9b05f643022325b40810d1653bfbf8daffe4946d56927b",
-      "url": "c5/3f/86729da100485820138dd5472fd45a3b74ade1cbad282c527267be76261e/dagster-k8s-nightly-2020.2.11.tar.gz"
-    },
-    "2020.2.12": {
-      "sha256": "aa57aa48c0ac7c65385568e39adc90df8e41dcb25639e42f184e16f092514f69",
-      "url": "fe/fd/f5704e4ac39c8e980e96d5d7b81d289db28a79e99b21240a8b343798b5af/dagster-k8s-nightly-2020.2.12.tar.gz"
-    },
-    "2020.2.14": {
-      "sha256": "9ca03564cbf26e17188893927ff45b3c7a8ed13b9a0360f3152ac7c535fdae5e",
-      "url": "e6/3b/6bb606be1278343993983ff4128c163289310b0cc1866ee6b218c6a3b4e6/dagster-k8s-nightly-2020.2.14.tar.gz"
-    },
-    "2020.2.17": {
-      "sha256": "da937d7f0798f4eebea13775f403927ce7bd6399ac893f81ac76652fc079de54",
-      "url": "e8/bc/d1fd1fa405598352737f55405348e65f3464ba3095ff150914affb4cf7c1/dagster-k8s-nightly-2020.2.17.tar.gz"
-    },
-    "2020.2.18": {
-      "sha256": "47a5431bbd581db32431b687986efd0ccf2cbaa0f8cbc56cab3fe2db3233ff99",
-      "url": "25/89/93418f49a20fe409b8082c3c625fbd29df7230e8488630a55319b7d95a27/dagster-k8s-nightly-2020.2.18.tar.gz"
-    },
-    "2020.2.19": {
-      "sha256": "73adb203707ece797333f10b1f8b583b6af6c98ff06d8dd5fbb1f959bb12ebf4",
-      "url": "2e/70/0631ea40bc02c2bc239265407ad3ebefcafce99b22863a7596f0be8ab160/dagster-k8s-nightly-2020.2.19.tar.gz"
-    },
-    "2020.2.20": {
-      "sha256": "22588607294115f98aabc3154b0f684eb6f52f0f078604d452351c0eb00daad1",
-      "url": "8d/1d/7bf1f893b849b74640f4679e04099b96ec94e95abd47254633c7666a7c94/dagster-k8s-nightly-2020.2.20.tar.gz"
-    },
-    "2020.2.21": {
-      "sha256": "41f8d5f72d9a9e7d1981a37255237d5850638ae26987d29d9ff1d7651cd44201",
-      "url": "dc/1f/6a86085dc81ed12b9ad5195229c5681321321c9e44812979789a84eec1d4/dagster-k8s-nightly-2020.2.21.tar.gz"
-    },
-    "2020.2.5": {
-      "sha256": "135d3f10bac43acbe8cfe419d92b0552606027e9c235df4ee3092642f5c148aa",
-      "url": "33/c8/15b540438e3d298e6200c0683a73b5fe8c236310aeab8d21ec1485149532/dagster-k8s-nightly-2020.2.5.tar.gz"
-    },
-    "2020.2.6": {
-      "sha256": "0f667da2fc3c855d3dc5fe4da38b1e453fc631374c5d91dfe80cec807aeaac4f",
-      "url": "15/be/c3a73992bbad5dbe07d94cfbc3bb001ac769157094b40e3a555fc4f8fb7e/dagster-k8s-nightly-2020.2.6.tar.gz"
-    },
-    "2020.2.7": {
-      "sha256": "af977d05a7bfb6ca2105b5834742d7da0860eba78454837c1e8bc14f88dadace",
-      "url": "e1/56/93b2c75339dc8e71db3a321e0ff97fa0a9bce5845213fe2c0d351331745d/dagster-k8s-nightly-2020.2.7.tar.gz"
-    },
-    "2020.3.10": {
-      "sha256": "a58b559661834ebc5fdd48fa3b2ef38802b6f959247c4a2b53b31063595111c5",
-      "url": "7c/05/a8fc0a0ca1be34143906bd2b5109f13186bfef2b1bf5dd62d453b5d8e497/dagster-k8s-nightly-2020.3.10.tar.gz"
-    },
-    "2020.3.11": {
-      "sha256": "1180a95b9cc163dbd32d4483c72cde2790c9f3c5aef55793ce5a96d207180b61",
-      "url": "c8/bd/7cc8373f5de55144605ceba9c508a7e3472ade7cd69d141946e190cca0c3/dagster-k8s-nightly-2020.3.11.tar.gz"
-    },
-    "2020.3.12": {
-      "sha256": "a572f75c9b9eb2f103ae41e93ee91affc53f4ac87d440fc36eb2a575927b5be1",
-      "url": "e5/49/9c54ae4e17713064a22b5d69b0037f7ed410d2cc5a9d2c04e02040a758dc/dagster-k8s-nightly-2020.3.12.tar.gz"
-    },
-    "2020.3.13": {
-      "sha256": "106863d77caeab13097fc623405aec494444ca792afe66bbb981ae7d47882c4b",
-      "url": "f0/96/c9dbf5101081f43c59086292fdd49bf56be6912eb46fbf478c9877d9901b/dagster-k8s-nightly-2020.3.13.tar.gz"
-    },
-    "2020.3.16": {
-      "sha256": "d6eb0240688f6f2b9b998817efb307802108d96e39e7fc803bb3fbc14e916a0d",
-      "url": "f6/98/1c2c18d3e1b83013aba2e30995ed199c4a79be78decfec8cc0783105bfcb/dagster-k8s-nightly-2020.3.16.tar.gz"
-    },
-    "2020.3.17": {
-      "sha256": "0293e5838ecd607c55febfe57f0ae08aafb34140257e2b0948d49e33e22a7fbb",
-      "url": "2b/51/752005bfec972f76743949e54675d22597e7774c260e33e3b0bff4327cca/dagster-k8s-nightly-2020.3.17.tar.gz"
-    },
-    "2020.3.18": {
-      "sha256": "25096dbcc0f8f23d1271f8d9b631f5fad685c14ceb0b4eb548163be351c4a8a7",
-      "url": "12/5e/e6574deba45cb9503683c1d409015f0dddb2071cb73e6e096238da5ed357/dagster-k8s-nightly-2020.3.18.tar.gz"
-    },
-    "2020.3.19": {
-      "sha256": "a6b4fc8ff6fa1349f3c886111d6bb9f2adec5d66576490807db3a50f3f34d7b7",
-      "url": "1c/96/531635b40588cc3557546818bc8832942c274b6c5d4d7742f1ff04914c0f/dagster-k8s-nightly-2020.3.19.tar.gz"
-    },
-    "2020.3.20": {
-      "sha256": "3476dd2afc47b8ec9adde75f199dfacfca7bd937ec4eb22f5e2ed08785f191f5",
-      "url": "a4/9f/25ceaffc6228539f90f3832a52b4683717e78f2822fd3c4f5b9c8f85499d/dagster-k8s-nightly-2020.3.20.tar.gz"
-    },
-    "2020.3.23": {
-      "sha256": "017eb26a3823bfd5cf9b8c2c18319351887fe7b63c711c9043dff7164ff4cc14",
-      "url": "c1/16/8cc8bfc0e1c568e9df00a213a6c68137173bb20a660d7ea010b454d10cff/dagster-k8s-nightly-2020.3.23.tar.gz"
-    },
-    "2020.3.24": {
-      "sha256": "bd34ac0cc307504c30b7b578da5d75e59d92763bd4283784436cba3bd6b0fd5f",
-      "url": "0b/be/61676f23207f70f2ab18df46e8795fc89023087dc3b66bf1c0fcd07b4107/dagster-k8s-nightly-2020.3.24.tar.gz"
-    },
-    "2020.3.25": {
-      "sha256": "267918c12fb83afae183f4dabe067fffef3a71a6ee521345327f69ad5d38fb8c",
-      "url": "6e/56/00477f98ff5b7e7548ce62ef5ab06b14676a5f169929f4adde7b96cfc96e/dagster-k8s-nightly-2020.3.25.tar.gz"
-    },
-    "2020.3.27": {
-      "sha256": "153ef2dc2410d03fe1354d8aec6146465d2d33445dc4ae065791969a7af134f2",
-      "url": "8f/87/69b6f91a2eaca022c68b06b1edfd96a6ac4f9b526ad584a612e93a0c8a6e/dagster-k8s-nightly-2020.3.27.tar.gz"
-    },
-    "2020.3.29": {
-      "sha256": "4870545095d36bed697fa9303c87e77825758380a67408566915539a3c219154",
-      "url": "e4/39/a683f43d20ac1cb98d617a59d934cb07c05f1889f89361e34d01049cb4f6/dagster-k8s-nightly-2020.3.29.tar.gz"
-    },
-    "2020.3.30": {
-      "sha256": "a676d142b971fd5fb4f94854e026969db6929fa95a1ff66b4a5a0f9159d48664",
-      "url": "41/b1/9b553c472d73521a6f10321dd384669456dc71da432f59222199350d9551/dagster-k8s-nightly-2020.3.30.tar.gz"
-    },
-    "2020.3.31": {
-      "sha256": "21ca79864cf94c868874870997d78421d20dbac71a535d92b8212572c631989c",
-      "url": "a6/a2/d922f57c8321e3f9dd59444508b7847cac699709109e95bfab9d861df260/dagster-k8s-nightly-2020.3.31.tar.gz"
-    },
-    "2020.3.6": {
-      "sha256": "1a266f32685b9a5be1b86c2cfcaf38f2f4cffcb245923ffa9b33657a5030a34b",
-      "url": "b7/9e/d3457bac93c2b77da7f188b54224f84f3e529085e68c1338f02149084617/dagster-k8s-nightly-2020.3.6.tar.gz"
-    },
-    "2020.3.9": {
-      "sha256": "f300a37c7ab804b926c894a1d71352da9b66f5d9ae0f98bf84cfb1b6e6fb64a2",
-      "url": "b7/53/c48628d04919ea716d47ab13ccd5843d1a18b85926c449790cae8f937df4/dagster-k8s-nightly-2020.3.9.tar.gz"
-    },
-    "2020.4.1": {
-      "sha256": "b7e413c53d3ffd0d9beac14e58ae757286a1cdb9e9552bd24337e63a88292ba0",
-      "url": "7e/71/63e05936adb86dd1718b5966425cc2c43764c850eb443f6407ce7bef1d56/dagster-k8s-nightly-2020.4.1.tar.gz"
-    },
-    "2020.4.10": {
-      "sha256": "b8dffc8439a8b2931756adaa8d63d74f6eb3e5fba568f192b77ee500f456a793",
-      "url": "de/1a/424d875920635c6f1afeebc042bdf097d65428f345c3dba31dfd43ac5773/dagster-k8s-nightly-2020.4.10.tar.gz"
-    },
-    "2020.4.11": {
-      "sha256": "f663a703c0ee80ac6fcd65f13c3243a68de7fd6377edce74f8d4c7f55bbb863e",
-      "url": "6a/8e/5d2a23e92aa70d47b0ebd15b2688e64787e39f285d594e21dd198c69e0d7/dagster-k8s-nightly-2020.4.11.tar.gz"
-    },
-    "2020.4.12": {
-      "sha256": "edf4896c25246bf4b0167e6a4e1c118b287e7a4056a0f57f82779817112b44ad",
-      "url": "20/08/2be62db8ef7f754209daad17a57e5e5e165c1c9871680cfdbe8f0608118e/dagster-k8s-nightly-2020.4.12.tar.gz"
-    },
-    "2020.4.13": {
-      "sha256": "1363e38acadf5673c9486b8cf7362dd8fa7dc1caf72d238d69eb368403d5040a",
-      "url": "1e/c8/3549f3a1395aa01ab54b3565ce5127a0da988d14b47eea94652c40a93758/dagster-k8s-nightly-2020.4.13.tar.gz"
-    },
-    "2020.4.14": {
-      "sha256": "311570aad266cf6b9d0598bfe67672531ec6199967531a92dd67e262896c3069",
-      "url": "f4/60/2a4e1909d0475662db41b3f5bc55ce91f68174d27211ff90ea754afb8edc/dagster-k8s-nightly-2020.4.14.tar.gz"
-    },
-    "2020.4.15": {
-      "sha256": "4538f0ac012c5c43da31618ec2a6c825fe79acb8dfca7fa2e5501d9b5292554c",
-      "url": "66/8a/d822c58b29870a0d8d0abcdb72d50701aaabda856697916b95c60403359e/dagster-k8s-nightly-2020.4.15.tar.gz"
-    },
-    "2020.4.16": {
-      "sha256": "040dafc24911c4d86a7370090b616928aea406496f15f9dd7af37a037a6a5860",
-      "url": "0f/41/74c24673f61d73ebfea6e4effc47d2f2fd4fedbec3aada67dd480bd54d8b/dagster-k8s-nightly-2020.4.16.tar.gz"
-    },
-    "2020.4.18": {
-      "sha256": "9afb80ad03a3158b4b65e952240d5cbbe70383ce1afa1c7d9d51de6d6d07d54e",
-      "url": "f5/77/9d04c1849bdeb0f00e74625407cf7b36b9024829381d2409b5ac680ba83c/dagster-k8s-nightly-2020.4.18.tar.gz"
-    },
-    "2020.4.19": {
-      "sha256": "0893bffa99275565ce54ce5ebeb29cb37247985dc3e9a49b1247d1529183287a",
-      "url": "92/97/748386c7818df0e2391665195dd88bb000e6fc2c4c4c4fba6e971a4597eb/dagster-k8s-nightly-2020.4.19.tar.gz"
-    },
-    "2020.4.2": {
-      "sha256": "4b0736b68c1a31cc4fcef9e52d1be83fa452377fe9b955da35795891f480449a",
-      "url": "38/85/b06b6d1ed9fff045858bcba417032d3ae5ea8d46a76e1fafe1d1d5765891/dagster-k8s-nightly-2020.4.2.tar.gz"
-    },
-    "2020.4.20": {
-      "sha256": "6ec078efe6990e5812df89db4356b4c2daca938f7ef49db509eb6e2682bfc66b",
-      "url": "b6/61/5ef3119aaca810843227e07eabdebad7f95d1b8ca8364b2453f2f23c7719/dagster-k8s-nightly-2020.4.20.tar.gz"
-    },
-    "2020.4.21": {
-      "sha256": "adb966fcc7cf7a54fe421eec795dd1cab6274f19458851ad1082cbb743f8da74",
-      "url": "74/14/9d07b5b204222341f1a45e348dd4436027c4733ee29586370b46153c5491/dagster-k8s-nightly-2020.4.21.tar.gz"
-    },
-    "2020.4.22": {
-      "sha256": "603080501420388c78890b6aa35f508a96b2eabf9b3114d5263e614d53f9b1af",
-      "url": "56/f3/4b05f16b81a7d0f662cd8e44cd630b33414989706435589b18be681a9952/dagster-k8s-nightly-2020.4.22.tar.gz"
-    },
-    "2020.4.23": {
-      "sha256": "7fdb8dba274f706891ee7351a957bfddb6ce0ba1d2ee79b7b6995ec2fc7a3596",
-      "url": "ed/92/538bfbb1845fdcf657c8d8d0c447066475db1d2a8fd7e6c46336c750a58f/dagster-k8s-nightly-2020.4.23.tar.gz"
-    },
-    "2020.4.4": {
-      "sha256": "7b2a801fb0725f23ef994c534286db68c81d88e7f47df17ee0bb5b2f60ec4517",
-      "url": "56/55/0408fc3ab969271c8915872824a1a9660c37e502a8d616999dfe5f88e78e/dagster-k8s-nightly-2020.4.4.tar.gz"
-    },
-    "2020.4.5": {
-      "sha256": "34e6baa612d8d17e988382a1b993ebd2806542edd0815a199f0c5f6ed9fbaad5",
-      "url": "24/b9/74feec0ae189b929c24faa5c9572c63fb20bea32a201e8e97d2109b35f7f/dagster-k8s-nightly-2020.4.5.tar.gz"
-    },
-    "2020.4.6": {
-      "sha256": "980906d1b5552392d15e93f6e71f73aa21fc1a226a139fb9b61f772d767032a4",
-      "url": "eb/85/dd60fd2ddb83b384f4badcabd2e01acc3b30db9e364bcf155f34886b280b/dagster-k8s-nightly-2020.4.6.tar.gz"
-    },
-    "2020.4.7": {
-      "sha256": "a9eb2f56b683d876b8d4160b0b13990f5dc81786e6a618aaa34d2361a668b0a5",
-      "url": "c1/05/92ae8f97a7df28ffcd840776014899c9caf1ef8a95ca271ea0bc915d77ab/dagster-k8s-nightly-2020.4.7.tar.gz"
-    },
-    "2020.4.8": {
-      "sha256": "f33e18b4c5714b4a4e1099cd8563600810516929a3678e12d84bee67c96a8cd0",
-      "url": "7c/32/c6fb21d766441d62de0ac3ec0b9826a15792f3ac23e8a052df76b47e54fa/dagster-k8s-nightly-2020.4.8.tar.gz"
-    },
-    "2020.4.9": {
-      "sha256": "8711f145d2eee29707dfff7b167a4da11be36132edb10e550a42ed4598d4e707",
-      "url": "c8/fd/3b2746836f88470b3bbca1229256dc47ea68d498955ad7a09ad245a82921/dagster-k8s-nightly-2020.4.9.tar.gz"
-    }
-  },
   "darwin-py": {
     "0.0.2": {
       "sha256": "698df7c10f8bb1474705e0773867d70437184291b6b9135d6c1dcb6025ba5271",
@@ -9003,6 +8797,16 @@
     "0.0.3": {
       "sha256": "454c240f1101cd4c95304ae279b66e70999fe89a87c2f4b19191132f3bfdf717",
       "url": "5e/55/6e3eb1076d355389c25262a85ff2bbd1b6c21b21c480452b73f44f13bfb0/error_help-0.0.3.tar.gz"
+    }
+  },
+  "escapetheforest": {
+    "0.0.2": {
+      "sha256": "5b857bb1943f6532f7fde0ae1637329bcd27704a1d1c95e58ce2966736f86d2f",
+      "url": "77/d2/ebf67d6308653e6c8f9e1f6b66ba40a00d0c1e62d3dff7407c4847b893ca/escapetheforest-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "d6c784293044d6e6ee88ec781097cefa9f02ada168cb020d8bc35b292f2f70b2",
+      "url": "1f/4c/e9dc59b29c595694f0bd824b093deae902ef1a43c79a087f8caa3f809f96/escapetheforest-0.0.3.tar.gz"
     }
   },
   "esy-osm-pbf": {
@@ -21169,6 +20973,10 @@
     "3.3.1": {
       "sha256": "ffcb3cfafcd9894c9d8c31ad500793ddb91096d1662b261eb3a7c5071fbfada1",
       "url": "03/bb/b9003f0e49bcd9c1413153601028a118eef679d57df533fbc94746bd488f/quartet_capture-3.3.1.tar.gz"
+    },
+    "3.3.3": {
+      "sha256": "055b7e24d604dab35e857796b449f91501042150f3db843e06fba2089ca16c61",
+      "url": "2d/63/325aea5602d252ff99167476a149041f816a33c4c5647904a4e06a33e242/quartet_capture-3.3.3.tar.gz"
     }
   },
   "quaternionarray": {
@@ -24431,104 +24239,6 @@
     "0.1.0": {
       "sha256": "8620e7c98401f27772311dd5d341f14923076156260bed9612c8b19ef474f5db",
       "url": "3a/c0/e91e0d7a9cf29807fd2875ae173b082d0593f9d7978f1a94300825ea26eb/tmlpy-0.1.0.tar.gz"
-    }
-  },
-  "tomlkit": {
-    "0.1.0": {
-      "sha256": "015fe0135ba31a2e5aadc22e42642c37f13ab9f512f632333817f48ecf8c438e",
-      "url": "69/6c/9d0423587d14ff068638f7b9a8246e4a47b21071fcc34d0930f2c67008b7/tomlkit-0.1.0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "9e0f2b8a942c5305590391a09c0e3caf551c10b2ee59854dd893a5dc86595d28",
-      "url": "92/41/0e1be7f6ad73c2d913e784a03d3d0c81cd18f043b01c47deffe5c220cbc2/tomlkit-0.1.1.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "0903592083a6f7bcf0b65a4292f05aa15df32626c9051951b809cb9fd09daca0",
-      "url": "59/4c/c1ac22b6691936ce0cbbc86d6a809b78f65d4268cfa2dd0923d656a4e62a/tomlkit-0.2.0.tar.gz"
-    },
-    "0.3.0": {
-      "sha256": "b35a3fb3868670cb35936097d74f603b3ed3e94c825e1e432bb9f8142a127ebd",
-      "url": "eb/ef/872596bc5cd97b5d02ec2f1bdda359789a0f20534a4824ed4b9ec68c8653/tomlkit-0.3.0.tar.gz"
-    },
-    "0.4.0": {
-      "sha256": "3fa0473a4dfba6a93713ce8aa02b42458760d955f853f11e455730ae5e9fbccb",
-      "url": "83/31/59b19b3998437ce5fdc49f2abba34e438b0476c2773c57040369c80b8d33/tomlkit-0.4.0.tar.gz"
-    },
-    "0.4.1": {
-      "sha256": "52a050d67c117a8a8cd30eee7ed27deff458304cdd4376afde9cde8afcb35a24",
-      "url": "b6/7d/f088392a30495139e6a80e452393681ed47051d481998533666a4b53900f/tomlkit-0.4.1.tar.gz"
-    },
-    "0.4.2": {
-      "sha256": "4f112445d6e52a038adf23b027ccb11905fdf88976990116e8f7b171b768cedb",
-      "url": "16/a4/a92e7d4479428a595fb3f27042f2ba52aaf9b6b02687f6a6579f77c0dcc5/tomlkit-0.4.2.tar.gz"
-    },
-    "0.4.3": {
-      "sha256": "6856b5395f7c509baad1911aa3940b3c2fb33f53aff968ed1596c393ccea98e5",
-      "url": "3e/60/c7de38501dd47727de9a706eac5478337193b60014d2b1c0093ecc0e80b3/tomlkit-0.4.3.tar.gz"
-    },
-    "0.4.4": {
-      "sha256": "ca181cee7aee805d455628f7c94eb8ae814763769a93e69157f250fe4ebe1926",
-      "url": "d4/de/a9b1089e62b2d9df0ec585e062a22961a3430edae2e87123362d730b234c/tomlkit-0.4.4.tar.gz"
-    },
-    "0.4.5": {
-      "sha256": "e46718f3e71970cdbea1e0b5ed99aa1284ec20eb5e99fca016ec13aac9dd2c4b",
-      "url": "5b/b4/e1b66b2f4eec6c02e861f94d397073b2ba909936092b248f1b0849769ef0/tomlkit-0.4.5.tar.gz"
-    },
-    "0.4.6": {
-      "sha256": "8f857398aefa2c6a488c824f1e7f757e73a4f68246f1874f9df5eb53903231de",
-      "url": "69/76/d2e1ee2672602792f14e4d79fabe175026c3574141aa40139d5d5b66e66a/tomlkit-0.4.6.tar.gz"
-    },
-    "0.5.0": {
-      "sha256": "94533d0c5314419ab0cddb8d5ee9180c4aa4d9c716efb9bf85dc3fe13c34cd5c",
-      "url": "40/8c/ae3f3fffd10021e05115f7dc26871a7d8222b1fddba6d8c7274fb8126eb6/tomlkit-0.5.0.tar.gz"
-    },
-    "0.5.1": {
-      "sha256": "ccd5bc26d816e8be75c31c7c2da70c4f4b3131248a47ad1ffc82f48764d1883c",
-      "url": "5a/66/3804c950cdb465766d71eeec12315806cd1ddc5b9463fe93702a1d49ae63/tomlkit-0.5.1.tar.gz"
-    },
-    "0.5.10": {
-      "sha256": "ebb690711c5bf2300bfe06300a79cf63a2821d8abc7b0bda61517603f0589754",
-      "url": "28/1e/d97ab93aa36adaf42fa53b077f14cfefc5dda3bccf47a41f6012b3938c3d/tomlkit-0.5.10.tar.gz"
-    },
-    "0.5.11": {
-      "sha256": "f044eda25647882e5ef22b43a1688fb6ab12af2fc50e8456cdfc751c873101cf",
-      "url": "53/10/1f1186fcd453d10254450a7e947e92e6dbb0bf1418484aa4da2829be44f9/tomlkit-0.5.11.tar.gz"
-    },
-    "0.5.2": {
-      "sha256": "a43e0195edc9b3c198cd4b5f0f3d427a395d47c4a76ceba7cc875ed030756c39",
-      "url": "f6/8c/c27d292cf7c0f04f0e1b5c75ab95dc328542ccbe9a809a1eada66c897bd2/tomlkit-0.5.2.tar.gz"
-    },
-    "0.5.3": {
-      "sha256": "d6506342615d051bc961f70bfcfa3d29b6616cc08a3ddfd4bc24196f16fd4ec2",
-      "url": "f7/f7/bbd9213bfe76cb7821c897f9ed74877fd74993b4ca2fe9513eb5a31030f9/tomlkit-0.5.3.tar.gz"
-    },
-    "0.5.4": {
-      "sha256": "7b3b64021fd210c256ad81040f6a81312c600a8958758457e35778fe17157edd",
-      "url": "00/8f/ae1b51118e816608d216c8fcb3e889e2e840f47e64a41d9689e6f1110849/tomlkit-0.5.4.tar.gz"
-    },
-    "0.5.5": {
-      "sha256": "a8d806f3a453c2d292afe97918398354e405b93919e2e68771a3fd0a90e89576",
-      "url": "2b/7e/372f12f571f8dcb855f3444c3ca463399fa1d76fcb8dd48d476c2cd1a610/tomlkit-0.5.5.tar.gz"
-    },
-    "0.5.6": {
-      "sha256": "febd051be7d4f493d04a369a0ddcfa318beb562bc0ff5e47512c78741ccaedee",
-      "url": "3d/52/4322f78b1aade61e5ef8ecc765ba4dae5b7c29e556659ec33f609ef9ff2a/tomlkit-0.5.6.tar.gz"
-    },
-    "0.5.7": {
-      "sha256": "c4e657ec7a92aedc05202c068099ca530100aacb7dfadd100f2e8e5fd40302a1",
-      "url": "b0/ce/b2bf75dd2728a71773274baac6b0d1ed0c429b883cf27ea4e21e4726f7a4/tomlkit-0.5.7.tar.gz"
-    },
-    "0.5.8": {
-      "sha256": "32c10cc16ded7e4101c79f269910658cc2a0be5913f1252121c3cd603051c269",
-      "url": "20/e9/bae28bcfcb9942600b1e206d013499c291367ee8ddf9f455ff54729bc6e4/tomlkit-0.5.8.tar.gz"
-    },
-    "0.5.9": {
-      "sha256": "0c2021a0d25500399c72383fbc7896c868f8cd00b0313a7e56efbe8c9b26b5a1",
-      "url": "e6/34/73486cd768ff7e98ba5dce112b336bf6500114282fe6b01ac4215b57f55d/tomlkit-0.5.9.tar.gz"
-    },
-    "0.6.0": {
-      "sha256": "74f976908030ff164c0aa1edabe3bf83ea004b3daa5b0940b9c86a060c004e9a",
-      "url": "6d/20/4cdaff568b7b618c4d4d8df7ccf5dc2e2b029aed8ed6d4230316674b3fce/tomlkit-0.6.0.tar.gz"
     }
   },
   "topologic": {

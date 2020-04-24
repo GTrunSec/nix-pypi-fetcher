@@ -1157,6 +1157,12 @@
       "url": "49/82/b7a0eefd21b13dd381e337d1f5b751c85e1d0ac76b69a54823d7a37b7e75/amara3.xml-3.1.1.tar.gz"
     }
   },
+  "ammcpc": {
+    "0.1.3": {
+      "sha256": "b2008b8fee8a5e6a051578fdc39f6da7a3a4e097d458354db52d7e8075a79acc",
+      "url": "84/73/17a00d62e87a97f529f32a386af3605d5c9f51d1bd0b5559351291fc1eef/ammcpc-0.1.3.tar.gz"
+    }
+  },
   "ancypwn-backend-windows-remote": {
     "0.0.1": {
       "sha256": "523179223691b5b812762d1c255204f1fc7c1f0b18cad96f1bcd2bb62f88a9e2",
@@ -13949,6 +13955,10 @@
     "1.5.51": {
       "sha256": "0af4485a843db1ec16d0608bbc1e16b7ec9f5351a2c1cd989029fbf78d863cab",
       "url": "47/11/fbe27f977f4e9c570f231ebbb30e93aeb6d48ce73a12210cf8bb6f1a2756/OASYS1-ShadowOui-1.5.51.tar.gz"
+    },
+    "1.5.52": {
+      "sha256": "e782fc8dee3df460fe2f90d48734ac4037bd91f6b4e8f1027fa24777405fb1b6",
+      "url": "0a/f9/63ce820ec0ba8c7a88e8d22dc2058e89529db560076c5f2d7c86abdaf764/OASYS1-ShadowOui-1.5.52.tar.gz"
     }
   },
   "ocean-utils": {

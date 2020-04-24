@@ -15038,6 +15038,10 @@
       "sha256": "99505ee7e8e7f7a134fd1c32dd2f7e77ecf2e35d308cf8472359120eb180be2c",
       "url": "df/26/81bc66c50a02a8c842a8dba8f68a79dc5036b1a9c29a6d51becd5677a7cc/mypy-boto3-acm-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "22045a1dea9de1d52f5d0f5adc1c2819830342f9473b961070b2407188ac0a3b",
+      "url": "16/55/ac45c8cd5d4243fd031d3c88b21cf01064fe3aca84bd5b4e5db97b787f1e/mypy-boto3-acm-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c16e579945f9db2901106459b7cedc9215c037113ff423544676fb7dcdfb7a97",
       "url": "e8/4f/345ad62ebfc2a1459590840d62a3ccb7ffdf1354bd31a80261f87ec0e1ef/mypy-boto3-acm-1.12.5.0.tar.gz"
@@ -15556,6 +15560,10 @@
       "sha256": "06981fd12beab62225410c3f478010787dcf64930bc507b8003c48a689b52b3e",
       "url": "4d/b5/d036c51a353e3c124513c0e2a687a70138ae723fb5a441e9365fb40efa3b/mypy-boto3-cloudsearch-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "30c3d00fc594bd221d00dd8d4211e966795d296204c5eb51205be995e008ef2e",
+      "url": "5e/30/ea6603a9f710b78c818bb49735725ed7ef7649682f11ad96f358571fcde2/mypy-boto3-cloudsearch-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "55c7b07a1ec96a5140da7baa27b658b254937e55f9d00d2e844db4125972af52",
       "url": "6f/8c/b165e478647cfdeb4bda7bef26e8a19ab6170f42271b16fcb52b46712ba3/mypy-boto3-cloudsearch-1.12.5.0.tar.gz"
@@ -16069,6 +16077,10 @@
     "1.12.44.0": {
       "sha256": "f64ec3da93db6c552fa563109073189d1eb3ca4cfe943448e4617d01e8f00243",
       "url": "81/4f/a6ef8a958e7e9b1f998288c8712af98f13f87dd704610d497e5338ba4eec/mypy-boto3-sms-voice-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "84b30f3e7d3597e6cf524e01dec4f7f6f27950f0252fa2c99843431bb084dd7f",
+      "url": "f0/3b/de5135eb5209dbf1a78b9756ff0ef7b7a34de65c8675e4a1a6b93ab53ba9/mypy-boto3-sms-voice-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "38a8802734601ad572ef8bd2839974f07c2b1497083025a780b1e3c301c7df4d",

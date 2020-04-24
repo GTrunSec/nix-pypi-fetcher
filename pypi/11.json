@@ -4244,6 +4244,10 @@
       "sha256": "f4f68892e97a7ed7be9092a57768942ac4ecb628d75a4570453912078ffd43d6",
       "url": "79/83/44212c7908087a2342e5a42c18b146b476780216517ef7a71dd9b758d4e1/better-boto-0.25.0.tar.gz"
     },
+    "0.26.0": {
+      "sha256": "1f4eeb52c64eccc972f12a02c36c5e393ba011d975e7e0ce0c64c067d32c4ff2",
+      "url": "17/b2/c56d0d9fb4799cd1d6a1d1fa965525bf78877cb657db1a298bb09cc6daec/better-boto-0.26.0.tar.gz"
+    },
     "0.3.0": {
       "sha256": "cfea4fd433348c5b238b9822219afad52375eddd66a3f4cdbe3e2164a7e4d947",
       "url": "cd/21/56f4b94ee33e88f44b6c4b2aac02d69bcf8b2b25f9a15fd88ad06a8ce8d4/better-boto-0.3.0.tar.gz"
@@ -16628,6 +16632,10 @@
       "sha256": "1d762afe91dcadb6a5130f51db00fe37b77f7786110dfebd6106854c4270ef00",
       "url": "60/8b/4e7b488745e341bed3a6b43b9fec63044871831d2921431c6a3b1fa871bb/mypy-boto3-iotevents-data-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "d6d349c29d72b5683e0de92da3cf7c2c3fb2778106d81d3dc61854713125e1c6",
+      "url": "e9/2c/8d4b3a2c5f7da6633ffe096683b0a4d4967bb2e9ba409b67ddbddd28fc55/mypy-boto3-iotevents-data-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "19aad134285d6efce1acfa5df8c355bbc46f7a7a6039891dea0d52d715a95cea",
       "url": "f3/16/ba5415b7e46ca7cb20a501b7866b2ed2732eb47d861ac3ab10ed8e9390d8/mypy-boto3-iotevents-data-1.12.5.0.tar.gz"
@@ -19683,6 +19691,10 @@
     "2.5.0": {
       "sha256": "e40a936c9a450ad81df37f549d676d127b1b66000a6c500caa2b085bc0ca976c",
       "url": "1c/d1/41294da5915f4cae7f4b388cea6c2cd0d6cd53039788635f6875dfe8c72f/pycodestyle-2.5.0.tar.gz"
+    },
+    "2.6.0a1": {
+      "sha256": "c1362bf675a7c0171fa5f795917c570c2e405a97e5dc473b51f3656075d73acc",
+      "url": "e6/4d/09b2583fa9439a5625fe02dc3b99aa589a2304326ece689cca60d733a590/pycodestyle-2.6.0a1.tar.gz"
     }
   },
   "pycontractor": {

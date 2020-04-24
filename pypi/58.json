@@ -540,6 +540,10 @@
       "sha256": "38863aac51ae2570c6bfebb7d91037ff4fd581214f4669fabd261fa194654674",
       "url": "c4/4c/7b0449a66206168df01799c3b82915c38e0f521d5e1cb7ef33b5d9399408/alertlogic-sdk-python-1.0.17.tar.gz"
     },
+    "1.0.18": {
+      "sha256": "3df8e756ed1ee240a77373c9d58f074d2c20cf430ce27b2fbfd37768652102c4",
+      "url": "22/e5/333c8635e601efae9448b1efdffb6841be5b7bc90590babe0f9aadfef39a/alertlogic-sdk-python-1.0.18.tar.gz"
+    },
     "1.0.2": {
       "sha256": "40676a10d0b4b87b27bc7c552ff7128a4fe1c7e6f47c859c92134380f50ce9ff",
       "url": "d0/99/d3024145bfb05d246d3d92f948c98597586cd66ec8dc412d409caf2bd40f/alertlogic-sdk-python-1.0.2.tar.gz"
@@ -4411,6 +4415,12 @@
       "url": "7b/8d/b444c546590d6d1709a14df4b0b5840582a3b3d46fa6848b42103ef1c57c/dcmagick-0.1.0.tar.gz"
     }
   },
+  "ddb-cython34": {
+    "1.4.255": {
+      "sha256": "b1eb5202a5bab992c88993c005657d828a9e9c3467a6018ca737940703e92a86",
+      "url": "08/cf/f88453778685d671690ce362faa6917d2972aed42aa45e7a1dedca79b534/ddb-cython34-1.4.255.tar.gz"
+    }
+  },
   "ddtrace-graphql": {
     "0.0.3": {
       "sha256": "d4fc4b52696f8ce40af7efd06c91e5b4cc17dc35af044ce0498a6b966e193c75",
@@ -5037,6 +5047,14 @@
     "0.1.2.dev3": {
       "sha256": "5d0c3d71067c9851f95b2a78c9e3445e529eea7847a23210c04bd7c026dcb3c1",
       "url": "e2/09/10cef0a8d73d9d4e2ba9a87329c9a6f691e97784dcf7d02705b7229181f1/diva-boiler-0.1.2.dev3.tar.gz"
+    },
+    "0.1.20": {
+      "sha256": "d6c4587561aba0ffc996f342b75136fe7b727aefa0e08bb532a086c2a1cdc021",
+      "url": "6b/9d/1b9a9e5ed09a4a3a69d5c8dfdaec2f67a54ed9ee14671d0290380981f6d1/diva-boiler-0.1.20.tar.gz"
+    },
+    "0.1.20.dev2": {
+      "sha256": "a074f82d1c88829a42d25764e2c54ebd2a4e0a4487f2c3ee8335ae952028af20",
+      "url": "ff/68/b41a0a7d3623bfcc2e78d60c5359e6111a6933f0084d3ba293b289abc390/diva-boiler-0.1.20.dev2.tar.gz"
     },
     "0.1.3": {
       "sha256": "e881d7aa413e841d2849a2a9be854435918627fffe964fb1be4239f8dd0e7cf1",
@@ -13739,40 +13757,6 @@
       "url": "75/1c/5af040ef9968ded73e8e219a9b86da9c6d4821e9b6277468938318ff744b/mr.cython-1.0.tar.gz"
     }
   },
-  "msl-package-manager": {
-    "1.4.0": {
-      "sha256": "a9026ea5ce0199a15de49db7d617e59ada92eeb05f38e4d6d2a5d309a6395b09",
-      "url": "cf/64/6c893e0622eacbaaa2f0af1e45188f20068e23d9b0ec32b2b8cc0527460a/msl-package-manager-1.4.0.tar.gz"
-    },
-    "1.5.0": {
-      "sha256": "cf48995545439d07367b03320ec663c3a3a36c55d325d350be4ce72e70c9a475",
-      "url": "4e/85/ab0100186a816da2a1c3cd4e0bfb23b0f999cb1b9210ad4d4b4e2ad8ec53/msl-package-manager-1.5.0.tar.gz"
-    },
-    "1.5.1": {
-      "sha256": "9926590c75740384b41c47802dd411c16d7622a96a0513652c6f99f94f31fb3c",
-      "url": "2a/6c/58f73e00b1c1d7152a8ea433deb2779c10b13cdf1877fd1d80937678dd2c/msl-package-manager-1.5.1.tar.gz"
-    },
-    "2.0.0": {
-      "sha256": "7a8d0ced186469e1028df2b1ecbac8dade66ed32a5522a85772ae21350c41ad3",
-      "url": "5e/50/19ba1f484e15c7e0f3167b1e06ee2123892d60dcb9bbae775c3bf8d53414/msl-package-manager-2.0.0.tar.gz"
-    },
-    "2.1.0": {
-      "sha256": "51c878c22fbc691491a45f492ed9e2fcf3dbd85d5c61db330f55aa9f0caf4813",
-      "url": "5c/8c/0efbcfc50d9df8cef998b759828aba34c4576e462f068ec0762a5a17e316/msl-package-manager-2.1.0.tar.gz"
-    },
-    "2.2.0": {
-      "sha256": "1a859ee3b9f549553df9616eeb7b0b960908db05b7c2be383c138953e03cc399",
-      "url": "f3/bf/deedc12d2bf9f07237c7a7249820e4f47d274f424a4a14261607a86c2c69/msl-package-manager-2.2.0.tar.gz"
-    },
-    "2.3.0": {
-      "sha256": "9da3053f91225a8bb8b65c30253da6b7dfa61e787fc897816e5a23f67bcac085",
-      "url": "51/0d/d5c67d305751c3d1833ee4fdf1cc0e959900647bd6f9c4699c5303d10b5a/msl-package-manager-2.3.0.tar.gz"
-    },
-    "2.4.0": {
-      "sha256": "9dccd5f458a9f7669ce06ba644e7bb70b40f8eb1edd608f5e43a3f35e54e4518",
-      "url": "2d/0c/abab7309e3b5a906bd181c0541dd812cd50923d79239dbfefc3d43b4ea7c/msl-package-manager-2.4.0.tar.gz"
-    }
-  },
   "msxf-flow-engine": {
     "0.2.1": {
       "sha256": "5c913cc085ec3327bc6a67e6db19d1447cd242aa6aa04ef2578209c169e40761",
@@ -16137,16 +16121,6 @@
     "1.0": {
       "sha256": "63c84fb9013af6e7d380121777a5d7c3b1f7ab8004df2f50ee00cfeb1da636aa",
       "url": "ef/e9/400bca0127a1464a02da5f4092729611f336c705908020a02949a8546cdf/pox.banner-1.0.tar.gz"
-    }
-  },
-  "pox3": {
-    "0.1.0": {
-      "sha256": "2f883850df834f3813b7b48f0a6280a0ad67f6a0c2a63f4af89424d95be30026",
-      "url": "cd/23/b8e78fcde7bbbadfe4c571af83e30b893a3c5fa4b66197ad666758a2606d/pox3-0.1.0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "0c98eaeb196e834e04f6f41d93c28e52ed721fb386242c893334c2ed819089f2",
-      "url": "e7/55/234054d94c282df8f49b591af40d5245e7520020051edc80b384b32d4ff6/pox3-0.1.1.tar.gz"
     }
   },
   "ppark": {

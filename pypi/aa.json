@@ -1713,6 +1713,10 @@
     "4.0.0.0rc1": {
       "sha256": "1dab42acee5f84e099c34c7009581b545ed0728e07d52ae6bfab2cbf1dfa42c2",
       "url": "f0/d4/5a29c71ad1f0efe8513316a420d701f2ccbeabef7f4a45dbd683bfc5b9e7/blazar-4.0.0.0rc1.tar.gz"
+    },
+    "5.0.0.0rc1": {
+      "sha256": "0aae2df6d7defed286a5a67364b1024451b43de93c6c8fc9a9102b4d2827bc57",
+      "url": "d3/cc/d9e5a483f7a9dc15b32f24cc7c63fe54ecda85b2153b7e13146255a8ab82/blazar-5.0.0.0rc1.tar.gz"
     }
   },
   "bottle-beaker": {
@@ -12280,6 +12284,10 @@
       "sha256": "1aabbc4378d97f83c44ea984c0f2998502dabb7ddfd73d8f346941ff607713aa",
       "url": "05/78/1b99b58faf2128cc9d232770da0c7b0a6b3e87c5e5510f74457b0057d16e/mypy-boto3-iot-data-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "b4de9ec2ec06373ef3f760418f37292d7fc1fb38384eca1e80beda051067ccc4",
+      "url": "96/50/a78b71644210c87ef84e11dd7fabd0e50bb7d5cfb42608b7cc1727afdd01/mypy-boto3-iot-data-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "0b2ee6b1f44ed44f2884fd6bbb19a35478f1fcd8d0211a87c48b93d32434a9d5",
       "url": "ba/55/015ded580c0e9e936bc61ceb27cbe86eca14bfba614543d4fd20fd97ce8c/mypy-boto3-iot-data-1.12.5.0.tar.gz"
@@ -18905,6 +18913,10 @@
     "0.8.0": {
       "sha256": "c08f13e6a7625040965c294f5a629644762dfc454d6eac18913277ef7e508644",
       "url": "64/e2/ec8025855129f93750adcadc735d94be0236865c9e382486b48a3445dba5/ska-sdp-subarray-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "ae0bace21fd9dcda48126fed731e87d63e20a2ee7367b2dddd1a2d84f21ed47d",
+      "url": "74/b6/abe10c4e29c38c3cb7554bc700889ca5256a1a0c9662d8dc758effe1ef01/ska-sdp-subarray-0.8.1.tar.gz"
     }
   },
   "skallel-stats": {

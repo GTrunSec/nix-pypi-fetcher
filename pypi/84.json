@@ -9017,6 +9017,10 @@
     "1.0.2": {
       "sha256": "9183cbf15615199cbc7c6b3f0ee002348b22029fd7e2fc9efb3b555f1e609b58",
       "url": "6a/4e/4522646db3d6b5b4c9906e1b0b7dc17182884d7dcccb775f9e9efa0147ef/jupyterlab_cognos_dashboard_embedded-1.0.2.tar.gz"
+    },
+    "1.0.3.dev1": {
+      "sha256": "3e74551a9d72dc655279c517fd4a21998d7d1359e2badd666ee846bc3cd455a1",
+      "url": "2c/ec/0d6c78a687378843e943e98a93f8cb0238c0d71e9e69095ad74d7ad90c42/jupyterlab_cognos_dashboard_embedded-1.0.3.dev1.tar.gz"
     }
   },
   "juranelito": {
@@ -13025,6 +13029,10 @@
     "1.12.44.0": {
       "sha256": "e8198d1d29d840ccd574daa52db36b087ad6475b529e23a0570a8796fd6c2d89",
       "url": "f3/f7/b16917601b10f7d65de835c84f955f56aaf2490cd1a5e3ac52844c5c148e/mypy-boto3-ssm-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "c90636223ca5bf2e17b7fc642957c5aa5b9d2159f2ccee5e9d4287ef54fa2a7f",
+      "url": "c3/98/93eda3217933c281b93e41e4499cacb4e3212e5d57e66aa867d1cfcd1050/mypy-boto3-ssm-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c232cc936c40ea0b877b28e1a18c6975d720a432a367fe9ab6dc5c8e0b1ad76f",
@@ -19105,6 +19113,10 @@
     "1.0.11": {
       "sha256": "9bf1842a8edaa8377abe662406b791dfd378f0093dd375432a8be0d62f54207b",
       "url": "d8/d4/e0da1681496aa9fb0538414608e370237d5e8cafa7edc4f57a2290949fe2/stackl-client-1.0.11.tar.gz"
+    },
+    "1.0.12": {
+      "sha256": "7494031ebee9cf2d977a574a3b5170bfc1418b464eed5b6c3b2e3f9b2b49ec16",
+      "url": "fb/4b/0a82fb57617ba962dda55f0502fc89a1983ab1f0190f0ec4aff907f95c75/stackl-client-1.0.12.tar.gz"
     },
     "1.0.2": {
       "sha256": "96b5bafe7bdd746691ed9ad47e3fe3796cea6502ab554620b22bd645c60e4db1",

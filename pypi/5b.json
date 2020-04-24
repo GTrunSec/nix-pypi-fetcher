@@ -6981,6 +6981,36 @@
       "url": "d8/73/37d1383d6ceff592c703cc981082f00a250c76bcd9acad75968902fbdb8b/geoutils-0.0.1.tar.gz"
     }
   },
+  "gh-pr-comment": {
+    "0.1.0.dev0": {
+      "sha256": "0e362804107b1d2f6a3f8092deafb65b2953a622d0f140350e3c95425ee661c1",
+      "url": "1b/15/3f3934bb2742686422d44a047eaf1e23a1a748cabc3e689db29a6721cf48/gh_pr_comment-0.1.0.dev0.tar.gz"
+    },
+    "0.1.0.dev1": {
+      "sha256": "b882aeac0ab484988cd678f8e5a3964b3809c0f71478231e2f4ac25bcc414d4b",
+      "url": "f7/4e/64a98ebf8a0e727c8656f61842880c0355ede56fe679d6a9ec636cc86847/gh_pr_comment-0.1.0.dev1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "12e0442f83c631b924016a9e371e5770db1360c76dd52ee2df69555fc7807c57",
+      "url": "cb/31/a7d901bf1a485454d3393835927696c323cd6c3ccad458732ec12513d07f/gh_pr_comment-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "7f2b701c4ce518eac3cb69c3dde45816e1f1681c51cce2b69fe7d933bae8c76b",
+      "url": "1b/2a/461883947aaf772120f9b0109297cface529089f8bc48f76340ca248fcff/gh_pr_comment-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "4f59cd329b66f186bcb312ad5662cdf13e7fcf3406795ac514b3cbf4c78c7fc6",
+      "url": "32/50/5682b67b6eb3ad478940a54a6938dd59ffa4c7a4ef05ea38567a87906766/gh_pr_comment-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "1ed17e520b2bb21451d8f556152e3ff812fa60c1a0eb10933b77ea24404573bb",
+      "url": "9b/b7/9fb7c95992cf78e6d6970d9a832b42f6686613222f8090c9400f8dd2a0d0/gh_pr_comment-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "cf37c776f884367e1ce375a933074a027f83e8370c3a70aa2a227a3dd674e472",
+      "url": "c7/2b/09335946e4122c4c4bbc661593607f68bd50ce3b587a460f75a70eb3b5e2/gh_pr_comment-0.4.2.tar.gz"
+    }
+  },
   "git-semver": {
     "0.1.2": {
       "sha256": "5a4f66d124bef3a86b028e969cecd82df1c7fdfcd506b23a90a71a8218b28ae5",
@@ -10349,6 +10379,10 @@
     "1.12.44.0": {
       "sha256": "545b62ec2debcc4a91ab160beed281366a30515ea2d01b0840c8fd8fe403909e",
       "url": "99/61/af9664979d8e06c8a97e7bce8f3b683b5adfcc02add184f5c6a7acac1953/mypy-boto3-cloudsearchdomain-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "78cb0e198aa88d603619b2911447dcf8701a66f2017c717665b8a377f488089f",
+      "url": "90/22/8f209cd9485eac326b8b4b7e39253ea077d40d39f67c59dc17bc7863f58a/mypy-boto3-cloudsearchdomain-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "717bcc5e9619855b12f9ad0f05ce0c3559e3b749adf72168facd5ac6ec31b5a9",
@@ -17115,84 +17149,6 @@
       "url": "66/13/98451556b241ffdfbfa0c38ee6025247a66746263b4da130abfae59cdc1e/resultbox-0.0.3.tar.gz"
     }
   },
-  "revpimodio2": {
-    "2.0.5": {
-      "sha256": "9af2aaf2f0cb2ddb80db6b73605869aa0430bc8abd458b703ccc8156cdba42ed",
-      "url": "34/94/4f9772a06f019c7289640ec47b320767e4f413027902ebd82da7983f0393/revpimodio2-2.0.5.tar.gz"
-    },
-    "2.0.6": {
-      "sha256": "b7460b79df825a55186b4d9fca24ed3c802c1f051bc73d9f5d64a4a202e63f0f",
-      "url": "53/7f/e8d9654ce4d148251ff1cca97560d55e374dd9aaf6bf65ea991813f075f3/revpimodio2-2.0.6.tar.gz"
-    },
-    "2.0.7": {
-      "sha256": "502b85458b077206576dc472ebbd11c5bd8de8163ccf9146b031cfd82ebefd6d",
-      "url": "dc/8b/bcd0ad85c42cc5a655a9cbd9fa861217d42194bb0cfde80295d853401919/revpimodio2-2.0.7.tar.gz"
-    },
-    "2.1.1b2": {
-      "sha256": "546b1dc15e485f0434e21a0941d90b4ca388e599dc3fa2ac88af1b75e6df60c4",
-      "url": "b1/ff/7a7a1494dc4bf89d8d3bdc2983ab9306ae0cb77b555dbb3033ce540ab9ae/revpimodio2-2.1.1b2.tar.gz"
-    },
-    "2.1.2": {
-      "sha256": "59c43d380ce3e6bdc0dd463f9c1baf8c820752fe3875711cc97caffe38bc2ec9",
-      "url": "41/44/67e58919dc5f130e51ca24aae7401c6cb824d686ed0ed1055a957b8a4fb6/revpimodio2-2.1.2.tar.gz"
-    },
-    "2.1.3": {
-      "sha256": "783433f1d630d36099798fc0d70d6ff63c718f1a761f7e6a5643fa8e27d41c27",
-      "url": "3d/ee/8eb3872c93129223083c16b1b48a06c595fa95c53707801c5000269985b4/revpimodio2-2.1.3.tar.gz"
-    },
-    "2.1.5": {
-      "sha256": "b906a63d7e061bde65459ac0ae514ac6fa867ddb7af054b01bb68fb52461ec44",
-      "url": "cb/c1/f3738218d2286fd108f994a5b6ea861eaa5d978eb355125c74e978181797/revpimodio2-2.1.5.tar.gz"
-    },
-    "2.1.6": {
-      "sha256": "9e0b3f83e25bf1f144efa6642eb98013de9c1f92c1777023cf32983d23339bcc",
-      "url": "e7/e2/00d090ace7c8f31e6a40ce55fae8bab430e1544893a35edefc969c13cb5e/revpimodio2-2.1.6.tar.gz"
-    },
-    "2.2.2": {
-      "sha256": "b9cd0c9d6fb03f7b72d73aa120d6ef87fdcff010bea4f05d3abb548e5a4d01c2",
-      "url": "34/9b/2b54b4ed89d2a605cb305032b197cff3462bc45fa77b4f490cd665b567e6/revpimodio2-2.2.2.tar.gz"
-    },
-    "2.2.3": {
-      "sha256": "ddcdcffcd9704a615a7b5888f97c8a9ae9c0b484905bc7871f8cde7bfd9aa0c2",
-      "url": "65/08/25189c28d8e20fa8558dd7f46e32be9a903282e0c20a4d91d82b4c02d8d0/revpimodio2-2.2.3.tar.gz"
-    },
-    "2.2.4": {
-      "sha256": "1f2c1c1dfe4b54f4a20d06c846562845ac9b4e438d32e44a6c8975ab61a26af5",
-      "url": "d3/49/d73adb1294ed6b426d6c71ad5d23c5d0fe2ad88ff0ecf397f9917ebcd47f/revpimodio2-2.2.4.tar.gz"
-    },
-    "2.2.5": {
-      "sha256": "d34decdbd547b1743c844b9998eb201b907302354023cff1fe8c03001f19d957",
-      "url": "32/ba/28b6f905bc9acde08c58fd1e656790230616f564dca3d8e212e60a7bf678/revpimodio2-2.2.5.tar.gz"
-    },
-    "2.3.1": {
-      "sha256": "4e77688988eacae1d5d13636d7e377f23a553978caa5b8449322045a2427945e",
-      "url": "be/e3/d4ee5a27f066e07f4a9695d2a63767ce768386ccdc98accc1172ae7fd244/revpimodio2-2.3.1.tar.gz"
-    },
-    "2.3.2": {
-      "sha256": "07607b72bac3216e9a2e6a8c007df0f5256560b2851e1b6920f7ad1ec2e1e1fe",
-      "url": "83/2b/bba6bed91e0c2d841cb1fd5488b144588099656b1fdf08f887f96bf46fb8/revpimodio2-2.3.2.tar.gz"
-    },
-    "2.3.3": {
-      "sha256": "27b36041bc668fa785640ea1709b71210fe33e6d88072919f963382aad1e22fa",
-      "url": "f7/bb/2b60690495e4c4f907b29abb2c6bb96a7e43665956781c51ebbe702cbb8d/revpimodio2-2.3.3.tar.gz"
-    },
-    "2.4.0": {
-      "sha256": "9daa92bb6374a6ac45ab88bca595703d78ab273a4d658e35f39027ae8cb72e87",
-      "url": "a5/43/01c1850323cdc7d195cda672c28fdc8d3791c47b79f97cce514841ddc206/revpimodio2-2.4.0.tar.gz"
-    },
-    "2.4.1": {
-      "sha256": "bde23eb2a3144103179669a3c7c7123cdf17951d4110f0670a96b647a4bdb760",
-      "url": "14/e9/ebec9b1d8c04ea5beee0ef7cb67a2198c010b7559f5f73d1a708912e13da/revpimodio2-2.4.1.tar.gz"
-    },
-    "2.4.2": {
-      "sha256": "fa80448f3bf296a4f3599267ffea5f9c9f7f508784b58c7d347e58a002b7e5e0",
-      "url": "0b/14/99d0c1598ae99d45ae41e30b13c32f92bc9632b0ea30f37e22c1fa9419c2/revpimodio2-2.4.2.tar.gz"
-    },
-    "2.4.5": {
-      "sha256": "ac444a0f696dab3d8f3ca2d86f1218a48193d46529cf4fe3d1e71642affb855c",
-      "url": "da/d3/3e64e92e97200435fcb1595dae2c3d8c64329b5ac6a7ed140923a058331b/revpimodio2-2.4.5.tar.gz"
-    }
-  },
   "rezina": {
     "0.1.1": {
       "sha256": "2af92185b5ceeb73b72d59d9c3e81d22d03a450964e59f5ea6f0015fbedd6088",
@@ -22239,6 +22195,14 @@
     "0.0.2": {
       "sha256": "d4c255f70f19e7e76901184a5147e9d8595b2285955fb2c4af1433086d436a80",
       "url": "27/8b/a00e681261e2506bbf4c111f1f97162780f34762d64d39e8915e8defa3ef/urequest-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "10ba831894333ec772e02e2436e3772bf2df1aa66afb66836a1afb4b05bc3084",
+      "url": "dd/64/2de94d8f70507b377248e3223233130fedbb832180699492e3671535ef1e/urequest-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "9e3b2613eb96984cfcd0af3403558d8b7412935ad420e05551cc5e925e979d76",
+      "url": "cf/42/e2a3c4cfa8c73a10063a75f54bd69e0a562b0c736d45aa91f21b5cdd63dd/urequest-0.0.4.tar.gz"
     }
   },
   "urlnorm": {

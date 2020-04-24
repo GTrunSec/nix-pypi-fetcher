@@ -23871,6 +23871,14 @@
     "1.0.2": {
       "sha256": "c561d813900b9eee9ecfe9569b5730d3c7b13d64142d9e51384a9505c968f699",
       "url": "29/4d/736df90fe8014da85546c270292fa64941677af028d8ff0f9dab8f230370/unidic-lite-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "d96e8fd77d13e91ba0a35bdb6a88df3f53390f7d8e61f1831788e325efed0eb4",
+      "url": "b8/30/59ea04a601e681a4acef43c01b6ad1e49f9427e6a25830840cc68ab6037b/unidic-lite-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "b1fb9ae72791dd4e03d2ac217d8d9930a8294586ce8db55d4c7431cc012211bc",
+      "url": "03/58/d561fa739e8b1f293748ebd7df6657f6e2a3aaa26ed316fc90bcb2eb3314/unidic-lite-1.0.4.tar.gz"
     }
   },
   "unpaddedbase32": {

@@ -7668,6 +7668,10 @@
       "sha256": "35b264e22573cb33f816bd6497a87f3b8dfafaf1d388f11dcee695e1ea2c6e0e",
       "url": "dc/49/18b29ac889ed4b62b4f10b3ea3fb34e7761cbfc53abe80fd7e1b13a9b265/djangoldp_notification-0.1.11.tar.gz"
     },
+    "0.1.12": {
+      "sha256": "53254a32f8abcc37d36bf8e0154ba0cf9eb7a5282448c5e636b8b4592df530e5",
+      "url": "f6/f2/18cace62e26cef73b3eb82d76b457c17d2c64ac4028c6bf9fc6a1975e5fc/djangoldp_notification-0.1.12.tar.gz"
+    },
     "0.1.2": {
       "sha256": "8037f44b4b2976996a8a4fe44b8d3307ff851063abb92b8b11ae73a0cc164fe3",
       "url": "4a/f9/6f812a7285f890d58148b660f3243c0c0e6d86a117f4bb0ab6d1bf17d9be/djangoldp_notification-0.1.2.tar.gz"
@@ -12483,12 +12487,6 @@
       "url": "ab/3e/51ab4c0813e671fa13c7d68d9c5db3451609cc0af8785d492cfcc3eef94e/locale-simple-0.019.tar.gz"
     }
   },
-  "localnet3": {
-    "1.0.0": {
-      "sha256": "53a02432821db5715b59e558b2dc97d8a22417502ad111e339e36bfaa3c8fb20",
-      "url": "f3/95/aaa8c0ec000827e6d2c11f954ffbc48518c0ff63532717d38a1cf24a9f8a/localnet3-1.0.0.tar.gz"
-    }
-  },
   "logblizzard": {
     "0.5.dev2": {
       "sha256": "8d4e40c5164c347a0fb99375a274a1861f0f5a383ee7b8933516353a8291cc9e",
@@ -13030,6 +13028,10 @@
     }
   },
   "magnum": {
+    "10.0.0.0rc1": {
+      "sha256": "9a08db9c21b81c022ea86940f9d4a84b6937e0b6f6fe910832f3a700367cac75",
+      "url": "50/44/2da03db35497961e2d5dae0bed084bfc046ef53cf5c44f63f570aa6c2cae/magnum-10.0.0.0rc1.tar.gz"
+    },
     "5.0.2": {
       "sha256": "b9875980dcafa89997c0811c1e7fc687a0635a07644170a2da4999083ac748cb",
       "url": "8d/22/2a4fd0b3be5452ac4c07ad247db5942967c4ab66bba7d77663f03435dd0e/magnum-5.0.2.tar.gz"
@@ -14474,6 +14476,10 @@
       "sha256": "2b85ed362d00c5a41e81cdb327b03e5b19e0a30b0c9b02a6279761cad7d71543",
       "url": "f8/6a/8c84d780f15934dad349be19d59091d04a3b06af297ee6ef6e96e1a205c7/mypy-boto3-cognito-idp-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "1c4c5b2307a250ec382b0e1cbfd6826a84091ca4e97f9520e979b2f24f38dccc",
+      "url": "95/a4/fbd2dae9b085954dd94f5895cf4cc6657c99a69bd5a27a69fd456a4af69c/mypy-boto3-cognito-idp-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "fc9e0c6cac05a900360d8678a21017fa6be5a058605d843c107722736a0e3b54",
       "url": "6a/ef/f36e0f5955f4fb5d1e510a7316a04e0878ace0d3ff662d58fef70776d4a6/mypy-boto3-cognito-idp-1.12.5.0.tar.gz"
@@ -15499,6 +15505,10 @@
     "2.5.0": {
       "sha256": "b7d16ba889bedb7b86921871332a1a4034aa585739cf1fc37c4c5bdb1f4a357b",
       "url": "37/db/2e2d8efac5d8ed2bda304db8daa9ccbb45b017a41aa95ccd870c303586ff/ocrd-2.5.0.tar.gz"
+    },
+    "2.5.1": {
+      "sha256": "88fa554c03fc71a6164953d355ce33e2f2f79164b3f6ad9c5ef4bb194e6e2e8a",
+      "url": "f8/5a/15649a8a498fd71d02046d0843759d468f6d8583228f759e0419d04c3caa/ocrd-2.5.1.tar.gz"
     }
   },
   "ok-anime": {

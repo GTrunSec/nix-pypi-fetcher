@@ -4490,6 +4490,10 @@
       "sha256": "2426b4a305ebb3f8caef79162b9a38184fb33e44e3276c9aec8791116ca77df8",
       "url": "e4/4f/50f2592a64a3d91177157e418f98cb84e37a38a6b46b94c1266fe86601c1/datasmoothie-0.1.tar.gz"
     },
+    "0.10": {
+      "sha256": "508eeb6b9f67da6dbcca150446ed2bdfefa57c8935547260656db89955468805",
+      "url": "2b/4b/272ab99e79c356a0f25f8cdc71d857eb79865b6da42a5bf9726fd1bd5e5f/datasmoothie-0.10.tar.gz"
+    },
     "0.2": {
       "sha256": "bce92cba527e58162648b2b7640cd8d540886a08dba7012138e1649bce0ab5f6",
       "url": "64/2c/84eca07396426e6b5dc670eaccbb56a81dab1089845fa04e02264d7949e6/datasmoothie-0.2.tar.gz"
@@ -10740,6 +10744,10 @@
       "sha256": "aae5fb0ae60a9266631e0dd6ce77a05a83d6ae46ba73a2dac85ac3291d0be948",
       "url": "79/88/b6be5463a82ab1b10aeda740f3e0c18e127b97b21c61c829e83b8e7b18ea/imio.migrator-1.20.tar.gz"
     },
+    "1.21": {
+      "sha256": "d262843a5c3fac5412450e2e659a26a1b8ccd29c74d9026607fe6c54b67c6415",
+      "url": "15/cb/38f9ddbb5219e0b3f2aab4b7f6f3d63a38d0e77e7e7ebc1c6ff28e407599/imio.migrator-1.21.tar.gz"
+    },
     "1.3": {
       "sha256": "5466abdbc215e78b4749e350c8126f86d39c02f051bce4d72261a72cee24f76c",
       "url": "d8/86/ca784b925d37a9db8b2997825edd39547d6aafd227a2068f0f6e8f28ecb0/imio.migrator-1.3.zip"
@@ -11323,6 +11331,10 @@
     "022": {
       "sha256": "2160977bec4168babd323da4cf86f5b33ae0220007df0f94abc3f0a57e6d9cdd",
       "url": "69/93/f2ccef1136dba078dada0513c324bad9ffd2be9236229d09bce71e1338a8/junit2html-022.tar.gz"
+    },
+    "023": {
+      "sha256": "4e31f4306e76a4c854867149a9b4776dd1c6bae5441368d2da1dce485c18302e",
+      "url": "cf/5f/9ff919bed71f13574ac2096c95bad5c1f1d3aa563a587c0655bdfa05ee78/junit2html-023.tar.gz"
     }
   },
   "jzqt": {
@@ -11977,6 +11989,12 @@
     "0.2.3": {
       "sha256": "66201540567817b1f38fa2b6d358b57b126d5353eb275508a2042a7f5dd3b4b5",
       "url": "bd/bc/b24e2e23d7e1fbe001a9442a19e85ce64ba9556b47e5df84b1a32a219fe5/lipisha-0.2.3.tar.gz"
+    }
+  },
+  "listmaker": {
+    "0.1.0": {
+      "sha256": "cfcbef03118636997e3fdef0a36dacfdbf57a12b0bf169f4674c6d0b30fbed51",
+      "url": "27/f2/d167215f38029e2dbc6c938e4009b8f27189fd4d6dc7d2f5c95e99a3d585/listmaker-0.1.0.tar.gz"
     }
   },
   "localdb": {
@@ -20431,6 +20449,10 @@
     "2.1.1": {
       "sha256": "a6b7b0c95ad3bc20b8b10b9a20732fde4e070eb766216f2b9d441b31ad4dcbbe",
       "url": "42/75/930e0b21630b8e17cd98829ec220694e1633532bccfec54386267244c5a3/scalyr-agent-2-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "601b91bd8c47961aa107fdcabc6630627bbf22abd28d78dc39b50921e8fbdcb9",
+      "url": "54/c1/9dbf590778e13da9e80c06230acca9f67987e579f9a7cf0fc82ef640aabb/scalyr-agent-2-2.1.2.tar.gz"
     }
   },
   "scikit-video": {

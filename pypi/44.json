@@ -7391,6 +7391,12 @@
       "url": "af/07/1d6c44e0b0d4e2b43761cd66c19397f57ea12e91c0ebd3921e048b259f99/feincms-jobs-0.1.tar.gz"
     }
   },
+  "fichat": {
+    "0.1.0": {
+      "sha256": "4a8ea8ed6f562d6f75cbbf1d1d9b47e803229798e5f3be6d2448dc7c40fa000a",
+      "url": "a3/4a/fe0c8c33199775ed09aa85f578f85b77b556ea8400d276365cf32323cf61/Fichat-0.1.0.tar.gz"
+    }
+  },
   "fictionary": {
     "0.0.1": {
       "sha256": "5aa362fd577b250e69dd11e46c21a37f95cd202eb11d905a5f81bf0e6b9188fb",
@@ -11186,6 +11192,10 @@
       "sha256": "56be5f4f63cce673d936238b20a4a4f65056680886a0ce7a41b27ae3b7d56562",
       "url": "f3/80/bae7527060f4624f1e68cd8d5c9744ff55111ea8e24bf6deabddc001f737/jupyterhubutils-0.17.1.tar.gz"
     },
+    "0.17.2": {
+      "sha256": "848a26bb657b63f3a0708f73f43b64f10c96d60e6105f5ad2dffd3a59c6dff70",
+      "url": "fd/3f/6be7435dbc6b46d64d81ffbe4531a6df97dff719ea2316c1be10ce47d291/jupyterhubutils-0.17.2.tar.gz"
+    },
     "0.2.0": {
       "sha256": "34c2086441a1452fb34b50eef2ad0f4f6aa4d8e581ff6c359d7b9778cb78511a",
       "url": "c0/b5/cf57e444bb4efe6f2dce1ec4f148b4dbe4cd6c5c2d56fa7d7ff97f510e77/jupyterhubutils-0.2.0.tar.gz"
@@ -12234,6 +12244,10 @@
       "sha256": "bb75d58d957857020f323563d9b96d7830c5a530de5ba64deb6fad67965e2447",
       "url": "2f/83/ca3ee7476e7a736b225a7246a6f7f899a03b640a119e286729a2dd230ed0/mne-0.20.0.tar.gz"
     },
+    "0.20.1": {
+      "sha256": "d9fe76f0a48cc1bdcc53d1fcd970968a82bdbf7ad6e3f81bb1ef022aa7049b11",
+      "url": "a9/66/03b39fd0c1a0dae7ef970424844ad5d8633fc5b13e0dbef215480990a4e6/mne-0.20.1.tar.gz"
+    },
     "0.3": {
       "sha256": "028d1d334af2fe1c5777be5295a257577ca1aa79216f1c63456b4fbc55d51d88",
       "url": "6c/5e/903e2db55151fbf701c4f7e070156a4c8ddddccff7a23cbc443dbe7a465c/mne-0.3.tar.gz"
@@ -12289,6 +12303,12 @@
     "1": {
       "sha256": "25b27910be1437215e8fa34ce02555af9d182c09b9f559d650ac147598266f02",
       "url": "2d/b6/7a5279b99d3696774e645621368cc2d8d3d569a1d8b5720717a24d88938b/modman-1.tar.gz"
+    }
+  },
+  "momotor-engine-proto": {
+    "3.0.0": {
+      "sha256": "f68a6eebb1e498840f0ff825563faeea613049736827aa4d89f8df52f6e3d935",
+      "url": "1c/0f/59b31dc056f4880ce4ad92fb49c77922092faf101e7d7bd75ae24632c93c/momotor-engine-proto-3.0.0.tar.gz"
     }
   },
   "monero": {
@@ -12971,6 +12991,10 @@
     "1.12.44.0": {
       "sha256": "7d5a5b902c9dbcb1edf4b04988b7fb2fa461f49c71af69daa818be48cee2ff22",
       "url": "8b/3e/ecb8a0c2db95afa9a7274f1cc62408bcad7f540f0152c7ee4e0fdc9d3694/mypy-boto3-schemas-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "e234ab0fc82c2cb67db9b51a5446771797b7822311694c178fe52672fbb323a8",
+      "url": "8d/49/aa0ce61d4cebc247d4d16a5f987d2939ab0ea24b2341445619fa93ad950f/mypy-boto3-schemas-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "d92107c9e123006a574769a58ea5f7c0a3ded0aa573bb8ce71259b845e089c96",

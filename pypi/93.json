@@ -2779,6 +2779,10 @@
     "2.0": {
       "sha256": "f0720815c093d4085b32b89faf194e04775ad8ae0352ef1c18c2deae59a66cb8",
       "url": "6a/cd/f0d670d0a69bb56e25fd46a0c9ee56eeaca1b8d162ef47d13b35a13ada69/BrowseDrive-2.0.tar.gz"
+    },
+    "2.1": {
+      "sha256": "0fa845fb24e2ebfa492393f3f47ac08c6ee65adbd8ffcda3d8621af271bdfa69",
+      "url": "60/41/2d5769ea239abcf722a29399f3ffdfa473b45ac7d168d128c397aa82d7dc/BrowseDrive-2.1.tar.gz"
     }
   },
   "buslib": {
@@ -15107,6 +15111,10 @@
     "0.1.8": {
       "sha256": "050099291128ba891fb29e943823c1b3b645e907ba9a8a3ea7fa9520382ad1cf",
       "url": "51/59/7ba690cf10efe8bfe5ff8a85cbc8bc0fb27a3e0450e2b8cf5eaab07053d1/microapp-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "349a75ef196644694641a955b2981ad986caae7140be63af97b30871a1ddcb68",
+      "url": "06/1f/cca36d44eccd9b6769c532be40fa24425eeefc80af3b1fe194e36e11e0f9/microapp-0.1.9.tar.gz"
     }
   },
   "microbenthos": {
@@ -16739,6 +16747,10 @@
     "2.5.0": {
       "sha256": "cfad44d9b5497ed77927c92ab756eb407936c1673240242955b974b4d1541be4",
       "url": "2c/5d/0fcd38f81f661b37636ceef8102646a1e38b6a385b5e31798e047c2be79e/ocrd_validators-2.5.0.tar.gz"
+    },
+    "2.5.1": {
+      "sha256": "eff2600882b71b8672f816c2a35f02d2fc0b593ca0d90b837a531ba93ac48f7a",
+      "url": "93/62/5ea6491069697c1a91a2218b20ceefbca42e0d1e03fcd5a0c6d0f1170953/ocrd_validators-2.5.1.tar.gz"
     }
   },
   "odpm": {
@@ -19043,6 +19055,10 @@
     "1.25": {
       "sha256": "ba1b177ae89f6bf6164fe027daca7b676fdddcb0c181d55419725bec2393a4f4",
       "url": "7b/16/91baf176aca42a3c487579b20a8c42b0728cbddb2ec87fb5b0fa3dc03432/predictit-1.25.tar.gz"
+    },
+    "1.29": {
+      "sha256": "f55f06b46408d20a3e89ac106f54ceaf3ebb133881a12dd2835586c76886b4ee",
+      "url": "de/e5/dcb9877dc78b28d11924450224d77ba737c34229507f154b98776700453e/predictit-1.29.tar.gz"
     }
   },
   "prestify": {
@@ -19727,6 +19743,10 @@
     "0.1.0rc3.dev1587564346": {
       "sha256": "bbb3b550fbc2a2bf5f2a3ed0512fa161944f71dbb126d5e02e6032d8c1fcf7b0",
       "url": "ed/97/50310f336ce4583ccc3405ecc959fa785ca3f2a00ca10200d13d06d6cf79/pulp_certguard-client-0.1.0rc3.dev1587564346.tar.gz"
+    },
+    "0.1.0rc4": {
+      "sha256": "d71477a5dfe9835d37b89962e98a7b680f7bac5825180d84a559aa168ba90a38",
+      "url": "74/34/37b0b39b14a7646906689021d1ffa19ffb73e7d925be3ddf3878a4c21de4/pulp_certguard-client-0.1.0rc4.tar.gz"
     }
   },
   "py-di": {
@@ -25975,6 +25995,10 @@
     "0.6.5": {
       "sha256": "b306debe1edeb2ef2f27e408f5f313e515ef0900d8dab567bdb3b7c972aa8b53",
       "url": "c2/53/bb8eabe3e90b36e35b95c9396904a22ce92837dd22093b3d2ae9d078b9fc/unanimous-0.6.5.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "e58f0f1a9cc0fb2bee02121c2077ba282e02d86ab07db56d9a448803c1e829bf",
+      "url": "f5/a3/d6818b6f1d311e310b2ab50510283773c831a01d1373f24b9ee47b3a89a4/unanimous-0.8.0.tar.gz"
     }
   },
   "unclebash": {
@@ -26417,6 +26441,10 @@
     "0.0.7": {
       "sha256": "e3927a3ee3dda27ddefee0b18b7794e395b596e387cf5df4e578d5e14418e6c5",
       "url": "7c/8f/158dfbb31e7b78d9cd5fddfbfb1438e64e2b62c80b123f6c3353cb8f9dee/weekly-menu-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "5b5a0012178fb8214df5f21e51302707f7de3b16c909b877274114d99f63879b",
+      "url": "fb/77/7f4496d75bb94e50ece135c13156935609e14f152f92b6918b3fdbdabe71/weekly-menu-0.0.8.tar.gz"
     }
   },
   "wex-api": {

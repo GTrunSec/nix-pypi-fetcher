@@ -14283,6 +14283,10 @@
     "0.150.5": {
       "sha256": "b0e9b877b7bfb4779d47ed079227fa6e05ca881363786144bc2c6def874697cf",
       "url": "ba/e9/241b3aaf419343d3a14067947b9c1f8c7a563ad8b4e7a1f1c0d605862d91/mountwizzard4-0.150.5.tar.gz"
+    },
+    "0.150.6": {
+      "sha256": "756caf168c0368b00445fd6bfb9ae3967d9ac688d4858d86e2d7a12864628974",
+      "url": "92/64/836dcef51c30a9517079cadc26a7798d47315916e180e680ae59d21efca1/mountwizzard4-0.150.6.tar.gz"
     }
   },
   "mpld3": {
@@ -15221,6 +15225,10 @@
     "1.12.44.0": {
       "sha256": "3e85dc2b5bb079a33a237485794f2f0594be8f6371d959cd8c6c9a43c8c8319e",
       "url": "cd/4a/4b43c908ff8e2ad8a6f462b24747ca90a7730aeedf5f2af5b67571ce7fe7/mypy-boto3-s3-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "93e02d3e83d84b465748d539039d7f7fe0158898479176e2449e75b5fef27961",
+      "url": "21/2e/542cbbe4c68bec3e376e7857969f5fdb9fe16e1080247d36c490e71888fe/mypy-boto3-s3-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "88fda97e1e1a11b1d55d1ef60dfa640a7a4a67cf3e46be07334e7b1238f8c6d2",
@@ -19153,6 +19161,10 @@
     "1.4.15": {
       "sha256": "c67eaff635321cdfb8f4dc0b670e82761f429404656601871203af9d79a53215",
       "url": "bd/98/dfc1439a9874cceafdf77b4548703bffa5e6add315425ac8f329fd2139a7/Pyzotero-1.4.15.tar.gz"
+    },
+    "1.4.16": {
+      "sha256": "b1225e6e07d733ea38ba3b837486ace554a4e6cb8bc5a54e749b015a7fa493b1",
+      "url": "40/58/db39a4e7e765f271b199f1947165f0d9f24cfc69dee76d10792ae3b7830c/Pyzotero-1.4.16.tar.gz"
     },
     "1.4.3": {
       "sha256": "9adb5aea1e76f87855cf1cab8d175f094f3f938be89237f416302a131631ef1d",

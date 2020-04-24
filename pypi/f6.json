@@ -13612,6 +13612,10 @@
       "sha256": "c707763347c35f89d2c67e8302263a6e92d227b2da541e32867e7847fdb01d68",
       "url": "5d/1d/f2c790e5162393ff40e58ea4a04be62b6f6f6494dc557d3c7412fec23b48/mypy-boto3-personalize-events-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "e1f953d34851f3ac52ae15f78c895c059a7aadb8cc724fce32eeb19fa77c4294",
+      "url": "08/15/eb4cb1480b42c1206fa90f7033f39ebb159814625689ef986ce3962543cd/mypy-boto3-personalize-events-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ea1f2aa6aa3d39e742667b26a3ab70566671d3da1a5e1b038cf0ecb4f13527fd",
       "url": "aa/b7/848fc10a3931d7bee1e8412fb9ac129ff219824349b7dde6e2a4fff4cfc4/mypy-boto3-personalize-events-1.12.5.0.tar.gz"
@@ -16049,6 +16053,10 @@
     "2.0.2": {
       "sha256": "bee5372aa15f98f44fd21aedbf4ecb53c2071206916be6df9cb5280becd70af3",
       "url": "a2/f2/948a9d7688bfdc818184e9d80e612dba566c72225a4a18cd6c4ceaea5ba5/py-citus-loader-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "8b1013805176bd13c77730f31ad0e7ff3fa093ba05400240b645396afb18b054",
+      "url": "71/d7/5e4219f90be00560839a08b06313cc500a53b0ca051025fe7ac91d40872b/py-citus-loader-2.0.3.tar.gz"
     }
   },
   "py-rtprio": {
@@ -23083,6 +23091,12 @@
     "1.1.0": {
       "sha256": "52fe40be57b5551c559bad48070c2628384552f275db42ccaf75d2e8ebe3a32d",
       "url": "f2/03/96a050eaf317a460098ccc3044f47411d501f3230ec980db003b66930892/xgbtune-1.1.0.tar.gz"
+    }
+  },
+  "xkcd-wrapper": {
+    "0.1.0": {
+      "sha256": "5c6ae8d2bd7b44d6fa7d8f90b375c32a86ec258f3bbb1f66982e632f4946cbb0",
+      "url": "af/df/7d1f1ea3471e43c6c6cf2858a9324e85ed464b8b2d9b9944f83c1bb1bf11/xkcd-wrapper-0.1.0.tar.gz"
     }
   },
   "xmake": {

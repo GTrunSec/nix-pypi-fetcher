@@ -637,6 +637,52 @@
       "url": "99/30/335618d290cc2fc7bad02ccb550d0cb05086dc6f6ebc26302037b9ac1a55/alignak_checks_glances-0.2.2.tar.gz"
     }
   },
+  "aliyun-python-sdk-dds": {
+    "1.0.0": {
+      "sha256": "335f40ccfcb907fcddb416ff19c5016b35dbf8c7edf03cfcde16ec15f8f29ebf",
+      "url": "14/2d/5a9e1da9d29ff7dd2f8e4d6e75f4830546c16c260e19c54ac3427ad5f1f8/aliyun-python-sdk-dds-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "78dc86261ef3b3e412ed1c6cbe7083f1b5bc4419c2cb6145c76b177d2f933474",
+      "url": "3a/17/6f5186130604eab74f9c73cb6804941c23ed3cd327f9d6bba43ec443c8e3/aliyun-python-sdk-dds-1.0.1.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "3609e60ec54bac54da7314a9fe053bb643ab057a6a7131d376a62784c8b6c0eb",
+      "url": "21/be/1e8d0e67987c598a9e54ff4241ca9b9679e3fc7ca25da0a4fc65cb48e6dd/aliyun-python-sdk-dds-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "781e1145f4ed3f80d8b654ea614acdacdd031d2def4bdf19f044792fc20fe7d2",
+      "url": "6e/88/d811044cb05950658a632c35902e5122491eb45e962cd384423c457cb904/aliyun-python-sdk-dds-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "532563c860d6698c3581489fc71c746d0e22139413107fca00ecbaa936abdeff",
+      "url": "ee/3c/8c8afcb6d403d5292f6d85cbed8157c3426e759c966bf881998f72a3df2c/aliyun-python-sdk-dds-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "e190675b7a8c605ec1845f57ebf938af48e0461be979396af7a94efb14490719",
+      "url": "52/e1/ca6d9a459fff261763ebeab8dac34c1a43b00add5e114b9a0088c0a0633c/aliyun-python-sdk-dds-2.0.4.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "b84e881fddbd58d8c48c7ba02e92643335bcb5ba1cc1c23ff5a1b97f0f5c6c32",
+      "url": "b6/3d/8fa153aa19821aba245bd6ef76880f73b9e50ff79abae5538d633001a584/aliyun-python-sdk-dds-2.0.6.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "afeb283f498531552628584ce95ea9c6509d519bcc1dfb7fdd6c45ce87f9d05b",
+      "url": "e6/8e/f5b43dce60788a5314be00850ab7e382ce4aeb77aec6869e590b6349a896/aliyun-python-sdk-dds-2.0.7.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "5616fc774d2896212b6607cad4af78871657f02fc43324fe9a08bdfbd6e34689",
+      "url": "ab/11/ea19e805575fb650eef697cf4dc75801e6a01183ffdcc09b50365e1b0c59/aliyun-python-sdk-dds-3.0.1.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "9e9edcdc6dc19c4bacb47b3a6c4614665aa4b5fbef0ed7619670dcf8919bd96a",
+      "url": "fc/89/d19213a286bb577c1fafe045d4f4e9a04efe92d35890666c0cb91f9ea571/aliyun-python-sdk-dds-3.1.0.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "95d803d06324ab65dfb25dc655820aef06ebb3bf85c9269877aec2882ba7bb7d",
+      "url": "88/cb/b7c94010d00d6fe076130f92ad18d2dc32276e23c01086fe57defb9f456b/aliyun-python-sdk-dds-3.1.1.tar.gz"
+    }
+  },
   "all-purpose-set": {
     "0.1.0": {
       "sha256": "db6cd3ba3b74e219aa15b5fb6684fa7d6a5d54d280c20baa95bf2644270c9607",
@@ -1687,6 +1733,10 @@
     "0.1.605": {
       "sha256": "ab7ddecf698a2b834bf8746e6620081a9cb660dd4ae5f77b546803a7c362e426",
       "url": "a9/91/35c768c2707b0764b4ddf73d86fc850ddfdc44ac5e96048092b54bef9ac7/autoviml-0.1.605.tar.gz"
+    },
+    "0.1.606": {
+      "sha256": "3ce0860a07c1a8f6206974085009bc59ee2ea2fb48a0d09db540f6eec163bfa7",
+      "url": "12/20/0a4343b52042c7e5019713c049b1785abd27288d433be5e9947934d62a2c/autoviml-0.1.606.tar.gz"
     }
   },
   "avi2mkv": {
@@ -7927,6 +7977,12 @@
       "url": "af/cd/68df48cf2750a265f8f47c9c01d53066db29ce615ce772661b1fa603d703/elasticity-0.7.tar.gz"
     }
   },
+  "elefthpdf": {
+    "1.0": {
+      "sha256": "fbbb7c97b218b9f3e9bbabf8a43b121756bb338859dd266b7037bffb8ddf5b6d",
+      "url": "9a/ba/cbd0952ecf5748e555153ec98919ad2c1766cf2d9252fc46f104a41651da/elefthPdf-1.0.tar.gz"
+    }
+  },
   "emsapi": {
     "0.0.1": {
       "sha256": "31c1dd99e802298a2bf545051312c0d95cc962e05eca2f2a2d04d3b01d3e5623",
@@ -8205,6 +8261,10 @@
     "0.1a3": {
       "sha256": "41d6441bd081090a1b8c5af7b446d387abb7b3e3a74f4d1780ccfdda2b67d70f",
       "url": "f1/db/cffc5e47deca975343d6839889ba4a339b6db9e1bf0ead41383401817498/Epidaurus-0.1a3.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "38517e099a67da3c96284884481401782593f1cdf2bcf6bd54853587b9df8132",
+      "url": "51/71/c351331d8ae21a5043f884f40deb73930db6f0fcf2fa536e3ad13f32044b/Epidaurus-0.2.0.tar.gz"
     }
   },
   "epm-client": {
@@ -10359,6 +10419,10 @@
     "1.1.1": {
       "sha256": "fb7caea3bcd4094f4983542ad1d7c0f36720076cba74f590e6161c7d989f2929",
       "url": "01/71/48ad8b708c44e3d3cd2ecdcc66f1a126c2067621597b5f7aaaede6610ad6/gunpowder-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "df4146262bae3bf6adcb3e39bfb015f53d95aa76e0b587d1ef7429b1bb8f05a4",
+      "url": "a3/f3/94358eff94192b7b265b8f18782e71a32f98bb7ab00e5e84013861270ba3/gunpowder-1.1.2.tar.gz"
     }
   },
   "gzutils": {
@@ -14505,6 +14569,20 @@
       "url": "c0/98/545000e2d4a9720d9448e9a870aa187d3f2aa79c5d91b2ec7aac40ad4e1f/movementtypes-0.1.1.tar.gz"
     }
   },
+  "mowaki": {
+    "0.1": {
+      "sha256": "bb1f502bfa782b09154e01ea1d8ce4571c8270b584cc7e0565eb80ee6b2b8a41",
+      "url": "4d/9a/ab902f4a9efe0a3b3cca279158e0cd5c6ab74364c5edbeb92e9d30826cb6/mowaki-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "e8eca13d2dc809a023f84e3ee7fbfd32ab2e54e29d3158129b84dfb79c163b25",
+      "url": "9f/4a/50b5fc53726b6b06e53c150adffafb7a795f7ea3cbad95b10d6ceaff1088/mowaki-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "6f22cce326a4b5738759ee780a0f3bf4ab046d51978af9f48c235ae98fb6c9db",
+      "url": "06/ce/34755b4698ff72b31d18ebb241a6a5c61fc6de248867fe5d628dea607a93/mowaki-0.3.tar.gz"
+    }
+  },
   "mppyresponse": {
     "0.1.0": {
       "sha256": "5d8cac5958363103e2b287bbf4163e2c7ddfc2688c2f3fa2bb01475b70fc7e0c",
@@ -15282,6 +15360,10 @@
       "sha256": "b4092a13937f75172bd73b1371f8182ed05ea93dd43a9f46ee9c4927db0b9ee0",
       "url": "e7/4b/f9e9f5a0b7b803a5d9d8cdc30ddae95c49c5bc503f6be4b98e941869b74a/mypy-boto3-personalize-runtime-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "44aad6cab3212d2d7c555240af712c3306fdebb91bd13bfc585f382d80766166",
+      "url": "ea/81/43dd68eafb5dec9bf6a19ba0fded8cdbd4816d7b7fcb1003e997d665fb2d/mypy-boto3-personalize-runtime-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "362a955d70df37aa1cd1d8c76c51812fbc9931c2b7bd45228644684224174f45",
       "url": "50/f4/22511114534b4b157a3e01f1cd0a0b9ee4795f73a5e16290fc30e4972b1c/mypy-boto3-personalize-runtime-1.12.5.0.tar.gz"
@@ -15795,6 +15877,10 @@
     "1.12.44.0": {
       "sha256": "a41762d1288b7a9f5995d0ecd3b0238437726d7a28a68f8669af7f983a9cd1e8",
       "url": "86/d1/52ca18b2ee7bd963a2aaf6af80630af95fdd29af1320c5e758c60559c056/mypy-boto3-rds-data-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "621d0ea13e99d8db8c0eb682c3fead9f4669b5c9228909bd0255c44b5fa0a18f",
+      "url": "6f/a4/88abb635d5e02d18b7155369c4358f94bb6d738bfa5cdad27fb8b0b95155/mypy-boto3-rds-data-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "ba92cb6dc04d80b6e9ae822acf6b76c838528d34c87bb9d1980eac401add6677",
@@ -19429,6 +19515,10 @@
     "0.2.0b12.dev1587596236": {
       "sha256": "ffe060a90dd96f505c67a4097891ae25b0bc086745e6906b4736a33538444693",
       "url": "f9/76/a3d7cc0a0b35306ea4a1e83d092add890f64dd9638f7f1c835c32b0a1d1f/pulp_ansible-client-0.2.0b12.dev1587596236.tar.gz"
+    },
+    "0.2.0b12.dev1587682652": {
+      "sha256": "e9afb90a2bc71fe179113e6cbac4e23c4611f4dacb4a642dc05ab2583968bac7",
+      "url": "fc/de/4fa60791dba882709829b31d65b709a8be7af428154e83fdf8aa4da2fc1c/pulp_ansible-client-0.2.0b12.dev1587682652.tar.gz"
     },
     "0.2.0b2": {
       "sha256": "5426a3d5e3608438ee3bbf9dd2bd94d0fc28976abc082137e7647dbb7218abe4",
@@ -26189,6 +26279,10 @@
     "0.4.6": {
       "sha256": "36b07d41458a45905f041b3e0de0a33f51ddca3825426b36cdb18327c751f5cf",
       "url": "30/f2/3524c273c9e12c33cf0aec8d459818cae3ce1690a6857d003c79a4be61c7/tqp-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "dec2437db092733f41e79ad531cf555afa447f1adda72b1fa01d1b51048b28fd",
+      "url": "f1/39/bfb933a9ec6a95f9d9f5368920537ac22e0ac50a3f5cd625688407e4fcd7/tqp-0.4.7.tar.gz"
     }
   },
   "tracmytickets": {
@@ -27791,6 +27885,12 @@
     "1.0.1": {
       "sha256": "12113425acbfe8b289f581a0f7a64c838656be671fee2e14d34ff162f525054c",
       "url": "2a/6f/9e34a5cb293619fc37911d62208bccc592804b8ce989b804468bde398309/zfun-1.0.1.tar.gz"
+    }
+  },
+  "zhuhegege": {
+    "0.2": {
+      "sha256": "907af0577958517e6944002539fac15a482e8f2030be5667ec5d5ff466815b70",
+      "url": "58/a6/62f311d025b559b543cfdfcc2ad0ef08fbfa1ea211732ebf8a9c6475ee9f/zhuhegege-0.2.tar.gz"
     }
   },
   "zipeggs": {

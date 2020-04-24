@@ -823,6 +823,52 @@
       "url": "18/e2/bcc61f136d2cf47f50c75de2296d175298016d6dd7271255041957dbe6f9/bcert-0.0.3.tar.gz"
     }
   },
+  "beatbox": {
+    "0.10": {
+      "sha256": "43d5ad801f87bb8e43402b41369edfbda9e3866530526bbc383557d599b604e4",
+      "url": "b6/64/beb4af71679bbd7dd2ea780090dce53014dcd3f714527947be866076aa37/beatbox-0.10.tar.gz"
+    },
+    "0.11": {
+      "sha256": "94f930b825c38d51dceb769d30824150fcfb0b6265cf449e6350a266655e750c",
+      "url": "34/dd/dae8c7eca22df9d1ce025eab61b867dde6d171116934d613a1afeaf3e7f6/beatbox-0.11.tar.gz"
+    },
+    "0.12": {
+      "sha256": "5bcbf94290b731474ba919fbb1e73780cc44fcb14bf25e5a4c981f5e958efffe",
+      "url": "87/d9/188ecbe6b380c59d6bed287acc4ca3dcfb59a291a87b296d2a7e92750268/beatbox-0.12.tar.gz"
+    },
+    "0.9.1.1": {
+      "sha256": "c21138ece635bf068eea4e2e51a9212374effe167eff43f15a65cbb610c01d2f",
+      "url": "16/ab/ab5acc168090e1b8804c3d4ec122bdb351fd816da98ecd31669e50359926/beatbox-0.9.1.1.tgz"
+    },
+    "16.0": {
+      "sha256": "eed18b6f77a866c67c5313015dff22f6358b7d2d07bebe9a4e9088b9149bfb25",
+      "url": "70/ad/88a8ebb26b7bb667c44378e99b52baf9d3ece2ae4022a3eb1f822e292527/beatbox-16.0.tar.gz"
+    },
+    "16.0b1": {
+      "sha256": "2f9472f0fb0a941c8dbef5ab2020f3bd0cbbaa310cc251fbda7f446fd53b0338",
+      "url": "a0/41/208b557fa674ae7db3630acf7e8880c025964261efd12fd6939ec2651fc2/beatbox-16.0b1.tar.gz"
+    },
+    "16.1": {
+      "sha256": "ec26158b69c410af5970c06de64c00d1bf55aabc8acc8661243fb5aa50d59b78",
+      "url": "20/65/756abc0a2048368b6d09e8425cd9cbbbdcb115789fd52e89a2c420c5d180/beatbox-16.1.zip"
+    },
+    "19.0": {
+      "sha256": "84838080ba0fa6d5498c573508869755e64029bc056d6082bd9a1daab5ad65b7",
+      "url": "6e/94/f3a60bfbbf915f51c14d79f52af92aaf4270a34a35c60acfac352f16627e/beatbox-19.0.zip"
+    },
+    "20.0": {
+      "sha256": "0f7f04760fac3b9c9b89cdb647f0a8e75cea6e1771169287fa0710a1149b9a83",
+      "url": "02/ff/e332f4a13f83dccb23993cad689a035ed8c67ac0815dd374e24277fcff4f/beatbox-20.0.zip"
+    },
+    "32.0": {
+      "sha256": "c39dd6aad651e1409708350517d6a623c3f1f51b9543048c36495b95568c2af3",
+      "url": "8a/20/d2fb36569023aa548af5f7cd9f434b5b035e7cec6d94de85f8f30b04d451/beatbox-32.0.zip"
+    },
+    "32.1": {
+      "sha256": "7bb27f4b35561678ee2b6e203f634030401b182de9b0a03f2504f5ce899f3c26",
+      "url": "25/5e/80102d878a6bd08711248c376daffec88762f6a674d80e2ce1a16a829b34/beatbox-32.1.zip"
+    }
+  },
   "beautify": {
     "0.1": {
       "sha256": "4011b6a4b2d84d8eb1c8892a1689bb7a33ed85b829aa51ec613b291030ce8aa2",
@@ -2853,6 +2899,336 @@
     "0.5.1": {
       "sha256": "b4dbace8162f89875ff26f0d5a9f86ed8f653cf9af1761c442e0f38b4abc59ee",
       "url": "1a/e4/6a3f04c4322e25bb4af7d89e9a24875f64f68e7a0dfb6c761a97c9f58dbf/d3cryp7.py-0.5.1.tar.gz"
+    }
+  },
+  "dagster-pandas": {
+    "0.3.0": {
+      "sha256": "8f459a67df52c50ada666b2ae4248ffb3c2c2c633b09dd060e2385b181172d2c",
+      "url": "47/3e/86697f547c993240671e21b420fcb548c343fc8c5a49ce34c98442ed0ca9/dagster-pandas-0.3.0.tar.gz"
+    },
+    "0.3.0.post2": {
+      "sha256": "3576854b12adf6a57ac337ccb249881c576702bc0786e66045d2dce1f706fef9",
+      "url": "0c/be/edf88968764a60da05ce0a9c4a3da86df8f7d3bd0f4088ad85e968854e4e/dagster-pandas-0.3.0.post2.tar.gz"
+    },
+    "0.3.0.post3": {
+      "sha256": "a2f2cb88609ffe197c08b5dcced19a58e1bec24172536f63d1d93fb05ec7e12c",
+      "url": "f8/a1/e7cd7c0870cecd7cc423524b05cd52088dc61f74c0a74abc4a541e3547e7/dagster-pandas-0.3.0.post3.tar.gz"
+    },
+    "0.3.0rc7": {
+      "sha256": "0cb415a749b0b8178cc5d10225374b9f983a05d79359980cfff01506143e0092",
+      "url": "34/10/08f82f69b764d4b6cc8bec992ed43fd3212ad28cd42882d7776f04124906/dagster-pandas-0.3.0rc7.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "a191710c0ea3d95a7974254ed155e42c717323b4bdea666eeae8b1cdf4332feb",
+      "url": "2e/23/42e8b1bde9ca6e6b38879497d46cee3860dca17a2929f811bf9755f540fb/dagster-pandas-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "6d0697bf225162ccf6dda6dac072c85ae9275f0acb5eff1b391e50b9fd5bf05e",
+      "url": "a1/dc/f09e906fa63db80f86dc5a89c3ab54cee243b427f232dca31653c508bcfe/dagster-pandas-0.3.2.tar.gz"
+    },
+    "0.3.3.post1": {
+      "sha256": "cbd23ed31f612e272b50f51c28c93fc29f8c8e4998a6e970fd3d4efbc38a7190",
+      "url": "37/36/b3f02387fcddd841d63bff92ab321c2a7e5c87ff6f8035e54f0ad0237b23/dagster-pandas-0.3.3.post1.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "e401621b7f766cbb3cedce7042c7226459e37778ea23dbb091a0f57cfb68bd3a",
+      "url": "00/f8/839ea3e13f216149eb526bde302fcae9421ef6239e3daeedf1d918e761e0/dagster-pandas-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "adee6ae8a0008184a27677d2d4506d089329d438c65977b2641adb617dc2719c",
+      "url": "6a/42/7c856b4ce0fbe5c215de3c4733d11476e8ca33df791206a2fda7c9c481c5/dagster-pandas-0.3.5.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "ce0a47d2891471255978e7433e50a08c3bf628b9749966806985079c17d12105",
+      "url": "2f/15/a870e4112011e8a316834deeed58efc7f4d838609aef3d54bd450eac715e/dagster-pandas-0.4.0.tar.gz"
+    },
+    "0.4.0rc2": {
+      "sha256": "8ed74ac3f035d739e97a694f572d950d8b2f5baadb6b004b78c1457e1603733d",
+      "url": "e3/63/99fba8daf50a1b554d39c1d8c0b04f67afc5a07cf254136de392370ca19e/dagster-pandas-0.4.0rc2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "f629e905c08d14639dcfe97e72efcb6ccd36b4d264e1fe900524b439e27e5c5f",
+      "url": "be/d4/50fd147e21c8ffa718dcfcf49cb8b6dbdbf0e300c894f441f4491c6505cd/dagster-pandas-0.4.3.tar.gz"
+    },
+    "0.4.3.post2": {
+      "sha256": "a3aa7099803aae9f69618a6d914fbcd072d78b3e91316f714b0352dec85c8793",
+      "url": "7e/dc/af12540f51c2d9cb0b29f7e9f9a5c4dd4e3d36e016fcd6c4492881e1ac37/dagster-pandas-0.4.3.post2.tar.gz"
+    },
+    "0.4.3.post4": {
+      "sha256": "bb5c16b98e7d2a698fabd3c31fcb270fe1561683fc85b67f54053d98451c673a",
+      "url": "6d/b4/871577973629a4fbe73f37da02bee22ade30e95dffc9a0d46162256ba2cf/dagster-pandas-0.4.3.post4.tar.gz"
+    },
+    "0.4.3rc1": {
+      "sha256": "9070216426fabc9c280cb3e159463cb4404b1d06a97864944e7ed04d03181c63",
+      "url": "3f/3d/d7e8f2b265fce96790a46b8636498eb45e044136c67846ffdd48a13a15a6/dagster-pandas-0.4.3rc1.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "10785466e991d8f59117f62f180955f9eccd7f4fe121946be70d28e9454d18a6",
+      "url": "e6/a0/273b42255ae3dc38bd99c5b9b8da64150f4579996ce1107ec1667140e732/dagster-pandas-0.5.0.tar.gz"
+    },
+    "0.5.0rc0": {
+      "sha256": "2156d5229973107d13acc4e1cfc30e2649c922ab64653d9967dd976727c47908",
+      "url": "02/ea/10c905e8cb919f671870e5299618e18b5c255bacc06b4f163ddafb65b723/dagster-pandas-0.5.0rc0.tar.gz"
+    },
+    "0.5.0rc2": {
+      "sha256": "cac442450d1aa91ffb533c258babe9a8c27b19a51a36aa0cc9abf03ae3703c3d",
+      "url": "a2/a1/28553fff5ef191c7519f501630b9c90493dbf11d0d3f992aea8f1cb690a5/dagster-pandas-0.5.0rc2.tar.gz"
+    },
+    "0.5.0rc3": {
+      "sha256": "296df1feb08d72a11d3a8f6a81f4fbe75265752d02e57f989f9fe30925badc07",
+      "url": "40/18/e4dbe9ecf329cb0173bd23a714dfdf1e3335877540c4432f039ff23dafd3/dagster-pandas-0.5.0rc3.tar.gz"
+    },
+    "0.5.0rc4": {
+      "sha256": "9ea56eb7852cca7226c9e275acabb9aba0d2375d051bb036bcefb1566d38d134",
+      "url": "b3/c3/ef45966b857655480d1014493c326948a2b3ada93b16f1083bfd74e47870/dagster-pandas-0.5.0rc4.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "de78f54cb6a515100ca164e3c7bf5f6045fdd882383ea31d368a7e116e92b50f",
+      "url": "9e/0f/f9111df8fd6af6e2c8a2a7c63f47218b6aef2745b90f420c2d82dfa5e6a0/dagster-pandas-0.5.1.tar.gz"
+    },
+    "0.5.1rc0": {
+      "sha256": "c1c36d749042bd16965be5c2cd9eaceceb735616984b0feae32b301c107c0de6",
+      "url": "32/34/3167e4c68d83017b5ca1da3594a62a431b0f69226508de75b0da43520888/dagster-pandas-0.5.1rc0.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "e6cb105dcf36e42478f8de5383f1bb7e2a7366bd2437f479aba888f35072ea8d",
+      "url": "e4/7b/57e1abf44647aaadf4c7b935a2e97d243e62b475efe25ad6ccc3d6442d4b/dagster-pandas-0.5.2.tar.gz"
+    },
+    "0.5.2.post2": {
+      "sha256": "2481d855f3d9bde105dde42b1d2a85a25b82e95a68e622eedc39a9141053496f",
+      "url": "ad/51/673bcb9203931b1e978719c2d3c4477528c773e1855d63532be12d764513/dagster-pandas-0.5.2.post2.tar.gz"
+    },
+    "0.5.2.post3": {
+      "sha256": "008d89500cf5576322c2be773633ee1ad652de902be0ae126088b2d81cc143ee",
+      "url": "3d/ea/0caeecc94f97b5d4ae32e4d636f09ea88bc553ffda05f17ddfde234adf4e/dagster-pandas-0.5.2.post3.tar.gz"
+    },
+    "0.5.2rc0": {
+      "sha256": "2acef15303a93a755d5729cff936335087904b22864561e5b11bec3d0b2c3efd",
+      "url": "cc/40/366d3dc2f3310192f77d19ed7e8b3593401576b1a40f3d13a014831c2b22/dagster-pandas-0.5.2rc0.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "9dd97348c5a373b2c929fe116c74e737536db99b49c1ad50abe7b0c0c4555044",
+      "url": "ee/77/09723a3bb7140fe9a3f01a6456abaefc577bb4ff84c8a7df21f6dbe6385d/dagster-pandas-0.5.3.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "2f32720ef859b9561fd46467cfe4215c43e2fba45ebb219a421151f3a95fc8ed",
+      "url": "fe/0f/cd1e9da9b3d0d06989c5e0bdd124690b3310ee66506127102a89f2150d7e/dagster-pandas-0.5.4.tar.gz"
+    },
+    "0.5.4rc0": {
+      "sha256": "6c632a33cd1d8fdad4e1ffbb7bb153e6284c5b00c6c3a47b87a63c45352ae183",
+      "url": "d6/47/25e19def71a379f08980f43123e987ba8c4c295640d34b66a5811ab8ad06/dagster-pandas-0.5.4rc0.tar.gz"
+    },
+    "0.5.5": {
+      "sha256": "181522e3c2e1cca9e27f4b0b98cf56a9b678cc3a3dfeaab4f532363714bfc990",
+      "url": "7b/15/4d498e097557936d577b47fee842db33f59a3882a7ec1e5ccc86f576cbba/dagster-pandas-0.5.5.tar.gz"
+    },
+    "0.5.5rc0": {
+      "sha256": "9af84a23b55a1e66bd79ea8791202a81501c83f7b4c927263beea541dfc75fc8",
+      "url": "57/99/5554f108f0e10b5da434cfabd161e16214af32aec15a36984e56eefb9a6b/dagster-pandas-0.5.5rc0.tar.gz"
+    },
+    "0.5.6": {
+      "sha256": "d5eea81205c41360a88c8c60725e44024e57e23a2f9bbbd86ae4e2c6576f4257",
+      "url": "68/f5/f0cfa5d6be6a87b76ebd89fb3ba4f57607fbd2cb4b269474a7c8649fa17d/dagster-pandas-0.5.6.tar.gz"
+    },
+    "0.5.6rc2": {
+      "sha256": "11c1a7ba4f57aa0c7788c4e11888da507d381e4990a7ee9f15071fa3ee012126",
+      "url": "c8/ab/641db40835bd01832e5b6da3ec06644a6338aeca8eb6c09d8ca589a5b6c5/dagster-pandas-0.5.6rc2.tar.gz"
+    },
+    "0.5.7": {
+      "sha256": "58164d9ce07bda813dfac18b83e07f92b05c691fadfcd05f74cea53cac8417f3",
+      "url": "55/54/17e73b17a2b63564937184a26cdcc17d1faa7afa3f6c1a8181047f9d292c/dagster-pandas-0.5.7.tar.gz"
+    },
+    "0.5.7rc0": {
+      "sha256": "7feefc794bc3f102f1e438621b593610629653bea4c4d37b31b5c4836d6b6281",
+      "url": "e1/b5/ec775936f13b381cc6ff4eb8d154afc0d7b7e91873a55d0f21d50ae6ec70/dagster-pandas-0.5.7rc0.tar.gz"
+    },
+    "0.5.8": {
+      "sha256": "4a6a71f598a84325a38a5dac50ad4005c28f4b0210ee3baffdbd46d2ea9a50ad",
+      "url": "2e/58/a8aa68b30a6222fe4c320b40c3a5eda6d0074235b7f6b3394a6bbbe8b458/dagster-pandas-0.5.8.tar.gz"
+    },
+    "0.5.8rc0": {
+      "sha256": "9ccc2d1bc3801cb400fb0450bc9817aa281bf67c7bb60ce646da70e84a827fc6",
+      "url": "6e/b7/33c858e5f3fc9ddf6c647f3b291d340a9195158f2b1a0f3378bfa0687619/dagster-pandas-0.5.8rc0.tar.gz"
+    },
+    "0.5.9": {
+      "sha256": "97a7c2a94aeb11f58ee8683726d90d8afc84aefa7c59f9ec80ed3dc416b91f21",
+      "url": "b6/f3/82a7c45880a8751439b236ed82b06a9ab5fa97b5607f8c00a0141ecef9ea/dagster-pandas-0.5.9.tar.gz"
+    },
+    "0.5.9rc0": {
+      "sha256": "5b59705bdb4472e87543d2aef3769a3c9f9bb0cdaea7b76936572406045d3d85",
+      "url": "0c/f0/076cfe4b34b3397c668f5a5c0d322010db1581be72f2a421fa7ca678f124/dagster-pandas-0.5.9rc0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "195f49af2d6c2046309f77ca8fe0d4032e2ad458a08b523a0ce036d09382dea9",
+      "url": "5e/8e/047cfb1e5c520390081f6c5cde70fd99094133cf21c91d5acf234da1b987/dagster-pandas-0.6.0.tar.gz"
+    },
+    "0.6.0.post0": {
+      "sha256": "1deae20d98d0ef590808faf65806e69f3225c7aa5b59386fc15436ed9ff3c5f2",
+      "url": "9b/c8/615bdeb3418af2c6d47834563c2f7ac2f80e11c661eb808a801e8fcbabe0/dagster-pandas-0.6.0.post0.tar.gz"
+    },
+    "0.6.0rc0": {
+      "sha256": "870dd83ddc0c8deb0e64369ea0910a04f5c5bdd5849e90a0eaa50bd13c801153",
+      "url": "f0/6b/66d0ca0f11a32903733853f2779a844e5345836abd5803a272cc7b847e6c/dagster-pandas-0.6.0rc0.tar.gz"
+    },
+    "0.6.0rc1": {
+      "sha256": "7c3811d3ccac08f42d2181d33aa16fcc334c595e949a7132839b7f4842441132",
+      "url": "7e/68/a116528e3d4c282989985e665b757f6e3349514af03cb98a05c5ccab7592/dagster-pandas-0.6.0rc1.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "90cdb9ea0ae571fe56efec6bd430703efbf29fa084c0c7e28a6f420587a30641",
+      "url": "aa/fb/f95b68ed1b7c41eb13efd11ee17a7f7683f5518292d053a5254a7ecaf593/dagster-pandas-0.6.1.tar.gz"
+    },
+    "0.6.1rc1": {
+      "sha256": "e7acb15117a413f836e7db929c4448ebdb86b2cd7560c3947f7adbf9aff965c5",
+      "url": "fb/12/bcf04df0ed9ca12ea5a7ac671d9f0ace98e504ac26f11abce8ddc814e061/dagster-pandas-0.6.1rc1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "373dba1312aebb3b5d48a2ad4aa5b2a0256c57a8f850b9b64002f58aafd3d8da",
+      "url": "d3/8c/888e83de73022a7a5912c4cd952bfeea8318ee24623bc28d120ab0af30a8/dagster-pandas-0.6.2.tar.gz"
+    },
+    "0.6.2rc0": {
+      "sha256": "d26d0e4839cdf044fd83e29887451544e372e0a58bb331fa36854f7e23dacb57",
+      "url": "6e/1d/a9fbd7675c579f7b027df65235843a4cd3d4c7f3ae59a20af2a90117f195/dagster-pandas-0.6.2rc0.tar.gz"
+    },
+    "0.6.2rc1": {
+      "sha256": "411cf2159d480399d902a8cb1e74088c27dd84d5cd5d343b4af981875874ff9b",
+      "url": "69/cc/b7918ec9c7ecf23b0a126fdc0ad433c67bb45b57193fcaf48a19e6106e9d/dagster-pandas-0.6.2rc1.tar.gz"
+    },
+    "0.6.2rc2": {
+      "sha256": "17fd6efe535369c9c90156cdeb6a49a6c66a4ee22b17afe03c913d6781df5b2b",
+      "url": "53/b4/ca0d01a3418b4c91ff9e9a24afaa08bbbffe4611683d3399ef0d9b112945/dagster-pandas-0.6.2rc2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "d8cc129ea15be51b232fde137e3f606fda42369c9768e52e4430ec740c194a38",
+      "url": "9d/20/82604086dc18d027c19a00737d514b8e23b4e3f1838878dd97689afaf18d/dagster-pandas-0.6.3.tar.gz"
+    },
+    "0.6.3rc0": {
+      "sha256": "59403dc5429865de581274a97c4d06748da33cee785de75a51b23e53031d1525",
+      "url": "00/bc/dcd0694b2af9ce3d7d733488c248455e02fb8f6c5fba0faf0c732a767f94/dagster-pandas-0.6.3rc0.tar.gz"
+    },
+    "0.6.3rc2": {
+      "sha256": "f6eea8d1c7101a0432ede412f87ec2f4c7059668ae0178e8b7985bebbe2efd4d",
+      "url": "b5/40/b7c9c4dbd45bc448d22f3abd75e73092f1e64cd1e0a7cee93c309d6eec1e/dagster-pandas-0.6.3rc2.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "37449113bf07d4a9f3ee92e471dff1bd8c5efe6e66f5bfb772b15c534a049e50",
+      "url": "1c/a8/e6c6cae25fb4638abc6171767b785590f793633d17f0244335216a5af7f7/dagster-pandas-0.6.4.tar.gz"
+    },
+    "0.6.4rc0": {
+      "sha256": "1748d4ad869456670a1d802d19e1d6f62193ca90179b614e9456be8b1da07b8e",
+      "url": "17/c0/1e7902cccc8ceb809f3b0ba107afc07bff782d5e33d33cdd5bc2f9f79ca6/dagster-pandas-0.6.4rc0.tar.gz"
+    },
+    "0.6.4rc3": {
+      "sha256": "1dc7734ab6a8f5b6901226d03b1ef5cc090f80abb5ddaca5414e311872898a84",
+      "url": "f5/b3/07fc395d1256293ec8839109359f5b94809dbf52014fbdff422c2f8a67b2/dagster-pandas-0.6.4rc3.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "5dd51cfc7b1d1877bcdd0ca52636a180576db47b4dcfe7042f39825be7e8d629",
+      "url": "38/c3/b55200c54fdc55ce39c1f8bacd1415b8c17573063cd84515e175cb77303f/dagster-pandas-0.6.5.tar.gz"
+    },
+    "0.6.5rc3": {
+      "sha256": "dbb5726b62e6750568c626d9ddbfb5bc5bb3a5de114adbd8e75fa78b3a47ad60",
+      "url": "81/d7/d61bab1e364980711773bd32939caa2d04fa4fcec73fb610a04fc3c5b857/dagster-pandas-0.6.5rc3.tar.gz"
+    },
+    "0.6.6": {
+      "sha256": "d83dcf04d6b0109208f6111d53dc7946a252bc9fce252e890b1c96ca1853fab2",
+      "url": "e7/80/40d038de0e5d247410bf9a96f780b1f6132a90a4a20b8d74676d73b2191e/dagster-pandas-0.6.6.tar.gz"
+    },
+    "0.6.6rc1": {
+      "sha256": "cce375fd9fa0e9753f9bc1922742aaf713699666fafe64f94c7ca5d5d87233b5",
+      "url": "b3/e5/234739f29e5df80621a9404061f26fe41dc191f91aa89e987cf3b8b15815/dagster-pandas-0.6.6rc1.tar.gz"
+    },
+    "0.6.7": {
+      "sha256": "8232862d9323ef4d47ab11091d51c1f2a2e21dc2b67aeefa7eb92e51cad18355",
+      "url": "f5/59/df03b5b30eab2bb2cf8743cf3ad692ca9b5b9b50884ff138ec3127d02279/dagster-pandas-0.6.7.tar.gz"
+    },
+    "0.6.7.post0": {
+      "sha256": "6c00cb4ef3b56050474800168e934afaa152e42b35561377ca0927063d85f82f",
+      "url": "bc/1b/696da13ffaf72daf265ea5566a752e00309dc77499b73228d99084256c5a/dagster-pandas-0.6.7.post0.tar.gz"
+    },
+    "0.6.7rc0": {
+      "sha256": "5dac85e85f4e3b35c054c0f94a077b8dfd27cd15600338a5e64d0b89eed53b35",
+      "url": "f7/b4/aedc68884f73ade788652efead3225d9652ab33936589082d7d977a124f5/dagster-pandas-0.6.7rc0.tar.gz"
+    },
+    "0.6.8": {
+      "sha256": "3b81cf54208a2ed027776c83d76c4f8ae294d15792b9d8972b60c7d227370fb8",
+      "url": "cb/61/6be752760306ddb8297af7bc70fcd6793a93410d5446143741bc2e456582/dagster-pandas-0.6.8.tar.gz"
+    },
+    "0.6.8rc2": {
+      "sha256": "eb3e8ca4d560f384a6f16a284a537dfd5221dfe8103d155b6e06df43203e0065",
+      "url": "4c/43/d4f45e990e1c29713e3a2d213245b89d1585b074cedf2a8a30c077996a97/dagster-pandas-0.6.8rc2.tar.gz"
+    },
+    "0.6.9": {
+      "sha256": "9aa1f75f71140e1b2a957de708fe0da754b7862a8fbf0588f804f2602b744610",
+      "url": "1f/d9/c8676070b17860c92b50cf5edc7ef52c898cc536a8e44c421e17eb1e6698/dagster-pandas-0.6.9.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "7b7ecfe9852d050cc6ec8724c9d4a987ffd7b7490b83bd6a81d526654660a9aa",
+      "url": "a2/61/d8c548f8c02285225dfdc5e6bc23bcf18cfb7da0f47f60bb087fb39fe182/dagster-pandas-0.7.0.tar.gz"
+    },
+    "0.7.0rc0": {
+      "sha256": "bda46fc65f342ff00a2ad605f35899927b0a0629cd13339be1ccebfe22736ace",
+      "url": "9e/10/51ad410455f3fea6fe95ab89c32493ccb10780f82f23f1befc2176387f89/dagster-pandas-0.7.0rc0.tar.gz"
+    },
+    "0.7.0rc1": {
+      "sha256": "ac871c7fcaa82991ef18e24c9538d56ec2983e930df02abc858ed0588ac744c3",
+      "url": "08/8d/28b3757f03ba0789b358cfbf13b536046fdf40312c4280c4b7c41ea4cca1/dagster-pandas-0.7.0rc1.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "fc4fcae9bc84ae6941b49a458721ab14ed0f37a430640dc4bb3116ebe4ddb6db",
+      "url": "7e/1e/f60b37ff2254eefc657e9ab2bfb92b6b38f380ed5f667f87a18b492f71b0/dagster-pandas-0.7.1.tar.gz"
+    },
+    "0.7.1rc0": {
+      "sha256": "d38b8722fade8e4c25f4ae1459744a736290044dbe14f08e1d2e3cc049a7ce4b",
+      "url": "ea/e1/45a6872bdc0a4c6249ecfabc4f6fe36c87bf47b76ef9b63c3db175a91edb/dagster-pandas-0.7.1rc0.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "18f41b8ab7c806e00eb61a95c3e485c207233897481ccddd3520049bb038521c",
+      "url": "0d/55/b5f54487f3a33ffbf9fb7b6bff5943ff38a87efc01879af8540812b5218b/dagster-pandas-0.7.2.tar.gz"
+    },
+    "0.7.2rc0": {
+      "sha256": "1b6d4a4f7ff9b5c38ec09ace13912d4faeed0652a4fc1e06aeec191ea25b0f19",
+      "url": "61/38/f894b2981f0ea684ae7ab269e90096abc1efb1bf9f0221edf0960761add4/dagster-pandas-0.7.2rc0.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "0ff111476222b187f38819ba8dc1af69e6fc2f0cbe4efee28a92b72ca64c6b19",
+      "url": "6d/58/f71ea81f631ff1d97c8e26f038545dc65940edb7df830f4e3184047a64c3/dagster-pandas-0.7.3.tar.gz"
+    },
+    "0.7.3rc1": {
+      "sha256": "2752ad848245b674e2641b8cc1feddaa8e50ad01d400884915d6cc4d56c03ecc",
+      "url": "f2/a0/aeeecab9badab638978af9166cf03b34f6132cc7292585d7cba846508633/dagster-pandas-0.7.3rc1.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "afd7a5ef6bf5ed6809b04d6219b257eeb2fd936550b2b3c0205d24a4568d30f5",
+      "url": "98/18/20104c49ead49f5caaa8d7792ce828436235852023878e74f0dd53ea020a/dagster-pandas-0.7.4.tar.gz"
+    },
+    "0.7.4rc0": {
+      "sha256": "b5feef410fb5cd4200ee8a54b7a3393f5325f056d9b07ff008c649c426aa00a3",
+      "url": "b1/0a/80b5d334afc8443fdf3148df2acbc49eb02616d672e71b5e66c8d9d4c0b6/dagster-pandas-0.7.4rc0.tar.gz"
+    },
+    "0.7.5": {
+      "sha256": "bfb388117368e377903d38795aac1991b26edb9d1526ea0a77e1e9be06697523",
+      "url": "c7/42/157ed6b35f42f3854647065aaff9321362bfed49cb129f36bdf42414f35e/dagster-pandas-0.7.5.tar.gz"
+    },
+    "0.7.5rc0": {
+      "sha256": "42bcea13dead618b9131f9b8124e9ae0b6f8083cd0d92d64230d401f4b93eea4",
+      "url": "0a/41/6b4749c3882977156876315ae2fd118abad38641bc59828e82b3a5cbe8a2/dagster-pandas-0.7.5rc0.tar.gz"
+    },
+    "0.7.6": {
+      "sha256": "60989a308ebbc70fc008c161ffab788924ea32ef7b2c5b254d15af802e25e2bb",
+      "url": "61/5d/823dfbc80763b5e5c93517a04172b10c1da287c85f02815d4aa0cabca347/dagster-pandas-0.7.6.tar.gz"
+    },
+    "0.7.6rc0": {
+      "sha256": "0a7ff3595d8440cd491bca70afec4b2274a0b196942474ab25eb01daddf71f9f",
+      "url": "2b/06/ef94da83d7123e30b7f11abe12422654151cf5e6becdb2e54232f9abce71/dagster-pandas-0.7.6rc0.tar.gz"
+    },
+    "0.7.7": {
+      "sha256": "6faf75c21c9959a6f14ac9d94c5afa99a0dbd8095f44f2b6d8fc9ca64617d630",
+      "url": "9b/9a/f98fc7451b9082b2856b9fa1b248b4823b4cdc8102c163e19818e6bda555/dagster-pandas-0.7.7.tar.gz"
+    },
+    "0.7.7rc0": {
+      "sha256": "cfdd8e524913f24a8a3a5c9e22e2b0eb3e5e5c6806eea75fca3100adf6233c70",
+      "url": "2d/1b/5d52ac564cd6d82ea7d06d0c6a3187ee5609e1c0ff72210bf25f1273d880/dagster-pandas-0.7.7rc0.tar.gz"
     }
   },
   "dagster-snowflake-nightly": {
@@ -6443,6 +6819,10 @@
     "0.0.2.dev0": {
       "sha256": "c929f3cf06a2651a17dde5ced5d8bfc26ba263fd72f224a3cae97f52c969cfc4",
       "url": "58/35/20b70a8a2766442edb56b722f69d52fd6c4f0c5cfbb42f911504d815c4cd/git-heimdall-0.0.2.dev0.tar.gz"
+    },
+    "0.0.3.dev0": {
+      "sha256": "b5afe23e8ad8bcfbe550f4a5d0082d5072e7f1486528d96fdcb21bcfe5120c3e",
+      "url": "99/da/40e2e9035ef9b835803130db89d09b5bbc5e303fbbceb5c969eb3f73ff4d/git-heimdall-0.0.3.dev0.tar.gz"
     }
   },
   "gladtex": {
@@ -9433,6 +9813,10 @@
     "8.0.0.0rc1": {
       "sha256": "ef6b255450f8f977fff6059a0fc1f9f3449c67d3c9367345db8c3976006c03a9",
       "url": "3e/bb/f30e85bc6cce72298476f3959f814a19ef0577dc160f1dfdbf8e467c4a18/masakari-8.0.0.0rc1.tar.gz"
+    },
+    "9.0.0.0rc1": {
+      "sha256": "5b29c09d9ae1358cdddfe120d0cc0078ed1fc6bc3380f27879ed2fdcd318f3c8",
+      "url": "36/a5/6e5feec2de135ebb588a9e06d069d78e3df4935cd0fe9e66bc5368c83f2c/masakari-9.0.0.0rc1.tar.gz"
     }
   },
   "masc": {
@@ -10155,6 +10539,10 @@
     "10.0.0.0b1": {
       "sha256": "70115503fc164860b56e518323bac88b341e722529078cea95d4b19a510264a5",
       "url": "08/07/fca465bd6ef6d3df20bb8df680d4c05e02898cd0b011b218162b060c4d14/mistral-dashboard-10.0.0.0b1.tar.gz"
+    },
+    "10.0.0.0rc1": {
+      "sha256": "abdbf64cf83cc286e7ea67a71e9bd874512e8d9221a1a8018e52e60d4c99a4ca",
+      "url": "1a/d5/c2181ad63a40f72854e93cd97ef1ecb02bcb86a175b22d787f4a705d96e9/mistral-dashboard-10.0.0.0rc1.tar.gz"
     },
     "2.0.0": {
       "sha256": "efd03de29f313446c44488f7b3a364a92cdbe60b9fd26c162c4bbc8cf7fbad8b",
@@ -14253,136 +14641,6 @@
     "0.0.5": {
       "sha256": "995eb2d01d6c5b6bc986fa2ca7f6b517d6682fa4c15834bcb8cd3f7e2c69d07a",
       "url": "60/e4/63ea505035c98474674fff1b621230f6e3db5b4966b369d75790611fd672/punctuation-remove-0.0.5.tar.gz"
-    }
-  },
-  "putio-automator": {
-    "0.4.1.dev3": {
-      "sha256": "3b457739ca5e9f56c02410872d09334e9b142841b79658078c26c188e3d3fbcc",
-      "url": "dc/a6/e21e57cacf06e744ad6547564855f1bf8b9ce406934060e9e41c6d94c3c4/putio-automator-0.4.1.dev3.tar.gz"
-    },
-    "0.4.2.dev15": {
-      "sha256": "0a435300fd9ee2d5057cbb06171c33fd1c9e843ffeb157da83467b846bc99c9e",
-      "url": "1b/46/bcd6ab9f00995aed2ea0eb4deb35032fb29af88c9fcdc6c127c959c67755/putio-automator-0.4.2.dev15.tar.gz"
-    },
-    "0.4.2.dev16": {
-      "sha256": "8c8da12d492004318cb757d58d87c469d53091e0d25b38f39937f12023cd52ee",
-      "url": "af/b8/6bba26c08fe3805a7dd987ca0870fb953f7a6dc0b7da35fbf6749395de0a/putio-automator-0.4.2.dev16.tar.gz"
-    },
-    "0.4.2.dev18": {
-      "sha256": "9046808c21b252bd8571556099120c30387187342516740218941fd67fc4734c",
-      "url": "f4/fd/ec9b4ab65580554275b021c1055af37db0c7daf86b69c3d1b2ba9c793389/putio-automator-0.4.2.dev18.tar.gz"
-    },
-    "0.4.2.dev23": {
-      "sha256": "a2caf08b8dfbe376b5785a0d8b684e8f4591c595d33bde2dc62d4a516e6dde9f",
-      "url": "d0/b3/27104277a0212136939a5208a2492dce6f3baaf94a83c7967cd37c1bd243/putio-automator-0.4.2.dev23.tar.gz"
-    },
-    "0.4.2.dev24": {
-      "sha256": "b6ef759f4530d8731cd92b1a533ba115e3d3edb5da99024cba5dd47b27b1d059",
-      "url": "4a/38/fd324cb25e4ce41c0be6629f5e42b96290740c8860841f2a2f9b817f1403/putio-automator-0.4.2.dev24.tar.gz"
-    },
-    "0.4.2.dev29": {
-      "sha256": "df4921eb0715b999b10a200d84896dd23f2ff1924c93b662f0dcaa9a296d3aac",
-      "url": "f9/f7/b4bc5d5f2ca158089a9efaa835943188145b8f5fff85dddcf73569a49b8c/putio-automator-0.4.2.dev29.tar.gz"
-    },
-    "0.4.2.dev34": {
-      "sha256": "a8a20dd13620d1bcd4b0ae349f1bd336c82025a1755fddc927b5b2159532d5d3",
-      "url": "7f/d2/333229b9e9020327517f40cdb8f73f0e2ce7161489ec52f50086d23f9489/putio-automator-0.4.2.dev34.tar.gz"
-    },
-    "0.4.2.dev38": {
-      "sha256": "5ce17faa7f9609d49a027f7836311624190c52765b04d5fd50d899c55b44ffc5",
-      "url": "c3/af/43e58a0ea3c0b234c6df64b363b03d12d527f33ebac2dddebf7c8a0d2461/putio-automator-0.4.2.dev38.tar.gz"
-    },
-    "0.4.2.dev40": {
-      "sha256": "c233ded7d596f19ce7cbdbe6f5dd04b33f503eb757f0e3c5cbc924df3ab8c545",
-      "url": "d9/a5/38187f14d8c227b8af7d701c718ed3b1b497fea3024d6fc2678012cf8242/putio-automator-0.4.2.dev40.tar.gz"
-    },
-    "0.4.2.dev42": {
-      "sha256": "7cfd583ac0f2ff4175fbc525159c7f0cb2c1befc00fc20374dcae18225aeccd8",
-      "url": "8a/78/bc53b805b52064d684803715621e6204b7617136c6ef235dfa0c6760e860/putio-automator-0.4.2.dev42.tar.gz"
-    },
-    "0.4.2.dev44": {
-      "sha256": "ad2fce7bcbb8a5e762622cae3274e4e70cb021f1381107d597a12d8273adc9f0",
-      "url": "34/f3/228edbfa2e63084493b6ed3cac007a825922534e41af67ca52221e8fc427/putio-automator-0.4.2.dev44.tar.gz"
-    },
-    "0.4.2.dev45": {
-      "sha256": "85cffc742167b23f0fb3be055d6493d4619ffe56f4f668fbfbcdcba0ada6d414",
-      "url": "1d/f5/91aa9d22459500af5cf4665379040975d58c3e525a4e4756a243dfbc3c41/putio-automator-0.4.2.dev45.tar.gz"
-    },
-    "0.4.2.dev47": {
-      "sha256": "2328cff8cb1a53ace06a4a170db2475dca96df28752ccee8752a7d48ed73ad02",
-      "url": "a0/a2/59f6da48506f0833d84413122f73dfebe046b74627e75791afe281dd8700/putio-automator-0.4.2.dev47.tar.gz"
-    },
-    "0.4.2.dev51": {
-      "sha256": "ed3850cabacf973275b45a9cc82f2925ca858113f6b3547f9e1b4fd9f0180898",
-      "url": "a7/ca/c3edd8397c79ff7ffc47b3297fca5e2d467435009eef0c78ec94572c0f54/putio-automator-0.4.2.dev51.tar.gz"
-    },
-    "0.4.2.dev62": {
-      "sha256": "dd4d8f3a0599e0164f5f8b5553319f357c4521c8acec833dc1cfb58067ec7594",
-      "url": "fe/07/7ea0cc6f4ec48ddbd2140616569e2387fabc0c92d84d15cbce88aa16be3a/putio-automator-0.4.2.dev62.tar.gz"
-    },
-    "0.4.2.dev66": {
-      "sha256": "2180787538c6c2ba88daa89ad9d349e084bcde71f3afb9ba8718d2ab16032a52",
-      "url": "fb/03/a8371a82543a7eafd2f9167961d78c6f260b36731b5079b6d1887d53796e/putio-automator-0.4.2.dev66.tar.gz"
-    },
-    "0.4.2.dev68": {
-      "sha256": "dd2a86183b3f7b5b685647263701ec3a65227725ba647a6010ee42a9df2048c3",
-      "url": "67/e5/2c5a37a03e1871e2eea79742ff4fd182ea3519a12675b96fafbb7e227b95/putio-automator-0.4.2.dev68.tar.gz"
-    },
-    "0.4.2.dev70": {
-      "sha256": "971f6468ac56022a11bcbad2494d6b7fdeb000bb318b7748d20c7d1f44808ac0",
-      "url": "13/68/882ab31b2fd6ba303f28bffe7a7eb833b6b2ccc166efba5f838580cf3dd2/putio-automator-0.4.2.dev70.tar.gz"
-    },
-    "0.4.2.dev72": {
-      "sha256": "b79ce20a89e2582bc3f3f70969b62e6cbeb06bfb1b110d98cf9162d255432361",
-      "url": "eb/18/654f5e65f28a60190a1a26cc7d4854a07bd23548ace8b2351209072877da/putio-automator-0.4.2.dev72.tar.gz"
-    },
-    "0.4.2.dev74": {
-      "sha256": "ae27703c7df16c434d2ba462879d5ef94f83eeffb963fafafa01519e86112c0c",
-      "url": "c7/22/364e5d8cbf6cf14ef6a35109c851435f38bfbb9d6a4d369fe3d95aa1cef8/putio-automator-0.4.2.dev74.tar.gz"
-    },
-    "0.4.2.dev77": {
-      "sha256": "849d97cdbe9015fa090c934f6cc7d0086d131ce0d910b2dc111b755656795dce",
-      "url": "e9/09/5f0b979d2f4106c9e49a086b899d12c573ce1ce2a565e98f69372939f2e0/putio-automator-0.4.2.dev77.tar.gz"
-    },
-    "0.4.2.dev79": {
-      "sha256": "3647bc97fd9c1d69aaae2b19b0877f27ddb3bdf569cda76b37ef8016fb422853",
-      "url": "74/06/c29e6599c47fae38821f1202928281b5d8866ec9b194aaf0a1e7325c11ae/putio-automator-0.4.2.dev79.tar.gz"
-    },
-    "1.0.0": {
-      "sha256": "ef6f130d2c0a2682679b4c604e46446ca89a7c5725a280552263676fdbbf93f4",
-      "url": "2c/57/a744d4e1b71cab0cbe2424a96a25876b49e9d6863cdd5141bdb01cbc0b90/putio-automator-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "bb61b15e25956d23c2330475fb13bc01ca111bec2375c35ba9cdf69abf1c5df2",
-      "url": "8f/04/971db8724b18a1649ee75abcdd98cf461f1cf357b353313f965a11990fbb/putio-automator-1.0.1.tar.gz"
-    },
-    "1.0.2": {
-      "sha256": "b587ac4d381107f4d8b4644c973f0ecd341b90a62bc7ed81d3cf7451bf899841",
-      "url": "ec/bd/948ab59f5ccbeb3f5040f61401430f4cad706ca55608efcb9f3f973bd74b/putio-automator-1.0.2.tar.gz"
-    },
-    "1.0.3.dev3": {
-      "sha256": "4efac189b3c5860db5670a8dfeb22a7c439b74b37885ca84c592d8351bd3e6d4",
-      "url": "b4/c7/2cb7e1a3a85d388a64efc169c51562b680286a7be19877fd5ccb14bc7049/putio-automator-1.0.3.dev3.tar.gz"
-    },
-    "2.0.0.dev2": {
-      "sha256": "4fa4b4e553735fd411e34e04f1a1c4f18f38292224f758dd242a9bbadbcb9b2a",
-      "url": "70/75/c38152cd02ab5761e37b6f1208fcacc96decfa659daedd3730d2fa9b26a5/putio-automator-2.0.0.dev2.tar.gz"
-    },
-    "2.0.0.dev3": {
-      "sha256": "40b7d1ff769d8c7d0e88037d6a84913d58a0b7d2cbc4d910553f25a2e5d295fa",
-      "url": "66/6c/efd34a4016e4728af2daa1808728c0d85c5b065151d2a3c4c37fccd3c9be/putio-automator-2.0.0.dev3.tar.gz"
-    },
-    "2.0.0.dev4": {
-      "sha256": "436ff4899a3b39b52b331afd5e6b29e189920f4794e52f43dee516cfbe93943a",
-      "url": "8b/a0/3530c5bd430c4492dd2c171970c23eb89a0e77a16e163a7458f1a333cb68/putio-automator-2.0.0.dev4.tar.gz"
-    },
-    "2.0.0.dev5": {
-      "sha256": "86711a9e27cfbac3472cd5c85ab3655b9befb80cc53b0fa541f236937cb4872a",
-      "url": "80/43/6777846fa208733c32ec2064624ddfc757b28d50f409e4346a5722595af2/putio-automator-2.0.0.dev5.tar.gz"
-    },
-    "2.0.0.dev6": {
-      "sha256": "bba685382a4f2914cf7bec97edd5e6909d450ea5a75d996dd3575e9444dc6ae0",
-      "url": "a0/2a/c8b5ba69aab2b8d55eb0adb2f2ea503627d03f419e0a6c2377e5d7b2dec2/putio-automator-2.0.0.dev6.tar.gz"
     }
   },
   "pwm-calibrate": {
@@ -18945,6 +19203,28 @@
     "0.0.3": {
       "sha256": "406c1f7f2b3445ddbbd1e93a322d6af3baf071742415130654f5615b9ad9f546",
       "url": "c0/57/c54b51dcfd5cd71b6b8a211caf86bc81972300726559d4ad2ae63500567d/swan_vis-0.0.3.tar.gz"
+    }
+  },
+  "sympde": {
+    "0.9.5": {
+      "sha256": "e02d43bfc493d7ae0296a4cca2c378ca277573bad3b99ceed17bce09d5fc75c8",
+      "url": "50/17/f105a0a0c187d6817913a8b2d7d52e2a6e0083d97e3087419eb4397c8e71/sympde-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "5ae619fc137af44471cde6ae119dd516944a0300920405c951cf1ac7bc783758",
+      "url": "5f/e7/bc8346101ba446ead543d4f96518233954baaeadd63d6d7a755178688b16/sympde-0.9.6.tar.gz"
+    },
+    "0.9.7": {
+      "sha256": "34852a6df969da59588a8ee2bd4bd17693da1c6a9da9c4704d14bd16b9d9f4e4",
+      "url": "44/ab/28fdb3082f6f73a27214e154de5acacfeb5f587d759ced6e3af490751bc5/sympde-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "63c43e659540123921896fd8cb1184606a47461e3fad5a79c382472f0d54145b",
+      "url": "17/6a/8b9ea8960e8cb7f28e238fda3e1d918df0c67adf619516b0ad6a4725f9d0/sympde-0.9.8.tar.gz"
+    },
+    "0.9.9": {
+      "sha256": "cc836a50b814a16d45ca1834714f6a10489b687088f9880ceb24df5d2c76f008",
+      "url": "6b/85/7efc998f991c8f943bb0402ec1184452e9be4dd2ba0a894bb0693d2597c7/sympde-0.9.9.tar.gz"
     }
   },
   "syntect": {

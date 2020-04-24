@@ -19509,6 +19509,10 @@
     "0.7.5b20200422": {
       "sha256": "8c736df0f0b7ed6ab15ae3a6462d761ceb4da926289f5c13e83eb735cda9f203",
       "url": "ce/48/5f949e536b75a33ebecc7db57eb8aea0028f345c2cf3dd268476eae1061b/rockset_sqlcli-0.7.5b20200422.tar.gz"
+    },
+    "0.7.6b20200423": {
+      "sha256": "4a34d3d23d1f58f058565924e40490b99d502c40d351588b060bbcf9b2884d07",
+      "url": "22/92/56e1ed5ba9257fad64213084f6a81ab1f409eb7f3af64d0ea5055f767cdd/rockset_sqlcli-0.7.6b20200423.tar.gz"
     }
   },
   "romans": {
@@ -23311,6 +23315,10 @@
     "0.3.8": {
       "sha256": "b1ee8f85c9291fccc94b5ddc933df7c96879de866f115108f84b80bf9f0ce457",
       "url": "76/e9/0b81ac536739c9ed0c4138f7c28552f30821d14ba175aa32ae38be7e1f66/tesp_support-0.3.8.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "d5b643251120342a05320b6d9b8742d96e3491e6d7fd993188417d677d8d9859",
+      "url": "4c/56/af94fd4a3d633e0b3dd335117b8d88b4ca8410bbb9081d5ef502eb649217/tesp_support-0.6.1.tar.gz"
     }
   },
   "test-nester-micah": {

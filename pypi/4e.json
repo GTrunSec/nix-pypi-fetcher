@@ -6510,6 +6510,10 @@
       "sha256": "f623cae517412373405dae517da48838ab26f1ed4a1a4a0a1c2738f83daef868",
       "url": "1b/28/dbe7b5e003f62c147956375932236f8e100b1d7bc24a09c1245c5112ae5c/fastutils-0.1.1.tar.gz"
     },
+    "0.10.0": {
+      "sha256": "d26ec7569a706cbcda4eebe12bb85a78c67bb3e565b005bf669fb32d2ad06fc3",
+      "url": "10/95/0836d002f9689735c788f0c98b22a56fb59d6c374d98c0d16bf577a44be1/fastutils-0.10.0.tar.gz"
+    },
     "0.2.0": {
       "sha256": "b776ae19f1ee8c904db46774046982d6c735a26fdd55e6f17c56dc4712ae9c5a",
       "url": "a7/37/6f428106c5a83187d34fb948c30fe08e0845d86ed1c88da746d3cd36cfa4/fastutils-0.2.0.tar.gz"

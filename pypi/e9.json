@@ -3353,6 +3353,12 @@
       "url": "8e/b5/124e2a972c491accd79b6b6fd4eb35ec20520d278067c7daa41f64e6c040/ckanext-logstash-0.0.2.tar.gz"
     }
   },
+  "clo-tetris-game": {
+    "0.0.1": {
+      "sha256": "7b71ba8da71084af91f2cfb1143950bc373d12b8ba9a68b16472110688afaf4f",
+      "url": "a4/08/668e77eed82b0b0be3018027c7d0807cf9fe5e5ffdd4447f33a695ea2fb1/clo-tetris-game-0.0.1.tar.gz"
+    }
+  },
   "cloudmesh.openapi": {
     "1.4.23": {
       "sha256": "61d2b70d5f16f9be3ecdefb5b1c32fcdafe1630aebacb4879bf0296bf510be3a",
@@ -6297,6 +6303,10 @@
     "1.4.3": {
       "sha256": "f667c55b5c77d78aacda82d1f6da189cdcf071a04b4093f48e22c89ce1a6559f",
       "url": "12/f9/f9960222d5274944b01391749e55e4dcdf28d8f0c108b64ac931ceff6fdb/elementpath-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "edef8099a6c606cf0fa7b8a4845bd90875af1649f12288228950eb936ccbc44a",
+      "url": "3e/f2/a28dd2136414f8f215a3a66fa16e0f394767ac8f8ed8514cda3e0391603d/elementpath-1.4.4.tar.gz"
     }
   },
   "eleven": {
@@ -8363,6 +8373,12 @@
     "0.3.3": {
       "sha256": "8bae51fcbaf6ce2dafcc36273e3b5f85cef059fcb0148653dfdc7c3be7550036",
       "url": "25/c8/d62f0aa1c8ae829ac336ffc3ef067fd78a7f89324bc599164f1fd216d349/gen3git-0.3.3.tar.gz"
+    }
+  },
+  "get-comics": {
+    "0.1.0": {
+      "sha256": "9a75b16137e6beb33df1f8ce0302280703e539d0a1fc0ad0e2fefc6b8d633be9",
+      "url": "74/e3/b42168c8f9bb42e25851b724ea693d569b29d1a2074de57c73a867f71fe2/get-comics-0.1.0.tar.gz"
     }
   },
   "getbook": {
@@ -13628,6 +13644,10 @@
       "sha256": "1db0310f4a542764f36bde5e498904257740199c77e4df8c4bf28869179720a0",
       "url": "6f/05/4f2fef0bc0d0ec87b66a4d0520d5e34e524f8f56f530d54b74e4610c9902/mypy-boto3-frauddetector-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "12177fc2487a42851491a7199b96aca9b285476b63c80742501bf950178f7621",
+      "url": "99/81/360c29eb8f622426889185cb731d2def478ac680a645f094f8ba41c1fb1d/mypy-boto3-frauddetector-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b52cebb7462ae367feb3c389eeca52c87b7054ca386ab100e6d4d4b3d89c2483",
       "url": "6a/56/b21d6e9f220cba9fec7bdec3159c8869abbdaeb70954c2562a4bf18fa748/mypy-boto3-frauddetector-1.12.5.0.tar.gz"
@@ -14145,6 +14165,10 @@
     "1.12.44.0": {
       "sha256": "72b370a481790dd3cc13bed53f8c8386e7d05c74b1811ce0494374af3446425a",
       "url": "73/fe/cdf507faad25d9a4f5ba613faf68b15a3c99e68bdb5a7579ce0b7a801344/mypy-boto3-qldb-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "6bd2750955c09d4515e8e034945b17c61aa98c068e7dc680e5283a7c7f65e578",
+      "url": "74/4c/9da7d42e51441c742d56edf5647ffc17852c5b3781f5e0acac1a8bbbadf3/mypy-boto3-qldb-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5ef6d300768d51b50bf26d61461fab7c87af26db177450a3ee2f3697860a7867",
@@ -20097,6 +20121,30 @@
     "0.1.1": {
       "sha256": "09ef45a828cf072f829e3168d95c05e5afd82bfc7a98ad8c5c2c0c8e9ce20d45",
       "url": "1e/b7/7d0fed45276cc59ac3accb69e4dd6916a8b9ad306579d38a259f3289dc36/SeaSor-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "10f743f95856d9af3ef1af95aa05b472353f8e95c26af390043b149c9cdeeaba",
+      "url": "9b/b0/3c5672517013e8b0c37559976f14f341f51797ded43bd7074bb8db93facf/SeaSor-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "c66c9592fb568932c06e4109827cf9c5a17823853d8a2d97f52e9f260cad22e1",
+      "url": "dc/de/fdc5a5cc22f57c3e8211ab840c07a9d7c79a1c46f733d4d5284f3a536c27/SeaSor-0.1.3.tar.gz"
+    },
+    "0.1.3.1": {
+      "sha256": "b8bcdae36a7bdedc7d988afbbabda68202df7c52c3bc68bcd18be016ecc70c4e",
+      "url": "8c/1f/b41919a68f16b7711689a8a27bffebd796fb898bd878f1a471d01761bdeb/SeaSor-0.1.3.1.tar.gz"
+    },
+    "0.1.3.2": {
+      "sha256": "2a07c2a8c02ceb917ec70de4c3d368f1b594ba543322515d8d52e3e8d4789a12",
+      "url": "48/c0/73b2eab66e2438fd3889f474e0cb81ed09fec3c189df4ce25743055f5453/SeaSor-0.1.3.2.tar.gz"
+    },
+    "0.1.3.3": {
+      "sha256": "695077e1ebf7757fc47cab4d6ef545ae3d32400f9da12c27652855ec74ec582f",
+      "url": "66/b1/3ad160128b0b54b61b21a828b528b1f6d67896a781a851440b69e786a9c9/SeaSor-0.1.3.3.tar.gz"
+    },
+    "0.1.3.4": {
+      "sha256": "4d4b5c260b29d8797563a586e43b05d67fd512e8d94445ef17ff41a1ef42fa29",
+      "url": "b4/51/7c3290fb7370e0ad84de311582b0065d74a309b9f5068ae6df12d729731e/SeaSor-0.1.3.4.tar.gz"
     }
   },
   "selectel-dns-api": {

@@ -21663,6 +21663,10 @@
     "0.4.6": {
       "sha256": "f8f840a676a6bf07a39a464a0bb86ff72abfe03c6cf3095e72532c993eb403fe",
       "url": "f7/f6/d560dc177839f1deba0481a81c41bff5e81af7075c4711f6234ee9bf2a3c/raveberry-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "7c7f4e0a092ee09eeede5620b69ef2bacce294a5b380ece2d8e0abbea395d07b",
+      "url": "b5/5c/4540a966fdf84d5a12d5292cf9152f1857be770c4988a705bae868fb57c0/raveberry-0.4.7.tar.gz"
     }
   },
   "ray-appengine": {
@@ -26928,6 +26932,10 @@
       "sha256": "5223e5cd468e824bfa580ebfd42b9df5703adc738bf3e2b2d420b1d6cd0e502d",
       "url": "49/df/7f72f16773663a0764bec8d1dc19e571c6ffd6837f5d2102f869a870d1d1/transiter-0.4.2.dev737.tar.gz"
     },
+    "0.4.3": {
+      "sha256": "52a23ed139b8516f6fdab5aa120b1c03ff0b46265b90683bbdbadfd3e8d7ff6b",
+      "url": "9d/7d/248020f9976abe89157bc0c1bd6e12021426acccb748f652ab9384e9f72d/transiter-0.4.3.tar.gz"
+    },
     "0.4.3.dev743": {
       "sha256": "c104bcc490ac148259c51fd4cec7abcfd3b94b362b83a770d3b1d089b0f65c8e",
       "url": "db/c9/d2d4f3f9344f60d279db578dce717c377623b39f27d53dad3449835ddb1c/transiter-0.4.3.dev743.tar.gz"
@@ -26939,6 +26947,18 @@
     "0.4.3.dev756": {
       "sha256": "008a9e467c242708bb3c094a06038d675e53821751f8184271acc67aa7babcca",
       "url": "4c/fb/1d3689edd9b8432e5edbea22106bd332e955f0424cbf5c6652aaffe2892f/transiter-0.4.3.dev756.tar.gz"
+    },
+    "0.4.3.dev757": {
+      "sha256": "bdae9c6fccbf508a63e3b616d08e04dc39af09af2d102da91b58a55444c3ae8f",
+      "url": "09/69/e7da13a4fbaa86f461f5b49d19d785d783d0742d6fe367259ec039d95ae9/transiter-0.4.3.dev757.tar.gz"
+    },
+    "0.4.3.dev760": {
+      "sha256": "ae3322ba731635ac3c42830683b6c3ba859226dcaf2b3a0f0944c4eadecab947",
+      "url": "cd/40/d4bf99344776786336ac33a2f53c12b9252f3e71595c107ba38aa6958b31/transiter-0.4.3.dev760.tar.gz"
+    },
+    "0.4.4.dev769": {
+      "sha256": "f87361dd7d424a8791c0a5ff076e11ba30e3135996c4df97ebe7e6d4ccf4f527",
+      "url": "c1/7f/4403644a594fa9dc2dca822cea8b1085635e4bc355048221f10cc3f9ab1c/transiter-0.4.4.dev769.tar.gz"
     }
   },
   "travis-sphinx": {

@@ -4244,9 +4244,9 @@
     }
   },
   "cpac-py": {
-    "0.2.0": {
-      "sha256": "d65bc27680e41aea5294b7ef3cccd63a4525e5f979de9d885bcce823654742c7",
-      "url": "63/e9/bc517d1d4b1a5182fc75f3be733662645989f46bb10c2eb350204c62edb6/cpac_py-0.2.0.tar.gz"
+    "0.2.1": {
+      "sha256": "649301473902c3869bff5440f15adb0902138ca62cb58fba163658918be6d1be",
+      "url": "34/61/ce9f91777f40ace6ef55a3f88658a932c904210f3dabce8ac85283325563/cpac_py-0.2.1.tar.gz"
     }
   },
   "cporter": {

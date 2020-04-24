@@ -11085,6 +11085,10 @@
     "0.3.2": {
       "sha256": "fd48720a015d3a9b0e7eb34b018e6ba73dc6758ba403c91ab396363acf576b81",
       "url": "43/52/e298658fdd589e9b4719fc0564c26ef1bf248f08b85aaa04606afc7fa7f3/hitchrun-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "c943f406a0ddc99e6ef001dacbb47431c234ff85208cc6fef7b36cebfc8239e5",
+      "url": "12/b9/22fec4a1d67c693a76f930d940d78bbca64f1398b95343ed1e3d9783b23a/hitchrun-0.3.3.tar.gz"
     }
   },
   "hive-utils": {
@@ -12701,6 +12705,18 @@
     "0.5.10": {
       "sha256": "fdf0e4156f1c15b11fddafe23cc2bb024ca29bc1b7d88f3c4e4e0b92fca1cee2",
       "url": "ec/85/a3c79898a0cbbe6754638a2ee70a496e2f4a7ea58e966f0aed6df46119d4/jmeter_api-0.5.10.tar.gz"
+    },
+    "0.5.11": {
+      "sha256": "11c05d460874046ece6955a6f8eed9ce8da222f5f143bc7e2bfef3194fae2e38",
+      "url": "a8/4e/5a46d8c81a46652d742ad4524e34a2b2919fc4ee87cd96c975a1d74a1b2d/jmeter_api-0.5.11.tar.gz"
+    },
+    "0.5.12": {
+      "sha256": "92ed3de6f167dd43e1339bb9d8384be2b3bc05bdb3093617caac622606cfcdee",
+      "url": "7d/0f/18e235af75777a9bcd2136fdd48484de216814126b52797607c6130148a5/jmeter_api-0.5.12.tar.gz"
+    },
+    "0.5.13": {
+      "sha256": "5a0ff41416937c70d4405c1a7809c17999d29f9e8fa34022db082cf040dc2400",
+      "url": "c4/27/61eca3b8539f2674bd60901b8e35f380f2b889c1bdd97d6a09ef6e0538d1/jmeter_api-0.5.13.tar.gz"
     },
     "0.5.2": {
       "sha256": "5dd8ea2b557ef57b14bfca063e7fa7816a8c92067b61f84d7f402ca3c3b744fd",
@@ -14928,6 +14944,10 @@
       "sha256": "7b72a46a306cef4ce62d58df856cf90db028bb60aba28687a8b99ba877099a4e",
       "url": "81/c9/0dbf0ea5c4c39c19c911fbcf83abfb608d5468d6f9e8f422bb2534a30ea3/mypy-boto3-compute-optimizer-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "e4c41c6e26c21d266d7e627b918cc6c2983190564cb443929cc3b986d225b2bc",
+      "url": "1a/38/27345d5050191ce1faf93d6fe48e65506f0b65435e48a45d3956ce258f68/mypy-boto3-compute-optimizer-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "4364d4fe1c354206fb708faea96a49254f5adc7b20793f8fffd926c8fc82b8cb",
       "url": "95/2e/b915a2c0d2db8b002d1d7c02855452e4dce5522f1211380ae23e8745d8d1/mypy-boto3-compute-optimizer-1.12.5.0.tar.gz"
@@ -15441,6 +15461,10 @@
     "1.12.44.0": {
       "sha256": "3c56c1841a974ff794f3900c7a2d595a60c8fc2dae5eb9f50ec052480075b352",
       "url": "4d/3b/78384129a9784dedf9899ff685af3efb0bbd652758e06200f307e326d8dc/mypy-boto3-medialive-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "f5d8d82db861971bd4ebdf2841bc7b2c2df62f093f70724c3a26a3288f61a385",
+      "url": "2a/c6/169b2a37bbddd8fb2c753de7c4ca07326103d12a8331b03345f96b054b36/mypy-boto3-medialive-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "bb4160a7bb9d1da639a04d710279a7e5ddd56238ba8dbe7331b49d5ba54df070",
@@ -15956,6 +15980,10 @@
       "sha256": "e373cb52447ee45d350399090929b3737208dd5adc214fdbe98cfef731c0baf1",
       "url": "f4/81/572a24e3e52717a5a5c5e192bf44d714ea55dd61b3012a91762b7b8d40ce/mypy-boto3-robomaker-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "e5bc8e1d235d54edb8e8f1548794f251df8f019dee1ab86ddbbaaade12b20696",
+      "url": "75/dd/55ebb7b7f9def46bd5b94eec474a5a4e32fae0bb638322817352a79ec182/mypy-boto3-robomaker-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "1451cffee640f1703b94ccb25a61d154270b238dfacd16da03fb5836bc8d94da",
       "url": "4f/38/8a765a4c12f74a0e18228bad5ae2d4bd7f31bd58ecca742ef7e3f9a799c2/mypy-boto3-robomaker-1.12.5.0.tar.gz"
@@ -16229,6 +16257,10 @@
     "1.0": {
       "sha256": "c309efa54b1a21f18bfd1c9e28aa81456b2c2d6cdf4d7496de4f45f46ff2244f",
       "url": "59/bf/fff5e30990e51b15788c06438f691066f0fb40b0b6e2efd5b61efce75f75/ndindex-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "74d9859193ee3308e170bd0ee2f94e10b2377d526a98e826a801b1498000efe0",
+      "url": "6c/42/27b40279a1488942cf93e8a8035901c4fb48556e56a65e5ae1b250d17b24/ndindex-1.1.tar.gz"
     }
   },
   "nervananeon": {

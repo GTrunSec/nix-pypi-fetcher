@@ -13,6 +13,10 @@
     "0.1": {
       "sha256": "d3f5bad00d00b142a05eb4dfb3cebf9fb43b0bc14d6d425131f0189c86b49045",
       "url": "22/87/f20896f715a24d5e6b565d2bae30b30926d7541c9b607d0ff920393baa2e/accbpg-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "e0681dc59393df908ed5f210abae4482f5969639f67f5ee9b207ca6797b9e0ba",
+      "url": "1f/0c/c6d891139e70bdf34e6166d5f595f176b661589138681f392ca9edf5942e/accbpg-0.2.tar.gz"
     }
   },
   "actin": {
@@ -8185,6 +8189,10 @@
     "0.1.2": {
       "sha256": "e38ccf1fb4c4698c143e77c472fd70a90c2bda61b17a63c7de4f19142f58aa2f",
       "url": "f9/26/b49dfd72920818c5b8e69b23ed613553c96b40eaeeb85940754bdd8489d2/enochecker_core-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "14cf2727803a26c1c1ec45f87d46ea1ccee83ea0f446582071c7890a01384aa8",
+      "url": "05/1c/a1eb43ff956f98f0eb520910eb91c5d510fe655dd15dfd94afcc62877926/enochecker_core-0.1.3.tar.gz"
     }
   },
   "envipath-api": {
@@ -14090,6 +14098,10 @@
       "sha256": "865e65e1213104ef694e9dcd08ac88d9c75d910f7ae638556a8b9c375596912f",
       "url": "a9/e2/082c77754992c97b96981fc6fe6ae99d9bb6a0e1d719738698c67da030c8/mypy-boto3-workmailmessageflow-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "8b3a73561cb064dfc9136ac23f5d02be53f28b4b891a58ed2cfc5e7517057c11",
+      "url": "62/84/83ce92178711ea5a030617d8f086d158c4aa77d66514dab3d7307820dcdd/mypy-boto3-workmailmessageflow-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "9dcc5ca41f36a522882f5be71143b2fe5ec1a68cf27915eb49257ef55ec58c5c",
       "url": "9d/e6/db38a02460cfc5b778c584211e23f58070ef9b3e68c7f574e55f9d0b3399/mypy-boto3-workmailmessageflow-1.12.5.0.tar.gz"
@@ -17203,6 +17215,10 @@
     "1.0.3": {
       "sha256": "da55af0aea53bc72c4f51308a94ed51eb16c83021d0f8b0a59c6302c2800b5fc",
       "url": "cb/72/02f4f4502e5336e25cc94bce09877bca83c781e36a608bf6055d028221eb/pypdn-1.0.3.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "15ed806eea95316fb34a9a3f0dc155ab85e23c684746b7757d28be3b7a49cf35",
+      "url": "30/7d/d6fb57cd98959f0115b8ba87dcb09e98c39bcdb81c2ee161ec5568f1d42f/pypdn-1.0.5.tar.gz"
     }
   },
   "pypowervm": {

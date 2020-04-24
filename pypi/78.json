@@ -1546,6 +1546,18 @@
     }
   },
   "bavard": {
+    "0.0.10": {
+      "sha256": "f1cee0ecb2e5431bd5eaf4a58d9d081806afa6172ef10e3e76bf917f1111f8bb",
+      "url": "79/8c/34c77d563e0d15d8ededbf6a56e9cfac75e2d03f2ad6856c5c0fd5c6eb18/bavard-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "130ed3b9829696caaf09835bb36e2aab25299f9e217923db103b9652070302f4",
+      "url": "c0/fd/39629bfa2119d89b1be1138c90d236a01404ffefe138644ece2d38a00876/bavard-0.0.11.tar.gz"
+    },
+    "0.0.12": {
+      "sha256": "f2c2d4890d3eaccfd488326f8ae98ce0a57ec31280dbe1f2da11f8e054de2c16",
+      "url": "20/31/ece023ed16aa3fa9085750230bc4f9de792fb9edf96787575db80fbef14c/bavard-0.0.12.tar.gz"
+    },
     "0.0.3": {
       "sha256": "c459bd7f9e176c48262e2cb57999dc7aec1e419b0c8721a7c75461ad19b0793c",
       "url": "d9/6a/539bae182c3437e759a36861b3577206f3c43d130137e0c58a7852434830/bavard-0.0.3.tar.gz"
@@ -5685,6 +5697,10 @@
     "1.6.2": {
       "sha256": "9428e14b38108b127740e889d72e9fc651707fcbbca1cad48ca4d6d00167b476",
       "url": "60/df/3cc796994259cf16fe110293c8f6014fc53226f341b23b091da069ff7d38/django-grainy-1.6.2.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "8a00607cc26f77ff437ef485541bf6b0df3428256af9f3404d0dfc568c28f060",
+      "url": "90/92/c7c21fb654fef11ad698d6f089d14b76aff8d9163d41759f441d1ca1824c/django-grainy-1.7.0.tar.gz"
     }
   },
   "django-heroku-connect": {
@@ -18179,6 +18195,10 @@
     "0.8.0.4": {
       "sha256": "20855dd7a5ec73fb4b0edb447d94628b7287b1d99df7576e7af931633fc32210",
       "url": "d2/be/7c8808262f00154d397d8e444aa93e1e4c9d8fc059ef6d5b83e8beed0bc9/policy_sentry-0.8.0.4.tar.gz"
+    },
+    "0.8.0.5": {
+      "sha256": "d43229e14ed659d433c119e1deedd1caad9d744474de333cb4b5ff6664baca02",
+      "url": "1d/26/d461385d60da16e828c8397c06f414e6d2b410c7ff70d71247c625cefdd9/policy_sentry-0.8.0.5.tar.gz"
     }
   },
   "polyprox": {
@@ -23287,6 +23307,16 @@
     "1.0.1": {
       "sha256": "ae3d30539d0302db1d0bca18b87cd47962b4b54f55014333a1979d85b77b15b9",
       "url": "90/aa/61c1b8809c6e4db1404eb2140b7d1210a4f710f3bff839df1916cedbb82c/storytracker-1.0.1.tar.gz"
+    }
+  },
+  "subjective-test": {
+    "0.0.1": {
+      "sha256": "129d761fd27ce18dda896e86d8aa0e268382e0b5e48ff1e8530a36086a38b9ee",
+      "url": "8f/05/4c24cb7870c4d6d619bf6ef581b128a41520e6979b95e75941a155c247a9/subjective_test-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "b0ef05253954cad87a9ca69245134567e07216c5db0b751423176db7fa1b8b06",
+      "url": "25/86/a0de32f1f59c7977b71822b018f84ae893104c3e218b0a6b48b90874e72c/subjective_test-0.0.2.tar.gz"
     }
   },
   "substratestack": {

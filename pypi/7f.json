@@ -4352,6 +4352,10 @@
       "sha256": "2205b5c150afb69e04a6b6af2bca1ec014c84ef36e9a12de144182790f988033",
       "url": "95/2b/0bdf432479239e69a7dc437fa81927a6a6c86a4cdb6447e5adffc56254bd/awscli-1.18.44.tar.gz"
     },
+    "1.18.45": {
+      "sha256": "95efe67a364ae4c033f4d1b4f08600a5def131a3cbc851e6360067c453647d61",
+      "url": "fb/64/0c14ba1aed7dbb2ca446e2e00de22ce67856bb8a926efad47256e5fbbba6/awscli-1.18.45.tar.gz"
+    },
     "1.18.5": {
       "sha256": "62dffd77132afb6b74e22668199f9656781a9178991156edd1997a811463d91e",
       "url": "bd/3f/beeb6b65affc744ae81db784a50a5e5a982e99e8dabf010250086a305d18/awscli-1.18.5.tar.gz"
@@ -19631,6 +19635,10 @@
     "0.1.0": {
       "sha256": "acacd17c3d5e7556471ccd3d8738d4228bc9cc9c7a69739d18ffbc32638837a9",
       "url": "e8/7a/1035336d252791ac73396dc76f6e205b81184e0552a9c05627ad9fec22b5/pynblast-0.1.0.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "81663186af58b10959f78fc2bd75b26bb8b231085a7e16b9352bdf54e26803a7",
+      "url": "13/a1/f0b3f0289701a0ede4d36990da4e232d733e9f9d4d8bf5d8b4f01c94e99a/pynblast-0.1.2.tar.gz"
     }
   },
   "pynmet": {

@@ -17922,6 +17922,10 @@
       "sha256": "d996ea42eafe7cca7484f07385860e025536f046e0ec73e09114c3a2aedfc939",
       "url": "24/54/3c8e7da919b0f0f946681ad24d90a835c92dc8d606b515023380474e1d96/mypy-boto3-imagebuilder-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "0036e14a0178de0f618338a08784ec3e5035efdae418add48d29c51721da2d83",
+      "url": "81/15/a2776e4be88d41da28ec77f5e4db0e44fbfc6d492cbea7ef4b1295acfe69/mypy-boto3-imagebuilder-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ab3b7889b2d825bc3c26ed846326b058b5ff6d5c86c9ba4e1a1ab267d62a210e",
       "url": "5f/b3/9c4ab246838192814b39e37a5a0e31b94fc6be10f069996ddee71d7a30ec/mypy-boto3-imagebuilder-1.12.5.0.tar.gz"
@@ -20513,6 +20517,12 @@
       "url": "b7/8d/66d624190cc9a34aca89ca26a2107ce455cc5a35e6bd39793178473872ff/pptx-builder-from-yaml-0.0.4.tar.gz"
     }
   },
+  "pricing-models": {
+    "0.1.0": {
+      "sha256": "08b578bd121479cbc62462a97b84ee07d01debf85c5d9abd9e869dc53f956ff7",
+      "url": "d2/13/67336f618321f4a4b83534c8fd791fa5a03ec3b638cfae906a50d482e081/pricing-models-0.1.0.tar.gz"
+    }
+  },
   "printcronjob": {
     "1.0.0": {
       "sha256": "de9321751193947a3dedf799f1db4c4a73a1cf249acf13d195cedb5f7dc0ffa1",
@@ -22479,6 +22489,12 @@
     "0.5.1": {
       "sha256": "22835d9e25f833663d0c3ef8353cde84304739767efa9eab92cec8b059b1cc17",
       "url": "be/c8/67a327e38f3f4a873dba2c90a0dea849149450d630ac81de55287dd3df5e/PyStorage-0.5.1.tar.gz"
+    }
+  },
+  "pyswallow": {
+    "1.0.0": {
+      "sha256": "404aa89bb30b72ef61d610ef8025de2b5e1094cf7fd06cff795aa7554bb18931",
+      "url": "f0/e3/fa901b25da3da4bd87688945a746be4063e1e99b2543e92e2242482a341d/PySwallow-1.0.0.tar.gz"
     }
   },
   "pysys": {

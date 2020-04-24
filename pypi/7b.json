@@ -21371,6 +21371,10 @@
     "35.0.203": {
       "sha256": "86e5ca9d4cb21b7c19d58dde7860222d82f1f35e461ac83334c6751b6462724e",
       "url": "1e/a0/7fde655b7b0e8f202538658719735aebb307b060e59769696f8f516399e1/resilient_lib-35.0.203.tar.gz"
+    },
+    "36.2.209.dev0": {
+      "sha256": "0c29f283bdf92352a3bd694fbf4896e1d7c9726190c74a65ebe7cc78b1824a86",
+      "url": "7a/e7/62c7577d70f9a6fe23cd0fe3c0a3d33d0ca4d187be57a9b05a2ba02e9f75/resilient_lib-36.2.209.dev0.tar.gz"
     }
   },
   "restauthclient": {

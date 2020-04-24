@@ -5079,6 +5079,10 @@
     "0.8": {
       "sha256": "38d3314cda742c6667fdb8090914bd749a9e8082ed1e81f887a568327add34cb",
       "url": "0b/b7/7189ee2fea1bbec51d52c2f5d60f244d9d4b597092ddc2784ced8e5adf10/crudest-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "694c36437465d3851b32f3d88ac9317b4945266d30b46ce06524b3d2f2af0cb5",
+      "url": "c2/db/05036191418af4a2cc0a50c74b12e4de70341f9e8c55d9de3057049ee957/crudest-0.9.tar.gz"
     }
   },
   "cryptg": {
@@ -13723,6 +13727,10 @@
     "1.12.44.0": {
       "sha256": "d94c1dec208bd0fb3039a95627c6412c4426030104c54881a91ccb04ca2d518b",
       "url": "dc/e9/732fda09733b594bc02d1c1bdec3282b69b079ab459a1b7830e7fa6fe5ce/mypy-boto3-marketplace-entitlement-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "eeeccdeee80c7edf2f7fa5ef794699a3e0603dbe1a309bc8571dd3fed94cb4f3",
+      "url": "7f/71/65216a0bfbd28b321c90b677c8571287ec1c31cbebe1423cf87587bc82e2/mypy-boto3-marketplace-entitlement-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "b530726d6d732eec27f43e94b26fa57506beab7c023f73cec6e991dc91e3292b",
@@ -26259,6 +26267,10 @@
     "5.7.0": {
       "sha256": "005acdbb5eedf847870b5ee533a68cb748a10088bdf45ba611045530a9058d58",
       "url": "c4/42/8dc126a7fc2f6335f3b7a9332dfef26814195b5847680399cd63c1171056/web3-5.7.0.tar.gz"
+    },
+    "5.8.0": {
+      "sha256": "877fb44a9546500db2918f232bd49304668c80ec11769e092c0063427841aa4f",
+      "url": "a2/ef/7ec1d8f7af25ba77ca8ea985e0e4b5c46008fa76c4c0bbf88ecf6b1087b8/web3-5.8.0.tar.gz"
     }
   },
   "webdebug": {

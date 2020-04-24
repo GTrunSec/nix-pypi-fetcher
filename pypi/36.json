@@ -7604,6 +7604,10 @@
     }
   },
   "gino-admin": {
+    "0.0.1": {
+      "sha256": "f34336246484db7f9d596294feaa30cd416a75cba28837a3fec6716e6aaf8c0e",
+      "url": "af/02/ecf7754ff1cf5f0f45a093a86d071a78cbbd4a72226f5867e3f59c7e20d8/gino_admin-0.0.1.tar.gz"
+    },
     "0.0.1.dev1": {
       "sha256": "53a580fb40574e61bdeaf05a152e5ceb729eb0234785bf38f0c7c412d06ff889",
       "url": "75/52/e2a2f492026b0ca74791096e55d3c38d5ac29c1a9934d2f4d23c81872465/gino_admin-0.0.1.dev1.tar.gz"
@@ -11256,6 +11260,10 @@
       "sha256": "4f5980651520363113e8e1e3f45b6028bd298eb26f6a549cee4543047c97697f",
       "url": "48/ef/0fc93e31c770e4d42554355fde262648f9b7193deb79cea0a1dade5acec8/mypy-boto3-dax-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "861b5cd0437383d42095693f2af2c48be6dc6bc3b642f074ff2538d241761b8b",
+      "url": "09/cb/912655efaa813b2c8f72e26ad5f7a5d07c39f965eaee575a2c557899cbf2/mypy-boto3-dax-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ba5d1ff1b101a6637a3540a4d3cdc77b09a816aad55ff42a5bd07770d1d57da8",
       "url": "b5/a6/702e73baa475bb5fbfb72921a0bc5430d908f62f3d90bd73adada3a47ea2/mypy-boto3-dax-1.12.5.0.tar.gz"
@@ -11774,6 +11782,10 @@
       "sha256": "9e1f04bfa5e7e4945692bff19e4c0690cf4bb4dba53c59763e6064a4c380b218",
       "url": "20/30/ec91b8410abe3c4d505614ff6d87f883850ce1a13a948c1c53ab949b07d0/mypy-boto3-qldb-session-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "ea1272191df88b6d18ba393c852c8a60247a5ad028aae70f56993efa7d83b39b",
+      "url": "4c/2f/6e253f4105433597ac2005c1f677a402251625d7c68ad3de62f0ee8a61fe/mypy-boto3-qldb-session-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "bd50c29c3d539a1c6c12758465cac647cfc7c693bea357c948255c0c1a879105",
       "url": "f6/d8/0cb9183ecf2a0f4223b147eec3633b5e2c95f2ca9fca72d9c0f09679c7d0/mypy-boto3-qldb-session-1.12.5.0.tar.gz"
@@ -12288,6 +12300,10 @@
       "sha256": "d5309ae7c5a61dd99c3c44dee95414b0c387d298289679c446c1f911719fe6e4",
       "url": "8d/55/b9146a3cda2933befe34946d0237a80d1e43470366af022cc0fe6e56d607/mypy-boto3-workspaces-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "3821c64d3dd7ffbcb7bb4dc24acd136341c6b1b70ab92e52dc3c9531933abcda",
+      "url": "e5/7c/287437c2fbd55f909488edac6d514de7c93c5c827ae3c3a27d3661003a21/mypy-boto3-workspaces-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "383557e97b3e365883616b97016522278419a537559e75d0fee5793b15a67633",
       "url": "ce/22/26d99cb3053b0ab9b3d5e1fcf83529ba4f59227405d7e44147259572c98d/mypy-boto3-workspaces-1.12.5.0.tar.gz"
@@ -12587,6 +12603,10 @@
     "0.1.1": {
       "sha256": "2211bd5f2baa8ba21aa1900a2e63da415964ccd616437c584c428ec7d54d53bd",
       "url": "40/5a/25f6b88af74ef91b4d52b4f1094d49bf7b7a5b36a9095912162124bed528/nevermind-contracts-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "c8f8040964926f00c091905a82b1ab619263a4633776dc4b49114dc7a17dd452",
+      "url": "6a/94/8c70910caecd209f030b4f0fa5b69077a40b9d81bab08dd08f793763fa5e/nevermind-contracts-0.1.2.tar.gz"
     }
   },
   "nndownload": {
@@ -13561,6 +13581,10 @@
     "0.7.3": {
       "sha256": "7cdc5b8a79de9e90e49d36f491810ccc73f58bf16c97519748badfe0aa8b51c0",
       "url": "9a/9f/ebabd5117688935cfad6321cbc26f557ffe7468b57868d29b7ac538ed049/pg-es-fdw-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "1c7975b20c7ddf33efedb8ed0998215856299e96de01687a0effc043c23cbd19",
+      "url": "9d/b4/beb7b1d4626f5381262683138a6c203cbba3fbc427d4489333ee4d70824f/pg-es-fdw-0.7.4.tar.gz"
     }
   },
   "phoopy-http": {
@@ -21215,6 +21239,10 @@
     "0.3.1": {
       "sha256": "01510e2e5066cbfa1f6d1a7304c7b914a5aead63a6b9a1bf5c97d45eee52a443",
       "url": "f6/45/5afb2e7aad9fe159faa9b033c773e08e2460fea9a166d12946467536b672/yapf-0.3.1.tar.gz"
+    },
+    "0.30.0": {
+      "sha256": "3000abee4c28daebad55da6c85f3cd07b8062ce48e2e9943c8da1b9667d48427",
+      "url": "65/44/c2aa8743cada222eaede6b9bd4b644e84f04eaa6dede2258ec7562b705d3/yapf-0.30.0.tar.gz"
     },
     "0.4.0": {
       "sha256": "fb156d9bdbe4ede9279ad9cc530aeb01dc25ddd4dc70d3fb4084afe2658ad8ee",

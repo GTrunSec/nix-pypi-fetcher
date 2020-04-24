@@ -4150,6 +4150,10 @@
     }
   },
   "designate": {
+    "10.0.0.0rc1": {
+      "sha256": "7979bdd20dab3a40c5ca8e38ad50fb87fa9892a9c96a0422b2df1ab1201fea0c",
+      "url": "15/e3/951b8927346bcb2753b43a3a83fdecb5d68ab6ab7864c408ec3488588c39/designate-10.0.0.0rc1.tar.gz"
+    },
     "5.0.3": {
       "sha256": "57e0520b48e59e2892fb27e1d9a3a51edd8e8c3203d0a27dfe278ce7ee58d0dd",
       "url": "f8/be/2b00f9e4bea0e6973b125f613a50120a39c2587428efa7f666d3bd156244/designate-5.0.3.tar.gz"
@@ -12363,6 +12367,12 @@
       "url": "b1/93/5078a2bb57901eb59db4bc3fc115c2174b4db1804464127c26aacb4b2160/monero-python-0.5.4.tar.gz"
     }
   },
+  "mongo2json": {
+    "1.0.0": {
+      "sha256": "2b9201de2ca13fcbc27541208b780fd73f2528adbba8bee1263ecfd30db7c957",
+      "url": "3c/c5/da2502e104bf195a776ea921a1e2e7f81cc0faac8530d2b3ef1c37364b9e/mongo2json-1.0.0.tar.gz"
+    }
+  },
   "more.basicauth": {
     "0.1": {
       "sha256": "2e64de5e2290e7016037891e2b452aa0f32d7929e08f98a559cf0e365a2a00c8",
@@ -12946,6 +12956,10 @@
       "sha256": "44f09fab9e70efc89ba1ef90c0cfb887bbcbede1abf547d0011371692788fbf0",
       "url": "82/77/c5622e14e5f18ca4d36d0efc5ac7e31760b8be8bff916b79ad6fd8b0830d/mypy-boto3-storagegateway-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "e4c72412f7b87a6ab95223aa16e70f9ddf07f1172b895596fa258702105f6a4f",
+      "url": "b4/61/4501c90f169cac1736868831159e99f6db163e89a79ddc10b3dbd98ec3e1/mypy-boto3-storagegateway-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a51cff4f5ba5d08b3f76d71510269b599b8ac18f10e6cb50412570e6bf1964c5",
       "url": "a5/2f/77dc0c84760d93a61bff0c02017670cd4046feb52ea765e7f0fd441ea9b4/mypy-boto3-storagegateway-1.12.5.0.tar.gz"
@@ -13463,6 +13477,10 @@
     "1.12.44.0": {
       "sha256": "80373132a31eae432e777b20bb1b6e078d7035780285ca53d605bbdf6a5cf788",
       "url": "bc/0f/39ca1008070a85862d9af96b06f3bedfea46b76fe60791adda811dd10d04/mypy-boto3-transcribe-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "5a10b7a5d6599b9b53f93abd2bcf60ba2a535c91a4b39fca4453e55e565d1b2d",
+      "url": "03/e4/b543731a707ac8cc08e8857f2974c5b8f177d3ed2493f86085f7376b3bf3/mypy-boto3-transcribe-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "b00337bddf6b7931480a68769cb82427a4a3f7b3e93a1a91b1681bbd14695a0d",
@@ -19483,6 +19501,14 @@
     "1.3.1b1": {
       "sha256": "9af76400e40c9814a4934da9724db5f770f064e743ba0bc78d844ca1a81ca92d",
       "url": "8e/7b/db2cd9570fe45d723fcb4f9a0b9aa2f53e5586a0a44754b1e9e41ea528b4/rdiffweb-1.3.1b1.tar.gz"
+    },
+    "1.3.1b2": {
+      "sha256": "946ce16aa4ef02db161ad27ead146eed2137b58797b18b8b81429fffcd42163c",
+      "url": "e4/71/796f48e633195c45ef08159567286a801b20422e31c3a29229c9523f2595/rdiffweb-1.3.1b2.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "693083fc828723f6eae98dc23aa849a579aea768022727e1577355b53a38d2c4",
+      "url": "aa/73/b55fcdf2eba59f42fab6452a9a43504870bd791b3e9b3cee9e8de28d0ec8/rdiffweb-1.3.2.tar.gz"
     }
   },
   "reahl-bzrsupport": {
@@ -21457,20 +21483,6 @@
     "0.0.3": {
       "sha256": "f9e632c6e06c08014e4f9ec64e9a46b6956054dcbdc97b943fc45b5ef810da5a",
       "url": "07/57/8737da286fc6f2bea8b756982988cb5a9569861bd343236942975f2a00f9/scratchdir-0.0.3.tar.gz"
-    }
-  },
-  "scyred": {
-    "0.0.1": {
-      "sha256": "044728ae79c2049698c4ae7bdba32aed0aff3bb4a167ad155ece94ca1a10ea80",
-      "url": "64/08/82c6d66882ea112cbca297d3069ce3902c1736a01613c0cdd42ab21fc748/scyred-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "e656867b24362806b47220bcd207d920cb84e68606589cad891aadc2019b66ca",
-      "url": "3c/66/3db042e25c6f9b65982478237747b27d39155369b1322b479fca15dec494/scyred-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "1e780f999216ec05508d10df8dbc729987ef6543730591ea1c252ec317293b96",
-      "url": "24/5c/bbc458ac4e12eca13293634c5492da19a03308507f73d05fc742245473fc/scyred-0.0.3.tar.gz"
     }
   },
   "seaborn-altair": {

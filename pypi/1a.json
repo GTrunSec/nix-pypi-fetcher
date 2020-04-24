@@ -12847,6 +12847,10 @@
     "0.0.4": {
       "sha256": "b0c7e4aae5e72430c530b26ebda494ff7631e55b014f57128502b03a11ed0808",
       "url": "86/ab/a724d27f67f7edbbce438cbf0a4b1090586f6fbfc380e6db806eb7a5a839/mpp-0.0.4.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "11fc2869e37c8fbd23ac75e6f2a22562d63818bc48bedff1408aa4a8132189b2",
+      "url": "5c/5c/c460d98c561f7997941f9fe68699f2984fff9e20d27829f89c92f91691cc/mpp-0.1.1.tar.gz"
     }
   },
   "mstr-rest-requests": {
@@ -18175,6 +18179,212 @@
       "url": "f5/4f/b93fbc9aa9c819fc9739e804390a801dd9ed7c4ce61c00036daac65cd5ef/qsy-0.4.4.tar.gz"
     }
   },
+  "qt.py": {
+    "0.2.1": {
+      "sha256": "15b172d48bb60913a77a3b15ca22a07af6ebf8dcc7685a796a344782149aa3e2",
+      "url": "7a/54/730cb2af1547d1175be214c0063dac7a298f1a29bf4571c5f10f8e7c6d7d/Qt.py-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "9a230ff4d57b75867c2d9f99c0ec0e72450d834c96204372d22d49c5a9e87f59",
+      "url": "04/55/58666c85b120850e6c03045177e227d5fbac02b91c34afa47c991026f0c6/Qt.py-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "120fb5910e3822b8bbcef6b9291571d52fc18476dd72b3d0cf4c6440b114b767",
+      "url": "e7/41/52e6db3cb287c3a37439f565fb56f40041e872b9096fe5beca5932b23f9a/Qt.py-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "5d99a36f8e6a0a2ecdf3f58d191bfc4663c5ad7cccda4f5f9bf3df92c55f9bf7",
+      "url": "28/c2/3503dde67bd779710125131b2470bb16e294abc6b3804a049137b13ba37f/Qt.py-0.2.4.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "dfffd146f86e8c1314903329f359a1b6ed25d18f0ab75c3ae684abdaf39f6403",
+      "url": "91/ed/f77c0457aff6daed8b2b4855216df70af631489ae0d37017b33755b03dbd/Qt.py-0.2.6.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "6509f5bfcad39164f7d1b71b28b2b93a2abfc668053b4c066570cdfef10e7922",
+      "url": "8e/6a/1fded0a3d7fcc13046f2eb86f68ebdaa1fa3586f629c3575399288997e27/Qt.py-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "15c7e161153cdd7569c11f7ae01eca868889187ed1c1b5eb93f5af1297220502",
+      "url": "ab/fc/232d16aea4e9b7ab00233899c43e3e0431940ce2f50093b4bcca0ad41b32/Qt.py-0.3.1.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "efe02183697d1d2355ef877f0ad95d9e4d9f511df8d3db02cf4b34af4d4fea75",
+      "url": "a6/56/8197dde033b6f30093230bc24b811c5231b0a9498dc0ac46084e7c2120bf/Qt.py-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "be5c67d3c92edf6b7de478b1318a1995cbbf1afe6ecf9e4c3779e27b5f97825b",
+      "url": "60/8c/af458f55fe214f70bc94abff319d7f747ead6b9573574a7373f718dd0f60/Qt.py-0.3.4.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "24ae252fca947b2e97880b6b891ea6afd561e813f4107c0c338dc775dfbe37d3",
+      "url": "24/e6/030b21887f575416c53c3df6fea6e37dd1e116d0fffdae26ebc6fdb0f66b/Qt.py-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "d5cbbb480472fbb3de74e794f955e1c223bbaabc3a99c5c1aaadfdb7075b1fff",
+      "url": "14/b1/9dbc6445ac9e705c45dc98f5aee10df40108c0f5a376d1d75194f4fedf6d/Qt.py-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "64ef54e030c4df8904c23b06a7f1afbbe84e363b9e3b6d0cb6c4432c40066236",
+      "url": "87/f8/88a7c0c232b274220a45fcd0973f62743b7512ef6c231adf1cc28cc8ad30/Qt.py-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "bba5c1bc63351f504bdf1ef116dcb715571e2538eaca5480a2a02c411ef3707b",
+      "url": "3e/e5/4eb6dd37e1d4f49718b856b2f8a2aa822584ca8c756f0110ce9865907a35/Qt.py-0.4.3.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "3a46583c24ea0e3dacfd95f47240b2acc09bdb965263f0fdc3e59e0221ed213f",
+      "url": "12/44/709be32b8a20aea561a9e58640a5ae4a808c37035b7f0492dab825202c03/Qt.py-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "d81fd549e13f9ba02f9552d454a6b3437499da6cee22dd6cf43ed3e96328997e",
+      "url": "97/90/d7647e6aa817b76e685478200d453039ffc3f8f41f36b5c5e74ffc3d633a/Qt.py-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "6fd96aaafe66cc5a6978e0d8680fe658db3c5c29fcc130bbc7ac5557f4b68553",
+      "url": "c5/73/d1f978373539a07cce0a487d6c162248c78015b4810269106403b2d4c7e8/Qt.py-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "7f7022d5ba6e101489a31be6c99d0a9566383f55f3df241943d013e7f79f2d73",
+      "url": "0e/b4/468165271239ab607a1b972a9a02ceb2f579e538293338149616ecfe30e1/Qt.py-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "419615d5cf35e8ecfe0667a058101910edc175d98b8ea0f48105d768e440a1bb",
+      "url": "09/93/b6d03313ab0b6e11cb49e5b6de93602b3d4940442300d7c6649cbf0c613b/Qt.py-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "5c5d8f59a0061b2d4772d6f013a4ab546d85228ddf7cf3b605832ce241daf3a7",
+      "url": "d9/2d/1ea11f1e8272e720dd0a99c2519c0c8c5e587e109ccb2f21cac679934ae5/Qt.py-0.6.4.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "276b24d335243093265d3fed498f7f93c8aa4dc91e21a928dc4ad0dfcd39821d",
+      "url": "15/bd/38a44c1e7faa7bd93fcb575f3865b88d5e2993912ab10282112c604bbc30/Qt.py-0.6.5.tar.gz"
+    },
+    "0.6.6": {
+      "sha256": "43297f926d81fc6ed07e7856520d9b85f0e9fb01bf26e91a8f1a4788fd2f4a9a",
+      "url": "06/68/52b977a72d9ae2ab84c1d64d7c73128e15e8b07227e6ad40913962c66592/Qt.py-0.6.6.tar.gz"
+    },
+    "0.6.7": {
+      "sha256": "4c9e0f43fec376a64fa03622ca5c93d174c8387b2f3f6e252ae3c74088523c5a",
+      "url": "e3/bd/9e9666d293c680fbbc5b464838997465c21d5d9d26c61e33a967570e3cb8/Qt.py-0.6.7.tar.gz"
+    },
+    "0.6.8": {
+      "sha256": "86e6326d463d1de2cd4cea19ef771cdde3db2d7fec1ea5e09ab61901f666d9cd",
+      "url": "bb/26/baedc8b8c463ecb00255792f0761ff94229f3edc4fa8b8534b6f6090e86e/Qt.py-0.6.8.tar.gz"
+    },
+    "0.6.8.dev2": {
+      "sha256": "e9ac310469ff5ed4e93fb2917873c0964a9ee5ac4b78c49600b546189af2a848",
+      "url": "97/a1/8ab9bebf8c03d6cc675e22c6e355b9ea2a7c0048272157f098d24c848500/Qt.py-0.6.8.dev2.tar.gz"
+    },
+    "0.6.9": {
+      "sha256": "6b7e6293cf726800bee86c163a5ffa562b62972ab237baa711251901179458cb",
+      "url": "89/86/7208f454530aae85d6885c0f8bb81a708e2703f6966123c6a8c6b4bdffc1/Qt.py-0.6.9.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "209fd4909241f08983e9cdf8768341b7f56adcc37cc4abacd0bca6ad8620479f",
+      "url": "3a/bd/c4bc83a9f16fa5d62fe1a83c70582202f5e257eb82428155623dcf67bd8a/Qt.py-1.0.0.tar.gz"
+    },
+    "1.0.0b1": {
+      "sha256": "3c9738a077da9ac21834dec386d282a66083e0ebb6caada19cf1350126e76948",
+      "url": "24/f6/9f918a05de0002b751620dbfbba9ffb0b5edb561d6445bd896311abfab1a/Qt.py-1.0.0b1.zip"
+    },
+    "1.0.0b2": {
+      "sha256": "c87648fd7075e996c78babcd4d8bcc78b2f1d02992a342f126e773b3a6edbc29",
+      "url": "b2/d1/d396cd95c409df362e90bfa5979c24fb52e1a9b2c18686e514589006cc95/Qt.py-1.0.0b2.tar.gz"
+    },
+    "1.0.0b3": {
+      "sha256": "9659b56b007044dd143e265402ce142eee2a6228b3ce59d4cc08a6d68de5c2b6",
+      "url": "c6/2a/1a0ec66321d844969f3dd6f2218a82230daefe93ca25f6c225d33ea2ee15/Qt.py-1.0.0b3.tar.gz"
+    },
+    "1.0.0b4": {
+      "sha256": "078a79759fd62a3fb4244bd2ff3eaecb284b325fd0dedbb8d5f60ecd744aac0b",
+      "url": "b2/08/2cab081a4ff60d5ce1b04c80ec1e184397207530296474c09994e1dba0ca/Qt.py-1.0.0b4.tar.gz"
+    },
+    "1.0.0b5": {
+      "sha256": "f7a252dfdeb75767170bf19b6ab11a2e2490610b4c7363f46fe83ef7f9387379",
+      "url": "e7/d5/37032c584db6ebfa9aa688bdd5e2fe20db159286be820541db18ef1eb33a/Qt.py-1.0.0b5.tar.gz"
+    },
+    "1.0.0b6": {
+      "sha256": "cb97129a842ed87aafec2637f4537a28abdd70aad0126a56649527718f5e8cdd",
+      "url": "83/e3/b1951b4c9761e8a387e26dc2eabf89866bd447148cf685ff19f0527198d8/Qt.py-1.0.0b6.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "866d0c0307631cfac4f33829806549a3f208fdbfc9c02fabf2277d1ab2d80e93",
+      "url": "b7/bb/01ee96a24644aacb9aab8f80dce92f3577e71091353a51d3786f1093ba6e/Qt.py-1.1.0.tar.gz"
+    },
+    "1.1.0b1": {
+      "sha256": "f1cb7090145bbb6ed00a376633f2c8ec079624ea745fa52854bc535a9faf80df",
+      "url": "cf/1d/11fe5466b95d62273da971123da5d27f7fee6f2d23e8641766157dd48aa5/Qt.py-1.1.0b1.tar.gz"
+    },
+    "1.1.0b10": {
+      "sha256": "e6dc52e93edbf20fc9203f0dbbfcefa8a42694012f7c52a58a55fa3beb8a03d2",
+      "url": "b2/7c/cf9c71d3fa1e6ad6e8bbdb6d8bbc399da1edd9460477d91cd8c9402be0b9/Qt.py-1.1.0b10.tar.gz"
+    },
+    "1.1.0b11": {
+      "sha256": "5f2e23f5cfe44cb94af2df67b155ea3c705b6ece36a8a3886955876e91d494c9",
+      "url": "71/81/7aa9b248c767b761b7df5bc4a60ceacdbfa6ef4df36905d19c38f2a39767/Qt.py-1.1.0b11.tar.gz"
+    },
+    "1.1.0b2": {
+      "sha256": "8167ce728baea0b013b793031ecd8aaeb9776e586c081841b28f293f195be210",
+      "url": "f7/51/7dd6a8be4e5bbd0af04d854e20b23f04f4b956c1ec4d2fddda8d72690303/Qt.py-1.1.0b2.tar.gz"
+    },
+    "1.1.0b3": {
+      "sha256": "32dc21baffdd6d566a56394c349895ed939d8299b0cdabf8a2763d859af6205f",
+      "url": "ad/d0/6201c97f81ebcda31523b2dd2af0b647a9be4443730f701b71f3c8937943/Qt.py-1.1.0b3.tar.gz"
+    },
+    "1.1.0b4": {
+      "sha256": "f7b9ea1cfa2a33050ae43ca411a5cb5d34860cf6b1550cd0d0e27d0ae1f65022",
+      "url": "b0/33/51bad22b9282039e365898fbf76940a5b95d2f3fad7dd8b488012eb18768/Qt.py-1.1.0b4.tar.gz"
+    },
+    "1.1.0b6": {
+      "sha256": "ed44a618853101a31849e8091f73bf17f2702737c70d47660450008e7a83ae06",
+      "url": "02/11/e9abdff0f5aa85a56bb640884fe6913138857f11f95881cace5e47c44712/Qt.py-1.1.0b6.tar.gz"
+    },
+    "1.1.0b7": {
+      "sha256": "e40922e003953b1226c0807bb9f020d3e7316c425ab1b5bba6dc2a0207f1dba5",
+      "url": "43/73/dae2cef9235ff9ca5e43818f3663708291ce72ce6308e66b74b828eed96b/Qt.py-1.1.0b7.tar.gz"
+    },
+    "1.1.0b8": {
+      "sha256": "8f017cfdc19ee491f472017d0771a302fde00007d4503bba1aeb9736148c37ee",
+      "url": "2f/9b/016eb8e9da5ef3f12bd634b0532b5dbd436cd88dc48ea4862a81d89b4f00/Qt.py-1.1.0b8.tar.gz"
+    },
+    "1.1.0b9": {
+      "sha256": "ce2a6656efdf05a329bd7832db8e787fb5afcf41fc0989fc6009fde07fef93e3",
+      "url": "dd/c4/8ee87a68f8af0140d069e0ca7ec0c9eb03a63eb78461c16287f7d0696b36/Qt.py-1.1.0b9.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "7e78e136a13b230540d9db1f2e078e44eaadc2a9b3f9e5e2c8c4980d92439da9",
+      "url": "78/1c/f40a1e20e6dd161bf264cb116a97ba09e73ec3da369e21cde78ec1a8b7ba/Qt.py-1.2.0.tar.gz"
+    },
+    "1.2.0b2": {
+      "sha256": "54b723beb1d112ef6ac913512e2d82e364dd4507899a2f1d48f54cc02f65e6b7",
+      "url": "bc/74/70330cc6b9e7afba507c2cf10a8660d70f74808c52e09c9bf5f3ab7ec09c/Qt.py-1.2.0b2.tar.gz"
+    },
+    "1.2.0b3": {
+      "sha256": "9b312c493f2ee0bd0c45edf94596bad23559a94463bfa2272cb0414e9d8486df",
+      "url": "5c/b2/f6e51f39f77f55541763ffe3e9dbd0b499dbf5bac025cba0b83be6a2bbb4/Qt.py-1.2.0b3.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "9ba2ddf00140a64c7f2ba3f440bbaef627cf5dd0e34eedebe91fd3e0b1a3874d",
+      "url": "40/18/c3cffbdc323d8dc4fb695484f884aa058f2a550a25131b3af9604fe3fd94/Qt.py-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "b593a31ba049c49d67f1d0c7b13bd384f1bc0809de0bf01f4f7b51d73618c623",
+      "url": "fe/1e/dbbeca9e306acafa12ef68d99377a465d8e580bbb74e6e8b7d00ff47b400/Qt.py-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "4c950471f47b22620fac51805547b8792315c5ccde1d4b6953b591ef86f3b0a9",
+      "url": "84/5a/7fb9cecf252425bd7d54683b6439cfb8a79c194a06c3304921caec34025f/Qt.py-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "6555c79fef7e1fa702b487f3ed2252ca014d9388d093e088af17bdc3c5c8f56e",
+      "url": "cc/f5/08acfbba6b5e699b53ea2fe9f0057d283d9c851c2c9ef26dcfd50c990210/Qt.py-1.2.4.tar.gz"
+    },
+    "1.2.5": {
+      "sha256": "9471a8a32512bada89ce56e63c41406b26234804a1803ac88de767ad89b240c5",
+      "url": "69/d5/83fff5f6f653b950a4d80108de238cb91e3dad5f85e3b84d8b0c038aa027/Qt.py-1.2.5.tar.gz"
+    }
+  },
   "qtumblr": {
     "0.1": {
       "sha256": "1c51a521098a57dfbb90486a3856cee70cc63c7b4907ede36caec178bf77946a",
@@ -19749,12 +19959,6 @@
       "url": "a8/29/8659b1d393799722dd3da4aad61f2e9e3ba745d6651238fdb0467a8a6642/sandboxie-0.2.0.zip"
     }
   },
-  "scalr-api": {
-    "1.0.1": {
-      "sha256": "749997741abe65a4488ad955daea9924060df57a3e7407b846b211aeae303bb9",
-      "url": "ee/a6/3f730636eba6dd7cf1d1b6812913a193d6862decdd5f7666d1afdfd782ad/scalr-api-1.0.1.tar.gz"
-    }
-  },
   "scarsdale-property-inquiry": {
     "0.1": {
       "sha256": "f3e92d9cc88e403ed93e910371c4fcaf554b248d509d8cc4f1303a2ad11de754",
@@ -19920,9 +20124,9 @@
     }
   },
   "scm-helper": {
-    "1.0": {
-      "sha256": "f122fbe36003786510d4893b08d4b50e73bd82eb1113bab5c06ef4d9a16e0ef4",
-      "url": "2b/1a/a6bbc59640fd719affb606ef84a61814e0537e0d14bb2bb32b9280330c50/scm-helper-1.0.tar.gz"
+    "1.0.1": {
+      "sha256": "1dc3f86947ffe2a90274bd3a47536b4b72c9278db9a29c2fabbdba956024cc44",
+      "url": "a5/b7/5a7d09e91640e525bf0869231dec15f9b1d7d87047cc1ff89721851db938/scm-helper-1.0.1.tar.gz"
     }
   },
   "scm-source": {
@@ -22455,6 +22659,12 @@
     "0.6": {
       "sha256": "f1969e28e8aae331a8b436e32e02225425b3527ce82b7ebea5ea30ad614b93bd",
       "url": "09/f9/67b7ff7cdec3e78a10a3a159942e9126fc127d88dc0f24cd1918f7068adb/Webshot-0.6.zip"
+    }
+  },
+  "wellknownhandler": {
+    "0.0.1": {
+      "sha256": "7f9cd9c9a9a13abd1ce6a94ad5d51fca6de56860cced78b065fac2d4b4d530de",
+      "url": "52/93/d706a674c8f4503d4e6c094f18ef1c23f839834df990f6e18822044c8b64/WellKnownHandler-0.0.1.tar.gz"
     }
   },
   "wfdload": {

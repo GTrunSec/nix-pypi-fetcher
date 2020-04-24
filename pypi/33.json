@@ -1247,6 +1247,10 @@
     "20200407.6": {
       "sha256": "3efa14697be1c22b93879d3568ca4026d69aa24a49f5c7b085dfb09ca83b410b",
       "url": "63/38/e23342851c5743ec7fa6a8bed88ff3cf4097e869ea12ac49923b8980cb85/ais-dom-frontend-20200407.6.tar.gz"
+    },
+    "20200407.7": {
+      "sha256": "05c44f2398a1c1992cc97c73e010539c8c6bea6f27a4ba29fbe4057c0314a921",
+      "url": "2c/a6/3da9d06e533249ffa4c05ec66ec944865860c336fb896ab71b2df8535975/ais-dom-frontend-20200407.7.tar.gz"
     }
   },
   "akttym": {
@@ -1457,6 +1461,10 @@
     "1.2": {
       "sha256": "3a0af3cd2bd21c54e5612a2f7b015e86b6af9c33eba37c0d05f19d6101d7475b",
       "url": "22/b7/b7cfd31df04d1882de76746f8e402696736bf124fd701044c0dbe23f1f10/anakin-language-server-1.2.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "20490f90c9889d2300b360142b8dce44cf4459e27c44cc577fe063976cf58121",
+      "url": "31/18/cf6a8075d0f609fa02c76b4b19fdeecf71e0f5823d6124b801e9d0e5de96/anakin-language-server-1.2.1.tar.gz"
     }
   },
   "annogesic": {
@@ -4413,6 +4421,10 @@
     "0.1.2": {
       "sha256": "1985330a2dd145f74d7c47f369a97633f8af3b0f86cd8a21fcbcd245ad7f33e6",
       "url": "48/b4/62a9f853b367c409af000d902ae95da321530721cd6032fcc504883bb347/crabtools-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "3dbf76367b06a122913f86af37baba50f7441cf680afaf8f4e6eb6dd54cf170a",
+      "url": "85/79/70ae00449fed3d4d2ed3da3e828de234978d54956215549351aedf883f59/crabtools-0.1.3.tar.gz"
     }
   },
   "crawlerutils": {
@@ -12773,6 +12785,14 @@
     "0.3.0": {
       "sha256": "a9ae44e00f9132ff3515312154fd934fd08bbe77c5c869781fbd775495c77304",
       "url": "18/11/785394529731e2859f653df55e245ecf89b37b42d22d02e07fc3e5112554/metanetx-post-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "1cd0ab14e35c44b9ca608c7444dfc40b4db3990833a614fc2529bf04b5414f06",
+      "url": "f1/99/94807fafc3bf7850e7f22e07ce59a2cc87cf1afad7a0cf99aba0b05d5fe0/metanetx-post-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "f46658090b64c6ba842aff6e763f72791c9d4bd27851168cd2d7e1c6817decc2",
+      "url": "6b/04/46c9296c1e1c16dc8e4ce986321d700a0775ce7b6bebb0c58634f44b3b29/metanetx-post-0.4.1.tar.gz"
     }
   },
   "metl": {
@@ -13885,6 +13905,10 @@
     "0.2.0": {
       "sha256": "3c3c862e27574cc3e1edb260659969401723ba88f514d9cb6a4029cd19979611",
       "url": "da/60/acfc6f10dc92eb39df60549fec8d291a569c67846ccb060366f8f7bff113/msal-extensions-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "ddfc627acfeecb77b4b6f27f580bb5eb10f6c1aa23828df64feed98c84c90516",
+      "url": "d6/2f/6cad88758aed38e7a4d822f966ba1e389b1238f840f996827a8e4332bbfe/msal-extensions-0.2.1.tar.gz"
     }
   },
   "multiscale-imaging": {
@@ -14473,6 +14497,10 @@
     "1.12.44.0": {
       "sha256": "3d8107eea4eed9b36686122fed797b637cfe490f31aa94ff0dbab7b5a7643185",
       "url": "ab/ed/4461482a417d92790194d57603eafcf863968654170dc3e0d66c44a57cd1/mypy-boto3-acm-pca-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "dddb3187418f3343e11f5a8202f622db1012ca7ed5bfdc2f2f4ac4a79acefa05",
+      "url": "c6/b5/02ef35d9610dac4e11ac8d5e67500c39d9e1995d8795a5bfe98b8ce07165/mypy-boto3-acm-pca-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "7adcb4673f4211656500aa85f2db05d0a628c5b1df0168247edff54f068b44ca",
@@ -19333,6 +19361,10 @@
     "0.2.2": {
       "sha256": "565d355d95f40db9de1af26ef00980c24739309a16e2d9549463782df2902fcb",
       "url": "fe/d0/4ffd6e34f19d2096934920f6cb77aff29f5c53ef9bcedea0157d26ba4bbc/PySenseSDK-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "9d32975b250b203b0199da480444709c28069f378286c882b05c8613c2345a3e",
+      "url": "29/13/4c8b8b0797602f68bd1b1f50e1f3e34ab57c41c31f759aff54dd8e2cc2f6/PySenseSDK-0.2.3.tar.gz"
     }
   },
   "pyshape": {
@@ -22069,6 +22101,10 @@
     "0.1.4": {
       "sha256": "8839e53f4cfac0b96c0a661e4435f18dabdc1531bc4e3f488a5e1580b790ac09",
       "url": "18/49/72ddfc643479a660041dede3d0335ae4f0c63ed3fce7a9b0201e04de1d2c/setuptools-setup-versions-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "59b81200bf7a271dfb5ae1946516558d6cb30c1e80e9a45c2106213c900e1c35",
+      "url": "9b/0c/e33180e2cc415bafc41834f0a41e62de4a58d22851cb6e1bba77238428e5/setuptools-setup-versions-0.1.5.tar.gz"
     }
   },
   "shell-pype": {

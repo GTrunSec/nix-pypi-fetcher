@@ -10887,6 +10887,10 @@
     "1.1.0": {
       "sha256": "593f6fbeab5a30672a1c4e5158d8a471323992e5cb24693b83ee74b4c9c44184",
       "url": "f6/9d/b9cbaadb9a99c6158a7005d3cb50a6195f7b930f47e5b6f6c8104afeb251/kuryr-kubernetes-1.1.0.tar.gz"
+    },
+    "2.0.0.0rc1": {
+      "sha256": "e7cf3dd22ab646aafa4e28d843073c5c404c9950ba6af6ef7018c7b49698046c",
+      "url": "3b/35/270963ec329ed6feea200401bbfc2b64a4e123c4bfa78cc951d19dba8fad/kuryr-kubernetes-2.0.0.0rc1.tar.gz"
     }
   },
   "lager": {
@@ -13836,6 +13840,10 @@
       "sha256": "9d9595fadb13d9a000e4dad6113d61826596752a86e52922ba66266a953159fb",
       "url": "33/5d/4e6f3ad8ec7e4b1d6bdfa21698e71cd04b47adf00c7442af814c28206c6d/mypy-boto3-codecommit-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "ea28a2faf6fe7ea65452b856776b4b34361fdb7d6edbb2d97ac2f813629baaf4",
+      "url": "fa/c3/41004afb3db23c6edc620232a1cda9a94eae2bd87a4237ae5018dcbf4d61/mypy-boto3-codecommit-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "00418d62c39e3fb78923ef881186e3b581a2bd021511f6cd4c5cb83a3dc3c2e4",
       "url": "4e/e5/01c8b279bb3dce8c40657030b91acb424f1e1f2d1ccf168453d4c3469038/mypy-boto3-codecommit-1.12.5.0.tar.gz"
@@ -14349,6 +14357,10 @@
     "1.12.44.0": {
       "sha256": "5259b40f805bfe3c45ecb9c3100903b15eff3af3b7a0e5554031abb9fcf964b4",
       "url": "0a/7a/f76efa68f1d46a9da7097134d2d770f77423c16df51be22b6dd9a6262348/mypy-boto3-pinpoint-sms-voice-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "dc1303e4e6c07651f8f2c47e4825db9c76670e5661b97404f8143422f0d2c37c",
+      "url": "c7/ba/e04037375fe9305d90328bb4d2f6e5f17e053a4daf5036566b247a8c3f80/mypy-boto3-pinpoint-sms-voice-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "06afda085215eca24e89d2d183104eee835fcfb4c6d7948ae6e46202cca8a91c",
@@ -26121,6 +26133,10 @@
     "0.3.0": {
       "sha256": "05828f4dfd6937cf61553cbb9f46b623622219e7c9dc4b5441363e8cde7e3b87",
       "url": "dc/fe/726d0a2653dbf945661a858a0b40a9e7f8601aa9179c5921720b8498266f/yaks-0.3.0.tar.gz"
+    },
+    "0.3.0.post1": {
+      "sha256": "05db762ae2d9c83ac3c8de76e8524db744232504b1c4671f90f70611b53525a6",
+      "url": "82/c0/51cf9e8eba9c4715c44f83ba8dc50699b9e5e5ea7c5277797a9a8b1c2502/yaks-0.3.0.post1.tar.gz"
     }
   },
   "yamlinfo": {

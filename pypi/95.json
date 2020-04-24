@@ -3859,6 +3859,12 @@
       "url": "61/66/76401cb44b2a1882db71764709f93b324a5e36b8d53b7359c75766e5e0a8/django-jsonfallback-2.1.2.tar.gz"
     }
   },
+  "django-kp-html-meta": {
+    "0.1": {
+      "sha256": "7ed050f3f6c69cef241fcfc39dc12b2a3a1aad4ef5042f613b723bed74c26138",
+      "url": "f7/09/ad2e4a8df886b5b52a3b62c2685087f34d17423df04d97c3edb7630c1fa2/django-kp-html-meta-0.1.tar.gz"
+    }
+  },
   "django-lazy-choices": {
     "0.1.2": {
       "sha256": "270eeb7d8533a2dfa7fb050cfc23e2aeb0653ab83a76516f76a72d4a299ba673",

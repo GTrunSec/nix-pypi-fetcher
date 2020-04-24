@@ -14201,6 +14201,10 @@
     "0.4.7": {
       "sha256": "ef2eae163f4d442153246aeb9db09356b0d1b4ddfbb2811f71cc106cc198bef1",
       "url": "a7/20/6b1e5f6cbeff5745c6df507d9ddc5b31c24e8ceb25bfc9757973dbd5a8f9/morpheus-astro-0.4.7.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "6e782504df09548b6e4bc450c9db9e453cd38d887726a2080706f82ddf5a7382",
+      "url": "4b/1a/d62ce3b2a0e8629012b0221a40104fcb86c17b5d25a6ef65cc78b61519dd/morpheus-astro-0.5.1.tar.gz"
     }
   },
   "morpheuslib": {
@@ -16305,28 +16309,6 @@
       "url": "aa/31/f3e1c2dc1f3d51fb6e7dc5f8bb11d93666e1fe4ac785bf7d3c3e6d81fe68/py_proxy-0.2.6.tar.gz"
     }
   },
-  "py3ode": {
-    "1.2.0.dev12": {
-      "sha256": "bc19ce7f56088e8f10c8f9eb16f27afd4182d1457689a51fb4fff3f9ff0a709a",
-      "url": "cb/84/fce70c5258d386f621aac5a93c696e1c445d3dba63544bdc03baa3d8095e/Py3ODE-1.2.0.dev12.tar.gz"
-    },
-    "1.2.0.dev13": {
-      "sha256": "bfbb0d2c4acb5f74bab4f066b61d3311dd62eda8567ceed1b461eb819513ff54",
-      "url": "1d/c1/52f70a214a31779bfc62418dbfdbbcb2150faa701ff0c8beda7738d31827/Py3ODE-1.2.0.dev13.tar.gz"
-    },
-    "1.2.0.dev14": {
-      "sha256": "d3a3652019f2c6060b025860c4d67835f5ce39b281ded01b5903cc18f8093213",
-      "url": "6b/8c/6dcb58068ad1df7f29024741f4c39671bcb630631be1d5240ee3ec5095e8/Py3ODE-1.2.0.dev14.tar.gz"
-    },
-    "1.2.0.dev15": {
-      "sha256": "e1e396d1b7562922c5f838bc7b5cbb41b09e1323715e4ffc3825c865f990b094",
-      "url": "bf/67/afc9c84e906e8510c34cea5e21644fbeb4568505e5c7a044840ede9329a3/Py3ODE-1.2.0.dev15.tar.gz"
-    },
-    "1.2.0.dev9": {
-      "sha256": "7d257dc56ad5920ba8518decdc60672bccb076e770d6ef412d129e3efc318616",
-      "url": "32/cd/a35273b5edc010d43bb8ec0501d02213daa6ed7f559815c2cbdd7c32091b/Py3ODE-1.2.0.dev9.tar.gz"
-    }
-  },
   "pyasn1modules": {
     "0.1": {
       "sha256": "a59cd337e37373cf2b4b4eb0920ea3f008de7f30f494b2f17a24e11ba42ca97a",
@@ -16491,6 +16473,10 @@
     "0.7.2.3": {
       "sha256": "7bd4f50606ca31702da214a35435cb3343fcd97493b84f221200f8e1e057ac05",
       "url": "86/0a/8e7e06fb33613f3a532530e4576c4773840d34979a40d1d2b57d4770605f/pyboat-0.7.2.3.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "546c81d1cb952e25cd7660642741530e12c3b5053bacd54c7e745c4eae8becee",
+      "url": "c5/df/f1daae945f555b31786500f46ec716ac8cd40639530a725999eb73c63c38/pyboat-0.7.3.tar.gz"
     }
   },
   "pybrain": {
@@ -16901,6 +16887,10 @@
     "1.4.0": {
       "sha256": "385af17d2deddddc80b9e9dc02739c0043bab0b042ae545cf62bf9dc7aa27cc9",
       "url": "00/00/9ee4f2f45e19275043d6d1be4b229878e7d42ffb63bce9fb9c4841b7755a/PyLTI1p3-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "2f394f80c6a6a2065edb9513cee07dc3162cf7dbef0cd379d402b2f20d777fdb",
+      "url": "bc/c0/8f7c7ffae95e1cee75608fb2b97de380bc1b27a9b03dfbacf448415b25c3/PyLTI1p3-1.5.0.tar.gz"
     }
   },
   "pymeta2": {

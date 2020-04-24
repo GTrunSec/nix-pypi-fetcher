@@ -6671,24 +6671,6 @@
       "url": "21/16/008612c155e93b66e384ae2eba946f158afdecac232254a3b8062e61593d/dprint-0.1.0.tar.gz"
     }
   },
-  "drf-pretty-update": {
-    "0.1.2": {
-      "sha256": "28b483d60ca9ad49d53223b6a3e7a764e78d5e83ea20605b7c8a13387ef796f6",
-      "url": "54/87/2ee8e53a9ab80e9c7950a2761b70a3e6768822f71e0d5f17ef18f42b2ef5/drf-pretty-update-0.1.2.tar.gz"
-    },
-    "0.1.3": {
-      "sha256": "f5b30dbe39b382669fb0432a3299e476d65fd95568bcbe8fa8daff761abd5cf2",
-      "url": "7a/83/6eef580e494b6c4b9ea7153e15575032cc65e8a63fea9af4ac6570e29e15/drf-pretty-update-0.1.3.tar.gz"
-    },
-    "0.1.4": {
-      "sha256": "e76ba872b84b5c3bb9f1e5ffe2f9d75915c587cc5e5652297bf82359dc85d010",
-      "url": "5d/95/795a5f57ce0c22167e3e20ed45cf995717531a705b475dcc19273dd3a929/drf-pretty-update-0.1.4.tar.gz"
-    },
-    "0.1.5": {
-      "sha256": "492508b9b98dd6b67b51b42d4227a8c03cd2ba67bc002120efaa99ed97c9f526",
-      "url": "95/c6/d998301495e57b3639c419545932129b120cf855a0efab67a3f038699b8f/drf-pretty-update-0.1.5.tar.gz"
-    }
-  },
   "droplo": {
     "0.1.0": {
       "sha256": "be1c975bbd5fdc1994fe121d5cb387d198a1eca5475096720c93933594a91c28",
@@ -12203,6 +12185,18 @@
     "0.0.4": {
       "sha256": "eb50407eb7bef9a9e0b35ba26833fed13bdf792de42908e10145392fe29d9831",
       "url": "2f/18/fe182f98e5826cd7363e0405a293e121083b6ca4bd444a47fc2e08670204/ixconfig-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "66ac64a8835a97b47d2532c7898989a5c67f5edf09301f112dce6f0b91f33fcb",
+      "url": "89/dd/41a438576277a62ec6ecb892f6d1ae9d9b7e8e480e1d7188e1d44b5e45cb/ixconfig-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "5646ff4baf1cdf0882a98b8fc943a88079a67c7c56dce00fe0bf1fce578ff5ba",
+      "url": "14/e2/313c48a0486bf43097389d78d4cf275eb02e353c3a75f2c7cd219861aade/ixconfig-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "fbb51a69891ffb66908d07b80267344379bdcd3b12e2d468b3a5c991949d3c55",
+      "url": "6e/19/7e6b5b4199211ad6485a112d9f6a433bcd8b452fd7214a2b9ddf27e21fb9/ixconfig-0.0.7.tar.gz"
     }
   },
   "j01.form": {
@@ -13685,6 +13679,12 @@
       "url": "df/d8/dcb9baf9dea97331edfd616f77a8a3e0b5120e852eac73cd6261dedc916a/mmcif-0.51.tar.gz"
     }
   },
+  "mnistusps": {
+    "0.1.0": {
+      "sha256": "d862ea835c305125ad6fff1e5932165a53b4d1c3180bfd504e73916462dad3bc",
+      "url": "52/57/a3f1266e7ab9ca1063aeaac2c31af6d2ddfcfaffb0906628a5f7db767099/mnistusps-0.1.0.tar.gz"
+    }
+  },
   "mocktest": {
     "0.3.1": {
       "sha256": "fae6aaadf20bc80b09ee4fa316f61d53b809620f8e1dd96f2dc596b37be3e689",
@@ -14015,6 +14015,10 @@
     "0.0.1": {
       "sha256": "11cc671e6a48cd421a9fdd6ad5b052dde33785d882d06442e23ab01944cc53d8",
       "url": "63/4f/b7c0b780943aa632d1bebc72a9b23d2224b0156df99b39a16c0e9acbaf9d/mr_uplift-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "1287c5620014bb2a2edb74a757a6e4ba01e83add1685d700c3414e7837613607",
+      "url": "af/b4/4248a1fd277b2abe8d0354c37a880b250ca74056a9c24596c2eef42bbd69/mr_uplift-0.0.2.tar.gz"
     }
   },
   "mucor": {
@@ -14545,6 +14549,10 @@
     "1.12.44.0": {
       "sha256": "0957f885e4ac0d8107e971f6995196cebb94bf34b007b998f033404bcacf6c01",
       "url": "31/f7/f7e4587297d260d14e4f25f8eac4da7b0684de6977489839f40b122844e7/mypy-boto3-sagemaker-a2i-runtime-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "6961426121af2cf70bf460d2a44dcf2cdbae174c48f8049087a90cc38f163af3",
+      "url": "ab/8b/dbc02691e37a7c56930ffe7f939b155c03ae8b31df79aec20a07ff275142/mypy-boto3-sagemaker-a2i-runtime-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "1d76b05778e5e60dff65a4b4768c74b06d5ad96868bda1bcb8c8156211307998",
@@ -26261,6 +26269,10 @@
     "1.3.1": {
       "sha256": "21bdf660d9ed2c35225b1b3ba9334afbf41b362e548ab160bf30f225a339006c",
       "url": "f8/9f/e75b33d32b6376d9353ff3a24a0922aa82a3839904533a48482594748493/tinkoff-api-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "b5f401162f76e1711e07c6e9a324d3c31104e7973a3aae36e6c575d262b0c102",
+      "url": "95/f7/813bf97f2855092d3cf4a2b5f8edf3d98021e2f8c98e000043a01c456363/tinkoff-api-1.3.2.tar.gz"
     }
   },
   "tmiddleware": {
@@ -26961,6 +26973,10 @@
     "0.8.2": {
       "sha256": "cb126584c56ee2a569b27dcd00f270453281ca517671b346dc5b07e6db00b5fc",
       "url": "49/e8/ca0b3af3a00c41ec7dab9c2a9221fa39ee3a0f72a14fcf67a26c48dd2267/vipy-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "00dc523615ed21487b922fc794efa0443c22e08af8999fd1c3b3c4b41e332872",
+      "url": "61/5e/14fa36b8a2fa03ff1830c99efa2d7d3b50c9b0d59d95cc4ed470861e14b3/vipy-0.8.3.tar.gz"
     }
   },
   "vmrun-wrapper": {

@@ -939,6 +939,10 @@
     "0.9.0": {
       "sha256": "3637aa285a5f0f5836533579c76487d1f9079fb16adfd9185eb494ab5afe01e3",
       "url": "f0/4c/d2537a60917d308ff41fd1deb4bb1ec2304d1be58ce26142860cab7ada06/anurbs-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "4ad9c47edf3454a41a1c027ec29cc97368d4d9721446f02671ef5e3977339fd6",
+      "url": "99/8d/82a0c27a09424944f940a7aff3fff9190dcc0c1b4cc1d8865ab9d8261f92/anurbs-0.9.1.tar.gz"
     }
   },
   "api-surface": {
@@ -14930,6 +14934,10 @@
       "sha256": "5b212dd4426443420f633c07d8cdbf0644226c321c3392be13e9844cb4a19844",
       "url": "0a/85/58ddead14ca73bb02ffed41c7a42c30a3e2172aeb31386f8c932293bfc17/kcalign-0.5.15.tar.gz"
     },
+    "0.5.16": {
+      "sha256": "0d291a7f453533f1ed78178f0a1b07cdf759d5829ab0ccc80c1bb162adac8a02",
+      "url": "39/a1/b444e75bdca49ee7e86f050b151f8f8c6b95f05aa9acba48a356fd279f2d/kcalign-0.5.16.tar.gz"
+    },
     "0.5.2": {
       "sha256": "05516fb5623c9c475f888f5d6b904e9d1607cf8ac6264ac65d661ced7733ea32",
       "url": "90/34/b061b1bb50eea36945a11cc882309831c1b59f15518bdc166d0b2b0fb133/kcalign-0.5.2.tar.gz"
@@ -17817,64 +17825,6 @@
     "0.3.8": {
       "sha256": "3e6f3872320fcf11c564a31b084799bd718e1ea70d0cc7210a066be522e28f08",
       "url": "96/e5/b2819296477f3b526814942d52c0a58d273107085cda53136daca4994514/nagaram-0.3.8.tar.gz"
-    }
-  },
-  "nameko-odoo": {
-    "1.0.0": {
-      "sha256": "b5c3f07541c3e4482acd9586640a1ea8446f429a49cae28a9fa6922ece853aef",
-      "url": "af/3e/b450633be3f57b8440027b092ff9bd5f5b97f2dfd6fb4e0a17b224db1d1a/nameko-odoo-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "12e89e0ca89be7a95167293603fc2c395cd1b156b095bc4b51789a3462c88e77",
-      "url": "e8/d8/bd0d991f0fc9ce50ff3f29f3f7df1f5f79e0caaaa95ad5359463cd2f2480/nameko-odoo-1.0.1.tar.gz"
-    },
-    "1.0.2": {
-      "sha256": "09d8a547cda61fa670ed4a434bd1d505896070d6738d25294b200093861d89ea",
-      "url": "73/c4/525081dea66a19d7e06de2db5ab1a8d3c1113fcff45686c502091f44a851/nameko-odoo-1.0.2.tar.gz"
-    },
-    "1.0.3": {
-      "sha256": "dadc03b515ae9a89744f71e4deae48f74b7112b05235ef09c6e399d577e1b161",
-      "url": "f9/58/2337a312c7c6e2d568649369983deb608ff344ca1b3bfc315326163a2001/nameko-odoo-1.0.3.tar.gz"
-    },
-    "1.0.4": {
-      "sha256": "48b7927b352d5f0420110063a93f0e0ba68102476f101b8c04b79e88e6073613",
-      "url": "8e/4d/67eb52182805662e2f4a05f47ee76f6d326604d46f0e04ab3c4d9fae0f1d/nameko-odoo-1.0.4.tar.gz"
-    },
-    "1.0.5": {
-      "sha256": "3b16014e4ae87de719a38ce060d1b753bb44e62de0e8f2c668615605b6352693",
-      "url": "b5/5e/41b6b1b8e04ccf642d34161e517d84e24b3eca333061f332c433c5c1b816/nameko-odoo-1.0.5.tar.gz"
-    },
-    "2.0.1": {
-      "sha256": "3cbb33316ce68f246ccbb2c853c1ab855eeec0a5d94873f8ff88f175937c100a",
-      "url": "59/98/572143c58dc5ec86f5f5a3e1cb1a4f5cb9d9d95ff850f69aebdbaf0b80b5/nameko-odoo-2.0.1.tar.gz"
-    },
-    "2.0.2": {
-      "sha256": "a1358765ca78cd423db0662db076b925bc230709491f5937243c8d485248dd68",
-      "url": "14/52/5ae9f3e085531eb523bd4413ded2a64f6643c1a2de29b8d6d19beb960fdd/nameko-odoo-2.0.2.tar.gz"
-    },
-    "2.0.3": {
-      "sha256": "3d8090f969394e29b5740aebdea30886da1eb1ef0268e61821851d2cd2063c1d",
-      "url": "00/5f/af2a0f9216d6a7849b51f6ae2561df1391d0dee02993dcca9a846acfd4a9/nameko-odoo-2.0.3.tar.gz"
-    },
-    "2.0.4": {
-      "sha256": "360ac49011bd7415c29e79eb11c45aa926936773e9dc998834bb05091d625327",
-      "url": "ec/ae/e551913a0aaf146c35fb9edbc774c5976f6ebf45108df6156be890d7244a/nameko-odoo-2.0.4.tar.gz"
-    },
-    "2.0.5": {
-      "sha256": "49057382a996c07bf4a9e5471ce2f7d9da579346fd821c2b85ebd9d0bdc92fed",
-      "url": "bd/a6/6fbf3a4ca6de316244deb198d1b1eec0783089166590214f205ee1e714dc/nameko-odoo-2.0.5.tar.gz"
-    },
-    "2.0.6": {
-      "sha256": "9200bc7158f22b5f74e9ce5a83056ce01ec69a97037179f5063c2c307c40a148",
-      "url": "8f/79/dec2a5d157ea1d405a7b1a32473330615f4716bbda71ac8575f6b1823bf1/nameko-odoo-2.0.6.tar.gz"
-    },
-    "2.0.7": {
-      "sha256": "4aa8eb5c0a2059475e1285a32e9e2542b3f05f03b06ecb357f15f1686e264a5b",
-      "url": "be/84/a084d858c5f807bb05da99b4f3cbfcbb71d0de33f7ae9836b74f8c79fe5e/nameko-odoo-2.0.7.tar.gz"
-    },
-    "2.0.8": {
-      "sha256": "f5d180041cca2fcf913e4e1dd3b481a71aed0a1f3c74f40092c16226d1c9581b",
-      "url": "ba/18/93d3503c2f0442849fbf317048fe412e1f8268d09e25284c7c1de7215d0a/nameko-odoo-2.0.8.tar.gz"
     }
   },
   "namesake": {

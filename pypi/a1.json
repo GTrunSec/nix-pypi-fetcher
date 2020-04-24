@@ -17079,6 +17079,10 @@
     "2.0.0.0rc2": {
       "sha256": "5928c0c30635b9759df5c86d41a654903ceca77e3fcf640a87086242e01ac66a",
       "url": "79/2f/ef3f225d1eb31538e6ee5f31e7328f9a2a86b63cecbe357dc60d0abdaaf0/sahara-plugin-spark-2.0.0.0rc2.tar.gz"
+    },
+    "3.0.0.0rc1": {
+      "sha256": "41d7d80d4a20107031b6ed192c3db8e2538e1f6bbda991180d182d5bba0a4623",
+      "url": "a8/dd/a9a3502feee98165f4095b18448494cbf96dc373d14de7a15d02036882b6/sahara-plugin-spark-3.0.0.0rc1.tar.gz"
     }
   },
   "sarw": {

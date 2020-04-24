@@ -928,6 +928,10 @@
       "sha256": "047fddf7128c9172ce5206cff89d2a1c139563c60d3aaedb53bf5c57310668e2",
       "url": "db/93/8a0470508a778b3d8d413b6e6f26642d407641a0fdc8200b8200b8faad5f/astroquery-0.4.1.dev6038.tar.gz"
     },
+    "0.4.1.dev6114": {
+      "sha256": "787475d1397055ea20d66ddd18a0164cf3ffc7f8eb829826418b911e9e43b48a",
+      "url": "49/cd/575a86b6b1599c4113c444e89d0083e601b6e5991a8fc7e1246952e880b9/astroquery-0.4.1.dev6114.tar.gz"
+    },
     "0.4.dev5744": {
       "sha256": "22676d2fe5c186026ee77b67360c313204ddbf9d61fcfedbaa061aea63d7ce6e",
       "url": "80/fc/4ad0567df9f9283caa586681c54894ec9c6f6eb53e17e70998cd1530f071/astroquery-0.4.dev5744.tar.gz"
@@ -3497,6 +3501,12 @@
       "url": "ab/0d/14c208bec741b38ee5f17a69c5d0391999cee77c2023da23c1a214cfa8ca/circlify-0.9.3.tar.gz"
     }
   },
+  "civics-cdf-validator": {
+    "1.0.0.0": {
+      "sha256": "a00ac31e087639cfdf2c35037dc7de275c6ae9d8712ee01df9696e31b847c9bd",
+      "url": "8e/62/4aa8ba7398b793625f1a35101796f44454ad554af8147e355bd0f2c75a48/civics_cdf_validator-1.0.0.0.tar.gz"
+    }
+  },
   "ckan-datapackage-tools": {
     "0.0.1a0": {
       "sha256": "17b7f5cb2d66e78aec67726ac9d2141fa4f59667d8668c064113e7d7f4f00314",
@@ -4669,6 +4679,10 @@
     "0.26.3": {
       "sha256": "164b6086c82c3e1c7254624a18f316ef65c7012ed87505058a18e0985f8989c1",
       "url": "dc/98/5ca3c8ed1dbcaefeb087fabcca5e52bf5f9b48ef7bd4f88175b6db44d32f/dbnd-airflow-operator-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "69af4b63188801a97279e8827922d8176e8741f980d24bcf52844b5fb1ed3731",
+      "url": "13/c7/a6ab569b8f10209aeb1aed9c1040dde2ab6147b047c9dd856b00a73cabdb/dbnd-airflow-operator-0.26.4.tar.gz"
     }
   },
   "dbnd-gcp": {
@@ -4819,6 +4833,10 @@
     "0.26.3": {
       "sha256": "82ff434b1b4e2755898b5134c5a2bec1d28546a625d304a58f69ee140964cfef",
       "url": "aa/0b/18f8a73f1c145184e2afde54c841518fe8ab18fcfd15a363ea4d19a11862/dbnd-gcp-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "2b6e661cb00ea7f21ce61e6fd3f43b2647af9898bc36fada8563107ac607b5ad",
+      "url": "aa/da/3446c600516f3b4679556ae33cd2cf8c2a2464bf6e9ef6fe54d7117f9610/dbnd-gcp-0.26.4.tar.gz"
     }
   },
   "dce-plugin": {
@@ -6097,6 +6115,10 @@
     "0.1.4": {
       "sha256": "5e8cf7e0d18d842071d72d0fcdebe3e1622e1a3309358095bf2ba1c7ad9717dd",
       "url": "cb/27/b7245bb2c47fc21b5184f16e2e644007ceb8e788f8b6573a7b7950c53769/dynalite_devices-0.1.4.tar.gz"
+    },
+    "0.1.40": {
+      "sha256": "c63d51e4c8a8f1631fad524b9681711b05508cc2d09fe8564e99c2c349ff332d",
+      "url": "8e/9e/0b4ab1f91e4578d825de8034bda8a0c7c301743a02abe5de7559a914c3a5/dynalite_devices-0.1.40.tar.gz"
     },
     "0.1.5": {
       "sha256": "97a665642b50455d6976341aab06553bd51dda5d1b1111b1468ccc681ba72c37",
@@ -12770,6 +12792,10 @@
       "sha256": "d0e378fdedd119203a139f5469d87b2c89cdda8dd04ab2a2e329f89b580b9e87",
       "url": "a2/60/fc7e1b8762ed431970143dcc1bf62fd86c455a774c7535998b84ab5d40b2/mypy-boto3-directconnect-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "2acacbbb5527e985376d8ef91476c98ef2b78e525f73fb494493a54802e46e41",
+      "url": "19/f4/362d4fec087e75897e54749e0273671c376aed42a4a1f0252ac0e7665dfa/mypy-boto3-directconnect-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "e424c04172b35b84fb9875c68248436929e82510cf842d18c563e04e75790fa0",
       "url": "79/7a/ee9d80730b364587a2c0e388010510976345253356e66acb8a76fdea3c5f/mypy-boto3-directconnect-1.12.5.0.tar.gz"
@@ -14498,13 +14524,9 @@
     }
   },
   "ppscore": {
-    "0.0.0": {
-      "sha256": "25807826ba05addae150a0e9358199ce74cb2a24ab452a7e8436fd358f1e85cc",
-      "url": "60/06/064231efbee7102572ad6f3e4aded14bae7e142f56bf47f4a56e53bf1928/ppscore-0.0.0.tar.gz"
-    },
-    "0.0.1": {
-      "sha256": "5ef174af9db127cdd9698bc1f39f6d9981d48e13138432a593673a1d9d43f713",
-      "url": "c0/3a/1a7ee8d2e616ae5d438b163769c9ee6cbca58034c2d83c93595edcc16fa7/ppscore-0.0.1.tar.gz"
+    "0.0.2": {
+      "sha256": "bfa0a106100f82f4640a3240cb164bdabdddafcfa6509c83f3b85f28044d39d3",
+      "url": "4d/0f/32b991b05f392ca2f86587972f5d94d86ea7d6fdb659a607c52a67dbcfcd/ppscore-0.0.2.tar.gz"
     }
   },
   "pravah": {
@@ -20825,6 +20847,14 @@
     "0.2.7.dev20200423025527": {
       "sha256": "b0156a08d264033cac8c722cb43284f6d9f153be0b9daf60f13fbe0c76cbc011",
       "url": "8a/e2/66dbbaac6de2cc19e28cf338d7e142b8ef0be9f97dad65cc2736c196d13b/timecast-nightly-0.2.7.dev20200423025527.tar.gz"
+    },
+    "0.2.7.dev20200423221256": {
+      "sha256": "148a3d09a456cc420f6488bbc335db93dc28a72a999a36c8139cbe5112dd4b22",
+      "url": "d9/14/6981ac9c870a85570a2144e4f331a95638a3d736c1013c87f8bab5b461c5/timecast-nightly-0.2.7.dev20200423221256.tar.gz"
+    },
+    "0.2.7.dev20200423234802": {
+      "sha256": "4104994530ec020cbaef3bbf375d2f4462c13e50f51e6799ca023edead271aa2",
+      "url": "74/e9/6618885529d06a391cc15e4fe0473d0e73aababe40911b56936f10980966/timecast-nightly-0.2.7.dev20200423234802.tar.gz"
     }
   },
   "tmx2dataframe": {

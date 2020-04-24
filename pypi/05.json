@@ -16578,6 +16578,10 @@
     }
   },
   "pytator": {
+    "0.0.10": {
+      "sha256": "81e4695151d955f766251b11bdfc59b117e2d265d9681afbd82f3abb552cc083",
+      "url": "de/e6/9bc3aebad91b0332ea9bbf7f318203ddf103841ef050304244455ec9c600/PyTator-0.0.10.tar.gz"
+    },
     "0.0.3": {
       "sha256": "18528bee485803ee3d2123ee8eea7ade77b2f8ce4399ed6a4befd0a769aa1647",
       "url": "f7/9b/04cc5a4497b083daa691aa07bbb4475729848d8e5284d7c4099d699f9d22/PyTator-0.0.3.tar.gz"

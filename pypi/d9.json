@@ -5281,6 +5281,12 @@
       "url": "ca/a6/81a99d72b0555620584f660bd12eda9ba1d4a0c9c1007f3a4b71d9cde1eb/easylogcli-1.2.9.tar.gz"
     }
   },
+  "eauth": {
+    "0.0.1": {
+      "sha256": "5022ed25cf96faeed909705348973e694a80b452c49e509f2e43921eaec684a6",
+      "url": "8d/34/ff056f9725432fb1424be7aa9b3d4e4b92f34dc911345662ca22ba8b1499/eAuth-0.0.1.tar.gz"
+    }
+  },
   "ecs": {
     "0.1": {
       "sha256": "ebc506161329338f1eb9ba22df75181716d31b59e82458de1eba64e8ef2fcb33",
@@ -5623,6 +5629,12 @@
     "1.0.4": {
       "sha256": "c41ec59a13f4675227670d34288e963fc4d9ac2fb1f4d962ec2c5e96989c6bb9",
       "url": "55/ee/dc93fd5ad3cc53f096a7098d1815013803e8c4aadc7bec0e6b939a8a69a0/envipyarc-1.0.4.zip"
+    }
+  },
+  "epsound": {
+    "0.0.1": {
+      "sha256": "429c4d78d6183edd927935f2f661c6e078461cbb4816ecbdf9cfa4645a76ec2b",
+      "url": "e2/b4/148acbf47d4d82be511cee2a84e069e6fea88fe4fd84d50bb7ee2f8c07ac/epsound-0.0.1.tar.gz"
     }
   },
   "err": {
@@ -12786,6 +12798,10 @@
       "sha256": "22d65634cd1f2d71e9ad541662b25ce911e10e397a37d0efec67cdc369b2c7e6",
       "url": "b4/79/0c2ab21d3a26ca3cb62c013027a7c46990bfb9651660817aed1b428a1f23/mypy-boto3-codeguru-reviewer-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "75cc8218fd176a18b775abbd5cf24ae4fa96b05d0f9668def9ed32202d1a75eb",
+      "url": "64/52/6e5d07b3e3a87d324c212ee9c8fedee04346fcf673e4c7a0a760bb78d1aa/mypy-boto3-codeguru-reviewer-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "431a231cdf566eb507af78ae1dfd3986857bcc62b8345493cc835af4a9371eef",
       "url": "18/05/18a06875b88d508cdb2309af6a8360cd52da59b555ff48a3dfa1c1b8e399/mypy-boto3-codeguru-reviewer-1.12.5.0.tar.gz"
@@ -16539,6 +16555,14 @@
     "0.2.0": {
       "sha256": "9067807387e8274dd09b62f150c89418920e35c32814302deda346a273cd0c8f",
       "url": "be/d1/f38027e7be393bbb10145a29d82273ab79ef6422bd96e65d3dbb547cf81c/pytest-datadir-mgr-0.2.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "423546fd641e480de0e9d780b85962f6289b80b64ba278efabca0290e347a4b4",
+      "url": "cd/29/c747bce00cadb3e0b0f054530c745d350dc9cab860b9cf5edb7a3b5b765d/pytest-datadir-mgr-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "59f68321b3f6b3bf15a625d2d2c33f9c8b5e133f3f1963392c695ebc3b0fac4c",
+      "url": "09/9e/f7f4a5cece8a6b5467bea65b73ce309ccf60c054cc1b907fcfc27b416ede/pytest-datadir-mgr-1.0.1.tar.gz"
     }
   },
   "pytest-gitignore": {
@@ -17367,6 +17391,10 @@
     "0.9.18": {
       "sha256": "7cded8bfb0d5714519b921836dd94687cb398d6e3d677527a2a03a56ab7b6c9e",
       "url": "c7/95/dcb18bfa75710959d3930b9569e487268d00f8acbc4b04d1c476f97d978d/rasa_addons-0.9.18.tar.gz"
+    },
+    "0.9.19": {
+      "sha256": "24804b0dc48d38cd7352a5c242833ed49a62f34ed3be4274213598e57c66bf06",
+      "url": "04/b2/7d2312d81c6f05a6bea85b8660a3e0fed2034dd1acb5f0521d2746bd7b93/rasa_addons-0.9.19.tar.gz"
     },
     "0.9.2": {
       "sha256": "4de07ac17b6a7523ced2e96dfd438b18469a33bcec63c199a7150a04a5543843",
@@ -18353,6 +18381,10 @@
     "2.0.0.0rc2": {
       "sha256": "74d341af36a85df1d26643e6f410fe49181008954fd73cc4c1400b1deabb8509",
       "url": "59/54/7aeaa2d15aa04554155a04df3cd531656a9198c353c47298798445f32d3a/sahara-plugin-vanilla-2.0.0.0rc2.tar.gz"
+    },
+    "3.0.0.0rc1": {
+      "sha256": "1dca4e49df610f5d62ca6848282c24d02601ac1f1c03e36d14ccae2d82748e22",
+      "url": "9f/2c/8190b3e0ef5e5c279a41af2e637cb0ef33d4744fdbd733632f80dd24011f/sahara-plugin-vanilla-3.0.0.0rc1.tar.gz"
     }
   },
   "salarysuper": {

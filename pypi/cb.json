@@ -183,6 +183,10 @@
     "0.1.1": {
       "sha256": "87d7141a3d15e9a340aac76103b87fff8f8b1ce9200936c6a14e81baaca13d5f",
       "url": "71/b3/0a1af18a7353d715715dbe4053c8f2454ffe859a99c6a8c77b47f5d7ba86/aiolos-tools-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "0e45ad1daa573b85afffcb21dcc7c99b479c58d8660a7b5b86dec9c7f5907ebf",
+      "url": "85/a8/70cb7246808cf5ea2f38b872804d45f02b43cfee5045320a7da1584147ef/aiolos-tools-0.1.2.tar.gz"
     }
   },
   "aionationstates": {
@@ -305,6 +309,10 @@
     "0.3.8": {
       "sha256": "a4b974e06df03e35f11dde50c87b8af7f45f4445ba863cf723158ce98f55bc5f",
       "url": "30/ed/8ab4f415db84b0ba2f52e85209f0ed7b6c73dc7a46a6533bf60a7337d16e/Alcathous-0.3.8.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "3244eeb9420e2280a89fa5f97c12120578c54ab88ab1989be778142ff8dd6e45",
+      "url": "8b/0f/2e40712bba2893e403ba3586799b85cf749fa24e03fc0e370a088c00e4a2/Alcathous-0.4.0.tar.gz"
     }
   },
   "aldryn-disqus": {
@@ -3446,6 +3454,10 @@
       "sha256": "f1eda51ea8ea11c67da5debacf24e5f62579c062f9b03343634a213f4b660256",
       "url": "90/1d/2895576431e4139e1452d1b1a516ee72b77a011b4a6e225942c34cda290e/common-ui-components-0.16.0.tar.gz"
     },
+    "0.16.1": {
+      "sha256": "5d4f6ace6a7bf3ceeead3762659ebe233488b0662b4254a42b58f71a813997e0",
+      "url": "32/81/aa7d561af51c60dbb13cab93b78349b7e8c6ba59397995fa45e7e2f6491d/common-ui-components-0.16.1.tar.gz"
+    },
     "0.2.0": {
       "sha256": "3bd45259f57d3e457be701d30d67168773406bd2a5c152cfbad9a5fcf407874e",
       "url": "f1/d9/7d8af93de814b4cd9955970bde194ce908f792b5e4dbb297a19268b8d22e/common-ui-components-0.2.0.tar.gz"
@@ -4465,6 +4477,10 @@
     "3.0a1": {
       "sha256": "29568e7990213c37c8441d9d3726b93ff265cdb3d5a3918751194316528cd7ab",
       "url": "68/89/6d9e7cd9705e5bdef90cb962e01ee315e6f66847bc132d063014927afc1c/Cython-3.0a1.tar.gz"
+    },
+    "3.0a2": {
+      "sha256": "ffc3224fab51d897c253746f3f96f90078097bcf07a376f037eec28237d48100",
+      "url": "6b/ba/6c7e5ee1f8e899ccd0b977a6fbb2455bf535c1815d50c844565b77957fc1/Cython-3.0a2.tar.gz"
     }
   },
   "dataclass-plus": {
@@ -15309,6 +15325,10 @@
     "2.13.1": {
       "sha256": "9dd7f68a58817d8b4e26fdf51ffa1291231f495ce19d5e463923412e17769c5c",
       "url": "0b/3c/2d7d82a95279569c51bcc2c0707e70e2d10ef82ca584e8bc6e2ba8dd562d/nxsconfigserver-2.13.1.tar.gz"
+    },
+    "2.13.2": {
+      "sha256": "95cda0a34a8434e5c3e1d08b82533274a63e32366cb299e4938c0cf3f242e044",
+      "url": "e8/0e/84a57e07988f33181ac01f972e9770a54f7c36c9eb577899676caffae92e/nxsconfigserver-2.13.2.tar.gz"
     }
   },
   "nyc-geoclient": {

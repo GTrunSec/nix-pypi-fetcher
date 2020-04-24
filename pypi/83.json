@@ -1505,12 +1505,6 @@
       "url": "26/5b/2ab5bd1fb00855207d1ebee34e6c6b58a35f4e38c267d10b322a59236cf5/bilbo-0.6.1.tar.gz"
     }
   },
-  "billing-2": {
-    "0.0.2": {
-      "sha256": "5dcc1e884a4ee10b943b66a49fc3d0ae28fac840364f9aa6024e0d889641365b",
-      "url": "eb/e5/d11d108a3571a491d2b6e9356ee72e837a091ec1859bec4cd037537e549b/billing_2-0.0.2.tar.gz"
-    }
-  },
   "bioshadock-biotools": {
     "1.0.1": {
       "sha256": "c57f301fdd57eec5a2af22fa7de2e8c158e6a7d4edeb50004a33674eec3b1cd7",
@@ -3153,6 +3147,10 @@
     "1.3.0": {
       "sha256": "6e1e59757a95c744e2c471254e51f37d0cdb951c63ea6b99b6204eccba1287d2",
       "url": "cf/83/b61a27c44f03217cb297123c29bd1c5ce47fec953d7ca1a83a354506f524/concur_imgui-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "a4c63d9021a79ad55fda962d278bcc77deef04b338e9ff8c75a434aa45a85704",
+      "url": "e1/78/8ebd23951d7155e55c6c20ef1ac71c5d0882fc43933fc902307035b2a788/concur_imgui-1.3.1.tar.gz"
     }
   },
   "conda-minify": {
@@ -4427,36 +4425,6 @@
       "url": "99/b5/5d7ff6e66244e292d73f8c89a1d011931930f37ca4b32539eca3f2329f9f/db_backup-0.1.3.tar.gz"
     }
   },
-  "dead-simple-framework": {
-    "0.0.2": {
-      "sha256": "9da7aa228520b5091a49634ecff5d0f74dc5f3946214333ffa2af0cf7410ce23",
-      "url": "63/c5/86743e07a6663a7576a0f27ed0a65a37920b54537c52c9e228ab4bfd5c15/dead_simple_framework-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "87aa8a57944fed61b52bd7f0d600598d232b80b268b8f235e5efa2bb506ca0c4",
-      "url": "3c/50/adaf58e4c7566d928e8af576213a302ac39279055f7b81d4a5899c5f5c66/dead_simple_framework-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "ed451811b3a8fea2acab201f62d6caae0965ef77ac2f902c78f94243349c9519",
-      "url": "a3/42/b22c1e9197335f49d058bf23deb925432c1f34935f212dd1d6ad6ca30658/dead_simple_framework-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "35438205ba741c95a9f7dd22d4bf0bef309fed19302a16eaa581158caadd0711",
-      "url": "2e/4e/1e6068cb43ffd57dfd5c35ed2f4c27f3f73773ea97f87dc98b818960574c/dead_simple_framework-0.0.5.tar.gz"
-    },
-    "0.0.6": {
-      "sha256": "189ab3005684f9cb546afb6f952c633181caa03bd2e40c6912644efe7153bb10",
-      "url": "05/cb/3514760710c1a5d34b1f8c826df5c5384e3c2f35b634a28c9846acfe364d/dead_simple_framework-0.0.6.tar.gz"
-    },
-    "0.0.7": {
-      "sha256": "557cb832406dd4e4f78f2fd6ced09ee795d8fdf8c247bc72a8f600dda2917975",
-      "url": "bd/af/1e7b7e1f26f93c12dc0b01e571b426de6f5adacc3350751ed340274e5ad2/dead_simple_framework-0.0.7.tar.gz"
-    },
-    "0.0.8": {
-      "sha256": "91784afde87799404cede1d37c7a7b0c72f36d9618a9b5f743c227e99f6f799b",
-      "url": "d0/52/a90f76e60e8bba62730654ee4f1e8eba5fef80c9a7d527980975fe0f5b17/dead_simple_framework-0.0.8.tar.gz"
-    }
-  },
   "deckz": {
     "0.1.0": {
       "sha256": "00febb510cf3559cdc4285d5ed3d6fdeb483fcae5d56af0ab575ca3e45260885",
@@ -4529,6 +4497,22 @@
     "3.1.3": {
       "sha256": "23864cc537a6f1cfe37446ca751746886e903ac3b098406c8d7ba5f5dfd13b46",
       "url": "5d/b3/78e890546cfd61f682d0ddd4cd67874fcb807ee8a9d09476623104e22c47/deckz-3.1.3.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "84fb6786b0539368170d992a3f02920ef2000d28736d22b91b96e74753dbb027",
+      "url": "c9/61/ce7ec261283fbf6302bd7266ae30cd7f4420900e367603f892af16be13f5/deckz-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "1bd37515a20a6ebd182591f2675a54724e83bf99dc2d6e3d3e913571685585e9",
+      "url": "92/b7/26f0d238245e9a42ba4f51eb986255df7fd5a8d9a7873429a4246a26341d/deckz-3.2.1.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "73ee6e6e830bb9a94bf2301410a70e2fd0fe72ccbc9e4ee43a64d2fac4cd6209",
+      "url": "7a/2c/a13c75bfe45ccc3c46e17ae8ff6af3efc2c5a0b698238460b89ba4655938/deckz-3.3.0.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "08881c09b855f9f553b296fdcdf1919abefa289545b91c3e32de8c0898420540",
+      "url": "1c/cb/0bf9f435858f21b4a048c3963ed7ea889d955594642941c059537c4b3ab6/deckz-3.4.0.tar.gz"
     }
   },
   "decotrace": {
@@ -21672,6 +21656,10 @@
       "sha256": "5426ac04ca9dddb47cae24c407857d70f94a7835ed693fbdbb1cc739a0c0f769",
       "url": "50/50/431cba93ef824d33f4c9d39523e716b7025bd55a4bc86446eea46ce85689/tableschema-1.15.3.tar.gz"
     },
+    "1.16.0": {
+      "sha256": "89d09a18c1bb95f6dccb2ec4d7b90cbb2a58bdd6939c156d6e7051d89256d541",
+      "url": "1d/29/30a3078e39e0ef636dd6edf7dad2d411444fdaa276245cf16f7c45aab2f1/tableschema-1.16.0.tar.gz"
+    },
     "1.2.0": {
       "sha256": "e53d850a9655d8320393ba6ccef18cf293e89860cc65988bdf8abb2ba2a1de80",
       "url": "aa/4f/2dcfda2f7ad2b5cc2a2d8b44b699157e41aa889e3a46b1fc894dd9e6ec90/tableschema-1.2.0.tar.gz"
@@ -24383,6 +24371,12 @@
     "1.1.1": {
       "sha256": "128611ec7dfe3bb09427d7a7a4cbb465cc870240b16d4a35daf2b7f2ddd6a6ef",
       "url": "75/46/9dbda1b10873b57f318c1e057f5be68ed7535810d1b03f6b006033f1a5a5/versionbump-1.1.1.tar.gz"
+    }
+  },
+  "veryfi": {
+    "0.0.3": {
+      "sha256": "e4e5248a571a73055a33d753a303a888d723476e5b9b906fcef7d6a14fbec790",
+      "url": "0c/6f/1e17bada3fb51c3c29151256c38c629247db10c074525025087dfb067fdd/veryfi-0.0.3.tar.gz"
     }
   },
   "vibe": {

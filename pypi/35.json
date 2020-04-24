@@ -14264,6 +14264,10 @@
       "sha256": "f2eba8821d18dc2d49d983f77fd3270ebdbd2d05afc2b6ef7d24f67b52940a1e",
       "url": "18/91/980263af63e5a4e81cf2b73d86c50b42da5e8338a3a5cc1714b300563682/mypy-boto3-cloudhsmv2-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "8518fcd611d10e0335df22e557b3fe0f0a4b3a391f2300a25102b98a1956ad7b",
+      "url": "ed/bf/fe959aa340eab78efc07d0b060fe51ed8339ab3c5c4f1f1499e4dbed0a3e/mypy-boto3-cloudhsmv2-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "0a3315ab83e45e798c2c031f583b7329d1231d8cf59337fd79c1ffe620e5e9d1",
       "url": "89/b3/294e183dcd7c8d4568eec0055d6b259650c7a7305ac864f2492c198a0105/mypy-boto3-cloudhsmv2-1.12.5.0.tar.gz"
@@ -14777,6 +14781,10 @@
     "1.12.44.0": {
       "sha256": "7b64d346b3982329b2b7c16ce57adc4fa82ffefbbb6ae4b662dfab6ec87d6bed",
       "url": "b5/a5/0d0ff98a6473281aadf29a3f42e46ac1d6c689959c0c1599c30489f31c1f/mypy-boto3-ecs-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "a922c2eccf722ba008058d65b1b547cbf6b1a36c054b5584ebf207324b915ad3",
+      "url": "95/a3/6ec7fdbc83d0b1dec5a1382d9ef10fd782d890672d409ce870568a7bab18/mypy-boto3-ecs-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "65ce1e1ba2697bace1996b4048a87692445c2deb98b18ab79a3635a782196c52",

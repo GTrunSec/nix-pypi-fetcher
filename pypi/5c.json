@@ -11068,6 +11068,10 @@
       "sha256": "be26abd6156497824cd83c1e02e54a95838b4b6e9a73c20985fa9a77bf804cce",
       "url": "6c/a1/8d329661402e6032799a7052a04226706d3fe9b6a2827e06486f08a0cab6/mypy-boto3-lex-models-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "7d6073a8d9f73cde233ecf1f1f62e3412346d4f23953b9fdd001df4d4a5ba74d",
+      "url": "b8/a5/6f73df60f3d4addcbfb4b6d3746950c4605e10934bd1e589eb43dfbbeedd/mypy-boto3-lex-models-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "739a9967527a4c191b89c62dcaefcede7d788edeabee3ff5001b47dd4b044080",
       "url": "70/c7/4e61965ad9dd53a690c83909091a66952a38fffb032f38eac11a9b30b290/mypy-boto3-lex-models-1.12.5.0.tar.gz"
@@ -17745,6 +17749,10 @@
     "2.2.0": {
       "sha256": "e344b82002ff52b3c0950c82ac81c368f36fbfe97155cfac5bc643b71592b135",
       "url": "d9/d5/2a8691555cb9af1748fdf3df5afc2001786434d11f7e7243d657aaefbea9/sauce_finder-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "e8bf9a32a2a4624b2b9e76cddf072a46822a7b15788405502bcfbbcd84071a25",
+      "url": "46/31/75b8f79c1a8b8b2d5a05bdb40dd02b7b070da021481292a8edb540f35e57/sauce_finder-2.2.1.tar.gz"
     }
   },
   "scalymongo": {

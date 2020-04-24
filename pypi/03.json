@@ -8998,6 +8998,10 @@
       "sha256": "55a4c610b7eeb5ed0a1b6f91e1b9c0c466866e83255110cdf517e94b592e2fa3",
       "url": "9d/67/6b07ee539b6baa174aff68336d295c16d88ad74a4c55868d4c30e983ba53/docassemble.demo-1.1.14.tar.gz"
     },
+    "1.1.15": {
+      "sha256": "2a15ed49d8051ed8cca97ad0da7ccb9975e0871ea443c7bc252fab3338b3092b",
+      "url": "9d/72/7f540e5eb31cdff442b6b8b62d37cd2a7ece4f5b53bfde31e0269553114f/docassemble.demo-1.1.15.tar.gz"
+    },
     "1.1.2": {
       "sha256": "4186ee3cf472d98e60f8127c5cb68e6d48f8a25697a8fb89610ab3fd9f8640b9",
       "url": "d5/fa/a5726b58caaba012cf9e7b9ed4e2934891f3aa54faffd4cb5fd504204f96/docassemble.demo-1.1.2.tar.gz"
@@ -14935,6 +14939,14 @@
     "2020.3.28": {
       "sha256": "146c06f01e1e94fd723a08d8bc5fe3ba22974c3e80101ac8622510cc716c9bf2",
       "url": "47/6e/fb2c5db1f16d09cd68e1f8f8ce7f9000e37dc25a3c6f448e8f37ef4570eb/librair-2020.3.28.tar.gz"
+    },
+    "2020.4.23": {
+      "sha256": "5f5ae8d9b5a270c7aa2cd9266306e0e9bb7601311a064cc739512b781a675671",
+      "url": "63/37/d74f7d8b1195001183fd708e9886509451890a00b3b17d247a8d02bda7e6/librair-2020.4.23.tar.gz"
+    },
+    "2020.4.24": {
+      "sha256": "02845a5733f00f2222f144a47c8f1ebfcea52d111036053f5e0d4dc93896807b",
+      "url": "54/86/722b61a9faaa18fafff764b18aaa884bebb5c77ab0b4484488960cd88210/librair-2020.4.24.tar.gz"
     }
   },
   "linguaplus": {
@@ -15651,6 +15663,12 @@
     "1.5.6": {
       "sha256": "aa1c071f528e877141a8f2087f403a44d052b85c87341c5bdc4c828415910392",
       "url": "1f/b0/15b3ed382436d73bf4d54686867998df610191a6f1fcbb518c3ec94ed17f/memorious-1.5.6.tar.gz"
+    }
+  },
+  "mestpy": {
+    "0.1": {
+      "sha256": "37c8e71e47ba8f49c2b7d9b26eb873b88b8227ca37b81bcc8c1b3a9b0957a799",
+      "url": "40/5f/f8f314ca69c1400ff6bfa46f0b0909fb5f462daaf8a29ea77bb0ab3e1d61/mestpy-0.1.tar.gz"
     }
   },
   "metal": {
@@ -16799,6 +16817,10 @@
     "1.12.44.0": {
       "sha256": "4999589718d8af71071745b5d65d15594a8058c282ba78af7f2df4f77e681d9a",
       "url": "c2/26/3cd8b6caddcd134da8263bfb01be586e04cc839b1e384166e5af1fab644e/mypy-boto3-codedeploy-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "a5d39cee1ba0d70e67bc19b25ce9abdb5bd59aebf5a2fd526dc95ded764d922a",
+      "url": "40/e2/f07fe735e77d5ca392a0f358d057049a7e22603a5593787d0b1b076313db/mypy-boto3-codedeploy-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "81ef622c364f02bcd078004a42180d19a53bdadea8fe20d4454dcecb124321de",
@@ -19138,6 +19160,10 @@
       "sha256": "643ae2e89f5e3b016e4728fd6080e603ee58163abfb4f6f3d83a12d65e404a58",
       "url": "2f/43/88d9f965d85cc9c410cebcd9b8248c4b21f31aaa15e9191de96d6b03a750/PT3S-90.11.1.28.dev1.tar.gz"
     },
+    "90.11.1.29.dev1": {
+      "sha256": "619e26a0699bcccbe1c3dfb5416510c33468ea56638703c16a2810f092eb3020",
+      "url": "89/3d/82b6ff972b96b17f3099d602de5727e6bc6d8e2bf2d6808741e7773b56f3/PT3S-90.11.1.29.dev1.tar.gz"
+    },
     "90.11.1.4.dev1": {
       "sha256": "d49b65e11a09d9e1a0f0e0b1334d654c411429a7a5c7a0497533efa10184054d",
       "url": "34/c6/4657c69149e092ab726921c79773c4d399c3aefc291da84c0629774b8d92/PT3S-90.11.1.4.dev1.tar.gz"
@@ -20563,6 +20589,12 @@
     "6.3.6.post20170531": {
       "sha256": "57ca584e98f5c2c28b2ad1522df194d274846356c51d0161af29c62c5141e9d8",
       "url": "e5/3f/8f0de3d258b95eac0ec4f47a0277f749ee79dfc298496d4cca0323b17a32/python-ctp-deps-6.3.6.post20170531.tar.gz"
+    }
+  },
+  "python-fullykiosk": {
+    "0.0.1": {
+      "sha256": "423bc61dc911e61f7553801f5eda69d40b7a3b26e05bcc65d76a09100dc904df",
+      "url": "2c/8f/c7c10cb513e5c0bc012ff41d82e50cf4e1dbf25b6fd56aae6e9b0b3af959/python-fullykiosk-0.0.1.tar.gz"
     }
   },
   "python-kitsune": {

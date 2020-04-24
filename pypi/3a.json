@@ -12701,6 +12701,12 @@
       "url": "c6/96/3c8346fec3715d4ffbad60c4fd90d982ebcd43d276f6c5f68c41b1aced4e/mu_environment-0.3.9.tar.gz"
     }
   },
+  "musicpy": {
+    "0.1": {
+      "sha256": "b2d6e97092ef9af8e4f02bc174cca999cc7bcf6c0b6d23472de28a9465ee9e65",
+      "url": "b8/7b/12c981578f141c96a321d4e0d0dd1140d7376411c8d322e54076f4b00d94/musicpy-0.1.tar.gz"
+    }
+  },
   "myorg.mypackage": {
     "1.0": {
       "sha256": "77c5af4189d9601ec0f9cb7f0944e907809ab1a803c3c843d7b5d1fab501751e",
@@ -13195,6 +13201,10 @@
     "1.12.44.0": {
       "sha256": "eaafceb70839c9b3da0f4bdb5bee994db50c5517157f016012d1129f2f61760f",
       "url": "d6/de/5c41ce652efb6721fae21328d6e58d2940491203979d07df82e749583f0d/mypy-boto3-opsworks-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "08b4cc1d196d8619d5f323cf1ecad6507df73eb957a8329ceb4d150b9ad397f4",
+      "url": "03/f1/90ad75e4a311fcece7647462dbbcc5482dc496c092b7b536967375f0fca4/mypy-boto3-opsworks-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "7e87667e5b9a577057d6d185e54bc9caf81ee8a9e2923933dc0ef7a19f22cd6c",

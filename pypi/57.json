@@ -632,6 +632,10 @@
       "sha256": "13153acf6a4c673e867f5c3fbbc821a0968eed0e447d1c7fb97f8d46906b8d65",
       "url": "6e/82/9c1020c8606620ac9ac510b57d5a150a560f6f1ecca40bdc40a7b562e99c/ais-dom-0.108.6b1.tar.gz"
     },
+    "0.108.8b0": {
+      "sha256": "1cbb3ac4b88d42499f88a22e2a02083ae74c4526a64f7fbffe173d5f37182e92",
+      "url": "7f/7c/c320d3c795f2fc32e7187f62e2f7c7ab56eda6a61e39d2d5889c96e31cae/ais-dom-0.108.8b0.tar.gz"
+    },
     "0.70.0": {
       "sha256": "59380783824672027bcec7fd3fd03031f30a93fd55340d3edd7e84d8b87a1037",
       "url": "f7/b4/b4c28371e71b0d0fe06dfc72113847dde635c8a0d9428e2b9d473954edf4/ais-dom-0.70.0.tar.gz"
@@ -3645,6 +3649,12 @@
       "url": "b7/96/033b97482de81e6c8a2db5f2449099765f5344b3a880f14ea8107c6e0252/checkdmarc-4.2.4.tar.gz"
     }
   },
+  "cheesefactory-smb": {
+    "0.4": {
+      "sha256": "f35b1f3352d65735824d253be7d9b610f4899ceaa9698ffa17cc76a8cff85305",
+      "url": "3d/24/7ee5e3caeaec3c5c8c93b10098b104598d814d09b18f6015635082e29362/cheesefactory-smb-0.4.tar.gz"
+    }
+  },
   "chi-mailer": {
     "1.0": {
       "sha256": "6b2283c2b0469f0f2e67b8d584714e1eafbacd87d801ad721b8dc70a2024a670",
@@ -3827,6 +3837,10 @@
     "1.2.3": {
       "sha256": "8e05ced1179c873828b9ee917fae0d0a44928d1381942cd11f24afbed3aa4c01",
       "url": "04/f2/63fed3253dc99be037eb4f8e25833b8316cb4912ce53f619a03430d206c6/cloudlift-1.2.3.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "b33a568fadf70d76253d4b4335c0984423590c3fb06ac4e51e5d522b47e8ddc2",
+      "url": "e0/e6/acc79308ccbb8728a2e5e4f0af0ee3c074f1ad451ad8461d8379bdc468aa/cloudlift-1.4.2.tar.gz"
     }
   },
   "cloudmesh-iu": {
@@ -14645,6 +14659,16 @@
       "url": "1c/b0/54bd787c5cb7d8b638371e5352e568e5f98524e6bc3a274ae626da815687/openerp-server-5.0.0-3.tar.gz"
     }
   },
+  "openshift-client": {
+    "1.0.2": {
+      "sha256": "339739190ad4ff8825a8c6a75436a7ce6fb8e37e5696cf9b54cdfc50fa1a3977",
+      "url": "76/4b/0eed2a279138ae89fae411cc712343ecd4b86874ebde0ccaaa445a111045/openshift-client-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "7449f91024c9fa9eed780915db50e1d446de2af77632a16fc5d7a6d19f7b4958",
+      "url": "e7/10/35d8f261768ff74ba2bffa7c32b6bdd17122a305e72b88595c9c48500b30/openshift-client-1.0.3.tar.gz"
+    }
+  },
   "opentsdbproxy": {
     "0.1-dev": {
       "sha256": "39ba32af6b2ff24ce45a03576329cc1e74ff819034daae5ed35868cc991b76b0",
@@ -20119,6 +20143,26 @@
     "1.0.1": {
       "sha256": "f92b51b45b2a061668f3c4865c039b2e5cff5273f8d3b0d08f6944ec10d587e8",
       "url": "da/13/2ce6402608f6dfe0079cc70cb308d0d60356f19d88c2fc1a12d6e9dc67ef/seven_framework-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "4e6f970c2e207e8644a6c34171de0940ca94b647eb3b372db3b31cb6afafdb57",
+      "url": "35/e3/9bb5ffea16b0990885f180992ec1724db52838e0d5bfd78d3e573bdc05c3/seven_framework-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "28ac6703bb6745fb516f6f8f3b9833d0354819532146042b7e74eb76bc9b5fb2",
+      "url": "74/b9/2b39bc0d40fd0c909bdee273faf687c782ca995efa9af036602318b7a0fe/seven_framework-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "d76fdc729f339f77e2b00425daf2e9b7811a73a6ff176b4ae0a542742b48c03d",
+      "url": "80/dd/b11f55ef12285287a65b89a5df70601c2c857b4ec614144e69e011b79a73/seven_framework-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "4a38552e89adac236b17cb7e95159eb9b9ff5d0c8f25e6bb40cfe16e86db731c",
+      "url": "1a/8c/d3bb0138ec0036ac81fb32306339ae80192a4e2925cd08f43104753ffaac/seven_framework-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "ebc2f5b5ed142c52371c542b026d329757a1a57bd0c6cc55e1681386e408e712",
+      "url": "a6/82/3243283793167bbe52fbc5ae80b9bcc132c8cc5190cdf8623871105941aa/seven_framework-1.0.6.tar.gz"
     }
   },
   "sg-logging": {
@@ -24431,6 +24475,10 @@
     "2.5.1": {
       "sha256": "ec7e99e3c16b4c18f5a81f016d3240c7c402a32815249972a6590144baad0978",
       "url": "d5/6c/2fdf64d170bd2c31bc9f2cb6a126df2585798e1fa4650d5212555f6d6b59/wikitcms-2.5.1.tar.gz"
+    },
+    "2.5.2": {
+      "sha256": "0f0af0a9b38ac872eeb70a15705f1fe426ef3e15e0f835d575020a8f2b81bc50",
+      "url": "b3/53/0df555cfdce8747394f5343da7bc47e8ae1343188885117305c4d133e71e/wikitcms-2.5.2.tar.gz"
     }
   },
   "wire-st-sdk": {

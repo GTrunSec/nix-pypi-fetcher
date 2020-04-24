@@ -4485,6 +4485,14 @@
     "1.2.3": {
       "sha256": "4720d5d0f195a4f9b701db7b329c2233867dfdaf3f574364b124a65b2c71e759",
       "url": "6f/e7/df82409cc93cf016b046e769ad310c3eebde7fe0ac4e70b34b9cb3e192d6/danpy-1.2.3.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "d3b32c22c8e660b3ec3cc4a54a92008ae498dff14d687de13fcf4bb28cf3733d",
+      "url": "dc/f8/a42fbee6e2e3bc3344d9dfb0c9881e9d6f01321d726a159b29f1e7f11103/danpy-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "cb2497306aeb160a6a312a40124b5b3f45d3b69752e6e74474876b71b6fa3683",
+      "url": "f1/55/6e7880ae807f9aa7b80e9c73ef2aac3faa659e181f160d2d370668b669bb/danpy-1.3.1.tar.gz"
     }
   },
   "dash-core-components-ppeterson": {
@@ -16604,6 +16612,10 @@
       "sha256": "042b13579144352209e089a591bb4f43293657446bf532f5bca6a2cad7666f24",
       "url": "4a/50/b570f81a49f058e849fbff09d09b42fec38be7d19a40664772175cf5f222/mypy-boto3-elastictranscoder-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "7917245bf1dd576db06deca9053e851edaaf3936405967a8d5b987aa2effbcd4",
+      "url": "5a/58/67dc96a29486c84de76a3098ce5d66ca208600e854f26f94e9d49b955771/mypy-boto3-elastictranscoder-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "1ece7e74b13ee4358848993afbe807d149c1d871c70f1fef4bd3d673a6d5c18f",
       "url": "d1/1c/cd4a94f38ccd0cbc04aa48a0e0a7d58e9c25a4f4369e06ff2a4d9c552c56/mypy-boto3-elastictranscoder-1.12.5.0.tar.gz"
@@ -19107,6 +19119,10 @@
     "2.1.1": {
       "sha256": "b28ca6fbe21db3bca8076c596cdbe9c3d1f16ce0aad6a502082f9f18912fc443",
       "url": "1c/a1/a1caca8cc9cabe6264004094ee304780b8f0396db57efd5bcc3c674520d3/polyswarm-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "136158f370e309c6cddffe8b6330eb5c3d16f735f1f353d1a58233d60812680c",
+      "url": "34/a4/b7928aac25d85b33c86c1696ed7f065702192db1fe4cfdd46f20e4dec409/polyswarm-2.1.2.tar.gz"
     }
   },
   "powerline-cpu-temp": {

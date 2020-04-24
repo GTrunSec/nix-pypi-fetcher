@@ -3761,6 +3761,10 @@
     "0.3.0": {
       "sha256": "75555d136dbc475feff56800d644364819d61e2e2fa43880475a8997dae0d591",
       "url": "61/5f/339f5e78bd8b9d5d9b72270d2d1e2e6acaaab8a2451f86907ea882627913/databases-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "92b7f66c74d21eba54899ba88352311019131fb01ceaf076452949429e8d1b12",
+      "url": "6a/97/01ab18f06882354fa325ee0bf63243920b27f47f17acf183188da17487c7/databases-0.3.1.tar.gz"
     }
   },
   "dataclasses-avroschema": {
@@ -12956,6 +12960,10 @@
       "sha256": "11503bf9ab9dd524deac57578865c3c3b2d848e1d2a4709c8363534a8ea73833",
       "url": "19/ae/e369db511a6e5212986f439692a1851fa17c44f10b9c80e896f9876536a3/mypy-boto3-autoscaling-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "b083c26b6ab9b1bd0bb0b25fa4ec85eb30bc1ccceb3345cca02a34ad75e51c27",
+      "url": "6d/a5/0a3755a873377d4b0c138f0a1f8990adbc85210335c251d46b48989a20fd/mypy-boto3-autoscaling-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ba2228ccf9b4df1451e95ca8462a1fede2a999d7388d08c91a053bb490567fb6",
       "url": "0f/6d/89b9ae81ffeec38a3008cd4d531db4a13600c746d76842af19ffc703f3ac/mypy-boto3-autoscaling-1.12.5.0.tar.gz"
@@ -13470,6 +13478,10 @@
       "sha256": "911192920a0d94c7c6a42efdab0bd72eaa9cc2cf57fe0b81a3f5f7e7621b6850",
       "url": "62/41/9c6d38c5e2f6856c43af8f61aea2f241319488365127fbe1032cebea0106/mypy-boto3-iotthingsgraph-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "354eb718592ccd192ae3510b174e2da4a526af88e9e0e2a97ecdca36c06ea98f",
+      "url": "54/80/d13e1d2681cc1309aaefbdc9955b19ee3dd673ddadc297698c84696d2a49/mypy-boto3-iotthingsgraph-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "3d1ac9e665cd1b187a4f5cf82e1e1463a47f37a10c2d24ff2076a7de4f33428e",
       "url": "76/7c/1356217eecf05f0de4695a9ae205c59f1783faed14951271e74c43e746a5/mypy-boto3-iotthingsgraph-1.12.5.0.tar.gz"
@@ -13661,6 +13673,10 @@
     "0.0.25": {
       "sha256": "c6ea31dfebb300a204de891ecdd909a9cf278360684769172b51996775b1dfa9",
       "url": "53/e9/9fc424948560263dc680f89ea1eab5d12dfdc7f8305699cdfaa164a01a7b/neurohive-devops-tools-0.0.25.tar.gz"
+    },
+    "0.0.26": {
+      "sha256": "a5453d144e764fa4dbb5d1256eb98c917d52ad73d2d7aebd2668daca01818b58",
+      "url": "a0/95/cebbc8871f569979e29a8c197af22f5188265ba7f7194ac7d0be6cb1152a/neurohive-devops-tools-0.0.26.tar.gz"
     },
     "0.0.3": {
       "sha256": "acc951b4e4b3800f1309c9353a481e6cd7422e198eba1284d8e36211c1ce25be",
@@ -18697,6 +18713,10 @@
     "35.0.203": {
       "sha256": "ef0bd2e93e9b561420a71b03fb7095cb19620f2ff783b3ff2cba440747beae2b",
       "url": "15/3c/f68168383bd6b8e8cee971b237c4b1b63c72a8745a4f0d7087e870fc438e/rc-cts-35.0.203.tar.gz"
+    },
+    "36.2.209.dev0": {
+      "sha256": "bc94583df41b55d5351689c6837c96e64a132ae4ddb16e0e5421537a43930fbf",
+      "url": "7f/65/e525d8d6cf18bd2624a32b31ec31c76ed155b9d862fd04c357341f05a175/rc-cts-36.2.209.dev0.tar.gz"
     }
   },
   "rdfutils": {

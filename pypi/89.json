@@ -4651,6 +4651,10 @@
     "0.26.3": {
       "sha256": "ce01d842591e1503cfde0c44454941bed231ac5e039b33d8b9346bf9969061f5",
       "url": "74/b2/fb677defeb680fc9c1cbac8c1cfc6d23c9eb5b67b742b7ecb5a323c6dcfa/databand-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "f6570e07cb63fda06e62733e577ee52da031bebff3633f19708baef98900c677",
+      "url": "18/db/148a67474fda5479199a53c5bbeaec1b756d87335152559a9417c6741da7/databand-0.26.4.tar.gz"
     }
   },
   "databricksapi": {
@@ -11664,6 +11668,10 @@
       "sha256": "86b77717d2eb709687e41fdf26be9a55b16365016a5bb9a7e5d4761b32e4ab1e",
       "url": "d1/7c/bd8afbe77970c1654e2b5ff38cc77d459d21080399fe60ce60921b661d32/mypy-boto3-elastic-inference-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "f9395b2537b5299208d53c968269143a81ec4ef0c0b09160ed48b1f681758414",
+      "url": "be/e6/2fafe86eb94c5fc43c5731a6b81eba35b7e518d366e09d850371fd5b9580/mypy-boto3-elastic-inference-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "5964e12545e0b59ac9047447886b5270c84e2224936a80dab24b37044ee139f9",
       "url": "91/e8/477063592e9b8df49d7e1f5d570596befb0c3848e674d8eb0ca07a12f1af/mypy-boto3-elastic-inference-1.12.5.0.tar.gz"
@@ -12177,6 +12185,10 @@
     "1.12.44.0": {
       "sha256": "c7005aa22a20c4d53739f53a12fa9c7c327356685a1bb816d682c35eca967530",
       "url": "3a/95/b34c56212262d2080e586dd54bca0c23907b3a02a0b637db17a6c621a363/mypy-boto3-managedblockchain-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "f6ef7c760ff495c53964c718cf0981c31c25a4ae90bf46d33deb4e10c8de47d9",
+      "url": "11/9b/5ff0d759e98417e13444d28038e730ad9d5faffb0c3335d2fd7afbc6a250/mypy-boto3-managedblockchain-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "bcdef653558d2199692fc1892f0860c9cfdcf933980ac088152441702a94f4d5",
@@ -26093,6 +26105,10 @@
     "3.3.3": {
       "sha256": "f040607122e52f071830ee2183a01a8685a4b9375eadb5741460f3dd18a0ff45",
       "url": "99/6b/50101857a9a7e13474bd3fa036e1091b645b6caf1287eb6a5dd89b32a70f/voltha-protos-3.3.3.tar.gz"
+    },
+    "3.3.4": {
+      "sha256": "be893c18d72c33f4474d82e2bcb4e0d22e7cace547b47d4d708eb466872ea552",
+      "url": "7b/f4/ceba2b223f07fdb6e6b606540120b75953f381f051a83fdc564e7255a4ef/voltha-protos-3.3.4.tar.gz"
     }
   },
   "vyper-debug": {

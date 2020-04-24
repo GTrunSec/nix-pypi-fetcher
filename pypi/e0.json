@@ -287,6 +287,10 @@
     "0.6.5": {
       "sha256": "f9e737c28ec1b85a50d327d3dcbcd6c3b3a92ba8d7eee27794cf449be24c3998",
       "url": "89/43/c17e75973705d6f4d67ef8a7977f3c4fea177cc97bd770851c4c6a840131/ajsonapi-0.6.5.tar.gz"
+    },
+    "0.6.6": {
+      "sha256": "067e3a88544d5524a2ce59c89e1bb4fd659dbec65fbe61ca063abed1393c253c",
+      "url": "83/b0/4836967b0fc82a0dbe630edb0b3fddf133bd917649c76f056ecfa66ae5d0/ajsonapi-0.6.6.tar.gz"
     }
   },
   "albertmarker": {
@@ -2219,6 +2223,12 @@
     "0.1.0a3": {
       "sha256": "a3210a04d7a231cadf55d47fb1bcf6bdb69af99846b4fcc439c19bfabaf60b0b",
       "url": "3a/33/97f7811b783357e3940aa0225627128116c492d655bad70855a3303c05fa/berglas-0.1.0a3.tar.gz"
+    }
+  },
+  "bert-reranker": {
+    "0.1.0": {
+      "sha256": "2287af3c0c2f59d00171b14862b4acd69e76b23f7fce3be620c3bd8f0561b335",
+      "url": "ff/93/64968688dd3f447415c3dce1d8479c2a2143d70274055e53d94de51c2057/bert_reranker-0.1.0.tar.gz"
     }
   },
   "bibreview": {
@@ -15425,12 +15435,6 @@
       "url": "2d/8d/86046e90c4029878edfd0250d1c6a5a02d648c73f0baf8121a0d11468c30/nix1947-1.0.0.zip"
     }
   },
-  "njsscan": {
-    "0.0.1": {
-      "sha256": "559af9f5282bc3fa46ed0a18ff4e2138a7d7d123f88088ddf980b721e85b2c24",
-      "url": "10/4a/37daaffb2c17dbf0dc3f497ea13a4986624cfaf76eaf93c4ccbfdfcef332/njsscan-0.0.1.tar.gz"
-    }
-  },
   "nnetsauce": {
     "0.1.0": {
       "sha256": "6837b56e42dab18711746df5449e673ccfe12123cf1a33486c96f9d199f4c40d",
@@ -23065,6 +23069,10 @@
     "0.3.1": {
       "sha256": "f649e3a7cfc4f23546d3cf7d9dff2705f38a74b12795e22709671f69f62c6c3c",
       "url": "6d/16/46ff2c558da180138d286b8e6e42481b3de434448568952fc08a74032027/transiter_nycsubway-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "40f159a23a9080b0bbe4b733132ff41ef10e05cdb38773183c0320912dce76ea",
+      "url": "e8/e6/de28e39fc6690afd3eb3f092df0b86a7271795254b6992ebdb04a13d38cc/transiter_nycsubway-0.3.2.tar.gz"
     }
   },
   "transparentai": {

@@ -3701,6 +3701,10 @@
     "0.1.4": {
       "sha256": "ae23348ae7ed9a55f1ec60a16625bfd8fc6c7dc48aa61aef105328934fcf5cae",
       "url": "78/1c/2ea3fdf23bad87bd32ea71b4ea4fd08a1a4b3ba4e39270dc935aa7f150c5/cloudformation-cli-java-plugin-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "85c5675981a658067117ba2356b12fa5427f7e28a45cedc4dc57d32d2ee3b1ce",
+      "url": "09/d5/36be30e7882e9c817b949d8b86effa22fd0ce847822bc039e4939d7990b6/cloudformation-cli-java-plugin-0.1.5.tar.gz"
     }
   },
   "cloudgenix-toolkit-spider": {
@@ -10699,6 +10703,10 @@
     "3.4.2": {
       "sha256": "59c6525720b69fda713fc9eed597ea11f419959ebc3ed7427eecb2daaf51de2b",
       "url": "00/ac/0bc76bda833fe4605f67c693d0dfa1e5be7d12a10aeba4bcfeb06ff6ca5c/gspread-3.4.2.tar.gz"
+    },
+    "3.5.0": {
+      "sha256": "4881b43368199cf032ab778f1874d620507d5bbca30e6871345677820ab42be9",
+      "url": "be/24/8f5da526929dbde79693e3b2e93888dcd71f829857e072c08130490cbe5a/gspread-3.5.0.tar.gz"
     }
   },
   "gsyslog": {
@@ -11503,6 +11511,10 @@
     "0.7.1": {
       "sha256": "877e0948e8352f576edb0627c8d6ce6790b2e320731c4100440b8113acbf24e6",
       "url": "41/fc/52f14df4153bb4757e248634439dde3aad18e81b5b02ff0263ebf302d8d1/hotline-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "6244c3b3ca39b6e81322c5f4f17a885d64c4c4770cbe464d6acaf5b017eab284",
+      "url": "94/ec/d5771e959917df49855c3ddce6d3e58d6460667f9c3427705e65ccb8b259/hotline-0.7.2.tar.gz"
     }
   },
   "html-purifier3": {
@@ -16736,6 +16748,10 @@
       "sha256": "205bdc563e9a915e765252cd3fe65f1dade87c82aec6e3182cfb0dabfae0b5a0",
       "url": "bc/51/41e73e24a3743c35c0c516c51e99455ddc93819207fa9b94ec8e430f0e16/mypy-boto3-iotevents-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "5947fb0462bf07a6e0054ed974de80411825a0fedadd26bb7ed1653103b1744d",
+      "url": "b7/83/01a59161d358b297b25d6864c8e5dff5264be537c2abfbf9250ece5f5bc2/mypy-boto3-iotevents-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "436c8d150502c2896245150d3c8e10f43f4867c817f6b3ba6122dc2d65dfc15b",
       "url": "24/7a/48e18defdb8764e8d4260518072ccaeb29686225301a17ebd3b345c1e5dd/mypy-boto3-iotevents-1.12.5.0.tar.gz"
@@ -17249,6 +17265,10 @@
     "1.12.44.0": {
       "sha256": "607db9955ebf747ebeeafb61a346ce29b44d7891248436b869eaec90cc701b0c",
       "url": "fa/ba/73dbc5745484818a225d12e38a18a2f8299151db81430605233ad47346fc/mypy-boto3-mq-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "ac3c222fde42414194b1405a13820886b8f5a1385e13eceb9bc6b0d020108fbf",
+      "url": "7b/15/f25da9087971b716e8860777f99a2a840f83f5fea56fe50bde0170f33b3c/mypy-boto3-mq-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "49b8d8eb322c0b19ba7f6090fe5da983d75c039f503c38f04ae1f7087d71b4d5",
@@ -18473,6 +18493,10 @@
     "0.4.7": {
       "sha256": "8e7b34b158aed63b78b662e3ded06412dc69b5dfe925d7c8985e9ca04f7bf6aa",
       "url": "b3/f1/8829cdaf304c0cd713112a81e0975fea46fc4f7e4ff1f19bb895fc7e604b/Pelops-0.4.7.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "d0f186d16bcb12364b1f1058d37bf30ab9094578d2622e8399c8c8d1032d5283",
+      "url": "86/c4/3d30985e41dfb8c25eb8681bfd9526008538d2ca90a2f0a6e1ef21d66331/Pelops-0.5.0.tar.gz"
     }
   },
   "penelope.core": {
@@ -24209,6 +24233,10 @@
     "1.18": {
       "sha256": "5ea2c35a8c186b29aee38422f4e2e138a7fbe1395d7c566550b1ee8185e15e14",
       "url": "dc/09/1bbcda50bb4c0d0bf3a1a0f67f28083a7fba6edbc9bc8333e12b5a2de563/skyfield-1.18.tar.gz"
+    },
+    "1.19": {
+      "sha256": "50e3c93066b25dcd45728ccdc35701960fb6b89d82151bea757498b9e1a6cc08",
+      "url": "02/8b/29e5bcf7d1ff71caf4acf5c64eaf9904f72e021e2da2416ef68542b2adc0/skyfield-1.19.tar.gz"
     },
     "1.2": {
       "sha256": "4464ce2f5df20f46d304a4c5af683dd52ee43ab89e629757bfd0803d9192d41e",

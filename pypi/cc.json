@@ -1988,6 +1988,10 @@
       "sha256": "ea54e69be5f2996cdf92f06b965a15a4e58a2d532a4f1ac95d5e2f6293d27ae6",
       "url": "45/28/e6c170b404d8d47a1871e96a0bf5771b7af2f256b3cbd25f07d361cbb27e/berbix-0.0.11.tar.gz"
     },
+    "0.0.12": {
+      "sha256": "36e909bf5bcbd3c00c7c72e7f8e3ea1cc094103a2488634b21a06657266f32b9",
+      "url": "3d/64/5631b556a25bbedcc64d333912d0830aa49f8cdb983326fae91b2172098e/berbix-0.0.12.tar.gz"
+    },
     "0.0.5": {
       "sha256": "6de7a1f7097de0592b556a4ad7e539d7b6189f800df414525cde6a13c734f7f9",
       "url": "cc/74/0d03cbbecfbdf921f2ec41e43fccc94704f8a739e563a0a668691bce7d95/berbix-0.0.5.tar.gz"
@@ -12957,6 +12961,10 @@
     "1.8.0": {
       "sha256": "dcd5c5b61a4bf27b6b530e344a35da8ffd9dc2268a0bc3c03df36b65c3bcb73d",
       "url": "eb/d4/24f2e359161a369880c0d2bc4b94fe318fc3c3c05754928bb07b78da7bf6/instawow-1.8.0.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "5423b79c75c9191693013befe095f2da6775986d7fc24c78cbbaa923ccf5b98d",
+      "url": "df/65/8b4144c7e742833c87fef0a295d3bd1c85633b6edbe4911f5d3a50e45486/instawow-1.8.1.tar.gz"
     }
   },
   "iotapay": {
@@ -13431,12 +13439,6 @@
     "0.01": {
       "sha256": "f90a57cf4919d0ae875f982e3701711efae765d4c578591f275ff957b7f8c534",
       "url": "e9/80/0b6e6348fbfe747c9574eb176802b34e0ae9302e38567c23491765bac345/jsdict-0.01.tar.gz"
-    }
-  },
-  "json-metadata": {
-    "1.1.0": {
-      "sha256": "e94a2079c26393ce18ac1452c6c561b7040a90aca0943df995dc988eef413704",
-      "url": "3c/80/4efd159a2dd554290464ed9e2e274bc43ccc23fd569bc428f94a80c5ff2a/json_metadata-1.1.0.tar.gz"
     }
   },
   "jsonio": {
@@ -15477,6 +15479,10 @@
     "0.5.0": {
       "sha256": "6e39925b8f16bb651664c9f897896fcd251624d0a823715f4a411efbdd619a6a",
       "url": "b3/ac/4a6631f25b3b76fa9535c3127c6581a2e2b7b16049315f630d3dcf7f3a02/moic-0.5.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "f212b5467d3e3178f2916a93072a7c04bed080731986f7a3d34e9ad99331582a",
+      "url": "d4/bf/b445ef6b65b6d556991ece1ac9b11c038cee80fb9e883e9f30c6365ef161/moic-1.0.0.tar.gz"
     }
   },
   "mol": {
@@ -17545,6 +17551,10 @@
     "0.1.4": {
       "sha256": "fb3219967f3bccedf2318defe0cc8e5184af1e2369d4d2dbd123bce10b413752",
       "url": "6a/e8/03f50f532c1df281326234aabca604b1868c331c8f96a6d406d72ead0e33/polyfile-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "22be67a914f8db84bb0d0f50c6486566f5d149e861f1d57b6380f1f3e37f8ed9",
+      "url": "74/93/cfb8c70c7d89c7ac187c4177d837ec65a37ee74125704ae1feb95784c37d/polyfile-0.1.5.tar.gz"
     }
   },
   "popupbubble": {
@@ -19477,6 +19487,10 @@
     "2.2.0": {
       "sha256": "a85b67e3216480b5b7a4eefc0eddcd196f3c9b8c9752c02ac21f3abad69af996",
       "url": "c5/ad/98e155eb02d63056c3bc1a54c75a72266c29c80a68638f36f6c4ed2d7a28/quartet_masterdata-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "dbeb613edc7ef64fbf4629711add1fc2764b3710e57d5daef481cc27bf326226",
+      "url": "ca/24/5f5bb7c70ac1cfd9d5611b072ce5a063d5f9d5e13a4e3cc7f5c7936c23aa/quartet_masterdata-2.2.1.tar.gz"
     }
   },
   "queuey": {

@@ -9371,6 +9371,18 @@
     "2.1": {
       "sha256": "f4690b47a7772c1038a76526403f193f0e049c57521edeb6133ad2ea0d88e730",
       "url": "5a/88/ba51a5ee4beb7dad4253c5d7a6e03c8339f23f0da9fda7090c1d65689ead/hoper-2.1.tar.gz"
+    },
+    "2.2": {
+      "sha256": "95cf33e6dd9c9f1e6a8b60123b0d242cad17dd41179d7f2c0f816b34093c5a59",
+      "url": "d2/d0/b39b9f7ad1d691da39eda1ba6765a91c19a279db5ec64488d004f6265836/hoper-2.2.tar.gz"
+    },
+    "2.3": {
+      "sha256": "33b663d67fa6fbfe48269924b41086f9a063c033ae4c90c4996948e116ed3a77",
+      "url": "6c/0e/ca7a780efc567f33ca65fd0de28e3cd866316a1f60032455efec072d47aa/hoper-2.3.tar.gz"
+    },
+    "2.3.2": {
+      "sha256": "fb4b20154443fabe29f1e6ee9d68fa8c2c10319fea316918a584cbb44b1edd4c",
+      "url": "0f/2e/7a0ce0a533db122a68753651f05802503220ec693cd9dcdc78e90fc695fc/hoper-2.3.2.tar.gz"
     }
   },
   "hpalette": {
@@ -11408,6 +11420,10 @@
       "sha256": "27f5bdbdadf26b964128db0e05746ac67b6fd8c8772b2a11051d5e08f048c034",
       "url": "11/56/6a73cc860643e0a84cf65733d19e822f23e72f08677865dbad8958611eb6/lukeparser-0.3.10.1.tar.gz"
     },
+    "0.3.10.2": {
+      "sha256": "d072354a4fcbe7d64dcd0add24c773c04548c893a12a52bdd0479b7c191e0522",
+      "url": "d6/a3/bed26b51e8da9612fd58cce5dc4948f3410674242cbb5965066a93aeab6b/lukeparser-0.3.10.2.tar.gz"
+    },
     "0.3.4": {
       "sha256": "0f8c3752c1deb3e84ddfae137b5002d940000394cd094f7637da52bd06dcd99f",
       "url": "a5/e1/20551e629f80612a0dcd74ecc1ab713937d1eb3eb752039644f5502eb3ea/lukeparser-0.3.4.tar.gz"
@@ -12181,6 +12197,14 @@
     "0.1.3": {
       "sha256": "54fd5618f5e8a21c069ec9208171d5ac8eac463926289b28ddcc9c4fe4e30a9c",
       "url": "f1/e8/0fb0651d4f583f3c5dad6ff0039153161a5552dab2c8788c1c47f5bbbfec/mkv-this-0.1.3.tar.gz"
+    },
+    "0.1.30": {
+      "sha256": "2bbd90e12129c56f29d92d62b8f5f380c15dd94f15033d637be8e27482dd2022",
+      "url": "99/18/8b22f48d44dfab40d30ddaae4469124e5275ec4451619367ce2d8421fda8/mkv-this-0.1.30.tar.gz"
+    },
+    "0.1.31": {
+      "sha256": "9596100a021052b99fecd4c34e561673c7140fbc7f70674d83c30f0f2ad49d87",
+      "url": "64/cb/db651481954f1721d20d892bb7f8ed3d57d81444ea29fe7c9a536dd6f078/mkv-this-0.1.31.tar.gz"
     },
     "0.1.4": {
       "sha256": "00de018a139aa39d64102c79541a9cb0d40e64e67e6a2db0d53bd70c91268277",
@@ -13421,6 +13445,10 @@
     "1.12.44.0": {
       "sha256": "87b05ccce35b6e68ba6c425557c7d21cb24154587c8b422cd7c82701ef15ad7b",
       "url": "f7/c9/79ebda9723e55c9ba58df08b8c15649f8fa547fa52f4022631d59c2fd4ab/mypy-boto3-devicefarm-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "9c49ffdd2167a968ae301b333a0027755fc2a075a11e70518e6002bbcf41a9b1",
+      "url": "91/98/1f13959c868cb6628c8d8b0429b8f6baa512cffbc08b5ed5e612ab6b4c4f/mypy-boto3-devicefarm-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9a977470aa507abc0d844305bef6eb297f8145a0ec568cd7e551e5da350ef495",

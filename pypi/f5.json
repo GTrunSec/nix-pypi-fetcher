@@ -3209,6 +3209,14 @@
     "0.0.1": {
       "sha256": "f4bf925661d176dec64edd39175106616a024001c72fe4e35d26d28044e9268f",
       "url": "bd/a6/f5f04384cdb30214e112843f0d9aad5e41f9231b2923c89cbd2733db5117/cqepyutils-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "37e51d48d1a24d690c6947005b662c8850e7aeb5a992903598e29fa78cd588b3",
+      "url": "12/00/a2e5831f9974de2ad525eb29584042b3ee2dc6b5b7c403a9fa3a191d1e52/cqepyutils-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "b489b46b5b79d3b58f0a95788be5569dbdce3665b22ea92786322a8ae10d8c62",
+      "url": "8a/1c/d890d1f3179cacde85949f251d51fd05f6dfb7bf2c0d36cdcb5409e77f8e/cqepyutils-0.0.3.tar.gz"
     }
   },
   "crate": {
@@ -13992,6 +14000,10 @@
       "sha256": "10b21eea5ae7438dbe941830ad89dbaa9ad828193d8c4ee6b3cd28f19e3b618f",
       "url": "0f/e8/de78b6b1efbf34dec2394a72de1d14aaa6a8d146747785b94dc430b66816/mypy-boto3-sdb-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "33520abb37f94bbd6efa60e4093bda5407c21dae770bc58a9d06fe749dd36a31",
+      "url": "b1/f1/01dafab9e2eacc5e018d08e209f644ec751ff53249056bfee746a1e4eaef/mypy-boto3-sdb-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "bb0abda6bcc5334a28a7b00f1bf791b85fd5b582d17b327584fbb9743c9d2f37",
       "url": "4d/f3/05d8d71136f2c08e480ab3b34797cc697c394f479d0d839fc83a96b34305/mypy-boto3-sdb-1.12.5.0.tar.gz"
@@ -14505,6 +14517,10 @@
     "1.12.44.0": {
       "sha256": "548dd5ce3226baeeb6b9826a2d042b43c71e0e7fd2861d703e8ea42639162266",
       "url": "23/d0/e59e0dad0ea0ed74fb848982ce152d8f7abf2e6443ce04aed85409595b5c/mypy-boto3-signer-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "61a3561eae3fa553485e00eff5e404d796ef644d32181b37ecfd9062200519dd",
+      "url": "ca/02/bb75a1bccb941560094649109ac6c61db94d6f6af34748f54391eff6bd84/mypy-boto3-signer-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5ad33cfafb1f64b9e58b752855999efcfe810238650da34cbdb19f705f66dcbd",
@@ -15925,6 +15941,10 @@
     "0.8.0": {
       "sha256": "c745ac6ca8b3fe3d84125ec821806deec361e8e88b9a73bd932d4e267f1414d1",
       "url": "f3/3c/a17326d811d742335787b552e17b9db4ef6f915aa2639a21694730b05530/nyan-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "5d15661fd97b09b0c60bd5bd4bfa0017de3346c6408af129a12771c23d379d53",
+      "url": "e4/38/54fde928c272262a3590d24841e1b17ab68cbd6cfbad18ebe979a6b9a28e/nyan-0.8.1.tar.gz"
     }
   },
   "obol": {
@@ -17268,6 +17288,10 @@
       "sha256": "83245bd378bf2689ff324a47338598bef14b3f97de66e029543ddc160aec6f6c",
       "url": "07/4b/cd03397669c772e1c4429ff1796026e2dba754d2676435fb61f6f997ddc6/pimms-0.3.15.tar.gz"
     },
+    "0.3.16": {
+      "sha256": "812bdb2af57d75cae16e06b85d7f921a15784c91049727670f5c74fe05577841",
+      "url": "0d/d8/c0350634319e986949a22d3a8c4c629bd7e33771c2dfe8e5d149e6ce76a0/pimms-0.3.16.tar.gz"
+    },
     "0.3.2": {
       "sha256": "3b2764d492cc743440b7381138bd0968d4036e7a25bbc63622a7cdfda22efd33",
       "url": "4f/48/6bce2ba8956f2b92cea35ac948511618adace9f7c8a1757f61f5692089ba/pimms-0.3.2.tar.gz"
@@ -18055,6 +18079,10 @@
     "2.0.0b1": {
       "sha256": "2f547b5c798d19c49594f7ef6ed5d613bdfb620dcc29f45dd539f7dbdd093cbc",
       "url": "95/d1/7a65debf6727a46a3fe95f1fa7e46e3a4899e13a775fc3a1e857da1b4d0a/pulumi_packet-2.0.0b1.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "a1901279f6b0657979ba2d120587ab633000658cd42575f8ee5f96a445ce21cb",
+      "url": "03/2c/01b80f604847c15e98c101a4b716d8066d201f7aac88ca867185a68e1839/pulumi_packet-2.0.1.tar.gz"
     },
     "2.1.0a1586901504": {
       "sha256": "6c38a2323c1e0740cbf4337d54c925c7714a3db0e10cc7b67125d058532f0911",
@@ -23539,6 +23567,10 @@
     "0.6.1": {
       "sha256": "31f62d33c91fa2ea84be963d4c11b31d27c46d22aeebbe18f703ffd5754be6cc",
       "url": "da/5d/c4754faa5b49f695bd8feeb0acd4864db217614f007b296a9ac65d107a04/textstat-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "fa290f43713d41e44ce28227349763147c161052258db704ca84206d5b5b861e",
+      "url": "80/f1/3e7ed8932456ac3bdad1b3feeeb4a1c544191622db2acc43ab83df05310c/textstat-0.6.2.tar.gz"
     }
   },
   "textx-gen-coloring": {

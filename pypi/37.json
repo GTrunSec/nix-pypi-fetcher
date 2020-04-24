@@ -17608,6 +17608,10 @@
       "sha256": "8583a1e367675a5367a83b3a7bd04c520a9fd35a2a799dddea3ca32426cf81f9",
       "url": "cd/a5/3db0badde9145a532f1724398b8f646824e89ce56e7aae0ea1c312442296/mypy-boto3-connect-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "4abe69a64e0fd78c94ed9b55f25b329b0cb85d1d3498c3abfa1fe20132bf05f0",
+      "url": "17/de/dc7b419cb8484982ae92169ea8a9fd9f922c588ae370e15823ae049f59dc/mypy-boto3-connect-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "8fd28dff0eb6945499f03676578eb2b61f59bde5516d471b88e013af59c40e64",
       "url": "f2/b9/5a5086c0a7e229c73b93e2b906ff738e5a351d71b6f545936bc651481c4a/mypy-boto3-connect-1.12.5.0.tar.gz"
@@ -18121,6 +18125,10 @@
     "1.12.44.0": {
       "sha256": "992c245ae2abf90a7e68ff4ab5c9d3fa54a5184fbaaa4be9c6ddaa9e1ee71b06",
       "url": "74/cc/a7cd5a023d19e9844530ce3270614e2902cd7534de30ab99ca5835c56111/mypy-boto3-sms-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "08ad0584552b686b91245ef197adc69ebcbeca7b14403c09bab3f280841bda44",
+      "url": "b9/3f/d80ec55b7503e7865104161f38306cf837fdc86cd647aecebf96b98dd293/mypy-boto3-sms-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "4b584f40b69650bc431ab106162ad1be037a712edc58c2daba2b987e1686257e",
@@ -21166,6 +21174,10 @@
       "sha256": "968309c3a98b76095903a63e71a37453cc796da77a4022b10d1dd79efbc97529",
       "url": "76/73/dc4924e96cf4901028aa73026477535bf3ab39afe7d234f26f5627dca184/pulp_rpm-client-3.2.0b1.dev1583101938.tar.gz"
     },
+    "3.3.0": {
+      "sha256": "bbd60fe908c7eaa388fb638e622cb71dc401320041f7f6f98f62b60592f96b5b",
+      "url": "3b/e5/2338009c88b5c98213c5ad647600ab29535e8bf36413743bf08c88c9764a/pulp_rpm-client-3.3.0.tar.gz"
+    },
     "3.3.0b1": {
       "sha256": "4e89a546d3dd0a517c1f5f5685182583c41275ce9b42dc8b8b9b970fb90f8f78",
       "url": "66/e7/f8e22f40c9c9bfb7c6ba0eb78b90b886c450d2e8da57f7aa7db36857c8dc/pulp_rpm-client-3.3.0b1.tar.gz"
@@ -21369,6 +21381,10 @@
     "3.3.0b2.dev1587561151": {
       "sha256": "16ae7bf7d165ca93bd8da2466b5151a1439e3c54b3481ada4166370087321f78",
       "url": "6d/ee/00f534a9d8e10e7a618aaf86a522a70b65635067767f35ad7c00da045b60/pulp_rpm-client-3.3.0b2.dev1587561151.tar.gz"
+    },
+    "3.4.0b1.dev1587676451": {
+      "sha256": "0ffdcdfb02dd4d824181c74fd758546d2472ef6575db2b7d7ba908c4febd15e0",
+      "url": "64/07/debae6a92f691dd8fa84e0ebbdb59ec7e9a85103dabad960da528ea58e7a/pulp_rpm-client-3.4.0b1.dev1587676451.tar.gz"
     }
   },
   "pulpo-forms": {

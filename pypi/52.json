@@ -12202,6 +12202,10 @@
       "sha256": "4d019ce854e6a63b4d5be4d7df0ca557ebf86a62d35df8bd90676888018ba44c",
       "url": "ab/2f/02f6f19276c7b7c08e9059f18bab03728c913140cc2e4556990808cd3e7e/mypy-boto3-mediatailor-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "50078d7c85269679ee20241964cc2797ead694527afc54d7898011b5527f1e70",
+      "url": "8d/f0/6fa2fdae1abb9b0b32d1b7a94eea1f97c9caf955c16d7e309017b3bd67fe/mypy-boto3-mediatailor-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "beb5b1310ce69d9f7af3157c06eada400e3a1bca00d15105654e3d4c04dec8c7",
       "url": "f6/d3/d186acb426437f34039cc746ec86604f33ebaddd235711ed38101cd07310/mypy-boto3-mediatailor-1.12.5.0.tar.gz"
@@ -12719,6 +12723,10 @@
     "1.12.44.0": {
       "sha256": "b22069911fb8c1458d17f8edef6aee62430a8e8fb4404e84ab0b7640d8d26162",
       "url": "97/1c/3b1ad5639e283dd3c3bfb43448bb0c7a94c2dabff56a48f2498106be3bd4/mypy-boto3-textract-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "6c393767fbd69a00151ed145f832902c16c3b1d9459276b9dd8a19265fc1db91",
+      "url": "82/ed/b3dc73514dfbc6ef9d895ffb228fd91650a37b287baf204c906092e00a53/mypy-boto3-textract-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "be677fede9edd491a0bf1826bf331f93346dcfd42e9f67dceffd3cc122642ab1",

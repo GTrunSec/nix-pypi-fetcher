@@ -11167,6 +11167,10 @@
     "0.1.0": {
       "sha256": "63011e96bcb84ac35f7dd21d90105e9990f0a59d748f77c25eedf59fdec0f49c",
       "url": "d3/d4/cd03eb8cea76fd31bb7be722c248595aeeb83122fd8ce2b97390eef2ad0b/l2rpn_baselines-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "b92ac097952f6bd415cfe77624c4eea8fa278df55a893f177c3269fd59f7ce9e",
+      "url": "ad/e9/5f82191e1346017e19e8264e4a0285aa8d77392a23e9b73e60ddf37aef7f/l2rpn_baselines-0.1.1.tar.gz"
     }
   },
   "l5-shoppinglist": {

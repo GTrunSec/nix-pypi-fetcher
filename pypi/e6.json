@@ -4801,6 +4801,10 @@
     "0.26.3": {
       "sha256": "61614250acc4e22ce2fbc3c8c793b6561d90c6c4bdf1633384c34ec642ff4c14",
       "url": "b2/37/f581a7b46f4758bdb05394486233d86021c2c163f65f68f9cdc211b44ef6/dbnd-aws-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "1374b609444041d0b4472a81b5d7c170a463429df4cf5a275f24744b1470631f",
+      "url": "b5/b1/66ce96f581b0197ecc64b8e81eb8f1de0c9a5111770b2aac0c5f38a00603/dbnd-aws-0.26.4.tar.gz"
     }
   },
   "dd-aliyun-python-sdk-cs": {
@@ -14269,72 +14273,6 @@
       "url": "e4/a8/df5285f42cd07782409d0ae835785fae6e2a0f7e8b0036ea302f1422fd25/opentracing-2.3.0.tar.gz"
     }
   },
-  "optilab": {
-    "0.1": {
-      "sha256": "6cfffa07dc438ba6b18da30d617a031dff4491b0f1ca4f8495680fe50c85dd3a",
-      "url": "27/18/5b41332296f0937ca99e493818a6de52fd11c1482115c5f4c2101261c480/optilab-0.1.tar.gz"
-    },
-    "0.10": {
-      "sha256": "57e80fc92b57ca6b746673ddc22da500905188d012c2967b7dafcb8cf9c6e3f7",
-      "url": "d8/0d/1639241a86b5c69c5c316e8ff77a026bab3c406970af337d60c011f05d94/optilab-0.10.tar.gz"
-    },
-    "0.11": {
-      "sha256": "640f58a05c86b36356270547cb341175a02626924263f19bc2d630cbaa589082",
-      "url": "9a/2f/2e96f08069363ab2060fa850650dab03af804a944599678c14e8687f1f2e/optilab-0.11.tar.gz"
-    },
-    "0.12": {
-      "sha256": "d8fdec1042eef13b13ef52b9813a2376b291350891ff675a5d37792d72a87237",
-      "url": "6d/5b/b1a829ee0f61d396276832e9cf8ea3b0489a8381e38fe464a1d638c4daa4/optilab-0.12.tar.gz"
-    },
-    "0.13": {
-      "sha256": "8cc6aff1975406f213c981dc1db91de65af0fe028b70ac42fa0f9dd996e99fdb",
-      "url": "9d/cf/14be8a918dd108b8e7f3de5bacdcd8dd8bb51cb9e8873425c55effae4878/optilab-0.13.tar.gz"
-    },
-    "0.14": {
-      "sha256": "00efc76ec4ee12849e2474f042c1842e9d3042956566354e3c2ed24374ecb0cb",
-      "url": "ea/a4/0b0afb555353b8b5b462b7991fb78fcbfdf3761e72b4e7021e659fcd24ec/optilab-0.14.tar.gz"
-    },
-    "0.16": {
-      "sha256": "9c6892f40925c2eeefef5b7fb07ae8f9ab7b542179608be6b9e42d6eec01e0b0",
-      "url": "3c/3c/5cca7102fb0f4608eb77c6c78d37f2131d83a5d1c6612a4ca9194f2fe548/optilab-0.16.tar.gz"
-    },
-    "0.17": {
-      "sha256": "ee19c2e25f15db9e5fcbac167c96ecdb3a50b670123db0606bbabcb954b369a5",
-      "url": "66/2a/ca94bf882d498982d8abeb46a37d59b17c0881a2fd22914798aadac040aa/optilab-0.17.tar.gz"
-    },
-    "0.2": {
-      "sha256": "d43775b3c8f5a5e1905eb39c381c3d29a75190fe7d97a265ce8548589f34bee7",
-      "url": "bd/70/d03d7b6511b39a9267ea4092f3a5e8920f5a52660067ce8a8a3c1f974f08/optilab-0.2.tar.gz"
-    },
-    "0.3": {
-      "sha256": "d33646e9b58efbd24a577efd30da8dc3b9abc466b672ee4ddece95d2242fe815",
-      "url": "43/13/7fa033de5af573903ffbb4a9766ae30d6f8be4072f8d688779efbbf818a9/optilab-0.3.tar.gz"
-    },
-    "0.4": {
-      "sha256": "d48c42eab78a22cb078b6dede908f29c4cee52947d5bfeec914468a2c02d5891",
-      "url": "a9/08/59b774b769f55a5bdcee81d94e68b8cd6a85fd9d5db709fe5f141c7d0a23/optilab-0.4.tar.gz"
-    },
-    "0.5": {
-      "sha256": "bfcbf2c5b7d0c6965b15f3121c12f516191e18804bef78754a4a896caa6d3d67",
-      "url": "ba/aa/d3a9ea1f43033d0b9c27baf2fc258461ebcb7ecd1f3c84cdb4a1817c68c3/optilab-0.5.tar.gz"
-    },
-    "0.6": {
-      "sha256": "d9743470da1e2dd54c276718ea8d32e6b30ed617bcf60bdd3671705eff6dbd05",
-      "url": "e4/49/a1190850dc77ef4411dfb5f3f273c4232e0f83e54263494c815aa1cc3f23/optilab-0.6.tar.gz"
-    },
-    "0.7": {
-      "sha256": "d5372da89e826af5fef8e4c618f4ce2d036ca159f04037b6368b4814d4ec024c",
-      "url": "e7/27/ac7ad0cd38304de58ace00a22c714034e0aad8a4ad70d762b4b7d226885f/optilab-0.7.tar.gz"
-    },
-    "0.8": {
-      "sha256": "5539cf66f91b7ecd2175df332869d98cd59ab5e53b09178bad52a2052bb16832",
-      "url": "d1/6d/74d1c3c24c5da9a161a8cbc7a88edff87ea3cea37a130ebdf774188a246f/optilab-0.8.tar.gz"
-    },
-    "0.9": {
-      "sha256": "f4ac3ef6d9a46bcc517b46846436447058af546b07aceffed05b3f7d5b261b29",
-      "url": "f1/f1/af148d8eba370355b8f6af8100a14b212128df5589bb94401e084da39f7b/optilab-0.9.tar.gz"
-    }
-  },
   "optipy": {
     "0.1.0": {
       "sha256": "23dbc81822680868c473662d285df0df915036124c5e6d938a814927121e1e46",
@@ -14405,6 +14343,16 @@
     "0.1.2": {
       "sha256": "c346f281ccf08117b1819bf422c7a349071756990af0d52fd3c234138309c4e7",
       "url": "47/c5/aa69211ebd284493957cb3b4700aac89b17b7d556f37f41903ceb3e72938/orger-0.1.2.tar.gz"
+    }
+  },
+  "orion-ml": {
+    "0.1.0": {
+      "sha256": "41040fdf0b722ef6e9eeec3b7f0a5070ac817c98d16ba4f6975a9cebdb8af000",
+      "url": "12/e3/2008426302f58ed57ffbb3320b4a253155decc2c7516d7e60900dca6f53e/orion-ml-0.1.0.tar.gz"
+    },
+    "0.1.0.dev0": {
+      "sha256": "b074178463396edc883879d9a4505178af7d1d70c5cab351841187540b5b3730",
+      "url": "ae/cd/8dd7b1c866b429ab7810a63f74f12bbc21825f1b50772178eb8bb59c1a59/orion-ml-0.1.0.dev0.tar.gz"
     }
   },
   "oslo.messaging": {

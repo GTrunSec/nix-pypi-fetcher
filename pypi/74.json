@@ -6848,6 +6848,10 @@
       "sha256": "d2675a5c8997ed8b97453eca701668fb38d53d3c748cb2eaea1c4ff3185eaeea",
       "url": "78/eb/1a7be0ec6ecffcd1f5a3dfc185a16267d71b8605cdd34cf4b620255759e4/ethlite-0.0.15.tar.gz"
     },
+    "0.0.16": {
+      "sha256": "8ad26b04cb9d75de25e1c26dad12deb12c1deac4c7d6f0d1e15ab60bb11719bb",
+      "url": "7b/bf/9b73d8bd53ae475c4d618ecf97eddfc749115d760ea548f3b12e51b245e5/ethlite-0.0.16.tar.gz"
+    },
     "0.0.2": {
       "sha256": "94110a72e45dda074ba5b3d102db315ffab258ce911fdde6f7898a18cf0491f9",
       "url": "40/44/09c84837b64228179129381cddbe48c8d7116ff0fcbf6272e4218db8f53d/ethlite-0.0.2.tar.gz"
@@ -8043,6 +8047,10 @@
     "0.1": {
       "sha256": "f65103673f8dfa416711640f6063db9c8ad2f8c30bd570797bca5066f31fe3d8",
       "url": "ac/43/99324492f211e04cc5a1f66f1d1de277260ffed375ae9e5a3506f19d93b5/flowws-freud-0.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "92c5a85f4e01e1b1c0811c28d77022788dbe8f88713e8659aa49e955687771ba",
+      "url": "38/6f/60697dfba91b4c905ecd4227dc2797ea69fefc447a8391e55ebf3f175199/flowws-freud-0.2.0.tar.gz"
     }
   },
   "flylog": {
@@ -12576,6 +12584,10 @@
       "sha256": "3a11a3e80a6319a6a0eb9b09a7c5c3c7fcb993f2593b6fbd8496407b470a9724",
       "url": "4b/29/a7f9875341303529de5326187b3de2e6d4d479f7c8d46d684affddcf059f/mbed-targets-1.0.0b154.tar.gz"
     },
+    "1.0.0b159": {
+      "sha256": "71db03f612396f701e3db3f368b94695236fd23ee985d66c980d6aae26d59ca1",
+      "url": "56/f8/c131dba60ca3d9fded5a4bf963e11d91754f62be6486488fef36bf6915bf/mbed-targets-1.0.0b159.tar.gz"
+    },
     "1.0.0b2": {
       "sha256": "09dbfd14733e5868d1158fcef06b28fe4447107c6ca8b52f8dc05c74d16e9cc7",
       "url": "20/4b/f3e51fe643b4a8271cadc197ed84f5cbc51caedd528894c4831414bdee68/mbed-targets-1.0.0b2.tar.gz"
@@ -14316,6 +14328,10 @@
       "sha256": "8edff2561c708458e4fb3822cf7830a76f350642d5dc4af292be2b1cd44fef4a",
       "url": "42/1b/3897c2294b42a616eed909cdd0f7194cd9554964651cb08ffd37a0aab138/mypy-boto3-securityhub-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "0f094ceb4794b6a1da042b0cdf517f23f0af36f32dd63bc5e802ec47b3a348c7",
+      "url": "e8/12/58037d1e350ad0524bbd1dedf5961b253f88612f96abe6f3daa276ca282c/mypy-boto3-securityhub-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7c05580453a8d3b315782da1a8afb139def2add522d973bf41606e3893955ba9",
       "url": "45/1d/cc6d7418501a84078295bcde805a3739f85475ec11e4f0e6e86076de2414/mypy-boto3-securityhub-1.12.5.0.tar.gz"
@@ -14829,6 +14845,10 @@
     "1.12.44.0": {
       "sha256": "f06b355e1ff43de523c32509b155b201b0ff51b2fdb32a74bbe03c96a584c69f",
       "url": "e9/96/3b0c6631e280013fa7e1c02efe779174cb96fcc7b1779e7cbb9c53f452aa/mypy-boto3-worklink-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "5b59fadbbdf1f8cdf4879a558282308eb33798bd15c8e8f91a9c72f538ee194a",
+      "url": "72/91/14b9e2fd7a3f5e94df7e592227cf353a8330e658ed488bcce3281f48877b/mypy-boto3-worklink-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a3dcc19fcf19c04d4950ab7709af4fd10672c1aa6164b99de923203399afd21d",
@@ -17361,6 +17381,10 @@
     "0.5.1": {
       "sha256": "8eb81addd42ecaa0d6d177ba6511ea828011cef200ea7c6c586bedc88238fa61",
       "url": "30/d4/590b5d5d13e67e426d841ac5155658b0d946afe53f3c03c4a2a6df43f8cc/piglet-templates-0.5.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "deaa3c543b5da5e0035f8f92adf086f432b6bbffbcdda461eb0b3fbad513cbd9",
+      "url": "72/19/1d9342db48114de185a54cc5e3a6942ad932e9a09cfa61131b1a9d29765d/piglet-templates-1.0.0.tar.gz"
     }
   },
   "pinax-wiki": {
@@ -19988,9 +20012,33 @@
     }
   },
   "pysimporter": {
-    "1": {
-      "sha256": "150355a50d0b4e07af7db3b59a3ceca953fbcb6f317142af81c534e3f655ae34",
-      "url": "63/80/0301a01464ec1a6b258c43a446e7af16d458db5380c2696f9d2d26aae91e/pysimporter-1.tar.gz"
+    "0.3": {
+      "sha256": "5352135e2ae351e750face94c0ec64d3bc923e468d648e397fbe0502b6c1e844",
+      "url": "d3/b4/8d1ffe682e701952c0b4755ccd93bbac3daec7f9bc404e780d5712a186dc/pysimporter-0.3.tar.gz"
+    },
+    "0.7": {
+      "sha256": "ea3535f359732377fa15c90d901d74a1a5c11d560439538213a1d4c188379a73",
+      "url": "71/08/bf4dbf38b8f7c7f66377f2906f569464cc4b45733c3a80dc7e2c70365af8/pysimporter-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "a94eb8f845eb5bbb2fb49a6e0a2c0b042abb9c29dffffe7ca0edb55e1fd9aff3",
+      "url": "3d/ab/93546296fe3068237cd617fcf3e74e35ee817f1ccd1f7bb16cb1c178106c/pysimporter-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "b3da1a8b2318ac32c6c933e34d29852dc7df442ea32d62a944c03078dbe4ee42",
+      "url": "e6/2f/de3119a4eb62ec1ad0b1cb334a1c5677a4a75d5c0028aba47adcd96f606b/pysimporter-0.9.tar.gz"
+    },
+    "2.15": {
+      "sha256": "87d798f8922940adce62843344d1b4dc096e90b461478ec55f67f5ae315cb3f4",
+      "url": "28/2e/26c9e76064a38bc97e48b32723b854001208d69a750087e69de979d69640/pysimporter-2.15.tar.gz"
+    },
+    "3.18": {
+      "sha256": "fd7d9d730e69f101807eeb591df01df2a4c8051d37d9f280097cc9b1b3a09874",
+      "url": "c0/3a/a05b303a95e4ad817b482053dfe9f1f47c0cfbe96f85705d9d638df3318a/pysimporter-3.18.tar.gz"
+    },
+    "3.19": {
+      "sha256": "177a31354ec61fbdb561257c73ffa13832644e0aa8a7f43af8b6aca623a5fc4d",
+      "url": "aa/e9/216f0e398e39daf8fae914b3a1194baa5989d3ccb3355c421f33556d646f/pysimporter-3.19.tar.gz"
     }
   },
   "pysoap": {
@@ -22159,6 +22207,16 @@
       "url": "8a/e3/0ec3be685345a848516df1a83f9187437d6ab0a2ee0b78351bd86a9b3e44/schettino-0.1.0.zip"
     }
   },
+  "scikit-surgerycalibration": {
+    "0.0.0": {
+      "sha256": "8e7f363dd817d3d30cde33d52cad8f790b036ea886333c2154f927696f113390",
+      "url": "e2/65/5935c50cfcda56d3c1352e781bf5ef0e4d618496845543a85ded0ca9fa79/scikit-surgerycalibration-0.0.0.tar.gz"
+    },
+    "0.0.1": {
+      "sha256": "f79a7e41f6f592c002d8a20813c801fb1ecae4c03be55522565d0a45588763ea",
+      "url": "7e/5a/4207299766d9d6e7dc25b9bb53b65d169980dbf9e2aa0396f028cd5078ee/scikit-surgerycalibration-0.0.1.tar.gz"
+    }
+  },
   "score.session": {
     "0.1.1": {
       "sha256": "953882812d943bc568e09f7fd9b706248f0b1f28175fc713181860164ce5234a",
@@ -24016,6 +24074,14 @@
       "sha256": "1211614c3d7c994ae51e7d53c9f735ac424a3d452f6b5529b8bd6632de864914",
       "url": "78/6f/9aaaf2b63e12138d45bec2dc3798726b3e678518ec0b77a42c4bd41038b7/squarelet_auth-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "10c90e0abdae517098f4b0ede7e10dc83876721f846cb09eeec4ac398f35e79d",
+      "url": "a8/44/a1e30ef9c81bc19a7bb008f3a009ba7532abe6dd01b0f1cbbd45db770e11/squarelet_auth-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "f7533c96ce66cb8a84c58cdfba6a1ead4bb5c87fac1f13aebcd597f63353cce6",
+      "url": "02/7a/f59bbdac7b10f2ece657fb100c2293b6f7cc88874fcd06d26c7cf9f5956c/squarelet_auth-0.0.11.tar.gz"
+    },
     "0.0.2": {
       "sha256": "2661df3b85dc6d04bb541e66bf75c0cad3bc303c41bc8007febfb7279626750d",
       "url": "9a/76/c3c2a771ee06134db2c91e9b77a4fb2ebfa37ad9d7a39ecef1a5caa0cb12/squarelet_auth-0.0.2.tar.gz"
@@ -24035,6 +24101,18 @@
     "0.0.6": {
       "sha256": "142c2a8fc4c7dfa69c98f433fbb3001a0b06550486958260d568ff6d180550ab",
       "url": "29/21/1e1862871de6aa18da96ae228498a71293b5087c48c3782ba109e29d31fe/squarelet_auth-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "14f1fd65ca5b640a11d74013cddef0ff7fc71be66cda86e1a7df9fe761bbb403",
+      "url": "3b/02/1f8c797c64b32821a13c80a5d3f0f0a6270816d47392c94a429214583da3/squarelet_auth-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "43344cabf73a3481481210661150581788717d55ae50681c73e336373d6666c2",
+      "url": "96/20/678ac293f14281c3d689453c10bfead16ea2c2736a74b2c1a42f8065c501/squarelet_auth-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "5711829777a8b85f94d073a7278998ab7a5a3d48c187e10728553a1e9efa7508",
+      "url": "de/17/4d832a08ac6311bcddb7b07b260753b4e9d22d453b7b616859fd527fbed5/squarelet_auth-0.0.9.tar.gz"
     }
   },
   "squidward": {

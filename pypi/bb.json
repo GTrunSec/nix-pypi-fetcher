@@ -7611,6 +7611,12 @@
       "url": "8c/27/41f5f43780146c80a7388e2ea1298d0ed24877fc89163b8a4180aeb5c2f8/django-skylark-0.4.6.tar.gz"
     }
   },
+  "django-slick-reporting": {
+    "0.1.0": {
+      "sha256": "e34b7b3c791d71d5fb6d2656d7c079ea4bf4c3fbec16221f09a9bc305de0fa82",
+      "url": "98/ae/86440657140deb8248a24e8726e5ef38c0850fb62940747dc36e1d0a9c3c/django-slick-reporting-0.1.0.tar.gz"
+    }
+  },
   "django-social-auth": {
     "0.1.0": {
       "sha256": "8ed272cffde250d322c7f8a69052f6431d430889c85a12fc6a4f43c8882d3af5",
@@ -18294,6 +18300,10 @@
       "sha256": "e5f43ed8faf9a5c933bea5cd7dc4cad4065f6eda13a3624cd86caf97bf9d1be8",
       "url": "ef/75/8001272f7097caf44e4cc5e85af4651f392ded774c14d296531e0070ff48/mypy-boto3-cloudformation-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "f875b73b0d6ef41d943ee0279a398b26aac72558089a39753e84b0af5dbd1d4f",
+      "url": "d5/52/eabfbc77462adcbbeb27f4c53f6884df2bd3da90c394e1138838551759ca/mypy-boto3-cloudformation-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a7f5975d1b52047d6f603f20f0fd80f02e7b677678730d60f622459c85e1b0eb",
       "url": "9b/2d/a5cf269c14c3071fce7a3b72d37db000b0fe5e5976c94b5d6ffaf929c863/mypy-boto3-cloudformation-1.12.5.0.tar.gz"
@@ -27901,6 +27911,12 @@
     "0.0.0": {
       "sha256": "14f91938c308b662d9c2f96c48df7bfd7c6a2e525efb41f40bdb86bf57f7c9cd",
       "url": "e9/ed/4349340bd413af29f6d464a6267eb62a418953c803ce629c65d0ec30088a/wrestful-0.0.0.tar.gz"
+    }
+  },
+  "wrestlr": {
+    "0.0.1": {
+      "sha256": "f071f5609951200954ffd9e9ac3fe89740f2b47f91849212e255d086965bb707",
+      "url": "ba/de/e14a877b16d8a7c732b3039dbdff68d44ddd776aea30409ed6b142f8e915/wrestlr-0.0.1.tar.gz"
     }
   },
   "wsgi-seo-js": {

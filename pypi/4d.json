@@ -3189,6 +3189,10 @@
     "0.1.2": {
       "sha256": "cf25004eb26ffeccfcae1576513152e0717f6cce48e7a0b43ca888df5c92b1ec",
       "url": "10/f7/610566bf5475c3af9b8020321f215a07c68a3c2e351f495c4846273c881b/cloudformation-cli-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "e0144ddf3cc6e5a84c453254b72de5ee73cd5f63eb2454051f07c910a78e3f30",
+      "url": "be/2a/b88fbd80bec5619d4907b12280b807fd2895e7de0d9c7db3c7db03aea911/cloudformation-cli-0.1.3.tar.gz"
     }
   },
   "cloudmesh-storage": {
@@ -14080,6 +14084,10 @@
       "sha256": "eaa107ed5397b0db531f7bc52706120b2bd6ee00009a295c61e7f6884c421b14",
       "url": "ae/ef/9abb08b5efe1eeb3cc0a4b00ec8d1bc5b107da300b244087fe4376031e80/mypy-boto3-firehose-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "9e86bd7f130c87e258446db683e26a4bb0e23b0999ff41228ce1ac4bdcf37ebd",
+      "url": "99/74/ffad662ec1881b7379c39e129e606a1e995643979c95654feb7a0ab1c25a/mypy-boto3-firehose-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ae1a8b284e5ffa9aa1413470bd291f8ff395274e787292ca639a6cf8623c4a46",
       "url": "12/1c/55463c390e1faed58962809d50834dadd37bc851f235f5bfd407ecee0d92/mypy-boto3-firehose-1.12.5.0.tar.gz"
@@ -14594,6 +14602,10 @@
       "sha256": "377e76f48be8c8b27de4dcea9622a3c3be3df141c377aae7057c7418528cd3b3",
       "url": "76/a3/9c1896d0f01e7c4f99b12880d7d40523e924fc3cd80ae964bc3102bb3a23/mypy-boto3-iot1click-projects-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "519adca85c2fbc14a4d09d1ae6308e2726587ceca662a69ffcf7c1cde7adebb5",
+      "url": "89/c3/cfdfa68433c060b6fa5c90f7dcaea930715181b51a2d131debd88ee301ce/mypy-boto3-iot1click-projects-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "64d534310534df070f21548c63dd92053868ce78c0d299ae4419c895b2e88270",
       "url": "fb/19/d1492c9bc4df3dae3e153cef40ac1a6a156feaa4cb3b9fddcbf3a02becf7/mypy-boto3-iot1click-projects-1.12.5.0.tar.gz"
@@ -15107,6 +15119,10 @@
     "1.12.44.0": {
       "sha256": "c6af9c7dea9add96cce0a0c3a6b1f53e4ce97e6556a5bdcaf1848704c1b7d5c5",
       "url": "bc/02/b86aaf474ffa9c8f80cfad4be3baedae94c80387446535cd9951f00c83bc/mypy-boto3-support-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "aa9b10fe1349daac1e85c1ba28d65fb799fa9273d38d92a8a49ee4580e64c964",
+      "url": "ac/03/0101a51329ba7c6338f9e4977fbb5fed013bf7691658f0ad205ebe7b46b6/mypy-boto3-support-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5d95b62e0bcd0a8a2245b87e5813a65f2e03861f4c28397bd7adcf9e15708211",
@@ -16069,6 +16085,10 @@
     "5.0.1": {
       "sha256": "ce68f448ea26578b109ca1a3340d29c8fe2e6bac60b9bdfc1f845e3fec23a779",
       "url": "17/5d/37c9694ab2df4d652f8d3657c296f659d5ea13cba52c611a2f96c6911f45/octavia-5.0.1.tar.gz"
+    },
+    "6.0.0.0rc1": {
+      "sha256": "6063b8a3a8f1b3e85f2ca7718e87455cb6aadd4ed01976a89ef4b7ed8505ce87",
+      "url": "0e/f2/d6bb6ff73d316a9b01cf8f576d94e207d0ca8d2a0e64ec3cb1bbad8a54d9/octavia-6.0.0.0rc1.tar.gz"
     }
   },
   "octokit.py": {

@@ -4263,6 +4263,10 @@
     "0.1.8": {
       "sha256": "3b20ab94364ea2dce08872fd7fa105ce33213be7abe1df133e509ae4a5af8c69",
       "url": "39/2c/954677ad731c48eeddade3b00d248284b01901e1a656248ae5e5db7c3934/composeml-0.1.8.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "969bd8fdbe31c4c0dbaa21472d53e5247a58eeb71b3487900d11acc5483a7f0a",
+      "url": "98/98/9b1bb98901f136e986e8809c747269c7178c60839f56e623a81649a0a9f2/composeml-0.2.0.tar.gz"
     }
   },
   "concero": {
@@ -4879,6 +4883,10 @@
     "0.26.3": {
       "sha256": "4b31d8e6b736033b04bd286ebf30a718b1d7118fcb9630aebec9033c676b24bb",
       "url": "7e/ed/423806f32e2a639c906aef34bb808974ad82058e6e7ecd089597ee92cc93/dbnd-test-scenarios-0.26.3.tar.gz"
+    },
+    "0.26.4": {
+      "sha256": "03abe1295aa0775d7f9ad48607aa5363c3121a033f5105433b415b88d355db99",
+      "url": "cb/33/5b8f33e105df16b48ce62399f040b44d71ad1e9b62d4ac737b40c13c3af7/dbnd-test-scenarios-0.26.4.tar.gz"
     }
   },
   "dbrequests": {
@@ -7635,6 +7643,10 @@
     "0.0.8": {
       "sha256": "ed09c5e0fa0e410602d0845be26b65805bd9589ca35b59be07fde85c73b273a7",
       "url": "c9/59/3f1b21b98447fb8bb21d48da51a04859f107bf2bf60b2acd9ee0a8b572f1/facile_toolkit-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "aeadd9767fe53cf25ede609502c132f3c1ca03df04ee049f5c2c5dca67fcfe34",
+      "url": "09/9e/6d0603f2010519b5e83594fa3e203e8031ad07999d588d97c5ce81e4281d/facile_toolkit-0.0.9.tar.gz"
     }
   },
   "fakegit": {

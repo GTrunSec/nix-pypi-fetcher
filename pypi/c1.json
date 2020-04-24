@@ -24221,6 +24221,10 @@
     "2.0.0.0rc2": {
       "sha256": "6027e81e1293ae0806394df8796767dc458ad597af0c1d6a89fdb6880cedf294",
       "url": "49/5d/edb50e8ee57bfad28792c47f4be12b361292ed76beb5fdfac5358ec8a9aa/sahara-plugin-storm-2.0.0.0rc2.tar.gz"
+    },
+    "3.0.0.0rc1": {
+      "sha256": "2b9091154d4053ad19a4129479b86a7fbcfedeeb5c0e8c04a3663879a81e5116",
+      "url": "b5/34/7519e11e2d7f9a931d397d85dad71e77ec0b6c3a2e22b3c643c6664d2572/sahara-plugin-storm-3.0.0.0rc1.tar.gz"
     }
   },
   "sanic-mysql": {
@@ -25509,6 +25513,10 @@
     "0.12.0": {
       "sha256": "a62da226a7265214fd553b8d40c08712971c564b5b11ed5b396f961cd35faff7",
       "url": "34/8e/1fe68946bae961c00b0b15403bd30adce78a117d0a413d3a72f846f08526/springer-0.12.0.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "85604d60e4c9a34052ddfb3a768773dc0ccdfd3c958067b9198b12bc4a3e5a6b",
+      "url": "74/37/553a7427b149d4c709d3bd0683875757e2be4571de31ffb6229c3588dc0e/springer-0.13.0.tar.gz"
     },
     "0.3.0": {
       "sha256": "c94d27afe6b04b54b02d7b4c5660013eb8fb819878d5aecc903e1039060dd692",
@@ -27863,6 +27871,10 @@
     "0.0.26": {
       "sha256": "638588d807d9e9e90bd9ede23ef6f8fbb02298492eab5b57e38a39e471d2bf1f",
       "url": "4f/7c/781893ad059c709b07448ba4b9bc7e648a5a407a2ac595d6925514228106/x3d-0.0.26.tar.gz"
+    },
+    "0.0.27": {
+      "sha256": "9b83efbda7ba039ecbce96e6ed36fee9ad8c4a4fd92749b055b240e11f8cf0cb",
+      "url": "ec/38/bd7e193c00783170a2b7977c3d01ae84a5d3b19197732761110cd9bb6dc0/x3d-0.0.27.tar.gz"
     },
     "0.0.3": {
       "sha256": "710a3634ba99c4e2615132f45f415f343aaed4619c1a30aa49c3328fe8c890e9",

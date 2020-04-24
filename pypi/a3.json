@@ -1483,12 +1483,6 @@
       "url": "57/62/871e81386d7b60547d3d788db5cb699679290cfbc22ad324cc9043bbada7/artifact-cli-0.1.9.tar.gz"
     }
   },
-  "assistant": {
-    "0.0.0a1": {
-      "sha256": "56c6350f15ee42e20889f100485138549a575804f85e792e51ff0e56ce5c9e65",
-      "url": "7f/8b/8100539e4268ec505313b615b7aabf34ba047a15a28e7f778ff0a61bea9f/assistant-0.0.0a1.tar.gz"
-    }
-  },
   "astrocalc": {
     "0.1": {
       "sha256": "89d516a27fb16bf080f648c07ce6b8dc22eb11bf06b4182fd58a8ea0cdaa583f",
@@ -4397,6 +4391,12 @@
       "url": "da/8e/28159a349bd8a437760e261e91c5d91f309da53e08fbaddbc79745b0986a/dcworker-0.2.8.tar.gz"
     }
   },
+  "ddb-cython36": {
+    "1.4.255": {
+      "sha256": "15d8921f72b3fca1aa578c2905ba2f1384b0adf82957dd0cdc1c20592c68830d",
+      "url": "e9/04/740e49fcc3ef492ab5f53709b8e35a13e2c9b2a6fb8cb2783875449e6b5b/ddb-cython36-1.4.255.tar.gz"
+    }
+  },
   "decorouter": {
     "0.0.1": {
       "sha256": "d65a3220195c30d768e97f1c79b3970517fe7b4bb8ca36e86b28c455bdaa4a39",
@@ -5623,6 +5623,10 @@
     "0.0.9": {
       "sha256": "de7dbc9cfa06d9d37e974f352fcc1f9673524b4ea97f69a18984373f1711a829",
       "url": "18/64/97f1acee44f7efd7e67e00ba015c9bb7491949a40b558ab49000b6f01e9f/django-ra-0.0.9.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "cb0e0b64e6292285a34a0fcdcc613ace43656353f7b3d3e6035f7283b6a643c6",
+      "url": "5f/dd/882965a4470c45b9c6a19d2f7d05603180b84572fdd50c323caf437203c3/django-ra-0.1.0.tar.gz"
     },
     "0.1.1": {
       "sha256": "6280b413048a4c29ce42ed6636fe9276630234b0d5af099aabef6ac6548757db",
@@ -14468,6 +14472,10 @@
       "sha256": "2515389ad3bbb0fbefdea50e494bf9109ef90c69ad675d10aa6fcfb2b57f6ee9",
       "url": "1b/08/0b7d02d0b68d9a978ba3a3a8ad3ddc5b10e5c65db8f04e720ecb907eebca/mypy-boto3-workdocs-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "0bb6a16449fd22340fbc0e40fb6bb11008f6a28469eba5036e25df40f31d83ed",
+      "url": "85/07/fca71373240e3cdb0929731c13aa28db27e1c851b4c82de5e130ec8c410f/mypy-boto3-workdocs-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "4ee7a78efdb93d28ec017550aa464faba4bb62612b6fa4eefe1e63ac0edbb551",
       "url": "15/a0/7dff44f8d1afa90d71e2cb659f3c552b7f32a573cb25975d89d597f02ad0/mypy-boto3-workdocs-1.12.5.0.tar.gz"
@@ -16151,6 +16159,12 @@
     "0.2.2": {
       "sha256": "8788d2c70e123ff58de4558e4ceb815d9fd6bf030933ca99f5fb72fb2c903885",
       "url": "6d/32/cecdb00a09a51d1657dc84545726a4cd24441bacf6c99cc41ca93a27e813/OctoPrint-Slack-0.2.2.tar.gz"
+    }
+  },
+  "odin-ml": {
+    "0.0.0": {
+      "sha256": "cdb392963da94fd4c9efa5e4c3dac06a12f241d116c2ffa58d2e9247c197e81c",
+      "url": "05/c0/d4273b77cb75a0b5023832e01f75490524eeedd50a1ef5e972c04b6644e9/odin-ml-0.0.0.tar.gz"
     }
   },
   "oly": {
@@ -19033,6 +19047,14 @@
     "3.1.4": {
       "sha256": "1de72895072c7f27253d97f62f8fdf8695b69ab7f59e8adf4f8606e7b2e7c888",
       "url": "46/3e/8a7ac5fc8eec46d1105070020a1f3a8e8eb124b36d1ad693e78c437d1767/pvsfunc-3.1.4.tar.gz"
+    },
+    "3.1.5": {
+      "sha256": "e06b6d989000eb18647e9db194b2dd8775d39c45322d517b1b3abc5061c685f1",
+      "url": "c0/08/52c1a0c2b89c4d30df6638df18dd2fc0b1ef1c6a7ce925960fca732a5604/pvsfunc-3.1.5.tar.gz"
+    },
+    "3.1.6": {
+      "sha256": "ff5befb7f4e4c68662723544286212460d92efdc844b7646b1831e0c8f420fa3",
+      "url": "a3/2b/b456964507a33759c6dc751546e0a7673899393a24f2aaedb93addd32a37/pvsfunc-3.1.6.tar.gz"
     }
   },
   "py-dev-common": {

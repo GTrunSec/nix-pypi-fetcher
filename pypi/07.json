@@ -22845,6 +22845,18 @@
     "0.3": {
       "sha256": "53bec4446dea9d0263e873bf04c124ebafea7fb87c182193162adbeedebe2eea",
       "url": "a6/6f/a6730fd9350587b8471a304a20d01b2173d70b883ebdfd418ee8309337f5/svd2vec-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "48114e794a4282ec4c7a911f72aa75cb35e9a052e0067fa27f857af5e6f7068a",
+      "url": "bd/18/c5a70bea7d70b24b501e2877c5fd39639f5576f0ebde51537a93910b03df/svd2vec-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "79e2e7c2e388895a39dee53a44010a9df0a72b90d38254f0a0bd7a7e6f9bf0c7",
+      "url": "1f/4e/0f9812113c35f0455d1bbc913b49670b57654ccf8621fc67d854fc7dd2c2/svd2vec-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "9c3b5fd3f85e470187af009c46037575575104816383a3da9a8a2a377c78ed05",
+      "url": "c3/e5/bf502f040c009e92815616147fcf20b71fcddc084cbc3264b2c2b39a159d/svd2vec-0.3.3.tar.gz"
     }
   },
   "swiffas": {
@@ -24133,6 +24145,10 @@
     "1.2.0": {
       "sha256": "56cca94ed2fa058ae335552f9621b77536a361f9c30593f8655871ff18a03c0b",
       "url": "5f/0d/8f9c08259326eaa85602919dedca1eff066fe6ab9d0c5a3ed30f698a60a6/watcher-tempest-plugin-1.2.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "e2df8ab738258ce11beb12694ff09406d7a673c3684615731e06576f5e89c163",
+      "url": "6f/6a/5bcb47d34a576c83e5f805866116cce3c84f2a9a5c03378b3130cfdbce93/watcher-tempest-plugin-2.0.0.tar.gz"
     }
   },
   "webviz-config-equinor": {

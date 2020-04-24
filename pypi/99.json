@@ -15835,6 +15835,10 @@
     "0.5.2": {
       "sha256": "bf10ec336d3f7115e555135f9e0f4659f8cdc933409dd4093396d929c57d51e8",
       "url": "ca/5f/8f57d73de126115c74ef5eba42949e794f23de93378c29fb7f67e84c92bb/pesummary-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "0885bb042b392a8bfcf25fe99cc03de046d16383652a7ebefd3298974f1249df",
+      "url": "1f/b3/6564fb0fad6e814ca07da4c31a1c55ec54a31ccfb764a25fad524597d55c/pesummary-0.5.3.tar.gz"
     }
   },
   "pgconn": {
@@ -16805,6 +16809,208 @@
     "0.1.0": {
       "sha256": "2363ce73485d3de3acd3dc0b22d6d4b032bde8e1afd3692e68cbf7c833eb1df1",
       "url": "10/2a/3826f4754c5853626624360962cc8b5061a409f0e2c73069785ac926dc79/pubsub-split-0.1.0.tar.gz"
+    }
+  },
+  "pulumi-mysql": {
+    "0.0.0": {
+      "sha256": "34b1f2d8c544aa8451f0d295b62cfb0012374bf87a1ee7cfac9195dee6621ddc",
+      "url": "60/8c/a9f46cf4ed6db84e69231536988a420664ab4c4849a4787ef823b24f9ab2/pulumi_mysql-0.0.0.tar.gz"
+    },
+    "0.0.1.dev1557421621": {
+      "sha256": "4d858914971a001e607841be93d0c4b5d18f5643eaa464110d4d6dfb39bcacfb",
+      "url": "6b/73/cb80a0bc095ff50efddcfb9531e3afe3c669c5fea2cef79a58496df0d6cb/pulumi_mysql-0.0.1.dev1557421621.tar.gz"
+    },
+    "0.0.1.dev1557423434": {
+      "sha256": "db9624fca0ffdf5cd7858ebb2aa81c2517ba8922914c254ec1a289fe39c7a304",
+      "url": "54/ca/fc47bffac9bea88ec42c6fd7b6e47eff0bf17a3f513ae547f86b79f801d7/pulumi_mysql-0.0.1.dev1557423434.tar.gz"
+    },
+    "0.18.0": {
+      "sha256": "dd15bd8821a432c8bcc70145735c131c5933fc75363b9362d6684f1746f68eda",
+      "url": "0c/8a/524a447cd3fa7da902f28c08ff0ceb2f0f8566cd3b80e68cf492e790e5ce/pulumi_mysql-0.18.0.tar.gz"
+    },
+    "0.18.1": {
+      "sha256": "19c7ab573f0bf2458f198a80abb98c84b4ec9eff7ebeeab086db934528e46b1c",
+      "url": "0a/c8/3f7b5de3bdf3a89faa5b2aefcf1d5a275d38838d00ed4ec148f8c2fe2916/pulumi_mysql-0.18.1.tar.gz"
+    },
+    "0.18.1.dev1557530370": {
+      "sha256": "7da2a8037f8ef9c84da6570c49149f08a60287ca9aee1dc1a18fa24849a08db3",
+      "url": "83/14/27ae55b334772ea5b09a4a156e6e96e6fbcc151b36dfda6700845fd28c27/pulumi_mysql-0.18.1.dev1557530370.tar.gz"
+    },
+    "0.18.1.dev1557880887": {
+      "sha256": "d9730bef47aa4d3ba12f07447d65e766103e2760043b75a2e424fd42a3f3005e",
+      "url": "2f/48/dee05ac43226ad832af60812b7ca328f80b08a395d568be8c650c64e4be2/pulumi_mysql-0.18.1.dev1557880887.tar.gz"
+    },
+    "0.18.10": {
+      "sha256": "d7acb000a7af8b9659f56638761397ee4a3480ec6ffb8bcccbf6bc92d8d0e7bd",
+      "url": "a1/48/3af159d4fb85c02e28e2e477c398573450a06308067f1acdd2b9d2742df7/pulumi_mysql-0.18.10.tar.gz"
+    },
+    "0.18.10.dev1567076701": {
+      "sha256": "fda565649b97180c966bd95db9758761dbff5cfecb234b76308cf104395cb6cc",
+      "url": "0d/ab/bb0d78c66a1f13b346ab855ebfcac3783ec11a342118603ad876651a3b8a/pulumi_mysql-0.18.10.dev1567076701.tar.gz"
+    },
+    "0.18.11": {
+      "sha256": "f444fc44cec63b5c914d0e4b45b27308cee0704551a11e5684f5f54780f9203f",
+      "url": "11/5a/df38d801b31afe5f2627f946cde7a5f4ec17ba0df5a3ddd16c8994a6127f/pulumi_mysql-0.18.11.tar.gz"
+    },
+    "0.18.11.dev1567547018": {
+      "sha256": "32aee6cea34b0be98adea1348c7a3b05a99fc69900b4ba1b50d36c7ecf474e5b",
+      "url": "95/8a/c26cc6807445440e64dab152f67f4e22f005e71b790529be803da0e59a15/pulumi_mysql-0.18.11.dev1567547018.tar.gz"
+    },
+    "0.18.11.dev1567633626": {
+      "sha256": "d89f145a0891435fe21e1cd30a0c26f9e1bc175dd7ae0e576b9a9dd2f395ebae",
+      "url": "e4/03/6d167b0d0e7d351e9e82c7ce81e81fcff9283c15cfc8f3b199bca7a6d4a2/pulumi_mysql-0.18.11.dev1567633626.tar.gz"
+    },
+    "0.18.12.dev1567720422": {
+      "sha256": "2294f252264c20b329d034ad717d14ebb9a60b9cb7c18bb016b1af02ec714a9a",
+      "url": "ae/8a/b128797da9d5de9763ea73e7e494da6d9045af9406096a34e49907163526/pulumi_mysql-0.18.12.dev1567720422.tar.gz"
+    },
+    "0.18.12.dev1568407111": {
+      "sha256": "28b22b6e050a72ec38e0ff1d1315e1f50708960d8a108dab482773afb3740993",
+      "url": "6c/69/1566b0f5bd9e03e35096a4f2f99245bb4e5b999144f41face03156f0fa3d/pulumi_mysql-0.18.12.dev1568407111.tar.gz"
+    },
+    "0.18.2": {
+      "sha256": "4af24e2c156e92d9666e85bee88ea348098b58a1268be10154e9f0f0e07dfa4a",
+      "url": "54/4b/38f38851d6754d58712b61a5551bb5fb50b0b8a7e06abd3748a46c9f1142/pulumi_mysql-0.18.2.tar.gz"
+    },
+    "0.18.2.dev1560800779": {
+      "sha256": "81fa34626a2265e8758f4295b831128fbffeec2c0beeb20131d33196b09181bb",
+      "url": "39/cc/289d37c8c044c4808573f97cb31118a601849c87910dd3108bc189447eb1/pulumi_mysql-0.18.2.dev1560800779.tar.gz"
+    },
+    "0.18.3": {
+      "sha256": "66f917d1c99734915391a2d2b5b1da4d147866656f52d69aa917c28c4788563e",
+      "url": "e6/cc/b4be3d7e19e59e4fb2d5f6554f9c50e1a9885dd87dbf7559cdd4fa2dfff0/pulumi_mysql-0.18.3.tar.gz"
+    },
+    "0.18.3.dev1561142412": {
+      "sha256": "0568f91e59247f5be127abc9332e59847263d4457449e29014dc49b4ec219289",
+      "url": "00/3c/26d3478ad23e342a6ddb0a1929ecb5c0020a463dfd1d1ccc0518c8064b8d/pulumi_mysql-0.18.3.dev1561142412.tar.gz"
+    },
+    "0.18.4": {
+      "sha256": "7e86ce5ca5c8245ba3054563e3ffd4469d841fb80bbc1ed070a3de8f3e16cbe0",
+      "url": "44/48/17ca054832f83ef89289e381fe8c0ca4cbadc435158cdc5baec766f23376/pulumi_mysql-0.18.4.tar.gz"
+    },
+    "0.18.4.dev1561715272": {
+      "sha256": "01718e6d814e0b84f3fb5a564d45053c8169b47ddb02d9888d4450335645e1da",
+      "url": "44/bb/5c98ec70aaa49f94fa48fb440cabac2847ff9ca56f42dee62b0914d37407/pulumi_mysql-0.18.4.dev1561715272.tar.gz"
+    },
+    "0.18.4.dev1562579857": {
+      "sha256": "f2451849707053c55d95ae3599f4b778e5de17ce9ff3f04139560846d03bb827",
+      "url": "8c/d7/9d6c82581b040e69f40439effea5ab06b85b943d1a4bc1b5cf09f9a5271c/pulumi_mysql-0.18.4.dev1562579857.tar.gz"
+    },
+    "0.18.5": {
+      "sha256": "ae61285e79f27173f23194077c90fd9448a6f63299a8f552c32170b37927580f",
+      "url": "d7/e3/b3ab77c492f4ddab2526b6aa51382dd9d0194ff1d813c9c8b751c88cb228/pulumi_mysql-0.18.5.tar.gz"
+    },
+    "0.18.5.dev1562655391": {
+      "sha256": "29b12234c504ed44c11e6314c39ba5b8f596a6f05a3e4030ff3d62b3d82efe0a",
+      "url": "94/6f/769105312370003ba8d8ceac2d8f6c43bf5bc15cc630b3e491ff7a51653a/pulumi_mysql-0.18.5.dev1562655391.tar.gz"
+    },
+    "0.18.6": {
+      "sha256": "1d3d565870df121155b307e486a85c3c9a2fde59d4b118b044696961bbcd607d",
+      "url": "82/af/716fdb0618372eabd9ee5a9fd5914378e39ec3fa41e590135643f224a13c/pulumi_mysql-0.18.6.tar.gz"
+    },
+    "0.18.6.dev1563296678": {
+      "sha256": "8ce3f8e4297665c2dbc78855ae651481764cf671ecf75ad535e75149f22252c5",
+      "url": "b8/0c/c2e2e6651e32d3bc017151203b6b38dce2a037a3311118567b616024d09a/pulumi_mysql-0.18.6.dev1563296678.tar.gz"
+    },
+    "0.18.6.dev1564002436": {
+      "sha256": "32ba3939c0951440da09dc06b01aeb12b33c41a1c08a0bfb29abbc5adbb077d9",
+      "url": "a5/dd/27ad52e9da7541c40981332cee64d96f448e0f1c43b06b0fb1309701afb2/pulumi_mysql-0.18.6.dev1564002436.tar.gz"
+    },
+    "0.18.6.dev1565076894": {
+      "sha256": "bf770b5731d752599c7bcc9da6be4a765d1ef07400186928b801f70b06128244",
+      "url": "c1/e6/a9cec1939763a2e12a221e056a6702321e9f2e9cbc08f26cccd97c234f3b/pulumi_mysql-0.18.6.dev1565076894.tar.gz"
+    },
+    "0.18.7": {
+      "sha256": "c09553b3876b7a6da41ccd449ab31350fe1af78f264ac4d5b0476aac736107bb",
+      "url": "0d/a8/be6c9648a697836b5bbbe403b36be30512ce470c79f1f537495ecb7b7d6b/pulumi_mysql-0.18.7.tar.gz"
+    },
+    "0.18.8": {
+      "sha256": "eebb8308aa91e2322aa977d850be2c944aab0448f5645f856efd700170699655",
+      "url": "1b/79/ec0a83dbb22022e5a2fe905123b51c2f0e7cf049964c75f12bf6d892e944/pulumi_mysql-0.18.8.tar.gz"
+    },
+    "0.18.8.dev1565353903": {
+      "sha256": "e5cd5b9aaf11de2b99e0a223b9eaac861f0cb5356c7d1793a9a4c6f0775511a4",
+      "url": "92/93/32374e0a6c9b28da78cfd45b846306f8d55f37c632c6b94e5e26c46227c9/pulumi_mysql-0.18.8.dev1565353903.tar.gz"
+    },
+    "0.18.9": {
+      "sha256": "d46eb4bc6abb8548bbf28809ad41499a898a1954b912699b8ca5f03288345d44",
+      "url": "1c/cc/96080226338958c3694dd60f866d6f2b23e34ed5c85f3d606050678624f9/pulumi_mysql-0.18.9.tar.gz"
+    },
+    "0.18.9.dev1566349691": {
+      "sha256": "65ffa13ca580ab3f7be249920af10799c8071c31b0e3121971380f2f6171b7e6",
+      "url": "a1/ca/815d85f221e8078928681634c3e338602e134a8347a579c4ededbb26a227/pulumi_mysql-0.18.9.dev1566349691.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "96498ed8fdf5928215e7007b9f31ce9d5b89059169e5561c6baa701c55aee105",
+      "url": "02/1a/87475a399436a3b1def4b4fefe8ed9dfdd86d9cc9f2e50ab3a7fba2981bf/pulumi_mysql-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "e4f8446d4656ea12635c2fb961d38d2968879e702c41a914a014e69775a110b1",
+      "url": "b6/73/e609cced826e6730c13d9dfe9723b1026982d7ca54f2f1ba39667e69f608/pulumi_mysql-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "abe9a233a5f25ab86b14248caa6cc152dcd0cdab0211b0fb62721e3bc7a0a711",
+      "url": "34/2c/b586f8901f797819bfc81a14006b1b18adeaf10da46d0b4bee3c6a7bc809/pulumi_mysql-1.2.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "ff839dc4c82c7f526522d8ee087e3d37b5eb312e9f747743cee1582c34d7ddb8",
+      "url": "08/cf/bcd73ed8a3e49494d4d77238a0363eb9099157285335884f9624459c8006/pulumi_mysql-1.3.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "58bd7c5a16cac35c8c3d1000ae088fe2fd8e5d7b71db38626823adcd6a42b563",
+      "url": "16/ed/ba15cb780be7467cd9c692de7c046f0b3216657aceee217b30ed11211cd8/pulumi_mysql-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "a1760a25be4b4b5c357b4574fbd84f81e89999adc4b0766e4bb9037a6b3648d1",
+      "url": "43/80/13b58f9bb295c5096038e8a09be41d5653b5f5bfc70f537ed8449d0600f5/pulumi_mysql-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "620b2983b0d7f55f51609732b2fddf4414184de2627393c48b31264dd029153f",
+      "url": "61/27/9d6f00a9f5da29b120240e1da15042360118e4e44669f62ed94dccfcec2d/pulumi_mysql-1.6.0.tar.gz"
+    },
+    "1.6.0a1586211095": {
+      "sha256": "13e1e913b324e22721dfdbab15b5bd156447e504e9f9d955a010f06b17b3e58b",
+      "url": "55/02/ac20517b965b881daa9ef17ec524737f07cc3cb285bea41e27ead9368547/pulumi_mysql-1.6.0a1586211095.tar.gz"
+    },
+    "1.6.0a1586282025": {
+      "sha256": "283203f3bfd6b66a898e19259fc6bae14015e4f2d149eac5f0fe183df1f977a9",
+      "url": "3b/59/9d5855405e6b105c66f764c7d8151166ce9bf54723b41337e6ebdb89f620/pulumi_mysql-1.6.0a1586282025.tar.gz"
+    },
+    "1.6.0a1586449308": {
+      "sha256": "7769b7e58bc9b67c69a2152dd6584dd46edb11653b53b80241fbef401df1e0a9",
+      "url": "26/b3/9dfe4e43232db83fba3e21757df11b03a78c617cb0de629133e6edbf727b/pulumi_mysql-1.6.0a1586449308.tar.gz"
+    },
+    "1.6.0a1586449568": {
+      "sha256": "748bca8edd3e2e1b0728766563bdf566b9bfbd706c4af3b9c81bfb155b2895f2",
+      "url": "02/25/435bc9d5739ede1a27fe647bdc1e8d1835dd84765bf77e60ca5ab67a3524/pulumi_mysql-1.6.0a1586449568.tar.gz"
+    },
+    "1.6.0a1586548462": {
+      "sha256": "ea340bb23c53a1efd115ead3d8f4f71ccf19ecf8093cbc2f606ae3d590304ddb",
+      "url": "1a/44/30e26dbad6a22e0ee90d4dcaa7fb4c4dcb0f941c55f6bd6eeae9b410f550/pulumi_mysql-1.6.0a1586548462.tar.gz"
+    },
+    "1.7.0a1586905671": {
+      "sha256": "746291dfa9739da353c2282fae8e3e26c995ccff538a72697d565d6772af1b2d",
+      "url": "80/a4/1e2a37bb0a0fbf542b57c28e3106ce116b3534cf82364f759f3f398d37f2/pulumi_mysql-1.7.0a1586905671.tar.gz"
+    },
+    "1.7.0a1587155888": {
+      "sha256": "e99d7c63735d5c3b525223ff6f36f6ebfba923da27710e8bed00020fc1352c5e",
+      "url": "fb/4a/c812c07570b9faa71f1578cd84f1b2b6ad97bd784c06cb4ec44ec75f2b08/pulumi_mysql-1.7.0a1587155888.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "794a5a855b474b2cd9f3693a924d004623e167a2e0f979092413957258ca1a96",
+      "url": "80/60/397320a5c4248baa247ad6a0cb521985a7d65fabcd63a3f02de5dae0fabd/pulumi_mysql-2.0.0.tar.gz"
+    },
+    "2.0.0b1": {
+      "sha256": "621cf1fa689d2384c51db4afa0e1070129ba0fbd42a47c13a74440123cde1031",
+      "url": "6d/95/3209378fd34838d4b9304bda7897f763b97004081d4e9ac1e3979c8c613f/pulumi_mysql-2.0.0b1.tar.gz"
+    },
+    "2.1.0a1586904767": {
+      "sha256": "b1dc88ba4266dd87c2f03d095f556b55ad0b03f0b92c081b8a4af77167de3012",
+      "url": "28/97/d6fb1ff511565b4d82f60fdcc016b4ca1e7fa300ae5252bf66c170d15b79/pulumi_mysql-2.1.0a1586904767.tar.gz"
+    },
+    "2.1.0a1586904850": {
+      "sha256": "00b8cbba4ef395d6a7f2265f24c15842b6b507368c0e30ae7e3316156d1a765b",
+      "url": "32/fb/d0f48dc2b007871b6c2df80f0515560606265fec961e5cfec9052908dd08/pulumi_mysql-2.1.0a1586904850.tar.gz"
     }
   },
   "pushcoapi": {
@@ -20631,6 +20837,14 @@
     "2.0.1": {
       "sha256": "515d149d1851fa1e4579ca97b8301222c49568667ebc642dba853c4f8e09d347",
       "url": "e4/8d/ee2dbe0c90574d86fadd602ff720bdfb11a076464ff778050257c3236f76/safer-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "b6d3bd666915f2c546c0bddb5242ac1ba6057b11b15a4eff6e13b00e8d4884e1",
+      "url": "c4/cf/daaa226a7beea8e91eb59676ca5b98b7c1a82084f8912709e742fefd6f33/safer-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "af6ba6083b142024b55384129ef07a6f6f4fb219df8ac066087e6e68252c5603",
+      "url": "45/67/aad67eef3ea3d5fe41395c9b9ed65c222d25721e3581baa70b8fa15042cd/safer-2.0.3.tar.gz"
     }
   },
   "salary-timetracker": {

@@ -2040,6 +2040,10 @@
       "sha256": "2186fca030ec6a4b00c5def1d7b86346da10eef41ae17b18f912621016f9196e",
       "url": "82/f9/abe11fd66872dff5104983b701dc58e1954a853ffc6776040aefbd15063c/boto3-1.12.44.tar.gz"
     },
+    "1.12.45": {
+      "sha256": "100863bbf7685a41b5f5647211a1e613fdb0c2fc05541de651859a9ad96c418a",
+      "url": "95/09/d39f24dd5ffa1d36888d0a2bef7bf7c541e97e62a2a0cc8608b193d89cf3/boto3-1.12.45.tar.gz"
+    },
     "1.12.5": {
       "sha256": "627a0c2366e420383065d9b191fa90a315a4d394fd007c2a85cfa5afa93ba974",
       "url": "bd/b3/d0384675df8e16d527b986fcced30ff371652f2945f2fb69ee7fc41ae860/boto3-1.12.5.tar.gz"
@@ -14357,6 +14361,10 @@
     "1.12.44.0": {
       "sha256": "da0333fdb33a7264895bd0b1a5dbc1b235d872b987f7d7bda89dca3ccf25ed1f",
       "url": "5e/ed/26934478ac248201a64e2078c554a0ba4ee618aefd7c323d8b070a5a617d/mypy-boto3-application-insights-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "33dabaee0c7cb7347814d3329e83c9d69fc9f1778f46214587aa4f11f80b8536",
+      "url": "32/47/6f964bfc73690e52f5740afd4d5c9a36a551d712684f06e207a383ba107b/mypy-boto3-application-insights-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "654df6837fa8892275b3200d6aa5622edb515be50227fc46290804d714b6cc7c",

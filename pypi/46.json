@@ -1029,6 +1029,10 @@
     "1.4.0": {
       "sha256": "e0cea5a0e42d26111b4f6ea8e37984d21b84e7168477ba0af7d9cdc8dcab077a",
       "url": "d7/50/269d0ba4e86d71657e9dc39db876b5be86afdc00f06b30298185c0b03b53/alephclient-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "0a704b840e43295a001f77597c72c310f68bbb8451bbb2f5994647dcd5c85209",
+      "url": "c0/c2/4d7ce298781a773b20823437de3013f304060351d95a6825a1494e89cd39/alephclient-1.4.1.tar.gz"
     }
   },
   "aliyun-python-sdk-dbs": {
@@ -3655,6 +3659,10 @@
     "2.0.3": {
       "sha256": "8792c8df2c984baad24f8be36df4aa50beaae71e4d0558316519e9c988a6c7d2",
       "url": "f9/79/d358908693121ffc5ba0ad208bdc290e8e0c49a3098fa93ce6d2ddb6fd78/CMRESHandler2-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "2e52b7635ae689913ffdf963f5147c9daabf176d533b793ccbb8530ff4746607",
+      "url": "47/1b/e1710d0081685017b90cac7d8e4a7a9544bf296dfc9f79e480684ce99686/CMRESHandler2-2.0.4.tar.gz"
     }
   },
   "cmsplugin-yandex-maps": {
@@ -10215,6 +10223,18 @@
     "0.0.1": {
       "sha256": "d137b622721e2880f50be9fda62860bd346dd9044534759661fbabcad83aee44",
       "url": "95/72/1e50175844bf7e89c977b34586ca8966656e726a87050824fe43d0540c98/hedaro-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "97ae78a95c2c50b47173327a78179021205179e7e296722fbdc1b0d2281f210e",
+      "url": "8b/78/cf07d604128b9890ea938d495ebd71168cff6081531823c204cf25061550/hedaro-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "dc90687b8f2a6e56b299638961434f1500f90b2021f2a0f9259007b981202d4e",
+      "url": "c2/80/0886ed3aaf852ec665c97f61a7301171cdc7b9def8f842a7f9cc93d7f1dc/hedaro-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "e32bb60ffd111ac7f578e590fbe865493add078c79c312b48f719cb40f3559d5",
+      "url": "30/af/4247558f02cae5f1a6815a7a8795b37326049a3d5f8976058e43a13edd6e/hedaro-0.0.4.tar.gz"
     }
   },
   "hein-control": {
@@ -11023,6 +11043,10 @@
     "0.9.5": {
       "sha256": "335243fa501286f22de75f28d28c5537f5bb5dc2985719fe878a2e1ce90446d1",
       "url": "d1/7d/bea19fd0c5ff0fb6181425eab5dce5f472110ae75c20e637a3e795feba6c/ircstates-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "8a65132ffe29243a0df1d4a5d22fdc35211224e1a60070efa8f2005920de92ed",
+      "url": "d3/50/9fb5ffdee98ef4e96e1efef3d8ddc314af0f9be79c4f1d50da93fe8ca633/ircstates-0.9.6.tar.gz"
     }
   },
   "isa-rwval": {
@@ -13039,6 +13063,14 @@
     "1.3.1": {
       "sha256": "fdee1576f77529d304ee15dfab6353927381fce43fa36adccd3b4c315b271a67",
       "url": "9e/31/1b3075a5a47e410225ee60be7e2a643241f0dbf41f1c827dd906c3400183/larigira-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "07b0938b067256bf0223c2ca4998f48ff8f1e27c9492f6a141b1f93b2b19d19d",
+      "url": "3a/3a/fba24d7259e67702ed3953013a78ae946b45dd4aa578b8afa029061d5146/larigira-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "d417d1f6bab164ca323b505cfc320e923142f113df8cb1a7e441fab6be2cbc2b",
+      "url": "7e/cc/d4d2efb063dc956ebfc4c27d0b44571d94b4cb9e4fe32fe6f3759511c24d/larigira-1.3.3.tar.gz"
     }
   },
   "lazy-load": {
@@ -14710,6 +14742,10 @@
       "sha256": "b4eb2032c347c5bf763670df1ef50ee92d4f6c9103e85f200e66fe9c7b73a83d",
       "url": "ad/4e/b88311b1fe31793a1d759ff608ce12eca5f255bd1b0df8e8a0ac06eb11ec/mypy-boto3-forecast-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "0ef553f3ad09497f95ffdb7206f49aa2e2e603ddb59914d71fcaad7fddae9c13",
+      "url": "07/44/1c4812915b603e619e632d6c46fee9beb28225273a23b598f57cf592b9fd/mypy-boto3-forecast-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "86d3c3fae1305940c85b115659ae635bb9b3611fb3b2e9cd2a54204f5c40433c",
       "url": "9c/df/09571b2784c71d7c42ba5c8833b7b813da4874d0b45da701942a9fef0e2a/mypy-boto3-forecast-1.12.5.0.tar.gz"
@@ -15224,6 +15260,10 @@
       "sha256": "e565aaab28b1a33fb2cd8b2fdae925b30f9542263dbd51165cb877fef403bf0a",
       "url": "d6/69/20ca38bbd71dd85f2f403ff2bba7a14ca1b04e854529b343f238cb3da3d0/mypy-boto3-license-manager-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "713008230ec215b5a3bb3dafd0f7eccc2448995d0c466642cd3926cc99a5ad93",
+      "url": "ad/08/4be2600c3c8af2f68bc34f95b806c8b0fb029e955d131035d287496f76a4/mypy-boto3-license-manager-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "38757686e41ac7ad59a8067a74c8d9b9b63ec5d0b45b5cee200d6555cdd688b0",
       "url": "97/65/1e454a01801326dbc96710c490863129e1cf7d9fc938c7fdd610a8606aba/mypy-boto3-license-manager-1.12.5.0.tar.gz"
@@ -15737,6 +15777,10 @@
     "1.12.44.0": {
       "sha256": "cff1ab2ed0734bc3ee60e2f1083eaf574266ed3029363202c25fc15acd1c33b0",
       "url": "95/ff/87c7319d6bec59c4572817c9b56a5b714dc8be25c54c3cfa985bf0d26d96/mypy-boto3-mediaconvert-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "9ef31df1d1c1f58773a31e531c72a2bf6bd4ca7c76ca82b4ed960f6c3ba06a13",
+      "url": "47/2b/f99e738e3845509ef5af3ed1f55d17807c35ad532215c454820f403121f8/mypy-boto3-mediaconvert-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "41e9114d749e8c5fd1034306305e90aea3147b446a43f3e4612487517f1ad9c5",
@@ -16749,6 +16793,10 @@
     "0.0.1": {
       "sha256": "ce96aa2294e949b4cd6aae7cb73e72fa5aa15fe3c5e93e54da11c24e3c945a79",
       "url": "ce/66/12dc6937b3609b5e491142007ce10d406cb2046aab317d6b863bee5acdf4/oresapi-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "2cfad8ca6a2bfa66f8ce2b8e64cbaa36542ff15857467ed5c0053a922977adf4",
+      "url": "1e/cd/a8c3042c08abcf23ae9e2b4fe5b252ff65ea09def9a629d2c1a69acefa84/oresapi-0.1.0.tar.gz"
     }
   },
   "osc-controller": {
@@ -19383,6 +19431,10 @@
     "0.2.0b1.dev1584989080": {
       "sha256": "6d648122936d43c23f3f81d844709e3d31a34387fce0280e0a96066f6804e33c",
       "url": "cf/87/fb18e3600b8dd6b18fbb8d2ac729b91026f7e0c7fb730d81639161180f6a/pulp_2to3_migration-client-0.2.0b1.dev1584989080.tar.gz"
+    },
+    "0.2.0b2": {
+      "sha256": "9ed3d6fe21a36e61b7b4569c4a3f317cfe4cdf34196abf4d0c71ab1240332223",
+      "url": "f4/44/d8066d8b7079eff95af62add32570bce78ab63c7c7df3c164a56db99e47c/pulp_2to3_migration-client-0.2.0b2.tar.gz"
     },
     "0.2.0b2.dev1585075425": {
       "sha256": "cf0316dc8e78fadd8e3117d0c7158a08a33269d3f82eb283ebc87baa50bbb6c1",

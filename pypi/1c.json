@@ -6101,6 +6101,10 @@
     "1.0.5": {
       "sha256": "c85bd98581a47b575051bf3a565e10779296f6eec73133c120eaccb881664e3c",
       "url": "3f/e3/32355946db11c347b0e7f027f916507533fea3fb52e4a5390fe7fd830961/datafushion_plugins_python-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "558739affe3baf976a504a88868544105025123f9d564a82497740dfc6be0e18",
+      "url": "38/2c/0c3ac68b1c037fb9550346bc6b5b003a936eb57a327fd687716fbb301922/datafushion_plugins_python-1.0.6.tar.gz"
     }
   },
   "datagram": {
@@ -19159,6 +19163,10 @@
     "3.4.0": {
       "sha256": "26eaa69d39ecd3dfc5c5d6daebf9be557d91721095183eccfa4e6000597d8f6e",
       "url": "2e/2a/d1fe9dede80e27ad73af3d271fa58bcfcd225a8aa019f1138b01769202b8/pyndows-3.4.0.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "76d251593005acb472eb669e7dd75d616bd698752ac63d9eb0df7e16bb6a673d",
+      "url": "3a/93/f60350636fcb8ded83ce9e7c7c39870d0bffa9903221689d10bfc18426e5/pyndows-4.0.0.tar.gz"
     }
   },
   "pyobjcframeworkquartz": {

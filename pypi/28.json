@@ -3621,6 +3621,10 @@
     "1.4": {
       "sha256": "b12154f634f37909871166f8319ded2a62873b8dcf2a7f4c57aa7fd1349911a3",
       "url": "c3/fa/03b15a501b5b64009d0610d58968623ba38a1608272541b77b7caa1080ba/collective.eeafaceted.batchactions-1.4.tar.gz"
+    },
+    "1.5": {
+      "sha256": "6a922c1c00b396fc9a30449c3eef91d8460183c4cafbbb3f54c9dc9879c08121",
+      "url": "1d/07/5f4c010bd22691de78a1a1792023789fa8734775d6ec60642a4eb9b24a12/collective.eeafaceted.batchactions-1.5.tar.gz"
     }
   },
   "collective.freeze": {
@@ -5209,6 +5213,12 @@
     "0.3.0": {
       "sha256": "101c30f355d62ca15512be01964123b5f0a7b034e4b108f140756952a50bbd02",
       "url": "47/dd/a06ac7b680259019d7aba36a3b977244c0487c42a983bfd38d0b28b65612/datalad_neuroimaging-0.3.0.tar.gz"
+    }
+  },
+  "ddb-cython27": {
+    "1.4.255": {
+      "sha256": "f8dfe303066fe5097d102416a677ae280e10411e1ce3a1227692d8dd4579597f",
+      "url": "11/fc/78950dd96350d41cdf8141a51b27ebad1cf756d909b4533566369f53a572/ddb-cython27-1.4.255.tar.gz"
     }
   },
   "dead": {
@@ -8447,36 +8457,6 @@
     "0.1.0": {
       "sha256": "bec7750203a78389f6ea31959c03fe1c2ebfc678593606dac02d792afcbf27ce",
       "url": "09/db/c76b81cd64a229b05ba91004dddef8259ca231d4e032b92b61cd7e7a529c/garbagetruck-0.1.0.tar.gz"
-    }
-  },
-  "geektime-dl": {
-    "0.2.1": {
-      "sha256": "429b5444750f5fcb1a696babe4e83a265d97134ab166cb112116204d7335c550",
-      "url": "ff/15/00f6672c22a7fc02301f9414712952509c059c287f639da2658d904beaca/geektime_dl-0.2.1.tar.gz"
-    },
-    "0.3.3": {
-      "sha256": "b4e80f3f8ae427d962801f760d399e407abe6c9ef51698604e7d4fa950d4ea7a",
-      "url": "95/2e/0d2ba514f70f14efba9f791df8f41375b440aa3893217ccaba85968dcaab/geektime_dl-0.3.3.tar.gz"
-    },
-    "0.3.4": {
-      "sha256": "71fa82a227866c2884c4d1146d95d2a1d2bb7bfb7830355321e0fb5613866f75",
-      "url": "8e/01/3f105f9ed5f19b6f7955509a879b36b4a1c0571e11c2acab6d2458ea4d84/geektime_dl-0.3.4.tar.gz"
-    },
-    "1.0.0": {
-      "sha256": "4af6acddc49b558c0478139baada907853660bf86210b770d7518dc9a48f47a1",
-      "url": "8f/b3/8c6a8ed332134fea25f08655d76e36e2761a586dca3348487ed34c1acc36/geektime_dl-1.0.0.tar.gz"
-    },
-    "1.1.0": {
-      "sha256": "7b2d5b995ebdfa34dbab31575191e1789caf1584927dd943cc42bb6ea100a0db",
-      "url": "d6/30/cef333fb1f85b20e28d782138c2589ac44a09e6ec464070e938e66bf6a6a/geektime_dl-1.1.0.tar.gz"
-    },
-    "1.1.1": {
-      "sha256": "baa4afcbeca5084a25b096a4d69371bc6c7fb3d1ce89996b85311b273dbfb71c",
-      "url": "d2/bf/596c6b835843d887840e0ccc3f004132ac2d8d6a60dd042104463c36ee68/geektime_dl-1.1.1.tar.gz"
-    },
-    "1.1.2": {
-      "sha256": "7bdc995b4c12406c8626d0436324ba74a697aa4f128d13e666cc1ca272f8dd40",
-      "url": "81/aa/1c8e163e2377232fe8ad342d9a9c55eb34dbbac9820160819cc734af9926/geektime_dl-1.1.2.tar.gz"
     }
   },
   "gelid": {
@@ -13002,6 +12982,10 @@
       "sha256": "758be0f19505023db37bf53ec2025521c98be8fc831349ebee1aea2486f05a67",
       "url": "05/de/a1d44c5394a846c8a004e95e64d7ee7198bbf22160b10fb401065e103dbc/mypy-boto3-codepipeline-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "58e41fa2f74f4a867dfb924cc54119ed33d65c6b28df76e57d854d87e17bbee6",
+      "url": "52/82/4e8187867cb1921acb07bd949cb8605ebe9b7660440dc2c2b4587bc722ab/mypy-boto3-codepipeline-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "cf814b8f88b48451996134d5426602519939451b7e89617abc69cc8ce577bf06",
       "url": "d7/6d/2a4a166ff424c834e9d630f345cb96cefc123be3a898fb0ea7f45e8958bb/mypy-boto3-codepipeline-1.12.5.0.tar.gz"
@@ -16059,6 +16043,10 @@
     "1.0.10": {
       "sha256": "4a06ae50cba004c33ca3d289356531d8204e0f0b0f7e83514b30d8e648f5b419",
       "url": "c7/c0/aa600090e4d4426a31d57c6cf30caec91bb7c2b6fde40238f1e79648e68d/PYB11Generator-1.0.10.tar.gz"
+    },
+    "1.0.11": {
+      "sha256": "ee5911bbc647377c404803d8851c040a895671e56d39f57a184936fcddad9ae3",
+      "url": "de/d8/59884de539a18b8087c47b0a85ab9d62aea886c09e6034e724765524c8a8/PYB11Generator-1.0.11.tar.gz"
     },
     "1.0.7": {
       "sha256": "d748dee97a7997a6505cce78c845b2d4abbddf4b4928287e41118f0e87aa3219",
@@ -19147,6 +19135,10 @@
     "10.0.0.0rc1": {
       "sha256": "a15915fe046c0d40a4b5d0682824d142f96238f96cfc3aef73a69dee56898251",
       "url": "79/c4/cbb31d45b6f6f94a8b9605057db43cea4d191bf59bfb3c297ca642fce3d8/sahara-extra-10.0.0.0rc1.tar.gz"
+    },
+    "11.0.0.0rc1": {
+      "sha256": "7fe1755127d002979adee3586808199c193097c3e658f3e2382f4fb6b3061b4b",
+      "url": "45/93/9ed542f532153608b631cf48171b740543f0edbbf74a753f54fefa1d227b/sahara-extra-11.0.0.0rc1.tar.gz"
     },
     "6.0.3": {
       "sha256": "a66781f304f4b1ba654296b1c567c5297f88aa2e6e832067af595424cb985dc3",

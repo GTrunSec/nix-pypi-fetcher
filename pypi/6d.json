@@ -7563,16 +7563,6 @@
       "url": "eb/42/3cc1fb51039e890c2a3e436402fff6a92a8c98822a811a76bab37d4ed4c8/flyingrat-0.1.0.tar.gz"
     }
   },
-  "flytesagemakerplugin": {
-    "0.0.2": {
-      "sha256": "1715a6b75624253b0669e201175dfce0ae6c669bb0012b29692f54d0d11e753b",
-      "url": "5e/f9/337d1ec95712f2e7cc5e438665f1602b248f973352b62420ec1d1a004a78/flytesagemakerplugin-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "4943bccb05e27e33fd3b134cda07cf049a371337280d32fa798019e978c23019",
-      "url": "8e/f9/a6dbefee2ba6b2ade7f570a6d852d5c14faaabd58e3a69c243ae41b3c3c1/flytesagemakerplugin-0.0.3.tar.gz"
-    }
-  },
   "forpay-client": {
     "1.0.19": {
       "sha256": "870e5aee8563e9a8a1a6af996c40f70a91d3cbcc24557f0c85b57a02cf62f7a4",
@@ -14220,6 +14210,10 @@
       "sha256": "ed4069514872d4c561106ea9a4cc6389a3901af7bb86fd706fddf02e375bc342",
       "url": "b0/0c/6236b8f023afb5aa7bd7c7913b85785ee4fa376d41234e0e326f84dbf621/mypy-boto3-kinesisanalyticsv2-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "925a29a86e0f7ab3d919bfbbc6951ffbbfbbdc0f3ca10f15587a1b2ad07ab4ec",
+      "url": "b4/60/f680562688a66c0717412a91ab045dfb8edad78b964be3ae0739ad688fab/mypy-boto3-kinesisanalyticsv2-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "6e0922c6e4442bf898e1f129ca98c9e68c0d43763cda503646c624aa07588a09",
       "url": "74/fb/e86bce0c683cf3ea349f5e6ba78e8da52be86c8ca01f53d347b7d2940861/mypy-boto3-kinesisanalyticsv2-1.12.5.0.tar.gz"
@@ -14733,6 +14727,10 @@
     "1.12.44.0": {
       "sha256": "4144be8afcd5d42b3a1f805e1ceaba2eb811e113679542bb260db7d7bcb8919d",
       "url": "6e/be/149cc379b7686035cf8a6028968d686bfe9a6c35693c80abce25d2ec557c/mypy-boto3-rds-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "361929505a3e666515b2080fb00dbcf9e319bacf5cd2ae79acda1de3df03766f",
+      "url": "40/70/7d85e36c21ffbddcc79f0dfcb0b53353e87cb49d75d18d89a4840a3cc7eb/mypy-boto3-rds-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5546aac492b1f968024c5fbe106c07af6aa0ed798b41d2343a3f38e15b092b37",
@@ -20487,6 +20485,10 @@
     "0.10.3a0": {
       "sha256": "69a6187f68210f60c582478b3e92818fecdadeb2df6f81ac3f2be6a65719de47",
       "url": "39/dd/3793e4aa42d91fcfa07732287e344a863544cb7b5347c9a0a43191bc7705/scipion-installer-0.10.3a0.tar.gz"
+    },
+    "0.10.4a0": {
+      "sha256": "fc524e2b5fb85adf42c4e3b3628921cee7782345bbef849f9062236a7589b128",
+      "url": "76/ff/f48feb7aec64acf4cb2f6a699f8307b98c51c7abd7ee546148388cf8073f/scipion-installer-0.10.4a0.tar.gz"
     },
     "0.10a0": {
       "sha256": "4a8973ec78debb45967b8ad98d1682acb1aef07d7e3bc7e28dce11a822c3b844",

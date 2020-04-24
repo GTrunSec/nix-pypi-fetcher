@@ -10695,6 +10695,10 @@
     "0.1.1.post9": {
       "sha256": "a60262ee1ea061b9e3d4ba32ce2ce423b1c2821f278d0bdf0251d27c02f724b4",
       "url": "5c/53/b27251947a0d29fccd787faa714e55a01c841b9ac80cb544f35555017686/jwst-gtvt-0.1.1.post9.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "5ecc082dd1f16d194b208826b7fae005897928a394c365dcce4df6a8e93bf676",
+      "url": "70/a1/0608c9919f185d16b9076b630071207c7bd2b5c9e50a8bda01c18fb29ede/jwst-gtvt-0.1.2.tar.gz"
     }
   },
   "kamonohashi-sdk": {

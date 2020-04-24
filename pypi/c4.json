@@ -659,32 +659,6 @@
       "url": "85/bd/284603c5e5d2c5b336877b42ef1bfb313be4807f94ebd20dd9455c89995d/aliqat-0.0.1.tar.gz"
     }
   },
-  "aliyun-python-sdk-ccc": {
-    "1.0.0": {
-      "sha256": "e26d05277904aa032bcb844954beca45ba4a83531b4dba72f7aabccb53271d90",
-      "url": "13/a3/b860b9f05fc4b6fd8952d28e3bb5d7874e4f491145b4a65cadd3deb0d9f4/aliyun-python-sdk-ccc-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "929aefb2c010da7ef91c7edb36f7f634ae063d90eb46c8000ab36525606a8f50",
-      "url": "9b/7c/db74f1b6a9b45dccacc47e33a5a65b3ac79c43070defc41e0d75f32a1ba0/aliyun-python-sdk-ccc-1.0.1.tar.gz"
-    },
-    "1.0.19": {
-      "sha256": "71ca59877a80e8fb2952bedac376afc941d628fb1ec7c4b4172175bfaaa45ee9",
-      "url": "75/73/d1d3f2c407366b453d9bc4eedba5e928fa12214b5f5f659be07df30c0f5a/aliyun-python-sdk-ccc-1.0.19.tar.gz"
-    },
-    "1.0.21": {
-      "sha256": "2a787fd27b4ee8345d97214b72a2cad7c80deb53f5ec1339677fce364e57f26e",
-      "url": "70/bc/082777f19cc51636a4c3398db9f5b6c9fa6ec78259f9bafe0fbf1ad5737e/aliyun-python-sdk-ccc-1.0.21.tar.gz"
-    },
-    "1.0.5": {
-      "sha256": "cb31382a9ecf561a7f2ee98ecfa2673e47af45b530358a022ff2ac11dd01793c",
-      "url": "2c/dc/45a191133a610e93e767ca131c683f0b41fde1b717a234fad9158e98fce7/aliyun-python-sdk-ccc-1.0.5.tar.gz"
-    },
-    "1.0.8": {
-      "sha256": "9afff7fa8502213b1bc2e0aa1aea6faac05919c8c7566058eb0477b931c12762",
-      "url": "2d/2e/7928d824e0ed15c12dbe4f1053de1272b681f2ea4ad1ff98a5dfe7e60111/aliyun-python-sdk-ccc-1.0.8.tar.gz"
-    }
-  },
   "aliyun-python-sdk-live": {
     "2.0.1": {
       "sha256": "5ac321e09a7e43794c4070678bd1727ea5679338d4feb0975b12eecca0242720",
@@ -9659,6 +9633,10 @@
     "2020.4.20.0": {
       "sha256": "2b64abaf3bc20692397e189522781633b6e79f0d7b6c710698fb93e0a66cef40",
       "url": "08/ea/64276d34d3f2d0e0f1474360a3cace815f08b58bcd9071f5e4507bdc3fea/ibmsecurity-2020.4.20.0.tar.gz"
+    },
+    "2020.4.23.0": {
+      "sha256": "b55193def171b24c31c03c73a15c10ce96daf21f135d1137e4c2934799bed175",
+      "url": "fe/ac/b9f8e4fbb082389811ca403f39ef2809a6c3ac359906d6faa411b80aec55/ibmsecurity-2020.4.23.0.tar.gz"
     }
   },
   "icenews": {
@@ -11261,6 +11239,12 @@
     "0.1.3": {
       "sha256": "c5540901ed63a559a0c6663da4ad63d6f9faa704c97b89d20a03a9548bc83df9",
       "url": "fa/25/7f337711869b0f6aeb179d725a30af49ebbce8de2a86e33144c6b0073008/matrox-0.1.3.tar.gz"
+    }
+  },
+  "mazepa": {
+    "0.0.0.1": {
+      "sha256": "f6fc28b3f5777162ed437dc074a575d989245f92da1c026e441f168807d2e8ed",
+      "url": "55/fc/1ac03d590f2c6389b31324a65df72ea150427241276327519e7f5e2e052d/mazepa-0.0.0.1.tar.gz"
     }
   },
   "mdbackup": {
@@ -13815,6 +13799,16 @@
       "url": "b1/26/ec55534bbcf18782d0f850e946bb24fdcf7467190a9be35bdc0a34cf8923/odium-0.0.1.tar.gz"
     }
   },
+  "office31": {
+    "0.1.1": {
+      "sha256": "47e414a4d3509a401e2971f7b30cd273c9fa53ebb5b115336cb969fda542dbd7",
+      "url": "67/de/12c584aa5e15db9ca9465e1e5c752a69b7f33cfacecd0abb208f1bb41b50/office31-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "e5a3dbfbf91050ee109e2a8ff6b1ea9f4e2291d4ecb27a710cb9b0704e042753",
+      "url": "72/c6/649e42f34d67ac13ef22a326b5d7f75c377dc9c9b4f4bb04aea50416b678/office31-0.1.2.tar.gz"
+    }
+  },
   "offlinemsmtp": {
     "0.1": {
       "sha256": "9796c539ec4a60f921c731bd3f2cc77476d94c07b49e0fa72637b5ec841f49ef",
@@ -14883,16 +14877,6 @@
       "url": "1b/ed/77332785a94d8de11486af8f9e05949e021236fd714fc93faf4609a91165/piniverse-0.0.4.tar.gz"
     }
   },
-  "pip-compile": {
-    "0.0.0": {
-      "sha256": "0fb628d85964f72f41dc3a0ae4bce4f89364f3151f13eb637e141af71490a573",
-      "url": "c7/67/2a9500e69882e8a9dd7a326e80038ba5803ce0225b5124424ff641156a21/pip-compile-0.0.0.tar.gz"
-    },
-    "0.0.0.post0": {
-      "sha256": "8a331217c9a5cad9ba95472873f88af7b8cdc6b824df74f68d549885408233ad",
-      "url": "88/46/9faf71e1a4b7676ede5160cb38b1e0573c12441e6136d248860bcdf0b1dc/pip-compile-0.0.0.post0.tar.gz"
-    }
-  },
   "pism-palseries": {
     "0.1.0": {
       "sha256": "9235f50c661de1464329bc81dfacdf9665d16755a96c9ab7e9eebb087889d4d0",
@@ -15757,6 +15741,10 @@
     "2.1.0a1587386928": {
       "sha256": "5a4603b956f80648fce8f126ca87afdd8af465406b47e6b9fe16f2820e36c06e",
       "url": "6d/6c/b184ea4bd8d81db577176aa08221a48d917c51b803c51d031793a9f2a27e/pulumi_vsphere-2.1.0a1587386928.tar.gz"
+    },
+    "2.2.0a1587685675": {
+      "sha256": "4f39fe82d1e1f57a53437d9012da1baf2c8e5056519fa816f69f5ec7ca3a9316",
+      "url": "f3/ee/5ff32423ba2e04bdfbf8c51474d2efe0ff0e41061b350429fed00667f7b5/pulumi_vsphere-2.2.0a1587685675.tar.gz"
     }
   },
   "pushjournal": {
@@ -19881,6 +19869,12 @@
     "0.3.0": {
       "sha256": "159f376dc51da6a481f7d0936a7a8c60ae5fdb9e26f8b16f5652d7613ee52e1b",
       "url": "55/5b/f6ba9f8d3cc0c4831b559cef5c7e5f54cc34ad54c22be46caf76730c91ed/SpiderKeeper-2-1-0.3.0.tar.gz"
+    }
+  },
+  "spikefeatures": {
+    "0.1.0": {
+      "sha256": "83ab1d27783160bc160bc3dd9ea97f3c9a230e192ba0f47437cb1e7c416a3f32",
+      "url": "94/80/db50885ffc2cece50df0266d9e4bfc8f907c191541e92b990310ce18fee5/spikefeatures-0.1.0.tar.gz"
     }
   },
   "sqlalchemy-nuodb": {

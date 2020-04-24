@@ -153,6 +153,10 @@
     "0.2.4": {
       "sha256": "0b4bb4f4e18e964b546895d06d7f4064550cee2bd52471bd9dc7b5ff1dd466e7",
       "url": "04/af/eab5a6cc7ffeb904b172ec430657745e0f0acb12ff500cebc943982c2271/a2ml-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "54c09f55b1985743681f3ce62fe9630189d414c08e7bcb1ec320a18110b463bd",
+      "url": "bb/8c/815ab99c4518d3b98e63a5398d13cf8b55afeb1271e518e1ebc71d692c52/a2ml-0.2.5.tar.gz"
     }
   },
   "acpi-backlight": {
@@ -4335,6 +4339,12 @@
       "url": "fa/12/a7f64a49e243c86ff53859f444b7788ebbbe0d78b333673d6324f0b060ff/dd-aliyun-python-sdk-cms-6.0.7.tar.gz"
     }
   },
+  "ddb-python24": {
+    "1.4.255": {
+      "sha256": "803c5ad25d39e264cbf92ad2a643962e7f019ffb0a4ef41c190fa8dd1010a508",
+      "url": "4b/71/8c006d0a3d37dfb2d2f6ba73b8234b4d8863994e415ff89c00cfa2d29df1/ddb-python24-1.4.255.tar.gz"
+    }
+  },
   "deadjson": {
     "1.0.2": {
       "sha256": "e271f16b0639ad65bfff115ff2aa6d9da3f078731de68cd6845a04d928569ced",
@@ -6919,6 +6929,22 @@
     "0.0.1": {
       "sha256": "ec37402da7ab69014ffa53d0a30f077544936e77fc169be36db0f52f5d6ed65c",
       "url": "a9/83/0bd2a8c9acb2a881ec511201027be716039bebae9c8b2279bddcbca1d01d/edge_gravity-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "756bccc015e143ae6cac5263687c01cfe9450068ad29583fd091acd508edfe93",
+      "url": "5c/ba/7db02db58f24f41f7e8abd0c90f7be8fe82e73cbd4680cd602749db53a5d/edge_gravity-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "78bf87b074baf79ec8348a47a94f0b6ae11f2c4a2a66a85f0c472f5e50dac803",
+      "url": "de/0e/7fe67124c8c8bb34c5f7858471feb26c5024184ddbb484733ebeaac7ee23/edge_gravity-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "9a48de25aa633134f362b03c1f8293670c9c01a33fe93ebf1a5a38396ff1b95f",
+      "url": "50/dd/4c6127a513ecb9c0cf64e64e1514590646f99c1a132d36b59440db5adef7/edge_gravity-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "4442d8364c09837d8b6725f92cd7e2b6acf28c5db8dd5488e9d0fd2741a32a3a",
+      "url": "37/87/577b68a554e3da813698b30946d93f4aa7c08690253e6b7b3bfbbc9aa9dd/edge_gravity-0.0.5.tar.gz"
     }
   },
   "edge-impulse-sdk": {
@@ -10145,6 +10171,10 @@
     "1.2.2": {
       "sha256": "88bb3bcf7a4e734a0567853818bf7e223e10eee5df3fa3fb09492dd866d3e36d",
       "url": "95/47/095407bbecbd163a8ada4399547285c28d956a31f58d9a64650ce15c350a/ipyvuetify-1.2.2.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "703f3d0d01c7891571b7861b1dd411bc3f8a0b55a135a05b57639d00b403d285",
+      "url": "f6/7e/b8ec07965b536e38906dfc3b3dcbab056cf9020b4cbb064b86113a64fbea/ipyvuetify-1.3.0.tar.gz"
     }
   },
   "irisflower": {
@@ -12396,6 +12426,10 @@
       "sha256": "77125ffa0e81ce4d9b4496755944be30d5ee59b80c15faa32136ec568fcb4485",
       "url": "06/42/bb3a7c65246b9b55db3f2ecd27905d821cee20b0b3dbd25e1732554fe53d/mypy-boto3-migrationhub-config-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "2977803455680efe4cf037b6d7fb6843db32da3e9680b387be444a6cb36d8b7c",
+      "url": "b8/3a/d546f9b15aab3788644df20bd8e66e8ce1c9e88fd54f8c767bb0ba20b730/mypy-boto3-migrationhub-config-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a70277d1a5ab2e25dfaef8194dbab1bead0730aeb54b4c35a7bb9277ff7b7061",
       "url": "d2/df/9bec9320c945b0eba221e16380bf52ba1fe8b355ee6514eeeebcd70db30f/mypy-boto3-migrationhub-config-1.12.5.0.tar.gz"
@@ -12909,6 +12943,10 @@
     "1.12.44.0": {
       "sha256": "4c474a873e0d23e023389929a76bca6dd6b0f376272193a609e1688944f562d3",
       "url": "7d/cc/b3612f49043bc7d42fe8439eef81edd962e77e8227162ba921ea08eb68a5/mypy-boto3-secretsmanager-1.12.44.0.tar.gz"
+    },
+    "1.12.45.0": {
+      "sha256": "6f4ac1e605751c93e99923f08ccf3265ab8098e0acae0480640ba043ab050c30",
+      "url": "7e/28/3507c0711a1af56a0a0a76acafc84c4aca50322bfcfaeb0a0a63cb3be5d0/mypy-boto3-secretsmanager-1.12.45.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5c336b95adf206a04c3d510e890fdde0733aa346b7070e2941a2da2d9bf7b62c",
@@ -14447,6 +14485,10 @@
     "2020.4.5": {
       "sha256": "e8372a977fe8aed518cff9821550682bf62c04f13437392c5d927b1baadf3544",
       "url": "ad/98/ca0c0f71f58d554c054ac01c6389949151b3d42dd44d9e481e406a0aeadf/openstates_metadata-2020.4.5.tar.gz"
+    },
+    "2020.4.6": {
+      "sha256": "3270c80049d320a08ee79a9916c477794531f2234cd949ccda6b7dba77fddd96",
+      "url": "86/e6/3bd4bb753deff44e46ebe3e339d9b58d7e8123aa8866dfc322f3e42215cb/openstates_metadata-2020.4.6.tar.gz"
     }
   },
   "opps-polls": {

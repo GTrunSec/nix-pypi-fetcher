@@ -15786,6 +15786,10 @@
       "sha256": "0a642772757f6f929e3f42bd897dd19cf454fb7b68100c5e770b29dd44b9c19d",
       "url": "22/84/9e4f22ef6b428249e79f09d9c99765f4465e2d05b3dca399f1e355e71c3c/mypy-boto3-resource-groups-1.12.44.0.tar.gz"
     },
+    "1.12.45.0": {
+      "sha256": "3d2743e74666f3370833ba7bf5a2f139b1fd7446a51cd643ddc565553452b0d0",
+      "url": "e1/76/b86a967c529e7dfdddc8480058169f7a768f9b20b267ca9e7c11f9f4c0cc/mypy-boto3-resource-groups-1.12.45.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "0ba5adb32bcb3f18d49b729a4c6bc54f3e4a69c0520643cf32709c158f428beb",
       "url": "c5/8b/0292405942e89934f5d71de65113096351dd37825fd59b0ac05f6f06d2d2/mypy-boto3-resource-groups-1.12.5.0.tar.gz"
@@ -17518,6 +17522,18 @@
       "sha256": "849258c1367e3878dc3fc6476e97b29e3c3fc033d5b0646d62fb663960b4829d",
       "url": "81/06/387b2159ac073de95e484aa6e2f108a232cd906e350307168843061f899f/ovs-2.11.0.tar.gz"
     },
+    "2.11.2": {
+      "sha256": "860784285631e763db0428557c71ebf11bab9ff2b257cc1784468c3469f4b9d9",
+      "url": "d1/09/4387c2a3e5de9bbef014dfd559b0fc7e6e2cce3156439d4ec21f9925a654/ovs-2.11.2.tar.gz"
+    },
+    "2.12.0": {
+      "sha256": "cc83c54bd56f1227a9f2247624114afd5836c571bd36bd9cac9f7652983a038f",
+      "url": "f9/9f/59f0f8863179a155b150a50d8b3b2e8c0973fc2630b04d3e8f964c80e993/ovs-2.12.0.tar.gz"
+    },
+    "2.13.0": {
+      "sha256": "c158aaaddbad1f122222f45def50e2bb2f9af4e21a101f5be8488da66d4391f5",
+      "url": "93/85/7f783d6872c41c1e95495c5a6ff3e20f7fd276e9fb2394c77d49a07ab6e6/ovs-2.13.0.tar.gz"
+    },
     "2.4.0": {
       "sha256": "ea38287b56fd19af24dd6d1c0098ccc8ded9e8f9daeb04b152e3835278becd01",
       "url": "2f/8a/358cad389613865ee255c7540f9ea2c2f98376c2d9cd723f5cf30390d928/ovs-2.4.0.tar.gz"
@@ -18227,6 +18243,10 @@
     "1.6.4": {
       "sha256": "fc36ea83222a8977ab4343cad0fbe6caecf493a5c86cdba03ca19b1415cd1a7a",
       "url": "13/fd/5096b2ba31ce61f97999be3475d1f4c2c21756bd65940fa3d8374340f9de/patroni-1.6.4.tar.gz"
+    },
+    "1.6.5": {
+      "sha256": "a36606748a8e23c54c57ac7327f14968c5077f309944f8ed1c7ec4964cb82cef",
+      "url": "d9/71/f1465e00f5e2d3e4c00c4ef8d80c02e3c31ac76dcf6a9d3b0cdef3b62305/patroni-1.6.5.tar.gz"
     }
   },
   "patterns": {
@@ -18891,6 +18911,10 @@
     "1.4": {
       "sha256": "48eca0d90a3985e8ec2108c9b41c50610bb3d9daba0a4acb427e72963030a0bd",
       "url": "a4/3a/3190123820a41eacaba2033a9592a9e4f4fb58f3b2811c08afced065f1b5/procamora-utils-1.4.tar.gz"
+    },
+    "1.5": {
+      "sha256": "09d0e9a03ecd4266d27300b9e2e6347124408642d288b678c7f07b10373e1e4d",
+      "url": "37/38/5ee42d3a1d60efb99958ffb589a8c8d212ecfa67f64406cbf57b02a0c70f/procamora-utils-1.5.tar.gz"
     }
   },
   "products.atbibliostyles": {
@@ -19273,28 +19297,6 @@
     "0.1": {
       "sha256": "8f5449d1274a643c213d8cd42a8e3469462b869fb47e45155637b48643bb2ded",
       "url": "8e/f5/5c1c826425af160fbceaa7a8f817c93cacfc0a2ff968aa063fb8f0612b28/pydatagen-0.1.tar.gz"
-    }
-  },
-  "pydblite": {
-    "3.0": {
-      "sha256": "e137af72005a8c8beecca14877d8fcf6f2ef3d764ef3b00419b6e4476ef6be95",
-      "url": "b3/3e/c1855cfdb1b62c030c74bb749d4bd6240377134c5229d63aec4bb2270b56/PyDbLite-3.0.tar.gz"
-    },
-    "3.0.1": {
-      "sha256": "a5372c48edea5e258e2958f035c8d9abed4e520ea6078330b505bbbad4ba7de2",
-      "url": "b8/69/d659a68fb4b08ee6faf8e1400c78fec495b32d00cc5752c14ea681bd2b9e/PyDbLite-3.0.1.tar.gz"
-    },
-    "3.0.2": {
-      "sha256": "91b5d543a7be4d56931b4949edf35f89089c16f100b2d462718de5bcb31323fd",
-      "url": "39/04/14bddac0ebb97ca1e9885fde348adae147b29f41c095697a7c3562426c0c/PyDbLite-3.0.2.tar.gz"
-    },
-    "3.0.3": {
-      "sha256": "12774b87886dd9887c0a8594de80e2eee802331272e24703dea1cfbccbd447c4",
-      "url": "9e/a9/94e54b2995e2673f334b19e1cdad1f284364dceb106ab297a2cc985936b1/PyDbLite-3.0.3.tar.gz"
-    },
-    "3.0.4": {
-      "sha256": "79ed97d17b5954c6fa8927d9f36033cb4486d1304005057d506ac1dee999bad6",
-      "url": "55/bc/a8e7078bd50411d43c05407cfefc0fd1d42e5722c1d544bd243125de30a8/PyDbLite-3.0.4.tar.gz"
     }
   },
   "pydbwrapper": {

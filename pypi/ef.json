@@ -10779,6 +10779,10 @@
     "0.0.2": {
       "sha256": "96181f4dd0a51c4d3d809a45c318a14d1f2f8c550976cd914b4681e0f31c22d0",
       "url": "5a/72/fccdfa0cd313fcef4b32afabf991474bf5c9ea1a1ff6750f95175a6252a6/glueetl-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "83eb8f57564d5a6a08b1778308c58da2f91afd1fb502ac4123f52ad9319e4140",
+      "url": "d0/f4/674cd2a25f3aca546d1f4447b05b65b3c572dfa3993d6a34ae931469e590/glueetl-0.0.3.tar.gz"
     }
   },
   "gnuhealth-imaging": {
@@ -10835,6 +10839,10 @@
     "0.1.0": {
       "sha256": "d5e6b92879635fc92a17f9101edf8704a030aa685890a3c6cec5bfe2fcb8d0d2",
       "url": "eb/ce/bff547760378594044078ed7ab1d0c0c333720827268c8d4a0ccd2abade6/goblet-gcs-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "affd45cd75905cb684a89afcc2d45be6c0833744a379869dd315d126465d8326",
+      "url": "24/84/93e2333315254213464e5faa9ef54a82da4847301c60e7a365c1acc5f79f/goblet-gcs-0.1.1.tar.gz"
     }
   },
   "godkjenn": {
@@ -10865,12 +10873,6 @@
     "1.1.0": {
       "sha256": "68755fe4eb068c874b05b7aff0a75433dae8cc4f4cd199411be4fe084fd40616",
       "url": "8c/ce/b53fcaa6acb5ad37cd41fca4cd6215d1eb0547142ebdc36041d3cc983dbb/godkjenn-1.1.0.tar.gz"
-    }
-  },
-  "godot-asset-library": {
-    "0.1.0": {
-      "sha256": "c24fb617a9e818bc191276d0e6de2c1649e1872042dbade4c6bcfc350553291b",
-      "url": "bc/f4/a68424ebd4b45229fcbdf4b1ab57fbf6138c3efac2718afbd8e0cd0c410a/godot-asset-library-0.1.0.tar.gz"
     }
   },
   "google-sign": {
@@ -25053,6 +25055,10 @@
     "1.7.0": {
       "sha256": "972c15bb74325d07831ff47a6f279382bba272566804fca331a8b291e3e240e9",
       "url": "a4/0b/44850d9cd489df4f007690abc9c9503f17a3ae36bab374b75d31d20264cf/vg-1.7.0.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "6359de5c4f4aaef8177779a4a095f2c6bcf2d3ab803c10460e295c52a5eb6a71",
+      "url": "4f/b6/6a3ffc21fb4ffc3e64274b148373eb4269cc2b250793bfad8f354b6b171f/vg-1.8.0.tar.gz"
     }
   },
   "vineet-ssh": {

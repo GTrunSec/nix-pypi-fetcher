@@ -1567,6 +1567,10 @@
     "1.0.4": {
       "sha256": "b2cf95e1f336ae00ce87ac727a45cef3e0c78727dfc75d7393a54b967059acdd",
       "url": "8b/60/4ed3e77e7f169a8d60c52c40fdc013f074763bfc59f63e94dd512643919d/bloodhound-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "09bcfe9f7aea2d3ee57377b1edaa18a269140aba3b06c3fd7d8ba5a41b26786d",
+      "url": "00/33/01f769c836c8138dda7d0357c4c88308c250cf32b8cb7ef24e161ae8c521/bloodhound-1.0.5.tar.gz"
     }
   },
   "bnb-tx": {
@@ -4097,6 +4101,10 @@
     "0.12.5": {
       "sha256": "5949067c504ac31d23901c49478809474d60833e030e0e294a33ef405a290214",
       "url": "9c/48/a3f641b69904bdae8e10d724f0e74ee1fb7470c78f903bd649d09dafa86f/datalad-0.12.5.tar.gz"
+    },
+    "0.12.6": {
+      "sha256": "7f8bf42523d6b6b4e717dece7b89bc71db05bcb3b5280a2cb7e08dcee0453777",
+      "url": "d1/8b/e073d8145a8aaab0ede8d0ee8ef60d6ae439bcd7ac3da67680e7b215bc2c/datalad-0.12.6.tar.gz"
     },
     "0.2": {
       "sha256": "3a5aa09e718fc6cd3af021ab0b01c18014b8a142531aa767a029daafd33c4588",
@@ -10244,6 +10252,10 @@
       "sha256": "8ec87f543649b0b4d6edf2432ef338dd5f7d31f03f7f9bf07384e2eeb7e91d8d",
       "url": "30/8d/d3568e57eb367e01959e57a1f4fadf1dc317fe46ada487d31a3b134548ca/halo_bian-0.11.6.tar.gz"
     },
+    "0.11.60": {
+      "sha256": "406a205aad96ba5343cef23f8383c9923e5a77ceb2118c94291aaefd580448aa",
+      "url": "b3/80/2df7a5afcb830324898099e8a292222c5c5a44f4e7cd497b1541bc7e1116/halo_bian-0.11.60.tar.gz"
+    },
     "0.11.7": {
       "sha256": "75a4aa5085226f62f190979620137306b67c4e418539f336b126fdf43d9309c7",
       "url": "6c/ee/c61fb45163e2165ba37235074d3d9a00aed046003d79753d11de562147d1/halo_bian-0.11.7.tar.gz"
@@ -13355,6 +13367,10 @@
     "0.3.0": {
       "sha256": "227820249022c0c88b168d5a2dcdac19647f15d7a5722b13283131c2e396c644",
       "url": "49/e8/6be2fe8380d68c98f508258b71ce59452113871b404fcf14816ea216cee2/mistral_tempest_tests-0.3.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "c1a9acf894e636a9fef32aa539d1f946dc09a9ae98802b8404cbfd5a323a5ace",
+      "url": "77/0d/8a91568395129724a7b83e3b924d10a19480281b6d2d5a5447d96a0d4053/mistral_tempest_tests-1.0.0.tar.gz"
     }
   },
   "mksbackup": {
@@ -15773,6 +15789,10 @@
     "2.0b1": {
       "sha256": "0ea83b4e042ea50481e4c5fbe0133dcbff0c9ed63723171c3f05f2cebc0d7061",
       "url": "81/38/6ce95f3de7c504119359be5df57a8d7cc90b390c0944d7d60727cc7c46ff/portmod-2.0b1.tar.gz"
+    },
+    "2.0b2": {
+      "sha256": "5a12997e181afd25c2a64bebcd3bed33a5f5059f0f5ce4d946104b7389a45036",
+      "url": "58/31/a6ae48a659257e58dbabf5b779b730cfb44ef7fb37745bf0f743bcddf4d8/portmod-2.0b2.tar.gz"
     }
   },
   "postilion": {
@@ -15891,6 +15911,10 @@
     "0.1.1": {
       "sha256": "a33e75e5cea5e7a44df0b7338e3b044b8a1c252c3856ade657300b04d5c6cb37",
       "url": "c2/b1/2a59d3967f39646aa66aaaae65ad5b347c0a5604910f2cbd0f06f9d140d5/pspipe-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "41b7c2494745a820c4baeec6d94a1b1ebe82c4b355280b318405af9e57b9a2fa",
+      "url": "78/5f/152a7e9199c050161b9d26aeddf4ba97db749397bd7ba3bb17e6e2ec1a4d/pspipe-0.1.2.tar.gz"
     }
   },
   "psquery": {
@@ -21037,6 +21061,10 @@
     "1.7.4.dev20200422": {
       "sha256": "b3069c092961265df301f2f8156f05c589bcf837a05db2ce66406872d95f0251",
       "url": "1e/d3/79910f8dada5c95297e3fec3997a3a87cb9c04d21abe77ef16e7a3435faf/pyramid_oereb-1.7.4.dev20200422.tar.gz"
+    },
+    "1.7.4.dev20200423": {
+      "sha256": "616473fa20716b1a03dc73430ffa324a46bb71ec27a0b4c331b0f38519f79576",
+      "url": "4b/ed/6be3b94ec863bf97dd0b14a4a07866c8ed03ae9d5e0dfb7556db4231799d/pyramid_oereb-1.7.4.dev20200423.tar.gz"
     }
   },
   "pyredisrpc": {
@@ -21915,6 +21943,10 @@
     "2.4.4": {
       "sha256": "67612cd9bcdfd29ddcc4a623aaf950c9514d6b5107e557d4361aada4e04485fb",
       "url": "2f/cf/56c86b0f5cbc40e2b88f14df2a1cd0e3a4f5adca541e3e9e6521e6b9046d/pytezos-2.4.4.tar.gz"
+    },
+    "2.4.5": {
+      "sha256": "1e8f83e8adf71ef0b092ad00717b6dc5c1ad679c1ac44639c0ffa8119adf8974",
+      "url": "ba/21/b2d65cc85cfe30940922c47e8069510ccec448d484ce9d2afdd6a1e273af/pytezos-2.4.5.tar.gz"
     }
   },
   "python-configuration": {

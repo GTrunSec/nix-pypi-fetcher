@@ -10818,6 +10818,10 @@
       "sha256": "f83037183e207c588ee5cf702c4fbc1e821afd6f337f317b7ce0a454a444d195",
       "url": "33/60/d57b98e3fcc7cdf7c17b8f486f74853f23c5fc2c1070c9c8ef813e2aa386/libhxl-4.18.tar.gz"
     },
+    "4.19": {
+      "sha256": "91c94171bb771f558dc088fcc1ec31410fdbb559f17871d469581ce2350eec44",
+      "url": "d1/bb/7713720c382aad5260694fd5875fe013ee7ccef771e41a3298f661c01c84/libhxl-4.19.tar.gz"
+    },
     "4.2": {
       "sha256": "4c8b748d5c4fb14e95b115a3f696f56e6990cfeff8f2aa4570b61aeb3ab3689a",
       "url": "af/4d/ed863da3411d0735a26cea390598e0ff82321084f0fc1ee101c1aa082b35/libhxl-4.2.tar.gz"
@@ -13977,6 +13981,20 @@
       "url": "d1/3c/96df87c2244bf3d24978b6eac39fd05fe5226bace6d65b740be2cb09d5d5/pageone-0.2.2.tar.gz"
     }
   },
+  "pancopackage": {
+    "1.0": {
+      "sha256": "58e8126ae980300a1925a73c3002906b7de3c27bbf11d527cdc4ed5b62d6f3cc",
+      "url": "b9/22/e2c59cffa052adf692fa884d09a6f21268cae07b0a17c6d0a92403a4e766/pancopackage-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "03a4e3b9d8a664493107a1812077fc99498a88d8ecc255769f088aa021fc55fe",
+      "url": "b6/5a/3c0c10bb6a3a63a603f38d3d06dcd03feb8770b9f94ae96563ce95d2b7dc/pancopackage-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "682e8b06d4959f0d06e470ce4a78483a7002dce52b12d64c31a28b25fdddc6d5",
+      "url": "95/a7/ff9dd117882093fcb889e2d582e50a6e3ffa0f38b7faa5738156ebb2c1e2/pancopackage-1.2.tar.gz"
+    }
+  },
   "pantheradesktop": {
     "0.1": {
       "sha256": "2e17a4c40bd80f821e985fa7fd38c31b65c9c6e3a2de16e2d9b08e2a361a357c",
@@ -17093,12 +17111,6 @@
     "0.1.0": {
       "sha256": "989fe4df75e0183402926af174362b291ccc7f73b4db3a41b3d01d4d86deb0f7",
       "url": "89/66/538f1ae0c01df798bdff00cd57415dfad5a776483fe7d94c4d6344dbabb2/pythoncn-0.1.0.tar.gz"
-    }
-  },
-  "pythonhelperpackage": {
-    "0.0.1": {
-      "sha256": "2d0999f68f329f9ade6326a8dc435390464f67c3378bb38f71cd5cf7a2ede0f9",
-      "url": "72/68/d4d95908b25f62a4cb210460b8a1099fd6cfc56e4db7d231f10faa98d353/PythonHelperPackage-0.0.1.tar.gz"
     }
   },
   "pythonlogbook": {
