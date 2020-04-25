@@ -1056,6 +1056,10 @@
       "sha256": "af89db99f3b9c2fb63f5cf903ead53e042cbebe07aa862023040f715571b7d2c",
       "url": "7e/6b/99ebe79e805064719f9e1c1f1009a97f5a40ea1b9b86191452b96541dcb8/aws-cdk.aws-iot1click-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "04c4467781df41b86c17d7a9e8add19d9ea8a0322c9916b9de730e8825921c23",
+      "url": "20/1f/94964c31480bd7c8f0d3c38f4d9311df57fb052248054a2d9c1953659581/aws-cdk.aws-iot1click-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "ad5794aed2afa146d6610f2a412086c646ae711be2c22c0b9026a178ae9e35db",
       "url": "47/94/a9c8c67546f6bfa6054f77ce495aeffebc80bceeec4934a203c3d1cf077d/aws-cdk.aws-iot1click-1.4.0.tar.gz"
@@ -14274,6 +14278,10 @@
       "sha256": "f48eb0316ba93a0b01d5893f29750900c6f332df0931e9c7ebfdfaf7ab46147a",
       "url": "5a/59/cc2893a5ecf1450cbf4aebeecc9734438b55be71a97309e81dd1f00c9687/mypy-boto3-events-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "675b5d0d26b59987b460299a4165140d29d7c5c0a52b01349d7b766179e61426",
+      "url": "90/57/0c2be8ae169e75b5ab1be4691c3b485e54ad3e2ad2840e73f37e00722607/mypy-boto3-events-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c41b9dc79482a49dc547801bfe54e13443561fe149fc2955140cc4cc88741d47",
       "url": "92/d5/a1b89069fa69f72ee670607d9bbde65f09eadb4465f5af9c19c80473a6f2/mypy-boto3-events-1.12.5.0.tar.gz"
@@ -18507,6 +18515,10 @@
     "6.5.1": {
       "sha256": "544904cb821afff43c22e2dad4245658d41135d84b3a9463a5e29dd132da6efe",
       "url": "1e/44/bfb8f774abcfca715175314f6382095dcf0b8b8214ca5457514e397763d1/praw-6.5.1.tar.gz"
+    },
+    "7.0.0": {
+      "sha256": "65129169d560800261908415ed955f3cbc63648549820b3ccce0a823ffa2fd78",
+      "url": "63/ba/7d3c9aa63a1824dae148cef67b3bdb56e590219171add17f71d1615ebf2b/praw-7.0.0.tar.gz"
     }
   },
   "prediprot-imports": {

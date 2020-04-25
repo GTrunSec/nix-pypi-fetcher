@@ -1220,6 +1220,10 @@
       "sha256": "bb12d4f5c1eed0b7e41dc5f9fa77b22e94ef43771e759ed0f2c0d65cd3e4b7d6",
       "url": "af/c1/8f8abb8caba754277ab0ebc497ce02f7da682a4d2cd4d56a1260db6a4a21/aws-cdk.aws-autoscaling-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "faa03d3c6a02b7d8f192acba9c089e2483d2221ff9f88d73dcc7615abcdbfc91",
+      "url": "67/94/aa3f98dad8a9f29335c5032e6dfb1600189f98cbcea9c4936356ec772758/aws-cdk.aws-autoscaling-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "28a2e4405dea12e66b785e8525f0766340df39dba145204a0ea810c546854ff0",
       "url": "e3/63/f9c28b7f47ea47290812032ebd36e889774c390f9596fca61775c1c12d7e/aws-cdk.aws-autoscaling-1.4.0.tar.gz"
@@ -12135,6 +12139,10 @@
     "1.12.45.0": {
       "sha256": "3977e047e6ddf88bc38cf233eb6f9f532c9a22c2ed4feaf664435d98c62273f8",
       "url": "de/56/bad6e62b80db76a626b6ad597ed2068af35c01a5af2e76f8ca27154d9d0f/mypy-boto3-pi-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "4295908dc65ceabd72458c50c7c25cac76005e4d4fae96213dfe253154ab3661",
+      "url": "ef/5f/94cbe8dc28918fc7d1115ca63ed7fad1867ba16729f311ec696ac77da6fd/mypy-boto3-pi-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c9e9f5b9d3d12db1f944f5568ab9ab1c1fe15fef01040f0fce236a764fa526ea",
@@ -24419,6 +24427,10 @@
     "9.4.212.dev6": {
       "sha256": "62182e324b00ef82433d32ce57cc58f5f787a700fefc1a4663ca627180929576",
       "url": "a9/c0/e73228c2e81a261b795efcceb34e9d380af85b22628ba28bd2019a208ffb/sickrage-9.4.212.dev6.tar.gz"
+    },
+    "9.4.212.dev7": {
+      "sha256": "bd7f03898af5bce6ef039f20af3c99bc8f1f6bf6957f26f3978035ebc48ff668",
+      "url": "a1/44/b2d0b58645bd5be970699dba00a8a8bf578eded9c33d6ecbcc1fefaaca82/sickrage-9.4.212.dev7.tar.gz"
     },
     "9.4.22": {
       "sha256": "2fbd5533b6b3895844dcc662827a7b3d6cfebe241e58f2410bbdb7c8ffe3a202",

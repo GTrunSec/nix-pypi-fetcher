@@ -14124,6 +14124,10 @@
       "sha256": "69d77473412a4148aca8e58115f8cc07d1478ef5a053531499913520b5d45d1f",
       "url": "c2/c5/0df330e9026d988e4ef0f18421d1122eafbd05d0f4f99301b3b9fb7809b7/mypy-boto3-personalize-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "ac38831173d390e9dd091fdaa98fb2d487c6863d6f3428e2dcbffc9b1b980e5f",
+      "url": "7d/54/de2c26c96186ab1fa345e55a87304dbe84a2ed330eb3afb082f2a6398087/mypy-boto3-personalize-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "f885389e89f3b09038e3131c6f9dbba0fc40c88a16d8671c36b4b43071cd075e",
       "url": "0c/57/666cbe37183d98e28c94425379f08f27dc843b1439f868ff5353dbbb6f92/mypy-boto3-personalize-1.12.5.0.tar.gz"
@@ -16489,6 +16493,10 @@
     "0.2": {
       "sha256": "40f33e1d202c5a5ac5728337eb1c360f7f1f6c625d37e5ce1f190fd07debb18a",
       "url": "c6/02/63a30ae9ad0615c55820f6d26669ae48be1d213b0474614a9b1725ceaa94/pydevice-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "e78d94382534045cc1fd27a915847e58c4d1d65e5b569c56400998064cb7f689",
+      "url": "03/e5/fed6e34810b22df5025b6adcf29674c5f43027162ab606d06145a7f786ca/pydevice-0.2.1.tar.gz"
     }
   },
   "pydigger": {
@@ -17687,6 +17695,10 @@
     "0.0.1.0": {
       "sha256": "a0200fccdf5cc74099da1649baeddea799aa302d9a8a83eee308de9f619dd1a5",
       "url": "ac/dc/c73f48e69c35b90b5d454d89e56cad48e37e72cd72238093cfcc4bdc6c88/pyracmon-0.0.1.0.tar.gz"
+    },
+    "0.0.2.0": {
+      "sha256": "c104cc55af149d6a8f053defb3775de95db606603df411aba23d5f32455c5e98",
+      "url": "30/b8/b18cada22dcc2a244f99ce5b514a33a91fc9c26e78bb4834b7c43be4ffdc/pyracmon-0.0.2.0.tar.gz"
     }
   },
   "pyramid-basicauth": {
@@ -19339,6 +19351,10 @@
     "1.0.1": {
       "sha256": "62f52b4b6ae42d76acab784548e954f912c5ff3c073949a17fde000ca2b102d9",
       "url": "ac/e4/c1e9d5e6b5ea0cf51341e00a58b5b4fccb02267028e8d77c957f8d4ba4be/sasmodels-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "d495a777bf62997cc6ce83177554e206b3454975f0b9aac2ce85bb9429acb25f",
+      "url": "e5/0a/6c81158a7a0df135dcfffce77af1233c85f1ae8b8de8408ad491006f52b4/sasmodels-1.0.2.tar.gz"
     }
   },
   "sc.paster.theme": {

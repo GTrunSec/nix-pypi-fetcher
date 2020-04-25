@@ -2214,6 +2214,10 @@
       "sha256": "c868f5d02b9b821bd74d236abba8df38f878ee2c20fd332bb7477bca2e0e97ea",
       "url": "da/42/b9619a3fb8b4a646dcd663a8ca63f3589b64cb533054f362e6511cf4cd42/aws-cdk.aws-dax-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "70417198ab6f4fe12c3e602bec04f22d38d81f0b1960f3ab211646d1ab40c6b6",
+      "url": "41/63/419d3f7b8e666db000bf2b84df603178d18a32a334abd72466ad7729fcc1/aws-cdk.aws-dax-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "8f6eca3477e588e35c9327796b05bfaaddc7667f5bc68db6b50acb1f8ec82415",
       "url": "a2/12/7f05cdf1dc8e9718787e1ede78bda3c607f306e4bd69f4823ac76b321083/aws-cdk.aws-dax-1.4.0.tar.gz"
@@ -14672,6 +14676,10 @@
       "sha256": "a1d9e78ba24a3ac125e6a89695a59e0b60b32c496b87ad6582874217cdc4b81b",
       "url": "54/ce/4652a3cc1b4b988cec4ca0ec2eeab89fb3bfc506cc28ffb0967ae410caf4/mypy-boto3-cognito-sync-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "b5eeb7b0705a8ea0f523eab19af28cefdc1a4258f889c5a0f4d740b9fd26eb00",
+      "url": "bd/8e/9f4ddec6a63fa6dfe98eaceff45d6f50e31436fcdaa478366b63e20de8ab/mypy-boto3-cognito-sync-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "1cfd2e4d4b18a2e498e6d889c7bcc662242741accfbfff64ae0531140642475f",
       "url": "25/a2/d876d7be868401c103a8e00880c767f5b627f8091f6e3ea4ac6ebe499a90/mypy-boto3-cognito-sync-1.12.5.0.tar.gz"
@@ -19779,6 +19787,12 @@
     "0.1.1": {
       "sha256": "db3f85f28845fe3ef977ff07c6501f26a5c697015c0dd194cf7b8c8831485ae3",
       "url": "1e/71/fa571718677f557037dd5890457e9b72bf43e28116e904d93fb07ae71ead/reflectivipy-0.1.1.tar.gz"
+    }
+  },
+  "repostat-app": {
+    "2.0.0": {
+      "sha256": "7c616ccf7159d20a627b92258024172162135de14105d1fa969e378d37e3b67c",
+      "url": "33/3a/1c25156b839c5283c2a747d25a010b31e32ff44311d3b194a123ff764b1d/repostat-app-2.0.0.tar.gz"
     }
   },
   "rest2cmd": {

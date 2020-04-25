@@ -2243,6 +2243,10 @@
     "1.3.0": {
       "sha256": "d243fc1915aa42c17553a84a870059aec3b5e9127112f22a99f02a3b67e54234",
       "url": "c6/fd/368c153e30b0e7796d478172123b89b90c6f541cd6b029c750bf4d72469b/bipwrapper-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "def130165861f020327397306c8b8cee4d5e39b4fb46301adacafe89472669b1",
+      "url": "88/36/667a6dc9a022ac408a57d2ad9cc0ea08cb41ccd2aeef09517c73610f0046/bipwrapper-1.3.1.tar.gz"
     }
   },
   "birdbrain": {
@@ -14123,6 +14127,10 @@
     "0.6": {
       "sha256": "32ff10ca49aed57ff8de5074c04b662390f48d592fde0eb739d1d148a2448708",
       "url": "a8/23/e87a83c5953e2ffd0c66c29796c9f9db918c7d2df6f9a81e34e82aca7702/ptflops-0.6.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "22d930329cb9370b067e449938676239d74fe00cc0cf9542f0d2c053da3cb198",
+      "url": "08/f2/4a52249d9eccc7b9caed5b0022604e8e1b3b738d9b9927db198963c4f578/ptflops-0.6.1.tar.gz"
     }
   },
   "publicprojectexample": {
@@ -16043,6 +16051,20 @@
     "0.3.0": {
       "sha256": "39257798c23e79b1c7ac6c42e00639580ca2856b144d702d6c17feff92785d3b",
       "url": "a2/49/293240f1f1222d50480890003cc886c7b863d4784473fbff5e0fc1ab8fde/pywebuml-0.3.0.zip"
+    }
+  },
+  "pyweibo-picbed": {
+    "0.1.0": {
+      "sha256": "87f150a6daa177c31be23a7b4ffae079c5a4847c2790400b2c4a00bc009324e9",
+      "url": "70/a2/f7fbe8dde6e697f5ed7473e5550599415a7c246e65a92fe9415dcfe3df39/pyweibo_picbed-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "05dc8b9af5f8af2baa3c16ad59c229b33e3ff77b68b6eaee277c9ea00b325e33",
+      "url": "34/4a/46f9a66d28bd595e666f7115fa73ea55e41f3701758312b0a34cf43989e2/pyweibo_picbed-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "32ed75475f683a8afa17bbdc8d834c137cb7732aabd507e7fde97fa09607dd17",
+      "url": "3b/d9/6577a3f468ac86482d8b1e4bc6c93bf647c3cbada1d61d36ec092e452e81/pyweibo_picbed-0.3.0.tar.gz"
     }
   },
   "pyxserver": {
@@ -18026,6 +18048,10 @@
       "sha256": "94965eb5fc63007b993fae1c9aa15cad7399e40afb2f18b5a2b6b197602939b2",
       "url": "30/fa/cd1caca5f3b437dd99295ea8991842b0af5bca04cb2a2e709c6df9183a50/simpletransformers-0.25.0.tar.gz"
     },
+    "0.26.0": {
+      "sha256": "06027bdf687093ec199e96961f72eae54eeab2f6680001d111b86e16851aff4d",
+      "url": "df/83/40c5872000dba17362be641fc05b93920c8670c09b4cc7b6373a05943da7/simpletransformers-0.26.0.tar.gz"
+    },
     "0.3.0": {
       "sha256": "cb26922567c79519130d9481ae05e8e6f5ff9a797c51702c548f99e3508fdba5",
       "url": "86/73/e42f43d1c710acedaa55d12d339f668fe4730c801bf39f41fdc32ee70f1d/simpletransformers-0.3.0.tar.gz"
@@ -18555,6 +18581,10 @@
     "1.0": {
       "sha256": "7b2cb5ece49a4e19f385c028addf71ba51d6746a22e39df95cb7b03bc88528d9",
       "url": "29/ec/dad07f58250b6784e24689d33e702e019fb4a06dd1f21808f6dd69dc2e54/spmf-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "dee670484dbeeedb7b8ef35bba7ce2e6c73ba87da10fd1173dc3d9e385ca7121",
+      "url": "2e/eb/702e849ffb9a4098ae0b9916516d9bcefabf08996ed73b0e039fb0a10ae9/spmf-1.1.tar.gz"
     }
   },
   "spookify-py": {

@@ -1065,6 +1065,10 @@
     "1.34.1": {
       "sha256": "a2b26936a28f604d38aefcd4fb3f216094aa7db3a53e05356a5e80116c6eca4e",
       "url": "b6/e9/24768cffe5c4ffc32e930a3b059becb06c24392838c65367731fcb408844/aws-cdk.aws-resourcegroups-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "702172d7649f0956aab984780d6dd7597f32419fb9aeabd0cb74d11980726652",
+      "url": "7a/41/1d3aae6f6ba081f6ac5896dbb8bf33fb15c76199afb04fd44e333d1a98a6/aws-cdk.aws-resourcegroups-1.35.0.tar.gz"
     }
   },
   "aws-cdk.custom-resources": {
@@ -1251,6 +1255,10 @@
     "1.34.1": {
       "sha256": "3fa47c05c81709d0470e67dd8be7ffec0ccfa2738aa30c4dc38b22ab681011f1",
       "url": "5b/51/d10055fe214b65a5c3fe61b4167e309b74b7dc79d0a4640a8908c9a91212/aws-cdk.custom-resources-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "dba62b7f59f0a7009125eedce2e4a090446d174cfc46857afdcb73bb18a18172",
+      "url": "ab/01/4feba265fb353f307dce3f4d2d0a6752d56c8f3056d8b773ec19bc376333/aws-cdk.custom-resources-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "270041b65d160bb316cb6a0d0c44b2014e808f354ea2b9f5bc588c7d0f8df33e",
@@ -12682,6 +12690,10 @@
       "sha256": "8f5fc540677d44e9276fb16d0999343c1d3fdfcfebb0fe1bf38fe50ea83d6d0f",
       "url": "af/f3/e4a6da1ec12377e1f958380351b49ccfc60878be627a718fed89b3597a21/mypy-boto3-iot-jobs-data-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "b58ee8d33b33654328a1bdb7701c2723dd3f532bcbcac976f9e5502ee68562bb",
+      "url": "35/9b/86fed87c50770067b5c32bbd45ede4a22f6150d452504ec83b21cfa8b500/mypy-boto3-iot-jobs-data-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "8984b8133f2c5e99ffd9051c289925e72887b87bba3544222f7798448aeb11c1",
       "url": "e9/1a/352dd66b914b72f95f6ea1dd9be25f01c9feac79955b1524d50a5c9f865c/mypy-boto3-iot-jobs-data-1.12.5.0.tar.gz"
@@ -17762,25 +17774,21 @@
     }
   },
   "raspauto": {
-    "0.1": {
-      "sha256": "1967a9647a953b22dc11c676051fe52b1c7618d5771aa6cfba9d6a11367400ba",
-      "url": "46/4f/07c93594ebb79d76b85a5f1c7669cfb0b28a27845c3894299042fe83571f/raspauto-0.1.tar.gz"
+    "0.1.5.5.1": {
+      "sha256": "b0e27657762cadffc72cda38dce76580dcadbb6eb8f05a88de6fe8c2b380b35a",
+      "url": "de/e5/1d25f64bb2d19c8c2a4951773dddf12a2ce12b62e74922249f3d0975c144/raspauto-0.1.5.5.1.tar.gz"
     },
-    "0.1.1": {
-      "sha256": "d50769a8a4be2c315df5aa26791c6363ef170636e4a23cfcfb1bda7c507c1d1b",
-      "url": "f4/31/5d72a2376cccae1e8afe418b559a75211fa9feb09dd76869b70106e3790a/raspauto-0.1.1.tar.gz"
+    "0.1.5.5.2": {
+      "sha256": "962e69fe6b958b92885fa0e6133552a78ff74ace92d9c369e748e6c5d8896305",
+      "url": "7b/34/be71db2851046939ea028662a7d23210d307ff178e28414458938674e2ce/raspauto-0.1.5.5.2.tar.gz"
     },
-    "0.1.2": {
-      "sha256": "4d1e2a0ad278bdce0d2b5ce53e57ce22bd4bced78b0ffdbc31c1fc0fa4383e07",
-      "url": "2b/11/18c64eab14c3421df84ef837d8671537ef63b47d79240158b83b9dcdd64b/raspauto-0.1.2.tar.gz"
+    "0.1.5.5.3": {
+      "sha256": "8c6287b90bf45d98c6303368c52f8a3b96c1d89e87f202659f2449823158717e",
+      "url": "46/02/56e3cbaaf40e85dfbbd75d8b123d2cf3f28444fbaa757538b182609675bc/raspauto-0.1.5.5.3.tar.gz"
     },
-    "0.1.3": {
-      "sha256": "243239641579326aa9aca07f3e1409c886ea4949da8d92bab824215b7a3a415b",
-      "url": "5e/94/06637f90051a04d94a1974c5011425217ebc843b11a172d33133f6f50f35/raspauto-0.1.3.tar.gz"
-    },
-    "0.1.4": {
-      "sha256": "f5b30ef99769ab740aec8bda1b067bd38a6119d0657a3012e343bcaa0afa1609",
-      "url": "1a/5d/f7526a04992c8e1b5ebd071a7d1cd3898d7016f3a998a400eeb1b6e9c182/raspauto-0.1.4.tar.gz"
+    "0.1.5.5.4": {
+      "sha256": "741a0551946f2945c9415f4daaa311d921f9fe351a631425454d383796f3b955",
+      "url": "59/64/726701a3849da48232d778c095b9a316f8f9af0e0cc4ab4366a96c12b05f/raspauto-0.1.5.5.4.tar.gz"
     }
   },
   "raspberry-pi-io": {
@@ -20347,6 +20355,14 @@
     "0.6.10": {
       "sha256": "03b58f36836b2f05b35478edad3952c314b7c8f4002bdc0395cd1ac116c38220",
       "url": "9b/26/6d0d9d148a69bdf385c56676ecf567e963d5650f3ee12c542fc00b91a670/static-frame-0.6.10.tar.gz"
+    },
+    "0.6.11": {
+      "sha256": "7b8fa58f3349bb271d361f98e58b6aa1318e6f7d59b36c35c16428c5acf1112d",
+      "url": "24/b3/8f19536048ac9cf89fd69d0aa3952e9d01ae9722badefaaa89db8021322c/static-frame-0.6.11.tar.gz"
+    },
+    "0.6.12": {
+      "sha256": "80cd6652191710a6319c5ae8fff0279d08b0a9d45fc4fa8e4d3d6316efcc3a88",
+      "url": "60/51/8817b20e642f3cece6ddf018778621fa6ef8915eb42b0e9fab2b32e1fd9d/static-frame-0.6.12.tar.gz"
     },
     "0.6.2": {
       "sha256": "5e11e9b73d37dee3ed6ceaea79d98883352007ca5180dac1edaf1b353cc3af3b",

@@ -1324,6 +1324,10 @@
       "sha256": "4116f94254e1699f6c6d0806ec074bdd7d8d723fa637d0a700fc4ce74d468c8b",
       "url": "a4/da/14f96f0fdc70458bb75d43eef6154b0fea412e490c3a89982281d2605684/aws-cdk.aws-dlm-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "af1b5c43938646a9fc90ea49f6f502f51615830c5625ed2c19115b3e87c17b86",
+      "url": "42/9b/68ea9f151349db8559704d25af7c01d0600d26bd819acde0223c1b91765b/aws-cdk.aws-dlm-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "c3b6096de1f5278b6d40ece01add95ce6b7bec6457f48c16b935d3a6b9898fff",
       "url": "02/03/4aaaef9cf86adc99f660176ce38ca7cb90e8563aeb5de2bd0161b7282e64/aws-cdk.aws-dlm-1.4.0.tar.gz"
@@ -1804,6 +1808,10 @@
     }
   },
   "barbican": {
+    "10.0.0.0rc1": {
+      "sha256": "b2e1996f3cf113cb468b283334368d6d95acc20019833b22140b1b1b32c71405",
+      "url": "b4/26/50512198aa737ac676469ada3c923dbd97c014883efaaaf38dca808857ed/barbican-10.0.0.0rc1.tar.gz"
+    },
     "6.0.0.0b1": {
       "sha256": "4af39b8559de5640a11af6df9391718962eaad94dfdf79c24962ad83c9abc678",
       "url": "d4/33/b17816f19d213dd4cf0d92292c8f0841f2cfd8b3e780f418913036f0446d/barbican-6.0.0.0b1.tar.gz"
@@ -2941,6 +2949,10 @@
     "4.1.post4": {
       "sha256": "9d01ac983d52929bb84044ec782041f1aab01337d0bb56607f2230d8445d4803",
       "url": "85/cc/3635e1481b06215b4abc9f6c463fa8a8d9014ff758a8b72bd78ff53fb8dd/clustermgr4-4.1.post4.tar.gz"
+    },
+    "4.1.post5": {
+      "sha256": "9f5ecd7546601aec6df78a5d84d5fda9dd4a181ed82494f5e90af263f2cbc641",
+      "url": "8f/f8/7db2597d2a412bcd9d565b9693cfbc1ac76e1b00f6237a2f86c93714ea8e/clustermgr4-4.1.post5.tar.gz"
     }
   },
   "cmppy": {
@@ -16447,6 +16459,10 @@
     "0.6.0": {
       "sha256": "81f96de1ff3ed92620c00ed6457c11a029defd65adcec1fcc9f93f316601950e",
       "url": "8c/20/0c46f89ebfaa31eedf7a22be100075ae67d555d7a1cadc846b34be7027bb/opfunu-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "3b805c5514e8b4cb00238b2590e205a2d059851b32fdffae2cca8ef639bc0570",
+      "url": "61/11/95609e97ffe07afa1e334538a0387ddffc9198c31f18729f649f9ed95b62/opfunu-0.6.1.tar.gz"
     }
   },
   "opsworks-cli": {

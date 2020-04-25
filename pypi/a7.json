@@ -13438,6 +13438,10 @@
       "sha256": "35ef29730ceed71463185fdfd9c9a847b1566f255757dacc6997c1e4718753d1",
       "url": "a2/1e/4987cede3338a39d449ad186c15bc3d3a2fead9bbd2254be2da741b12d2b/mypy-boto3-elbv2-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "0fa50a101be4ef8d9f3ee67351b487330efb01c6f93978b2b5de473a5e5af131",
+      "url": "01/b6/568b6e78fb6ad990416b00c8f4706074a64f8a4fbc08d8d2bc744c4da816/mypy-boto3-elbv2-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "2841800c0f5819dbcec454bbe0e5ad723ba885da3d691fb7f2d3d2afdc48006a",
       "url": "84/6e/598f190aa2b9c1627f5ecc1624139240a317f5ee6ca37aa30a77adf2f387/mypy-boto3-elbv2-1.12.5.0.tar.gz"
@@ -16214,6 +16218,10 @@
       "sha256": "7860ea0a808fa22a95aa8432aabe8f008be1a349bd16e1d50d8b0bd99562be40",
       "url": "7b/39/731da32f8bc07be7a0420915bb7b01bcb472e38749f94f9ca20d943219ff/pie_extended-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "3a66ad97a7d5444526f381b004c567d9f9834d91950718bd0f5aa459b578677c",
+      "url": "70/c9/9051ea01fe17c9f92b37b2a91b6771a37e1de972a53b146766093af638f6/pie_extended-0.0.10.tar.gz"
+    },
     "0.0.2": {
       "sha256": "95b777b67ea25f89263976bb41dcaa51ab94eab8949a8d6dc9255c82eff0630d",
       "url": "8f/41/fae476d358880b0e37b970c2974a6096f816af155e2a73b4a36bf0824902/pie_extended-0.0.2.tar.gz"
@@ -16241,6 +16249,10 @@
     "0.0.8": {
       "sha256": "9beea22c26c26d9519e51adf327a7d0281da2317a78f4aaa0aef5e5bbfb88108",
       "url": "2e/b0/117c35b53db8b1f624acdcf5d2a1cd8cd9110329a2adf343e4f32c7d7b2e/pie_extended-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "7a186c64315201b26917682e867f89ca96ba6bf4dddbafaa80fd597afa28ad83",
+      "url": "de/e4/108716183a57880eee257b3ec63434c80ef2723fbce740013c89b5b1814e/pie_extended-0.0.9.tar.gz"
     }
   },
   "pigps": {
@@ -20071,6 +20083,14 @@
     "0.4": {
       "sha256": "66db30975733a728991a7ebd1c5602ffa99e68201a2146cbbeabf7740d07ac55",
       "url": "cc/42/4ec20cec375a47c6a964ac1aa8866002bc4f183b530e5d598d986ba1cf82/rockchisel-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "3241dd54e77f82f71f674ba7286cf1acf2ada0793d94925172fdfbaf933baf32",
+      "url": "6b/d5/689cc4bf59b561fd0dca054070dbf15cec10860315fa90e00f597f068fec/rockchisel-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "b417cf83fcb2d3c1683b3d7a435db8af634103d37bc9e8617ea1b3bac7074771",
+      "url": "40/cc/8f2ef0a6fe382afd4ca36ee90050ca65149460a9b2aeeb3781dd40d103fe/rockchisel-0.6.tar.gz"
     }
   },
   "rosreestr2coord": {
@@ -23758,6 +23778,14 @@
       "sha256": "8499d74eb4460e7bfd275b41f57a95dbb63d7745fd93a743f03ca3196d3073a8",
       "url": "8a/24/d19b004c047ba0b3c14c940222207e8f90d05266bc0706e660fa5bf97309/vss-cli-0.7.0.dev1.tar.gz"
     },
+    "0.7.0.dev10": {
+      "sha256": "eae10d69a0d542e75cf86d1ac57c9da01e455fdd00c878d0c49a1b868081ddb3",
+      "url": "02/6d/5ec7956a8d55866387c9a471a88ac737b5b20ef48ea0322922271bc80381/vss-cli-0.7.0.dev10.tar.gz"
+    },
+    "0.7.0.dev11": {
+      "sha256": "fa75300cb0f5b1ac6acf4c109c9245b5b2bb141ee0e0b0e0ecff5ff02d9e2bf4",
+      "url": "66/81/492727b883891fb56210855ed99d86436019a97c18d6c9b71699387e428b/vss-cli-0.7.0.dev11.tar.gz"
+    },
     "0.7.0.dev2": {
       "sha256": "4c31bec64c432bba17db9621aef817085d96ebc3e95718911da298d8e04334e6",
       "url": "f6/71/9f945a55077a677b70e0984b1512876fb484be68f4e9934b9aed9e919515/vss-cli-0.7.0.dev2.tar.gz"
@@ -23773,6 +23801,22 @@
     "0.7.0.dev5": {
       "sha256": "e19f156c25058ed39ab81ae20a68f06d58be1c2c68f3089d9b67d6c07e5ad0ec",
       "url": "b7/17/f1db38769a081bd78f81fe7cc737d34bc928663e690bd2879810587a81a5/vss-cli-0.7.0.dev5.tar.gz"
+    },
+    "0.7.0.dev6": {
+      "sha256": "ce00015bb010fc0c4d18f9a50bd49f867532e46eb653fffd795c32daeadb08de",
+      "url": "0a/7d/fb282011ce96e498d3eb0e03fc08d0cb21271a280a5d30f1b1cd8cbad131/vss-cli-0.7.0.dev6.tar.gz"
+    },
+    "0.7.0.dev7": {
+      "sha256": "5462cab5e0a7fbebe83ea12bca6d1fae57565657d705d5d534b74a7ca83fef0c",
+      "url": "bf/53/fc0d5d82a2ca4b0a0566222c1b7098950ea338cb12b7b4427b7a094e3244/vss-cli-0.7.0.dev7.tar.gz"
+    },
+    "0.7.0.dev8": {
+      "sha256": "cb270b870ab94ef34208da72d33a4c704a1b4e8182f7cdd1b0b854b3406b89c0",
+      "url": "f2/ad/0c3798037ac713c67eedaf3d4e9635539bed436f6001f63380b56b5f87a6/vss-cli-0.7.0.dev8.tar.gz"
+    },
+    "0.7.0.dev9": {
+      "sha256": "08b0595ac69c3cd5e911bae9300c03217b6aceb83e1e266af7ccefc6fa0cf1c0",
+      "url": "2c/6c/1313fd5662fa3e581ff201c81382a3697d3a2d7ed32a1b511ae46710b8bd/vss-cli-0.7.0.dev9.tar.gz"
     }
   },
   "vtorch": {
@@ -24083,6 +24127,10 @@
     "0.2.7": {
       "sha256": "b7f0be44c627641b300173b9c87699084a571b27032bef7390d5fdcc5ed04cd2",
       "url": "e9/5e/eba9354c87f2c56f6d8ddf2d087739ced04b32a45dffdd496a998cce4ce8/vtorch-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "bef38d68d26038f9597b70245f26ae3d733035b6fb530556de089eb3fc682da3",
+      "url": "58/f9/1f8810301a5e9248ef72962c1db105f8e60ca0dea4feff6ad099b4b4005b/vtorch-0.2.8.tar.gz"
     }
   },
   "watch-rsync": {

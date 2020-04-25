@@ -10997,6 +10997,10 @@
     "0.1.63": {
       "sha256": "f6a0999cfb2674173f336f1117ee7896e8a168f3c6884e6ee2a3ac48854455a3",
       "url": "e2/8b/efb97811d296bcc64b2f04a966d359be5d17e5763d748443d0ed9715a785/makebio-0.1.63.tar.gz"
+    },
+    "0.2": {
+      "sha256": "9ae32d15ea24344e7003f4a2820ad4dcdea0fad7fb0ebef69cc0ec2eaf3ec2e6",
+      "url": "47/59/ba0e050a53e30ceb6a4753d53f68e05819ebf1976805e87fa086369933e3/makebio-0.2.tar.gz"
     }
   },
   "maluforce": {
@@ -12432,6 +12436,10 @@
       "sha256": "2977803455680efe4cf037b6d7fb6843db32da3e9680b387be444a6cb36d8b7c",
       "url": "b8/3a/d546f9b15aab3788644df20bd8e66e8ce1c9e88fd54f8c767bb0ba20b730/mypy-boto3-migrationhub-config-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "14976747abb6e3f04e6b637a051e9b8437038a5b23fc46d35d41aaca4a34810b",
+      "url": "e3/00/d4b73fc7bbc7737d8f492a979867961e026b36ae68fa349c17aff4687587/mypy-boto3-migrationhub-config-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a70277d1a5ab2e25dfaef8194dbab1bead0730aeb54b4c35a7bb9277ff7b7061",
       "url": "d2/df/9bec9320c945b0eba221e16380bf52ba1fe8b355ee6514eeeebcd70db30f/mypy-boto3-migrationhub-config-1.12.5.0.tar.gz"
@@ -12949,6 +12957,10 @@
     "1.12.45.0": {
       "sha256": "6f4ac1e605751c93e99923f08ccf3265ab8098e0acae0480640ba043ab050c30",
       "url": "7e/28/3507c0711a1af56a0a0a76acafc84c4aca50322bfcfaeb0a0a63cb3be5d0/mypy-boto3-secretsmanager-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "a70a8d8b38c843f779fc9d71110c1c1fceb63e3aac07306134a65f3f037a3849",
+      "url": "02/5f/a69bd5d65ccdaa1ed936d55a085634e9b9265469b96a9d32f14d234cbef4/mypy-boto3-secretsmanager-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5c336b95adf206a04c3d510e890fdde0733aa346b7070e2941a2da2d9bf7b62c",
@@ -14491,6 +14503,10 @@
     "2020.4.6": {
       "sha256": "3270c80049d320a08ee79a9916c477794531f2234cd949ccda6b7dba77fddd96",
       "url": "86/e6/3bd4bb753deff44e46ebe3e339d9b58d7e8123aa8866dfc322f3e42215cb/openstates_metadata-2020.4.6.tar.gz"
+    },
+    "2020.4.7": {
+      "sha256": "29d0fbc8ef3117e5e6b8f7da274021e740b6c0c414f98ef722e9b9170274f950",
+      "url": "d6/35/067f17c5a4f9c14f0c23598478edf8cdc5b7a65bb7db84aa105887d16a77/openstates_metadata-2020.4.7.tar.gz"
     }
   },
   "opps-polls": {

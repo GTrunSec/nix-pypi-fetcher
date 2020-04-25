@@ -235,6 +235,12 @@
       "url": "d5/c4/4510b56366825ede44e15cd98f9e211fff3172ed7ee2fc79dd9c0f927b37/AMFM_decompy-1.0.9.1.tar.gz"
     }
   },
+  "amplitf": {
+    "0.0a0": {
+      "sha256": "a0025ccb776bff3cba1b12cb52ebdf8fec99697ede8dc539d307239b0b445371",
+      "url": "0f/83/db43c432e20aca9ebfaaa419581ac683be5951ce145942942f1f9268ccd6/amplitf-0.0a0.tar.gz"
+    }
+  },
   "amqplib-thrift": {
     "0.1": {
       "sha256": "f7b139272d2d4e7487008f5ae71be559b91194b11fb84ae2d0e12704c9fd5f29",
@@ -853,6 +859,10 @@
     "1.34.1": {
       "sha256": "209189a4adfb848e53413f94947cbad28695f4df70a590985e778d596f14cd35",
       "url": "c9/62/1104347758389d609169ef25a97e043d19fab7bd857a4c557a68c9c8e647/aws-cdk.aws-cloudwatch-actions-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "d2541255a74ed66b4f356660ce8d8d20437cb1a151774492a386e77c6aa1ee95",
+      "url": "5d/cd/9612106fe6d6e6e10b9cbb59009e12e67ad8abf2bf10b72570daf5794dd5/aws-cdk.aws-cloudwatch-actions-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "f2282c7a53bb0b32a7a438cc19225c78abd6c72f8bdb1d0b9be1298009213be7",
@@ -3159,6 +3169,10 @@
     "0.1.1": {
       "sha256": "b2736be74df5665fcabbc44e3cd2ca2650b46ee6e1171cd7ef1cd4feef72edb6",
       "url": "0c/76/210f59b766c12ce9fd5df0242c4ec8f5fd2133450afcd99ed50d65aaaf7a/chaostoolkit-gandi-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "ff3ad11ef9c1d7c055247d20e1d09ba508430b1672cda0e0de146f023cb9b073",
+      "url": "26/79/a616afe54474ceb1c11dbaca26b9a784abccf80cc87d8ffc48476b8ca440/chaostoolkit-gandi-0.1.2.tar.gz"
     }
   },
   "chapeau": {
@@ -11797,6 +11811,10 @@
     "0.1.0.1": {
       "sha256": "af666854fb0481f59fe4d1b18d05afaad22b44bd1e787550306a15eb427037d3",
       "url": "f8/a3/47acb68bd34354502b39827a6a4e5091e4b1601c70228bf7d77ca1c1bb88/learn2learn-0.1.0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "d79fa3c25736015c887aec8165ba27b2fbbc79fabd9c8385853a7fe7846ad3aa",
+      "url": "de/4c/0f7565f495ef6b44a5d8fad2e8ecfda3ee55d20a8c13f3805091f490fe18/learn2learn-0.1.1.tar.gz"
     }
   },
   "leboncrevard": {
@@ -17160,6 +17178,10 @@
       "sha256": "d2b740e073b61ab59318173d28e050043936ae6b967b6aa34a5dd2120e08215a",
       "url": "bd/e3/b92effe2727c2ac7f5edc8c49e1c471d0b2c37ab7ab4d8d6e65f674c54fb/Pyiiko-0.2.1.tar.gz"
     },
+    "0.2.10": {
+      "sha256": "4e2b9cb0b6333835ce4238b854b483c86cafa27408f305a013363150b1575338",
+      "url": "f2/cf/fd14e9faeef33872a03fe62991ea64169ec6fa6b15175cde61e71b5ef503/Pyiiko-0.2.10.tar.gz"
+    },
     "0.2.2": {
       "sha256": "2863c377a39a40113e623e33013162e2a4238370d2aab83a6b600283430432b6",
       "url": "ce/1e/ada6d9d2bfd8a14f087b3484c1086d2cc275992f64e2448a74e46e325cfb/Pyiiko-0.2.2.tar.gz"
@@ -17545,6 +17567,10 @@
     "0.1": {
       "sha256": "e0539cb2ce1cd0333f8c446697ebfa42e9edd6adacb86cae2dd19fff7304784c",
       "url": "53/ec/2a570fa4010d04282f0a7e313f3eda8b01ad9d9d76423915bde114c99f79/pypmp-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "cfc9c25864195819658504d5261aef2777b999555f5ac809fe4325f0b8f5d48b",
+      "url": "bd/e3/2c15011beaac6177b423709f524260593abe23210f4db36648798adf900d/pypmp-0.2.tar.gz"
     }
   },
   "pyqtgraph-extensions": {
@@ -20175,6 +20201,10 @@
     "0.3.0": {
       "sha256": "2795dd252a3563aab7f8ef2d3e346fa806c04997f0f8c7b6085370f508dd7548",
       "url": "49/0b/e1696f7f1125a100f2271888640981b5206c74a6d9026fb1e87cabd54e3d/serverly-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "10ad9fd3b14036b02e136ea42bbdca5f6b4b557211ee6b249f0e0084995d92d3",
+      "url": "99/b7/38c8136a1f48d86e89089dbe2af160aa98fefdd3161e2e63b3a202f9232d/serverly-0.3.1.tar.gz"
     }
   },
   "servicenow": {
@@ -22669,6 +22699,22 @@
     "0.1.0": {
       "sha256": "00d343a5a543ddc39de7d7f378b6102140e369a89ce9e19093b2c37f7cf73c39",
       "url": "2c/0c/6e8e426a9a1cf6b40b5e8ab1cd3f020af274eaf2fd62de2ba916df979f97/telraam_data-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "8b3d375d6144fa9ef2dc1bc3c91c1d61ef389b5c3784c1bf628c28f335e1b086",
+      "url": "15/97/d4f7ddd0211541e00e1c3496d8e579a412ccbf6deb3ca7a92ba1de79797f/telraam-data-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "4da69ccf629d7592a1557fb5cb621fd848112b65ec510e8a42216c07d1a313f2",
+      "url": "83/b7/b6043eff4b69ccb09e043294362754a889d580229d48b5b1c9cb4d446b75/telraam-data-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "7b9a6cc0f1420bb02188e044ac16af8d474644f368156e60f1231e1598ecb713",
+      "url": "0f/49/8fdeb4d74cb9178e5c1e192f516803811427488e82e345c112f5716362f6/telraam-data-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "4bac755993c0f457d086de8f4f7450a811b684ecf0d302c8a0a139ee00cba6a6",
+      "url": "a7/01/58aba3988cdcf920d21e0396c4638ca5d2bbde9b78b1dcd7e6be51cba548/telraam-data-0.2.3.tar.gz"
     }
   },
   "temser": {
@@ -22935,6 +22981,10 @@
     "1.4.4": {
       "sha256": "9272efc6cf697ed43aebe92cb3f73fb2ed09775c85ac51e65f0f96b8f2e71051",
       "url": "48/44/8f384ece71b1b33bdc29251a912a11a232bddc4e589a2d172fb3485683b3/testflows-1.4.4.tar.gz"
+    },
+    "1.4.5": {
+      "sha256": "87a2161bd5938950d0362c8c64be29df09ce4c308ea6744deed8630f8f409c8f",
+      "url": "a1/e5/620db636b469e30d2430dbdff786b699e1315b922663b483c5f53e999f83/testflows-1.4.5.tar.gz"
     }
   },
   "texlivemetadata": {

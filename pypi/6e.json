@@ -5057,6 +5057,10 @@
     "0.33.3": {
       "sha256": "8cbcc47eacab7f7a2dc6a488cf5426a2723d9e7b8cc10e78e1951348821deb3a",
       "url": "42/85/59b01cda2ddb446c16bc0d7d992108c07d376612a2501bcf699d6904b32b/datalogue-0.33.3.tar.gz"
+    },
+    "0.34.0": {
+      "sha256": "0f0dfe3ea34b77c1704083cc53d0333a473ff8e7ca272abe853597f3e86f2fa6",
+      "url": "17/e1/53f295095877e525a7521d685cb0f069f26534ad3132aae020a664696888/datalogue-0.34.0.tar.gz"
     }
   },
   "dbi": {
@@ -11489,8 +11493,8 @@
   },
   "humann": {
     "3.0.0a0": {
-      "sha256": "f9963be4fd19b3db032a9b33029b35a37735591f0f3f7ef197f15115f23bb33f",
-      "url": "40/10/bbf6ea17bc4174c59102edca90c1fb0644342ba25cfbabbdfc96012bc35d/humann-3.0.0alpha0.tar.gz"
+      "sha256": "c78d1fc7e62b0a4633fda02d074469be179a508c781e996019ffeaa1a7ce7af6",
+      "url": "7e/3e/3b393eba794e3a05678192a46d6aefb86ae30b43c667b5b73afc65174b6c/humann-3.0.0-alpha.tar.gz"
     }
   },
   "humu1us-cipher": {
@@ -12081,6 +12085,10 @@
     "5.7.10": {
       "sha256": "aab57925f4fe6d9443cbda95b1833b35c8158461cef6abe592520004550fd1a7",
       "url": "af/92/022a4e977ac67625b98564ea2eda9f72a318da689cac93c7455d49fb24e7/ikabot-5.7.10.tar.gz"
+    },
+    "5.7.11": {
+      "sha256": "622ae27167caa923728e496b0559b3b0c02f36b249876116ec0d572a7b25ad32",
+      "url": "f7/4b/6e94600661bb28db388b6955f61002b94c1d9522b89effd4287763757927/ikabot-5.7.11.tar.gz"
     },
     "5.7.2": {
       "sha256": "a0fed8cfb23f1cce3688c6b49872ee90968dae3dd0755c6340f8ef9d7532ca83",
@@ -16188,6 +16196,10 @@
       "sha256": "af571f207c3f893e7883090f6372084740660d5f7addf299d2bd8fee1a9f2391",
       "url": "b7/05/e35fc03536cfb554109907989f7c32cbe49b9ebf9517316f2c54f35794a7/mypy-boto3-cur-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "7fb10bcc425734f811e952da1c76a61ce36f7bc2d72a8ce0fcacd9b48c80a72d",
+      "url": "89/be/7df89ae0620a880577023c4a266ffadbc9cf4bc2b5255580d63f2cb38305/mypy-boto3-cur-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ab65b8f635fd9eb8df2dd3093e8c75dc4ad300e98f60a118c2bb300e2078e3dd",
       "url": "c3/b3/a0084661a4d5ec482bb2305779e0c44745e151d090b241f649999ac65096/mypy-boto3-cur-1.12.5.0.tar.gz"
@@ -16705,6 +16717,10 @@
     "1.12.45.0": {
       "sha256": "911f3671447addc8858489b0f7bff1766d1cab10bb23ebc64572ef9c14c271d3",
       "url": "dd/35/1942791dfb8ecf2659658870ceedbaca20633e0d4d762a6f5009c2ddc7ef/mypy-boto3-polly-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "5e8a09f2f12ac3b31eccd6bdeaaeac30e5ccbff674ea4f3f3d24b036732c7c4d",
+      "url": "36/e1/77c1d5af56e436903ae4a6b3ec2a2ada8deae7ff31f0d1d7179a1514a395/mypy-boto3-polly-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "145f666e3e89e3e5da0fb39528a015eb6cf2e565a97748e5aabd68f9324566a5",
@@ -17891,6 +17907,10 @@
     "2.5.2": {
       "sha256": "79039e71bacabbad5cbc1cb3e621391079b2f0b4dbd0a4e1c53c54fdd976422e",
       "url": "99/0f/ff127dbe273999a21162321ed3ee9095a6a2b39aebe259a96a410879027c/openlab-2.5.2.tar.gz"
+    },
+    "2.5.3": {
+      "sha256": "c221d13708792ea18c951539c044307b6c4a20b07cc0c2056bf6c9a68195dc05",
+      "url": "6e/13/7a3fb4288638c9ef538d49d33c6adf89812c03abeff89dfe97e5f0fe6f2a/openlab-2.5.3.tar.gz"
     }
   },
   "openpromela": {
@@ -21405,6 +21425,14 @@
     "0.7.4rc6": {
       "sha256": "aeaef79e63aceb104cd3f5c83487726e902d2569add16d13fb3c065c8a3f1721",
       "url": "9e/f7/68490f0f30e56938687826d74352b75668bfac519d7b620384a38db5fd6b/pytorch-lightning-0.7.4rc6.tar.gz"
+    },
+    "0.7.4rc7": {
+      "sha256": "26ffc6e2da4683b2da799207f58ed7eee9c9d3101757560d2f3ef2373288ed4f",
+      "url": "65/1e/56207f14de879a2dadec5f0f95733e217526da46131c0cf88f0709f4c88b/pytorch-lightning-0.7.4rc7.tar.gz"
+    },
+    "0.7.4rc8": {
+      "sha256": "70dfaa2ac1e53057f4db24c40c09878bac0a53ef24753edc429fac7a424e0aed",
+      "url": "d8/7a/96c3c04883a0b613fddfdb0ef64d475ef2a8ae8b9c0da0c9ddc3e0a54007/pytorch-lightning-0.7.4rc8.tar.gz"
     }
   },
   "pytreelib": {
@@ -21433,6 +21461,16 @@
     "0.1.1e": {
       "sha256": "78f32f80e3ce5a86e0dc8af7f5e3d59559dd0a64c3a45d97b80420b3a24188ce",
       "url": "63/49/df42aeb8ef8c6cb02ed01505428ef24ec7890397375d02453127674de68d/PyUvVis-0.1.1e.tar.gz"
+    }
+  },
+  "pywandio": {
+    "0.1": {
+      "sha256": "61f3ee3c846429d887600b0a0a9c2be6755bade227a4e76c65a83b93c889f858",
+      "url": "fa/9d/66a13ced4ed8bcc1b4cdb79add1d4ad2e57a7ad621ec690ce92ab01eed97/pywandio-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "9dbdf020f16b6f944c5fa3c7145bdd15bcced1c9f60d0729372fe7359e86ff30",
+      "url": "cd/6d/c8c74b91b8d334105da471ce11318aa7d2423672eb5cc7303273b505f9fa/pywandio-0.2.tar.gz"
     }
   },
   "pywhere39": {
@@ -23099,6 +23137,12 @@
       "url": "b6/1d/8f6de934ad23d79808b2771065240c433a1a5fced89d1a0bf26033eefb9c/scikit-kinematics-0.8.3.tar.gz"
     }
   },
+  "scikit-surgerycore": {
+    "0.5.1": {
+      "sha256": "ea2cf9e3776d9495c21577b07a9eaf1982cbcc101c4df31901fc634097ed1aee",
+      "url": "80/d6/0f5486251e2d741aed384f704a7549ff574284901087cc039e3e3c54ea26/scikit-surgerycore-0.5.1.tar.gz"
+    }
+  },
   "sciurus": {
     "0.1.0": {
       "sha256": "51c02d0ff29727713efb60d2782f3dc5b4fd58bdedbe4926d70277654ea7bda5",
@@ -23871,6 +23915,14 @@
     "0.1.5": {
       "sha256": "83246cfa7ee21f1d5210643c0231819935ff0ba5f8bc01248f33009b08e22f17",
       "url": "b7/6e/e0498747c0ff5816ddac5f179836ec3239d669603c15397e632a0838fe74/spikemetrics-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "eff0b3eb6e191117df84656b22bc5d18bb1686bb85209070668e5e93b4ce0577",
+      "url": "57/57/4c033dbad6dc1ab674e924a2891bef6c251c3fee46817ffb9a6a1196e803/spikemetrics-0.1.6.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "81b5755688fe81e84b3195c57379010279e117a923033005da3af86d13785b0a",
+      "url": "3d/c9/cdb8cebe8a5da1440d042aaadd5a99017ada3d2f045a4ffc6358a83f8e97/spikemetrics-0.2.0.tar.gz"
     }
   },
   "spin-clustering": {
@@ -30695,6 +30747,10 @@
     "0.8.0": {
       "sha256": "2862a4292424d14f7a9c94396b475c33a8e8be367204883541bd9bb5731ff258",
       "url": "a8/f4/12cd3aeba1320916b0d1abc756f58ee5eea0d798ea3ec7abacb61b11bea3/zigpy-deconz-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "b7809a5484feb095ac8cbb873949424aa147c8ec099cd4b109d1e71d546074c9",
+      "url": "35/e7/b9c7f2a85f67d8d2320bfb6d53501810a187ede94d8367da7d554952b03d/zigpy-deconz-0.8.1.tar.gz"
     },
     "0.9.0": {
       "sha256": "29bc9dba3481f80e9c9c4ff9548ae7e6cd190256f9377845ea47522168741d88",

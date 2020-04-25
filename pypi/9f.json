@@ -1361,6 +1361,10 @@
     "0.7.0": {
       "sha256": "fd4833abbb4d5bcebfa347eb54f6ffd21c9a7d3b4c7f7ca9a71f65c962c60a5c",
       "url": "1c/14/5088fa46d7ba79211ff2ccb6fa10b2002a9ee0c01c903d1f1cf912623001/aws_lambda_powertools-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "9fef52568496233acac3817a6fc83c5789a22642e7cbb88020b4db704dbfbe65",
+      "url": "9e/c5/0a3aeebbb55e71b5b7ecf047c33c9969f7895e5827e94f4c0b8fa716fe24/aws_lambda_powertools-0.8.0.tar.gz"
     }
   },
   "aws-solutions-konstruk.aws-cloudfront-s3": {
@@ -2343,6 +2347,10 @@
     "0.0.5": {
       "sha256": "114f866af9a25e4f2fba2075d4b3869a0028b9ba3c2168219de911fbe28aa0fc",
       "url": "dc/ed/61e66efade33eaaab344d72ed3dbe4777e5ee96f5788c30d9d54501bd165/capybara-cophylogeny-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "6858966ba1a920096443349243e6e364a7c363bfd7f10af4a1ef60b18d990189",
+      "url": "f7/55/2981c14eeb508bef28444c800f70284f504ce86a7faa32a091bf6e170a07/capybara-cophylogeny-0.0.6.tar.gz"
     }
   },
   "cassandra-s3-incremental-backup-watcher": {
@@ -8247,6 +8255,10 @@
     "0.2.1": {
       "sha256": "6e4d13685048955da89142102cb8227dfa31945391dab039f2dd27d28c1b3eb8",
       "url": "ec/83/506a077ab9763994998eb97089a6e2a414177f21279be9171bfb3eebf1c1/druidapi-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "ed6501d2e4b70b59d9198b28ace9f6a0962bd2342533f2f917200095bc9fee13",
+      "url": "c0/29/5e5b81fe76b947b23b670174f8786f84992d98d035cfafb34c61c4b6fd4b/druidapi-0.3.0.tar.gz"
     }
   },
   "dse": {
@@ -22529,6 +22541,14 @@
     "3.1.0a1587397347": {
       "sha256": "acaf79e56169810fa250a719fe66c41f93e641890c4aef4af1caa4a4f0b657db",
       "url": "71/79/d351a1d5cc8a4bfa2b9cb06b980950eb0c1b5008c6046014a3ea1fab2244/pulumi_azure-3.1.0a1587397347.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "14dd19495a87b4bd6710fb290110cc2d022ae0bfd7ed0420b8b4284c5764dc79",
+      "url": "03/2d/99bfa0254e03568f4597973ab77b46704da8ffb17a9ec2a527b041de0b8f/pulumi_azure-3.2.0.tar.gz"
+    },
+    "3.2.0a1587743681": {
+      "sha256": "b558aa85686d2622695746a10932dd708ea721a292e6f44af8c8b25c8ece87f9",
+      "url": "0f/cd/6aa3b5166fa6c5e925529c85465563181bacb22b7492d46fae157747b820/pulumi_azure-3.2.0a1587743681.tar.gz"
     }
   },
   "pumpkin-supmcu": {

@@ -3204,6 +3204,10 @@
       "sha256": "b162f0670db46d084e9b765402739b5e489673c69893aa7f70c83a6b551061ab",
       "url": "62/55/9fd77c081f2ecf6570729d4b294449ec869177bb9772515b2b25c9dfdbec/c2cgeoform-2.1.13.tar.gz"
     },
+    "2.1.14.dev20200424": {
+      "sha256": "42e71d2aa8bf2c400bcf653621df250d31034f322251ef92618ae3dfc59cf071",
+      "url": "8f/cc/d9d5a8294c5e8d2bd6e93f8db4ada895771e9d1176ef291dc295d5d1cd6e/c2cgeoform-2.1.14.dev20200424.tar.gz"
+    },
     "2.1.2": {
       "sha256": "18d6dcf0841f2d91b45a34cdac15247a5be40d2af21f5bb2d9d63c266b9c3350",
       "url": "e2/6b/23af6340f28460de244c5cfb3f82ca83422e4a6d03b2673a860903c2ba1f/c2cgeoform-2.1.2.tar.gz"
@@ -7233,6 +7237,12 @@
       "url": "72/cf/5c7c91ae7676aad5b00961ebc38b73fbad283bb4bac749d3e95600c02fd0/douban%20album%20dl-0.0.1.tar.gz"
     }
   },
+  "download-google-images": {
+    "0.1.0": {
+      "sha256": "d4ce27d0fd851b74bdf3922767c03a770ce4d83e208073a903af9c2913fc8499",
+      "url": "d4/6f/a96254d6b888aa15a653ba4a479175ecff67ebb8a866ae9bf9285b5f915c/download_google_images-0.1.0.tar.gz"
+    }
+  },
   "drf-signed-auth": {
     "0.1.1": {
       "sha256": "9cfdd0facbb0f6c4772e62feebabb521ccf8c603190619ce94441e8b32915298",
@@ -7813,6 +7823,12 @@
     "0.7": {
       "sha256": "2d717700ecf7c980c0b05e96cd5447838f626004603095f23ef33bd9200191fa",
       "url": "99/bc/4a4aa14e9dc59c4ccfe88552c2faed880186465515cbf1e1fffa995b721d/ematmap-0.7.tar.gz"
+    }
+  },
+  "enhancedschemathesis": {
+    "0.0.1": {
+      "sha256": "58672b9c8b53a2cc8b814b23336f12ef0219e03515f4ab8e1629d81080800f96",
+      "url": "dc/19/072c72b6141f32199545b3ae38451538172b0e8490979925c1f900d75b3d/enhancedSchemathesis-0.0.1.tar.gz"
     }
   },
   "enisenet": {
@@ -12891,6 +12907,10 @@
     "0.3.0": {
       "sha256": "2527277f02aa376252f42bdb561a05024441ea16060883d6c90be436dc951705",
       "url": "e3/89/beb63d7325deab85a88bad77e8a2db390b2672de3f38d25618114a3e5983/magnum_tempest_plugin-0.3.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "6074a7dd09c9982f03c6e2587f80f9d96ebed7b48b3e913c2e87d9ee1a590eaa",
+      "url": "f0/81/18659875ed9c0209e81d521f8fb2eed741b4e506829b0074b633aeea637e/magnum_tempest_plugin-1.0.0.tar.gz"
     }
   },
   "makerbot-driver": {
@@ -14724,6 +14744,10 @@
       "sha256": "c6d272f4619eb990a2d71dea16d4ae3e3123810834a842629c1f1b628688bf04",
       "url": "8c/0d/ebe0ccfabedf2fabc5fdad1a8edcc88e746fd3b0ca3f44ded6d08cc0a10a/mypy-boto3-rekognition-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "59fb4d809d900ad19b15efb4f00722abc27aaf364033fd3f8e57de7e95ddb410",
+      "url": "09/be/e6e3a71303e014aceeab0c4aa6502f6bf2e725f9d9c2cb211dc0c8bd02b5/mypy-boto3-rekognition-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b1b54d4c5179ee9aaba788770bc3019b9b85b440f1156568901decca1e79881f",
       "url": "a3/91/10334735483f76cd4fc6b3102c315974fe8b460ea6a9b6248ba0ccdc65ba/mypy-boto3-rekognition-1.12.5.0.tar.gz"
@@ -15241,6 +15265,10 @@
     "1.12.45.0": {
       "sha256": "2ec565849517f594c3097170ee61d08abb10ed349104c9fde12cea8fc9ea6da9",
       "url": "fc/30/ce6c9c1218e4b2557fa8dbd884a19bc24eb9c0e9b4f5b57bc420859cdc85/mypy-boto3-route53resolver-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "fa5a0c62dcbbdad1a225f0a105d70d7277f5a8a51344bd01da87d0ef215acd61",
+      "url": "b9/21/861f444d90cf3da905c48804a940e4331c3cf2af98a67c0025b52c22d0d1/mypy-boto3-route53resolver-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "d51c44aa3a2c310bbb9a5a022bd0cd85b24741575e86b2f7ea2d6d45d19a9c1b",
@@ -25455,6 +25483,14 @@
     "1.0.8": {
       "sha256": "307014d61f1161b234d32773836fc815979c70ec1d99686e63f75dda32702d96",
       "url": "d8/0c/bff4cb384727bb75c50df09ecd5f034f454e6243fccb1439d08014a21387/WaterPinch-1.0.8.tar.gz"
+    },
+    "1.0.9": {
+      "sha256": "0fa34898573d130eafbc2079616e1e5a658253201ec1c8bbecc75e158a3e126b",
+      "url": "8c/39/49a457807f7287ba2e71484c3ab1ef03b97c2a0ffdf432ad497bf8420f71/WaterPinch-1.0.9.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "97a1d1a4ae2212e062e91124e0f30e2101c803e2de8bb32c181aebc6abccad8d",
+      "url": "cd/e3/ce82649eb647d78737c0f9499a010b2c8c62b3b21ba78286c40e194393e0/WaterPinch-1.1.0.tar.gz"
     }
   },
   "wayround-org-carafe": {

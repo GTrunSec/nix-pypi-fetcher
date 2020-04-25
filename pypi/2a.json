@@ -4173,6 +4173,10 @@
     "3.1.4": {
       "sha256": "f829f694d6b757e4b3e7d8a64cf476dc2162b9c78290a985ab15ac7efeb34eba",
       "url": "51/84/a94ef50f35fa498ee9a5a54f0f1129889719cb1d0650bb92763cd92397c6/dashcord-3.1.4.tar.gz"
+    },
+    "3.1.5": {
+      "sha256": "e881a6f2cb5ce8ade0977bf27f094c6889832cf210fdae9d2df83e40e4b54b3d",
+      "url": "58/15/6040a96bfcc41d3a2c159b119a9bee463e114a184bbca8409eb3a6c644e3/dashcord-3.1.5.tar.gz"
     }
   },
   "dask-cassandra-loader": {
@@ -7014,6 +7018,10 @@
       "sha256": "f3244e4e686105f5eb7cd94857637ccdd298a2081463e936259fd0f9db69a6dc",
       "url": "a0/98/c9e2727f7b12d935a88d5b72ce9973046d41dfdc54e40a05a619f4fdbc54/epsagon-1.42.4.tar.gz"
     },
+    "1.42.5": {
+      "sha256": "5885afb05472c5bed30e41d1ea4d52987b23cd12823a36d3db7eae2367aa1ee5",
+      "url": "2e/a1/d04340fe343e4ad013dd3ab8a72a2cd9925adcf3c967031487f5eec1ffb2/epsagon-1.42.5.tar.gz"
+    },
     "1.5.0": {
       "sha256": "1078bab74a5e3347362911f731dfe709e96ca00d73084d7b52c9e7ebe6046c34",
       "url": "f6/00/fb8c2b8c398eae925a310744a826b4f59ec3a8994b8bddec589aaf801ce1/epsagon-1.5.0.tar.gz"
@@ -8000,29 +8008,9 @@
     }
   },
   "fototex": {
-    "0.1": {
-      "sha256": "fd58e8d87de98278c55d5468c55859f44843a912e7527a8dc2c18240ef9165ce",
-      "url": "35/41/f30b5c6a0358f9cf8d8f8d53508e7fb90679edbee725985e9d489694b02e/fototex-0.1.tar.gz"
-    },
-    "0.1.3": {
-      "sha256": "515c9d7d7ad7bfbefa752e904d1debd9d428db02f5c9403333d126a136ce0a27",
-      "url": "f3/db/93a9cc7154f1dbed7e8902c355fcf20ff35a2db25a5f3222864f2ec3036e/fototex-0.1.3.tar.gz"
-    },
-    "0.1.4": {
-      "sha256": "b42129f3b715c52cbd3c724f032b3a93d3a8b2ea9670a0205aeb0adb92c3a438",
-      "url": "4c/37/37c2649f3e2d0fbdd4c9c6dc43aaffc4c35ecb798e65a2a7225e77a4675f/fototex-0.1.4.tar.gz"
-    },
-    "0.1.41": {
-      "sha256": "21c41a0165a77528ebef7eafb54ad430543c0ef17164ed1e54b8f7cc209dc5e2",
-      "url": "14/79/06d838c8c371c16a7a68e9d612e89b6a5c1cbc2370c4968a32a91a149b67/fototex-0.1.41.tar.gz"
-    },
-    "0.1.42": {
-      "sha256": "294d3148e32100b2a77925aab7c819ffdbcb718ca579d6f5ec71b6c596bde82e",
-      "url": "9b/50/0bc5015bedd76e478aa60258789caebd9a8c16d69bc00b1b4325cac029d4/fototex-0.1.42.tar.gz"
-    },
-    "0.1.43": {
-      "sha256": "7cf64a17d77c1481903dca1325ad52cb8a488b23300093bd7bfca5218748371d",
-      "url": "1d/95/a92e80995027f03dca2297b5e3b92d5017e0bc0434fee203aaf13e6bfc41/fototex-0.1.43.tar.gz"
+    "1.0": {
+      "sha256": "14f16bb1b02e58c2df95b98a7953d19919ca6734b236ad5d9040215b66a3d43a",
+      "url": "4c/e1/282217c1cd9a9312cb5ab80a82e93d54f22a36b46e1b9f6537265c8378e1/fototex-1.0.tar.gz"
     }
   },
   "fs-basespace": {
@@ -15689,6 +15677,10 @@
     "1.1.1": {
       "sha256": "976c2be23831b202e03f5275062eb49c88a136141b7f4c865955adee93749ce8",
       "url": "f9/5b/9e03350408a808652cfd42c8526b05f785ef81f7d419b118fe508f6e69e0/plinux-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "20099b01a2ec640c755d11c8bdc31fdacee1d5f6e1a26ad481ac8e3234544fce",
+      "url": "28/0c/ba8d9de2519f085d4cfef2d450ea130caac836349bbfd755a1bbb818147b/plinux-1.1.2.tar.gz"
     }
   },
   "pln": {
@@ -16841,6 +16833,10 @@
     "0.12.4": {
       "sha256": "d5ede7d98367a7ca2d9abced2ad1623ae971ab34e780b2dce70d37af3623f8ff",
       "url": "6d/c9/93e84e91192a1ec5d1a8d834d4e00f10216c7c40d88965e96bb3620897d7/pybuilder-0.12.4.tar.gz"
+    },
+    "0.12.5": {
+      "sha256": "6cf587a3b5804c00f6d1c85b3026a50e1837fcfeaf81fce795b6a67c469d0448",
+      "url": "bd/55/a38251cbca822b8755ef617f0cf54cb3e6c4c04677ee0875e623ce8f7f9f/pybuilder-0.12.5.tar.gz"
     },
     "0.6.5": {
       "sha256": "8c8e6684414b2c25449f93ad98633b5dd6e64576da511426122e54cd96387318",

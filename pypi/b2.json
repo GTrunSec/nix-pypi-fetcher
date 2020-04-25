@@ -1203,6 +1203,10 @@
     "2.5.5": {
       "sha256": "f3aad684625ac0cb43a4e6dfe02accf09b72421cf1e82868d5f3e4af3ee661fd",
       "url": "d9/22/7eac269aaed89c1986ab3a20d2d5b340e7177e4908699d65b645a8015848/amundsen-databuilder-2.5.5.tar.gz"
+    },
+    "2.5.6": {
+      "sha256": "61086a3492a3ed6b54663f8e57202ec22ab54af3287fcec3c0c47e77a8564d44",
+      "url": "56/0c/76b210bcf765545ac528f06c53ef50ed89c5bffa8ffb2b141ac2eb8b8457/amundsen-databuilder-2.5.6.tar.gz"
     }
   },
   "aninhado2": {
@@ -1581,6 +1585,10 @@
     "1.34.1": {
       "sha256": "863bb80cfe56361939583cba5a652e6c3b5f8588f96f4b2f0200f3a4f1563575",
       "url": "ac/89/6475b6496e8995c06acffb28d182a5dbb984c726d7acc41d1f2a0be04f45/aws-cdk.aws-eventschemas-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "bee9a0ff3eb567a42be6d9e296b9f2da3a31bb8edf6afca937aa8e8a47437a31",
+      "url": "6a/ea/7c1ca94f70e43d78ab3aa0ab01b5a382a8004e77d96051b2a73c6ebd26ee/aws-cdk.aws-eventschemas-1.35.0.tar.gz"
     }
   },
   "aws-cdk.aws-logs": {
@@ -1807,6 +1815,10 @@
     "1.34.1": {
       "sha256": "77cd50d69f29118f5dd52e9618fae0bb07f9c1231ecd3ca038bf1e73ced9462b",
       "url": "0c/3a/f803ef10b6c459c32acd9d777a475fa78e8a1001802e956152e63f6f2964/aws-cdk.aws-logs-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "417532abf083d2c9bd8be7aabd7c9e04fde2d08552b5f849eb01e12364b43b70",
+      "url": "f7/80/8d153be8dbe8b2ec6714de173544da049288245a5b2d60b07c80eefdae40/aws-cdk.aws-logs-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "353f14f2171b599e4231e3f4eb7ef2b6047e4039405ee51c4ea2d0a12c5c784c",
@@ -10495,6 +10507,14 @@
     "0.5.8": {
       "sha256": "cdc73f81785fa07bf16ff1fde2459b077e808b7a171c221b16ca6e98719d56d3",
       "url": "66/88/da69e81c7b4ff536338d1a3047a6f83a73e9aa9ab07f333192c939b11280/getversion-0.5.8.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "98a5219937f10e5c20a7f524fb4f8a1d0657cc3c242e9528373e38243d33bcf3",
+      "url": "94/4f/e541133449838f0cd293f92cf3e4c9a4e04b0d4406fe117f49d1e4b476cb/getversion-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "49831ecb68be5403387a29b5d52ee26faff5d979d9fa5aa99b0f6a86642852be",
+      "url": "f8/41/0ffa81276b7da15d5cf579d22cf751dc894de6835f31f02668cae08cccae/getversion-1.0.1.tar.gz"
     }
   },
   "gf256": {
@@ -16569,6 +16589,10 @@
     "1.1.0": {
       "sha256": "5c61d897a46c988806ade5329e253004517dab84ed81fb17db90a6e46b80c670",
       "url": "cf/7c/e099d91f48851c4bb8265e1c745f2b9f290ef8a9533711805aff7dd395f9/orquesta-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "b77fecd6854699414a8a7035abcde0fe206a8e7387c43c3bd2c55a75969650da",
+      "url": "26/6a/d913c7ab29257028fa5e6c499ccec45b49e979ae3fd711a6c31d0db38ede/orquesta-1.1.1.tar.gz"
     }
   },
   "orvibo": {
@@ -25635,6 +25659,28 @@
     "1.0.8": {
       "sha256": "c4df5953822f87b48504fc0f4ecdb08ae6a518e67e96f9e8e27d841c0cd29d7a",
       "url": "34/be/5800a3946827c9c47dc86f8f4d1d0d548888193a601d7952f1f9426a1724/webdavclient-1.0.8.tar.gz"
+    }
+  },
+  "websnapshot": {
+    "0.1.0": {
+      "sha256": "55a8c427821ecfa3bf86f838000499cc5898f3b33f4298cadba192240d267d41",
+      "url": "fd/7b/5d1658f12fd928710cb3e503ea0c9fad35a3df56168dc253627e3961c594/websnapshot-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "64f742f7696a252bafb4817381878698d712266e86747d0b6484ca5ac0180c91",
+      "url": "5b/3c/10c57b88bb433d1eb375aee41901b94ba6fbd39384699aa512c80db61099/websnapshot-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "d8ffe8383084dfe636c5ed16f58820eea5378d443d4628576bc89dd487b75c58",
+      "url": "e2/86/76e73cc56059601165286d413a368725de63fe9caea5dbd40b97736a917d/websnapshot-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "f572cd3d61ebf69355df5972bb5beecfc5b4680e07b7fb81df2b327653cd59fc",
+      "url": "66/4a/4e12d0504eaef6e858bcd21b64c67c533084a2ba98e90c385a19649e5ce1/websnapshot-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "6def241b91f02d4438006277ca9d8a1cdf9d41bd5b7a3b9bc462ba5e3fdfb76d",
+      "url": "dc/97/5978ea9fe35318d381ad1991adb4a7b6ff6662ae5c2773c7360417c2b3f2/websnapshot-0.1.4.tar.gz"
     }
   },
   "whitefly": {

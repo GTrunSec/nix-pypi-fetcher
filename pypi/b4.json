@@ -2204,6 +2204,10 @@
       "sha256": "d972c3c041ebbd05e83ee89383e3e4e12152bca6bef79decefe234926081fdf1",
       "url": "46/2c/b2d62c00f42ff604fbb105500d55fdfc69a9695aaff0ee1f9e671be7f705/aws-cdk.aws-emr-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "1469ff1cc18978d377a157f4ae48045f7c39433f620bdc55b8c8eba8df2ffbec",
+      "url": "67/db/076ea92cef8dc101affc14f07d7e08b04cba2df6df6068cecf36f97996f4/aws-cdk.aws-emr-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "bb58658263ad7c11eae0fc85fa898b1009ed5e8cfa14b90e31f8b19d4969ce85",
       "url": "36/6e/39f0d8d0ea70d3f30015e3650f865bd126df1668045e1d35188649e2e343/aws-cdk.aws-emr-1.4.0.tar.gz"
@@ -17601,6 +17605,10 @@
     "0.2.5": {
       "sha256": "53931ba84b55318819b163cc04763d2dd16d1edd7dd6af58c3195a4df1c6cef7",
       "url": "5a/99/d81e3d424a07e268103eafbe4161d34db4ffe3ff03fd28321ee168a0f5da/pysmartweatherio-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "3e8f287e573c43054c279f7014c0deed200fb0c6964b15e5b961ef33eb2c44dc",
+      "url": "6f/ae/f625b9c710d3c54ceab7cf3201fd087f81f910025793f66cee81586b83be/pysmartweatherio-0.2.6.tar.gz"
     }
   },
   "pysprint": {

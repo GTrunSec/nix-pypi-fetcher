@@ -2059,6 +2059,10 @@
     "1.2.0": {
       "sha256": "bac93dbed64f3c0acf54b19dd21073b89fab8d2df799dc828ef6becce3874a14",
       "url": "14/75/d18fa69541238595d2aa6e94f4c4d6fc165c885401b0d99dbf540d700f4a/ckanext-scheming-1.2.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "2e1a7ae58121c58019c0ed6b77cb843684e7555e971c5ade4ed43e54957a14f2",
+      "url": "ae/cc/2096de513ebf6e6bd863cc87fbb7cb2cfc1a165fcaadceabf6a1f88245d2/ckanext-scheming-2.0.0.tar.gz"
     }
   },
   "clangfunctiondifferencebear": {
@@ -7872,6 +7876,10 @@
       "sha256": "031dfe741df856937c4b5e0e572d5ebb47db53a92def0bfdeab0651e58f1763e",
       "url": "8a/c6/f27695ecbe10d60c37e4ea01591e0995112f24f2267d0b1ca12c06ae560a/jsondaora-0.11.1.tar.gz"
     },
+    "0.12.0": {
+      "sha256": "ebc6c305514fedcfe947d0214857fef06a461c728dc0a72ba290d6a0b0b7ba98",
+      "url": "dd/db/bd1af824838a8254f889661f0439da04a8393b63b6c81357ac79e401a3ab/jsondaora-0.12.0.tar.gz"
+    },
     "0.3.1": {
       "sha256": "2ff09f1e84e7e21f992c9bdff74e1007963aea83c4e3555f5594aee86237f104",
       "url": "32/16/672bf1960a57a0259715d4d5a2201943dcaa3c3647534ab2e9ad7670e8be/jsondaora-0.3.1.tar.gz"
@@ -8499,6 +8507,10 @@
     "0.2.5": {
       "sha256": "6ac0d7e8d6686da46837032a8ef9e183008183a8608f837dfb53c16165a87339",
       "url": "96/e0/8a4835f1c4d4e01980a65cc91a61d92231b770a28b07686fa4a565ca00cc/kisters.network_store.model_library.water-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "a9c13bcc5dc14000b439767051663fa62ff36f97e9147a4b25a2bee788631cd7",
+      "url": "16/89/61f90ce02a0cb5e885b921c35f4146f2bedfe646d8363802d7195288666a/kisters.network_store.model_library.water-0.2.6.tar.gz"
     }
   },
   "koalafolio": {
@@ -11454,6 +11466,10 @@
       "sha256": "d96cec5050e99f10014f6aad76f9af2fb132cbe4ee9fbd5e42ac27c1d1796e73",
       "url": "a1/38/5b71f988f4ef23d52b1c4a635d0a97b7cf851e2b76754bfcb25111ac948a/mypy-boto3-macie-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "03f573f1e7041343f5b82e7397d15a1f7baaeda32bcc073b3c9165f4ce7df410",
+      "url": "7b/dd/cf8968685418281b4ec50e128f2d858df51ec6799a56111c408a30d7c06c/mypy-boto3-macie-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "75c1293c6a57f496978dea741e8aa03aca37dfe6e19c371cf08b2d9c3ed5993d",
       "url": "19/88/1332b0e26a889b9d7009b8ed5e89a49f19b92ec1368ce8086b473832c9ef/mypy-boto3-macie-1.12.5.0.tar.gz"
@@ -13611,6 +13627,14 @@
     "1.0.3": {
       "sha256": "96dd3a7747eda2aed32d671035805a6949ec4de161febbe4ae3978f6bb8ab623",
       "url": "21/36/641c394fe318628f4f1fd9783d9ec265d20a0a710eed159cd9c9c473ba87/prometheus-metric-modifier-1.0.3.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "3030c64140575893c443c3e77659999b1f8ff37af55551113cc241ec0fb0a464",
+      "url": "d1/43/22304863257bd32df6beace8757d6d60d26656251527eed4665370ce7bde/prometheus-metric-modifier-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "e54d66f3084bac707a94883d3111b9d3f4fad5a5c79ac59ab0be7300ad961beb",
+      "url": "72/9c/846baf97b16844c227e1cd30be5aef4fe2b4f4a475750c7342643c0f1430/prometheus-metric-modifier-1.2.0.tar.gz"
     }
   },
   "promgen": {
@@ -13887,6 +13911,12 @@
     "0.1": {
       "sha256": "fa7455f08cca3c9051480a157e9f9860dc9a5cc93ba550f35be871cf2247caed",
       "url": "bf/ce/16cb25aedb33ffe40bb1e6c0aef9e330a499bc152a70c5a2e25c723ab6a8/pycopy-cpython-uarray-0.1.tar.gz"
+    }
+  },
+  "pycurlb": {
+    "0.2.2": {
+      "sha256": "95c76a2bc74a335111d36a5c12046acaa30f92bb4bb99926dda111e61725d987",
+      "url": "ad/8b/f37df73e1a4088062ff6a8045c1688aed4b03e3ff8af6527959f4162d09d/pycurlb-0.2.2.tar.gz"
     }
   },
   "pydantic-openapi": {

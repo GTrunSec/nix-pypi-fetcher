@@ -23675,6 +23675,10 @@
     "0.5.0": {
       "sha256": "6cef867dca5a269750038dd9cad8991c7caeba2e5d4c0916a0087460390aa9bd",
       "url": "4c/36/2a515a73ac87d9c0bf1328e960c9f65369e185664655847f1338606ef582/qiskit-aer-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "5af4265f530cca1765d9ad5cb9a455d79ab59f79db02c186657a7b68bf7672f6",
+      "url": "db/f6/fdb641dffdfc9d0f02d826143e972d3008f3dd393af70415df0a1a4a7d32/qiskit-aer-0.5.1.tar.gz"
     }
   },
   "quickshot": {

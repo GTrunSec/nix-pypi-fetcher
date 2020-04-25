@@ -5381,6 +5381,10 @@
     "2.1.0": {
       "sha256": "856f52d08e4e3c4503ebed0060b6e19ec819bb30a527a1675dffd0f5e3bee2ba",
       "url": "17/11/b819cdb89b3a2cf8233f031b3fd5c9e2b0861b8ad87dc75f8e1453e54eb3/deploy-config-generator-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "5bd51a17e85e1d7e4e3913bb936eefb41b9c448edbf27efcb9ad022c2f120dd1",
+      "url": "90/0c/2bfc329c6e0982157148c57fe30f649f6612185760385a48310ed68c5bd3/deploy-config-generator-2.1.1.tar.gz"
     }
   },
   "descriptive-markup-toolkit": {
@@ -9297,6 +9301,20 @@
     "0.9.2": {
       "sha256": "bc34b54309a6aa33ab21ff58199bee0ee11fb9bad23d678073bdde437d6305e1",
       "url": "49/c0/baa52be327f81ffd099718410d190ee7abb0256309c8d2c9a1bb48cc7dae/emeraldtree-0.9.2.tar.gz"
+    }
+  },
+  "emtracks-ckampa13": {
+    "0.0.1": {
+      "sha256": "c0b3ca4ccb52d302072a9f3f59e4ce65dd25586656674d9b3a2b056d3e45c228",
+      "url": "9a/06/dcd8e43f13b8f16dda8aa69907d6a2fbfaac4ed6c54b11bb4d2a8cbe90e0/emtracks-ckampa13-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "0e6798d7d734d9a4b32424fa3afae1590c9ff2932720f37d24783f895fbc0edb",
+      "url": "df/bb/386cbc6019ff89bfa2a9638b26e9af200f11f6597bea117282f0d76463c8/emtracks-ckampa13-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "82058e1d5ead8375b19021ec65b9c7944096f788ae801f657b11c261717eede2",
+      "url": "6e/13/d9dbbd48511666235734b72eeaed837fe97412a57aab0aee7d78252cb020/emtracks-ckampa13-0.0.3.tar.gz"
     }
   },
   "emusic": {
@@ -16830,6 +16848,10 @@
       "sha256": "a5d39cee1ba0d70e67bc19b25ce9abdb5bd59aebf5a2fd526dc95ded764d922a",
       "url": "40/e2/f07fe735e77d5ca392a0f358d057049a7e22603a5593787d0b1b076313db/mypy-boto3-codedeploy-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "86b6889d4f91698ad3e71373a4bec3f55f8e22a316ef5781db9d6fe771903a6f",
+      "url": "9a/9a/fbb8f3772cc8b66fedd90996a735d3374fab3f597180c15f1fb8e24a94e3/mypy-boto3-codedeploy-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "81ef622c364f02bcd078004a42180d19a53bdadea8fe20d4454dcecb124321de",
       "url": "7c/54/15361c9dbbf4bfebc088bf33084e88a90775073289a9ca226ddf934b3750/mypy-boto3-codedeploy-1.12.5.0.tar.gz"
@@ -20603,6 +20625,10 @@
     "0.0.1": {
       "sha256": "423bc61dc911e61f7553801f5eda69d40b7a3b26e05bcc65d76a09100dc904df",
       "url": "2c/8f/c7c10cb513e5c0bc012ff41d82e50cf4e1dbf25b6fd56aae6e9b0b3af959/python-fullykiosk-0.0.1.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "d7d9332a6d7f90e80cf964c5917486ba338a95a99fe8c635563c911f9a53d9ab",
+      "url": "e6/90/851a35e4ffc77a2ac73556e19ec34355be96cc0a234ebfadf21636daffec/python-fullykiosk-0.0.3.tar.gz"
     }
   },
   "python-kitsune": {

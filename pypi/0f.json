@@ -66,6 +66,10 @@
       "sha256": "999c881ff0ebdee9b2204dba9573abb1bf8d23c3440a918ceb9c395c18b358fa",
       "url": "a3/ac/689c06680f64acd9d0dfa4d75ca80fea91c9bd05787f6cba4ee674ad755e/adr-0.17.1.tar.gz"
     },
+    "0.17.10": {
+      "sha256": "288f8ee777b6bc6ca9e1f9b0aa6c89a97094a17cc3c58457fc03613e7789de8a",
+      "url": "9a/e4/d46ec33be40292de32d43f5d7e7d038534bbbcf68831f5577b7b9e4f97fb/adr-0.17.10.tar.gz"
+    },
     "0.17.2": {
       "sha256": "3691a89f1fb1bf4e4726f1ef2e52323f88390c9d2f59e357db5d30e1642c46f1",
       "url": "dd/c9/dda060261dd909757a591a2eb12e05074228b4b8a0fee6d0978bf15ee4d3/adr-0.17.2.tar.gz"
@@ -97,6 +101,10 @@
     "0.17.9": {
       "sha256": "4ba370dec74a0e63930f88df3b2a9976b91cf38db918db24d5d3994a1cf9e7b4",
       "url": "87/ad/2a8318a332815f6108fcd282f9a2a12675d4376657f150f196ad05d8c2e0/adr-0.17.9.tar.gz"
+    },
+    "0.18.0": {
+      "sha256": "342c4fb8ba0700049ac468c62295021b5e7c2809ffee5ee608a70ab78dd1ce25",
+      "url": "8e/f1/78d89b4f6091f411f1decc940482becce3aa26060c46123d0165fb407be3/adr-0.18.0.tar.gz"
     }
   },
   "agile-analytics": {
@@ -1305,6 +1313,10 @@
     "1.34.1": {
       "sha256": "7e481cbe2700935573e7b233f11447596767c9fe90ded7bcdb8ae9090ab5c988",
       "url": "bd/b3/f793c57019af32873122a50b12bece4220bd627b6855b9f33ac491bbda6f/aws-cdk.aws-lambda-destinations-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "bd69d23a668ef60ccead196ab0ec539b53b6b4493648c231695f3aea5c5512f2",
+      "url": "38/01/5f9b9c4b4a88bffe7d5ba73b37d88afebeccc1482a918c8b0d485e0e4a28/aws-cdk.aws-lambda-destinations-1.35.0.tar.gz"
     }
   },
   "aws-cdk.aws-rds": {
@@ -1531,6 +1543,10 @@
     "1.34.1": {
       "sha256": "954f120525c422160c305aaabbe401a2a13fcc7de5a3e0dca8b524a49f93750c",
       "url": "da/88/0ea398fae2b4f8258f3ff0874d6c447d0253902eea0d448805f45f5918db/aws-cdk.aws-rds-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "cacd6a7af2a0cda2b695cd6424e2648535de68cdd31f4456cf2587e4ba9335c8",
+      "url": "8d/de/5afd561e07e4571affe2b63d3d9c40678e9136e7a9094bef803b5e787958/aws-cdk.aws-rds-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "13b7d9f193177299e13271eb455b4e0dca44632d36333079d549ea712f148a11",
@@ -2749,6 +2765,10 @@
     "4.0.3": {
       "sha256": "e40f2e975e93176dc206d5661ea6000fbd1b4acb718ce5a331586a741b398a11",
       "url": "01/27/36c6057ef90df083289699de5c269b870944be8104a0b7a213a4ea3051a3/bane-4.0.3.tar.gz"
+    },
+    "4.0.4": {
+      "sha256": "afb7f3a114d10e9617eedb5e7e3a72f842bed7c9f6981f15475ae35e7a876041",
+      "url": "b9/6a/65096d7d541120d141c57171ab70d7796d218490132f3451cbcf474cee3b/bane-4.0.4.tar.gz"
     }
   },
   "barbot": {
@@ -14025,6 +14045,22 @@
     "0.6.1": {
       "sha256": "8637a9e477246c0bba02b38888925f2244a4916233a1eee152a575a96556bd41",
       "url": "90/83/3b3df8fdaea28de1f3dfb2d7480da00a13edef9de37ec2c395a3339b5803/nojava-ipmi-kvm-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "6edfd4b01edb7059ce2411d1d769517c833799e8f50ac67cb106ecbfb542ab0c",
+      "url": "3c/b5/552b170438f9875e8aedea57d4e0dd360e43ff3094ff20fb2314252975c9/nojava-ipmi-kvm-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "dbdadf67c75d32d25337ef9829762e64da3e756a354c5027efd46aec2a6facc3",
+      "url": "29/3e/3d979e2393e6d766d17d6dd1ed03e247b90a1fb965a5ecdbf397ada7a046/nojava-ipmi-kvm-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "f2e2b48bab06d8d4527b28ff45c2cb33545ce9513949ea1c29ec84db9df4eddc",
+      "url": "a1/9d/3e247a27ef9fc1cbfa979d3984d180e929573659f03afe2b41654ef7479c/nojava-ipmi-kvm-0.6.4.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "9e8cfc4669c16ca597cb135925839c032367f65f86b14391ab830e36d49b038d",
+      "url": "8d/05/329821dec999f719ce0a3924a9ade83cacea8750f82e4b86cd4aa4f0fdd1/nojava-ipmi-kvm-0.6.5.tar.gz"
     }
   },
   "nudged": {

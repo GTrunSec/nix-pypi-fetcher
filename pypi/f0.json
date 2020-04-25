@@ -1624,6 +1624,10 @@
       "sha256": "0275dc10237ae1bcf9c5f731337dab1c6ab511ac8f9ac2028f63d1a87d27be83",
       "url": "6f/57/25e41921bae24f43117f844ad1073a468aad47b84d9bc8961115bc6a7fa3/aws-cdk.aws-s3-deployment-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "46f6d05cebaa2816179ff538c91d168310a1249517110d5abb7b21ebcfa01973",
+      "url": "8d/d9/8a10f02b078ef07e81e2dfb9ae7e8309a5b54f21b05a785c403ccee40738/aws-cdk.aws-s3-deployment-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "0810b36869006610c344a9baad0c6169d5e27c018e16185b469bb348703e0004",
       "url": "e1/ff/81a5c8adca1a8560350a1bcc16ea8b2eade7db472fa8b001d8aa936a4b00/aws-cdk.aws-s3-deployment-1.4.0.tar.gz"
@@ -2187,6 +2191,10 @@
     "0.1.0": {
       "sha256": "a828ff6273db22cbd05317e073f65922000246ec834eb226a9df04b49e25bed4",
       "url": "b2/ec/44506c77c79a3797316922b2e6b274f403ec4bb83e3b6ed4a2f208af5aa4/bel_repository-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "d2d8a3c43f5c4ee297f296f0ed5029a7a1af5c32e4c11d446d953c4b70ec48bb",
+      "url": "2b/ee/0bb969362e35649b0785526a413ef2c0173a788668adf8ae03ba9e1679cf/bel_repository-0.1.1.tar.gz"
     }
   },
   "bidsify": {
@@ -18853,6 +18861,10 @@
     "3.0.1": {
       "sha256": "206034f6ef174ca254b7fd9972ccf4a80bfa27ea4c6ffb3321d788a3f0377416",
       "url": "33/dc/e6a168f581b54c1adf1deb2539119b6459553b162f6bac10efe96e694e2c/pytest-cloud-3.0.1.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "e331d771729b3101232d4c99151fe07d25f7fbc38407acffc15755d5fe587641",
+      "url": "30/ec/779971e0f7aa474f920690b7b027bd618b4e34720d7d583188260ce33c11/pytest-cloud-4.0.0.tar.gz"
     }
   },
   "pytest-count": {
@@ -20393,6 +20405,10 @@
     "2.6": {
       "sha256": "40d534a0aae16395caa6e882cbc2b0b662df70e37cc64dca17f52d07f59f149b",
       "url": "29/30/fbc8f61d8be62a956a05f0ebb7fb7bc619347a86a8e0257fdc473a55e071/sgp4-2.6.tar.gz"
+    },
+    "2.7": {
+      "sha256": "0cf5ad876c59d0a5c9fc072b040158cf2efe3cef2610ce7184e1024b74f994b2",
+      "url": "2b/dd/647c0854421a302ca6cb41cca8d44e6cd88d2ad43f857585fad469f43185/sgp4-2.7.tar.gz"
     }
   },
   "signalz": {

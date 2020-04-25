@@ -9474,6 +9474,10 @@
       "sha256": "2d9d8bff9e074489d94f8d0aca3571caab671e38c38cee2b2bf152a1bc76e92c",
       "url": "ff/89/a09c129d6d48afc582eb3c902ef9791729e922cf250b6cf6f1fa35cb758c/EXCAT-Sync-0.0.1.tar.gz"
     },
+    "0.0.10": {
+      "sha256": "29f0fcf72c4653a739acd8a519017973985cd7ddc3e922297fe5f869ef017d64",
+      "url": "65/90/e245e2f9c6d8485bf99c9d46f35eb78d8dbecdb348d59f79c659d0216e00/EXCAT-Sync-0.0.10.tar.gz"
+    },
     "0.0.2": {
       "sha256": "f2fc0a95aecb326abdeb3d339fe496a165e9f04310aa201f2a663f948422da4e",
       "url": "da/7d/4b09dc408fa9c3dc40f9a3afa75588fc53e3bd8ba11308d9cc3d85fc0653/EXCAT-Sync-0.0.2.tar.gz"
@@ -20037,6 +20041,12 @@
       "url": "93/c6/57815a19790af568adb346fa62d15759eba19aec344ca3a744299ef1a91f/pycpanel-0.1.5.tar.gz"
     }
   },
+  "pydbow": {
+    "0.1.0": {
+      "sha256": "e4834b4c955c625edd1cca9148346bfc575bc601ff1f7dc84e4ba398d9c4e56f",
+      "url": "9a/80/3f73adb2f28ae1456cb1c922370f78c2138aed3c0c2213943c1de1fa1d73/pydbow-0.1.0.tar.gz"
+    }
+  },
   "pydegiro": {
     "1.0.0": {
       "sha256": "0e729b31071dea26bdb46e38d4c5f894dc3a681cf52bb565052f9f2c06132bb4",
@@ -24833,6 +24843,10 @@
     "0.1.3": {
       "sha256": "22ffbfc8771ab9d72c75c568ded1a4b5c402581b5ee0718a5d66a571af0b17c0",
       "url": "76/6d/057200d9fa88fd9a7acc0406eda54c961337ead8aa23fe80d3f3166650b5/tcx2gpx-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "39ab97b272d36cd005236daf9efc3284c9e5c9d821cd040158eb3465564ff3b8",
+      "url": "71/86/32c38fdd62e06da726270bd01fcf72dc0b6d8c17b6a4a8755563d632bef8/tcx2gpx-0.1.4.tar.gz"
     }
   },
   "tecthulhu": {

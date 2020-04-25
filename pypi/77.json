@@ -9743,6 +9743,10 @@
     "0.2.5": {
       "sha256": "0416b223b8e5a1fcaca08787901c453ebb30c4a5866d860222b380e61f463777",
       "url": "c1/c8/aa74abd9f20168beca92b2ec3dc520711738ae9075633df14428b6fc1de2/gaussianlda-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "7417c2016e6ac797ad118bcc478d92ded66c6233cca783b5dd321ffc001f124b",
+      "url": "78/ca/68eed7aedc3804a48628b3d8be0a6a113c811d30c47dc03bbec5b1f33378/gaussianlda-0.2.6.tar.gz"
     }
   },
   "gazest": {
@@ -15250,6 +15254,10 @@
       "sha256": "57bb2a47b12bfea4f1cacebd0e01c21548da11a40fc0e39db2e4dd8ec6642ff3",
       "url": "c4/44/85d0a5dd45904bae36e1023d4a83227047ea7b0e7a0fb21aff532fc374c6/mypy-boto3-accessanalyzer-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "11d63a78c96ad93d9fbe19da2728fbd4ce1b0effb86e75b2d81fe322a248b9f0",
+      "url": "3c/d3/89fb3b1bc2f7a58e3fe57184118666bbf70705954779ac77a0c89f51bd6f/mypy-boto3-accessanalyzer-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "50ec4a2c1051636eb0b36138d688c12246bab3aa8daccf9d44321516f81b5409",
       "url": "cd/6f/5fcb6c40f82e61efddef09b3594e662ad53fb51878a1db97430cf630b74d/mypy-boto3-accessanalyzer-1.12.5.0.tar.gz"
@@ -15763,6 +15771,10 @@
     "1.12.45.0": {
       "sha256": "59926716525f8c2841c9299b38e63967d663fee12029612c0c825711a5f120f1",
       "url": "4b/f8/5f3d6d72874f3293fa36360b34cc51d2096c367b6476b297143750b979ca/mypy-boto3-lambda-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "9c99fb48cf5dd3dc6c49673b0438145fb12e8d90b192dd0f7acfa2d005ec5991",
+      "url": "c4/d1/9106c2a2cca71f7a782990e1bbc68d038471263245b261d490f5d4cb1ffd/mypy-boto3-lambda-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "8efff6a41c27de964b2aba6fa51274fc63cc63b1a85136f54a5e18c8ea5bcc62",
@@ -21303,6 +21315,10 @@
     "1.0.0": {
       "sha256": "c75f8084374363eea0d0a958c015f2c6bdfa25b5be12d6a803bb8d00304a1654",
       "url": "6e/63/538f903a3c05df4a0841f21b17373b4667634af62dbaff9b8fa5564c2add/qtoggleserver-thingspeak-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "ebd702639f4c72579775278801c20a2f2454cc4335cb22addb0e40ca03e7871f",
+      "url": "61/bd/f58349443d2d7d35c1f9396b8571a43f3decda8594cc215fdd0f67ca90b4/qtoggleserver-thingspeak-1.0.1.tar.gz"
     }
   },
   "quantum-esperanto": {

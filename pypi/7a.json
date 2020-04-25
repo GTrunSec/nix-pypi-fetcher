@@ -1818,6 +1818,10 @@
       "sha256": "62e9a72d4fbf0110eb4bfebb29934edaba81709b7513b8fe4829a084f5bb0ada",
       "url": "d7/15/927c15facf755c6d219a56d70b0beb092ed0653338f1a9abf30435297670/aws-cdk.app-delivery-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "6e56636f54d24f898c5140d86f95c2c54477f8cb7c86e961b303bb77c364eeec",
+      "url": "8f/88/02f7b4d4ad1de16622b64806b8a0710c27974e3677710c9e227788902279/aws-cdk.app-delivery-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "1cd174246a8280d81b04a5c2c55a13dc0aa71bbb3bad176481adbd476f8cba7b",
       "url": "f4/bf/6fbe3b0271524715ca78bb0424cbfd8d25ecac57fa3a366730bc25b0c9ec/aws-cdk.app-delivery-1.4.0.tar.gz"
@@ -14186,6 +14190,10 @@
       "sha256": "d7347c45f3a7691661f5ac00685ae5b992d88357c7cffc3e7817f3f67a0024b1",
       "url": "c4/9e/49c87c362746c7733d9c4d4574a1c212016f9442effd2975590ce448232e/mypy-boto3-shield-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "484515d847bec17c70bc1fc1d7223f5ca557365779d32c888d2d9013038c0b00",
+      "url": "93/cf/41de9d84b40fde24cbf34d2ad5137715b64d7e6cda268d5511e2c9d39b5b/mypy-boto3-shield-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a83665e5e21c2c6824aac9a9ad15a77ad06b3e8278d12ada88b1259f98c87c1e",
       "url": "41/ba/8747eda9845631d8d1fb96b623de932051b0a157017c2779cc72aec53de1/mypy-boto3-shield-1.12.5.0.tar.gz"
@@ -16661,6 +16669,10 @@
     "0.4.1": {
       "sha256": "053e63b504c59feaa1e7eb6ebfb01e7e386ba34c6db0d0beda3710fd876a2fc8",
       "url": "e0/50/8751bb2b14d4e6e983e3e2a6ed794ba310abb8521bc72c3b42ee0a271283/plenopticam-0.4.1.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "49caac923dd96b3d336ff5c9963f300b5623134302dca6c522031df9cc617769",
+      "url": "af/65/a2b988e50f6b2f5a8bf2e7f0d860ab8557773154c342519b794d065270fe/plenopticam-0.4.4.tar.gz"
     }
   },
   "plone.recipe.runscript": {

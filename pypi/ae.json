@@ -4850,6 +4850,10 @@
       "sha256": "036183d917429a7145b031c55e7c1b9ea24f0d034fc612669963e8a78e662d74",
       "url": "a4/ea/d29f946e24cf2a8b5bee75ecacb79e30fb7b51f4a78d2965c6b9a23417c3/botocore-1.15.45.tar.gz"
     },
+    "1.15.46": {
+      "sha256": "ae39899dc450570968e3e128d2c8a011e5f8d4f6fd07a7d1f01df10a11ef332d",
+      "url": "2b/d9/d1a341bec0f264eddba169b0d40aaa6da064fabba3e4a0d482b149c6fb84/botocore-1.15.46.tar.gz"
+    },
     "1.15.5": {
       "sha256": "9de7885e9e9d6dbc30b9846d7edd8f98251db7f00395a6f4cfd765efc7098bdb",
       "url": "b0/62/87c999c172ce1b365b906f840a3c3d40732bf3ef869cf9e250d926907a47/botocore-1.15.5.tar.gz"
@@ -17811,6 +17815,10 @@
     "1.6.2": {
       "sha256": "b63db20670f1ef2c08ccbf025b631ed31f446e04d7fa5123dcb2bc4e29bc4919",
       "url": "19/55/be6037ff2378ead015054039fb78a13173927efe12ad2c56e41cbe8aa126/mbed-tools-ci-scripts-1.6.2.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "9639dfd0e993f0c14cd1d39a54409d6c9825954d11d95d18038214482ddf9f1c",
+      "url": "2b/e2/3431eb166ae05caa96c7a3f1f3d841c7d071f35b5da1a35aa07518ddd849/mbed-tools-ci-scripts-1.7.0.tar.gz"
     }
   },
   "mcerp3": {
@@ -28288,6 +28296,10 @@
       "sha256": "e3332750aab53b6b0f9742185c22be7b498eaf386dfbd28f0b08e0d00e0809c5",
       "url": "44/d6/148fbafbe3dc68cbcc8e493758d68ccd59cce94308053e0b16ffe4af16b1/SnakePlane-1.0.0a21.tar.gz"
     },
+    "1.0.0a22": {
+      "sha256": "d1dcbb13c796ca486a6c405153911ccedeb573699692afa6ba233f4d8afc1286",
+      "url": "a4/08/38177636fd92a7cda17085ee74a70bcb0d9b1d1456e05a8798b1bee76d1c/SnakePlane-1.0.0a22.tar.gz"
+    },
     "1.0.0a3": {
       "sha256": "8beed301896015efa1f26ce5e9d2ae5e4ad59c14e32cf2fb2f11eae9ac332fa8",
       "url": "c8/58/ff3559536c2d435279a2ff04ad336079ad4705c6ec5a4b0a979cb0957ade/SnakePlane-1.0.0a3.tar.gz"
@@ -28573,6 +28585,10 @@
     "1.0.6": {
       "sha256": "ec12b0c37723b0aac56610fb9b6aa68390720d0c9c2a10461df030c3a1d9af95",
       "url": "8d/e3/dc274dea5feb37af623f18d22a3412466559e52baf6bb559e74883018317/sockjs-tornado-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "02ff25466b3a46b1a7dbe477340b042770ac078de7ea475a6285a28a75eb1fab",
+      "url": "24/47/a20adc10b88b5fff845cf7e6bba7df5e0a9bec68bbb7259171ee4c5663e1/sockjs-tornado-1.0.7.tar.gz"
     }
   },
   "soft404": {
@@ -31089,6 +31105,10 @@
     "3.0.0": {
       "sha256": "ebd997d12bb5d074915273bcc4fca66da36d1d6bacdf9881d9086b0c5d22c8c3",
       "url": "7c/c0/32401b505d62f865624616cc55b4a3ceb0f829529de7d738aac0598bdd38/vitrage-dashboard-3.0.0.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "0c244058f66dbdf4ee4d87692a155f14576a9e4450441eaa675da13ca187b27c",
+      "url": "3d/7f/9638de2fcfb773529ceeb39b957d0459587ada6af4e760b01388c21d727e/vitrage-dashboard-3.1.0.tar.gz"
     }
   },
   "vktop": {

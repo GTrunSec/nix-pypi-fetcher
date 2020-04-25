@@ -11895,6 +11895,12 @@
       "url": "f4/c6/bfa2b9c6769fed0dcfe008e5f3a9f03527135e4abe545054c69ead95072b/inbloom-0.2.2.tar.gz"
     }
   },
+  "incompatible-with-python38": {
+    "1.0.0": {
+      "sha256": "bef54b81a2ca6d9696da99ae13d18d8f5c3c495cf3df48d4b8db58fc4125312f",
+      "url": "1c/2b/ad8de46579b5ccce0bfd9605255667f2dac7cfd6b0b0299c90a63d0f038c/incompatible-with-python38-1.0.0.tar.gz"
+    }
+  },
   "inheritance-py-sa": {
     "0.1.0": {
       "sha256": "d71965a78d9e4250a6d7cf1452fb2e33e00d50ee67ab82b539421b8bcff54a01",

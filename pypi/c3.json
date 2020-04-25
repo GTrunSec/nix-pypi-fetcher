@@ -1602,6 +1602,10 @@
       "sha256": "6d26d2d0953c3030520c3d07c3186cd5381b0f4f4f324e3e95c1affdae5793ea",
       "url": "17/01/6ed48085b830488eaf5001e0572e3cde72db0473c514a79334b00e3095d2/aws-cdk.aws-wafregional-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "eb5d9964ed7ce1fa5f8fa0af0f7b5ea5b6048d1413d19dad446344b413f5bdc8",
+      "url": "3a/c5/e0669888e806d07fc79cabf4cf50a90ac09c6612de9f2263cce0e27ff7cf/aws-cdk.aws-wafregional-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "fa8b63e97b2b104a25080655511e559903b9c1e7c50476ae5d61712dcfccd37f",
       "url": "2f/81/ada7f3d149cda5906b34caf177e624b60f83a329af5623aed18821fb5942/aws-cdk.aws-wafregional-1.4.0.tar.gz"
@@ -11684,6 +11688,10 @@
       "sha256": "05d223f47e5fea1552bcc43eafcf99241af3e386834ea57103d381aa91b40382",
       "url": "3f/20/a2d2e1d9ea205202d2ca8ca7e9638a12ec1ef6d06f935fe5d5ec9ef9003c/lisflood-utilities-0.12.0.tar.gz"
     },
+    "0.12.2": {
+      "sha256": "2d8517711629d2118dd9b7c37a3ab8b98b6869f2af3d9c446b4869a30c2ad9f9",
+      "url": "75/cb/a2e9a16f6ea31de8b40f695496f2dc1ea682fd251d7c2e15447e1ee7ac89/lisflood-utilities-0.12.2.tar.gz"
+    },
     "0.2": {
       "sha256": "30f62306f0515c48d8edbc6be7c28a261ec4b43bf1ff3337043f773591eb723d",
       "url": "05/f8/ea8638a686b737d7b2df35e76042acfc4a9dc693dcfb6e3c2bb3866fb4e0/lisflood-utilities-0.2.tar.gz"
@@ -13755,6 +13763,10 @@
     "1.12.45.0": {
       "sha256": "c645c01ac77d1937530e27afbafddbbd1652020070fdbd0f62926fe096ffc379",
       "url": "06/20/7e38a14e87f58e3a5c1b2a3511195a9edb0891a394c1388a4ff00b6701e5/mypy-boto3-mediapackage-vod-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "30caefe8035ca9aa403c3d6c8c6183fca9a576e018479ed00f2c85518b3231d0",
+      "url": "09/83/b764c3e76e1b206f4d417b81f54ee74187b507f9520a1b3fe82e686cdebd/mypy-boto3-mediapackage-vod-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "4e4c7246fca6391c29aed43140e11fc3d6976cd0c2833c28486fb8b4627d3b38",

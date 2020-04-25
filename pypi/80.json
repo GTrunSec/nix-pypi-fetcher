@@ -1690,6 +1690,10 @@
       "sha256": "fee2bff6b7dc1f98179ed37b39e6bd51ac43392964f02215ef823386c4dca609",
       "url": "fe/fd/cc48254feaaf02a0adb17f9023fc25b54c1cdc2e65036e13307d64d504c8/aws-cdk.aws-certificatemanager-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "2b9fac732fee4f76016e97fd4665df3c69e90646535296d829af879d57769061",
+      "url": "9d/74/cffd6f115c9715f05e91d57130bc88389a4fe2cad80e2784e8d5edd0fa37/aws-cdk.aws-certificatemanager-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "ef9548829e103d846b692f559667915873f1427caa512c9dd11f49cbfbe48343",
       "url": "22/b4/872d50714453fc4d5356886b27f8acf6c5fdde7a4fb6b9d01f5a9f23f5c4/aws-cdk.aws-certificatemanager-1.4.0.tar.gz"
@@ -4905,6 +4909,10 @@
     "0.7": {
       "sha256": "eaf18ded26f80ce4c08227602fc3055acba244717d935f2ee4cf763be7c2d899",
       "url": "8c/ee/750859bf28622a9b052e8e94a3d0f8fb524cf8cc86f866f7072e469700e5/django_pagarme-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "e524286c921baf352780308fba900d1e4d2f8932a3083cc411f5f757c1e4b60b",
+      "url": "08/c6/66623e6b6ab8c9dc2dddff3e98681e4ea0dc34ebd5ee538667f26f17635f/django_pagarme-0.8.tar.gz"
     }
   },
   "django-qiniu-storage": {
@@ -6433,6 +6441,10 @@
     "0.0.7": {
       "sha256": "fdd49a7bdb4badda6ab97e451e27b2b0dc1c96d17b2e9ffbfab05c4242e37d82",
       "url": "9d/8c/92b387109ee4d8c72ff1ca83bdd18a6460b577222321ae113aea465da9d7/fast_tabnet-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "3d2c39f989745fb8325ffad3c24d1c0d94907791d58ff2dc01736b5c538b1ae0",
+      "url": "b0/cb/8fbe8cb539ac269e37ec72b313a597ef51eb3d9a277a8ee1768e1a20b41b/fast_tabnet-0.0.8.tar.gz"
     }
   },
   "fatpack": {
@@ -12180,6 +12192,10 @@
       "sha256": "cd43f74a01b73f2f20b24ed87659208aeaca8d5f049c70924ba063cac70326e0",
       "url": "37/5b/6141ef3074233690947c7a61294dab6ec6e85a9af1b0e6aa0be591d3e94b/mypy-boto3-es-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "3187ea3814307b9e4d204fe5187c81dbfff908629e709d411f40966f180d89a1",
+      "url": "24/94/ff794ef42657878f104bbcaac633aa6030ce0406b558433cd3a3b4d02160/mypy-boto3-es-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "27c28e89d6a93fda74b99325bd7a639d1b1747aceef3004256a71c7097efa5cf",
       "url": "61/5b/51c590adf7e88dbe5acb7bb6299a0c543a0b0f96a76e870cebd5262436e8/mypy-boto3-es-1.12.5.0.tar.gz"
@@ -13671,6 +13687,10 @@
     "0.0.1": {
       "sha256": "78419988ed0f828596e3d481f8a39f5f7040367387fc2d92dd2091d9b05e4fd5",
       "url": "94/42/cddebbd28053881e27f100ed4e2209b0730614af57a853fa7fb027107af7/pds.deeparchive-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "f47cc1188960f2fffc6069c09575a818bc0359c9c4e7df10b502bd5d931dd9e7",
+      "url": "ab/d4/8330614146635e7bcd79dd89dc43f5d76e1cbee74fceb94263e177a62f67/pds.deeparchive-0.1.0.tar.gz"
     }
   },
   "pdsavails": {
@@ -14649,6 +14669,16 @@
     "0.9.9": {
       "sha256": "b893f5f7c737d850179d15bedde13bc2621e975ee211c8ef0fb9dec0fe396a51",
       "url": "2a/3d/8192360c6d425c6014bc2811e4636bc9ca742db1cc46caf072b105849abe/preacher-0.9.9.tar.gz"
+    }
+  },
+  "predictionscorer": {
+    "0.1.0": {
+      "sha256": "67cda7eedf55c662f351746a254acd8859c9909c98baf077fb4548d7750dbb26",
+      "url": "b0/19/ba737d67e42d44f00c0e49a206738947bdd4f7765504ef58ab8c36338693/predictionscorer-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "802589e77f42601c2963fa8fbab9b3e754605cf2ad1a186e6fcfa779def184a7",
+      "url": "5e/12/934c7b2db3123d6196e837879463661c4e1a34f4afcd275914c621efbc66/predictionscorer-0.1.1.tar.gz"
     }
   },
   "prerng": {

@@ -1005,6 +1005,10 @@
     "3.1.0": {
       "sha256": "c3686d751bc3f59dff942b546409b10d6e5592a320649b85ff1533bbe25b31d7",
       "url": "a0/53/5191e1eb95aa2a326f31c1885f02059cbd5cfb57f8956a64ec3989cc2608/backend.ai-krunner-ubuntu-3.1.0.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "d4d757f99aa5833e3663532b8a06694b6f80628c310f47fa85d027d5f9bef6a8",
+      "url": "ea/ea/08d64dc25c043adda54b4f1709239f33a8f5b0ac6d00b438812d313a3f93/backend.ai-krunner-ubuntu-3.2.0.tar.gz"
     }
   },
   "backports.method-request": {
@@ -4322,6 +4326,18 @@
       "sha256": "f9e6df34351d94d745b9f61e0993dcf3a954838bac1b573c9852363e0913e64a",
       "url": "aa/bf/d2911c2584ca99aff080843af30c0e4c7551b37e1697df70b3cdaa5ae437/DCinsideRead-1.0.142.tar.gz"
     },
+    "1.0.143": {
+      "sha256": "ae4d514524a464914ff95136ce11d7155a6e0775d594c33ffd5941ab2e3ce2be",
+      "url": "07/5b/23c411d3500e537d1ffc3fdbf173d5f4da0b2b58abf4c9b9943cd519d448/DCinsideRead-1.0.143.tar.gz"
+    },
+    "1.0.145": {
+      "sha256": "80bdfa0940ce484a27bc93535efdc31888573af3eefa013e3f7c433f8855b93f",
+      "url": "f8/15/90979546a3aba6b5081deafc1c027f106619c6db3dfbb4ae04b3cb105012/DCinsideRead-1.0.145.tar.gz"
+    },
+    "1.0.146": {
+      "sha256": "ec18f87b89796a55115ab5a9277cdc47418d5e332e36fbc211ae79c54fedd852",
+      "url": "e6/61/e7061be4f3283a3fa93b6fa71c754fb620087a616d1e2f5ce5777f21f7f6/DCinsideRead-1.0.146.tar.gz"
+    },
     "1.0.15": {
       "sha256": "80a069cf09315df06849dc4a616e0193a11d8f74a7cbae9293927fb4a222da9f",
       "url": "f7/0f/9c53d2c86f17f68f8f3cf95d1a55e39510085b072002c7db5801c05e7edb/DCinsideRead-1.0.15.tar.gz"
@@ -7343,6 +7359,12 @@
     "0.1.2": {
       "sha256": "ea1c957dfd14296477089984c1cbbd89b6da69adb2d37d5f55fdb214a4c75fe6",
       "url": "2d/98/0c2f761450eca5d9401be14b9fa44d61da13823eb7005b7793b843b0f85e/formulaic-0.1.2.tar.gz"
+    }
+  },
+  "fugue-generator": {
+    "0.9a1": {
+      "sha256": "a7c4fb61d791ed56311e14ba393f8c8759fa3dc7369d6423b151671cf8792299",
+      "url": "30/14/3785de790ba69aab8ab5951185fe2fdc6e3e17577df00aa2a7eb56410f6d/Fugue-generator-0.9a1.tar.gz"
     }
   },
   "funniest1807": {
@@ -12304,6 +12326,14 @@
       "sha256": "a306cc8fa9ccca9d0f7f7582adf5936f79ca0739049e36bb7d1cf446cbe9baa2",
       "url": "90/aa/76eaede34f2d70f17451d3f8fa8b07751a5a317f567782125123a3c079e0/ml-dash-0.2.10.tar.gz"
     },
+    "0.2.11": {
+      "sha256": "8cf68437d7ccab88754643a4cd868890c030d2fb4eb13e3fbcf4967a81931b27",
+      "url": "67/db/5e947390759f527ab59312a7b61340c9b1522a5f6ff85ed3ac92e435cca4/ml-dash-0.2.11.tar.gz"
+    },
+    "0.2.12": {
+      "sha256": "0b5978a2f0578a1afbf89b44958d0cd18859119352472db60b12b01eee5da520",
+      "url": "75/bc/e57d20d97d6a43a5214707c0355343776bba896f9e7115c42bf04901afb4/ml-dash-0.2.12.tar.gz"
+    },
     "0.2.3": {
       "sha256": "de9c3a12aa2e5caf4cef6d83669f4236bbcdd4d16b3b4aabefe5f5cf76a12db1",
       "url": "39/fc/45ebd67029f33e4e411f4b376ce4f3374022eed9a3e507f5a5a0a0b4d58c/ml-dash-0.2.3.tar.gz"
@@ -13324,6 +13354,10 @@
       "sha256": "cb98b2409f2e7f35b3d1bec2b5355dacd8b6e90ad9913674a85735299927823f",
       "url": "8c/96/041d375b91cf2599fa5bf0842544226841a43b6bdcfd7c1d1544cc621d18/mypy-boto3-guardduty-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "a5d2831e433feb1294be1cb4cba140a599a68bcdccce9ad71fb1934dff73d8e7",
+      "url": "d6/d3/11a9c9fa7c06b59ba11b3593925ee3662e5a2bd6d3b06372b0914ce4737d/mypy-boto3-guardduty-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "53c71dc1eff171b194033ceda1e0939c084985b400dfc036878dc1d082bb0e60",
       "url": "de/19/ee16c4f31f491f93d6ee98b4dea73b526ac9ff65b923d484204186776fda/mypy-boto3-guardduty-1.12.5.0.tar.gz"
@@ -13841,6 +13875,10 @@
     "1.12.45.0": {
       "sha256": "9e22f1721792de5cc6abffd4ff3931632c08163f89be434a0b23efc82186ab5a",
       "url": "2a/f3/36b0fcf9c99807c99230e2e097d79470e85529d3027d830ab7d34487004b/mypy-boto3-iotanalytics-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "f4d31279c99ecbc8c7e939d4386754d2a727b76b35b018daf6f0556471803934",
+      "url": "73/9c/22c2a8a3ee3593a54ce589283ee9439b7b22bdd83566d718bdc9feb30f04/mypy-boto3-iotanalytics-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a425ea68a032f51bcc249f64b5ecdb6499e9ef82957d43fdc6f8dff0577933bb",
@@ -16989,6 +17027,10 @@
     "0.1.2": {
       "sha256": "4344807ebf63b4393a2b90ffb1195952067ff1db6600007fad9de7305d37a1ad",
       "url": "6c/e0/ad9c69d1964ab29e19f564fd138a2346f3a79c34081df676778c80bf3437/pycopy-multiprocessing-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "d9a3bb1b5e9c9ab834bf8581133945af00b79744b099155141ece3dbfb992064",
+      "url": "96/ae/6afe68135cd658d4e15e36f461a99c87bd1a1195bc16167a5fc7e590fd19/pycopy-multiprocessing-0.1.3.tar.gz"
     }
   },
   "pydar": {

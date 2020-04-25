@@ -1684,6 +1684,10 @@
       "sha256": "b1c23f0c3976f4a785c741970a7b9ff80e114598b71697f663ee1fe3d8facee9",
       "url": "85/60/f8346c364f87e693112d5b0b6842c4119a30ff14d1395a8e98c90202db04/aws-cdk.aws-iot-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "5b0baf1d0e5c7546542b77615d302d01138ea0f60cc88c9affae9dba62753a3e",
+      "url": "58/82/26182553f944279b4120f224b545266b063435e8f5b994f27d9d50db61c2/aws-cdk.aws-iot-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "faa77567968ea472e2f065170651e71a166f07603942e4c788b7c25b1335a8fc",
       "url": "e7/65/efeccd325f1033af70b123789edde23ed942595d09a6f3be50f46f977ddc/aws-cdk.aws-iot-1.4.0.tar.gz"
@@ -3357,6 +3361,26 @@
     "0.0.1": {
       "sha256": "7b71ba8da71084af91f2cfb1143950bc373d12b8ba9a68b16472110688afaf4f",
       "url": "a4/08/668e77eed82b0b0be3018027c7d0807cf9fe5e5ffdd4447f33a695ea2fb1/clo-tetris-game-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "7a28f4905850c462ccc45c91f1dfc30e5832c503aab9cd945fff3436d13b9973",
+      "url": "d3/47/7f0198b74182f43f5e221c3022a6f7ac318b610e97408afc015a2c1c4c5a/clo-tetris-game-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "0ca74f84060b5bda0d558e6c000f96a543d5714ecdd81f13d518fff5284a7a97",
+      "url": "2b/66/d6f0f66aeda3ff04d35ae35a69c8e06e1eaa39185de591b766e111ab51f7/clo-tetris-game-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "60196d31cca8ae12bff9bbef07de898bf7aa7ba0a9ec817f8c31a5c4d8028008",
+      "url": "3d/e2/77c4220612f277fe161ecb84c52b613e71783d58297b19e0f00c51a0d18f/clo-tetris-game-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "0fd08bec214308bff87796122512d2d0d507d99e37d2521495ff0f3c60c847c2",
+      "url": "0d/86/03b0d62b353fd65566ac75f34cf8311c83ae61a3a5d7ceb9ad2c1a84a6e0/clo-tetris-game-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "e8430354f479b430602f7ab570cd7e9be863e8d41acfff34c2d6fc697c7b25e1",
+      "url": "be/e5/e8449c26070c5772ff0ec9d14fad544f7ca97d3e851f4c23f07a044328db/clo-tetris-game-0.0.6.tar.gz"
     }
   },
   "cloudmesh.openapi": {
@@ -6839,6 +6863,10 @@
     "0.1.5": {
       "sha256": "da85a4f4c8f312c79605bc0d1ec7ff6d67709c114567607d6762176da10fa2b1",
       "url": "0b/2e/6eba3d08402e0332fdae659c02c0621864bc2f318850ec7836824c4f9ea3/etl-pbshop-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "8bd7d7683d5cb6c2b3a16b2ff26b13e0ebdc94769acc90b2384cd4a68eba658c",
+      "url": "ae/8a/e9cdb437df9f13b9a88bd01e1f699612d8a86f0a1bf4d66dc7236d6417a7/etl-pbshop-0.1.6.tar.gz"
     }
   },
   "eurotools": {
@@ -11235,6 +11263,10 @@
     "0.7.7rc6": {
       "sha256": "624c10eb6cf3bd7da986ee3070d70ae11f7f95d46f06d082e7be08877cca4e1d",
       "url": "c8/c4/7bc318c77cfdf31fcc71f606d0edd20850fb57da59040221b1de6f036fa3/kintyre-splunk-conf-0.7.7rc6.tar.gz"
+    },
+    "0.8b1": {
+      "sha256": "63891306f84fb15925fc263000e59dc6d3ac9e98dff4b46763b390ae8a8da680",
+      "url": "7e/af/9a92b643ff1740566168790a5ba6e0ff6f4161b56d90892eb6a0182471f9/kintyre-splunk-conf-0.8b1.tar.gz"
     }
   },
   "km3flux": {
@@ -13652,6 +13684,10 @@
       "sha256": "12177fc2487a42851491a7199b96aca9b285476b63c80742501bf950178f7621",
       "url": "99/81/360c29eb8f622426889185cb731d2def478ac680a645f094f8ba41c1fb1d/mypy-boto3-frauddetector-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "0d86d6174f80485f60ee6fa1580ba98b4e31a7a86cbabcaf4308d1b0b5479a3f",
+      "url": "41/7c/a5ecb87d32f24920abf49b3267b582f5bf85e29be951166a587a9c792d0d/mypy-boto3-frauddetector-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b52cebb7462ae367feb3c389eeca52c87b7054ca386ab100e6d4d4b3d89c2483",
       "url": "6a/56/b21d6e9f220cba9fec7bdec3159c8869abbdaeb70954c2562a4bf18fa748/mypy-boto3-frauddetector-1.12.5.0.tar.gz"
@@ -14173,6 +14209,10 @@
     "1.12.45.0": {
       "sha256": "6bd2750955c09d4515e8e034945b17c61aa98c068e7dc680e5283a7c7f65e578",
       "url": "74/4c/9da7d42e51441c742d56edf5647ffc17852c5b3781f5e0acac1a8bbbadf3/mypy-boto3-qldb-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "02511270bbf003e6f67cb8aae0e5773064f099ed738da788378fdbefdea55245",
+      "url": "b7/ea/e62886b96eaf592d982dbb8001433a82085b8e6401ded3df87282fb56dc0/mypy-boto3-qldb-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5ef6d300768d51b50bf26d61461fab7c87af26db177450a3ee2f3697860a7867",
@@ -21281,6 +21321,10 @@
     "1.37.8": {
       "sha256": "c9b6c847dff4568119edfc12e418ded632b5c04dc54c3a5e913009aadae16cfa",
       "url": "c8/76/eeee4f1111cb60a155e9e34db523bda017799c0d9dd18123373e967b832b/seleniumbase-1.37.8.tar.gz"
+    },
+    "1.37.9": {
+      "sha256": "622d84a1a480d38cc791b4981d85af6374f15d1d0b1c814842bb01d3903063af",
+      "url": "09/63/787d021debe306762578de96bb991df83abeb4ae0ef95fa5eb6b770aadc7/seleniumbase-1.37.9.tar.gz"
     },
     "1.4.0": {
       "sha256": "857934d6bb38625d6a0e091133dcc53f8dd244febe14b728424984e0924f2227",

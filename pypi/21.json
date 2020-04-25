@@ -1397,6 +1397,10 @@
     "0.2.1": {
       "sha256": "c412a7b7c1d667bbc805763fdbddc81a62ce6be87ecd660c5cc03ebb5a54803e",
       "url": "6f/0d/573070d3949cefbebae7f3f87676f56f0b1c8f930196ab8a06ed945763c3/banditml-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "6ce4a5a3e1227af03605181144d2c078d898014368555a01db2ce17ba56bc81f",
+      "url": "62/04/71021279f23353d3a2765122e75129ff3695f5fa93047a8606ebd738f851/banditml-0.3.0.tar.gz"
     }
   },
   "beanbot": {
@@ -11386,6 +11390,10 @@
       "sha256": "7b8b553d7844b6cbf130673fe608d277f7afd4d2703fa0b2fc8bb1484cc33696",
       "url": "c6/ab/d4e67915d812c67773743952eefc3ad56332fcb684c1768f2362439dc883/mypy-boto3-apigatewayv2-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "38690d8f2196f7e22e24dd187c381a5b00de1343bba14c5ecfc171bbd5ecdf50",
+      "url": "3e/1c/e4f73916e9a10b95e30d17ac98de74be8841892be465febda161da0b8c15/mypy-boto3-apigatewayv2-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "539edcde8a6fea9b299af3bd528c656d1ddc56a1f6fc468ab03eed4b6fa8d332",
       "url": "07/36/61872cc5871fcb174eff3fafaa09e2e73b4e4391fefed7225860d72cafe9/mypy-boto3-apigatewayv2-1.12.5.0.tar.gz"
@@ -11903,6 +11911,10 @@
     "1.12.45.0": {
       "sha256": "a5d5eb087313d6ec4044cc34d16b717a5e23fa7ebc77d94ecd8bd7d95d0bcc46",
       "url": "c6/14/945e0fa2e6457b565412460b4eb1165a30ed028da63449a7402f6c1ff944/mypy-boto3-fsx-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "4e01bd32eb2e71a46d6a7f5b1720c97b8d0159dc6cd59574dd126b3cf849589b",
+      "url": "74/ab/e11601f5cae22a82b8dcd63ee9dd3a44cabd35f6622e49bb7dc9b9facfa9/mypy-boto3-fsx-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "1d6eeab23714e6911cf6523473ca240854d8fdd767fe557697607c6a0ddffc67",
@@ -12461,6 +12473,18 @@
     "1.0.3": {
       "sha256": "0b5c8129739152be4708fbe1ad81bf00accd0e8949702f0311dc3cdce24e657a",
       "url": "b6/30/960467f688d286b072515dc8bf4ae5b3c3a0306c502966996fe787ba3ca4/nr.markdown-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "e0fb765e799c477fdff9c135bc0bedb9a15b305b64d8e66bb96ac2b119a9c304",
+      "url": "91/91/5b6c52384e9dbfddb4171598cd9c87c2f10f4fd7c52e4d8804c6404b5cc6/nr.markdown-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "029f215b3fff613efe3276c2a8a0b7d96af3219490553c9c9cf28a1b80a8c47b",
+      "url": "87/15/07cab72d250ec091042cba155f4125a3d4449c5f29eee162ac5ad3a0e063/nr.markdown-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "bd775af105fcb8ed04ec077afa95d54643e83ebbfee55690c90c2921f3315603",
+      "url": "26/eb/900b4e0b66061fb1379db7979f7e2f3c34a6490a5cb0b3735a87c0dc9e31/nr.markdown-1.0.6.tar.gz"
     }
   },
   "nuqql-matrixd": {
@@ -15107,6 +15131,10 @@
     "0.0.1": {
       "sha256": "e40fd1ccf54128d37a3dfdd76933cc1f4df4961cb0cc1f9add2cdd9cf800aeb3",
       "url": "7b/f6/c353f9a04a6de15e4e39084e82841cb5af7af16dd7105199c24f7cde07d2/pymp-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "1f15f5f0c159f1622c2e035f12e0c6bf34824aba0e8451b278542c00adf4e7cb",
+      "url": "cc/37/3f5c1cf6b9fd11a4118ea737b94b64ce73b3d1a1d5465930472b95958390/pymp-0.0.2.tar.gz"
     }
   },
   "pynite": {

@@ -9735,12 +9735,22 @@
     "2.0.1": {
       "sha256": "ae05d710319518d03e09ad86fcec35414a1f3b94e2c9e6a6d691bdee39cf4e00",
       "url": "b7/01/052fa4413c2a370d6eb397c3e085a1d4290d04436a33d1072eb6f4134beb/izitest-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "8b8db0aaf385bce54ce6b01e34b9eb535102d9920d332221f9bd62d60304dbac",
+      "url": "74/61/25d0dd6f093915ddc9674801e82a66f2afba715b2cf2f7ef2895f4148ecb/izitest-2.0.2.tar.gz"
     }
   },
   "jefe": {
     "1.0": {
       "sha256": "d74b4070fdc4509b63e7f98e0af7373e25601a007a9aeaa4c20cdab39dd58ab6",
       "url": "f1/ac/814a872b99fa0d645be691d9417dbb2d64ecaddb9ed89dea52fb2c4c07bb/jefe-1.0.tar.gz"
+    }
+  },
+  "jia02": {
+    "0.0.3": {
+      "sha256": "fc88f137f14b7e07959f1e28b698abcf6b817672b3ccd0fc72485a409d70bf28",
+      "url": "71/bd/723133ffc5d4935ab2201b2381667958521ae78d979e75d39cb95f91d105/jia02-0.0.3.tar.gz"
     }
   },
   "jirator": {
@@ -12455,6 +12465,10 @@
     "1.12.45.0": {
       "sha256": "d45145d42ca46d2427c29de958827965f05f60a48e154392b50f34a0b6325223",
       "url": "ac/c2/1ccad6af968df2b1c9bd44e09cb27088e52ad2365a11a168a9bc0ae584c6/mypy-boto3-kinesisanalytics-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "0c4f89217b0ba55782a33396c0b6c8d0ff2013303e3a02b36c7fb3d7ff9a043b",
+      "url": "1c/01/48761e9724622839effd262ce728191fada2ab0af42574634f9f1fc86e4f/mypy-boto3-kinesisanalytics-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "4d4c1154b35365a3abbc428aca8f218312a25297a6ac4b3e0334360dae73436a",

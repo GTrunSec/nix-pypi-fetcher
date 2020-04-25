@@ -9233,6 +9233,10 @@
     "1.0.1": {
       "sha256": "6f9cc13cb6ec8e89041fd0166b448869ddf716b7988aa3f5890ea2ea4ddf6547",
       "url": "6e/fc/906da10c7eeb7667897ef061ac9cde31b8593a4635559dd46ee6d430f33a/esdap-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "8ebf73291398bd8efa4c8dd5f3d5a4a34af5e258197da5c4f9df41de0e8c9ab2",
+      "url": "7f/ed/f1170e5ad16549286907bb7196798fad0770628e470e0b9ab717443c6a4e/esdap-1.0.2.tar.gz"
     }
   },
   "etiquetando": {
@@ -15979,6 +15983,10 @@
     "0.1.3": {
       "sha256": "f97a78677cb0c4b3dad6d5c9dcfdd18a3cfb72e205fdff29c5e21296238658fc",
       "url": "ac/b5/2833110c2b6bcf6e35f4bca0fe42c9918ccd5bd59fbf3ed3f8004bd7fe7d/onshape-to-robot-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "06ba30967be15a12223077c546588f5ac872908ea1d99d40dfa9ab577d320c11",
+      "url": "84/a8/54df6716a56eb21fa997837e97e727e2f30fc7de6f35f78a0ac568c1b231/onshape-to-robot-0.1.4.tar.gz"
     }
   },
   "open-utils": {

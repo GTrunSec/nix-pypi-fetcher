@@ -8273,6 +8273,14 @@
     "1.6.7": {
       "sha256": "75f37e74e96b4ec839733a96b62f42af9f7cb08faaebee8abec6ca07a3bc8675",
       "url": "45/78/b682a59700f0e38d4a5038135bbc2ecc39ae9ed093d5bd3f064e74014a63/hrflow-1.6.7.tar.gz"
+    },
+    "1.6.8": {
+      "sha256": "cb9eab0be259ed1dc675661d72b4cb707e4f1a4a88028f37d24561f19ec4eddc",
+      "url": "0c/83/48a59f8c66cc33eff0ca1475652913d67960ec5f1282837511a83dc59e71/hrflow-1.6.8.tar.gz"
+    },
+    "1.6.9": {
+      "sha256": "63c117cd4e700e5a72fee3f81d8cb8ba642dde5350fbc5f2b5eeeb604051c031",
+      "url": "20/ff/9cf38757e8872bdabbda43db4b23603ac6f379d07d49ccb73ef7f71eb0e2/hrflow-1.6.9.tar.gz"
     }
   },
   "html-cleaner": {
@@ -13033,6 +13041,10 @@
     "1.12.45.0": {
       "sha256": "c90636223ca5bf2e17b7fc642957c5aa5b9d2159f2ccee5e9d4287ef54fa2a7f",
       "url": "c3/98/93eda3217933c281b93e41e4499cacb4e3212e5d57e66aa867d1cfcd1050/mypy-boto3-ssm-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "a5a4cfc0adea526aa9db39f8130233fea14ced8eb6ef38b7fb1f89cd537cae79",
+      "url": "0a/29/eb21723b95e942f538ac9529996f254678473fad85ca9d90286230964864/mypy-boto3-ssm-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c232cc936c40ea0b877b28e1a18c6975d720a432a367fe9ab6dc5c8e0b1ad76f",
@@ -18409,6 +18421,12 @@
       "url": "04/e6/f7bd62f85729ca7b72640c52bcea86fde023b1eb805a37b141010d3f5aad/simplejsonobject-0.1.4.tar.gz"
     }
   },
+  "simplesim": {
+    "1.0.0": {
+      "sha256": "b603849b14373add3cd6b41a30fd1da3c40d83b3dc5a8c479ec10cb20e94e054",
+      "url": "e1/bb/c6c1fd5cd1c0fdc876f57f971cf6744d78efbe7b906a6ba412aa1efd02ea/simplesim-1.0.0.tar.gz"
+    }
+  },
   "simplesitechecker": {
     "0.1.02": {
       "sha256": "91e224dac67cdee5afabbb38a060862286bb5619d29b4cee0bc97b84f79888e2",
@@ -21761,6 +21779,10 @@
     "7.0.0.0rc1": {
       "sha256": "3326318cbebb4b381ad55cabe6c5e0631035d0c138f779660fc9fc46122b665c",
       "url": "0c/39/0cd813d3447d74dab5296f92991001215cc8f53fd71afe614fc28adc7f80/zaqar-ui-7.0.0.0rc1.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "36b2b885d23affebd801c8a6859cb7d9b5de40a2b6b2f7d2a68b55b04526656f",
+      "url": "17/93/cde15e6dbd1c76ecae9d6d9e191e426b426ad67181b581f1bedaf4655218/zaqar-ui-8.0.0.0rc1.tar.gz"
     }
   },
   "zeroc-icecertutils": {

@@ -2899,6 +2899,16 @@
       "url": "f5/e4/e564108fcde0c191ff92ebb5a58f4fbef74479f1be9496dc712a2b192869/bing_cloud_search-0.6.tar.gz"
     }
   },
+  "bio-peppa": {
+    "1.1": {
+      "sha256": "cf49042bdfcbe20990821dea1ae7a0482f496524ce12a8bb1be8fccc1bf5a413",
+      "url": "88/ed/c25efc64f5866f4186a017d1bdb0b8987360a5b98397ebac2c98fed4361f/BIO-PEPPA-1.1.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "1d5bb971080deb25fd44e4fe1db7a6374476765348716dec9cc3cbd9e2ece8dc",
+      "url": "fd/80/a43287adbb49ed17adc0bdd02ad2a9e486093ed0bea8c575dd172ea57046/BIO-PEPPA-1.1.1.tar.gz"
+    }
+  },
   "bitcoinexchangefh": {
     "0.1.1rc2": {
       "sha256": "35cf71005e0110f8fdaee5b9c6a097ad7bef33547ba61714ebec7cbd5ab343b0",
@@ -13997,6 +14007,20 @@
       "url": "82/bc/cbbc627997119341ded929cc8bbd7d6400b980ca5d92249815c1cfb1f29b/inspire-query-parser-6.0.9.tar.gz"
     }
   },
+  "intelligent-scissors": {
+    "0.0.1": {
+      "sha256": "f1b324843266ca150974cf76d3c6b0d876d0948b37dd327fa22aa2b1c996a65d",
+      "url": "cd/26/5c1615cba24798858aa185bae7c87d58d8f4f74c755b29f9930a98200359/intelligent-scissors-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "006fe9e34fb288bbf0658ad3639eebfc00cb3a7f6b8fd2d8682ab818def2d90c",
+      "url": "39/d8/f491a67bbad77330b0b7c98fc1c45078d37c4c8d1611d7c855beeed59255/intelligent-scissors-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "3380626447ec3afe549060b2b9910064d7afbac99b69a36c423c47a491e04e55",
+      "url": "83/e6/5d17f1e3fc46e05b479321473fa013c2f9862d5e0cc38b3cb164c7d8869c/intelligent-scissors-0.0.3.tar.gz"
+    }
+  },
   "ipb-homework-checker": {
     "0.0.3": {
       "sha256": "37d763b5871d267806f81f2d62852fa96914ebd3df43060b952b8d1397afa0bb",
@@ -18319,6 +18343,10 @@
     "1.12.45.0": {
       "sha256": "f875b73b0d6ef41d943ee0279a398b26aac72558089a39753e84b0af5dbd1d4f",
       "url": "d5/52/eabfbc77462adcbbeb27f4c53f6884df2bd3da90c394e1138838551759ca/mypy-boto3-cloudformation-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "a29bf7571e3290e721769c0fdd554f169d0132ad5961e58fe3833f52ac3eb79f",
+      "url": "d2/e0/1ebd5a151f8fd5997f3dce60ba701121307000eb669cfaecc15fd80b13b2/mypy-boto3-cloudformation-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a7f5975d1b52047d6f603f20f0fd80f02e7b677678730d60f622459c85e1b0eb",
@@ -23685,6 +23713,10 @@
     "0.9.23": {
       "sha256": "2ec024b84b290c88d6bac7a9f99cd5a68a97582e7cab0a7dccf60f379fc732f8",
       "url": "77/df/00cdbe9405d9f5883020282ef95af4b2bee316cb06f31905182a390dae26/pyspedas-0.9.23.tar.gz"
+    },
+    "0.9.24": {
+      "sha256": "b74011896ecd4bcbaa012f20ee89a1adc74b983072f1c9f8ba27338cc173313a",
+      "url": "45/dc/b22e31d3d781cfd68d16d292d2de1c1fcada6fa6ec9b9f3d98378c69348e/pyspedas-0.9.24.tar.gz"
     },
     "0.9.3": {
       "sha256": "1bbba1639e2056b01dca308f9771560115087215666aacafa3efe7a27eb577c2",

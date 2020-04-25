@@ -9515,6 +9515,10 @@
     "0.0.7": {
       "sha256": "f70eb24d5c9ff17b2c323cb0d27b8a0094b3b67da128631e684ce2e65a2ae16e",
       "url": "aa/c6/fb2c4d238a22b9e4833bea1ea62eabab6126dc55f4bbfb7a7b23bf33e2bc/gwrucio_registrar-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "aae5aeaf8f36b7d5812ef500dc511900aafa6b595a8d5cbcb0f6baae51e4e8a2",
+      "url": "dc/0a/0eb6ccce2f46b00e6826eee2205cd65315fd955da8b10714da69dfd6ecfc/gwrucio_registrar-0.0.8.tar.gz"
     }
   },
   "haibao": {
@@ -17573,6 +17577,10 @@
     "0.3.0": {
       "sha256": "8681eae065dce424498b0390a359e365ababa9453081981049a30df2acb84e36",
       "url": "08/b8/40e9cdaad093c6f9d906a8b42559106fb0a3dd743f84aa7e43ed1cc40b78/pysatCDF-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "31bd64d5114e91cdbda34b6a86ba1d199a3f226d36634a4c347ba4313596b48a",
+      "url": "44/1c/5e2cee5a6bd65246dc77a2cc3dd7faf3389554138c1b5c82eac5bb9f1823/pysatCDF-0.3.1.tar.gz"
     }
   },
   "pyscanmaster": {
@@ -20691,6 +20699,10 @@
     "1.4.0": {
       "sha256": "5499287d634c28e72ccc16a677f7873213dc6beaa4fdbe47cda7b997f1460192",
       "url": "8a/08/47e96b044a9365c15560293b3727561f9b9bdbf78d22f22bbf065a09a5ee/streamlink-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "ed3278d18f17e473bf3b35c8943da9dc19a37d43ba6b8122e260d3f0d14485e8",
+      "url": "ca/a6/afdec2acae17f6dd8fd94fb013bfa787e8355691719c9a161b7fab52b040/streamlink-1.4.1.tar.gz"
     }
   },
   "streetaddress": {

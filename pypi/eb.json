@@ -5321,12 +5321,20 @@
     "0.5.2": {
       "sha256": "04b9197c455e4450ac47cc649a1b5f6b55d740f8c3dbc4362e8f721c53dbea39",
       "url": "7b/37/40af797c6ae5c6ee2c20d18b795f53b88f079329b6a4da9929451e77d4d4/Compyrtment-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "6b4508448236701343157f646fbd39c1625e6d7a181f60622761a6bf17aecf4f",
+      "url": "3e/c9/c5ed9ae6fccfd876e9124d207d66cd130ebce76c11334857b776c4b46d20/Compyrtment-0.5.3.tar.gz"
     }
   },
   "conductor.core": {
     "0.1.1": {
       "sha256": "a1badc8b395aa4bc07057fb3a112e01da85c9b44bbcceccc89e8f4af21194d2a",
       "url": "51/7b/49e709e8e3eb138a17a3de70551c5de1fa7c7e442bb9f1a1502b87d40aa0/conductor.core-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "cfc8212d47a6610b64f10329c78719d1d15465f642465ad601789b19fa02d9c7",
+      "url": "54/d7/387f1323a7edc4cf6faf53ea82959433805a410030f282b614d79a20a80a/conductor.core-0.1.2.tar.gz"
     }
   },
   "cornice-sphinx": {
@@ -15111,6 +15119,10 @@
     "0.0.8": {
       "sha256": "e2e9c65342b18147d9c602567634d566d7d5527411f7bdb7f39e91dc858dc0ed",
       "url": "02/97/26538fbf2425fdd36178187b521e89a231e604968e66e069f94a0918ca53/matchup-ir-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "d2678615ca389357733bfd23a3dea1bf9ae053fff63a2704564eb144b9803329",
+      "url": "cf/a4/eb0f5f101a2e531c3b1da0ce7a8baa59ffafea2ee4376d75f31ee03804ac/matchup-ir-0.0.9.tar.gz"
     }
   },
   "mathsss": {
@@ -15127,6 +15139,10 @@
     "0.0.1": {
       "sha256": "84029256d81a012d1f0e9222d32e41bb3daa244065e3eb29db89c8a9be2689e6",
       "url": "5b/b0/1a91af4e912fca9dff9d7572de1557291975de5e4d30287c53c74fa0bbe8/mcthings_extra-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "c2530043faa723bff61596504f8cb053328bf8eb53411ecd697fa57fb4cb3601",
+      "url": "99/18/4d5477fbea70dc7b22e1e1194587a4949825e8fb22178c24557ec84a35ab/mcthings_extra-0.0.2.tar.gz"
     }
   },
   "mcush": {
@@ -16467,6 +16483,10 @@
     "1.12.45.0": {
       "sha256": "bf81193db810689f3f38e7a98450f44c27a0d24caef22492afe206dbd919bfe0",
       "url": "2c/41/f42b5fc631eb36b3e16ef4d5ee0ccd481940337c5a207405384742227401/mypy-boto3-mediastore-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "cee462cca1f428cec399c737b20362a8256adaaaf4e37fbba62276f7b9d9e6fd",
+      "url": "13/4c/6ef115edab4be81237c0fcdb3f79da055dfc19def2e24a3b3ae5bbfd790c/mypy-boto3-mediastore-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "e9c1dc51a372c877959d720bf13f59ad1d3fecf637b8059182979215ffb83101",
@@ -21183,6 +21203,10 @@
     "0.9.0": {
       "sha256": "d82ed22d40267fb0f89f04b18c2c405e840a5523eaaa596f6f0ae4d90700ccfb",
       "url": "ad/4c/f94cde12a456e505adf619a0ffe468688bae5a9e71928420c0b6ee24fbeb/senlin-dashboard-0.9.0.tar.gz"
+    },
+    "1.0.0.0rc1": {
+      "sha256": "77268f6f67403cd501b2ae62ce7c9f10da136827e6918f9caae87aab69a7f078",
+      "url": "e6/4a/320b54a8c3eb995373db80273c1bade2460cf362a527260d46bb8284f9ea/senlin-dashboard-1.0.0.0rc1.tar.gz"
     }
   },
   "sense-hat-display-utils": {

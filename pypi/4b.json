@@ -1002,6 +1002,10 @@
       "sha256": "3076a6cb843ed05a69c3d56a1a5872553e9781a52f019e318f6a4cfb0dc8fdf2",
       "url": "f5/38/89c1d44d818175cf4758a9aec8c0682740d254de881ae5ca2f01dd9fb4cd/aws-cdk.aws-events-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "93472400c7c6ae225ea333e55debadaa3509f7febdb9acbec6820ef02f41f85c",
+      "url": "01/9a/9efb7ba9f5b73c4412549778ddf2029282527745c72d20b43fecc52217df/aws-cdk.aws-events-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "88bba2fca3d246340656e55a6f865d16a36fcf3fb719646da1c0937df894ba2e",
       "url": "fd/8b/849375eca8b967290bfbe0f4b2e3f22e5c86e8d42f1df40dd9915a14bff5/aws-cdk.aws-events-1.4.0.tar.gz"
@@ -1175,6 +1179,10 @@
     "1.34.1": {
       "sha256": "19d7e12b9dbbfb07b9b9da3a9b9b085b936856e6ad58eea5647a3fc7f7b080fc",
       "url": "4d/ee/1c520bb00dda8281fc60e6792dfe3ffed1f3db2763f47444de15ab00353e/aws-cdk.aws-qldb-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "ddadfc34dc80536150412e42e0603d2a2c8df55b786e54e418855fc760812727",
+      "url": "90/04/d551567b05a3a477bdcebb93431d7ea981a62965bd6892574994609c40d4/aws-cdk.aws-qldb-1.35.0.tar.gz"
     },
     "1.8.0": {
       "sha256": "76f9a50082b4c62b4874d5113cc0bef23e542512c4cf49699102ea1e82dc0105",
@@ -1439,6 +1447,10 @@
     "1.0.6": {
       "sha256": "590478e1182fb3a5133880ce586e33672fbf43d14f0b95c683d08b90a6b9fba8",
       "url": "72/30/347ca8fd4731224c237ced1e233edee76148f5761f1c8927ccc2087c36c3/bits-mx-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "06471f511c31ba96ef0b7104701fa07782750df65225090ac011757a2c8580fb",
+      "url": "13/d2/0ac53ac1afad00cee79bdc67706880274d0b93dc513a82b4e0f17142b7f9/bits-mx-1.0.7.tar.gz"
     }
   },
   "bittergravel": {
@@ -17237,8 +17249,8 @@
       "url": "04/2b/74135afdbeba75903ae76a91ca9d5103604c32bab690f1bfb4643e0fd96b/mozprocess-1.0.0.tar.gz"
     },
     "1.1.0": {
-      "sha256": "40ccb06bd53883b014faa63d899c0f86c632b7dae18b4d2f57671b2eaacd6df7",
-      "url": "fc/49/c15eb5574d7769b5fb881b9e7e6bcc252c0b03dc131ad303ffb733144b83/mozprocess-1.1.0.linux-x86_64.tar.gz"
+      "sha256": "779f0d8d468d6d623f42cc848e4be10586912e66a29ede1c24e0b3bdf1c42aed",
+      "url": "97/e7/7907f0bf2d0b42b154741f8ff63a199486fc67c90aac88cde5f2d1ad1ea2/mozprocess-1.1.0.tar.gz"
     }
   },
   "mpbn": {
@@ -17969,6 +17981,10 @@
     "1.12.45.0": {
       "sha256": "de94fc5b6875db95ef4a4509f84fea3b6a9cb2cd9c96d24e7873f78543f9ae73",
       "url": "55/28/e4369e8d8e9d38806aa838cb2598b97acfe0653b3da49d0fb8677a4d93bf/mypy-boto3-datapipeline-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "a14b0560b495e92779ebc2b36d601f0a1a8fe6493df24e4361cb5ebe189fdfce",
+      "url": "9b/ea/d7809c0135d1853326c7bc6865b9d5f79bbfea166a0897035c46df4e5a28/mypy-boto3-datapipeline-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "ddfc60a69d9c013dfa7d2e38e4b01e743021ef44e1a7f5d78f5b564667b605d5",
@@ -28755,6 +28771,10 @@
     "0.0.41": {
       "sha256": "edb10e4a4335a8b1d445518adb78f902ee6c7f2c542784dc88f26e6db2b9ab80",
       "url": "65/74/10bf8ea490b0e0999d9ac3077f7c2fd24b0cfee3e22694170346a7841bcc/wavescli-0.0.41.tar.gz"
+    },
+    "0.0.42": {
+      "sha256": "999f9c0ed366affff4c2f0b2940bf7a9e6f29974072c6fc14c7228bd64edde10",
+      "url": "17/25/67cc570a0c3a32ae5ebb163afeaf50c1cedfdb701a5d28e2ea77435764ff/wavescli-0.0.42.tar.gz"
     },
     "0.0.5": {
       "sha256": "d7715dace4255609d82c6fb837f47eeaf760ca59e7f01f18e53655b17718fca3",

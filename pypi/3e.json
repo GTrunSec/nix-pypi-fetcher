@@ -1359,6 +1359,10 @@
     "1.34.1": {
       "sha256": "b866ded0c82dc7579eaf8b62424e60372832b3ffc352a7e4c693397f1097655f",
       "url": "af/7f/36a69e221cf4694164a5d16bba1f4517c6c3928ecb262414e2fc68759f6d/aws-cdk.aws-acmpca-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "7b91ae79fd9dc73ad182daf5a03fbed7a253e84d7333506ee7868f1310e13c13",
+      "url": "7f/61/ab5a3deaac4ec984985f011044f96bd23cd652e357b4edeca8825b6f2d14/aws-cdk.aws-acmpca-1.35.0.tar.gz"
     }
   },
   "aws-cdk.aws-applicationautoscaling": {
@@ -1585,6 +1589,10 @@
     "1.34.1": {
       "sha256": "b44c3ca9cac123ef466792da0a2fece1ffd13bd02afdc77440f3febb1ee643f2",
       "url": "4d/2e/d6477eaa7ccf8773aa96be2f09b0d6de7d6c2aa398d0a6d594f5298904bf/aws-cdk.aws-applicationautoscaling-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "04dde123bd7c5a8ea0562847348726869e13283a1a32596125b7e7c0f3ef4705",
+      "url": "6e/a8/973a5fcd804c113d51a4ef701afc2f7ba7e91792df38096034f1769ff141/aws-cdk.aws-applicationautoscaling-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "212fdbe132887ac090dc6d56ec6e729e1750cc9b439d5f95b41a90f478ffffd2",
@@ -1839,6 +1847,10 @@
     "1.34.1": {
       "sha256": "fe997559f65f092e4b83ccacb15c23d4dd5a3321feafb6b8ca632ef1c0c18603",
       "url": "89/29/12a0ac44ef0bac0d0de3a882a13fa91f3b8eb8b8f2d062bbec51a074e77b/aws-cdk.aws-elasticache-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "e8c78d25da471662667a857111ac6b32a9de79f7c7c43f2eab7e4a9eda205ec2",
+      "url": "6e/f2/38697c2d9e8650609d9fcd0fb6efe3348683048e87e5c412f958ee207fc3/aws-cdk.aws-elasticache-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "9add3214f0d1251d02bd45ecf19b5165c9c33040e01596a313ca8d9a27287770",

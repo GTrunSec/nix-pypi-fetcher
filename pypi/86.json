@@ -1301,6 +1301,10 @@
     "0.1.5": {
       "sha256": "e9cd8011e9f0c6b252018854d1b101b22ffbbbf52b41a7156174a0ddbe6a1c27",
       "url": "0f/7b/13b1597397b9d207792cbfd12483c8c3ceb915c69d6daef61d0b7e61a12f/bbrc-bx-0.1.5.tar.gz"
+    },
+    "0.1.5.post0": {
+      "sha256": "18ea827bb643e5d5ecbce81c5bfda021d3b1515dc936d1f09334d362fb0e04f4",
+      "url": "4a/30/d364d4e89726aa8cfccef19fef5a9f7badff69d53104309f9367467dd8fa/bbrc-bx-0.1.5.post0.tar.gz"
     }
   },
   "bc-first-pypi-pkg": {
@@ -3635,6 +3639,10 @@
     "0.1.7": {
       "sha256": "ba94d041e6bfb0c30ab01ab0ed326fa8282063cf4312d03c2ec69c9ae5c89668",
       "url": "38/31/b406b526e85e441bea42a6d3eb06b57fb537b00cd711043b089a6aa0a251/crytic-compile-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "d94dd2e28abae4a828d053609f3bfe31f80298471611961518057987c52096d7",
+      "url": "82/d0/370cf90a6db7f3331fcac9b6f4fe55579fd3a04e7eb05f4fb6b9801c08c6/crytic-compile-0.1.8.tar.gz"
     }
   },
   "ctmatching": {
@@ -14252,6 +14260,10 @@
       "sha256": "654f76a1ab3bb30b173d9c133eb2056ce3a49a0c6ca83ed083bb7ee061ae6f72",
       "url": "56/b3/1e680731a519fbd850f0cd0a6b1c63adcf630df11f35e1634ad8fa348935/mypy-boto3-iot1click-devices-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "8699b806bf5dbe3a124f0732ce9e6f0d884f61dc5cf4add4e05038c2896567d1",
+      "url": "be/2f/84c31f10faceccbbd897002d0ce139ef72cc502e8c22d153c5e06a88b07f/mypy-boto3-iot1click-devices-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "72e793000b1ed85d08ebdbd410697610be215ea2230c7d7e9a19b9c084607438",
       "url": "aa/f8/e720ecbf578d736c35e1b5913518e8dbb8e729f35402227f891888934f81/mypy-boto3-iot1click-devices-1.12.5.0.tar.gz"
@@ -14769,6 +14781,10 @@
     "1.12.45.0": {
       "sha256": "9dc115b299edfb5713bcd46a162d10c1dc5b256d974aee5380eba30c7d2faec8",
       "url": "6d/7c/7aa7dbddd32cd464755610cab61190bffbad78d2dd4a22f9c18e7cb93c1f/mypy-boto3-mturk-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "b25c98aa6f1535bbbabc42a7eb56cc4a0cc633e334107dd8fb19b76e8c97bdd9",
+      "url": "21/0a/d7645c4f814448d7bad04609cb2a707c06538b395efa64106c793ac7b2dc/mypy-boto3-mturk-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "0201a2776eeb2d3936b37633ec5303d70c30fca88ef6a55c21d4dd4866bb5c8d",
@@ -23975,6 +23991,10 @@
     "2.7.2": {
       "sha256": "5597c54e53260e8b6728102e11255fbe4dd0e442e7c262e05c931a43d82e8e79",
       "url": "fe/54/ccb90aeaefec71647bfc7e2a40c6c8aaa61d09655493c2c37d38cadac550/snw-2.7.2.tar.gz"
+    },
+    "2.7.3": {
+      "sha256": "fb759112da633dacbee6b077a8b5d0b844cb28c8b06864749c9e8012c7e17b4c",
+      "url": "ae/68/872a4c1f9f784f39cc2bc810d69da5c7e7c72e080012603b913777d123ec/snw-2.7.3.tar.gz"
     }
   },
   "socratagr": {

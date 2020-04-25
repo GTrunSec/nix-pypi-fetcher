@@ -1631,6 +1631,14 @@
     "0.2.6": {
       "sha256": "c42a179306b6ee09fa97c42a0b379c877f78da76dea8a5a71aefbe6ba90a1c54",
       "url": "4c/55/1be550a239fd16ffc4208679a5672d37e8e64de514d644f531ae20d4bde9/atspy-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "4a736f1f5d9898a6dd13eef540e2749e3d16bdc752837c3f5b867b7b22b64c3b",
+      "url": "05/e2/ded6d7e87b36632af5633e18de3ca93d0f5405f36c489af975668ee7ad3f/atspy-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "57d86d76a280eaae4b7e28802f0ad8ccfe9f99e190f232c34df3bce2cc0756f8",
+      "url": "cc/71/5f16915ea3b37fae4b3057df965e628b5a1dbfe552a6ddf8b14a64a111d6/atspy-0.2.8.tar.gz"
     }
   },
   "audio-slackbot": {
@@ -2594,6 +2602,10 @@
       "sha256": "717ee25502239491dc734b556d776aece789dc25d53c2fa03365ffc7525ec4f6",
       "url": "b2/a5/b0cb7ef457b9bfe4abfd47599ef79e7536c693e7cb7625bcd3776c45d0d7/bimmer_connected-0.7.5.tar.gz"
     },
+    "0.7.6": {
+      "sha256": "54531c4505caa79762351d688c64fccc3122716113d5adde8f4fe7362150def5",
+      "url": "81/fd/e8abdb6f298e6e25723352b94d01944247aaac8d504764381e5f2c70eb10/bimmer_connected-0.7.6.tar.gz"
+    },
     "0.8.0.0b1": {
       "sha256": "b2b5109daf1f222f894bab9045e6151c147a00ca6c429a2e5a73071f937b7d82",
       "url": "42/93/d881d20737d5e2381a5a10cfacfe87cca40d90483a88a9bc5e3c3d23ab89/bimmer_connected-0.8.0.0b1.tar.gz"
@@ -3183,6 +3195,10 @@
     "1.1.2rc0": {
       "sha256": "1538c1702254626cd1408d23dcaeb335010c7390dff50bd9a394e9d95eb13593",
       "url": "4e/65/37ce8c2b9e2971181d643c53570b6b8b486db7e9b199bf79f6e1d7ff9be1/cereja-1.1.2rc0.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "8328d5e1aa46fd51936af3318e75068a5057b695034718536488b4e13d28ffdb",
+      "url": "bb/df/590bbca01a9288905d27c3ce916a45873622437eab1afd2f78b7abe5f57e/cereja-1.1.3.tar.gz"
     }
   },
   "chacractl": {
@@ -5220,6 +5236,10 @@
       "sha256": "f509c192416230561f2871cae3f88da88db8c4ada7b2e26f23af29d3c6eba6b4",
       "url": "79/15/7b61b47880ff8654e2fcac74c19a9cf238320bce9d40b2a8eea57e15afc1/discovery-connectors-1.1.28.tar.gz"
     },
+    "1.1.29": {
+      "sha256": "7d61104e6b4c4a3830762e9033367f62f29f375ba674a38d20149db164b2ad97",
+      "url": "3e/7d/d8d020e8e40e16fff380d75cbf3d6b835894bb392bf80621343026c6d878/discovery-connectors-1.1.29.tar.gz"
+    },
     "1.1.3": {
       "sha256": "b3f94a15038e43be20f18540397a96918bd586e514dd3aa48a379335b5928781",
       "url": "dc/6b/8060a781e49f653dffb3d71fec63f022cbf15cc0659490c7c63189a6178e/discovery-connectors-1.1.3.tar.gz"
@@ -5301,6 +5321,14 @@
     "0.4.4": {
       "sha256": "edec0f04ffc4420affcc25e082c0769cb7892c3e56c600119afff0215430581f",
       "url": "de/58/6f93c0ba78774b9552876f72d2f13fc60a9606f6e449d82f31552c623c1a/dival-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "80c81381f96a98a9dc2c4d7829e00ff621a53f9841b3b0542f64ee20fa76e483",
+      "url": "6a/30/6eb77e8966e8682a73d4f220723910806f364812f4e4a9dc8033c9979b19/dival-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "6d11254b39f9b22fad89ee226ce5036d3d5722a07d6b26bce72851ef55db632d",
+      "url": "f1/15/b1770bea921edf9a0cc73bf95a1a7e539029d0a9b6f0b731fcfce1dfa431/dival-0.4.6.tar.gz"
     }
   },
   "django-admin-global-sidebar": {
@@ -12690,6 +12718,10 @@
       "sha256": "402229a5414615865c07ccfb0a7518623b868bd1fac882fdeec314a4d5ef6bed",
       "url": "45/dd/1986379aa671200781e6032519d4b45eeff9538344bb54d06e9a84419602/mypy-boto3-batch-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "b226d1ccf15a17ae12d478444b016a595471e43a10e816629907851a2c671181",
+      "url": "f8/03/f23dfae66be8c417235f5118482f27bef17d26dc73af2ef813fa563a179a/mypy-boto3-batch-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "e07d214c2c9bcdc841cbdfb1c22b13b04a1a1fa5a73b2e95e735bb4f6acf5c48",
       "url": "8b/75/f5929552b8b35d35fac8550bb7b2d7d3182cdf230114423b4bb3018c7b3e/mypy-boto3-batch-1.12.5.0.tar.gz"
@@ -13347,6 +13379,10 @@
     "1.6.0": {
       "sha256": "aee90b03bfe641ddecbacb8315bcbd21870ef7c24cff821591c3c4842502e998",
       "url": "d2/cb/0dc6609c62f919e147a53765943849dbac41811ec303552773143b579a0a/netconf_client-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "b2281c5122c3affa3c8d90768a3e7367e2a3998dd127f4ef64ba925413a32785",
+      "url": "81/c4/4d722bf817682411445f6efb0408f3bbd69b69d7fcee8773080948f276f9/netconf_client-1.6.1.tar.gz"
     }
   },
   "nexus-uploader": {
@@ -15367,6 +15403,12 @@
     "0.1.4": {
       "sha256": "207c534ae6a833f7418b43b9c175b4476c3d0655ddea5a7ad6970d32091097b4",
       "url": "ed/58/e4ab59785f62cf7d0333d4ade7d246804d48202c1a47625ef821d81f7bc1/pybrewerydb-0.1.4.tar.gz"
+    }
+  },
+  "pycatenary": {
+    "0.3": {
+      "sha256": "e6b5c7a0beeb0a84e39d6fbc56d4de48d82e67b6d1d4f0e700af038a90541b69",
+      "url": "f8/7f/ff96e9e86b73c49a2f190f4711c012ae37992848cc489a3e3c98c6c0fb37/pycatenary-0.3.tar.gz"
     }
   },
   "pyce3": {

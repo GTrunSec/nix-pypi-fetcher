@@ -16894,6 +16894,10 @@
       "sha256": "aff47a7ff78aa538dff621cb8bcc0238a8e99c4f6976ffd7c6523387edad5a70",
       "url": "27/32/ad1f7d6b2b8d14f27fbd4702bab974c3aaf2cb5fb27c8f560237748ee67d/mypy-boto3-apigateway-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "428210111baf7fec4a8c41aab9eb76d7cda257ae880127e74e39e66942167788",
+      "url": "5e/2a/eb92b8a5a3bfd51135dc5718c2277f8953bfa6061de21bcb6f92ed7699e1/mypy-boto3-apigateway-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "6b9ec9e4ff39fe89998af3439e4b2efd55357c5f3edd5b95fcd02dd19190d710",
       "url": "a8/48/5fe79b0f6ef3d2e1e0fa4912be6d1165997dee4c2138c39fccb3f030ce9e/mypy-boto3-apigateway-1.12.5.0.tar.gz"
@@ -17411,6 +17415,10 @@
     "1.12.45.0": {
       "sha256": "86622388f3b6d6bd674194e7177e7d77605bb9bd8bfc0e92da9517c1d5a95715",
       "url": "8d/d9/5ab2bc812967e29a9349abbcd695970ca63a225247d6aa238b41bceb797d/mypy-boto3-pinpoint-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "2121602d49fed692f945036721999985a669449b8809eddbb6884443cdb5ae59",
+      "url": "60/74/6f0336045c5bb9db98a1f9809bc8dfec2bf354223ae00ea00ad7e3c43bf6/mypy-boto3-pinpoint-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "85d9a4a74f0a86579ba2cbed437966ece70ce74c7df4262dad7e0dd572749dc5",
@@ -21229,6 +21237,10 @@
     "2.3.0b1.dev1587662466": {
       "sha256": "c6c0d8fe563c79727aa5fe4f4c9bae41645f7534c5195ac2f6c49f6c668dfb65",
       "url": "84/f8/4693172de5d9040fd0248b30d8a911c021e073a2c16fc99d872d2fb28a2f/pulp_deb-client-2.3.0b1.dev1587662466.tar.gz"
+    },
+    "2.3.0b1.dev1587748680": {
+      "sha256": "2ccfcdaf1d25325da649af27e60517fd6ca03ea71371f91dac188c2e46c12b99",
+      "url": "52/90/7da2a0d06d7f51ad3c7416ba7cce39a2020bc843e0380bf91ed0fc1f7646/pulp_deb-client-2.3.0b1.dev1587748680.tar.gz"
     }
   },
   "puremagic": {

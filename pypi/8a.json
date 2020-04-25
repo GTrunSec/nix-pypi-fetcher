@@ -3396,6 +3396,10 @@
       "sha256": "f8d054096d7032c1c9ea9a2cf44ca76180eae0c1cf295b1890171e7e509bca8a",
       "url": "04/df/b2c2a8a6a0fa7d2d3806a8d57d54994a10757cb7f89292abd1375bedfe6d/cloudkitty-11.0.1.tar.gz"
     },
+    "12.0.0": {
+      "sha256": "872ec38e8f7314d66d67d16f38d8897b25ff8fdf79d034608118f22fbe162d35",
+      "url": "3f/9f/edc7808be7d58aaa8706cdbc3ab9e0da05f8e1d9b1a268540907c1c850f8/cloudkitty-12.0.0.tar.gz"
+    },
     "6.0.1": {
       "sha256": "380e1dbbc704bee4ade729d12c9d02bf1f640bdae8efb779e7a832acf5c76079",
       "url": "ea/a1/5ba2470e08d4806678f136787cd04d39bdcbbddbd751b3a2560c673a59c8/cloudkitty-6.0.1.tar.gz"
@@ -4371,6 +4375,10 @@
     "0.2.18": {
       "sha256": "2f0958c16f62473336fc4cd662f359c526a7859acd2f04fca98c17526000940b",
       "url": "aa/d3/01aa58a5e7e3af4f7150494b3cee2204be5b883908004863f3908ba732c8/dataverk-0.2.18.tar.gz"
+    },
+    "0.2.19": {
+      "sha256": "3ed329beb78037487180304a94ec0918804346c7823af774e3825a458ef9dbe5",
+      "url": "d6/ca/1db36948c6c33bedd3da2e57f7491c11767abf3aa0ef6e2d641abdf0da0c/dataverk-0.2.19.tar.gz"
     },
     "0.2.2": {
       "sha256": "5a948cda25bacd804f62ca508f63ab1b6d466123a508f4a2f23a1d9b7fce2080",
@@ -7901,6 +7909,10 @@
     "1.1": {
       "sha256": "a97a9f61083e36c65819d5c4b2ecdbb66eb894cee2f744028061933eeb84d02b",
       "url": "c7/1c/548c696971a4ff68e38b4ed0ad2428422a126b61cfa20775be846e3e20b4/e4clim-1.1.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "f9ad817608a07f6529822d0a1f405c58cb1cf343878f60fe64a1abb8afa919ac",
+      "url": "14/b0/3cf289fa1f9fc541b4d635c9710e5d3d96b722a128c7e71767d4e346a3fb/e4clim-1.1.1.tar.gz"
     }
   },
   "earlinet-reader": {
@@ -8221,6 +8233,10 @@
     "0.0.6": {
       "sha256": "d908f5de31040d02d7ed6e1ef60e697572bc4cb6d503f2c4597c09666a5c47d7",
       "url": "5b/12/813a2708b5bb8a278282a448044b014dd19fe09a7646501cf87faa9dc63b/factiva-core-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "d0ec7a06ed1a5ea6001f7da6a398856e38141b1a1f3986490a518d3ed80f74be",
+      "url": "c4/59/f6e6659963d09b2a08752df35465d943661c2eeb7b5ddc1786b3a1b043d0/factiva-core-0.0.7.tar.gz"
     }
   },
   "fake-awsglue": {
@@ -10151,6 +10167,12 @@
     "1.9.7": {
       "sha256": "1b1bb0c6a4abd631c56a653e00a7ff840f709d8d64f13c34d9ef263693bc11e6",
       "url": "7c/d9/d32746c06b75b0a80505bb6fbbed5ca22aa00ace5534726b3b06f4b23262/gnomecast-1.9.7.tar.gz"
+    }
+  },
+  "google-cloud-testutils": {
+    "0.1.0": {
+      "sha256": "13a8343aefb9d1aba980ef71eaeb6eaedee6ed58855043e71ed5770ac0bfc1ae",
+      "url": "68/dc/61df8e4789f78e4acc9756a6d49d8cf8d0cac710bf4d76a1b3243ad63084/google-cloud-testutils-0.1.0.tar.gz"
     }
   },
   "googlecloudstorage": {
@@ -16265,6 +16287,16 @@
       "url": "1c/f1/8a7eff769f23a3a8cfc58c10f83fd688a54ca4051adf2fc99487632e3c4b/NeoBase-0.9.tar.gz"
     }
   },
+  "nepali-stemmer": {
+    "0.0.1": {
+      "sha256": "086d6c36b549995f2083110b583317dc34f8948a34af50c327d94feba145727a",
+      "url": "f4/c5/662c72646380922bcf522529f1e75057bb03f829022f2761e67d87881d23/nepali-stemmer-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "c18723468c0fd73cc91ea860e402b6f282cf0885e96919465bc0203747b5d0e8",
+      "url": "70/55/8ebc655ebf54eca51bd67d684bbb80e7a37111dc145730b2c00edf09df09/nepali-stemmer-0.0.2.tar.gz"
+    }
+  },
   "nesjer": {
     "1.2.0": {
       "sha256": "152754b813d71912d35ae1a411f568debea545d203b2e350ec483e53646c88fa",
@@ -17022,6 +17054,10 @@
       "sha256": "6aebb39c96b974bdb36caf0679edd33b249b0e9ae0c361a5a4699a18b4ae1111",
       "url": "41/58/b7d4792638145acaa6c822a13cb7e7a863661012668e996be9629ae41559/OASYS1-ALS-ShadowOui-0.0.41.tar.gz"
     },
+    "0.0.42": {
+      "sha256": "e52fea6097e495db915d4a509bea8190fa976873eb383fb4275d341885a7494f",
+      "url": "26/4f/27608c5d8fc7a7802029b40cd61e7ae9a8f476ea5b0212568d1c775ed7ea/OASYS1-ALS-ShadowOui-0.0.42.tar.gz"
+    },
     "0.0.5": {
       "sha256": "ddd75cd0f9e4dd1dbb50ec5393b913ebcce457f164410fedd4ae489fb85dc50c",
       "url": "b6/5d/67a6954f9cd7170914215dc6b6c3cec116b6d10208283db4b7f46a68ee51/OASYS1-ALS-ShadowOui-0.0.5.tar.gz"
@@ -17169,6 +17205,10 @@
     "1.5.1": {
       "sha256": "ac304f69861a199830769e575ef616b2400ada79a137e52103179f2f5e760c6c",
       "url": "b0/2b/c64365029845f17605e23c2214c4996ddf3d20381326d5587f67e2898877/OctoBot-Trading-1.5.1.tar.gz"
+    },
+    "1.5.2": {
+      "sha256": "c3da5f765612fb02dd8b940824bf323da73bf48bae8ff0bebe1d0e2c42a879ad",
+      "url": "6c/22/49a46b45b0722a2ab8792c16177068f8064663202bfb53a6e4f66fec4d46/OctoBot-Trading-1.5.2.tar.gz"
     }
   },
   "odoo-odoo-test": {
@@ -19547,6 +19587,14 @@
     "0.1.1": {
       "sha256": "f8c20d361287ceaa785df2daa2b66c7ccc86409fc18c136c59a5944c53cace38",
       "url": "4f/6e/67e9087da1d3be797bb9622406aae4aea124a8dc2ce46edcae37cba9bf06/pydrugshortagesca-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "0154d2d7658105630c05e55d39d316da920e8a770d4959a67e975dadafa6a113",
+      "url": "40/19/c4483edf94831071ba53e07b852218b3df3101bc51b9d6aad548f1dd4cd9/pydrugshortagesca-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "c650c827b81f7e1d6be0fb6597987bab2d84950b987f527cd0479f980f482434",
+      "url": "6f/c3/f3b5f6a0704e766be0ec282be5320f2a90682577c795f246b245b10ff9da/pydrugshortagesca-0.1.3.tar.gz"
     }
   },
   "pyeupi": {

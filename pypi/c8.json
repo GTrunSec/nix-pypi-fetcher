@@ -3829,6 +3829,10 @@
     "4.7.6": {
       "sha256": "0b8442fd73997529e9acf54511adca74638635ccec6d9c5dc394d724b73ac3fe",
       "url": "b8/fd/97738e337e0221c571b149497fe0a14d6fa5fe189062c1ddf768faaf8de5/bosi-4.7.6.tar.gz"
+    },
+    "4.7.7": {
+      "sha256": "bd8e2e03ba06d941e9e98571fd3c64ee13719baef3026f4c4203c1607543c16f",
+      "url": "72/58/e7ed5e4faa0c01846e978f43570dfc94a08ae8c213c6d97445c5f6312bff/bosi-4.7.7.tar.gz"
     }
   },
   "botfly": {
@@ -4057,6 +4061,10 @@
     "2.7.1": {
       "sha256": "a68a99f85b99081f8403e2608b12fdafa10469f3d6e81fcf5c996b6323c82751",
       "url": "22/1a/8f3e8268c3f2ce82eff2abe13e5346d34c2f612830562e503ee634df5806/boxsdk-2.7.1.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "cc7fc2562231e9b646d2c5f8769677db2be7e99061cfcc4fc39a880726da5de6",
+      "url": "4c/af/e031a0f3d9ee2fcb81aa609a42187de3c2229e3b4268b809293f9024eac2/boxsdk-2.8.0.tar.gz"
     }
   },
   "bptk-py": {
@@ -7367,6 +7375,12 @@
     "0.1": {
       "sha256": "cd2f03c9068af1dce03edc13735d3ac1a9742d395cb7564e260bec6f0d6fe934",
       "url": "44/f0/69a97f6b9f68999e8cc0d2cdb8cad6bd2cdbc5c7c7209a93401c9c40e214/distributions-udacity-mlnd-0.1.tar.gz"
+    }
+  },
+  "diyanet": {
+    "0.1.0": {
+      "sha256": "feb61bf363468c9cea8b2bd63623d2e828515c871f6798a33c3d8db73a432407",
+      "url": "50/9c/f83483c0cc2ea2fabd98f5aa9621b123d007ff6d31a259072ed4b1e1d37b/diyanet-0.1.0.tar.gz"
     }
   },
   "djamazing": {
@@ -21081,6 +21095,10 @@
     "1.3.2": {
       "sha256": "0c13c2ea0b3ebdcf6d5c9fec87a3ce569601d5cd81588f67e9e40c1c6701eb2c",
       "url": "29/3f/963231f94276687b6869b2f0969a24b3af967d6fab801e1c063e9a918e4a/osrsbox-1.3.2.tar.gz"
+    },
+    "1.3.20": {
+      "sha256": "1af984042fd34403ca977ba38b028c2b6b5f5ec527bc84f2ce1d8858dae5111d",
+      "url": "82/68/e7c97d41072293f2d5e50e4309cedf85cc1684fc54ebfaf0478c0d39e968/osrsbox-1.3.20.tar.gz"
     },
     "1.3.3": {
       "sha256": "0b508d639c42a984a6c04f8a0de14bfd257ff6ddbed2b222b237b1fffe79c37f",

@@ -2042,6 +2042,10 @@
       "sha256": "d625cb7327ba891ccbe5751e79dbe7860589c02b52cad6af739a1b958068c4d8",
       "url": "71/07/f3336ac1c5852e84d4179b1c9f68886554ac1a4bf21d380201bb762d439b/aws-cdk.aws-cloudformation-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "7536095fd229924609d0b53bb72d53a490491b5b4504db52f1c189aee3ed28b5",
+      "url": "65/ac/72392924c5f9b5b29706876896175ff77ba832e18b5fc22048cc0ba27ba8/aws-cdk.aws-cloudformation-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "9f9a7e58f2561c7a9bb1304185acc1713ffec36a38c5e11e8ef04d5f220a58b6",
       "url": "da/c9/2f119a302ee605503e57412eb8b684460c62760ba4d4d13c3445dba98c9b/aws-cdk.aws-cloudformation-1.4.0.tar.gz"
@@ -2295,6 +2299,10 @@
     "1.34.1": {
       "sha256": "32588ffb7fb62cb5614e650cdcabd6f9c3c1bf3eef279f8727b621ad3ab463e8",
       "url": "b8/d9/eaba4a47e5cbe3286342ca32f8c53a77bffb1d9198c4e455bed677ef0f4a/aws-cdk.aws-sns-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "28a1240d241530533d33993044d1f87feda1c6a620e8cdc1830fc6711772984e",
+      "url": "2a/b5/f8ac24b9b815d024de88c7607b3d53bcccb590d4c47584ed5257f9ff9c2a/aws-cdk.aws-sns-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "a2fe376a0ce5e50a421c079722eb66f0fba4cc3c3613b9a0b734608ebb2138de",
@@ -4509,6 +4517,16 @@
       "url": "9e/18/4d926a1bce8939114174e8af0b3feb076b976cc17c4aae01ec18d5f03b35/conveyance-store-proto-0.0.0.tar.gz"
     }
   },
+  "coolwait": {
+    "0.1": {
+      "sha256": "d295b8734b959764eefb20f9d1766e3e49c4408e6903dcd86ac3f7178eddbba1",
+      "url": "2b/de/22ed0c388f03a710de0fd52106aff88f68088a6678142c38447176890373/coolwait-0.1.tar.gz"
+    },
+    "0.5": {
+      "sha256": "51bf3f2e94b29fb88e4d37f7a541a0d753cad66ec4df73970c6c6c298008f0f1",
+      "url": "0f/14/d824291ab471de79fbc3c0a6d02d74cab42cb6593e75d860a2dc17274233/coolwait-0.5.tar.gz"
+    }
+  },
   "coralogix": {
     "0.2.5.10": {
       "sha256": "d07e3acdccc0b3ca89f8e5a5654828757810bb3dcaadd944f2eff72626216959",
@@ -5733,6 +5751,20 @@
     "0.8.9": {
       "sha256": "6c974962b682c1e97648394f881dc11da3478ba14731f7b20332b404cc40d327",
       "url": "94/9d/d07dfe8f2248d7c9cbb4667aa4df1d1eb87c9f3a953b994decfa52d32502/DeployBlueprint-0.8.9.tar.gz"
+    }
+  },
+  "devito4pytorch": {
+    "0.0.1": {
+      "sha256": "26cdcf0f7d1f1a066376534dc424dfcf72e5b0e09ca23960acdeaa363f96c559",
+      "url": "72/4c/1b2f463c8078e864f720619361f8a8d66955ad767aaa5d1ebda090919d76/devito4pytorch-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "6ab22819501ffd0daf227c3b32b04fdbd0f5cf85d64a370f7c7dde5a39e2b351",
+      "url": "88/ff/d588e7ef517926007f8641f64b9728fdf77da5c6579127eba5d028c306e8/devito4pytorch-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "729c0352b7e980301349c5743446317153fa129c1962246a9b9d9fba725b4c9b",
+      "url": "d4/f3/ad8fb10a1162229640ac14726714f3517b1a2cecb50e77b0c21ce4ec2c95/devito4pytorch-0.0.3.tar.gz"
     }
   },
   "dextract": {
@@ -7373,6 +7405,44 @@
     "0.0.1": {
       "sha256": "ba82b19b8460ca3f53950d1f7f8773ba764bdc903b0f6ef326b8ef52933d7105",
       "url": "27/fd/612f3c89dd734041aca6714cafc7f6182c4fe958ead3f02cbf89a699c4ac/django-queryset-exts-0.0.1.tar.gz"
+    }
+  },
+  "django-rq-wrapper": {
+    "1.0": {
+      "sha256": "57d0538478f8c478e2bcf1cdedd027fed8830788304a792472c9afb337ecd7c3",
+      "url": "d7/68/5ccd863bf73c5d970f41a8c1fb487911315378693054a9a6c2538670950f/django-rq-wrapper-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "0ab2e7cbda7f95a63a2604a1397fc3a94ec9bcdb1e19cbb8815f5c9044f730aa",
+      "url": "17/9f/6742314902674ed9508474dd695a2f9628f29186b446ce151cf9082a861d/django-rq-wrapper-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "abeb5bc619ff82de6aaa325600f13b95104c991bc8fb5b96d7ee53e2a13ad5f9",
+      "url": "93/dd/f02dbb376d8026c0dbfd05c2e84db48863ba84ce47d920f247accb1d276b/django-rq-wrapper-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "8edd75de2da53ff07a1887319a284bd414f151c651fae172a237804b8e20c74c",
+      "url": "b7/f6/bd1987c14350cc26905a281422477c203753fc1e4f3ac291a8b9794cfdaa/django-rq-wrapper-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "51dc137f96e0643af6916740effd21e89cbef25064684412a2766b68dbce4135",
+      "url": "24/4d/d8e0b76f038aa5d799186e5064c2a73df8548db21125e515ded1d4d1bcdd/django-rq-wrapper-1.4.tar.gz"
+    },
+    "2.0": {
+      "sha256": "0ac3e933cbbb808104947dad58d1e614a21c87c71360e6dc729be62d982aa612",
+      "url": "aa/4c/89f8c15fa94581824fbdcff1edf78a8fa1f064b244d25bbf2b59e0b85504/django-rq-wrapper-2.0.tar.gz"
+    },
+    "2.1": {
+      "sha256": "76e860157db5ea67a4caaf246e34838de7d13e7e485e65609244bf053f5b745c",
+      "url": "b0/2a/1e1b3f8b4666c506cc956b0549d1139def8b5f30aa1dd2489e02cc5cf720/django-rq-wrapper-2.1.tar.gz"
+    },
+    "3.0": {
+      "sha256": "27ea2a50cc8ecdb67e8be75aa65c310ce4292a6f4e45618c00eb229ac5ed0ec3",
+      "url": "38/73/c3e7c7709a64bcc751bbf722ea7c1124c16c597d3ce4db6543ed889612ab/django-rq-wrapper-3.0.tar.gz"
+    },
+    "3.1": {
+      "sha256": "28db01d4a9c7760e873351831c71ce2de03270f1f0bfeecd61f891054c3562e2",
+      "url": "be/07/6dd50eeca3d14e7a94a48c94852e833ff1766212eb909972b891844f4758/django-rq-wrapper-3.1.tar.gz"
     }
   },
   "django-simple-email-confirmation": {
@@ -12303,6 +12373,10 @@
     "1.2.26": {
       "sha256": "2cf7fc5583cf985cbf1055f92b060c0d1997e691a563a33f64266b58bbb5b133",
       "url": "aa/3c/866632b0d1ec9c7e182faad76a8d17a9ddffe012c760a565052aa082aae0/gym_jiminy-1.2.26.tar.gz"
+    },
+    "1.2.27": {
+      "sha256": "86f3eed96f4f3ae609588a5e3969b0cf301f298ad763ba16cb4c107ab3329517",
+      "url": "5c/f0/dcb1a89c73998914b84ea3855e0ea6a63a5b0fdf17c501c53e92454cf5e5/gym_jiminy-1.2.27.tar.gz"
     }
   },
   "gyroid": {
@@ -13049,6 +13123,12 @@
     "2.0.0": {
       "sha256": "43161c93f25202141a13ce2aef890ec6dc0fbf2132ee6d6f02e9ff79d24862d3",
       "url": "99/a6/6fec44a664b3d77f4dd5fa7492343b8fefedebac0b1293340068dcf19b34/ibm-cloud-sdk-core-2.0.0.tar.gz"
+    }
+  },
+  "ictuner": {
+    "0.0.1": {
+      "sha256": "3f66f3bdbb712e6676e6447fa3de95b328307de7f357cc28ce93e60f63d55020",
+      "url": "6a/4c/9fe48df8aac0251cf81e4684dd5c42779e2797df971ad9b92de0fb01a863/ictuner-0.0.1.tar.gz"
     }
   },
   "identixone": {
@@ -16993,6 +17073,10 @@
     "1.12.45.0": {
       "sha256": "e7d6ad2e851e5148418ef366a044fb31b16238807c1dae49e4a3c1fcf208ebfb",
       "url": "90/eb/b2299b30fc9dbff257c17ee65bd40ef1af049dacb8ee61da4cbfbba18d41/mypy-boto3-cloudwatch-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "1437dd0898aeb1ef750694e161713cfd50e72f6700f43f8784a80cf7c155a892",
+      "url": "2f/b5/1f534175f86ee2eb63c2ac7c577184b5bf1dbd550dcd0433de4799175672/mypy-boto3-cloudwatch-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "58d80aac772476882650bdd0e78805eac3197a00c8db2c0b6aaf25339b2c97b8",
@@ -25733,6 +25817,12 @@
     "0.2.2": {
       "sha256": "1f1614d52773c86d8b3cf9e0f0baf1d2e081eac3c05b01399c9f8d8c9b222b76",
       "url": "e0/88/9216c0f4133ca6bac954cc72c3a675a0ae9c772f5fb095fe29de772783fe/SVG42PDF-0.2.2.tar.gz"
+    }
+  },
+  "svgtrace": {
+    "2020": {
+      "sha256": "922f04e4c5b0fa8b5faa21010ad475cc64e62a094c63247fc7940173cb75b6e2",
+      "url": "89/9d/37a1d428518155fdb87767dfa0117d399c0f009a154b7db374a32ad50054/svgtrace-2020.tar.gz"
     }
   },
   "swift-code-metrics": {

@@ -853,6 +853,10 @@
     "1.34.1": {
       "sha256": "1317fbac25321900e5bd67b451457bd2bf0e1c31a53845a49697b151558d9ca2",
       "url": "bd/5b/145870d4b5813c3d3555ba3fa96357950cacf8cda64bf459980921db08fd/aws-cdk.aws-detective-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "9611b2822ea2f835655b36e5c03f9b444982a5fc00135bf2c5b9e8f673fe0191",
+      "url": "03/36/69e47aff8246ff5f25de9690861667c7f836dbb8b081a23fdfcf5dc495f3/aws-cdk.aws-detective-1.35.0.tar.gz"
     }
   },
   "awspider": {
@@ -20381,6 +20385,16 @@
       "url": "bb/04/a890f29278fc104078130130b2481ef70bb905dc9481d74dbfd08199852c/scratchrelaxtv-0.5.9.tar.gz"
     }
   },
+  "screen-recorder": {
+    "1.0": {
+      "sha256": "b032a3b2aa2a725a6402d78a84b8eba1cdfd6b8886f89e3691d24c92b7888a58",
+      "url": "0b/28/af47c981362b97d0833c42cd9532ed947bf41d6026139a1bf62c20d97861/screen-recorder-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "f62cb94272d60bb8d4cde593d364e4d6457938c7133f75ca1cae252f68b7a90b",
+      "url": "f4/29/d2b257f717b1d7797096ef871e68315f42e4c9182ce787811e10b8aa2055/screen-recorder-1.0.1.tar.gz"
+    }
+  },
   "secure-aiohttp": {
     "0.0.1": {
       "sha256": "78f15ae6d505de7c16e83628022a9d31103037e6aed583e7823e0dfa95312af1",
@@ -21633,6 +21647,10 @@
     "1.0.143": {
       "sha256": "9c774e8639fc8968c2fc70c538a626ce07a88fd77593ba7a1f740ba21e14213f",
       "url": "34/00/380b1d42aec2d0f8fdf97e64b300186a09276b9861b0875ee0e3e434a22a/slapos.cookbook-1.0.143.tar.gz"
+    },
+    "1.0.145": {
+      "sha256": "7bb4870bcc6c0af81b231b156c71608631e79396b8fded0ed59854db624cb64c",
+      "url": "ff/cd/0f41f63ce1375fd70ed63d0b85468f1a6a9cd6d5440b08650f853870e711/slapos.cookbook-1.0.145.tar.gz"
     },
     "1.0.16": {
       "sha256": "91c9e09f15b26ab597dff883a6d526854c413a52618f248b0162db2ac93f55c3",

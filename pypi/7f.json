@@ -4356,6 +4356,10 @@
       "sha256": "95efe67a364ae4c033f4d1b4f08600a5def131a3cbc851e6360067c453647d61",
       "url": "fb/64/0c14ba1aed7dbb2ca446e2e00de22ce67856bb8a926efad47256e5fbbba6/awscli-1.18.45.tar.gz"
     },
+    "1.18.46": {
+      "sha256": "fc41068a9ff5ad39a4387c67fb851b0df8dce1ba4d8aa4ffc0f4ebe38bb1c488",
+      "url": "45/ad/e01ac0bebea084e94e1e5511feb8f349dbfdd88626bea2f78cb4d778454e/awscli-1.18.46.tar.gz"
+    },
     "1.18.5": {
       "sha256": "62dffd77132afb6b74e22668199f9656781a9178991156edd1997a811463d91e",
       "url": "bd/3f/beeb6b65affc744ae81db784a50a5e5a982e99e8dabf010250086a305d18/awscli-1.18.5.tar.gz"
@@ -10759,6 +10763,10 @@
     "0.4.0": {
       "sha256": "30a74d4d6dcfc8e5bc76e18662193f3d2fb1aec73c6777ebaf65605b78925d3b",
       "url": "c2/7b/9361450d2d466e664f7054ee9a8446aeaffb4f0572b34596d3afd45aae68/filtercascade-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "1db4c2f1f628e3e399a6f3437738bdb304eb11521bf37684b56addaa5576a89f",
+      "url": "ab/b4/641f084bd8cb95091981a3cbd6b4c1da6384c2828feefdf373543fc31c41/filtercascade-0.4.1.tar.gz"
     }
   },
   "fishc-test": {
@@ -12841,6 +12849,10 @@
     "1.3": {
       "sha256": "47b958114629b1d46de0fc2b0df58935ebfd27a0c1e0306b6139fc31c5d1690c",
       "url": "20/71/5ce8b22d212d992dde008ab2fb463ff824b636d6fdc0a09dd3026c2d2de6/ikl-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "1dbc4d806d11d0f8739e6b67d9bf7087e4e50d16a083513e242aebd785db5c7b",
+      "url": "2b/8e/d7ff397b91afe1b0f17297d395ffc859cf68773de1351741033e0ef1d1ed/ikl-1.4.tar.gz"
     }
   },
   "imagine": {
@@ -20307,6 +20319,10 @@
     "1.0.0": {
       "sha256": "d0bd9614968eba52c12d41dead361594b4a8c2ca6d92a4f4f1b3b4058bab13d8",
       "url": "25/b3/7eead2b039e8c5ccd4479292caa29e998ef74f6c713f2d663064abf462c6/python-anodot-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "50227a4a0ce2369085f08defe191be51cabad95b24d54cd87975bc5d3245e555",
+      "url": "6d/9c/718509416052b7c53781891036afea15ed3b49cd2ebd9955cb6d520d0100/python-anodot-1.0.1.tar.gz"
     }
   },
   "python-easy-math": {

@@ -1796,6 +1796,10 @@
       "sha256": "1392f66e26624d5a9aeb36545d3ab0d08204a0cc6702ed443941593894e9777b",
       "url": "8f/22/d7e6d77746e9ac2f396853fd68c7fd2d03cda6bf21d77c5bf1262693d4df/aws-cdk.aws-ssm-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "45f02e3b5137dfab635515428728bcff643a1d7e54790ca925f392bbbfbb1e6f",
+      "url": "d8/b6/b3ac1fa0fab2d8530ecdd1d3dea8836d4a5b5436e2ff3e03bbc91fde69d2/aws-cdk.aws-ssm-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "9195a3512bc21659eba881f64cc22262df8fb36a6a2eab2bbf39c3f02ebf4e9b",
       "url": "14/ae/fa6661f5b9e50b4f8c6f0b129b24ae4c85dc111cc0f166efdfde953f8a98/aws-cdk.aws-ssm-1.4.0.tar.gz"
@@ -2137,6 +2141,10 @@
     "0.3.0": {
       "sha256": "dabc5ff6feff9d77ac252dbccc3c5f918dfd57083805ffc9ccd0f4a3dcd8a15c",
       "url": "ef/0e/4b4fdecdd021ffa5f8e3cf3c831b5a7458dc68cc31b111487fad975d54c1/better-lambda-deploy-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "376cc6e9613ffed2566c4525d7bbfeaec453a1a1eae908f5b51cdf7fbcb39f51",
+      "url": "b3/45/ec646b9c9ecf3723ed50564a5658fdbbd4d932663c451b3befcec5e02861/better-lambda-deploy-0.3.1.tar.gz"
     }
   },
   "bhlthesaurus": {
@@ -10289,6 +10297,10 @@
     "5.4.3": {
       "sha256": "54992991d45299b17fe4e28f4cf7d1cf04c86eb8ebb2ca29b9e728d48b6e7a20",
       "url": "37/45/c8b021c88cbd6bb61c90fe6f51cc5fd7146b682f64259fd1c3bd53a26184/hein_control-5.4.3.tar.gz"
+    },
+    "5.5.0": {
+      "sha256": "05fd28397adac7e9fb176a1937d20c3f4857107416f12cc9458381ad6a8148e3",
+      "url": "db/a1/ca2af512f152d8e46a5e9646dda557be430cd00ffefe4a5486f40ea495f9/hein_control-5.5.0.tar.gz"
     }
   },
   "heroqsx-distributions": {
@@ -14746,6 +14758,10 @@
       "sha256": "0ef553f3ad09497f95ffdb7206f49aa2e2e603ddb59914d71fcaad7fddae9c13",
       "url": "07/44/1c4812915b603e619e632d6c46fee9beb28225273a23b598f57cf592b9fd/mypy-boto3-forecast-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "ea7efa8fb9bf3735e1214776e47f6c9f059acf5d8b3225678510abf5cb2a7b34",
+      "url": "57/41/2e44c747226a650eac9461147c798ccb3634804dc0b38e3b34817ed4abed/mypy-boto3-forecast-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "86d3c3fae1305940c85b115659ae635bb9b3611fb3b2e9cd2a54204f5c40433c",
       "url": "9c/df/09571b2784c71d7c42ba5c8833b7b813da4874d0b45da701942a9fef0e2a/mypy-boto3-forecast-1.12.5.0.tar.gz"
@@ -15264,6 +15280,10 @@
       "sha256": "713008230ec215b5a3bb3dafd0f7eccc2448995d0c466642cd3926cc99a5ad93",
       "url": "ad/08/4be2600c3c8af2f68bc34f95b806c8b0fb029e955d131035d287496f76a4/mypy-boto3-license-manager-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "01842a4d9d2a783e76d0cff72a5c4db713f1db0391af17078a08eb756a95e94c",
+      "url": "27/52/ce7241ae922d3a4c46a974953c9bb18154a8b8301faa7a6b8c1d19f68151/mypy-boto3-license-manager-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "38757686e41ac7ad59a8067a74c8d9b9b63ec5d0b45b5cee200d6555cdd688b0",
       "url": "97/65/1e454a01801326dbc96710c490863129e1cf7d9fc938c7fdd610a8606aba/mypy-boto3-license-manager-1.12.5.0.tar.gz"
@@ -15781,6 +15801,10 @@
     "1.12.45.0": {
       "sha256": "9ef31df1d1c1f58773a31e531c72a2bf6bd4ca7c76ca82b4ed960f6c3ba06a13",
       "url": "47/2b/f99e738e3845509ef5af3ed1f55d17807c35ad532215c454820f403121f8/mypy-boto3-mediaconvert-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "da2b3bd23645b6275a04d024523419065a3b50e1c5d09714d7f0ae09a66a22ff",
+      "url": "18/27/094c551c9b90eba36bc7ae3503e3ebb943684275a07ef4801b3f8ae533f1/mypy-boto3-mediaconvert-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "41e9114d749e8c5fd1034306305e90aea3147b446a43f3e4612487517f1ad9c5",

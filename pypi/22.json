@@ -1737,6 +1737,10 @@
     "1.34.1": {
       "sha256": "a448b2aa20ad186da80aa41ab202ba2615bcc0b1a720c2b435f337546a2816a0",
       "url": "5d/43/9123cd03a61f14931fde28eafb4d7a576a6f126145f4900f45fb93e0e9c7/aws-cdk.aws-fms-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "102ca9e597543b14cd14cc179e289ad2f7aad2baec88fc8880fc69728c030540",
+      "url": "ce/9b/ec51eb8a25b45fe4c3efe314817e5052aeefeb4c2800d13b50fe49fe38bc/aws-cdk.aws-fms-1.35.0.tar.gz"
     }
   },
   "aws-list-all": {
@@ -21527,6 +21531,12 @@
       "url": "97/11/ef6910f6610c4f0f6a4a6155438987929cb84d4bc62995428002b95a004b/resn-0.1.tar.gz"
     }
   },
+  "rhasspy-snips-nlu": {
+    "0.1.0": {
+      "sha256": "84e3f9d991b2a64e6b88976c4080dfcf915e71e817733d5b5782d596ca6ed30b",
+      "url": "77/db/7f7be750417f2efcd066496558ef026322516c06dd38a61e5c27f73f6ab9/rhasspy-snips-nlu-0.1.0.tar.gz"
+    }
+  },
   "robotframework-debuguilibrary": {
     "0.9.0": {
       "sha256": "bc90b8ee54aabf09a0f83bd943063f5a95bcb03174f32853ca1fa1a8f01aeb63",
@@ -25755,6 +25765,10 @@
     "0.8.4": {
       "sha256": "d5546865fc9647b1ec04b0d2f3160907e744626ad10e5e35ee36457adc2b1925",
       "url": "38/1e/0e4d363156ca7dc5354c5f3fcd9fde668fc6bffb14aa4c2cd9deacf603e6/yahoo_fin-0.8.4.tar.gz"
+    },
+    "0.8.5": {
+      "sha256": "288124e1160ced0bdfcaa2905fa93e0d0dcc435b013a1143b715045930dbb14c",
+      "url": "1a/5f/2ca412e776c679c843538eb8ea368e74381c9f95978ef4a25b516284bb8b/yahoo_fin-0.8.5.tar.gz"
     }
   },
   "yamale": {

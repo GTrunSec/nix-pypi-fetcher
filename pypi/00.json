@@ -5715,6 +5715,10 @@
     "2020.3.3": {
       "sha256": "8a1a9c2f034a9f9818c64c5913442ca10bc70a3599601f75951619e11d8dc874",
       "url": "7f/33/5d2106553ae94271c6c90a296747ef0ba0662256b263f45290b1383a0761/epyqlib-2020.3.3.tar.gz"
+    },
+    "2020.4": {
+      "sha256": "06ffb5c7c24466a7eebc9e42a47d254711e86f5341dafa256ae7a5143557b465",
+      "url": "00/75/e78fc018d3ed0bf6d047be95d74925042da909cd1deea2755fdef9cb1e63/epyqlib-2020.4.tar.gz"
     }
   },
   "esheep-sdk": {
@@ -13510,6 +13514,10 @@
       "sha256": "a559281fa43b43eb7669929ccd781fbe600d324540365f6596b889e873fcfa47",
       "url": "ac/9f/52c0739a219ed96a78bed4b69fd3470b275eb4f5e44484bbc408cde52e44/mypy-boto3-appstream-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "9f7e2081e5da76bbe69a515571c827627df118a84f09d4c198a9bb0038f71d22",
+      "url": "b4/27/df5eb84a6f68c8f68158ca48d30e7cb424d9b43e7f6f1404f9cd18886e19/mypy-boto3-appstream-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "25d0029bb27ce93a2fa39ff1139877e408dbfb6400c10c7b9b1dbd0e5d85fb70",
       "url": "74/ea/1a344203d7d65149e3329a77f15e9bd9b8ba05fceb7c04087c91d77970b6/mypy-boto3-appstream-1.12.5.0.tar.gz"
@@ -14027,6 +14035,10 @@
     "1.12.45.0": {
       "sha256": "65b4d83006bcb1f58acaebd1d2e17eb4ec86a69395536cf5ed74e5ef4d911d2a",
       "url": "a0/31/ae9f1246d2a56ebffecaa7559f25340136437c37880d7cf8041114b7f001/mypy-boto3-globalaccelerator-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "26e84f67a854250749fc5015da864f072d68430acc14a9be6d29959baf9f818a",
+      "url": "bf/e0/40146cfa58ee1f992c93f5edae206f4695e6d5fb8c64e631b497492e7191/mypy-boto3-globalaccelerator-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "3a1e1b6cffaafe981ccfbdb6a8074a2891bbe56b5382b9b0612059cda4f1845e",
@@ -14549,6 +14561,10 @@
     "1.12.45.0": {
       "sha256": "67f594895bdf03b25e699c4893e62472b95401eac2fcdfcb46000bfd0c27425a",
       "url": "40/5e/2eb9c27cb8d81249fed0ed81f87bf300946dc53cada58c7961bed5ac048a/mypy-boto3-servicediscovery-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "496706a404c7e32c6955b4626af787456b7d766af070cf6cffde044a979240e4",
+      "url": "50/95/e180cdc9f4e1dec0fbe8a5d2c9fd9b3c7d6e4da469dc6c66485a9318420b/mypy-boto3-servicediscovery-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "e070950256053fbdec5a2cb6f769e55fbfc91420aed8fb2e9d34930799f4af01",
@@ -18613,6 +18629,12 @@
     "0.5": {
       "sha256": "d799cc429e109689d4ac6166d2f1c2cbfb622fc3a5f7ef2aea6eff7dca131547",
       "url": "8e/13/4833b2df215a8c49ec13e8995c10db2116a0ec3fbdad06ef360cba4fd239/pycret-santa-0.5.zip"
+    }
+  },
+  "pyctl": {
+    "0.1.0": {
+      "sha256": "bc65fad286cdbed6e870f2e0cdd6f636d40824b79fd649c7d6725a481242edfb",
+      "url": "63/bb/28be53af7bc73e14bb288b273b120d38e044de81fef858dcc03cb38909ad/pyctl-0.1.0.tar.gz"
     }
   },
   "pydvdid": {
@@ -26369,6 +26391,10 @@
     "0.0.6": {
       "sha256": "5cfb6ca02085c7cf6a9109b06c470c3f96c404e33be719ceb2872701e56b5117",
       "url": "b8/fd/b4b94aaabc852c3701a9704740de6990a03a1895080e3303004a8d4e435e/update_check-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "d0590f1943b0116e48d88217bdc3a8df3f48eed08ac6806f3aeabd8963cb7874",
+      "url": "d1/ee/435fbc6eb5eb6e7eec1dca51ec82d46be6fc6077e84661b995af3c5339c3/update_check-0.0.7.tar.gz"
     }
   },
   "update-copyright": {
@@ -27879,6 +27905,10 @@
     "0.1.0": {
       "sha256": "912f3839e968d04e9eb77c1ed6ef93f40bac1dfe44eb06c395ffcb649f992968",
       "url": "ed/9e/e3392c913e6d38784436835c67df74abe765ab9d19d694cacd795bca2b61/zswag-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "1db94b908aed1bc0903502c2ea313b7eb87d5cebd4776822d0b168c379755c39",
+      "url": "56/f1/0e7ccf85d489e1a270d57f564edf37c96b3d7d2050686f8041218393e93a/zswag-0.2.0.tar.gz"
     }
   },
   "zums": {

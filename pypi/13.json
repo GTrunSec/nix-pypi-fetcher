@@ -1114,6 +1114,10 @@
       "sha256": "47eb477e28ea77166d4848f1369a4fe7547d3387135fb91d085fe7fdf734132b",
       "url": "f5/d8/08bef82078b0386dd4facf9b658bbb8260b23f5539083d6406dfb53ee8cc/bmonreporter-0.0.11.tar.gz"
     },
+    "0.0.12": {
+      "sha256": "4de76a908dade3972a50ff0cf906be60afe9842e3a2efeb352fa7366bc4527b0",
+      "url": "d8/74/d580700f68a7810243dcb6dddaf6cd0516265f7df7ed20fa74e073819ada/bmonreporter-0.0.12.tar.gz"
+    },
     "0.0.2": {
       "sha256": "0bf929f8c4b073e38f386a72d0d389ca0c865943e482c71afd4dba2fae1d0484",
       "url": "4a/9a/307da65798ac8e6e30c8314ac83c316a8e987c8152212bff35c7a6b47352/bmonreporter-0.0.2.tar.gz"
@@ -2585,6 +2589,12 @@
     "1.8.1": {
       "sha256": "866cb43efc06631b2b82109081e3dcf6f49b4d8145e7d4bdbf538049abad9a77",
       "url": "28/d2/a80c2d4fb6dd47ca2217f5c0b6e008105bcca815e90ea2d67f6dfbd3e0a7/core_exporters_app-1.8.1.tar.gz"
+    }
+  },
+  "corgie": {
+    "0.0.1": {
+      "sha256": "db649fece62542de272010361b3d25e759160ea8ca384fc3968ae8ae54dbeee5",
+      "url": "00/3e/78359644c4a9e10aa009decab75ce6c1cb79080fbae821a1e0e0e13297c3/corgie-0.0.1.tar.gz"
     }
   },
   "coronawhy-ties": {

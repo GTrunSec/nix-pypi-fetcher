@@ -1536,6 +1536,10 @@
       "sha256": "e79da82824221fb1b5a8bdf541e3143baae3f72eece3447bce402faf0c66134e",
       "url": "97/16/baacce61cd699140be9c05a64439e64211bdddd415078fe1447085adf8be/aws-cdk.aws-eks-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "0d04b7fe426355cd87dd2b71288ec00a2de46eb2f3208a187aa093aae9819b05",
+      "url": "08/d7/43af53a428c086c3739ecb39dce8d56dd10c7b3a392ed914c98138392b6c/aws-cdk.aws-eks-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "461f2e85b3248e1dcffca491145cfe900a540157aa687b0136b779f8c4274c96",
       "url": "c8/25/75623823b18ed91449c1119ce0b35579d5a1ccadee28b66970a9e7694c01/aws-cdk.aws-eks-1.4.0.tar.gz"
@@ -11972,6 +11976,14 @@
       "sha256": "55c3e4f1f9be60b9c42de4c30f80cf228b8a0a02d36bc07e89a8da966f649c39",
       "url": "90/cd/515263876850c13a6351471f37528919f0f08bb28581cb713a14c002f680/l10n_ar_api-2.0.17.tar.gz"
     },
+    "2.0.18": {
+      "sha256": "6f1dd4a7eed871e57f9c5091519bf032dbcc77b270e87197bbffac2d64b88973",
+      "url": "8c/5c/28308ab6a7198972581194534ca05e241b26f7e774e89678f80dc78669f5/l10n_ar_api-2.0.18.tar.gz"
+    },
+    "2.0.19": {
+      "sha256": "404e716e11f1e74405fa878eeb7b9b4e6eb8b231c63e0e822f829b31cd562990",
+      "url": "e7/0c/cf580bb3084d8f4705f44d8331d4be294789feb76b4c04ed8b993d3e4726/l10n_ar_api-2.0.19.tar.gz"
+    },
     "2.0.2": {
       "sha256": "95c67d2c6735ce951a2348a025f197fcedddeac2b52112640dcbacea8ca31f73",
       "url": "91/a3/911deb94dc684f9fc1d560de0ef7cffffb255f2234bf9dfe1d805d6ee5ea/l10n_ar_api-2.0.2.tar.gz"
@@ -14826,6 +14838,10 @@
       "sha256": "ba04e202bede7d395613fc960f61146cb47dc94c6715ed98a2602c4ebf599bed",
       "url": "14/22/46407fbca235d0b14472cf1630402b08420f8bfa39597e9b679e23f3b281/mypy-boto3-docdb-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "17e66f45ff513799bd8f244f1ea5972216d8aa2f8f67443a1ef940689d7ed297",
+      "url": "4c/b7/4f6821ce08d6ee30925275843e0568be53d386c9346c0120ae0b311d3851/mypy-boto3-docdb-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ad2b71f9b54c64a816c1cb4385dba01d90a5df794204ff38f9a14625d1443a31",
       "url": "fa/95/f9d87cf5278ca2ae19ea77314b94138be7be17e4c2f29614461396ed6e5c/mypy-boto3-docdb-1.12.5.0.tar.gz"
@@ -15351,6 +15367,10 @@
     "1.12.45.0": {
       "sha256": "19f061f0216a02f8845abcdae1479699418316d3c416c08714b182c8b7f2eb98",
       "url": "8b/93/c9b5ef844e5241be65cdeedffc8e2be51a8ef102ee0b1b0dfe1ee757ea83/mypy-boto3-ec2-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "93e6045b6277c5be50ff9ee7b466fb66d80f04a5ab838e7ceb5a0c882dc90436",
+      "url": "be/99/a87e60ae6761962e401ff6a7d2b5b577de7e78530de6831aeaaf86afcddc/mypy-boto3-ec2-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c010356f9cae7ddce566d427036dc753cbe070bad4ee97362a403873216a07a8",

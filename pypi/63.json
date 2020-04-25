@@ -1411,6 +1411,10 @@
     "1.34.1": {
       "sha256": "398ee92fdbec4d3ae0ee64334e3a4b3a0c669423acb089f3c036c909a6f4ef11",
       "url": "09/e9/07784ce12922711ed0efe467cbdac8150fae4e9ae23983e9f15ec9bd5110/aws-cdk.cdk-assets-schema-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "34af297c05e53ff0af26de0890f473ae45367e9eba9664d53df4f0f511d1554a",
+      "url": "c0/49/76c13c6712b4c704e43273a3bef3695eacb59d6a47bdbdd536826d8bbeb2/aws-cdk.cdk-assets-schema-1.35.0.tar.gz"
     }
   },
   "aws-ic": {
@@ -9609,6 +9613,10 @@
     "4.3.0": {
       "sha256": "e63aa9cba00d0b00eba82c78a40caf62876001b75dacb5ab7244023367894774",
       "url": "68/b8/b0cbd12e1813a8cc936619e88e1c54a3475dcb38aff7595b339ddf75fd39/ibm-watson-4.3.0.tar.gz"
+    },
+    "4.4.0": {
+      "sha256": "7e5062424328967ae9f55dc8e8da183b4ca919248dbedcff9d216d58930d66e0",
+      "url": "8f/f9/3a1b7696ed110f4151d1a62151f4599e8358e90a15245e434667f49f6ccb/ibm-watson-4.4.0.tar.gz"
     }
   },
   "icalevents": {
@@ -10679,6 +10687,18 @@
     "0.0.15": {
       "sha256": "26f048b324b77b35e0498880c5242026f90f412ba7ab575dd3f695b35b3222bc",
       "url": "3c/ee/2639373a3bc7ffb102a4101b58a5f609f32b35f8603f01becdfd36b20576/k8-kat-0.0.15.tar.gz"
+    },
+    "0.0.16": {
+      "sha256": "d1326afab691c520efd17d49b9985e44e2b0ab1a4f718de04892433855096f50",
+      "url": "ed/08/72d7760650c3466a397aec118bfa980bd1faf2734eea581c42c8419e1cd8/k8-kat-0.0.16.tar.gz"
+    },
+    "0.0.17": {
+      "sha256": "470632d0a449f842d5b7077485a0d55ca93e1838a4fa3d7a34bfdc0be5ff3124",
+      "url": "4e/4d/ddbf42d1dc2850b0c59d6ed3c2088c095942b08b50161440685289939e3c/k8-kat-0.0.17.tar.gz"
+    },
+    "0.0.171": {
+      "sha256": "0966ee2cba3e4cd3c557c4372c951d214fcc0f1107e99e7a9725b98c84fbe2a2",
+      "url": "f0/47/8be45a825cfb8960e0bf6350d5a548724bf9a7a80ea92086cbb35ad60a51/k8-kat-0.0.171.tar.gz"
     }
   },
   "kafkapythonwrapper": {
@@ -14053,6 +14073,10 @@
     "1.12.45.0": {
       "sha256": "cd40eb068960db0ee962f6981c2b4ac282dcbeae887a297c9e9f87fcfdf162d0",
       "url": "b6/ed/67b71d6ca95a5deaa8edf04554d1849861c09158a10a18002077c946ce96/mypy-boto3-eks-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "1e9125914f2e8a48bfd3195af24d41e40d3571f849d79b54e1c013f9a1fc8357",
+      "url": "33/bf/77dc8eb1bde9381402a5be77fe4d31690d6eebd5b9acb5d0e070e83ded2f/mypy-boto3-eks-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "f2c749d955a17d41ebb61a28506e256cd5235b3b9da1089f1e273aedc133e3a0",
@@ -22865,6 +22889,10 @@
     "1.3": {
       "sha256": "df5966d723f19795eec2bea3dc378f4e26996c9c16770bfed55245f086fb7d3d",
       "url": "92/a4/46725e47d49366cf24d30da16f378cf256bbcd7d3cf4a75e17b3b5bebc7d/treeHandler-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "28fe543518c0296c68829ad1f9e28f81b6e3dc95ca66987b977115ee93ab53dd",
+      "url": "9d/16/b7c8673df51de55a7f93b3ff4ec41bbf8f4f053eaafccb7fe41ab1066c21/treeHandler-1.4.tar.gz"
     }
   },
   "trytonlq-account-personal": {

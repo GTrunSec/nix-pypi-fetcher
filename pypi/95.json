@@ -1019,6 +1019,10 @@
     "1.34.1": {
       "sha256": "0e5c31ff1bf54a9548d022eb25ce272d53bf64d47be3d4f40cffbd4d8213a369",
       "url": "83/ca/bed4bf9fed76496c58ae041515684d3c1579601ad93e7a4ab2a2f1599b97/aws-cdk.aws-codeguruprofiler-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "ec15f54ceaf433b62c41a8f05a7bed75966ff8f28b1d7f46742687fa50c2e077",
+      "url": "ee/10/fbe768fb9ffdf52c5dea646f9681372e715817a9a8c2bdec339fcd66094d/aws-cdk.aws-codeguruprofiler-1.35.0.tar.gz"
     }
   },
   "aws-cdk.aws-route53-patterns": {
@@ -1165,6 +1169,10 @@
     "1.34.1": {
       "sha256": "72e65515d6c1c1c2db0b05453ae578245b6f33052f5a39947f4b4459f5c3b470",
       "url": "d6/fa/b90147869dbe6b12aa7e5dee13479fafd4ccfdddd4869a429b172fedfeed/aws-cdk.aws-route53-patterns-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "035c957ff6e9541e0a5a0a29b5a7674d36f61ebf6d5371b0f862a98bfee083a3",
+      "url": "a0/c9/ab3fc07ec443e96c42887785a00e7cfcc44718f9222e1a5eb99d6ac1492b/aws-cdk.aws-route53-patterns-1.35.0.tar.gz"
     },
     "1.8.0": {
       "sha256": "875b1cecd53672aff959055c049df559b66111491ab9604317911c19ce5a0f62",
@@ -13015,6 +13023,10 @@
     "1.0.1": {
       "sha256": "4360d61079dcb07788b473dc8a483d73e8b9d8d62649dca485dbde8ef4ccf24b",
       "url": "88/a8/6946829ee377a25a00ec11f3fdddf8f9818815156cbd742e48f947a089d7/pdb_manip_py-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "087e1462096f93ddb6e1e2e01488df9eeca3feda5116c88957c352320a1deeb2",
+      "url": "b1/a2/4817c8392dd129e5663826cda8fb6b664603f15015af7334085920884aaa/pdb_manip_py-1.0.2.tar.gz"
     }
   },
   "pdfautonup": {

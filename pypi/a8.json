@@ -2048,6 +2048,10 @@
       "sha256": "100863bbf7685a41b5f5647211a1e613fdb0c2fc05541de651859a9ad96c418a",
       "url": "95/09/d39f24dd5ffa1d36888d0a2bef7bf7c541e97e62a2a0cc8608b193d89cf3/boto3-1.12.45.tar.gz"
     },
+    "1.12.46": {
+      "sha256": "4f7f11e7489c267f9ea0c6193bfbe20ef1a8dd639d780aea0ac61a769de722e1",
+      "url": "42/ec/7c7383defbaf6cb51b774219c63905b61e977983cab983959c873f6c0f91/boto3-1.12.46.tar.gz"
+    },
     "1.12.5": {
       "sha256": "627a0c2366e420383065d9b191fa90a315a4d394fd007c2a85cfa5afa93ba974",
       "url": "bd/b3/d0384675df8e16d527b986fcced30ff371652f2945f2fb69ee7fc41ae860/boto3-1.12.5.tar.gz"
@@ -5307,6 +5311,10 @@
     "0.1.5": {
       "sha256": "3f8e76e14af017935f4840c659a85927e71ab0b757011614a303f7b930500687",
       "url": "0e/2d/29db8003373092323c293d84757308499be8ff40faf8cd588d6dafd261d6/digicubes-server-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "1f6750512f9f337fa45c1a562220202038471eb80c45dd55cc9bb70bbee3811d",
+      "url": "6a/f0/ca17215314d4df2f65e96bc2c7ae7c814c992687dbd4a11be34c54cfdb21/digicubes-server-0.1.6.tar.gz"
     }
   },
   "directnet": {
@@ -8795,6 +8803,10 @@
     "0.0.8": {
       "sha256": "b4207997804528397bcdcb7ce81a061cba7cda0a473012db788adad5a5f4ccb1",
       "url": "39/7d/ffbab006f6a09b12cd91376cceae9742f49ced78c02b0e1963ac98a4e573/fireservicerota-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "1b43ccc1961fb4d4ddcc58215a510c9552effacb332ccff112333a3f16548602",
+      "url": "cb/30/48c66b8d59a74dc0bf09231223332cf70e6c5b6809b44c36a2c3a507d15f/fireservicerota-0.0.9.tar.gz"
     }
   },
   "firex-keeper": {
@@ -14378,6 +14390,10 @@
       "sha256": "33dabaee0c7cb7347814d3329e83c9d69fc9f1778f46214587aa4f11f80b8536",
       "url": "32/47/6f964bfc73690e52f5740afd4d5c9a36a551d712684f06e207a383ba107b/mypy-boto3-application-insights-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "12af2a2211c85336b602709feaa91abf14405e11b8b7cd2a6b5a90adc5e61b84",
+      "url": "43/76/4c7534cb81fde470a7f0126753a8f09ca32747c474816db1131c68fefe17/mypy-boto3-application-insights-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "654df6837fa8892275b3200d6aa5622edb515be50227fc46290804d714b6cc7c",
       "url": "50/79/f53ee877a66604c608b42af72bb7f2c1d160a8c21c35fc29a5ce3082b32f/mypy-boto3-application-insights-1.12.5.0.tar.gz"
@@ -18387,6 +18403,10 @@
     "1.1.8": {
       "sha256": "09c4cb3cf09d1b077b945b144aba7a26f7fb88aa9d13f7936e7323fe3c1f245b",
       "url": "41/1c/96e9400f2183598bd81559f414879c13ccf6c16341b1c9c947f361ae5aef/pyrip-1.1.8.tar.gz"
+    },
+    "1.1.9": {
+      "sha256": "b93cead09dde1a9f0b94f6a05a466a48f9c1151da3bcee670727e550ebf47323",
+      "url": "d0/e8/298abfdfd23a4e3127bd9518d626a7733efe325bb21d4bd1a84b2f7a3bb2/pyrip-1.1.9.tar.gz"
     }
   },
   "pyrollout": {

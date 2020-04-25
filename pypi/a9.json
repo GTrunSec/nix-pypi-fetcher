@@ -1826,6 +1826,10 @@
       "sha256": "630cf200438695fa57770d72fd80f711ea29f9b81f6517a2605298451605d6e7",
       "url": "ae/ab/f085b5f530e56e9973f3b43d3db65a5b06508d10e5b8cc7ba8691a850951/aws-cdk.aws-mediastore-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "d601e115c4381c975fc6131b82cdcfd72730a0b7166a24c3710e4b3323314b15",
+      "url": "50/ac/406e754cef0bc30c5449b69eb8d534ec053b5fabfb012467382daecd2c98/aws-cdk.aws-mediastore-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "f6c0cf70eeabc1d28b8cc994b9b53e06eec7102c3f7c315ea77920c1408d3576",
       "url": "b8/9c/a4920685bf009add30f4f14bb6ef2dbab0c34b242b4a3e4511591d197b54/aws-cdk.aws-mediastore-1.4.0.tar.gz"
@@ -3819,6 +3823,10 @@
     "1.0.4": {
       "sha256": "bc7c456052272f3caee568377450acc2ed62b64152d0c2f395ce6be3a970d5af",
       "url": "02/ea/554b5fd888c44251f822acc6e91bec660cd2d8fb55ae1d0f4165263c77f2/cctyper-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "8e5f062ec94cd6cddd1901d966997fbae894b5c31278538d09b49a66733216cb",
+      "url": "e8/7f/abc53daf1d9be62bfb21a721a897581790f0fcd62f10bf985532650711ec/cctyper-1.0.5.tar.gz"
     }
   },
   "cdf-ifs-file-extractor": {
@@ -9727,6 +9735,10 @@
     "20.1.0": {
       "sha256": "5515f1f6b27be867623cd35401d8e1686dbf23dc563bdcf5009f5749cb2f1212",
       "url": "e1/56/78cb31a3934fffd781010987dc017b96887b35e0bee5344402b9374775fa/gama-20.1.0.tar.gz"
+    },
+    "20.2.0": {
+      "sha256": "94f34a902cc6fd3a021a7ab3a5b55582e7551a139cafc0f6220a553e5c8a46f8",
+      "url": "2a/fa/ee2ef23b072c0b2183c0d90c412726bf51ee65536ada0b7d4fecb77c9c26/gama-20.2.0.tar.gz"
     }
   },
   "gastropy": {
@@ -16520,6 +16532,10 @@
       "sha256": "95598d1136290fe5157e4c13899ec7a2e7872a40aca9f4af00cf66a24e4625a7",
       "url": "f0/52/ea1f9870569d42a2d50440124e85ec1eda8dd207a05193bb0c63a4c20dd7/mypy-boto3-budgets-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "aa112f8ba017df44d514946d6ea1114e087cfcbc01c00383177e7bbdfc76f716",
+      "url": "5f/96/325e77c0a4dec68062984f7806b133ba737c91b867f9c5adff9e1378d06d/mypy-boto3-budgets-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "9f953d5a19d1c192065b2f4347473a6e2c1f374fb09566e83484c30927766ede",
       "url": "e1/e3/a8c179454dfb1da85fd3c861da0516ec5bbbea1fcb23f4a865a0e5fbdfdc/mypy-boto3-budgets-1.12.5.0.tar.gz"
@@ -16997,6 +17013,22 @@
     "1.1.1.2": {
       "sha256": "e0be9f305e145e082d4c70bab256afb47d19b0e9333b6cd3ff87b3cfdef19ba3",
       "url": "09/1c/160314b0ca104f03ed92c9d09391f4b74960253d0610357b2a9f453190f3/neuralnets-1.1.1.2.tar.gz"
+    },
+    "1.1.1.3": {
+      "sha256": "0459e71c2fad0448040f3cbb3ba05b2383dba4a8830f21cef4d66ba38d9b7d29",
+      "url": "59/5d/bedcb81b70772987f1efa0ff4d529f036c561d7a756aab7cc038fea6e723/neuralnets-1.1.1.3.tar.gz"
+    },
+    "1.1.1.4": {
+      "sha256": "708f5e924d2865d6a2c7b2af2e37cb10e1e70308b4d6a8293625de6dd6d854dc",
+      "url": "6f/18/06cad8082eed89f1c066348b46092d296481712a9fd0130b0db3e1cfd6fe/neuralnets-1.1.1.4.tar.gz"
+    },
+    "1.1.1.5": {
+      "sha256": "ec921a3ae8d3dcde1398208263b9c45c046a806e939abc67e42e41ab604f588b",
+      "url": "ba/d3/56d9e953b0f03e64e5c390c468e46545a2f2287e3d6912dedf11e79555d0/neuralnets-1.1.1.5.tar.gz"
+    },
+    "1.1.1.6": {
+      "sha256": "2f627ceab7076b5c205d050cddf8136e0933b87695c835ac5f10c26a76fa9e12",
+      "url": "b7/9f/b80c90dd0983f94ca317f67681d265fde5e4a8ff6e84c9b0e58970c075b0/neuralnets-1.1.1.6.tar.gz"
     }
   },
   "neurascope": {
@@ -21247,6 +21279,10 @@
     "0.2.0": {
       "sha256": "0672e8ee787983a3b32075e76527ab0abbdbac0fa810096bc0211cf4651d268e",
       "url": "3d/cc/f3aeac6b77e93a1ece2109a03726d47a951db326117f2cd270824e9eb1e8/python-lru-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "36be3ce8f5533cd1452379d72fb3c4fbe58add3b323ebccf41a3689799349952",
+      "url": "fa/14/8410589088c81b558b495508c962a7b157dbf0cd2ba1c25f99edb7f9b40f/python-lru-0.2.1.tar.gz"
     }
   },
   "python-lyric": {

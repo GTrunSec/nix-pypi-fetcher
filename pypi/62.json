@@ -1271,6 +1271,10 @@
     "1.34.1": {
       "sha256": "599e663e016beb66231cd9ac16b43587ceda2d8fe227b58061cfffdcadddb06e",
       "url": "32/cf/5cbde53083d78dc244495acbb04e187ad44c0016c819b1963403a8a80869/aws-cdk.aws-eks-legacy-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "99afb3d33473b3c78ed9063eb3907f4c3f02d487cf4cf64f2d89fd7d6d8017dd",
+      "url": "77/11/2e7c2386c37f925a6a806a5dcef8e929cc4a147bb15b063b64bde725c8e0/aws-cdk.aws-eks-legacy-1.35.0.tar.gz"
     }
   },
   "aws-lambda-event-handler": {
@@ -17041,6 +17045,10 @@
     "0.3.0": {
       "sha256": "65c20cc72c9e6dfe400ba4ee448dd195c20f3e690e29dc99bd48cc17dd8166a9",
       "url": "5e/97/e8ca92c3f2e0cbecde065e020baf856811302628f35ffec1776c9bcc1c0c/pyjwt-rsa-0.3.0.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "7a38f37fdc8918f693f466fcd75ed215c6e4c8fc052b819d490445fa6466c536",
+      "url": "d0/3b/f13fb846cef0f036ca1ff7b576d0abd71ef0580ab3091df92f32a011369d/pyjwt-rsa-0.3.6.tar.gz"
     }
   },
   "pylibgen": {
@@ -23225,6 +23233,10 @@
     "0.0.1.dev2100": {
       "sha256": "abfaebe51c91b27628b7826738eda9b5523a7ae88dcc7d6e3325f016ff1ca54b",
       "url": "aa/10/a42442686831347726624b4365726407d4d977188bb9581b62f5effd1111/tspublisher-0.0.1.dev2100.tar.gz"
+    },
+    "0.0.1.dev2164": {
+      "sha256": "f68f3468f1abc71bfbc28a788f11a523cc2148321bec3ecb411dc1b243da4326",
+      "url": "55/2c/206fce9cf62f69eca9841abb32d7b148521c81d1780f0d61f8a61b8e5614/tspublisher-0.0.1.dev2164.tar.gz"
     },
     "0.0.1.dev255": {
       "sha256": "97af797efa41899dfd5c8a4d8ed106cf029b91a281ccb179a62d6235ba7ce472",

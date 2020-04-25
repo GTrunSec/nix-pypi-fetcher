@@ -13389,6 +13389,10 @@
     "1.0.1": {
       "sha256": "e25a7ecad4fd306d1fb2dea14ffc163fdf66959866929a33612a305b54b75e02",
       "url": "23/5b/a9c42b790837d6902bc220afab081d6e5f5814407043db97045fe6c435b9/gwsurrogate-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "e6a52fb9fdb6e19212e1930273aafd95da50f67794bb22d24a2eea3c53a63032",
+      "url": "7f/8c/72f7b002c7880d1ce248641289193145cc62719c1878c7ff8dd2e320f8ed/gwsurrogate-1.0.2.tar.gz"
     }
   },
   "hddtempnc": {
@@ -14783,6 +14787,10 @@
     "1.2.3": {
       "sha256": "1b436c09a3613d87d0fe67c20dca9841dad1ae4cf9edcaa890342b5b864c0382",
       "url": "18/fb/f9d0a133976b4f3b64b5226171e00fe707ab0e1900dedeab319c682ebf01/keras-trainer-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "47c984a331c17f79868b92639a4a0d726d0214e0beb7a5d1afd78f1ec6f0f4d8",
+      "url": "04/10/ed249e18b7bef2171cd1f6ffaec368ce3d1334b27ed8bc38ce9ce914651c/keras-trainer-1.2.4.tar.gz"
     }
   },
   "kervi-hal-win": {
@@ -18002,6 +18010,10 @@
       "sha256": "19d4bf3849a4d59b4675102ac74a685fc2c04a74eda404971046846721037a81",
       "url": "32/96/efdbcae9e9be7da60a50449095e2a85f89cbdc3d908fd5bd98cdc689e8fa/mypy-boto3-mediaconnect-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "53bb96e88872e51dae6f807da363e07feaa297504e2a40b4362ba43ad98c2260",
+      "url": "27/a2/8b593a4b1413324c28cd3eed253b3de44c6aa8dc1fcdcb417b782d0dcc0a/mypy-boto3-mediaconnect-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "820783629c7c5cb2cb40a4451d49090cbc6ab739a72021dcff7d13489431eb6b",
       "url": "5c/2d/adb323ec67e120a8e1138419e8952a847f999fda523f00cb90a044096134/mypy-boto3-mediaconnect-1.12.5.0.tar.gz"
@@ -18455,6 +18467,10 @@
     "1.12.45.0": {
       "sha256": "4590f2fdea64e3456b8877f50c75af6dc7b8e4e4078c25c112ee3f0def85fa09",
       "url": "b0/99/b1fbd301b7aa1bcdfb22e5da9e3d7e79b5e82152b9f9f6022c2382f86542/mypy-boto3-sso-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "3ccd78ca8de3c32b560a73e7e8d1ac99e8bff96cfdc62a1413b1adb916745bcf",
+      "url": "78/97/28b89684fa70fcc3322047506bf5b39f667678447ab1e1e4ccf21bd181ed/mypy-boto3-sso-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9326354bb633eca129650ec82c78f61df92fd93d048504c5a186b1b8edd10618",
@@ -22493,6 +22509,10 @@
     "0.2.0b1.dev1587669401": {
       "sha256": "45727f44c443dc2ad47457a5b0529963e5bb7c210ea912e10f15cd101888cf30",
       "url": "81/c7/37aa492ca50cc2a2ec24a9a9c851ccde59327484c056ef2e9e2ebe36f258/pulp_maven-client-0.2.0b1.dev1587669401.tar.gz"
+    },
+    "0.2.0b1.dev1587755799": {
+      "sha256": "275340078c16017d8598844da8ca252421ee9f9193f3907aea89e51f85919e78",
+      "url": "2d/8d/082b48f2fc0512fab2e06d61825630a5f631956b5f4a05050abb7bec99b0/pulp_maven-client-0.2.0b1.dev1587755799.tar.gz"
     }
   },
   "putiosync": {

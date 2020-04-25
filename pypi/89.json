@@ -3835,6 +3835,16 @@
       "url": "c7/89/d4d9ca9eb9b07b03450fb28ea831d7e16b6a24c83c09f98c544db4f3bb84/cnfgr-0.1.tar.gz"
     }
   },
+  "code-faster": {
+    "0.1.1": {
+      "sha256": "f64721a38daf09639e587d1f57141181a6c9492bb12df946d35cb0033ad3e421",
+      "url": "96/70/f625791c645ade8d0c234d04304df3a4df6189352e60b1fcb97a08425231/code_faster-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "91f3cd1b06a4bf119a15d20f285db93532e02d2f76c2a44e5ec09f1670aea859",
+      "url": "51/75/a68868282a9d6bcdd66dcc8f1769a96131055d349093179d51a42f56aacd/code_faster-0.1.2.tar.gz"
+    }
+  },
   "cognifloyd-uplink": {
     "0.10.0": {
       "sha256": "97d455e78e4f2279e546460f328d06684c3f46ed6ed68077be16dc6430806d42",
@@ -11676,6 +11686,10 @@
       "sha256": "f9395b2537b5299208d53c968269143a81ec4ef0c0b09160ed48b1f681758414",
       "url": "be/e6/2fafe86eb94c5fc43c5731a6b81eba35b7e518d366e09d850371fd5b9580/mypy-boto3-elastic-inference-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "29ae96d68f9d6fcaed73a7c19150f5e765911ece93a129aa317d5766ebceaf4f",
+      "url": "46/b5/51f4612cc6823ab7622701ae66cd6b30a4f4d79822a4ebff707da036e079/mypy-boto3-elastic-inference-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "5964e12545e0b59ac9047447886b5270c84e2224936a80dab24b37044ee139f9",
       "url": "91/e8/477063592e9b8df49d7e1f5d570596befb0c3848e674d8eb0ca07a12f1af/mypy-boto3-elastic-inference-1.12.5.0.tar.gz"
@@ -12193,6 +12207,10 @@
     "1.12.45.0": {
       "sha256": "f6ef7c760ff495c53964c718cf0981c31c25a4ae90bf46d33deb4e10c8de47d9",
       "url": "11/9b/5ff0d759e98417e13444d28038e730ad9d5faffb0c3335d2fd7afbc6a250/mypy-boto3-managedblockchain-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "4cee4c9c03d39d061543fa27c1a216d2ab9dd5d941b7a5247dbab40706e0642b",
+      "url": "af/a6/572b8404c4eb5d61a940138a3298ab377b09432d0e7191918098ef910c67/mypy-boto3-managedblockchain-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "bcdef653558d2199692fc1892f0860c9cfdcf933980ac088152441702a94f4d5",
@@ -18689,6 +18707,14 @@
     "0.4.0": {
       "sha256": "176b48991dcdb125d9da832563ad51fa393dd51864270a72b98730e03fa71af9",
       "url": "98/50/3d9ff81f02fe3072623e223dc86b5a92fb7b497ded72da726774a80cd50c/shallow-appify-0.4.0.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "f7f4c979873efe3a988ca528a66e41dca7ffe2aa93e4ff6a2e076c57ea545d84",
+      "url": "75/8b/4e3c10ba896be9fa19d24e509cedcf7a4ce17ea90731815a441ad7ab84f9/shallow-appify-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "bf3da0c3ee17a6263accb822d0f3f18444c890d90808be63c3249d831cbfc94a",
+      "url": "0e/91/855cc5b507d3fe4665d892988cc3e6b7ece1862575ec72fb7687fa69b432/shallow-appify-0.4.3.tar.gz"
     }
   },
   "shcli": {

@@ -3078,6 +3078,10 @@
       "sha256": "4238d09750fa54b99ae9d417a45b67cad3147791b5c919ac5c30d16b63371fef",
       "url": "55/8e/77629ce429a42553d4765c9201e796ef811fc45aa4aad56e489c0e242992/cngi_prototype-0.0.47.tar.gz"
     },
+    "0.0.48": {
+      "sha256": "b3a4d3c656fd503961525dbf4b342f1ced078e076459664cc14be9f27c032bbd",
+      "url": "b6/1e/001cc84d09371301c17a7d7ab202fd2a219edaa7049dc0732c8c1bde884c/cngi_prototype-0.0.48.tar.gz"
+    },
     "0.0.5": {
       "sha256": "4e3c708868ca54a15e4951369198966993a9e3ddce2c33836b004e5489fc8104",
       "url": "33/f9/a0dd81e00a41b687f9c21147f187e68a8393444d000689559d02b4166850/cngi_prototype-0.0.5.tar.gz"
@@ -5737,6 +5741,10 @@
     "1.2.0": {
       "sha256": "5364375b46449af7abf6a843bd1c6447bbbe66929eb4ff80a1cceb62034f975b",
       "url": "9c/66/796d9a0aad5394c01b8f9da06c2f7ae7d354c17bdf7419f6d68dda897bcb/drheader-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "9d483728e5983705cfd6cbf4be1a77ccc6302eda929225ef92751771dcba3447",
+      "url": "31/9e/3be64f521ef58bb003970a64f705e357309bca401225c62bfe06e9b71578/drheader-1.2.1.tar.gz"
     }
   },
   "drivefx-python-sdk": {
@@ -8317,6 +8325,16 @@
     "0.4.0": {
       "sha256": "02610a4aad30ad1c4b5198f9fa436e46c47f4ddf7bcc5d882813368f632c5541",
       "url": "11/34/699df6c9e1b5bcd1fe20df4f0f8587c73d5c33c526ce20b71dd8c0e420ee/gtrain-0.4.0.tar.gz"
+    }
+  },
+  "guardrails": {
+    "0.0.3": {
+      "sha256": "853625af4ee48851477f29a22baf58dbeba88c69f59cb38545fc7d169bc8e6e5",
+      "url": "c8/7a/a2617bc20fe427a81bf0401187e7d3fff93602a6dcb44b4342669026490b/guardrails-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "ab6b042a279cdaaebe2999ce85931b8421d5731ceceb2764e4164cd2b107c1cd",
+      "url": "3a/2f/de2d4c9cc97a41a4f3abb6cdaf954d8416b059672cd323fab95baf97344e/guardrails-0.0.4.tar.gz"
     }
   },
   "guibible": {
@@ -11905,6 +11923,10 @@
     "0.22.3": {
       "sha256": "9bd938de9bed05b4a2f71f78ab0fb85f120ad304eeddb34ea39aadfa9d07e751",
       "url": "9a/37/4f1a4b3f885cae4edd9cdd4ea4172368113c10aa9b82d6816076691d0297/lightwood-0.22.3.tar.gz"
+    },
+    "0.22.4": {
+      "sha256": "5a76029954b6148bc789805c2fa399f28727cbdb352507700b0e6f3ab1e24674",
+      "url": "8a/a7/9911d19dad82ae3d1b1edd055cffabad922d73f1062ca9be9dd8c705816a/lightwood-0.22.4.tar.gz"
     },
     "0.5.0": {
       "sha256": "9c7f50e5c141850831c08de13d11cd39c72cd94bb158c18cd737f7d12c918168",
@@ -17549,6 +17571,10 @@
     "0.3.2": {
       "sha256": "3c9f0feae62a5dbbdd38b818b20bec291e37f396831fbd2435735ca3a241031f",
       "url": "5b/1e/feb5274e9c12575b5ef398b70f5c1b597956a8ff460f4a66e9a2ab97e03a/pyreadstat-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "c1be0b2e8497ef7999fd0d7c21d0510a14474459979f431e9d7c9eb9247ff86c",
+      "url": "2d/b1/2d0fb39d013293c9e9c0692d0ae1b61cc04ef6e5dd075533657f42a829ba/pyreadstat-0.3.3.tar.gz"
     }
   },
   "pyrecon": {
@@ -18207,6 +18233,10 @@
     "1.1.5": {
       "sha256": "b68ea415c7301d13688e4fafb69ef95228d7c1aa4b79a7582740b2a96281295a",
       "url": "bf/29/4498273de0f69a4e93948ed29f0ffbb8eb601a46098f03ada673fd4fd536/pysoa-1.1.5.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "0d1dbcb6887080a27e46da5914a7980ec540a81bc2f4a454fa09e0334055fe51",
+      "url": "60/fd/0a381ca1aff7d950304fc4de41b68db67640712e417eccde0cc33c360a54/pysoa-1.2.0.tar.gz"
     }
   },
   "pyspark3d": {
@@ -20403,28 +20433,6 @@
     "0.1.0": {
       "sha256": "46718985330f1375d38a917a61709b4b5290b64bf38c0fcfcea0e14fbbbceb1c",
       "url": "da/a5/3ee49bf0c9b764bb61ccf8f04a14a410e3a0488808b69e4321916411c28c/simple_stat_learning-0.1.0.tar.gz"
-    }
-  },
-  "simpleaudio": {
-    "1.0.0": {
-      "sha256": "0df2df82950759863cd405e44d52989bcec5876c46cc0f334d22cddce47899fb",
-      "url": "4e/83/579b0ef3dd5db81dfeadffd5de30425f65c3a9ab28d4ee58963a1f492bb6/simpleaudio-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "6cc84d50d8192c074505c719722138ae6ea987fd8eee7fd930237cb308962604",
-      "url": "12/f6/327c1af94062a6a6a5ff06dcf9dc689ed81aa07ae757cca3438c3c9e50fe/simpleaudio-1.0.1.tar.gz"
-    },
-    "1.0.2": {
-      "sha256": "4e0e4c0359f153408e9b8a65342ec0c1d014f36fbe9cdb594e9b6e5348916af8",
-      "url": "ad/39/ce09ef827887cdfc755427195d7291446c1fb34a16356d1fec920d62269d/simpleaudio-1.0.2.tar.gz"
-    },
-    "1.0.3": {
-      "sha256": "6ce300e2f1fae12ea976dd6f02376077cdc184c95707e33a0b5a5e5ccbe71c96",
-      "url": "e6/f4/8da304b5fbde0dc92413980ed90d497fbbeb1a38adbdb7dfdf3949910a22/simpleaudio-1.0.3.tar.gz"
-    },
-    "1.0.4": {
-      "sha256": "691c88649243544db717e7edf6a9831df112104e1aefb5f6038a5d071e8cf41d",
-      "url": "94/1b/4dc29653733202b68c09d9c6ca085cf67ac54859ee860647ef21ac1ff3dc/simpleaudio-1.0.4.tar.gz"
     }
   },
   "single-beat": {

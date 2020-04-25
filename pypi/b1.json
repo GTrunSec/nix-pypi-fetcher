@@ -1294,6 +1294,10 @@
       "sha256": "beecee7bd7132d22c35bf57fe9df57969dbb5e5ea5453df101c93eeb6cc2951c",
       "url": "5b/64/e2c526ac6d247f6fc3180d2d317bdf2320f067dd313059806dd58f3ed7de/aws-cdk.aws-codepipeline-actions-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "db36b8826ff700f2ff9666e6826150b47d383b14a432723e40f2fa87314c3971",
+      "url": "8b/a3/3b5994536fffc6af0ca88abbb0dc364bae4b699c3fce68288e71817276a6/aws-cdk.aws-codepipeline-actions-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "c1a963235bea0808c9533c3e46a9e73e7d657fc2f393be6826d4a1b461645c81",
       "url": "a8/e9/4ba44cc1f1d45c0b883715d47e56eba36bc0318d44d0bbea80d4a121a0a9/aws-cdk.aws-codepipeline-actions-1.4.0.tar.gz"
@@ -1547,6 +1551,10 @@
     "1.34.1": {
       "sha256": "013ca94ad0106fe81912c8b726ac18c3c01b4b38c5cbf4c92ba4a4681fb15f57",
       "url": "6e/25/11ab54c8286beb7402ab695d7acb958b15a3340eb47bd677a18b77511559/aws-cdk.aws-secretsmanager-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "b90cdc0858a7d07dca835ef3743d4af9e789649bd8420ed08aee9e12ee1f96bd",
+      "url": "00/c0/36b0a77ac76d0ea46d5b273d5cea6547369358ea38411cf71b4658bc3496/aws-cdk.aws-secretsmanager-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "0edd14b624a3739268f5c7d05023b7fb05da08e86176bf821b5ab5147e75b47b",
@@ -10369,6 +10377,10 @@
     "1.3.0": {
       "sha256": "8aac1f5a40a0a41860d68f90a40aba789aae15402d96c172c04157f41e929221",
       "url": "ba/2e/fb83b4cc0d68864b791afd9f6ec9d378e8ebd8cc906d979465e8e71b53c6/gitprivacy-1.3.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "7cc9100792a45b19ec165a2e570ddfd6deee852a0014c71ac627e80e750f8e51",
+      "url": "f2/05/12679f7d410144bd1bf0a95860cbbaacbb63f4ef1ae026da4da543a06e75/gitprivacy-1.4.0.tar.gz"
     }
   },
   "global-apbd-logging": {
@@ -15462,6 +15474,10 @@
       "sha256": "00e9460b8f264fe416de619e179a5a57d86cb26dc513488e2e3a490f0e70b5b7",
       "url": "e4/a6/907719f4c837c93a14a1e1e412d8f0b04ba44ed3ff4df9362a9a0cd58367/mypy-boto3-ecr-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "92854b79f972b543850181511cb10bf37feba2f1f17a6432ef00aa0e732e6e73",
+      "url": "0a/91/c5e73f1e4b60071e0faf52f790ebf34653e82ead95c72f4f9254f6b7b490/mypy-boto3-ecr-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "25acb6d2c22a57023231e9eb82a7397fb82c68ed031f51c9c50034e4a906b359",
       "url": "d4/87/646bfb1ec9b72610b320bc5695730e0c223d8317dfd3381cbe4e09add355/mypy-boto3-ecr-1.12.5.0.tar.gz"
@@ -16281,6 +16297,16 @@
       "url": "34/a0/08c9d1c01945e132ef0b92c7b3e2b3d796f51ba5b553b309320280971aab/numberconverter-1.0.0.tar.gz"
     }
   },
+  "numpy-odidev": {
+    "1.19.0": {
+      "sha256": "a5e49e0a0136d8d1c8bf16a4461141ab42277f5d1987af1c4e2f29ae362fe615",
+      "url": "25/7c/04926c654bae1c3438ce539c8ab2f18d0413d0e1c3c888423020351d051f/numpy-odidev-1.19.0.tar.gz"
+    },
+    "1.20.0": {
+      "sha256": "b95697dbe38cf23f7be8782a3a762c9e2ed6953256b6b2ca34e48bc4b9d9d91a",
+      "url": "d2/31/63e147f5796fc8a891b55dc0d1425974332efb2a5fe66d33ed8b9e243061/numpy_odidev-1.20.0.tar.gz"
+    }
+  },
   "nuxeo": {
     "2.0.0": {
       "sha256": "68325aa1b64796521fcae4f45734abacca701ae6e23ed9b4f827efd5c395bbc6",
@@ -16851,6 +16877,10 @@
     "1.11.1": {
       "sha256": "aa155ecea76769d6647f6686cef1a1aea1522a40811baed305847e1e90b89d94",
       "url": "4c/4b/530fcf2fc704ae5217583936fc887582e0c61087d2c0de0ed6db242843db/pgspecial-1.11.1.tar.gz"
+    },
+    "1.11.10": {
+      "sha256": "f65c74a7ecfd4d6af3feb963a1bf8a612e5882731f69afd06ae66ffee13238cb",
+      "url": "7a/0a/1bc722f782ebb0c126dabe97d58f902b82703e8eda3477a60ddbbb51bb70/pgspecial-1.11.10.tar.gz"
     },
     "1.11.2": {
       "sha256": "60e81ed02c3a2d43a4eb70d5bbdeea7b0c5244580d3017edf89a6fd66e6503fb",
@@ -18823,6 +18853,10 @@
     "1.0.8": {
       "sha256": "80d1a7ec9522a90524a416dbdc81daf02139a6d354fff64f78a2b3742401d670",
       "url": "83/0c/f9fea956117cd656cee2b7cfb95be95756301df44c449f9f1f398ac62548/Pyng-1.0.8.tar.gz"
+    },
+    "1.0.9": {
+      "sha256": "607ced42c0af0c04ebec29f7d26db5c773df6dc5107bc76290bdd14797d6afed",
+      "url": "43/3b/f32ec32bf7e51903077c5a2da29af3fbf265aa59b57fb539d1324774b1f6/Pyng-1.0.9.tar.gz"
     }
   },
   "pynidm": {
@@ -19121,6 +19155,14 @@
     "0.0.4": {
       "sha256": "ace73ebc24b42ddc482c034219c5ac47a489e686b1bddbc88f544cb2e0be6d1e",
       "url": "15/56/ba247c17fc1b317c5679594dd00f3b1ed793f81bc313ea2d72d70cb399df/pyrehau_neasmart-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "0fcf948e958108a0c1878ba86ce8068d27b4ce13ceffdbb2c5bccb6af6dc7d6a",
+      "url": "f8/8f/e0f270ca120fd2929461ac8cf8adecc05e028464c465bc352aa23ec55969/pyrehau_neasmart-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "76c21192fa69b03abba07449cce5df9d11e12abf869724d1ea06537eccd83c2b",
+      "url": "ee/58/55c242bf218491bcd9aa1c629234e56c973b63675a69ff37b47956c598b0/pyrehau_neasmart-0.0.6.tar.gz"
     }
   },
   "pyronn-layers": {

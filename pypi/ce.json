@@ -3413,6 +3413,60 @@
       "url": "c1/00/4e86984d8220766b802007313a335c584e2d025e1f6ed209507690631262/delb-0.2b2.tar.gz"
     }
   },
+  "deprecation": {
+    "1.0": {
+      "sha256": "36d2a2356ca89fb73f72bfb866a2f28e183535a7f131a3b34036bc48590165b6",
+      "url": "ab/fe/edad444ecab087e57dd32a10e38ef0d7448b3ab8ff8bfa65b022d3a43a1c/deprecation-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "b9bff5cc91f601ef2a8a0200bc6cde3f18a48c2ed3d1ecbfc16076b14b3ad935",
+      "url": "8c/e3/e5c66eba8fa2fd567065fa70ada98b990f449f74fb812b408fa7aafe82c9/deprecation-1.0.1.tar.gz"
+    },
+    "1.1": {
+      "sha256": "8034ff1de464adc6558ec943cdac108fe661d3b58696f7b5821c678e4fe6106a",
+      "url": "6b/1f/9dab6885bc6599529ec2939dff809b1557c187aa418176720202e0cb3c82/deprecation-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "f3290b162abfe234d8a6b14dcff276efc513a5a324f0a51ac57dec7a718ae541",
+      "url": "5e/5f/260bfcec67f3a202e6ddd65911f3407e937387512509bf89252d64f1612e/deprecation-1.2.tar.gz"
+    },
+    "2.0": {
+      "sha256": "492b1ff401242ddb33c4d0ee6a27b98b6cef825453f1a1339315d861503ce012",
+      "url": "f1/68/f28dcab6411a2b09831b14bc936f2ab627b07b411098bbbfbc1c86f32cf4/deprecation-2.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "72111aae0aa4b3706553e83f37111a10a5c83e68649f1d8796db4c894130ba36",
+      "url": "2a/2d/f0ed436a4027c80e919869e9fa6aca164d7cc0d2e98a4a493f03498f477a/deprecation-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "e8d0dc5a17d7d551730e5f23ff3a53fc9e438364b9efb47d41c3e9b05522eabe",
+      "url": "d1/98/caa4171c9ad4bb046b18bef84cc6e5d0ae0427baeee920eef53da83fae09/deprecation-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "af3180b9aa53e5d3e0ff23934bd14963c7d6effd39c5c8c21973bf1dff8e8479",
+      "url": "a6/06/f8277cb1a52cda3cfa874bb79cb46aaa0599d2acdcb7d65782d0596d4360/deprecation-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "2c259bfc0237f16bbe36cb32b6d81addd919b8f4bc7253738576816e82841b96",
+      "url": "de/a8/7609236c5ebcabcb4baf2313ac74b1d69f0068f4294854ccb72191aa56e4/deprecation-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "cbe7d15006bc339709be5e02b14884ecc479639c1a3714a908de3a8ca13b5ca9",
+      "url": "dd/06/aed49f13984c4acfcd67d699b2a0e96fefd2f9c700ce88a43120eb0363e2/deprecation-2.0.5.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "68071e5ae7cd7e9da6c7dffd750922be4825c7c3a6780d29314076009cc39c35",
+      "url": "cd/35/ab3995718c7b12d6a5e69f40540fe1df0b505cca5ee6af169d23ab9d0b00/deprecation-2.0.6.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "c0392f676a6146f0238db5744d73e786a43510d54033f80994ef2f4c9df192ed",
+      "url": "cd/94/8d9d6303f5ddcbf40959fc2b287479bd9a201ea9483373d9b0882ae7c3ad/deprecation-2.0.7.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "72b3bde64e5d778694b0cf68178aed03d15e15477116add3fb773e581f9518ff",
+      "url": "5a/d3/8ae2869247df154b64c1884d7346d412fed0c49df84db635aab2d1c40e62/deprecation-2.1.0.tar.gz"
+    }
+  },
   "deskew": {
     "0.10.0": {
       "sha256": "3c533a224a86b6238eeca8ecb27e6aea860e9c842134e20c392eba72a8a61ab2",
@@ -14424,6 +14478,10 @@
       "sha256": "37afda2c7e64234f0472a725ffaef58aa9f4bdc2cb6097559c855c43f5983141",
       "url": "ea/bd/53e87d5c2087beeea5bdcff49d61d7297ee40045c39a9f201296e6710f54/mypy-boto3-xray-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "93fc7982d4bfc0746fef33d9e52b405b31b51f302ed315fb13930778cb8fc423",
+      "url": "eb/7e/0c4929629ef38c65cf12aa438fdb059e25916225924e3e81004cca86b1bf/mypy-boto3-xray-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "bbbe70f7eaca947018d4363db070f9274c5b9b7766c44d94fdaab44bc2692858",
       "url": "fd/23/b832d68c91cbbd1e73ae77c8d679bb990a08c0e872ba49e87b7c328a7b1a/mypy-boto3-xray-1.12.5.0.tar.gz"
@@ -16876,6 +16934,10 @@
       "sha256": "a3c2866a1a994f40b40a0e277904a40e4809491c8ab80f845393aa3f3dd34d5a",
       "url": "ab/b4/76441e3a345dcca3c3ccd890b3098be7387d65e114dc60e6bdc87021ede9/properly_util_python-0.18.294.tar.gz"
     },
+    "0.18.297": {
+      "sha256": "c48448afec81f47a35205d4d4852c1c67b22e6543b7c71633f05d9927bcfa839",
+      "url": "43/ff/7d5265ddb43909a43eb262e65e4bd1cd0c0577ebadbb14aa3ef299de575f/properly_util_python-0.18.297.tar.gz"
+    },
     "0.2.0": {
       "sha256": "e49280bd78ba236e31ea3a554c2fefb8c568116dac8d70c554389d436aaf482a",
       "url": "0b/a4/f478da8c6122bc1d177de6485bd3bdf889b4de06018bedd74e74a7a9afd9/properly_util_python-0.2.0.tar.gz"
@@ -17049,6 +17111,204 @@
     "1.1.9": {
       "sha256": "122e78edaf91621afb2a6974f1d0335fddc20b42962c5ece9ccaf369809bd72b",
       "url": "01/cd/1a8d2defb03e3e6d796963bc0669bbce77e523059ba04cd2967ec9ea37b6/pstats_print2list-1.1.9.tar.gz"
+    }
+  },
+  "pulumi-alicloud": {
+    "0.0.0": {
+      "sha256": "3a47b1dcda9c44ccf028aed453eb484d36fba8ed56c54e0ce77919c4b8cce41b",
+      "url": "ac/4e/d2485e476bfd741be3a8a0a896bc1b43c9c2b21a806ce29cf5d63dfd4882/pulumi_alicloud-0.0.0.tar.gz"
+    },
+    "0.16.2.dev1540342968": {
+      "sha256": "7373107dd7e0625b7e5c5c0bf024b16c1f6273d401a24abf2f5d3ea16ddd3f74",
+      "url": "7e/17/3b755c772f0750c7b82c9d01c3af90e86f9bc95b8a1b3dd79b18979d1805/pulumi_alicloud-0.16.2.dev1540342968.tar.gz"
+    },
+    "0.16.3a1578922712": {
+      "sha256": "b48faca367e457456479f3e7fa691c87c29fbd8ffa6a291dc2ad333930f15a6d",
+      "url": "b9/92/3f75e4cf4485df3b535b2d8d003da0f550ca19c882716c86b13aa3a1085d/pulumi_alicloud-0.16.3a1578922712.tar.gz"
+    },
+    "0.16.3a1578934996": {
+      "sha256": "75429bb6dcfaadec718d6bbd638598b76a6001b5b4b7ee8448deec0ffa325f3b",
+      "url": "58/dc/09060b73fd9fe0f415577f69ed48c096e5019fb7ef0425818ce0a3d831be/pulumi_alicloud-0.16.3a1578934996.tar.gz"
+    },
+    "0.16.3a1578939824": {
+      "sha256": "c8848bda37eeba7d9daebc0a5962f19b47e342a0903b3fc0eceaf273dd3a3c1e",
+      "url": "31/62/5e348920025ff2fb5787055e6d43669fa39d095bc5374fb29ceabb4f562f/pulumi_alicloud-0.16.3a1578939824.tar.gz"
+    },
+    "0.16.3a1578951469": {
+      "sha256": "d9734f815bb990284c818fe30105d364f6c3262608e3f0fa809a791adb16fd41",
+      "url": "0c/b0/0ae1cb66e9a94700239592b8b3ec6c438acc4d1d80c2720dc4584b825b97/pulumi_alicloud-0.16.3a1578951469.tar.gz"
+    },
+    "0.16.3a1579450321": {
+      "sha256": "3b55e29d125f000329ceb23ac84d0bb7b32f74d49365047b8513404d72116c1d",
+      "url": "89/83/1c1f53572f9c3498b5b886f5da166ea35d4ebd1a4b803f550d429fc0775c/pulumi_alicloud-0.16.3a1579450321.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "65b6328fe10ce1830bf0d58d05c793af07d1c24a326bc966528e35ce330bad02",
+      "url": "b7/c6/a63505ecbf33e720bb5b6c167d8172b36a79c1bdc96d57b1c50bc7459a95/pulumi_alicloud-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "256e63378ae865d7c36987776d07fc8af7bed25a64ef8700cbb435440305922c",
+      "url": "22/f4/2d66ef6c58deef8225ffb2755ae41601344f9f5b418391b121f41fc28f96/pulumi_alicloud-1.1.0.tar.gz"
+    },
+    "1.1.0a1579874919": {
+      "sha256": "7d0549c5f8dbad3bdc5f3287c2d47c7a59326a128dd315749d5825d1c6ba7901",
+      "url": "67/75/a46953341ba81315a161f67be0b91c10a1abd21c009275d657c898d2d8b0/pulumi_alicloud-1.1.0a1579874919.tar.gz"
+    },
+    "1.1.0a1580243581": {
+      "sha256": "98bfa1319d04d4d30d93893a6333f2da03fd74c8e6675f69a48c638670d32657",
+      "url": "35/06/f5130d0c6f1d371ed4b3a228fde8c0baa80b29542c9c6846f4b76d38b9b4/pulumi_alicloud-1.1.0a1580243581.tar.gz"
+    },
+    "1.1.0a1580301744": {
+      "sha256": "6d81a3f1f7b378203e88b369cc09aec1d32434818b4f9147de422eec56bcfab0",
+      "url": "fa/94/026cad382a4a3f2acf19e13b3fb30bc0c46d033769df247dbd81bc8c72c5/pulumi_alicloud-1.1.0a1580301744.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "5e39bb55b0ec02a0a5f0ea05d5746b329ae84e5ecbfc1c52ff77e3ac516b4e2a",
+      "url": "4e/8c/0e31186358bfaa603099112081ce85b29586fe6c90e121052a68ee804c2d/pulumi_alicloud-1.2.0.tar.gz"
+    },
+    "1.2.0a1580369438": {
+      "sha256": "186b08529f28c2de0b857a64d534a258b6630ff4f1fafe533e89bc3a142adcd5",
+      "url": "30/79/ca5f851bda78a2cd7c4312545b5388b18b29cdd375311f0de48fb6f921ee/pulumi_alicloud-1.2.0a1580369438.tar.gz"
+    },
+    "1.2.0a1580415019": {
+      "sha256": "5c0667142f0f62f105473e076048c768e467a7cddaffdc1626010e4d39ca79e4",
+      "url": "b7/95/be75819533d01338fdae18f4e90313b13676bd74da82eeb65030e09acc41/pulumi_alicloud-1.2.0a1580415019.tar.gz"
+    },
+    "1.2.0a1580418160": {
+      "sha256": "f2040ce0c6bec98eea3c971fb37c5081fab036aeca9a34a04a729073a1a476b9",
+      "url": "02/8d/328aaaef0c7d69211fb1f043472067eb651b90f026e9c0c7f00ce5f6e4db/pulumi_alicloud-1.2.0a1580418160.tar.gz"
+    },
+    "1.2.0a1580424415": {
+      "sha256": "50573e9edf71b32fe08323904f5b6f236a40647bcd20eba7882f7ad553127592",
+      "url": "e2/fd/ca965d0fd5821dde7b78cd4387b64e1fe2efacdca975b3dcf4414dcab168/pulumi_alicloud-1.2.0a1580424415.tar.gz"
+    },
+    "1.2.0a1580989434": {
+      "sha256": "c48f870524f185fd8b1f70ccaadc9e41347fa57fd3a9f72bb5d2938c7bbf5065",
+      "url": "a3/7c/bbaa0607fe30791c8614c1b75276baa0b5a7904ee85be86951dfdbefe957/pulumi_alicloud-1.2.0a1580989434.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "726cb49be99baa850d1cbbfc1e5ff069de13574edda5a80a7bfc14cd241a75a8",
+      "url": "fe/95/5b4359f6a7d970e20c0e93f0e3e7d4b2aa2d330bc306d91a1925af6d63ef/pulumi_alicloud-1.2.1.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "afe3b1a9d9437165ad80caedcf4ba45510d1041329cd7e254b927ed0baf70d57",
+      "url": "1c/f6/3a9687d19d0e939bce7c25dd2766ced240cbe7e9af64a779a1c0bd9fc574/pulumi_alicloud-1.3.0.tar.gz"
+    },
+    "1.3.0a1581015156": {
+      "sha256": "0e9bac3806c78c6f3c8dcb62bb71a93824c9ffb95b90475854a6a8f79b598b62",
+      "url": "2e/95/e7f9f8ec3435521819509dac0f7874a17982e46d6c312f093d7a7311b2d6/pulumi_alicloud-1.3.0a1581015156.tar.gz"
+    },
+    "1.3.0a1581855422": {
+      "sha256": "b5093cdf69bb00be62d261425ac05a349f324aa084350ebcf9fb1b255122f1b2",
+      "url": "ee/f9/5d02d3f2aa62e655c12f611361dc0ce897067bba8d3771313d84a06e1f7e/pulumi_alicloud-1.3.0a1581855422.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "60cb7ce9223b55ceb3294a0dabd1517e4d78c34567cbb33000d963efff4bda83",
+      "url": "0b/ab/97adf230fd889faaf4cd94b4b88f4d8563c0cb763d64a6ba32a437a6a809/pulumi_alicloud-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "b79497d0f75431d3259e2d17e8dc4037c57838f923741a420e44f85a1aeefde0",
+      "url": "ed/12/f3c2a3309bad22f4ffce2024b67547e79187dd45ecb278334f004850c6c8/pulumi_alicloud-1.3.2.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "582c208f64987b9b64ba11bd0e0f6772c7600515b3ee12fc9a2ec56ee2b3726e",
+      "url": "82/3e/4bdc6932afe82d5b59bfa7b362d1cfde42f12431de2e87f53b97d356e702/pulumi_alicloud-1.4.0.tar.gz"
+    },
+    "1.4.0a1582297170": {
+      "sha256": "7badd235e57f333ce425b943ef8b99437eeff854c232a4a167ca543dcaaa8404",
+      "url": "88/df/89d05dc4580bbbefff88e068b43c18f94686d287a72022599dacd8dd7709/pulumi_alicloud-1.4.0a1582297170.tar.gz"
+    },
+    "1.4.0a1582539121": {
+      "sha256": "6ac492b79591f39c82408a72b1e5be9206cc11417520713c1a144d067a941f86",
+      "url": "06/3f/b6b491616cb1c0f6f2d6f4a76771aa6550879619137152c87056fe9763fb/pulumi_alicloud-1.4.0a1582539121.tar.gz"
+    },
+    "1.4.0a1583178841": {
+      "sha256": "55b5d2648a7eb00b10a6b350732a2afa3a47640039a944a0a7d074131ff42fc3",
+      "url": "96/6d/eb04d7973db8657d52a9e16d35efecf266e511fb39030af82b8c3e293c08/pulumi_alicloud-1.4.0a1583178841.tar.gz"
+    },
+    "1.4.0a1583611030": {
+      "sha256": "1d0a204857f2ed069314d8d8b064e55393bf4a1146b4f5ae5e7c6efd76b3d63e",
+      "url": "46/31/e4fa166a1b3fd2d9cb7f5feef5370768edf2a0e9e7adec2a6b893f7ac775/pulumi_alicloud-1.4.0a1583611030.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "86fe7d900c7c84f4cac1a2c51bbb2e9c959106b55a2bb4ca81952dcf08ec1adc",
+      "url": "1c/68/2941502489d44bc056cb74c5ffa142924b5309dcee9d9435ba185a43781c/pulumi_alicloud-1.5.0.tar.gz"
+    },
+    "1.5.0a1584364445": {
+      "sha256": "ad1f7598510a3fe380f8a0fea7c14e55f79e3bf81575f44acf383adb6452580f",
+      "url": "8f/f1/6e19738852602136248e65cff7213581ec85cf793980fcbee226b23d14a0/pulumi_alicloud-1.5.0a1584364445.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "61bdb966e10a1619f7f5b9d1d6016107dd6591e67fb805eeb167731ebdc3c837",
+      "url": "45/96/c8ad98dd885a6dbcce2563a5f43359634af5119994880f52c669b55812b6/pulumi_alicloud-1.6.0.tar.gz"
+    },
+    "1.6.0a1584824816": {
+      "sha256": "db5af9bcfe1af39cd315170fa2d62d6a0805c218e8dd6a2b08c5439114919f8c",
+      "url": "11/4e/3e51612ea3cc9863951b41b07536b1079a3f9fae2ec892865f2abbd247e9/pulumi_alicloud-1.6.0a1584824816.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "880944111175a561e20aaa073ce64abdb4713fbfa6fba993b930831895980e24",
+      "url": "a2/a0/2671a3da169aa292c6b7270390d6b3a98fb446bba3bfdcd29ee48c4335c2/pulumi_alicloud-1.8.0.tar.gz"
+    },
+    "1.8.0a1586284155": {
+      "sha256": "9ab5e99ca2db1529f90473a5933056705aab0d154f547b530c3258113898c84c",
+      "url": "25/af/cb1bcdb8d144cddd2e2d4e776ca47cf036f0af04a62850171b5aeba9a7f3/pulumi_alicloud-1.8.0a1586284155.tar.gz"
+    },
+    "1.8.0a1586376136": {
+      "sha256": "cf0a51949379446018a9ae2051d63cca9e482c73dc6a3ccfa4e0b66ab1558b46",
+      "url": "e9/1c/88c10ff66e3b2335b9f3bcb298331bd5ee097ca898027571acd477d7784a/pulumi_alicloud-1.8.0a1586376136.tar.gz"
+    },
+    "1.8.0a1586467229": {
+      "sha256": "e3011b42bf9670628d12d192340832b80c269a4d3299ccd75ae4521c6b67d07b",
+      "url": "14/52/1189336ab26941639027aeefc1e85d63925a9385057c87c84bed4c8aa836/pulumi_alicloud-1.8.0a1586467229.tar.gz"
+    },
+    "1.8.0a1586556547": {
+      "sha256": "110a4b3032396e05df47f64ac3cef081cf267dec1d01ab3656122a81229cd5f7",
+      "url": "db/d2/56e15d3f9aeb86e826f9ae15dc662a61e2cba77fd6664b966e0c0e2ed4ee/pulumi_alicloud-1.8.0a1586556547.tar.gz"
+    },
+    "1.8.0a1586877410": {
+      "sha256": "c8839f2db1021e1c01e125860945e531737e9e42f9d44735ba2b130e6dc2a2cd",
+      "url": "c6/21/cce4c8b722311fabffd27151c183b4a12c642e211b49de492cc7a40abbda/pulumi_alicloud-1.8.0a1586877410.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "8478849fb26f6645ccb9eb193c5de77f7504b627dd9fd1326babb93e11625812",
+      "url": "be/cf/409f66e89c64539b15af5a468e44baa456c670fc3f91351b02604a9b24aa/pulumi_alicloud-2.0.0.tar.gz"
+    },
+    "2.0.0b1": {
+      "sha256": "226d09771c222ee7c6a3129785b2df494206d4d9c593f3d0674d7a447dbb7176",
+      "url": "66/8b/236a4c379ee23f3b43b9e39b2bc91443af8d1129cb99251cf58b0234e21b/pulumi_alicloud-2.0.0b1.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "0489992762d5d327a92ebf028f47c8556ff5bf904d01d92dcd49e878f25de3b6",
+      "url": "55/23/93e320e7e63bddae9c4c35b9f19587a51418034bc485a61211a191f35cd2/pulumi_alicloud-2.1.0.tar.gz"
+    },
+    "2.1.0a1586890882": {
+      "sha256": "0b16961c743979d63561d9376ab13a101af61779efc6dc6c8f10bf8ce8bd9c6c",
+      "url": "ca/6c/2915b3337b6928a58605f4926cb77b4647342fd5fa199c8fb93c19fbf5d2/pulumi_alicloud-2.1.0a1586890882.tar.gz"
+    },
+    "2.1.0a1586950646": {
+      "sha256": "b857fcd84142a222a26f33f8dd1ec437ccb01544e5a72e9559fe05941dd9dff7",
+      "url": "cd/9d/0b8f99db05a8c55c267573f3bfd9214a56eb5e9a01cd878c7c93b3e48536/pulumi_alicloud-2.1.0a1586950646.tar.gz"
+    },
+    "2.1.0a1587166469": {
+      "sha256": "11d86f81ed879faed9f1ccb1a2a61a7ecf51378afa0704f2afce1fe99a3b2ee2",
+      "url": "b7/d8/35362459e603b0429aaf25d3deaed3aacf211056093b52df35b6436afb6e/pulumi_alicloud-2.1.0a1587166469.tar.gz"
+    },
+    "2.1.0a1587386352": {
+      "sha256": "be57da860dad2329a84bd67f24364e39cd875b02596719adbfeedaa3845924fb",
+      "url": "4d/02/7f4f1d32c7e7665edb546b9bcd1d52a89ea08d6dae3701b61dcfa5413387/pulumi_alicloud-2.1.0a1587386352.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "731f9fb5cc2c5f1b90088227562277bbec7edcfc4df29d08cdb8bfbdd976be2d",
+      "url": "23/00/df8009648e05b5018a59df6561ff794fff6fa7102c251b1803520c4c02a1/pulumi_alicloud-2.1.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "9693f7d54124cd723a49241e6064cdfcdf680e1ee2a2020278ede07e0d644e2b",
+      "url": "eb/be/a5b56539c216c779f9b0b362790284f0859908e91095ea009a58b29ddee2/pulumi_alicloud-2.2.0.tar.gz"
+    },
+    "2.2.0a1587750019": {
+      "sha256": "ab5d66973b44b9bb4bcd44ec68c574afbcaabdef122c76bee842794f40002534",
+      "url": "92/14/e02bcb2dd4634109632ade852b0dd269ebcff0e1f9bf2a01f069fc33e660/pulumi_alicloud-2.2.0a1587750019.tar.gz"
     }
   },
   "pvlib": {
@@ -21585,6 +21845,10 @@
     "1.0.1": {
       "sha256": "7ccd402009ec591335d4a25df05eb481ff88c3b77f27312332b5a336c08862e7",
       "url": "80/b7/6fb49aa59d92159a95010f713103b57cc4d0a06e5bbdf3380030560a6abe/tap-oracle-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "7b71ffc7b508d9492c823553ff9fd764c111f5ffe74b42b68549b49ad1ec8698",
+      "url": "fe/62/a61950277ee85eeddccbb83c2687ee3c0aeccf55762b32f73a1d42c87e80/tap-oracle-1.1.0.tar.gz"
     }
   },
   "tap-woocommerce": {

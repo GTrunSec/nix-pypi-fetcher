@@ -3325,6 +3325,10 @@
     "0.4.3": {
       "sha256": "e8a2aca88d608cd4c0bdf0f6b45a73e06e13e38b9fdb50df573a8190458746c5",
       "url": "87/a9/19454aaf0499bcd689fd9bec42746cfeebb5bc80426e9d69a1f5d8ab6569/code42cli-0.4.3.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "b43cf512c0b9a41f8b81c61b1cf2657fb03eca736343925c8b0836b0f4fac155",
+      "url": "9e/20/32209e9619fe2026b7b8de4600ffdd54c70828c255b093c1052de3a22463/code42cli-0.5.0.tar.gz"
     }
   },
   "codebook": {
@@ -3607,6 +3611,10 @@
     "1.0.0a1": {
       "sha256": "9d0dfc2192d0f33b0041470db095f486ee1528cbb20cb1950927b44d2970f2bc",
       "url": "03/a6/ef869ec215353977c1a750408057b858c57dbfeb0ef919d0b96a47ed3abe/contentrules.slack-1.0.0a1.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "e5340cb5b3ce196d1fea4764fad4b39f60be1137a995088b23186d3cafb61eef",
+      "url": "8c/69/54ab0ef3a1d2d66afe792019a985aa02465ec97a95b5dc394f9e124f0425/contentrules.slack-1.0.1.tar.gz"
     }
   },
   "coopr.core": {
@@ -20981,6 +20989,10 @@
     "0.3.1": {
       "sha256": "d254ecefbecf41485bcdc60cc5b8f22fddced71821c8f3aa2dc4d47f4ba94cf1",
       "url": "02/78/15f0f7edceb7ca72ed84af7dc6cd1e278a660e0056a6d9987edc2d23a274/webarchive-0.3.1.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "9516909de5a30166d5dc4849332fbeeaaf0233ac92893737325ff891d5a3b02a",
+      "url": "d1/9a/1758fd66aa7159775d187c47cff2cd2c6da0c8c71da8e54bb565be0b4112/webarchive-0.4.0.tar.gz"
     }
   },
   "whatthefuck": {

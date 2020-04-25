@@ -21766,6 +21766,10 @@
       "sha256": "38734aea6a740392f93ddc5706590e426dabc1ff12a77d06cfa79b10a9a2376a",
       "url": "55/0b/93b8c444cf557486b5c6da817386aec4434e1f5436770796fd2d9552373f/webviz-subsurface-0.0.30.tar.gz"
     },
+    "0.0.31": {
+      "sha256": "d0c8f6ab7150d9b789c722d2a05bc2f53b8797aa7b95f7dc4da9480f5db7ec7a",
+      "url": "b0/65/c72ff02ae3050f9cb2b7d83d6c4570e0a41a182c5b7e9f7adfb90e3425e3/webviz-subsurface-0.0.31.tar.gz"
+    },
     "0.0.4": {
       "sha256": "b22339182432fc9c97038201049080a8452ac5d439f1d1f2aa08fdba0ee26363",
       "url": "34/2b/e135173bc9466938ff4867b6b5bf7559c0f037109534186c2a0b14993142/webviz-subsurface-0.0.4.tar.gz"

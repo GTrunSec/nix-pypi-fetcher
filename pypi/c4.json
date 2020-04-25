@@ -1520,6 +1520,10 @@
       "sha256": "620bacc1a491453d47eaeab477a0c88240570bf241ad725d9a55beba868d8909",
       "url": "0f/06/31a7d4dfed420f997d57cab757db0dfcb7abcbc8d87f972cac2c0c1e09bc/aws-cdk.aws-appmesh-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "74a3e3239a8c47d52e5a2182ce624644d008bcb1a0ceb718d4474f59e603d738",
+      "url": "4d/14/1a286fcf1c021fd0e72f48d1c113868233bde3f81314a53355ccf3b860d5/aws-cdk.aws-appmesh-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "ce9b04fccea545d203c11a9016ffe3b72e1b96dce9efdfd5cc8cb6afd5850d15",
       "url": "d8/90/4e15a8b4199cdb549b3ab0b0f2ef1547ff4b04186359bc471735b36d4cbb/aws-cdk.aws-appmesh-1.4.0.tar.gz"
@@ -10947,6 +10951,14 @@
     "3.1.3": {
       "sha256": "a1ab6086a536494b3be247de58705935e57dc418e2b7dbcaac132df544ba28b4",
       "url": "34/5c/0e68844bacd97cc6d932c158aa7f3cc3501de567df1340e98d13c3aec76c/limacharlie-3.1.3.tar.gz"
+    },
+    "3.10.0": {
+      "sha256": "ffd01a544a84a9634a64640375cbe38dde0d678cc2e9c1f0d0adbbadbf7c2285",
+      "url": "f8/cb/6e569132b8b5c5337fdb425a741a6ca3a107ae8c3b88a763e623f4a935f0/limacharlie-3.10.0.tar.gz"
+    },
+    "3.10.1": {
+      "sha256": "c086d940dbae2288489231d9ffdee77a2dd5177d321190a0974f4b9f42503944",
+      "url": "02/b5/c42862139e2fcd59a8db0bba35807ed0e4476f0f45af2a8ebdea878ccff2/limacharlie-3.10.1.tar.gz"
     },
     "3.2.0": {
       "sha256": "1825504a7d6b99bdb673be95edd1a2b18238f827436fe5c7e208e88b5359e5dd",
@@ -21605,92 +21617,6 @@
     "0.0.0": {
       "sha256": "be0797a3ec6819e932c07597d9c046150c412cef053bbbafb5a9a60d6a3e48c6",
       "url": "fb/a5/6d84be3bbca18f43bd348c2310f096c77596f65345e3c2e7c9127366f821/trader-0.0.0.tar.gz"
-    }
-  },
-  "trompy": {
-    "0.1.0": {
-      "sha256": "0b9a94aed5edfbf50293dbb39856f64a8742b2ac00d49811556da35861919883",
-      "url": "73/5c/204fa5b6397cd3279daab4f45c5f04d9bda5ddfa9bfafb9e16aa2e0cb510/trompy-0.1.0.tar.gz"
-    },
-    "0.1.1": {
-      "sha256": "c1de3d18f3232df300156f1d8de5c3ed6013ca615810293bcc31c927b5e61c51",
-      "url": "a8/30/bbcf68ee9c4e1404794dd9a896cf3667a55d0bf043902e9c45832ad7e7d4/trompy-0.1.1.tar.gz"
-    },
-    "0.2": {
-      "sha256": "f908fdbc7985237bc38802220dadbe378f84032d3e5ea89815ef657e985915de",
-      "url": "d2/a3/9148f47c3413e9a998a56649a418f7f579797b768aeb96e7e6d21219614a/trompy-0.2.tar.gz"
-    },
-    "0.2.1": {
-      "sha256": "3a28c5721fc93903f786a21e69f5b5fb78a5f56694646cf157135da126da1312",
-      "url": "bd/1d/6644660e5e9ce0c7e70f90cc612e5fa74cf2abf4a0afe650c079a1ab0822/trompy-0.2.1.tar.gz"
-    },
-    "0.3": {
-      "sha256": "9fd867cf2c0e612786e9c6bd111ba1729ab7d80551a99bab4c346ab4d48e8cec",
-      "url": "2b/08/5954f5cd5a6d7279d79a74329e9ce90a2165efa0866a6616769760839b5c/trompy-0.3.tar.gz"
-    },
-    "0.3.1": {
-      "sha256": "2155520c5a6fa6126bd404cfddb19703007f27af506c92a0b1e045fd4fe9ade2",
-      "url": "61/84/e525aefc92b9f6cf341bcd268e89c2d30e798ab70d8a784541d01b055d28/trompy-0.3.1.tar.gz"
-    },
-    "0.4": {
-      "sha256": "a7766160a55e48ebd2efcba3d859841a5b8053a27e54218003cafe10bcbb1775",
-      "url": "ec/b7/d49158f4d0dbf135267bc9ce62a4e2a6d04fc399d5d07100d7bfc979b255/trompy-0.4.tar.gz"
-    },
-    "0.4.1": {
-      "sha256": "846c93a0955f8674de2b7e98b71d766f81bab2cb85d71d8ad422836ed6dc7805",
-      "url": "20/8b/1c4fe7255f3a57531ed0d0dcaa9f8bce64b8a9f9a59f414b791e21c1a83a/trompy-0.4.1.tar.gz"
-    },
-    "0.4.2": {
-      "sha256": "c74717b1ac91fce2a105760a499a6edb7548ca2db9a905850f424e4390c50141",
-      "url": "d9/5c/bf1252bc3e09dc9e3800fc82bb53638bd9130b5ebdcf798fe951596701a0/trompy-0.4.2.tar.gz"
-    },
-    "0.5": {
-      "sha256": "b162a7fc76f8857df5903929fe2b268d6a7eb53f434890a7bc46879730ac1fc4",
-      "url": "f6/bd/0c521a2f75083d0dabe2e52fd0609b2c905a6ef4b8076c555de5663b2847/trompy-0.5.tar.gz"
-    },
-    "0.5.1": {
-      "sha256": "fc7da756118a3436288df4420d9f7523dada04a2362a65136dfa60a7f56c4fb9",
-      "url": "02/55/320cbfd90525968c821f044c85ca0a360da656be071da45bf8226bd1d3e9/trompy-0.5.1.tar.gz"
-    },
-    "0.6.1": {
-      "sha256": "927ed9d5fdfe30c442ac27dc9473c9672a2f5b532c911d2aae3d5b4cd98f399d",
-      "url": "fb/3e/ceac4f723bdc03a0c10ab7b162c9c11e9019e5d9fce88a747adcc8ad0c8d/trompy-0.6.1.tar.gz"
-    },
-    "0.6.2": {
-      "sha256": "32c49796f1259a95e4feb68c8d9da369b6915362431b3e0bdaf74965a677a3a8",
-      "url": "56/70/cd7ee4b3a9adf9395d312308cceced39dc4506af6fa409fc3de01ecfca78/trompy-0.6.2.tar.gz"
-    },
-    "0.6.3": {
-      "sha256": "b687b47eebccf378f1c20adcd354034712a5620dbc75598432a1f58eb0fccdf1",
-      "url": "5b/f9/b99230f8c0252d03dcb0813bb6ca64571aee0e624087dc8f63c65bfc38d1/trompy-0.6.3.tar.gz"
-    },
-    "0.7.0": {
-      "sha256": "12243dc88712885ad086f716c2c5242ca64dba2a17b1e7027f5911357cc574fc",
-      "url": "84/57/d962e26851181489874571b2a7d86bbd9cc7e3222f2e49bfe40b274beb42/trompy-0.7.0.tar.gz"
-    },
-    "0.7.1": {
-      "sha256": "9903007172ac07a2076697c23807a7b49993ecdf1e137cdcee0ff9582576a16c",
-      "url": "9a/d7/230cd7a89cf162f5c8a99d5972a03e5b9de75b5679be2e2583abcb094294/trompy-0.7.1.tar.gz"
-    },
-    "0.7.2": {
-      "sha256": "c490a5b11fa2d650f5300ea33b0087ec8de231aad44bc8f52347739438825ab2",
-      "url": "9e/65/62880ed6a99ecf1ef1dcad3caf33e4f07f1fd26569738af69e0ca4488c78/trompy-0.7.2.tar.gz"
-    },
-    "0.8.0": {
-      "sha256": "98ed0d1c389d4f280a214fdfafd11ee08097381ab9dae94f086e0d53bc04bc2d",
-      "url": "b5/df/c519d393a75467aba374dbedf44a3c3698d75f5a4a6dbee9ec646cfacd6d/trompy-0.8.0.tar.gz"
-    },
-    "0.8.1": {
-      "sha256": "76a4b4a01dd97d9e6321c18ec4072cbeb7d44c16e98e8f54f1622fc139dd9fda",
-      "url": "86/d3/f25ec4adc01e16b3a56b9e082fb564ba97c30a1ec7d378cce6adb12daa45/trompy-0.8.1.tar.gz"
-    },
-    "0.8.2": {
-      "sha256": "6c970aa76cdd16a6df828272a73cf21a1236c307b2ba2e1ff3f23ccb1b8303ae",
-      "url": "52/e8/294666e5ae408f9ebae163ba88c16abed3e8ebf65025938f0523055e6a0a/trompy-0.8.2.tar.gz"
-    },
-    "0.9.0": {
-      "sha256": "9a38a58b5fb4fb0d29d9e63eb55e5282c4dd34e4cc2512ea868a49087c32d1d7",
-      "url": "58/6d/3afe6eec6119a5a230ae343aa59ab68d3e6d752b314e9cad20f130a21a42/trompy-0.9.0.tar.gz"
     }
   },
   "trytonar-account-invoice-ar": {

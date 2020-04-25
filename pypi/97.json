@@ -7619,6 +7619,16 @@
       "url": "12/19/a333c002fffed67cbf0929a88df9b2d1095d99735ae3e3d2584da5686893/etl_manager-7.0.3.tar.gz"
     }
   },
+  "eulerlabs": {
+    "0.0.0": {
+      "sha256": "d7cc633e22a5199c4398e1131bae5c8a736dd14b02b9c9dc3cd9d582f4dfc385",
+      "url": "6c/b5/68862279e7e01f9e8d3867d437612cc0783f62b5d89dac400d6cb2342a80/eulerlabs-0.0.0.tar.gz"
+    },
+    "0.1": {
+      "sha256": "52958324a94c0a2d06e3cd67ea087a02bc0bbafc4ce4acf5158b47a36bb58f52",
+      "url": "c4/be/780c326a39e0aeb519f162bd65af8fdb97e6bdb3dee4cac5beb6824c5ec2/eulerlabs-0.1.tar.gz"
+    }
+  },
   "extools": {
     "0.1.0": {
       "sha256": "b89dbef85b2720383ef9fcc182fc0f167de9d6b6392f9ee947030444756ea74e",
@@ -12381,6 +12391,18 @@
     "1.10.11": {
       "sha256": "283c8d694039aaf131b1a6168ee38eacc757cf293a4a459866f285f6bd5f4f81",
       "url": "62/e5/b3381c9b4e0dd7d74c17f90132cd8135510159255c547d6c36383981350a/mkdocs-material-components-1.10.11.tar.gz"
+    },
+    "1.10.12": {
+      "sha256": "f6de54f4286cb223c7d973de9b0ce61fd0f88741a886ac01f6ce30bfd78628af",
+      "url": "25/ec/8143aaad89cc9d1cefd8a2a2ef476bcc8ba1c5e7a384b5a57cdfef1d54fc/mkdocs-material-components-1.10.12.tar.gz"
+    },
+    "1.10.13": {
+      "sha256": "1c8c70d2b667cc6fdf18420f232a59975628b140774602d1487b95c236e77c2c",
+      "url": "7a/95/fb40ded7d3f65b09aff1284135f8f12dd3d1957edaae8a3fa77e4b1c135c/mkdocs-material-components-1.10.13.tar.gz"
+    },
+    "1.10.14": {
+      "sha256": "672252b1d6f20bcf12406af09edb326f36162fb9aacc3ba232b906a94eefe75b",
+      "url": "65/ff/55ed984e3965134628701f68215cbcdebead2d347aaea29f5c86fc26f030/mkdocs-material-components-1.10.14.tar.gz"
     },
     "1.10.4": {
       "sha256": "5becaa850e1612250e8f120c31023d9fde3dc60d691a6fd57fe73dd12cfe7550",
@@ -17263,6 +17285,10 @@
     "0.2.2b2": {
       "sha256": "1700c71fa2bea39aa2d49a10033b0626a213f0b1a1c7cdcaa6e33a69a5fd16d1",
       "url": "0d/9f/6e3ed528f9cecafe0d94b2ae9f8a74d3925f901ed54b21eebdb814acdb35/razorback-0.2.2b2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "e437c330fc57d23246f0943857db1754e0f7f29b96367629d3388b99ce0ed84b",
+      "url": "58/2b/f8eb83e95a94c6147704bc44f6846a06f76a7e91c97c438e4126908d12a5/razorback-0.3.0.tar.gz"
     }
   },
   "rec-rnn-a3c": {

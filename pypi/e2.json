@@ -11652,6 +11652,14 @@
       "sha256": "0b81b245f1bdcfc7e04e35f29b9516e2563e71ead90ba173ef511be6cfe4329b",
       "url": "ea/8c/fc6eeec7cabfb918c74bf74976e84c6a246bb9f00216f32543e88f218442/kodexa-1.1.135.tar.gz"
     },
+    "1.1.136": {
+      "sha256": "dd3934f9beff66d3fff543240411161d9d359d3aeb66c97430425714ee1d6b20",
+      "url": "f0/3a/54530045e7cfed2eba21620f08d53e1263c70eaa575ad471612dd092e7df/kodexa-1.1.136.tar.gz"
+    },
+    "1.1.137": {
+      "sha256": "ea262e04aede00f5d785629330aca4b477b0836e4e2359ea3dddad6a7902c6ee",
+      "url": "9c/20/37be6c5596033ebbe885af5a9bfea6e7ec600da7d3e16aa9b39110b04b8d/kodexa-1.1.137.tar.gz"
+    },
     "1.1.83": {
       "sha256": "7b4f9bbb07bba97032a56575bc9125d789489540b12ed398ed47c81c287f557e",
       "url": "52/97/d42aa4fc57901330be5fd1dffae4e97ad3761608e53046bcfec9d65438f6/kodexa-1.1.83.tar.gz"
@@ -12145,16 +12153,6 @@
     "0.0.4": {
       "sha256": "a1c9b1a0ac1b1e3468a69c4b06538e214ca2ed01e5aaae35303c62e0e57812dd",
       "url": "46/4a/cf4d9d6e7ed65c46335e3fce37b5e7645df3779635c508459f5e493f12c5/liquer-0.0.4.tar.gz"
-    }
-  },
-  "litebo": {
-    "0.5.1": {
-      "sha256": "2212da75bc84e1b47312a9bc913413105f462d4e70811f56f5a4cb081feeffa7",
-      "url": "1f/33/e17da481cf146037f83fb24e60f59a6b1ac882b4b9f1f3502e73f8e6234f/litebo-0.5.1.tar.gz"
-    },
-    "0.5.2": {
-      "sha256": "d81d842f63f982e4a581ebfd26336ddee1f08657496414f5c2012776638d96ea",
-      "url": "60/68/1ebd6fb1964949f1145672900d28e40a42772a9a6d8616f2f7ea083fd52e/litebo-0.5.2.tar.gz"
     }
   },
   "literategit": {
@@ -12933,6 +12931,10 @@
     "0.1.1": {
       "sha256": "04c4904ac7dd3b5e3a498b451d2bc61b20ba4929b2fba5771144be23e5dfe82b",
       "url": "1d/6b/9bb2a660ab18538ce1f3bc5fe2823ccd6462f0d803a47b68da7b2e0adb2d/mlearner-0.1.1.tar.gz"
+    },
+    "0.1.3.dev0": {
+      "sha256": "918217cfd43cfc87068af810ffc81ea2760d8877a5172c49d5db852ed17eda36",
+      "url": "15/a1/b4b3e499b7a5179d709dc4e4fb08dbcce20d61596c4f455f04e8414be58a/mlearner-0.1.3.dev0.tar.gz"
     }
   },
   "mlr": {
@@ -13694,6 +13696,10 @@
       "sha256": "64733c338a0a97ea1518111187b6822237bec2e251a7002282461cb4bc3f1440",
       "url": "f0/2a/401eb83157d0feb08b513a37c41fa99baf15562cb6ffc9adda8e6c4a7b4a/mypy-boto3-cognito-identity-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "0d349f48a64702d32fd188f5cbb5206ac245b7c437b887d1836f36a4843463b1",
+      "url": "35/8e/22b33820543cbdaa93fe97a72f72eb6c650eb0356a01d8cf3142dffc159b/mypy-boto3-cognito-identity-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b215683d208c7b739c4466dd7b079016537d8be996d2c68f6c52a3f81c16d189",
       "url": "10/3e/9c41882b71d38b4b1305b8a31a63d41e3f2cebc05fcd19f8373fc1b0204c/mypy-boto3-cognito-identity-1.12.5.0.tar.gz"
@@ -14211,6 +14217,10 @@
     "1.12.45.0": {
       "sha256": "e4dbe16a63388972b4aaaef19817b00882e4bd20723d794387efc37c47d7db05",
       "url": "70/c6/b2fbca765c175e380130b915e30b0e35cc7b02f45af4c4941c745acfbe1c/mypy-boto3-kafka-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "e9d466a201efc1b1a65c8f28b717af2a50099306d92edcd83116c1f1b725803b",
+      "url": "cb/e7/6de06d1196932689f44cf20a7cc2c866795679d497956c8072e3b6bda6cc/mypy-boto3-kafka-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a6d4960f1fa0599e6e2250de149fa993335a0e54ce694ce03ee53485b524d0aa",
@@ -16053,6 +16063,12 @@
       "url": "26/87/1bbcae1587e198c60f454420a8782c9db3aeb8afdb746975d779453e7360/Phidgeter-1.0.1.tar.gz"
     }
   },
+  "pick-kernel": {
+    "0.0.1": {
+      "sha256": "6ffa88628fa74fe479b7c43895a23f026814c8880f3a5eed31b79277ea37167b",
+      "url": "85/ea/239a6d0117a3f3d2688600eefbb47b20b57fe596bbb5e5964a4d7f7b6ba1/pick_kernel-0.0.1.tar.gz"
+    }
+  },
   "pickle-converter": {
     "0.1": {
       "sha256": "86f9330aa90833be35ed1005f14444e43fe8ca32ca13b26c61fdf3fcdffc1c46",
@@ -17452,9 +17468,17 @@
       "sha256": "9588e7d638b5b9ca930098ef1f9ef6e8ebd2c36f0c4f649385658bb819cb68d0",
       "url": "83/22/b37a6e93e0c8cd85ae95863252eeda583308b9aba339dd4772adaf1f2f52/pulumi_signalfx-2.1.1.tar.gz"
     },
+    "2.1.2": {
+      "sha256": "10ff5a71e918dee0502469cc1d9ea428f6648cbdffac5b4dec6775877a1347e4",
+      "url": "c4/01/0bf41c0e252d1a0022c802a4fc60d531b88194defe826a341bd132c23907/pulumi_signalfx-2.1.2.tar.gz"
+    },
     "2.2.0a1587646370": {
       "sha256": "aedd38d15251b98416f0fc8cbc1ff1d1910e88a37c8c1dabd98fb059233d06f4",
       "url": "3d/af/fb390f767d4dba2d84f056d87b39de7e4f084a2e94fbbfb215d860e1ed1e/pulumi_signalfx-2.2.0a1587646370.tar.gz"
+    },
+    "2.2.0a1587767056": {
+      "sha256": "b66c3e9d52cf4e67cfede767863a73ca9e85e63e27a39d1814add6e8219dc561",
+      "url": "d5/70/cef3a814bc7bf44c6bcc7376de914e9178948fb155c7e5b65e6ebf5a32cc/pulumi_signalfx-2.2.0a1587767056.tar.gz"
     }
   },
   "pupil-pthreads-win": {
@@ -19003,6 +19027,10 @@
     "0.4.0": {
       "sha256": "ca3dc6cbf2a304958d243d41f64d1262352e27c06f9f1683ec11fba8e2744a1a",
       "url": "ca/9d/6e03c1b9edcd773a13b83850ace4d31f0ac4427f4530733ba3518c429a7e/pyrosm-0.4.0.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "fa3651fd3c44744d638bf68b23a9c1df9ff0f91d119999353aae1f1ab5bf29f0",
+      "url": "bf/4a/c577b01853d797dcfaf2da2cd6069f41a2ec5a6ca4560fb320c313d50663/pyrosm-0.4.2.tar.gz"
     }
   },
   "pyroutes": {

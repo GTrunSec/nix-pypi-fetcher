@@ -783,6 +783,10 @@
     "1.7.0": {
       "sha256": "89bd86a79db66ba04a490260e34f7e0a9f5ebc889c575d2b77fe03dde0e221e8",
       "url": "d0/50/9363d7cb9c9d48aa310f597ecf02ad6a7433302769405c46ca3f19111a76/Av1an-1.7.0.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "470056f81c0e5819635361c0dbfc23e58933f4a7e7717afff47e4f92ed6d5c25",
+      "url": "09/a9/1f915b90d35d04f9dd6ec58b3773075475a55535f2628db86414731916f8/Av1an-1.8.0.tar.gz"
     }
   },
   "avcaesar-api": {
@@ -1121,6 +1125,10 @@
     "1.34.1": {
       "sha256": "53b53de04bb821670acf0da67977f741af9ecd22b0f015306452278e763ceb52",
       "url": "29/7c/24015beaa08224d9978924aeca4a24af106dd70ab7b6fc7fbad93237f2e1/aws-cdk.aws-amplify-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "20e44d015b7f5494382d393ac9946458a3faf8f5231734011e33210b34a30e9d",
+      "url": "f0/64/955ad0e3ae3c27e6f28d8d6e6176efd4d997a3dcfdd9c6311444ef6aff56/aws-cdk.aws-amplify-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "307518c71ca89e2f156780ae235a0cec55b2a160858c3539dec044f59d05736e",
@@ -10950,9 +10958,17 @@
       "sha256": "ac76a5c9c223f16140878d696530fde846d05b7fd3f62da239dff90fd6f74818",
       "url": "f6/51/086d973fc8c5fd447564f1da66b916fd2ae4c1a2689062d955a8582d3888/izaber_wamp_zerp-2.5.20190925.tar.gz"
     },
+    "2.5.20200424": {
+      "sha256": "5eb6374bf7a6b0a8f95bcdff02c54eeef4e6692f88afb6a4b35f6c3ce9d8f197",
+      "url": "be/1c/b84ad32aab130821c90edcb8ea183ab2016fcb071bc52360ddca5883b472/izaber_wamp_zerp-2.5.20200424.tar.gz"
+    },
     "2.6.20190925": {
       "sha256": "d8ffcfacfaab4c19761763154de873106e1c897f9a62819d49758bccb8116889",
       "url": "46/3b/a0ae410482ae5328297b1691ac30f8b86d7708579ca9121a7594e9e875a5/izaber_wamp_zerp-2.6.20190925.tar.gz"
+    },
+    "2.7.20200424": {
+      "sha256": "9207d84256e2979c15cccdb533fea5cd34683216b7a765248151fed8cb6af2ec",
+      "url": "e5/da/e8b95a99d65ebabde84c874db99274e9c8a0c83495c817660bde6e01f165/izaber_wamp_zerp-2.7.20200424.tar.gz"
     }
   },
   "jabbercracky": {
@@ -14274,6 +14290,10 @@
       "sha256": "8518fcd611d10e0335df22e557b3fe0f0a4b3a391f2300a25102b98a1956ad7b",
       "url": "ed/bf/fe959aa340eab78efc07d0b060fe51ed8339ab3c5c4f1f1499e4dbed0a3e/mypy-boto3-cloudhsmv2-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "8018f6e020b5a638f0df9733465ada2960647f8fed71885ffea3e7ef4d5d69a5",
+      "url": "4d/5d/4ff80c8f23711ab3fe73b0075024ebed83fcfeaae5505c5b9e384dcc8016/mypy-boto3-cloudhsmv2-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "0a3315ab83e45e798c2c031f583b7329d1231d8cf59337fd79c1ffe620e5e9d1",
       "url": "89/b3/294e183dcd7c8d4568eec0055d6b259650c7a7305ac864f2492c198a0105/mypy-boto3-cloudhsmv2-1.12.5.0.tar.gz"
@@ -14791,6 +14811,10 @@
     "1.12.45.0": {
       "sha256": "a922c2eccf722ba008058d65b1b547cbf6b1a36c054b5584ebf207324b915ad3",
       "url": "95/a3/6ec7fdbc83d0b1dec5a1382d9ef10fd782d890672d409ce870568a7bab18/mypy-boto3-ecs-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "08f61702e3dac29befab5b6174ab80166f447ce9944f86cdc29d39792a09908a",
+      "url": "50/26/39bbdfb070a99d214628768a712f3a5d81f73fa9cb51978f0c19b0882fa7/mypy-boto3-ecs-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "65ce1e1ba2697bace1996b4048a87692445c2deb98b18ab79a3635a782196c52",
@@ -20561,6 +20585,10 @@
     "0.3.0": {
       "sha256": "2765433983ea8350594ac3d73a598f1f0e7220f4a353dec98c06371a0b116e76",
       "url": "2d/17/b55f1431a83e129d20bf7213f2006d47a7b0de280ca4197fea79bef46a0d/senlin-tempest-plugin-0.3.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "06412ac4172a9de0e164cb9541fde3d634ac99e1863f2fec4d7f02127f90dd8c",
+      "url": "7c/ba/dfb64cb638f3e2a32977da6f0fe1c7eb7b726cf9ef7ac4076acdc7c3c828/senlin-tempest-plugin-1.0.0.tar.gz"
     }
   },
   "sentient-shared-libraries": {
@@ -20961,6 +20989,12 @@
     "0.0.1": {
       "sha256": "0e12627163761620df5db87f17f652c4e3fd4b10bbd1cf1a40288f37a7f5de8d",
       "url": "40/0c/ca32d4eecfd8ef032fae89acc4baa73cb8302dd552f696e4d526ccb7753b/simplru-0.0.1.tar.gz"
+    }
+  },
+  "sipann": {
+    "1.0": {
+      "sha256": "18af279104bbec8b00257d99d73b9113bf056a6fb655aa7e60a35e5375c0cff0",
+      "url": "d0/1e/642b6a5b63a029dd53df5d093966abde1a4b384908e8d1e86f6fb8aa4632/SiPANN-1.0.tar.gz"
     }
   },
   "sispy": {

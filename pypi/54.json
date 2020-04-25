@@ -1286,6 +1286,10 @@
       "sha256": "d954a8b62a7d77cd94c1f1ea37e5565c76811a721d331e12911ee3481d17bae3",
       "url": "0f/79/7cf63e862780a4291ecdbe249e6bd1373e780118ffff3c27aa1d258b9d19/aws-cdk.aws-sdb-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "3512e909e0ce45831bc1f00b043b96ab14157644f8c2f76363078ed81a38ddc3",
+      "url": "c5/65/b0d067a4bf7bd1a810a698811a1acd2cc07b1642bef2f71ae8cb88f8bd45/aws-cdk.aws-sdb-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "72b13d5688db14311d0ed0f9a31358238cd35dcd0bb570e90494dc9f48edb3f5",
       "url": "49/a7/91fa6b42c7102e54d22d77a6e81c003780755e1ac002938059e3ef5062bc/aws-cdk.aws-sdb-1.4.0.tar.gz"
@@ -1365,6 +1369,10 @@
     "3.0.0": {
       "sha256": "23bffd658a790499bcb95b9ab5a72da611fd485a88d7dc70de9f4b57f20ad965",
       "url": "b0/fc/57c89adf316ab461a00bfa93c57f6fcb4fce7f78f951bd37ab0cef8b4eeb/backend.ai-krunner-centos-3.0.0.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "b1ab1cacd776d7ca2c31942042f4ad039e217f64f663e5b18ebafc64893191a7",
+      "url": "37/61/9ac51aa555ee3bbecc168d589054efb09b821305981441c4776f9e950c8d/backend.ai-krunner-centos-3.1.0.tar.gz"
     }
   },
   "bae": {
@@ -4747,6 +4755,10 @@
     "0.1.24": {
       "sha256": "6025048bc2d5f7219ef19655505c1681e0a33d09373cd8025531d5b1cfe96f24",
       "url": "be/f3/5f08be4b9bd1dc12eb90fc415bc898936c0c5c9e5995bb107d5755b2b3db/dj-chartjs-0.1.24.tar.gz"
+    },
+    "0.1.25": {
+      "sha256": "9ce5841727f859e179d80194823c4a2433acb2ef7fec0c36e13905db1da13ef7",
+      "url": "f2/ae/1aca2b80a69a1775ceeba7e96c4b45b44c9d529405d8d75051e49cb9edac/dj-chartjs-0.1.25.tar.gz"
     },
     "0.1.3": {
       "sha256": "a86a3d9cf9f75a8d76ae8dc3a6f88d96c586cfd32d922109d0f4c1c1af79a051",
@@ -16283,6 +16295,10 @@
     "0.0.1": {
       "sha256": "01e7d289fc0bc9e1a73c47592a85c1916b2be90122ae5d70705a60dce5a87cea",
       "url": "b8/3d/1c71e9c5da3878613ad92d0d6a69c0a9deef78090dae1a9a770702c300bb/odoo-test-helper-0.0.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "1f24af62bce33f7dc19048e294c89a8e9d7ad113fef2730d13135b7f61cbbf1c",
+      "url": "ef/6a/530dd1b5dd6e4effc694ed4959cc57bfec3e1aeb5e3dd8ccb29e42023c2d/odoo-test-helper-1.0.0.tar.gz"
     }
   },
   "oiozookeeper": {

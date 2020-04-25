@@ -9131,6 +9131,10 @@
     "0.1.3": {
       "sha256": "351ef389bd5bed62a8b0ce5865d4cbfc874c37533a2477ea961312d74beec7ba",
       "url": "f7/bc/285d9de0ee38485ae15fa9ef26e0c3e40f2a6f1df7fb2a04fb92d91ef4a0/git_nb-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "6c1c3f2671a680bfcc5820b2944293b75a70771f563696d465efde84ceaebf27",
+      "url": "ba/ab/c6674ad266fa9290a96896f80506eeee645759e325ca529ff10042d964ea/git_nb-0.1.4.tar.gz"
     }
   },
   "gitlab-changelog-gen": {
@@ -14796,6 +14800,10 @@
       "sha256": "9ca329119988bf3403ff468e1b631559fcf0062843f7d05fc57efe23a3c9fb34",
       "url": "5f/76/9ff093364187fe3b7b9cface268aa57770270a720dc51c9945c0d87653a2/mypy-boto3-route53domains-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "3b392a1a4d259b04d9ecda921c97e6f893204c259a0c4edc01e88194a9361944",
+      "url": "76/e7/aba32a1cce0087b3b7ad3f09e65ef1d6a504f9743368bce9900d181710c3/mypy-boto3-route53domains-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ae701b0e65c0b697501f1c0c5660dbeead4bbfd6a868c03639ae50a6be34731a",
       "url": "eb/af/d443403936080c0081d87ac429bd51307e1a9f6bd8e18299cab2cf27eadf/mypy-boto3-route53domains-1.12.5.0.tar.gz"
@@ -17699,6 +17707,10 @@
     "0.0.5a0": {
       "sha256": "86b5e709c33e08d8e4fa00d32336272dd1bb282bd36c83ee6b12df80c4ed1532",
       "url": "a6/24/5f1b762a693f62842a68ac48200e650f753fb9011f2f403c6516d6d12929/pwncat-0.0.5a0.tar.gz"
+    },
+    "0.0.6a0": {
+      "sha256": "adadee118bb101560a2f812fcbcfdb4eba94d6fad6f9decaac056ce5be2003e9",
+      "url": "1e/11/ab9978ba2c6a1789cc09ff78d958f15614f940922e785fd00fa5d2c0394a/pwncat-0.0.6a0.tar.gz"
     }
   },
   "py-envconfig": {

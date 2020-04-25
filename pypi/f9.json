@@ -2398,6 +2398,10 @@
       "sha256": "789ed8e686a3587f617c69a61dda1145673fc5870a2438d85cefc3518c84a4af",
       "url": "8f/02/10ace8b90d065ccb0ceb805741f7311ed5d660e1dbb30d89e1839a4c7e09/aws-cdk.assets-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "9a7c4c06b1975ecbb83a29b647c7bb913efb921c4cf8334d4e0841092e0aa156",
+      "url": "2e/4b/42fadeea942395b29382faf3f0baa32f23708314eb924577e1f84f4173b1/aws-cdk.assets-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "f90cc9f0c6c0d58d4db7555cb6486aaed05cfb173225c3e87385d3aa4cb61269",
       "url": "f8/fc/e33b6b87d77022138f38fd3073ee159b87e4df67bedadeb97ec29b18e97b/aws-cdk.assets-1.4.0.tar.gz"
@@ -2651,6 +2655,10 @@
     "1.34.1": {
       "sha256": "50bd759578d140c0d3ae5820cd994afaf8b2c77d94100b138ebe084998ea6bc4",
       "url": "b5/81/1544cbaae876353011c85a80e9f6a9c89e869f9647218f794939e9f5d88b/aws-cdk.aws-s3-notifications-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "983faa78c1f1fe73fdebff4cfd51467066524f990623ad3031e0513adae2afe0",
+      "url": "80/65/89bf70aca2e66d5e874c3401dcb199609f8290716e97cc18f1b308a92f8f/aws-cdk.aws-s3-notifications-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "0ee4c292479aaddeccbaeeabc18f032f061b24b9633efc214a281857b50002e7",
@@ -3449,6 +3457,12 @@
     "0.0.0": {
       "sha256": "30edab9663fb9dbfc6106d6c04dea14963826b02e7b028f3ada84ff3f2ba60c4",
       "url": "76/24/50c4582bfd4ab407e428ced85c723d84693405463abf751e04035b730d0e/brat-reader-0.0.0.tar.gz"
+    }
+  },
+  "bselib": {
+    "0.0.1": {
+      "sha256": "6de4d473fcaf328c29f640397a9b6ad73421975d004ed3580ad73327b57ea1df",
+      "url": "6b/31/15ca0bf97980356c9c988d16897375d98988ffa30036d0984d95551888fe/bselib-0.0.1.tar.gz"
     }
   },
   "buildsystem-java": {
@@ -5587,6 +5601,10 @@
     "3.6.2": {
       "sha256": "1064f88d4bf5549de42ed8d5c3ca981f53d856feefb1ad0224a2f9a7f9300e68",
       "url": "2c/21/07cd2130c6ba6f17ceab487f06c3eb829672f67d0824ce8d712413cb80d9/deal-3.6.2.tar.gz"
+    },
+    "3.7.0": {
+      "sha256": "b61b5ddc49616c94443c90af72b3c116397316dae311b38072cf7801ba70b9e3",
+      "url": "bc/7b/ab38831ea6aef0dd734edaef8f0205bfabe4edda63eb339006be11f1c603/deal-3.7.0.tar.gz"
     }
   },
   "deform-jinja2": {
@@ -7632,6 +7650,10 @@
       "sha256": "3b5dbb150c7b917a252f514146758058780dfa2d82143314417cdccc5456ff8b",
       "url": "ce/9e/83d2fcc826cf78a7df0072a957b3321b57f87f753769f9d1f4472854316c/dxpy-0.292.0.tar.gz"
     },
+    "0.293.0": {
+      "sha256": "79d580717d41bb3a128ae24b689869b2a0dbc6c438bbb6f66eef0ef4299b4478",
+      "url": "03/1e/96572aa21d4d34f52730e674d8054355bbd3d42a8aa7aafe61ffc4eb54e1/dxpy-0.293.0.tar.gz"
+    },
     "0.84.1": {
       "sha256": "5822e4ff798dc216d7812b4b8fd4dcde1319504d81d92f68f0ddd0ff56ba3e4a",
       "url": "48/6e/45cc5b4314304366a3543fd3ce030602eee8da5c2478907801c67cba7404/dxpy-0.84.1.tar.gz"
@@ -8239,6 +8261,10 @@
     "1.22.1": {
       "sha256": "63d5fac5774c84277982e44f40e37f42e5382a7886138b651e985d3ab942c8d3",
       "url": "b2/77/9ae080aecf6335102ef4b271d2aff215a76fe7f46d292b08fe4d00f5a0ab/ef-open-1.22.1.tar.gz"
+    },
+    "1.23.0": {
+      "sha256": "4b0426d9a99c2ff30e452d05053965ce1d5e8fc2c08fd84fdfc5aa029c935287",
+      "url": "e2/fc/d18541ee27bed6807a60078147dfa0b35bb195fb27f57e1c0f2d04c150aa/ef-open-1.23.0.tar.gz"
     }
   },
   "eggshell": {
@@ -15366,6 +15392,10 @@
       "sha256": "f27bf552adef55acdbc33a83af816f0c353ac2cadf2d36cbaac5e4ba39a34fc0",
       "url": "b0/d3/b6db92f014e2a871f20056895ba470891f4a6524f067f4b8458db5dc75d8/mypy-boto3-sagemaker-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "ac552e6d72e0f65b70d7b65284f54ab30ec303f5d64e14e156e329023628cc6e",
+      "url": "64/13/7863491c2237dcfacbd3273d45a8e0e80ddbfaab1b441fdbe51644c0b3a6/mypy-boto3-sagemaker-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "1674af02940855a3d2603803ea4ef9727425a8399a1a0aa23580c4b239c879ec",
       "url": "35/d5/6774d7651bc547d13fcba06fb67cb2fffc8d1a06a1ae40d91d679880766d/mypy-boto3-sagemaker-1.12.5.0.tar.gz"
@@ -15883,6 +15913,10 @@
     "1.12.45.0": {
       "sha256": "514f346ab56a38c2d9ce1f23fae8c84a46e5375e5490046f725b0c29c5cfcc05",
       "url": "8d/ca/5447de9ae7d8731757ccd2c7e3a3085c4d7ce31b3838463338be8450e207/mypy-boto3-sts-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "140907c7947538a78794c01feec6395f9dd4251036427df80d5e53cdb90a6225",
+      "url": "20/12/ba307f759b3590a4f428cb280dcc47ef3ac57c3b882d3900490d3162efc8/mypy-boto3-sts-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a51452bcadce3b4b112b73581972660ba21c3743096deddf868a2301a8f7263d",
@@ -18161,6 +18195,10 @@
     "0.21.1": {
       "sha256": "3071acf04a9f05eee01ebfcda098c9817e112da5ad366c68b4b71f025c513e86",
       "url": "0d/79/b2d9b43008232d0f7832ba11cf57a4d59e3c23b2c3f89cba833bd2642bd6/petisco-0.21.1.tar.gz"
+    },
+    "0.21.2": {
+      "sha256": "9e44ef5324fc0c9aa9f6e713157cdbfd146e00497ab18cfd284f1d8fe89a1e8d",
+      "url": "07/75/3c12cf7b48517e2e1b20be08ee2912327cfdaec8bf18dbff8d4f43b61c9e/petisco-0.21.2.tar.gz"
     },
     "0.3.0": {
       "sha256": "4e2145f665d9e653d09d912eebaccf5811d2851b9d68a685fec0ce9f0ced4bc2",
@@ -21729,6 +21767,30 @@
     "0.1.1": {
       "sha256": "be8f4e60b2327db975a4afd194e8b71f98826a6dc8f7f34ac4a1902a9c3ff45f",
       "url": "b3/c6/130ccd42310136579085e044a3d832c733baae4fbe5b5378fc189568ad61/redbanjo-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "e81da33c06616d0efeb6df478d5a91c9ffe62a04ac3aa16d87b9b5b62faeaa49",
+      "url": "69/c0/d61115fadc8a2401e12c5a78a390a79a21465c958ce79b419e9447f463c9/redbanjo-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "c92f60ee0006cdffc86467a0cbe8f4d7c68c5cce23772e2d7727d3c537d96c36",
+      "url": "26/76/064e65134b3afc8b768bc8fd8ce055dce9405d2c970b6f2ea58d49388794/redbanjo-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "1a3c08491cd9693363ff09c0c35641ea3e76aaad15662f2afa869acffb2db24e",
+      "url": "83/72/6aecce209f9295d9edf8a4cc68183ee6a8d1e5f7d8379ae91154e04eba3e/redbanjo-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "23568c950996ba4fd34629f98659f6f5c7ea4c928124f153e9867cfb50ab6f62",
+      "url": "77/25/8447e1ffa639c6d8b6b56fb3c9645fe4d5d728b9a79d342f10b51893ac15/redbanjo-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "dba45993957f5e51967b1c3c3a0811414a8bb4ca7c4858081c9916b7ea271bb2",
+      "url": "e4/be/38ea215aac56bc67382769f00c30d68d54b29f7c1dad8941c299022da3b4/redbanjo-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "f82098b55d8d86e2bf98e4c476f71da0c1f61b2e7da2caa8941a087581b3e9f1",
+      "url": "75/73/36218b09dffa9ff6e2dc01ccd06271788a1973f0dd7ff9e3d9b3701b8934/redbanjo-0.1.7.tar.gz"
     }
   },
   "redis-file": {
@@ -26729,6 +26791,10 @@
     "1.1.0": {
       "sha256": "99cd1b48ffb9bb53554f388998733256f92a32651e2ddf41af34f13f987b8642",
       "url": "00/f2/42ec57b957de0bda6d7bb213ed1dd2bde0afe20a418a577191d68b8cf74f/youandme-1.1.0.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "745ae5b5a72b9a023ba53991e34cd3384fc0313e94b8c8fa0c5a34d47194c1d0",
+      "url": "d7/89/2fefc2fc6d64e80002a97f8ba5dde21481fceb51c2594ccd85c2aa6ddc1e/youandme-1.1.2.tar.gz"
     }
   },
   "yoyo-indexima": {

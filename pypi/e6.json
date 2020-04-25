@@ -1314,6 +1314,10 @@
       "sha256": "f1bf33ae756386ed5368a185305206c5b2b8acc2fd3bf39c37a413897a1dc7b7",
       "url": "60/4c/8f2474e80cf7a66052f44f782070bdebdf5cca3ec7a4d3915d77fd00499a/aws-cdk.aws-sam-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "6043cba5e4846cd345647a1e63e98c58f69859a940d4aa27730ac8ea0c04b789",
+      "url": "30/95/8c657413e364891cfee3b62805a37c5567c1ea962b48b82dee36be9fd87b/aws-cdk.aws-sam-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "de98f7c83121ae3f58c3cc193b73788869c06274ad7a1dc98a201769b58fc714",
       "url": "a1/52/ab4aa5c7c2d4fc5de62545822c0bb816db0e7b87b5d453b10cba442e7ed5/aws-cdk.aws-sam-1.4.0.tar.gz"
@@ -3417,6 +3421,12 @@
     "0.4.2": {
       "sha256": "f187586e49cb20246b665a06519bac72fe5ed4b2036417023ca66ce8431a36ea",
       "url": "38/99/20adbe5f71f41ea2a11429f3fc52f416da0d6361a12b40a57058525d4498/CO2Signal-0.4.2.tar.gz"
+    }
+  },
+  "cockroach-poker": {
+    "0.1.0": {
+      "sha256": "ca3b4f2a5f8d54a5074868a77da62515c8fc808a17c9e45e44f94e49cd031b8d",
+      "url": "7e/89/73a3b971502afc4e8c4198af7c734616350e7574517f4dc118e4243dc8d6/cockroach-poker-0.1.0.tar.gz"
     }
   },
   "codev": {
@@ -6249,6 +6259,10 @@
     "0.2.4": {
       "sha256": "e7109247cc78f3c839b5d91a41d06df9aef974df0be88408c9d4e5c59a453bac",
       "url": "17/49/8e2e5730690be149d7bccfe698b4766a883399d101801a1fb579a91927be/django-model-controller-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "abb5be43e33bd5775ed08e1acd50590b5d133df14fa3a3d8ee1a6d0cb8b5d806",
+      "url": "50/50/5c1f5f6fe730d9ee594a8860a0fa49b89570fdc2387a24e73446b94eff42/django-model-controller-0.2.5.tar.gz"
     }
   },
   "django-model-ya-publisher": {
@@ -13900,6 +13914,10 @@
       "sha256": "f7ba60e60af2a3fc0a5028a7e1e2d1a26f804acff59584f7ff88e434c43f9529",
       "url": "d5/cb/f7d8a4352fe3dfb8951c3d5f0dd75773f3a63b0d284a067e1346ae60a991/officegenerator-1.18.0.tar.gz"
     },
+    "1.19.0": {
+      "sha256": "cdca4fb6b800e2c73afa0464368d170794617ae22bbd57cbccc940e909d7ce34",
+      "url": "a3/2e/760ddd3102f99d40fe72c0753dd415a6841c1fc0868522121c7359676ee9/officegenerator-1.19.0.tar.gz"
+    },
     "1.2.0": {
       "sha256": "5cfd136bd1252a15cc1c45604b04cb3ff983c6b99f03470f6e5f9a713cb199b2",
       "url": "ee/5c/af7dcaa637ae1c4ea94ad36ee25984a7f221c99b02b5f53f4b04c08d5d5f/officegenerator-1.2.0.tar.gz"
@@ -13907,6 +13925,14 @@
     "1.2.1": {
       "sha256": "515c2020d3c23b9249b57870ff7e6bff3ba152b256998c88e35236315383d2d0",
       "url": "dd/81/7d42c04efbaa0370b2237b61575826731da111701392678ef7197e87e1f6/officegenerator-1.2.1.tar.gz"
+    },
+    "1.20.0": {
+      "sha256": "a519eee9f82c8286ddce782572dab3528c72f093548a49ceade62f6bc69dae8c",
+      "url": "24/0d/ec607efde985b2573f0ea7e98b4b503b1cb107f29b1866fcc97bb8fc02f3/officegenerator-1.20.0.tar.gz"
+    },
+    "1.21.0": {
+      "sha256": "f8bfa9a6eee1e8da5c1811dbd9e261170e0557cea5cb406930d90e3fd6de61c8",
+      "url": "43/c7/5f65cb11a720f1d266a48101667073ef10d5ef1e213937370b9acb4a0cf6/officegenerator-1.21.0.tar.gz"
     },
     "1.3.0": {
       "sha256": "74014d6ea1569c539781464f849f270f10c32e3e3fe67dd6fe86c816e874ecb0",
@@ -25637,6 +25663,10 @@
     "8.4.0": {
       "sha256": "ee958862db1bb258ddb88b55f21e648f85ab0d6df71c958276589cc510e485c4",
       "url": "82/71/47cc9955b4432a0b995b5d86def8d06d3d95c3c0e2afadb78ac8e0587ba6/workalendar-8.4.0.tar.gz"
+    },
+    "9.0.0": {
+      "sha256": "00aa0d1d054c4399fd397541c30eface28abc40393ffcebf2c5d48e5268e3a5f",
+      "url": "3e/4d/d4546d2051df25365c2f0f3c4190f8e20ad98d77109276bd66bf45bdffeb/workalendar-9.0.0.tar.gz"
     }
   },
   "wowlint": {

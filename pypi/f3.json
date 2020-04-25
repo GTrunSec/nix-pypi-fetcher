@@ -4241,6 +4241,10 @@
     "0.2.3": {
       "sha256": "40a91034e53e2efb9b289eb5d9475a1957e1bd4dee707d133c3120990c5658d1",
       "url": "5d/ce/d75e82a6406187f11a1dcd0a6d9eb77ad35d6a7e133be6b4530052ead50b/dask-ms-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "31537be0fe0c7c82450336600a939d0538d59a670fc3fd4c00b093810226a48a",
+      "url": "fb/93/b726629fa6303c04f28dd66b469ae138ededad6feea59aea75b7adeb82bb/dask-ms-0.2.4.tar.gz"
     }
   },
   "data-pre": {

@@ -14267,6 +14267,14 @@
     "0.0.1": {
       "sha256": "ca9432114014c5ce827016a4f22b69de1aab1de5b1558aedb0c8ac87ade0aab5",
       "url": "40/63/2520dbf5b08bcdf8a3b92af5802213a315e2d5f8e6f0ad0976b88655f12b/mr_sim-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "fba3bf830a5787c0657c69af20c022e49c7c4c7298c52367a434c9cb9d2ce05a",
+      "url": "36/35/d04604490887e98b60fac7c1c24ff9b59f81929501a4b54cb84bcdfbb805/mr_sim-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "0a4a5a2d7397b8f885bf6988b3447eaf3c2baf6cde29bef5124c6149bcdd1bed",
+      "url": "33/75/4f8d70241aa871ad7e67b620cff64e68b773ae5ff19286ed2e575d72f91f/mr_sim-0.2.0.tar.gz"
     }
   },
   "mrpump": {
@@ -14884,6 +14892,10 @@
       "sha256": "d26285c4851a336194a1349f9d519aedf8b96d7aa52a486317e170ebe7ba4424",
       "url": "9a/99/0fbf8dc3ddbbd09edbafbff71c159751323adf2151ba40267256b8367b16/mypy-boto3-elasticbeanstalk-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "ef71ea7ff83ce2dccb1a74b7dddb94ab30965729aa510a66666fe63036a4bca5",
+      "url": "c0/f4/69af9583418b2fb904d321a44c4167a762f3d5bae6c71360b54c8edce13e/mypy-boto3-elasticbeanstalk-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "656a991e3ee3888a40be95b05c50cf235cac8f97870919cbbc7d9d9f0ae4b5e8",
       "url": "ad/13/29c9a1cf7c7f6386659181daa5233ac66a8d23f613d4d338cd435549237e/mypy-boto3-elasticbeanstalk-1.12.5.0.tar.gz"
@@ -15401,6 +15413,10 @@
     "1.12.45.0": {
       "sha256": "55afb1023ea09f29ba4c9f6ea5656a15ff16481fe9c930d8a44e1b21ea12cca5",
       "url": "8b/3a/fe58d8d6b8acc7a0449dff3c6f640221cbc54d820dd813555c831d0884a4/mypy-boto3-savingsplans-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "380fd4dda04241b9cab0b497f47a4e8bc3b9d9e8c621492438bf991310033b76",
+      "url": "2d/e4/1b8fa629afd8dd32d3d8321d58a9d75201feb76f4fa0cda29bc28680a7eb/mypy-boto3-savingsplans-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5a510f6663825f1c6329ee8c5dac1057fd8f27b8ee64c11c3a6e5699e17bcef6",
@@ -20169,6 +20185,10 @@
     "0.1.15": {
       "sha256": "44c88cc5d60566dff96ded5cd12e43251f9e46ca7436cb136842e43efb91b59d",
       "url": "f4/ba/913242d2d7e695f93e3de9fe4d9a2e8d924255973268190447760389d9d4/rlcard-0.1.15.tar.gz"
+    },
+    "0.1.17": {
+      "sha256": "0c322a71f14f50943bf6bdd1a7cc4cf450b45044609f802aea09cbff11d43f44",
+      "url": "82/78/52d7feb45fef97f42af2b1b36b5b6e383605a04c36cbed52835d6902338f/rlcard-0.1.17.tar.gz"
     },
     "0.1.2": {
       "sha256": "6748be9a1478fb3860bc8631ba684b7b1e6ddb2cf735b3b4a45b9b6eb71f6937",

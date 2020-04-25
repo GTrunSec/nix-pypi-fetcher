@@ -922,6 +922,10 @@
       "sha256": "88321d76012854beb5cd236d1b404c2aad45f0f1e7b906dd3943f26f8fa64c39",
       "url": "60/0c/5de1c22ebf2b77c73ad49bd78cf38f51a6f81d16994fe8f9b35c8977e32d/aws-cdk.aws-sns-subscriptions-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "133ff1457c16cb36c6577700079e97f694a091b9ca46e26ac4b84d9b52b51de4",
+      "url": "1d/17/c93c2d5c6ee87ac9bce0bb0588411c0c758c941154c299a55ac0ef481041/aws-cdk.aws-sns-subscriptions-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "4cee7c0c2b3ba118ed38bf7df1c972ab794f75a5883f0e2ce7d924f1b370172a",
       "url": "08/f7/60cdcb2ff7d3d0d7b893207d0fa3cc2342eb069f2799a4d05e72d73488a8/aws-cdk.aws-sns-subscriptions-1.4.0.tar.gz"
@@ -3568,6 +3572,10 @@
       "sha256": "79d7b885bac45b488a3a1d91e2ff74e22a74be18fb50803acdb40b09ea1b1173",
       "url": "c1/eb/5adb9031826b919c1aee8dc767c66942ebfe509c2dfada06c71311e0cc9d/distpy-1.20.0.tar.gz"
     },
+    "1.21.0": {
+      "sha256": "d64817def2bc73053eee95eb39c8f764ea4765cf01e25ff71e5407816999abf5",
+      "url": "9e/35/361625908f60c4076ad51ad009a3338f126b7f72648cdce05e3cf9a43d60/distpy-1.21.0.tar.gz"
+    },
     "1.9.0": {
       "sha256": "6800c8f4296c15b5403c904a547f6e0e070168828d0eae6eeb39437a563a5ae3",
       "url": "f8/fa/d9d55871950cd4e4d8daae3826b343c93187a624cf58143e4e90829c3dce/distpy-1.9.0.tar.gz"
@@ -5581,6 +5589,26 @@
     "0.1.2": {
       "sha256": "7eab3a9cd4161386979c547149e2a057f1f72b5b05c9f7436e80e5816fc64ed1",
       "url": "52/f8/8b3a68a2bf334ddd414f6d01fb295e6e7675d6ffb1834ba66746700c1100/drf_schemas-0.1.2.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "adcb8dbdd346050873a917055cc12514b62593016b115c02560d4b7d5e67fdce",
+      "url": "ef/a9/3e94244cdd04d3caa6ca83c388becf909beed2d9823a651b6d52ce9e8fd0/drf_schemas-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "212c66b1dedf724fa1a7b8f2a2a457bfdbce91eb7b2725105cce02650d2434d5",
+      "url": "d1/5e/b6c0bf3d7ebb45f6083fa4212e79c0f6f1dfbe3d9b8391b5dc7b07c3c027/drf_schemas-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "302aaf7c334c6e3ffae2d89be2412d9a21795dce6da526f267f1a71f25227c74",
+      "url": "37/77/d7fa7b3dacf62192a0cec1f858cd2612d848637b5cbe8359ceb43c438de7/drf_schemas-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "a44ddaff538f223bef8f7e8290553bce7b59d0099f4598361eee30b190aab1c5",
+      "url": "be/1c/15e09efb5ea842be184d68d5187733583cfe86e6cd381c83c406b2ef525d/drf_schemas-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "685c536d995e06e39683c828239ff8ac20e8a2f3413477e62edab385e7f022fc",
+      "url": "3f/5a/9c7cba1b2cf8075c502d3d9a3554721325a7b9969176f53ae28cb6c36784/drf_schemas-0.1.8.tar.gz"
     }
   },
   "driveline-video": {
@@ -8813,6 +8841,10 @@
     "1.0.1": {
       "sha256": "b66229daea371347803337a52c968b5a4a2d41ea18b257a9a63e5d0c9714bf46",
       "url": "88/22/4f324b80300f9e500692663f10c22482c983d8de3876b2a0fe05a2258627/gmshModel-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "5489911e82413352fb0bb54121874b2970a01339e87048d65092aad69fe37145",
+      "url": "12/c4/d94c4679692a93f3019d157342f718c1f9191266c37a2c7fda1cb0ac17a0/gmshModel-1.0.2.tar.gz"
     }
   },
   "google-cloud-container": {
@@ -17275,6 +17307,12 @@
       "url": "e7/a1/a375462ce13afd71cfe83fe0ff05bd4fa1fa788639fa14b0bbf648945e87/protomaps-0.0.1.tar.gz"
     }
   },
+  "prowler-py": {
+    "0.0.1": {
+      "sha256": "400b3342068dcc041e1e9404f3fb0dce904879e9bba81336e00085bc470724ab",
+      "url": "5d/3b/0fee90f61071bc468423019d0ff6a26b928b14bd8e7fab619dcbca19462a/prowler-py-0.0.1.tar.gz"
+    }
+  },
   "pttools": {
     "0.1.4": {
       "sha256": "aefbd9b0272acbb2374fb3148160f1d5bd9953bd6e0d4ad6d11df388049a943e",
@@ -22385,6 +22423,10 @@
     "0.1.3": {
       "sha256": "d4bc46b393d667b6c4eebfeb30f1db49b2760e765a9d1ae74a14fd4eba42547b",
       "url": "ca/17/f7029d1575416e889f801e81e15974f91c498be9ba37db4493fa92fe2b32/targ-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "5e16d6a281dbedfb594e9b632db41ed918b6668e006e5abc9856a18f6aa8697d",
+      "url": "a2/5f/0fe3dcc232ded5a32433471f3c47b65149dae0631ae302794b5aebf802d6/targ-0.1.4.tar.gz"
     }
   },
   "taxon-parser": {

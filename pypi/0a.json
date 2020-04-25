@@ -4297,6 +4297,12 @@
       "url": "fb/99/c89485af0bbd24c55a8a8271ba6fb1430f096e07aaef6deea088584c6265/dbcurses-0.0.1.tar.gz"
     }
   },
+  "dbdaora": {
+    "0.2.0": {
+      "sha256": "65fa7450d8068166442f7c159f10f489202a4c337f6be12c0b4f810055cddd76",
+      "url": "ca/bb/69e858de91a3928a4601c69e5b71ff772851827c18d4ec59c08ad7ff5d7d/dbdaora-0.2.0.tar.gz"
+    }
+  },
   "dblp": {
     "0.1.0": {
       "sha256": "ff66a040a15294f29ac3533e77ee242e3880bfe0c3d1a9fee2a772cc7a37e009",
@@ -9023,6 +9029,12 @@
       "url": "12/4f/c1c0d702e3b467cae212d92f747591b429185e9c5824f607bed231dc64f6/import_relative-0.2.3.tar.gz"
     }
   },
+  "infi.django-http-hooks": {
+    "0.2.5": {
+      "sha256": "f32ee50b1973664d16104656c4bf5a19a2e637646a367bcddc518bc92139a769",
+      "url": "59/a8/cf6d58e004c54dbb1ae5bef4ee1911f084ff068966bfc870d6fc6ed83098/infi.django_http_hooks-0.2.5.tar.gz"
+    }
+  },
   "infi.rdc": {
     "1.0": {
       "sha256": "4c3e04d4cf6d0662ad246e4f93bf73c634c14b8b9d850986ea95ea0ae349afe7",
@@ -12901,6 +12913,10 @@
     "1.12.45.0": {
       "sha256": "67ff9c28581a2d521c3e61b0d117480cab93cffa5dc14e317ee06ed69bc19726",
       "url": "2d/8f/d4d0b748dfca0d6d42c964a0af04005451257aba1265f2d18be800fbe1c0/mypy-boto3-networkmanager-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "199084c82cb5ed6ee88b4709d56c8823683000808cffa304f4cf81c94bf34f99",
+      "url": "2b/ff/5a49979ebd7f794c224ee3df2bb5c52b67841dba9b3a9c7407f46183d457/mypy-boto3-networkmanager-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "0ce24b8ea77cfb093bee195fb90ddea13dbe2a8c9c2ec3d4544cca03593f8173",
@@ -18955,6 +18971,10 @@
     "0.2.3": {
       "sha256": "db5a45117566678a2be0fcb7463f98d9fb82ac5c134f2afaa8ef84238d55e28f",
       "url": "08/7a/b62a9d02e4a65bd2d46cb3fda2890c2f1938c0b0b1d33f04d3e1da856010/scraparser-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "57216671ce692565c438f0fb785dfbe86982da0cc4fd9bef575d9f3450b8b8a1",
+      "url": "18/f6/e1ba577ff011da762698872d7f4ef0014d9d756e453871f359c48ae82e8c/scraparser-0.2.4.tar.gz"
     }
   },
   "scrapesy": {
@@ -19151,6 +19171,12 @@
     "0.0.77362": {
       "sha256": "a890cc844b09fe6284334ade56a1bcb2fcfd1663280a7ed06695688fdd3d46bd",
       "url": "5c/ef/d7b1ce1d0f48d0fe797a215e02e65709a1edf7546c49c971e3e0bd1c8728/scrolls-0.0.77362.tar.gz"
+    }
+  },
+  "sdc-personalize-helpers": {
+    "0.1": {
+      "sha256": "ac205945e0349eb232883393b6071ddf0065de492e6acf0ce50ce30fd73de894",
+      "url": "cd/a6/a3c84c79a670e1eafb5cb585bb11903f6e40512f217573a7c67da658c8bc/sdc-personalize-helpers-0.1.tar.gz"
     }
   },
   "sdjson": {
@@ -22521,6 +22547,10 @@
     "20200404": {
       "sha256": "3d5c5a27a56bcb1a6ecdf536b6df35cdcebf6ce2f4bf348ac4b7ed7072830aaa",
       "url": "8c/5e/590d510da2229b68a73df94f1c0d5371a0b6d57898fa4bd6a14bbefcedd3/triangle-20200404.tar.gz"
+    },
+    "20200424": {
+      "sha256": "fc207641f8f39986f7d2bee1b91688a588cd235d2e67777422f94e61fece27e9",
+      "url": "cc/30/eb72adcd01a8ab9766a2d5418624e978522708de38e375129dadbcbffd86/triangle-20200424.tar.gz"
     }
   },
   "truenight-nester": {

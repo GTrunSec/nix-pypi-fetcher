@@ -1441,6 +1441,10 @@
     "2.1.4": {
       "sha256": "bc4bd878c62d1dd8322bd7b34376cd147b8f229252e3861ed9ae9ece14b6fb28",
       "url": "90/8c/ff971a5aac3562ec10853736319c181bb21767a39cb78c97049a603eb301/autoclass-2.1.4.tar.gz"
+    },
+    "2.1.5": {
+      "sha256": "719bd260a5f346110cdb8bdd06adf13918bc8b2d06b713aa446697db9130e828",
+      "url": "7d/5e/4027d1da6211119093eab606633f1e0e0d558e0ad9aee5c281dc7aa584d4/autoclass-2.1.5.tar.gz"
     }
   },
   "autocov": {
@@ -4127,6 +4131,12 @@
       "url": "48/ca/8c52c31807f41cddf7773902de7e9d56218f7841ed0cab3eed7cc0f42643/CNSeq2TimeSpan-0.1.9.tar.gz"
     }
   },
+  "coastal-ocean-assessment-tool": {
+    "0.0.1.dev1": {
+      "sha256": "0807a460302d9442c23f4ba6f8440446eabba37236469f24f7c089b7cf6533d8",
+      "url": "b3/69/01ce32ce1b1be0798e1c77e6af1591908b7fd82c3ac7a5e076a617ef2d9a/Coastal%20Ocean%20Assessment%20Tool-0.0.1.dev1.tar.gz"
+    }
+  },
   "code-searcher": {
     "0.1.0": {
       "sha256": "7ba222bf70a05029cc456449c75ef8f32d3c1a065c9a2a4e7e894f5530a1d2a1",
@@ -5283,6 +5293,48 @@
     "0.0.3": {
       "sha256": "454690cb85d5d9c3fceeab0a8bd375c9302b573873ca8b4364b67badbad7083e",
       "url": "fe/83/0d336c293638ff26b7b2c72ceb468a58144eb83cdf9d0fb8271feaeea76d/dash_toggle-0.0.3.tar.gz"
+    }
+  },
+  "datalab": {
+    "0.1.1701291453": {
+      "sha256": "b6351c819e1ccab45bab417e41537226a0af6d7c419a4041347f86820a21613b",
+      "url": "05/64/c0c20ce07d685af6b182fee380a7d5034ad12b54fe9f94898174a332178f/datalab-0.1.1701291453.tar.gz"
+    },
+    "0.1.1701301349": {
+      "sha256": "7785f62f078e46c6676d3e29a34aae7ea697aacae958a22841daa37329d9dc98",
+      "url": "d8/51/9bf3378959bb8d41076a0a1e15ca90b0c961380839c7ff24938cb85b7bf1/datalab-0.1.1701301349.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "26dddaa9eb0581c792c001ff6c647b14e6bf8050a996ea1173f7dd73144fee14",
+      "url": "57/7a/32bfb734d7796a9560236e39adb716235a58ca1751c31efdf6c93c5cdc7b/datalab-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "6657e24538788537b6fb56bd1cbec5641e546098b7d3c9d09890df9855468a0e",
+      "url": "61/f3/52b42216ddcf896353e65caf8b932a0f3de953ff66477a749b4ab1358da6/datalab-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "365beba8b444910453932975630a900096e966b3dd5bf368f53407f1ae09b961",
+      "url": "37/3b/38bd8e6093cdee6b4a343f3170523da19a3d2d22aedd7d9538a43905f02d/datalab-1.1.0.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "fbd772cb5beec10dc2fe67220a25dc7c2f2a5db397fc401053e19bf20b92a793",
+      "url": "fa/a4/00201f476a360979bf81c895acf51c64602016a502da9688b35151e75fcd/datalab-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "c15a02e84ca2e720bd60cf2ee3c3bc0274256b658d0f4a2f6675e5be7cdfa9d3",
+      "url": "9d/57/87da90dc6f629ff05a6d0ab2d3d567e4413b66cedf34d0750aa98a14966d/datalab-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "faf84703a5a37e658279210d630b8397d8f1d0011b983db968c81d86f1035d3e",
+      "url": "34/20/3b4963045b1f5ebb79253a2b22225530faecf563f293a19acbbbbc097ddf/datalab-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "a69543be58221240c94ad38ee4431794959cd5f887382abe799b55d5548c0c0f",
+      "url": "98/fb/959e3759f9985d2c4cb048eb808d45cd94c16ac6a1d148e7ba1028fa0ee5/datalab-1.1.5.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "8dd612d0820bcbe5e16a5459967c61077df68cffa197fbc81050287c3bed758c",
+      "url": "08/2f/c9c7a2aa0c7d53947ef6809d6e9ee3bcb553c92da694d39a810f48899f47/datalab-1.2.0.tar.gz"
     }
   },
   "dataland": {
@@ -15022,6 +15074,10 @@
       "sha256": "22045a1dea9de1d52f5d0f5adc1c2819830342f9473b961070b2407188ac0a3b",
       "url": "16/55/ac45c8cd5d4243fd031d3c88b21cf01064fe3aca84bd5b4e5db97b787f1e/mypy-boto3-acm-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "3b7d66ef4b50bf3df8097f6adff1782889392f8c767c03115f10855dbd4be860",
+      "url": "6b/ba/2122230e093659fd7b47ddb828a20aa1c6285435d30cb9762d745d5e6a1a/mypy-boto3-acm-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c16e579945f9db2901106459b7cedc9215c037113ff423544676fb7dcdfb7a97",
       "url": "e8/4f/345ad62ebfc2a1459590840d62a3ccb7ffdf1354bd31a80261f87ec0e1ef/mypy-boto3-acm-1.12.5.0.tar.gz"
@@ -15544,6 +15600,10 @@
       "sha256": "30c3d00fc594bd221d00dd8d4211e966795d296204c5eb51205be995e008ef2e",
       "url": "5e/30/ea6603a9f710b78c818bb49735725ed7ef7649682f11ad96f358571fcde2/mypy-boto3-cloudsearch-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "6f8a3401f852bd6f1cf3fdc946eabefa92aca95e9717aa46242a69cde04de903",
+      "url": "45/f8/784a81a130949b804bb2cee56f7420162f8d53dc41e5e1ad734a8dff8719/mypy-boto3-cloudsearch-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "55c7b07a1ec96a5140da7baa27b658b254937e55f9d00d2e844db4125972af52",
       "url": "6f/8c/b165e478647cfdeb4bda7bef26e8a19ab6170f42271b16fcb52b46712ba3/mypy-boto3-cloudsearch-1.12.5.0.tar.gz"
@@ -16061,6 +16121,10 @@
     "1.12.45.0": {
       "sha256": "84b30f3e7d3597e6cf524e01dec4f7f6f27950f0252fa2c99843431bb084dd7f",
       "url": "f0/3b/de5135eb5209dbf1a78b9756ff0ef7b7a34de65c8675e4a1a6b93ab53ba9/mypy-boto3-sms-voice-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "ded24be160e0eea16a862a3a5ffe7acc606fc37f4aa3128f997e43fdb0f5152b",
+      "url": "ad/6d/4eec944b4c998ee9850d16f5ee638523243f0faff9d1f1fb3f7ad7ba1849/mypy-boto3-sms-voice-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "38a8802734601ad572ef8bd2839974f07c2b1497083025a780b1e3c301c7df4d",

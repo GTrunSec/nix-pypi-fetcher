@@ -702,6 +702,10 @@
       "sha256": "6d34ae96ed00c8641cf8de9ec07fb2ab8766cb1902166fbc61493e7c00432b90",
       "url": "63/9e/aef7479a965b907eba04d3504796c20dbbb5eac96c5c48c33980a96600b3/arq-0.18.4.tar.gz"
     },
+    "0.19": {
+      "sha256": "9a42d97a32b92ec78a51bec53f8b50ae343cba1ba178d4b5edbf798cfada7f6b",
+      "url": "45/23/69e63f64ce5fd287839743f8f5803d6e4afb2f178309e977394a17a59fa1/arq-0.19.tar.gz"
+    },
     "0.2": {
       "sha256": "1a07fc2b7a0dd8ee6eb34cbedd78927ea6c3379b134797c9a179324e6813a673",
       "url": "eb/e2/a3270bd9bb9eac8c6e24a3d563d55a2cca1198f914c50bc4a6ee420d8019/arq-0.2.tar.gz"
@@ -1343,6 +1347,10 @@
     "1.34.1": {
       "sha256": "c711dce89456ca7ac7e1fbdc4ee7f6eb00eb123aebcebc0532ca5a0395c4318f",
       "url": "d0/f2/f812e20d22974d339a1aab7e75cdad21a829f0b9b093fefbb27607da6d2e/aws-cdk.aws-route53-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "5490cef27a6fb96c7e1b780dd7ee1dfa20bf6acd8ed93ca6ae9f907a51669705",
+      "url": "64/e6/fcb6884b09eac3e745a8c5b1595978e02a1af3e5ce07643aeed4d5d2bab8/aws-cdk.aws-route53-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "4a78f2dc5c65ae677e4f1bc9e1cdc43d935df609eb76b49965d6a9d96fb9955a",
@@ -6551,6 +6559,10 @@
     "0.0.5": {
       "sha256": "92b2819f1612b92f0e396d221c2678e96f71e42c685f5f326d0bd83e3df1b9ee",
       "url": "a7/2d/cdf4478b28883fcb92b556732acd90d4fa837751c16493e82da817dfc703/egrep-0.0.5.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "63710b2956060f0d49b7e5ad9f6463ef031946da8f3f5e587a7eb572265405d6",
+      "url": "e4/90/5649b44b448bbe179a2909dd134bb80afe752c5d7a2896ddbcfb283c9307/egrep-0.1.1.tar.gz"
     }
   },
   "ehc-sdk": {
@@ -14224,6 +14236,10 @@
       "sha256": "925a29a86e0f7ab3d919bfbbc6951ffbbfbbdc0f3ca10f15587a1b2ad07ab4ec",
       "url": "b4/60/f680562688a66c0717412a91ab045dfb8edad78b964be3ae0739ad688fab/mypy-boto3-kinesisanalyticsv2-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "7bb402bd3ddce1141d942a01dc5648b16b91973180f996f6f1811a65b2eb40e5",
+      "url": "bc/74/ac58bbc5eb0503d94a0aa096d5a771335c02df7b87b8abf69ef67cc5d99d/mypy-boto3-kinesisanalyticsv2-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "6e0922c6e4442bf898e1f129ca98c9e68c0d43763cda503646c624aa07588a09",
       "url": "74/fb/e86bce0c683cf3ea349f5e6ba78e8da52be86c8ca01f53d347b7d2940861/mypy-boto3-kinesisanalyticsv2-1.12.5.0.tar.gz"
@@ -14741,6 +14757,10 @@
     "1.12.45.0": {
       "sha256": "361929505a3e666515b2080fb00dbcf9e319bacf5cd2ae79acda1de3df03766f",
       "url": "40/70/7d85e36c21ffbddcc79f0dfcb0b53353e87cb49d75d18d89a4840a3cc7eb/mypy-boto3-rds-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "8c7fd7fa4a9eb276101928891976c64b006aa01b70b03213cefb7b5a3af7d7ca",
+      "url": "d1/c5/aba0a62b861669511f26f9a358bb7de701b835cd5e383b86c2005f5d2af5/mypy-boto3-rds-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5546aac492b1f968024c5fbe106c07af6aa0ed798b41d2343a3f38e15b092b37",
@@ -17419,12 +17439,6 @@
     "0.114": {
       "sha256": "08322b0280924737a6b402e9542668f8b566b86c0a658414285a55cc61d87acc",
       "url": "e8/1c/6659cc625912f7b3a65fdb3fc04180d1ca61b990393c1d6be0dfd84a00dd/pydato-0.114.tar.gz"
-    }
-  },
-  "pydegensac": {
-    "0.1": {
-      "sha256": "b2a6881febc0d94dc2180cf050f99b10c0f5a31e6a9306609524cc5ccfa08269",
-      "url": "df/21/768507065d15faebcb4a4fcced30ecc51065315a956d1704a7e41d871fd0/pydegensac-0.1.tar.gz"
     }
   },
   "pydgets": {

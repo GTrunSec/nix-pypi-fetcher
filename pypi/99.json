@@ -1,4 +1,10 @@
 {
+  "abieos-python": {
+    "1.0.0": {
+      "sha256": "1217761e931a6c4642b69488db3f0ba34e0d93a48bb4715d8c2a158c083ede80",
+      "url": "ff/37/ac758de1b3894be389aa58cbd2af7863fc95abb4135b999485c5ebcc5d64/abieos-python-1.0.0.macosx-10.13-x86_64.tar.gz"
+    }
+  },
   "abilian-sbe": {
     "0.0.0": {
       "sha256": "6ca07ba7dfe7e782032e4dfdcbcf6cb728a73e4d20ff0fedca2ee0539cc6f8b4",
@@ -2547,6 +2553,10 @@
     "1.34.1": {
       "sha256": "b27694ee8d94f19458cd260a101dbc2757f8153369242164a19e29fa09c49d1a",
       "url": "63/5a/2257755d98f37160747231842aa0b8a9e605fe50d0d5ff633afc291caf67/aws-cdk.aws-apigateway-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "11d4aa214606323691187a497ff03de0fe3a3223dce6f0abf9b3a8ceb75df7b9",
+      "url": "76/61/3e953cc979366a30a5f520a832cd1718162b380bf965a6438d8fac675d4e/aws-cdk.aws-apigateway-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "5272eb307b62b04e515d48690c0332d45505e8e56c289d060368b600c9aece08",
@@ -5647,6 +5657,10 @@
     "2.0.5": {
       "sha256": "3993c70a2cd1dc90fc3480e60df14fe5462fbc4a50f4f6517c7387a739c3164b",
       "url": "2e/ae/ee655cbebae828ff069146e2b4fb5495a3523c262071f7f9a907f6a34f47/crhelper-2.0.5.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "fd7d9ff2853c58e5c1accffe3174fac1ad1df97381063443b71add443e2035fe",
+      "url": "e6/35/a41d086299b111893632267f503257054795c9a7cda7dbb5c7b190f35b94/crhelper-2.0.6.tar.gz"
     }
   },
   "crispy-forms-foundation-demo": {
@@ -10519,6 +10533,10 @@
     "4.2.1": {
       "sha256": "a5885c219158a15e4ca67e08807a32713953e0471762e2d1e6ddcdaabae7df47",
       "url": "11/1e/577a8df481894d5ed944dbc3a99d07639254457e0ef0d30a9ffef810bbe5/googlemaps-4.2.1.tar.gz"
+    },
+    "4.2.2": {
+      "sha256": "2cef87d9461a5fd3f095aa801492ede912d23ac2157a8822ac50b84b9f394126",
+      "url": "6f/b7/f156adb0ee84f185669246804eb7fcc6c08ef1c2b3c2fbb09355fb75492f/googlemaps-4.2.2.tar.gz"
     }
   },
   "gopass": {
@@ -13692,6 +13710,10 @@
       "sha256": "38d7f2a5dafb84bdfda0ba22800b4333e3cbde3a4a523e636b5bc81ea389cd82",
       "url": "12/26/cfa35bf0b5217e7415bb54cccf03f409cb11b5557ae83842454f3a672bde/microprediction-0.1.38.tar.gz"
     },
+    "0.1.39": {
+      "sha256": "dbf16db118cac7347c6b2d3cf4793625fd74129238033ccc937612540ae5786a",
+      "url": "90/91/9a8aa5afa9943d8798f9fe0ddd4da7bd12c26a1c7828e31a3873a7889b0f/microprediction-0.1.39.tar.gz"
+    },
     "0.1.4": {
       "sha256": "e4da8b43b53586875c79b3677d57b4430ae9fb427b7b959bad89ca2ed220ac5e",
       "url": "11/d6/7a40ed784a3709359d81f6ad14f16338a8d2c942b057005ae82115bc9b18/microprediction-0.1.4.tar.gz"
@@ -13941,6 +13963,10 @@
     "2.2.2": {
       "sha256": "4bd20c34181c873676b0035ce913f4cdddfe4e7486fc299a12480dfc8f5a52c4",
       "url": "ce/f0/f0bf9e12710b6db1e80d3bf6b2d6d9994952e39721d1efa860de143e4dda/mini_lambda-2.2.2.tar.gz"
+    },
+    "2.2.3": {
+      "sha256": "0cc022a8c998920ed59026aa3c578a066105c423d7833d67e7f50e4c587d206f",
+      "url": "df/51/378017cd0f0a9435c7144ae139f3cf13a8afa4a395a2663adc37f1e2994e/mini_lambda-2.2.3.tar.gz"
     }
   },
   "minio-py3": {
@@ -17529,6 +17555,10 @@
     "0.3": {
       "sha256": "3f328dcd86db22fd2f224851af2c74827920c0c17819b567a7577d41f13eb989",
       "url": "7b/ea/3db3433efe68b47d3b2f356cfdae20755e44d389bf4d22b245734dc2dd5a/pyit2fls-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "ee79fd6c9d89437a1c0dcfbdcd476fc4e750cca208483b5f8a18ccaa575b9bbc",
+      "url": "9f/eb/b05dde47e76b0fefbdb8a23a8f6f8a583475efbc828fd9d8e2a2093012e6/pyit2fls-0.4.tar.gz"
     }
   },
   "pykcsd": {

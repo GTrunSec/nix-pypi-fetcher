@@ -3159,6 +3159,12 @@
       "url": "7d/f7/ed4e0bbfd24020cb4a856ea00bffd7df6aa5611c283a0f6e3911bb2b406a/carica_cfn_tools-1.9.3.tar.gz"
     }
   },
+  "caripdf": {
+    "1.0": {
+      "sha256": "b0cdff6d8c8aea8de9ad1f9b58b7ca8f18d5888d2c1e3f14ed4aef8260b2f35f",
+      "url": "71/92/43916b1432b2b84d4f6956a5ecdd14f6a15bfe3579802a7a4798dbe7d3a5/caripdf-1.0.tar.gz"
+    }
+  },
   "carp-api": {
     "0.1.0": {
       "sha256": "fecd99b208e3af3252198a7117842b9b209952e2615620e4294398c63435b46a",

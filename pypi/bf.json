@@ -8863,6 +8863,12 @@
       "url": "e6/d0/55a2b58d61227b191e8b7350ef7ca9d647ef65807eafce6faddd8b04859d/gecosistema_users-0.0.9.tar.gz"
     }
   },
+  "gemf": {
+    "0.2.3": {
+      "sha256": "083642d013b49e75ae362cea8c36fd9df84bff6c4875e62eabcdd7a8aea159aa",
+      "url": "20/f9/f2f4bc90eed729f75ea4391bcc43ed2765462a8c25bb46f7b0b852ad4d46/gemf-0.2.3.tar.gz"
+    }
+  },
   "gen-rst-readme": {
     "0.0.1": {
       "sha256": "6bd824536acd16a5139ab9374a660036be552a02f03180639c79c4a8181ee821",
@@ -14567,6 +14573,10 @@
     "1.12.45.0": {
       "sha256": "6961426121af2cf70bf460d2a44dcf2cdbae174c48f8049087a90cc38f163af3",
       "url": "ab/8b/dbc02691e37a7c56930ffe7f939b155c03ae8b31df79aec20a07ff275142/mypy-boto3-sagemaker-a2i-runtime-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "8bda170a9a13097296c839b02f90a3de6a96c5b0cae9eecc06544689f2863779",
+      "url": "ff/16/0f9946dc8388a6099da799b9e4a2ad4beb01b9f46718b7cbd822cb36d3c5/mypy-boto3-sagemaker-a2i-runtime-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "1d76b05778e5e60dff65a4b4768c74b06d5ad96868bda1bcb8c8156211307998",
@@ -26991,6 +27001,14 @@
     "0.8.3": {
       "sha256": "00dc523615ed21487b922fc794efa0443c22e08af8999fd1c3b3c4b41e332872",
       "url": "61/5e/14fa36b8a2fa03ff1830c99efa2d7d3b50c9b0d59d95cc4ed470861e14b3/vipy-0.8.3.tar.gz"
+    },
+    "0.8.4": {
+      "sha256": "446776f3ad0286ab633823439ab15ccb7e14955b1909f0b7831cf99907add15d",
+      "url": "ca/56/bf26bc41243a21e0fa9ed2663083e949467271cb4f8b32261596f9f75944/vipy-0.8.4.tar.gz"
+    },
+    "0.8.5": {
+      "sha256": "9ad27eabcf08b19daeeacd0adb4bc8558f94d08fdf770ba48450baa38d18a9cd",
+      "url": "ef/00/9e465e9dabec960f8d0b5466d07869b8f4471dea4aa56efb3522c2d349f0/vipy-0.8.5.tar.gz"
     }
   },
   "vmrun-wrapper": {

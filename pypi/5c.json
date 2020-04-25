@@ -6265,6 +6265,10 @@
     "0.0.4": {
       "sha256": "7acd055af87d0897738a4b0339140fdced48a3f555b7c008ff5b043fe49750e0",
       "url": "0c/a3/bcaf6a1311eb98afb68a5610abd33062be1ce6d56699b258c2546cc3c0d7/gpboost-0.0.4.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "3ddf30b299d600a400cbba5c34a137dbec8259b2c34cd5e649481fa3390f1d50",
+      "url": "e0/71/3add2a2ac705625daebcdaa30d365bcf2e80da2a90074234d7266503ef37/gpboost-0.1.0.tar.gz"
     }
   },
   "gpiodev": {
@@ -10543,6 +10547,10 @@
     "4.0.3": {
       "sha256": "68feee09d0bcef652d95d1b6b692f9792b841b485c3480b693f63efc53e7f221",
       "url": "84/03/ba06c3215f32688f9c93f8f6ec429125aa00eca99e45fbb3104eb10652a3/mozregression-4.0.3.tar.gz"
+    },
+    "4.0.4": {
+      "sha256": "a4c082446825f9b053c3aa8c4c8c2aa661386e533d2ace3a16568d0fca936751",
+      "url": "7b/b5/a4cc26a7b88b14c5aa3a3382dec9824358619055b7f1afb3477394403cf4/mozregression-4.0.4.tar.gz"
     }
   },
   "mr.awsome.virtualbox": {
@@ -11083,6 +11091,10 @@
     "1.12.45.0": {
       "sha256": "7d6073a8d9f73cde233ecf1f1f62e3412346d4f23953b9fdd001df4d4a5ba74d",
       "url": "b8/a5/6f73df60f3d4addcbfb4b6d3746950c4605e10934bd1e589eb43dfbbeedd/mypy-boto3-lex-models-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "27a18bb0fe712d55fbdf62cb86ade171f1e2a600f62653617b4b83857a98d56f",
+      "url": "de/cd/e50179a13699f39f1f0fa4f2b0c328d6680312aaa71273f34f97685c26de/mypy-boto3-lex-models-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "739a9967527a4c191b89c62dcaefcede7d788edeabee3ff5001b47dd4b044080",
@@ -17999,6 +18011,10 @@
     "0.1.83": {
       "sha256": "d194cf7431dd87798963ff998380f1c02ff0f9e380cc922a07926b69e21c4e2b",
       "url": "1b/87/c3c2fa8cbec61fffe031ca9f0da512747520bec9be7f886f748457daac31/sentencepiece-0.1.83.tar.gz"
+    },
+    "0.1.86": {
+      "sha256": "842e1b6e227501c9383875ab952fd201cfcbb65682e99526136fc987ba3ec2e7",
+      "url": "2c/2f/d018c659de3983277962bb64b9f4cb105f96f7fcc73e33b6603fb50b1f00/sentencepiece-0.1.86.tar.gz"
     }
   },
   "sentry-message-plugin": {

@@ -1109,6 +1109,10 @@
     "1.34.1": {
       "sha256": "0fe7b6c4eb0b984ca60c80fdfb9519496ba11ce03af7d2b3fbf36c416ebb4896",
       "url": "cf/a9/3f80b93e86a87584940403ad27287513a65b3f691dacae45a23ca3152025/aws-cdk.aws-lambda-nodejs-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "bb9ea5a79ed7f132e1ccdddabd1a3f8c17ff70c53469e8f02d8d73978cb7829e",
+      "url": "0f/d6/acbfe6faad3a3fc19a82df6e463b801b6c906265d2de3e3e93f4c88cbfab/aws-cdk.aws-lambda-nodejs-1.35.0.tar.gz"
     }
   },
   "azuregraphrbac": {
@@ -1677,6 +1681,10 @@
     "16.9.0": {
       "sha256": "6c1e233d8ace559dfdb3d2729ca66b59b459627233b993e94fc3ae0aed6ff25f",
       "url": "95/46/2acd0ce2a4f644833f2d93acf1a2016237a2f2ed199b4b389c47a10109d0/bincopy-16.9.0.tar.gz"
+    },
+    "16.9.1": {
+      "sha256": "5576caf43a89020795926c73cfa1137d3c507b023ca538cd4ecd98fa98965f1a",
+      "url": "27/fa/5a534a6134e89a19f962c28d57f34f71f9cda4664254bb5d95f35968ff35/bincopy-16.9.1.tar.gz"
     },
     "2.0.0": {
       "sha256": "609d5009fee5b170ff412a69d029641171c1293c74c565caedd131de410f02bb",
@@ -5943,6 +5951,14 @@
     "2.1.9": {
       "sha256": "9be37f498453eb761e3bac36b1ce4bb85fda927f0600cdafe168db0814d413bc",
       "url": "ef/d3/b5430643091b16c7308c96fd5b7d3d2089b40f9727c1f09119c89df70a85/etk-2.1.9.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "24b76cffc42997e7584b5b45360bf34d314d7f43d5351095c221be160b2884d0",
+      "url": "5f/bc/67f6bc01ddf5b1ff68640c5e8f6868ca5695be4df7699ffa09b8f9ab3737/etk-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "2d0a439192fa1c9c59469560d407dd7f23365963dcfcab0683f6b46eb8175ca0",
+      "url": "9b/64/bbbdfb74763031e8bb4a7b29ed7f68a1fe67a62fbb095ae004572c3114a6/etk-2.2.1.tar.gz"
     }
   },
   "evamap": {
@@ -9679,6 +9695,10 @@
     "0.7.10": {
       "sha256": "7e6afcbfc295fb43f8e362e81dabf76e776fafeaaa35ca0b93b8732599a29cc8",
       "url": "b5/47/cbd8dc19e132c9c57c3974c202828453ca16348e7adc164cbe58543abb3d/maboss-0.7.10.tar.gz"
+    },
+    "0.7.11": {
+      "sha256": "19a0a75082492de8ec882460e01dfb543dfe8b109ad5c267679b86edb030b6a6",
+      "url": "fd/2e/07ea7e473eb2cf8bed0af8838a5cb018db72b223a2a6f9a9d374e502c180/maboss-0.7.11.tar.gz"
     },
     "0.7.2": {
       "sha256": "6127b152af2da75ec1eec9a491fe297c426ae56539209eedd8e94aeb365fa0bd",
@@ -17294,6 +17314,10 @@
       "sha256": "c1ef21b6cd1a07256b1db8b8e7a972c6c3e843fa4ec89f3f99d531b751471dfe",
       "url": "77/f1/67c19a2fab550a90ec750a9f7f13ebb75220f21eb904d93e156eaa56555d/renku-0.10.3.dev8.tar.gz"
     },
+    "0.10.4.dev2": {
+      "sha256": "dbd5e54a1df34d633a97f3dfbb9281c0cc7fd7fff5590bf20389ca03f219af98",
+      "url": "51/77/17c3ca41d656f587c5bc883bf40242ceb8fb51645ccdaa8bfabd9efd49f2/renku-0.10.4.dev2.tar.gz"
+    },
     "0.2.0": {
       "sha256": "6b7aa59562b40d13747d825f0dd84503b5e6f8b789144f08769ad797504b611f",
       "url": "7a/d1/13e465324232dc7d9c3a4743f701e4506c04c4396ccc9a82ce06b00b1ca9/renku-0.2.0.tar.gz"
@@ -20130,6 +20154,10 @@
       "sha256": "9986d3bd9cb59b13efa0a586b18e130b7ed8a79d4b259b8a6eed2c32d787965e",
       "url": "68/50/874133b29ead9a0bf5ba27c37b1ee62feead19cb116343dbda85a62f741a/sneks-0.0.24.tar.gz"
     },
+    "0.0.25": {
+      "sha256": "8340c0abadef25a052a73bfd9fc61bace3e557ee1bf84da1f77b26731fbe42ca",
+      "url": "f8/2d/e6e4358262ff225cd51241d0fc4a6728d19664a060ddc0a15a2a45a42190/sneks-0.0.25.tar.gz"
+    },
     "0.0.3": {
       "sha256": "a76ccf82c2541724b36b74cec184d54b6d36a58f88a127503e9de57144aa60d7",
       "url": "5d/8b/797126aa62e6bac65b60b51d3803d77c596f73bfc6ccf32fd713553dbef2/sneks-0.0.3.tar.gz"
@@ -21725,6 +21753,10 @@
     "0.0.3a0": {
       "sha256": "375535de65288c77c930b49209578adace2a32d732b2363377f7c28fb9e2d895",
       "url": "d4/1d/759dd7e471b4ebc5ed2044f8c960e7fede281f9c1d1253591d407308a195/toid-0.0.3a0.tar.gz"
+    },
+    "0.0.4a0": {
+      "sha256": "f5a5fc15b18ae876f465c0ebd172e56dbe5c90bcd5b3e098069c1e3c396c9c3a",
+      "url": "0d/2b/cdeb0e9012ca38966d85289533621657e977d8a06a589e0131398942166e/toid-0.0.4a0.tar.gz"
     }
   },
   "tonescale": {

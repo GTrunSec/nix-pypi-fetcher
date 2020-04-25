@@ -4693,6 +4693,12 @@
       "url": "95/0a/90a4e9204fc364177113385032121aaa9ee4b2bed729b53b60635fddcc45/diskdict-0.2.5.tar.gz"
     }
   },
+  "distributions-mwi": {
+    "0.1": {
+      "sha256": "02accc6a4bb01d45beae634c20b17822d7e87b0ec97cf611aaf509731b022771",
+      "url": "64/1c/da19951f0a074bfce7bafeb39c7a72e111fd93847fc4691848f54cf83337/distributions_mwi-0.1.tar.gz"
+    }
+  },
   "dj-jsonfield": {
     "1.0.0": {
       "sha256": "94f6cca0052f8a411c90e157ff6bd52afbd927389d979adb38bf68a4f7a9f4f5",
@@ -14470,6 +14476,10 @@
       "sha256": "0bb6a16449fd22340fbc0e40fb6bb11008f6a28469eba5036e25df40f31d83ed",
       "url": "85/07/fca71373240e3cdb0929731c13aa28db27e1c851b4c82de5e130ec8c410f/mypy-boto3-workdocs-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "2973ffd8a204897d00bfceaf9b12f6a8a099979c483fcca48efb1d96216033e8",
+      "url": "21/35/cf18f916a734da8214ffc8b491f3d4533707c98eb61ded12eed642b0a10b/mypy-boto3-workdocs-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "4ee7a78efdb93d28ec017550aa464faba4bb62612b6fa4eefe1e63ac0edbb551",
       "url": "15/a0/7dff44f8d1afa90d71e2cb659f3c552b7f32a573cb25975d89d597f02ad0/mypy-boto3-workdocs-1.12.5.0.tar.gz"
@@ -21862,6 +21872,10 @@
       "sha256": "68c38c6b07c9e70f454eb6ec680f697bea490ef60ffbb9156a9fc657ee981b77",
       "url": "b9/22/a92a7d538d01406db9e9b751ba8273c0dd0dedd127ce4b208a5e11a79280/resolwe-bio-29.0.0a1.tar.gz"
     },
+    "29.0.0a2": {
+      "sha256": "02f6b25ea7b79db6d39209efe1a09883ac17e0a84bbc3b7da59af80442f9d635",
+      "url": "38/f1/291b93beb0cbaaad7a636ecd720c228c7513a07fef282b41bbd436bfc6b7/resolwe-bio-29.0.0a2.tar.gz"
+    },
     "3.0.0": {
       "sha256": "3cec79a915703061bcfe1361b20a5c26a69f4f5a3406cf6cad7e6578cd8f2385",
       "url": "31/fd/d22b978b5dbb4a2941faac926484dcfb1180b9b97df07b6da5f6b07b0ec3/resolwe-bio-3.0.0.tar.gz"
@@ -24257,6 +24271,10 @@
     "1.35": {
       "sha256": "60cf176f507f9ffac12b0ee2a56cc46a88df5a223d7698829367ef377842b43e",
       "url": "98/69/db27da7bb5c54a1944810e1994e88379e414e447820d89c3aa590ab60f3e/sprites-1.35.tar.gz"
+    },
+    "1.36": {
+      "sha256": "46b1f747704d905f4dcb607532d4d5b87cad996afbc3f50ccd3e28b19cc5b0ef",
+      "url": "e3/a1/ceab4c582994998f354c850451b31c9d215de4c79271e3b2130e199b6009/sprites-1.36.tar.gz"
     }
   },
   "spws-2010": {

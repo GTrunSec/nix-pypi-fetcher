@@ -15790,6 +15790,10 @@
       "sha256": "3d2743e74666f3370833ba7bf5a2f139b1fd7446a51cd643ddc565553452b0d0",
       "url": "e1/76/b86a967c529e7dfdddc8480058169f7a768f9b20b267ca9e7c11f9f4c0cc/mypy-boto3-resource-groups-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "da6cc9f2b1b0de74733d32f44dcab2037390db95d84a2b1d04cc26e9ff3da4b7",
+      "url": "f0/bd/3a3843a6a949750fbf0aa0c4e4ad96727f6ae36b37da51321e061fb82b76/mypy-boto3-resource-groups-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "0ba5adb32bcb3f18d49b729a4c6bc54f3e4a69c0520643cf32709c158f428beb",
       "url": "c5/8b/0292405942e89934f5d71de65113096351dd37825fd59b0ac05f6f06d2d2/mypy-boto3-resource-groups-1.12.5.0.tar.gz"
@@ -25581,6 +25585,10 @@
     "1.2.0": {
       "sha256": "31edbedf05aada21ba95981f197d9c2facf3e32f6461ab0b2ef143486abf719c",
       "url": "7f/c8/67e1f41b51b241bf1fd9169556a51130b2b7a4e56ee2ddc6dfbf05a7c250/ur_rtde-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "acb5723b5ea3e772cc23cbaa40ada5e89a3650f68d627b3188acfa8ce16659f1",
+      "url": "2f/b5/253291661251d8b7fb8e14f6dde0898ad16c4eb7bec297d012df570285b8/ur_rtde-1.2.1.tar.gz"
     }
   },
   "usfm2osis": {

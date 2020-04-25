@@ -24168,6 +24168,18 @@
       "sha256": "27585083f349ffed767b0ae102fcecbca74e3631fc07daa167f28ee4579663f9",
       "url": "db/de/dd1a0f114333d5b88361c4a0d41f6a52bd18724f494b00a446c60c455489/ccxt-1.26.93.tar.gz"
     },
+    "1.26.94": {
+      "sha256": "794108f84e9d7ff0ecc5993c6cb88760caa8c84ea816ef9774b79f32dd2f48fb",
+      "url": "10/ce/5865a295acf81313ce8fb2dfe52ee8f75e3ed2953a2529509781a6df57ac/ccxt-1.26.94.tar.gz"
+    },
+    "1.26.95": {
+      "sha256": "19cf6b4b2ecf1911ddaa947d769dadf13f28bdd608739941b40b218780c757fd",
+      "url": "bb/6e/f159ce5c6ffc6a772db93ae35a65bf064e7e5bb773bbc8664ad8e1e41b7e/ccxt-1.26.95.tar.gz"
+    },
+    "1.26.96": {
+      "sha256": "0b35e177bfd5b4e37e512811359d5ead26524980da7199cc707b3e109df2caa6",
+      "url": "07/dd/2e37e604bb89bac7fd895cc9c0fd1a4ceda37899763a579d50a77778ae5a/ccxt-1.26.96.tar.gz"
+    },
     "1.3.1": {
       "sha256": "89889c4a4e2a90b7b567bee2c3d905cc4cb1cbf40957f644be083c3a5371f344",
       "url": "95/1f/30a3484d3079685a045ad6f8e901640aa229fb16237f4ae7b98c2246d911/ccxt-1.3.1.tar.gz"
@@ -34425,6 +34437,10 @@
     "1.6.3.6": {
       "sha256": "20dd78bbff20a08bd24718b3aee064eb7b3d33cea76b1ccf08d584c7bcd3fa3e",
       "url": "6c/11/f6c0bbd954619b56de8a796dc09ea053d62ee5bd75ab2d6ad2218f9114f3/gb-dl-1.6.3.6.tar.gz"
+    },
+    "1.6.3.7": {
+      "sha256": "ff827f46295b47ddc7f1bf8fea48e4dcb743103453ff3b1a64bbc567edbd1530",
+      "url": "40/19/767a51bd2f85c19293040ea599990088077827abf3d8db1231b91f1c00c6/gb-dl-1.6.3.7.tar.gz"
     }
   },
   "gender-guess": {
@@ -40423,6 +40439,10 @@
     "1.1.0rc2": {
       "sha256": "9e73a654f1e1d695d8cc6573959c9f4a27f630b32e0a18f8752dd6f0a4973133",
       "url": "34/05/0eafc66aeac649ba3a56076d68d48673c44ee2ee7d63029038813e22d9c1/pepy-1.1.0rc2.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "e759bce87e7f7fdfcf18559bd5e55e6f1b4de03383382dbe6877d9923f2ee5aa",
+      "url": "a4/68/3807d58a93d856b49c5e2858d18ae257397ed45d2faa83640d881089b69c/pepy-1.2.0.tar.gz"
     }
   },
   "perfidious": {

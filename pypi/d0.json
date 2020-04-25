@@ -1304,6 +1304,10 @@
       "sha256": "f648002d96076edbb89de02f8f184e3f5131c5518f8f94bec126cb60e60a0f34",
       "url": "58/a5/947d5a7a8277dd0eb299b9a4c45dc9da79c57ee617d3015406053d6b04f1/aws-cdk.aws-efs-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "0b0c142283a6db1ff961e9f5a961f7353a3f1a8ab86e6ec576bb7034b670a447",
+      "url": "9e/22/d22a8c0bc3bfb73cae5f1812c68f7c0562e9f0a333c7d3c4444a1337d3ae/aws-cdk.aws-efs-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "3089e7cd15e078b7bfe77daa57ed69eed690871921092093b981fc3118a6a1db",
       "url": "56/41/a9213214c4dbb88c7f80dfccbe26837f0c02fd3fcffea7dc466de62687c8/aws-cdk.aws-efs-1.4.0.tar.gz"

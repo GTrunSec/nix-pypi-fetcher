@@ -12423,6 +12423,10 @@
     "0.3.8": {
       "sha256": "cf7f064be02ae5cb9583cb952b3dfa25d6fd46114fa67349d71a69c107e54bdd",
       "url": "7d/3e/b3a0f3178148398a4e0ee8528dfb48e09ce33460be8e06426f8ba50d3afd/mysense-0.3.8.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "96d21dd480e7f2a2fd5b5c2c097dec7c9397feab390685662ca66f6b4b73554a",
+      "url": "a7/20/677edb869cb7d804d969117e6b52f30fe14c0773de37f1bf866a1014c534/mysense-0.4.0.tar.gz"
     }
   },
   "nagios-check-supervisord": {

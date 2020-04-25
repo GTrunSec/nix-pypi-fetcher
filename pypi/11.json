@@ -3684,6 +3684,10 @@
       "sha256": "6c04ef30de440a7078061fc215da361643685b080f0ceed15e394e34aa58d7df",
       "url": "d7/90/4755ccee69487424018a85ca2d76dae6bc6e6825f2c17a6c08b2dd32ca58/aws-cdk.aws-cloudwatch-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "353ef714b8387e38dd5efa482fa19724d101a8c5326b5effd91acefd91e4c27f",
+      "url": "5a/cc/a1e01b3d6450bbff006474a39df8efec02dd2617fc32179047692968a09d/aws-cdk.aws-cloudwatch-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "581d0cb578132302e0344229464296fca3394a0128730c806ed4feb7306408ee",
       "url": "68/6e/d694b8200662bab522ded4a037aa6a3a3e243f2ea1f09715f0c0bdeb6ddc/aws-cdk.aws-cloudwatch-1.4.0.tar.gz"
@@ -16636,6 +16640,10 @@
       "sha256": "d6d349c29d72b5683e0de92da3cf7c2c3fb2778106d81d3dc61854713125e1c6",
       "url": "e9/2c/8d4b3a2c5f7da6633ffe096683b0a4d4967bb2e9ba409b67ddbddd28fc55/mypy-boto3-iotevents-data-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "ddaefb75ca0d6e0367305c063cd30185892eb579faccc75804632a49379009e7",
+      "url": "4f/14/b6f79025c2791312edd019f0a8539c20a2a52db2c277303f788b35019c20/mypy-boto3-iotevents-data-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "19aad134285d6efce1acfa5df8c355bbc46f7a7a6039891dea0d52d715a95cea",
       "url": "f3/16/ba5415b7e46ca7cb20a501b7866b2ed2732eb47d861ac3ab10ed8e9390d8/mypy-boto3-iotevents-data-1.12.5.0.tar.gz"
@@ -21057,6 +21065,10 @@
     "2.6": {
       "sha256": "96c3d8063bb2d9e9c91155fa9212f3996e3deadc6b5c070fc2600120ec277c0a",
       "url": "78/77/b164d298ef27d29b0315368c894c46381ef6d5ac9402d838ad401449447a/qr-filetransfer-2.6.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "805216aa7a33295d1a140b091919329a1675a701237dab5d1c883020a07b30aa",
+      "url": "cd/cb/13724998f358df7c9b4d66c180a7f822dff7f0b2c6d1d9a7f8d0a1f21d7c/qr-filetransfer-2.6.1.tar.gz"
     },
     "2.7": {
       "sha256": "aec885578c3dcfb851fec0a198c1b7e8da0dc1ec276033337e7b36b3b6bf8f41",

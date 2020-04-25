@@ -4729,6 +4729,10 @@
     "1.7.0.1": {
       "sha256": "d9bd7cd5c6356865dbff69f3ea4cc835e675200923f1a57d873c418466d4e209",
       "url": "4b/44/3b3219bd63a62df8bd9cf899ed98d9ac5e075dc22b85dd078e6d5031c45c/cuitools-1.7.0.1.tar.gz"
+    },
+    "1.7.0.2": {
+      "sha256": "4d95f75cab3538e88207981d29b75880a27440d631d851c569c7b5e5d5880b6f",
+      "url": "8c/ef/2cbdc7b75270907da36e07f873688aea262c153455fd92210dce9d7c8733/cuitools-1.7.0.2.tar.gz"
     }
   },
   "curatedmetagenomicdataloader": {
@@ -8451,6 +8455,12 @@
     "0.0.2": {
       "sha256": "d7c7137091be5772f9c3fef31405636ea868b6a43964031fd21ad57e1560b854",
       "url": "b9/c0/7c72bb24cf5ab0f92750d4ee13754721a1659f365db6c63bba24f6457b12/drogher-0.0.2.tar.gz"
+    }
+  },
+  "dst-enc": {
+    "0.1": {
+      "sha256": "6802d811974fa7b81507583724d7533bffce90bdddb62badb96486d571be7479",
+      "url": "db/b5/b3643205e4d8607227b607041973aee7cccf688a99e75abf8e26266484a6/dst_enc-0.1.tar.gz"
     }
   },
   "dupliganger": {
@@ -14552,6 +14562,10 @@
       "sha256": "2ea7397b92772dd67804dc66087e71e024a196cca5ebfbb2022121d49ec11381",
       "url": "f7/46/bbf6bf50f87a1aef02011f3728ef1c97a9d524e3d3d9131eadd8b8ee1251/mypy-boto3-pinpoint-email-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "42076b116e708eb96e3ea325978742dcc37ba25138f48867ac1b6ff1dff68263",
+      "url": "32/d8/533f5eb3fd89faa13930cc151996cb5c198bb07678d022cd70d292f076e9/mypy-boto3-pinpoint-email-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "fc5de3c1c7c24b33f7e85ab60487f006cde5d78d52a2222c43030e848bc614cf",
       "url": "65/d7/d0c9ba7baec04f445c98e781c40ba522c9ceb88bfe9c45f2d0aab4453cbb/mypy-boto3-pinpoint-email-1.12.5.0.tar.gz"
@@ -14771,6 +14785,14 @@
     "1.2.4": {
       "sha256": "896a8168fbb4ee74a967f2658eab21281a55fc792ccc82ab81a9d89c01163283",
       "url": "94/9a/5053e6141c14fc12bb00f078ac189b391645235e46b6f9faf4d64d3575e9/NathanJamesToolbox-1.2.4.tar.gz"
+    },
+    "1.2.5": {
+      "sha256": "0952d9cf297725b9a984397c7b43c33aaa72023a586822a62251b2ed353ecbef",
+      "url": "ec/21/8e814a69c32e3715341128c95c6a2d36d0c677e0ac53c2b476452d5ad44b/NathanJamesToolbox-1.2.5.tar.gz"
+    },
+    "1.2.6": {
+      "sha256": "c15dd473757741de63681b87a86d21e66c58f8fce1fb7be08f75014a316cff45",
+      "url": "f6/c1/f3ddef95f222153f31b8bf35fa86154eeb87303d7701330d41eb50f45782/NathanJamesToolbox-1.2.6.tar.gz"
     }
   },
   "nb-util": {
@@ -16901,6 +16923,10 @@
     "0.3.0": {
       "sha256": "e2bc24325674154f35614795c82892804cafd841ae0ad4fa7cfb752ec5de44b6",
       "url": "0c/a1/d0c9cd0f94032d4c01caa8aa3eac0749b356e59f668c3e97b7c723a6349c/polymath-substrate-interface-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "8dd3670c77aa8cb7e00d7e6dd295b50913957ffa18d4d990868092849cce68cb",
+      "url": "e0/52/e06b2d15739739232e58f60eea33d0e38146af317002b3a1a5417e7f259e/polymath-substrate-interface-0.3.1.tar.gz"
     }
   },
   "polypaths-planar-override": {
@@ -22663,6 +22689,14 @@
     "1.4.9": {
       "sha256": "0e47b12b12b0cc340041f3111bd3f71d13cc0b2a404ebdd43be8375661055b33",
       "url": "91/69/dfb9f225d8272f207f21b773df08598db252e578f74062fd500a75661d08/suite-py-1.4.9.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "d9d08262034baa7714162f21e68cfe85cc2be3cd68491ff70583894da8e77494",
+      "url": "f9/93/1b7d02de8020d4da2643f814cef9954146fa9c2d246991a53a31b4e5bae5/suite-py-1.5.0.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "c0800e1717d9c42e9f8c94b7dd615aa42c80d84c97cbc22b320ecfcb031c9cab",
+      "url": "27/71/7b2ac72998db918548ccf5a82b1dbee3daed6b4a561bd43903c31d1468bc/suite-py-1.5.1.tar.gz"
     }
   },
   "supercog": {

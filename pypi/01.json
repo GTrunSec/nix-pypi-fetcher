@@ -7649,6 +7649,48 @@
       "url": "ee/0d/99be7cda5ecad111ee3eb8c9467569631d7c11aaa392584f40f8a41e953a/django-oscar-worldpay-1.2.tar.gz"
     }
   },
+  "django-osm-field": {
+    "0.1.0": {
+      "sha256": "3573325e21c84f705e95f378e377f19858153d5dbe1ded1fbee96b6d37045b5e",
+      "url": "7d/30/08addbdbb376f31c4bf9909ea578b86a46427bc6ea3b54aca1e8787b495b/django-osm-field-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "ae82d9ef7b33998cce8908fd04c0a276678b2619efeff4aa7a6048ef78d4968f",
+      "url": "72/b1/38701c627898fa6ceb8fea9fe09a3b1eea3609c3964c5082dc0b30d7f318/django-osm-field-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "edca8ab3e29c0f018e48831f70defbff60d15f5b1e207645c432f4075c4dd802",
+      "url": "e6/ef/f5e383c21c9adedb44f66c933b1006080e4208bfab0eeeeda546f3fc10fb/django-osm-field-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "1b52d8af7c3c76f57bcb6bb64f4d952793c8dc32ba08e49fd20e329211b62cd9",
+      "url": "95/27/ef9b9526dcce32ff653e032ccf582059d2221aad4bfe5404177a27f0f997/django-osm-field-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "4825d63ceef4ffa326a13c1a278414b59ae11b0e507f0d20dfdb1deec0cd5464",
+      "url": "db/cf/ba44c3fee16a32a4d17a8495ed30278a79d1afefcb2f9d3b3028738d0da7/django-osm-field-0.1.4.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "fb2b6eaeb3f6db77a1f1318bf7c85ee909181ddc37d64ca751982de86aa3d6a3",
+      "url": "8f/9c/9c7658e5cf30a2de1fea337f4aba3319ce7a2b25dfe6a85c1d0ce5d07a06/django-osm-field-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "ee0abd6db67259cd16c1bab3d155a970c72ecef38f377e9c30929cddcf9f11fd",
+      "url": "f5/17/bf2e7ddf37985f9d0610e7da42b8bd4af8edec7e36325310fb1f8f1e1862/django-osm-field-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "8135018862d57648576717dafab5e028587a70301d602c3f1c869e1d7916e26b",
+      "url": "4b/19/c6efbce7ff0859f45fd27d2fe3223924139218317804f50274d34957ae9a/django-osm-field-0.3.1.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "a837ba96f441fc32ed8e4a01ec61e679d1e22f367e7264e592d9ac2eb0c7b070",
+      "url": "a5/a1/5d2471dd7f6e3cd1d49afc7ab5bad1410ae9b3b1bb440e69618245477a49/django-osm-field-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "a19f330058cf1bfe36ffb55c0a9a451059c2a3bb5fcf363ed02f0366116e66cc",
+      "url": "7c/44/bce48dd7c4165809a033093a537d30efdc66723eca1eb1ff8f7153e674d3/django-osm-field-0.4.1.tar.gz"
+    }
+  },
   "django-payzen": {
     "1.0": {
       "sha256": "635cdfc1d813bba259e71290bacad482ffc33a4d1a5f1371a7b97b9f3f062237",
@@ -9729,6 +9771,10 @@
     "0.2.3": {
       "sha256": "3abffdf99b2b4af85c8ee268c6410b34da7b51bd315732bf7c139be1f07f0cf4",
       "url": "64/ed/aad2558c3fb019bfc952e55d33c81a83f2317263469455bfd8bdf5d8676e/flask-restful-hal-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "b5612c43360a12701ec5f13f45d3b2dc9af2c6569033544670bc4d035c424bd5",
+      "url": "e8/2f/ea1023f6a04fd5ee876bdc3f9771f82d21abd3668292763ec2235bb300b8/flask-restful-hal-0.2.4.tar.gz"
     }
   },
   "flask-sessions": {
@@ -15545,6 +15591,10 @@
     "1.12.45.0": {
       "sha256": "466847acc61a5e7f653584aa183ceaab58ec3d7657471951a8ea530885db4911",
       "url": "c5/78/61ddcfdd1ce5aa15df77e927498db7142c5d091e99f1d17b81ab975e84ac/mypy-boto3-cloud9-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "05de3af0eb3ca775a33a4da79738dbb0aa5c735da76b2e758d913210960d8197",
+      "url": "8e/49/6d68549932549e87d803a92c9701cbb4422bbef48dbe8447792a944d9670/mypy-boto3-cloud9-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "b8dece3785425ff268b39d9866a79802dfe60a0d26ef6ab6d91e8b3831165040",

@@ -897,6 +897,12 @@
       "url": "75/19/7c0382af6c71b10ed2217e16d7de40f0d926342678dcd7742c7b998fc8d6/aliyun-python-sdk-alimt-1.0.8.tar.gz"
     }
   },
+  "alogging": {
+    "0.4.1": {
+      "sha256": "e22eee24e436e2bd4c9a5e13af55c7a216b83b4781bd0e70c3642eab3c87c06f",
+      "url": "9f/90/7fa09053a9b8d8c9bba987b129b9ad558c405e72c256c44a71993d3211d1/alogging-0.4.1.tar.gz"
+    }
+  },
   "amuse-hop": {
     "12.0.0": {
       "sha256": "48cd5ca061145d4cf087bc264ef04d0172906f95eda9c7939780fd37c80e3a70",
@@ -13142,6 +13148,10 @@
       "sha256": "cf9b8e47236d0e85335a3c616cf5be70a71c1a55652f4a0ca75291aa98024d6b",
       "url": "36/af/05fe1865505da6129b237956cfa50871e0eda4cf1ff12794c641b04923f1/mypy-boto3-quicksight-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "170fb1266233a3d67a3d7859de0038ad68967507b21002737a250245c7512db9",
+      "url": "77/68/cddca4db1a25ac5e7fc7d4ab1e39530a4e43e9c48a331fca6f90bff74a65/mypy-boto3-quicksight-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "77a35692bb0e133f85e9a61b581b11f3d3a2add7b5abf0e3cb8ccc74407b8457",
       "url": "f7/4c/b96fec7468bff5998ea85ea53b69a44e1c085b9f3f4ec2cd692112f8a5b4/mypy-boto3-quicksight-1.12.5.0.tar.gz"
@@ -13659,6 +13669,10 @@
     "1.12.45.0": {
       "sha256": "6fa03719b89b0ebe96544da8f50048dd492aa3f9b141dae22fbbe337203f00bb",
       "url": "5d/fc/4b4bec388b49c07ffd357c7014454917cfac3ac7a92785d8a268914a0e1d/mypy-boto3-serverlessrepo-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "7a3327a9fd2467aefcefae4e02fa22b2a96bfa2b85ff440b1b43c160c6996f33",
+      "url": "0f/30/1f8d729f1b680fd1f40766083ebad6207b1c7145d7589c06b65df9b7d076/mypy-boto3-serverlessrepo-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "d5664ad65c72d29b5c8b5810813bf6e234acc70eb432173704df40bc8244bae8",

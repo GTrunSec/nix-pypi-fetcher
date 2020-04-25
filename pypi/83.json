@@ -14015,6 +14015,10 @@
     "2.2.1": {
       "sha256": "1df95b4d30241ab4a68d40285953234e79e9e3754905945cbaf49bb022ff93ed",
       "url": "21/60/73e3342efa7857b2d198146c981ec5f852025437af0110a3da9ab663a1a6/obasparql-2.2.1.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "22b3e393c2c53f40a75135a2d7440a35950cfe69efe5c7effd248913135e0b55",
+      "url": "51/10/5a7b189c557fd0c83b1eeb56db3d7fe4d86b414ab38fef1de47a1015ad48/obasparql-3.0.1.tar.gz"
     }
   },
   "objectio": {

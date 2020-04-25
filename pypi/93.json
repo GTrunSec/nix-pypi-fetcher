@@ -11595,20 +11595,6 @@
       "url": "98/1a/74c2ff7a93511cda62948814a0a63e01109d70b1b4a5feadee0ed44c3508/hgblog-0.7.1.tar.gz"
     }
   },
-  "hooly-utils-kit": {
-    "0.0.1": {
-      "sha256": "5e55cd468a45e79cf801922bf20970a9945d4f6088be3096a7e4f5dbccdac5ce",
-      "url": "27/fe/821cec0a566726ecf87e894579a3b8f57785c656ba54d5b779c9823b637c/hooly-utils-kit-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "9384a88c7d1876ebcb5c7301f557cd6c59aff041203eb1a1141b2b7fb32baa46",
-      "url": "fc/4d/df227e0e628772e9d1e47a47bdd7a4aeb54bdf66336f6618d682dac6eadc/hooly-utils-kit-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "7200054e264dd6dbadc846e5138d4acdf4b146abc33fdea29588434b14984cf8",
-      "url": "fa/95/e3e935ebc270a20f995118c91ccbaaa86257412ac447988af40f3bfdd408/hooly-utils-kit-0.0.3.tar.gz"
-    }
-  },
   "horizonjpl": {
     "0.1.0": {
       "sha256": "34e4423cac11a24c035c1a8ab99f5fab58e66178bf0bf37627bbd781d9abecea",
@@ -15100,6 +15086,10 @@
       "sha256": "e4310ed9cf0ab8ddd2380d6bb833a30ca2b985af8c27a5e6536e53a18efdd60d",
       "url": "81/03/0d72dc0af83a9559e87b6de8a5d2bf37624f3925582ead17c1c303a98d4c/microapp-0.1.1.tar.gz"
     },
+    "0.1.10": {
+      "sha256": "c27d794c4c8bf1a4306bcbdc7b949d5a2cccbf39e02570ffc8225ffa67fdde46",
+      "url": "f7/2a/59179b2186436712e4a085902f15b764d2e917d279a013b27420c2d99dae/microapp-0.1.10.tar.gz"
+    },
     "0.1.2": {
       "sha256": "86a122525cfe0840334f2d4520131e5333f750253a0807fcbe1ebadb04f41524",
       "url": "cb/3e/41f1dcbea860a3ef4311c28f4c7e9ab664f1d7929214c6c3324737d7bc71/microapp-0.1.2.tar.gz"
@@ -16275,6 +16265,10 @@
     "0.0.1": {
       "sha256": "5ff32cb28c1e0b4a090216fa9194962256df007a7af9bbf932ddd4854db58cfe",
       "url": "c1/98/b2b97cba0aa29aabe346371137d94c0fcbad43e5d12f1dcc998ca52f1449/neuro-0.0.1.tar.gz"
+    },
+    "0.0.10": {
+      "sha256": "93355abbdb6ea7c221002acf0b0ffaf837a66b29efb75e6fd72084aa1217355e",
+      "url": "98/12/ea32718823f9ef00ce4cfa41f694bbf77d7fa729e60d61249e408261a7de/neuro-0.0.10.tar.gz"
     },
     "0.0.1a0": {
       "sha256": "c4a972c99bc6395f7964b22b4ab860219a963ef05c5c1545195f2b1b89c43135",
@@ -19767,6 +19761,10 @@
     "0.1.0rc4": {
       "sha256": "d71477a5dfe9835d37b89962e98a7b680f7bac5825180d84a559aa168ba90a38",
       "url": "74/34/37b0b39b14a7646906689021d1ffa19ffb73e7d925be3ddf3878a4c21de4/pulp_certguard-client-0.1.0rc4.tar.gz"
+    },
+    "0.1.0rc5.dev1587736827": {
+      "sha256": "7019cf7ae77ca2765dacc71cc162d36ce787c400b9078a2839c7afe077047def",
+      "url": "07/22/f0a9ea2258d46a2070423829bf8d197eb39ea3ab8b4d70834dec545dd96e/pulp_certguard-client-0.1.0rc5.dev1587736827.tar.gz"
     }
   },
   "py-di": {
@@ -23015,6 +23013,10 @@
     "0.1b0": {
       "sha256": "ce4697acefeec80de9a17df76159f152adf861449b509867a73a580aa8f5126b",
       "url": "a3/ef/6e2b93673d55c13513634c6e01cf5740122d9817e764b3507dcd7ea8d9e7/sgm-data-0.1b0.tar.gz"
+    },
+    "0.2b0": {
+      "sha256": "3b121aa874bb48e2a08bb72ab99a92870fea1e81bdbabf599ee88cc762bf9a9b",
+      "url": "55/4a/f6baf26d44bb4427ee1f99773b5e34bf23a133e88a36732f83fdb7710d32/sgm-data-0.2b0.tar.gz"
     }
   },
   "sgota": {

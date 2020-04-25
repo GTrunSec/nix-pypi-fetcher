@@ -12107,6 +12107,18 @@
     "0.0.5": {
       "sha256": "c114fbc616b7489b3e2162bad2de693ff7c5361fb893eecd345662125c756ed2",
       "url": "9d/1e/5b3b97ed0a8221895b87fce865df88a73be0ff65dcedf11a19d285e2a8bf/keras_dna-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "2e89292da7f1bb1076e17c4425ba348ad9093701a09dc6f75582431fcfceafc4",
+      "url": "5b/69/c8d45caa03814915fc7abbda84940da29c000e8034e753cb35bee4ae534d/keras_dna-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "71ca377111d04183f3b33f040449dac3d2886e32d2247f6d851e2182d9571cec",
+      "url": "85/ce/6d380b2af5dc0ff7663f60706b185e0cf73effdbf36fa694046d0b4c0eea/keras_dna-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "d435f3830992a153e2445247a77d0d8324422b367b962681605441a94377107c",
+      "url": "41/48/90f0be516fe646570f45d7e92d8e148f98a2097398831434309c43a8a06c/keras_dna-0.0.8.tar.gz"
     }
   },
   "kernelml": {
@@ -12971,6 +12983,10 @@
     "0.1": {
       "sha256": "74497b80f1eacfc17985ea9478ff0f039617cd0ce486950a778b105523b224f9",
       "url": "d5/fa/f9fc4aed6ab6f53c01bc75f1fb7588c758a2b367f9666c37086f6cab0c04/kubipy-0.1.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "5ad1cb12dd93f391bb13cc6b19e53cac5d3dea04509053240c1efaa77e3a7573",
+      "url": "4c/c4/f48b8e68e9879c9b1860b8756ec2ae9e84fed9c033efb24a1204c4f6556f/kubipy-0.1.4.tar.gz"
     }
   },
   "kugou": {
@@ -15647,6 +15663,10 @@
     "0.1.57": {
       "sha256": "fa82fa935dc44165bab0054a8c4c7824ed71fb1a3c3f49ebd373042794762c4f",
       "url": "06/8a/55945aee591441131226d432dd91ab8a8bf47bf41adfcd0ab6d0c6dbacc3/ocldev-0.1.57.tar.gz"
+    },
+    "0.1.58": {
+      "sha256": "aa466aa410eb90c307d3adb8221e855d607ef4c1b362d4366bc98040907511e0",
+      "url": "69/a5/0b1539bf0f31fab6edc82ea43cce75bdc4d473fd09ac838e9c1b46aa281a/ocldev-0.1.58.tar.gz"
     },
     "0.1.6": {
       "sha256": "8e72cc5a839b3df52771bf2c16098b3993ce8999eebe1093a475f577ddcf81a0",
@@ -18895,6 +18915,10 @@
     "0.0.17": {
       "sha256": "706ae5dfc1d0a6feed2f613ab1bcc95309b6d99479eacb099d05bae288b0b6b3",
       "url": "49/5b/768de1a01fe4ee7ec06fb849b56116e43c71f1a7fa19bcb08f19d683a5fa/pyre-extensions-0.0.17.tar.gz"
+    },
+    "0.0.18": {
+      "sha256": "60e0411e91ecbeaf1fd5d8851ffce42baf6a74ec7ccd01db545c7a97f15aac30",
+      "url": "42/e2/e6985e9fda5dccdb534b1f2c18212b63dc735070c72a1781a5bba7fd8a1f/pyre-extensions-0.0.18.tar.gz"
     },
     "0.0.2": {
       "sha256": "ed3fa1d3aa14f3cb848a4abf824c30ef010337e001e3cb08eaac4006c524bde9",

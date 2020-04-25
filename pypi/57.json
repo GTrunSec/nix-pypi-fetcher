@@ -2132,6 +2132,10 @@
       "sha256": "d1924fa6cfd510f8656b6526f8b935a56c0311298e359b7810b24263a1cc6097",
       "url": "fe/66/3b0e3f6fdbc24866c6f028820949a805454e65487649578530beca6e0da1/aws-cdk.aws-codebuild-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "8ad55eb4c223041223cc881bb6c0fa3c1fa1b213d89920a6d8b1add940411841",
+      "url": "70/1b/623b332812a0d67fe45d078b7b3796b5cfa902b36ebe018a8f695d59052e/aws-cdk.aws-codebuild-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "03a3e5c02169427d5e85e9b4e199d7b8fd3ed00f82a86504cab23e7447982e93",
       "url": "f7/cf/9372396d6e28c3a6021b61e326e4692f27ddcf283794027ebde2922fed65/aws-cdk.aws-codebuild-1.4.0.tar.gz"
@@ -5949,6 +5953,10 @@
     "0.3.1": {
       "sha256": "e22ca9e2b38698520cac393fb9f45098e0c9b1ce5137a752f90df894b59e045d",
       "url": "0e/cb/83b223ff592845fe9aafdf04889138f0e9137bc0dd2c92a432d447baf075/discordpie-0.3.1.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "b77c0fe62967670f7eb9c72e0bc70434afefb89a357d1f5e231a6d633ac01ec6",
+      "url": "9b/00/4af849c78ec8f86e459bd95df8190006988e4a2f0348b21bfef25f8b8bc6/discordpie-0.3.3.tar.gz"
     }
   },
   "distributed-wellbeing": {

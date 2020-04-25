@@ -1703,6 +1703,12 @@
       "url": "0d/bb/358dd0feaf95fc9b6a8ab98aef4d0f2d2794c192903856c71012af7f64ff/budbt-0.1.4.tar.gz"
     }
   },
+  "buildbot-matrix": {
+    "0.0.1": {
+      "sha256": "012a040f46f22b38a2a7432d6f38397ccbeec601f31d79512531bc21d726a48e",
+      "url": "4b/19/a59fe7df17a2541f90241c797e33b67c8e8de006ba69d5c33cb6ede66ded/buildbot-matrix-0.0.1.tar.gz"
+    }
+  },
   "buildbot-pkg": {
     "0.9.0.post1": {
       "sha256": "7149d8f4d906914b77375855c3de30ec2c9edb26f5da6c654dcceb360eb3353b",
@@ -10388,6 +10394,10 @@
       "sha256": "78cb0e198aa88d603619b2911447dcf8701a66f2017c717665b8a377f488089f",
       "url": "90/22/8f209cd9485eac326b8b4b7e39253ea077d40d39f67c59dc17bc7863f58a/mypy-boto3-cloudsearchdomain-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "a781681510f6674bf8102b9efe8aaf575050039c8ce67d9abdae781e79aaf713",
+      "url": "73/7d/adf1c27bdc0c4d3992bba2d489a4e3fa1c45f271293d69ddbb6781fe481f/mypy-boto3-cloudsearchdomain-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "717bcc5e9619855b12f9ad0f05ce0c3559e3b749adf72168facd5ac6ec31b5a9",
       "url": "7b/60/b7819cb18c75ca8be610aa8ed9149961cff64845576dfd48b43100f41890/mypy-boto3-cloudsearchdomain-1.12.5.0.tar.gz"
@@ -13451,6 +13461,20 @@
     "0.0.1": {
       "sha256": "33a9e946101746924bbcbf0f3042c2dd34802b3157c85b3fab433185db027f4e",
       "url": "0b/7a/8946297ea4389f3f28a4a7838862230e3b460c581d6fe031ea82112f23b5/pi_app-0.0.1.tar.gz"
+    }
+  },
+  "picosvg": {
+    "0.3.1": {
+      "sha256": "6572b3bddeee5c8bfcf3a64a3c7d8c70fe2910b8ac9637a7d4fb14d6f35b3d44",
+      "url": "c2/d1/aa8f49a40a173072e94868b4eb235390f64e9030d487f771d30634e34696/picosvg-0.3.1.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "a0d704cac023c7063538962a529a55e669688250fcd1dd2104c58449c48fbf1f",
+      "url": "4a/c4/fc4b594d20af41eb2872ba5d2561a8dfcffde588c05e78c3dd52cdb692b5/picosvg-0.3.3.tar.gz"
+    },
+    "0.3.3b1": {
+      "sha256": "412b5ab8238a152254c455aaaf3bf78f7c9e22e6be4272dff02c86f1f8c4fcd6",
+      "url": "cb/40/a67466d0db5dee5390b6537f3786747ecdb7f565cfcf443c3f06a4e156ac/picosvg-0.3.3b1.tar.gz"
     }
   },
   "pimple": {
@@ -19479,6 +19503,10 @@
     "1.0": {
       "sha256": "130f370d7019c959895f309c042967c47121f850d598a8a130784c1157a39d5e",
       "url": "07/2f/bbe4ee8db5d5fbb791d0bc4c7a5dbca4e6a00c5f995af3e0dc38ab1f0a1a/terminal-pkg-Team3SP20-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "e98b655c62977770329f55fc8d082d4ef7a36a0734bea3646b09d31708244a9a",
+      "url": "94/24/9676f395b773296f346682e8060367ef37038466be67c4de41ce4b48ee9d/terminal-pkg-Team3SP20-1.0.1.tar.gz"
     }
   },
   "terrastorm": {

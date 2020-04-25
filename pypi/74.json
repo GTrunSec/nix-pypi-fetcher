@@ -12588,6 +12588,10 @@
       "sha256": "71db03f612396f701e3db3f368b94695236fd23ee985d66c980d6aae26d59ca1",
       "url": "56/f8/c131dba60ca3d9fded5a4bf963e11d91754f62be6486488fef36bf6915bf/mbed-targets-1.0.0b159.tar.gz"
     },
+    "1.0.0b162": {
+      "sha256": "90c7959df44311f0a694e99f8b73b2c0a9c59f82b5f789005e1784796177ec84",
+      "url": "2b/d8/f0c87b320dcd2b1ce458f4b496d52ff1609bf22176cc770ba8e2bc58fb94/mbed-targets-1.0.0b162.tar.gz"
+    },
     "1.0.0b2": {
       "sha256": "09dbfd14733e5868d1158fcef06b28fe4447107c6ca8b52f8dc05c74d16e9cc7",
       "url": "20/4b/f3e51fe643b4a8271cadc197ed84f5cbc51caedd528894c4831414bdee68/mbed-targets-1.0.0b2.tar.gz"
@@ -14336,6 +14340,10 @@
       "sha256": "0f094ceb4794b6a1da042b0cdf517f23f0af36f32dd63bc5e802ec47b3a348c7",
       "url": "e8/12/58037d1e350ad0524bbd1dedf5961b253f88612f96abe6f3daa276ca282c/mypy-boto3-securityhub-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "fc828aefa67e9a0a25106ff231ab6663de2b95ecd1696e323240ef017362368d",
+      "url": "54/18/c36743599b16b02fb25c3568a73528bc69b2793b4c6261e9095b41eed98c/mypy-boto3-securityhub-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7c05580453a8d3b315782da1a8afb139def2add522d973bf41606e3893955ba9",
       "url": "45/1d/cc6d7418501a84078295bcde805a3739f85475ec11e4f0e6e86076de2414/mypy-boto3-securityhub-1.12.5.0.tar.gz"
@@ -14853,6 +14861,10 @@
     "1.12.45.0": {
       "sha256": "5b59fadbbdf1f8cdf4879a558282308eb33798bd15c8e8f91a9c72f538ee194a",
       "url": "72/91/14b9e2fd7a3f5e94df7e592227cf353a8330e658ed488bcce3281f48877b/mypy-boto3-worklink-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "de55366493912b944c6ed2979c1038a9d0361d8ae4aa5dde608819d2d524d160",
+      "url": "be/e1/d2b12d16db92f1c7ba531e2ed98570020682c59d47cf9d8eaeead825afc4/mypy-boto3-worklink-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a3dcc19fcf19c04d4950ab7709af4fd10672c1aa6164b99de923203399afd21d",
@@ -24117,6 +24129,10 @@
     "0.0.11": {
       "sha256": "f7533c96ce66cb8a84c58cdfba6a1ead4bb5c87fac1f13aebcd597f63353cce6",
       "url": "02/7a/f59bbdac7b10f2ece657fb100c2293b6f7cc88874fcd06d26c7cf9f5956c/squarelet_auth-0.0.11.tar.gz"
+    },
+    "0.0.12": {
+      "sha256": "1424f241d37c61afdaf0e78fb9eab8a11fb231b7dc906b6b821c714fc481373a",
+      "url": "57/c8/6690bea6c2bdbef81ad9cadc47e2a5cf839bb40ecdcb16def5acfc64fa35/squarelet_auth-0.0.12.tar.gz"
     },
     "0.0.2": {
       "sha256": "2661df3b85dc6d04bb541e66bf75c0cad3bc303c41bc8007febfb7279626750d",

@@ -1499,6 +1499,10 @@
     "0.2.1": {
       "sha256": "3e51aaf7775401c476046df83934fd5951e983d2deb18bed44ea0770dccace57",
       "url": "57/95/ab62604e0714018ffde8e7b16d57847a418f99543941918426110ed9e0bf/awconnection-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "28f0a4f2dc46957cb641027d8266a92352d990f0683bb7b1e0b1ba7e6a39e821",
+      "url": "28/27/d07341248cc662a48ad336642b4d1d40f53bedba616df2f71bc1058bf20a/awconnection-0.2.2.tar.gz"
     }
   },
   "awssl": {
@@ -7307,6 +7311,12 @@
       "url": "17/be/0b0a142707cc1479050267bb3bc74b03b28269fb83d3d44a07c81244dfee/driveline-0.14.1.tar.gz"
     }
   },
+  "ds-arpes-plugin": {
+    "0.0.1": {
+      "sha256": "7e3a1f6334f6f878ea0c227448bd31b7a63f06206e04d2d8c700f0e03111f2a0",
+      "url": "cb/71/7b2571e1a428ef76991cf7b8e765a83a1b090ed5e45635f46cf0a4f1f47d/ds-arpes-plugin-0.0.1.tar.gz"
+    }
+  },
   "dsb": {
     "1.0.0": {
       "sha256": "427e0d31d5219ad895fe832e75d8455328805fe134bef6212f5848e79fc3017d",
@@ -10825,6 +10835,16 @@
     "0.2.1": {
       "sha256": "ac2ca09a5f07dca7b7dcc421363a732f7dd7c214bf2f34dda9f59ba8c1d1f49a",
       "url": "c1/9d/16450b3306eca97b5d15ccd96fa7096c5e5aff90552aef39d90079289039/jailconf-0.2.1.tar.gz"
+    }
+  },
+  "jedi-toolz": {
+    "0.0.1": {
+      "sha256": "4bce7547190d1f407840525e32e611b776823bee8ed4d029e4354e0b03514bf9",
+      "url": "6e/62/05c0ee80a7c270977b736ef7a6402695053f79c59d5599ae617560c23183/jedi_toolz-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "3eff1a20b1fff66abe876731a29df65b3ecd833fa1055dabf2c4797a94232bf8",
+      "url": "1e/76/910e611ef067cd139692e0a2131648faaa70855b0f4087c637636144ab1c/jedi_toolz-0.0.2.tar.gz"
     }
   },
   "jellyfin-cli": {
@@ -15585,6 +15605,10 @@
     "0.1": {
       "sha256": "9894ded9be271a4bef59406f936cbcf7905ee594fe785d1747536379b85ee1f5",
       "url": "31/fa/c74187bda7f6775a0787fde989d041b298e9bab3b31154defaca365ef535/nlp-text-search-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "31c1c745745439be591872ea964cdaf2c289349186d24ab58e035ec689640924",
+      "url": "41/73/a04486e2c519280a96c43cb1ba0e5c51cfab13f09249fff21ae46a42e6f2/nlp-text-search-0.2.tar.gz"
     }
   },
   "nnbuilder": {
@@ -20235,6 +20259,12 @@
       "url": "7d/40/9048059be4d85d23ac67275c7f7201c7d8008801e9a2f2a5c2179af78edc/pytorchtools-0.0.2.tar.gz"
     }
   },
+  "pytse-client": {
+    "0.1.0": {
+      "sha256": "23828347956708fdb8f92dc640a0c5649ecbf238c2545a96e255aeb4bc91d92c",
+      "url": "ed/d8/04b1e3bc87088e1f6d13e90acacd9c43a81d34c11b7ee5648326d8d6d989/pytse-client-0.1.0.tar.gz"
+    }
+  },
   "pytunol": {
     "0.1.0": {
       "sha256": "ed4e302b3bac08be12b44e394038b171dfb8502d0d2080a50e72f2ef1ff9ba8c",
@@ -22073,6 +22103,10 @@
     "0.4.5": {
       "sha256": "96b1e066e2fd302a4d62141ea4fb2f9903ee3a61ff6d89323032e7572d1d8690",
       "url": "89/df/9e111f99a9e6a1b584302d17168a7ad61b7543730ea5b477570b4f46d2f7/selene-sdk-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "635c847bdf10419c17154603db0fd38a539ff4242a892350958b2c3442840d36",
+      "url": "f5/3d/334b5a925c41861f75ff77907ff21bb8aa183967e8189c38c1b6c0935aa8/selene-sdk-0.4.6.tar.gz"
     }
   },
   "selethon": {

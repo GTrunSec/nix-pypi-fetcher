@@ -2044,6 +2044,10 @@
       "sha256": "ae42271782efd8dd4a077667655fe7f23ae5c5c89b84e01d06db1fae0dfc5d9b",
       "url": "d3/2e/4fbdfa6986f288cd0498808533bd9e8b233b8b535fd86dd15cfd16193680/aws-cdk.aws-servicediscovery-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "1e94ff09e0b34b681e41d00e0b9bea40014bf3684149ba35aac4b28b7df3174b",
+      "url": "7e/78/da6749c24b6b86e8c439014f0f35ee2753e5810cc190678875a06fc04734/aws-cdk.aws-servicediscovery-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "56ce0d9239d88b46db296447e339d2494f7ce4f14d8fb19758ba46004e439a66",
       "url": "05/31/2b372aec0ab6452452b0c53fea5b52060d361b861869b827486e1d9fde78/aws-cdk.aws-servicediscovery-1.4.0.tar.gz"
@@ -10501,6 +10505,14 @@
     "0.11.16": {
       "sha256": "531ab21bbbff58efcedda2315e140734a2b7b93e276ff7ff5f8e16a1df32b35e",
       "url": "1f/03/c261a79d64824b7d3655e6e639f3484b6e254e5b7bb1b69846aadbef1dd4/halo_aws-0.11.16.tar.gz"
+    },
+    "0.11.17": {
+      "sha256": "2ef1707b1f69cea248898ec0f468e64c7560d249f94b4e496eeee07864e3f680",
+      "url": "56/cd/0abfc2d2b45cb53177c9d0e6ba870e10e14efe11d76a8c37437f29fff298/halo_aws-0.11.17.tar.gz"
+    },
+    "0.11.18": {
+      "sha256": "1abeda68017c2813425de6f46692e2ed9b22a23c939a9218408581a01cedcdb4",
+      "url": "c2/43/2da0b502b80f67c8af3ec16d69c5758aaa5f05fe9cdad12210b238e6ef90/halo_aws-0.11.18.tar.gz"
     }
   },
   "har-work": {
@@ -17873,6 +17885,10 @@
     "3.4.0.dev1587675558": {
       "sha256": "9debf712d9a831b45cea1c774b78cc40e5777d05457f0ea13c550f5481a8b455",
       "url": "17/43/1f4353c69ce0a49bfb8a6cc062f5f64b41792a52f377f32d38962e315c28/pulpcore-client-3.4.0.dev1587675558.tar.gz"
+    },
+    "3.4.0.dev1587763253": {
+      "sha256": "b5eb09c760094dde37c5473fed22fc703715d33892ad3cfdafe13099e2e9c66a",
+      "url": "87/d9/af65030a7bf8dc53ad6dd531d3787319ff2cacb07c9f3cf1b61d8ab4eeb6/pulpcore-client-3.4.0.dev1587763253.tar.gz"
     }
   },
   "pushwoosh": {
@@ -21283,6 +21299,16 @@
     "0.3.9": {
       "sha256": "47e49ad0ae0ce1a90d144e5938dfce81493617470b7cd5bea093e401840133f6",
       "url": "88/6b/0a2f8ecc8c3233b998d10a10c110a47888cd5e09aec7e4644750c7e69c85/semantics3-0.3.9.tar.gz"
+    }
+  },
+  "sempler": {
+    "0.1.0": {
+      "sha256": "d55b5cbdad863b58f50217235a123cdee8d5682f52fd1ae2af5d314898447190",
+      "url": "f3/28/5f5309a647d875f25704d4968fab76d984f22bdc5aa5d9a3bf93db1bb9de/sempler-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "edd4b4c49522c769e6732f11e02a0c16c461140f54ca0e74bad3ab6937b9d024",
+      "url": "81/fa/6ec5b37f0b4aad646d5851e2e9d27571af54054521aeb922f1c21d786dfd/sempler-0.1.1.tar.gz"
     }
   },
   "senscritique": {

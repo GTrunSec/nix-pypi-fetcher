@@ -2734,6 +2734,10 @@
       "sha256": "c19b2ea35d4f49271f41ceaaaa9c7f9adc29b36de5198a481a61d6a011576b75",
       "url": "ea/74/7063ee2695841fe1f1c8e6ac416ecc923ca255abe54245ce783007b2b6eb/aws-cdk.aws-autoscaling-common-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "1177426a13391256371ce4bc638728461cd72e2b452ce43653cfff8ec5b05520",
+      "url": "8b/9e/11734a54827f350a25fe5162449febda58c950499e85afabd12b4ad28d3b/aws-cdk.aws-autoscaling-common-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "12b9669e64fbb8f6dddfd7bada7b062f1771f80eca61ee78149681ca8a2d739a",
       "url": "d9/2e/2927e5ad7429f410040f807923014475b2ff596a14512973ad64d829d6bc/aws-cdk.aws-autoscaling-common-1.4.0.tar.gz"
@@ -4197,6 +4201,10 @@
     "0.1.0": {
       "sha256": "88e00d894249a8c0d5d9cb3670407901246634bab624bcd70c009dd64b6959be",
       "url": "f8/b1/07f0f1225e312ed77a51b07f48ea86815489dcc9582b93a4178af4a762c3/cfg4py-0.1.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "1977f34ecb3220bbf78b7d2eed4f31f620af31467c2e73367c9922b99709f6c7",
+      "url": "b3/65/628db1e4d109af7869223f516f748c188db8662730a30bdd1badf01bd5ce/cfg4py-0.4.0.tar.gz"
     }
   },
   "cgp-django-core": {
@@ -9434,6 +9442,10 @@
       "sha256": "edd4ab8fa60c4d6cbba635e3ca4ccca8e189092e1c9843b4d16fb7bdb3c497cc",
       "url": "af/fd/c7c123c40b22f4ca6282f4e079e83900d7115382cef08403877aef83775e/eyes_common-4.1.24.tar.gz"
     },
+    "4.1.25": {
+      "sha256": "9c65c8cb43d0dfcf07e9691bcf9cc093659ff6661f5326bb8228cd430643c660",
+      "url": "36/20/3421edb81d2dbe1e0c075ab5d3ad3a0f171c324311f632d3b434ec800700/eyes_common-4.1.25.tar.gz"
+    },
     "4.1.3": {
       "sha256": "6e66d00efaf116a223250cba5084cba7ccc873531f46476658a2f698391f7c64",
       "url": "45/de/d62019c4bfd185967a2653cba037a98ba86c02d40e78b322b36e0fa9e512/eyes_common-4.1.3.tar.gz"
@@ -13105,6 +13117,10 @@
     "20200422.0": {
       "sha256": "9a06e8df4275b544aa65edbb14e064b3a84ae89a8d8f0fe3e6d1f7a9f506c053",
       "url": "1a/3c/37c2229d139b77c9c8190209c7dbc52c96e00706df2a23e7ae887694c37e/home-assistant-frontend-20200422.0.tar.gz"
+    },
+    "20200424.0": {
+      "sha256": "f73eed87571659c0680fb4096fe079221b1c70c8c05be62ed14df8bc7afcd3c1",
+      "url": "a4/51/d34231d31646935a0127dc0c41eac5f4381a29a40a3e648cd46b1d11d290/home-assistant-frontend-20200424.0.tar.gz"
     }
   },
   "http-serve": {

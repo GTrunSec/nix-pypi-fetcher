@@ -562,6 +562,10 @@
       "sha256": "a544a7a300c93e3ea08e33438c44dc2b1fff3dcf7401943b77c09d646abcaf5c",
       "url": "88/63/1ebbc32692e3a2de5bf26976d244507bee88ff84ad77d0de97df96dca2ad/airspeed-0.5.14.tar.gz"
     },
+    "0.5.15": {
+      "sha256": "40aa508e3e8e2c4f67b6be86c81ef2c2bcf7b7962d181613b3b0cf75039ec0b6",
+      "url": "24/d8/181b2003c3bcf5879b653a248446f92e3a8acbfb33066edd6a4e9d28069a/airspeed-0.5.15.tar.gz"
+    },
     "0.5.1dev-20150215": {
       "sha256": "8f18075b4025aaad436ebdf2faff2ec81dc22c9e51edf1a2a3064d091f122484",
       "url": "dd/da/2618541db060b8303aa0f6f5c44cd5af55e8b8a4ba2b3e901cb8b2c52dbb/airspeed-0.5.1dev-20150215.tar.gz"
@@ -11974,6 +11978,10 @@
       "sha256": "f20b4b23c315b2ea1d9a3245c17759a900653bdb8c233d179bc24bb097d099f2",
       "url": "1c/f1/843c8d47e7e485222b95be1c130f1ee7553a66156c4d12ce0d4f5786770d/mypy-boto3-waf-regional-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "3ba31a94699533ef40c093ebbc1bcab55e54eb5927e0256531ff575f0c597c59",
+      "url": "67/fc/32fcdfdb37ff1f1a533f9382e87c746754ee767d641b2f28e16c3b85e469/mypy-boto3-waf-regional-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "120da1c28d5a1f0dd90248f7915bb10072c8e4f4f8c2baeb447c678b6d3ca922",
       "url": "c9/7f/23017bf176597c28673e2403f657bb6062491927e1393fb07ae40698dacb/mypy-boto3-waf-regional-1.12.5.0.tar.gz"
@@ -17315,6 +17323,10 @@
     "1.0.6a9": {
       "sha256": "c5619757ac219beae90027f67fdd46793e64513bd141057707e8d8ffbd6473d3",
       "url": "9c/fe/a148e09baef19ddf5576728ea5ed90cc2f7d2583c350dcdae8b0d96e77e5/pytest-splunk-addon-1.0.6a9.tar.gz"
+    },
+    "1.0.6b1": {
+      "sha256": "4ef17366302e18a5f4be4270d2f09bc09e1dfd74410376e8158980f7dea25ccc",
+      "url": "13/5a/13a828d9ee68eb1baef8e5581eac4b5e5ff4336f92219669ed28ed62c42d/pytest-splunk-addon-1.0.6b1.tar.gz"
     }
   },
   "pytest-twisted": {

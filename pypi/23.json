@@ -1560,6 +1560,10 @@
       "sha256": "149379de878f61bb6c70b2f786cfbccbe86c1001b7f3b99f115941c4d4c76c29",
       "url": "fb/a4/162cc169024526043d3646a701af42000b4bd7814c7d1d8ca41e2bac5da0/aws-cdk.aws-managedblockchain-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "a7302ed03a7898da475ce3dc0bf0e3012fddcac9fa1c6be0854974ffc054ec43",
+      "url": "e6/b8/03f50469c85f085e8437f0b9013503d34498d0ddae1ef82a2986237b9e36/aws-cdk.aws-managedblockchain-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "7f605019928ab68dbf8ad4a19e181a7aad365a3188ab980a49d1c787ac0bda09",
       "url": "6d/1f/f2ecf093b8b24ce64146642fa968505683379993db2a1e4ab57c261ac68a/aws-cdk.aws-managedblockchain-1.4.0.tar.gz"
@@ -3183,6 +3187,12 @@
       "url": "d4/69/2ec43550a550de0ee33638a8642f1326327a20e3a3affe4d13b20dca3183/cloudshare-0.1.1.tar.gz"
     }
   },
+  "coast": {
+    "0.0.1.dev1": {
+      "sha256": "1eadb09399dda60c4aee9390b43d0b113509047510d058890ae12cb28055ca49",
+      "url": "7d/74/9cd06dcc0a397c3095668be0551d0e042e85b9728f46f1cd465d971baa0b/COAsT-0.0.1.dev1.tar.gz"
+    }
+  },
   "coconut": {
     "0.1.0": {
       "sha256": "30a06624288383462d070a221c65a7be2225805549666eb28e7137d0abe02513",
@@ -4257,6 +4267,10 @@
     "0.2": {
       "sha256": "cc064a98dafd3ae47c5b81252eed29b230744bd739a81934650277d1523553bb",
       "url": "e7/ec/9ef456c30fc40c855b791394fb935442d26254b592612372377a08f3674c/d64-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "863000e0ad69aa76dce13304df24f30d42400b1726e9c5f2eef61dfd61fff185",
+      "url": "04/eb/3539189b10cb34d57e2535bdb9e7668a3e2548e30109efc1e659cbaa63a1/d64-0.3.tar.gz"
     }
   },
   "dash-cytoscape": {
@@ -9019,6 +9033,10 @@
     "0.4.0": {
       "sha256": "d49a12260493f417e3f2bafb4002334d25b8679c6602446be5b4a82412f19ce3",
       "url": "59/7e/e6e070f2d291b954b238fb56f8ee3bac3617b36706a105b7c165bd354398/heat-tempest-plugin-0.4.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "6ab5bcb9c94555eeddf7154e3f7ef7fd6dd3d27c70d2a7a7b8c9fec563821368",
+      "url": "0a/11/01a737a163b00f806de0955cb9e1899c7322942854683fad36f2b9c5c39c/heat-tempest-plugin-1.0.0.tar.gz"
     }
   },
   "helloworld-apoorva-vaidya": {
@@ -13271,6 +13289,10 @@
     "1.12.45.0": {
       "sha256": "a3614443f88ab9f7acb0a3a791cc681e2ee28451bcba6308651261eaae7e089b",
       "url": "01/cc/ca5efeb7d27577adbd2898c18387f36093a6ccc2d7135206ade2b22338e2/mypy-boto3-sesv2-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "5ae02d1bad18ab6d63e0245c060ad1897d64049c09f9dc2549c4ab29290ad50c",
+      "url": "03/64/0ef952ce7b86f91e20ec837008b39ab5b5bf48f60038a6c8c758ea9504d3/mypy-boto3-sesv2-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "8654229972ec0850b50594eaf8d65a10424bf0560a603ddf0abedbd6831c2d5e",
@@ -21499,6 +21521,12 @@
       "url": "02/b1/406c62276bef19ae5aab6b6244f0bfcfe5c497483c0b1703ee14a3d571a3/spill-0.0.1a0.tar.gz"
     }
   },
+  "spor": {
+    "1.1.4": {
+      "sha256": "cfa490b3e47787aab1bfa4a5267bb8ce8e90ad287ae662a48b99413e27f9e465",
+      "url": "22/73/8f9e7bffc1892cce4707ea9907d5e27b26df16aeadfb740dc55c87c2362c/spor-1.1.4.tar.gz"
+    }
+  },
   "spruce-project": {
     "0.1.2": {
       "sha256": "2baf0d0db3ebc761b911b3336a4c7524d98ce20e882a2a4f2205f865917c8909",
@@ -24906,6 +24934,10 @@
     }
   },
   "zaqar": {
+    "10.0.0.0rc1": {
+      "sha256": "8572ba2fba373373d59c930ff37233f5f67f8214c3bd232dfe5c4274a4556e13",
+      "url": "83/5c/4f6882626e05f647804338ebcaa141632e5c55373e68ad7aac2af1f0c032/zaqar-10.0.0.0rc1.tar.gz"
+    },
     "5.0.1": {
       "sha256": "283b0b9993ab2a6693dbc1002542e57486351e89ff70dd92894ec62cf49a7a17",
       "url": "de/4c/76cc3f03eae0de207f968e9269c139ad7390aea16fb94eefbd8bee94846e/zaqar-5.0.1.tar.gz"

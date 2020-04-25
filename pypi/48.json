@@ -209,6 +209,16 @@
       "url": "d4/72/6166edd3bb6c26118ba56ae1de5a60619c896e1b818cac1373536a5f2bb6/aiutils-0.0.1.tar.gz"
     }
   },
+  "algovis": {
+    "0.1.0": {
+      "sha256": "2de3fce30ce07cd663b9aaf70c489f23be229fccf6b1b21c572f77f4e4cb9ae0",
+      "url": "4e/cb/1c3c549d2c0b399caf749a7408b117b837e4f055e899ff8513618e72e830/algovis-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "d486d119ae40d834eafb1354e5d971e366fe9ad2c7c9732a55fef3679abd21d0",
+      "url": "ad/bd/be6e43e541b2f9b30bf39974c34ea37cca7db9edb576d87f0898a19c37da/algovis-0.1.1.tar.gz"
+    }
+  },
   "alpafa": {
     "0.2": {
       "sha256": "41c4987c8080d36c967230b8e77a8fcdfaca9caff163a1cc7874444c6b7ba3c2",
@@ -2695,6 +2705,10 @@
     "0.3.7": {
       "sha256": "d11cf7adfbd89cf632fb449c57fd1a1e8559896919ecc15d7a759da7606f94a4",
       "url": "a0/a6/41a07f6f7849101d9a60210bf8173a1eef9b59688922b5eb74225825674b/b4-0.3.7.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "516d0c139aa6c53f29a389f63cfca9c0d2ddca9e3c11de703cd2b02a384a4876",
+      "url": "15/ec/ff24c8e204470dbf4956170d45f25caf48a9da4cfabb6fb569a573832587/b4-0.4.0.tar.gz"
     }
   },
   "baidu-acu-tts": {
@@ -3509,6 +3523,10 @@
     "1.0.0.0": {
       "sha256": "a00ac31e087639cfdf2c35037dc7de275c6ae9d8712ee01df9696e31b847c9bd",
       "url": "8e/62/4aa8ba7398b793625f1a35101796f44454ad554af8147e355bd0f2c75a48/civics_cdf_validator-1.0.0.0.tar.gz"
+    },
+    "1.0.0.1": {
+      "sha256": "753e74cb9714d6348faede3181e62c7e4927684cde14c40ff1b9cdfe515d2bc5",
+      "url": "29/bc/9b51f0c912bce32da8407009463bb806ffe44aaad0a6e61fc8878d7e5e44/civics_cdf_validator-1.0.0.1.tar.gz"
     }
   },
   "ckan-datapackage-tools": {
@@ -6213,6 +6231,10 @@
     "0.5.0.post1": {
       "sha256": "0c0388ab759acee0c985cc9f52be34e619f5bfa08ec0df259d09455e3e993c37",
       "url": "23/8c/358d018bc2de570940575f4d2dd87b52e60b1525c464c7b6b915788d3758/dython-0.5.0.post1.tar.gz"
+    },
+    "0.5.0.post2": {
+      "sha256": "0c6dc8fbe70b6b51ab012c3604dbce67196f09710cfb838881da82468c3b59bf",
+      "url": "d8/71/6ea57ba4a05a159aa7d31772f69bbf2eaf04abd0fe3cd113cb1e275ad0bb/dython-0.5.0.post2.tar.gz"
     },
     "0.5.0a0": {
       "sha256": "ee98caf814ded203777ba393348c458c210cbda1889089e79a9fd6855615528b",
@@ -12805,6 +12827,10 @@
     "1.12.45.0": {
       "sha256": "2acacbbb5527e985376d8ef91476c98ef2b78e525f73fb494493a54802e46e41",
       "url": "19/f4/362d4fec087e75897e54749e0273671c376aed42a4a1f0252ac0e7665dfa/mypy-boto3-directconnect-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "0fffd549abf55a317f15b2366f3dd4c0437b738718bd6e0b34322659287d7ca5",
+      "url": "c2/e8/00c00676a83fd9867d1b9e16896f64da96028576bd05a75adfcbf800715e/mypy-boto3-directconnect-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "e424c04172b35b84fb9875c68248436929e82510cf842d18c563e04e75790fa0",
@@ -20877,6 +20903,34 @@
     "0.2.7.dev20200424032524": {
       "sha256": "9de1041471879e1b12b73cd8546d0be24f7579ea1604b36e49b9a676e6eaf4b5",
       "url": "0e/da/b4af0f8ab035c8169522a8c07ccd49806bca13e2b4fa9436bdb2f6d544b7/timecast-nightly-0.2.7.dev20200424032524.tar.gz"
+    },
+    "0.2.7.dev20200424172800": {
+      "sha256": "bbf397c0ff04393ec388c9ed01a5ab80fbcb2b7ae2abce13668bd73e17f3a04a",
+      "url": "be/43/fbd1ffa903561173f2095b49bbd4a94d06600b041bfff749afcda52d8ed8/timecast-nightly-0.2.7.dev20200424172800.tar.gz"
+    },
+    "0.2.7.dev20200424180736": {
+      "sha256": "4ebdfc03a897375069ed38d35227b632a80559d81ae82183c9d942f32ee0ed0f",
+      "url": "09/10/a9a3a56be43dcc61a046a7a3c4570945d1b30c6baa353bb052c3a0772833/timecast-nightly-0.2.7.dev20200424180736.tar.gz"
+    },
+    "0.2.7.dev20200424182228": {
+      "sha256": "8d3849239b8512e06c655260e80a63aee1f62052030b31d57d51c8242e6445b6",
+      "url": "d1/41/03f1384450ecf989bdd4256f7221b48a29c42df14fa2eeeb0662de37c90d/timecast-nightly-0.2.7.dev20200424182228.tar.gz"
+    },
+    "0.2.7.dev20200424182309": {
+      "sha256": "85e8cc48861f576d3ec4df36a715c3862721b5e464f417fec278613904a20442",
+      "url": "13/ff/0ed897f5a0ba32ffb9c0af99ebd6c4510441c8ed07089e617cbd420176d3/timecast-nightly-0.2.7.dev20200424182309.tar.gz"
+    },
+    "0.2.7.dev20200424194054": {
+      "sha256": "20dfad4b53dae39d34493aa3f21562203d4c32affa3bb326c5717a2c1a5f3137",
+      "url": "eb/e6/4eef10931b70ecb0e1f7ff0c862a471db6431ce4b06fee2a0d241745e52d/timecast-nightly-0.2.7.dev20200424194054.tar.gz"
+    },
+    "0.2.7.dev20200424213720": {
+      "sha256": "9508127f8343c23ebf349441d85b2cb65f642774f73e6c7f1114d47deefa8833",
+      "url": "dc/b3/bdfa884819a7143f87009c8cf32ca9498228c2c59f5b0afac08cf186e601/timecast-nightly-0.2.7.dev20200424213720.tar.gz"
+    },
+    "0.2.7.dev20200424225920": {
+      "sha256": "c109657d89b7cb36c4ecb15c6133dffc13826a63478b285201a627e2eedad41a",
+      "url": "90/c5/027e04dd142ad1f2316629598b935268a50b5174ddd347b8b5878d2dfa3b/timecast-nightly-0.2.7.dev20200424225920.tar.gz"
     }
   },
   "tmx2dataframe": {

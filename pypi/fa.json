@@ -1456,6 +1456,10 @@
       "sha256": "f884e44ffbf9d8736ea01cd76eeb781abc4cb37284e227a889bc5c05757d73ef",
       "url": "47/97/de7a1fd87bc18b621db54b524182fd3d614152090bd1371bc5f49be6c734/aws-cdk.aws-route53-targets-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "b9f9fecee0ae1d231a0642db9febda80d76d81c2297f9b77fe8e248ef299b8c4",
+      "url": "65/44/c06b97b5ccec8fcee72d43e5b3580f00391b67746c6055fc76e67ecbc437/aws-cdk.aws-route53-targets-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "dfb69606d11de22416bcb5909f8d7e5ec5573371becfa758fb304b82c3ac4afa",
       "url": "b2/67/41097fc3e6617205c89b4002a73edbb0c7d68929f286e90da44b34f36094/aws-cdk.aws-route53-targets-1.4.0.tar.gz"
@@ -6263,6 +6267,12 @@
       "url": "4c/10/6c5ad7d878b6f6c7c2fad5769541374b0cd42e2604d4d109c8a3601e002a/dash_color_picker-0.0.1.tar.gz"
     }
   },
+  "data-slicer": {
+    "0.0.2": {
+      "sha256": "eb55ac3bdd8893ccba235f565bb58b079e6d23ab9e06d29164d7f4293f3baf57",
+      "url": "e6/94/003d53c7982a0bd9a54963603d93813175fa356d1ddd329c0f68209e64d1/data-slicer-0.0.2.tar.gz"
+    }
+  },
   "datosgobmx": {
     "0.1": {
       "sha256": "d7063aed3a4f628d783639cff37908215865dad0529e1526921bec45970ad29c",
@@ -9211,6 +9221,18 @@
     "0.1.8": {
       "sha256": "02d52b7210d71852a1b556f89d5a0de0dd7d568e9591ba6740b198fb1cb705a7",
       "url": "4f/d2/7cf8733cb1653c50fd874a6c6fc41f30111702f55261562ea14e9a4916ca/ezsmdeploy-0.1.8.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "3b919dd61c4236740f3055dbdfdd6fc3c134d05c8b80a180711a82f36d59f4c9",
+      "url": "d1/fe/faa4222d47d1d3704260a41119410eb29e6337260c57217ce6fc4eb05934/ezsmdeploy-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "7b9e29a55071fde1f905b489fec12e909e91f3cb2d0d5f675e48634c8df9c284",
+      "url": "c7/f5/1ec9b29c14eca1f40cf9b0bf0b74d64c7b6658a47fc8ec5e5dbcfa828e06/ezsmdeploy-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "a4e7d6e96f3a953bea9d08546c68e8af5be3eed5f18d688ee611055bdeba2bdd",
+      "url": "db/cf/2f54ab6353d7abd070f51fa1400370460a179153605909fb3543ec67feff/ezsmdeploy-0.2.2.tar.gz"
     }
   },
   "eztest": {
@@ -12204,6 +12226,10 @@
       "sha256": "43a2320f049274d765c03f8250cf6d1cf58fa4fdebe63cf79756863bd58b0075",
       "url": "79/2e/bcd2b5067ce3e661997bd32c1f6e38d4a9eda57926b55d625b583039e08d/homeassistant-0.108.8.tar.gz"
     },
+    "0.108.9": {
+      "sha256": "384b3e6775c28060af56daa77ec4e99687f2fe9322719bd859c9d2a5ee634bef",
+      "url": "37/ac/cc2dba0d3bc5b3663aff9f3e6e789113ad1eacfab8dad210504cfafac5ee/homeassistant-0.108.9.tar.gz"
+    },
     "0.109.0b0": {
       "sha256": "885289fab02b5960efa44c1480937ae4602411ca4a34910056228654ba22a962",
       "url": "79/9a/7f37b43f9b0c5978739d49213bcff5a3eec588e7a9f6c40d40cea6d06037/homeassistant-0.109.0b0.tar.gz"
@@ -12211,6 +12237,10 @@
     "0.109.0b1": {
       "sha256": "7b8d1845897c3a374d75f6a6b6be65261ebe083c44cfb3e1c27cb37bec52aa64",
       "url": "12/48/99b798ff0edf5b3970c32cd46311ca92b2d5e8db5ef4b33425e5f1ee09bf/homeassistant-0.109.0b1.tar.gz"
+    },
+    "0.109.0b2": {
+      "sha256": "39f914ccfda7fd8a092a15d784459b9794ecb4c3c1ebe9a65ab872c7f6dd762e",
+      "url": "a7/97/42c28cb19320a4bd397de644ffffff773a00a1c185a0bf21fa5e1e1f2b78/homeassistant-0.109.0b2.tar.gz"
     },
     "0.11.0": {
       "sha256": "da8096b9d0e358e2fe949b53111146b712230f51191919a506f0a2d9ab1bd9de",
@@ -14515,6 +14545,10 @@
     "0.1": {
       "sha256": "04a2d756fb9a7a877330be57d4d035de2f77dd7a2ef5575ec57b7ca7910a83e5",
       "url": "50/83/43959e4046f35181a51f806bf36a61224a959d28624e0b250f8884701689/isotree-0.1.tar.gz"
+    },
+    "0.1.11": {
+      "sha256": "2b30dfe44cdb4795ae86c923ea37fb5674fad3ca5d36d5803a0c76198b422708",
+      "url": "06/13/afb6ebe0a914a9d05b002eef6cbfc5a5f6167759c04a5122a74eb3943645/isotree-0.1.11.tar.gz"
     },
     "0.1.2": {
       "sha256": "85016aa6d7366487a00bba0ee82f87982836c69f29f8cd1911bf7ff0c22182c0",
@@ -23195,6 +23229,10 @@
     "0.1.4": {
       "sha256": "b3bd68f9b3b8d230204e12434e84f155a1a9f2cb15e387cfb1e76739835dd297",
       "url": "5d/9e/4e6b4ce9f2bb7080db1e16d84c1f1f3ced5708c6238e105c17bba01fe076/roper-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "1a0004faed105b66cebd82e0537736c15351a6c11917b6e5339093e80f148a5c",
+      "url": "42/5e/20383027294402496c4e62dd43aac2ec563456e9628fb212c47d1ac8e9a1/roper-0.1.5.tar.gz"
     }
   },
   "rottentomatoes": {

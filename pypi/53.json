@@ -2878,6 +2878,10 @@
       "sha256": "6b4fe4033c63aeef5b94bbf5e8968ab15251b6aa7e0f40d88e303961b28915f6",
       "url": "c3/cb/2a558fa84c495c5da3d46a904e618424ff2401863dd4a413c8092b10aad7/cardinal_pythonlib-1.0.86.tar.gz"
     },
+    "1.0.87": {
+      "sha256": "f10ab3372783fa458f82f5ab9c35df3e9b97861c23cda65e1c3d0064139be250",
+      "url": "99/72/12a467c7a341df22e3f5891ee3ea19a67e8f4d69a74adcce18db4a7527ef/cardinal_pythonlib-1.0.87.tar.gz"
+    },
     "1.0.9": {
       "sha256": "40e9724520b73c9db3eeadf132e3b7a22606f0130dbdf7207037519e5570f36b",
       "url": "f7/79/06655226615b5f51cc566965de121d0506a44caee8444f4ebfc551fb4b11/cardinal_pythonlib-1.0.9.tar.gz"
@@ -8743,6 +8747,10 @@
     "1.0.2": {
       "sha256": "11968fb74fd84d425d7b38ee7d1850dfcca567b3741048d1d62a612031db89d8",
       "url": "04/81/aafe7840218a190f8ea875ce43442d1e281d728e8925fc2954944914214c/eventio-1.0.2.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "1250e017b24280897213daa23208570d8c585d6040518b23f76c88990dcf85d2",
+      "url": "b8/f0/aa9186a03149e5c23dc7556c92076dd2c57a7606795061779a416a73a30b/eventio-1.1.0.tar.gz"
     }
   },
   "events-dock": {
@@ -10541,6 +10549,12 @@
     "1.0.7": {
       "sha256": "2e25c067387c6cf0c765d26a15cc38337af7e7a55477875a77a9df76fb7d5069",
       "url": "17/c7/91af9daad7372a3cd2797e47e5b623fc817bcd4585bc385edec964e8eca9/github-console-1.0.7.tar.gz"
+    }
+  },
+  "gitme": {
+    "0.1": {
+      "sha256": "1bd022ddaa00147efa57ffc80b830dd1484ae4173562829757adeb6367f62aaf",
+      "url": "51/0e/9c461ebf76ab5c66386977b151981b252b3f097562dfc97b83ef4681fad2/gitme-0.1.tar.gz"
     }
   },
   "glstatus": {
@@ -17521,6 +17535,20 @@
     "0.1": {
       "sha256": "400c30c7587fb84e36f30ddeeef193fccb4de64372aec95db5db3d4545fb089e",
       "url": "3c/d0/ab2a0980a6b7a6a6831ab3f7722448bd4a0c026d98891bd44c1253d12139/pathinby-0.1.tar.gz"
+    }
+  },
+  "pathy": {
+    "0.0.17": {
+      "sha256": "a5c09d7967a4a6ee0e3b44079e71353fa7a21575c7612ca72e663e76c62d9cfe",
+      "url": "6a/d3/b10a8183fb88a8ecb9734096aa5229fb56e64b87b9fd40bceec2c76eaccb/pathy-0.0.17.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "f7b75ee87070ece7102d7bf01930010e79a16840f468669b465ddc77414505ff",
+      "url": "c2/6e/5edc318db2a1c061af8e5df3c2dd7904559f0f33803aa97b8f6da4ed2316/pathy-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "55f16f1970d694edf3295dc43873936d1838d41edeb99f42bc76907499da0d66",
+      "url": "c9/5c/9eb55a410ad19c13c53619c90a5b8664ebb5404cefe1dcea5d3925e143bc/pathy-0.1.1.tar.gz"
     }
   },
   "pbraw": {
@@ -26963,6 +26991,14 @@
     "0.4.4.dev769": {
       "sha256": "f87361dd7d424a8791c0a5ff076e11ba30e3135996c4df97ebe7e6d4ccf4f527",
       "url": "c1/7f/4403644a594fa9dc2dca822cea8b1085635e4bc355048221f10cc3f9ab1c/transiter-0.4.4.dev769.tar.gz"
+    },
+    "0.4.4.dev773": {
+      "sha256": "5a4b7d238bbb490cdf20502c9996ec6e4a6f92c0fadbc2ffe03b2bc04aaa72c4",
+      "url": "c1/2c/53811f336cd4854a4e5255c8057dd38263dcbfa992f3d7e3bf2124a19df3/transiter-0.4.4.dev773.tar.gz"
+    },
+    "0.4.4.dev774": {
+      "sha256": "2cc54b5f9872ee09f8d47dbd26e4f8c9ab15fab5dc3ae5f771e01002e7185a3e",
+      "url": "86/fa/e3da953f127a6c89dbe552fa00f6c7c2426c485f8ba0e888d9e7bebec26b/transiter-0.4.4.dev774.tar.gz"
     }
   },
   "travis-sphinx": {

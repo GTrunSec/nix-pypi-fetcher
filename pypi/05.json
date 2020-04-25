@@ -17182,6 +17182,10 @@
       "sha256": "bcd1edf1572f9cdc708b20afad0449565759a557a0a668fc853c4238fd50f84e",
       "url": "7e/fe/ba16e87cac91e21178be018295e9d02a1dd9c7f6300d099d73e20d11eb79/quadpy-0.14.7.tar.gz"
     },
+    "0.14.8": {
+      "sha256": "6a76ffe82245eb3e15648240dc203d77dbfda068f068c40bb0aaab7639a2d78d",
+      "url": "56/3c/5a41d8529e6e62923f1aebbd6ab2fba43d8b6a993ad7fe5b1ccd26c8885f/quadpy-0.14.8.tar.gz"
+    },
     "0.4.0": {
       "sha256": "efb165428f481c526205740b4604b0a026df430887862173d0335123c60cb495",
       "url": "c7/9c/a8bcfd05d93b9136e8714ad0bf1620d25ca1f091b3db0630b3564da91ff6/quadpy-0.4.0.tar.gz"
@@ -20725,6 +20729,46 @@
     "0.13.2": {
       "sha256": "8b438b88281bfa6cd232f59c39c2a565cd06b77bafc1c66eea13d9b11ba23ee7",
       "url": "ef/0b/94812d0fcdc5bb99ad6e03ceedd94bc2e6a0926274f168360976018050ae/thermosteam-0.13.2.tar.gz"
+    },
+    "0.13.3": {
+      "sha256": "e657b54c6ef8dca757c60e0304f2ce3cf87ae7b3ceba42d045a6d6e0cd5ae8bc",
+      "url": "5a/f9/32423177287cdb7ae4a1d42c84e23837a1c6f1b00651f20483e72337dfad/thermosteam-0.13.3.tar.gz"
+    },
+    "0.13.4": {
+      "sha256": "c1a7fd706f2e22227e37fa11b322c0bc8534b5e65784dcd695329a87b66fe4b9",
+      "url": "8b/9a/a649bdd4c513b03cb6e168261f834f20d4bfa63ab662be1df7ee19ada8be/thermosteam-0.13.4.tar.gz"
+    },
+    "0.13.5": {
+      "sha256": "2dfacdf43b2bc4db48f8be5cee44b2a3ef9d677fc34af690bf37a15f4d235d31",
+      "url": "f4/b9/e8bca4596cfc3555fde9f139cd01dfacfb7096af52bc2376187c84915a47/thermosteam-0.13.5.tar.gz"
+    },
+    "0.13.6": {
+      "sha256": "1a81b363b04cdb99d5a0ed7c80d19af78e0fd651925a7f9d1c63361f6fe36608",
+      "url": "9b/5a/8d53ee9b77dffeb78d18e5ce3653705568a827ea1ff7d2c7d3437977a0a8/thermosteam-0.13.6.tar.gz"
+    },
+    "0.13.7": {
+      "sha256": "e55770c0ac8cf8afedb939164cf31b29157ab7f67a62111f0ae9c266b3716aa8",
+      "url": "22/15/6b9f80b157d1ba5a340207a963ef55ab8383879068a8329702407be5f54c/thermosteam-0.13.7.tar.gz"
+    },
+    "0.14.0": {
+      "sha256": "c2457ed521857162bc5bbfcfc3e9a8ce9f01bebd5f76c057b84ec71a1e7363db",
+      "url": "fc/e3/9894e6c774f0a49dbb5869bf9f3c8b4885d48bbd85eda3aef38da62f7862/thermosteam-0.14.0.tar.gz"
+    },
+    "0.14.1": {
+      "sha256": "ed069930f6f69863c10e64ccbcaf863bdcb3f1170bc843ca2c686430bfdbf7d1",
+      "url": "43/7c/187cf470a5a4efcd90b840a12564a21932fb4cf7bd83a95b761ce705f635/thermosteam-0.14.1.tar.gz"
+    },
+    "0.14.2": {
+      "sha256": "370d5893f69cafd4a96075db34b677ba7d682fbf54e4f8241e95cf3515ba516d",
+      "url": "ea/e1/8df3da88cf629223d17da87249a7c65fd06b930d10d77645292e5599845d/thermosteam-0.14.2.tar.gz"
+    },
+    "0.14.4": {
+      "sha256": "a9077d563d4be4429872d100c4f40de7f92647f0d9a7bf31ef520b2dddc03f0b",
+      "url": "86/ef/8fa3be5e7532773551e9e3d598eaa2950948a7918d9321196cdb60c58c5c/thermosteam-0.14.4.tar.gz"
+    },
+    "0.14.5": {
+      "sha256": "086dfd9f2c5e19f13d920c5a9551aa06b4158239d8affb98b307ce3e1db8af81",
+      "url": "58/ee/65960d4e73024e9ef2712c50078668e53d90ca2c132ca9a85d5244f4b834/thermosteam-0.14.5.tar.gz"
     },
     "0.2.0": {
       "sha256": "5efc3910c9bb20939b864ed9a7005fc2109dd284978513b1443aa0dd62d04e9a",

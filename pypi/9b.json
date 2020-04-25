@@ -3533,6 +3533,14 @@
     "0.1.1": {
       "sha256": "dc8e2880324536ba67634383919d3bb89ae7023413c45575c58dea9aeec225ec",
       "url": "5d/ef/548f2398b4da45cc13bb4d0c86202d26eec895a993a9f636180517f93da5/color-space-converter-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "f821db34a4bf76d7db4b18e6905b73157277a88599395bd91f0b6a8c4b93ced1",
+      "url": "89/e0/d3fea84fcfded66977ea7a6b6e94202d2cd2d18da0adea57cec3894bb47c/color-space-converter-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "c6a7df51fc89f2194f6cc370cb597aca8d1f769d917636b938c6446ee234025e",
+      "url": "63/16/e1ce2368dce191b703810399d24d77db9a0d34fb0e41c53f7a5f25d30be9/color-space-converter-0.1.3.tar.gz"
     }
   },
   "commonutil": {
@@ -23855,6 +23863,10 @@
     "5.1.0": {
       "sha256": "b0a14c9c97ce499071b1f022723a939032feaf22d3a659e0f1f439fb19e322ed",
       "url": "8e/a8/56b94a8ee7166e161381d0b9a965adf965671f7637453aa5f38fc94ecf3b/valid8-5.1.0.tar.gz"
+    },
+    "5.1.1": {
+      "sha256": "16a941e0f90736887e96b17a90682415364c256be0493b861b601016f9aafbbe",
+      "url": "61/1e/75642f5fc83d5115ef72f20aedb7de67c094e85c2d41fa3feb3b6c3ed033/valid8-5.1.1.tar.gz"
     }
   },
   "validata": {

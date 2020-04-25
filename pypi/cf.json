@@ -697,6 +697,10 @@
     "0.5.0": {
       "sha256": "75007e64c927a1a9399842d1b72212eca7c66633e67df62671254ccab2022304",
       "url": "4e/b7/21b7a7577cc6864d1c93fd710701e4764af6cf0f7be36fae4f9673ae11fc/amazon.ion-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "18a943770e14e09cc93b359b9d59b43f4c9f71a91f8e9065cd32b6fdd978b56c",
+      "url": "ec/f4/69278ad096b4f2404c605a21695e48a7ca55f5b5a7475d70866bc22f4c58/amazon.ion-0.6.0.tar.gz"
     }
   },
   "annotell-cloud-storage": {
@@ -9667,6 +9671,10 @@
     "0.9.96": {
       "sha256": "3551c5a8be0124b08ca4963fb8fa885133f93dddc9ed5027bb99f83d29055129",
       "url": "3f/74/84755689eac30b8166a9e4decca08b786ab7750e11ac5cc1da7fe6b07c07/gawseed-threat-feed-tools-0.9.96.tar.gz"
+    },
+    "0.9.97": {
+      "sha256": "3f3d747441a4c3d32e34d6c2f26c294ecf0797826c07c224a44310486f95f7d7",
+      "url": "9f/60/e5f2c21f72559795eb4dbd0f01ac5e3e82ca558688b8b188257854a958c3/gawseed-threat-feed-tools-0.9.97.tar.gz"
     }
   },
   "gbin": {
@@ -11011,6 +11019,10 @@
     "0.9.5": {
       "sha256": "1bc8682129b566e6ef3db38c6e38862f1e739d4e458c0c75e287b23f7eacd8b3",
       "url": "59/ea/15ad1646073e9bf7ccb558e18ced26a8d853470d4eda0a538ee8d03ad5d9/iscc-cli-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "fc139316084665be9caaa78635980ba6e9828b74bfd1df87d37cc0eb51a2d53f",
+      "url": "1d/71/fc68abc949f62d09a318bbcb556201b169c0bc99b22aae0ba169f30717c7/iscc-cli-0.9.6.tar.gz"
     }
   },
   "isotoma.recipe.apache": {
@@ -16348,6 +16360,10 @@
       "sha256": "c0244cb8b97ab3e3cf8229084cb8b2ac43935968545f74a868d0b009e1d44b84",
       "url": "5e/4f/81e1ae12efeff22cfa52490d4c11fbb855c299004874c477475f8d01de9b/mypy-boto3-athena-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "b77b017ea52d3169726535e86ccf4d23a16b516f820307ee7e5ba2fc94b28f36",
+      "url": "a9/d0/6ae1f939847e3fd93ba30c6fac3b8a6dbdfbc10e1ad081c40ffea93d7f6c/mypy-boto3-athena-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7182f717e3da9e75b2c06bc61b54567900c66596348de9e36fe5b2b4b7d6830e",
       "url": "c4/29/a611474a661dfb2b7f161922856cde201127fcdc3d1bddecbdc974422e44/mypy-boto3-athena-1.12.5.0.tar.gz"
@@ -16870,6 +16886,10 @@
       "sha256": "6d5af52cbc4f2b9aa6ef009190167db3cc709455f48a6b9591d75badef103090",
       "url": "44/48/387af2f54a76d68c73d46de1af0975b80363b05f589d567485778d14e642/mypy-boto3-gamelift-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "e85bce3ff382381433fa04a21af3d8096eece97a840b8e47fd2490814082b235",
+      "url": "8a/3d/f9872ccba122c82ff3fb47aac59e806403099136cd84494d9fc4491fb55e/mypy-boto3-gamelift-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "b85946f69f241b3c79e41fb58b4f15351e0f58a081e16731c1ff3a90ba0170e1",
       "url": "cb/7c/7b18963f8d9284f56e72f476a506e33c766dccbcaa513518d28bf554a19f/mypy-boto3-gamelift-1.12.5.0.tar.gz"
@@ -17391,6 +17411,10 @@
     "1.12.45.0": {
       "sha256": "50d08f1566a87d79f1933788171a39e4b34ea898bf71e5e18fba53d993c77653",
       "url": "73/1f/b981c182a134515327e02b877cbd1309830b3df8bcf4f9566be00ca2c812/mypy-boto3-route53-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "244820c87be599c17a3077162b1e2c34e978cea24801b26353c46f4c3f90e776",
+      "url": "3f/ce/fe72fc332e5dd70b57f5b669498630a4d7c87a4bf054546f933b3b33ad7b/mypy-boto3-route53-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "8c9466e78dd4399db6f6a116f92079bf7f0d4efece7f47482d8ee1e85ef38839",
@@ -23847,6 +23871,16 @@
       "url": "b7/05/1ebf8f5de7a10a554dc6d9b9b78ef99de33ed54bd51064f41b047613fa22/room_with_a_view-0.1.4.tar.gz"
     }
   },
+  "rostering": {
+    "0.1": {
+      "sha256": "47e437269906e9f44b972567e1e4a657776c1bffa862932721722af306690bbb",
+      "url": "1f/15/5fa6fab257cb290c3eafc534a9f468f531189226ea87bc722f7350dd6818/Rostering-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "816b1fed6d4ad7f2739146b037f3bf0365557672f1e66cbf9098c6e11b9cb8e6",
+      "url": "a9/72/4d039fb924ff9d1ebd8211eca6b36b7494924102c004bc8f3f9be065a06e/Rostering-0.1.1.tar.gz"
+    }
+  },
   "rosterserver": {
     "0.10": {
       "sha256": "af8ee3c75766b74e2ddb04aa76a519d4152f9fd73ac4cbe847d2be6f30d464ac",
@@ -27919,6 +27953,10 @@
     "0.0.1": {
       "sha256": "bbf177921732d3f9173c03630120a21f18f0c85195b85a2e5482614ff33ffe9a",
       "url": "68/b5/4a40be40a1f5bedf6281a19e226dfd4c9635968cc3bc33ca05b77dcc4805/tuck-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "331100f470533d4b699d454ac58f0f32d831c7465d8013fb7b51041151b08d7d",
+      "url": "5e/1b/a90a11955b0ac88f2149f97b754be9f8c50461361fe85127c0db10ac099b/tuck-0.0.2.tar.gz"
     }
   },
   "tudou": {
@@ -29957,6 +29995,12 @@
     "1.0.1": {
       "sha256": "478575390f4df785cb297041c7368bb00384bd4b984188c169f2ea1f9dfad47f",
       "url": "2a/b8/ee39d14f37eda3c56ebb8dbd72acfd22218b64cb6c3b196bfbcc0c2ea2b2/zopyx.tinymceplugins.tinyautosave-1.0.1.tar.gz"
+    }
+  },
+  "zserio": {
+    "0.0.0rc0": {
+      "sha256": "eaaaf56c6d1d1bd4f3a0fade3179ba8b0e1e9c460c1246c23f001372712ba16d",
+      "url": "c0/b3/31aad61b65a1a79981bf8511de5b10ba25589cac89732912d8824d888dc6/zserio-0.0.0rc0.tar.gz"
     }
   },
   "zz-test": {

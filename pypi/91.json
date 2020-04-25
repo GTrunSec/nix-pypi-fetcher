@@ -13622,6 +13622,14 @@
       "sha256": "24bac433edef83494ca8f51587030753b07f16b52be9de8c6ce7ef3e8c1b1c75",
       "url": "2b/22/6e295cefb94d5ebe8629f867c736ba73ad0e75ef1ce3d0b8d0f949ca54e7/Mopidy-Sangu-0.10.1.tar.gz"
     },
+    "0.10.2": {
+      "sha256": "01c228bc696cc7908eb471a87f90bbe57beb88d08037418eaae2444bb33ec2a3",
+      "url": "8a/2b/44ebbd07b7c599f721e5722a3c5e98e792f3de9cb936246844dea8211c74/Mopidy-Sangu-0.10.2.tar.gz"
+    },
+    "0.10.3": {
+      "sha256": "66128ca5a2faa9e244307edf5deb0bc46aab0ad1557045b3dab4e8ebaa3fe21b",
+      "url": "09/01/b341fcf58ece97fa351056e128f1f3409fc03c873c1650c190f8775ffdbd/Mopidy-Sangu-0.10.3.tar.gz"
+    },
     "0.4.5": {
       "sha256": "45f3182cf72e0cbf1e2bf1ab1cc03052fe91699a03e8df810b3f46c690f14c24",
       "url": "6a/44/a9ce8fc073fef59d978fa9e4006466c8c53e45b2792d7e93c0ed4163359d/Mopidy-Sangu-0.4.5.tar.gz"
@@ -14676,6 +14684,10 @@
       "sha256": "ca8a9a58246b8d025d43a86dc7afc6100b4e2830cc4e02eac61aebd421b2fd20",
       "url": "50/94/95bd65fdd61d745fee9d0f38142b109da715811ae2c656a9c2d17adb2f58/mypy-boto3-logs-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "e46e520f124daeaba53d9f4bc8d8bcac4b2539e0a1b5630c36383da607c389f7",
+      "url": "c5/71/79958ba08469e222989b8825fc95a53440e0e05665876f6dac0e0eb466cd/mypy-boto3-logs-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "83f2dc2a7b2e595432789bca2151766bc04021d73e3367963698f90be4b5cd85",
       "url": "f2/39/7deafc2e587784497b90129a5e786c848e8f5151dc82e0ca031e524a4ff6/mypy-boto3-logs-1.12.5.0.tar.gz"
@@ -15194,6 +15206,10 @@
       "sha256": "a553c749919bb6a20571eebec91545cb94df860df76e8c75a695b54bf1ed92a8",
       "url": "aa/3c/6e8bba1b394d8f1deda9f2e30fdc7c92702bea921e19e069e6991460c5f7/mypy-boto3-s3control-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "63f5fce48004573a59b68e233a734590ca38808a21408b2eeecbb1086174e9a3",
+      "url": "95/26/9d9045b71dc5e40a5c234aa1f6a97b0cfca8adf55a7bee94441ac83e4034/mypy-boto3-s3control-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "3d97dff8b2471ab46f016999866de6cff79e27fb1eae68a85d9e00a0be17d3bc",
       "url": "14/0d/23605dbd35d505f0231a9c66044b809b9d54188117c37e6d80591739fd22/mypy-boto3-s3control-1.12.5.0.tar.gz"
@@ -15711,6 +15727,10 @@
     "1.12.45.0": {
       "sha256": "8f393b14d87aac460f0e59c1875977d65ffca3a9183f8a88d43e44f7dce0ed3d",
       "url": "96/2c/19320685bcbeb91423edef7c92443c7ea0d7fc4cc66c0d0312a633384694/mypy-boto3-workmail-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "e35ddfbebd99796967850224298155de084a9444683c815ae919c978efa338ca",
+      "url": "d6/c7/6c98cc78ab7f1a07969aea5cc9ab0c65dd7c888fa1ba09becc3f30a57782/mypy-boto3-workmail-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "79d03f4af71f45eb8779b72253935b69b1bdc7a923390018f098bb8597ea33db",

@@ -1434,6 +1434,10 @@
       "sha256": "c2b62983462c57d2c60f4d841868fbf6a3c1e099b0977042b264d1d205fcb62d",
       "url": "98/80/70bbb602e8c5d1e61238afa3f8aa8a7b2da64aba911533b41de62992d8e2/aws-cdk.aws-datapipeline-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "984d529931334e038afd85e71c955bf5f0cc85cc868eb7ff50bfd8820123d376",
+      "url": "5f/f6/8a6843af006483e27a52733dbb558e147be7bef5f5b34bfb5f31e004d8c8/aws-cdk.aws-datapipeline-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "dda4668ae54772bf0706a7dd172d53a639186f1aba91a8aac82e71aa94b16b1b",
       "url": "67/0f/c2ede6287e71bc0ab38918a7c2ca053bc77d8359a3edb6c87be27d17d929/aws-cdk.aws-datapipeline-1.4.0.tar.gz"
@@ -1687,6 +1691,10 @@
     "1.34.1": {
       "sha256": "cc1a3fc9edda6a98b498ee23bb2d55b2b4a5b5448950548b9e58d31c8ea1b665",
       "url": "62/d0/b0caf128e346943da17119249c16b4647c6e22e8fb9601c48238b0b9b1d7/aws-cdk.aws-sqs-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "36cea424ef2f3816b9b58bbe78139415f687e3150a9dc81307f1bb345558c2c7",
+      "url": "57/37/ba61b421c7a6aad37290df06098ce477aa616d4fe64d48a338be29bf7c6e/aws-cdk.aws-sqs-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "1de52681c8999d288f27df0bbf9d5d12a7345bdaa022018d3f906dbc91a78f51",
@@ -8504,6 +8512,14 @@
       "sha256": "71dbac60b5e9d1974b5f71141aff9ee8177dea3c934c172605489f9f3d588929",
       "url": "28/50/b0ec1345dc8bdeb7fd4ced1af82cf0ca168aefe92bd1fbd0bca721efbcd0/gw-md-lib-0.10.53.tar.gz"
     },
+    "0.10.54": {
+      "sha256": "cea93f44a0e8f26a48e7739b886b61a2bce74d7eaf60b586e0b5d440eec5de0f",
+      "url": "11/a6/36b7e25f99045637465167d92a6d4cc0f986ac937ca557fb2697f7af2e3f/gw-md-lib-0.10.54.tar.gz"
+    },
+    "0.10.55": {
+      "sha256": "323480f9f63b3fd0de48d8687acd32a81d27bf1c3fe5fa802ef1873f1ab3fe6e",
+      "url": "a8/a5/5c994e8159b50023d83178595b412b35a96bf3af710bf3dd90c47a0ce2bb/gw-md-lib-0.10.55.tar.gz"
+    },
     "0.10.6": {
       "sha256": "74b51505e73dfd000fb60ad350294898521109bf61dd73b7dc6778d8517fa6b3",
       "url": "20/5c/df7c5ad94e55e6420c4a5809564fe931d1326f5b96c63328866319395f3a/gw-md-lib-0.10.6.tar.gz"
@@ -9295,6 +9311,10 @@
     "0.0.3": {
       "sha256": "9f032d6867cb0cf0a305d9d67c5f0bb1ef05f942c7a29d3dc7aeb26080a3fa08",
       "url": "05/07/8d87cbcb90789506b03513957bf9a03be80375704d30731fd9aee4777881/ingraph.aws-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "1a458d4268f67016a8fdfde7bfce422ac3fc5b7bb3d6adb49d3f4436d1661a05",
+      "url": "0c/91/ac1ec499ff3b70949d9619a2b84324e689d2b89cae51340be1af9521cc84/ingraph.aws-0.0.4.tar.gz"
     }
   },
   "iniconf": {
@@ -13256,6 +13276,10 @@
       "sha256": "983cf35250ad38b44ccd5aaf98e26571fe8d11c1cb4dcd867bb34099215c0234",
       "url": "14/58/8f7ff0912af44ac5d21d7789fda447650ced4e752498db459c5344ae1f1f/mypy-boto3-sso-oidc-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "1db7ceb6ee8a8baa137f5605dff9f389e74d4fc465fa56764ba27d320300fd9a",
+      "url": "97/38/c9697965895896f182f1411ae4767da7425ef0a6e5000e9d0e67bb68a3af/mypy-boto3-sso-oidc-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "df9e9e4da554b67ab27813af9a6f91a5a9b2285dbc93fd82523d53035be38203",
       "url": "e8/16/d4d92f51c30e2d484146e2dd175f2dbc519312775a6bbdc0b27793b1cd27/mypy-boto3-sso-oidc-1.12.5.0.tar.gz"
@@ -13527,6 +13551,10 @@
     "0.10.2": {
       "sha256": "11e90badfccd6b55893651bc8b920fab74858a52a1af67a75dd2ee5776efc2b8",
       "url": "2d/7f/b8d9af01cce9a14b735c949ae99591b66bbdcf653539cc0b98e1e84b566a/netflow-0.10.2.tar.gz"
+    },
+    "0.10.3": {
+      "sha256": "237600cf492046476ca657dd308f7c8d0599be33b75277fcfd939d68aa35d649",
+      "url": "a4/8b/4ae1d71c8ed710f7db147a70e25914273573de529559295889491b56ef76/netflow-0.10.3.tar.gz"
     },
     "0.9.1": {
       "sha256": "b815f833dd7c94bf3116a8846c6cd479d4ec90d61d0db53202674b26fe936aae",

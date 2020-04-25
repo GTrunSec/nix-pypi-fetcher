@@ -3177,6 +3177,10 @@
     "1.34.1": {
       "sha256": "ed82a4e8215fb01adb154a298e86487eb4b3cd0047303d670057645ccfa19c12",
       "url": "de/8a/86cac8606b5cc93794568017ea02510194e16a9fb76cfcfd5b52c7965082/aws-cdk.aws-networkmanager-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "b10ad1f3117a42e81525ffa8735d76af2ca8c3d5953bc2cbd70e20b8337fda94",
+      "url": "e7/c7/4430affb980693c7ae768c36c68c604c6e1c3469da4650d4203f71e6aa57/aws-cdk.aws-networkmanager-1.35.0.tar.gz"
     }
   },
   "awshelper": {
@@ -10789,6 +10793,14 @@
     "0.0.20200422": {
       "sha256": "c52433d6aba99a65cb3be2cbc85027ed778e5e8c114a19e04ced46ead5cf7f87",
       "url": "c8/87/5010dd240673d6c446ed90f850a24c4d8f9801623143cb545ae4d9577895/HPI-0.0.20200422.tar.gz"
+    },
+    "0.0.20200424": {
+      "sha256": "bb31b99a37d1d698afef57c7425378bdc3e9d0e488306edc2bfe05276dc317a2",
+      "url": "e2/85/a3ec38d7af984862a79efb1ad25fab0b2e8449039b1f09f136b31f9cf01e/HPI-0.0.20200424.tar.gz"
+    },
+    "0.0.20200424.post1": {
+      "sha256": "94893b141e992a9437c67380ff1941903e49ed717b06961c153890df08faca3a",
+      "url": "65/c1/a40da9c0e3b88ad0252b2911d2504fa993f86c02aaea9099533cac4d9ad8/HPI-0.0.20200424.post1.tar.gz"
     }
   },
   "html2rml": {
@@ -21583,6 +21595,12 @@
     "0.2.0": {
       "sha256": "35b4a982b1ab8f63b6db90afdc196c10345cc4ef2582d0a13333ef62fb3fdbd7",
       "url": "b6/f2/4a7cb5858689fdf8fa7c4fbbfea7821ac3feafd17252da18ca19d2ff2fb3/simplestats-0.2.0.tar.gz"
+    }
+  },
+  "singa-easy": {
+    "0.1.9": {
+      "sha256": "c676d4e7903c523c1f95862d84c70babc84c2f2425de941d2e0c782c38d46a2b",
+      "url": "ac/ea/370b80caf0a83d8d1e8f0938d32c72e5779dc223a857faa0efcee69cb1d9/singa-easy-0.1.9.tar.gz"
     }
   },
   "site-pinger": {

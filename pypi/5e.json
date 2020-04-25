@@ -2204,6 +2204,10 @@
       "sha256": "766477bd5ddf397adb3517ea8d03d4452d450fa048d7c8db34c20fa86237938b",
       "url": "c4/ee/aefc163d5cf931cae991ed32336fd2d6bab2157930c6a6fbfe5b7faec90c/aws-cdk.aws-stepfunctions-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "9a861465903160a31afedd97717c0ab6c2951b62dcde6639d1d106b8710bc2be",
+      "url": "9b/63/5c1bcf4879c0e7bb9aaf39d2295b17e28f880f1f16b2897025dc87d83146/aws-cdk.aws-stepfunctions-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "e74346f5731a408b36e19628e874f40b3c107345eff444a105e226cfcbe494c5",
       "url": "5a/df/664e063e24b845df9ea56b29586cb1ead3730332920ec6ef72a6c20b740e/aws-cdk.aws-stepfunctions-1.4.0.tar.gz"
@@ -11499,6 +11503,14 @@
     "1.0.1": {
       "sha256": "3c18464f77c463d1013ad8ad897bf1658fb5c798ed69ec050537771b1aeb5c74",
       "url": "9c/5f/ce79e35c1a36deb25a0eac0f67bfe85fb8350eb8e19223950c3d615e5e9a/gpytorch-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "75b0755ec27c9d0f83055578e2ee88aabf12e3f640a31af9f893113d42d1e832",
+      "url": "c2/8b/a65414139fabe1697e9c04c83a7f692a43038bfb32abe503ff1862b8891a/gpytorch-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "76bd455db2f17af5425f73acfaa6d61b8adb1f07ad4881c0fa22673f84fb571a",
+      "url": "5d/c7/0c31802b84fc55aa069943c844eaccb0e420e91d7f4ed07cc5e1d127c458/gpytorch-1.1.1.tar.gz"
     }
   },
   "grafeat-core-constants": {
@@ -23629,6 +23641,10 @@
     "0.0.2": {
       "sha256": "581e725153f8137e49d7a284c6d061e583e2d29777cc4978e27a6d520272e10e",
       "url": "5e/58/94358173b1e5879c1ab970afc0850e0e58d638b02df0770a2d364ee007d2/test_spasaribu-0.0.2.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "17835fd82a609d23a6674c1fcbf7c228368eb41eef3843da894f438b03a066c3",
+      "url": "bc/49/9ae7bd2ceb8a11f4a46f1a80da702813e5d0162eabd4f17ef1093f48c726/test_spasaribu-0.1.0.tar.gz"
     }
   },
   "texit": {

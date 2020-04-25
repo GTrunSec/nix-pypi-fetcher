@@ -1191,16 +1191,6 @@
       "url": "68/ab/cff6fad28ca967c9465c1fd5c44f77616d86a66d2d001460339ba5f35081/ashes-19.2.0.tar.gz"
     }
   },
-  "astd": {
-    "4": {
-      "sha256": "60161e13fd0669578739642f0e3c76b764f049d70028729596f906ff9b4c3218",
-      "url": "ee/c6/ba5029a4f9ce8eb5f13fc33ecc5dfde3e026968eb1ed400f3e926fbfcdc5/astd-4.tar.gz"
-    },
-    "5": {
-      "sha256": "e721c1f38824e3e2e4074881777391744603ec9dbe2cfef364e7a6f039f4248b",
-      "url": "5b/c4/d80616a2e8d0d280c1c5209486c4bcb7f73cbfec537e80648d928f03e434/astd-5.tar.gz"
-    }
-  },
   "aster": {
     "0.1.1": {
       "sha256": "37e063e4b9758c2ed0088d9f8139327cc3836e3b5f53bfde112e7305784fce28",
@@ -11934,6 +11924,10 @@
       "sha256": "ec78bb2f4f58f7d5b27c4021e4e7a853a952d4eada3070049c5bf936ec9b119a",
       "url": "2c/c5/4695b5b853f63624be8543d8f366714d9f3f3d062821b644e9147798d7a0/mypy-boto3-ec2-instance-connect-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "72e633a04d484e1da5048b5ee5c483713a168601d12d0cc8cbc7c8551d625405",
+      "url": "68/b2/bdec71d3d6ca1999ea3d9681d6e0f1ad25cac00d786d57e75305ae7ad7c1/mypy-boto3-ec2-instance-connect-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c335ca4168c7f2c5792e637b15afb4e6b2339c6f30a2d082f68b114a6e2820ab",
       "url": "da/30/04f4e33872bf3d12bef66a54119217a1c388406a635023c6d4f798d6c168/mypy-boto3-ec2-instance-connect-1.12.5.0.tar.gz"
@@ -12631,88 +12625,6 @@
     "0.0.5": {
       "sha256": "f7a4143bb9084a9146ddcefefa5024a6a8636b99aba47e958a492d9ade1905c8",
       "url": "8a/d8/4f79998fe7e05da3de648686dbab2d993799c8556448ccbd1a9b3c3585b3/objpersist-0.0.5.tar.gz"
-    }
-  },
-  "octopus-python-client": {
-    "0.0.1": {
-      "sha256": "7250727f15b866d18887f8ad8ce067a5569cb5601a39f1348bed32550d2ccc50",
-      "url": "30/0e/3431d0b24f8278e799b5288a1dd2eae8a01e0fb2a6d4bbf1006339e55b73/octopus-python-client-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "524bbb513a3f78838f9219b0826d4b44e8de8eb958b9ac8ce82fbe8e6aa6c618",
-      "url": "87/fd/4b251a48d634c9a3bd14a2a9492dddd845c77f3ca4b9bf04f7f76dbf8292/octopus-python-client-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "f57e4d1b3bed353cc4d9b2fbaddea6e3c0fa26c8ea7857d07cd63cbd0f43c2a3",
-      "url": "0b/7d/ab97d50aff7f1ca6383359a93fc42e6493f69f10bfca89ae62cc0884861d/octopus-python-client-0.0.3.tar.gz"
-    },
-    "1.0.0": {
-      "sha256": "ef6efbabad056dc3c1fe77d4093fa508aec068a02a8748454aca45cbf7615432",
-      "url": "58/99/21786a33d44baee099911e2b4ea033577b5ca5d733d7044536ddaa7cc6ed/octopus-python-client-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "bf224d33f6283968b81b210885c8ea084b4d1a1330f254bb3f4b1024a681fae9",
-      "url": "3d/00/fa3efa6d7530c93100cc137f51add35d7c8c10943c8243b98e64be2cca78/octopus-python-client-1.0.1.tar.gz"
-    },
-    "1.0.2": {
-      "sha256": "619f680254e6748c7c7616e6f68b78b367b07bfd5559bbc72d88caea8dd3e4d7",
-      "url": "55/e3/237d41f127ccea2c82a12387cfedf54a3b041958a285fe49df0e6b9e8983/octopus-python-client-1.0.2.tar.gz"
-    },
-    "1.0.3": {
-      "sha256": "08cc04fe9d339615bd2e2a915acc235c47736834bac0fefad386061d41646ca4",
-      "url": "f7/0f/034d08ee8be6b045eaa5a8ad51df287cd5c7940d23375cbaa2193173856b/octopus-python-client-1.0.3.tar.gz"
-    },
-    "1.1.0": {
-      "sha256": "84c7204ed32c9bc085e48fed8eadbecf65056b419179444800e6ea525834336f",
-      "url": "8c/f0/99ba9bbbbbeceee89615351e1654e6780cb36a82c13db2c5cbe65583db94/octopus-python-client-1.1.0.tar.gz"
-    },
-    "1.1.1": {
-      "sha256": "dd06889860c14a04178d67c442bd358908721aa850f0463fe07484d6f97bffa9",
-      "url": "f1/83/5095de08c8e8459542c7214fbf5d1372968c6b6d90e139f4758dcc9057b4/octopus-python-client-1.1.1.tar.gz"
-    },
-    "1.1.2": {
-      "sha256": "235080ad60181f2d1225d75ef579a0cb66525f0cb8929ac9c6fc11f5e5dfa1bc",
-      "url": "36/5a/a48468a87b9892cf0b2c9701e8e131749d1b8c94c07cdf18363d420d1b55/octopus-python-client-1.1.2.tar.gz"
-    },
-    "1.2.0": {
-      "sha256": "62ed49187a35809334276f2fad416ccf422679a567006df0be9c35e8278eb381",
-      "url": "cb/17/a0bb6660459408dcc36cf70a195e5236dbd25af21abdfb5d5f5ea48c8b84/octopus-python-client-1.2.0.tar.gz"
-    },
-    "1.3.0": {
-      "sha256": "f3146d34b798fd81ed1eed100aedee6c89640058dfedc727140245ebfd61ef15",
-      "url": "6c/f8/f0559bdb9dccfe56c208165659eb3a1bcf90e4f5715ad681607663c42a5f/octopus-python-client-1.3.0.tar.gz"
-    },
-    "1.3.1": {
-      "sha256": "0c651ff165ffc1fdbb2a59f33352387dcff27291408533c2999566d0c4123efb",
-      "url": "ff/3f/8668c4f3e33160a7443bc753f3e84fb58f480469cc265a638c6c497e3bf1/octopus-python-client-1.3.1.tar.gz"
-    },
-    "1.3.2": {
-      "sha256": "bc60f04f2e284f4803b74b6e45f6d271caa3d1c874e4078c4ca1cc89f4af0d81",
-      "url": "98/e2/628f216669db9c08d5d7a374c4795e3870947737217da14b292980150231/octopus-python-client-1.3.2.tar.gz"
-    },
-    "1.3.3": {
-      "sha256": "4f6cf34c5bb40e873927d0a5f9d9168f2548649bb29e8517d40ebc3a89dbd55a",
-      "url": "ca/4e/76dd12e2e81584beebd8a33babbeb247de6246f7b4d39db6b38157daf293/octopus-python-client-1.3.3.tar.gz"
-    },
-    "1.3.4": {
-      "sha256": "a3e6830731ae034e46642e2cb5afdaa7b42fb0c2049cec61d00add62efef0650",
-      "url": "15/05/8d588e0e4738ff7d11bc836b26bf88b5ed90133fe1eb44017add206b8301/octopus-python-client-1.3.4.tar.gz"
-    },
-    "1.3.5": {
-      "sha256": "38116193dee73f84473411f36a4c3dd9f19568e56e70afefa0f4034346d379ba",
-      "url": "58/23/e2117e601622a4ade886114e04fb4972ee9e52002fbf383d4b3058d5d295/octopus-python-client-1.3.5.tar.gz"
-    },
-    "1.3.6": {
-      "sha256": "213f8911c701ac2a17582472b5df9056192926fed91d88ca0d01436d5c12480d",
-      "url": "2f/f6/372e0adf3bd57df0bfb547acad00b6a4b6ba7ec0ff0fa88296f798ceedd4/octopus-python-client-1.3.6.tar.gz"
-    },
-    "1.3.8": {
-      "sha256": "5da5cc0eb0e5ea4afc77db484c348cc935bb9cd59f8e06c5dfa2995a799b2c0a",
-      "url": "39/99/22eca4fb0a12e349b04a2139a25752ff61d6d7b837b59b6076698fcb2d98/octopus-python-client-1.3.8.tar.gz"
-    },
-    "1.3.9": {
-      "sha256": "e4a999e11d0ab9b23704717ff08abf854dbb7489334d980955f16069c1f455f9",
-      "url": "ae/47/3e39131d3bcb3eda2d101ed0b3dbf97ec65c989791c61e24c2e113848ad8/octopus-python-client-1.3.9.tar.gz"
     }
   },
   "oide": {
@@ -17978,6 +17890,10 @@
       "sha256": "2acec936db860b7540c643a33ae688f6b6e8477eeb963ccf4dce8d71bd5cc17a",
       "url": "33/1a/e3560f819bc8f432722f454cccba8fd1f310d9a78021b49f900498433764/pyTibber-0.13.8.tar.gz"
     },
+    "0.14.0": {
+      "sha256": "9a49eadbdcd65bcac2f7b7e48b8e4bb531782cc35fa20039e1f4059ec8e3f845",
+      "url": "06/f1/94c3d4ce2819a76894e79d71a07150f5c677b551bdcaa236c56b0ecbf7db/pyTibber-0.14.0.tar.gz"
+    },
     "0.2.0": {
       "sha256": "3981296f4e146dea1b45db059de5b482b15a59eb412413fd0c025b7e549d1389",
       "url": "7e/95/9213639115616a7afe301fcedf4edbae4800435d1a0eb3a69bb83f6d26ec/pyTibber-0.2.0.tar.gz"
@@ -18769,6 +18685,10 @@
     "1.4.126": {
       "sha256": "82461d4bd46ad64d9de8ad3f02ef93c9f685b2a988420a2e6dd3f9515d062cc9",
       "url": "e9/5c/5626addb5f2197ec35ec2d40f0e9f02f1aba161af5e724546ccabd9bfc37/reacnetgenerator-1.4.126.tar.gz"
+    },
+    "1.4.127": {
+      "sha256": "1fe87944c5d6878e31673379cd8b857c8d7947b658135e13c0fa8b718ec87f87",
+      "url": "d3/e8/b6287ef11c5fed528c4b44db94e66a414d69391c52a856bfac5067954b92/reacnetgenerator-1.4.127.tar.gz"
     }
   },
   "readme-md-docstrings": {
@@ -18823,6 +18743,10 @@
     "0.0.9": {
       "sha256": "de847c3fdce12d66475b6e23475526acd3ded161471bf48e1a915e353b59582a",
       "url": "c1/f4/ddcad0467287314e40e1d6d55786eafbf77e9fd1336ca76fae230b2704eb/readme-md-docstrings-0.0.9.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "dcf94215d0756638c05c7cb402b61dcf3b5207fcd1b5de5ea7e3b1e89e346c21",
+      "url": "f7/45/39807c64c31845b7d8a79cbee945987661f489d117b03545045bb648d790/readme-md-docstrings-0.1.0.tar.gz"
     }
   },
   "realalg": {
@@ -21065,16 +20989,6 @@
     "0.2.0": {
       "sha256": "003ae30a82d2d6792be3e9c438cf7bd04589bfa891db0f52197b89565bb604d0",
       "url": "61/bf/dc03c27e88fa6ad3f6726914ac749ef5516d29adee6adfcc94cf5c07db14/spatial-0.2.0.tar.gz"
-    }
-  },
-  "splitcopy": {
-    "1.0": {
-      "sha256": "6d2d85818d93d748bfc7f9236e920fd27eaa0f48018e18a9f7964137392c799d",
-      "url": "82/d7/5e0cc73e5f735f04a6a72db086c40ce5c8be6915e5921535b04bf25114f5/splitcopy-1.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "99a0a8c6e51a4188f617365ad4825b87b6fb172f303f5cc6b9f38bcd089993c9",
-      "url": "a7/bb/0718ac45b453a26ed49930127b583bfe3bddd5f44079123f64c0786bf712/splitcopy-1.0.1.tar.gz"
     }
   },
   "spotifyplaylistconverter": {

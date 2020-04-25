@@ -15588,6 +15588,10 @@
       "sha256": "008992a0be72b644ea2668cceec9e0798a5685ba5c4a5215cf54608c4118f5d7",
       "url": "25/ed/76d43470c37af7d3760cc9b59ac9ca8281bc371f87030e02b8eb4c519fb8/mypy-boto3-clouddirectory-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "8a07fe70d0a07798a02a7e534622e5f44e3a30fb4e366d8a3ea90466501068c3",
+      "url": "7b/b2/ccb46f89a897d233ff9d5ba0f196edfe490aa87f9d15d613674ee100b6e6/mypy-boto3-clouddirectory-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "dc33ad41b15b6a04227d8de9c7dd651ac455cc9c79c35908821734d18b738ed5",
       "url": "ad/84/bf6408d924aa1f23e3800b343b70921d62412897013257c22a764705356c/mypy-boto3-clouddirectory-1.12.5.0.tar.gz"
@@ -16106,6 +16110,10 @@
       "sha256": "21c7964dd1fc337101791c53125be0923a85598be719b4ae4380b126427d5bd8",
       "url": "2a/ae/10ddf74875952ab1da0f366f28f3882c5c0459c77abe0a837d1baa7abd10/mypy-boto3-mgh-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "c019f5632152f3859ab3b23b139ee6055bde541437639a3e77b5c527ae257fb2",
+      "url": "1d/77/16667cc1209637eb7cdb077865f853fe0ba346e099fef5db647ae32e82fb/mypy-boto3-mgh-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d5fb03e1e329e76418308b1d9637ef25820394d7bc4e59ff1760f09ef3a9b570",
       "url": "5d/df/9fcbf6f6e72ed5cede791bf10eb87b0676fc0b6cb92094f52fe7649cac6a/mypy-boto3-mgh-1.12.5.0.tar.gz"
@@ -16623,6 +16631,10 @@
     "1.12.45.0": {
       "sha256": "767f6d4d1812491a6279134eb3ae94f00e01cd5b1fc7f3c3adc1e74b511dc679",
       "url": "a3/45/75234f67fb7aab188636ac33ac262961f77fe5c242f768edf524808ee6c5/mypy-boto3-mobile-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "d93bdccd9608ab4047b51ad8a4736616a0c0129447eefadfe75216d1a389815f",
+      "url": "df/a4/e6d6ef0a32a2968a1a8cdcdf6283d6cbd5238013e10cb84923d64b4b6c84/mypy-boto3-mobile-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "e869cca1fb75afc9bc553162ab6614b40cdab0a43eb99e00a62c3853d53eac07",
@@ -22585,6 +22597,12 @@
       "url": "6a/14/bd740edfa43396e7cfdc31b7db38b4dac61773ea102baa022d39dd60bbc2/shopify-converter-1.2.2.tar.gz"
     }
   },
+  "shournal-to-snakemake": {
+    "0.1": {
+      "sha256": "48728703993e8a12f561978243a41a13a2ff8d0018c7fe342bf39efc596a9866",
+      "url": "87/44/bb4cf1b219ebdceb307dd582716ceceeabaa4a5c5b9aece43458b96c4a0a/shournal-to-snakemake-0.1.tar.gz"
+    }
+  },
   "sidefx-web": {
     "0.1.0": {
       "sha256": "940825bc689fbbc53d97d314b85cb2166106dfe883bca8fbcad4cd483317e66d",
@@ -22713,6 +22731,24 @@
     "0.3": {
       "sha256": "33ebc0d76457672a67e12ec5746459632ea9655e0a53efc053f23f85369f686c",
       "url": "aa/8d/fb61916732e3915554c422f6c4928d7f69422577d1941ef8ba0fb17887c9/slc.quickchangenote-0.3.zip"
+    }
+  },
+  "smaca": {
+    "1.0": {
+      "sha256": "1e02a748d3d5f9da13e4a01ad61add1d048ed51fb51909ec2ca07ac2186fe4fa",
+      "url": "ce/53/ac48dfa80cba475aa990dd0483a24379004684366f984f731fd6a7b8e24f/smaca-1.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "1c59fb239890f59fc19ac4cd6bb3c84ac01a91e46b7d7b4af8b0e72a5ecfa76f",
+      "url": "6f/40/c8d81624bc6a9829e9b5020b3345f04f609f72edbcf9e5999d950cf486c7/smaca-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "39ef2bcffaadfbf5982b0c2689b0cf0ac6754d2f554feec28eaf9711850da5b1",
+      "url": "42/51/436f42fe66d82c4cd41a839f5cba51852a95c8246c49791f993d8b29f872/smaca-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "1a0750ef2c58aeb997806be2c5f5c6952d8c13f95b4f4fff880e184a4fab2d43",
+      "url": "93/84/bc14e90d4165edc2b8a684ca9f34adb6e8099e5340c53fdccb5fb34544b1/smaca-1.2.3.tar.gz"
     }
   },
   "snakestorm": {
@@ -24603,6 +24639,12 @@
     "1.0.0": {
       "sha256": "b169412280b7d78ee7404902e1632d62dfbd5be125e637cf1c6afce56ef31d7e",
       "url": "36/3f/5041971c1509b3dfa26aaa7c380d5c4945ab1e0fd8f5562f801b1b07994a/turta_rcdriverhat-1.0.0.tar.gz"
+    }
+  },
+  "txtojson": {
+    "1.0.0": {
+      "sha256": "e92e4efe3a72d07db155cf4cd53f4a3446e22a274ae0933ec92726953844cae5",
+      "url": "d7/01/daff0a9e514fb8e09aae493f1afd31077fff78fb5e6626e12c9f3681c065/TxtoJson-1.0.0.tar.gz"
     }
   },
   "tzxtools": {

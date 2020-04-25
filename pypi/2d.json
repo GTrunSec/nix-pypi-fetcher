@@ -10607,6 +10607,10 @@
     "0.50.0": {
       "sha256": "2439e4421917d6759e68ceb0e6cc8588ee051e78b76944e92b64faff8cee9d93",
       "url": "41/af/46e752ed228851408bea6cc6049fba28bc6d21301b4bb4a448c05f5d4063/lcapy-0.50.0.tar.gz"
+    },
+    "0.50.3": {
+      "sha256": "2e1b2217a1f46e59c714d21f65f181de688f6c9009743ea9db729656a7d05b9c",
+      "url": "8b/c9/e6ff007c37793dd0831d724408444233381dd71cf565c8e8fa9efdfa607a/lcapy-0.50.3.tar.gz"
     }
   },
   "learnpython3": {
@@ -16267,6 +16271,20 @@
       "url": "8e/74/24770c982cc0909aaad4aa1e7afefbaa81984a1e037800786a274523e68f/pytest-django-casperjs-0.1.0.tar.gz"
     }
   },
+  "pytest-pinpoint": {
+    "0.0.4": {
+      "sha256": "50b6259961556a8fc09e3a0aeb2b35ca0603414f5c773f6ec600f52f2521171f",
+      "url": "2d/cb/240f090c0f07b3a3529cc1177c93db255a450651a230aaf067f0d327aedd/pytest-pinpoint-0.0.4.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "c92d08ef08a580174868d0c87bedc194e529f3dfffbee1f655ecfcb443460574",
+      "url": "9a/45/39ae32a9b1e6f350f010648cb5de9628717902c4034e7c4f344363a97671/pytest-pinpoint-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "33e486f6055c5536b5975b28fd9d444db698d0d6f5d9ea5025895a6cf32ce9cf",
+      "url": "5d/94/5a1b07bb779f16a6ebb7f3c26b724c0ca09baebd7d8301ca662ecc1bd831/pytest-pinpoint-0.1.1.tar.gz"
+    }
+  },
   "python-aisweb": {
     "0.1.0": {
       "sha256": "ddcdb4aa2dec07809a3f0e93601a481131fbb90dd27972579446b6a4c91148ac",
@@ -19369,6 +19387,12 @@
     "1.2.6": {
       "sha256": "db7c653a367184f21883147c07dc6707d434c2435621daeefcaccdc4cd89cf98",
       "url": "e0/c5/1a071259e04a2db346f9a63e8fcb1c199c2415a2772ac65fce98cb76a047/synapsepy-1.2.6.tar.gz"
+    }
+  },
+  "tacotui": {
+    "0.1": {
+      "sha256": "da51f7b303e5c8b0ead52f59566cfbffda98efd9b7744cf489abc902c3806567",
+      "url": "8c/0a/706eaf19f06f7c7f19755beebb894337e9ac63960623d6b878d17fadf075/tacotui-0.1.tar.gz"
     }
   },
   "tagnews": {

@@ -5671,6 +5671,10 @@
     "0.1.2": {
       "sha256": "5435d5fb20a35397e3ff5334df4b3b790b5dc475ac9be9bf4cd7f7298cdbf3a0",
       "url": "a5/ec/411f123d124038e7c1ab860b1587e2aa8f50b3cca82b8d52b988c50042dc/django-hadoop-storage-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "5f75ddec158002dbe61c41c0800555e2a5d5ac8b282dc762abd4ff251e2736d8",
+      "url": "17/52/5e73beb1102706056a0a48fd751c367f7fb8053f88e5152682c1c3a690b0/django-hadoop-storage-0.1.3.tar.gz"
     }
   },
   "django-homegate": {
@@ -8226,6 +8230,10 @@
       "sha256": "b3409a1b8fe85ea06ff9cfaed3a8daff016080f8350203f74af3a3e8ac061377",
       "url": "ff/c1/d69ebd04462cdec84e5dfb455a084e342d03198cc08a85c3202a8af32037/flexsolve-0.2.1.tar.gz"
     },
+    "0.2.10": {
+      "sha256": "a47fd64dc246adf6f6bcbedbe36833f6dba0ae0fe61978dbb3a9767afcd434e6",
+      "url": "7b/2c/d654bd7416c29b7dc353079e65b20902e5bcaf4e45e576be5174c553bd9f/flexsolve-0.2.10.tar.gz"
+    },
     "0.2.2": {
       "sha256": "20534e0f63bb73977e86990cf200c4ec6dab0a88055a19d9c1fef43d86cbb6a1",
       "url": "30/dd/ce128957e704b20d97b1a1ff460e6ee945d095557100b756eead4d519b3d/flexsolve-0.2.2.tar.gz"
@@ -8539,6 +8547,24 @@
     "0.9": {
       "sha256": "90ae5d30e492de88d1168a7ffd12dd2aefc485da89ff2895b1d0fd7823f03052",
       "url": "4c/61/cd32d83b75bdf74bc6f3cfcbd419419f73820f73a24b52671b193aa7cf4f/funcoesia-0.9.tar.gz"
+    }
+  },
+  "g6-iris-recognition": {
+    "0.0.1": {
+      "sha256": "61ccce9d09b0799ee2ca1dd2d7742a208203293fd546d222efb4b01c1ecd16ba",
+      "url": "bd/14/3bb6e6b5fd219cc995f0c84cfd71bee45ca0276bfd515182088a5c3c7cc5/G6_iris_recognition-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "4ec1960cb015fe946ff5d3ed7f3c2a621e201023c63a987e4191508feed469ee",
+      "url": "ad/53/61515e1f69af41d2688fb0328c6e4e51e13f7d667aa1848c93b4c2748ffc/G6_iris_recognition-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "a3635a5309ed2de8ec1bf4746d8e5e79eb554284f0511f30a124504aa2c359a5",
+      "url": "16/85/ea7e2d7a842cdfab5159ba77170ae341d1619bda022979d0a99fb28a7af7/G6_iris_recognition-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "8b4ec972ee74ff51f27cf03641b4f3cfae626b0ebd3eefaf27143d716827825d",
+      "url": "fd/18/08cd7c9ced78fdddb5677e55461b29b9a99fe25b57e96b7bcf5ec3b8bab1/G6_iris_recognition-0.0.4.tar.gz"
     }
   },
   "gae-env": {
@@ -11373,6 +11399,10 @@
     "0.5.0": {
       "sha256": "2e927e36cf0fac5b63908665503aeed51dca9fe30366b2959048463f5d457b38",
       "url": "c6/b9/1366a4e30f195fd9f9ff7811342c34c95124764a172d86a40e7720db31d9/labthings-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "759008eb3646c607208bac8e14e9672cd27d90faa596c6e10d23a6d98e07485b",
+      "url": "c3/78/ef3559ee3750cbe5236567ba1885806bbc210c3c50c65b1acec5e3dfe2fb/labthings-0.5.1.tar.gz"
     }
   },
   "laughs": {
@@ -14511,6 +14541,10 @@
     "1.12.45.0": {
       "sha256": "87bb4081a47c0ef92e54cc0fd040a40acce214755f3480ec9e4fd50e20de0ae8",
       "url": "01/03/6a74a59f4fcdf30b098b3c4343aa3adf4a34a46da6d955d693bb8b50a295/mypy-boto3-ds-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "0720185bfa7cdbd4682ec5a44dfdcaed9c9c355fdb2e24bb05827c7f6979ffc9",
+      "url": "c1/30/b8a2dac3a8331c2f367f2585bea770d9a19046877cc01c0df1d1ae20b160/mypy-boto3-ds-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "b71dfb0ca169a334317dd0d4e55c5414c546282aea1f9130ac014b263d014220",
@@ -24701,6 +24735,10 @@
     "1.15.7": {
       "sha256": "3514123ec2303b306994da9673b65120df71e7159c11089fd689b57483555504",
       "url": "03/af/8f2d3a7efcadc0b8c29a0187596507a3c7f581248a02130ec9289016763b/tir_framework-1.15.7.tar.gz"
+    },
+    "1.15.8": {
+      "sha256": "b2810deb758b308690649c4a1d4b71695caac12c25bebffb80b52e77c86c1ad8",
+      "url": "fb/8d/c2dc96e7ddbede5f12c017c92f2a4dadd3ff4bddaee3b6d12f583873a204/tir_framework-1.15.8.tar.gz"
     }
   },
   "toll": {

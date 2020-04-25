@@ -1018,6 +1018,10 @@
       "sha256": "63f208f188a7f370180c1d43fc2ea1165119aeecff24c0dcffc4ff31b87b2b35",
       "url": "20/98/46d5be00168338d3354a36b2fb2a542dd429ba13e95e255ab5985e340948/aws-cdk.aws-ec2-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "0dc925251c55b38837039ade16821886f341c2e42251a6cacb83284a2a657596",
+      "url": "12/f1/5ee8adec840f6e710aed58902ff6735931d825d60f06c34d397112415f88/aws-cdk.aws-ec2-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "4acd4b78a5fdaeb166fdea2c15aaa02e2ded7469cef1dbf14aa27fad54bae9f7",
       "url": "cb/f9/9ab412cffe183a0c2782896e7d379084dc02b9974405a6a7e5ce0e9e9815/aws-cdk.aws-ec2-1.4.0.tar.gz"
@@ -9665,6 +9669,12 @@
       "url": "1e/93/74a0415a526ac4cc1a3d3091cc850d1bca6c7923b474588326cf8e5da92f/hurry.tinymce-3.3.9.4.tar.gz"
     }
   },
+  "hypnotoad": {
+    "0.1.0": {
+      "sha256": "3c7126083b92b0280928023c38f9759eb5ed27f47381fecf165a4a2696bb6225",
+      "url": "52/8b/e30302afd60b1b93c045db2b7cc0f256d3ea76c56fe8d9a616244e0c5dff/hypnotoad-0.1.0.tar.gz"
+    }
+  },
   "ibm-ai-openscale-cli": {
     "0.1.1": {
       "sha256": "2cbf9cccd1c077aa06eaa641c1393a371abba8584b2e3db5ea6aec7013a1576f",
@@ -14216,6 +14226,10 @@
       "sha256": "ed0629edb3b71acd0abce54e4c1aa122738374e2d5aac0dc925ad39f90887fe1",
       "url": "6d/a5/c05031a6dceb3f7e7fc84450a37148873cede4e74abd338df3323dff2a07/mdml_client-1.1.18.tar.gz"
     },
+    "1.1.19": {
+      "sha256": "482b8f1f2c310c4e22ef7f3a7dd605079e64ed596ad75f76954dd9c41e32a02b",
+      "url": "76/c8/4019a95990bc5fe06000aad4b1f4ea5febaae7c161b61b52e84e4df1a761/mdml_client-1.1.19.tar.gz"
+    },
     "1.1.2": {
       "sha256": "d1ba1d78c5f9ea47e9748077b5b62493fd416b947dbb972318894fa4f203d8c1",
       "url": "14/17/ddc4b2c675a9f4d2c755d8b786a304a31a4d5378297efadd6635ce9fbec5/mdml_client-1.1.2.tar.gz"
@@ -14593,6 +14607,10 @@
     "10.1.12": {
       "sha256": "3a56bc56a9768200039086692588c01b0784c36e7629ed40216f9116749d5116",
       "url": "6d/da/ec29576ec113cf082f036b6700102cdd1e91e304b980425f3d7e7b7388f9/molo.core-10.1.12.tar.gz"
+    },
+    "10.1.13": {
+      "sha256": "26a50ccedd257c7ab74716e46810653144e3e4b02e00aeff2139f9abb47b5123",
+      "url": "d2/bc/9ffc57c94cec4ab40770cc490c6e176524a7629cba7bc8e2988377b8dc73/molo.core-10.1.13.tar.gz"
     },
     "10.1.2": {
       "sha256": "c07bf1fc62590f83bcc085ca9ae9a88d8293abba5f6f8e31dbd52b8a2ac7fd55",
@@ -19095,6 +19113,10 @@
     "0.0.3": {
       "sha256": "24c499c0ce698b160aff872a90c972cffaefdc4e0bd8bdc3870dce477fed1249",
       "url": "fa/dc/00e54ef00204927efa67cbdacab5c1f0c6a2220c843a53657c25f158fbd0/pyhrp-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "a7337a10bec0dd52d77848597b84c70fb0c07101688ed98813ecce839748ea32",
+      "url": "e7/0f/55488a4b95fc0e744248ce29d8664a2753119f3dd1205dc9d8f79dd618b2/pyhrp-0.0.4.tar.gz"
     }
   },
   "pyi3": {
@@ -19575,6 +19597,10 @@
     "0.0.6a0": {
       "sha256": "975413686b15fa620175c7f9f8d6f42da5a8917b39c75fdd4e4940956e968734",
       "url": "08/b4/14a5916d0073a5adad336b33be78b78fe2b8dd163c3a825d65beaf832962/pyONS-0.0.6a0.tar.gz"
+    },
+    "0.0.7a0": {
+      "sha256": "c2133309c81389a9915479f92fbda08c86d28acac13c3e259614a673463fe229",
+      "url": "6f/ca/8773fe727047dd88ea5da3393ab6daac36b832690d0ea718d7a3392ab7e7/pyONS-0.0.7a0.tar.gz"
     }
   },
   "pyphasefield": {
@@ -22939,6 +22965,16 @@
       "url": "2b/0f/9725361ba0304ac814cdefb417d44a5008ce0c6f3c3dccbabe689e80130f/superdiff-1.0.1.tar.gz"
     }
   },
+  "sweetcase": {
+    "0.0.1": {
+      "sha256": "c2ac1da781619a974048fe2fcd6fb491777111655e453b79d9a2406eb14dfd8a",
+      "url": "86/03/523287bf38dd0a3d524a23c497af1152fa8f79a2938a87d0a1732fbac1e5/sweetcase-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "da08b04fc0ba5d6e35ff91e9b98736da2ab1b13f28ccc0519a504fff8f0530c6",
+      "url": "b9/12/2821babb03fa601038596faf6536d8889ea1ac9074d9dd7f2dfdc261b680/sweetcase-0.0.2.tar.gz"
+    }
+  },
   "swiftvipergenerator": {
     "1.0": {
       "sha256": "86d7978b67c4337063e262136671d34efcf05c73752d7904dface191fef7472e",
@@ -23235,16 +23271,6 @@
     "0.1.4": {
       "sha256": "ad09b208376c99b79f7871c241a0070bc1649dad725595ff5612d31c277ae4db",
       "url": "07/1b/1e99b0252593f3ef98822d29cda076f6bf2f48c9806bdbbb0cdb90567ac8/telethon-django-0.1.4.tar.gz"
-    }
-  },
-  "temop": {
-    "0.0.2": {
-      "sha256": "ba10112e258fa6108697a5bc12e787c15dbea019d40e304b8b4fd325e9989ec6",
-      "url": "3f/94/f6eb8a76c950c81920b8c2a64b9131285d33dcc69043c7d654b6dfa41635/temop-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "b007a2c69e24d549b204c5637c9efc328a50e8c344c83e9f91bde013b4950cc7",
-      "url": "25/c7/cf194f11692c6cddfcb0972a47d812d502a8a39677ca76d6bbb32bd0fb78/temop-0.0.3.tar.gz"
     }
   },
   "terminal-palette": {

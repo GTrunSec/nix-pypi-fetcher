@@ -946,6 +946,10 @@
       "sha256": "526cee4ed7dad144b9eccfe3d982e2fd29c948d5d71aa025ec8bf68e2a54e1f5",
       "url": "76/bc/219993e2f6de43fea0814399ac61ead6880d6cbe7b28adf73c5edf876038/aws-cdk.core-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "fca36750374d50734c375723940965d4130783e0945c450d59bac9dcb4e9de69",
+      "url": "90/e4/ac807ea3b7faf29a39511490b6791893d22e1ca3f1ee9d965f6c45b24985/aws-cdk.core-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "2acec63222f0f7ed2913d5f55cf005354177521478e3f33fbfe293fc0d9f8f6c",
       "url": "24/1d/67a67d5e1a49a9aef52d4f4b9190c515de1fabe3c137d9b4f8c8f9db097a/aws-cdk.core-1.4.0.tar.gz"
@@ -6240,6 +6244,10 @@
       "sha256": "1e7fc8794b0eee4b111b920fe4a62664a07fbc95ffb1a42fa4cf2d0b9c1f67d2",
       "url": "8c/e5/f544077a2980474409c9191218638aa6bf821d6d67f3b842e499c2cfb5b6/easyvec-0.0.17.tar.gz"
     },
+    "0.0.18": {
+      "sha256": "43c44312173597579beba227bc1a83ba0ffa2f223b6e9dfcea7ce0a464093b5d",
+      "url": "12/0b/521ca970f0103e92e9f67576fc44c7aac3acd5dfb79ca10fee0d3a743761/easyvec-0.0.18.tar.gz"
+    },
     "0.0.2": {
       "sha256": "71190e29b83e67ab3bbcae9dd0a489575e97c8b0179911ebb670bb4e1d790e6f",
       "url": "5f/5d/1846804f8ee1116224a6e2edab17da641dcef5c92934d30a65431f434e00/easyvec-0.0.2.tar.gz"
@@ -11407,6 +11415,12 @@
       "url": "59/03/301fcaa03800dfeb6ae3a8560535fb5e869f209ca872b7ae86f59b0a3aa2/mindcontrol-0.9dev.tar.gz"
     }
   },
+  "minerva-python": {
+    "0.1.0.dev0": {
+      "sha256": "a6db99a6e7347336b952da276c302be8d2dea7575937c89b34d9e94046d269cd",
+      "url": "e2/8a/e26f724d537a2cbce93b6907132723a3de4149a28bf4f98a9c256f7301a0/minerva_python-0.1.0.dev0.tar.gz"
+    }
+  },
   "minicef": {
     "0.1.0": {
       "sha256": "f8dc37bdce4dcc0483cc9960fd26e4e70b5cfb9c6151971b49d0da4b2dd441fb",
@@ -12462,6 +12476,10 @@
       "sha256": "949dd80914bfdb75b9197f41824ead508419b8cec4db3e50d09e80bb748ff73e",
       "url": "f5/19/f21b5cf8779ac29b18ded90dbbf2a6d9f0e2b2d4a0afc7400d643bb24f8c/mypy-boto3-appmesh-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "f9b57167a65d247866ca48ece9deb6ddb0b0b1f8f50814dd9d88bb3c79c07297",
+      "url": "bf/47/e292dfb226629e802697f850d620b7426d86a82636743aecf6581b94ee71/mypy-boto3-appmesh-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "8e338705df206cee505edb8ac58bcd60c93171a61484d520591be321c0975412",
       "url": "23/df/2d451028ed613b23df73bd66de4b41b92976b5e2947b4f3a50b97649308e/mypy-boto3-appmesh-1.12.5.0.tar.gz"
@@ -12984,6 +13002,10 @@
       "sha256": "b026e999b4b5f319121f4fe600fa0bbf729e35562a725ccdba3b715cc351b788",
       "url": "a6/43/9acb7323ff4a7b7b8ff7361ae07c649727edb654596d51c055be6a50b25d/mypy-boto3-ram-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "375e6221c159d90266fc6ac9eea694ad44c24ba4524bfe96d1d86ca98cb5beea",
+      "url": "20/f8/e0abac087da5e23859c5c668cdde6f37f7e429ec62a7255f1b8a6d12b6e3/mypy-boto3-ram-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "3bc1bfc61cdbf2a69aca3e1e1f0ef091ab431fad124a1f7c34a618893c8a8a13",
       "url": "4d/f1/dcdf666e0909327b7c75148a49866dd9f2c5c29fede7af94af1829486cb9/mypy-boto3-ram-1.12.5.0.tar.gz"
@@ -13501,6 +13523,10 @@
     "1.12.45.0": {
       "sha256": "4f19c5589f3291dd08fe734a1b8cd50826893c334faa1016c0c89740b3506c0b",
       "url": "12/09/78fe219d69e7bb9cd5e649b5ce0485bc5f827ce7ed0d8c7b72ff50fcbce1/mypy-boto3-ses-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "e97af574a6cce3831682e621d9edb844a2981e064b22f2d23ce9590ae5791a66",
+      "url": "bb/9f/2688ef13b7ae91567909a2ca116edc725cbb2c877c341ca099f52d1765c0/mypy-boto3-ses-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "7a2aa5941a743f85e55cf618e35dae32f0c3fadabc627bfe9b399731c7be0047",
@@ -16021,6 +16047,10 @@
     "0.1.2": {
       "sha256": "7c112bc7dabacd799b9d4f0903a285133e4d5b9b3ba1f2de0edb3c18082b2619",
       "url": "92/df/c3983a15986523e87888eeee888d02ffa8b58cec559b5914c2f379059fc6/psst-0.1.2.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "ed15a08f1fd7e341ce19f77f513b687c206729a94fa04d12d2bd3f5a18a9526d",
+      "url": "3f/32/5866a4da380ea2ef656f6e189ce9bc02217be04721d82e39c9b3ae2b624b/psst-0.1.4.tar.gz"
     }
   },
   "pvyos": {
@@ -19073,6 +19103,10 @@
     "1.55.4": {
       "sha256": "3eb18fd6296b3102b96d9b015a8250fc3310f4bc6d12c2d10c1d3b3faeab4cbc",
       "url": "e1/06/990e3536def03ddd32e3e470a3940bc276813184a6783579eec26946fc1b/sagemaker-1.55.4.tar.gz"
+    },
+    "1.56.0": {
+      "sha256": "79cd5356c77302ade7f4102f59525d8f0ee04003a5d09a86b39bcbeb7d9cb421",
+      "url": "eb/03/f56ae2f140f75faf47b02ddd13b88657bd7040a7ff2d9a4aebd621a4a540/sagemaker-1.56.0.tar.gz"
     },
     "1.6.0": {
       "sha256": "648dda63490c4b30ffa9972e81a7703d23466ca221d9a66dce5e17c3f51f73de",
@@ -22163,6 +22197,10 @@
     "0.4.1": {
       "sha256": "24ed609ef81b6c1a97c0de115be92c1cd9e44e36103475670e9814f7cee3f969",
       "url": "e7/6c/be5c063505f5ba1dd580e13b16bf744b018c54045a961a6b365112c7d228/tuna-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "5b2d29e041b2fad5d51bcd1902e59617bc2d47cfc3d0bb49eed5c0a154563c65",
+      "url": "6d/fd/bcecd198a428c97f93b3b1dbd5f89faf7c68bf516bf7e97306b874c538c3/tuna-0.4.2.tar.gz"
     }
   },
   "turboentity": {

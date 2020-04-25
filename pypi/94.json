@@ -209,6 +209,20 @@
       "url": "d9/5f/ccf7d8f12e59917fdabbd6b363c9d9863d1f5baac8499093ee7959d91f61/aiohttp-xmlrpc-0.8.1.tar.gz"
     }
   },
+  "aliyun-python-sdk-cas": {
+    "0.1.1": {
+      "sha256": "29853ab818f5f6366d9dd571733acdbdc1a135d0f3d30f26acf4993f3df14ad8",
+      "url": "b3/d6/d7e8ed508f8ec0006dcd9bc66571558e48466745437170698b53f92be8be/aliyun-python-sdk-cas-0.1.1.tar.gz"
+    },
+    "20180713-0114": {
+      "sha256": "a48ad8dc3dc83d2d19b7b18271f291dbaf4de93ed63ebcd644bd3ae7ac02ecd1",
+      "url": "81/ab/72e5bd89b48bfd3d0d80ac352565f153ed9f53ce64c2af2fdd0f9ded7998/aliyun-python-sdk-cas-20180713-0114.tar.gz"
+    },
+    "2020.4.7": {
+      "sha256": "2e4761c255540f8ddcf9a88e1ad0e8d31dbf9a83fb51937c3baeefde78e2b60a",
+      "url": "e3/0c/09a60ec2bb8deb7780a5836a60771fb977a6514943f46ca52d65c5774ac8/aliyun-python-sdk-cas-2020.4.7.tar.gz"
+    }
+  },
   "amiandopy": {
     "0.1": {
       "sha256": "d441c744256597d0399fb0b713caca7665e80de1095e00d9ee8ef05d8e466dc5",
@@ -1507,6 +1521,14 @@
     "1.4.0": {
       "sha256": "738845cc10ce32680ca50eb39feb128b07401070ea070d9372b809e35576bee9",
       "url": "32/11/4a07c5a61eda93096de69ab98387ee06e24a52d47d77af78d049586cbac1/aws_okta_processor-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "6aa582011f5a74c755df5b0e4acea72a508396f1d3226216533a55d43f35bf30",
+      "url": "10/fb/b6fffe768d369e8b8b194e37838f75de24628d886004c23305b1d31eca52/aws_okta_processor-1.4.1.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "07e1e3ae256a7bf0d183c767871ca0fd922e0c3225b5ce0548e6d732fc88203c",
+      "url": "97/56/cb5cf922aae2ef87ec4960ec6592ebaea10ddf8329ed6edb860e5ab0db22/aws_okta_processor-1.5.0.tar.gz"
     },
     "2.0.0a0": {
       "sha256": "1a51e1a8956d25d518ce097fd47e4e49e1a928370536c42ea69ee5cc695d045e",
@@ -10927,6 +10949,10 @@
     "0.0.7": {
       "sha256": "280ac30262f1a0bdc73f621415b3da3d15859b00af2ccf5c7a3fdcbb88519a79",
       "url": "f2/82/5ffbb22592c38e5bac1cfabeadc90c0f14eabde1b0addaaa96b83a776269/ibm_spectrum_discover_application_sdk-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "a93af1cd6780d409febbfe0e8929ba991c6a91f91d2522ff2b51d44aff37937a",
+      "url": "a4/29/c37f8d27e74454338ca877842512383df7f7caa388c23abe43ea4481eecc/ibm_spectrum_discover_application_sdk-0.0.8.tar.gz"
     }
   },
   "ifconfig-parser": {
@@ -15343,6 +15369,10 @@
     "0.2.4": {
       "sha256": "2fbeb860ff89099633354bc9c1716d502ee10e5c54d493b241ec3f7bb5a47cda",
       "url": "87/4b/a017b66a7b62b4c5638607b1ab1d0fab6c9a4e70cb940331fc7db84424a1/msdsl-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "50dcaf16f4b5bec04ba010b3c55e35c0f5679093f63d8d207efd736e4fa61e07",
+      "url": "71/31/020c47db898796c4ce5ad44392e7d32d1fe1c6d22d47041575be05391dce/msdsl-0.2.5.tar.gz"
     }
   },
   "mybase": {

@@ -13268,6 +13268,10 @@
       "sha256": "ea0457ff69d43717f1e3a493e320c940a78fa02735530cdb1d249cb07676eeef",
       "url": "6a/9e/e782018b7298f2877689265c5bc42dd6a729ebb42ffc32652f1a30710db0/mypy-boto3-appsync-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "0dbe4328ecdc24b93b65078add811ff2d927878ec4f4dc05850cb50248ef36a1",
+      "url": "d6/c7/00695264d053817c8479fea8fb6757cbece300a970cb0d669f2652a2bef2/mypy-boto3-appsync-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "e15b63fb3384bdac7533580f9a776a765eb2782e16c5c42f20027677914d49a4",
       "url": "e0/b7/1e6f21bb7a88843d227dc827abc58dac945b4ca44bcc474da3f1d90af050/mypy-boto3-appsync-1.12.5.0.tar.gz"
@@ -19167,6 +19171,10 @@
     "0.4.0.dev20200423": {
       "sha256": "be652dd2c9d33e5ec03d5eee6d338ba9d6a92e7987bcf8796e7d23a43e86799e",
       "url": "f2/29/271b6b6de53925a0d857050d957de12e4928c26be20eb561fac2097835bd/pytorch-ignite-0.4.0.dev20200423.tar.gz"
+    },
+    "0.4.0.dev20200424": {
+      "sha256": "054d1265a6652785e94cb4a952edbf5e216aa15186d8e249308c49047b8c6ca8",
+      "url": "9e/28/d6fe101d26d50080488001a88bc75547bced2f77bfc3b46923bc7f34dabe/pytorch-ignite-0.4.0.dev20200424.tar.gz"
     }
   },
   "pyturbsim": {
@@ -24009,6 +24017,10 @@
     "0.8.0.2": {
       "sha256": "256a49b0393e062893549dbd909d188c5f2fabb7131595e53514581127bdea2f",
       "url": "06/84/e708b2a73c3bd544d7ea5f1ee0c32a82390ef78931fc7cb2805e19184daa/xdsmjs-0.8.0.2.tar.gz"
+    },
+    "0.8.0.3": {
+      "sha256": "c39dcf7c4d91eb876b8ff6d95e3359274d6d8d3c224c41b87c4753703b6bdfb1",
+      "url": "7b/ef/2d09d06863751c1b556f6ae163b839c457c8463060f7a7c04c17088ae621/xdsmjs-0.8.0.3.tar.gz"
     }
   },
   "xir": {

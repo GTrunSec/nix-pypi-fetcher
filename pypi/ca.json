@@ -1124,6 +1124,10 @@
       "sha256": "8aab681f813b00027587f9ba76628e6b7d0794ba81c05ff3ca3a96a088c7fec1",
       "url": "29/0b/89f8e4a8d3580914b0b71adb1cecfd0eccc0311e78958646c74e0aeb075e/aws-cdk.aws-iotthingsgraph-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "743868e80794db3be3d4e2310538037761a8d7c3802d2478481b8f4ecfa0e96a",
+      "url": "56/3e/50a3805e5d08cea34204a1206acedd0806eddaceca82b189d2802d0d0e33/aws-cdk.aws-iotthingsgraph-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "fde769955857e1cf3ea545b382d229425588f170f7649aa6148a69c4bb341266",
       "url": "53/54/b4a43558aa2ab84436fd49782b21519473540393467123e0c2eff6dfc954/aws-cdk.aws-iotthingsgraph-1.4.0.tar.gz"
@@ -1241,6 +1245,10 @@
     "1.34.1": {
       "sha256": "be799ece9f071f3a36ce7c9314a69a9b7a84dc3cf3afe0ae0715bc8ede4e4617",
       "url": "68/67/f65aa29b9d0ff26639b982a1588ae762e8be2afff86f5e9147bbf0d2327e/aws-cdk.aws-wafv2-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "f5ed97da7b15ea932fa81943d04cee30c9b3ae0baa2fcba5ab21095ee353c6d5",
+      "url": "d1/89/803ee4889549154f5d9dfb3d10d34a4d5fd323a25756f8e68f364c885644/aws-cdk.aws-wafv2-1.35.0.tar.gz"
     }
   },
   "aws-hostname": {
@@ -6629,6 +6637,10 @@
     "0.0.1.dev3": {
       "sha256": "84bd4846c16a677d08fef70f20da260e07af56a60d1b0809ada1c6f22ba6c565",
       "url": "59/04/0ef7407e404d1c7f253feaaa254117a493a9aa3ee63ebbe86389d4613d75/eddington-fit-0.0.1.dev3.tar.gz"
+    },
+    "0.0.1.dev4": {
+      "sha256": "3078f81ef11da5877c1c4d046afa2e075fe1143844fc5264a4740f8c9b5fe7c9",
+      "url": "09/66/e4303b3473e10368ea418763aa2664cca04727ce04f9358550cb28ca9afc/eddington-fit-0.0.1.dev4.tar.gz"
     }
   },
   "eheapq": {
@@ -11729,6 +11741,10 @@
     "1.0": {
       "sha256": "707b65c3f23805884679c0f6788eafd6c3631e5bd0257795bb54f6f1f5ba417e",
       "url": "cd/6e/ea3a9eca194e4d8eeb5fbaa64caad500868dfe687a899a292852824403fe/lieer-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "b57b18a7a641775914125f7bf30a1d594b800db24602cda611ecad13e660ef3c",
+      "url": "af/da/37ff60042fae4bcf355edee590979f7003b356f4adf8cf9746bda6cc7ede/lieer-1.1.tar.gz"
     }
   },
   "lightvision": {
@@ -13823,6 +13839,10 @@
     "1.12.45.0": {
       "sha256": "d813d4388d60e4a39c4132a922a4e606b3e59308c15c7f844471842b3b6e9dd0",
       "url": "b6/b1/94031443a7ea87f71b11475ac6b379427cc16c1d754698b8beb51ba7c0e3/mypy-boto3-kendra-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "bf326240aa92f0dbf4e37195ade890bb1e15a429818bf09fe71f80c1db34d26d",
+      "url": "4b/23/4888368b5d1b067af1f4f439b94362c6625637d5ee077ca4a151cd02b2ff/mypy-boto3-kendra-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "1931e2b9b495fcdc1c7ccb711393979e99d0e77515c6a3dc0bbd4b7f1b896e94",
@@ -17179,6 +17199,10 @@
     "0.4.0.dev1587573184": {
       "sha256": "0c7a7a881ec8a3837d3bcf8ec436d8ea89e2ff7708093ecc9fe351667e742047",
       "url": "d6/e4/67da5d0a1222a13a5190c1c76ad496682eb01dd90734306f4bbe0a158e68/pulp_file-client-0.4.0.dev1587573184.tar.gz"
+    },
+    "0.4.0.dev1587746165": {
+      "sha256": "49600dd760dda3f59732e06e5cc196b23a6cc0ed9f6f58db66fcc1fb13a0c081",
+      "url": "21/2d/70416e5634d0cc997e8499096621bd0aa9e530c3f3e6f973ac2d3e2829e9/pulp_file-client-0.4.0.dev1587746165.tar.gz"
     }
   },
   "pwpy": {

@@ -1562,6 +1562,10 @@
       "sha256": "7ddebf9be5b094074e2a99e4a03504442d91bb0fa32fa19cc291b737cdf015d1",
       "url": "3a/fe/04e72b56a20867fb2a685d6b3c1a1a00fde65cf7b71fb171264925e3bb72/aws-cdk.aws-s3-assets-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "7c738ca0e10798eb77ad956d08cd147d33aca077fcee18120a6bb1505d60fc26",
+      "url": "8c/07/9d960c7b060096d68917d27eb0d7f855033433e62f4a54a09a6bfaffcd44/aws-cdk.aws-s3-assets-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "b0fcc9c4ac76864fde7357c5274a2b0bafa9a6401da751dcf31430187062a775",
       "url": "93/8e/19d16f3608253a02955cb8b9296ed04e9154c2d67672aff43f44c5076147/aws-cdk.aws-s3-assets-1.4.0.tar.gz"
@@ -15428,6 +15432,10 @@
       "sha256": "8dfa52e9031201e67d1ef03c16f2235b73e67a1de062bc07f5db3a5005173a69",
       "url": "b7/67/831b59227abff6511f2d22e240a4d30e72cb4dc20261a94f099afe872cc2/mypy-boto3-dynamodb-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "859fbb8614fd83df3141f5408287262df28f7c607d54b2f6182e4e3a1892086c",
+      "url": "d2/ff/519d2b157f498ca1ab5ef94febca4dda92f2842d510d91dbe9dad99bd107/mypy-boto3-dynamodb-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "6f0ff6b1684ec79050a890166ebf3218096ae903eb3ef1475f5826d990296542",
       "url": "dd/ff/638bb072de5c4b7ef53201822f9a09c1ad7905e40458f12512e1c9fbe23c/mypy-boto3-dynamodb-1.12.5.0.tar.gz"
@@ -15946,6 +15954,10 @@
       "sha256": "65e7cd6ad174682c457262d56f0fe97b663f640c75e1a71b4b30775538e62328",
       "url": "ca/83/2ba1ba4818403dbf1330f12cd613c5d19b063c5a7d2dca8406a5bfa45127/mypy-boto3-service-quotas-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "6264686620427fde05553d1ae7ae2554068cef67041936b334ea3dac7d3ddfe4",
+      "url": "5d/2b/36edab8a48ad264dd4000070cdfd53a4aeb95ab58e6582022bb6e099cd1d/mypy-boto3-service-quotas-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "5a8de6516936436b3ae511c647ce46ccd435e147d2ab8a074c0d54a6c8c98f90",
       "url": "df/a4/889472ac21c824fbcbef8eddfa113d72d32637f0dc19fca194f377886e32/mypy-boto3-service-quotas-1.12.5.0.tar.gz"
@@ -16463,6 +16475,10 @@
     "1.12.45.0": {
       "sha256": "702da18e6ba11de262013d580e8b2a53efc8aeb1fe536b7364ce1e983a5f6c0b",
       "url": "3d/ee/f4b64af16eedb85e3cfe354ca222906f2c963a43ee6dd188cab1d9673b05/mypy-boto3-stepfunctions-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "8ec46730d9c2dd7600c0f7c1e2a50c192c563729ceb36e6a0fb6fa53adf2e7c8",
+      "url": "23/47/8b9a1d1aad84bae150eb904dacefba6d784450897d2db10d8b93a2057068/mypy-boto3-stepfunctions-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "37b33dae631f8ba0d6234d002ce953032cbbdfd9cf50ebc1b91c92477ee78524",
@@ -19413,6 +19429,10 @@
     "2020.4.20.0": {
       "sha256": "156edb18c2060f380e1e3dede55f4d0277a2625a16b167ee5996a629be721657",
       "url": "0e/65/7210dd7401bc52e5d421686191b5391982e3972c5acdafbbd750e380bd2c/py4xs-2020.4.20.0.tar.gz"
+    },
+    "2020.4.24.0": {
+      "sha256": "de8b672f5393245e39579e9d4c13ecbd8f41b8541928568243ef2c7e90edbf89",
+      "url": "8d/c6/406f1715e4fb2deff5369bab724de3d40159ed8015b790a576e34fe69c1c/py4xs-2020.4.24.0.tar.gz"
     }
   },
   "pyaem2": {
@@ -21813,6 +21833,10 @@
     "0.2.4": {
       "sha256": "35bbb096dd5e159d60b4b03a1834902c98736c802ec3d4289159caf6a80540ce",
       "url": "1f/72/bf21c686c05b380f021c88795441acf8bac22b5100e3185b49e4cdf1ef2f/r2k-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "e82c057c211bb0aba78dad25a9f851fe6097d562d8797e31b313ea5260d1ba1f",
+      "url": "23/52/391accdc8cfb41cd96b6f8c6db9b69b6a53daf2bda98ac75de7b5d0c30b9/r2k-0.2.5.tar.gz"
     }
   },
   "radare2-ctypes": {
@@ -23117,6 +23141,10 @@
     "1.0.3": {
       "sha256": "b0291670d509dad330024eb555da493c77d4f989519c925eb89f658a177584a6",
       "url": "d5/f2/c97b79f308c0470a5f215fc292eee6f4128193970e5f2308765c91e91481/seqpylogger-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "c233d7e2e37f145a979f0ef3faf47435ad2a1e67ff1f36ec89f510887c137a71",
+      "url": "a0/2b/f8f4bbe31a014ba9df0b1f84af2fb8e766616a0bb548e26cb6ef80942b56/seqpylogger-1.0.4.tar.gz"
     }
   },
   "setupjavax": {

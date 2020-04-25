@@ -9233,6 +9233,182 @@
     "2020.04.2003360": {
       "sha256": "4bb957cdedca78a72763802f1e5d7c9f4a87c23f55cc58d2018a5a9e003b4965",
       "url": "49/62/945ae0b0b98348c09e5875919a22970c9c016685752a878de74bf44eba9a/fluidattacks-2020.04.2003360.tar.gz"
+    },
+    "2020.04.2041500": {
+      "sha256": "d5d0996d7b1a1967fe7558dc14df7b11912f45c16b45e8a55697dd697cd2a6c6",
+      "url": "90/cd/4acc54d77331d33a2bc1ffdea7ee6660b4374691aea8d071348b70617b51/fluidattacks-2020.04.2041500.tar.gz"
+    },
+    "2020.04.2041799": {
+      "sha256": "471506ab806a55ff340cc07c0650bdf900157f49bfd28f51cb6180ee4bb5d26b",
+      "url": "cf/76/ef7dbe80d39b3f7ccc949ac836c2086c53e4cdedd7c2d3f6592b22512cf0/fluidattacks-2020.04.2041799.tar.gz"
+    },
+    "2020.04.2043278": {
+      "sha256": "95a477bcc1be0932aeff3ea98a8a0844222e886319906a4d6868f86dfc311d5d",
+      "url": "28/26/d7e8dc3edab296e0325d8424343367ba3c921607e6b83a7ce353704ffec1/fluidattacks-2020.04.2043278.tar.gz"
+    },
+    "2020.04.2044202": {
+      "sha256": "5687dbd3f3a54d2004106f7c938a59fd258effc19e00e3f320b732c8d00bc648",
+      "url": "07/7d/c14f555d7edb3647e62e7d5e6ca151ebda2ef74a83a2190ec3160f7667c9/fluidattacks-2020.04.2044202.tar.gz"
+    },
+    "2020.04.2045206": {
+      "sha256": "5e494df6aadd6b483604fa48d9486c8c208a3df5cbef44df8ac70a73b8c6e4cf",
+      "url": "b8/09/46d99b21b0228a1fc22130d9504189f3a4a0cd5b5aa2616ade0d87e10310/fluidattacks-2020.04.2045206.tar.gz"
+    },
+    "2020.04.2045849": {
+      "sha256": "515d9900ef4192cf65fa6904d2f51b1754e9f5b44e57332df350c133c0ae9b54",
+      "url": "db/aa/04f051f1fd081fc9499983d61b3a9db84662c5657ba81e92c4011f360f64/fluidattacks-2020.04.2045849.tar.gz"
+    },
+    "2020.04.2046407": {
+      "sha256": "77e5ddea80ce2fe65b3a4fcb108e07d0a6ab0c0ec6f415a43814985b5a7a7dcc",
+      "url": "0e/29/389e968e4998cd5502478ffd4a71d5d381ec43f8cc29e6999bcaa2fc1d22/fluidattacks-2020.04.2046407.tar.gz"
+    },
+    "2020.04.2046860": {
+      "sha256": "34e97770f9f50f9f17bb7455427c8c6dfc2f5f6c2703668747b593168d6d8ce1",
+      "url": "a8/fe/97bf22f084ee32f1acea7a07c498ce5a32e6cebbdba12eae3715d8cf1fff/fluidattacks-2020.04.2046860.tar.gz"
+    },
+    "2020.04.2047419": {
+      "sha256": "46ab9bdb0ecbc5e71d587ff58423afe29a5bf30a1f182a132c45d3d0559d8ed7",
+      "url": "14/85/1cfca1017d67fe8d242833531fe46dc73cab293e5b22c8e7e21fc2673d00/fluidattacks-2020.04.2047419.tar.gz"
+    },
+    "2020.04.2047843": {
+      "sha256": "69f5a23162f06db00e2a11cce87f3a55329b72beb52c11d286833b53ef1e19c8",
+      "url": "f9/9f/5e730be4bc25741cb092f3be08c9c89931075be13c9e8a085c96cd38a01a/fluidattacks-2020.04.2047843.tar.gz"
+    },
+    "2020.04.2049656": {
+      "sha256": "1e7324ee9a8ca99f356c5fb74c36a3057010677c990137fc3b4a34ba4248a537",
+      "url": "6c/6b/167be995f15c90e2c862887508f7242f1d8c761ba0f4bfb7e727148d1968/fluidattacks-2020.04.2049656.tar.gz"
+    },
+    "2020.04.2050808": {
+      "sha256": "2ebe209e58111fbc2611596caae51366ce39cec958b9a587724c4df865639fda",
+      "url": "25/37/661060c817b7235c00b97abc5dede67b80ac5d6c7b905c561bdff7a8f3f7/fluidattacks-2020.04.2050808.tar.gz"
+    },
+    "2020.04.2051114": {
+      "sha256": "0bd103cd63346aa08cf770ee705b5a6f65de6b13ceb738d2919dafb2ee565da7",
+      "url": "2e/78/082a56e979f89b8d28bbe82cd23c1ae2b480677ba070080d29fb5b0fea01/fluidattacks-2020.04.2051114.tar.gz"
+    },
+    "2020.04.2051514": {
+      "sha256": "efc6d5885f445ba26f78672b9297f6de8f743d61b82d892b457dcf999dad1428",
+      "url": "66/b0/25e0489cf00bfb40762bb5c0ba14e7cfbd49dceeebaf153685525686b104/fluidattacks-2020.04.2051514.tar.gz"
+    },
+    "2020.04.2052334": {
+      "sha256": "3924080a4a596edbc270950cf6396024d12491cb3c1e494c73bf5bac356bf932",
+      "url": "22/c3/6e47a097eb770ccb29ee8adad55a42fc473e5b7dd2222793bd19f0e430c0/fluidattacks-2020.04.2052334.tar.gz"
+    },
+    "2020.04.2052604": {
+      "sha256": "000fee7da853faa48f7b9a14119071b9f5b528284fcd8b2db5e6a851906df8be",
+      "url": "82/23/135a80dbf7179bc5d7a786e339f3ac072e988f66727ce011b45461367e1d/fluidattacks-2020.04.2052604.tar.gz"
+    },
+    "2020.04.2054180": {
+      "sha256": "b0a91b17e5ffbdf8b772c3cf848cfdbbd998f1f4b77b9f0469e44fb9320034c9",
+      "url": "af/2c/b9390b8354888f9d55a72c80fc34013ca76b08b79c2ed362d3cd2116f12e/fluidattacks-2020.04.2054180.tar.gz"
+    },
+    "2020.04.2056061": {
+      "sha256": "f80ee2525a527fe6de854f55dde3e82b7623cdb32649d67e9e6bb2cd2c3a8e0e",
+      "url": "b1/b7/cffeb827f8323f3d750d863e17b5e8aefa6affcd69ce42577855adf21f58/fluidattacks-2020.04.2056061.tar.gz"
+    },
+    "2020.04.2056802": {
+      "sha256": "b537d3fea10ff874bb729d0e369186a8c5c459926b83edaf499b348aef4be778",
+      "url": "2d/d1/74f21ef88ffd14c0ab94af290ea47f809f8124199fdcf7de2c6c21b31d8e/fluidattacks-2020.04.2056802.tar.gz"
+    },
+    "2020.04.2057062": {
+      "sha256": "a33729d1789ef20b9e12f4d49d120a9705567368e6de0041c9a9171b1d223e73",
+      "url": "07/4b/e5195bdc8c5cb7bbc7cbe46fa3ed260905ce30b2b7b642fab2b047c8d71b/fluidattacks-2020.04.2057062.tar.gz"
+    },
+    "2020.04.2057640": {
+      "sha256": "eefc0b97b7fcd72003dbbd3767379badc70bf859bbe7dbcb51fd55e676f8de1e",
+      "url": "c7/c7/c3ebe2ab11656d617feed0547f8ef6c9d1fea83a7a04914abcbb7d302d37/fluidattacks-2020.04.2057640.tar.gz"
+    },
+    "2020.04.2058431": {
+      "sha256": "3bcc1c3d039f9cbfd004dd6df5859b09d5461b8bbb2405d27f38e0c4b2030df4",
+      "url": "d0/a7/ef019497802b838967ac287ff0c829b68fa2a950f358b47c51f8885b366d/fluidattacks-2020.04.2058431.tar.gz"
+    },
+    "2020.04.2059031": {
+      "sha256": "c5a32fb4b0e714e39ade023f3c0c4d618a6f4d97e9b3ddd598717521010c0621",
+      "url": "31/c8/793e932a51568564ebb18392473c849353289a18e888ad63ab497a16f4dd/fluidattacks-2020.04.2059031.tar.gz"
+    },
+    "2020.04.2059443": {
+      "sha256": "017274195cab8bc8cd5165b05589ecf97b3ec320c2b616bdf3c6a36233bd0cec",
+      "url": "82/79/7ff9f7da93a67cc59aa06e6ace3ebb72389b5c3d87990b182b5e5f4062d6/fluidattacks-2020.04.2059443.tar.gz"
+    },
+    "2020.04.2059880": {
+      "sha256": "f1f8235f9a8680aef0fd9a1594f65eff63e3cc55ff3af8120581ddfe3ed2937f",
+      "url": "e7/5c/90f321adac049034c5526ae6491b312d958e91d678f8fc9941e2ee15118f/fluidattacks-2020.04.2059880.tar.gz"
+    },
+    "2020.04.2060462": {
+      "sha256": "19612972547a4da06c836a219ea61a9b30c7d40d6494e85091cc3f09b224385f",
+      "url": "00/d1/b03135c564f0c940524c04ac12b1ac2612ed6e4936c74ef5b5b8ff03ebd2/fluidattacks-2020.04.2060462.tar.gz"
+    },
+    "2020.04.2060739": {
+      "sha256": "d728dd273805701d96738eb1e88f5dcca1d5c5a922433d5276ab89abc56b6bd7",
+      "url": "b8/c4/c935747399173148e3f07a37cee41cf717c8bad4fbee31a7040965fa4205/fluidattacks-2020.04.2060739.tar.gz"
+    },
+    "2020.04.2061141": {
+      "sha256": "be9e65e85c7be12be2b32cb3e4b10a715bf48aedf6d844ab99fd287aaaa33929",
+      "url": "ca/a9/5191a865e792d81b0a510e1d747a11bbd14f414f467a9b02504ac641ea67/fluidattacks-2020.04.2061141.tar.gz"
+    },
+    "2020.04.2064549": {
+      "sha256": "d4001b47d5a8587c4f15f4232682d0de243fd770c154a4f422c4751c2f1abd38",
+      "url": "08/25/21d289a0ac6a459493cdbff6638ebf084de6876e3cf0880aa01c58be737a/fluidattacks-2020.04.2064549.tar.gz"
+    },
+    "2020.04.2065863": {
+      "sha256": "c765d40f44beb749e858d1b4eb195714220ff515de2f35ed942f5164ce9274fe",
+      "url": "b7/2a/ebf96137814afb16de4d274d144b34c11f8a30a7c27001da37601ad1cb79/fluidattacks-2020.04.2065863.tar.gz"
+    },
+    "2020.04.2066103": {
+      "sha256": "382d298df3ee598e5caf94ff603eaa4e2e4f1ef84d1dd2deb1e08d24c52b3405",
+      "url": "bb/c1/408882396845db5235956b42856d22db73c8d7cb24e6ba6f11c097816e0a/fluidattacks-2020.04.2066103.tar.gz"
+    },
+    "2020.04.2066521": {
+      "sha256": "fae65f5335ebfdfc67de03afdf872ee9a3fba5ee714a01a53b9a82b14e2e8baa",
+      "url": "84/3b/f4c979991e7a3d0726396ffd1f8ac3004c5130eacc0d6a1d4cf6209ddd8d/fluidattacks-2020.04.2066521.tar.gz"
+    },
+    "2020.04.2067121": {
+      "sha256": "a9e9a269f036d49a8870667e58b9ba27063847fe9507939e6db724284ad33b15",
+      "url": "df/47/55b0f9c1d4901803bf012b8d55759f8e030278c81480cee3037e0daf165c/fluidattacks-2020.04.2067121.tar.gz"
+    },
+    "2020.04.2067721": {
+      "sha256": "170400fe602074f81eaf358e90189bbf6b7cd50618314aa7c71a12aecc2c7799",
+      "url": "8d/4f/795d17b9a14e18db1d7b6e248db405b8bb2333b45a38dd46d7f9fc180f24/fluidattacks-2020.04.2067721.tar.gz"
+    },
+    "2020.04.2068038": {
+      "sha256": "33c10b34e7811648dc993e0368350af5bdb957bcc21e4fd76f8a0a209870070a",
+      "url": "ea/8d/422fed8cad22fffbe5c56069f293ccffc7209771ae96457ce44121d52d2a/fluidattacks-2020.04.2068038.tar.gz"
+    },
+    "2020.04.2069308": {
+      "sha256": "0b00a317a2e61a83af5119ad23eb4bb366dbf4610565f3e2e5a18b49d7840386",
+      "url": "6b/d5/cd8152a93530534cd159f49ee350ee552b733d205bcd2d2c361cace1b0da/fluidattacks-2020.04.2069308.tar.gz"
+    },
+    "2020.04.2069531": {
+      "sha256": "f6f86653332bad0bceb474a35c3115acf75bd867f8d1b3a09cba20ce83f366f1",
+      "url": "0e/d6/4c8d8a6132a34c5b5b2401ff4c48a6066dd095de97209ceb8deb2d7d9992/fluidattacks-2020.04.2069531.tar.gz"
+    },
+    "2020.04.2070981": {
+      "sha256": "6fb5e5504577139728b44de9b1f9f472a4aed55662b56d17d61cc97752dbd08a",
+      "url": "e7/18/9af42567d574232bac80fb626c2d81502e41e97954b6c38669be5ecf071f/fluidattacks-2020.04.2070981.tar.gz"
+    },
+    "2020.04.2073441": {
+      "sha256": "3d969c89a31531da4a2ffb0a265243164105f3a27f252ec187c7531a9973ae70",
+      "url": "6b/a7/2d552ae41019acdcd19b851c48fd7d0917563158759a70dbb8d36649b5ae/fluidattacks-2020.04.2073441.tar.gz"
+    },
+    "2020.04.2074669": {
+      "sha256": "0a9809a0b6e2a83fafab1bcc11240a04ca965630b2abfd60f49d501470b27cca",
+      "url": "85/91/73a83b9b3f16f94416a76beb5681674a6a8ff8c10de017f163256cd827ea/fluidattacks-2020.04.2074669.tar.gz"
+    },
+    "2020.04.2075055": {
+      "sha256": "daa50ca4449966c71cb70e3bab9c1dd13b93725b369d05b870d8635ce1c315dd",
+      "url": "1c/7d/e5eb694b0da84b2830e27c4320018100844bbbbf2b77229b4460fff139b0/fluidattacks-2020.04.2075055.tar.gz"
+    },
+    "2020.04.2076130": {
+      "sha256": "015fbcd24f24de78e08bb3f46e31897fa7e26cd3aae41c93ae7d1b9c8f1f60f8",
+      "url": "82/c7/908fbe9e2ab3e38630bb0f49b7946a28a0d3f93f88e61ac14c57f9252192/fluidattacks-2020.04.2076130.tar.gz"
+    },
+    "2020.04.2077185": {
+      "sha256": "72ecbc9cf5c29e7888c77d8067f16160830aba622b4e14a8306f324d90cf6517",
+      "url": "bc/f9/ffc5d1e39f0bb14424f68ab28e3cb77812028254c070dd44de3326d505b0/fluidattacks-2020.04.2077185.tar.gz"
+    },
+    "2020.04.2077411": {
+      "sha256": "7bb52a4591c78f4a889a4ab585404dba9ca803c5a748ba8940e286f0671ed5b8",
+      "url": "3b/9e/f14ce6db097d8be2b0de1f3bbb8fa05de2e7dc31f7226363c4c854eb60de/fluidattacks-2020.04.2077411.tar.gz"
     }
   },
   "fm128-radar": {
@@ -9629,6 +9805,10 @@
     "0.7.20": {
       "sha256": "a18d521786ca14a7309c266426e3566c7ec931d4435faa922f157344ef66ae5d",
       "url": "9d/f2/b7d87e7f22a6e79716503403d801cb9b4bebf7b64d4180011455d3543c0f/fsds_100719-0.7.20.tar.gz"
+    },
+    "0.7.21": {
+      "sha256": "52486dc698e90e60d5f36ea1cb9b319e78793780530fccfadd08342533350d57",
+      "url": "84/84/70d280434df8f1353bfab80044b820e37a0caab40ba704444ed126c5e1e1/fsds_100719-0.7.21.tar.gz"
     },
     "0.7.3": {
       "sha256": "13bda85654c995136e63585130ca6be265312d585067828e06e49ef003e1b0a8",
@@ -16552,6 +16732,10 @@
       "sha256": "6ab1f90b02915c038f16d3f1d32089af2158243264b6e0096662b1e8478e87ec",
       "url": "e6/59/f43b3bb8120427bda06025a852b762819ab7f840c015d47d905b58e1a2f4/mypy-boto3-efs-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "fe0460425416588c263cf18ba7d0258bab4a0fe902fed54c9942150a26d84c3d",
+      "url": "17/88/d778cc31c73760326d1880601312c7d9cc73a500ab0cf384e581eaba88f1/mypy-boto3-efs-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7881f3875dcf70db5c5b5e9463d9806f94b217baa1fdb092ef4f1fd3bf5b2b24",
       "url": "4f/2f/6531372f5a38c1eda6d7f66d854975fcd169b3a04c947924fcb9930b83d9/mypy-boto3-efs-1.12.5.0.tar.gz"
@@ -16844,6 +17028,10 @@
       "sha256": "4408c8917c08d312936d3f84f9087940b35b8b17e242fd0ee9ed09fd8ae8d5d3",
       "url": "c1/b1/a4bff28008e9999b115df9441dec02071e668f10cc859b9fbd2243579b01/nflgame-redux-1.2.23.tar.gz"
     },
+    "2.0.1": {
+      "sha256": "124d9090e3eb09cedac44eba0145488a4c479d7fb2218fe50bb6d26f728e4d92",
+      "url": "7d/7a/6d94c97884c69790beda76ad36dab485779fc5825d6199f35911b2027fd3/nflgame-redux-2.0.1.tar.gz"
+    },
     "2.0.1a1": {
       "sha256": "e705992bad1c3b09cc783ac3516d139137ae48f721b409276bbf2ae7164ccb32",
       "url": "2d/25/b3cc79202ddf403616fe60a5e3c23cdfcdbb871c41b39e15e803d8d0659a/nflgame-redux-2.0.1a1.tar.gz"
@@ -16867,6 +17055,10 @@
     "2.0.1b2": {
       "sha256": "a915c23141bc27bea3c5a26916fc14c5b02d2c1ede5c57888aad895d4de13e7e",
       "url": "35/af/7b54d094ec8cac53ababfa9979c334c5371994e6789bae97287859eff70c/nflgame-redux-2.0.1b2.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "41915f628a96649910f11e2f818b58b24dfc52c49de1379f82d58194ea94b80a",
+      "url": "b5/9b/727150fc3135d9e3005cd3ca55f4b35de1d5365bf9d1c286f1f08c14dd67/nflgame-redux-2.0.2.tar.gz"
     }
   },
   "niceplot": {
@@ -17619,6 +17811,18 @@
     "1.3": {
       "sha256": "495e08208bce906e631000312cc480544cc17a921f763dec47e4f1bca6c544bf",
       "url": "b4/ec/6fdb2e23e4712d3e101bb2b1160660bcf47c732153d3fd1aaf0eb816c137/pandas_market_calendars-1.3.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "f2a6ce820a199ecb7da07550b2c53962adc1d29c8dd58db2ba429efa81e33355",
+      "url": "d6/15/694c7fa38dbc795343718e41cb9e0426d733a58e417b522bd5097835fc47/pandas_market_calendars-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "003ebb26ee67758530f76271c77e2cb32a8386dddc9c06c65215bfac31e211ed",
+      "url": "a2/1d/7ceed7bbcd58f76f76dcb9cb7ff364be4f9d63fdfb826dca973f3278958b/pandas_market_calendars-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "ca57df0df7ef355d09cc3e7f127a6ff67a032059e6216a3d64b8064cb8c24b04",
+      "url": "b2/26/8a7524c82f3e0fd61a9e31067130fa0220393a86f7f2050f79f066b76209/pandas_market_calendars-1.3.3.tar.gz"
     }
   },
   "pandoc-fignos": {

@@ -7349,6 +7349,12 @@
       "url": "08/a2/82d8745922bbe586dff962342299a4a70de40d8531685616a38fa7d68ee0/dtscalibration-1.0.0.tar.gz"
     }
   },
+  "dvfile": {
+    "0.0.1": {
+      "sha256": "c607d5fe048133be93f0c15592f02e05054ec2a01410203b34204a807efe4646",
+      "url": "20/3a/510d33fa59eeb89541342d8353fb8c617b39149ffaea407821e84c6dbc60/dvfile-0.0.1.tar.gz"
+    }
+  },
   "dxpy3": {
     "0.265.0": {
       "sha256": "c773a4809cd31530b252461efc608e6603d4194ba1923620d67039004a17f646",
@@ -10257,6 +10263,10 @@
     "0.2.0": {
       "sha256": "df88c3606146e1596bd9c40f6a829cb682d914fe12dd970aac6246f238443e55",
       "url": "0a/7d/7989ff215da02cbdbc82e5cea4cfc6301828a88f8ff44dfecf604ba4cc9f/ibm-platform-services-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "508b45433960e8f39e163dff439c563252dcfa53d9b378011a93bad3b9469db5",
+      "url": "3b/32/4117317eac7a692fcda7cf0d010ee337ce9a1e25490fa7c02faee6445c92/ibm-platform-services-0.3.0.tar.gz"
     }
   },
   "igtool": {
@@ -10621,6 +10631,16 @@
     "0.3.4": {
       "sha256": "010879c8997cdf2dff744f62a6e6a81e79081a683c505b02838879954e3fe252",
       "url": "2f/ab/2caa220266b781db13f751ec08938fb4edab183797129d34529e6da06777/js.angular_imgcrop-0.3.4.tar.gz"
+    }
+  },
+  "json-coder": {
+    "0.1": {
+      "sha256": "7812395191cdf469fa421cee1ebff9fbe0abeb5c5d3c6207c4a967ca98f69931",
+      "url": "c1/4a/a0123d7b2d37ded034aaae3fbb542016b1e655fb0307a705ccd1eb1b2243/json-coder-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "dfc1699d6156d3ccf6e76cccb7c0f054eaf1fcd95825d8f60cc294f4d7502799",
+      "url": "14/78/587be9cb48c44bee22276600aff9bf4e6f94c01116814741f2e31f81152b/json-coder-0.2.tar.gz"
     }
   },
   "jsonrpcclient": {
@@ -15149,6 +15169,12 @@
     "1.0.1.1": {
       "sha256": "a3b1502ff4f21438368ebe27a5230125bd49239a72a558ddffe58fef65457b7f",
       "url": "52/1c/548136d5b40cc525101e689a9144fd23f35dce71d20a4fc6f9fe96c2b6cf/openedoo-cli-test-1.0.1.1.tar.gz"
+    }
+  },
+  "openmodelica-microgrid-gym": {
+    "0.1.1": {
+      "sha256": "01c67bbe1d453534e880a48b9f571e1cd273a44515fe6600c566c781e90dae1a",
+      "url": "0e/6c/439f92de5b08db4ca302d1fa5648d64a2b629d0ecb63b9442b59c5488f67/openmodelica_microgrid_gym-0.1.1.tar.gz"
     }
   },
   "opentmm": {

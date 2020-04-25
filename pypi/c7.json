@@ -13276,6 +13276,10 @@
       "sha256": "0f311d45dd9ccee450781389f5343f65e4f883ec88057370f6d9f3372bb4df24",
       "url": "9b/fd/1e8323c7b2b0ca01623613a9322e6111efc2e6d86e4043a55aba6718d570/mypy-boto3-redshift-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "d48bdd092e368ae3360ea83e7d9659d49ff79c6eb270978fdef2a8cdf99c77be",
+      "url": "e3/1f/040965da64e83792090a0238163cd8347a7702433853d3c13cab80e4d664/mypy-boto3-redshift-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "435673568be59d23613661f309cc76bd0d54bfca809fb4a3dece4ad86210cbaf",
       "url": "63/8a/f82011aa817d842f574ccdbc9442176cb7ee6417e971489ea3683004b671/mypy-boto3-redshift-1.12.5.0.tar.gz"

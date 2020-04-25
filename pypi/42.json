@@ -4498,6 +4498,18 @@
       "sha256": "508eeb6b9f67da6dbcca150446ed2bdfefa57c8935547260656db89955468805",
       "url": "2b/4b/272ab99e79c356a0f25f8cdc71d857eb79865b6da42a5bf9726fd1bd5e5f/datasmoothie-0.10.tar.gz"
     },
+    "0.11": {
+      "sha256": "e3ac4ef052fbc16bdd90ddbfd65a06f3ee31d1b6e1f32e46c8c97f3a0c04bd21",
+      "url": "a4/b9/b0b88eeb59128b4920aa1c722c86e6b2e026e289f8d3bd6a4af8497ad22d/datasmoothie-0.11.tar.gz"
+    },
+    "0.12": {
+      "sha256": "c57067f6e5bbeb50ac33a9d3a5b9e85f032ab8da2029f159cd2547d601a1a573",
+      "url": "2a/8e/0b581aab85280d598c3eea2a4f6c73e4f60981dbfce343b6cb7b638ec53a/datasmoothie-0.12.tar.gz"
+    },
+    "0.13": {
+      "sha256": "f6d35f3d1704f55da2ad6c1b6ad6e53a7a681b1cfba9c0e0429791f11de915dd",
+      "url": "2b/c5/9d152e73b8b32f5499f5b44e8e6f5606d4c9fda565be3582b2dfcb6fcc47/datasmoothie-0.13.tar.gz"
+    },
     "0.2": {
       "sha256": "bce92cba527e58162648b2b7640cd8d540886a08dba7012138e1649bce0ab5f6",
       "url": "64/2c/84eca07396426e6b5dc670eaccbb56a81dab1089845fa04e02264d7949e6/datasmoothie-0.2.tar.gz"
@@ -15551,6 +15563,10 @@
     "0.3.0": {
       "sha256": "d069d3e6535075a342962245a40ab368a5d134fc72ca537a29f3e43424ef5142",
       "url": "0b/db/abfa54f4d64c8d0f9eb7d26a7865b867dbe6eed7ee34c10bd533215d3679/polymath-scalecodec-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "a133107ea65f7b299af453b7fbb7becbcc1a0c852212b14e17875aa39f8ecdfc",
+      "url": "21/07/ec1fa83bb870f47843f3e99128ad7be78d95082027616019de09bfe6d7a6/polymath-scalecodec-0.3.1.tar.gz"
     }
   },
   "pom3": {
@@ -23287,6 +23303,12 @@
     "0.9.1": {
       "sha256": "b26953542f68c52d3cbde7abd7c4ada711b88b47c134fddbf51445a6e1750b94",
       "url": "54/ed/5d64258df473c8a1fa5d85b2326c1a9893def9f37e816fa8a22d9a719f31/virtualenv-bin-0.9.1.tar.gz"
+    }
+  },
+  "visunn": {
+    "0.1.0": {
+      "sha256": "5b1b2ad96ead96378f490d9b7bdd852d1351e93beadaf94c8c3fa209149d6343",
+      "url": "a8/ea/9dfa704685009950b8f89264bdf905fa3c1480520f39540fefa1ad279580/visunn-0.1.0.tar.gz"
     }
   },
   "vsionailibs": {

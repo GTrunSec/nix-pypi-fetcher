@@ -1668,6 +1668,10 @@
       "sha256": "2ae2eadd246e52f5e1ebf6efb1e69d40e0062f14c2c4a36fe4fd89670b50203b",
       "url": "88/20/fbaaf726fad2d234724f75ff22f3a11be3e6430f13679d13ee34bcd317d3/aws-cdk.aws-autoscaling-hooktargets-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "3a070700af7258bfb873c3d7615298a2a75d39eb6e9850fc1da7241523ea2ef8",
+      "url": "2b/44/1e1e8c8f74c9cfd9cd0e83f5f4c6df90639f43cd58cdebd744b2e4110d3d/aws-cdk.aws-autoscaling-hooktargets-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "3e6713434f075f17ddf199582e89b97efaa8d5afdde60be5f98ad52e8ff8d10e",
       "url": "a1/7c/a00a7a40ffd9f7c51c0778d64d453a2aa4fd1ab46649abf57256ca5249c1/aws-cdk.aws-autoscaling-hooktargets-1.4.0.tar.gz"
@@ -11767,6 +11771,10 @@
     "0.7.0": {
       "sha256": "5d2bf3740bd6b5ee5333c5b81f401d33ec5aea643067f188059957aaeab63f3a",
       "url": "a9/05/a580952327ad186590b4f5d9035d489e29284b9dc13869bf8246d868e534/localcosmos_server-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "7848f071a9f93960015d22c555e3be9102a55a4867fe4586ab86d9a25e24fb9b",
+      "url": "17/a2/fecc719a146622dc5b6bdd1f4c353b7e9461de715709424eb8380ad7b6d4/localcosmos_server-0.7.1.tar.gz"
     }
   },
   "loggedfs": {
@@ -17639,6 +17647,14 @@
     "1.4.1": {
       "sha256": "bd9d3af869d464191fab08044148bbb02b685f27c64c0d1f6bface057b71ca97",
       "url": "ba/82/ee32296e34bdbbf65f06b953fef605a700c3b5473055271b20b34334696b/pyleniumio-1.4.1.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "6f08d7a5269956c02b553a77a1dee0b6258eb87c292405cce9d4a621529d877c",
+      "url": "72/3e/d0d540f2f1713d7f09b56d761428aee1c267488573b95d975765352b8e3a/pyleniumio-1.5.0.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "9b051114b2f08e1130790f67ee1f1955f7609790b7b55838df9b687d6ce60d7a",
+      "url": "55/00/b98c2fb216674cdf79efa52047dd707df507749a7074d6c510c62cca9085/pyleniumio-1.5.1.tar.gz"
     }
   },
   "pyley": {

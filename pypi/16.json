@@ -16739,6 +16739,10 @@
     "1.0.0": {
       "sha256": "12064a1f63581bc7321312c1de04afd487eee1e3953d4250486eed39425645f7",
       "url": "c7/79/3faa07a809842f653c0391f5cb1d4511541764807ff233fd0eba209a8f0c/redshift-upload-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "e40a1c03c21563137980b558844391889dd6d87c94d01fa423e5a8ca6f0a4bab",
+      "url": "3c/4f/90e929806773e5a43ebb2e29c1559bd4d27fd95f7ad3d92d99084fb067e6/redshift-upload-1.0.1.tar.gz"
     }
   },
   "redshiftsql": {

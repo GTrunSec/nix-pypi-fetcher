@@ -7329,6 +7329,10 @@
     "0.7.0b20": {
       "sha256": "9434a2abe2f2ec45177873cb664dfac80f5814cda72c69fbfbb8eb3c136e1743",
       "url": "15/f8/034fe98570b965ca02fd2ec0d6f265581b41c9b1517a6c8787db06578c11/fp-NGFW-SMC-python-0.7.0b20.tar.gz"
+    },
+    "0.7.0b21": {
+      "sha256": "8c5da8fc1ad02dc9a082047eb1b35f1405c95e38829e2e882ea6d1b95cf5234e",
+      "url": "38/b9/edf7707faafb053d3136c1ff427827cbe3bf4a4acea893a1d88ee3938713/fp-NGFW-SMC-python-0.7.0b21.tar.gz"
     }
   },
   "frd-logging": {
@@ -8675,6 +8679,10 @@
     "1.0.3": {
       "sha256": "1343e0ff4cc67dd51a221169a8ab5ecf184c99a550c0d022c357c73c4913aedc",
       "url": "f8/a3/aa57a3366164cfe5701d370830c6a5d5f2639f7e78247f277dd33f73456d/gimme-iphotos-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "0875cb9719cd5375fd6fd3d0fdb492edc6cdbb9409245d26331067ab98dda642",
+      "url": "26/10/1ddd80862e6e0032c932f33bc650f04ed7278e5196a08416a6b5064ec8b6/gimme-iphotos-1.0.4.tar.gz"
     }
   },
   "gir2rst": {
@@ -10911,6 +10919,10 @@
     "0.0.21": {
       "sha256": "fa06e93149b0f19e19c90ce45c9cf5a0925d4933c438028df107e90ddd08abd1",
       "url": "4c/2c/6eef71bc15275150a767c2ae6a028a163ba9b409fdc433b42f366f2159a5/imlib-0.0.21.tar.gz"
+    },
+    "0.0.22": {
+      "sha256": "f590911c8e78cee25ff3e3adf0f1741ed738a6e9e4fff46af64b5ffc551c2e4d",
+      "url": "dc/e9/ee9302cb844cfe55ff2e22077f4f326ea697b8beb11b084e684c187cac97/imlib-0.0.22.tar.gz"
     },
     "0.0.3": {
       "sha256": "cc0796b6c601d203a5816fbf14d4532039bc3c6e81d631d3c001e5608bfb56db",
@@ -14714,6 +14726,10 @@
       "sha256": "6391715d87daaf28c5b0f81f4dbdf33c0058d9efee56fe497c145bb8fe161076",
       "url": "9f/90/5d9911f1a0735329a93bed4fd2b9727117ee351db5ca6c5ce553719e65b0/mypy-boto3-cloudfront-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "4f0a63d4c0c2e9ed4891fe36ae0bd94c91532b647d53cd7e899975298d1c4d26",
+      "url": "65/28/f3a09278c2e89288dee2f173efb7aae724b9da46ea0e7db60830f7b35101/mypy-boto3-cloudfront-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c6199382df022306dac5b08b42b218ea93fcb89a0942ea6caa2a189fe2ebbdc8",
       "url": "2c/68/2c8ba3a493e11d63795c71515348a64a4631bba45a6c66addd3fc0b6fe16/mypy-boto3-cloudfront-1.12.5.0.tar.gz"
@@ -16659,6 +16675,10 @@
     "0.1.6": {
       "sha256": "f3b59ea268f16e0c5f33fa5afbff928affe79b58587a8bfff775ea8c327c2b1e",
       "url": "5f/d2/881e87f5e873a7835f0a7c17210766a0a5b1bd1dd6a20fe3369fd2475381/pwptemp-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "a62bbd64523cf9cfc63b4d23a026179de878d60bd2afb6de9d51ade7e7e21802",
+      "url": "6d/42/b41f07aa0cc5ca0d0640c256a73bf4e9baecd737ff4a0213276771c5b481/pwptemp-0.1.7.tar.gz"
     }
   },
   "py-aspsms": {
@@ -17585,6 +17605,10 @@
     "0.3.5": {
       "sha256": "d345b10ac8c05267d351e057d7ebf429ad49d4febe49124e065caecc8b2c50c0",
       "url": "9d/54/6ee046202f130934f9f5a7a9d5e94fa316c74abdf82c2a22db861e7d8607/pyrchain-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "fe3ecadf3ce5a52abcfdc809d2347e2e3ab8b8e5972585816c3e531be02d41da",
+      "url": "b4/e6/f18592c54e21c7783f3a040158a86a81f5d27d89a789f38a76dca2b84dcf/pyrchain-0.3.6.tar.gz"
     }
   },
   "pyredblack": {
@@ -20923,6 +20947,10 @@
     "0.2.0": {
       "sha256": "cae38e8424837a88e7fd2fc9fb5a1b63e0de6cc32b26b998c7697d6f5fb7a432",
       "url": "08/a9/7a8a9d76c455c572c07066f740d8ce4d53cb775e1771c54cdcff80683556/selenium-crawler-template-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "efee2df9b3e805d8b72ecdac58d7f2596c59e64eff0e3b33746d49aac5abc41a",
+      "url": "fc/cc/225dad8a4cac93c6bcf95546f25d92c8f277f0b649ba7e0dd469965a66f0/selenium-crawler-template-0.2.1.tar.gz"
     }
   },
   "sense-python-client": {

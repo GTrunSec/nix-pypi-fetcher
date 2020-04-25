@@ -2145,6 +2145,10 @@
     "3.0.0": {
       "sha256": "1baebb0d69af2989dbf7a7d822cae9758135de3db975637e75643e026447bef2",
       "url": "25/3b/f472bab022da127a7cf308ad3f18815573ed74d278a8e8a3a73b6ffb86f1/captain-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "e07cfba68226262002a4645941245a6589d2349fcbd6dfefdab81d70761fa628",
+      "url": "2a/aa/7ed276c050cc2eecaece64f1af8156cabcfa075c8af1ef7fdd4a48a8aa3f/captain-3.0.1.tar.gz"
     }
   },
   "cartago": {
@@ -2387,6 +2391,10 @@
     "4.1": {
       "sha256": "6b25c6a78c100589fe47680945268473b1cede1fbb47d35da0f07e0d578a4402",
       "url": "ba/53/31b6494eb6241cc003e9a3e3c060b3463a2a0fc570138f7b4834936e6960/chesstab-4.1.tar.gz"
+    },
+    "4.1.1": {
+      "sha256": "5d763bdd594a3eae24f916f75a024f32003067e272e06735e4071d0c61ac359b",
+      "url": "02/c6/04ad892446afb3f2861b80facb22f306cb9548ce23fe51faaac671f0ebbc/chesstab-4.1.1.tar.gz"
     }
   },
   "chompt": {

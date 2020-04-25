@@ -14558,6 +14558,10 @@
       "sha256": "81105417f377bc59308fa5a4fdb1ee818bb50c486efb61a2644961da45cd7948",
       "url": "3b/19/af2dfac2069d0d0ab9f58946130a48d849c9533021ed1fbd8b38dce4ad3f/moto-1.3.15.dev668.tar.gz"
     },
+    "1.3.15.dev672": {
+      "sha256": "9dc1737747468ea8bc8e89b2774992bd9b621b89146f45467f50cc86622388e2",
+      "url": "80/6c/3a097c2b7617ca2c530ad91f799ae52611ca4dcbbd32f899817699256963/moto-1.3.15.dev672.tar.gz"
+    },
     "1.3.15.dev70": {
       "sha256": "3ce780afdeef3d9a7ee1aa4c093a696e4b8643e12c464ca3d49539b9500ad4ad",
       "url": "b3/fb/49708e75d15c15ba8f6a55a4ca7186f8673f833823c5f581c5494b1699fe/moto-1.3.15.dev70.tar.gz"
@@ -15263,6 +15267,10 @@
     "1.12.45.0": {
       "sha256": "5fbc89bf1adfd0f98aa162ded24bdcb3fab06d18a71dfbc558aab55631ebf2b2",
       "url": "35/fe/1a155403c6357465bdcc924770300ea947fd02ac892befc2e1acd31ef507/mypy-boto3-iot-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "496d849d28978101fafce236885e6085eba2277c3c0b6785bb03fd02e1b851c0",
+      "url": "e1/bd/d4ebf2e30a2a258a7bf5bdcbc834742faecdba2692634638992a0380d9b2/mypy-boto3-iot-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "dbdf1626d1d940a1e96ea0096fbb91edd77b37babc74928e9f19e8bd79caaa94",
@@ -17843,6 +17851,10 @@
     "1.6.20200417": {
       "sha256": "dad31f42605d0bf1b49c5348cc6d59248f22423a458b5135572c9dac1d9361a3",
       "url": "46/ba/62cc59d93ca17f60664bfc6d6902cb2bdf4f5ce523d8269e0ffefdf3e09c/Phidget22-1.6.20200417.tar.gz"
+    },
+    "1.6.20200424": {
+      "sha256": "a41fa1e114baf07c8e99a8ae60e08a14e5e81c8d3e9d69006f167d36972f409f",
+      "url": "8e/15/f7738052c7046187afd68171db588c988ebafd08e6fbcc544d5d24a7c3ac/Phidget22-1.6.20200424.tar.gz"
     }
   },
   "phigaro": {
@@ -23719,6 +23731,10 @@
     "0.2.1": {
       "sha256": "1a9e05a88e672584ab89ef06dce486ca2877af1f269a10b58de6757c838ac9d8",
       "url": "1c/f1/a5383d657e167f3c30b9206da35a28121464a22cd64e18ad149512edd4ef/takagiabm-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "f1a85ebb07c358a9d9b645879c68c4eae9f46a60af76229e07c248de886e4f0c",
+      "url": "1d/a0/de817b28814f6e66972eaca01a6147065645585e913cec9986adcd1975a0/takagiabm-0.2.2.tar.gz"
     }
   },
   "talisestools": {

@@ -1509,6 +1509,12 @@
       "url": "33/c5/0ce71e8eccc6d0aa6e91219f5a17a0c805b8d334df457d52ee0584467f3b/camisole-0.5.tar.gz"
     }
   },
+  "captcha-harvester": {
+    "1.0.1": {
+      "sha256": "dc47eb77d09dfd06a062c592c0240e47cfacf406c259c1a2ddb08158d1146e10",
+      "url": "29/2c/76e3023b5599151c3bc93bda775c24b4dbfe40ea42b634a9471ead1813d2/captcha-harvester-1.0.1.tar.gz"
+    }
+  },
   "capytaine": {
     "1.0": {
       "sha256": "dc21f8e84142d671491527aebd394ba8106389dfd2e86f52839901f27508391f",
@@ -1521,6 +1527,10 @@
     "1.1": {
       "sha256": "91d502dd119ca7da2e26509087aa5c8a330f8fd1c6ee0fba931af3b80d7a0978",
       "url": "e2/4b/12edba3d9c6d919d41cc7faa42b4152a63c2602e7c11bcd328b122e13bb3/capytaine-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "c79a782988063b34bfc8d2a8764c63f5e3715cbc332613b37071f314c0e3bcff",
+      "url": "c7/bd/317e7b23aed0c45f450d48769b8218f8163e28ed837230b74ae2562caafd/capytaine-1.2.tar.gz"
     }
   },
   "caraml": {
@@ -10323,6 +10333,10 @@
     "2.0.0.0rc1": {
       "sha256": "dd298c7b5dd03f8d21c256321288852dfd2e50dde1283bf7305edadac1ea6ff6",
       "url": "b8/1e/7469f5a543ef78a88124f928b80cdf869f5e0d5c95e66ffd027cfd28db6e/heat-dashboard-2.0.0.0rc1.tar.gz"
+    },
+    "3.0.0.0rc1": {
+      "sha256": "20fdd87537a176efe76550db973fa49110b263cab95843bbf2f68dd9b8f1bc12",
+      "url": "a5/3e/1279b70515d77ce6738a7f269d40b2b33ddca0dee9c8c6a88d14ff0b2563/heat-dashboard-3.0.0.0rc1.tar.gz"
     }
   },
   "helm-upgrade": {

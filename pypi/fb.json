@@ -1133,6 +1133,10 @@
     "0.1.4": {
       "sha256": "2cd0f99454a1a8bb34d510e1923250b19652d1f13854eb705795ea9946bfed2a",
       "url": "fc/6f/6e805209fb4cb0efb2165095dcf87c78269328de9c41e16d04675648b609/baikal-sdk-0.1.4.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "501ba3d0f79499ca5266b1c0b68981b0ea34f0cc1295018288640c1b49c6dfb1",
+      "url": "af/38/dbb8fe417ff7f7b6a0ca414591d92b37d59dac1145cea295eab22620446c/baikal-sdk-0.2.0.tar.gz"
     }
   },
   "barrett": {
@@ -10570,6 +10574,10 @@
       "sha256": "8767f14d4dc6c56ca2a7bb0bf329e7dda1cffd92fa9fccbf5aa9224a460beadb",
       "url": "de/a9/77779eccf2d278f401f6676f0ab9d98a06be9f4db2755533209df0899420/glean_parser-1.20.1.tar.gz"
     },
+    "1.20.2": {
+      "sha256": "53fe34c5a16bedf75a512cdf894efc2d7d1b4a51f063bb2d755327513180bbd2",
+      "url": "6a/f5/68ca719427246666403909f1d5ef84e02ebf8a0dd6fe546cda78a4ac881e/glean_parser-1.20.2.tar.gz"
+    },
     "1.3.0": {
       "sha256": "bd30cb2393761f4c68d7792683b63ed13fe742c0f31aa72f6a5127c6db7b8e0a",
       "url": "00/d2/a712bc5ce2519d7f78ef95ee11adfa1e81994b7f04052592f83ec8d0cd51/glean_parser-1.3.0.tar.gz"
@@ -15983,6 +15991,10 @@
     "1.12.45.0": {
       "sha256": "264cdc703937684e0fb91b122f73809abd6035f244d7adbb47dd2e7068d2442c",
       "url": "08/cf/655d8aa1553aadf0423a462b0ef8f35c5ce7b08017b85ba85c29225af9de/mypy-boto3-chime-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "f4f6a50028dabaee3a1b2c8628db48be2f2fa2391169f603c25e59d3dbe3629f",
+      "url": "a2/f1/8af8e9acdefe5c6b1e7fc70d01a138d0dd5749f004faaf4e394dbc781283/mypy-boto3-chime-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "fc0b310c508ffee77f462fe5d2ea20f210367246a6312ab4d138e1fdcbd9b43f",

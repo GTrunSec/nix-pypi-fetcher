@@ -994,6 +994,10 @@
       "sha256": "12df299486677702908b1d3dbdeeae9fcd11a03a595fd1e5247959b96935a676",
       "url": "cb/69/95278469d51e17dd0d0e310b4b63351127eb3f61a4c7f053ba84bcdc1035/aws-cdk.aws-athena-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "3381c6c42a666de8fd067558c59190610a3d44f31640556fa82d1699f8a6bdc7",
+      "url": "81/14/04ffcf046d5ff9d97e577d14a8ba72f1080a261545136871f89e6e7186da/aws-cdk.aws-athena-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "bdaa8e7f7dfbbc1ed372d6d4b5b0c0c9a408f8c23a7bdf7fe6a394befba52c3e",
       "url": "33/1e/3e7540eaee0698d3e31f4bf9198dbac65714c6323593244a32a2ca50745d/aws-cdk.aws-athena-1.4.0.tar.gz"

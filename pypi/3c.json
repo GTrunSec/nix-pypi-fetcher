@@ -2162,6 +2162,10 @@
       "sha256": "7fd06ab2da7acd749fa9c7f2f4e06ceef27b2eb1c6f39f8831c69019ea16f699",
       "url": "f8/2e/6dc05c0fab3bbc983ae9b728f19d373baf9ab8a0cc3306b7c3fd8c3f318f/aws-cdk.aws-kms-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "ab59df085ea33f56eaea34dbc8cdb5d35f062132349a3085f0ecac3d47d95f63",
+      "url": "45/21/52234112f023608af5532c736f30612b95dfdf7946ec6159c9a19401a532/aws-cdk.aws-kms-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "c9a4c505700d30a90bf94b67bfbe2bbb28fb732bc643382d72547bdd38c2f528",
       "url": "9a/27/7c13bae3954840411edcd41428a59ac975b15f0ad5953c1dfae563dd8c81/aws-cdk.aws-kms-1.4.0.tar.gz"
@@ -17430,6 +17434,10 @@
       "sha256": "fa08055ff608aa3b67c6cb9cfee5cff7fc4f6e2ab5357a78d2fb4fea613e83ea",
       "url": "8f/7c/fe1700b010c660bc855691ef0e17ad7a02b55dd73d5ede955dd42d8029e7/mypy-boto3-emr-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "99db6686b49c260d5a83fe5a09fb8384e08879fcaaa47d7056b4d83cabe17b4a",
+      "url": "fe/d5/6b51330bcb33603b3077e2fa1feb85419dad3771f5449177db8ff4e80e5e/mypy-boto3-emr-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d028d92c1c255eaf85f9ee3856f8032b00e246f73953cd224a1bb48d440a053d",
       "url": "cd/fc/f6f4143fd210c1458c41d3fece4953a4e96bc5d3261cd5c7e4435df369a3/mypy-boto3-emr-1.12.5.0.tar.gz"
@@ -20195,6 +20203,20 @@
       "url": "6e/a1/405e88b333969cd107c6902ea4542e938e46ccbd7e94a65a8cd9c5c1be3c/pybothub-1.0.0.tar.gz"
     }
   },
+  "pyciosa": {
+    "0.0.2": {
+      "sha256": "5292b0a63a05a8462f50606ed7fb8dd475c63b785ff551e6498bc659c3861c99",
+      "url": "1e/da/b136d90001591cbacbcbf81503fec2d1f9ab9e5c8c0ad840033d1f365fb0/pyciosa-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "aad531c75adbcc41391ecc35317b8040d7a099b513dd73237ac155aa1756589a",
+      "url": "7e/64/000978b7870ea041b06db0de616c50cd179cafb1130755560352b1de0620/pyciosa-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "ad77dc8753e06981a466ba729742b8433e5d357c578feb8b0f6c4e68bce0ee83",
+      "url": "ed/ec/329bb3a6d83382900ef2bb6d1ccb926fa7c3e99ceb3abe8a788003d2c708/pyciosa-0.0.4.tar.gz"
+    }
+  },
   "pycmus": {
     "0.0.1": {
       "sha256": "7840b689178ad24a43cde0721b76b5f322a5c22fed2d3f2be1b984f8170d2bc7",
@@ -21639,6 +21661,12 @@
     "0.1.2": {
       "sha256": "5e4f86441b1c657b97b53e1398f3dd466d1281086c0911924ff1ac291217dbc8",
       "url": "4c/63/eadbcfc393779ce4af6bac906dfc6e7b82ecd46afbcc4fa658b74c26539f/python-kzt-exchangerates-0.1.2.tar.gz"
+    }
+  },
+  "python-netcash": {
+    "0.0.1": {
+      "sha256": "d4ccc371430dcc4d0179802463569409c1b6ae5f6a5ac556649f8aecedd07750",
+      "url": "14/54/9efc1e0f0f6963b9e78344ed3a162e74887da82c0deaea49aa1e09966cbd/python-netcash-0.0.1.tar.gz"
     }
   },
   "python-ovmclient": {
@@ -26675,6 +26703,10 @@
     "0.3.4": {
       "sha256": "da2433140f73afa76f955ad9ce8ae4656fdd95a169e8dc10b9604d2c28cff117",
       "url": "1b/c1/159580eb3368f8e6f24bc2bbedacc5f2142e81c920c0ec6bf4149e2de511/txhttputil-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "7227943461092efe1779fd1e7e819a202f6cf6d1de945a385bfb00bb5d101889",
+      "url": "67/d4/aa49a0a3fb116c594fac3f96d160a92ae96cbf4b829689acd1ae194a1482/txhttputil-0.3.5.tar.gz"
     }
   },
   "txlogstash": {

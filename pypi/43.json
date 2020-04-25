@@ -8133,6 +8133,10 @@
     "1.0.0": {
       "sha256": "eb67b56a55359ecbeba85450c35ae23894531510c1dc8b23f8b5cf5f3c43a4f8",
       "url": "3f/e7/a07c6a15b6a83729b8bfb1150ff213e70d60f51442ea441e02ef8a4fdef0/edist-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "b7cc851edd56feceb3959c575e080b9b93dc5152abc3d1137c6af2cc43e89675",
+      "url": "3b/f0/c50afd1c0fc2ff4c0aa08421da87b7746cae3f03a67870b243e78ea316ae/edist-1.1.0.tar.gz"
     }
   },
   "ella-category-subdomain": {
@@ -13761,6 +13765,10 @@
     "0.2.0": {
       "sha256": "b2f53c8e7ad8a177c8033d1adff0c754adc830ee52024fd036e31c1014ad7f66",
       "url": "4d/d3/ec65b885af195f9d670c540b1ac535cf81d536e5411468eb8bcb68a52c8e/lacecore-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "59dc33d6af8b5ec2b4ca14552bf7ba7a15f48f33a1ed13b0343a828eb89cfdd2",
+      "url": "d4/cb/e57bb5cc355cf20ecc3766cd485b3021bf8e0a71f0c7ff884afb866e6905/lacecore-0.3.0.tar.gz"
     }
   },
   "larson": {

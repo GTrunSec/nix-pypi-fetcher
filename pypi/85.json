@@ -1275,6 +1275,10 @@
     "1.34.1": {
       "sha256": "5b826b8ef1c8f359e6db7ee4c799330f4385b00582d9efc6a85acc2653aacee1",
       "url": "d2/d4/d6371d8c3d19b8f2e28956f59cdd18df4c56a6930e3cf62dab38f226dc77/aws-cdk.aws-mediaconvert-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "140eeddd99add8e1db82c0196e6c4cd1ba20ecc3e6fc7774f17ccca1ada8ee10",
+      "url": "f8/df/4efa342845d842d2ce48be668930294195523b0bc4a2f028afaec0c949d7/aws-cdk.aws-mediaconvert-1.35.0.tar.gz"
     }
   },
   "aws-cdk.aws-sagemaker": {
@@ -1501,6 +1505,10 @@
     "1.34.1": {
       "sha256": "54c3bb2b67f19e5f5f0a42337a5dcf787f7f021028637ecd41dc6107bc3c19c2",
       "url": "b8/19/c2da5e9592dd65a7669e8ea70725f341d1b9c40f7257d7be414122ad8ec9/aws-cdk.aws-sagemaker-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "a0b25966b4f8ad3b44571e610ae3a1a7dd6763c2235bfb86c5ce159b92740bb8",
+      "url": "b8/25/a3eafd54636a36e1f9e92ec9945d1224357e9d1b32b92b1f2c0d81a9a9a3/aws-cdk.aws-sagemaker-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "0641f26a5b2baafe0379babf0e6e3b6063f83fc1c3603cd823d5bca7b821cebe",
@@ -2001,6 +2009,10 @@
     "0.14.3": {
       "sha256": "99d09d8ebc2689d80162ed152d8ab6d840950dd52e278d6c055a27cc5540610a",
       "url": "97/44/dc0bdd6b40a5ea79a6b0fac53d119644ebeb61daefb3fe4756cd5eed2cea/biobakery_workflows-0.14.3.tar.gz"
+    },
+    "0.15.0": {
+      "sha256": "205a4711d9167e41a4fd8bb286b6650db4989e5e3a849ae64fce3138029ceb83",
+      "url": "52/24/2fcc8032cb2f3ac6e62b9f7c0fc3e23ff2eb644a7962c9e1c4ac6a717f11/biobakery_workflows-0.15.0.tar.gz"
     },
     "0.3.0": {
       "sha256": "40fb7921f8bf721b0179672ea42220e43627e2fbf2cc9ec71225f1b405406e05",
@@ -13779,6 +13791,10 @@
     "0.1.2": {
       "sha256": "c0f54b2b237cca0030da7d25f1be1147decbc237b5d0518619013fc3ed096d48",
       "url": "2b/55/0a9ad01e79c8c71573f01ad9bc7b16137d2988bb46635514c750458ddaeb/morphr-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "efb518375aa628b392773c8e6e0debaf4884bd23c499dec55dc833b27028a0a1",
+      "url": "f0/fa/ba3ef42a0c74920cde11ee156e32d7f07b106ed4d8816b348e4b217735cd/morphr-0.1.3.tar.gz"
     }
   },
   "morris-counter": {
@@ -14287,6 +14303,10 @@
     "0.150.6": {
       "sha256": "756caf168c0368b00445fd6bfb9ae3967d9ac688d4858d86e2d7a12864628974",
       "url": "92/64/836dcef51c30a9517079cadc26a7798d47315916e180e680ae59d21efca1/mountwizzard4-0.150.6.tar.gz"
+    },
+    "0.150.7": {
+      "sha256": "b26f9695688641cd56d41b55eacfc88dbbc83fb9605d50c4cd045f6de9d7e58d",
+      "url": "f4/cd/59afa3dc11d370c6854fa5213dd4fed292474cae97be2601c9933dff9920/mountwizzard4-0.150.7.tar.gz"
     }
   },
   "mpld3": {
@@ -15229,6 +15249,10 @@
     "1.12.45.0": {
       "sha256": "93e02d3e83d84b465748d539039d7f7fe0158898479176e2449e75b5fef27961",
       "url": "21/2e/542cbbe4c68bec3e376e7857969f5fdb9fe16e1080247d36c490e71888fe/mypy-boto3-s3-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "5188fee9a0e81c4a7860a3ee5d6d9efb02926b00446a1c7b7b5841006a52b15b",
+      "url": "77/0c/0286c015279c1401545f8d45e4e63ec289765c775c9effd8f623edf2816e/mypy-boto3-s3-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "88fda97e1e1a11b1d55d1ef60dfa640a7a4a67cf3e46be07334e7b1238f8c6d2",
@@ -21911,6 +21935,10 @@
     "0.1.1": {
       "sha256": "a46bb62b346824392caac4d4f0504c74922b1834da85349d09f2933f36341b37",
       "url": "40/0e/d6f63b3fd64d9646e4af6a81f64a80a79992b7816b4366af3a9e8ed95c8f/sequana_pipetools-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "b22f2b47c78b29cc9366d477976e7c0958807d45cdc7c4d970110fdf353d84b9",
+      "url": "e9/21/981ff4c8aebf68fb424956c529972cc3cdd59429aba48c0fb000fefff116/sequana_pipetools-0.1.2.tar.gz"
     }
   },
   "serial-interface": {
@@ -25033,6 +25061,10 @@
     "0.1.0": {
       "sha256": "39fe65159fbcc03e0b34924f91821388783c83ec8875434e075a2263abf7db5e",
       "url": "ad/0c/cbd1c58e7e25be53f2cfbdf482b2600ec619942c7bb3717295ecd52dd781/xova-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "2b768b100f7b9d1805720e0546cbddfd17d0203f2ec9eb11a17491f6b6192b10",
+      "url": "53/02/d5d1f2437e1904fcb83bec62368d554a7a96c50f28984f4d9184774e84bb/xova-0.1.1.tar.gz"
     }
   },
   "xq": {

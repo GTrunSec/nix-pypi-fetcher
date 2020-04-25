@@ -7611,6 +7611,10 @@
     "0.1.2": {
       "sha256": "149c07a41a8a0a8e60f924204404f31534a9fb28681bcd2afd63395dceef997d",
       "url": "60/5e/057355518b94fba05980fe6af4cc1c90f8fd27fed2b86992c7d57bba783c/gkeep-0.1.2.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "6cdedd3a9dadc8a89c85504941007f84caa043173f4d61e50b11c77b04fd7656",
+      "url": "53/92/e43ca3919c3b060e751404d02a9e63e75c17106281262c38f1011cf40b31/gkeep-0.2.0.tar.gz"
     }
   },
   "gmailapi": {
@@ -11557,6 +11561,10 @@
     "1.12.45.0": {
       "sha256": "2c5ad185c5571a002a43f4265c88d7f37402b22b2c2f81b60a2b2361b39e1c5e",
       "url": "9a/c0/36a7aaa3e18ba4a28166c1d6ceea5bd6ec68187b36ea76b4d7bacb98b877/mypy-boto3-kms-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "7dcda63bcb90618d60a76d6138cd7bfa40d3bcc1fde3a8fc3df3b65c1bf5aae2",
+      "url": "60/b6/0442561e2ccab22cabf558c8f2b8791b0c744f914dddc7f327dba99ba9c4/mypy-boto3-kms-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "66c4700fe13a6334b22f9ce3da3a7fa3c6fec2a134b9d99cf4b34c25f9c94f4e",
@@ -17093,6 +17101,10 @@
     "0.7.7": {
       "sha256": "80cb1ec0356d8e3a29bf3cd8d8f1f9d42b9ca28abac9c4324209fcafd2769567",
       "url": "dd/59/9a0716d7ca8a03ae2cae0d922122fb0c730b79d71babd91244e8e4c163d4/rapidfuzz-0.7.7.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "953b5d8532eeece93c1907f9230b2f63f9deb5100cd9bc65f598ce9e590221bc",
+      "url": "b5/c8/0e63d57d23d02dfaf0565432ca81222bf1844159b6cebb9a536fc32b522c/rapidfuzz-0.7.8.tar.gz"
     }
   },
   "raptus.navexplorer": {
@@ -18193,6 +18205,10 @@
     "2.8.3": {
       "sha256": "cf12f5ea6648fd60b046416619a26d9d3237cd555b29b92b5efc7a6f69e3e676",
       "url": "a1/73/cc66b80cfd495d6ce1e26292776d8f6bb67281bde4f47826b6cb20aa9c87/ruffus-2.8.3.tar.gz"
+    },
+    "2.8.4": {
+      "sha256": "6cd3d96e459a1aedcc10341f14fddedfdc13664551757fcd429a241de63826aa",
+      "url": "3b/d1/154a08615b33bb66c37fa998490a811870355331b696140f125983890efa/ruffus-2.8.4.tar.gz"
     }
   },
   "ruruki-eye": {
@@ -18797,6 +18813,10 @@
     "8.0.0.0rc1": {
       "sha256": "09a753dfd67d4b0eb2550311bc5c26990d35ac49e8293dba672a981384118d7b",
       "url": "f3/42/b1bf05cbdd82530b2f3a357068ef7b7995ca165c61ef6042709faef5b038/senlin-8.0.0.0rc1.tar.gz"
+    },
+    "9.0.0.0rc1": {
+      "sha256": "1c45f74bb7626e247b890813eb318f6ba43d70decd926bdd02901d1782dbada3",
+      "url": "f2/60/bb30178aae6543a1691cd24addcc2d850d84136f388cfcf889deb4d995b0/senlin-9.0.0.0rc1.tar.gz"
     }
   },
   "sensoff": {
@@ -22227,6 +22247,10 @@
     "3.0b18": {
       "sha256": "12917c752a622d939e318c6fec60abb0a7d937d8c4472c39fa65463e98f9367f",
       "url": "a0/7a/e225b615fe2f0029ab5763f723561cdd1a0b10ef5180bd9cd0f6ba2bbe52/threedi_api_client-3.0b18.tar.gz"
+    },
+    "3.0b19": {
+      "sha256": "c25bf7977f2bde619e902d53de7a227ca9a9daec4b887b2461413e5989131f92",
+      "url": "ec/c1/62cbbea5918b104b72928d9609b999ab97e597e05c8acb0827dc5998f6f3/threedi_api_client-3.0b19.tar.gz"
     },
     "3.0b2": {
       "sha256": "645935d93ff446c57d595f8edd353205b6754980c9ed4d3aa4743b8ed6b39927",

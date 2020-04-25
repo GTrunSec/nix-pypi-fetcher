@@ -2086,6 +2086,14 @@
       "sha256": "8dcc80cbeccc9599b3c721ee9b365d33b7ed1a7b3958342209c0a0224122119e",
       "url": "b6/bc/2452ffa7d420aee9fa56061255b9635ab7452854a4f7fb5e22888e19d6a9/biorefineries-2.0.6.tar.gz"
     },
+    "2.10.0": {
+      "sha256": "f3208d82ddc1de78389f119b64c17bb52daaf49488478a2faab4d7eb08cfc8a7",
+      "url": "09/f7/6f04f998affd07e478d822b64bc7f0b7e8f8a7f34d8aaecb9287b2d76417/biorefineries-2.10.0.tar.gz"
+    },
+    "2.10.1": {
+      "sha256": "bfef0f3bf0d0828c5f342fb29a9416172b5c695e1720ea70c49dc591b7f1b38f",
+      "url": "be/6d/a627995bd2bfafa53a91ff86d406b973e0daae3278384373373bef5b017c/biorefineries-2.10.1.tar.gz"
+    },
     "2.2.5": {
       "sha256": "402bf26a689c62649a24f85b5d6e9fea786217087aeb996706e58f9f851d37e8",
       "url": "29/9b/f22cbb5bbadeada14e9f6ec5485ce9b3f9ad21b2a1a182a5a1ed4f89b263/biorefineries-2.2.5.tar.gz"
@@ -2181,6 +2189,10 @@
     "2.9.3": {
       "sha256": "324957296a1d2fc06e0c5347111a9bdc3c0ea35ed9a12ae986a6987f2fcb331b",
       "url": "3e/d9/8d9d1fd176a8d3985f895fee346a389f6c40a8d2849893955385aa3062e5/biorefineries-2.9.3.tar.gz"
+    },
+    "2.9.4": {
+      "sha256": "06f0453a1ae5259b920fd48579d82698f4fdb663ce5b0bad400830445c795530",
+      "url": "9d/9f/89fdd7cfd12cc7ca26cd2c8d386ef9e22821072a402384cbc6b0ede30a8b/biorefineries-2.9.4.tar.gz"
     }
   },
   "biowardrobe-airflow-analysis": {
@@ -2855,6 +2867,12 @@
     "0.2.0": {
       "sha256": "d4babf09050846fc5dc903c169cee12ce4e5026f2fc4e5ed8588cf1eeb49cc54",
       "url": "e6/a0/fec5bb3b12facdf4c5c085f241138062d20b51ea74a2c21dd0da106fa8f5/CasterClient-0.2.0.tar.gz"
+    }
+  },
+  "certbot-dns-plugins": {
+    "0.0.0": {
+      "sha256": "28be818e0ace92cca6a572d151a9a2a1c2053c3c9afb2193b0d9d713d15e34bb",
+      "url": "08/c4/4bce9f9690f413c4c689916b782860f8aca5d314e4a4326653272f037329/certbot-dns-plugins-0.0.0.tar.gz"
     }
   },
   "certifier": {
@@ -12119,6 +12137,12 @@
       "url": "9a/94/1f3b642cf7c50dd2f5960e9503c66eafbaf8f2a618a07fabc5109fd7cdb0/memoise-0.16.1.tar.gz"
     }
   },
+  "mgmodule": {
+    "v1.0.5": {
+      "sha256": "73ff49565a78cb9443cfb72859367695393e66d96f97ec775a247f9e13f0d6fe",
+      "url": "b1/68/1d78cedf8a446ff54466543f67bfde1fdbc0c61bbadd50b9d717511591d1/mgmodule-v1.0.5.tar.gz"
+    }
+  },
   "micral-name": {
     "2.0": {
       "sha256": "999c10729e7e908b50a169f0bd3b1f3b1ad6f30b32f26a155547d37f1b85a138",
@@ -13015,6 +13039,10 @@
     "1.12.45.0": {
       "sha256": "e234ab0fc82c2cb67db9b51a5446771797b7822311694c178fe52672fbb323a8",
       "url": "8d/49/aa0ce61d4cebc247d4d16a5f987d2939ab0ea24b2341445619fa93ad950f/mypy-boto3-schemas-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "617bf6d9ea83c96cdf3bd8ca7449bbb459eb82ef4f7ffa014c8024f450d00556",
+      "url": "2d/c3/b5ccb0cda9f9e80f563e4260b079d427e239d678724ab8d152bce9c4c33b/mypy-boto3-schemas-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "d92107c9e123006a574769a58ea5f7c0a3ded0aa573bb8ce71259b845e089c96",

@@ -9798,6 +9798,10 @@
       "sha256": "d33442d4406d941fff31329b2815f4b958ef18e4b682d6623228e0b4c2378381",
       "url": "46/1e/ba58b609891e1b74da741ec63e8c2234c030ec8da4b328899fe91ea72a5c/ftw.simplelayout-2.5.12.tar.gz"
     },
+    "2.5.13": {
+      "sha256": "27144463f8a7ac3ae9f1e5a4f6ac21647904c3526cf3954e82389ae1cddf2a65",
+      "url": "e5/37/2e6e6b6f57d5a8b5a9a4b102d5c421994f8d333678d81c1ca22c970ad888/ftw.simplelayout-2.5.13.tar.gz"
+    },
     "2.5.2": {
       "sha256": "e6242ccd7c17a5dbb918ebcc166bb4c6178fd2fddcbee2774eb308eaf2070aef",
       "url": "98/ed/28dd5ae234039c5a8f1ab65bb37f802d5a53a1efb8b19a29f069bddb114d/ftw.simplelayout-2.5.2.tar.gz"
@@ -16347,6 +16351,10 @@
     "2020.4.21.14.53.58": {
       "sha256": "4027fda144389be042d55076cdb77e2502eb9418ba7006529455a18d3e4feb6c",
       "url": "ff/06/02a9e98fcb659953d3b3bb76bc7b19a410c91b61b013c661e29bb053ada7/numpy-quaternion-2020.4.21.14.53.58.tar.gz"
+    },
+    "2020.4.24.9.29.7": {
+      "sha256": "a50687ea7d68b1acc923eb9d4fc60a831e578f8e91f132941b184a4b9b14777a",
+      "url": "cc/0d/f2e12c069a1d3d962fad70008898695f728e361b56b8cd4035d4b6fadeb6/numpy-quaternion-2020.4.24.9.29.7.tar.gz"
     }
   },
   "ofarchiver": {
@@ -17082,13 +17090,9 @@
     }
   },
   "panda3d-viewer": {
-    "0.1.dev3": {
-      "sha256": "370b6a8427cd47af969b324a817190ad4394feb72a79b3eb6d69b591f0e24dea",
-      "url": "7a/96/e35a9261cff977d08ee0378e98053ad005259be197e25fa243c2bb395487/panda3d_viewer-0.1.dev3.tar.gz"
-    },
-    "0.1.dev4": {
-      "sha256": "57e044721a69274645829125394da05a565af7f404d79dce045500488db44fdc",
-      "url": "24/bf/f86fb1a36ebbcf775259bb64bbd38e367d81afd591f93c416e9eaa95923c/panda3d_viewer-0.1.dev4.tar.gz"
+    "0.1.dev5": {
+      "sha256": "59f4a716986b4e5756c220a2c35bc1bfc9ddbfa9f002f82979dee50e5860d367",
+      "url": "00/2e/a3e62ad59f609544f36f69db51f0be42cc81923f0096c6169ab64a481dfc/panda3d_viewer-0.1.dev5.tar.gz"
     }
   },
   "pandoc-simplecite": {
@@ -21421,6 +21425,10 @@
     "2": {
       "sha256": "4c4b15d46d6e6347a7addc8f173c23f4f87579f719c88f0b0676122c67807940",
       "url": "5a/a4/c6944de706a47fb7cbc65d4b7c997b8d510c61f11bc822a878df26bee61d/ravel-2.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "d96632c241a66fef801b37c44d427a97762d44c39acabdd267d98d1737ae900a",
+      "url": "95/bc/71b867107cdfe2e26cc12892bee30204fd779076347ec525cf0025a09324/ravel-2.0.1.tar.gz"
     }
   },
   "raven-formats": {

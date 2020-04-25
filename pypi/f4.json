@@ -1208,6 +1208,10 @@
       "sha256": "9a70dc9101e9606dbbe151854be422ea20a370487cd5b6eda34ed3f0592804c8",
       "url": "ce/29/924fb040bdf707b1e99466904dd0fdfe06fde82671c00f395ae00ea4b1de/aws-cdk.aws-neptune-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "ed929ce41455cec8b9e1a5302f2595f899103e78613fbdb295fe479fc6e7bc6f",
+      "url": "c8/9b/1940efdd4bc17be2eae9a0e92d517080c60d7b4e8061396a9a107421e568/aws-cdk.aws-neptune-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "5d1a19d51157acb479a1174edaa77ae546d8be307107dd400c3d3c8372847e1b",
       "url": "36/42/92990883b099e30c9f6d601a9c69a35a313c689497fb5d00b2ca71e5c967/aws-cdk.aws-neptune-1.4.0.tar.gz"
@@ -12401,6 +12405,10 @@
     "3.5": {
       "sha256": "33f13804d32a2430caeef04f5cf3a11209a854ab78f5686b75cff4ed6bff812b",
       "url": "5d/2b/e9a6484ac7f1aba44270898ff39443e4206efa64fb934d3ca5cbdebd3865/MDP-3.5.tar.gz"
+    },
+    "3.6": {
+      "sha256": "ac52a652ccbaed1857ff1209862f03bf9b06d093b12606fb410787da3aa65a0e",
+      "url": "3b/47/7496bdb9a056f6f9d65220c53a21ba7e8333fe42fe9562259461ad91d5ed/MDP-3.6.tar.gz"
     }
   },
   "meg-server": {
@@ -13724,6 +13732,10 @@
       "sha256": "d98a71db89804cc6eed740581b44d16c54e1d1f58f871d6ea79355c1313196a1",
       "url": "1e/ff/b064c2b5f8e1adf267feb2a0f30ab734afea886390bab19e0a303fb3ca31/mypy-boto3-detective-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "f45abf647bf4d90676b865b2a5ad91e15407518c09280ffa8e3cca469cc1d7bb",
+      "url": "ea/f3/36405942a393b8feb4f6a263c7eb8a1c0a40abb07128cfe2d2f0bc84b16a/mypy-boto3-detective-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "054accf3c6adc1eb845fbeff7561b7bba4ee80f9310a839133c4de76f41be0ea",
       "url": "95/97/5d5cdb07f5e844f56892cd57e8b62dd7f6c6645b45455dad3bff0b81415e/mypy-boto3-detective-1.12.5.0.tar.gz"
@@ -14241,6 +14253,10 @@
     "1.12.45.0": {
       "sha256": "5e35456622e4637ab06fccd58f0b379c7e72f7be4066bd0db1dd250ee212a311",
       "url": "6d/28/e0382458bcd1c033581a838f3ac57e7cf4d4255dda947042c60144928ccd/mypy-boto3-iam-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "a69cb12996c0c09ee20e0ada628e1f272b0d7b6170ef13bf52b5f93791b966dd",
+      "url": "1f/b9/3357cecb548ec8a6b3699fb434c07c8c8ab28fbb59a2909871ffde36f66c/mypy-boto3-iam-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "59ccd8d263818286339cb11de3f510b28e868c82e99d185e94a23f9813c7e56e",
@@ -18987,6 +19003,10 @@
     "0.18.2": {
       "sha256": "86463d8e1c83e677d77e78f770db7df44ed4e38873933b16a4f8d941996961fd",
       "url": "3a/15/85541c94e7fcbfbb23d6c5f66aac199c0bb09bb3e6b0d3a76969d81212fb/qiskit-0.18.2.tar.gz"
+    },
+    "0.18.3": {
+      "sha256": "322fc20bc6ffd0cc63fc5c83c915ae1e19ce3a0b92b89f56ebf7693f915b4a2f",
+      "url": "22/73/d991fb2953342cca9d60a8f73d54c660f0d4179166d63cf5fb5c65869df6/qiskit-0.18.3.tar.gz"
     },
     "0.3.10": {
       "sha256": "89cd404a9121055caaf312f1eaaa72bae0fa8ea88dd8e5ebff105d8c299310f4",
@@ -23747,6 +23767,12 @@
     "5.4.2": {
       "sha256": "394a6a5b07b1035c31c6d5abef605918c28bfba53bdd3205e5c2afdcd0d39648",
       "url": "22/bd/a6520bf2662d6678786a35bd157540b66909dfcd0d5605dbda27844d756b/trytond_sale_promotion_coupon-5.4.2.tar.gz"
+    }
+  },
+  "tsiclient": {
+    "1.0.2": {
+      "sha256": "ad95bca735b1faf2805ed7f1cdf5b07ca6e2d163e59bfe7a1d1dae88517078f9",
+      "url": "66/69/bdcfbf8ef86783f094cde0db51604426bf304fcc30eab695a828b6c940c1/TSIClient-1.0.2.tar.gz"
     }
   },
   "tsuru-router-tailer": {

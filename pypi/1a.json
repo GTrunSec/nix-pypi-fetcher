@@ -1837,6 +1837,12 @@
       "url": "9f/69/1dd3d4721550b7bd91ad7097696905c151184425284da47edf25dc6685b8/BeautifulDatetime-1.0.0.tar.gz"
     }
   },
+  "bento-headless": {
+    "0.11.0": {
+      "sha256": "872cbff5edbab311397cc73e405b7ac852beb4e278d2c0a9ae4e787e1ff31716",
+      "url": "35/90/3c3a2596a619eb8375dd8ccd887792fd663f2c3525906587bd51693ef4a3/bento-headless-0.11.0.tar.gz"
+    }
+  },
   "berkeley500a": {
     "0.1.0": {
       "sha256": "ae205cb548653b412b3cac73228bf175348a45bfd537363d06ca532a274244ed",
@@ -16285,64 +16291,6 @@
       "url": "f2/2d/c06cde91d86547bb1313394d2b83645ccbdad2f7388964cb2961a5f60fea/pymedphys_workshops-0.8.0rc1.tar.gz"
     }
   },
-  "pymilvus": {
-    "0.1.25": {
-      "sha256": "deb0fc84964bc285eb023acc620da5fec17691908fd8a7c4ec02aa4ba549123f",
-      "url": "c5/5f/e0f783e7ddee4afe4c426fc6a72796c239450621bab6f84655796662bebb/pymilvus-0.1.25.tar.gz"
-    },
-    "0.1.5": {
-      "sha256": "d0f094f3351afbab69b95aef1e2469e03577b81ba52d0a4a36d61495bfa0216d",
-      "url": "51/bf/bb1528e48cf26b4c8509d1e89f09461da3b2b7ab3eb5609fffb06b7c2df9/pymilvus-0.1.5.tar.gz"
-    },
-    "0.1.6": {
-      "sha256": "a05ff42afcf51818b0c250997929679cb7925def40c6950384de9dcbaa47c44a",
-      "url": "35/97/0d9d80c17db80f8745c5503716b5fcc4006e0a03c6b00aedcb3debdadf85/pymilvus-0.1.6.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "dbd094cc4a87db44739adac7b66366248d166d8f9e881d73fa51919a10fc65bf",
-      "url": "35/7f/e7c934e6d9e89e7f8e1552c21ff1cdde741a1a1047acf585f7b74f31b499/pymilvus-0.2.0.tar.gz"
-    },
-    "0.2.1": {
-      "sha256": "7c406f096314149a9f2dcfb37d2d9c111abf87ad53707f19c4c6f08f7484ce4f",
-      "url": "04/4f/c4822ec321af2f14031c24a7abf5d9fcffb29e2748742289e4d7ed7ec015/pymilvus-0.2.1.tar.gz"
-    },
-    "0.2.10": {
-      "sha256": "7c7bae61786ecd7f9490257535d74e09706922ea471a55c311de123182eea6ed",
-      "url": "31/b3/e053d3a4fa63bbd5a3233d7a974491ce56db6f6712b1be6a84df5385ffc5/pymilvus-0.2.10.tar.gz"
-    },
-    "0.2.2": {
-      "sha256": "761cda29a7db6790fe63295f6794605675f65eacc7617a5bc7b33fb4f4b6ce79",
-      "url": "ff/b2/733649a3bc682ae44b238107616e3d951b090785d54bbe7cde8a620e0a07/pymilvus-0.2.2.tar.gz"
-    },
-    "0.2.3": {
-      "sha256": "16b1d70019ce4fdf768919fb8af356a99f0085f8f3759933ba0181a47a7742ad",
-      "url": "44/51/2194308291b1ca0165bdbf9ffa4b48cb615a2b2ae43f2e221704d2a05d4a/pymilvus-0.2.3.tar.gz"
-    },
-    "0.2.4": {
-      "sha256": "5a53b742cf2e4df2e9e8ed3b0e47fc42a28fd510f26ea8a478585df71e5c47f7",
-      "url": "26/b4/d9a9812850b0a41bc7ecab0e833bb6106df203d520336623323c9c63521f/pymilvus-0.2.4.tar.gz"
-    },
-    "0.2.5": {
-      "sha256": "1eaa300d938d0c7d8b054214c2cef62a1af24bf2fbbe86473f86dac08ed92bcc",
-      "url": "31/70/85b12cd730f9b0be02239991f4a63f8d02ab3712ec2b766e52afc226eacf/pymilvus-0.2.5.tar.gz"
-    },
-    "0.2.6": {
-      "sha256": "ab72a6ecbe945ee04ae03c3b1f218062a692b723b5e60dc777edaea7ea872d17",
-      "url": "62/1e/001ff772c647de6f411e817b59ea9899f8a59196e0366c48d08920a1a68b/pymilvus-0.2.6.tar.gz"
-    },
-    "0.2.7": {
-      "sha256": "ce89924472af2b9d1370e0ade2759b5c2c382d20ea3eb696387c3ac406e56332",
-      "url": "8e/b2/103ec5d43de19b64ec68533a7f7964cf96cc10328a203114e64539afc893/pymilvus-0.2.7.tar.gz"
-    },
-    "0.2.8": {
-      "sha256": "e17ce70b6b0ca80a5b92a29e5fa0345fea82e365ecd96a09285567370f3ea4d2",
-      "url": "e2/3d/6efc84115c647620bed27543db6d6f6aee100f96dfcebedda5611976d11f/pymilvus-0.2.8.tar.gz"
-    },
-    "0.2.9": {
-      "sha256": "eb677617fbddbb6c8ab85f8953ba87da270a2226d6b5265337ac7cda5bf90767",
-      "url": "74/05/b625be545c6f8d789f58fc31b1814aa5483a30baadfb24ad74214e567050/pymilvus-0.2.9.tar.gz"
-    }
-  },
   "pynuki": {
     "1.0": {
       "sha256": "6e4dd7022a1755696b9cd6b41e4d2f4f63fef6b56520f4d2450512486c63b0ba",
@@ -19987,6 +19935,12 @@
       "url": "a8/29/8659b1d393799722dd3da4aad61f2e9e3ba745d6651238fdb0467a8a6642/sandboxie-0.2.0.zip"
     }
   },
+  "scalr-api": {
+    "1.0.1": {
+      "sha256": "749997741abe65a4488ad955daea9924060df57a3e7407b846b211aeae303bb9",
+      "url": "ee/a6/3f730636eba6dd7cf1d1b6812913a193d6862decdd5f7666d1afdfd782ad/scalr-api-1.0.1.tar.gz"
+    }
+  },
   "scarsdale-property-inquiry": {
     "0.1": {
       "sha256": "f3e92d9cc88e403ed93e910371c4fcaf554b248d509d8cc4f1303a2ad11de754",
@@ -21199,6 +21153,12 @@
     "0.2.2": {
       "sha256": "9e972f7fa0f7e9288583356045dc89ed2b7564e4273f046270c484c1facaa61b",
       "url": "ca/11/7082a7bc4203610f4302cdbf37076750387ba7f301562026348df7fa885e/SRF-0.2.2.tar.gz"
+    }
+  },
+  "srrtomat0": {
+    "0.1.0": {
+      "sha256": "4cd2aba57060dc7e4acabf1ca5bd033d39e6b2223e72a12d98e7fcef3a42e4af",
+      "url": "c7/9a/45adfaa4ad91489386d9c6d9b012de2728783275b99e372f3b193b0cc938/srrTomat0-0.1.0.tar.gz"
     }
   },
   "ssh-commands": {

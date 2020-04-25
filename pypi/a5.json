@@ -65,6 +65,10 @@
     "4.2.1": {
       "sha256": "349c97c656379aaeb97393af805ad68a8ba9cc7085f133c1cb673349f68a9dd0",
       "url": "32/58/5d730a888b34226d7c3bcf964a1a3a5b78a1abdef11a0e1394fd35c8897a/adafruit-circuitpython-bno055-4.2.1.tar.gz"
+    },
+    "5.0.0": {
+      "sha256": "615ab4059f8e64a2da54be6523b4ac2b475c8a172925e1eed20c020154af0bbd",
+      "url": "34/48/6188406a183b4139994dbfe8f28c157bc3c1e7a279900579a33d3a02c1b5/adafruit-circuitpython-bno055-5.0.0.tar.gz"
     }
   },
   "adaptnlp": {
@@ -1899,6 +1903,10 @@
     "1.34.1": {
       "sha256": "4e0fe542bbfb332695d0ec99d83f403e2fc0e53cd68046f1ad59dde05cd138dd",
       "url": "80/53/a9baa929b73b7b2b51f2e2a96b2c83423320fa0714ee5caf39a34b5cc032/aws-cdk.aws-cognito-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "2dda33f133fee9c85809e72e91284b1ff33f6a4ecb4be67c273e4fdfdb547cde",
+      "url": "e5/67/831e647640545c4ab2b33f7aa20cd40a28c6ed631a110e71ac2d2eec4b8e/aws-cdk.aws-cognito-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "21d8e453323930be93b3596e7905c2cb1f479c4e4c26160f4e3c75382afb28d2",
@@ -8371,6 +8379,10 @@
     "0.0.6": {
       "sha256": "9e3537dc869cf3760afc84d10aa20cf288ebfc1bb161da4d8cbedc3d8ad6dc69",
       "url": "ec/22/8fa8024c69510de9c9b0b76031488f514636201652cf505d9f6311d70333/epic-path-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "1e021938edd0d3e4c13fbc9fd22934e1b8d9ca62323b21d877db1b8811120bb9",
+      "url": "c0/ec/de6723a1607e088aa8da5e655cbbb459ce0fab6238701841790da7ad6360/epic-path-0.0.7.tar.gz"
     }
   },
   "erplyapi": {
@@ -10461,6 +10473,10 @@
     "0.2.2": {
       "sha256": "0884745fab8b10009fe701c1953de70a91080a2991db09b38b129ecc6851a91f",
       "url": "71/02/3142c00dcede2f9f792dc12b62ade9f81a3ff2f314506ae3ab78ccc5f53a/gitlab-registry-usage-rest-0.2.2.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "b7f650c487e6b181a58da9939820dfac68ca92b6d12b29e457f0a26b790e4ecf",
+      "url": "f2/8a/ce36580855f034ae26adfc803270173879e910311875186b65734a520edb/gitlab-registry-usage-rest-0.2.5.tar.gz"
     }
   },
   "gitshoes": {
@@ -14480,6 +14496,10 @@
       "sha256": "1c4c5b2307a250ec382b0e1cbfd6826a84091ca4e97f9520e979b2f24f38dccc",
       "url": "95/a4/fbd2dae9b085954dd94f5895cf4cc6657c99a69bd5a27a69fd456a4af69c/mypy-boto3-cognito-idp-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "00aa7cb58fa1fdec6deff2739732ea7456b877f69e9f9c39c54b9837cbaaf2cc",
+      "url": "44/99/8fa30f12a9f562539d2bca0ec7d609626fa3717f567e1bf5f7ad1d702fe3/mypy-boto3-cognito-idp-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "fc9e0c6cac05a900360d8678a21017fa6be5a058605d843c107722736a0e3b54",
       "url": "6a/ef/f36e0f5955f4fb5d1e510a7316a04e0878ace0d3ff662d58fef70776d4a6/mypy-boto3-cognito-idp-1.12.5.0.tar.gz"
@@ -16109,6 +16129,10 @@
     "0.5.1": {
       "sha256": "f3c85f3ddd8d877e6430158e3ab0cbd34b38ea7ea88abad580008b23bc625984",
       "url": "c3/f8/4ce2a1ceb7c5ad041940ca10da4c13ae6e3f10dade01f857d68b7b5b2e06/pino-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "14ef74a767b7ab7b2543b1d0d0011c3557b1cfe7c44da409b954c3df06eff425",
+      "url": "65/8f/f763834e90c3196419297cc1196d38e88adf38540ed3f659f0351f61b2c9/pino-0.5.2.tar.gz"
     }
   },
   "pint-mtools": {
@@ -22393,6 +22417,10 @@
     "0.1.0": {
       "sha256": "b544f560c475c1a13b771606b042eaa04654811ea092c55672012b7198f440a8",
       "url": "9c/85/db2b3755da958df1383c66415ef408c06822bb35f1bd2167f1ef2d081f1a/SciDataTool-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "9d7f52158ad608ca92807af6a0693e61476e00aa8b267db80a2ef56ac4a1e6ae",
+      "url": "4f/63/72933e2d1a3208a23964309fc30ee87586e0ba73867f5e811a4462403c72/SciDataTool-0.1.1.tar.gz"
     }
   },
   "score": {
@@ -23835,6 +23863,10 @@
     "0.3.0": {
       "sha256": "04ef3f2ff145a696f8cdcb8922f90c26f236c0e92508513a7f474b2f3f1e4d48",
       "url": "23/d7/4ebaa84d1a80ddec41a3bf31e00cf17fcce242caa85797543c573a0e4b5e/stoked-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "1885b7cd4723ad513c3e519929b0b9e63376f45caf6991f1686a485b41ae463f",
+      "url": "cc/50/1fbf8af1c6263af6b6d98404e45396b93d6bc66060f5b7766ed56e786fda/stoked-0.3.1.tar.gz"
     }
   },
   "stopclock": {

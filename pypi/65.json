@@ -3326,6 +3326,10 @@
       "sha256": "5d4e7ff7ea856df23b852750b7746ec4ef1feb416fb5f0968ed093ec46e0c089",
       "url": "d0/53/0aca9342d210e0e0c4ae4cb91bb24ec7e75b5eae5e52c458333129dd0aac/chiavdf-0.12.8.tar.gz"
     },
+    "0.12.9": {
+      "sha256": "f38af4115d19f6ba3afce267a18ac18b3ba50f9bcb3f30555a5d44059a704956",
+      "url": "3b/da/835ca6b5aea9c0efa8e8f2725490fed2cad0ebb93f1e34d73f4537db9cfd/chiavdf-0.12.9.tar.gz"
+    },
     "0.2b1": {
       "sha256": "c017e062db06eb4e3c2834f99a43957ad6c1de1c6ec8c996a360a633d3f32945",
       "url": "77/a1/a8e2f4dffc65e8c0c267a6935cb2d71b8c110b4e0ef1a496b1e17e09f8bc/chiavdf-0.2b1.tar.gz"
@@ -8696,6 +8700,10 @@
       "sha256": "d8ec133f9cf673e4eced6f08ffca5f03f6e7ae72ebc4d1861206341975c15e9d",
       "url": "9e/01/5fa97297cd790820539e56958d364385b882f7be19986f3a4bb7f9be43e5/geetools-0.4.15.tar.gz"
     },
+    "0.4.16": {
+      "sha256": "76ee2b7c63486fae30d168dbeebc0e042fd08c4ab0061360c63542e5811b8830",
+      "url": "d3/30/a27175e9d5bf4906d6898b9a324c8b07b85cfb78cf53293477870c0b99ec/geetools-0.4.16.tar.gz"
+    },
     "0.4.2": {
       "sha256": "a9a99acd4dc19f0170421fa769ac176625f1c071a0d6a22937bc9972e6f3b229",
       "url": "43/72/61580da67e9e26e2489d8f0acee8064c07c45311db7f07218338850adaa4/geetools-0.4.2.tar.gz"
@@ -10439,6 +10447,14 @@
     "4.4.8": {
       "sha256": "a28b23eceb26c763c366b9e7229f427f124a7b33acfdd695f8fa8eaa2151c8fb",
       "url": "4e/1f/5b47b95c805ac7b0d2aa7ecc32c3d0e434e315b0e403f4f5bc4083ed5a1e/hdx-python-api-4.4.8.tar.gz"
+    },
+    "4.4.9": {
+      "sha256": "c8211e46333af5b65e8a4e363a5b7c991ce7782e3a226ea387043be5706d02c4",
+      "url": "97/30/d663a0b1cabc735e1aad3cbdcc22c4586e5d8468b0d5bb4997d88166c4f1/hdx-python-api-4.4.9.tar.gz"
+    },
+    "4.5.0": {
+      "sha256": "f80b1183e07c446e8bc7847ba6978f2d67e4fd1326ba879ad1bd5198a2cc3146",
+      "url": "ab/06/c99fb368e838e0e0baa274d9f7513482b9d88a7cb8f3bc443ec8ff6ef0da/hdx-python-api-4.5.0.tar.gz"
     }
   },
   "helloaaron": {
@@ -14745,6 +14761,10 @@
     "1.12.45.0": {
       "sha256": "c79e919a3c3db5a47ac3dd54a447c2028b82acc814b1a790aabd3a7a47f5fa6a",
       "url": "54/e9/f3593fa0d270f6cd46a71c5dfa74c4cfd760b61355907e56d450a670c17a/mypy-boto3-lakeformation-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "24300bb9ac093069c54b08578f7d97bcd423e87caf592d8050183ab60cd932b3",
+      "url": "f0/31/835f8aaae5d5d2087b56b03ce062d62376df7cd725098e9e6771f2943d47/mypy-boto3-lakeformation-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "904afde808065f49889aa2b7d1b695aad3cab27135e6775f27e09b3a990e6730",

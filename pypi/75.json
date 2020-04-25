@@ -1559,6 +1559,60 @@
       "url": "77/a3/ae833f640ef4f38ae5eea762925f0f6c58c45f0af14a035ae685bdf3abcf/bcdp-0.1.5.tar.gz"
     }
   },
+  "bibleorgsys": {
+    "0.0.1": {
+      "sha256": "fcb348dedf7186df529c6433574b0699e5032ab9c09775d1ad7104ba1dcf8dd1",
+      "url": "99/0b/8e0d54a49f53ab3e216c3468828e921f172d53210db7c8279c780c7ec844/BibleOrgSys-0.0.1.tar.gz"
+    },
+    "0.0.10": {
+      "sha256": "c195bfc968e1cec6a74472067c43d87cd0eb0c9633108526f247c57052323b40",
+      "url": "6b/62/15d62bb145c53f7182b95f96d13ab0dbefebaa482362a39f27a023fe42c4/BibleOrgSys-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "7571878eed16863a7b9e4235cb835ec1439a7a503720ef9a3ee5b7d607510580",
+      "url": "64/51/b458bd4ab478394819694be114714b7a1e9e9240de32b0c320b6a36f3de8/BibleOrgSys-0.0.11.tar.gz"
+    },
+    "0.0.12": {
+      "sha256": "1ce5c546a74c3039b7e67b68d3cd89467f5d989db0c869e842413d6f62a1f97b",
+      "url": "cb/c1/1475d601acd63bf292a1b23457cd6c2e9285943dd25e9f66f08dda2e04ca/BibleOrgSys-0.0.12.tar.gz"
+    },
+    "0.0.13": {
+      "sha256": "0521ca61101484a627dbf433110f78628a33f28d20368a67c4d7ea7298c5543d",
+      "url": "b5/e2/5b42231162547e2f0bd7ad8d179755ccfde0fead744fd38b1efdcf86944e/BibleOrgSys-0.0.13.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "f0b62e0f2725ddb6ccfabd0e6687203e855f523a2e3afd530a30a9911a79a08a",
+      "url": "11/bb/7bd6388356dc78dccbce11f833ae2e298ecd344f1f6647a0baa938ac04ea/BibleOrgSys-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "18440ef3a8942ae63d59a5b90033567e4bc2ff782eb9dbe462269f8f1ccfe0f2",
+      "url": "be/e5/7b6f109dcc1dc79d24f45f3ff47e1f3f9e90c689eb4f6c645b585c05e04a/BibleOrgSys-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "7d78ead2292143005937780b086b2a025eaa34992fb712ca34afd0676ab96067",
+      "url": "30/ac/9d110fb770d44de864745d971f1228c0ffd92fb25d482aaf1a29a2afb361/BibleOrgSys-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "3340d3deeb59f8066220b467efbd4690f9d3feec51b6f6f03c0f00f02a456606",
+      "url": "d4/ac/c092ec8fcb94817b4632b0ba4ff7a3cbbdeb29863e7deb603b9d2e904781/BibleOrgSys-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "53af4e0bbfbc673bb70ae1dac4afba413e2b286d1bc7e22c15b98dd1733e9414",
+      "url": "05/1c/953ec7c405b082ebd41c69b71ecddb15fe126bd919f0a10f7458f9dbeac1/BibleOrgSys-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "c5e87880286ada4562752dc78f0b67ed3c20bc745dbd9ffce8a8699ae226aee4",
+      "url": "ec/4c/6c1931d054b2be14bb86a9cc205f007df75bbbc9548ebf67643dd75ef0a0/BibleOrgSys-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "e7996727d027cd574878f90e549aa881cfb4c4407f26fadec1085cda31c59418",
+      "url": "a1/98/55ed79a6b77a74bd7ccb2cb2b9378531cb42d9e6ecdf5650aad463a7d6c9/BibleOrgSys-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "fb71ed072811d294d5216b4e4405d61a8aba76018d688a27f77f5a57dadeb4a8",
+      "url": "fd/20/b803b37c013173fe64602e33c2bf2aea1a9917404f2996491f470a823b83/BibleOrgSys-0.0.9.tar.gz"
+    }
+  },
   "bibolamazi-gui": {
     "3.0beta3": {
       "sha256": "b71789fd981267a6506057166b06e2957579a8d3f3f6e0b99b3db8a5233cf0ad",
@@ -8133,6 +8187,10 @@
     "1.2.3": {
       "sha256": "763be2d0627407620b92986b63f28650a6a033908690e602ef62f6cdec5deb0d",
       "url": "50/30/8779be823c7eae593ef442ff8d82d470a0a7c23a373c2c0eeaea49e2e90f/flood_fill_filter-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "b40242cba7e79c16d136db07473f275b02e9912987d5452150d5b0cf2e22374a",
+      "url": "61/40/6dc9afe09bb30ef69f863be4fd51e9e2dc8bb31aed7df1e1062131472854/flood_fill_filter-1.2.4.tar.gz"
     }
   },
   "folderanalyse": {
@@ -8647,6 +8705,10 @@
     "1.0.13.dev20200423": {
       "sha256": "0db4c89031b083bb39da2ad8dbb4d6ad4a1bd72cd76d1e2aeed7d9752a9ae61b",
       "url": "98/f4/deba022e4f3d7652f910f99bfbcd2c4ae2b17f7ddf683e1c3916a74e5554/getitfixed-1.0.13.dev20200423.tar.gz"
+    },
+    "1.0.13.dev20200424": {
+      "sha256": "494cd04f12817998658e0ee19964af5ad866fbdeb7f8e1fdf0cd8750a14fc999",
+      "url": "f0/b3/1b8f413d8e8e4169ed3d168b4597d90f9bb5224bed30c60b9e33c8e8d078/getitfixed-1.0.13.dev20200424.tar.gz"
     },
     "1.0.2": {
       "sha256": "de1a532ba325d315017d0b78c312163c23f48381091b93e1e51318612e12c5a7",
@@ -10173,6 +10235,10 @@
     "0.9.7": {
       "sha256": "1117c0319d71dc02bbddbf4787af974eba0e7c1cf11d70400c438ef97d995380",
       "url": "ec/22/33497c219522a7b3ec1c0cc32d6382b33708cb5b0b66fb06f579fa14a869/imjoy-0.9.7.tar.gz"
+    },
+    "0.9.9": {
+      "sha256": "9f3e38f5b35ef0cc2fe82d1f1e0047d5077f8b71a8498fbd6cd298a6ac09e615",
+      "url": "54/2f/02d2eba7a6fd7abd51dd622572bb14e5e1bbb269802573f88280d3c26301/imjoy-0.9.9.tar.gz"
     }
   },
   "infi.multipathtools": {
@@ -11151,6 +11217,10 @@
     "1.0": {
       "sha256": "65892ecd4b881e42e6fac06504c5bf8dddef40711abc5929ee56484e799821ed",
       "url": "52/5c/23381a253e8ca37f3a5c9f3d23c3fe7c3be26bf50ee5a3b0ffc5b56be196/kiwitcms-github-marketplace-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "77933e709e27ee4356b080bd5cec6ae57e1c30a5c098d3a7addcc7d5525ecee4",
+      "url": "e3/71/d53a65a1f2e05f8862ddb88e87bcc54120bd134d81d0842c74ce9a1a472c/kiwitcms-github-marketplace-1.1.tar.gz"
     }
   },
   "konectipy": {
@@ -11403,6 +11473,12 @@
     "0.1.3": {
       "sha256": "4d95f1ced504db38e032c067a8a73eaa0744ae21121d4fec27b2de19c2f81493",
       "url": "70/90/8d38bcb16eec86b63d85d490d8e3dbb11de56100402052ccdbcb1a4a8956/lgraph-0.1.3.tar.gz"
+    }
+  },
+  "libjonatas": {
+    "0.2": {
+      "sha256": "f198af1062763069a7d3e5da2b6be343b6892bfa4736af4eb4b6861a9d2cf11b",
+      "url": "fe/98/c983398ef7838084984500d8aa605640765b7a8811922834bf53076d659f/libjonatas-0.2.tar.gz"
     }
   },
   "libpyfoscam": {
@@ -14047,6 +14123,10 @@
     "1.12.45.0": {
       "sha256": "be124c61ce6b5af674d940f6c25ab63763d22bc35d3dc5a16c609ffdbcb62ace",
       "url": "66/a1/1adf61245a1221f0d0956ef56d29a737bab2f3ec98ddf7a924acfc8df696/mypy-boto3-snowball-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "d9d93af1610bb1aafce26b27f9d7100ca61b5faa3f0f8a98a6ce2879e9b71adb",
+      "url": "d4/3a/b8b4b00db965f56787158473935eeec4e2711018a4bb237422afc7e5440c/mypy-boto3-snowball-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c0975175e3af2cbbf9ef839ae067c726af5a68d011fa632803ad2079d9050b45",

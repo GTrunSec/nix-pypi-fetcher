@@ -3030,6 +3030,10 @@
       "sha256": "75c19b9877c6c812a7a5c64b222aeba5ce604007f377ccf73e28439f25e51e16",
       "url": "3e/44/c77a98d9741e945557ccee6ecdeb1534bbc02a4ae4d75c3ae054947a5cee/aws-cdk.aws-dynamodb-global-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "c4a7b12ac8e97822a6c56f48307fa03a8abf9633aca2902cbcfabc6b8380008a",
+      "url": "09/87/0f7193ea62b6cb03c1e6985b63b333f09772acb872b1ac1703e5c7b4e922/aws-cdk.aws-dynamodb-global-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "7bd3d09b5a5bb4778ba80a27df7a68e52ca1ebf7d954edd2ff29c58065393098",
       "url": "89/4b/18edbf0224d664e9fc908a0b32d5e23a787a32f294ef0d9c7859a5ddcb71/aws-cdk.aws-dynamodb-global-1.4.0.tar.gz"
@@ -20011,6 +20015,12 @@
     "1.0.1": {
       "sha256": "77cdcd599c3df6ec0e9867b4f80efde1f9725ba6a3782d38830564d3be368236",
       "url": "04/ac/55d6aac0fd7e825c086b38e5b654e7bc201695eccc1f71d6045fd7aa78e2/rftokenizer-1.0.1.tar.gz"
+    }
+  },
+  "rhasspy-asr-kaldi": {
+    "0.1.4": {
+      "sha256": "ffd966a4b929136275a44d10c5e2b10054a34ebb23d42c7fd648354a91489646",
+      "url": "27/00/b8b94ebfaa0173a34ee88eb5fe04edc43cc102edad6461c9bd5869ab7211/rhasspy-asr-kaldi-0.1.4.tar.gz"
     }
   },
   "rhvoice-wrapper-bin": {

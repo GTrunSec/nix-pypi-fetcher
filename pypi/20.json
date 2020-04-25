@@ -1912,6 +1912,10 @@
       "sha256": "3eeb021c3508ea2c8c95fdb36acbc0e2ca366eead549d0bb68e4fda209fb327f",
       "url": "90/19/5da85a6367363739a5d7b71566c989b32b16019cc816096ea1292918901c/aws-cdk.aws-backup-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "25368f4ca3923fcc36fbc86adf693ed5839dd2c73e2830b9dbd916cb22f20b46",
+      "url": "d7/49/6a5cd79e39150f3d3c5b62a67ad1d7a8d56a9186901932687d96dfe49c8b/aws-cdk.aws-backup-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "d4abcb95176786361354857f85bbac8fd425d19d3760d32cc414412cbba570ea",
       "url": "8a/39/40d0657b11fb30f5abe94656b780da0dc8c82d2377ff8f400800bb384da9/aws-cdk.aws-backup-1.4.0.tar.gz"
@@ -3516,6 +3520,10 @@
       "sha256": "d6043e8c3d0e46b8a057551b24ef7b05e047c4cbb7ddaabb9d9e20ac7a726c3d",
       "url": "33/4a/12e0e3aec86afb42c5ea38c1e839a09d2420bb0d71d008995e1cb284bd3c/cloudkitty-dashboard-0.6.1.tar.gz"
     },
+    "10.0.0.0rc1": {
+      "sha256": "e073f5b902a6efe248645e81aaa954423959cfe699152ac9a4ae18651865fa09",
+      "url": "64/0e/94932a19a8b63de2ff0d3764ead610eb0bd4e3950a26673a7336c245c255/cloudkitty-dashboard-10.0.0.0rc1.tar.gz"
+    },
     "5.0.0": {
       "sha256": "fb1329a4a774fd352851b890bf9a38c0a114bc928b5169ba13fccb4f565a20a9",
       "url": "d9/87/e7d16059013aee22eb031d8da566d6fb87701c34f85cb64e14e34da5e433/cloudkitty-dashboard-5.0.0.tar.gz"
@@ -3899,6 +3907,10 @@
     "0.1.1": {
       "sha256": "3b3121839eb8bea259257f8ed8ae25d87d06820078a29b8dba39db1d3c70d01a",
       "url": "a5/86/8a4b81a5d869d63c3dc19e5a654e5f4440494f37285f85d955878786c29d/common-utils-py-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "252a70e37fea302fb5b62e8375bbaef5bff2ae3ebe5fa7843f9c7545b1a04b94",
+      "url": "ef/31/3f252778e85b212838db7ed0a6e789f2688fac1d6778070dba998211c2b7/common-utils-py-0.1.2.tar.gz"
     }
   },
   "compas-assembly": {
@@ -21179,6 +21191,10 @@
     "0.8.0b2": {
       "sha256": "2d406c83a1aedc7a3d953296af9920483bca1725b8e2524c1131df18ecdecde1",
       "url": "fe/17/28e466ebddb32049076bf9236cbe1a4e3c314efe373eba38239c6abd36c2/spintop-0.8.0b2.tar.gz"
+    },
+    "0.8.1a1": {
+      "sha256": "898f5fe9edbcb9d730f14347a2a9746022dcf3f3d6afa37c4fc161fd43cd0e7d",
+      "url": "cf/41/9bf3d9ab5853684bcbfd40080b2912d3c50587076a3008f6e07b456b9035/spintop-0.8.1a1.tar.gz"
     }
   },
   "splinterpy": {

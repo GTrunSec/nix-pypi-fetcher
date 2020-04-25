@@ -1638,6 +1638,10 @@
       "sha256": "2841086b0c056205432c550d7f9af14d7f7410f73ce43cb9c0ed6a027b90c70d",
       "url": "ac/34/42f0ad92ff633e788b44494069aef9e985c12ee6ab8aeaff80cf9baa323b/aws-cdk.aws-ecs-patterns-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "5e4c891ab36f8c864901924b2aa8573690ae03dfaf6957500686d976a5606b8d",
+      "url": "29/bc/6113e9ab8e167b43105a615e6f202eefb5a0e4caffc1a15c7dbec3ab2e9b/aws-cdk.aws-ecs-patterns-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "c5b049b3c31b19b71c011c00c598a39c95dc9e4d15d0b13d3ad078a983f35025",
       "url": "c8/3d/309aeac79477e56873df2b492d12b0009f29d80ec500431fa7970c901e8b/aws-cdk.aws-ecs-patterns-1.4.0.tar.gz"
@@ -17618,6 +17622,10 @@
       "sha256": "4abe69a64e0fd78c94ed9b55f25b329b0cb85d1d3498c3abfa1fe20132bf05f0",
       "url": "17/de/dc7b419cb8484982ae92169ea8a9fd9f922c588ae370e15823ae049f59dc/mypy-boto3-connect-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "adad82fe9d6323daae496041c53009f09f95dabade749df4ddcc5735c2c61824",
+      "url": "c2/dc/292d1ffaa9d5bbf7df4d4fbb400e4a9494754f45a07efd929cc9b3426d07/mypy-boto3-connect-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "8fd28dff0eb6945499f03676578eb2b61f59bde5516d471b88e013af59c40e64",
       "url": "f2/b9/5a5086c0a7e229c73b93e2b906ff738e5a351d71b6f545936bc651481c4a/mypy-boto3-connect-1.12.5.0.tar.gz"
@@ -18136,6 +18144,10 @@
       "sha256": "08ad0584552b686b91245ef197adc69ebcbeca7b14403c09bab3f280841bda44",
       "url": "b9/3f/d80ec55b7503e7865104161f38306cf837fdc86cd647aecebf96b98dd293/mypy-boto3-sms-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "83ed66742d4c3fab48f0ef40f77232a56e4f97ad28966460f1d4ea0d44ae7cd3",
+      "url": "66/0f/97decd2f3d415d30d5a6800b45d7fd1650017d7a911fad634b1284b70e42/mypy-boto3-sms-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "4b584f40b69650bc431ab106162ad1be037a712edc58c2daba2b987e1686257e",
       "url": "cf/79/827237d8441d8b6755a8d14134352a98943c9cd40fb3deccc6df07137b6d/mypy-boto3-sms-1.12.5.0.tar.gz"
@@ -18525,6 +18537,10 @@
     "16.0.0.0b1": {
       "sha256": "6500391a8673cdddc308ac57875a395e6fd1104f2a51a446fda26c5e05e146e6",
       "url": "87/e6/d0f6ffec0353310aee84f2a021ae803e023de80fb72d3c3dce10f9d6f708/neutron-16.0.0.0b1.tar.gz"
+    },
+    "16.0.0.0rc1": {
+      "sha256": "8f7f9eae959dd7547e7af6132c0076810e5dae11c59d7d87f03d9d4560bd7b59",
+      "url": "e7/1d/5af18f1b8a4359326ca723d7b84b7afd1e42caffa45b7b3d351becbfae7a/neutron-16.0.0.0rc1.tar.gz"
     }
   },
   "ng.skin.neural": {
@@ -21391,6 +21407,10 @@
     "3.4.0b1.dev1587676451": {
       "sha256": "0ffdcdfb02dd4d824181c74fd758546d2472ef6575db2b7d7ba908c4febd15e0",
       "url": "64/07/debae6a92f691dd8fa84e0ebbdb59ec7e9a85103dabad960da528ea58e7a/pulp_rpm-client-3.4.0b1.dev1587676451.tar.gz"
+    },
+    "3.4.0b1.dev1587762838": {
+      "sha256": "b7c79311539218cf887901246c96b3edf61660734f141e8dbb96599d58dc53fe",
+      "url": "b3/4c/0c71687c3c666d3d89cc0f7acab8e18f0342dbfb3d00fa7e7c883fc580d9/pulp_rpm-client-3.4.0b1.dev1587762838.tar.gz"
     }
   },
   "pulpo-forms": {
@@ -29229,6 +29249,10 @@
     "7.0.0.0rc1": {
       "sha256": "10890cf7c3564509b61305a1a695bbb47e8aa7385850a4d2cf9743ac6877b562",
       "url": "39/8e/add96936d756df0db7e6348539f0069099ce8c1d89e80379e3f1b8c17b96/tricircle-7.0.0.0rc1.tar.gz"
+    },
+    "8.0.0.0rc1": {
+      "sha256": "8b2553c6d3e57a2b433827532711e4a9e27d235b1bded22fef88584189a2b348",
+      "url": "68/0a/794643fb75ec6a78f7012b55552ea90709a396586a1943c16339d6df29ee/tricircle-8.0.0.0rc1.tar.gz"
     }
   },
   "trilegaldiagnostics": {

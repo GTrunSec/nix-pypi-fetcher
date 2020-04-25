@@ -247,6 +247,12 @@
       "url": "17/ec/1e5cfd354e3ae7b3f6118c2ee0d5ff9686d5698b833c3c3fcd945c5ce14c/ai-drf-core-1.0.0.tar.gz"
     }
   },
+  "aimmo-game-worker-simulation-test": {
+    "0.0.1a0": {
+      "sha256": "c1b21fe9daaf948a30ce203ae2732494161d1e67691dd4005f06b45fc32608e3",
+      "url": "13/65/3659be6e129485344dd2f6821361ffd6eecebca4aa15015c985aaca291f0/aimmo-game-worker-simulation-test-0.0.1a0.tar.gz"
+    }
+  },
   "aioeasywebdav": {
     "2.0.0": {
       "sha256": "42c9d50769207ff3a6b9c7b56e8830000c4656a30a01bd94d2df02766426b193",
@@ -13616,6 +13622,10 @@
       "sha256": "e1f953d34851f3ac52ae15f78c895c059a7aadb8cc724fce32eeb19fa77c4294",
       "url": "08/15/eb4cb1480b42c1206fa90f7033f39ebb159814625689ef986ce3962543cd/mypy-boto3-personalize-events-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "ecb14a87e53077a59ace791cd927dabe4ec692eb66abf5abd04904a37b77dfb4",
+      "url": "22/a1/21d138c75f689880f74ddb52d522f78ea25b257b50de6ecdad5f90cf6dce/mypy-boto3-personalize-events-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ea1f2aa6aa3d39e742667b26a3ab70566671d3da1a5e1b038cf0ecb4f13527fd",
       "url": "aa/b7/848fc10a3931d7bee1e8412fb9ac129ff219824349b7dde6e2a4fff4cfc4/mypy-boto3-personalize-events-1.12.5.0.tar.gz"
@@ -15649,6 +15659,10 @@
     "1.0.81": {
       "sha256": "984a9a497c5ab53e038931b5e5b46cd0af7a72180ae371c97207313955441a90",
       "url": "86/0d/98048ca4f138645aa205736d6c88d44c6074c2b308316c3048ed2848f75a/polyaxon-sdk-1.0.81.tar.gz"
+    },
+    "1.0.82": {
+      "sha256": "51297450662fc3c8652fbce7f5d4674c00606c546eb9a58adcae36cf786aada2",
+      "url": "bc/31/25fb851cac362d23dfc3fe58a2a3fabfb13ac288983965de70de906b7519/polyaxon-sdk-1.0.82.tar.gz"
     }
   },
   "polyleven": {

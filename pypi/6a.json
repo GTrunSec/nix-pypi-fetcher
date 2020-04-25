@@ -7133,6 +7133,10 @@
     "0.0.5": {
       "sha256": "a1ed7607da75cb6bffb7c0bbeacb2180cfa50066a38df4a9686b7d56f93de7ef",
       "url": "e5/fa/6dbfe43dcdebd3b203abf710dbe948bc09f26b2ca8c9c9ede2d397394624/findCPcli-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "43592f4735a227b5609825e07a0d390e3cd0f49892cecb4e50b91bf3271f7473",
+      "url": "9a/56/9d31d4c18cb75842d684ab51112cb98af2d4b2381c933576ca5fe8892a6c/findCPcli-0.0.6.tar.gz"
     }
   },
   "fio-nereid-cms": {
@@ -13692,6 +13696,10 @@
       "sha256": "6b1e16f27a72556d5e782f3512585f1c9b459307567a6e588f3fe4346b9f06bc",
       "url": "50/c0/ba9c1a1c160e1df62c76ae87dab54d5bf5ff4af1025a5ac89ab87b6ccbf6/mypy-boto3-kinesis-video-archived-media-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "22e10c2b700d5eb06035a4ef812fb05aaa5899dbfa3b6e5e75145428154d0f8a",
+      "url": "f4/83/1e46275d15b50a4bf498f9bf2ae9a0a9641dfad5811cd9765db0e3dde5db/mypy-boto3-kinesis-video-archived-media-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "228cb86cdf345cb5d11b2e2465254c09ccdaa0c7acb94cc43bf746408e133149",
       "url": "38/59/1e8746ce6dcc503828c4c3c1c5c662d5c4ed96c903a2155778c94e9aaf86/mypy-boto3-kinesis-video-archived-media-1.12.5.0.tar.gz"
@@ -14161,6 +14169,10 @@
     "0.1.1": {
       "sha256": "3c906c4fb6f95ffea5017b4f7de0aaa1597a9beb0497a4410d50d6644d9cb82d",
       "url": "25/5e/5c90e057803f559004bb54e15a41998753292bc877d5348030ae8c04fcac/nenucal-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "951246505f35880092b0eb411a95280929c727aacf55bafaf5288787bae4504b",
+      "url": "ef/aa/03a185f4a87d2f1f56965e6b61637e84b1af211a3ec8197b3d01e4d62d22/nenucal-0.1.2.tar.gz"
     }
   },
   "neo4j-decorators": {

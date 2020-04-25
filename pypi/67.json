@@ -3489,6 +3489,18 @@
     "0.1.2": {
       "sha256": "f258835e4a1cf9f7f459e6e203ca82bda4b5d17b6a77a3968468928a33b88f13",
       "url": "f1/6b/42e46cf74f09988b3dd22fa1924f954f79151c7030264e71c2a89ecbeb3c/cv-py-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "f144600e0cbe1d8bded602452a93bc573914dd85238589801dcb18d86989ead3",
+      "url": "2a/72/fe06173b5ca2cb5f1b5002a91b3836f8913db231a05fea80484a38690116/cv-py-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "fe572186f4bc66a4e8a574c41f529b5b6a57f88640eda825c37271b74c3ffe73",
+      "url": "68/d8/277b5bb3846eb9d63f547778d7cf9a612a6f52bd265a5cbc59bbf910d300/cv-py-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "4adcb784486f545a3c72928ebdb6889f28d86abeecb0387cf13254187c7ea409",
+      "url": "1b/8e/a4ce2ee90106a3da3b7694427f4fb4caf435f76592f53ef9025a6ee35d68/cv-py-0.1.5.tar.gz"
     }
   },
   "cwltool": {
@@ -14520,6 +14532,10 @@
       "sha256": "66369e176cba0a01b52a52e8e2a4bb9691abe8c8c321df2aa55296f9b5c3efaa",
       "url": "df/94/2271732452b891559de88ab2ff54b62b4932f97c0e695d238b52a4754524/mypy-boto3-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "7d942109a989348d2d2b668b5ad06c30f713b8e7883b1eb73a70756b0ccff667",
+      "url": "05/f0/0831768ead743d8e778072c8b809d6ec5615b37daed18b4c9267b7b891cd/mypy-boto3-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "c1f4b73ff715c0b26678f16e99abd9d5da1b0b1d6ec852a6aed8b9177b930100",
       "url": "98/7a/64f26a7d6a6cc15acaa83fd361acfb79457c8767528b3f1a56ce18dd6dd0/mypy-boto3-1.12.5.0.tar.gz"
@@ -15046,6 +15062,10 @@
       "sha256": "015d3f19701ed358e839904217b94490644984393868ac6e3d4935cf354eac8f",
       "url": "89/26/105bb58f50d758b5ab3e15dcb8b3f1143e9893d85706745e7b993ed9fb54/mypy-boto3-autoscaling-plans-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "96fcd72da9b77b53355deb3efc4b7344fc4179d523f7b68c9e7df30549e853f6",
+      "url": "c8/4e/1e72919fd00d8b71b56d64463200bf0d4b2f6e96c91cf26eb0eb3b685446/mypy-boto3-autoscaling-plans-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "a63bbcda3315f4dbef22965156cde00c48ec4806f733d0ef6befadc66acac68f",
       "url": "9a/cf/d817497cfdcb486d7a5d8a59f45529d49cffba78680dda47cb71250a9718/mypy-boto3-autoscaling-plans-1.12.5.0.tar.gz"
@@ -15571,6 +15591,10 @@
     "1.12.45.0": {
       "sha256": "8c29775361673fc03f6606b306712cea0868d860263699408a1a68ef9e432b8c",
       "url": "41/cf/aa27bdfe6cd8b7278e0ce98ffb8ec5586e9df82e5c57fe3e518ac4306e60/mypy-boto3-ce-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "b94a576755da4127845f6efeb6e43756d044620db406318659e24eabe491d92e",
+      "url": "0f/32/6a5e30dfbb50421ae805a223953fb54744f4ce7fda5a4b9df68fe31f16df/mypy-boto3-ce-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "14c1cb232e031148f9d7b0fa3c1567584fd24df11acb8134cdf903fec268d2f5",
@@ -22067,6 +22091,10 @@
     "0.4.0": {
       "sha256": "cef6a6a263c8fa8f1149be7888ec41db1fa927caec6e7db5845c5e8560347987",
       "url": "fa/d0/c656f6f36db5b7864477d1a114f84e2870078cd42817feba7f710021e40a/skia-pathops-0.4.0.zip"
+    },
+    "0.4.1": {
+      "sha256": "c3472943cb2d36dfdf856769b991360b81da7c5808373ecf72bc39632357ae99",
+      "url": "5c/56/ec76fcf0a989b6eeb6ae9715b00edd51660e808aef03550cc24171b49d22/skia-pathops-0.4.1.zip"
     }
   },
   "skreep": {

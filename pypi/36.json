@@ -3710,6 +3710,10 @@
       "sha256": "aba72b4aa328b1844b5dc77a15f913ba7d60f957cc33106be8e18b0471d29894",
       "url": "7b/48/b7df3023ecd00e80472f74b6c4b2629923f73c773d449431a901f6053b97/cythereal-magic-1.20.4.tar.gz"
     },
+    "1.21.1": {
+      "sha256": "4573dcd6d52a350ce3cf1c969d40464c7a878ddf8a12875fb7545200abf6443d",
+      "url": "2b/31/3606f38b37ff68468f1b60ef5b4a2d6e86c4bcc04bb7d7edf05997d43341/cythereal-magic-1.21.1.tar.gz"
+    },
     "1.3.0": {
       "sha256": "8de2448d110f1e45bf676f2a596d3629a4a7c6508ff29bbb08828ebe4f355a0c",
       "url": "7d/db/dd70f0a2fbf6a8f5a36bbaf60d95b03dc0c81ee9966514a07b4cb3629b8a/cythereal-magic-1.3.0.tar.gz"
@@ -8806,9 +8810,9 @@
     }
   },
   "impala-shell": {
-    "3.3.0a1": {
-      "sha256": "0f0798d8b22afa6d39ca009e3e6ad711afa6a38d92127da79af4491ff9c27472",
-      "url": "e5/48/d4255383f5b05f9df9d462294e427a457a47afb7a834223faba651caedd5/impala_shell-3.3.0a1.tar.gz"
+    "3.4.0": {
+      "sha256": "b297c28f492395ef3f6193fd76a355d247117c569316fee5c2f9310f0ac467e3",
+      "url": "04/cd/9f4658e088a83a0685e9e2e09751b88a712bd3eac77b522e4db669c6fa22/impala_shell-3.4.0.tar.gz"
     },
     "3.4.0a1": {
       "sha256": "543b5a0cf57066a5df8085fab3670d6f84473a3b73e3564e9e838fc9f9d4bd5e",
@@ -11288,6 +11292,10 @@
       "sha256": "861b5cd0437383d42095693f2af2c48be6dc6bc3b642f074ff2538d241761b8b",
       "url": "09/cb/912655efaa813b2c8f72e26ad5f7a5d07c39f965eaee575a2c557899cbf2/mypy-boto3-dax-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "db364a7882a66a16b00a89605d0982c84969f40826585368253bcd8d21f75a88",
+      "url": "ce/97/b0d87db1bae8036d28801f20506f409e5e64386efd22f04062073dc0d9a6/mypy-boto3-dax-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ba5d1ff1b101a6637a3540a4d3cdc77b09a816aad55ff42a5bd07770d1d57da8",
       "url": "b5/a6/702e73baa475bb5fbfb72921a0bc5430d908f62f3d90bd73adada3a47ea2/mypy-boto3-dax-1.12.5.0.tar.gz"
@@ -11810,6 +11818,10 @@
       "sha256": "ea1272191df88b6d18ba393c852c8a60247a5ad028aae70f56993efa7d83b39b",
       "url": "4c/2f/6e253f4105433597ac2005c1f677a402251625d7c68ad3de62f0ee8a61fe/mypy-boto3-qldb-session-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "ff758287f74634eb1194556153a5446b0f7d27c177d5872a6a5a0bdd5ebc9ce8",
+      "url": "a0/f6/44c3b134013238a7ed508678d5d28033e88f4309eb82ceda26c99dc6344e/mypy-boto3-qldb-session-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "bd50c29c3d539a1c6c12758465cac647cfc7c693bea357c948255c0c1a879105",
       "url": "f6/d8/0cb9183ecf2a0f4223b147eec3633b5e2c95f2ca9fca72d9c0f09679c7d0/mypy-boto3-qldb-session-1.12.5.0.tar.gz"
@@ -12328,6 +12340,10 @@
       "sha256": "3821c64d3dd7ffbcb7bb4dc24acd136341c6b1b70ab92e52dc3c9531933abcda",
       "url": "e5/7c/287437c2fbd55f909488edac6d514de7c93c5c827ae3c3a27d3661003a21/mypy-boto3-workspaces-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "79a409f851afe084a84c5353427dcd28b010aa8f94544c10e7c64af8ccec654d",
+      "url": "de/90/d21a58e0b8b571bc776151ac823e0d51a3131e47d20d37ad94568fa01cd2/mypy-boto3-workspaces-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "383557e97b3e365883616b97016522278419a537559e75d0fee5793b15a67633",
       "url": "ce/22/26d99cb3053b0ab9b3d5e1fcf83529ba4f59227405d7e44147259572c98d/mypy-boto3-workspaces-1.12.5.0.tar.gz"
@@ -12357,6 +12373,12 @@
     "0.1.1": {
       "sha256": "198095935ba216440a8e50a28a9223f58fb4d8a2906a51c937b497f814513678",
       "url": "6e/48/7a2cd9f77d566a4e60845cd688a0047e88b735066a4617e35e173e87f90a/mysqlconnectorpythonrf-0.1.1.tar.gz"
+    }
+  },
+  "nanoemoji": {
+    "0.1.0": {
+      "sha256": "c4783870028d79d7784752c5257c07b17e776e91fef831dd55befca8c8798529",
+      "url": "2f/05/4da52ef776f8b799574353a14c6563baeca6bb3e986e7876e1a17ef80cc0/nanoemoji-0.1.0.tar.gz"
     }
   },
   "nanomongo": {
@@ -13541,6 +13563,12 @@
     "0.3.2": {
       "sha256": "768cbd8caa754493d58100bca3ee97bf423f14212e93164169549a83a358bf83",
       "url": "92/1d/4d6702d16e9db6994a4cacf9daba215093deb0d380c2cdf3e616e1b0c7d7/pdftxt-0.3.2.tar.gz"
+    }
+  },
+  "pdpy11": {
+    "1.2.2": {
+      "sha256": "4dd4897ccecce591af1d3840436e84d3196594c74bffe21bf335d952047a3d1b",
+      "url": "51/34/b29d82071493b4e3b69efb97ae57138df706c53027b9da20bfe08a81ae68/pdpy11-1.2.2.tar.gz"
     }
   },
   "pelican-jupyter-reader": {
@@ -17751,6 +17779,12 @@
     "3.0.3": {
       "sha256": "fd46c046e8c0a4beedca4ff1f576813824be6fd03f29df7c1d0cbaea85c77f6c",
       "url": "83/d9/dda52640b350ee13cf8047104193d513401b165ed0f9848d8d48e3966327/scout-3.0.3.tar.gz"
+    }
+  },
+  "seaflux": {
+    "0.1.1.dev0": {
+      "sha256": "8a1b9501fdfcf5236a1e06926764cb82694794df0c4003ed3cc4fc538e1acac5",
+      "url": "16/e8/b73cbf60fa8e9fe827fa4508c90dd6e21e53d0c297173874b3de7fef3a20/SeaFlux-0.1.1.dev0.tar.gz"
     }
   },
   "sergio": {

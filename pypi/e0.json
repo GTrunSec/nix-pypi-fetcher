@@ -291,6 +291,18 @@
     "0.6.6": {
       "sha256": "067e3a88544d5524a2ce59c89e1bb4fd659dbec65fbe61ca063abed1393c253c",
       "url": "83/b0/4836967b0fc82a0dbe630edb0b3fddf133bd917649c76f056ecfa66ae5d0/ajsonapi-0.6.6.tar.gz"
+    },
+    "0.6.7": {
+      "sha256": "6497315dd93522d229a6c83622576b544323d300e00409bb13438a2893eca354",
+      "url": "d6/a2/35920b7abe52942f5cf0ee58019275154e477074b6623d7fe70fd055853d/ajsonapi-0.6.7.tar.gz"
+    },
+    "0.6.8": {
+      "sha256": "8faadc1acc33a42d32a868402ada6faa5b8ffaddfd0066bb50721d87ea2c5d58",
+      "url": "0d/27/3dba87b268716afc68baa3408ab6f65611db11fa01995bb76e61b52425f8/ajsonapi-0.6.8.tar.gz"
+    },
+    "0.6.9": {
+      "sha256": "7df2a2ec2413f5ace3a1029a61bf2212e7df2113c56594488ba860cd274b2c52",
+      "url": "7e/91/2a0e78f49ce2a90083f0eb851e08307ed85458e428f8b281f4bf58e19f34/ajsonapi-0.6.9.tar.gz"
     }
   },
   "albertmarker": {
@@ -2133,6 +2145,10 @@
     "0.9.0": {
       "sha256": "5b26dfcab7312e90f4eb4877b7267b8ffea8da1eb9996eeaea5827571a37966b",
       "url": "05/be/fb138201626c0be3f58f600a826a8090aa7c2d374ee33161a3853399e13d/bauh-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "7744aaf91e236a49259801aa6019ef1fb2603aaf3602f8df68c237eecd8e1ece",
+      "url": "21/2c/27a8b3c6c189f14dba84326edc30734e35398928f804084d4a6c31abf925/bauh-0.9.1.tar.gz"
     }
   },
   "baycomp": {
@@ -2229,6 +2245,10 @@
     "0.1.0": {
       "sha256": "2287af3c0c2f59d00171b14862b4acd69e76b23f7fce3be620c3bd8f0561b335",
       "url": "ff/93/64968688dd3f447415c3dce1d8479c2a2143d70274055e53d94de51c2057/bert_reranker-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "1d24f93a4787741c55425bfe9de4c7e1576b6950111ce8b2b4aa83a81ff9e4a2",
+      "url": "0f/b7/ad9364dea3dabebb0c5f837e53372b6e1917304cd4390336320461287cbb/bert_reranker-0.1.1.tar.gz"
     }
   },
   "bibreview": {
@@ -10453,6 +10473,12 @@
       "url": "6b/7b/9bba3f8890d0eb41cc02a6221b01ba058a908eca3a8d6bc58e76986c3b00/graphite_beacon_opsgenie_v2-0.27.3.tar.gz"
     }
   },
+  "gravity-simulation": {
+    "2.0.1": {
+      "sha256": "c3dcd6247af26059aa61b88fd2b83df4b6f3cf3dfa4fd9febd5d25bca7ff702d",
+      "url": "1b/d3/a0fd9688da4e69135304babcff181d142cdb242f36e50a69b850bca42a1c/gravity-simulation-2.0.1.tar.gz"
+    }
+  },
   "guniflask-cli": {
     "0.1.0": {
       "sha256": "0a6eaf4bd618fe6c51bc4ebef0e616ed2f96b7d2cd792f76dff6a9c9b6f2625a",
@@ -13544,9 +13570,9 @@
     }
   },
   "malwoverview": {
-    "2.1.9.1": {
-      "sha256": "a75fb7efc4c2c280fe4e0ff77af57761e1c5205b2b591de117fcf32ecdb50100",
-      "url": "0e/21/fa5f0fc70bf0d7a73d373226886a3463f0b3077dbbf1c419d2c82782cf39/malwoverview-2.1.9.1.tar.gz"
+    "2.5.0": {
+      "sha256": "2261db84e7e626fe9ab765641d0eea39d9736e0bf2c7d84d6a6c60f680db1750",
+      "url": "ef/c4/ae4dc6528ee6d43a2c8b5a64704915238b5006a14d85e2f7bebd855c1500/malwoverview-2.5.0.tar.gz"
     }
   },
   "mariadb": {
@@ -21069,6 +21095,10 @@
     "1.2.0": {
       "sha256": "81af108ee04eaeb862f04490789536617606b76283a092dba4df7045aacb1950",
       "url": "84/76/928dae108a9bf8c60875c2421bf27b1b6bae960124adb95b92d70e2c2e10/sendbee_api-1.2.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "f85bade84d7f35b45555fd6b6f07bb399002a448e951bbd10bbd2e612d3935ef",
+      "url": "5e/64/cc7667a403e9728adfad66dc3b13240675b5839602d869e7c04eadacdfc3/sendbee_api-1.3.0.tar.gz"
     }
   },
   "sensiml-dev": {

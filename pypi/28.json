@@ -13034,6 +13034,10 @@
       "sha256": "58e41fa2f74f4a867dfb924cc54119ed33d65c6b28df76e57d854d87e17bbee6",
       "url": "52/82/4e8187867cb1921acb07bd949cb8605ebe9b7660440dc2c2b4587bc722ab/mypy-boto3-codepipeline-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "70a67eae600372b241acdb239018c8967af234e99763fba8fdfce0a207d88fae",
+      "url": "f7/ed/ef6c85451f3718e3488b591ef76df45c802b4c6b58987469980a1e418f5c/mypy-boto3-codepipeline-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "cf814b8f88b48451996134d5426602519939451b7e89617abc69cc8ce577bf06",
       "url": "d7/6d/2a4a166ff424c834e9d630f345cb96cefc123be3a898fb0ea7f45e8958bb/mypy-boto3-codepipeline-1.12.5.0.tar.gz"
@@ -20857,6 +20861,12 @@
     "0.6.17": {
       "sha256": "a6061d3fec97fba877786e7bdc437e30c8521c946e42a849f0a62d33c8720357",
       "url": "2f/2f/8841a7b8252ca655eaa509423d51020a2bcd3193268c11fb218bb4d92838/synbio-0.6.17.tar.gz"
+    }
+  },
+  "synchronize": {
+    "0.0.1": {
+      "sha256": "a0a8d292cf8b24231c9231d8956d10937b15ce8245cae294a3da42ad0bc568a5",
+      "url": "a4/0d/9fe3b21cf40a8cda5650cf3def02eb620ea6849f5644b0502f0425eacfab/synchronize-0.0.1.tar.gz"
     }
   },
   "sysprocs": {

@@ -1626,6 +1626,10 @@
       "sha256": "76a734a8d72ea4b04bc0fecff9b5be2bc2b33a30355df3772bf8a0a1c568625d",
       "url": "93/59/f8442280bf0a2df1857698f8c8547e7a154635a0a39665c64eccf48fd66b/aws-cdk.aws-workspaces-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "d034e699c9af889192f8ef0c95d02ec0f8243bb07b6657515d61a624a9b68656",
+      "url": "44/c0/00c76865fb4d34e868979684c473820c377a86978bd72b2b225668969d8b/aws-cdk.aws-workspaces-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "127c4b5c65671c6e70983a18141b800fc3c557a31bf9f9067d33a7ea434a486e",
       "url": "28/a1/e4d04aa589227622655c3562e1752626b78dbf831f7d21425cd36571a71e/aws-cdk.aws-workspaces-1.4.0.tar.gz"
@@ -2644,6 +2648,14 @@
       "sha256": "6840745913aa2467732ed8fcc5c9e78ab0770d3fdcfde301f5cd2f51ce8c29d5",
       "url": "03/7b/1fe84e4fb4bb223c13d9c90ba39776cd2922e7d91550289af7c7d7fe6b05/biosteam-2.13.1.tar.gz"
     },
+    "2.14.0": {
+      "sha256": "6c1d72abbbb00c0426329663caea9a7486cb4c7438ea891f0a770170c5617886",
+      "url": "e6/b3/ac1f198e49ae424758af48dfd99e6b51a5bc9be8394136aa44b21644a75e/biosteam-2.14.0.tar.gz"
+    },
+    "2.14.1": {
+      "sha256": "19d65f4e8a8765a394145b9c6f446d69ab6dc70bb1af503b61ef9d58c6f9abe3",
+      "url": "9e/1e/e5d6a7890a307055fb3dccb1b97d7410052d804fd42ed5ae5d39c7f48fed/biosteam-2.14.1.tar.gz"
+    },
     "2.2.0": {
       "sha256": "fed52dadd2ac8c5161e080d768152ff1836fccd0636cc9bd9458a4b113fcceaa",
       "url": "f8/26/ae79625265227b6099589fc4e3e65ff8910c321ba030861c5e1bbaa98cac/biosteam-2.2.0.tar.gz"
@@ -3545,6 +3557,10 @@
     "2.2.1": {
       "sha256": "a471e7f074d4644a5ab22ba00acdd0409506c600dc1e5291102b461d65a668b8",
       "url": "ed/bb/4aa3aae43bb88c395a000c7adc582d4bebaa5cb0446f7179d537d69ab372/cacahuate-2.2.1.tar.gz"
+    },
+    "2.20.0": {
+      "sha256": "03a6b770a192e27079caef8a8d130561f4c20b439c9c2e72b5d93e76782b8972",
+      "url": "8d/9f/b3d3e0c350c8af3117d197b31bf957148240c61d349f076f988f17b07c3c/cacahuate-2.20.0.tar.gz"
     },
     "2.3.0": {
       "sha256": "5eae0692d9976323b430fdd7f811e082bb549f3c91fc359ac998879e0c852dc4",
@@ -6955,6 +6971,10 @@
     "1.2.0": {
       "sha256": "b4cbe66d87ebb2d9891901eaa23446f5526eefc0e89614f9d8ad808db9646cbf",
       "url": "5b/4b/10fc30bc995d784462074a5f27cdf6f7033f1aea8bcf085b92b2fa72f8ea/djangocms_mediaplayer-1.2.0.tar.gz"
+    },
+    "1.2.11": {
+      "sha256": "d7b90be4cfcde5620313d1f58b1d196ec5100e177671ef1d2ab5b6f540d16296",
+      "url": "22/2c/a05c8e4b6d79c15e50f1610b4db5910562cab7c54a9392e93635e00696ad/djangocms_mediaplayer-1.2.11.tar.gz"
     }
   },
   "djangocms-plus": {
@@ -6973,6 +6993,10 @@
     "0.1.13": {
       "sha256": "1610c18666ff193a8ae4ca2acb8ba878c173bc119094e1db0aa54b5a00ba0e2f",
       "url": "26/25/e6d6a0aeba70e887476fe1d30a1b1282beabcbf283b09efb0f1de0fbf63c/djangocms_plus-0.1.13.tar.gz"
+    },
+    "0.1.14": {
+      "sha256": "caa526344a4643c19d00252c72a1f655f8342fb7df48b83193d357083c7b7c9a",
+      "url": "8a/56/65c24a3a36c2c4b22bf3a881181028cf37f92188065220f0241b9b87cc94/djangocms_plus-0.1.14.tar.gz"
     },
     "0.1.2": {
       "sha256": "32f88755a32226b1adf481781f7a8ff785f02fce397d5125d1f18b8d7bc5ff61",
@@ -8201,6 +8225,10 @@
     "0.1.3": {
       "sha256": "14cf2727803a26c1c1ec45f87d46ea1ccee83ea0f446582071c7890a01384aa8",
       "url": "05/1c/a1eb43ff956f98f0eb520910eb91c5d510fe655dd15dfd94afcc62877926/enochecker_core-0.1.3.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "ce4adb3e91ff4f15bc9d59456b3c2105e637d04e7e049951d788c782db4fd948",
+      "url": "2d/94/4c646bbe85487b3ca6a1d684c586d4000c7259412970bd427b87cf7a1a83/enochecker_core-0.2.0.tar.gz"
     }
   },
   "envipath-api": {
@@ -14117,6 +14145,10 @@
     "1.12.45.0": {
       "sha256": "8b3a73561cb064dfc9136ac23f5d02be53f28b4b891a58ed2cfc5e7517057c11",
       "url": "62/84/83ce92178711ea5a030617d8f086d158c4aa77d66514dab3d7307820dcdd/mypy-boto3-workmailmessageflow-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "e32c97a1d6158213205ab94a38c6acfcb888a86898265d8ede5ea110d9eadf0f",
+      "url": "db/21/7befe2819d61150912c78142ea07040e20e5d321226f537dee74954104d0/mypy-boto3-workmailmessageflow-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9dcc5ca41f36a522882f5be71143b2fe5ec1a68cf27915eb49257ef55ec58c5c",

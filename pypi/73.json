@@ -7053,6 +7053,12 @@
       "url": "46/57/7dc44051fff3c80e3fbdb21b53588e2e48ecef19d7f770a0fdf7859567fb/cwlgen-kclhi-0.4.0.tar.gz"
     }
   },
+  "cyper": {
+    "1.0": {
+      "sha256": "404ff23055a0a4dcec85495274515e9382ed090fb01f42aa71901bd499b434ea",
+      "url": "82/89/794300e3f911cdb8a7a78e8e5281edb0c80fa40825099816a32409701127/cyper-1.0.tar.gz"
+    }
+  },
   "cyrandom": {
     "0.1.0": {
       "sha256": "a19e872f3fa2735ce62ca26b9a524d5c03b1153f0cedfb311ba71df71289e377",
@@ -29441,6 +29447,10 @@
     "0.1.6": {
       "sha256": "602de7d0f2f4311d8aba599495c0321944bc41d5a19c166114ff60bc9c813cc7",
       "url": "01/c0/5dde2cf2ab9783f04d557038875d4595f710730a6f82c2a9e79d4dc0001c/yacs-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "4e47a59c9852b5d9cdc3777587864e9771060340d8f1b92b2c68f45244550c02",
+      "url": "dc/32/8cc179b5ce8bcb9e334d218d4fd26266acc3ff4a60aa673a1cc6580ed661/yacs-0.1.7.tar.gz"
     }
   },
   "yakonfig": {

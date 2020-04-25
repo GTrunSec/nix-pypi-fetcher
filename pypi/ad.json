@@ -373,6 +373,10 @@
     "0.1.1": {
       "sha256": "5fc60e6b511d9e53a5ddaec1b409f6cfb50c3405975efef372daa003dd7ed2e4",
       "url": "f5/f2/50fdd2cd85e05b8ca702ecce06237818867dbeb8d0482884057d1a50cabd/aiojenkins-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "b657b11e0f072eb7cbfe87e49bec20b1d64ad3504fd25b492ca13e72d6ae0257",
+      "url": "7d/91/d4d697081177c80733ba98c4b002890c97e61fd5941be29389208d7d3f2e/aiojenkins-0.1.2.tar.gz"
     }
   },
   "aiounittest-tornado": {
@@ -3947,6 +3951,10 @@
     "2.7.71": {
       "sha256": "a26e2f52f55bdd4ea4e59ed0aea9edcbfb95322872e396a449f4b91a959ae6ad",
       "url": "cd/8a/1b005f63f2050c2d41adf6a73713f58295e5eb3e64f6a89aae5b6e960be4/discovery-transition-ds-2.7.71.tar.gz"
+    },
+    "2.7.72": {
+      "sha256": "e681db8050f01c778f0d43e52a83e411222c8a1f1234ceace9af7ad8f1f5325c",
+      "url": "23/d0/c0fc20b512e1b8489c94f0b1a375d1249c3e565b1eb4be8c676ec9f36de3/discovery-transition-ds-2.7.72.tar.gz"
     },
     "2.7.9": {
       "sha256": "f77b3befb2c9ac9aaf02e7a8f01df1a58e028d1055ecb985d0a76b12195331ff",
@@ -28777,6 +28785,10 @@
     "1.4.200414.1214842": {
       "sha256": "4054a2118870bb6c5426bd72b2ec106d535cada360efdeb9442c75e2e0d1814e",
       "url": "d1/c4/7b6e82b2c3dcb7d5b947b4dc388f322aa6d8be8a4bc3de235b26d10aab77/testflows.core-1.4.200414.1214842.tar.gz"
+    },
+    "1.4.200424.1160439": {
+      "sha256": "e7412d779f5051d7c3ea4898069f747820c74a59d4c0b7c55f8a1c5b3f559430",
+      "url": "5a/b3/aab4a2eb7ee8cacec96f3c3bf6242aff18d2aa4bb4d067cd4049145e18cd/testflows.core-1.4.200424.1160439.tar.gz"
     }
   },
   "testmachine": {
@@ -30775,6 +30787,10 @@
     "0.3.3": {
       "sha256": "dd41fe5f0d9be1a2b0a580c16682a8dcdace6a36bfbd1fa051b0b75358afef00",
       "url": "36/06/fbb6674a8adb9cf321983a1f77190463320b389683504b4afd3b7edec820/yacl-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "15c2fe4aafae195764417ce7841f8baff3a335caea5ea225ce521ba4d83b02c8",
+      "url": "44/f5/6b60169297923bcbd63b29944599db847d9b33712361801eb88110c20e3c/yacl-0.3.4.tar.gz"
     }
   },
   "yarc": {

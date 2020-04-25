@@ -9607,6 +9607,18 @@
     "1.3.0": {
       "sha256": "8d9697e0a9f4e4d56d16791f2a10d587b678084d99130351e7754623efd030aa",
       "url": "91/b7/fc02dc43963422287e7c3187a153ff78bc20a769308127789e998dc55301/gplaydl-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "9e1b21586ad67c05df4ed9c1880d542510b5716788fa9e412d32d05bb40e8584",
+      "url": "6c/5d/2839fc75486761e234d50c0bca078dd3484a544ba44da1410e239d8cf05d/gplaydl-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "95513f36429e5ed94403ff6485fc48a056b12e80a4d3a30aba3fdc65a8bda498",
+      "url": "f6/fb/463511aa1b9eed6a098b450f2b219b8375c31434c7eca7bcd4a7e42a7376/gplaydl-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "54482176a9782a74b39f8fc8d704f77084997b67d10be8b46a21add7f14858a6",
+      "url": "4c/4a/4559c70b7ba81cf7112f763dcac67184ae7ac04dc42f29ebf8d9a2f14dec/gplaydl-1.3.3.tar.gz"
     }
   },
   "grand-schmidt": {
@@ -11249,6 +11261,10 @@
     "2.1.0": {
       "sha256": "6b57720cb849a77bd684c7bef834c0ebd77eb6c8ae75da4ce7746da818cb5761",
       "url": "e3/b2/5c94ea955f3c87d3ecca978012fa0073dc12531b0152428399f81c6448e5/keras-model-specs-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "ebf451690b3229be56d496bbb456525553ca329aa42939c8eb4ed0bab532d5ff",
+      "url": "66/a0/d1f3cab9c31cad9ffe7c4de34c715ec001b0da45da00d40919929549233f/keras-model-specs-2.1.1.tar.gz"
     }
   },
   "keras-rl": {
@@ -11957,6 +11973,10 @@
     "0.9.9": {
       "sha256": "f3104519412db2f829bb709e0784f8f53a3d978c40c7fe06ab3f255edf240ad2",
       "url": "a6/62/8460c258ab57c799b9886f20f959f8f4f8539e06b628994f888c8617a084/libHREELS-0.9.9.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "8aec16d55501ad58614077d20b76a35de7ef2e2a1c33721b74ac1b906721594d",
+      "url": "bf/ed/ebb8259963c6fdf62575e955af7c9c474f8f44dae9b3b43c3c1933a18bd0/libhreels-1.0.0.tar.gz"
     }
   },
   "libmonk": {
@@ -14542,6 +14562,10 @@
       "sha256": "f72ce5480f4e1f5c4aaa16fe241a3c1b6e401ea427938a0360d34958cd02f95d",
       "url": "88/75/001ae512a214227b4d8f281cf1a09a02ccb70488684bca03ecfe07e4bf87/mypy-boto3-cloudhsm-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "6e6096e1d0b25c353e6d1e8662cf4da369d9421c022bb5797d08f7fd400039cf",
+      "url": "e4/77/1ccb887e260600923056d5b2f108f2f40b0027aeeabbec37b1afa2083b70/mypy-boto3-cloudhsm-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "fe2567d910923645d792a9c620095dc78da2bf854fb49b8d4989dcb431da0c8a",
       "url": "b8/b8/860c7859a7dd579e21450f8c6e303905c8e6ad9c89d4b8efb601ed1a97fa/mypy-boto3-cloudhsm-1.12.5.0.tar.gz"
@@ -15855,6 +15879,10 @@
     "1.3.10": {
       "sha256": "66792c2b0b617c865b847ffd73cdba486b58d3fb9ecf3aa384cf0f7cce1a7f5a",
       "url": "39/75/067fa301b65d7b8acf197cf811a917f1a4cbcb38ffee65a743e2bcfe2681/OctoBot-Commons-1.3.10.tar.gz"
+    },
+    "1.3.11": {
+      "sha256": "1404b7c83fa41ebaefdf3205c6bb436d7c6c6094d8c62f536dd82531641aba70",
+      "url": "a7/28/2fa883685ed481def8643254d5c030b2d1273d2043551176d013a20771f7/OctoBot-Commons-1.3.11.tar.gz"
     },
     "1.3.2": {
       "sha256": "b5460c97d76add49715dd4339b43998e7257962e45ddd5e30ac1ec7ead14cb9d",
@@ -17899,6 +17927,12 @@
     "0.6": {
       "sha256": "5a8322c40b7d8e823978be5ad6cfa3abe2e5f5bc5b6a3e062e94f3088a891a25",
       "url": "7b/a1/390c241e91932a47874f72a44b193c4420c3aea4f91f2832675ef4d2c396/pyfc4-0.6.tar.gz"
+    }
+  },
+  "pyfly-fixed-wing": {
+    "0.1.2": {
+      "sha256": "48cf4b13a38bf1869a3e9b86d23b1af681cd978e64707b8dab48b0f35fed53d2",
+      "url": "37/07/cb97e26f328050fa4313ca502badd1317faa1fcaf6e2a0d4f4a7e723796d/pyfly-fixed-wing-0.1.2.tar.gz"
     }
   },
   "pyfoot": {
@@ -22975,6 +23009,10 @@
     "0.0.5": {
       "sha256": "02efdb7b73b838b65202a51b689dfd20cfa2d9bb00d2d02bd07a57139aa5083a",
       "url": "05/de/76db5b72ab47cf6cbb928f1cf55ba5fb09d6fb209510dab58a3d2b74c80f/StockInsider-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "31b95f2dca0dd805b5acc53c0b91f915b8df85e57f536f651efc0649000f4fab",
+      "url": "05/d5/00c989cc192a56b8c547de7f5e9c0b344cefc601267bad642035b2a1af37/StockInsider-0.0.6.tar.gz"
     }
   },
   "stranslate": {

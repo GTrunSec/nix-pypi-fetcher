@@ -1479,6 +1479,10 @@
     "0.5.1": {
       "sha256": "51af94f52091651d98a2f329994ceaa4f661f0646c8b16f6e65f7cb652ee663b",
       "url": "a4/55/fc7bb19baffec7804c035caa7976d0fd4b30e8a259f3497ad354e1b1603e/bionorm-0.5.1.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "82d94af9ade0a6e8f3c09dccabe2dafb3ef944999137214bedf684fd3d5e21d7",
+      "url": "6d/5b/015a8a4332e2d182ce5628a88282e578bd9255eb8f4c0ed65ba0f3da6800/bionorm-0.6.0.tar.gz"
     }
   },
   "bip32utils": {
@@ -8769,6 +8773,12 @@
       "url": "72/57/0de468e05926a59e51224b4b52e50a91116bdb128cc7e33813ac2d5a82fd/green_ssl-1.0.1.tar.gz"
     }
   },
+  "gremlinapi": {
+    "0.3.5": {
+      "sha256": "f209f51189f008f41c2ae7c885adffea5aa1fbff88ef27c00377dbf8ebfb377a",
+      "url": "c8/9d/c66898b01a01efbd97f4cf05304c8a3e94b6bea535493473fbe470f5f5ee/gremlinapi-0.3.5.tar.gz"
+    }
+  },
   "grequests": {
     "0.1.0": {
       "sha256": "73fa312f3d4b62f038a44c0a56cd3b27973b57208befbaaf96db3683fa02e2b9",
@@ -13633,6 +13643,10 @@
     "1.12.45.0": {
       "sha256": "d0cea5b3edbd7be01e4ff40e1c59afdcf1490457c8eb5224865088ca41935270",
       "url": "44/59/bfa1af76b9c5e134effc0849641218bfc03de760f29c10d6da1e3db82af2/mypy-boto3-datasync-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "c28b58655e47b5d2d1dcae5282a5d89707e94de7a43ae2942492c9c9d26db4cb",
+      "url": "dc/8f/f46992b638fab0b02dbca1d949fc1b8246c55d3990e2b6b400d1f8c3dc9d/mypy-boto3-datasync-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "49e7d067a535f22f5aae0c11aad3377bb72f1312fabeeb676693418fb535d00f",

@@ -17276,6 +17276,10 @@
       "sha256": "2001784f249811e6d1f4c7ea315c413f2e62d96d98663bb0014861aa42d7d4f9",
       "url": "d9/f7/42096ce0cca877af49e104a6f3a40f370a91c9416a6b34e8526627f7fece/mypy-boto3-dms-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "0b8b3dffd82fd0aa64efe28ae1fa5d2a8f4544cedb73793ad5f56a2dff2063ff",
+      "url": "57/a1/e23dfcb8e175db8223c4217a6aedfe7bf45e0e7b8a9bbfb53ad4d9cf0dff/mypy-boto3-dms-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "d425d0b753feffc7165aa66dd39d6bfea27cda9a40fe0f57eab33f1f65beaab8",
       "url": "70/5f/613de6a2f45fa9c7ea227b497d497138f0abb1852c6d07d043169cf652cd/mypy-boto3-dms-1.12.5.0.tar.gz"
@@ -17797,6 +17801,10 @@
     "1.12.45.0": {
       "sha256": "92d60182501d581305d577bd5136e1ecad4c68ab22e0a65934a867a5849ac579",
       "url": "57/45/7546c201d6599942bcd0c79abfa6fa23dd458820ad324f419682f7d38033/mypy-boto3-transfer-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "3e062728746d861dbfe70df5e05804cad8b8b686c3f61572f67a575754b2aa76",
+      "url": "1d/ff/8ff45733576c05cf1d581e0711f94a4240f1033b320d1fe9d94cc7796782/mypy-boto3-transfer-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "ab8b6b8044b768d630ff0a59e70967c414cfeca66fddaba2658fa57b038e96bb",
@@ -18987,6 +18995,10 @@
     "0.2.0": {
       "sha256": "9480b7b265cf832492cfb64d108243e1c65a5136c2517efc89d419c0f53453bf",
       "url": "26/a3/4345a4a23be4d46ab91f8c1b7ad5c46cae6773aaf7b5a0733992918393a0/opencv-proto-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "29a40f62aab66b3810a8c25489c3f03d06517dd6438248df0d7a902fc40cf5af",
+      "url": "ac/55/65b9871eaf5771a1ee3b9da61754e19f538515ff4286299e2f3e82b66cec/opencv-proto-0.3.0.tar.gz"
     }
   },
   "openerp-portal-project": {

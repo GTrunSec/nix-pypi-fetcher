@@ -1482,6 +1482,10 @@
       "sha256": "b4f36cde40a7278e7ccebb30f32eb29c223178a0dc72f02bd4688fa84bc541c8",
       "url": "94/3b/579defb92349015b78271d93a92d8f3ca3ed2c4db7355cb7d0b746f7e236/aws-cdk.aws-servicecatalog-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "f6849f597a324dadc7f9d8fc1b7b450d5cc6a2adeb5c9d6c3b2ac9d374a51723",
+      "url": "3e/91/c447099be4185afe63ffee2347e013bb42d623ae56ab41d33cc397ddfa89/aws-cdk.aws-servicecatalog-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "7a1851c1885677379ec12e513cca79a1e4055c9b8f922a8eb1e09c384c904fbe",
       "url": "f5/5b/6bd46a56be03ec9efba03e9e8362eafe01697e972617174bbdd9e775ce15/aws-cdk.aws-servicecatalog-1.4.0.tar.gz"
@@ -11253,6 +11257,10 @@
     "0.4.8": {
       "sha256": "d041ed87d89c6011c8e5734fdd3b55f05c96569ba93bb1fa4aa0d5cf677df6bf",
       "url": "4b/85/19de3fdcdc9f482a97ce6ba00db5611b62df7f79caea73300c31c2a7e63d/ipfml-0.4.8.tar.gz"
+    },
+    "0.4.9": {
+      "sha256": "fe34352e1f802c1be87f882a32835e9105e4e5f365f0bddb0f8b1d105ae9f361",
+      "url": "5a/70/f98b4804cd22009124cd8dabfe5144e3c3cb9355f531f0b2a89fe8d542a2/ipfml-0.4.9.tar.gz"
     }
   },
   "ipyparallel-mesos": {

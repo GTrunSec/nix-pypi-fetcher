@@ -2036,6 +2036,10 @@
       "sha256": "25f33ef6d58348629cf152537fd5d302eb382d7ad9be2286ca43edc52167a98e",
       "url": "07/9e/83d218de69d4e65c9ac21ca13d92b4d70926c4c32428d3d7948fa93d0b88/arjuna-0.9.21.tar.gz"
     },
+    "0.9.22": {
+      "sha256": "4cf68819a1bde8c1d6c2d7c122a9a4154f5545fde83c68da14fe28336ab018fe",
+      "url": "58/7b/48ed57dd1f7ab60ac7fbdcd366d9e3d2a4e7d23722b58dc75bf22b494c30/arjuna-0.9.22.tar.gz"
+    },
     "0.9.3": {
       "sha256": "0e768db74191a2fb7fd00e0337d1ffbe0834436c2395af2d5d8bf42aace1e2f7",
       "url": "a7/ab/85e1bd53718be091bdc88c9392cdbf2b55967e84c1ac143716fad8e89bce/arjuna-0.9.3.tar.gz"
@@ -5947,6 +5951,10 @@
     "0.1.4": {
       "sha256": "b198ff768d615218c8612e26e8d67b497e4ee2f07c08c14de45a8d75214d7186",
       "url": "a9/57/2c6d2075b466fc7aac78931c1abd456af4d5a1769cffb93e287e531fd2e7/django-admin-action-buttons-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "ce8e3c202f9eae3d0893c70cbb0dc6a6f6e2d44ec3c4b85bf6fea2fc651f03ac",
+      "url": "a2/09/a33b3713eaac53f54b7ad77f27671607a7f4d92630a614f72282632f68e1/django-admin-action-buttons-0.1.5.tar.gz"
     }
   },
   "django-allauth-james": {
@@ -13731,6 +13739,10 @@
     "1.12.45.0": {
       "sha256": "eeeccdeee80c7edf2f7fa5ef794699a3e0603dbe1a309bc8571dd3fed94cb4f3",
       "url": "7f/71/65216a0bfbd28b321c90b677c8571287ec1c31cbebe1423cf87587bc82e2/mypy-boto3-marketplace-entitlement-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "2ed6af43cbdd384d260f383cc4b090ee1c6cbc6250a5c8edc7d22cc70c67de26",
+      "url": "64/47/dcd64b47020893eb88a2200cbb1b93940efd94cfb5ea75ec263b1274ae49/mypy-boto3-marketplace-entitlement-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "b530726d6d732eec27f43e94b26fa57506beab7c023f73cec6e991dc91e3292b",

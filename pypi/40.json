@@ -1258,6 +1258,10 @@
       "sha256": "087d835ee10bf589b584400b891af3b718c838fb8678c7d434149e491348fc85",
       "url": "c8/60/0e047f11017c33e7cb99a57347734544175ee720809b60214aeb9d70a6c7/aws-cdk.aws-lambda-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "bdfa252d849fd98ef7792c4f6fca5135e806d94444dbe1871632f5d99ba3f922",
+      "url": "12/a9/be1ffc2481728c310e9d04800e850408319852d8ef5261219fdef6e22d93/aws-cdk.aws-lambda-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "c0c8e13bc9c452708ba282faa6c4a558516060baae875d0590ea169f98665560",
       "url": "2e/e5/5f2f322f7e69b795ceedf79748ada77d159b607b65c6df7de7a6c3bcc391/aws-cdk.aws-lambda-1.4.0.tar.gz"
@@ -1512,6 +1516,10 @@
       "sha256": "8f6f8f31d847ac0bf57c6db91a9d778ac324f44f91cb6bc3ce1ed21d7af0aade",
       "url": "a1/36/7e445fb9d96111dc683e459522801aedc279792e354728745245faffb17a/aws-cdk.aws-s3-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "aeb5fc7af03f75706176659722d02beef86e1092ecbaa4880fc66a1fcc00c7a4",
+      "url": "ac/2c/78f460893b3168a5ab1bef14684eaf05db247026849563b0e9a6de7c043d/aws-cdk.aws-s3-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "84c22246cd3f7c3a4fbf0c7d90fefc946755b2885474246432c4a100381569f7",
       "url": "bd/48/4ae5901b7a962f0ed4acea2b103370ad92ab8223dc4592b3e436303ce9e8/aws-cdk.aws-s3-1.4.0.tar.gz"
@@ -1765,6 +1773,10 @@
     "1.34.1": {
       "sha256": "c021a6b3560ce486d935be55cae28ba7097378f04b08a3f2e3eabb944304e8a6",
       "url": "32/64/f0e7040de07273c261f3f56e9cfbe944d082bc450b65a33357faa0bac113/aws-cdk.aws-ses-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "ada053da1a7c2721867e65fb8afc7778924fd3239c21d2c0441f36d3b290fdf9",
+      "url": "7b/5b/218dcd0899c944c00ab3dbe44b0fad0a072e22ea715605b962bc7c29c1c3/aws-cdk.aws-ses-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "efd0a41e761f1d564846b605f67254a0acce7a07904afcc00ac77db173803e4b",
@@ -12220,6 +12232,22 @@
       "sha256": "9596100a021052b99fecd4c34e561673c7140fbc7f70674d83c30f0f2ad49d87",
       "url": "64/cb/db651481954f1721d20d892bb7f8ed3d57d81444ea29fe7c9a536dd6f078/mkv-this-0.1.31.tar.gz"
     },
+    "0.1.32": {
+      "sha256": "3fffe94feb1a40152a3cd81103666ac7bf848cf8648fb33a8874518e297d2b77",
+      "url": "55/1c/9ee5c0889885945f2efb9abc0f04c6ece08c3272e0a11c07a08d0b5e9e94/mkv-this-0.1.32.tar.gz"
+    },
+    "0.1.33": {
+      "sha256": "4ec99d6a127a872137001ab88827ebef66aeb1ea663b7bb28310bb6b0aaaf389",
+      "url": "f1/e9/ec3e3309a5a58b1eb1fba2b0428b7590ddc74961cfdc26fe344b2e05b863/mkv-this-0.1.33.tar.gz"
+    },
+    "0.1.34": {
+      "sha256": "c816a67b9d97d6fffa66e4da5fcda1ea25a18a314850e9de230df9e2faedbd0c",
+      "url": "25/5b/6bc58ec6a00f9556a89795ae71cc82d4072d924c9e1993725093f49d6361/mkv-this-0.1.34.tar.gz"
+    },
+    "0.1.35": {
+      "sha256": "04595c550416c09410bc89b434fedd9dac763c2fea09cda892429b369636d146",
+      "url": "9e/15/d3d40ebc704d97d874372a269af02529a0a96cabd6ff5d769483530c8f14/mkv-this-0.1.35.tar.gz"
+    },
     "0.1.4": {
       "sha256": "00de018a139aa39d64102c79541a9cb0d40e64e67e6a2db0d53bd70c91268277",
       "url": "7d/05/b2345361479bdc26083622c808e7c0edbcbc0134b22cf9f18f31d50493ee/mkv-this-0.1.4.tar.gz"
@@ -12883,6 +12911,10 @@
     "1.3.3": {
       "sha256": "3cc28265ef32c05ea0c29e5116b58a2807f63e3a7e600d73934ecf39c3ed65c8",
       "url": "a1/69/860555e3be59da0e2d584282591f8a61e4bc9b08876127e20aeb7075346d/mvm-control-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "7f804ca9f1d250c48ae5de5165dc999e7d1cc9dd371a60bb00ee8e26fb06d781",
+      "url": "b3/de/8c22d36536eaecb283ccdd7b24fe1e3901f528894616b85f0afe63376592/mvm-control-1.3.4.tar.gz"
     }
   },
   "mxit": {
@@ -13471,6 +13503,10 @@
     "1.12.45.0": {
       "sha256": "9c49ffdd2167a968ae301b333a0027755fc2a075a11e70518e6002bbcf41a9b1",
       "url": "91/98/1f13959c868cb6628c8d8b0429b8f6baa512cffbc08b5ed5e612ab6b4c4f/mypy-boto3-devicefarm-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "a263631e9c83413527939a0b6b5245719cceea27d1275e1226145456fafafcbb",
+      "url": "71/3a/442f88fc679d575baa033cf301822755a5f0c1fca291822b355184614500/mypy-boto3-devicefarm-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9a977470aa507abc0d844305bef6eb297f8145a0ec568cd7e551e5da350ef495",
@@ -19641,6 +19677,12 @@
     "1.4": {
       "sha256": "0ddff5700de80c0db64b09f81f522f77ae2062cf61a344bbe38528a01861f552",
       "url": "b1/2b/e6b42f23921e9873bc873b852f07f58af954153bbe661cab8cf4ae44d58d/S3-Inspect-1.4.tar.gz"
+    }
+  },
+  "safe-pip-upgrade": {
+    "0.0.1": {
+      "sha256": "468f537642dac10a71c8519df4e06f53bdbcf3105d694be0a941bd3542512e1c",
+      "url": "c4/fc/5475dde0cf03b7cb294ad5386e7d0108badd81f0f378c548702474491232/safe-pip-upgrade-0.0.1.tar.gz"
     }
   },
   "sat-search": {

@@ -665,6 +665,10 @@
     "2.5.3": {
       "sha256": "9b4c36ebf354dc7c66215ee50c1fd0e4b161f0aed680fb8bdb031a04dc271017",
       "url": "18/00/3e527059e2cfbc6058f25c54a0fd6ad5239e55ef2e7a7b8af4ebd5d89389/allink-core-2.5.3.tar.gz"
+    },
+    "2.5.4": {
+      "sha256": "b37d814983ecf6530c27bc681bbd4d0be7ad9d5ca00e762966cbcb27894a9c55",
+      "url": "05/cf/d85e834ba10bda0bff84fb13684faaef17f6cf69c5c0139d568e130ffa22/allink-core-2.5.4.tar.gz"
     }
   },
   "alpensia": {
@@ -2407,6 +2411,14 @@
     "0.0.11": {
       "sha256": "570602f4ad5af68109ae487ed0426a2625b96e21ae0e25943155812373724470",
       "url": "c3/bc/08b51b4d89aaea268ca3925c6d2936b07f309a653765c582e719abd2606a/cengine-0.0.11.tar.gz"
+    },
+    "0.0.12": {
+      "sha256": "17dfef9f9d4631d2e9f53aa17a54f4b12b10e86a5f270321ee0b5006cbe0fdd4",
+      "url": "8c/17/e6100e7f5c719c7676d7d1df97df521bf133775173fd823055f0fbb292c6/cengine-0.0.12.tar.gz"
+    },
+    "0.0.13": {
+      "sha256": "75f87637863b2116bae4147191f5b549f29ee34cbaf1dfbc8ad4712fd51000da",
+      "url": "9b/f7/f92e5ad829d5bc3ea8bb4e99631f4f6195dfe831dd2b590f9386c3c489a2/cengine-0.0.13.tar.gz"
     }
   },
   "chainer-watchdog": {
@@ -8213,6 +8225,10 @@
     "0.4.1": {
       "sha256": "dd087e5fd5d5fc66677b8a59894a3c338a47a79a1edf91be9dd3542283f1890e",
       "url": "2a/b2/783dbca6145f47d16b53c9e24a664da591c85dc452b1f554c8712b913c23/grayskull-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "4be19845f288a90efd7e839da7370cd2e97e4a6b53c1906f4d45a730edaf2b91",
+      "url": "42/65/60fee2dc0ae0f54b9f7bf1d17c4872692d7056c43c8b54df4a4b06c9ab5c/grayskull-0.4.2.tar.gz"
     }
   },
   "gribnormalize": {
@@ -12910,6 +12926,10 @@
       "sha256": "be85d61736e03939b3af8a5564fe3ee5b8124f19c38ecce427038a45dacfa60d",
       "url": "ad/b1/ec5f8c59523959b1cfe1478edcd5fe56efc63f913df40c57201007a99dfe/mypy-boto3-application-autoscaling-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "a9fcab177d2fa96ffea914e9ec44aa50d0f53c0a1dc58f0b4bfc9288bd537bc8",
+      "url": "6e/a5/74d55167c8971d3abc408eb60f4d5050be9a6e2564eb2422cedb0a8540db/mypy-boto3-application-autoscaling-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "71cc3e6c31e0f781346adcd81c607ad8e0ab87194e26eeecf35ba907f7909f19",
       "url": "3a/18/862a1eb324cb2672abc1f90b8dc3aa31436971697f3bb597daa6043b142a/mypy-boto3-application-autoscaling-1.12.5.0.tar.gz"
@@ -13432,6 +13452,10 @@
       "sha256": "18d35f1c720a96b8bf9904a05d7d95849666886a896aeb063f800023b95469ce",
       "url": "9b/b2/2074a2db2e841dd00cb07a3fb792618fd32cc7df5c6dde705423fab015d9/mypy-boto3-backup-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "355e5537b01bffd68aebd69025fb187d68239c2a2bf48880214a5531312d45aa",
+      "url": "e6/93/510d56bc8c6912727431d0a55fc57616513784927d0fef3ef355da155186/mypy-boto3-backup-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "5cc1a7dca2e004d73b103c1b8e4373b81dca83f5a9722329d0e9aef5d69e2c4a",
       "url": "b6/7e/de8e36008cc1083ad2db992de59f757201c66ce26beacd3483880151c151/mypy-boto3-backup-1.12.5.0.tar.gz"
@@ -13885,6 +13909,10 @@
     "1.12.45.0": {
       "sha256": "26b608d2ff2024e4be8042aed5d2292e09e68ace931cd7d551b64c7a560cc5f6",
       "url": "fa/55/31dde8705c6c982b359b41ea312281eac4d331741a8572392d6a5d0ad76e/mypy-boto3-codeguruprofiler-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "a40a4096aa26b8827464d558ea1274ad5508c50a46aceea6b8dea892376e6191",
+      "url": "a6/de/18c59df0cf1bdfa1058cd7c5a59013922845d1e09608a8eeddfdd8df154c/mypy-boto3-codeguruprofiler-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "0df0659ce2ee21734e4aec1bc2e0c01a52ce7b1fa6dac73a8926ddb71e728a56",

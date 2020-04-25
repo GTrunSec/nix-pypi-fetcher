@@ -10552,6 +10552,10 @@
       "sha256": "fa9737504f152ca285d867764b25e3ce2d1f6c24687f22681d2d77f24b8ff359",
       "url": "20/a2/cd9de6add789c8778657a3d04a82bfce2879d104dfa09c26d8ea0d0435b8/homekit-0.15.0.tar.gz"
     },
+    "0.17.0": {
+      "sha256": "73a430eeee05163d1bfc3919616ff1e49b63bcc706a62d526f5c421877221cd1",
+      "url": "48/74/c12c91e1356f109e3d155e5d84e2434421a91685001b5bdf427a5c239332/homekit-0.17.0.tar.gz"
+    },
     "0.2": {
       "sha256": "26bc6d245417400afe68770ff5cb1705442d618a8f33a9377e54d5aaf5c829a2",
       "url": "48/6b/730b98aaec81ebabeab0977264b4a6aba6a63bbf21f2a26c9ff28e267627/homekit-0.2.tar.gz"
@@ -14781,6 +14785,10 @@
     "0.8.5": {
       "sha256": "a5907549e437dc9301e80276c362dca7d27ad8f3ad7b1cdd06d4a9f802be32af",
       "url": "be/02/1bddc3e29ee24a90fda60df98a2971c9959e26f12bea8f97195c5d2497e1/metawards-0.8.5.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "b474dfc3a2ce1d7f97f40a33967cf23694fd7c762163782b2b5dcec035c530e6",
+      "url": "26/24/6f318e433f7f2007f8dea17aa773acc1d5b958fe8c0ee49cc8d0b32a50e3/metawards-0.9.0.tar.gz"
     }
   },
   "meteorpi-model": {
@@ -15933,6 +15941,10 @@
     "1.12.45.0": {
       "sha256": "778c168818e44521a1f3baf74c0acfd6cc6c75f5b72bf10f05d104951187a78f",
       "url": "36/9c/179aa7304470ae1500e19f407c2c27bc75d0476a0a7f97dd2c1bf09dc5a2/mypy-boto3-neptune-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "2cb52533c5756b5243c44d7096b9d2ad6171c2e768fca2c2c36161163fc84c2f",
+      "url": "d0/9f/79ffc6d4fc0d87f595421c9b7630bb9ba67102e87427ee3c518fd8e8cdfe/mypy-boto3-neptune-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "a16015e737f6835cacfa9e60fc60ddbaf56b08889994d74b1d1ccf479a6ad7d1",

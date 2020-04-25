@@ -1143,6 +1143,10 @@
     "1.34.1": {
       "sha256": "826dae97e959a6b2916dd8f6084460165032ce65b6252017020a89e977843247",
       "url": "b0/62/3d33473e2a6b34b6b9cf63fc80819f99ade0c9d865cf4267d5ee66c3a1f9/aws-cdk.aws-chatbot-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "342b9675b917fa2f8f05f77ae80beb4687ecb70fc4c92775f899c3fbc144fb9c",
+      "url": "46/da/dc63dc8110c1c9338c2c0b9fc86373eb54d69e77a4d589f8a5388f4b08e7/aws-cdk.aws-chatbot-1.35.0.tar.gz"
     }
   },
   "aws-cdk.aws-lakeformation": {
@@ -1289,6 +1293,10 @@
     "1.34.1": {
       "sha256": "43acf5983979f368ca3f341e400a80d48c0dee799e8b389ee916f3e5513cf844",
       "url": "b4/86/691b3698a23e4dd1d7b01c1a4dfb8d8b71081f2af967cdb5cebe6336c4fc/aws-cdk.aws-lakeformation-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "cde5d35414feaae4a1abb3fbe0adae1965247343e58185640a044a33d4a510c4",
+      "url": "dc/26/64ceaa7e737c93b2048616bead8daab257212ae684f7b4252e441c7909de/aws-cdk.aws-lakeformation-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "80bda0a1f9a6cadf7765b277789a3e2a28a47a64da2e014fe207057a005decc9",
@@ -11575,6 +11583,16 @@
       "url": "e0/01/8fa4e3dabf4f87ada66ff832c40d1236f77a3c41ae76777a85031e0bcf6b/ipytangle-0.4.0.tar.gz"
     }
   },
+  "ironpython-pytest": {
+    "0.1.0": {
+      "sha256": "2844732aa7eba8959e1a362445c555d0a2613199556bca2324f5a51590ce6bd7",
+      "url": "6a/42/9ab15c7f85057e4f519eff36308dfd536fcb0f8eb7082b11205c48a5325a/ironpython-pytest-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "7b7f457bad1e51c74ed1a90c0d532c3b2f5c9c1a6926b1c95d45f0a4df53e778",
+      "url": "5b/7d/df6a4194f9da0b8c4f6688f1f2f334289ba6356ed085b32bc9519bf277c1/ironpython-pytest-0.1.1.tar.gz"
+    }
+  },
   "iscool-e.bellman": {
     "0.2": {
       "sha256": "ab76ed6c329cb1d1aacd0dae3b890fe20ef7b80d711e0eb343bf362fb4dfd45b",
@@ -11679,6 +11697,10 @@
     "0.0.1": {
       "sha256": "6e98c373f885d4d045adc6f51d53d72cfc32dd3969f44f9c781bab7bc5c0daad",
       "url": "3a/fd/75bae9538ae1709e0a61459a05db7fa3f9762f38ffada4c3feb7cf9b65d8/job_offer_classifier-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "017dc61871b8d2b6687a6362cf47186a4eff8d35c44132a19d9fd7a4ba48962e",
+      "url": "39/4c/e8e26dba7e25742328b16f364abf18ff0656a2beb9877dcb20283c07e229/job_offer_classifier-0.0.2.tar.gz"
     }
   },
   "joinpython": {
@@ -13071,6 +13093,12 @@
       "url": "4a/15/627a75230f3333e228586294716ae9435a09877de9f802eb65470fa8462e/mkdocs_latest_release_plugin-0.1.2.tar.gz"
     }
   },
+  "ml-experiment": {
+    "0.0.1": {
+      "sha256": "512967149d5ce68ff5861c6758e40b03f6563a8d90060e1c54148964f362e50a",
+      "url": "b2/83/788c01944c88297490843f5c11c37a7771c3bfe3e0ea13cda34eee686c6e/ml-experiment-0.0.1.tar.gz"
+    }
+  },
   "mlaut": {
     "0.1": {
       "sha256": "74b0b3f04f729b1f2513ba2f45ad49d35c5cd4decf63331736bd57176b19a6cc",
@@ -14228,6 +14256,10 @@
       "sha256": "03a01d9823aa27f3e8834d1a8743206eeba6b6b00172d2727c018fe73514072d",
       "url": "6e/d4/3e94515840df84d9675afb28a7c3938d13c8f4f31fb383b40d3eed7c9513/mypy-boto3-cloudtrail-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "72c5bd60f6132015bf52c811d157b298c872b048a36bf8552db7c43e3deccb0e",
+      "url": "c6/6c/7d57f483fcd3a6ebc8fc953ae136033e94cee420ed0b53d2b2f3986fe7b2/mypy-boto3-cloudtrail-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "12a7718459ac920f6c4eed61fc6fe2e0a93c912df3187f58df0b0a40e4b7db31",
       "url": "6e/fd/42b9fec88680fa56267ef03bd8eaf30fd5a485bd659b67efea49920f7b87/mypy-boto3-cloudtrail-1.12.5.0.tar.gz"
@@ -14745,6 +14777,10 @@
     "1.12.45.0": {
       "sha256": "d721ebc31e4ea2705c6863baa476c3d7910aef3e148bdab659d0e06718c941b7",
       "url": "cf/f7/157fcff91221cb5ee863f7e6ac8ed6619de120f6f0ea72ca5b6ba37b384d/mypy-boto3-marketplacecommerceanalytics-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "fc196d826879d394451bb6f99a752febad1c6d57a73a1462fdef829c9512241a",
+      "url": "8c/90/4e91fae5df2daa1713b3ad2c760a31df56f163b795a8006beed8c85db3b2/mypy-boto3-marketplacecommerceanalytics-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "41ad8725662e7af55b61099c79fe7f8e61996768880ed43b93c351cafbec2762",
@@ -15264,6 +15300,10 @@
       "sha256": "3274c697d5b9cf7e9694279e6433f024a88683451d63b865581dfe26cf4ec0ca",
       "url": "ad/ff/d8a3232a148540072b157f5aae6310311c7652c8f0f998fc9e750216c603/mypy-boto3-mediapackage-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "2ab03fe8e989e2d0fd9d3e13a8eb021ba772259de92beae0593b088697b75ba6",
+      "url": "6c/5a/84339f39fe378304fd7c18414528fa6cb7ad23f813392f895abc1fcdcef1/mypy-boto3-mediapackage-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "f8e8997d3acdcada67839bc0f01bae1cc8143a1d2a7ce5828a21803b9a890b01",
       "url": "c9/52/f6dfc85b4367d38e3c04e3b463b7d280f4e2f8cf405e5b208788bff1c754/mypy-boto3-mediapackage-1.12.5.0.tar.gz"
@@ -15781,6 +15821,10 @@
     "1.12.45.0": {
       "sha256": "98ce508d2cd1624e31908a1c708fc49f67a897204295fd752b7eb1839396637a",
       "url": "21/4a/d4db8f584515fbf28d6fe05352841ec15f7fe66c3c70ecc98912134e0b2e/mypy-boto3-opsworkscm-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "8a233183a132bdda6fa62ce9897fa1473c81e758150c59cd395069a6d09af03b",
+      "url": "96/3b/97d17efed3a8bee0e14c01adfd4d18542f31ef02431930e66af6687082cc/mypy-boto3-opsworkscm-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "4f12c030f7d7e95da716f4674eac64465584bda68b7832f0b54f34d1430f1fc2",

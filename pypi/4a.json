@@ -12261,6 +12261,10 @@
     "1.1.6.26": {
       "sha256": "cadeaece7edf583fec62078d822e3edd3ba053fcc93d9e6479461c59a9765df4",
       "url": "64/95/10b0cde55019a17454ae41958c84e6e1e2a7885e75ea778d43aadf4d19ea/lins_unous-1.1.6.26.tar.gz"
+    },
+    "1.1.7.28": {
+      "sha256": "313dfdbf6a26b12451f73eb7e204f8c0315635c51a43096ca929554f6d48f273",
+      "url": "96/26/6c779d96d7d0564f6c5c87a99ec5fc8d26d6d2b2974ff7cc06fd8eed0e23/lins_unous-1.1.7.28.tar.gz"
     }
   },
   "ljw": {
@@ -13033,6 +13037,10 @@
     "2020.5": {
       "sha256": "57ee9fad179c082c109a7ad001a76ceec56f2a8af6e3fc6f35a915c09529c119",
       "url": "df/2b/538aae58b4fd412cd72cfd409fa8f4691a9acfbaff832d863e1391ff0095/metprint-2020.5.tar.gz"
+    },
+    "2020.6": {
+      "sha256": "8d4f298092cea41cdd613048bc5db64b4ef5604c2bf7d9be89cf2dd64f5b3933",
+      "url": "07/f9/55438d7aa0541f5daa23b40b026ff66d00a0519244816e29e266fd3327b5/metprint-2020.6.tar.gz"
     }
   },
   "miceshare": {
@@ -14107,6 +14115,10 @@
     "1.12.45.0": {
       "sha256": "345c903a78dab8fe6fd6762337a804929f442c590a610cd0ba150632bbe95a60",
       "url": "b3/2d/978c14904074663f6564e302d407697e8e3eaa507181b367ba5a4a2b4c78/mypy-boto3-kinesis-video-media-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "b2853b653a2281ecb6c45800f6440d4895bd139e51408bf36025b7f1b9f62021",
+      "url": "ba/88/56ee0a95beee004b5e3d133b6bbc8ba666cadbcbef389678d35486c70309/mypy-boto3-kinesis-video-media-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "c16bccc097863029b4adfe513e5d1b27a865181328636e4b570b9f87a4c70bad",
@@ -15359,6 +15371,14 @@
     "0.0.20": {
       "sha256": "446cbfacbc0b9e0573b6cde78ef2e6b3d793a349afe6bf4375879baea9f8c76f",
       "url": "31/8f/f2db70683f41f1aafb32b3b377b0d794eb5c97c52824844b322907e996a3/nr.shore-0.0.20.tar.gz"
+    },
+    "0.0.21": {
+      "sha256": "dca06fd398c2ad2027cc3bbd7a502b6eddd67fc2c7435ce551c6f15b8c4a911e",
+      "url": "c8/67/08512295ae5ddd79c856a6fe18e275adec135b8889bab37bb376fe3fb91e/nr.shore-0.0.21.tar.gz"
+    },
+    "0.0.22": {
+      "sha256": "b93eac178489cdfcc782b80b6046c7ffdfb31da84dfb88fc12ae5d3a2996607f",
+      "url": "7b/1b/ead4a84d12de4d727c3b50665254b84b19fe86184f42195faa76dd33721c/nr.shore-0.0.22.tar.gz"
     }
   },
   "nti.contentfragments": {

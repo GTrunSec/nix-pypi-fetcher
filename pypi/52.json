@@ -2295,6 +2295,10 @@
     "0.9.4": {
       "sha256": "4ba6b7f9fcc78c417db08ad2b90243c7887285944d0d7f6fcf6f60235ab7e339",
       "url": "23/be/54d74c7c8e943c77de94056aa655bf28a63a3de9ff2a126493366de541cc/chord_finder-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "b72046afaa31751d6d6eed0628482f4243a830bc40c0af93cbabfd8bb887829c",
+      "url": "99/01/9d1985c3c1ece5b3d50ac26b0d09acba058503b76f6e8fd714a5c7de98f9/chord_finder-0.9.5.tar.gz"
     }
   },
   "ckanext-userautoadd": {
@@ -4211,6 +4215,10 @@
     "0.7.0": {
       "sha256": "6ed74b1e5208915b6d482943af4ef501283d4533c06bcb55ce8f6f26869046e9",
       "url": "22/f6/f01894b191875cec07afbb93d85c975588d88c09751bf28bd22f45c80eec/designate-tempest-plugin-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "f890045b5a24ae0b75fa40bbf3d8054e81844f873414633b7c0288438c31d796",
+      "url": "4d/13/9cf7bcc66d03acf06018e1213ba3fb5a6b13d201d92bef12f35adfb70911/designate-tempest-plugin-0.8.0.tar.gz"
     }
   },
   "destringcare": {
@@ -10475,6 +10483,10 @@
     "0.0.6.2": {
       "sha256": "a3024363b1a41104b1250da97c62efb9ef988b0c4245db98e50912ee7c10413d",
       "url": "81/fb/787b09654bd1750926eaf2d5e54e3e71e4ee12a9662e71f2260378022810/kinliuren-0.0.6.2.tar.gz"
+    },
+    "0.0.6.5": {
+      "sha256": "d86802117f1ff96a10d6604b45c176755ea01aa62da1d349f1d0f2ec0855b718",
+      "url": "01/74/09ba156bf03149ba26d8fde17e63805f69a34bde060a2b043073070b9628/kinliuren-0.0.6.5.tar.gz"
     }
   },
   "kisenpai": {
@@ -12214,6 +12226,10 @@
       "sha256": "50078d7c85269679ee20241964cc2797ead694527afc54d7898011b5527f1e70",
       "url": "8d/f0/6fa2fdae1abb9b0b32d1b7a94eea1f97c9caf955c16d7e309017b3bd67fe/mypy-boto3-mediatailor-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "bca54ce8302258a07a7d33cf1df3971b89aba467dd9b102c5c94b2e83b699cd6",
+      "url": "ba/d7/a378401cde0ff2f8edf3cb3d4943ca265d879325d16f4916b86e22aa6196/mypy-boto3-mediatailor-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "beb5b1310ce69d9f7af3157c06eada400e3a1bca00d15105654e3d4c04dec8c7",
       "url": "f6/d3/d186acb426437f34039cc746ec86604f33ebaddd235711ed38101cd07310/mypy-boto3-mediatailor-1.12.5.0.tar.gz"
@@ -12735,6 +12751,10 @@
     "1.12.45.0": {
       "sha256": "6c393767fbd69a00151ed145f832902c16c3b1d9459276b9dd8a19265fc1db91",
       "url": "82/ed/b3dc73514dfbc6ef9d895ffb228fd91650a37b287baf204c906092e00a53/mypy-boto3-textract-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "e0b18376215eddcadb1e632efdc31c17ed231939792d183b2b391444f10f810b",
+      "url": "5b/5b/506ce21314faa5ad8cd1320d47e185d5c759d36e85c1b213815c2ed60c5a/mypy-boto3-textract-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "be677fede9edd491a0bf1826bf331f93346dcfd42e9f67dceffd3cc122642ab1",
@@ -17193,6 +17213,12 @@
     "0.0.2": {
       "sha256": "904e81c2f0096de18c161113e506b5ceb679b5a6192f957f87894102bff6d018",
       "url": "ab/1c/d054cdfc41b058de42b30c6d15e94f87aca1fd87fd67b7e3f33e7032236d/pytochnog3-0.0.2.tar.gz"
+    }
+  },
+  "pyuninstaller": {
+    "0.0.1": {
+      "sha256": "ebbcace477446ee72ccb2e5d9975ab0d245a1c894f0095b50f5d2ed950d94a29",
+      "url": "fd/89/b63141ce4228357a36e9d0ff2875c0f47cadf0f0a10fa9193099a6bcf389/pyuninstaller-0.0.1.tar.gz"
     }
   },
   "pyuniprot": {

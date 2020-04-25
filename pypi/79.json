@@ -6969,6 +6969,24 @@
       "url": "df/f7/a59e73fc80dee911656f8910b782e1d58a5ea90b194f86f653b3b4ef9d4c/extract-pages-0.0.2.tar.gz"
     }
   },
+  "factiva-news": {
+    "0.0.1": {
+      "sha256": "2cb495333b735f70bb93bb1c4508151100792a0b9788180d58ab7ccd67aff147",
+      "url": "13/8d/872b6e68a491776a861a2828d5ee86173e9d677bf6a303a461c5ea76a4bc/factiva-news-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "e83488dec6fa4fd2ae04ca8045468ffe3602be2c1455a586c16fac9eee297c94",
+      "url": "70/6c/4b9a6ce37cd268c42f29997cbe15f0a0cfd3b89a344f56bc77eb371059ff/factiva-news-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "fcafed661adb1069e4abe0503ca82cd57399dfb540d45d693c25095c47b1623b",
+      "url": "5f/19/f428dcf6a3dc16d77d220986e4019ad63baf64f7188d92bbd2ca18100891/factiva-news-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "1d164a7849e581972d4129338310df056c52affc416300c32223950ee776245b",
+      "url": "2a/82/c461485e25b8d8447c9387a0639c39397d07581dc9fc784653b9c05b27ce/factiva-news-0.0.4.tar.gz"
+    }
+  },
   "faculty-pyte": {
     "0.0.0.dev0": {
       "sha256": "872d4dc73c0fdf6aae17916d2dc0e198558eb7234b28512975a483fd586976e3",
@@ -8163,6 +8181,10 @@
     "0.3.6": {
       "sha256": "44684ef73bd81b2a8a9f325261bd04851c42a3b900119dd2aa518af1019cf4a6",
       "url": "66/2a/94be4be79633e81295e4977faef13ab01c6ef7665d99bc406098d4d95fa7/frigidum-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "b336ad1933b0e80126f518fe93cfd46a4777e961a7f873b249f292fd56d2801a",
+      "url": "ff/6d/f5d54d489c556e18170ec01da004fbac2dd29fab52b6c20322af0d21f42d/frigidum-0.3.7.tar.gz"
     }
   },
   "frozenmap": {
@@ -9841,6 +9863,10 @@
     "2.0.4": {
       "sha256": "2eb9fd43ab7ef77a2f936b1d876eaa8e8052f0f18515dcac4c650026d8b16895",
       "url": "11/03/f2a69df982912e486c9bd24a731fd1d4734015f2b1d5df61a5147509e233/htrc-feature-reader-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "fa936db222e730fed0965fcda0748bc229f1939ff8be694e0d2436e234083526",
+      "url": "7a/e5/8d51cfb3a68b49dd34ec18e2065d7a1d61aba7ab377163f724183abcf9d8/htrc-feature-reader-2.0.5.tar.gz"
     }
   },
   "htsget": {
@@ -14427,6 +14453,10 @@
     "1.12.45.0": {
       "sha256": "eeec48cca92b16c5029142ce3a8d09441a28bd58512f4ee47594a186c7bcbb1b",
       "url": "8e/9f/3aff4e493ff57fe828c45f523e51baf134d74f889d70bdeaf96dfadb659b/mypy-boto3-kinesis-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "3a8f6eec4ad6ebb6c2f712b55670c07cf8eb5e3d322ab4cd967f0065d134e1b1",
+      "url": "bd/ac/4f6bd04d7842e57aa74cd28cc1b4b79208485e36acd02ffd1943d1c8a894/mypy-boto3-kinesis-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "0d5e48b287f02df56362c0398c25df950b72de0f99d1cedcb09b7a7214ede059",
@@ -20179,6 +20209,10 @@
     "1.6.0": {
       "sha256": "81fe3066f24fc2863da2f5090146028f6a11631378322e875eea6a77ef9d7a17",
       "url": "c3/68/54e975aab1ffbb5bd4d3ead0430ba40e78097e9d8cfd2fc021071319bc7d/renutil-1.6.0.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "c3d5ba8e1c1e0430d969e960e3c9fd1d926283bbd8467ff1fcb91d438b845460",
+      "url": "f4/83/64d66192b634da78d339774520b7312f4c780249a63d507a41fe9b837e42/renutil-1.7.0.tar.gz"
     }
   },
   "repoze.debug": {

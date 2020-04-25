@@ -14004,6 +14004,10 @@
       "sha256": "33520abb37f94bbd6efa60e4093bda5407c21dae770bc58a9d06fe749dd36a31",
       "url": "b1/f1/01dafab9e2eacc5e018d08e209f644ec751ff53249056bfee746a1e4eaef/mypy-boto3-sdb-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "7ef0c6fb14e95f86f41227103814f24a2547a32f94903a55f74d402b76551201",
+      "url": "cb/24/2ebdbdbe456eb40687d05684adc658d77f67f0c5e65d415df2579e53ca1e/mypy-boto3-sdb-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "bb0abda6bcc5334a28a7b00f1bf791b85fd5b582d17b327584fbb9743c9d2f37",
       "url": "4d/f3/05d8d71136f2c08e480ab3b34797cc697c394f479d0d839fc83a96b34305/mypy-boto3-sdb-1.12.5.0.tar.gz"
@@ -14521,6 +14525,10 @@
     "1.12.45.0": {
       "sha256": "61a3561eae3fa553485e00eff5e404d796ef644d32181b37ecfd9062200519dd",
       "url": "ca/02/bb75a1bccb941560094649109ac6c61db94d6f6af34748f54391eff6bd84/mypy-boto3-signer-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "e2e1543734922ad95df94cd9d10f8ac95da906cfc0e59dc3106827668232035c",
+      "url": "c5/42/b0b422a4fe305218248a4f4516879c2c77627d420594bc27153dcb87de37/mypy-boto3-signer-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5ad33cfafb1f64b9e58b752855999efcfe810238650da34cbdb19f705f66dcbd",
@@ -15945,6 +15953,10 @@
     "0.8.1": {
       "sha256": "5d15661fd97b09b0c60bd5bd4bfa0017de3346c6408af129a12771c23d379d53",
       "url": "e4/38/54fde928c272262a3590d24841e1b17ab68cbd6cfbad18ebe979a6b9a28e/nyan-0.8.1.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "d5710ec54ba956f58ef3088b5e647a949b537a4eed2d96f6ca5d39475f56f63f",
+      "url": "96/b4/5a974213b16a030ed08af842624f587f4a85e949fd95b0c247c91bb78c6f/nyan-0.9.0.tar.gz"
     }
   },
   "obol": {

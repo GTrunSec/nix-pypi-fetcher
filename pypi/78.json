@@ -6409,6 +6409,10 @@
     "0.7.0": {
       "sha256": "f2125e3df7268644183237f709902f644d75024a1df0af62c72c7e28620e816b",
       "url": "af/53/bbc5cd52671472d5b29d23d5533650775c563ad5638c75014cde10cc1734/django-sso-app-0.7.0.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "e0fd5561a0d0bdda9266487c5b8db926e56c7a00649380d221f36326d5e7c1dc",
+      "url": "47/36/4c58863203ede2dcbdad873e9354d683bbb77ebcd823138207a25fc0bc86/django-sso-app-0.7.3.tar.gz"
     }
   },
   "django-swagger-tester": {
@@ -7925,6 +7929,24 @@
     "0.1.0": {
       "sha256": "d91263052ab375b7837a707a67250d28a3ccfeca6936e0c69a24e8d1c9b1445b",
       "url": "0f/68/eb9bae24382f2cce3f01c8e1a6cf9fb1255c7372711b70260b1c74f0c504/fastgp-0.1.0.tar.gz"
+    }
+  },
+  "fastsom": {
+    "0.1.2": {
+      "sha256": "c6a259f70140cd28b2a16fa3fbf9b597151db9f0f08856d3065c8e850df9950a",
+      "url": "b7/f4/bc394bd1d8905298b9d00290578139b62763f04b2d28e677d4575c0976e2/fastsom-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "f15413e69ade97e6c18de3d16ca22779475fd3d008ae889b3b1617de2fb5b4cf",
+      "url": "6d/0d/f9e437f1e85b29ac8d2682d17dc5884c78c38b4b66d1648257cbbac8c62d/fastsom-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "7d1ce7c2122c430b2d39b3dfcb8c4b2976e4277f06513e9fdc34a0468dadb088",
+      "url": "81/5d/993082ea90cf0e8ed4da489fd316d08bf250e22c5a8d9a0b1851a235adc8/fastsom-0.1.4.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "aa26fa94f94b32283cb9ad0ee52535c2f63e054ab1a193212ed78df9cc208fe6",
+      "url": "46/10/1a451331e17f1667f3c51a8b3c1cb0ab3e64d0994cda299ae8676e0c82c9/fastsom-0.1.6.tar.gz"
     }
   },
   "fb-credentials": {
@@ -13700,9 +13722,9 @@
     }
   },
   "jugaad-trader": {
-    "0.0.0": {
-      "sha256": "cf81956d70f85bf4ce46fa5c3f7135cebc50eedf8c38c053e736993d0c22b065",
-      "url": "a2/d8/25da623837a3f777aa2d834571be2a22a6d1e06afe18c4f0f8c7b44f147a/jugaad-trader-0.0.0.tar.gz"
+    "0.10": {
+      "sha256": "fcd8945f648fff282b4aa958000a8d9d85f941f64c0c97dca614a5500fbb2977",
+      "url": "13/c2/f31a0ecfda7e2bd3087f5fd12a254a0fd79888b89bfecc2e0f4a320abdb5/jugaad-trader-0.10.tar.gz"
     }
   },
   "julialintbear": {
@@ -16336,6 +16358,10 @@
       "sha256": "e06dc82a44877508f0a5dfdc3d38e8c9f6ac7a2159afab07f1c61262f9d2781d",
       "url": "89/a1/f1905e1ee95251d6ab4ee9b7e5e378348b8c4d450e186afde14f80666b2b/nsgcli-1.0.44.tar.gz"
     },
+    "1.0.45": {
+      "sha256": "d4a083ff1de243589b33a95797b9f3a285ffe76b82b65f3328445f77438e8f93",
+      "url": "89/05/0c45e0494ffd52f48fecf8c80d3558265bbe36868bec538af52f7cb9a634/nsgcli-1.0.45.tar.gz"
+    },
     "1.0.5": {
       "sha256": "c856c7dc5593b58e7b31af42d544759cc61d4e60b640927711ecb665e275693f",
       "url": "d2/e0/b46fd58c379234f95f2e74acbfdc82a4b5929e6f5e67ffa1c0228cdcdbf8/nsgcli-1.0.5.tar.gz"
@@ -17177,6 +17203,10 @@
     "2.0.0.0rc2": {
       "sha256": "4c6947346c26584f884a24f5c939ea552167eccfe54dcede1017b575ff59eabf",
       "url": "63/ec/a6f2bede9566d0cd805f85cac2dbbf0c05eb95356723072543721512a1e0/openstack-placement-2.0.0.0rc2.tar.gz"
+    },
+    "3.0.0.0rc1": {
+      "sha256": "2a9fe3ad642872e707985dcc0921de637fb438bb2b1302ff075fd54be7a0e056",
+      "url": "52/33/30f03f53e6ebb4abd300fe6817875d1d77074271a7f231777444c5cb420c/openstack-placement-3.0.0.0rc1.tar.gz"
     }
   },
   "openxshareble": {

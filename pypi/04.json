@@ -1124,6 +1124,10 @@
       "sha256": "780704d774768c1dbef6be56f5d24b28767c6e8b2893ad9a45873f5ba82c0dc7",
       "url": "a4/d6/84bd3172a4bc0873e08683453de51d1f2e2e54e70549a16db1ae1479bb1b/aws-cdk.aws-elasticloadbalancingv2-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "fcf962f843990097262c16d77b2bfd8ac429454bf666dfcc68e65ac0e4777b50",
+      "url": "3e/91/8237fc179c75867fb16ad76d6c1c558f51687b23949bf8f6942bdea29c22/aws-cdk.aws-elasticloadbalancingv2-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "f42ad31d98ce154b6a76ec6068a7ff16a948b6421a0e98808f5a07ce881ec7f0",
       "url": "c7/e0/9b2846a4af31e3ae347d26a545f43f42d90e79ccaf92824a7d5c36bde001/aws-cdk.aws-elasticloadbalancingv2-1.4.0.tar.gz"
@@ -1377,6 +1381,10 @@
     "1.34.1": {
       "sha256": "5e48dc412dea64e9cc911b74fb3c419f30c9ae3a160de2c36f73c9009f0eede5",
       "url": "e2/54/a7339dabbb259e52dae7f696cdec91bb4639b30f0bdd42749e46b904c292/aws-cdk.aws-lambda-event-sources-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "4d7096889ea26e4a973b7bc7b3be88c09edb63c9e4b9734fce13086588501365",
+      "url": "33/20/85904695d6a6946ed983b71cd305421d74df5106a2d60d8e52198be384ff/aws-cdk.aws-lambda-event-sources-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "448c3309309a995a4fedeebf15a677ad3a935085ebe1001563354f92a413ae50",
@@ -9209,6 +9217,12 @@
       "url": "31/da/e487c6c0bfc8ff7bc85ba81b480334cb9cc03d5ac663ff0a59b9af69efb7/DIRestPlus-0.2.2.tar.gz"
     }
   },
+  "discord-logger": {
+    "1.0.0": {
+      "sha256": "353a88a289f248700fcd91a739868045a89e8e99ceddb35b65168173c7eadae4",
+      "url": "8e/7e/17ce8a809854c98a0c232f62de71913a1b5982856a27cc8fe3ae700d1ed7/discord-logger-1.0.0.tar.gz"
+    }
+  },
   "distex": {
     "0.5.9": {
       "sha256": "ed082c0276a311b62eb324a467bcd54b63fc51507859a166fd1757482ba94d85",
@@ -9643,6 +9657,10 @@
     "0.0.16": {
       "sha256": "bf7e1e4b557a833adee636570cbfec78bb3dc202d417a9b3b723e67cadb91a8d",
       "url": "b0/3b/184889c57e5af75bff18c69bdbd95c61657acc8ec2d1b2116c5ac8acbbd9/django-computedfields-0.0.16.tar.gz"
+    },
+    "0.0.17": {
+      "sha256": "14808d54a2ee7023594fb659684e55989c9a70b5fbb85ac8fcbd312c0a3c3eac",
+      "url": "c9/41/c633a5af1eff073ffb7d32bab670872c43a25a47818cc7550731d80135b4/django-computedfields-0.0.17.tar.gz"
     },
     "0.0.2": {
       "sha256": "960b62c470911c7c33c43aa7583e352c2f8c0a160f37b74f42fb661d6e2347c8",
@@ -11147,12 +11165,6 @@
     "1.3.0": {
       "sha256": "4fc28962116513497788d26ab6a82072c604b2d088fac4911bb738abe4d2f71c",
       "url": "c4/03/518f32b14c89c44cc00d756d859f1c11f3105edc325194cd631ab09f4419/dumb_nester-1.3.0.tar.gz"
-    }
-  },
-  "dummysetuptestapp": {
-    "1.0": {
-      "sha256": "d2269f0c3e5d5aefbb50ba9d1051b9aed77119ef5606fd6eddc235fd533d4215",
-      "url": "15/33/3f6456259bf244d1e0e838f6415f90c52f8b627cc72c649d9f846a51f18a/dummysetuptestapp-1.0.tar.gz"
     }
   },
   "dynamodb-mapper": {
@@ -19290,6 +19302,10 @@
       "sha256": "522af4fb1fbd09adf26f641c4606742cbadfd966147a844e955a042af00d1818",
       "url": "e0/37/b9120c5888be446c66724227805799bc8908296513f59c9da6bfb75fa754/mypy-boto3-codebuild-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "f388ba242c7c863485b5a94c6eca5533275703140b856739347912333a90b4b2",
+      "url": "84/4d/917ee42dc7e9697a8815adfa3434a5bfac37127d1510244b3ca5699976de/mypy-boto3-codebuild-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "f5ccef59a40b9dcd714b5af963c46b9af1a9d23d0b05f7a6adc5c28e2154edc0",
       "url": "be/7c/5e799b5f803a2e5c1af159b4ebc7478473e4dd0ac48be5741be736bb020e/mypy-boto3-codebuild-1.12.5.0.tar.gz"
@@ -19743,6 +19759,10 @@
     "1.12.45.0": {
       "sha256": "85b74767eafbd62641b895f1fa37269b50348abddc6078220082ba3dbf164fdc",
       "url": "84/3c/629feb3d827ed79ebdf0663699e636a28de55856260a578b4bbc70e6b888/mypy-boto3-outposts-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "ef360528acda894b1e12048756310db2dd32ae134bfffbb6fda6bb9ceef62917",
+      "url": "a1/f3/1d291d045f325da337d86b7b4f6f4af07f76a3ecaa95cc9a97093ca0b70f/mypy-boto3-outposts-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "9b1fd9cb2d2b428b4910098d27b49a70455956a22857c8aae424150bc56627ff",
@@ -22717,6 +22737,14 @@
     "0.7.1": {
       "sha256": "2d741ee81c05e26cd30863a44ae50465892b59a43f2a41a0d1d3c27ca985423e",
       "url": "2a/96/84fab5bcc5f188b6adcd319450f8193d75daab3fe310219e91d929b54379/ps_eor-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "ab6ef16055cc8b95d0c53865814dff9b49b80f87003124d66da2a545172aa5eb",
+      "url": "16/c1/9e5f29e647c1aa0586d51d6193bc1ac894c898e525cb920057ff8af72758/ps_eor-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "5fb393dfadd07f078f7028b32b934a088fb26dff2b8549406463a487936fcd35",
+      "url": "fb/00/0cab2a5997a03b1ccf79cf00f70ea1934ed0700b7342da586dcb65964c3a/ps_eor-0.7.3.tar.gz"
     }
   },
   "psltdsim": {
@@ -22930,13 +22958,109 @@
       "sha256": "542cdc327a3ef9c60b78cae8461fa3004aa4b198ac51d9230a42123301ace9bb",
       "url": "0d/e7/573baabc9906e46cbe2bd0a262d4b002dd512d11c36ca3a2d3c69fb2f1e8/pyazo_cli-0.1.1.tar.gz"
     },
+    "0.1.10": {
+      "sha256": "0756976b6a5d46901e6db755d782320b56ad972784e96990b3484e653471872a",
+      "url": "a0/b1/ec4307d4ead3475318bf05dbb0cbdfac7ef54cdc92fe76ce4973f22aa9ce/pyazo_cli-0.1.10.tar.gz"
+    },
+    "0.1.11": {
+      "sha256": "4fe61595e7c17e65be068a3ff799eba3c5f0b7b4e520a6b69753ed41c2034b9e",
+      "url": "9a/e4/fd850f6a298157f60d3010be2435e99c330857d8a9585aa75a954f3ae4ae/pyazo_cli-0.1.11.tar.gz"
+    },
+    "0.1.12": {
+      "sha256": "1ac0cf0ef51b2935a186d60d529395501603aa8f874b22879b1c217b9f556999",
+      "url": "49/1e/ce37f2e4fb6657380bc949ee276c71cc78ab0688f16a24277e98250cecfb/pyazo_cli-0.1.12.tar.gz"
+    },
+    "0.1.13": {
+      "sha256": "1abc5b38bf2033731f23af3d70b06a553a68e10406f714d622809b0e8fd345f9",
+      "url": "ae/22/534a85ef1f49fa9f75394e18d11b672954e29844781b28c35069dbb325cb/pyazo_cli-0.1.13.tar.gz"
+    },
+    "0.1.14": {
+      "sha256": "27fd289932166b7f08a7615726944ba1f8115f4278efafc3341cbf71ac534105",
+      "url": "01/cc/dac5425f36da3eb9b2d1cc2768320b6170b7f78c70da4ea7aaf38121e3f8/pyazo_cli-0.1.14.tar.gz"
+    },
+    "0.1.15": {
+      "sha256": "8d682b65935d2d55a90649ec62c2fcad2646a0e8a151f78e9b62adf7c8a441ff",
+      "url": "7c/d3/bb5c018bc79a769f86f473bc99e3ca4e2c0c6758a01698853895f6ba1d2e/pyazo_cli-0.1.15.tar.gz"
+    },
+    "0.1.16": {
+      "sha256": "6af9580cd20b9ccc266fe67717a41d7744a9f5d50be93f900900c4019f2f6182",
+      "url": "be/b8/75f10dcd47fac1d78939fd49152fbef0bcdc77ff17c1aac9a472cb53ac06/pyazo_cli-0.1.16.tar.gz"
+    },
+    "0.1.17": {
+      "sha256": "55452ab34d61edc36fb58f03fa043a6992d3b2553e6e3e4b2a72fb68b2e67ab3",
+      "url": "31/ac/e81c9d1da66a2a797ea47ab4c9f5480d95b732346e6e027e5d3448355966/pyazo_cli-0.1.17.tar.gz"
+    },
+    "0.1.18": {
+      "sha256": "2dc4b1c1b0cbea909ccc95e80de52fbf788c701315cb70bf70728000c58e01a5",
+      "url": "0d/18/1f88afb5f374c31838c40da648871bced081f51aaca95fd6cede16a6cfd3/pyazo_cli-0.1.18.tar.gz"
+    },
+    "0.1.19": {
+      "sha256": "309967aaff9b4d4431476b0a2fa4bfc216c7b9b12819a09c7634631520dda5bf",
+      "url": "64/95/ebb91242c01da9fc7a553cc73f9b44103849a9466679fd8e2701e83db8b3/pyazo_cli-0.1.19.tar.gz"
+    },
     "0.1.2": {
       "sha256": "b93b46b5a732916eae15559569e1616d0c58e40a3f5c2c585abddce775c0d06f",
       "url": "a2/f3/c1424a3ff245323c13832b7052e03af5dd12bca4e42e8f992b97c7924ed7/pyazo_cli-0.1.2.tar.gz"
     },
+    "0.1.20": {
+      "sha256": "15372477987958bb53e03259ea2af205c23ec2d29129be04a5022bd553bb4e3d",
+      "url": "ab/89/0e42b9e4241844b2a0a3643384a115fd675b82716b71c123da1058f0ddaf/pyazo_cli-0.1.20.tar.gz"
+    },
+    "0.1.21": {
+      "sha256": "e8d729d48ae9c798a512a2ac99420ae3ee78695d2ddb0fbe0cf29ae65e04aa20",
+      "url": "91/2f/666d104beadb4f4601e8ec77722930be686342daad2761b9b99c1748b233/pyazo_cli-0.1.21.tar.gz"
+    },
+    "0.1.22": {
+      "sha256": "7e01d708ed8ee601d43da942ef9482d144ce37408f4b5cc9abd768d0ad944d33",
+      "url": "4c/5f/61041c23a98f20078f22fafa5ff96b1a23fb06fefeec3442584e82dc3c5f/pyazo_cli-0.1.22.tar.gz"
+    },
+    "0.1.23": {
+      "sha256": "7388a0a1a69f5c0591319f5b68617fc4989c60a6f8e78a460b03daf69feab4ff",
+      "url": "ca/78/d53beed9047ffd5d30e51f8f8f0e29e88535291927102b487c140de76e20/pyazo_cli-0.1.23.tar.gz"
+    },
+    "0.1.24": {
+      "sha256": "23e35233c5a0bb17a6b5ae0320bd19fe373de9f73de7c0b10f27b298abfc7210",
+      "url": "58/72/05a3e381d7359e4ac6eaa6b82db52a1c87b84f5a9d0f157aaaeb4f9c9c1c/pyazo_cli-0.1.24.tar.gz"
+    },
+    "0.1.25": {
+      "sha256": "05ca0167bd5833dca872b5c6a1eca61f61b4ffb187b316c57ed470bb4e2e908d",
+      "url": "e7/cb/3c9883d561898df0f4371484c7b9331c753adf761aedfa84062616e67ea2/pyazo_cli-0.1.25.tar.gz"
+    },
+    "0.1.26": {
+      "sha256": "3f8a2a336ffa18f9a3c72226892008fd180e2956a2db92f9f3730524d5ad449a",
+      "url": "86/03/790ec83aadd2559af865ce105ee5a628255c6d8c4c3313586aea5d08f84d/pyazo_cli-0.1.26.tar.gz"
+    },
+    "0.1.27": {
+      "sha256": "280fb6d301854da1703ec9c4e125ca0d5d0101b7c6cc287dce276345af684b85",
+      "url": "e9/ec/56a389015dbe44201865a5b2814c8b9c09777b0cba8cad42adc11bcb9e7e/pyazo_cli-0.1.27.tar.gz"
+    },
+    "0.1.28": {
+      "sha256": "93846c91a83470e79cb9cd89463fdbe5d9826324127ce425740386e0180a6b08",
+      "url": "7e/0d/c0f76bd0ec40275a23e0554c393e6d707c77209ead63c96c92ac52836f17/pyazo_cli-0.1.28.tar.gz"
+    },
+    "0.1.29": {
+      "sha256": "6411f47337e836656b875066fe63b6be06cc3b6065bbb296abe57c326a8e30d4",
+      "url": "c2/b0/5d2b17af485cfa2f4ed3c6458622dd4f1686a68e5185e95f699c56259309/pyazo_cli-0.1.29.tar.gz"
+    },
     "0.1.3": {
       "sha256": "caf9a0898cedf5359da3e30139194cba26a512fc2aef06c82cbe375a40246544",
       "url": "32/9b/f5de5a9f82a4433bc3d2b7427c1a168b876bcc946617611764e3bf17b39f/pyazo_cli-0.1.3.tar.gz"
+    },
+    "0.1.30": {
+      "sha256": "b17f0d3b460128bd42d9463675842ed343218a67f88d31c842f2fb68d5f84ae7",
+      "url": "f7/66/b6d34f66f4b3329780652ff7baa1b43382575b17d20f77f81cd9955c20ec/pyazo_cli-0.1.30.tar.gz"
+    },
+    "0.1.31": {
+      "sha256": "1be5c26f5368ee9d7adac8a7f8b514dce4caae7ec319370ad0df0bd1230fbafc",
+      "url": "08/bf/8a67bc2cd75bf7b7932004e0dfa0fe5dcd348a4f50043c46ea05e4e203be/pyazo_cli-0.1.31.tar.gz"
+    },
+    "0.1.32": {
+      "sha256": "4b4c81e4dc37f040cd230c64289664fc056737da21528c5d69984d801a9a8aeb",
+      "url": "10/86/1b87dcfa0ca755516f5c6b98bd61291c038ef43d136afa5bde5dae1cd1bb/pyazo_cli-0.1.32.tar.gz"
+    },
+    "0.1.33": {
+      "sha256": "f4971ef21b52a3da1a5797ee991db260c780c1685edf932e264cc7a05da14fa3",
+      "url": "0d/41/15191477495dd2b3eb70b37c5c4d256f6d24c9205c037b51c73e05549a34/pyazo_cli-0.1.33.tar.gz"
     },
     "0.1.4": {
       "sha256": "b7cb2a849149533240eb2f27a527c09ab28dfbd9c09f09a7a940afe275f19e35",
@@ -22945,6 +23069,22 @@
     "0.1.5": {
       "sha256": "a29f007261dd4f6f6d67fd0792b39dc25ae29a6ab84ff95874072469f5eda6b5",
       "url": "c0/c8/e34422086d96d90b9daddad2f5a6594dc365a6231c56f6c6bc5c727dfce0/pyazo_cli-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "391c2f1759e12b0d09e5dd9d7719adb592e03448d878cb47b2328376aeb385a5",
+      "url": "6a/6f/674911837d03baf652e304a89e62eda1976ca940e6fe2f3bc29ed604033d/pyazo_cli-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "e340c800fcf17f6337016f56ecbb6d214e22b7b473f2c7d063fac64c493c2d77",
+      "url": "06/d0/32db8e269e7fce81dfba4a2d8a749cbca5d3834001968e19f56db29724dd/pyazo_cli-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "211ab6bb4418af01f6d797d4c508b09d97da83dfd0c53483f2b07168c50afdd8",
+      "url": "41/e1/9567ac41ebf0a1a4e7cc8a6bde682da4c93eeceea52c3624addcc60da415/pyazo_cli-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "f8d8466748ccbeb2edd7d7cdc8554ee213b4dcdc2eb0113291b24094a71d915f",
+      "url": "1e/6d/9e523b25714a4d2f1755d18585c508c1f46a7f681122ca40db8233bbe5f8/pyazo_cli-0.1.9.tar.gz"
     }
   },
   "pybdaq": {

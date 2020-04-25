@@ -14096,6 +14096,10 @@
       "sha256": "9e86bd7f130c87e258446db683e26a4bb0e23b0999ff41228ce1ac4bdcf37ebd",
       "url": "99/74/ffad662ec1881b7379c39e129e606a1e995643979c95654feb7a0ab1c25a/mypy-boto3-firehose-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "617ba569d60f7c02c834e08095e582e44f47960cc0c151c8d23e98851f2a7b2b",
+      "url": "b2/f4/154c19a72618487935c8d4828fc73a2d4dcd687d2910349098d98030553f/mypy-boto3-firehose-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ae1a8b284e5ffa9aa1413470bd291f8ff395274e787292ca639a6cf8623c4a46",
       "url": "12/1c/55463c390e1faed58962809d50834dadd37bc851f235f5bfd407ecee0d92/mypy-boto3-firehose-1.12.5.0.tar.gz"
@@ -14614,6 +14618,10 @@
       "sha256": "519adca85c2fbc14a4d09d1ae6308e2726587ceca662a69ffcf7c1cde7adebb5",
       "url": "89/c3/cfdfa68433c060b6fa5c90f7dcaea930715181b51a2d131debd88ee301ce/mypy-boto3-iot1click-projects-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "ad36c2006739fa553086aa12cc56fa07f81dd926ba7672410ddd2baf257c0bef",
+      "url": "e0/80/73f50f91374f4d289cb2b3b5f3ee7e3a8caf0ff259a7cee0b05aa9a53f67/mypy-boto3-iot1click-projects-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "64d534310534df070f21548c63dd92053868ce78c0d299ae4419c895b2e88270",
       "url": "fb/19/d1492c9bc4df3dae3e153cef40ac1a6a156feaa4cb3b9fddcbf3a02becf7/mypy-boto3-iot1click-projects-1.12.5.0.tar.gz"
@@ -15131,6 +15139,10 @@
     "1.12.45.0": {
       "sha256": "aa9b10fe1349daac1e85c1ba28d65fb799fa9273d38d92a8a49ee4580e64c964",
       "url": "ac/03/0101a51329ba7c6338f9e4977fbb5fed013bf7691658f0ad205ebe7b46b6/mypy-boto3-support-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "03dc60673067dadfd9b816930ca6b9585520618016a501423b70bc99b491f382",
+      "url": "7b/e7/f982f9b053cd32f7846943be587d140849a60cfa253d96e76dea0074805b/mypy-boto3-support-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "5d95b62e0bcd0a8a2245b87e5813a65f2e03861f4c28397bd7adcf9e15708211",
@@ -18981,6 +18993,10 @@
     "0.3.3": {
       "sha256": "6260a0a57e7113a186fdb80207779ff3a8b21d439e5b47400aee378ddc6362f1",
       "url": "49/97/f6f0ece02785b5db2a7c038dcf2cbd23f36dbfec0cf784dda0196e1aa5fd/pybader-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "a04129c91ac1bd6fececbdffb545cb7c8c2e69beedb7e8ec1de6e8d8618b73a7",
+      "url": "52/f4/cb952cd5c2035dafac05d851a365a0972b8111fc2191e95824a3af69b79f/pybader-0.3.4.tar.gz"
     }
   },
   "pybigwig": {

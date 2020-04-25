@@ -1548,6 +1548,10 @@
       "sha256": "bd10064ef9d3b40957ac5cf6d608cb8dfa347580fdc9232c38b7aa25f11fb7c7",
       "url": "10/d0/9740190c69bc0747700c31dd5fb66aa70ab467260ff92f9503776d908bdc/Automunge-3.80.tar.gz"
     },
+    "3.81": {
+      "sha256": "2e8b831821ff443e5e801d77253b04ceab506387c7ac9d048a106bbfcd4e8296",
+      "url": "31/f1/9eeaae89f313b89beef455722754f38a62d014fef9a4877e9f3c30469bba/Automunge-3.81.tar.gz"
+    },
     "3.9": {
       "sha256": "7dc9a35ebe1f1be83ceef7118fe1d663899d57e861900aa9cbc676273486558a",
       "url": "85/0d/5edac5ba64c19f21e5ad294c22df515aa3de266a8803b457f1cc8fc492e4/Automunge-3.9.tar.gz"

@@ -10315,6 +10315,10 @@
     "0.1.2": {
       "sha256": "a85c0319dae29639acd13ff40720e289a10c6d550adfc47dbb500737e1a8431a",
       "url": "64/30/85ede13ada85a826b8c5ffe003b66abdfc5724593791b3f063671741b1ea/kedro-static-viz-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "a3ff989bddb0fb8f0d2927a7c94e34a7d3ce80fce05a8524f40a28a058e422a8",
+      "url": "86/0f/fa31df08a8ca09dd0eabdc064035bbdca3a343eb9dde7c2a43ada2acd698/kedro-static-viz-0.1.3.tar.gz"
     }
   },
   "keras26models": {
@@ -14211,6 +14215,12 @@
     "1.34": {
       "sha256": "60f87a380f53682d8ac840614003481dc1280a9a8efa3da2269d65aa55cdf9b5",
       "url": "ac/b7/e9f4c63b20fa11551ac9413d6f21ef85f84fbf5dbc458c1e68a396698615/py-GSearch-API-1.34.tar.gz"
+    }
+  },
+  "py-postdmarc": {
+    "0.0.1": {
+      "sha256": "1805bbd211bf068ef1ca8b9c71a819ae67e7a291445e75d05a4f12078694d74b",
+      "url": "47/95/d4cceac526f21635589eabe7e94c8674734e08b329b0498ac0e768a6a604/py-postdmarc-0.0.1.tar.gz"
     }
   },
   "py-ryobi-gdo": {

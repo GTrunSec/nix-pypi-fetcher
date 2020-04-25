@@ -5067,6 +5067,10 @@
     "0.3.1": {
       "sha256": "a5741ea491a7f3e3491a67ff22e82b66e4ef2913ea2c12ebf9b99e6282ef4761",
       "url": "d7/2b/443badb11c0caa19eaf6e8102c14322a2bbe863188620fcd39a5465bc9d8/django-datadog-logger-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "1d47a73b0ef5a7d5d2da9c4e03f148e0e46b069917002b69e64c08da4cd382ff",
+      "url": "6f/8a/5d936b5eb42facb391673e828cf9febb8a467f45b406f553e0e0445ef076/django-datadog-logger-0.3.2.tar.gz"
     }
   },
   "django-default-dont-cache": {
@@ -12978,6 +12982,10 @@
       "sha256": "7909288e2863de1dd1a5755b3193c15779f1f308689287f821773543c40b296e",
       "url": "54/1a/663a70eb4922f6838b6e242a137c2a9b1936f8dc17b9f5e8b33c37a80d32/mypy-boto3-inspector-1.12.45.0.tar.gz"
     },
+    "1.12.46.0": {
+      "sha256": "bea6addb72b485a5fb55c184069f29da6c775b9c676f65617858975181281506",
+      "url": "78/8d/e02d7d65b094bf37a709c59737769b30a0185c220dfb81458c6047e8db42/mypy-boto3-inspector-1.12.46.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "03584df0145969d1576658dcfc94142bd7268645201b7061d2a90d5dcb74b347",
       "url": "ac/7c/b23e877857f4d5b809ee1cd6f778f455e1676d11ce1f758d18a8237be103/mypy-boto3-inspector-1.12.5.0.tar.gz"
@@ -18261,6 +18269,12 @@
     "9.6.0.0": {
       "sha256": "fc7cbf65ebfa97c6e9e3099732ce7fd035380792825a184571a71349aeac8ab6",
       "url": "42/f7/96cc3f01b6c74a2b45c3d087654a014082a1ea495b8019ae7a0a0e6ce7ce/rapidminer-9.6.0.0.tar.gz"
+    }
+  },
+  "ras": {
+    "0.1": {
+      "sha256": "3fcacbe45abe8e4cff5716a4900efd0c77eedcbb7e90ac7fd5bc5e619b6f6a3f",
+      "url": "9c/b1/321e4930d45938bad95d805772de4cf94e078667f572152e3aea874e4142/ras-0.1.tar.gz"
     }
   },
   "rawhdr": {

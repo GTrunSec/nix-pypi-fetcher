@@ -12127,6 +12127,10 @@
     "1.9.0": {
       "sha256": "9d55d02247135e12badca7ef2f61bbcf1970266713ff0f861de23671019e2d3f",
       "url": "d3/98/dc21cf5f130d22736c9d94c5852f9fa32791817ca14c95735f350f3c8c1f/heat-agents-1.9.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "8636a3cc3b707bffeb5c26cf62ec6f9d7d8d2212440c1f4f95c54d66e1b6fa15",
+      "url": "2f/21/11f54dc7d707d87c3565c32af56fabfdfeb53714bf360e5b5d1b4d92b1d0/heat-agents-2.0.0.tar.gz"
     }
   },
   "helloworld-judy2k": {
@@ -17933,6 +17937,10 @@
     "1.12.45.0": {
       "sha256": "0036e14a0178de0f618338a08784ec3e5035efdae418add48d29c51721da2d83",
       "url": "81/15/a2776e4be88d41da28ec77f5e4db0e44fbfc6d492cbea7ef4b1295acfe69/mypy-boto3-imagebuilder-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "4a43cd77e9bd9b52eb6af5a91b07653adf2cf7c11ddf3036d370f42d06f2f78c",
+      "url": "ca/27/85209505ad8a590879a7202e40323bd04b3d818a2ee4e2dce44790427728/mypy-boto3-imagebuilder-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "ab3b7889b2d825bc3c26ed846326b058b5ff6d5c86c9ba4e1a1ab267d62a210e",
@@ -26719,6 +26727,10 @@
     "1.1.1": {
       "sha256": "41b49d62648fe43d3299393abf177d4c36acb28d1b289365cda712241ceb9a37",
       "url": "90/7b/239505b7b220fb29356cd3a1cdb5f7d84c9942eeee25d9300955671a02f1/tfea-1.1.1.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "9ebdbc31ae07d4c7ac9a0f73c895023718a9e3cc1bcec6ccd1482c11c5dc7cae",
+      "url": "57/c9/1674c09c60567c6d96bedc1945eb85efc0106e9819d3bc3105b3374d302b/tfea-1.1.3.tar.gz"
     }
   },
   "theladder": {

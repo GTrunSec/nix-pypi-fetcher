@@ -1374,6 +1374,10 @@
       "sha256": "5ac18d58b7c7ee3f958d162bf896c3a5d2487ed522e76b0c23b15cfd020847e6",
       "url": "09/48/9e7c3bb574011e86a00ca748d64891ad8c12fcf98716ef6b2c9392379a0a/aws-cdk.aws-transfer-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "437f01668575e2288e9a28c8bd3c785b32425be0eb5371c42ee3b5db68a08774",
+      "url": "54/3c/021a6fe4328d760d20143a8ace72c6d70f38b79b28e64274ecccbf5f1ee8/aws-cdk.aws-transfer-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "a569e2d1978330cd98eb69322decd649c6c550276d4126287f3e10b30e50f2b7",
       "url": "e7/0f/29c4acaa9f27dd73d18c706eb461670f98b315827074e408cd7bf0a3dbb6/aws-cdk.aws-transfer-1.4.0.tar.gz"
@@ -1627,6 +1631,10 @@
     "1.34.1": {
       "sha256": "0486c92f7021556fcf70cac64a25e93c290814c6db0c32bcc52df85c1d30c3c5",
       "url": "2e/62/65df86774ee43281d89420fb704ec210500579897536ad71f2d5166d03f6/aws-cdk.aws-waf-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "8d4f7dcb8cd3f4678f1613c5478e539a2a60328b34abf399438e0aea9121529e",
+      "url": "2e/fb/523698bf99c0228a576452c99daf57dac9ab6cbb8c648916076e20779b48/aws-cdk.aws-waf-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "205be7a706bfa6e7f52bdad150071b974794c774bb9be2e1080b15a7a0d1338b",
@@ -19773,6 +19781,10 @@
     "1.3.0": {
       "sha256": "856debba698514cf69ef1322ac3f782d24dfa61043f131da9490e53b573a7458",
       "url": "a1/57/177ad446a5d4df09bc22e08a446a3fa136ba04730c41bd066c0a384f3469/smif-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "3d7a35dd0362a9d90dbbb52070034520a5dff02282a349399784444a82bf07b8",
+      "url": "65/b0/bf56c52558bf08e33ea5ed1592641775aeed22b016467b9334acb5d1e36d/smif-1.3.1.tar.gz"
     }
   },
   "smithery.recipe.miners": {
@@ -24039,6 +24051,10 @@
     "1.1.0": {
       "sha256": "ddfef147404512cf544fd31fdad7180a4a9ab63f367ca41b46ee3a670e56da01",
       "url": "10/c6/ba9df5295aac6ba8670ba32f85641ca8b9f0ffd88dea89506196b763d1a1/zzzeeksphinx-1.1.0.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "83b5a244b95ed589e4754cad36d3ba2450385c879b76d197d5b004f06a81ac24",
+      "url": "2c/5c/f7b22b3aa7fe8ee90a1266e920785d4678c94ca05cbca60489f34e64bcda/zzzeeksphinx-1.1.4.tar.gz"
     }
   }
 }

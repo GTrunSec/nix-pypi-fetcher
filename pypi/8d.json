@@ -15325,6 +15325,10 @@
     "0.1.4": {
       "sha256": "d88bcd8d6372db0b050dbb73822192549e579ca015f9845f67e2d94ab5548087",
       "url": "dd/cc/5ed7bf1c54662c0f3e05ebff3b2823504a6e12aa47cf8b2d7d73a36ff7db/MLgeometry-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "b38349a3179f0c44c07d8c16f2d9a46446131232a238d01aafc55ae614286022",
+      "url": "39/ad/2a1ad6f3422b2e146f5a0335c0224035e3052488fa632f89fd9c1bd9ce83/MLgeometry-0.1.5.tar.gz"
     }
   },
   "mngl": {
@@ -15665,6 +15669,10 @@
     "2.9.0": {
       "sha256": "fe43dd2914e5059691beec59041b5b7eb9b55b59ec191e3feeea7a9e52f9f0a5",
       "url": "c4/da/1c919f8cc6a6c12a75f8defecf51549a5e8a730c7c3eed5f57fc546c096d/monasca-agent-2.9.0.tar.gz"
+    },
+    "3.0.0.0rc1": {
+      "sha256": "6eba1640aa5991b92a03e03663cac0d9aca235c938b8b31cca6022ac752d131c",
+      "url": "ae/a2/536293d616a00dce8d48546291779874ec04b257c3d27c69806913a4d901/monasca-agent-3.0.0.0rc1.tar.gz"
     }
   },
   "money": {
@@ -16477,6 +16485,10 @@
     "1.12.45.0": {
       "sha256": "42507dfb953d12bdccfae3bcfc36a01c927d57c19fd3acb4519457942d302179",
       "url": "11/06/dc87594990416af2d7debce75f6fa81aa06f68c85c49f1f714641112adb4/mypy-boto3-pricing-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "0f821877c3e687830c2cbf681b15bb678ed7827d9811c8623136aff32f8434ff",
+      "url": "91/32/a562cdcb760a0904ee51aa22365bb4304a8cc27c4143180ec4faaf746825/mypy-boto3-pricing-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "346b089b9bdb46907bed379f0cb91c22e071f5857ab358c34d19105d0a6f4c7d",

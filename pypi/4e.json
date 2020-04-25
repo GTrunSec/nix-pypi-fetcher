@@ -1229,6 +1229,14 @@
     "0.1.0": {
       "sha256": "c45219686c85f45ab622fbb66457a5d469bd13fb47e82cc758bc7e94b30b4e2b",
       "url": "f3/ef/fd86a71cc9729127c0a170de964d4a51b161068dd7e781643e8e6500ab85/ariadne-extended-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "f82e2c82b1c50a9cd56bc13c9aad1dd256c1196122ae21bdbff90b076abbd319",
+      "url": "86/0e/ae00987ebfd65c4b6f30a10fcae33722e81bf3d41cd645aa9bffb65273a2/ariadne-extended-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "3bd07864b59f266607389e1582b07f6b6b40004f051c78e556044b4d3f714c3c",
+      "url": "0a/ce/bbb29b03faa9ab2530d983605f0c2d6fc11908c82367e01564e9bde60b06/ariadne-extended-0.1.2.tar.gz"
     }
   },
   "asr-evaluation": {
@@ -1724,6 +1732,10 @@
       "sha256": "170fdd10fd6072f10917964dbd09ef91558845b3a043be9d8767ea7a66208547",
       "url": "ba/b8/ead0e77f8e13a75d273941a0cac19347334a9499c6d91b5e7d7bc128986d/aws-cdk.aws-codedeploy-1.34.1.tar.gz"
     },
+    "1.35.0": {
+      "sha256": "72be3da8e613be9e3798b169b58c96df807b827c41cfad832ed724c3aaed5d4e",
+      "url": "83/89/1da7313bda8d12caf2b58debe5214680f0fe73e5f6d98a21e25d68bf3027/aws-cdk.aws-codedeploy-1.35.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "134416391a9281ba1b57d96101bb95229ac66381ac1aedb0157b854ecc26f907",
       "url": "16/f5/ad3b93051d074cdfb5284e777af9759f42eac12b956ba64048fac32a6d44/aws-cdk.aws-codedeploy-1.4.0.tar.gz"
@@ -1977,6 +1989,10 @@
     "1.34.1": {
       "sha256": "f851738db14501598d62cced18d1fe037d47fd31c87acee0e69a7904b4f31e46",
       "url": "19/87/a01744fdca8256c06245a8cafe4b8d9607efeb1a667bf2f53088258753ff/aws-cdk.aws-elasticsearch-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "115d6094857cc8368a24de1832cd906f9d40928aef817787cd871937bab33902",
+      "url": "21/14/0677f42369490b56973b29f1625a2f9f62b8176ef5714e00c3da375068a3/aws-cdk.aws-elasticsearch-1.35.0.tar.gz"
     },
     "1.4.0": {
       "sha256": "d7fcb6b151e95f6c8e53e7c23ea5390f9bfd776ea91231cb58ef30ebf21b3c2e",
@@ -3649,6 +3665,12 @@
     "0.0.0": {
       "sha256": "ce1822448c129020348087a72aac47f8ef42eeac7bdb0b3815d2d1760a890187",
       "url": "c1/1e/ea10b0f0ebfb9e80da0f921a49f8dbb92a96efcc8bc47d3e0897e74a11eb/coyote-0.0.0.tar.gz"
+    }
+  },
+  "cqi": {
+    "0.1": {
+      "sha256": "3af3779c40a31cd195bb18ef4edae1ac28fa15cc0c85690e58d757c968d13f5a",
+      "url": "bb/37/3fdbeaaa80eb5e6b7a1a577f01241d387bdfbb2c89d79947c8b5d143b79c/cqi-0.1.tar.gz"
     }
   },
   "crawl4us": {

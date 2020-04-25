@@ -1225,6 +1225,10 @@
     "1.34.1": {
       "sha256": "6a72ae70a6bcbe8459662fb2d0581fbec158f15728ff4f3c89eba84a265f65f4",
       "url": "45/ce/7367562de80b36ad6e9ba0dcff68373eb4c88048eadfc8a63ae9d6a24df0/aws-cdk.aws-codestarconnections-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "0e54f9208050bc90ba03fe5c312df780d76fd302d230701e081c84669961593b",
+      "url": "28/19/a6141838893bc8335fa4d882545c17f918ad66648ef734f5574299c80a3e/aws-cdk.aws-codestarconnections-1.35.0.tar.gz"
     }
   },
   "awssig": {
@@ -5639,6 +5643,10 @@
     "0.0.2": {
       "sha256": "e60b7b5fe82b9fde6f1f5d5947f2646831c157371f2310f86881724426f3edd6",
       "url": "0b/a5/3ebc4ab8ee972d978a1a210a660ff38d36f081227ca2dc785685a14a6fec/epsound-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "b3614ed5b62e78e078ba8a3107eafbb7d7041b6ded6835111105dc8596d3fb23",
+      "url": "02/23/fa1f0976d5d80d03ed773f30fd55081ffbeeb2c31d176d39978e486a5972/epsound-0.0.3.tar.gz"
     }
   },
   "err": {
@@ -10557,6 +10565,10 @@
     "1.0.0": {
       "sha256": "740cffb08b7410238720c109d4859db2eadeba8c18b07c470531b4e3d4351012",
       "url": "b5/71/b6953147f02c1414f93dd4223fb562399516184ce823db2a29f8e4e0f78c/mandate-1.0.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "9412646773bc5abf8bc4605fbf14a98a8899fecf06e60f0ec222429671094110",
+      "url": "9f/00/92859d16de3043506e3e89b54d4c57abdbb71a7e4d547e3fba829045f661/mandate-2.0.0.tar.gz"
     }
   },
   "maple-cluster-statsd": {
@@ -12809,6 +12821,10 @@
     "1.12.45.0": {
       "sha256": "75cc8218fd176a18b775abbd5cf24ae4fa96b05d0f9668def9ed32202d1a75eb",
       "url": "64/52/6e5d07b3e3a87d324c212ee9c8fedee04346fcf673e4c7a0a760bb78d1aa/mypy-boto3-codeguru-reviewer-1.12.45.0.tar.gz"
+    },
+    "1.12.46.0": {
+      "sha256": "b0b8d64025f3f4ef4355bf4f89503d49b9ee1957d11e0491f1035fbcdc097f62",
+      "url": "6c/9e/41f73ef56cb80ba75bcbf59f9bf989383855c5cd949bcbb8a20a30472677/mypy-boto3-codeguru-reviewer-1.12.46.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "431a231cdf566eb507af78ae1dfd3986857bcc62b8345493cc835af4a9371eef",
@@ -18066,6 +18082,10 @@
     }
   },
   "reuse": {
+    "0.10.0": {
+      "sha256": "f5eba74f8c4602c77634216494aef8cd6d0ed0b444925f95a0b9fda062e47cb6",
+      "url": "84/cc/664300e6112c0e72aacc34b2b1e7c49af90bea963d6cf06301587979d65c/reuse-0.10.0.tar.gz"
+    },
     "0.7.0": {
       "sha256": "931e591f790c1764598ad5a6a24fda25cfec66abd2e87516c5a532d93b12969b",
       "url": "e9/e8/487edae2dd78b6a0f85ee72ab438d8798314545df4f1a9f4b4786aef46ae/reuse-0.7.0.tar.gz"
@@ -20349,6 +20369,12 @@
       "url": "da/e3/db5d11c92b1364d39a9f0708ba8a9f5819e15820dc9ab6ee41f37dd23564/term2md-0.3.4.tar.gz"
     }
   },
+  "test-opendp-whitenoise": {
+    "0.1.0.1": {
+      "sha256": "68007dffe3008be4f8fa36d286b93aa2d63a836ecf0eb472430293a80239fbff",
+      "url": "28/7a/cfd8d2cec357aa13b6dea833c64c4cc72cf6b3a3bc133276e57aa84c9245/test-opendp-whitenoise-0.1.0.1.tar.gz"
+    }
+  },
   "texfigure": {
     "0.1": {
       "sha256": "a08610f991d612cea237d4cc1258224f32ab2b15be7290b3bceb1b67137f91d7",
@@ -21617,6 +21643,10 @@
     "0.0.1": {
       "sha256": "fa6ec3870058da903fa27d58834dd793665711010a8628dfb3f54ead82b19d56",
       "url": "4d/a4/42178dd6133d69827658f49dbfd5eb8cb4bab502479afd9b1f193f01f033/varmeth-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "f0e17d62503b3a076f115e83fa698098418801a166755bdb2166b6243f7b6438",
+      "url": "67/2b/4776db6a34291c85c1e08913ac3a09f4340de64212f96c0b55584970605d/varmeth-0.0.2.tar.gz"
     }
   },
   "virtualenvwrapper.basic": {

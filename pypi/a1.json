@@ -1834,6 +1834,10 @@
       "sha256": "c7646498311ccd8d00b4ce9dc2ca45055964fd31ac33840aabc7dddb04ad67eb",
       "url": "8e/7d/7de3f8271c4a55dee13904f3537b447b61091b278ba0dd7e0943fb873b8e/botostubs-0.12.1.12.43.tar.gz"
     },
+    "0.12.1.12.46": {
+      "sha256": "ea6b248b005fef773d2557d6568b826c9ca09afa0d1d0ebf4d30ac99886a66f8",
+      "url": "0d/e5/41ff8397435a0186fb8c8919710e7ee91f6e07d9450f81cfdb2ab21a7c8e/botostubs-0.12.1.12.46.tar.gz"
+    },
     "0.12.1.12.5": {
       "sha256": "38ebcfb49dc88f0e106bb9de6f4a4e44f4369073276d269ea03d7374c4bcb80b",
       "url": "f0/35/f833a75482d7e888f2ae8f67ebd438e06fecf43abb14136abe94c57c73f9/botostubs-0.12.1.12.5.tar.gz"
@@ -8371,6 +8375,20 @@
       "url": "72/7f/b7cd7048707b1c45026ed6abc60c1f2423dd3e64add83aa9b53e96ad338a/hela-utils-0.3.2.tar.gz"
     }
   },
+  "hello-test-rinki": {
+    "1.0.0": {
+      "sha256": "d8702fa85edf017d1b9ec63123050b19591af3d67f78278b2983563ffc8209fa",
+      "url": "83/01/22197560f07f7fd29a41c4d221ec58c9bb1d440e3c8847e6a803ef3d5586/hello_test_rinki-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "b3af05c1b61d0957ac689c8f1161055fc37a07218f7336e26c63501fa4850445",
+      "url": "48/72/30d3dfd685d1d205d80610e471226a48dc9a6283a195f9b141500049c294/hello_test_rinki-1.0.1.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "2a42360319307fe21667712b1042d63e3cddb943fe2a6bc1e2a72ab506ec6db2",
+      "url": "55/48/5beca50adab3a8b88b46f0be2944fd64caf749bb0eba5596bac2dccc2340/hello_test_rinki-1.0.3.tar.gz"
+    }
+  },
   "helpdeskbot": {
     "1.0.1": {
       "sha256": "ae5af90e45094783d8490fbe7cab0a75ee1266758f050ebd490c6e5bacf373ca",
@@ -12097,6 +12115,20 @@
     "0.2.2": {
       "sha256": "48163c2c03775c4904650bed40403d187602d90a958193f2c5458781be5dc970",
       "url": "44/c3/e6cfc400c01129d0950c8bc75371482d5ef94fcf0bd5408e2b4ddba770e3/octoconf-0.2.2.tar.gz"
+    }
+  },
+  "ofxstatement-otp": {
+    "0.0.1": {
+      "sha256": "bea3643376059d68a6079f00822cb7fad90e540e291317ac15008bec2b296880",
+      "url": "34/8d/d4d2fdb62d81bf3616e268d76d8b30e5aad4dbc71e4b8ab02706456c2ddc/ofxstatement-otp-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "98dc2c47124c048389bfb61919f390fcfe6ad7329099f0b6933ad1e2df440352",
+      "url": "91/85/808e61687e43dc83c8e89f79419ed32fbd0bf8356630bc1bd8bc11ed85da/ofxstatement-otp-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "92971ea7973249ef18fe9c8975feecea1ca030b5681836971b44d8c52baf9391",
+      "url": "3d/3d/c03b07d5de8f79ead3d30e77d666afd187229d43867067a17aeddca99945/ofxstatement-otp-0.0.3.tar.gz"
     }
   },
   "ohm": {

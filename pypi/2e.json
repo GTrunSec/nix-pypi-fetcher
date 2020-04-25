@@ -659,6 +659,10 @@
     "2020.3.3.0": {
       "sha256": "538239f894b726cc66da1754f49d615ac1c7e7b37272ab159f07889b611338b9",
       "url": "af/51/7631c06ae6a461865bbf0ff0940deb9467161e4c46b1ce5c4517ebc5cafe/amg-player-2020.3.3.0.tar.gz"
+    },
+    "2020.4.25.0": {
+      "sha256": "ded7c9d8df1d146179d2296571bc41eaa31a6210cec5663aed0e32f800d64dc7",
+      "url": "4a/41/87efad2e6c7cef192467d4f30ab93c6e326bd2eb9897bb5b4cb562d82b9b/amg-player-2020.4.25.0.tar.gz"
     }
   },
   "analytics-mayhem-adobe": {
@@ -14663,6 +14667,10 @@
     "0.3.0": {
       "sha256": "24ca36017b12a8198b4aa97d2a28f8ff0268fcd0648913c1575c12063eec5a88",
       "url": "3c/4f/6c093e1a5827bccb1da6cb30d7a22621dcabd640926eb6e2ad1766da1ad4/nondjango-storages-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "493f9d514eb75dfec0e7d45fe3f31d53292c9f5d1b11031a8bef80535d3f20c9",
+      "url": "79/77/d94605c76d04bfced9e2bee9d8f4552076c2431bb247a75183e71d8e96ee/nondjango-storages-0.3.1.tar.gz"
     }
   },
   "nosehtml": {
